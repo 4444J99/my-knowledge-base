@@ -1,0 +1,67 @@
+{
+  "version": "1.0.0",
+  "generated": "2026-01-07T15:42:16.341Z",
+  "totalUnits": 5,
+  "units": [
+    {
+      "id": "235628d7-7256-462f-8463-01fcc92ff1a7",
+      "title": "[Binary File] padavano_v_mdc__medical_accommodation__20231205__padavano_v_mdc...",
+      "type": "insight",
+      "category": "general",
+      "tags": [
+        "document",
+        "pdf",
+        "paragraph"
+      ],
+      "timestamp": "2024-02-20T12:57:22.000Z"
+    },
+    {
+      "id": "777c38e7-e856-4922-8aad-fb2d76641c0b",
+      "title": "[Binary File] padavano_v_mdc__medical_accommodation__20231206__padavano_v_mdc...",
+      "type": "insight",
+      "category": "general",
+      "tags": [
+        "document",
+        "pdf",
+        "paragraph"
+      ],
+      "timestamp": "2024-02-20T12:57:25.000Z"
+    },
+    {
+      "id": "19ca8d43-29b3-414e-b36e-611a22d13014",
+      "title": "[Binary File] padavano_v_mdc__medical_accommodation__unk__201712_tax_return_t...",
+      "type": "insight",
+      "category": "general",
+      "tags": [
+        "document",
+        "pdf",
+        "paragraph"
+      ],
+      "timestamp": "2021-01-05T22:14:15.000Z"
+    },
+    {
+      "id": "34e39d21-b0a9-4711-87c9-f541b6dc5212",
+      "title": "[Binary File] padavano_v_mdc__medical_accommodation__unk__201812_tax_return_t...",
+      "type": "insight",
+      "category": "general",
+      "tags": [
+        "document",
+        "pdf",
+        "paragraph"
+      ],
+      "timestamp": "2021-01-05T22:14:07.000Z"
+    },
+    {
+      "id": "e7b07dc8-1749-4259-b6a9-8af96b137c43",
+      "title": "[Binary File] padavano_v_mdc__medical_accommodation__unk__201912_tax_return_t...",
+      "type": "insight",
+      "category": "general",
+      "tags": [
+        "document",
+        "pdf",
+        "paragraph"
+      ],
+      "timestamp": "2021-01-05T22:13:45.000Z"
+    }
+  ]
+}
