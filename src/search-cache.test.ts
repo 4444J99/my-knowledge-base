@@ -2,7 +2,7 @@
  * Search Cache Tests - Comprehensive test suite for LRU caching with TTL
  */
 
-import { describe, it, expect, beforeEach, jest } from '@jest/globals';
+import { describe, it, expect, beforeEach } from 'vitest';
 import { SearchCache, createSearchCache } from './search-cache.js';
 
 describe('SearchCache', () => {

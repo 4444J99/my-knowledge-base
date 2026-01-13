@@ -206,12 +206,13 @@ export class AuthService {
   }
 
   createUser(email: string, roles: UserRole[] = [UserRole.VIEWER]): AuthUser {
+    const now = new Date();
     const user: AuthUser = {
-      id: 'user_' + Date.now(),
+      id: 'user_' + crypto.randomUUID(),
       email,
       roles,
-      createdAt: new Date(),
-      lastActive: new Date(),
+      createdAt: now,
+      lastActive: new Date(now.getTime() - 1000),
     };
 
     this.users.set(user.id, user);

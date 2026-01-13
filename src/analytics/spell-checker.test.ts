@@ -2,7 +2,7 @@
  * Spell Checker Tests - Comprehensive test suite for Levenshtein-based spell correction
  */
 
-import { describe, it, expect, beforeEach } from '@jest/globals';
+import { describe, it, expect, beforeEach } from 'vitest';
 import { SpellChecker } from './spell-checker.js';
 import Database from 'better-sqlite3';
 import { readFileSync } from 'fs';
