@@ -2,7 +2,7 @@
  * Search Analytics Tests - Comprehensive test suite for query tracking and analytics
  */
 
-import { describe, it, expect, beforeEach, afterEach } from '@jest/globals';
+import { describe, it, expect, beforeEach, afterEach } from 'vitest';
 import { SearchAnalyticsTracker } from './search-analytics.js';
 import Database from 'better-sqlite3';
 import { randomUUID } from 'crypto';

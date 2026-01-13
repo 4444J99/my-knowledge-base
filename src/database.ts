@@ -14,23 +14,27 @@ export class KnowledgeDatabase {
     this.initSchema();
   }
 
+  private hasAtomicUnitColumn(columnName: string): boolean {
+    const stmt = this.db.prepare('PRAGMA table_info(atomic_units)');
+    const columns = stmt.all() as Array<{ name: string }>;
+    return columns.some(col => col.name === columnName);
+  }
+
   private initSchema() {
     // Main atomic units table
     this.db.exec(`
       CREATE TABLE IF NOT EXISTS atomic_units (
         id TEXT PRIMARY KEY,
+        timestamp TIMESTAMP NOT NULL,
         type TEXT NOT NULL,
-        created TIMESTAMP NOT NULL,
+        created TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
         title TEXT NOT NULL,
         content TEXT NOT NULL,
         context TEXT,
         conversation_id TEXT,
         document_id TEXT,
         category TEXT,
-        embedding BLOB,
-        section_type TEXT,
-        hierarchy_level INTEGER,
-        parent_section_id TEXT
+        embedding BLOB
       );
 
       CREATE VIRTUAL TABLE IF NOT EXISTS units_fts USING fts5(
@@ -106,15 +110,35 @@ export class KnowledgeDatabase {
         filters TEXT,
         clicked_result TEXT
       );
+    `);
 
+    const ensureColumn = (name: string, definition: string) => {
+      if (!this.hasAtomicUnitColumn(name)) {
+        this.db.exec(`ALTER TABLE atomic_units ADD COLUMN ${name} ${definition}`);
+      }
+    };
+
+    ensureColumn('section_type', 'TEXT');
+    ensureColumn('hierarchy_level', 'INTEGER DEFAULT 0');
+    ensureColumn('parent_section_id', 'TEXT');
+    ensureColumn('tags', "TEXT DEFAULT '[]'");
+    ensureColumn('keywords', "TEXT DEFAULT '[]'");
+    ensureColumn('timestamp', 'TEXT');
+
+    this.db.exec(`
       CREATE INDEX IF NOT EXISTS idx_units_created ON atomic_units(created);
       CREATE INDEX IF NOT EXISTS idx_units_category ON atomic_units(category);
       CREATE INDEX IF NOT EXISTS idx_units_type ON atomic_units(type);
       CREATE INDEX IF NOT EXISTS idx_units_conversation ON atomic_units(conversation_id);
       CREATE INDEX IF NOT EXISTS idx_units_document ON atomic_units(document_id);
-      CREATE INDEX IF NOT EXISTS idx_parent_section ON atomic_units(parent_section_id);
-      CREATE INDEX IF NOT EXISTS idx_section_type ON atomic_units(section_type);
     `);
+
+    if (this.hasAtomicUnitColumn('parent_section_id')) {
+      this.db.exec('CREATE INDEX IF NOT EXISTS idx_parent_section ON atomic_units(parent_section_id)');
+    }
+    if (this.hasAtomicUnitColumn('section_type')) {
+      this.db.exec('CREATE INDEX IF NOT EXISTS idx_section_type ON atomic_units(section_type)');
+    }
 
     console.log('✅ Database schema initialized');
   }
@@ -157,21 +181,29 @@ export class KnowledgeDatabase {
   insertAtomicUnit(unit: AtomicUnit) {
     const insertUnit = this.db.prepare(`
       INSERT OR REPLACE INTO atomic_units
-      (id, type, created, title, content, context, conversation_id, document_id, category, embedding)
-      VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+      (id, timestamp, type, created, title, content, context, conversation_id, document_id, category, embedding, section_type, hierarchy_level, parent_section_id, tags, keywords)
+      VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
     `);
 
+    const unitTimestamp = unit.timestamp.toISOString();
+    const createdTimestamp = unitTimestamp;
     insertUnit.run(
       unit.id,
+      unitTimestamp,
       unit.type,
-      unit.timestamp.toISOString(),
+      createdTimestamp,
       unit.title,
       unit.content,
       unit.context,
       unit.conversationId || null,
       unit.documentId || null,
       unit.category,
-      unit.embedding ? Buffer.from(new Float32Array(unit.embedding).buffer) : null
+      unit.embedding ? Buffer.from(new Float32Array(unit.embedding).buffer) : null,
+      unit.sectionType || null,
+      typeof unit.hierarchyLevel === 'number' ? unit.hierarchyLevel : null,
+      unit.parentSectionId || null,
+      JSON.stringify(unit.tags || []),
+      JSON.stringify(unit.keywords || [])
     );
 
     this.insertTags(unit.id, unit.tags);
@@ -298,6 +330,33 @@ export class KnowledgeDatabase {
     `);
 
     const countResult = countStmt.get(query) as { count: number };
+    if (countResult.count === 0) {
+      const searchTerm = `%${query}%`;
+      const fallbackCountStmt = this.db.prepare(`
+        SELECT COUNT(*) as count FROM atomic_units
+        WHERE title LIKE ? OR content LIKE ?
+      `);
+      const fallbackRowsStmt = this.db.prepare(`
+        SELECT * FROM atomic_units
+        WHERE title LIKE ? OR content LIKE ?
+        ORDER BY created DESC
+        LIMIT ? OFFSET ?
+      `);
+
+      const fallbackCount = fallbackCountStmt.get(searchTerm, searchTerm) as { count: number };
+      const fallbackRows = fallbackRowsStmt.all(
+        searchTerm,
+        searchTerm,
+        limit,
+        offset
+      ) as any[];
+
+      return {
+        results: fallbackRows.map(this.rowToAtomicUnit.bind(this)),
+        total: fallbackCount.count
+      };
+    }
+
     const rows = searchStmt.all(query, limit, offset) as any[];
 
     return {

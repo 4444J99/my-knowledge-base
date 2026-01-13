@@ -2,7 +2,8 @@
  * Query Suggestion Engine Tests - Autocomplete and suggestion ranking
  */
 
-import { describe, it, expect, beforeEach } from '@jest/globals';
+import { describe, it, expect, beforeEach } from 'vitest';
+const NULL = null;
 import { QuerySuggestionEngine } from './query-suggestions.js';
 import Database from 'better-sqlite3';
 import { randomUUID } from 'crypto';

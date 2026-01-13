@@ -9,6 +9,7 @@ import Database from 'better-sqlite3';
 export interface SuggestionResult {
   text: string;
   type: 'query' | 'tag' | 'keyword' | 'title';
+  source: 'query' | 'tag' | 'keyword' | 'title';
   score: number;
   metadata?: {
     frequency?: number;
@@ -30,43 +31,57 @@ const SOURCE_WEIGHTS = {
 export class QuerySuggestionEngine {
   private db: Database.Database;
 
-  constructor(dbPath: string = './db/knowledge.db') {
-    this.db = new Database(dbPath);
+  constructor(dbPathOrInstance: string | Database.Database = './db/knowledge.db') {
+    this.db =
+      typeof dbPathOrInstance === 'string' ? new Database(dbPathOrInstance) : dbPathOrInstance;
+  }
+
+  private normalizeText(value: string): string {
+    return value ? value.trim().replace(/\s+/g, ' ') : value;
   }
 
   /**
    * Generate suggestions for partial query
    */
   generateSuggestions(prefix: string, limit: number = 10): SuggestionResult[] {
-    if (prefix.length < 1) {
+    const trimmed = prefix.trim();
+    if (trimmed.length < 1) {
       return [];
     }
 
-    const likePrefix = prefix + '%';
+    const normalizedPrefix = trimmed.toLowerCase();
+    const likePrefix = normalizedPrefix + '%';
     const suggestions: Map<string, SuggestionResult> = new Map();
 
     // 1. Get previous queries (40% weight)
     const queryMatches = this.getPreviousQueries(likePrefix, limit);
     for (const q of queryMatches) {
-      const key = q.toLowerCase();
+      const key = q.suggestion.toLowerCase();
       if (!suggestions.has(key)) {
         suggestions.set(key, {
-          text: q,
+          text: this.normalizeText(q.suggestion),
           type: 'query',
-          score: SOURCE_WEIGHTS.query * (1 + Math.log(1 + 1) / 10),
-          metadata: {}
+          source: 'query',
+          score:
+            SOURCE_WEIGHTS.query *
+            (1 + Math.log(1 + (q.frequency || 0)) / 10),
+          metadata: {
+            frequency: q.frequency,
+            lastUsed: q.last_used
+          }
         });
       }
     }
 
     // 2. Get tags (30% weight)
-    const tagMatches = this.getTags(likePrefix, limit);
+    const tagMatches = this.getTags(normalizedPrefix, limit);
     for (const tag of tagMatches) {
       const key = tag.toLowerCase();
       if (!suggestions.has(key)) {
         suggestions.set(key, {
-          text: tag,
+          text: this.normalizeText(tag),
           type: 'tag',
+          source: 'tag',
           score: SOURCE_WEIGHTS.tag,
           metadata: {}
         });
@@ -74,13 +89,14 @@ export class QuerySuggestionEngine {
     }
 
     // 3. Get keywords (20% weight)
-    const keywordMatches = this.getKeywords(likePrefix, limit);
+    const keywordMatches = this.getKeywords(normalizedPrefix, limit);
     for (const kw of keywordMatches) {
       const key = kw.toLowerCase();
       if (!suggestions.has(key)) {
         suggestions.set(key, {
-          text: kw,
+          text: this.normalizeText(kw),
           type: 'keyword',
+          source: 'keyword',
           score: SOURCE_WEIGHTS.keyword,
           metadata: {}
         });
@@ -88,13 +104,14 @@ export class QuerySuggestionEngine {
     }
 
     // 4. Get title suggestions (10% weight)
-    const titleMatches = this.getTitles(likePrefix, limit);
+    const titleMatches = this.getTitles(normalizedPrefix, limit);
     for (const title of titleMatches) {
       const key = title.toLowerCase();
       if (!suggestions.has(key)) {
         suggestions.set(key, {
-          text: title,
+          text: this.normalizeText(title),
           type: 'title',
+          source: 'title',
           score: SOURCE_WEIGHTS.title,
           metadata: {}
         });
@@ -110,17 +127,26 @@ export class QuerySuggestionEngine {
   /**
    * Get previous queries matching prefix
    */
-  private getPreviousQueries(prefix: string, limit: number): string[] {
+  private getPreviousQueries(prefix: string, limit: number): Array<{
+    suggestion: string;
+    frequency: number;
+    last_used: string;
+  }> {
     try {
       const stmt = this.db.prepare(`
-        SELECT DISTINCT query FROM query_suggestions
+        SELECT DISTINCT suggestion, frequency, last_used
+        FROM query_suggestions
         WHERE normalized LIKE ?
         ORDER BY frequency DESC
         LIMIT ?
       `);
 
-      const results = stmt.all(prefix.toLowerCase() + '%', limit) as Array<{ query: string }>;
-      return results.map(r => r.query || '');
+      const results = stmt.all(prefix, limit) as Array<{
+        suggestion: string;
+        frequency: number;
+        last_used: string;
+      }>;
+      return results;
     } catch {
       return [];
     }
@@ -133,12 +159,12 @@ export class QuerySuggestionEngine {
     try {
       const stmt = this.db.prepare(`
         SELECT DISTINCT name FROM tags
-        WHERE name LIKE ?
+        WHERE LOWER(name) LIKE ?
         ORDER BY name
         LIMIT ?
       `);
 
-      const results = stmt.all(prefix, limit) as Array<{ name: string }>;
+      const results = stmt.all(prefix + '%', limit) as Array<{ name: string }>;
       return results.map(r => r.name);
     } catch {
       return [];
@@ -152,12 +178,12 @@ export class QuerySuggestionEngine {
     try {
       const stmt = this.db.prepare(`
         SELECT DISTINCT keyword FROM keywords
-        WHERE keyword LIKE ?
+        WHERE LOWER(keyword) LIKE ?
         ORDER BY keyword
         LIMIT ?
       `);
 
-      const results = stmt.all(prefix, limit) as Array<{ keyword: string }>;
+      const results = stmt.all(prefix + '%', limit) as Array<{ keyword: string }>;
       return results.map(r => r.keyword);
     } catch {
       return [];
@@ -171,12 +197,12 @@ export class QuerySuggestionEngine {
     try {
       const stmt = this.db.prepare(`
         SELECT DISTINCT title FROM atomic_units
-        WHERE title LIKE ?
+        WHERE LOWER(title) LIKE ?
         ORDER BY created DESC
         LIMIT ?
       `);
 
-      const results = stmt.all(prefix, limit) as Array<{ title: string }>;
+      const results = stmt.all(prefix + '%', limit) as Array<{ title: string }>;
       return results.map(r => r.title);
     } catch {
       return [];
@@ -202,6 +228,56 @@ export class QuerySuggestionEngine {
       stmt.run(suggestion, normalized, now, source, now);
     } catch (error) {
       logger.error('Failed to save suggestion: ' + error);
+    }
+  }
+
+  recordSuggestionUsed(suggestion: string): void {
+    try {
+      const normalized = suggestion.toLowerCase();
+      const now = new Date().toISOString();
+      const stmt = this.db.prepare(`
+        UPDATE query_suggestions
+        SET frequency = frequency + 1,
+            last_used = ?
+        WHERE normalized = ?
+      `);
+
+      stmt.run(now, normalized);
+    } catch (error) {
+      logger.error('Failed to record suggestion usage: ' + error);
+    }
+  }
+
+  cleanupOldSuggestions(daysToKeep: number = 30): number {
+    return this.cleanup(daysToKeep);
+  }
+
+  expandQuery(prefix: string): string {
+    const suggestions = this.generateSuggestions(prefix, 1);
+    if (suggestions.length > 0) {
+      return suggestions[0].text;
+    }
+    return prefix;
+  }
+
+  getRelatedQueries(query: string, limit: number = 5): string[] {
+    try {
+      const normalized = query.toLowerCase() + '%';
+      const stmt = this.db.prepare(`
+        SELECT suggestion FROM query_suggestions
+        WHERE normalized LIKE ? AND normalized != ?
+        ORDER BY frequency DESC
+        LIMIT ?
+      `);
+
+      const rows = stmt.all(normalized, query.toLowerCase(), limit) as Array<{
+        suggestion: string;
+      }>;
+
+      return rows.map(r => r.suggestion);
+    } catch (error) {
+      logger.error('Failed to get related queries: ' + error);
+      return [];
     }
   }
 

@@ -26,8 +26,9 @@ export interface SearchQuery {
 export class SearchAnalyticsTracker {
   private db: Database.Database;
 
-  constructor(dbPath: string = './db/knowledge.db') {
-    this.db = new Database(dbPath);
+  constructor(dbPathOrInstance: string | Database.Database = './db/knowledge.db') {
+    this.db =
+      typeof dbPathOrInstance === 'string' ? new Database(dbPathOrInstance) : dbPathOrInstance;
   }
 
   /**
@@ -36,14 +37,20 @@ export class SearchAnalyticsTracker {
   trackQuery(options: {
     query: string;
     searchType: 'fts' | 'semantic' | 'hybrid';
-    latencyMs: number;
-    resultCount: number;
+    latencyMs?: number;
+    latency?: number;
+    resultCount?: number;
     userSession?: string;
     filters?: Record<string, any>;
-  }): void {
+  }): string | null {
     try {
-      const normalized = options.query.toLowerCase().trim();
+      const normalized = options.query
+        .toLowerCase()
+        .trim()
+        .replace(/\s+/g, ' ');
       const id = 'query_' + Date.now() + '_' + Math.random().toString(36).substr(2, 9);
+      const latencyMs = options.latencyMs ?? options.latency ?? 0;
+      const resultCount = options.resultCount ?? 0;
 
       const stmt = this.db.prepare(`
         INSERT INTO search_queries
@@ -57,15 +64,17 @@ export class SearchAnalyticsTracker {
         normalized,
         options.searchType,
         new Date().toISOString(),
-        options.latencyMs,
-        options.resultCount,
+        latencyMs,
+        resultCount,
         options.userSession || null,
         options.filters ? JSON.stringify(options.filters) : null
       );
 
       logger.debug('Tracked search: ' + options.searchType + ' query: ' + options.query);
+      return id;
     } catch (error) {
       logger.error('Failed to track query: ' + error);
+      return null;
     }
   }
 
@@ -87,14 +96,18 @@ export class SearchAnalyticsTracker {
   /**
    * Get popular queries in time window
    */
-  getPopularQueries(days: number = 7, limit: number = 20): Array<{
+  getPopularQueries(options: { windowDays?: number; limit?: number } = {}): Array<{
     query: string;
     count: number;
     avgLatency: number;
     avgResults: number;
   }> {
     try {
-      const minDate = new Date(Date.now() - days * 24 * 60 * 60 * 1000).toISOString();
+      const windowDays = options.windowDays ?? 7;
+      const limit = options.limit ?? 20;
+      const minDate = new Date(
+        Date.now() - windowDays * 24 * 60 * 60 * 1000
+      ).toISOString();
 
       const stmt = this.db.prepare(`
         SELECT
@@ -191,6 +204,61 @@ export class SearchAnalyticsTracker {
         avgLatency: 0,
         avgResults: 0,
         byType: {}
+      };
+    }
+  }
+
+  /**
+   * Get query metrics for a window
+   */
+  getQueryMetrics(options: { windowDays?: number } = {}): {
+    totalQueries: number;
+    avgLatency: number;
+    bySearchType: Record<string, number>;
+  } {
+    try {
+      const windowDays = options.windowDays ?? 7;
+      const minDate = new Date(Date.now() - windowDays * 24 * 60 * 60 * 1000).toISOString();
+
+      const totalStmt = this.db.prepare(`
+        SELECT COUNT(*) as total, AVG(latency_ms) as avgLatency
+        FROM search_queries
+        WHERE timestamp >= ?
+      `);
+
+      const totalResult = totalStmt.get(minDate) as {
+        total: number;
+        avgLatency: number;
+      };
+
+      const byTypeStmt = this.db.prepare(`
+        SELECT search_type, COUNT(*) as count
+        FROM search_queries
+        WHERE timestamp >= ?
+        GROUP BY search_type
+      `);
+
+      const typeRows = byTypeStmt.all(minDate) as Array<{
+        search_type: string;
+        count: number;
+      }>;
+
+      const bySearchType: Record<string, number> = {};
+      for (const row of typeRows) {
+        bySearchType[row.search_type] = row.count;
+      }
+
+      return {
+        totalQueries: totalResult.total ?? 0,
+        avgLatency: totalResult.avgLatency ?? 0,
+        bySearchType
+      };
+    } catch (error) {
+      logger.error('Failed to get query metrics: ' + error);
+      return {
+        totalQueries: 0,
+        avgLatency: 0,
+        bySearchType: {}
       };
     }
   }
