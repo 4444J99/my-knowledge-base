@@ -32,9 +32,9 @@ Phase 5 transforms the system from a "Claude Archive" into a universal **Federat
 ## 📋 Exhaustive Todo List
 
 ### 🔌 Adapters & Data Ingestion
-- [ ] **PDF Support (Critical):**
-    - [ ] Install `pdf-parse` or `pdf.js-extract`.
-    - [ ] Implement text extraction logic in `LocalFileSource`.
+- [x] **PDF Support (Critical):**
+    - [x] Install `pdf-parse` or `pdf.js-extract`.
+    - [x] Implement text extraction logic in `LocalFileSource`.
     - [ ] *Bonus:* OCR integration (Tesseract) for scanned docs (like `padavano-mdc`).
 - [ ] **Apple Notes Adapter:**
     - [ ] Create JXA (JavaScript for Automation) script to export Notes to JSON.
@@ -47,17 +47,17 @@ Phase 5 transforms the system from a "Claude Archive" into a universal **Federat
     - [ ] **Gemini:** Implement Playwright scraper for `aistudio.google.com`.
 
 ### 🧠 Intelligence & Atomization
-- [ ] **Smart Chunking:**
-    - [ ] Upgrade `KnowledgeAtomizer` to split long Documents by H1/H2 headers.
-    - [ ] Implement sliding window chunking for unstructured text files.
-- [ ] **Multimedia Handling:**
-    - [ ] Detect images in Markdown/HTML and store references.
+- [x] **Smart Chunking:**
+    - [x] Upgrade `KnowledgeAtomizer` to split long Documents by H1/H2 headers.
+    - [x] Implement sliding window chunking for unstructured text files.
+- [x] **Multimedia Handling:**
+    - [x] Detect images in Markdown/HTML and store references.
     - [ ] (Future) Vision API to caption images during ingestion.
 
 ### ⚙️ Infrastructure & Ops
-- [ ] **Real-Time Watcher:**
-    - [ ] Install `chokidar`.
-    - [ ] Update `LocalFileSource` to support `watch_mode: true` (incremental updates without full re-scan).
+- [x] **Real-Time Watcher:**
+    - [x] Install `chokidar`.
+    - [x] Update `LocalFileSource` to support `watch_mode: true` (incremental updates without full re-scan).
 - [ ] **Vector Database:**
     - [ ] Verify embeddings generation for new Document types.
     - [ ] Tune chunk size for Documents vs Chats.

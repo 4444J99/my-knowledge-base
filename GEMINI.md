@@ -22,8 +22,10 @@ This project is a sophisticated knowledge management tool that transforms raw co
 - **Federated Knowledge System (Phase 5):** The system has transitioned to a "Zero-Copy" architecture.
     - **Configuration:** `config/sources.yaml` manages "Watch Roots" (Local, Dropbox, iCloud).
     - **Ingestion:** `LocalFileSource` indexes files in-place using stable path hashes.
+    - **PDF Support:** Implemented `pdf-parse` for text extraction from binary files.
+    - **Real-Time Watcher:** Implemented `chokidar` for live updates (`npm run watch`).
     - **Status:** Dropbox `padavano-mdc` indexed successfully (26 docs). `Local Projects` scanned.
-    - **Next:** PDF Parsing, Real-time Watchers (`chokidar`), and Semantic Search verification.
+    - **Next:** Semantic Search verification, Apple Notes Adapter.
 - A Cigna medical document was recovered from local Documents and is staged in 'production/rolling_submissions/B02_MEDICAL'.
 - An Omni-Search was completed across iCloud, local directories, and Mail.app, resulting in 78 prioritized medical email leads and 'key' files dropped in all visited directories for future sorting.
 
