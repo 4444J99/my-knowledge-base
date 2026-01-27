@@ -40,7 +40,8 @@ describe('ConversationSummarizer', () => {
           'Virtualization is better for continuous scrolling. Pagination is good for traditional navigation.',
       },
     ],
-    timestamp: new Date(),
+    created: new Date(),
+    artifacts: [],
   };
 
   const mockSummaryResponse: ConversationSummary = {

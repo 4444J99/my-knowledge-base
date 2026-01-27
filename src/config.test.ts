@@ -52,20 +52,20 @@ describe('ConfigManager', () => {
       const manager = new ConfigManager(configPath);
       const config = manager.getConfig();
 
-      expect(config.export.headless).toBe(false);
-      expect(config.export.maxRetries).toBe(5);
+      expect(config.export!.headless).toBe(false);
+      expect(config.export!.maxRetries).toBe(5);
     });
 
     it('should save JSON configuration', () => {
       const manager = new ConfigManager(configPath);
       const config = manager.getConfig();
-      config.export.headless = false;
+      config.export!.headless = false;
 
       manager.saveConfig(config);
 
       const manager2 = new ConfigManager(configPath);
       const loaded = manager2.getConfig();
-      expect(loaded.export.headless).toBe(false);
+      expect(loaded.export!.headless).toBe(false);
     });
 
     it('should merge custom config with defaults', () => {
@@ -78,7 +78,7 @@ describe('ConfigManager', () => {
       const config = manager.getConfig();
 
       // Should have custom value
-      expect(config.export.headless).toBe(true);
+      expect(config.export!.headless).toBe(true);
       // Should have default values for missing properties
       expect(config.embedding).toBeDefined();
       expect(config.claude).toBeDefined();
@@ -100,9 +100,9 @@ embedding:
       const manager = new ConfigManager(yamlPath);
       const config = manager.getConfig();
 
-      expect(config.export.headless).toBe(true);
-      expect(config.export.navigationTimeoutMs).toBe(60000);
-      expect(config.embedding.model).toBe('text-embedding-3-large');
+      expect(config.export!.headless).toBe(true);
+      expect(config.export!.navigationTimeoutMs).toBe(60000);
+      expect(config.embedding!.model).toBe('text-embedding-3-large');
 
       unlinkSync(yamlPath);
     });
@@ -125,32 +125,32 @@ embedding:
       const manager = new ConfigManager(configPath);
       const config = manager.getConfig();
 
-      expect(config.export.headless).toBeTypeOf('boolean');
-      expect(config.export.maxRetries).toBeTypeOf('number');
-      expect(config.export.navigationTimeoutMs).toBeTypeOf('number');
+      expect(config.export!.headless).toBeTypeOf('boolean');
+      expect(config.export!.maxRetries).toBeTypeOf('number');
+      expect(config.export!.navigationTimeoutMs).toBeTypeOf('number');
     });
 
     it('should validate embedding config', () => {
       const manager = new ConfigManager(configPath);
       const config = manager.getConfig();
 
-      expect(config.embedding.model).toBeTypeOf('string');
-      expect(config.embedding.batchSize).toBeTypeOf('number');
+      expect(config.embedding!.model).toBeTypeOf('string');
+      expect(config.embedding!.batchSize).toBeTypeOf('number');
     });
 
     it('should validate claude config', () => {
       const manager = new ConfigManager(configPath);
       const config = manager.getConfig();
 
-      expect(config.claude.model).toBeTypeOf('string');
-      expect(config.claude.maxTokens).toBeTypeOf('number');
+      expect(config.claude!.model).toBeTypeOf('string');
+      expect(config.claude!.maxTokens).toBeTypeOf('number');
     });
 
     it('should validate database config', () => {
       const manager = new ConfigManager(configPath);
       const config = manager.getConfig();
 
-      expect(config.database.path).toBeTypeOf('string');
+      expect(config.database!.path).toBeTypeOf('string');
     });
 
     it('should validate API config', () => {
@@ -158,8 +158,8 @@ embedding:
       const config = manager.getConfig();
 
       expect(config.api).toBeDefined();
-      if (config.api.openai) {
-        expect(config.api.openai.model).toBeTypeOf('string');
+      if ((config.api as any)?.openai) {
+        expect((config.api as any).openai.model).toBeTypeOf('string');
       }
     });
   });
@@ -180,41 +180,41 @@ embedding:
       manager.saveConfig(updated);
       const loaded = manager.getConfig();
 
-      expect(loaded.export.headless).toBe(false);
+      expect(loaded.export!.headless).toBe(false);
     });
 
     it('should update nested configuration', () => {
       const manager = new ConfigManager(configPath);
       const config = manager.getConfig();
 
-      config.embedding.batchSize = 50;
+      config.embedding!.batchSize = 50;
       manager.saveConfig(config);
 
       const loaded = manager.getConfig();
-      expect(loaded.embedding.batchSize).toBe(50);
+      expect(loaded.embedding!.batchSize).toBe(50);
     });
   });
 
   describe('Default Configuration', () => {
     it('should have sensible defaults', () => {
-      expect(DEFAULT_CONFIG.export.headless).toBe(true);
-      expect(DEFAULT_CONFIG.embedding.model).toBe('text-embedding-3-small');
-      expect(DEFAULT_CONFIG.claude.model).toBe('claude-3-5-sonnet-20241022');
+      expect(DEFAULT_CONFIG.export!.headless).toBe(true);
+      expect(DEFAULT_CONFIG.embedding!.model).toBe('text-embedding-3-small');
+      expect(DEFAULT_CONFIG.claude!.model).toBe('claude-3-5-sonnet-20241022');
     });
 
     it('should have timeout values', () => {
-      expect(DEFAULT_CONFIG.export.navigationTimeoutMs).toBeGreaterThan(0);
-      expect(DEFAULT_CONFIG.export.loginTimeoutMs).toBeGreaterThan(0);
+      expect(DEFAULT_CONFIG.export!.navigationTimeoutMs).toBeGreaterThan(0);
+      expect(DEFAULT_CONFIG.export!.loginTimeoutMs).toBeGreaterThan(0);
     });
 
     it('should have retry configuration', () => {
-      expect(DEFAULT_CONFIG.export.maxRetries).toBeGreaterThan(0);
-      expect(DEFAULT_CONFIG.export.retryDelayMs).toBeGreaterThan(0);
+      expect(DEFAULT_CONFIG.export!.maxRetries).toBeGreaterThan(0);
+      expect(DEFAULT_CONFIG.export!.retryDelayMs).toBeGreaterThan(0);
     });
 
     it('should have batch sizes', () => {
-      expect(DEFAULT_CONFIG.embedding.batchSize).toBeGreaterThan(0);
-      expect(DEFAULT_CONFIG.claude.maxTokens).toBeGreaterThan(0);
+      expect(DEFAULT_CONFIG.embedding!.batchSize).toBeGreaterThan(0);
+      expect(DEFAULT_CONFIG.claude!.maxTokens).toBeGreaterThan(0);
     });
   });
 
