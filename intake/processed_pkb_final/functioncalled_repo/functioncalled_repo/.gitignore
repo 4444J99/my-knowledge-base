@@ -1,0 +1,4 @@
+# build artifacts
+registry/registry.json
+*.pyc
+__pycache__/
