@@ -56,7 +56,7 @@ describe('CostEstimator', () => {
       );
 
       // Cache reads should be cheaper
-      expect(withCache.totalCost).toBeLessThan(withoutCache.totalCost);
+      expect(withCache.totalCost!).toBeLessThan(withoutCache.totalCost!);
     });
 
     it('should include cache write cost on first request', () => {
@@ -100,14 +100,14 @@ describe('CostEstimator', () => {
       const embedCost = embedEstimator.estimateEmbeddingCost('Text');
 
       // Message should cost more than embedding
-      expect(messageCost.totalCost).toBeGreaterThan(embedCost.totalCost);
+      expect(messageCost.totalCost!).toBeGreaterThan(embedCost.totalCost!);
     });
   });
 
   describe('Cost Formatting', () => {
     it('should format cost as currency', () => {
       const estimate = estimator.estimateMessageCost('System', 'Message', 100);
-      const formatted = estimator.formatCost(estimate.totalCost);
+      const formatted = estimator.formatCost(estimate.totalCost!);
 
       expect(formatted).toContain('$');
       expect(formatted).toMatch(/\$\d+\.\d{4}/);
@@ -151,9 +151,9 @@ describe('CostEstimator', () => {
         50
       );
 
-      expect(estimate.inputTokens).toBeGreaterThan(0);
+      expect(estimate.inputTokens!).toBeGreaterThan(0);
       expect(estimate.outputTokens).toBe(50);
-      expect(estimate.totalTokens).toBe(estimate.inputTokens + 50);
+      expect(estimate.totalTokens).toBe(estimate.inputTokens! + 50);
     });
 
     it('should show cache impact when enabled', () => {
@@ -324,9 +324,9 @@ describe('CostTracker', () => {
       const estimator = new CostEstimator('claude-3-5-sonnet-20241022');
       const estimate = estimator.estimateMessageCost('System', 'Message', 100);
 
-      tracker.trackAPICall('claude', estimate.totalCost);
+      tracker.trackAPICall('claude', estimate.totalCost!);
 
-      expect(tracker.getTotalCost()).toBeCloseTo(estimate.totalCost);
+      expect(tracker.getTotalCost()).toBeCloseTo(estimate.totalCost!);
     });
 
     it('should prevent over-budget estimates', async () => {
@@ -337,7 +337,7 @@ describe('CostTracker', () => {
 
       // Check if expensive operation would exceed budget
       const estimate = estimator.estimateMessageCost('Sys', 'Msg', 500);
-      const canProceed = await tracker.canProceedWithCost(estimate.totalCost);
+      const canProceed = await tracker.canProceedWithCost(estimate.totalCost!);
 
       expect(canProceed).toBe(false);
     });

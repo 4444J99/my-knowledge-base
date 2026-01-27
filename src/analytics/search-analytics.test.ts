@@ -169,7 +169,7 @@ describe('SearchAnalyticsTracker', () => {
       });
 
       const resultId = 'unit-123';
-      tracker.trackClick(queryId, resultId);
+      tracker.trackClick(queryId!, resultId);
 
       // Verify in database
       const stmt = db.prepare('SELECT clicked_result FROM search_queries WHERE id = ?');
@@ -189,8 +189,8 @@ describe('SearchAnalyticsTracker', () => {
       const resultId1 = 'unit-123';
       const resultId2 = 'unit-456';
 
-      tracker.trackClick(queryId, resultId1);
-      tracker.trackClick(queryId, resultId2); // Last click should win
+      tracker.trackClick(queryId!, resultId1);
+      tracker.trackClick(queryId!, resultId2); // Last click should win
 
       const stmt = db.prepare('SELECT clicked_result FROM search_queries WHERE id = ?');
       const result = stmt.get(queryId) as any;
