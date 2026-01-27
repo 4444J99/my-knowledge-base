@@ -2,101 +2,77 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## 📋 Development Status
+## Development Status
 
 **See [`DEVELOPMENT_ROADMAP.md`](./DEVELOPMENT_ROADMAP.md) for the complete 235-item task list.**
 
-Current status: **151/235 tasks completed (64%)** - Intelligence & API complete
-- ✅ Core features complete (9/9)
-- ✅ Phase 1 foundation (15/15)
-- ✅ Phase 2 semantic intelligence (22/22)
-- ✅ Phase 3 Claude analysis (24/24)
-- ✅ API endpoints complete (38/38)
-- 🔄 Web UI (0/20)
+Current status: **177/235 tasks completed (75%)**
+- Phase 1-3 + API: 100% complete
+- Web UI: In progress (4/20)
 
 ## Project Overview
 
-A TypeScript knowledge base system that exports Claude.app conversations, atomizes them into knowledge units, and provides multi-layered search and AI-powered intelligence extraction.
+A TypeScript knowledge base that exports Claude.app conversations, atomizes them into knowledge units, and provides multi-layered search and AI-powered intelligence extraction.
 
-**Technology Stack:** Node.js + TypeScript | SQLite + ChromaDB | Anthropic SDK + OpenAI SDK
-
-## Documentation
-- `docs/API_DOCUMENTATION.md` - API overview and conventions
-- `docs/ARCHITECTURE.md` - System design and data flow
-- `docs/DATABASE_SCHEMA.md` - SQLite and embedding storage
-- `docs/DEPLOYMENT.md` - Deployment notes and Docker guidance
+**Stack:** Node.js + TypeScript (ESM) | SQLite + ChromaDB | Anthropic SDK + OpenAI SDK | Vitest
 
 ## Build & Development Commands
 
-### Core Commands
 ```bash
+# Build & Run
 npm run build              # Compile TypeScript to dist/
-npm run dev              # Run source code directly (tsx)
-npm run export:dev       # Export conversations from claude.app (browser required)
-npm run start            # Run compiled JavaScript
-```
+npm run dev                # Run with tsx (development)
+npm run start              # Run compiled JavaScript
+npm run web                # Start web server
 
-### Search Commands
-```bash
+# Database
+npm run migrate            # Run database migrations
+npm run prepare-db         # migrate + seed (runs automatically before start/web/test)
+
+# Export & Ingestion
+npm run export:dev         # Export conversations from claude.app (browser required)
+npm run export:dev -- --source=gemini   # Export from specific source only
+npm run generate-embeddings -- --yes    # Generate embeddings for all units
+
+# Search
 npm run search "query"           # Full-text search (FTS5)
 npm run search:semantic "query"  # Semantic search via embeddings
 npm run search:hybrid "query"    # Hybrid search (FTS + semantic combined)
+
+# Testing
+npm test                   # Run all tests
+npm test -- src/api.test.ts         # Run single test file
+npm test -- --watch        # Watch mode
+npm run test:ui            # Vitest UI
+npm run test:coverage      # Coverage report
 ```
 
-### Phase 3 Intelligence Commands (Claude-powered analysis)
+## Phase 3 Intelligence Commands (Claude-powered)
+
 ```bash
-# Core batch operations (with batch processing, progress bars, resumability)
-npm run extract-insights all --save --parallel 3          # Extract insights
-npm run smart-tag --limit 100 --save --parallel 4         # Context-aware tagging
-npm run find-relationships --save                         # Detect connections
-npm run summarize all --save                              # Summarization
-
-# Feature commands
-npm run deduplicate-tags -- --threshold 0.85              # Find duplicate tags
-npm run deduplicate-tags -- --threshold 0.85 --dry-run    # Preview before merging
-npm run visualize-tags -- --format ascii                  # View tag hierarchy
-npm run visualize-tags -- --format mermaid                # Generate diagram
-
-# Monitoring and analysis
-npm run cost-report -- --period 30days                    # API cost analysis
-npm run intelligence-stats                                # Phase 3 statistics
+# Core batch operations (progress bars, checkpoints, resumability)
+npm run extract-insights all --save --parallel 3    # Extract insights
+npm run smart-tag --limit 100 --save --parallel 4   # Context-aware tagging
+npm run find-relationships --save                   # Detect connections
+npm run summarize all --save                        # Summarization
 ```
 
-### Infrastructure Commands
-```bash
-npm run generate-embeddings -- --yes   # Generate embeddings for all units
-npm run export-obsidian                # Export atomized content to Obsidian format
-npm run export-incremental             # Incremental export (new conversations only)
-npm run web                            # Start web server for browsing
-```
-
-## Architecture & Data Flow
+## Architecture
 
 ### Three-Phase System
 
 **Phase 1: Foundation** - Export & Atomization
-- Playwright scrapes Claude.app conversations or reads local markdown documents
-- SourceManager ingests both conversation and document sources
-- KnowledgeAtomizer breaks items into atomic knowledge units (5 strategies)
-- Output: Database, markdown files, JSON storage
+- Playwright scrapes Claude.app/Gemini or reads local markdown
+- SourceManager ingests from multiple sources
+- KnowledgeAtomizer breaks content into atomic units (5 strategies)
 
 **Phase 2: Semantic Intelligence** - Vector Search
-- EmbeddingsService generates OpenAI text-embedding-3-small vectors
-- VectorDatabase (ChromaDB) stores embeddings for similarity search
-- HybridSearch combines FTS5 (fast keyword) + semantic (meaning-based) using Reciprocal Rank Fusion
-- Cost: ~$0.0002 per conversation
+- OpenAI text-embedding-3-small vectors stored in ChromaDB
+- HybridSearch combines FTS5 + semantic via Reciprocal Rank Fusion
 
 **Phase 3: Claude Intelligence** - Advanced Analysis
-- InsightExtractor: Claude identifies key learnings with batch processing
-- SmartTagger: Context-aware auto-tagging with concurrent batch processing
-- RelationshipDetector: Finds connections between knowledge units (vector + Claude)
-- ConversationSummarizer: Structured summaries with key points + executive summaries
-- InsightRanker: Multi-criteria ranking (importance, recency, relevance, uniqueness)
-- TagDeduplicator: Find and merge similar tags with edit distance algorithm
-- TagHierarchy: Organize tags into tree structures with multiple visualization formats
-- **Batch Processing**: Progress tracking, checkpoint resumability, concurrency control
-- **Prompt caching** enabled: 90% token savings on repeated contexts
-- Cost: ~$0.034 per conversation with caching (vs $0.32 uncached, 89% savings)
+- InsightExtractor, SmartTagger, RelationshipDetector, ConversationSummarizer
+- Prompt caching: 90% token savings (~$0.034 vs $0.32 per operation)
 
 ### Data Model
 
@@ -109,169 +85,99 @@ npm run web                            # Start web server for browsing
   content: string             // main knowledge
   context: string             // surrounding context
   tags: string[]              // auto-generated
-  category: string            // 'programming' | 'writing' | 'research' | 'design'
+  category: 'programming' | 'writing' | 'research' | 'design' | 'general'
   timestamp: Date
   embedding?: number[]        // Phase 2: vector embedding
-  keywords: string[]          // extracted terms
   conversationId?: string     // source reference
   relatedUnits: string[]      // Phase 3: connections
 }
 ```
 
-**Database Schema**
+### Database Tables
 - `atomic_units` - Core knowledge units
 - `units_fts` - Full-text search index (SQLite FTS5)
 - `tags`, `unit_tags` - Tagging relationships
-- `keywords`, `unit_keywords` - Keyword extraction
 - `unit_relationships` - Phase 3: relationship graph
-- `conversations` - Source conversation metadata
-- `documents` - Source document metadata
+- `conversations`, `documents` - Source metadata
 
-### Processing Pipeline
+## Project Structure
 
-1. **SourceManager** - Unified ingestion from multiple sources
-   - Claude.app conversations (via Playwright)
-   - Local markdown documents
-   - Extensible for other sources
+```
+src/
+├── database.ts              # SQLite operations, schema
+├── atomizer.ts              # Conversation atomization
+├── document-atomizer.ts     # Document atomization
+├── types.ts                 # TypeScript interfaces
+├── export.ts                # Main orchestration
+├── sources/                 # Source integrations
+│   ├── manager.ts           # Unified ingestion
+│   ├── claude.ts            # Claude.app scraper
+│   ├── gemini.ts            # Gemini scraper
+│   ├── chatgpt.ts           # ChatGPT export parser
+│   └── local.ts             # Local markdown
+├── analytics/               # Search analytics
+│   ├── spell-checker.ts
+│   ├── query-suggestions.ts
+│   └── search-analytics.ts
+├── embeddings-service.ts    # OpenAI embeddings
+├── vector-database.ts       # ChromaDB storage
+├── hybrid-search.ts         # FTS + semantic (RRF)
+├── claude-service.ts        # Anthropic SDK + prompt caching
+├── insight-extractor.ts     # Phase 3: insights
+├── smart-tagger.ts          # Phase 3: auto-tagging
+├── relationship-detector.ts # Phase 3: connections
+├── conversation-summarizer.ts
+├── batch-processor.ts       # Progress + checkpoints
+├── api.ts                   # REST API endpoints
+├── web-server.ts            # Express server
+└── *-cli.ts                 # CLI entry points
+```
 
-2. **KnowledgeAtomizer** - Multiple strategies
-   - Message-level: Each message → unit
-   - Code extraction: Code blocks → separate units
-   - Header-based (documents): Section → unit
-   - Paragraph-based (documents): Fallback splitting
-
-3. **Writers** - Multi-format output
-   - MarkdownWriter: Organized by date/title
-   - JSONWriter: Structured indexes and JSONL stream
-   - Database: Direct SQLite insertion
-
-4. **Search & Intelligence**
-   - Search path: Query → FTS lookup OR semantic embedding search
-   - Hybrid: RRF combines FTS rank + semantic rank
-   - Intelligence: Claude processes units for insights/relationships
-
-## Key Files & Responsibilities
-
-### Core Services
-- `src/database.ts` - SQLite operations, schema, query builders
-- `src/atomizer.ts` - Atomization strategies for conversations & documents
-- `src/types.ts` - TypeScript interfaces (AtomicUnit, Conversation, etc.)
-
-### I/O & Sources
-- `src/markdown-writer.ts`, `src/json-writer.ts` - File output
-- `src/sources/manager.ts` - Unified source ingestion
-- `src/export.ts` - Main orchestration script
-
-### Phase 2 (Semantic Search)
-- `src/embeddings-service.ts` - OpenAI embedding generation
-- `src/vector-database.ts` - ChromaDB vector storage
-- `src/semantic-search.ts` - Similarity search
-- `src/hybrid-search.ts` - Combined FTS + semantic (Reciprocal Rank Fusion)
-
-### Phase 3 (Claude Intelligence)
-**Core Modules:**
-- `src/claude-service.ts` - Anthropic SDK wrapper with prompt caching & token tracking
-- `src/insight-extractor.ts` - Extracts meaningful learnings with batch processing
-- `src/smart-tagger.ts` - Intelligent context-aware tagging with concurrent processing
-- `src/relationship-detector.ts` - Detects connections between units (vector + Claude)
-- `src/conversation-summarizer.ts` - Structured conversation summaries + executive summaries
-
-**Infrastructure & Features:**
-- `src/batch-processor.ts` - Advanced batch processing with progress tracking and checkpoints
-- `src/insight-ranker.ts` - Multi-criteria insight ranking and categorization
-- `src/tag-deduplicator.ts` - Find and merge duplicate/similar tags
-- `src/tag-hierarchy.ts` - Build and visualize hierarchical tag structures
-- `src/api-intelligence.ts` - REST API for all intelligence endpoints
-
-### CLI Interfaces
-- `src/search.ts`, `src/semantic-search.ts`, `src/search-hybrid-cli.ts` - Search interfaces
-- `src/extract-insights-cli.ts`, `src/smart-tag-cli.ts`, `src/find-relationships-cli.ts`, `src/summarize-cli.ts` - Phase 3 CLI
-
-## Important Patterns & Conventions
+## Key Patterns
 
 ### Atomization Strategy
-When atomizing, the system:
-1. Infers unit type from content patterns (question marks → 'question', code blocks → 'code')
-2. Auto-generates titles from first line (truncated to 80 chars)
+1. Infers unit type from content (question marks → 'question', code blocks → 'code')
+2. Auto-generates titles from first line (80 char max)
 3. Extracts keywords via frequency analysis
-4. Auto-tags by detecting technologies/languages/patterns
-5. Categorizes into 5 categories (programming, writing, research, design, general)
+4. Auto-tags by detecting technologies/languages
+5. Categorizes into 5 categories
 
 ### Cost Optimization
-- **Embeddings**: Batch processing, ~$0.02 per 1M tokens
-- **Claude Phase 3**: Prompt caching writes at 1.25x rate, reads at 0.1x rate → **90% savings**
-  - Per operation: $0.32 → $0.034 (insight extraction)
-  - 100 operations: $32.00 → $3.31 (89% savings)
-  - Monthly (1000 ops): $4,800 → $520
-- Token tracking via ClaudeService.getTokenStats() - monitor in all CLI and API calls
-- **API Endpoints**: All Phase 3 REST endpoints report token usage in responses
+- **Embeddings**: ~$0.02 per 1M tokens
+- **Claude Phase 3**: Prompt caching at 0.1x read rate → 90% savings
+- Track usage via `ClaudeService.getTokenStats()`
 
-### Error Handling
-- Export failures are logged with detailed context
-- Database operations use pragmas (WAL mode) for performance
-- CLI scripts catch and log errors but exit(1) on critical failures
+### Adding New Features
 
-## Complete REST API (38 endpoints) ✅
+**New Phase 3 Analyzer:**
+1. Create class similar to InsightExtractor
+2. Use ClaudeService for API calls with caching
+3. Add CLI script in `src/<name>-cli.ts`
+4. Track tokens via getTokenStats()
 
-### All Endpoints Summary
-**See [`docs/API_ENDPOINTS_SUMMARY.md`](./docs/API_ENDPOINTS_SUMMARY.md)** for comprehensive reference with examples and curl commands.
+**New Source:**
+1. Add in `src/sources/` implementing KnowledgeSource interface
+2. Register in SourceManager
+3. Normalize output to Conversation or KnowledgeDocument
 
-### Quick Reference by Category
+## REST API (38 endpoints)
 
-**Core CRUD (12):** Units, Tags, Categories
-- POST/GET/PUT/DELETE /api/units, POST /api/units/batch, GET /api/units/:id/related
-- GET/POST/DELETE /api/units/:id/tags, GET /api/categories, GET /api/units/by-category/:cat
+See [`docs/API_ENDPOINTS_SUMMARY.md`](./docs/API_ENDPOINTS_SUMMARY.md) for full reference.
 
-**Search (6):** Full-text, semantic, hybrid, analytics
-- GET /api/search, /api/search/semantic, /api/search/hybrid
-- GET /api/search/suggestions, /api/search/analytics, /api/search/facets
+**Categories:** Core CRUD (12) | Search (6) | Intelligence (6) | Graph (8) | Dedup (4) | Export (5) | WebSocket (3) | Rate Limiting (4)
 
-**Intelligence (6):** Insights, tagging, relationships, summaries
-- GET /api/intelligence/insights, POST /api/intelligence/insights/extract
-- GET /api/intelligence/tags/suggestions
-- GET /api/intelligence/relationships, POST /api/intelligence/relationships/detect
-- GET /api/intelligence/summaries
+**Response format:** `{ success, data, pagination?, timestamp }`
 
-**Graph (8):** Knowledge graph navigation
-- GET /api/graph/nodes, /api/graph/edges, /api/graph/path/:source/:target
-- GET /api/graph/neighborhood/:id, /api/graph/stats, /api/graph/visualization, /api/graph/search
+## Environment Variables
 
-**Dedup (4):** Duplicate detection and merging
-**Export (5):** CSV, JSON, JSON-LD, Markdown export
-**WebSocket (3):** Real-time events
-**Rate Limiting (4):** Usage tracking and tier management
-**Utilities (2):** /api/stats, /api/health
+```bash
+OPENAI_API_KEY=     # Required for Phase 2 embeddings
+ANTHROPIC_API_KEY=  # Required for Phase 3 Claude intelligence
+```
 
-**Response Format:** Consistent JSON with `success`, `data`, `pagination`, `timestamp`
+## Documentation
 
-**Full Documentation:** See `docs/CLAUDE_INTELLIGENCE_API.md` for Phase 3 intelligence endpoints with token tracking.
-
----
-
-## Development Guidelines
-
-### Adding a New Phase 3 Analysis
-1. Create new class extending or similar to existing analyzers (e.g., InsightExtractor)
-2. Use ClaudeService for Claude API calls with caching enabled
-3. Add CLI script in `src/<name>-cli.ts` following existing pattern
-4. Add database schema changes if storing new relationships
-5. Track token usage via ClaudeService.getTokenStats()
-
-### Extending Sources
-1. Add new source in `src/sources/` implementing compatible interface
-2. Update SourceManager to ingest from new source
-3. Ensure output normalizes to Conversation or KnowledgeDocument type
-
-### Adding New Search Capability
-1. Implement searcher class with standardized interface
-2. Add CLI entry point following pattern of search.ts/semantic-search.ts
-3. Integrate with HybridSearch if combining with existing searches
-
-## Deployment Notes
-
-- **Environment variables** (in .env):
-  - `OPENAI_API_KEY` - Required for Phase 2 embeddings
-  - `ANTHROPIC_API_KEY` - Required for Phase 3 Claude intelligence
-- **Database**: SQLite WAL mode enabled for concurrency
-- **Vector DB**: ChromaDB persisted to `./atomized/embeddings/chroma`
-- **Output**: Creates directories automatically (raw/, atomized/, db/)
+- `docs/API_DOCUMENTATION.md` - API overview
+- `docs/ARCHITECTURE.md` - System design
+- `docs/DATABASE_SCHEMA.md` - Database structure
+- `docs/DEPLOYMENT.md` - Docker and deployment
