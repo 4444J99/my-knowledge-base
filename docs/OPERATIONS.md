@@ -28,6 +28,22 @@
 - Incremental export: `npm run export-incremental`.
 - Snapshot before large batch operations.
 
+## Chunking Controls
+- Inspect current chunking behavior: `npm run chunking:metrics -- --top 25`
+- Persist a metrics snapshot: `npm run chunking:metrics -- --snapshot`
+- PDF window controls:
+- `CHUNK_PDF_WINDOW_TOKENS` (default 500)
+- `CHUNK_PDF_OVERLAP_TOKENS` (default 50)
+- `CHUNK_PDF_MIN_TOKENS` (default 800)
+- Global guardrails:
+- `CHUNK_MIN_TOKENS` (default 160)
+- `CHUNK_MAX_PER_DOC` (default 40)
+- `CHUNK_LARGE_DOC_THRESHOLD` (default 12; adds `large-document` tag)
+- Example tuning run:
+- `CHUNK_MIN_TOKENS=200 CHUNK_MAX_PER_DOC=30 npm run chunking:metrics -- --top 25`
+- Apply new defaults to existing Apple Notes HTML:
+- `npm run reprocess:documents -- --source apple-notes --format html --limit 200 --save --yes`
+
 ## References
 - `docs/MONITORING.md`
 - `docs/TROUBLESHOOTING.md`

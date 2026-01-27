@@ -1,7 +1,7 @@
 # Knowledge Base System - Development Roadmap
 
-**Last Updated:** January 13, 2026
-**Status:** Phase 1 ✅ COMPLETE (15/15) | Phase 2 ✅ COMPLETE (22/22) | Phase 3 ✅ COMPLETE (24/24) | API ✅ COMPLETE (38/38) | Total 73% (171/235 tasks)
+**Last Updated:** January 27, 2026
+**Status:** Phase 1 ✅ COMPLETE (15/15) | Phase 2 ✅ COMPLETE (22/22) | Phase 3 ✅ COMPLETE (24/24) | API ✅ COMPLETE (38/38) | Total 75% (176/235 tasks)
 
 ---
 
@@ -315,17 +315,17 @@
 
 ### Core Pages (6 tasks)
 - ✅ 🎯 Search/Home page (`web/index.html`, `web/js/app.js`)
-- ⏳ 🎯 Unit detail view
-- ⏳ 🎯 Knowledge graph visualization page
+- ✅ 🎯 Unit detail view (`web/js/app.js`)
+- ✅ 🎯 Knowledge graph visualization page (`web/index.html`, `web/js/app.js`, `src/web-server.ts`)
 - ✅ 🎯 Search results page with filters (`web/index.html`, `web/js/app.js`)
 - ✅ 🎯 Admin dashboard (`web/index.html`, `web/js/app.js`)
 - ⏳ 📋 Settings/Profile page
 
 ### Components (6 tasks)
-- ⏳ 📋 Search bar with autocomplete
+- ✅ 📋 Search bar with autocomplete (`web/index.html`, `web/js/app.js`, `src/web-server.ts`)
 - ✅ 📋 Tag management component (`web/js/app.js`, `src/web-server.ts`)
-- ⏳ 📋 Unit card/list view
-- ⏳ 📋 Graph visualization component
+- ✅ 📋 Unit card/list view (`web/js/app.js`)
+- ✅ 📋 Graph visualization component (`web/js/app.js`, `src/web-server.ts`)
 - ⏳ 📋 Real-time notifications
 - ⏳ 💡 Markdown editor
 
@@ -505,17 +505,17 @@
 - API endpoints: 38/38 ✅
 - Auth + RBAC: 8/8 ✅
 
-**Production Ready:** 177/235 (75% - requires all components)
+**Production Ready:** 176/235 (75% - requires all components)
 
 ---
 
 ## Next Steps
 
 ### Immediate (Current Session)
-1. Expand Web UI (unit detail view, graph, settings, autocomplete)
-2. Finish security hardening (encryption at rest, sensitive field protection)
-3. Extend deployment tooling (Kubernetes manifests, vector store backups)
-4. Add remaining performance optimizations
+1. Expand Web UI (settings/profile, notifications, export UI, preferences)
+2. Harden key web endpoints and graph queries for large datasets
+3. Finish security hardening (encryption at rest, sensitive field protection)
+4. Extend deployment tooling (Kubernetes manifests, vector store backups)
 
 ### Short-term (Next 1-2 Sessions)
 1. Expand API integration coverage (auth, rate limit, websockets)
