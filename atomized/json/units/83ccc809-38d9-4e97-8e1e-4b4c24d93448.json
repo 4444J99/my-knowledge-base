@@ -1,0 +1,26 @@
+{
+  "id": "83ccc809-38d9-4e97-8e1e-4b4c24d93448",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>│   └── key-decisions.md                # Extracted decision log</div>",
+  "content": "<div>│   └── key-decisions.md                # Extracted decision log</div>\n<div>├── roadmap/</div>\n<div>│   ├── phase-1-foundation.md</div>\n<div>│   ├── phase-2-specialized-tools.md</div>\n<div>│   └── phase-3-integration.md</div>\n<div>├── specifications/</div>\n<div>│   ├── cognitive-archaelogy-tribunal.md</div>\n<div>│   ├── system-constitution.md</div>\n<div>│   ├── meta-synthesis-orchestrator.md</div>\n<div>│   └── [one file per planned repo]</div>\n<div>└── workflows/</div>\n<div>    ├── repo-creation-checklist.md</div>\n<div>    ├── migration-process.md</div>\n<div>    └── conversation-preservation.md</div>\n<div>```</div>\n<div><br></div>\n<div>**Why This Approach:**</div>\n<div>- Creates **permanent record** in version control</div>\n<div>- **Searchable and linkable** from other repos</div>\n<div>- **Evolves with your system** (update as plans change)</div>\n<div>- **GitHub-native** (issues, PRs, discussions can reference it)</div>\n<div>- **Integrates with knowledge graph** (becomes a node)</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **Option 3: Create Issue in Each Planned Repo (Cross-Reference)**</div>\n<div><br></div>\n<div>For each repo you'll create, immediately create an issue:</div>",
+  "context": "From document: Contents_Table — chunk 114 (chunk 114/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "repo",
+    "phase",
+    "create",
+    "system",
+    "planned"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

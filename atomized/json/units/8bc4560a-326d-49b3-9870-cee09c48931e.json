@@ -1,0 +1,26 @@
+{
+  "id": "8bc4560a-326d-49b3-9870-cee09c48931e",
+  "type": "insight",
+  "timestamp": "2015-11-20T06:38:43.000Z",
+  "title": "<div>Hyperlinks</div>",
+  "content": "<div>Hyperlinks</div>\n<div><br></div>\n<div>Alongst </div>\n<div><br></div>\n<div>Erasing bad memories bad breakups by deleting photos and curbing what is seen on the news feed</div>\n<div><br></div>\n<div>Don't run through time </div>\n<div><br></div>\n<div>Politics of fear</div>\n<div><br></div>\n<div>Time counts down everyday </div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: Hyperlinks",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "537bc001c682e02ed9cf6eb44147805c",
+  "relatedUnits": [],
+  "keywords": [
+    "time",
+    "hyperlinks",
+    "alongst",
+    "erasing",
+    "memories"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

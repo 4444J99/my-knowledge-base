@@ -1,0 +1,26 @@
+{
+  "id": "7dfdcef2-e59a-48dc-b7d3-04691d85386e",
+  "type": "insight",
+  "timestamp": "2022-02-16T17:07:17.000Z",
+  "title": "<div>I wrung you yesterday,</div>",
+  "content": "<div>I wrung you yesterday,</div>\n<div>some million-odd years ago.</div>\n<div>Your answer familiar;</div>\n<div>my question, also so.</div>\n<div>I miss your snide remarks,</div>\n<div>your crooked lower tooth.</div>\n<div>You miss?--</div>\n<div>Nothing. No one. </div>\n<div>Never your mind worry.</div>\n<div><br></div>\n<div>A lesson taught, never</div>\n<div>learned. Stickiest ideas oft</div>\n<div>offer no thing crueler</div>\n<div>than Severest winters--</div>\n<div>Yet, how quick I am, grab</div>\n<div>My scarf, my coat, how quick</div>\n<div>I ignore a sun-blessed </div>\n<div>Reflection:</div>\n<div>Step</div>\n<div>Time</div>\n<div>Step,</div>\n<div>I</div>\n<div>walk</div>\n<div>in thru</div>\n<div>the past. </div>\n<div> </div>\n<div><br></div>",
+  "context": "From document: I wrung you yesterday,",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1117db08d56fa7a089fe7f1929c0a171",
+  "relatedUnits": [],
+  "keywords": [
+    "your",
+    "miss",
+    "never",
+    "quick",
+    "step"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

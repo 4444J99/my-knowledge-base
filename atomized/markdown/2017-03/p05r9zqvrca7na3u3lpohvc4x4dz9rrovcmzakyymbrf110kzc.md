@@ -1,0 +1,32 @@
+---
+id: 48bdd2e7-3586-4179-b453-1c435fbd3e0b
+type: insight
+created: '2017-03-03T03:57:06.000Z'
+document: 0f5a61a6fb83412f6aa40e5b9176bdd3
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    5r9zqvrca7na3u3lpohvc4x4dz9rrovcmzakyymbrf110kzcmu67lwlueyyg5zhwwjiywzrajdqgjxubtgcv39o53clpidyqz9atnhvyjepvykt6q5udjgbmt4cba11hjeyzebqdnwrz9exmixry4vbsee0mglwzdfd
+  - >-
+    qu1hr3rm3abmbo3m4jmfb14849w11zdtbxsm9zryxuajjqduvx2nl25c0epzfljwxozprb4eyx9odx0nrt
+  - mfhs9rln
+  - c4yozruegdmbpoyzfuy5ykvedqseicctt5pt
+  - irux1ux
+---
+# P0+5R9zqVrca7na3u3lpoHvc4x4Dz9rrOvCMZakyYMbrF110kZcmu67LWlUeYyg5zHwwjiYwzrAjDqgj
+
+## Context
+From document: New Note — chunk 886 (chunk 886/1653)
+
+## Content
+P0+5R9zqVrca7na3u3lpoHvc4x4Dz9rrOvCMZakyYMbrF110kZcmu67LWlUeYyg5zHwwjiYwzrAjDqgjXUbTGCv39O53cLpIDYqZ9ATnhVYJEPvYkT6q5UDjGBmT4cBA11HjeyZEbqDnwRZ9EXmIXrY4VBsEe0mgLwzDFd+QU1Hr3rM3ABMBo3M4jmFB14849W11ZdTbxsm9zrYxuAJjQduvx2NL25c0ePzfLJWxozPrB4eyx9odx0nrt/MFhS9rLN+c4YozruegDMbPoyzFUy5ykVEDqsEicCtt5Pt/6/iRux1ux/9VquoVO3YNV+Afly4nHLN1OOKQjM2rkI6nnMCRpRdie4joqEokblrHY5BA5LgeaCd7J27nv+LUBT+Q/RtSEr8GywPpTfH2Njm+BcWtTy8LfhTYKR47/GlPHUwAuDFoW3gFCdavw0bwr1UEs35AHd3uza+nuCfRwgODDnTJkkHon/xUkeDyesR6i5Y0MxBHFsQub6RDIk2BvMkX2FKcrdlEBIsSQ2B45sLON55DRTCor30hOOhpCxSIM91+INFyL6r+Hnih4w/y2/+C+OK2HqboYXrrX0v/bL1cKnOPb8703GMDlbBSXRVL9XH02xyqWzOLiPDZNgWHprZrJlh5kZtnDgehtWnLQzw+W/DVAjzJD09kRG5805VnNVkHkq7WWL9hsQTQOm07HP85uHq36ELcrps8D2cudW7gXMiaGGzOMKDi3Jx8I4at49xg/HY/s4rV8a9T22X0U5yb0jUFZLa7yRxOpRHM09AZHL2TH0g8shzveaYgafUmDU7oRba7FwQl+AHRGbAFHQM+GwTflQyd1+V3XvA8tEhOSPnEwfvhGV7fIEUTXMpN3ekqC0g6N3fSpgd0ZuzzUEB3eGKTWv6UlrTrG1KHvSm78szLM4+2r7pfFzL2tcwF/36wAOeYiqF9HYDBhY7nFp1SHXRYFxMAttRG+dm6detuEwA4EOqmwNdUV944ZMmghC26t7IE0CLMtwCTJbwxyhvjbDaLk2gR1ocFeKsWRz8O/t/7vd9zG0ZzvoR54QtfOC4JdKA2Bo0+C7iwwMIC150FWNLujne8o4/TTjvNXwmwQTiT5Qk4X3j7nuMjH/nI8Dd/8zfD8ccfPzzwgQ8cHv7whw/3ute9rvOl8bgXsd5/vkrgWcxGwPsv9D6j+4aMuTTWtSNu
+
+
+
+---
+*Source: Document 0f5a61a6fb83412f6aa40e5b9176bdd3*

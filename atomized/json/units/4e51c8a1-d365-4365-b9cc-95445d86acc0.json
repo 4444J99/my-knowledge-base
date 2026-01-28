@@ -1,0 +1,26 @@
+{
+  "id": "4e51c8a1-d365-4365-b9cc-95445d86acc0",
+  "type": "insight",
+  "timestamp": "2025-01-25T14:41:29.000Z",
+  "title": "<div>OK, can you provide me a detailed summary of all the ideas we went through ",
+  "content": "<div>OK, can you provide me a detailed summary of all the ideas we went through in this thread so I could copy and paste it into my Notes app? I want it to be exhausted and cover everything we mentioned in a clear form, do not use bullets, or numbers, use spacing line, brakes, and headers. First, though, let’s not deal with the details of the language sounds we’ve been working on, I want you to go back to the beginning of the threat and provide a neat and exhaustive overview of all the details covered   Prompt 1:</div>\n<div><br></div>\n<div>How many sounds do English vowels make?</div>\n<div><br></div>\n<div>Response 1:</div>\n<div><br></div>\n<div>English vowels make multiple sounds depending on their context within words. The standard vowels (A, E, I, O, U) and sometimes Y can produce a variety of sounds. Generally, English vowels produce:</div>\n<div>  1.  Short vowel sounds – These occur in simple, closed syllables, such as:</div>\n<div>  •  A: /æ/ as in “cat”</div>\n<div>  •  E: /ɛ/ as in “bed”</div>\n<div>  •  I: /ɪ/ as in “sit”</div>\n<div>  •  O: /ɒ/ or /ɑ/ as in “not”</div>\n<div>  •  U: /ʌ/ as in “cup”</div>\n<div>  2.  Long vowel sounds – These typically occur in open syllables or vowel-consonant-e patterns, and they sound like the vowel’s name:</div>",
+  "context": "From document: OK, can you provide me a detailed summary of all the ideas we went… — chunk 1 (chunk 1/18)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "07b786dd26363bd1960159a129bbf9a3",
+  "relatedUnits": [],
+  "keywords": [
+    "sounds",
+    "vowels",
+    "vowel",
+    "english",
+    "provide"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

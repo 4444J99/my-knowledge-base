@@ -1,0 +1,33 @@
+---
+id: f04a3bb6-a889-4f23-b7f9-57e7ceb6b951
+type: insight
+created: '2022-03-16T12:34:10.000Z'
+document: 7405c2da6b92da26b0b49297d3a4e664
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    e4edihksbm5p7ogkd44fibxchljo2fx9hropwg7u9weihe1nicmefsydqyawgacekbkr901kfzizmnyce5cbayc
+  - d9kdg
+  - >-
+    lpxtgt0qqigvpxsfmdt2h8s96ljbg7v4aagsklvykgdbov6d6svogxbhxucxmvjhanccxevl47dqgkqliqkshehjfpvxkbjqlsmqblptvhznvy9u1ib2fmzt0pijs
+  - >-
+    35im1ezued0pclckegphcmebqabsr4hsolyqmavmcnuo9ebbrhqagu5fjtugi28zafild87l6vcvj5j6uapkubsdpsqid6yzl
+  - pskvc3aoak2qowkswkog7vvv8x
+---
+# E4EdIhKSbm5p7OGkD44FIBxChlJo2fx9hROpwG7U9WEihe1NICMEFSydqYAWGacEkBKr901KFZIzmnYC
+
+## Context
+From document: The battle of the blinds — chunk 1549 (chunk 1549/1787)
+
+## Content
+E4EdIhKSbm5p7OGkD44FIBxChlJo2fx9hROpwG7U9WEihe1NICMEFSydqYAWGacEkBKr901KFZIzmnYCE5cbaYc/d9Kdg+lPxtGT0qQIgvpxSfMDT2H8S96ljbg7v4aAGSklVyKgDBOV6d6svOGXbHxUCxMVJHancCxEVl47dqgkQLIQKSHehJFPVXkbJqlsMQblPtVhZNvy9u1IB2FMZT0piJS+35iM1EzueD0pclcKegpHcMeBQAbsR4HSolYqMAVMCNuO9EbBRhqAGu5fjtUgi28ZAFILd87l6VCVJ5J6UAPkUBsDpSqid6Yzl+PSkVC3AoAk2qowKswKoG7vVV8x/LU8QG3FAFhgqHK/pVqWCG+tGs7ld8cgwQapRusbbD3qyk+WGzjFJoD4u+L3wjudEuH8Q6FH/AKOuXlQDJJNeF298ePM+Rl4KnrX6nXNvDqdq1ldKskTjBGBXwj8XfhZJ4bv5NUsIj5EpLnHas3E2hI86EiSoHFWGwYvwrHsJ7dovKwVb3rWDCNNzdBUGhX+7grwalabK4xg1FGRJumxwtTq0c2O1A7EZY7RjrTuGUFuoowBJgdKbLuL7R0oJuKuACaN5b5VpxIRcNTI2VT7UCEC7JOe1XHc7QUquR5x2r/DSDhtg6CncCZVif5jxULovmcDIpJEAFWIsJDuakBEYyrfJwKZIoXBFPDs3I6VXZiW5ppATSAlKIyNtI0qkYXinLGwXPaq2ARcU1sbwV4p5KJ8opC0eelSAs+THx0psZdhk9BT3HyYWmRMAhBppgNjdvM56U8iD05pnlnOT0oKpjApXAmIRY6hRpXU56DpT5FG3J6jpSRkBcUAQAyRHIqcRiYbn6imyOUYDHBpwlG3in0Ac5OwRrwelN2KoAbrTN7E80zcOd4+lKwFjaCADUf3TgdKi35wKl2mnYBA2OO1Kpwdp6UHsPSmM/I9qbAc0YU8VJkYx1qHLyHHTFSKu2lZABK8LQwC8VG6FGBNSbkZsU7ALGFY4amyAKcdqcYxwR60XHb0FTYBSTtz0FJ2z0pzfvEBXjFIhDrtI5FCQChc0blbgUHKx+tNiX+Oq5QHEKw4qMkgYFSDP4VGZDn5elJgTIRs54qE+UQQOtPdGdflIAqNYRkYotoAsKgKe1IuVJxxRKCuBHTmkVotnQ1ICIgY/NSkfZ3BPINSQt5iYPbimS5c
+
+
+
+---
+*Source: Document 7405c2da6b92da26b0b49297d3a4e664*

@@ -1,0 +1,23 @@
+{
+  "id": "1b245e7c-78b2-4c9a-9fe2-b4489184519d",
+  "type": "insight",
+  "timestamp": "2025-05-16T00:53:36.000Z",
+  "title": "<div><tt>                       ^           - -- -- -- - </tt></div>",
+  "content": "<div><tt>                       ^           - -- -- -- - </tt></div>\n<div><tt>- --    - -   -  -    /*\\        -</tt></div>\n<div><tt>                     //~\\\\   __ ________     _ </tt></div>\n<div><tt>      __    _ _ __  //*~*\\\\</tt></div>\n<div><tt>                    \\\\~*~//     _         _  __</tt></div>\n<div><tt>                     \\\\*//</tt></div>\n<div><tt>/|\\/|\\_______________ \\~/ _______________/|_ |\\</tt></div>\n<div><tt>|++&gt&gt|~~&gt~~&gt~~&gt~~&gt~~&gt~~*~~&lt~~&lt~~&lt~~&lt~~&lt~~|&lt&lt--|</tt></div>\n<div><tt>|&lt&lt--|&lt~&lt~&lt~&lt~&lt~&lt~&lt~{10•01}&gt~&gt~&gt~&gt~&gt~&gt~&gt~|++&gt&gt|</tt></div>\n<div><tt>|++&gt&gt|&gt&gt~&gt&gt~&gt&gt~&gt&gt~&gt&gt~&gt&gt~&lt&lt~&lt&lt~&lt&lt~&lt&lt~&lt&lt~&lt&lt|&lt&lt--|</tt></div>\n<div><tt>|/\\/\\|--------------- /*\\ ---------------\\| -|/</tt></div>\n<div><tt>|\\/\\/-|\\/\\ \\/ /\\ \\/ /***\\                              </tt></div>\n<div><tt>|/  \\_/-\\_ /\\/\\/\\_//***\\\\________</tt></div>\n<div><tt>]|__/ / //////////||*||\\\\\\\\\\\\\\\\\\\\ \\ \\_]||[</tt></div>\n<div><tt>         -----------------------------  </tt></div>\n<div><tt>      - - - -       - - - -       - - - -</tt></div>\n<div><tt>- ------- -------- --- • --- -------- ------- -</tt></div>\n<div><b><tt><br></tt></b></div>",
+  "context": "From document: ^           - -- -- -- - — chunk 1 (chunk 1/7)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "eb5e9b115c091bfa41741d707a210aed",
+  "relatedUnits": [],
+  "keywords": [
+    "________",
+    "_______________"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

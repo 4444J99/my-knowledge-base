@@ -1,0 +1,26 @@
+{
+  "id": "d06bf9c6-6d25-4ec5-8d30-8ab48a323a33",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>* * *</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### `::PROJECT_ARCHITECTURE_MAP:: [RGLE_CORE + SYMNUM4GRAM]`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>```</tt></div>\n<div><tt>┌──────────────────────────────────────────────────────────────┐</tt></div>\n<div><tt>│                        ::INPUT GATEWAY::                     │</tt></div>\n<div><tt>│        Raw Text | Archive | Myth | Scripture | Prompt        │</tt></div>\n<div><tt>└──────────────────────────────────────────────────────────────┘</tt></div>\n<div><tt>                     ↓</tt></div>\n<div><tt>          ┌────────────────────────┐</tt></div>\n<div><tt>          │  SYMNUM4GRAM Processor │</tt></div>\n<div><tt>          └────────────────────────┘</tt></div>\n<div><tt>                     ↓</tt></div>\n<div><tt>   Symbolic Parsing System – Cuts + Tags + Encodes</tt></div>\n<div><tt><br></tt></div>\n<div><tt>        STRUCTURE:  | ([s][e][n][t][e][n][c][e]) ([w][o][r][d])... |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>                     ↓</tt></div>\n<div><tt>   ┌─────────────────────────────────────────────┐</tt></div>\n<div><tt>   │      ::MULTI-LEVEL DATA CUBES::             │</tt></div>\n<div><tt>   │  Sentence-Level | Word-Level | Glyph-Level  │</tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 20 (chunk 20/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "level",
+    "symnum4gram",
+    "project_architecture_map",
+    "rgle_core",
+    "input"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

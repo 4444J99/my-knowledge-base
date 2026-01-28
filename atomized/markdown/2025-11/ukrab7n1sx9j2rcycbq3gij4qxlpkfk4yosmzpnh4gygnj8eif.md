@@ -1,0 +1,31 @@
+---
+id: c12fc588-2be0-4ee3-bf5f-9fb96b906174
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ukrab7n1sx9j2rcycbq3gij4qxlpkfk4yosmzpnh
+  - 4gygnj8eifkrl2osbxabkb70wtxy9qb2vhud7djtsqdzdlbpqxzigkjqfejhbof1yqrcj0szbsz
+  - vxdqqdtayhpr0c7c6u
+  - sfzobeyzovuiwvnkqlwo2gxtqpwuxgegutdlpj90bukjmpsnlpug8
+  - >-
+    pimg2ile3lvktefx4laqndrlrcd4x0hhvahdk6r0db8uqerbu01imskkl2pgzi2ulvkeqviq5jbvjxkugfbgzxll7rl44uacu8kzyifwhjbssvcbs
+---
+# UKRAB7n1SX9j2RCYcBQ3Gij4QXlpKfK4yOsmzPnH+4GYgNJ8EIfkRL2oSbxabkB70wTxy9QB2Vhud7Dj
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 9623 (chunk 9623/11629)
+
+## Content
+UKRAB7n1SX9j2RCYcBQ3Gij4QXlpKfK4yOsmzPnH+4GYgNJ8EIfkRL2oSbxabkB70wTxy9QB2Vhud7DjTSQdzdlBPqXzIgKJQfejHBOf1yQrCj0sZbSZ/vxDqQdtAyHpR0c7c6U+SFzobeyZOvUIwVnkQLwO2gXTQpWUxgeGUtdLpj90bukJmPSNlPUg8/pimG2ile3lVkteFx4lAqnDRlRCD4x0HhVAHDK6r0dB8uqeRbu01ImSKkL2pGZI2uLVkEQVIq5JbvjXkUgfBGzxLL7RL44uacu8kZYiFwhJbsSvcBS/tD+cQ4FbSy58uZh78VQcv7jUghjRVqXHsBJ28X3kxxaJY5EBCzMeTZDRiY9rxpv2giO3K8lsCCAC9JADnw5ikwjtG/nXs07iNTFLPld/UNLvR7RME3alnfCEvNK7Uofs6/z6xos4xx/VUtb1Z4irex95MR60H793UAkIoLwXbqVV67y0KgySdxPxKyUw+nAti4Oh716xXrVSy+zQ14pIPRotXa9tRpqOw9Fn7YD2inmK8YNrhGNEaD3O0BIzZqQWyS3zScWnK3vxR/B9ldStjwsriVGiBAG0C7WIP906E4nUEs9cc3BkLsi1A6PElg0i0ZagqpvbFbbCH7mNT5mnMIWIHHEh4wtzBTXqnIgREej8QgxXDOzLTRqX+9TRR/RvL1r7ipJ2wXRLkc9Gz+pS4vl3Secs/W7pd0vVfnT3I08/khs5XfU0bgxx8PdIJ0Nm3tHP284v8sqQbs93W997bu9OvedmV/etz/47d/xJAiRAAiRAAiRAAiRAAiRAAiRAAiRAAiRAAiRAAiRwdxEIvrua+ze2VmQN10gpRgCouaFG+uobkm1KtjlpORyvGy8hyFnPmV9xfsWFRY66R9VRBWkE4kTepHmT5lte6/laz9cYlrNpzqY5kqSpkKZX2oonPzy1/+Sl0VNHvfP+wO/c705+d0pLIxAQpLbqG2oOqzEs+aJkm5NtgsgNeSUuUkQbCCkj1YgFvRfcs3DmYXXYPqy0oGHn7Zc3WVj/WhlqPl8rfY69OcKyN0l3T7rgdBV/bfprmZNvjG42Omx0yhWnVpz6XgsUfx9PWbcNYjGQtFwjq4jEopyQ8iEVUi2uVrtarWq1C0zMn7NA1SzNs0zLkijTMlii34781vrcjH2P7ju/r9S+L/Z+sW9hdLWYkJhq
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

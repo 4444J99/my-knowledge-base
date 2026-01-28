@@ -1,0 +1,26 @@
+{
+  "id": "ce07103b-fdc8-475c-8829-ae48ce76aba8",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📆</font> 3. Weekly XP &amp Party-Based System</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Students can form “parties” (small groups) to gain collective XP.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> If the entire class submits an assignment on time, they unlock a class-wide bonus.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> If a party of three submits perfect work, they gain a temporary boost (deadline extension, extra XP, etc.).</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> If a student completes all assignments in a category (Creative, Discussions, Close Readings), they unlock a title or badge.</div>\n<div><br></div>\n<div>XP &amp Unlockable Perks</div>\n<div><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>XP Achievement</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Unlocked Reward</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 39 (chunk 39/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "border",
+    "face",
+    "style",
+    "width"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

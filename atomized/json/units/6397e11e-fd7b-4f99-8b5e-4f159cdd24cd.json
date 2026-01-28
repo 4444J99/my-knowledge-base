@@ -1,0 +1,26 @@
+{
+  "id": "6397e11e-fd7b-4f99-8b5e-4f159cdd24cd",
+  "type": "insight",
+  "timestamp": "2019-05-25T00:10:26.000Z",
+  "title": "<div>Road movie/Love story</div>",
+  "content": "<div>Road movie/Love story</div>\n<div><br></div>\n<div>Takes place before El’s born</div>\n<div><br></div>\n<div>About El’s parents and her adopted parents </div>",
+  "context": "From document: Road movie/Love story",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "3b5592edd98c3dacb8c9b98d64b9e1bc",
+  "relatedUnits": [],
+  "keywords": [
+    "parents",
+    "road",
+    "movie",
+    "love",
+    "story"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

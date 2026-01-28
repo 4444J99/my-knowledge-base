@@ -1,0 +1,26 @@
+{
+  "id": "7a5d7078-7e32-4537-b595-cb6d902c7b9e",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Challengeable Veto (Can be overridden by class vote)</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Lesson of the Allegory (May grant secret knowledge to a student)</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Balanced Order (Players must argue rationally; no deception allowed)</div>\n</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>The Trickster Mentor</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Odin, Merlin, Socrates</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Riddle of the Sphinx (If students solve it, they receive a buff)</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 368 (chunk 368/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

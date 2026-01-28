@@ -1,0 +1,31 @@
+---
+id: f768e27e-0c13-4f5b-b8c3-54d6e62bcd75
+type: insight
+created: '2021-05-26T23:26:41.000Z'
+document: d338c9f6bd92d1f92f8eaa091bec0082
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 8jbpn
+  - jpl2al5zspnbvvsvzh2nzihktgjhgyil8fv2qvgn
+  - >-
+    0b4evfcpidw7zabfvefsoq2drffewuwhymkiqcuzjfgttycchbh84n7axjpxj8gp20vcuglmy11tuzfdepwqx8uzbhjcaemdk6o65hvr70af1u0uuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuv4p8fvj98pp2bph5p8svivpnhpscyw0mnqiyxn1cykzjdcjmis7kjhlgaawyhqsad2uqd
+  - qfnpls15fyigforh
+  - ghjpsk
+---
+# jpl2Al5ZSPnbvVSVZH2nZIhKtgjhgyil8fv2Qvgn+0B4EvfCPiDw7ZabfvEfsOq2drFFeWUwHyMkiqCU
+
+## Context
+From document: Sausage & Peppers — chunk 7 (chunk 7/394)
+
+## Content
+jpl2Al5ZSPnbvVSVZH2nZIhKtgjhgyil8fv2Qvgn+0B4EvfCPiDw7ZabfvEfsOq2drFFeWUwHyMkiqCUzjfGTtYccHBH84n7AXjPxJ8GP20vCugLMY11TUZfDepwqx8uZbhjCAemdk6o65HVR70Af1u0UUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUV4p8fvj98PP2bPh5P8SviVPNHpscyW0MNqiyXN1cyKzJDCjMis7KjHlgAAWYhQSAD2uqd/qFnpls15fyiGFOrH+gHJPsK/Oj4Pf8FS/2bPjL8Q9H+GmlWWvaDqWvTJbWc2rWtrFbS3MjBYod8F1OweRjhMqAT8uckA/bPxS/5F+3/wCvpP8A0B6AOl0/xf4c1O5WzsrwPM/3VKOmfoWAGfaua+KX/Iv2/wD19J/6A9eO+Hf+Rg0z/r6h/wDQxXsXxS/5F+3/AOvpP/QHoA8d8O/8jBpn/X1D/wChivYvil/yL9v/ANfSf+gPXjvh3/kYNM/6+of/AEMV7F8Uv+Rft/8Ar6T/ANAegDx3w7/yMGmf9fUP/oYr6sr5T8O/8jBpn/X1D/6GK+rKAPwb/bamt9a/4Kg/AvTbqVY7XSIvD88zOwVEWHVLm6kZieAuxRknsK+77/8A4KZfsY6f4nbwxL4881kk8pruGxu5bIPnHE6RFWXP8a5THO7HNeG/tR/8E6fF/wC0r+05afFe/wDFNnpfg4wWNnd20ZmGpNawAidYj5ZiDSBmCksQAckHofUfjN/wTc/Zj8T/AAh1Xwz4G8GW3hzX7KxlbS9RtGk+0rcxLuj85mc+erlQriTccElSrYYAH3/oGv6H4q0Wy8R+Gr+DVNK1KJZ7a6tpFlhmicZV0dSQwI7g1/Nr8NdDtf2zf+Cneu3vjhDqfhzR9S1C7a1m+eN9P0Vvs9nCyH5fLdxF5i9G3PnO4mvpf/gi78Utd1Tw/wCPvhBqdw0+m6G9rqmnIxz5H2syR3KLnor
+
+
+
+---
+*Source: Document d338c9f6bd92d1f92f8eaa091bec0082*

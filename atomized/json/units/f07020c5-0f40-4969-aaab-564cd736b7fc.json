@@ -1,0 +1,26 @@
+{
+  "id": "f07020c5-0f40-4969-aaab-564cd736b7fc",
+  "type": "insight",
+  "timestamp": "2018-11-09T16:10:58.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><br></div>\n<div>I grew up in New York City, a metropolis where over 200 languages are spoken. I came to South Florida to continue my education, and my classes were filled with students from a melting pot of backgrounds. South Florida has one of the most ethnically diverse Latino/a populations in the country. I taught at Florida Atlantic University for three years; according to &quotU.S. News and World Report,&quot FAU makes the cut as one of the most ethnically diverse student bodies in the country. My past year teaching at Palm Beach State College has not differed much from my time at FAU or my time back home in NYC; my classes are filled with students from all different backgrounds. Both the class and myself, thoroughly enjoy the coming together of all our backgrounds, as it makes for a powerful learning environment. Each class while calling roll I ask students questions regarding their favorite food, or favorite music, and other questions of the like, to help stimulate conversation. This allows us all to get to know one another, and quickly helps build a nice class rapport allowing students to become comfortable with speaking out loud or in smaller peer groups. </div>",
+  "context": "From document: Student Success Statement — chunk 10 (chunk 10/11)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "2f489d756c01b783597b8b2f39e18ec1",
+  "relatedUnits": [],
+  "keywords": [
+    "students",
+    "florida",
+    "with",
+    "from",
+    "backgrounds"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

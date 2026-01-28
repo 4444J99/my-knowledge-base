@@ -1,0 +1,33 @@
+---
+id: 4c0862e1-49b5-468c-9d07-b99f3fdeee24
+type: insight
+created: '2018-10-05T22:17:31.000Z'
+document: 15981fe11fce83e658f6940d49a17e08
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - q877fxol8jrxapacssclihnuys9jj6rhjghzuy
+  - ykqj3bnxkk
+  - >-
+    er4aubihc5xhkio8khlj5kh6wpimqea8ib4ybwqdgghbaocafqxqe22lhhtssoiferoykghqpcgcxhgaj3bhhugbodmcvf9q7sel8tbe0qneeqdgghhapcaegacea4ibwqdgghhaotxwfcydlpz96vdfwc2onbyd5jeiw9mgnirnrerks4n6kjq5
+  - >-
+    yvupnvgo7ptvyesdadrkccjnksjvhghbaocacea4ib4qdwghhghbaojadb54mnxyfxyt0jahqeaaigmetwpg9pckdlhggwr1jhdug
+  - >-
+    hc7qqv6imoz4tphc4pzb3o5yhkq5sdlboqdwghhghbaocacea4ib4qdwghhqpnx4nnw2fc5qhwzj2der3rcaiicm8wfsc
+---
+# q877FxoL8JrxAPACSsclIHnUyS9Jj6RHJgHZUY/YkQj3BnXkK+Er4auBiHc5xHKIO8khlj5KH6WPImqE
+
+## Context
+From document: Mike’s Mom’s Spanish Rice — chunk 341 (chunk 341/565)
+
+## Content
+q877FxoL8JrxAPACSsclIHnUyS9Jj6RHJgHZUY/YkQj3BnXkK+Er4auBiHc5xHKIO8khlj5KH6WPImqEA8IB4YBwQDggHBAOCAfqxQE22LHhTsSoiFERoyKGhQPCgcXhgAj3BhHuGBoDMCvf9Q7sel8TBE0QNEEQDggHhAPCAeGAcEA4IBwQDggHhAOtxwFCyDLPZ96vdFwC2onbYD5JeiW9MgnIrnrErkS4N6kjq5+YVUPNVGO7PTvYesdADrkccjnksjvhgHBAOCAcEA4IB4QDwgHhgHBAOJAdB54Mnxyfxyt0jAhQEaAigMetwPg9pcKDLHggwr1JhDuG+Hc7QqV6iMoz4TPhc4PZB3o5yHKQ5SDLboQDwgHhgHBAOCAcEA4IB4QDwgHhQPNx4Nnw2fC5Qhwzj2der3RcAiIcm8wfSc+kZyYB2VmP2JkI9xZ35Ivhi+Ffgzh+LHwsfGqw+Q6DHHM55nLMZWfCAeGAcEA4IBwQDggHhAPCAeGAcGBRHGBezjxdhKcITxGeInyFA8KBRuCACPcWE+4YLiFnng6fDv8s4j3WBEATAE0AFp0AyC5kF7IL2YVwQDggHBAOCAeEA8KBxuMA83Dm5czTlY5LQDts28QTSf+kfyYB2V+P2J8I9w7pyL+FfwtfChTzXRMKTSg0oWj8hEJ2JbuSXcmuhAPCAeGAcEA4IBzoZxwgJnt13v2yzbtFbIrYFLEpOxAOCAeaiQMi3DuEcHcNHUfgqfCp8E+DmiBogqAJQj9PEKT/0n/pv8ZB4YBwQDggHBAOCAeEA+lxgB3sL4UviWAPRay6fIvuxyWghacO5QOln72hnyLcu8TAXg1fDRfaQPl8+Hz4YvCPnfDPDKZ3OOSgy0GXgy57EQ4IB4QDwgHhgHBAOCAcEA4IB3oJB54Inwir82LmycybRVj1BmGlflQ/mgS0MNAlvKXs9Y32KsK9yxUXh4JDXqqnqj9vDgeOhxxqOdS95FBLn6XP0mcRRcIB4YBwQDggHBAOCAf6BweY1zLPZd7LPFgEzxsJHslD8jAJiKDucp5PdtwbdizCvccN8e9h9YrjV8JXwleDOP5r+NfxWPEvhC+Ef7H758LnwhcsrTowzxXimE/vCGWDg0O6IFwQPj0Yx76UU96VPhY+ZXJqtRwejR+Nnxw1B1yp5CA9aLwdhCI4RHD0D8EhQlP2LnuX
+
+
+
+---
+*Source: Document 15981fe11fce83e658f6940d49a17e08*

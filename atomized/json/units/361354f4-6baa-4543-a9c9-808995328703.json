@@ -1,0 +1,26 @@
+{
+  "id": "361354f4-6baa-4543-a9c9-808995328703",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **LAYER 1: AI BRAINS / KNOWLEDGE BASES**</div>\n<div><br></div>\n<div>### **Active Interfaces &amp Context Management:**</div>\n<div><br></div>\n<div>**AI Platform Integrations:**</div>\n<div>1. **js-genai** – Gemini and Vertex AI SDK</div>\n<div>2. **aionui** – GUI for Gemini CLI</div>\n<div>3. **terminal-ai** – Multi-model AI in shell</div>\n<div>4. **kimi-cli** – MoonshotAI CLI agent</div>\n<div><br></div>\n<div>**AI Knowledge Resources:**</div>\n<div>5. **openai-cookbook** – OpenAI API guides</div>\n<div>6. **anthropic-cookbook** – Claude recipes</div>\n<div>7. **xai-cookbook** – Grok API examples</div>\n<div>8. **awesome-ai-agents** – Autonomous agent catalog</div>\n<div><br></div>\n<div>**Critical Bridge Tool:**</div>\n<div>9. **chatgpt-exporter** – **YOUR LAYER 1 → LAYER 2 BRIDGE**</div>\n<div>   - Exports AI conversations</div>\n<div>   - Preserves context and history</div>\n<div>   - **This is how you capture AI brain state**</div>\n<div><br></div>\n<div>**Status:** ✓ Multiple AI interfaces, ✓ Export capability exists</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **LAYER 2: PERSONAL PROFILE (4444JPP - 35 repositories)**</div>",
+  "context": "From document: Contents_Table — chunk 56 (chunk 56/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "layer",
+    "cookbook",
+    "knowledge",
+    "interfaces",
+    "context"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

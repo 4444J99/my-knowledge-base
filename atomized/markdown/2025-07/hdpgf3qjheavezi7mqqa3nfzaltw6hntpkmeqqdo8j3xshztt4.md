@@ -1,0 +1,32 @@
+---
+id: 66ddeeb4-5484-465e-8932-ae03b489f61f
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    hdpgf3qjheavezi7mqqa3nfzaltw6hntpkmeqqdo8j3xshztt4ubhaxponygbtznedmrmaob9fezfozvjt5yofp0ryu3f6m5
+  - gxt5bttv8ym
+  - iyjrgzvnjm3mywjxzchdlfbf
+  - >-
+    7vfrxky2e0bxmokeurrok3vwfolluuk6aemufjdjd9ws0dsvqdyfacbachaahqah0hqei3ks8cqfcqisreo7vuns
+  - tiurpsie6u9viicm8xf7w0ufwxqdxsnzdrfz4dosumzcotup0g3sgkbeor
+---
+# HDpgf3QJhEAvEZi7MQqa3nFZAlTw6hntpKMeQQDO8J3XShZtT4UbHAXPoNYGbTZnEdMrmAOB9FEzfOZv
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 3611 (chunk 3611/18928)
+
+## Content
+HDpgf3QJhEAvEZi7MQqa3nFZAlTw6hntpKMeQQDO8J3XShZtT4UbHAXPoNYGbTZnEdMrmAOB9FEzfOZvjt5yOfP0RyU3f6m5/8+GXt5BTTv8ym/Vy9/IyJrgzvNjm3mYWJXZCHdLFbf+Ot+7vfRXky2E0BxmOkEUrROK3vWfoLLuuk6AEmUFjdJD9ws0DSvqDyFACBAChAAhQAh0HQEi3kS8CQFCQIsReO7VUNS+TiuRPsIe6U9VIICM8XF7W0ufWxqdXSnzDrFz4DOsuMZCOTup0G3SgkBEoR/8n1LhEGPr+ltH8/d8458Nl36salwXJIi1MREaWZVZi/ZJ5Tf+QqhcTcTbbYNQn2+QXy9FETjNh456SAgQAoQAIUAIEAJPQoCItxZTjifdVPqeEBg4CMABi3BoOGZVwTP/Okd6YJ7l7u/tsm3Xvhm17VLRtCWR4UnObGvDp556CpJsqB8+crrP7tYc3TO5K/+omXIg0jXJZrDBYPNYJvzenXuq1UK8W5TCnWIDgUFGhXBnS7bugUxXRAgQAoQAIUAIDBwEiHgT8SYECAEtRqDmaU+Fv03VBN+BSYn78qohk37juzEXPm088kYV6orDDR6d7uoiYnEdTaRelkkFrs1z/Pfezm39pUY33qD3/tVw6YfKZceTIvOc9S1GQG6NN98Zsd9Pot/yq0ruOPvhVsPtJju4n1M8abdufa+46SU+7G4gMgS8my9m6AawdBWEACFACBAChMDARICItxZTjoFpsnTVhMDDCJSMlimDuE3PBfUlBaVz3fqp+cyH9RtO5b+0KXnkswFJ+UKPAA4U0cOSHGueVi7cFnP4TR1JSL76fdXqUymJlQK2s7FpoJnjC07tMedt3n/mz8gDt5viMMxiOGeUrfSMioh3qxeU1Q3Ehol5rq+fT3/Y8ukzIaBCBCDsj4SRfW15Kw4mznkt8plFwePnBYyf6z/55aD5m6J3XM9GGfm7/1WvwjNSU4QAIUAIDEAEiHgT8SYECAEtRqCgQeoVbDtmRgiR4f5C4PQHdWuP5oybExqXLfANt5d6WQXF2pc1K17aErP1SuaFL7VeBf3232vXX05PLHezFpiaBrT7vWUXPR4rt2Y3zXEYe5hNPVd6WkXE+5YXmjKUGMVmu6w/nToA5yh0yWpF4O4/6s9+WrrlUubL22Oh2pBXJ4lMcwqIsvcJs/UK
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

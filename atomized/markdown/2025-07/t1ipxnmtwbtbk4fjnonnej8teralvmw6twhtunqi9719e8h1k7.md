@@ -1,0 +1,32 @@
+---
+id: 147e46d9-6b39-41ae-9109-bce3480ce339
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - t1ipxnmtwbtbk4fjnon
+  - >-
+    nej8teralvmw6twhtunqi9719e8h1k7sblqo2disjlgrc2vahsn3tseid5phcc6rzmqjouncoiuhajppjekzv8wu2auzmjayyhvzjjpeh
+  - 3tieh3nht5y7memwwfhdiaaftbyxurkqjoj1yk8myqlcphz1e2yxb7jlbvkdqm2aa
+  - erslb
+  - >-
+    umryjntnvu0ddzlasrb2q9v9oym6njnct0svabyoa7phks242szta337jd4afdno0leq6mdmf5zia8lxkhcgad77tfpmubkjhcxk5aiupdqtw5mhyxweh13m7v9gk
+---
+# t1ipxNMtwBTbk4fJNon+NeJ8TERALVMw6TWhTunQI9719E8h1k7sBlQO2diSjlgrc2VahsN3TSeiD5PH
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 17567 (chunk 17567/18928)
+
+## Content
+t1ipxNMtwBTbk4fJNon+NeJ8TERALVMw6TWhTunQI9719E8h1k7sBlQO2diSjlgrc2VahsN3TSeiD5PHCc6rzMqjOUncOiuhaJppjEkzv8WU2AuZmJAYYHvZJjpeh+3tieh3nhT5y7MeMwwfHdiaaFTBYxuRKQjoj1YK8MyqlcPHZ1e2YXB7jlBvKdQM2Aa+AJS+ERsLb/UmrYJntnvU0DDZlaSrB2Q9V9OYM6NjNcT0svabYoa7phkS242sZtA337jd4AfDNo0leq6mDMF5Zia8LxkHCGAd77TFpmubKJhcxK5aIUPDqtW5mhyXwEH13M7V9Gk+8oBML8Cz18NUicatic0/JkbZfON2gx8M2zSW6LmaMgQGEpCZeCGEZHoIxMhG1K3pZOmsAMYV/V7CKlGeq8lxCTIfPmHE/56r6fov3pbvnsCPv01eofvPXfsW+BgoswW45qxYVEC6GrM8NAo8anznO0U3j68AmbbZ6iMOUNCJ2GYN2Vl4kkUiq7ls29+UBpGp/MJrO3ogd3dQH0+ivtCuAu704Ev/esvrFXz4a1O+02NooebTj513b+BmbMDObVjDHfggpCswFzf4ju56+ySXCZDebuBHKz2H1WVYX4E2JKuZgXtKCbm1HHr5bEeoSwTrn2fsEDwCVt4p/8oT/1Eiepj2pLohPB9Xc7uHxmRp/njA0GiVrQ4A1+HGNmtyR8qujABynYr73w4gLX2upp6bE4PM6tyCr9Hd/9MkNYJOD77052qqCThGhwbYR8cAWT2unRWSaJPBj2Rr+p2Gd2tFxPJ6RkCoS0guq3M1navpvmk5Kh4et4I+RSE9bwDPFcCt6erDEPVnjRpBpwdf+vpitptZ/uDo9EQt1Hwc7LzdwM3YQKzaobfyAroilxWmV/nOMkWlfcKsx/wrt7qGAcPqMvxwC5FoGzvoKSXq1or6mztCXSJYWR6wQ/AIWJnA+a3Joa1TcX+XrxG9tsH/Ib81rT+8HYcnaYAW9Jha1hr5kPAd9etENMcxepWdCybkyvHNtqM4DIbjDunaZDrhM9Kz7SZbZroNo8SfqK3apNVh3lJSq07hULoFWDTbNsm2i1KlxbtPM60kl2hwfw0ItUCZbkYFCQX3FsYUH+S7TH2nk6LDo4ZoNwCGd/g+KVGcNTR98KMZtjp0NLj7bI09tMaKIfmM0o+CKHVuMHKRIRjz
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

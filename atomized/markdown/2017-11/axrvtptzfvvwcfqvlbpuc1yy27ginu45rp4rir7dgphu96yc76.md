@@ -1,0 +1,33 @@
+---
+id: 44aeab34-0ee2-4e79-9595-4f51b01777ad
+type: insight
+created: '2017-11-08T14:03:53.000Z'
+document: f47673d86e05016edf5cfc9824f2b752
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    axrvtptzfvvwcfqvlbpuc1yy27ginu45rp4rir7dgphu96yc76hkygg3es3eeeezsg56dfwrruhzzbmfo0g7v51lplaw0rjuiyzsabmhni7vwhcssqfcubnb6n2rk5c2ixmiv3
+  - uhmezhsut1nsyxjju4jj59o9dltdrphjhu4ptxo6pj5xmyqbdhzjpn3olpzc
+  - at8ozz3mgq28j
+  - >-
+    ckmxajiibaj47zi5r84ffopazofipwddlgaw11kn1wrj8yllhlk59gbp0r9yp2hreds763t22xhctqorlwsfpocdk
+  - >-
+    jl436wy67fqsy8mo7hswmhshaxb98jp1r9jywv4jm8nhw0ucz4m8xaj4s1jrvfksrc3enmbceamoygdprgeuvjahykhtx1inifu
+---
+# AXrvtPtZFVVwCfQVLBpUc1yy27gInU45rp4rIR7dgPHU96yc76HkyGG3eS3EEeEZSG56dfWrRuHZzBMF
+
+## Context
+From document: use this photo as a reference to create my own cut out piece. also… — chunk 81 (chunk 81/242)
+
+## Content
+AXrvtPtZFVVwCfQVLBpUc1yy27gInU45rp4rIR7dgPHU96yc76HkyGG3eS3EEeEZSG56dfWrRuHZzBMFO0g7v51LPLaW0RjuIyzSABMHnI7VWhCSsqFCuBnB6n2rK5C2IXmiV3+UhMEZHSuT1NSYXjjU4JJ59O9dltDRPHjHU4PtXO6pJ5xMYQbDHzjpn3oLPzc/aT8Ozz3MGq28J/ckmXAJIiBAJ47ZI5r84fFOpaZofiPWdDlgaW11KN1WRj8yllHlk59GBP0r9YP2hReDS763t22xhcTqOrLwSFPocdK/JL436Wy67FqsY8mO7hSWMHshAXB98jP1r9JyWV4JM8nHw0ucz4M8Xaj4S1jRvFkSrc3enMbceaMoYgdpRgeuVJAHYkHtX1inifU/EGnya9pMqtrOk5Bt1OBd6c/z7HII3SQt909cDANfEOmOl5p97YMhMuDPExORuQgcD1PevoW68SeHfDEXgzVrGylgvYdL3SqzEi4mZyGZvQAdAfxr6KvQV9DwabPTrDWPDnjRbfVtes44rnL29zeRPhZ9w+Q3C8YZDgg9cjBrat/E2l6oln8PvGcztdWayLY6iDmLUU2nEbnuQCODzkCvN1udN1S9uNQ062WaRwrXlrHwLq2cYLqvTerckjHFef24uxdXWiNbteHT3ZobYthwWOQ0JPAZRg5HcV5Xs3dnozleJ9Q/AnUG8IfEvwXousIttPY67byafcQKTCUeQrNAW6xsB1B5PNfvrrUsUd3MNh/ekkA9iWJH6Gv5+vhpr2lav4m8NeK9P1IXNxpV3axatpzKRO58z5biONhhpDnDsOTjJr93NV1byr2Xgu5jDtn+EkDAHPYGuWstTiKSNLKH5yEfABqvcTxQHzQqoWO3Hc56Yqv8AbzbDaVJMgyfbPNULgJcSJuUkqcqewPrXMxE8sq3kpgYmJVwrAcZ//VWlCbKzg8q3JkUHknrWTNExIffyCCTxk09rhUjwqgHtnoagC3PcIpXYgG05JPoarTXJaOUQckgnJ9fYelZxu0Y7HcFzwAaY100c5ZhmPGD6AH0oAjFy0UvkSy7mOCB9R0p0solykZORwc1VlSB3a7iXLE/Kc9MAUwspkjO4hz1HQUALL5IkV1ckoOQKvxSl0EwbKnjaevPeq0MCxvKZGAyOhqK5uYYVVVB4IJI+v+FAG9ZE3d5HYjgzyIo
+
+
+
+---
+*Source: Document f47673d86e05016edf5cfc9824f2b752*

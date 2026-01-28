@@ -1,0 +1,26 @@
+{
+  "id": "913157b8-6611-416c-b6d0-22c8af869154",
+  "type": "insight",
+  "timestamp": "2019-08-23T16:21:59.000Z",
+  "title": "<div>I Smile Dental</div>",
+  "content": "<div>I Smile Dental</div>\n<div>Dr Helmy </div>\n<div>[REDACTED:PHONE NUMBER]</div>\n<div>Immediate assignment </div>\n<div><br></div>",
+  "context": "From document: I Smile Dental",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "7edfed31bbd5dfda87b457718ed4995a",
+  "relatedUnits": [],
+  "keywords": [
+    "smile",
+    "dental",
+    "helmy",
+    "3979",
+    "immediate"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

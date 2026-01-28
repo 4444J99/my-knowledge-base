@@ -1,0 +1,26 @@
+{
+  "id": "1790e48d-6136-414f-9927-4473b6249b56",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "</td></tr>",
+  "content": "</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Week 5</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>“The Trickster stole XP from the Archivist.”</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>“The Trickster gave XP to the Archivist as an act of charity.”</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>The Week 6 Scribe must decide whether to keep the change or reject it.</div>\n</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Week 8</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>“The Oracle’s prophecy failed.”</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 351 (chunk 351/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

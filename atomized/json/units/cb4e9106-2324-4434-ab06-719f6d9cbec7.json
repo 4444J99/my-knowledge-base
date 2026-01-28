@@ -1,0 +1,23 @@
+{
+  "id": "cb4e9106-2324-4434-ab06-719f6d9cbec7",
+  "type": "insight",
+  "timestamp": "2019-05-10T22:48:31.000Z",
+  "title": "<div>Romance or Politics</div>",
+  "content": "<div>Romance or Politics</div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: Romance or Politics",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "d9ddff18fd064993c8d74c75fc7f2192",
+  "relatedUnits": [],
+  "keywords": [
+    "romance",
+    "politics"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

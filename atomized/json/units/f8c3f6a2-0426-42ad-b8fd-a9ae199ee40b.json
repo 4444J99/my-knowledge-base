@@ -1,0 +1,26 @@
+{
+  "id": "f8c3f6a2-0426-42ad-b8fd-a9ae199ee40b",
+  "type": "insight",
+  "timestamp": "2025-03-07T17:58:40.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><b>115.5 hrs</b></div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div><tt> </tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>Ongoing Weekly Expectations (Moving Forward)</tt></b><tt><br></tt></div>\n<div><tt> </tt></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><b>Course</b></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><b>Weekly Hours (Grading, Admin, Student Correspondence)</b></div>\n</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>ENG 101</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>~3 hrs/week (2 hrs grading + 1 hr admin)</div>",
+  "context": "From document: Time Breakdown – Additional Compensable Hours — chunk 13 (chunk 13/18)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "ff7be3c3068d0a589fcd441146184c4d",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

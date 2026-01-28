@@ -1,0 +1,26 @@
+{
+  "id": "9b4d61a6-9f30-424b-ba30-577e3b149c81",
+  "type": "insight",
+  "timestamp": "2025-03-07T17:58:40.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>—</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>—</div>\n</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><b>Canvas Usage During Class (Subtracted)</b></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>-35 hrs</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>-10 hrs</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>—</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>—</div>",
+  "context": "From document: Dear Dr. Guirguis, — chunk 3 (chunk 3/20)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "d9b1cb225e0e89e2cd1d01d3212307ec",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "f081f20d-7f54-44ae-8740-3afa265f6d11",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>│</div>",
+  "content": "<div>│</div>\n<div>├── output/</div>\n<div>│   ├── unified-documentation/</div>\n<div>│   │   ├── your-complete-creative-history.md</div>\n<div>│   │   ├── concept-evolution-timeline.md</div>\n<div>│   │   └── multi-modal-portfolio.md</div>\n<div>│   ├── implementation-queue/</div>\n<div>│   │   ├── archive-concepts-to-code.json</div>\n<div>│   │   └── priority-ranked-projects.json</div>\n<div>│   ├── generated-repos/</div>\n<div>│   │   └── new-repos-generated-from-archive-synthesis/</div>\n<div>│   └── feedback-loops/</div>\n<div>│       ├── insights-to-feed-back-to-ai/</div>\n<div>│       └── archive-material-to-resurface-in-conversations/</div>\n<div>│</div>\n<div>└── meta/</div>\n<div>    ├── pipeline-config.yaml</div>\n<div>    ├── orchestration-workflows/</div>\n<div>    └── recursive-improvement-log.md</div>\n<div>```</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **The Integration with Existing Org Infrastructure**</div>\n<div><br></div>\n<div>Your existing repos already provide components:</div>\n<div><br></div>\n<div>### **Already Built:**</div>\n<div>1. **`auto-revision-epistemic-engine`** → Orchestrates the 4-layer synthesis</div>\n<div>2. **`solve-et-coagula`** → Transforms archive material into refined output</div>",
+  "context": "From document: Contents_Table — chunk 37 (chunk 37/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "archive",
+    "repos",
+    "output",
+    "your",
+    "json"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

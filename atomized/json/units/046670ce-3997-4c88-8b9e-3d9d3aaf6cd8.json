@@ -1,0 +1,26 @@
+{
+  "id": "046670ce-3997-4c88-8b9e-3d9d3aaf6cd8",
+  "type": "insight",
+  "timestamp": "2025-09-24T12:01:25.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Anyway, there’s a lot to this</div>\n<div><br></div>\n<div> </div>\n<div><br></div>\n<div><img style=\"max-width: 100%; max-height: 100%;\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAArYAAAwICAYAAADL/Na0AAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAACtqADAAQAAAABAAAMCAAAAAAGAGppAABAAElEQVR4AezdB8BeVX0/8BMgbAh7BZmytwwZ7lVnHXVv0TqKo2opav2j1GrVOqmzjrYqWkFwIe7J3hvZOyHsnbD5f39P8sSH1/dNQghCTz+nDYnv+6zzOee593vPOffeSfemNIUAAQIECBAgQIDA/3KBxf6Xf34fnwABAgQIECBAgMBAQLDVEQgQIECAAAECBLoQEGy7aEaVIECAAAECBAgQEGz1AQIECBAgQIAAgS4EBNsumlElCBAgQIAAAQIEBFt9gAABAgQIECBAoAsBwbaLZlQJAgQIECBAgAABwVYfIECAAAECBAgQ6EJAsO2iGVWCAAECBAgQIEBAsNUHCBAgQIAAAQIEuhAQbLtoRpUgQIAAAQIECBAQbPUBAgQIECBAgACBLgQE2y6aUSUIECBAgAABAgQEW32AAAECBAgQIECgCwHBtotmVAkCBAgQIECAAAHBVh8gQIAAAQIECBDoQkCw7aIZVYIAAQIECBAgQECw1QcIECBAgAABAgS6EBBsu2hGlSBAgAABAgQIEBBs9QECBAgQIECAAIEuBATbLppRJQgQIECAAAECBARbfYAAAQIECBAgQKALAcG2i2ZUCQIECBAgQIAAAcFWHyBAgAABAgQIEOhCQLDtohlVggABAgQIECBAQLDVBwgQIECAAAECBLoQEGy7aEaVIECAAAECBAgQEGz1AQIECBAgQIAAgS4EBNsumlElCBAgQIAAAQIEBFt9gAABAgQIECBAoAsBwbaLZlQJAgQIECBAgAABwVYfIECAAAECBAgQ6EJAsO2iGVWCAAECBAgQIEBAsNUHCBAgQIAAAQIEuhAQbLtoRpUgQIAAAQIECBAQbPUBAgQIECBAgACBLgQE2y6aUSUIECBAgAABAgQEW32AAAECBAgQIECgCwHBtotmVAkCBAgQIECAAAHBVh8gQIAAAQIECBDoQkCw7aIZVYIAAQIE",
+  "context": "From document: __A-System-Operates-__@4-B100M-@4-B100M@4B100--- — chunk 6 (chunk 6/1114)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "9e5f6b008d737451ce9d5c855d79cde5",
+  "relatedUnits": [],
+  "keywords": [
+    "anyway",
+    "there",
+    "this",
+    "style",
+    "width"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

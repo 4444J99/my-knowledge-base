@@ -1,0 +1,32 @@
+---
+id: 405a6c85-32f8-4ff1-b163-bc58bd8ee5f8
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ynyzgaygyonk42vwalohw4jdqui58j89kbsxv64em7yuao
+  - csbgx6xr
+  - hvzcwwes3hzszieezzmfbzo3dd6jh5b1aqmna
+  - >-
+    q7dadowcs34ifkgi9sr6ezlpzd1du23ozgyqxrpamahnt98b56bljdjlyqvokps9au1cart2cd24a7mf
+  - >-
+    bbzyxvkocidixornyphi0tjv7mvuyftzyart0br22uhm0itzrixwmslllbzsqusbayxwps5hwsppmq8lxr3ztyteocyp17o2y0u7m
+---
+# yNYZGaYGyOnk42VwAloHW4JDQuI58j89kBsxV64Em7yuAO/CSBGX6Xr/hVZCwwES3hZsZiEEzZMfBZO3
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 8358 (chunk 8358/11629)
+
+## Content
+yNYZGaYGyOnk42VwAloHW4JDQuI58j89kBsxV64Em7yuAO/CSBGX6Xr/hVZCwwES3hZsZiEEzZMfBZO3Dd6Jh5B1AQmNa+q7DadOwcS34IfKgi9SR6eZlpzD1Du23OZgYqxrpAMaHNt98B56BLJDjlyQVokpS9Au1CaRT2CD24A7mF/BBZYXvkOcIDIXOrnypHI0TJv7mvuyfTzYArT0Br22UhM0ITZrIXWmsLLlbzSQusBaYXwPS5hWSppmQ8LXr3ztyteOcyP17o2Y0u7M/DB4lVtyw3aHMyb6G4ex60cUNAUX0zDdgP8Rc4ChvzzKNECuUT/IXM8NvpOthRNPuSauOuVdQ6ziKEd5nE+Ho4O1Hfq7aouVa5S14qjkaj5s8BacAnAzSdRLaToSWBEgw0xUuQbxNRjNnPCs/WVyYb/vPa1tW9u6QUiGfTlCAsyBZhrqBDmP5pZv2o4oi4i4oEegSVqamjPNmfCDEM4a3MEXopfn1BTXVo6vdNhcHQAeQSYskF8VbhDbVJuHbysx7S1/90qKnJdJcBXTZ2iLXcy14KXoVv5W/nZ8a+TWyG1nWusbmwlLsgTVzYB1je+CuCmmBf714z//6c9/+rP1yn+iVJV2lU5P7hz/JIifr/eNanRiFCpFO3P3bTpGuCK/ui91UlThlSEVz6ljYYkiL5jw4uC7o3YFj9FOuQPBtmAbHAcZEl1nuHhOTnuT/SD7QTN6mQgb7aWmrNzYgbEDowdUU/KWC7QsbFymBdXNSpmyBKcEb8fyWZfnA4j37WCgb03b5Fhekk9IDrQEAevXwiMsL28BrOdeqmhx7InsENYFiKBKUglH/onZojaAi100MJphwWqtxcfALr4hzRX6hWL6xWTP6hd1LzjC0KXEkRsBMffr2zXTMTyyJ6SWOz6h/v+8/9+Hf5F8s/UbVyD58ZIYKz6R6zASn6WHXWLORJ046qkz19VCKG8tb023FjcDUtm9bTeabjR93qTVjfuZR3NoTq1es+5B7qzwNR7ST7sXmht0BDHbl1I6XhgvFAvctDZ0HA8xdxzTQlOtwXpySP5gtInlElDaadcT1K+J9VVcy0NKCyxbHC0BrtfIiTbOXU88OPCCtOeFE/jqBKY4tcZZREmFaSFZ9eEzV5658tUrC38MuESN1/TPtm6v/CrAoS3jXgQWxDHdwnIXn2gLRcZD9SYc
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

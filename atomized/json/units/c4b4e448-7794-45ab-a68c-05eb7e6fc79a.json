@@ -1,0 +1,26 @@
+{
+  "id": "c4b4e448-7794-45ab-a68c-05eb7e6fc79a",
+  "type": "insight",
+  "timestamp": "2018-03-23T20:31:26.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><i>Open View Logline</i></div>\n<div><i><br></i></div>\n<div><i>A broken family dead set on going their separate ways in a technologically advanced suburbia are locked inside their house by a terrorist organization broadcasting the families meltdown publicly and making them victims of their own devices. </i></div>",
+  "context": "From document: Open View Logline",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "c08e608bf32e0890e473a25284eedd3f",
+  "relatedUnits": [],
+  "keywords": [
+    "their",
+    "open",
+    "view",
+    "logline",
+    "broken"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "5904a7ec-1604-4438-a269-860eec0fe37c",
+  "type": "insight",
+  "timestamp": "2024-04-02T13:31:12.000Z",
+  "title": "<div><h1>SFLLUXRE Mobile Application Management</h1></div>",
+  "content": "<div><h1>SFLLUXRE Mobile Application Management</h1></div>\n<div><br></div>\n<div><br></div>\n<div>Meta Business Suite</div>\n<div>https://apps.apple.com/us/app/meta-business-suite/id514643583<br></div>\n<div><br></div>\n<div>Meta Ads Manager</div>\n<div>https://apps.apple.com/us/app/meta-ads-manager/id964397083<br></div>\n<div><br></div>\n<div>Zoho One</div>\n<div>https://apps.apple.com/us/app/zoho-one-the-business-suite/id1417937496<br></div>\n<div><br></div>\n<div>Zoho Social</div>\n<div>https://apps.apple.com/us/app/zoho-social/id906377559<br></div>\n<div><br></div>\n<div>Zoho CRM</div>\n<div>https://apps.apple.com/us/app/zoho-crm-sales-marketing/id444908810<br></div>\n<div><br></div>\n<div>Zoho Email</div>\n<div>https://apps.apple.com/us/app/zoho-mail-email-and-calendar/id909262651</div>",
+  "context": "From document: SFLLUXRE Mobile Application Management",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "59112b786f0fe3e5d3df895a17360e2c",
+  "relatedUnits": [],
+  "keywords": [
+    "zoho",
+    "https",
+    "apps",
+    "apple",
+    "meta"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

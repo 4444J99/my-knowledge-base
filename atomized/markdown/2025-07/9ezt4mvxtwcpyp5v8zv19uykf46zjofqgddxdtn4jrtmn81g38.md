@@ -1,0 +1,32 @@
+---
+id: feff862c-9246-4aeb-8dac-282fbe5a4f5a
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 9ezt4mvxtwcpyp5v8zv19uykf46zjofqgddxdtn4jrtmn81g38tz9mzri3zheytukk
+  - qwlimj6vk9vw08bcxlg7bry
+  - cu1wowttegxcgf8zspezk1zswts7cyzl72k8ggrfairrwr
+  - >-
+    hibjzxxu7ha7gs697dsos8ykj0xxth45ltlihzterre8gxqlh8u3ofxcz4bmny9dxvzft1y9eoiczindmfzc6cwwrhrfra1cynwwgz0pc3rou5so
+  - >-
+    yro9zztryf7lkmkc2rod5hdjlmflbgjrvdpzsz5fxyxgbjjubwle8ksmyar2xv3kwfdley29j4988qig4uym7t0sidyqfm6
+---
+# 9eZT4MVXTWCPYp5v8zV19uyKF46zjoFqGDdxdtN4JRtMn81G38TZ9MZRI3zHEYTuKK+qWLIMj6VK9Vw0
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 8695 (chunk 8695/18928)
+
+## Content
+9eZT4MVXTWCPYp5v8zV19uyKF46zjoFqGDdxdtN4JRtMn81G38TZ9MZRI3zHEYTuKK+qWLIMj6VK9Vw08bCXLg7bRy/cu1WOWTTegXCgF8ZsPEZk1zSWTS7cyzL72k8GGrfAiRrWr/hiBJZXxu7ha7GS697dsos8ykj0XXtH45ltLIHZteRRe8gxqlH8u3ofxcz4bMNy9DXvZft1y9EoICziNDMFzC6CWwrhrfRA1cYNwWgz0PC3RoU5sO/YRO9zzTryF7LkmkC2rOd5HdJLmfLbGjrVDpZsz5FXYxGbjjUbWlE8KsmyAr2XV3KWFdley29j4988QIg4UYM7T0SIdyQfm6+CKndF4KwRG2tGcluBfHWzPfnKP0mAerZ+7cEFHmuyzIKfLR6tFprfDsJCbyeX0VzECrOGqj3EVPtd44xopT57EH4rNWnnyP6u7kQ+mpen0+PUclj/HFtVMc4FUW2vQIcmn5O+n5uGrEj9q+rdFVz5UaZikxFKrUb3sUd/aIwj/CY/RQUOp1GfIqpvmH+JChjV/QIktxLen6h9pwc/fk6vUj9+qye8bzbPTi+PH/Bic7wf8eSNHB25PPn3cTpT/IfstX1nrfy29/Hz49+O3nsLjewN4gMSVM4FJ9pYj1Qd6WGeuk29r+7SiFpvO37YafTWDyyBuB0QsS0dC+Lc40rxVJ/cM/svj5jZ9fowNvYYZjiVy5ZxbNHkiqV8hdTXNo21BwXukwwb7s2jiqVrZE/16JJ2mC/7CBlNI8HM/posux/ZxZVPv++FVUBnAzasKZnW46PNyLIaN42EvVejQuRLvsKoEeYIjXMcjd1ZjwpwHVjmmNkyymwZ5RFmtBxposcBZqxepVnGmVdyZS7YpophkKOxFcpZ6BVyazGMYl7XwyPbs0bl8SvNYTpqFRSnn3EKPLbV2egRDulLIUByZ0os6RuZKcPYCw3buPzKztqmQstJVtWnyI8+pmjl7CmjYRS3jBz10iv4IK4kLyNKzYuRnYzAvuYy+2I5joq90LilkHNssy4Dge1Fk/NNdXNk9yWzxt5Zhn3T8iyDRGSNyxwDY7KeY5h46WKqPc7s2jpxBLHveunm3sTgvqDnyKOm6wUIXpmRTURm/NEosQGy42PUoK3WOVa7tPnPsnQLy0/MdWRcfQ3yit/apoqBKWrOMcjVKI8kI2PGEbOtao3TRtHD
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

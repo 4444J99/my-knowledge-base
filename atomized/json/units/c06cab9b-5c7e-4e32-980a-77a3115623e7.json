@@ -1,0 +1,26 @@
+{
+  "id": "c06cab9b-5c7e-4e32-980a-77a3115623e7",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:18:05.000Z",
+  "title": "<li>- [ ] **Event-driven architecture**:</li>",
+  "content": "<li>- [ ] **Event-driven architecture**:</li>\n<li>  - Adopt event-driven patterns (e.g., publish-subscribe) for loosely coupled systems.</li>\n<li>  - Use a message broker like Kafka or RabbitMQ.</li>\n<li><br></li>\n<li>---</li>\n<li><br></li>\n<li>### **3. CI/CD Pipelines**</li>\n<li>Automate workflows for building, testing, and deploying software:</li>\n<li>- [ ] **Build pipelines**:</li>\n<li>  - Validate code quality with linters, formatters, and static analysis.</li>\n<li>  - Check for dependency vulnerabilities using tools like Dependabot or Snyk.</li>\n<li>- [ ] **Test automation**:</li>\n<li>  - Write unit, integration, and end-to-end tests.</li>\n<li>  - Use mocking or sandbox environments for external dependencies.</li>\n<li>- [ ] **Deployment strategies**:</li>\n<li>  - Implement blue-green or canary deployments for safe rollouts.</li>\n<li>  - Automate rollback in case of failures.</li>\n<li><br></li>\n<li>---</li>\n<li><br></li>\n<li>### **4. Security and Compliance**</li>\n<li>Proactively address vulnerabilities and compliance requirements:</li>\n<li>- [ ] **Authentication and authorization**:</li>\n<li>  - Use OAuth 2.0, SSO, or OpenID Connect for consistent authentication.</li>\n<li>  - Enforce RBAC (Role-Based Access Control) and least privilege principles.</li>",
+  "context": "From document: full best practices house keeping; — chunk 21 (chunk 21/24)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "3e83484e9c334693cb3ed7e0779f00e5",
+  "relatedUnits": [],
+  "keywords": [
+    "event",
+    "driven",
+    "like",
+    "pipelines",
+    "automate"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

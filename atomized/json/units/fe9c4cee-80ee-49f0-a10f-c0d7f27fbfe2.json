@@ -1,0 +1,26 @@
+{
+  "id": "fe9c4cee-80ee-49f0-a10f-c0d7f27fbfe2",
+  "type": "insight",
+  "timestamp": "2019-05-16T17:37:19.000Z",
+  "title": "<div><span style=\"font-size: 21px\"><br></span></div>",
+  "content": "<div><span style=\"font-size: 21px\"><br></span></div>\n<div><span style=\"font-size: 21px\">The transi-tion from definition to evaluation can be tricky, however; as you’re writing, it’s not always clear when you’re defining and when you’re evaluating. (For example, if you define someone as a hero, isn’t that also an evaluation?) Nevertheless, most students will benefit from thinking of the two as separate, at least in the abstract.</span></div>\n<div><span style=\"font-size: 21px\"><br></span></div>\n<div><span style=\"font-size: 21px\">Many students will need help choosing the level of evaluative abstraction for their arguments. It’s one thing to argue that The Em-pire Strikes Back is the greatest film of the twentieth century; it’s something else to argue that it’s the best of the Star Wars episodes. The best argument for a student paper might lie between those ex-tremes, and most students will need help crafting a strong, arguable thesis. Some students will be content to argue that something is good or bad; push them to complicate their ideas so that they write more interesting arguments.</span></div>\n<div><span style=\"font-size: 21px\"><br></span></div>\n<div><span style=\"font-size: 21px\">As with arguments of definition, evaluative arguments challenge students to defend their criteria. Toulmin logic will show that criteria are warrants and must be developed with audience in mind. If the audience does not accept the criteria, the evaluative judgment will not be accepted either. Peer review or other forms of draft response will provide students with an audience of thoughtful readers who might challenge writers’ criteria.</span></div>",
+  "context": "From document: EAA Chapter INTROS — chunk 9 (chunk 9/18)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "96eb322624e76b9b2f5ac7aabacd881c",
+  "relatedUnits": [],
+  "keywords": [
+    "span",
+    "will",
+    "style",
+    "font",
+    "size"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

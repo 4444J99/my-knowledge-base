@@ -1,0 +1,31 @@
+---
+id: dc44a76d-a017-47a7-91cd-4b43f6e87e3f
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    l16mxb1w4smr9mmpiff0vfma1wgwacv1liqg2s09q2uotrrwqijw0jgxi1uobgygd0as56boik5r14nichxgq65up
+  - sv4dxydqnxadwbxmfvstq16ihapt
+  - vitxqr1dn8eygrlrhmhcsjdv6zmlgm830wrjxwnwxtoxz
+  - bn6qhc7pr
+  - smrtnbjdpk2og1rrqljydw0ipranlavesggqaa3bu3kegfgcz4knwt1btoqrywa85c76fthnuzz
+---
+# l16mXB1W4Smr9MMpIFf0VfMA1wGwAcv1liqg2s09Q2uotrrWqIJw0JGxi1UobgYgd0As56BOiK5R14ni
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 5874 (chunk 5874/11534)
+
+## Content
+l16mXB1W4Smr9MMpIFf0VfMA1wGwAcv1liqg2s09Q2uotrrWqIJw0JGxi1UobgYgd0As56BOiK5R14nichXGQ65uP+sV4dxYdQnXadWBXMFvStQ16ihAPt/VItxqR1Dn8EygrlRhMHcSjDV6zmlgM830WrJxwnWxtoXZ/Bn6QHC7Pr/smrtnbjDPk2oG1RrQLjyDw0IprAnLaVesgGQAa3bu3KEgFGCz4knwT1BtoQrywa85c76FThNUzZ+eWb1BNSXklIRrG9gDGjS92Uuh31AZMFtR0l5Ly/lb6wT2hOKCc+Bwziak/FzpHebRPxBOW/Q/1XJQZ2BvziydOxtATqCuzysxK77ZzupAfkI1O99Sd3KWHpANP3Om8bQ6D05dfTmXp1GB2Z4aCt2p4orNC5d63nNmA8hBudRzICdEB0iG6y7VG8CbO9izfhDQnUBXq6HIDyB3abeAN0wwRJdOEYSb8L10y/UYabaVAPZ6AnWa8PL0lb2N9jfPvmX0tzrfv/39hz/w4Ge28XPyr/Hzf2z/+s6vn/z6yT89G2+Pt/e29w7/wcY3zvqjb+q8dXS7fafFfN5cQM6xHDJta/1lneCt1UjUGaKb+S7L2BGz5esubU4zUQflyn0HeLwM03q8r456IzlnyrEjN4E3QLgrM1eA6HD1peCc+lKPLdN29dRzdaYfX20/3Xpm6z3t9+7/l60P73z45CMb47Of3v4fNv7l2S/hH+1/+8Fvn/3Ozq/t/NrJr2//7Nnh9mTDLsz8sY1vP/vOjd0HL7VfWcG/fuPiymuc/HR1af9K69qRwJv1yM8pRafLLVGB66Bc7wjI6XJL5ef8Asx1A3U2AVV9rs+sXR5f7T/Dvejr3O97j9VnV23aM1TQYy966dOr82fXLlvdb1RcXPnsgSmd9uX7V2fP7hG8rV4eXOt1LlhaTvW5FfZDz8+1COSstpmZu+CgLsI59QbkWgHLtT0/J1CnakBOF2DO+V662ZoQna0S2uUUnV13GbAcrrhcv/7w5sBA3a2ucF1AdH7d5X91+F8/8fc3lv+B7M928HP2XWd/94nhtl9uKTiH/Nxbj6+0mJkzILfFzFzCckJ0uwXLGZDziy6P/LpLZuYI7Y48SxdTdMJyutZyOT/HCy0tS/f8uqryc8zSEcu9oAzcuumCc3gLXe7x5jnrD8oVl3oXHZJzBuQ6pqPv
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

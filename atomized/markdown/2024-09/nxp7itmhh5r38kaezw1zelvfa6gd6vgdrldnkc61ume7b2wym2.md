@@ -1,0 +1,31 @@
+---
+id: af861fad-8e99-47d9-afe9-6f69cdc7e944
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - nxp7itmhh5r38kaezw1zelvfa6gd6vgdrldnkc61ume7b2
+  - >-
+    wym2c5ruczkfxgyo09aqgcfrbrzeiehnglem3eexhlovbwpav4bdw3kkhro27ug7kwnwrm3ootnlrhxglwezxcki2dhlytasqo3b2ur0nzsezvqbop2pqbfrb3k57bzkxnm4mktoz3xl2xz1l9liebviz4ttzciocm2pz8aithov03eatz9
+  - omfbqy5onpvb7zo68ql
+  - uunvxbixnzeenvki6r9uymfswbtpvupjt8n13mwromd5xx9fg
+  - arvn3wvvxzr
+---
+# NxP7ITmHH5R38KaeZW1zelVFa6gD6vgdRlDnkc61Ume7B2+WYm2c5rUCZkFxGyO09AQGCFrbRZeiehng
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 5667 (chunk 5667/11534)
+
+## Content
+NxP7ITmHH5R38KaeZW1zelVFa6gD6vgdRlDnkc61Ume7B2+WYm2c5rUCZkFxGyO09AQGCFrbRZeiehngLem3eeXhLovBWPAV4BDw3kkHrO27uG7KWNWRm3oOTNLRHXGLwEZXCKI2dhLYtAsqo3B2Ur0NzsEZVqBOp2pQbfRB3k57BZKxNm4MKtOZ3Xl2XZ1l9liebvIZ4tTZcioCm2PZ8aiTHOV03eATz9/OMFBQy5ONPvb7zO68qL+/UunvXbIXnzEenVkI6r9uymfSwBtPvupJT8N13MWroMD5Xx9fG+ARvN3WvVxzr//66LOVPkuc2osdnlyr502fWvNTWp3fT5Rd/BnqebV2VhLOT+Sv5sFKPgcDPPcfsM1ATrDq+lFOK9r32j31exCJOnY4FhTX1rrb+Yg/MYLQDgOhQdHJA9tcc+3mFaAddqGy4ez1TZReI72nXQThDNsC4YTQDu5pdGdQF1yHP6+SpTt6rf3BckR3k2Cbsdwha4nfDvF0FAenkR6QGxJ1Hd11RCdcZ1BXoV1q9TFyC4TrObnfPg4F6I76lPETkFsDdd3vtByw3PUayDUl+I2zj3kL3aVSd/ILrR1fSnFNTy7GnKK/B7o7CLAdBsD75ajM3BRcdy0Id/n97S9fi/Io/LZk5OwN64C92yTnBO1Kck5AroE6gjdk5h6I7oLfuoJ32rG+jcc1Ed2BSrJ0B+I3eJCZ+/mmALzbmqULlrvnhZbBcgBvP38MiiOEmwTqDnECvPmiS7+X7u3jAHJRbpWiWwje3n589gX+G0O4mrQzhCvobtJ76RquuweiO0SZcdHlY95aByCHvB3GftGlakK1nz6OFF3qKbhu8+KI6y4fBsALhLsGijvkckvWtwPOAdQBxSFjZ11YLgr28ixSdAPdTUJ0R+M6J+2iMFF3KADvNvhtFq67Vq7OuA4KoB0UXJhp3eOGObnohnYag+WI7iZBuENGKwRyh/+8J9jLFZcGdZ4FisMFmB3dfb8Q0fXUnUBdFGC5Hz4OgNcTdcZvxnIEbIeSrjsG7BnX2cn6OFCc03U9Y2dE10dAOKAvZOykGL8JxamD33vXL8CEB7iO0G4xlrMzygbZuEPpMAXaGadhF7+dDvk51p5tnvcF1LF2Km7R5ZZCcT11NyBcEJ3QkXJ4r2+N34TEpADjnaE7ebzWebtjFGK5Q+2gztM5rnNP
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

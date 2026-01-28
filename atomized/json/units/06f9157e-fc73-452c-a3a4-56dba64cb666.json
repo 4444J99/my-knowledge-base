@@ -1,0 +1,26 @@
+{
+  "id": "06f9157e-fc73-452c-a3a4-56dba64cb666",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>**Capabilities:** Multimodal processing (text, speech, image, video, gesture, emoji), multilingual (100+ languages),  few-shot adaptation via MAML meta-learning, and dual-mode governance (RAW research access, PUBLIC safety-gated deployment).</tt></div>\n<div><tt><br></tt></div>\n<div><tt>-----</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## **PART I: ARCHITECTURAL FOUNDATIONS**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### **1. The Plexus Architecture**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**1.1 Nine-Layer Stack:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>1. **ICONOGRAPHIC/INTERFACE** - Multimodal intake/output</tt></div>\n<div><tt>1. **PHONOLOGICAL** - Speech, prosody, intonation</tt></div>\n<div><tt>1. **MORPHOLOGICAL** - Tokenization, morphemes, lexicon</tt></div>\n<div><tt>1. **SYNTACTIC** - Grammar, dependencies, structure</tt></div>\n<div><tt>1. **SEMANTIC** - Meaning, entities, sentiment, intent</tt></div>\n<div><tt>1. **PRAGMATIC** - Context, speech acts, implicature</tt></div>\n<div><tt>1. **DISCOURSE** - Coherence, RST relations, argumentation</tt></div>\n<div><tt>1. **SOCIOLINGUISTIC** - Register, dialect, style, culture</tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 2 (chunk 2/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "speech",
+    "multimodal",
+    "capabilities",
+    "processing",
+    "text"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

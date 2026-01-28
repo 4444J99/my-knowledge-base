@@ -1,0 +1,33 @@
+---
+id: 424492b8-0627-4fee-85ac-ad351d3d2c69
+type: insight
+created: '2025-10-17T16:00:19.000Z'
+document: d53c84c30924bcaa907f04ac0472f363
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - r2koxix18z3wciiuyh8u
+  - j7rppql2sylc0vdnjyb9zsym6sbsgoxvfys6jv19b
+  - >-
+    cg8grguoba1hdv3eqpv3itumtfpqvodgqgbianlzxiatqcexisvyrfkty0mafcd8ygfssi1k3pyz9hijcav1zz8rr
+  - >-
+    ypfnhoi7logdufb82pplc81ldq5hmum336dj5yvwo3moehcyderzuf8oasevu4upo6rliqprqwu1u3pb2fie7a9kysnthakd
+  - >-
+    impxnzhedkegw1zxml8ymkv4apjyo0xnpzy7rr9gfxp9csxcxqrfwlk0w1fshhy1lyh8xwrwe3v3dgosbuvipbhs7nxeuitczzkni
+---
+# R2KOxIx18z3wCIIUyH8U/j7rppQl2sylC0vDnJyB9zsyM6sbsgoXvfYS6jv19B/cG8grguObA1HDv3eq
+
+## Context
+From document: Saved Photo — chunk 2922 (chunk 2922/7321)
+
+## Content
+R2KOxIx18z3wCIIUyH8U/j7rppQl2sylC0vDnJyB9zsyM6sbsgoXvfYS6jv19B/cG8grguObA1HDv3eqpv3ItUmTfpqvoDGqgbIaNlzxiatQcexiSVyRfkTy0mAfCD8YGFSsI1K3PyZ9HiJCAv1ZZ8rr+YPfNHoi7lOGdUfb82PPLc81LdQ5hmUM336DJ5Yvwo3mOeHcYDerZuf8OASeVu4upO6rliQPrqwu1U3PB2FIE7a9KYSNthAkd+ImpxNzHEdkegW1zxmL8YmKV4aPjYo0xnpzY7Rr9Gfxp9CsXcXqrfWlk0w1fSHhy1lYh8Xwrwe3v3dgosbUVipbhS7nXEUITCZzkni/E/cXifl++xIctnE+m/pTxE4MW7cFBxhH5oZIAigKM4/cG9LeUK/GuWiaSh3neV9wf/ybmE7qUy8ZBJlC3J4llEuFHH6GTcDd5I0tvHIOlo+UNv3E0VWxuVAra5Dk9C6bobMtbf9LZR+3lLGZhAKyGs8JNuctrbR7W89dK5X7u6Urn7M+2gfLXQfi7YrLmTeEYMVqFldc3x+14dGb97BFljF6aIPh9f5JtzdpnGGEva3ViZv3pT6iNRdkVLzlFX0aulxuu0HMEuRdMsLU+olDZoW/ZjsS/wXcVdK/A647nhoCSXlznGEDbn+jaIMnFYa1Z9YhCgJQwArTuOwhoxmr5uSmG9wHkVNP5FjurEHsXKMy3bL9EIaUZTCDYPclYv8xwod1j84WcJEuzWpmFufR7FE2M4oElw8hj9C1t+yUSjRWQCChT8wDvukJm5luvl4sNDoK603xXVQd4H9+EtWtOHL7W900muB2z3tpHiDdYyi4OLUWdQ3givFDyIXLKuYnbHVXcsyVF7KrXgFM8zeIdGmbdLHnhTbywpUm1sxnbxEqp/D0FYh1NOgwy6fcoKoJF8vZo32ZVwI4rm44/o/5JgnOhojZ/8E+lcKmCx+aCnavLeP1Drnyi6JN67PcJMSH8gSlhv4SjI1mv9XRJkVH7I+xab9bHHjWsIcuEPA5cQF900qYuLhr2/Q+VQbFYL3mvuvmA+cKQTA+B0ZX0IYAaXhap+eprG5RQIELzmqoTfuO+MevJHYSCNfnt3Wfs1AMpTJX/egur84+JdDVX1V5Fj9SWEo9FFBnMO534nLitrJzVQ1RqLqa5/zRcfZEpoEn8dcsV5RrRPU01Njb
+
+
+
+---
+*Source: Document d53c84c30924bcaa907f04ac0472f363*

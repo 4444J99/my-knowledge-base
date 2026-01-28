@@ -1,0 +1,32 @@
+---
+id: fd36ec49-bde3-422a-9711-c30419a6bc79
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    twbnamc6wook67dnouc3fh0dcpqhbpikfemexhgjknntx6jdmcujl49chh258cg6ippotsfrficfwfrnuq8gatfuqa0g6vj0sbuqtnvsxeoi6qy
+  - w343zwavmv0zalupwvffnkfyqg
+  - q5z8psadsiedcvyltoj15
+  - >-
+    urfel80jsyp6ztg0odkvqmhlpqufptahvtrnihdgzofjn6vsof6tuf6plrzovqzpjzsrxo0odt86c633w47h7r2ghzp8i
+  - 0lwf5okcbqjgxbomslkkku1lxxfyd8sy7ptfy71zeskrk2bd9xheqcou0iufgs
+---
+# TwBNamc6Wook67DNOuc3fH0dcPqHBpIkfemEXHGJknNTX6jDmCujl49cHh258cG6iPpOtsfrFiCfWfRn
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 5314 (chunk 5314/11629)
+
+## Content
+TwBNamc6Wook67DNOuc3fH0dcPqHBpIkfemEXHGJknNTX6jDmCujl49cHh258cG6iPpOtsfrFiCfWfRnUq8gAtFUQa0g6vJ0SBuQTNVsXeOI6Qy/W343ZwavMV0zaLUpWVFfNKFYQg/Q5z8PSAdSiEDcVyltoj15+uRFEl80jSYP6ZTg0ODkVQMHlPquFPTAHvTRNiHdgZoFjN6VSOF6TUF6PlRzoVQZpJzSRXo0OdT86C633W47H7r2GHZp8I+0LwF5oKCBQJGXBOmSlKkku1lxxfYD8sy7PTfY71ZESkRK2BD9XhEqcoU0IUfGS+AAaZZxuAvRiK4fDwrKK3JRs0cwRFuWB23Z8upL7waELL+79DvY9I71ZmNMgegjIy6VUkFe/Er4kV9D9a50C/JrJqyYcHV8+S21NrtuMuf2z3Qd8NLJHCt89zl8psBnCvxbKKD7txT0czn/GAXIPJUUmKqYBRY8aDXcFpPcJrmK5KImR5KwqXXjn+wPWx7OwDrujMObjm56tPuR1+M31PShYaFmEo0kgGEwBgMT6NxdNWWlxVELI4s2cI6oQcwhwMgDkJOTpRrvBewLHRw6JDS8xamWp1piM1sCMivQSQT8mE+qXerrB2+ABXDYm7Y3bV/69e3Xx93wRPIyGbKELzXFTKl0uHLeyt9HP4hOjR6GLWngmNNAN+9q+hV88OXfIyhkJOXZA4CrQ0CODRnMBD/F/hT3E+b60XNu4MrcRFDReQMIDQ8NDwvzuORxyf0yDZHlhlPKqYuSwwHF95LDDdubtjfr73q86/HuJ6c2n9x8egttuotzKHmaRCJwW4Y74W1/svGJxu1okGT2TbxVOPUpAqgMvgNL6hLCYDe7Oe5G/Zsvr2LrpqvjxPXueMArA3qvH6jDUAb4iM3Tdz14fdUGYHt129Vx18Zd2Yb/tpfHXh57aezLRtisbCIvKc34hhmFTe133NmJtzZXbK+Ow5/tvQbJDe41QElQGqSu8NOcIEWQH7uHdpe3Xdp2ZftVmysvrhI+SP/ytsvYTupFo+eNn08kagBvfIluPkgndWXBzHovn6Bfy3kt5r2VT9D+P8onUQHySSmDMkSnyq0w5Po9BriGRj2odrja4aqt3nKPl4wo+LEATICVSEnl3BCxkD5TcII7oNGJhnManSBp1zkgJhxgREFJnjembb2eTnya+SwTdq4q
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

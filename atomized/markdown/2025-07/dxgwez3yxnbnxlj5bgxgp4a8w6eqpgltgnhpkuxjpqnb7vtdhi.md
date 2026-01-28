@@ -1,0 +1,31 @@
+---
+id: bdc1c675-0622-4ee8-a90b-b458b73fcce2
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - dxgwez3yxnbnxlj5bgxgp4a8w6eqp
+  - gltgn
+  - hpkuxjpqnb7vtdhi3nokepzfyhooxxhhppfujhafwas
+  - eem8njwneiansavgppni7iye5imshf5mkzevbn7kitr0mk
+  - >-
+    8xkkxjd0vydhvwntlwat8y53iv9zjf89nlybnlza5rninmize5kndmkazxclfz6gwk6xckvw7pdsbusznpl4p6u10qeae2vq2njmnuddxpm1tszhppq1ubvpbkx4lgte5qwxtvuqb5rqanuuuwy0vkpqovckpzaixcpv0xkmuueks9czpydzbiiv9uyxnhhrr08m14si1w1frk6yzwtdvpnmhteazer2fns006
+---
+# dXgWez3YXnBNxlJ5BGXGP4a8w6eQp/glTGN+HpkuxJPQNB7vtDhI3noKepZfyhOoxXhHPpFuJhAFwAS+
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 7767 (chunk 7767/18928)
+
+## Content
+dXgWez3YXnBNxlJ5BGXGP4a8w6eQp/glTGN+HpkuxJPQNB7vtDhI3noKepZfyhOoxXhHPpFuJhAFwAS+EeM8NJwneiAnsaVgPpNI7IYe5Imshf5MKZEvBN7kiTr0Mk/8xKKxjD0VyDhvwNTlWAT8y53Iv9zJF89nLybNlzA5RNInmIZe5kndmKaZXCLFZ6GWK6XcKvW7pdSBUsZNpL4P6U10qeae2vQ2NJmnUdDXPM1TsZhPpQ1UBvPBKX4LgTe5qwXTVUQB5RqAnuUUWy0VKpQOvckpzaIXCpV0xkMUUeks9CzPYDzBIiV9uYxNHhrR08M14SI1w1frK6YzwtDvPNMHTeaZer2fns006/VSdxYBMXMaYwNbOpslNerl7mwKYtZcI1s2m6VgmmErZnNohq+kchhIZ/uhyTxLYpgKOotgVICOJrWSziaa6So1B2zmV6u5QQtVD5272Ep75tzBVg0EzxOgT3neYjtTR+cvQs/yO+iTwBYN0UHUaQVSBzCQFxIWAo/zgsUOqn6uMAhN5kULXWajr1iAnuXFwS1a43yR2qN6QQyBXtkbKNJ7KS9fKPUqXqNwmqUYvojcCryYi5StSpNRLCOk+pTNRskUDMlOO/oVYCyfWoaQH0RG9ClkPp/eprdIpc7tTItEq5AuCWxnW4mShe16q0TrfqZNKuUHtTailPWzbWapMcS0S2W8X2sngIldRyZ2O8fGhzKlBn4Ky+NnV6A+pAMjvX+Y8Unl/JDmI0CIeMyBJnk/NNtX6Du0TqLSN8J2miBovN4lVLHQr71KH9W7hWp2GSpdUlV4FCE0rlf7oKG9OjymANTgU9UMlh9jAIcd07cIHp+F2hbCw4xhhKnaKAO0sVa+TKdU6cclgVgxjxGnjrJd5v3Kg/L1c+i4AK93K1VueEtiFb2L3kJXBhASS1jh3qX1UGDTWeulKubHmV6l0g/vXKw4uoSVAABAAElEQVQMj2ssVTm/h2Lpyvm9JKtW8fC+xqp5uCFe7YfhPT1MgN+qV+uIoyFPrDAM4FkVhlvkVX6M+ClEa3sFwGcxDZ+qkuCGe9XcfqOfrUZm+Gp3wABmeBJzDvD9uoc6YAywHuWAOaB51CWscaKNfie8n7JmGnqh1U7DwKd1CgyCWk/isKh2hH5s9dPQs63BiUOnQuN6I4kR+rs3ktAfrlE+Rg0ZjVPHlGG+UYEI
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

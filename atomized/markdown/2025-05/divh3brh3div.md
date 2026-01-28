@@ -1,0 +1,38 @@
+---
+id: d05211c4-98e8-4ef9-afaa-550376df286b
+type: insight
+created: '2025-05-17T06:50:25.000Z'
+document: 785bcc0d4cb2d60a50a4a0777364b9ad
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: programming
+keywords:
+  - export
+  - would
+  - like
+  - this
+  - prompt
+---
+# <div><h3><br></h3></div>
+
+## Context
+From document: DATA-PRESERVATION_DEDUPLICATE-COMPILE_ — chunk 6 (chunk 6/6)
+
+## Content
+<div><h3><br></h3></div>
+<div><h3>Prompt for export:</h3></div>
+<div><h3>“Export as: 1) Canonical Full Snapshot, 2) Deduplicated Content Map, 3) Fused Iterative Doc, 4) Annotated Version Trail (if available).”</h3></div>
+<div><h3><br></h3></div>
+<div><h3>⸻</h3></div>
+<div><h3><br></h3></div>
+<div><h3>Would you like me to run this process on any specific thread or folder now?</h3></div>
+<div><h3><br></h3></div>
+<div><h3>Or would you like to save this protocol as a .md file to drop into your system as PRC01_Deduplicated_Compile_Process.md?</h3></div>
+
+
+
+---
+*Source: Document 785bcc0d4cb2d60a50a4a0777364b9ad*

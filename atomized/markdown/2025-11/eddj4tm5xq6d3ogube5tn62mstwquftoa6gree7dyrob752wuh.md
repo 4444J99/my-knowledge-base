@@ -1,0 +1,31 @@
+---
+id: 26dcc139-32cc-47a8-abe5-316916b2fab5
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - eddj4
+  - tm5xq6d3ogube5t
+  - n62mstwquftoa6gree7dyrob752wuhbto
+  - ehrz6xtoruerqocqn8mxbuyl1pvd
+  - >-
+    6i13rilb5njtksrt9gniqbiaroivachs0sxi7fjmnr2c78quf82frnkkez0rfrjnithbbibywwbmt3wmiszf5cryaqyauaaewaegafggbg4xbegk9dlwvapktfz1qzg8nrijfswdmg2yjc1nt8fvxldrettlfbrqxammrrruupios46ghq7azpkayxdfanzfqrbbsjgaz
+---
+# EdDJ4+Tm5XQ6d3Ogube5t+n62mStWquFtoa6Gree7DyROb752WUHbto/eHrz6XtOrUErQocqN8MXbUyl
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 8287 (chunk 8287/11629)
+
+## Content
+EdDJ4+Tm5XQ6d3Ogube5t+n62mStWquFtoa6Gree7DyROb752WUHbto/eHrz6XtOrUErQocqN8MXbUyl1pVD+6I13riLb5nJTKsRT9GnIQBIAROivachs0sxi7FJMNR2C78qUf82FrNKKEz0rFRJNIthBBiBywwBMT3wMiszF5cRYAQYAUaAEWAEGAFGgBG4XBEgK9DlWvapKTfZ1qZG8nRIJfswDmG2YJc1nT8FvxLDreTtLfBrQXAmmrrruupioS46ghQ7aZpkaYXdFanzFqRBBsJgAZ+0lSHluG3LT/zpAGPm52FcLBVxAG1MM5s6pG/uaP5FrVYbqW2r3xpqa06dypzafWL1Mz9/5u6nf3pm99n06S20K4CdwEQKeLQFsD/UKuBngIM+aOHUdovYcqurpyw75WhUV3BBVKcirxJVB85TRXu7NUFfU7i3kWd46+74Ba/dgvw3VsnbFxQ68Q0JTd49d+55N0r84V9zKbjU+CWqMxXR5QNcnmQadEoZsEXjsvznJeht5OFxwBmnQaAjzEUDkUAkGGnScbZ3b1MKPq4l4Y2MTV4OsTkra+UcMsmOgiQ3sR48BgLPfdo3NXzLyQlXhR8Djzb5AdVpA2PaVkdavoYFfolO3ChwcyqCx8g/T/dK0xQwXQEbn9DmN9KLX5agXsU0Bs0gj1O7cW73vMC83vl7G1MN8CENm6O0YUCFP7Tz0M6+nX0r+lYc3DHYPZQb3CMGUdDbqN+wqGPQuERvy81SxDkg0EYgIUvsbhWVY2DRE8PuYiEg+5+Cvcr0qOVu7dP4dE9P4TgXRoARuHQR4GlPl27dcskYAUaAEWAEGAFGgBFgBBiByx2B2U1IX6zaI/utWJELSyqd5h2I1cfr4w1xstI369h3FXuvikVFJghw8uNnfZMdFoyCKU5rtnzpL+21MirZdfNTTZWFjc6hJj/tzmOlH7OiV0sTt32ygEyyo9oJspxrMUJhDHPY6E3dwGJDeLqL+8TFWPO3zu9YsK4BbaA+XtsT0uC7yB9eeXjloZV9G/o2HBwe7BzsHtwirPGiROBpJMIuCzzajDWhSj50njDdBYGCy5o4hwtilmlDNhRFJUYD3xW5KpW3oA7lycfTXm1+A/KKrfOWBZCLpQsWRtxwl8itJ7Vky0nqCpdPWaC4zAnuyiY7wY0CQSWu84aqRJF7nVTdXRhvnMs4
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

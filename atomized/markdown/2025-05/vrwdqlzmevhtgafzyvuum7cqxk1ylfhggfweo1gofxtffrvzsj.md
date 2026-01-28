@@ -1,0 +1,32 @@
+---
+id: 2b71e24f-5676-4e90-874b-818a4ff45369
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - vrwdqlzmevhtgafzyvuum7cqxk1ylfhggfweo
+  - 1gofxtffrvz
+  - >-
+    sju5nqairylyaq8xodvxmptyhvavyfvnvzns2mh4nwed20mx1q1wutug0obgdvzwwep8pdf5vxizucqsucx7dhfvrlusbvezq1xxvobcjz935jwcobujugqst2elwpywriwwqokorkb8y5r2wmcbk5riit66kpv4ezp3h1ui6xnu3jf8vzasltqdft6ni4bxu
+  - rplnxs1yzno8fnn2afvvi7iybuqniivgs9rvu
+  - >-
+    rz6y75skbcktsyp9olgmcaeaismh90yyfe26hyeqp6pf6p0uw3yvkqnw5okccbc0vx8ajkflq4k04
+---
+# VrWDqlzmeVHTGafZYVUum7Cqxk1YlfHGgFWeo+1GOFXTFFRVz/sju5nQaiRYlYAq8xoDVXmPTyhVAVYF
+
+## Context
+From document: New Note — chunk 15770 (chunk 15770/21099)
+
+## Content
+VrWDqlzmeVHTGafZYVUum7Cqxk1YlfHGgFWeo+1GOFXTFFRVz/sju5nQaiRYlYAq8xoDVXmPTyhVAVYFVNVzns2Mh4NWed20mx1Q1WUTUG0obgdVzWWep8Pdf5vXIzucqsucX7DHFVRlusbVEzq1xxVObcjz935jwCoBUjugqst2ELWpywRIWwqoKoRKb8Y5r2Wmcbk5RiiT66kPV4eZp3H1ui6XNU3jF8vzasltqdft6nI4bxU+98e+rplnxs1yZno8fnn2AFVVi7IyBUQNIivgs9RVU+Rz6y75SkBCktsyp9OLgMCAeaISmh90yyfe26HYeQP6pF6P0UW3YvkQNw5OKcCbc0vx8aJKfLq4K04/XoyT07Kxf3I6XnhI/MwSHHysJ/bMv9+CVfeumI4j6x/FK9sW4e1nVuLDfessddV/HSWsuhXfnNwmwOomS131TYFVX94wE69tnIX3dswThdWl+PqQKKweW4+fjq/Hr8fX4fcTT4oprLoGvx9bhT8FWP1TVFb/OroU/z66BP8+shh/HpiPn56ZJeqqk/DZxjH4fNMYfL11An7Y9RB+2TMFvzwtfsd4/LLuTvy4fAC+W9pPrC9+kPhPq4fgx9VD8fXyITjzRH+8NbsGLz/SB0dm9MWWB7pgtihIjixMxsCMzugVSkJVuhslqfzUfSJ8ndoLCJyIVG+ymLNB8wuo6k7qeM46weOgdUZKcoJ89l7qciXB73YI0CogKyFW+eR8xjkz4xkCtaoxPV0+WR8SC/rc1nppAqqyLQGPqKpKXdwu6/V5LmNg9dxvXv72JKBKUFVhVRNYJYxqQqtOp1O4Q6eltmoCrCa0qutfCfCqx58Cl/xP3QHx8n92i3qvJ80Pr0DLvlAqfAKq0vzpaaKwehCEURVMrfVnJI326XkWEmXT1NAtCAo8WizgKZVVh9zdBXeMrMKgEWXo1jeEHIFSU9JFCNT3D7jTroc/82YEc1sjs7CdAKudUCD5XLeiyoPuNWno3T8TNf3SUdVDFJorHMiTculZoq4qlpHdBlm57ZEpFspuK0qrbS1QNTu/EzIFVk3PFd5T1FhDYul5osoqasbcTqbAqvQ5JR1Q2DURZT3c6FKTgms6CU2f4LtFgNXbLGA1yXerKK3eakGrboFVUwiqCjTqFojVJQqsLgFPPZJPUDXAfIFXXeeAVSqqJibVgqqEVRMS
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

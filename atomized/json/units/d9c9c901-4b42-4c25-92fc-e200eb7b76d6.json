@@ -1,0 +1,26 @@
+{
+  "id": "d9c9c901-4b42-4c25-92fc-e200eb7b76d6",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt>⸻</tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>V. | NEXT ACTION ITEMS</tt></b><tt><br></tt></div>\n<div><tt>  •  Confirm preferred copy/paste structure for iOS Notes</tt></div>\n<div><tt>  •  Begin batch generation of module files (1 per project or artist ID)</tt></div>\n<div><tt>  •  Output ZIP folder for mobile storage or iCloud sync</tt></div>\n<div><tt>  •  Optional: Notion database mirror with tags + links</tt></div>\n<div><tt><br></tt></div>\n<div><tt>⸻</tt></div>\n<div><tt><br></tt></div>\n<div><tt>::REF_ID = MODULAR_EXPORT_NOTES.v1</tt></div>\n<div><tt><br></tt></div>\n<div><tt>——</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## ::ARCHIVE</tt><i><tt>_ENTRY_</tt></i><tt>031  </tt></div>\n<div><b><tt>**Title:**</tt></b><tt> Modular Export System for Mobile Notes  </tt></div>\n<div><b><tt>**Ref ID:**</tt></b><tt> MODULAR</tt><i><tt>_EXPORT_</tt></i><tt>NOTES.v1  </tt></div>\n<div><b><tt>**Folder:**</tt></b><tt> /GPT</tt><i><tt>_ARCHIVE_</tt></i><tt>CORE/SYS</tt><i><tt>_PRODUCT_</tt></i><tt>EXPORTS/  </tt></div>\n<div><b><tt>**Filename:**</tt></b><tt> EXPORT</tt><i><tt>_MODULES_</tt></i><tt>NOTES</tt><i><tt>_FORMAT.md  </tt></i></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 145 (chunk 145/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "notes",
+    "folder",
+    "mobile",
+    "modular",
+    "export"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

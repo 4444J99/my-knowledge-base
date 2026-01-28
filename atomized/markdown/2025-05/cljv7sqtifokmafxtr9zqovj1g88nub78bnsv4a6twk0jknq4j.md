@@ -1,0 +1,32 @@
+---
+id: 09c39852-9c8f-4070-bcc4-b51022318e80
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    cljv7sqtifokmafxtr9zqovj1g88nub78bnsv4a6twk0jknq4jhrujafy4b7ktw9uacwxwosmtkbrcjlssmbsvta6kiseimozgzfsmj
+  - 8qpvo5uwjb3efowndjsq56qv0yqfwyxa
+  - >-
+    zk3ds0aqwyiokfdpxx2p99bknnbqr6skmbvlswpdwqrajauackoeajajrirdqndwlvesekktfi8zvc8u11ltm0rxk3rzzt1jn4bkac4u5kdekycuzgbqiocvvvkbceptbbekqttxthxngnm1odqvwvy7krtfhtfhwkskubnpio6ychqhiu4t6ts9bizq
+  - ttxkcg8ykghnolvfad0ioquqwvu4htcojo
+  - 7ptwjpmj91
+---
+# CljV7sQTifokMAfXTr9ZQOvJ1g88NUB78BNsV4A6TwK0jKNQ4JhRUJaFY4b7ktW9UaCWxWOSMTkBRCJL
+
+## Context
+From document: New Note — chunk 17817 (chunk 17817/21099)
+
+## Content
+CljV7sQTifokMAfXTr9ZQOvJ1g88NUB78BNsV4A6TwK0jKNQ4JhRUJaFY4b7ktW9UaCWxWOSMTkBRCJLSSmBsVTA6kISeIMozGzfsMJ+8qPvO5UWJb3efOWndjsQ56qV0yQFwyxA+zk3ds0AqwYIOkfDPXx2P99BkNnBqR6sKmBVlsWpdwqrAjAUaCKoeAJaJRirDQNdWLVEsEKKtFI8zvC8U11lTM0RXK3RZzt1JN4bKAc4U5KdEkyCUzGBqiOCVVVKBcepTbBEKqttxthxNgNM1odQVwVY7kRtFhtFHWKskUbNpIo6yChqHIu4T6ts9bIZq+TTXKcg8yKgHnOLVFad0ioQUQwVu4HTCOjO+7ptWjpmj91/B9fqLTbD/NJ++xuM46cf/dqBqh+++3NKM75Om3oTOPRNSjW+aU89/j274tLtJHzyjEuUPgPuiTN3xmi/UiJOA/VkuC9SnhjCBxKsql3efYxxCwFgFhDknsf41DPwOZKILMBZnIZZdMkijNUBAo6DjIkCVoMEBqQc14VWBQWuW1G3xx660d556zGUX5+yN179sT3z00fs4QePosLybUp+riLxTJIBELbGvFLCAaziJFcJABUUBIgDglEeqsJitI7DXGPBKXi1ivNdJLCtgLogG206SROoiNOPBRr4gb2kanVCZZU+q/59MrDqAFVAgyBjjUxJGAc/4G/4jsOqAlalbCjYKMp1EwgiHyahjTj4Qyl8KKmMKRAf4+8YSlhOYRV/U+oLTmHVAauMz8zbUpTQUcBqmASOH/XIAeCZQWA8lQgP07d8QId9wDADKFcOkTQKAsEIWA3Q/4IAbBEArAh+kx4LRBW0GgGwSuKzCFItJVSScIAENUCDnySQ1Lzo/wJWQ0AUMWCPKLBWmDFbf0tFVbBqEDC6C6wOnEGAZx73FxjN+38gT0AcZ5yPgFUfYLLOTdCqVNRK9MkaZfTqgO+CI0qMA25exL8UuBpV8JbElTbcxGhjMXzvOPOqHkttVYpeNcb3OrvJKySP8owfcXxsp8rCXCQg1c9n+Ejk9pEI61VpOY5SLlKiV1BrhM9J0vcFokpdVRuS/ly+mLGa++Y2KuG/eepw+Ijy+4Au8vi1RZIvglUF3wtYzQC3JQCBBAstma6gHnS5PfvM9+2Vlx4Dtv6u3Qy8un3rUpIlMT57HuMp15DrK4VVgavOgNYC
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

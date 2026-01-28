@@ -1,0 +1,33 @@
+---
+id: af49df3c-44c1-4453-a427-d9a2a0281160
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    sgoyrhbaqlbc6jwaspqoqaojq3dvyfvfqwpxdvrvueqwgokr4wtvgitvdumqbkztujxjjljvl65qwgo0tgpjvr0rva11h1snxkokvwfwaxnwi9eqosqtvqodvqlwefpl0qoppqva4
+  - >-
+    a0vqnuq3a1aq0sqqavgakkvlv7qjvgnyxwo4jvylwivbtccbuw1uor7b5u9eaqx3fsvhnovyvwvaga2u2yahireqn6eludrnjooap2neo2rwkrko4jq1ufq5f9
+  - jw10nlqlkktljckdpwv
+  - zqbujykj5qo6swvsyccqb2bvptia24
+  - >-
+    nh8oqjovbmyvy2akrx5fidedplqwndtcfl48wu757gs574pt5j7vjznfl45cjzafxtymd31vrnx7xurz
+---
+# sGoYrHbAqlbC6jWasPqOQaojQ3DVYFVFqwpXDVRVuEqwGoKr4WTVgITVDumqBKztUJXjjljVl65qwGo0
+
+## Context
+From document: New Note — chunk 5072 (chunk 5072/21099)
+
+## Content
+sGoYrHbAqlbC6jWasPqOQaojQ3DVYFVFqwpXDVRVuEqwGoKr4WTVgITVDumqBKztUJXjjljVl65qwGo0tGpjVR0rVA11H1SNxKoKVwFWAxNWI9EqoSqTVqODVQLWEFpl0qoppqva4/a0VQNUQ3A1Aq0SqQaVgakKVLV7QJVgNYxWo4JVYlWiVbtCcBUw1UOr7B5U9eAqx3FSVhNOVyVWVaga2U2yahirEqN6eLUdrnJOoap2neO2rwKRKo4JQ1UFq5F9/Jw10nLqLKktLJCKdPwV+ZQBUjykj5QO6SWVSYCcqb2BVPtIa24/mYy/NH8OQjovbMyVy2Akrx5fIdedPlQWnDtcFl48Wu757gS574pT5J7vjZNFl45CjZafXtYmd31vrNx7xURZ/INT5JdXnyYPXDtFHpp5pjw882z5645lohjVS1llqmqokKjKfXZVDx0g1fUDpKq2n0GrFVV9pBLpqsSqZUg7ra7x4GlLc5o0A45WVfVDGGl3pKn2RPjoIGltyZBRI7NM+iqhaiESU4uLugC09vSwK1JZW0YgIXVEDhJX06WqehBSXHsiWbULsOrJkl/UFYi1O6obAk+7wn52x2P0QbLrYFw7XUaimhqSpB44tr56AApoFXC1aWgSwGqqHJeFhFIPrZ4khKppAKzEqpmAobm5AKt5fSUPqao5SDfNzOomGRncfyIKajbjJByHiNfsrkhI7YkH74/E1MF4AkOkomIgPskBZo7zZWWDAVdTkawKsAqsOry5EJ9QAVJWs7EvCSh2ABI++wCs9oHG7eGBVTyXJOJUQlVgWfYUPF+tZKSwpgKsMl01I6t3J8Eqk1WD01UHA6AebMLqE08+JXuQsPqHl1/B55AVFawSqD708KOyC2+wHnjwYXwBywxOveGmm01y6vYdOyUbiaeaqOrv6Th/7dp1wWBVE1YVrvq6Jqz+bqkmrKaYJFY7YfVnd90DdV31tQWrjzzySIdU1alTp8qFF14YLqY+Rqvx48eHQasNVm206sDqkUNWibwh/KYdo0jpvPPO+1qgTv42cllZWRij8vkTpN58881y++23yxVXXIFfYqgO7x87dqy5efRN+7q5z8f9O3Asfw/ozdNDe/vrzj5cK+AHqyNHjuxwad784U3kJ598UsaNGxf+N1ThKv//CW9cfhM+HFj9JnwV3efgVsCtgFsBtwJuBdwK
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

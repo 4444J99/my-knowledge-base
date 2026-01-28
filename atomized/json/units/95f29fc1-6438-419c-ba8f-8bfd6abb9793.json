@@ -1,0 +1,26 @@
+{
+  "id": "95f29fc1-6438-419c-ba8f-8bfd6abb9793",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:44.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>All these repositories share the **non-branded, universal naming conventions** defined by the OS. Filenames in the repos should adhere to the LAYER-DOMAIN-TYPE-ID-VERSION scheme (see next section), which makes it immediately clear what each file is. For instance, a prompt template might be named `SYSTEM-WAVE-PROMPT-EXPAND-0002-v0_1.md` (meaning a System layer prompt, related to wave (process) domain, type prompt, ID “EXPAND-0002” perhaps indicating the expansion function, version 0.1). Code scripts might be named similarly, e.g., `WORKFLOW-PROCGEN-SCRIPT-seed_world-v1_0.py`. Using this scheme even in code and content repositories ensures consistency and traceability. It also prevents name collisions and provides inherent metadata in file names.</div>\n<div><br></div>\n<div>**Branching and workflow:** We use a standard branching strategy as mentioned – main (stable), dev (development), feature branches for work. When an AI agent or collaborator starts a new major task (say implementing a new feature from a spec), they create a feature branch named systematically. As work progresses (likely through AI generations and maybe human edits), commit messages should include references to archive IDs (especially if the commit is implementing something described in an archived spec or if it addresses an issue logged in the archive). For example, a commit message might say “Added character generation prompt template (ref: STORY-MYTH-SPEC-CHAR_GEN-0005-v1_0)” to tie back to the spec file in the archive that detailed character generation. Likewise, if a bug was found during a session and logged in `sessions/` archive, the fix commit might reference that session log ID. This practice creates a web of links between live code/content and archival knowledge. It means an AI agent examining the repository can often jump to the exact archive context of why a change was made (facilitating deep understanding and reducing risk of regressing old decisions).</div>",
+  "context": "From document: # Blueprint for a Self-Evolving Creative Operating System — chunk 29 (chunk 29/38)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "83dee6092ba3a8d02324ba12da038c25",
+  "relatedUnits": [],
+  "keywords": [
+    "prompt",
+    "archive",
+    "might",
+    "spec",
+    "commit"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

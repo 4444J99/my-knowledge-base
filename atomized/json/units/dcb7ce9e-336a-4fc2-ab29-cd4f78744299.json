@@ -1,0 +1,26 @@
+{
+  "id": "dcb7ce9e-336a-4fc2-ab29-cd4f78744299",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt>- Packagable (internal, external, market-facing)</tt></div>",
+  "content": "<div><tt>- Packagable (internal, external, market-facing)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### VI. Types of Outputs</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| TYPE                  | FORMAT                     | TARGET                        |</tt></div>\n<div><tt>|-----------------------|----------------------------|-------------------------------|</tt></div>\n<div><tt>| Creative Work         | Films, Essays, Podcasts     | Audience / Community          |</tt></div>\n<div><tt>| Research Artifacts    | Diagrams, Sourcebooks       | Academic CV, Archive          |</tt></div>\n<div><tt>| Interactive Tools     | Apps, Templates, Agents     | Creative + Commercial Users   |</tt></div>\n<div><tt>| Documentation         | GitHub, Docs, Protocols     | Team / Collaborators          |</tt></div>\n<div><tt>| Business Infrastructure| Services, Licenses, Maps   | Clients, Partners, Licensing  |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### NEXT STEP CONFIRMATION</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**|[NEXT MOVE OPTIONS]:**  </tt></div>\n<div><tt>1. **Expand:**  </tt></div>\n<div><tt>   - Add temporal layers (active now vs future)  </tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 24 (chunk 24/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "creative",
+    "next",
+    "packagable",
+    "internal",
+    "external"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

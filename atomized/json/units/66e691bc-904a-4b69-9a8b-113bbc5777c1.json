@@ -1,0 +1,26 @@
+{
+  "id": "66e691bc-904a-4b69-9a8b-113bbc5777c1",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 2. Faction Ritual Recovery—Escalating Consequences for Multiple Failures</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Factions that fail a ritual can retry the following week, but the penalties grow worse with each failure.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> How Faction Ritual Recovery Works:</div>\n<div>  •  A faction that fails a ritual must wait one week before retrying.</div>\n<div>  •  Each failure adds an additional penalty, making further attempts riskier.</div>\n<div>  •  After three failures, the faction is permanently locked out of rituals.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Example Scaling Penalties for Repeated Failures:</div>\n<div>  •  1st Failure: The faction is barred from making a proposal for one week.</div>\n<div>  •  2nd Failure: The faction loses a collective skill bonus (ex: weakened persuasion, limited fate influence).</div>\n<div>  •  3rd Failure: The faction is disbanded permanently, forcing its members to scatter or form new alliances.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 554 (chunk 554/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "faction",
+    "face",
+    "failure",
+    "ritual"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bb7f4f43-d47c-44b6-b7ff-0fde0c923230",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 4. Betrayal Mechanic – The Legendary Faction Defection Option</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Players can betray their faction and switch sides—but it comes at a cost.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> How Betrayal Works:</div>\n<div>  •  A player must publicly declare their intent to betray.</div>\n<div>  •  They must pass a skill check to be accepted by the new faction.</div>\n<div>  •  Their old faction gets a “revenge opportunity” to challenge them before they leave.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Cost of Betrayal:</div>\n<div>  •  The betrayer must permanently give up a buff or ability.</div>\n<div>  •  Their new faction only grants them 50% of their usual benefits at first.</div>\n<div>  •  Their old faction gets a one-time opportunity to sabotage them.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Legendary Betrayal Unlockable (Late Game):</div>\n<div>  •  If a student reaches a high XP threshold, they can betray a faction AND form their own new faction.</div>\n<div>  •  This creates a splinter group with custom mechanics.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 459 (chunk 459/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "faction",
+    "their",
+    "face",
+    "betrayal"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

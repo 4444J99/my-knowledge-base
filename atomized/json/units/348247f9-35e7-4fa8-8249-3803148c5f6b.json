@@ -1,0 +1,26 @@
+{
+  "id": "348247f9-35e7-4fa8-8249-3803148c5f6b",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>If so, I can:</div>",
+  "content": "<div>If so, I can:</div>\n<div>  1  Fill the folders with the template data (e.g., for SICP, Norvig, etc.)</div>\n<div>  2  Add ritual chants, myth agent profiles, and system integration details for each book/module.</div>\n<div>Let me know if you want to proceed with populating these files — I can do so quickly based on our existing system logic.</div>\n<div>Response:</div>\n<div>Analyzed</div>\n<div>from zipfile import ZipFile</div>\n<div>from pathlib import Path</div>\n<div><br></div>\n<div># Extract the uploaded zip file to inspect contents</div>\n<div>zip_path = &quot/mnt/data/KN-LR_01-00_learning-recursions.zip&quot</div>\n<div>extract_path = &quot/mnt/data/KN-LR_01-00_learning-recursions&quot</div>\n<div><br></div>\n<div>with ZipFile(zip_path, 'r') as zip_ref:</div>\n<div>    zip_ref.extractall(extract_path)</div>\n<div><br></div>\n<div># List all .md files and check if they are empty</div>\n<div>md_files_status = []</div>\n<div>for md_file in Path(extract_path).rglob(&quot*.md&quot):</div>\n<div>    size = md_file.stat().st_size</div>\n<div>    md_files_status.append({</div>\n<div>        &quotfile&quot: str(md_file.relative_to(extract_path)),</div>\n<div>        &quotempty&quot: size == 0,</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 333 (chunk 333/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "extract_path",
+    "with",
+    "data",
+    "zipfile"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: 9f8a5e27-bc94-4066-b652-56a0d1fe7321
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    erabercbziagqdumunwkciiaciiaciiaciiaciha5yagqdu57rouugreqareqareqareqareobkisfa1a1q1kqiiiaiiiaiiiaiiiaii0dkisfb1jvusqxqberaberaberaberabewggahjuzqbvtyqaciiaciiaciiaciiachqoahjunem
+  - >-
+    6ypfqareqareqareqareqasagyaevtnavzmiiaiiiaiiiaiiiaiiiakdg4aevee4z7pkeraberaberaberabercbziagqdumunwkciiaciiaciiaciiaciha5ydq6olq77
+  - mkuueyau
+  - eee6xqkjqk36dph9twww1tmwwwsuknnds6dolssq4oiiaiiiaiiiaiiiaiiiaiiebze2hvqfxbb7
+  - zs88
+---
+# ERABERCBZiAgQdUMUNWkCIiACIiACIiACIiACIhA5yAgQdU57rOuUgREQAREQAREQAREQAREoBkISFA1
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 2457 (chunk 2457/3262)
+
+## Content
+ERABERCBZiAgQdUMUNWkCIiACIiACIiACIiACIhA5yAgQdU57rOuUgREQAREQAREQAREQAREoBkISFA1A1Q1KQIiIAIiIAIiIAIiIAIi0DkISFB1jvusqxQBERABERABERABERABEWgGAhJUzQBVTYqACIiACIiACIiACIiACHQOAhJUneM+6ypFQAREQAREQAREQAREQASagYAEVTNAVZMiIAIiIAIiIAIiIAIiIAKdg4AEVee4z7pKERABERABERABERABERCBZiAgQdUMUNWkCIiACIiACIiACIiACIhA5yDQ6oLq77//ti+++MKuueYau+eee6xQKJQk36dPH9twww1tmWWWsUknndS6dOlSsq4OiIAIiIAIiIAIiIAIiIAIiEBzE2hVQfXbb7/Zs88+axdffLF99tlnZcVUBDHOOOO4oNp4441txhlnjMV6FQEREAEREAEREAEREAEREIEWJ9BqguqPP/6wRx991C655BL78ssvq7pwPFPzzTef7bfffjbNNNNUdW5jle+991676qqrbLbZZrODDjqoseo1H//9999ts802s65du9rll19u3bt3r7ktnSgCIiACIiACIiACIiACItA6BFpFUBHWN2rUKDvxxBPt448/runKEVULLrigDRs2zCaYYIKa2sg7aaONNrJXXnnFhc5jjz1mU0wxRV61issQTowR4XT00UcnYYqEOS677LLezkMPPWTTTjttxW2qogiIgAiIgAiIgAiIgAiIQNsg0CqCCpFx8skn24MPPlhRmF8pVIiUXXbZxdZbb71SVaoq/+CDD2yVVVZJzsEDtv322yefa3nzyy+/2EILLeSnjh492oVVbOepp57yz4suumgs0qsIiIAIiIAIiIAIiIAIiEA7ItAqguq9996zHXbYoSoxhacI8YR364ILLvBEFnDu37+/hw02BXM8ZrQ9//zz20svvWQzzDCDJ8oo1zbjef/9961nz5425ZRTFlX9999/7eeff7YomF5//XUbd9xxE1HFcQxhiGU/e+F//5Q7Rh/fffedjze2lT5X70VABERABERABERABERABJqHQKsIqgsvvNCuuOKKiq8IMbXvvvvaIossYj/99JMdeeSR9vLLL/v5k002md14440Vt1Wq4j///GNLLbWUC5Pbb7/ddt11V/vkk0/s6quvdoGVPe/rr7+24447zp5+
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

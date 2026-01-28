@@ -1,0 +1,31 @@
+---
+id: ebad6177-20e7-45c9-b29f-21f93b9553d4
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    i3pddoc6sd8ais6v0fl4jvswpaelpsuauwh5lhv1jlsuxviuqzuuc7iyyln8xckue85fxsgonvzo4d4c2hnovzv2lhpykuiu6vcnca4gf
+  - vhbnjnofeasvy3s0uxwi7ybqc4rqkluveio3pbio5xwqrioai7o0sv3qkie2ed
+  - vywanlsznvswk6r6d45
+  - fjcs6qca85vlbeauvtojzyd1kgtw1bogc5dpyshzerkumsjxb1ogpci70eb16vyzojuw5fj
+  - ehvgcip8rhhm3jbutxrz4va7kqo6f7ejhbs33kuubzjle9nmcnehn
+---
+# xA5+i3pDdOC6sD8aiS6V0FL4jVSWPaElPsuauWH5LHV1JLSUXViuQzuUc7IYyLn8xCkuE85FXSgOnVzo
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 3162 (chunk 3162/11534)
+
+## Content
+xA5+i3pDdOC6sD8aiS6V0FL4jVSWPaElPsuauWH5LHV1JLSUXViuQzuUc7IYyLn8xCkuE85FXSgOnVzo4d4C2hnOvZV2lHPykUIu6vcncA4gF+VHBnJNOfeasVy3S0UXWI7ybqC4rqKLuveiO3PbiO5XWQrIoaI7O0sV3QKie2ED/VyWAnLSzNVSWK6r6D45+fjcs6qcA85VLBeauVTOJZYD1KGTW1bOGc5dpyShZerkUMsJxb1ogPci70Eb16VyzojuW5fj/ehvGcIp8RHhm3jbutXRz4Va7kqo6F7ejhBS33kuUBzJLe9nmCneHN+2co4y9XNFM3fRdeO3b29PNHOknNpxQkuV37kTb8cLywndvXLbdeO6V2co54zobrp+EyCX79QHkHOaLHaYk35OEE4JLdHJRfhvPRGdgoOZylKbIyg9l14YHXvqjFSW2mWnJrGsdQUxUc6pVICypwszogtNg7Cc6j+86rpRXNfMRcD0s68EcgrI9vBrILeG5ahHiPZBqN+6Tk526eQCv12htE7OmK1q43pd2OzHD0pSSveVKi5w2nbaf2Xkhk6OOrAt6geJ31QXhKMsKSgzHSUQzvitILftVMWF/SA8pWlzGYAhdWwVtlFnZ6+LAc8SsFW7W0kp2RNLBkjLvdMM1c4nbMOuY3XYVpEb9tFqbCPIcfCdC0AU1QEwYBV5guJUDsyzlZAJH3DLqNM69RE+EVLCE3gDCsJS6udWDNgEjS7Nog5kUmnLETDpL165/fqdFx56fFCTRqtoqvfFk3LZp88BMAas6uPE/PcGMJNd41zyd6wgrc85ZnvT87/pXjc9f8r2XZiDx0lPvmOfG0e/1PpyRMrwYWT/XXpd5/N3zh+f5fnb/v/4/HPe6vnXOMKl2Pm7U2KhZA54LtTVN+zT6yeuw6ZK5JpknLhWm33UwYGM00aLq27r37r977z773/8+6erSyz35q2f/wJQ9/k/KHXjNyw/tz2hHaDu6LKiO6DdL96NFJoLAK9aRh1096X9E+P9/et/fv3f/fxn63/74F96cibSFD+IJMMqSVB839ronr5YTwSeBXpSdHQni1If12eHXgdRkuQoSY/sJxEq7Y7uAHLCbz/8LAGen1mu5/Mr1XV63uUzzohOdSxRsr9dS5IJtIsSmLcTr7xceHTq1wPRJa5zYszEeNEqSYZ3rSM9JrhOZU+G
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

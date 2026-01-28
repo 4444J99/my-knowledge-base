@@ -1,0 +1,32 @@
+---
+id: 41c7085c-d6a4-43bd-98fc-a491397ffa94
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 2pkejrmgxk7ksppj7t5yhqw
+  - >-
+    b90clfclcgckcdngajagtw7zrlbctbbvifsp2fgfdqu91ulq1e4hecnhxkzyc4kyrvoivsq7g7s4cr9ajpb2gk
+  - aj4rbglxtzasau3yvk4qlo3yapwsjdi9hnqhlltycq54vfox9ec29fhz9mi70buxt0gbfxn60r
+  - >-
+    ogbf0kzbmjbdypr8clookqttsfvhmoxefykvh1syozwopydyfwrx91bi9hxqksngdw1tlry3fb4fhdg6azlubwqjgwk4fvh9ujjppttzntvhz4phtor70ap59zjtzt3kdysxlnna18l3sxsh6i0goxzadzrnw
+  - z7keoduor4vaalmco
+---
+# 2pkEjrmGxK7KsPPJ7T5yhQW+B90CLfclCGCKcdNGaJaGTW7zRlbCTbBVIFSP2FgFdqU91UlQ1e4hECnh
+
+## Context
+From document: New Note — chunk 11234 (chunk 11234/21099)
+
+## Content
+2pkEjrmGxK7KsPPJ7T5yhQW+B90CLfclCGCKcdNGaJaGTW7zRlbCTbBVIFSP2FgFdqU91UlQ1e4hECnhXkzYc4kyrvoiVSq7g7S4cr9AjPB2gk+AJ4RbglXtzASaU3yvk4Qlo3YaPWsJdi9HNQHLlTYCq54VfOx9EC29fHz9mi70buxT0Gbfxn60r+ogbF0kZBmjBdYPR8CLOoKqtTSfVhMoXeFyKVh1sYOZwOpyDyFWrx91bi9hXQKsNgdW1tlRY3fB4fHDG6AZlUbWQJgwK4FVh9uJJppTTzntVHz4phtoR70ap59zJtZt3kDYsxlNna18L3sxsH6I0GoXzadZrnW+Z7kEodUor4vAalMCO/ZuxA23XI37992NJ597BA88cg8+duv12Hv8NnTQqNq9ppmwagf61rWhZaDItZBAgNCoK077q8CkhEhDuRB6NvTgPe87Bdfdci0+++VP47YvfgpXXHs5dh29E43NOVp+A2hrb8CePdtwwol7MLSmh+syiHpnFaFueX+W87Nr43vqVuupsTWNXGOcn8cA14WbZlieJ+Xj++Pl++QhcMv3P+Xm+yPb7KzbCkwSUDUVXKhC2knehMIk1f310xCg/TTqmausqhneCFJU86ZpY80natCSdzGcaCtSo9zkx0BLCIOkZruKHhS4KMOknO3U/i5fMhW2mtlo4PjxJ2zApR94L056zxY0N3nhIHRateIIBaAKoOqop5q6jjdREuvSdtTPIbhKbTChVZdDgmprod25n71+liLf5Yai4FbHrBKw+ixhVQkFrI7CqgKpjlpWS4CqQKojoCrbyrQ6DKiaoVUFqSrDaglWVZCqBlcNZlUNrj4mVlUdhFJHIFUBVCUeHwZWK9lVOW42rErfCKvqthlSVWZVbVXV+U3YVQVa/UuGVQ/Frnogq6psFzjVHOVg1QceeGAMsKph1XvvvVf9om78pctqW6CatQasNWCtAWsNTHQN6C9+/5p/ebdeu1UBqwJWBawKWBWwKmBVwKqAVQGrAlYFrApYFbAqYFXAqsBfXwUEDBRgtRy0eu21174lplULWr0J48GtGlI1Zv19pYZUdb8SsFoOXBVA1RzarGrMZlBV+gcLq5oNqxpYNVtWBUwtB62OB6ya7aq6bwRUzW0jpGpslwNW9ZjZqqr75ayqxrFyhtWJQKuV4FUNswqIKm3J44V8Bz5R
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

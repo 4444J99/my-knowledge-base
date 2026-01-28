@@ -1,0 +1,26 @@
+{
+  "id": "9e3b544c-554e-4ba2-ac69-b55d027fdb07",
+  "type": "insight",
+  "timestamp": "2025-04-19T04:01:25.000Z",
+  "title": "<div><tt># |[ RNG_M4PP1NG_SYSTEM ]|</tt></div>",
+  "content": "<div><tt># |[ RNG_M4PP1NG_SYSTEM ]|</tt></div>\n<div><tt><br></tt></div>\n<div><tt>All dice are system-level triggers for branching logic, risk, character behaviors, ritual pass/fail, and glitch events.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>:: UNIVERSAL RNG MAP ::</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| DIE  | RANGE     | USE CASE                              |</tt></div>\n<div><tt>|------|-----------|----------------------------------------|</tt></div>\n<div><tt>| d4   | 1–4       | Micro modulation (UI blur, brightness) |</tt></div>\n<div><tt>| d6   | 1–6       | AI responses, emotion flicker          |</tt></div>\n<div><tt>| d8   | 1–8       | Mood state changes                     |</tt></div>\n<div><tt>| d10  | 1–10      | Action success/failure intensities     |</tt></div>\n<div><tt>| d12  | 1–12      | System bugs, recursion locks           |</tt></div>\n<div><tt>| d20  | 1–20      | Ritual pass/fail, karma inversion      |</tt></div>\n<div><tt>| d100 | 1–100     | Major plot forks, fusion glitch        |</tt></div>\n<div><tt>| d1000| 1–1000    | Divine intervention, cosmic shift      |</tt></div>",
+  "context": "From document: # |[ RNG_M4PP1NG_SYSTEM ]|",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "7d6cc033b17b2bd744165730d98e3da4",
+  "relatedUnits": [],
+  "keywords": [
+    "system",
+    "ritual",
+    "pass",
+    "fail",
+    "glitch"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

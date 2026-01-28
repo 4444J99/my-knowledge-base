@@ -1,0 +1,26 @@
+{
+  "id": "9deafc87-e59c-4875-93e3-610c5e6468fa",
+  "type": "insight",
+  "timestamp": "2025-07-05T16:03:17.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>### 🔹 AI INPUT FORMAT</div>\n<div><br></div>\n<div>### 🔹 AI SHELL PRIMER FOR NATAL CHAT</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## 🌀 4. EXAMPLE INTERACTIONS WITH NATAL CHAT</div>\n<div><br></div>\n<div>### 🧭 Prompt: Navigating a Decision</div>\n<div><br></div>\n<div>&gt *&quotI’m feeling overwhelmed about a big move. Based on my emotional authority and Pluto gate (61.4), what’s the best way to metabolize this uncertainty?&quot*</div>\n<div><br></div>\n<div>**Expected Reply:**</div>\n<div><br></div>\n<div>- Ride emotional wave to neutrality</div>\n<div>- Use Pluto 61.4 = hold the mystery, don’t force answers</div>\n<div>- Suggested ritual: silence + writing + planetary activation of Neptune (trusting limits)</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### 🎭 Prompt: Creative Direction</div>\n<div><br></div>\n<div>&gt *&quotI want to build a mythic OS. What planetary archetypes in my chart should guide the aesthetic and logic architecture?&quot*</div>\n<div><br></div>\n<div>**Expected Reply:**</div>\n<div><br></div>\n<div>- Use Gate 3.5 (mutation from chaos) → foundational OS logic</div>\n<div>- Overlay Mercury 17.4 (logical voice) → system framework language</div>",
+  "context": "From document: --- — chunk 61 (chunk 61/73)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "ca52aa9034f8326c145c920d4b105117",
+  "relatedUnits": [],
+  "keywords": [
+    "natal",
+    "chat",
+    "prompt",
+    "quoti",
+    "emotional"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

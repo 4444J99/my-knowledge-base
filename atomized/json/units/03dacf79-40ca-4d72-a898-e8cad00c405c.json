@@ -1,0 +1,26 @@
+{
+  "id": "03dacf79-40ca-4d72-a898-e8cad00c405c",
+  "type": "insight",
+  "timestamp": "2024-10-06T00:19:54.000Z",
+  "title": "<div>I know. Right?</div>",
+  "content": "<div>I know. Right?</div>\n<div>What are we gonna do about it?</div>\n<div>Why not?</div>\n<div>I gotta go</div>\n<div>—Jessica telling me how to respond to Charles</div>",
+  "context": "From document: I know. Right?",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "bc2591c68a030d8bcc0e97e656e7b045",
+  "relatedUnits": [],
+  "keywords": [
+    "know",
+    "right",
+    "what",
+    "gonna",
+    "about"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

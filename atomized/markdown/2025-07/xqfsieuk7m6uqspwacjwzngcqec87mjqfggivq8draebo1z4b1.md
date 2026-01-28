@@ -1,0 +1,31 @@
+---
+id: c97b23ae-74e8-4d0e-b947-73839ef5aecc
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - xqfsieuk7m6uqspwacjwzngcqec87mjqfggivq8draebo1z4b1gj
+  - mglwrxqplbzpygfv2ybmiiahtaigbbr1qk
+  - >-
+    darimccals2elhixtzjqvdi5ygefpjj0i38uoxyzub3flsglvfdrrwotc1vuj7qiteagb6w3l82moqwredrtgrq3fb15kd6lcimtdo9kprqerbd9yncif3p3daypuxq4md4yd0uapdmezagzucrd5ncojtdghaa63jjd1s0vyqgl8fj
+  - o1hvwqioyncgg9ibrdawysaireu8o
+  - ptzjqrulj54pbqaf5geqbdmbtrwu4ufw88yzli
+---
+# xQfsieuK7m6UQspwACJWZngCQec87mjQfggiVQ8DraEBo1Z4b1Gj/mGlWrxqplBZpYGfV2ybMIiahtAi
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 14937 (chunk 14937/18928)
+
+## Content
+xQfsieuK7m6UQspwACJWZngCQec87mjQfggiVQ8DraEBo1Z4b1Gj/mGlWrxqplBZpYGfV2ybMIiahtAiGBbr1qk+DaRImCCALS2ElhiXtZJQvDi5ygEfpjj0I38uoxyZUB3FlSGlVFdrRwOtC1VUJ7QiTeagB6W3l82MoqwrEDrTGRQ3fB15KD6lcimTDo9kprqerbd9ynCif3P3DAYpuXQ4Md4YD0uAPDmEzaGZUcRd5ncoJTdGhaA63JJD1S0Vyqgl8Fj+O1HVWqioYnCGg9ibRDAwYSaIREU8O+PTzjqRuLJ54pBqaF5GEqbDmBTrWu4Ufw88YZLi/FYAX3fOwG+WcBMIA/D2VYDrO85tNyo3qlzU7faN7KDGdJ7B5IO3E0nOG4a30EDuBpYDqneKMICc3yVm4YyQ23ddXnp4uVlrQ3g5+1/wxwe2UuvSbhdy8/MwNsvgrolGEuW9mhgisTfwm8CiZx99Sy/3cydAjUsCcruWO/ursWgIsJ2Xtv7tnV0FbMennQ3Mxd7s/dEvAl7uTtH6Rww2Mw/e5pPBTiKzoyd7pxFbnjlf5nk5+CQRXv6lnn/ldfzbfrmCvVnRnQCuWdHNHzRxd4O6E/CVW26lFlMEa4QvY6yL+dznM8131u/pnI89QKLmE9/rKXKspn7x51M+39+16Pp9NzMc7t/38twaaySMdZFMDiyQMWbOVz6J3qL4Mm/mGAzmI4wyl+bI1tY1s+1tKW2GYdj0OYf48I9lNRy+yuZqGpTbttaxpJV+7WbMKeQOTWutBOY8TABMq47oYzheTQ0BFT1Y4e0tNFgZ7qppRc3P2bIX4LQxa/ytNke2rYJSMSKVpK0IQVtR0zkE8JllgYg6bFvdsp2qh+0YhVPXrUiLa5La0y1+OlWe1khFDmKVLMHqFuYo4aa9ineqm8SwvXUBuoVzBzcye5zibVrPvZuz8qCBEI8MMmnZCrkFUc4oc9sCn5FkqqPgjUP5TE7yb8Thdp7D5E96CUACDryV5JH/kp27RQ5pQo5pnTM4bWNzKhutWP23Rff8MrwEvq2MqH6swm5aDZc4+WnCUX7l4RFV1LBNXVY346diXPlDoJJXhxH7ktDqcjlBCh3Vpbz1y2HYgqfhJ9EGtvaIl/xLyPB0riF3D30TbXvTm6Ma9/k69K33ad9VWnsnBOeIcu4Fm380llv3uu6S08zV
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

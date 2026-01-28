@@ -1,0 +1,26 @@
+{
+  "id": "101d9091-ab5d-4c6e-8fd4-8682292e319f",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 3. Professor POV &amp Actions – Dynamic Weekly Roles</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> The professor’s in-class role is determined at the start of class, dictating available actions.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Each week, the professor embodies a different POV/archetype that affects interactions.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> The chosen role dictates what the professor may do that session.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Some roles allow powerful actions, while others limit control.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📖</font> Possible Professor Roles &amp Powers</div>\n<div><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Role</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Inspired By</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 361 (chunk 361/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "border",
+    "face",
+    "professor",
+    "style"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

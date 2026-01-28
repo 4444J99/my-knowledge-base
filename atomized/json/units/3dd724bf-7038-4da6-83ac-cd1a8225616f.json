@@ -1,0 +1,26 @@
+{
+  "id": "3dd724bf-7038-4da6-83ac-cd1a8225616f",
+  "type": "insight",
+  "timestamp": "2025-03-11T19:17:46.000Z",
+  "title": "<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px",
+  "content": "<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>",
+  "context": "From document: |[ burp :: [racket&allskipshullaballoo,ittybittyteenytiny,u.u|: — chunk 12 (chunk 12/13)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "be7a8d2f3c0664bd4c9ddb1ea1d5c2d6",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

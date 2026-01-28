@@ -1,0 +1,32 @@
+---
+id: d92dd11f-54af-4e68-b3d1-e9e09cf4e9d1
+type: insight
+created: '2017-09-01T01:01:20.000Z'
+document: c09dc023ec256edd51aef2e3615dd904
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - zb5whqpzrd
+  - duffzin1nqjzawxfhz9ywqfbt7n8hkakikv9vckh7i3lp
+  - >-
+    pg087kc7gb90y2wvhflrhjilx55rpcjmx1haytec0x0ocgzv7c0gtwytnefsnjp8bghdcp83kybqwqaaonmzzsncte
+  - 5e3xdg54olgz8et3rzpv1cnjfcfxysuqgydgb9hesasobuhmqyoeakub7cqdj7cavd1sv
+  - >-
+    wz6h7ncecaoov8gxlnaytber4gafiec5rlctzh4m13ml4l3x5v81eqtfuf2mgvxye9cjooithfajofyzhjstk
+---
+# zB5whqpZRD/dUFFzin1NQJZawXfHZ9ywqfbT7n8HkAKIkv9vcKH7I3lP/PG087kC7GB90Y2wVhFlRhJI
+
+## Context
+From document: Web Sitcom Ideas — chunk 519 (chunk 519/798)
+
+## Content
+zB5whqpZRD/dUFFzin1NQJZawXfHZ9ywqfbT7n8HkAKIkv9vcKH7I3lP/PG087kC7GB90Y2wVhFlRhJIlx55rPCJmx1HAYtEc0X0OCgZv7c0GTWYtnefsnjP8BgHdcp83KyBQWqAAOnmzZsNCtE/5e3xDG54oLGZ8ET3rZpV1CNJFCfxysuqgYdgB9hEsASobUhmqyoEAkUB7CqdJ7caVD1sV/wZ6H7nCEcAoOV8gxLNAyTBeR4gaFieC5rlcTzh4M13ml4l3X5v81EQTFUF2MGvXye9CJOoIthfaJOFYzhJstk+BFeE2Yz8+qe1rQKcVC1ASQPNzEPrit40AISakw4RgcXxylXObKeSgaoK40lUVDA/VblvYA701qG3AewD5TnQjXrJpM0Cu3kWmKMU+K4kYBBcE3NbO2GsBEDaCewSHE/zjRv5lhha2/2E/YCHwFQBS4awpKiEhQkRLmSdwT4BZlPvR0xsOP4Lz43oun2f6r9r9TfJsmA6PPsEAqiSQRhbWd1BryOon+kFgc4RPReR4AX3skNaKe+v+wj9F1V9iXvYDablA+X/9KIBfOa/+7u/c0Us9r70m3s5ZpV9cwVAFS0NYxsMqwBzg8NE4QDpAbYBe2lUI0PcEKCuOjYWYkR7NclFotSdAL+A3RgYJkeMt4wEkyGGJx6tLCAB9EVGupx8wHQiu4rEmioIA4bhZAFAtj77M45xI+embRz3/TK65eRbf00sqOgjAO+guMoikwc0SeJFdQY7i6MVy0JgguZzjvMBjWO8yUv94Q77m+AIEVVlrDmySlBCRhbKnfD4U57YCZ4EqgNelJNAxBvDi3OCwWQ8VYXJQZFkT2rsR4f5BQqWtBsrE+6esRBOP63IBKMksJm+2o2FCY77sEeZH0Sa20Th2x0uf581MNU0QObU91XCy0RK+Rz/yoj6VBtrHk/WQNcaYCHAIomFCTY9S9bAJGoAmwtP9dNPPx0+85nP2BcDvCJjFX5TQCt+J6OJbNbZs2f3NloSSVg067j2ZerfAXwttqkHO9ieqkqAA/xT6Htq/Sn5fvh/rrqEs5pEDb7X9q5wPeZoJWLsDK4CqD0noA40lZddbL+4t4vT3jp2JMigzP14zpLOfM1mJyehiKQcghq119xs+0afoxOqEsSbbHCfSuUGYioPqCsAcVRl25QSgyAMNozx8LNWpw2Oe8hH
+
+
+
+---
+*Source: Document c09dc023ec256edd51aef2e3615dd904*

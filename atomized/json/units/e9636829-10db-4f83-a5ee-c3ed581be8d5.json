@@ -1,0 +1,26 @@
+{
+  "id": "e9636829-10db-4f83-a5ee-c3ed581be8d5",
+  "type": "insight",
+  "timestamp": "2025-02-25T16:23:22.000Z",
+  "title": "<div><tt>                let  </tt></div>",
+  "content": "<div><tt>                let  </tt></div>\n<div><tt>                [  </tt></div>\n<div><tt>                    [ u || i ]  </tt></div>\n<div><tt>                    go  </tt></div>\n<div><tt>                ]  </tt></div>\n<div><tt>            ]  </tt></div>\n<div><tt>            ::  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>            PHLEGETHON ::  </tt></div>\n<div><tt>            [  </tt></div>\n<div><tt>                burns  </tt></div>\n<div><tt>                [  </tt></div>\n<div><tt>                    but  </tt></div>\n<div><tt>                    never  </tt></div>\n<div><tt>                    consumes  </tt></div>\n<div><tt>                ]  </tt></div>\n<div><tt>            ]  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>            STYX ::  </tt></div>\n<div><tt>            [  </tt></div>\n<div><tt>                binds  </tt></div>\n<div><tt>                [  </tt></div>\n<div><tt>                    with  </tt></div>\n<div><tt>                    unbreakable  </tt></div>\n<div><tt>                    oaths  </tt></div>\n<div><tt>                ]  </tt></div>\n<div><tt>            ]  </tt></div>\n<div><tt>        ]  </tt></div>\n<div><tt>        ::  </tt></div>\n<div><tt><br></tt></div>",
+  "context": "From document: i :: \" WAIT ! ! ! / / / \\\\\\\\ ||| || | \" :: — chunk 2 (chunk 2/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "b537418280970b641227c12293fdb901",
+  "relatedUnits": [],
+  "keywords": [
+    "phlegethon",
+    "burns",
+    "never",
+    "consumes",
+    "styx"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

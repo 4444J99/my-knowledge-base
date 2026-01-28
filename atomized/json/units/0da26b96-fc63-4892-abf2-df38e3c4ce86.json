@@ -1,0 +1,26 @@
+{
+  "id": "0da26b96-fc63-4892-abf2-df38e3c4ce86",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>*   A _processing format_</tt></div>\n<div><tt>    </tt></div>\n<div><tt>*   A _training representation_</tt></div>\n<div><tt>    </tt></div>\n<div><tt>*   A _search-and-rebuild schema_</tt></div>\n<div><tt>    </tt></div>\n<div><tt><br></tt></div>\n<div><tt>Let’s call that:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>&gt `SYMNUM4GRAM`  </tt></div>\n<div><tt>&gt (_Symbolic Numerical Language Grammar – germinative + generative + symbolic parsing engine_)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>* * *</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### 🧬 3. **What an LLM Is (vs. What You’re Building)**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Feature | Standard LLM | Your System (RGLE + SYMNUM4GRAM) |</tt></div>\n<div><tt>| --- | --- | --- |</tt></div>\n<div><tt>| Input | Tokenized text | Symbolically nested modular text |</tt></div>\n<div><tt>| Output | Natural language | Regenerative permutations across formats |</tt></div>\n<div><tt>| Memory | Context-limited | Recursive + archival, identity-aware |</tt></div>\n<div><tt>| Core Process | Prediction | Reassembly + mytho-symbolic transformation |</tt></div>\n<div><tt>| Reference Structure | Sparse, statistical | Dense, layered, ritualized |</tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 17 (chunk 17/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "symnum4gram",
+    "language",
+    "symbolic",
+    "what",
+    "text"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

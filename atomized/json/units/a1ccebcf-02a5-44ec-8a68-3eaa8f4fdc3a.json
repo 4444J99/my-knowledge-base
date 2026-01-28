@@ -1,0 +1,26 @@
+{
+  "id": "a1ccebcf-02a5-44ec-8a68-3eaa8f4fdc3a",
+  "type": "insight",
+  "timestamp": "2024-02-19T19:29:37.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><h3> 2. Web Development and CMS</h3></div>\n<div>   - WordPress or Squarespace: For building and managing the realtor's website. WordPress offers flexibility with plugins for real estate listings, while Squarespace provides easy-to-use templates.</div>\n<div>   - Elementor or Divi (for WordPress): These are powerful page builders that enable you to design custom websites without deep coding knowledge.<br></div>\n<div>   - https://unbounce.com/<br></div>\n<div><br></div>\n<div><h3> 3. SEO and Analytics</h3></div>\n<div>   - Google Analytics: For tracking website traffic, user behavior, and conversion metrics.</div>\n<div>   - SEMRush or Ahrefs: These tools are essential for keyword research, SEO audits, competitor analysis, and tracking search rankings.</div>\n<div><br></div>\n<div><h3> 4. Digital Marketing</h3></div>\n<div>   - Google Ads and Facebook Ads Manager: For running and managing PPC campaigns targeted at potential real estate buyers.</div>\n<div>   - Mailchimp or Constant Contact: For email marketing campaigns, newsletters, and automated follow-ups with potential and past clients.</div>\n<div><br></div>\n<div><h3> 5. Social Media Management</h3></div>\n<div>   - Hootsuite or Buffer: To schedule and manage posts across multiple social media platforms, track engagement, and analyze performance.</div>",
+  "context": "From document: SFLLUX — chunk 6 (chunk 6/8)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "e7aee2eb091e99dd44e20eaca60af905",
+  "relatedUnits": [],
+  "keywords": [
+    "wordpress",
+    "squarespace",
+    "managing",
+    "website",
+    "with"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

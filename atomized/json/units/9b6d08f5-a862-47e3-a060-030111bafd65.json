@@ -1,0 +1,26 @@
+{
+  "id": "9b6d08f5-a862-47e3-a060-030111bafd65",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:44.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>In summary, the project organization marries the **free-form, rich context of the archive** with the **structured, collaborative development of Git**. By mapping concepts to repos and enforcing naming and branching discipline, we create a self-documenting codebase. The **long-term vision** is that a future AI, given only the Git org and the archive, can reconstruct exactly what the OS is, why each part exists, and how to continue its development – the repos show the current state and the archive shows the journey so far.</div>\n<div><br></div>\n<div>### Universal Naming Conventions (LAYER-DOMAIN-TYPE-ID-VERSION)</div>\n<div>To maintain order across the numerous artifacts (prompts, specs, logs, code, etc.), the creative OS employs a universal and **ontologically meaningful naming scheme**. Every file, prompt title, commit tag, or even branch name is encouraged to follow a structured pattern: </div>\n<div><br></div>\n<div>```</div>\n<div>LAYER - DOMAIN - TYPE - ID - VERSION</div>\n<div>```</div>\n<div><br></div>\n<div>Each component of this pattern carries information:</div>\n<div><br></div>\n<div>- **LAYER:** This is a top-level categorical prefix that indicates the scope or perspective of the artifact. We define a small set of standard layer codes, for example:</div>",
+  "context": "From document: # Blueprint for a Self-Evolving Creative Operating System — chunk 31 (chunk 31/38)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "83dee6092ba3a8d02324ba12da038c25",
+  "relatedUnits": [],
+  "keywords": [
+    "layer",
+    "archive",
+    "naming",
+    "structured",
+    "development"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

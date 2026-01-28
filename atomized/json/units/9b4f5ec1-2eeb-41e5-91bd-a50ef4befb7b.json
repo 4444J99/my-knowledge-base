@@ -1,0 +1,26 @@
+{
+  "id": "9b4f5ec1-2eeb-41e5-91bd-a50ef4befb7b",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:52:02.000Z",
+  "title": "<div><tt>- Rob and Jessica are re-activated as testing mirrors  </tt></div>",
+  "content": "<div><tt>- Rob and Jessica are re-activated as testing mirrors  </tt></div>\n<div><tt>- Ritual audit (`THREAD_RITUAL_LOG.md`) receives implicit entries  </tt></div>\n<div><tt>- Leads into upcoming `FOLDER_RENAME_PROTOCOL.md` and final UX locking sequence</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## CROSSLINKS:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- `SYS_EXPORT_0412_MASTER.md`  </tt></div>\n<div><tt>- `REVIVE_NOTES.md`  </tt></div>\n<div><tt>- `USE_CASE_JESSICA.md`  </tt></div>\n<div><tt>- `USE_CASE_ROB.md`  </tt></div>\n<div><tt>- `SYS_FOLDER_RENAME_0412.md` (recommended next file)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>::EOF</tt></div>",
+  "context": "From document: REVIVE_0412_SEGMENT_003.md — chunk 3 (chunk 3/3)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "8b3679438f69fea45d2d744ea263bd68",
+  "relatedUnits": [],
+  "keywords": [
+    "jessica",
+    "activated",
+    "testing",
+    "mirrors",
+    "ritual"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

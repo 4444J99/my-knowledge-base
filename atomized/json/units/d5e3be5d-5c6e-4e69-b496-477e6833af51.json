@@ -1,0 +1,26 @@
+{
+  "id": "d5e3be5d-5c6e-4e69-b496-477e6833af51",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>│</div>",
+  "content": "<div>│</div>\n<div>├── synthesis/</div>\n<div>│   ├── __init__.py</div>\n<div>│   ├── knowledge_graph.py      # Build cross-layer connections</div>\n<div>│   ├── report_generator.py     # Generate markdown reports</div>\n<div>│   └── triage_engine.py        # Actionable recommendations</div>\n<div>│</div>\n<div>├── outputs/</div>\n<div>│   ├── .gitkeep</div>\n<div>│   ├── 0-archive-inventory.json</div>\n<div>│   ├── 1-ai-contexts.json</div>\n<div>│   ├── 2-personal-repos.json</div>\n<div>│   ├── 3-org-repos.json</div>\n<div>│   ├── knowledge-graph.json</div>\n<div>│   └── reports/</div>\n<div>│       ├── complete-inventory.md</div>\n<div>│       ├── triage-report.md</div>\n<div>│       └── migration-plan.md</div>\n<div>│</div>\n<div>└── scripts/</div>\n<div>    ├── run_full_audit.py       # Execute all 4 modules</div>\n<div>    ├── run_module.py           # Run specific module only</div>\n<div>    └── quick_dashboard.py      # Summary statistics</div>\n<div>```</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **Key Differences from My Previous Suggestion:**</div>\n<div><br></div>\n<div>1. **Comprehensive scope** - All 4 layers, not just repos</div>\n<div>2. **Archive scanning** - Includes file system analysis (Layer 0)</div>",
+  "context": "From document: Contents_Table — chunk 96 (chunk 96/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "json",
+    "repos",
+    "layer",
+    "reports",
+    "archive"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

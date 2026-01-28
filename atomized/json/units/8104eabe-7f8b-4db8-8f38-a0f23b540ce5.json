@@ -1,0 +1,23 @@
+{
+  "id": "8104eabe-7f8b-4db8-8f38-a0f23b540ce5",
+  "type": "insight",
+  "timestamp": "2025-06-23T21:22:42.000Z",
+  "title": "<div><h1>Call with Dad</h1></div>",
+  "content": "<div><h1>Call with Dad</h1></div>\n<div><br><br></div>",
+  "context": "From document: Call with Dad",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "cf1b9b122a070c190491d3d5e0500211",
+  "relatedUnits": [],
+  "keywords": [
+    "call",
+    "with"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

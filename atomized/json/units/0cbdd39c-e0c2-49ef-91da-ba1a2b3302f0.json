@@ -1,0 +1,26 @@
+{
+  "id": "0cbdd39c-e0c2-49ef-91da-ba1a2b3302f0",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "JTqAEopaKAP/Z\"/><br></div>",
+  "content": "JTqAEopaKAP/Z\"/><br></div>\n<div>Yes, the Manning Publications catalog is a valuable resource for your operating system (OS) project, especially considering your focus on recursive systems, symbolic naming, and AI-integrated workflows.</div>\n<div>📚 What the Catalog Offers</div>\n<div>Manning's catalog encompasses a wide range of topics relevant to your interests:</div>\n<div>  •  Algorithm Design &amp Data Structures: Books like Grokking Algorithms provide intuitive explanations of fundamental algorithms, which are essential for OS development.</div>\n<div>  •  Systems Programming: Titles such as Kubernetes in Action and Learn Docker in a Month of Lunches delve into containerization and orchestration, which can inform the modular design of your OS.Manning Publications+2Manning Publications+2Manning Publications+2  •  AI &amp Machine Learning: Resources like Generative AI in Action and Distributed Machine Learning Patterns explore AI concepts that can be integrated into your OS's workflows.Manning Publications+2GitHub+2liveBook+2  •  Programming Languages: Books covering languages like Python, Rust, and Go can aid in selecting the appropriate language for different components of your OS.</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 269 (chunk 269/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "your",
+    "publications",
+    "manning",
+    "catalog",
+    "like"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

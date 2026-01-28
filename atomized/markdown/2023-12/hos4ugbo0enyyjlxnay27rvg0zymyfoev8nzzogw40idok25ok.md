@@ -1,0 +1,32 @@
+---
+id: b8f9ae6e-1d22-44c1-bf23-d3d77e6d31d6
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - hos4ugbo0enyyjlxnay27rvg0zymyfoev8nzzogw40idok25
+  - oklps3bijpez3noc9yo0e0gqeqzdadm4bzsy4yd
+  - y55uymti8
+  - >-
+    zhhya0yxsjrmtznxvz5m6yu94xzscm8pv3bjxdanczjkwcbm4tcn7xqhghm0kgidztfjk9m0jfn6nbxu6ytyl
+  - >-
+    nmc4n5spuhsxkn2fs1xzkbgq3vpzahr5ijbmkzyu2cp4ccvp7cpmr4jvj77punfvjcmodurrk55avk5jnb13ter2i5ggqehtat9hzsetwneknozrohrxpt
+---
+# hoS4Ugbo0ENYYjlXNay27rvg0zYMyFOev8nzzOgw40idOK25+OKLPS3BIjpEz3nOc9yO0e0gqeQzDAdM
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 1175 (chunk 1175/3262)
+
+## Content
+hoS4Ugbo0ENYYjlXNay27rvg0zYMyFOev8nzzOgw40idOK25+OKLPS3BIjpEz3nOc9yO0e0gqeQzDAdM4BZsY4Yd+y55uymtI8+zhHYa0yXsJrmTZNXVz5M6Yu94xzscM8pV3bJxdAnCzJKwcBM4tCn7XQhGhM0KgiDZTfjk9m0JFn6nbXu6YtYl/nmc4n5SPuhSxkN2fs1XZkBgq3VpzAhR5ijbmKZyU2cP4ccvP7Cpmr4JVj77PUnfvjCMODURrK55aVK5jnB13TER2I5gGQehTaT9hZsETwneknOZrohRXpt+rZcIokSuVCgaii8XwaIBjFFw9qCwPjr/5fuM/uVf/mUelpMqbqb0o0KMEaUufgi0iWBxQliEwQgZuAbh4WSxaUwTwWKEO2TbQR2NojgFD3dghWGJF8903OrMQgQrX0qDDMgTnc+8A1olTXTGcRsjxm+w09h4ZilPHcGr06ltuJPSsUqwKKjoxK/udD90akuwYgSeWSvSPfxzCh8mln+xLCafrWDpH4alpKHTpCvLNptMXWcAt032TXIgxpF3Qx+I30IEC1nMYgYRDH8se2EfVt0o/rTuF4PPtGEEFuzRYXlyLC+LeIAH5GTazjJ1GH4ZGIJYI48fZS6WiOIGEzOa1eVGbfM2surSOq8/6pZm4a9quoRdlRHPk2TV1c+Uo8C+bgYr6gnKXJNhf1nIYE9u17LfhWCEfpHGTTpW7bsQrGnbntCpDWbo1yX+1XjxvFA+WEwZr4YVe7Yj7Re6RnmoKzfIrbNnYAyZEPc60zfByssvxAZTp1efGEa8mghW17w0qVxHuLrumAiIYC1RuufT4AtViLzjqNXcLFRx4y4fUY7jiLv4QVYTwcrfsRyOpQMRj7rOJe6rpolg0amLmYOFvkcRo7MxgxXrsenYUbFVTRPBytf1M4Kf609nMeJVJVh5pc8ywRgpzJfnVXXIn7uEOykdqwSL8GJJX9N+piBIQRRzHevu6SDGcbbMvkXn+txzz3XndMzBDAIaB5lAVqKzTtrEmn5m2sCx6cfhHU0mxz+f5W2yr5ODLnEwBfGgXObkmPxAXKozWCEL/+R9ZjGDWOIezNlLWTXTuF8sPtOEUdWLmTcOqSA9Yrkn8WD2aRoTOEHW6MThl/KAYUQujuGncxzLn6vLErvk7bq0Jp/FXtB8L+BC8egSdpO8SbLq6mfS
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

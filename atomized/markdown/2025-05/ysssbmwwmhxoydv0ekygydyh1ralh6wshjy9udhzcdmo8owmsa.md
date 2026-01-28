@@ -1,0 +1,32 @@
+---
+id: b5ed28ca-3f4d-4aa1-8e0c-62f80b3b90ae
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ysssbmwwmhxoydv0ekygydyh1ralh6ws
+  - hjy9udhzcdmo8owmsak9qmuyppgwc7kiegw6scbhbf68im9ladquckoj3kdoeopqeeznbhadz7wz
+  - >-
+    nc9lroxp4gvkxxzk99goctgau601xdwfxa6mefrpalh2ftrgw6s5tqrznkngqukskquu3bcixxkkmqdfulyvxq6u3vnlaqqjw7jkqau
+  - bvtlbtbihhs1uukvnduzzhj
+  - >-
+    lcunquwlftzemlqdtinddke0lllfve15w5uffuirbqn7aqj61w0pwvdd13xqtvtk4vd6ktlh7t9yloqu1acyw2cjvqgmtvirmlhf05eduaqptamktintc92ehf5qtwhnplt
+---
+# YSSsbmWwmhxOYDV0EKyGYDYh1RaLH6Ws+hJY9UdHZCDmO8OwMsaK9QmUyppgwc7kiEGw6sCBHBf68im9
+
+## Context
+From document: New Note — chunk 9031 (chunk 9031/21099)
+
+## Content
+YSSsbmWwmhxOYDV0EKyGYDYh1RaLH6Ws+hJY9UdHZCDmO8OwMsaK9QmUyppgwc7kiEGw6sCBHBf68im9laDqUcKoJ3KdOEOpqeeznbhAdZ7WZ/Nc9LroXP4gVKXXzK99gOCtGau601XdWFXA6mEFrPalh2FTRgw6S5tQRzNknGquKsKquU3bCIXXKKmqDFUlYVXQ6u3vnLAqQJW7JKqau+BVTlbtbIhHS1UUKvNDUZzhj/LcUNQUWlFTZEMlQdTinDDkE0LllFVe15W5UFfuIrBqN7AqJ61W0PWVdD13xqtVtK4vd6KtLh7t9YloqU1ACyW2cjVQgmtViRMlhF05edUAqpTamktINTc92Ehf5QTWHNpLT/JDKiHV9ERKXiXQ6j4mxEpolSGrAVYdLnfCKoPVmFiqGEKpjEEZrRJYtdsIj1qnUk0zECpj1egoSlwdTFpllCp4lcEqQ1UVrPI5A6nyvgFf6ZjAqi2SEloJwzJadcXMgo2eM8zGYHWSkbIawVDVOZXw6hRYIqnsk+kx9BrodbkoedVFuNZBoJXRKtfEweoEU1UZp6rFSPUWwOoNqHobk1UFvErCKh+PC6+OxKqBwWHQCas6YXU835zpa+4eoKa/Fvprod8D+j0g7wH50PT7/xZZP8N4JqDB6nimNPY1dxJCjv1q9BXeJnAnv04arHr7Kuh9PQE9AT0BPQE9AT0BPQE9AT0BPQE9gX/9CWiweneDVU5Z9YZVVajKcFVNV/WEVd1g1TNWFbiqJqvKWgWrKlY1Q1XGq4JUpTNONZd85ipdxaqMU1WwKimrZrDKx94SVhmmStLqaGBVcKraGaXyseBUtTNQNZcgVbULUJXOMJXXKlj1hlUZpqpg1RtUFbQqKFVFqwxRZd8TVh0Lqo6GVgWpektZ5fP82bp0+Zzd3FWcqq4ZpqrHvB4PVuVrxsKq6nkzQh3vsUDUm0Gq/FgGpNJ5favFEFS9Bx+re+qxrG+lM7ZUHy+IU/ZGO5Zz33fnf7XV51CPZc1d/SPX8x6vpcva2FD+421fuUQv7+IJDAOrglalDwJWgaxT/e0IjymGlRIiRxTjU8KtM0Ni4UtJqbMInPqGJWA6IdQA+rX1xvV0DSNVd1UaSZOhUQXGdTMYq44DXY6FMu/M+fEiVIGq0r3hW7mfufP1qYRRU2iOsQi0Z5oSVisQRl+PGSFxNPME
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

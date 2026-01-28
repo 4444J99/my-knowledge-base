@@ -1,0 +1,26 @@
+{
+  "id": "4fe64d93-46c5-4c46-ab54-6a9e8adf2165",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:15:38.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>Deliver your critique and proposals as a clear, numbered report. For each recommendation, include:</div>\n<div><br></div>\n<div>1. What’s working now</div>\n<div>2. What could improve</div>\n<div>3. Exact steps to implement (with examples or pseudo-code)</div>\n<div>4. Effort vs. impact estimate</div>\n<div><br></div>\n<div>---Return Prompt for AI Reviewer</div>\n<div><br></div>\n<div>When you generate your critique and expansion plan, follow these guidelines exactly. Structure your response in Markdown with clear headings, blank lines between paragraphs, and prioritized, actionable recommendations.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>Response Structure</div>\n<div><br></div>\n<div>1. Executive Summary• Summarize key strengths, major gaps, and top 3 high-impact recommendations (one sentence each).</div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>1. 1. Interactive Design• What’s Working Now:• Bullet-list current successful interactions.</div>\n<div><br></div>\n<div>• Areas to Improve:• Bullet-list usability issues or missing affordances.</div>\n<div><br></div>\n<div>• Recommendations (Priority Order):1. Short title• Description of the feature.</div>",
+  "context": "From document: AI Review & Expansion Prompt: — chunk 3 (chunk 3/25)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "f193a3a0a188e43c3f5b1686778be1f5",
+  "relatedUnits": [],
+  "keywords": [
+    "your",
+    "what",
+    "recommendations",
+    "critique",
+    "clear"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: c30dfafc-51cd-4fdf-80b2-9ffb0dc026cf
+type: insight
+created: '2025-03-13T23:47:48.000Z'
+document: 3b2e4f3759d2535cf9a91dec728a8fbc
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    aaecbagqinaiagk1rkb3swiecbagqiaaaqiecbagqiaaaqiecbagqiaageyjifbrpn2lpqqiecbagaabagqiecbagaabagqiecbagaabao0gifbrbhs3jecaaaecbagqiecaaaecbagqiecaaaecbagqad4crzppu7v0fgpcd9m9mxnkf7fe1zvju602matblxptxn3iyqtmqoclv
+  - xcc8fjxx08b1csmfn8thams7sqiecaaaecbagqiecaaaecbagqiebgfggi1bpi9eyej
+  - q1hxnwhg1u46yrex
+  - 4qlj8mtvjs0mfr
+  - >-
+    cvo8y5pzlp1hfm5uhbq4bldbvfzqnznfn7cdnx1q7nhgllcxw47umyohhotgndurykgvhqn5mgbludaqiecbagqiaaaqiecbagqiaaaqiefqcaqk2bseenhtdanc1znt1f658hyonseapgxhvvj4xvv
+---
+# AAECBAgQINAIAgK1RkB3SwIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAgeYjIFBrPn2lpQQIECBAgAAB
+
+## Context
+From document: Squarespace, ChatGPT, GoDaddy Expenses — chunk 1540 (chunk 1540/2268)
+
+## Content
+AAECBAgQINAIAgK1RkB3SwIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAgeYjIFBrPn2lpQQIECBAgAABAgQIECBAgAABAgQIECBAgAABAo0gIFBrBHS3JECAAAECBAgQIECAAAECBAgQIECAAAECBAgQaD4CrZpPU7V0fgpcd9M9MXnKF7Fe1zVju602matblXPtXN3IyQTmQOClV/tEn/6Do/XCC8fJxx08B1csmFN8ThaMs7sQIECAAAECBAgQIECAAAECBAgQIEBgfggI1BpI9eYej+Q1HXnwHg1U46yreX/4qLj8mtvjs0mfR+cVO8Y5Pzlp1hfM5uhbQ4bldbVfZqnZnFn7cDnX1q7NHgLlCXw47uMYOHhotGnduryKGvhqn5MGBlUdAQIECBAgQIAAAQIECBAgQIAAAQIEFqCAQK2BsEeNHtdANc1ZNT1f658HYOnsEaPGxHvvj4xVV+40Zxc761sncMllN8ToMeNijdW6xCknHNqsn7+SnqVZd4TGEyBAgAABAgQIECBAgAABAgQIECBA4FskYA21ZtjZ06d/Ha/3GVit5T1f71/ttRcESgWmfPFFNqXnlPjiy6mlu5vldiU9S7PsAI0mQIAAAQIECBAgQIAAAQIECBAgQIDAt1BAoNYMO33QW+/GpM8nR4uFWsSuO26VP0HvLGBLQZtCgAABAgQIECBAgAABAgQIECBAgAABAgQIECDQsAKmfGxYzwVSW2E02pprrBw7bLtZPPHMy/H55Cn5ulHrd1uz3jYMevvdeOb5XvnUfy1btoyVOq8Qu++ydazYcbl6rykcKOfaQh2lfx998sUYMvSDWGbpJePIQ/eKYR+MjMeeejlGjRqbn9a50/Kx0/ZbxGqrdC69rNr2a28MiH4D3o7R2XSbKWBccYUO2Xpyy8f222ya11s4+alnX42BWQi50EIRJx97cLRpU3ttrZd79s1H/aVzTjz6wGjbdpGYMOHTuOmOB/Nq9sicUluffq5nDH77vfhy6lex+qqdY/+9d4qllmwXX389I154pXf0ev3N+OjjCbF8h/bZ9IorxR67bBOtWrUsNKX4N53fq3f/eKVXvxg7bnwsskibWHvNVWLtNVaJbuuuUeuamm1Zbtll8r4cMvT9+Hj8J/n9Nt9k/dhqi+7Fe6SN2+56JMZ9NCE+/viTfP+IUR/Gv668Jd/eavMN
+
+
+
+---
+*Source: Document 3b2e4f3759d2535cf9a91dec728a8fbc*

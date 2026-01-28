@@ -1,0 +1,26 @@
+{
+  "id": "f29375bd-4db6-4ca3-b83a-be0ab587e7f9",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div>  •  The Warriors – Ignore one minor debuff per class session.</div>",
+  "content": "<div>  •  The Warriors – Ignore one minor debuff per class session.</div>\n<div>  •  The Fallen Angels – Can sacrifice XP to steal XP from another player.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Party Bonuses:</div>\n<div>  •  Players who form parties gain unique combined buffs depending on their mix of archetypes.</div>\n<div>  •  Example: If a party consists of a Warrior, an Archivist, and a Trickster, they get a “Balanced Team” buff, giving them flexible rerolls in different situations.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Archetype Family Bonuses:</div>\n<div>  •  Every archetype belongs to a “family” of similar characters (e.g., warriors, scholars, tricksters, etc.).</div>\n<div>  •  If multiple members of the same family are in a faction, their buffs increase slightly.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Encourages players to form alliances.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Adds deeper faction strategy and unique synergies.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Ensures balance between different playstyles.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 458 (chunk 458/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "zapfdingbatsitc",
+    "family",
+    "warriors"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,33 @@
+---
+id: 0107a7b3-89c0-45c7-b2b1-74acfada267d
+type: insight
+created: '2022-03-16T12:34:10.000Z'
+document: 7405c2da6b92da26b0b49297d3a4e664
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    4wpqvlgysbgetwfome84pxjey7vu4pgnwuzd1jpizcmsrkvff5ittp3rupogwvsmbenztlwmbqkklnhbk5hanr8esei0hy3xccbaap
+  - wvfl57u1luuhqdadvgnop2dgmrwzzjjbhhtp
+  - >-
+    844qemzhj4p3sgbihnoklcqee9jeawofsnabdqakoo3fiijt3sdndnng0rmfl2rqarjcpduqoakyjyqct09kehcdkxdvbd0oarbubl9ayjaxwb0pw3nexhuh9kwni
+  - >-
+    vjwaag5hqu7oeatztfpahpnpfac8ck2kthulsr7qchqkgq53uarsharshfpgnyq38vlu4569qqsgug9r0oawsjqw2dkqe
+  - bpta742mnbsae1abyameu8mduabnpzhtqag461infh4u
+---
+# 4wpqvLGySbgetWFOME84pXjEy7vu4pgNwuzd1JpIZCmSRkVFF5ittP3RUpOGwvSmBEnzTlwMbqkklnhb
+
+## Context
+From document: The battle of the blinds — chunk 1545 (chunk 1545/1787)
+
+## Content
+4wpqvLGySbgetWFOME84pXjEy7vu4pgNwuzd1JpIZCmSRkVFF5ittP3RUpOGwvSmBEnzTlwMbqkklnhbk5HanR8Esei0hY3XCcBaAP//WVfl57U1lUuHQdadvGNop2DGMrWZzjJBhhtp+844qEMzHJ4p3SgBihnOKlCqee9JEAWOfSnAbDQAkoO3FIiJt3SDNDNng0rMfL2rQARjcpduQOAKYjyqCT09KehCdKXdvbd0oARBubL9aYJAXwB0pw3NEXHUH9KWNI/vJwaAG5HQU7oeaTZtfPahPnPFAC8Ck2kthulSR7QcHqKGQ53UARSHaRsHFPGNyq38VLu4569qQsGUg9R0oAWSJQw2dKQe/bpTA742mnbsAe1AByaMEU8MduabnPzHtQAg461InfH4U/AlTAH0qsv7osuOR6UASqhZvm7Uwp+8GDxUieYqeYed1NSJmcFuKAHzkYCrxikRwMKBk065hccj7tMgZVG7uaACXIbaelPY7VwvFLIwI5H0pQQUBPWgCL5k4FORtnDCnbOMimySbzsAxQA4mJW560hEn8VPECIuZOTUe584FADoBzmopkzIAtPCMpyKVW3cN1oAnkCLGMelV2PlsCvpSbSOtSlVYe9ADJX5BXg4p+Qy7T3qIcv8AP0p+0gZHTtTAAMHB6Um/aw20iYzyKeF5z6UJASSybVA6lqhi4BLdqA/7wFugqTIcMW/CgCDBfLDtU6FXXZ6VChH3cdaCPLYEUAPA+b0C0pk+cHqBTC+8gdBSuBGBspAOMjByy8A0u9jkj8KbvDgKaeWEY2jtQAhLlAcgGjeMbP4qaULfvBUsSggSHGadgKxXb8oHzVMPlFDSESEdRSY2/e5pAJjaMmmgu3yjpTuZPlPGKfxGcj7tAETxuvzHmnht67CMU0yndj+GpGlV/kxtNAEO5h8tPIZF5pR+65+8tKzeZHnpQA0Mv8Aw1OGdvzVGIxmpX5+QcUANWMOOKYo4K1Oihe9QLkvg0AEIcNtSp3bYdo6mhH4KR8Mai2rnYeXNAEm4t+FNyCw9qQ+agwcYpQg25oAWTDJnuvSkVy0ZU9ulIgBzmo9oVsflT6AKuduOwpQi43LxilU7Tg96hPEvtSGmXkVNo4xmkCnd8vAFNZgVBXjbSmY7BjvQIsqAeT1pnAc1XSVwwA4Bq5LtQZ6k+lAxokcZB/Cmjnl+acj
+
+
+
+---
+*Source: Document 7405c2da6b92da26b0b49297d3a4e664*

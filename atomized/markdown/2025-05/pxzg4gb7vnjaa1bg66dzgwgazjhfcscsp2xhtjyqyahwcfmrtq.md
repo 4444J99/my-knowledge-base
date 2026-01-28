@@ -1,0 +1,32 @@
+---
+id: 942ea798-f4bd-4a05-b3ef-8ac09f60d0bf
+type: insight
+created: '2025-05-15T00:56:03.000Z'
+document: 084f9bc77d1d8854a07a52206c286278
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - pxzg4gb7vnjaa1bg66dzgwgazjhfcscsp2xhtjyqyahwcfmrtqtw9fv7i
+  - >-
+    1g6tyri08uegwyhrigy7vovzuhryo9mdqxwtpif8qybwqjtm7lvwqqcbnhsivzdnipg8o6e1tlbljtsybjt5z7pagzvmbotku2fxnzmcfid5junkl2ytmhkleospkdyjknp3t8wgbu4jxw3oufxbahzq3nnfai4vwqyurowa5yv4nidraaaa6ciiigaooooawtb
+  - g1juet
+  - apqakrke5d3il3z5iekctqwgrkwc
+  - >-
+    qdzucsb3v5la0ajgw84e89enuauuiylh1vh6ezfri0t0zmemylck7evpuikihmsph9gs3bbovlxnrghgnptp1qaogrv9bywoybeq2cnnpbtxirkqrrsxjjrwpuhce
+---
+# PXzG4GB7VnJaa1BG66dZGwgaZjHFCsCsp2xhTJyQyAhwcfMRtqTW9Fv7i+1G6tYRI08UEGwyhRIgY7vo
+
+## Context
+From document: Grokking Algorithms for OS — chunk 149 (chunk 149/402)
+
+## Content
+PXzG4GB7VnJaa1BG66dZGwgaZjHFCsCsp2xhTJyQyAhwcfMRtqTW9Fv7i+1G6tYRI08UEGwyhRIgY7voVzuHryO9MDQXwtpiF8QybWQJtM7lVwqqCBnhsIvzDnipG8O6e1tLblJtsyBJT5z7pAGZvmbOTku2fXNZMcfid5JUnkl2yTMHKLEoSPkDyjknP3T8wGBu4JxW3oUFxbaHZQ3nnfaI4VWQyurOWA5yV4NIDRAAAA6CiiigAooooAwtb/wCP/Tf+u7/+g1JUet/8f+m/9d3/APQakrKe5D3IL3Z5IEkcTqWGRKwC/qDzUCSB3V5La0AJGW84E89eNuauuiyLh1Vh6EZFRi0t0ZmEMYLck7evpUiKIHmSPH9gs3BBOVlXnrgHgnPTP1qaOGRv9bYWoYBeQ2cnnPbtxirKQRRsXjjRWPUhcE/jUlAFMJOQwaxtlJJIy+R7Z4FI0LnD/YLZ3Q/LlwP1wau0UAUnjk2grp9vvxnlxhSOn8PP6UAS+ZIP7PtxhgVYyDnnr93qKu0UAUkjmKDfY2yNxnDAg9c9h7fnTrSN0bDWcECKNqlH3EAdOMDtVuigAooopAFFFFABRRRQBn69/wAgWf6r/Or8f+rT/dFUNe/5As/1X+dX4/8AVp/uin0DoLUVzHujJ2PIcY2K2M9PwzUtU9QVyAV+0ABTl4ZgmOmBzxzSAgWNwhjNjPh0wczg/wAWQOtBtGbG6G6wCDg3Oc8cc+1Ob7QiKUW7kcgAg3AG3PUn8eOKbtkKMkqXq+YpBzcgn6j+VMB582Rhus7pNxzlZx8uAQM4PpUaW7LEgWzugFBCg3GCM8Hv+P40jfaChdV1BZAehuABnIyMelSeXM7/ADrfbMgBPOXAHXPv6UASrYhysjtOrYwVEpIOMY56/wD66cmnRRjCvNtKlSDISOev41B5bPEC6XQyrEt9oHfOOevPagrNhtwvlJBwwuAcHjGAfy//AF0AWE0+FFQBpv3f3cyEn6delI2nwsu0vPjjH71uMdO9QRJM4C/6dtkyHf7QuUII6enfP0pqmZVZzHeqy/Nt88Hdycn/ACP5UAX4IPJQrvdwWLZdske30FSVmN57LvEV84YhgPtAGMHgDt9at26OJWLG424GPNk3AnuMe3SgCxRRRSA5rw7/AMjJafR//QTXX317HbvGj8HchyWVQSSQByRycGuQ8O/
+
+
+
+---
+*Source: Document 084f9bc77d1d8854a07a52206c286278*

@@ -1,0 +1,41 @@
+---
+id: 3c98a742-34a3-4fce-97a3-7ae64b546bd7
+type: insight
+created: '2025-02-12T19:07:35.000Z'
+document: 1b21c03b1f1909954adca118a79b0158
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: writing
+keywords:
+  - your
+  - narrative
+  - about
+  - this
+  - week
+---
+# <div><h2>Week 2 | Overview:</h2></div>
+
+## Context
+From document: Weeks 1 - 6 Canvas Data Dump — chunk 39 (chunk 39/188)
+
+## Content
+<div><h2>Week 2 | Overview:</h2></div>
+<div><br></div>
+<div>Narrative Writing</div>
+<div>So...you have a powerful story to tell.</div>
+<div><br></div>
+<div>Let's talk about your statement. Is it crystal clear? Does it give you a solid foundation to build excellent essays? And does it cover enough sub-topics to drive your point home or share your life lessons? Is it all about expressing your unique opinion?</div>
+<div><br></div>
+<div>This week, we're diving deep into the world of storytelling. Yep, we're focusing on the narrative mode of writing. It's all about you, the author, sharing your personal stories or anecdotes. This mode allows you to express yourself in powerful and touching ways. So, as you gear up to add to the topic you've chosen for your narrative in this week's discussion, think about your life and what part of it could make a great story. And once you have that, let your ideas flow!</div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div>But wait, there's more! We're also going to explore the magic of description. This is where you add all those details to your narrative to make it come alive. We're discussing painting a picture with words, using colorful language and vivid imagery. It's like turning your story into a movie in the minds of your readers. It will take your narrative to a new level of writing prowess.</div>
+
+
+
+---
+*Source: Document 1b21c03b1f1909954adca118a79b0158*

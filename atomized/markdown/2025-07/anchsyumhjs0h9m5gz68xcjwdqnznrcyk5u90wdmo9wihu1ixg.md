@@ -1,0 +1,31 @@
+---
+id: 79752b02-deaf-4c94-af87-a0c74ccc15e6
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - anchsyumhjs0h9m5gz68xcjwdqnznrcyk5u90wdmo9wihu1ixgywgnx8ywnapum69pa8s
+  - >-
+    tq0frgm0zp0det0zlcynycamf8tmvqek1al6amhetotjkcwbspd2suj4ntoaojjm5lgdqnqbdfbaozhbpg5jmsyhwbm0xjtwrmdssrki4ptdcgt4knswoy1aggfiyiwdgcluti8fh6n4b8imyfth2u2j2c37yyhf90myggz7ncnw7ctqfqmatuj
+  - 58ilefb86uuupkdg2etgvgdt4fwrltox
+  - uzne
+  - vvdu9vu5ma78fz4yyrhjpceuby5slzavkbwqfzavkbwqfzavkbwqfzgnyvwsz
+---
+# aNchsYUMHjs0H9m5gZ68XcJWDQNznRCyk5u90wdmO9WIhu1ixGYWGnX8yWnApuM69PA8S/tQ0FrGM0zP
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 6293 (chunk 6293/18928)
+
+## Content
+aNchsYUMHjs0H9m5gZ68XcJWDQNznRCyk5u90wdmO9WIhu1ixGYWGnX8yWnApuM69PA8S/tQ0FrGM0zP0DEt0zLCYNyCAMf8TMvQek1Al6amHeTotjKCwbSpd2suJ4ntOaOJjm5LGdqnqbDfbAOzHbpG5JmsYhwBm0XjtwrMdsSrkI4PTdcgt4kNSwOY1aGGfIyiwdgCluti8FH6N4B8iMyFTH2U2j2C37yyHF90MYggz7NCNw7CTqfQmAtUj/58iLEFB86UuupkDg2eTgvgDT4fWrLtOX/uzNe//vVdu9Vu5MA78fZ4yYRhJPCeUBy5SlZAVkBWQFZAVkBWQFZAVkBWQFZgNyvwsz/zU0v90vKg0C6bOJx1atZ0O6jk6LJGcW0gw64WSMMWPuStso0dWi0BkFudsj3dcPo1a66dA6OWc1ojVpe7cNomMWC9RgjXDR++MhPec7q7dzE/2wzI356p+xszhflO3Ks5vbrRquqdut1v+owArm6WHXrIO9WgUbJB45VEY2GvHjbL7tBBTWOv6YY72/Y3FvKzLXdtprw2WyOvW/jDuVks2ZCm016ONB3wTGD43Qc6G4OiL9zOINKjXoM8ryykMRS0powiu/YApD0ywFzF0KbI9zJ00YA92/R5soCXG3J0uG4yukWEmCnE5DiNEwnGXg6Y3FFtK6uTvC2QtjBIs3W21JCtsyWgmhhwU1eGPd6jaDHYbEF3A9E9S8NWTcB1XRmha2YE9hbK86vsN8tZSBM4SzhnsDezsoGVAABAAElEQVTx3boqsDeW5oBqXUjZRVM3jdyA8RHMRmeuqcR8IzUfMeQpROm2bf7kT/7D3bzPbuTYY5i9c2bCMBJ4TyjOHbvqt37rt7rf+PnUpz71sq9z+zgf+chHdo6zfQMO+Cd/8ic7t5FL7oAKbP+gr3kn3AHXKC9BVkBWQFZAVkBWQFZgtyrw7d/6fKeMqbhXK+j9RtQserDHldhuFJgRiV+VhBRrGrb1mXbUrpLUnSHNa7Efrs/n+3XiuI1mTj++HL/udGOmCpsdMki/HjHgoOb0K/ZMLepV7FZBwwttqRsvdZNuxW+WglY5AGkPmtGgGaByp9O7UYAPR9kedWs+vmuDto/yHH079Hsjb85345lmBG0+aLAEIzSl6JM3pkKVA9EbPA4ouLWcTbd5YKdn6+7j96wdX+/4Ovg2szgT
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

@@ -1,0 +1,26 @@
+{
+  "id": "98226fb9-cde2-4323-8e3b-683515beea17",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:18:05.000Z",
+  "title": "<li>- [ ] **Data protection**:</li>",
+  "content": "<li>- [ ] **Data protection**:</li>\n<li>  - Encrypt data at rest (e.g., AES-256) and in transit (e.g., TLS 1.2+).</li>\n<li>  - Use secrets management tools like HashiCorp Vault.</li>\n<li>- [ ] **Compliance**:</li>\n<li>  - Ensure adherence to regulations like GDPR, HIPAA, or SOC 2.</li>\n<li>  - Conduct audits and maintain logs for traceability.</li>\n<li>- [ ] **Threat modeling**:</li>\n<li>  - Identify potential attack vectors and mitigate them.</li>\n<li>  - Use tools like OWASP ZAP or Burp Suite for penetration testing.</li>\n<li><br></li>\n<li>---</li>\n<li><br></li>\n<li>### **5. Observability and Monitoring**</li>\n<li>Set up a unified monitoring system:</li>\n<li>- [ ] **Metrics**:</li>\n<li>  - Collect system-level metrics (CPU, memory, disk usage) and application-specific metrics (e.g., API response times).</li>\n<li>- [ ] **Logs**:</li>\n<li>  - Standardize logging formats with tools like Fluentd or Logstash.</li>\n<li>  - Centralize logs using a platform like Elasticsearch or Splunk.</li>\n<li>- [ ] **Tracing**:</li>\n<li>  - Use distributed tracing (e.g., Jaeger, OpenTelemetry) to track requests across services.</li>\n<li>- [ ] **Alerts**:</li>\n<li>  - Configure alerts for critical issues like downtime, high latency, or resource exhaustion.</li>",
+  "context": "From document: full best practices house keeping; — chunk 22 (chunk 22/24)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "3e83484e9c334693cb3ed7e0779f00e5",
+  "relatedUnits": [],
+  "keywords": [
+    "like",
+    "tools",
+    "logs",
+    "metrics",
+    "data"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

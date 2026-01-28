@@ -1,0 +1,32 @@
+---
+id: 42872fa9-e230-4153-997e-00325d57268b
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    k2fyazcpgigwelb7uvha4twruvoltagek6g06inqqpyvliwtetdw9b9qyci6yca5ferg8bjhamuvvw8k5hjndkemhlgpfox2b4ouabqjodnznaevgruogvfvjnodp6iea
+  - >-
+    kdxzyf3thrqy2xxr2caoab3wceatiwqybxzv2oc8rw8adavypwnsxegn2xnn8bxi44sehcgcxc4hki6ioijrajgktxga4y2vjcbhdqyquwrhf1nkatyrja7qs2daccrylxpokuc6qxvxwa2pgghxa7nhugwflcyivmxoxoszlqpq
+  - ktgksssutxxyzvvrlpg
+  - 6n2nukrcjrdyg0m4awmz7
+  - od4br4tsi5bmrgsti
+---
+# +K2fYazcPGIGweLB7uVHA4tWrUVolTageK6g06inqqpYVLiwtETDw9B9qYCi6yca5FErg8bjhAmuVvW8
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 13992 (chunk 13992/18928)
+
+## Content
++K2fYazcPGIGweLB7uVHA4tWrUVolTageK6g06inqqpYVLiwtETDw9B9qYCi6yca5FErg8bjhAmuVvW8K5HjnDkemHLGpfOX2b4ouaBQjodnZNAevgruoGvfVjNODP6iEa/KdxZyF3tHRQY2Xxr2CaOab3wCeaTIwQYbXzv2oc8rw8ADaVyPWnSxeGN2XNN8Bxi44sEhcgCxC4HkI6IoIjrAJgkTxga4y2vJcbhdqYquwRhF1NKAtYrJA7QS2DAcCrYLxpoKuC6QXvxWa2pgGHxA7NhUgWFLCYIVMXoXOsZLQpq+ktgkSSsuTXxYzVvRLPG+6n2NukRCJrdYg0m4aWMz7+OD4br4tsi5BmrgsTi/aFk7NjwB28ogYB7OjSHTJhHt13G9uDrccn3LzmoI2SyAzR6xxqsSbHFKoPwjrcZzck89FzwPRJ8V4LxCZh6xk1u9D/XTOmmNJeuel8anGceBomhwdb+XX2c+XxE48eO/QIWnHWY9Am2DzzqUaR754sHARkLDF9+7TZck9BJj+ubtEqxle+B32i1XCR7/Apprrr7ae/IFpe9jA+cxudD4BfAmT9eUySNcTuY3hOe6roRy/vd0GvPXt3MLcf/lBugu/P1lAqXx2rRrA8/b9DAF8NvzQDOGbinB5E4OLsF0TQutgdxMEaZzEzBjAJ/1NXSJIduOsbi6O67dIzubOWtz2tPGGN5+OHevdMX0xvR49NgNpDc72LsBBoKc4M2Xxd3JRwaFHzNGZEToAZOuUWLUeP3pf7lq6U/fYt92PjdoHIDtYORhY40/s8BfuQYqkRq6g7SxhDvYTYye5x3vHCJd9Y3du4NmB0fGTQdHN1S7fMocZxleO1E+M+BMke9s+EyXO0BnXA78BnUPROextm781zxmLI8/Pv8MlSC6QdzfPNzbvWA+Z5l3d4dhZ7W4nf/PetVF8ci2Mvicv/j1+2e/FniPz7nb0Pw2HnmB3O8DtoO6L5WG/WKj58TPnGNTPcYly7zZ4wYEnjXegd8Jx/N8FCf9BzV6157xKm7nLPPG5zzHemeJ36sX/4F34ZcAb5XCgZfVAqt6ohpW03XPbZTCC5wMXDRt1MG5bo+jCldbNS3JvSCufjlvVUYbPvSjno46voh0FdOQIaS4Qq0Urf1p7qq2MnS1edX6ZTgiXVmj3B9WCZR/lfK8iroPq6GhdI05lKZN
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

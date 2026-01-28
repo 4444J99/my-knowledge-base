@@ -1,0 +1,31 @@
+---
+id: 0ca92f54-1542-41d4-8cea-5ce4411961c7
+type: insight
+created: '2021-12-24T02:37:43.000Z'
+document: 8c92f15912082fa7b1c83f8694d6f48f
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ciwbrr
+  - fh4uwakkpwo
+  - >-
+    ooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigar7c
+  - b8wtsr
+  - erxzbb7kb
+---
+# ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigA
+
+## Context
+From document: Daniel’s Christmas Booze Drink — chunk 307 (chunk 307/376)
+
+## Content
+ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAr7c/Za+B8WtSR/ErxZbb7KB/+JdA4+WWRDzMwPVUIwo7sCegGfmT4XeBbn4jeOdM8KwZSK4ffcSL/AMs7eP5pG+uBhc/xECv2e07T7LSbC20vTYVt7S0jWKKNRhURBtVR9AK/bPB7guONrvMcTG9Om7RXeW/3R/Nrsz854/4ilh6awlF2lLd9l/wfyLtFH4UfhX9U2PxEKKPwo/CiwBRR+FH4UWAKKPwo/CiwBRR+FH4UWAKKPwo/CiwBRR+FH4UWAKKPwo/CiwBRR+FH4UWAKKPwo/CiwBRR+FH4UWAKKPwo/CiwBRR+FH4UWAKKPwo/CiwHjPxq+EWl/Ffwy9qVWHWrJWexuTxtfr5bnr5b9D6HDDpg/kPqem3+jajc6TqkDW15ZyNFLE4wyOhwwP0Nfu9+FfAH7Yfw1jgmtPibpcW0TstrqAUfxgfuZT9QNjH2X1r8K8Y+C4VsO81w8ffh8XnHv6x/L0R+meH3EUqdVYGq/dl8Pk+3o/z9T4Sooor+Xz9oCiiigAooooAKKKKAP//U/n/ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD9B/2LvCKQaXrnjm4T97cyLYwEjkRxgSSkezMyD6rX3JkV4n+zrpC6P8G/DcIXDXEL3LHuTPI0gJ/4CQPoK9r
+
+
+
+---
+*Source: Document 8c92f15912082fa7b1c83f8694d6f48f*

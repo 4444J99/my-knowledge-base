@@ -1,0 +1,26 @@
+{
+  "id": "523ab7dd-fd93-4738-9acc-0e3ca79627b4",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants to add a new POV/persona to their system: a critical double or shadow self—someone who observes the creative process with skepticism, seeks to “steal” or improve upon it, and offers a constant critical lens. This persona will provide feedback, challenge assumptions, and act as a constructive rival within the system.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Has approved the Custom Instructions V1 set for universal implementation across all threads and workflows.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>",
+  "context": "From document: MEMORY_DUMP_RAW_051425_MASTER — chunk 51 (chunk 51/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "5e4feb3febe2be13a91fd74e828ebc64",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,31 @@
+---
+id: 3ded07fa-45d6-4439-a8e5-bf66f045b7e7
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 1c6yxq4zvj3oint4va5245lwjjqzmdq90llejgjjpzpn7u8qkmq0sdzgxq
+  - foawaorvnmivztt6mrkzr3u19zbmrf8pfhhzk1tryfyvmdl
+  - >-
+    l3inxaxqeximcnenynedebrb2hsvbmwkeioc4nlefj65bcy8dihfexljaomqd6hqgui8jhjyidsobbuqfio
+  - ypphrpm8tuguh5yjf23cfi34elxwj4hkbumhqjlligvtahhw4g7ikaz1i8ivee3nx
+  - hjtqtrothtsdfxd4xwr7tvlxinvvnevljyieyomfbsjsiennwctolskdyoi
+---
+# 1c6yXq4ZvJ3OINT4va5245lWjJqzmDq90lLejGJjPZPN7U8qkmQ0sdZgXq/FOAwAorvNMIvztt6mrkzR
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 1539 (chunk 1539/11534)
+
+## Content
+1c6yXq4ZvJ3OINT4va5245lWjJqzmDq90lLejGJjPZPN7U8qkmQ0sdZgXq/FOAwAorvNMIvztt6mrkzR3u19ZbmRF8PfHhZk1tRYfYVMdL+L3iNXaxqexImcNEnYnEdebrb2hSvBmWkEIOc4nlEFJ65BCy8dIhfExLjaOmqD6hqgUI8JHJyiDSobbUQfiO/ypPHrPM8TUGuH5yJF23CFI34eLxWj4hKBUMhqJlLiGvtAhhW4G7ikaz1I8iVeE3nx/HJTQTrOThtSdfXD4xWR7TVlxINVVNEVljyiEyoMFbSjsienNwcToLskDYoI/67gavOi8xnHUFvTWeqvwkRMx2mfKcruv+XoRQppCN3Qb5duih85bvdvihKxNoRQbuWOB6pOSWIRLPZ1ja+C7ai50Pj2RjURm6LsIF6X4A/6O3hAWut79YXCrPPwxmSUi+JA8WR47LXEL+r8Rjys4Qlo0kZNt0oR14aP3xwo3ARStPKr8UKCplVwGLZk8PjS/uu1juONmi33UbDbvOQ3x1JQP48gTovuzTHA+4eOym/LEocWy1dHPu24b/16la780+b/+G5R3Db2Gbp/tVNkgyG/+M4f8QrjCUwc+ho0U/yxsuOVIVqUH7R5CTc7ziuS7XpCqyd84bkJAdbwLfaiUwjveJ9TF8PdYP5h97K3M3mGzsmr8rl+f2PDk/vOSUq3beZLhvSnTJJcu7zhvei+a8+4pvOPcKcslzL8IPaO25Zc9VcxsLSrMB3aWOGoaP1h8hi+AsI2/tvBic+jNSibVBP0A6wTVAh+XcxxfuuoOWiwvZ+UPLcy7RcVsk/7otaPo1DtdCP/HMBYatTrJt85dwctdZsKnTNY4kZHIlC29iSTcT5b7sI2z1h8RjZI5nmuac8Su6P5RGtjtmj6fhVu0HGKMHJnEpLgVuY0s2T07UZVrSL7dWJouN9EAbhx7Ex+mytwNItesp0sbzVmw85m8AiOTK4G8tqeG7sbLjAhDr9pfZ0Q5ghX0YqcQmToG2qNP5FjJeCw+SUlLy3lIryUPfQ7WdaPsPU5VkLngFI+BACem6QJ4azIbBHE7evsyS4n/s6qJ/V1Iw1vTRFiE+VYbrJRrOjvltmHiUMrI+kTIfoGhNSvyMWbLnEXd8w5XvvhBuLcgE2e4sNKVH/q7UtBbn++bXjX/b+VDU6b/i6os3jDKGMrpflk
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

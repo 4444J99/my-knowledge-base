@@ -1,0 +1,32 @@
+---
+id: c4a19964-821c-46c0-a750-ec540c72951b
+type: insight
+created: '2020-02-13T15:24:07.000Z'
+document: 17668fd2541299884816643132bdef4b
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - vtq0zsll3l1b20ssfsogszpeurgaocsrxqbzdffx9l0rvnc1cdsnfs5tqvrptknvbxtllix
+  - >-
+    hrebzj7auavblksbqq5ebkerk4jhqke2tio6mulee0nktbqnozowkojgqympwvyhkehgg1dqauuuuafsszttshmdpgacgsstgdahpydpwjqgha3pnrzx2qafcwdtqczltzzonjs4jbwxizga6g8zxizwvqa
+  - >-
+    ossgrzymkohbvlocco4iprmzmwy5j5jpumkooa2vdkmgreidll8vw3fxoixudx8vo6x3mlqhbmwf3dkshtiqsca2cqrx0x
+  - 0b4e
+  - dfhf8ac
+---
+# vtQ0zSlL3l1b20ssFsoGSZpEUrGAOcsRxQBzdFFX9L0rVNc1CDSNFs5tQvrptkNvbxtLLIx/hREBZj7A
+
+## Context
+From document: Tarantino goes in depth on first few attempts at writing scripts — chunk 147 (chunk 147/234)
+
+## Content
+vtQ0zSlL3l1b20ssFsoGSZpEUrGAOcsRxQBzdFFX9L0rVNc1CDSNFs5tQvrptkNvbxtLLIx/hREBZj7AUAVBLKsbQq5EbkErk4JHQke2Tio6muLee0nktbqNoZoWKOjgqyMpwVYHkEHgg1DQAUUUUAFSSzTTsHmdpGACgsSTgDAHPYDpWjqGha3pNrZX2qafcWdtqcZltZZonjS4jBwXiZgA6g8ZXIzWVQA+OSSGRZYmKOhBVlOCCO4IprMzMWY5J5JPUmkooA2vDkmgReIdLl8Vw3FxoiXUDX8Vo6x3MlqHBmWF3DKshTIQsCA2CQRX0X+0P+0B4e+J2g+Dfhf8AC/w5L4Q+HPgGG4XTrCe5+1XVxdXj+Zc3l3KFRWlkIAAAwgyFODgfLVFABT5JJJnaWVi7uclmOSSe5JplFAEkc00QcROyCRdrBSRuXrg+o9qjoooAK9S+DXjrwv8ADn4hab4o8beELLx1oMPmR3ukXxKR3EMqlSUkUExyISGRwDgjkEEivLaKAP0X8IftF/sk/ALVZ/iV+zt4B8TzfEJYLiPS7jxNqNtLp+kS3UTQPLDFaojzlY3YL5rA5PXjNfnU7vI7SSMWdiSSTkknqSabRQBJLLLO5kmcyOcZZiSeOByajoooA94+MHxnX4l+Efhj4J07T30zS/hzoA0tY3kEnn3k1xJcXd0MBdolZ1G3kgJyTmvELO5NndwXaxpKYHVwkqh422nOGU8Mp6EHqKrUUAfoHP8AFv8AYC8RatB4/wDEfwf8SaXrirE0/h/R9Vt4fDk00agMVZ4zdxI5XJRSQNx69T8t/Hr4y+If2gfi14h+Lnie3is73XpUYW1vu8m3hgiSCCFN3JCRIq54yQTgZxXkFFADzJIyLGzEomdoJ4GeuB70yiigApQcHPpSVr614f17w1eLp/iLTbnSrp4o5liu4XgkMUqho3CyAHa6kFTjBHI4oA+4G+K/7CPjJdO8U/ED4T+ItD8R2tvFFd6b4Y1G2ttCv5ohtMpWaMz2/mAZZYm4PcnLH57/AGivjhqf7QfxPvPiDe6ZDodmtvbafpum27M8Vjp9lGIreBXbliqjLNgAsWIVQQB4ZWraaFreoaZf61YafcXOn6V5X2y5iid4bbz22RedIoKx72G1dxG48DJoAyqkmmmuJDLO7SO3VmJJOPc1HWrLoWtwaRB4gn0+4j0
+
+
+
+---
+*Source: Document 17668fd2541299884816643132bdef4b*

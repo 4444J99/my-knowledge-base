@@ -1,0 +1,24 @@
+{
+  "id": "034e7af0-ac9b-4bd4-a25b-520e81172efd",
+  "type": "insight",
+  "timestamp": "2018-09-04T16:26:35.000Z",
+  "title": "<div>Struggling </div>",
+  "content": "<div>Struggling </div>\n<div>Negativity</div>\n<div>Pulling</div>\n<div>Pulling</div>\n<div>Me</div>",
+  "context": "From document: Struggling",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "805fa75beeebc6ac03eb6e04dee4675f",
+  "relatedUnits": [],
+  "keywords": [
+    "pulling",
+    "struggling",
+    "negativity"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

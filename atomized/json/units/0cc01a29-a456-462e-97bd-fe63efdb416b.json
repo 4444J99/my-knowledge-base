@@ -1,0 +1,26 @@
+{
+  "id": "0cc01a29-a456-462e-97bd-fe63efdb416b",
+  "type": "insight",
+  "timestamp": "2022-08-04T20:45:25.000Z",
+  "title": "<div>Once a week I'm week</div>",
+  "content": "<div>Once a week I'm week</div>\n<div>Once a while I'm a child</div>\n<div>I jump through the hoops in hope of a final hoop</div>",
+  "context": "From document: Once a week I'm week",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "7317525030ba5eea2286c1e9c1757a20",
+  "relatedUnits": [],
+  "keywords": [
+    "once",
+    "week",
+    "while",
+    "child",
+    "jump"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "63eb9f70-3515-4179-9ae2-298fdd7cf3e9",
+  "type": "insight",
+  "timestamp": "2019-05-16T17:37:19.000Z",
+  "title": "<div><span style=\"font-size: 21px\"><br></span></div>",
+  "content": "<div><span style=\"font-size: 21px\"><br></span></div>\n<div><span style=\"font-size: 21px\">Ch 8</span></div>\n<div><span style=\"font-size: 21px\">This is the first chapter that deals explicitly with the stases that were introduced in Chapter 1. The first stasis question in the ancients’ tradition was of fact: did something happen? Before an argument can progress to the next stage, everyone must agree that something did happen. Consider a missing person case. If no one knows where the person is and no body can be found, then authorities cannot ar-rest and try someone for murder, decide that an accident occurred, or rule the death a suicide. First, there must be agreement that some-thing happened; only after the parties have agreed that something has happened can they determine which term or definition best ap-plies. Thus, an argument of fact is the basis of further claims.</span></div>\n<div><span style=\"font-size: 21px\"><br></span></div>\n<div><span style=\"font-size: 21px\">You may find arguments of fact to be especially inter-esting because we have long understood facts to be immutable. Problems arise, however, when they begin to consider what kinds of facts can or cannot be reasonably argued. There’s no easy answer to this question. For instance, consider the statement that there has only been one Roman Catholic president of the first forty-four; such a claim hardly seems arguable. A quick look in any encyclopedia would confirm this fact. But what if a historian found evidence that an earlier president was a Roman Catholic who had suppressed his religious affiliation because he feared the anti-Catholic prejudice that was common in the late nineteenth century? In that case, even this seemingly straightforward, easily verified claim becomes arguable. A good argument with good evidence can make new facts.</span></div>",
+  "context": "From document: EAA Chapter INTROS — chunk 6 (chunk 6/18)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "96eb322624e76b9b2f5ac7aabacd881c",
+  "relatedUnits": [],
+  "keywords": [
+    "span",
+    "that",
+    "style",
+    "font",
+    "size"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

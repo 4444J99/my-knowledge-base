@@ -1,0 +1,26 @@
+{
+  "id": "9d1db3bc-a704-4b9b-a96c-f3cc3a283af1",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px",
+  "content": "<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants to track thread health and progress in a visible, data-driven way. This includes displaying key raw data (backend/task/thread stats) at the top and bottom of responses, showing how many questions have been asked vs. answered, how many objectives are open or closed, and how many referenced items have been completed.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Attempted to sort and organize their past ChatGPT threads but found the interface didn’t allow full access to earlier sessions. They want clarity on whether ChatGPT has access to the earliest threads they created.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>",
+  "context": "From document: MEMORY_DUMP_RAW_051425_MASTER — chunk 32 (chunk 32/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "5e4feb3febe2be13a91fd74e828ebc64",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "48e9efb0-599c-4cd4-a2b1-db8199859f4e",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Starting: *Analyze log errors* (9/9)</div>\n<div><br></div>\n<div>**Log Findings**</div>\n<div>- Latest log folder: `~/Library/Application Support/Code - Insiders/logs/20251116T180443`</div>\n<div>- Only file present: `cli.log` (expected GUI logs like `main.log`, `renderer*.log` missing) indicating those sessions weren’t captured or were pruned.</div>\n<div>- Error captured:</div>\n<div>  - Missing extension file: `ms-python.debugpy-2025.15[REDACTED:PHONE NUMBER]-darwin-arm64/package.json` (nonexistent path). This points to a stale extension metadata reference or partially removed Python extension version.</div>\n<div><br></div>\n<div>**What This Indicates**</div>\n<div>- The installation itself is functioning enough to run the CLI, but at least one extension (Python debugpy) has an inconsistent state (registered but files absent). This can trigger downstream issues (debugger failures, activation errors) and is consistent with “corruption” symptoms.</div>\n<div>- Absence of other log files in a fresh timestamp suggests either:</div>\n<div>  - You invoked just a CLI command (`--list-extensions`), which only writes `cli.log`.</div>\n<div>  - Previous GUI logs were cleared during cleanup or not generated after a reinstall attempt.</div>",
+  "context": "From document: User: fix — chunk 9 (chunk 9/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "extension",
+    "logs",
+    "python",
+    "this",
+    "errors"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

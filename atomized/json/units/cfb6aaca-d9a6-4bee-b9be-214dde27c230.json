@@ -1,0 +1,26 @@
+{
+  "id": "cfb6aaca-d9a6-4bee-b9be-214dde27c230",
+  "type": "insight",
+  "timestamp": "2019-05-14T15:09:06.000Z",
+  "title": "<div>Supervised the script during production and post-production processes.</div",
+  "content": "<div>Supervised the script during production and post-production processes.</div>\n<div><br></div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: Welcome to ENC1102. My name is Anthony Padavano, and I will be your… — chunk 3 (chunk 3/3)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "17bbf2974d25bc9b1dba304d917b369d",
+  "relatedUnits": [],
+  "keywords": [
+    "production",
+    "supervised",
+    "script",
+    "during",
+    "post"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

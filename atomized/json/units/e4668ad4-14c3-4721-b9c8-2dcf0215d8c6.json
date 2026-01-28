@@ -1,0 +1,26 @@
+{
+  "id": "e4668ad4-14c3-4721-b9c8-2dcf0215d8c6",
+  "type": "insight",
+  "timestamp": "2025-10-31T05:18:03.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>## PR Changes</div>\n<div>The pull request introduces:</div>\n<div>- **New `COMMANDMENTS.md`** file documenting 16 principles across the three domains</div>\n<div>- **Documentation updates** in `README.md`, `CONTRIBUTING.md`, `SETUP.md`, and `docs/STRUCTURE.md` to make these principles discoverable</div>\n<div>- Integration of these principles as living guidelines for issue templates, workflows, and community practices</div>\n<div><br></div>\n<div>The PR is currently open with 160 additions across 5 changed files and is mergeable in its current state.</div>\n<div>——</div>\n<div><br></div>\n<div>I'll retrieve detailed information about each of the three referenced repositories to understand their original intentions, purposes, and implementation guidance.Let me search for more detailed information about these projects' purposes and principles:# Original Intentions, Purposes, and Implementation Guidance for Three Exemplar Projects</div>\n<div><br></div>\n<div>Based on the PR's incorporation of principles from Semgrep, TensorFlow, and Schema.org, here's a comprehensive breakdown of each project's foundational philosophy and how their principles can be best implemented in any repository:</div>",
+  "context": "From document: :Based on the pull request at https://github.com/ivi374forivi/petasum… — chunk 2 (chunk 2/19)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "340e0116e55214c41c8027f95c1fba8f",
+  "relatedUnits": [],
+  "keywords": [
+    "principles",
+    "three",
+    "these",
+    "purposes",
+    "across"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

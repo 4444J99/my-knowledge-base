@@ -1,0 +1,26 @@
+{
+  "id": "93557e81-3777-4046-bde7-0cab6b6fca5a",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "</td></tr>",
+  "content": "</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><font face=\".AppleColorEmojiUI\">🔄</font> Class History &amp Rule Evolution Log</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Tracks all decisions, rule changes, and game/story progress over the semester.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Public (Students &amp Instructor)</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wiki-Style Document</div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Ensures ALL information is accounted for—not just fragmented pieces.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Keeps structure manageable—prevents an overwhelming data dump.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 426 (chunk 426/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "font",
+    "valign"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

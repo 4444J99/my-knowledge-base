@@ -1,0 +1,26 @@
+{
+  "id": "4ac67410-60b5-49b7-acf1-55bdf7408a16",
+  "type": "insight",
+  "timestamp": "2025-12-24T04:20:48.000Z",
+  "title": "<div>Create a claude project manifest (in style of annotated bibliography), each",
+  "content": "<div>Create a claude project manifest (in style of annotated bibliography), each file, each thread (and files created within each thread) titled, tagged, unique-ID assigned, &amp annotated;</div>",
+  "context": "From document: Create a claude project manifest (in style of annotated bibliography…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "58ef6c713e6585dcd6ed8d284ad91f90",
+  "relatedUnits": [],
+  "keywords": [
+    "each",
+    "annotated",
+    "thread",
+    "create",
+    "claude"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

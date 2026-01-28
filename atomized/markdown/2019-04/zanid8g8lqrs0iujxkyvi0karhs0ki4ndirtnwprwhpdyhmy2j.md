@@ -1,0 +1,31 @@
+---
+id: 75cc95ef-37c8-465e-8f2b-b717444e9c4a
+type: insight
+created: '2019-04-16T14:05:00.000Z'
+document: 0c34a8b78e60a6c1ecbdc7504f7c4c39
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - zanid8g8lqrs0
+  - iujxkyvi0karhs0ki4ndirtnwprwhpdyhmy2jkdrtoihr2efjwzhr1mivioa8y0
+  - >-
+    ep6leqnjrh7sxfyw9vmaqggbgakh9d4jqhxjhm9btafynqu66ygtfzdvcklufrclryb70da5ddyoc16qepqhpxkjqfxbmqgthzdnmecfmfs1jvdgia5qylvjxrrbrpnc0dvmsbacqv3x9cgkha
+  - mv9nxunhijhsdk5gnfcpg9mqkbsqw
+  - pjkwcolb7ir4h539w7p7ebpvxydl2ufqhaaumktikz9lhq9yvjkjtn0dudwabgkn5ecgdgd8qr0t
+---
+# zAnID8g8lQrs0+iUjxkyvI0kARhS0kI4NDiRTNWPRWhpDYhMY2JkDRtoIHr2EFJwzhR1mIVIOA8y0/eP
+
+## Context
+From document: Reverb Cheatsheet — chunk 640 (chunk 640/770)
+
+## Content
+zAnID8g8lQrs0+iUjxkyvI0kARhS0kI4NDiRTNWPRWhpDYhMY2JkDRtoIHr2EFJwzhR1mIVIOA8y0/eP6lEqNJrh7SxFyw9VmaqgGBGAKH9d4jqHxjhM9btAFYNQU66YgTfzDVcKLUFRclRyb70Da5dDyoc16QEPQhpxKjqFxBMqGtHZDNMECfmfs1jvDGia5qyLvjxRRBRpNc0dVmsbacqV3X9CGkhA/s1/RR+MV9NXUnHiJhSDk5GNfcPg9MQkBsqW/pjKwcolB7IR4H539w7P7EBPVxydL2uFQhaAuMKtIkZ9lHq9YvjKjtn0duDwAbgKn5ECgDgD8QR0T+AwUBkoWDciX2qAdUCVwxfkhr/tAHFUKqG3LPSOq2Kk4Th/uoUfMDghQaRt6Y9SOBQKilENPT+saF8SOMinRIHohjKghVqpqU4DkBIF7JkUjdpW0QQ6c4CoNMMWpMEUSIPHADkQL1YFXa7/O/uHZ/oACehB+v2CjYeyPIxGT/SFwuiEqwUWYQk/VSjaGpkGnoSZwMmRomCqggvCZeWpAdK9U1e6/O/uHZ/oACixD8mbo/wDtB84QwViADj4mDJHd2RF4i/wZLwwC8n4lwjmC/sD87fuHZ/bwKKhACjSvx/iKIgSaUFGHURHjI9pfa0sSOh1g0xOapQqsA2OIOkgWgySv/CSWAAAWjDCjwBTdFr5X539w7PzMEUccgAxG94mGMWAgUWH1nCF/KRRT1E6HbD8tZylSIqDTe2Fc7mxdWkhp5wNlxzAwaNDDca9QoODdvocp0+tBmcDicfSt8U4oij0cPsuBAQUXR9I1Ti/HkaU5PL6DuOrs4BocidDt63BsScBwdOcboV8IIV/d/AUCrA2rm58Xd3ZUQSwDksqF0eT4IVe6+c39eOTD1s6roDcOOpf5nzhPwHQ5FFWF4cFu78Unp5/ctBBQpKC40iqcKCJC2OJx9Z6zyyWpzdA9Gts/JeeHewKKDHtiNFTK8un0uQsucib24+3n8RGCDiMRrGg3TYalFh/RPym6fm6Cnh16uPnaagDYjsTGO4CGNQroOf6LhASOlltza9nv/QOz7NBTUgbOe2FQQ36pgICBbUHBMQ/Q4znN72e+chLnhYoM0axKlq2X2PxB/YGvuHZ+SgimxBFhLzDhwgOrgXtiSqy1GWLyUgmI3QSgq8hRXISg7S4G8EIJCKp
+
+
+
+---
+*Source: Document 0c34a8b78e60a6c1ecbdc7504f7c4c39*

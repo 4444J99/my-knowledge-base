@@ -1,0 +1,26 @@
+{
+  "id": "1dd813a1-f42f-421b-8450-eb7e7360b19c",
+  "type": "insight",
+  "timestamp": "2024-02-29T18:42:04.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>4. Payment Terms</div>\n<div><br></div>\n<div>Payments structured as follows to facilitate smooth project execution:</div>\n<div><br></div>\n<div>- Week 1: $625 (Service Fee) + $1,000 (Tools Fee) + $2,000 (Ad Spend Allocation)</div>\n<div>- Week 2: $625 (Service Fee)</div>\n<div>- Week 3: $625 (Service Fee) + $2,000 (Ad Spend Allocation)</div>\n<div>- Week 4: $625 (Service Fee)</div>\n<div><br></div>\n<div>5. Duration and Renewal</div>\n<div><br></div>\n<div>Initiated on a 6-month basis for performance assessment, with potential adjustments and renewal options.</div>\n<div><br></div>\n<div>6. Legal and Compliance Considerations</div>\n<div><br></div>\n<div>Adherence to all relevant laws with an NDA to protect confidentiality.</div>\n<div><br></div>\n<div>7. Acceptance Criteria</div>\n<div><br></div>\n<div>Success measured by alignment with the Client's SMART goals, satisfaction with deliverables, and performance metrics.</div>\n<div><br></div>\n<div>8. Project Management and Communication</div>\n<div><br></div>\n<div>Customized communication and regular, detailed reporting to keep the Client informed.</div>\n<div><br></div>\n<div>9. Change Management Process</div>\n<div><br></div>\n<div>Flexibility in strategy with changes agreed upon for continued alignment with goals.</div>",
+  "context": "From document: Statement of Work (SOW) for Marketing Services for Florida Luxury… — chunk 4 (chunk 4/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "06939a5ef86dfd2551bc8549e488274a",
+  "relatedUnits": [],
+  "keywords": [
+    "with",
+    "week",
+    "service",
+    "project",
+    "spend"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

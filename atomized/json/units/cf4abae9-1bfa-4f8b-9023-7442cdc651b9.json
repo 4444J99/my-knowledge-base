@@ -1,0 +1,26 @@
+{
+  "id": "cf4abae9-1bfa-4f8b-9023-7442cdc651b9",
+  "type": "insight",
+  "timestamp": "2019-05-31T10:54:34.000Z",
+  "title": "<div>Doctor’s Appointment</div>",
+  "content": "<div>Doctor’s Appointment</div>\n<div>Feet, soles, heels, and ankle pain</div>\n<div>Hair loss</div>",
+  "context": "From document: Doctor’s Appointment",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "5f75aa020f726bcd55c15ce48dd389ba",
+  "relatedUnits": [],
+  "keywords": [
+    "doctor",
+    "appointment",
+    "feet",
+    "soles",
+    "heels"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

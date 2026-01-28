@@ -1,0 +1,42 @@
+{
+  "id": "9041f55a-5d1d-4fec-978c-76ba7b871c40",
+  "type": "insight",
+  "timestamp": "2025-10-28T10:47:46.000Z",
+  "title": "<div><tt>+</tt></div>",
+  "content": "<div><tt>+</tt></div>\n<div><tt>+![RLOS flow chart]({{file:file-JurQ1KyUfPve4pAJ5BDDuP}})</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+## Multimodal Semantic Vector Space</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+Language in RLOS extends beyond text.  A **multimodal intake engine** processes text, audio, images, video and gestures, converting them into a shared high‑dimensional space【33635101037775†L184-L221】.  Advanced transformers extract salient features from each modality and align them to represent concepts such as a spoken word, a photograph and an emoji of a *dog* in nearby regions of the vector space【33635101037775†L200-L207】.  The system uses cross‑modal attention mechanisms to align deictic expressions with gestures or icons【33635101037775†L210-L216】.  The unified semantic space enables intersemiotic translation—text‑to‑image, speech‑to‑emoji, or gesture‑to‑meaning—bridging human communication channels.</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+![Multimodal vector space illustrating audio, text, visual and gesture components mapped into a unified semantic space]({{file:file-RzEghyJiXrMTNMtx2AmdPC}})</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+## Rhetorical and Cognitive Processing</tt></div>",
+  "context": "From document: agent@chatgpt:/$ apply_patch <<'EOF' — chunk 14 (chunk 14/19)",
+  "tags": [
+    "paragraph",
+    "html",
+    "has-image",
+    "image",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "cd6b3f031d9095b66a75525d2e2b5a60",
+  "relatedUnits": [],
+  "keywords": [
+    "space",
+    "file",
+    "text",
+    "multimodal",
+    "semantic",
+    "rlos",
+    "flow",
+    "chart",
+    "vector",
+    "illustrating",
+    "audio,",
+    "text,",
+    "visual",
+    "and",
+    "gesture",
+    "components",
+    "mapped",
+    "into",
+    "unified"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

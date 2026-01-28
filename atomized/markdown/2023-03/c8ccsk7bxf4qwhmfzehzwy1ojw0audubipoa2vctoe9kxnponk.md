@@ -1,0 +1,32 @@
+---
+id: 0d22eab6-d829-49e6-923a-4be07ac5a217
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    c8ccsk7bxf4qwhmfzehzwy1ojw0audubipoa2vctoe9kxnponker4xmcr4mfgj6qfcem9514hw70owdrt
+  - pc7qdo28ljvbtbbzjsimohpa97fdmn8hg3y9wcimabsw
+  - >-
+    zwxdoghyxnrz39zxwt7zpkb795vbunma8b3nlv3cl9tlgpazy9bd718fmxwcdfw3a2hghs4h2eu4bk32dxxeo8gbcfbfeuig1np4bswxyubnx0fhdkuzmccizphxozq7er0d3j8cm
+  - hakjpza7a5cs82ra4v8irj4d8mo
+  - zda9n
+---
+# C8ccsK7bXf4QwHmfzeHzWy1Ojw0AudUbipoA2vcToE9kxnponker4Xmcr4MFgJ6QfCeM9514hw70OwDR
+
+## Context
+From document: New Note — chunk 7738 (chunk 7738/8096)
+
+## Content
+C8ccsK7bXf4QwHmfzeHzWy1Ojw0AudUbipoA2vcToE9kxnponker4Xmcr4MFgJ6QfCeM9514hw70OwDRt+Pc7QDO28LJVBtbbzjSimohPA97fDMN8hg3Y9wciMabsW+zwxdoGhyxNrZ39zXWt7ZpkB795vbunma8b3NLV3cL9tLgPAzy9bD718FMXwcDfw3a2hGHs4H2eu4Bk32dxxeo8gbCFbFEuig1Np4bSWXyUbnx0fHDkUzmcCiZPhxOZQ7ER0d3J8cm/haKJPZa7a5cs82RA4v8IRj4d8Mo/zdA9n/F+70Tjqffhjn/Dac/+IrdF3gR4PzzBOhhrH8MBvpn3aHQY0637xcOn+9Bk8V+z5DNdtuQ2XaL2ea6xWS1bjU5nVttTue2ERtgeotjgzMU2hRLpTbjd/Em/K6sJTyP38MV38y/eHJqSUASkAQkAUlAEpAEJAFJQBKQBCQBSUASkAQkAUlAEpAEJAFJQBKQBCQBSUASkAQkAUlAEpAEJAFJQBKQBCQBSUAS+F+fgAHOE45nn7A8i33DTq9BeQOgB5hOmJ7WeQLsBNBZBhzPlsC6Ac4b8LwBqtMAbwDzvGbce2lrgPOE51lcZ0Dz3NvoXwra03zP+wwg39iPz9KGeYDw7HN+OyD4O1cvVLetuHr++bTP00JPkJ72+S03XK42X/89DcsToCc8rwF69AnQ00C/Ef212G8NgHkDoCc8T4h+2cL/q+F5DdBfQ+v8t9SiK/4FEP2/aoCepvkbFl2hQXnC82uXXwdA/lq1EmZ5AvWrly7G3PXaPL/yhkVqNUz0a1cu0e3Gdcu1eZ7Q/D2336q+f/cd6tFf/0I98qufq989/EvdvvDMU+rJR3+jXnruafXEIw/DOv+2euftN9X77/1V7d2zSxUAni8GFE9onrZ5jtkSnjdgesL1h1F5Rw6rPKzLPZYzZ59HmwsD/Z49+2Ct360OHQB0f/gYAPtiVVpajr2KFEF6WuiLi0t1VcMY39jYrBoamlRPT5+G5U2wzA+ZLWrYYlUDphHV0dOrGmCcb+3sUk3tHRqYp3me4HxtU/O8iZ4APauyrkEb5weHzbDAW+fBeULy8cy4goVdAVBXhOlhcddzMLIrgOQanicoDxO7huc5z+IYgPk8UE+QHuZ2Dc8ToCdIPwzrfDeg+T5A8z1DFpxhUBfh+brmdpy9W3UPmOaL
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

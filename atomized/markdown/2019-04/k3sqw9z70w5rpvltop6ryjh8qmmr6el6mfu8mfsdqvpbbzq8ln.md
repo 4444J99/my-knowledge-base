@@ -1,0 +1,32 @@
+---
+id: 96224533-f4d8-42fa-b44c-7ca5a5c27528
+type: insight
+created: '2019-04-16T14:05:00.000Z'
+document: 0c34a8b78e60a6c1ecbdc7504f7c4c39
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - k3sqw9z70w5rpvltop6ryjh
+  - 8qmmr6el6mfu8mfsdqvpbbzq8
+  - lnl6ruwvccqjglfvovjboltztu3z5kbzfvxqwxsyvt1pvzn4p1kkxulmmmtj0zuwa
+  - >-
+    zkltnavqlzygjedqiopsnhzlgewkxoicjeajofajdhijkfcmdovkmwvpbbacbuezdh9kjajmbgieioaaidqqhqiuz9wkmu3coytldqs9oee5gmvz6zeoso4hzy0pgwlmhvcrc82
+  - >-
+    ksbiad0eisph6it0au8ueq5oux2ai2qk8hgd6kozzchvlrfcylhiu4g71dpwvrkdcvbsjvbkknfwqh1jftdtne4icrpimpspjkotedzbfxr0cv
+---
+# k3sQW9Z70w5rpvlToP6RYJH/8QMMR6El6mFu8mfsdqvPbBZQ8+LNl6RUwVCCqjGLfVovjBoLTZtU3z5k
+
+## Context
+From document: Reverb Cheatsheet — chunk 549 (chunk 549/770)
+
+## Content
+k3sQW9Z70w5rpvlToP6RYJH/8QMMR6El6mFu8mfsdqvPbBZQ8+LNl6RUwVCCqjGLfVovjBoLTZtU3z5kbZfVxQWXSyVt1PVzN4p1KkXuLMmMTJ0zUwA/5mB+zklTnavQlZYgjedqIOpSnhZLgeWkXoiCjEAjoFajDhIJKFCMdOVKMWvpbBaCbuEzDH9kjajMbGiEioAAIDQqHQiuZ9wKMu3cOytlDQS9OEE5gMVZ6zEOSO4hzY0pGwlmHVcRc82+KsBiAD0eIsph6IT0aU8ueq5OUx2ai2QK8hgd6kozzCHvlrFCylhiu4g71dpWVrKDcvbSJVbKKNfwQh1jftDTNe4iCRPIMPSpjkOTEDZBfXR0CV+VUTIDIi27pUEASvOuA46zUzl4g27ZkbWRF+ALIk5UEwVHp/I0jY6csSzNMxzAAxGVxliJpfXrA793pi6q5VjlqyT5A5lTmBdwbC80XoKzrmaAFxiMRm8t6aWU8YuGonyFjGEUStG5CesurW9BXsTaAL/4hiZ5TDlLjpFG6ESaLnVsW2HXgC13H6CPKk3Fp1IgBDoWwXHSKLUzCRIn1I4BYLpk6SHlB/wCKhX7qG2OOs00vHEAieyuzPJksMpfOnr1NBReKlATJ3cAMes96vLfMQL6kRi6IlouL6ybZhqyhzStewtf3DtUmOVzNFl6NGl6WBViAxd8FdFNhLuf7KO1HaX/pYMHRmbUw/wD/ABqVk65gmm18oPhnKmCD7Ce5JN3srPDbvKO+SvCWKzM6CZjLLEbcqgYbZJFMrgxJyf672n+3KWHv/wCRVBxfjPAlaWAcsFjgPHj99eW24yINvm2UTCAitHgN9LHaeO1pdb2aj/OaRnSnQtTC6Ccq0Bwjk5nbxu1NywdOPo4JNjNbPP7/ADQHLOnOMe1AIDMvt/Ir57l+FJ8tkZGgBANISJwg63lMBGE39SoeEV48a8JsvsOq9/0oAJPDPDb08fu14naixUukf+9CReFl5rxSbxsNiKQow2q/PtQF3O55vlRcVcggRqHyiIXkw/LnSvZWnoH/AIolBjgCZzss3IpK1jY+OOB2lmR4MqQAHwXbMNqfS62eHlBcQDQ70E8XQnvwI0IU7+IXJXoJmyA0ijSRMETEpb48yp3GSIZZOfHmpq9v6AB5T6KBIKyCA0GF8W4F+5l78I7gfuxwTZF7EXm1arNR5XZ
+
+
+
+---
+*Source: Document 0c34a8b78e60a6c1ecbdc7504f7c4c39*

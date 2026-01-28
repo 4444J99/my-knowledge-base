@@ -1,0 +1,32 @@
+---
+id: fc55ef48-7c19-4404-ba52-670b2ecc0d6a
+type: insight
+created: '2017-10-10T23:16:34.000Z'
+document: 64a95cd2950865cc023eedad1ff9b65d
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 6vw1xt838uspamea6a
+  - ukwsgeaj0gaheeiuj4skeyqpushftudv4myzadh1
+  - >-
+    7lhh0ghevbfjukdqmeyrxsaqcaqcfupajgzzg8sxyauy6gvjbop10empprjndr9dbe31bfdgamyqg2nkdbkn30n7ih9y24zqrn
+  - 6bwhgiiky
+  - >-
+    fzlhkpgceoha01re28bzdzdloit8ydoo1kn7u0v2zzjhptphb3zvaiqjkohhnpoiiphgqrtxmch2osi1wontjyy4mxolaylecr
+---
+# 6vW1Xt838usPAmEA6A+ukWsgEAj0GAHEEIUJ4sKEyqpushfTudv4myzaDh1+7LHH0gHEVBfjukDqMeyR
+
+## Context
+From document: sign -- signifies t signified ___________ iz'ag — chunk 248 (chunk 248/273)
+
+## Content
+6vW1Xt838usPAmEA6A+ukWsgEAj0GAHEEIUJ4sKEyqpushfTudv4myzaDh1+7LHH0gHEVBfjukDqMeyRXSAQCAQCfUPAJgzZg8SxyaUy6gVJbOP10EMPpRjNDr9DBE31BFdGAMYQG2nkDBKn30n7Ih9y24ZqrN+IR/6BwHgiIKY+Um+//fZLHkPGceOHA01rE28BZDzDLoIT8Ydoo1Kn7u0V2ZzjhptPhB3ZVAiQjKOHHnpoIiPHgQRTXmch2OsI1wOnTjyy4MxoLAyLecR+DPmM/Deu89SWN4KT8UYbOFdNKCYkLJK606QfaAvtPIh5q9NydvI7fZlhhnIdKa1+1kM+e9vb3pbWL9X9DA5+Yw9sLhcLXntWX1NdDtghwrWVed9cPI6J0Up4LwfEIvlPO+20ZIzL/fHF4tyJbEgxZuAN9t5772T4OOKII9Lf8HSuoDj2Qts0wqwX+PBA8OzBX9mcLahdxzHpX0Q16uJ5rjcmj2O9pmqZwwAwVVs+6h0IjCEClEAmHhMopZBJ/Hvf+16y6rP0d3IwzbPPPlvhain8j8XReeedtzVe6BhCFEUOBAKBQGCsELCxsKnvlUKfMQFRY4MoDBDVEjJiqicKLiE1bNy4yw8ihqx5mmGdctR7JummeltE/QOBQGBbBBzY+9Of/jQZbRH7yOI8TtUL34a4QwYaW7Lyn0EZGdop+Y88NG+YLzLRfOGFFyaCmwGA+pV6+KijjkrjZz/Jw23R6e5/mTyHi7MVEKnEU+0mwih19s4rA8GKiF65cmU6cFm4JuR1Do2EqEZSM8ggQhsp1MuUQz6U3vZ/k2ZEZiCHD9U6j0VrFrj6jEGLgCGvYSj/b7vttoSBuVx/Z4hpltavX5+8NFzfKJxQs9+P0nfU55dcckla2y1ZsiSF07GWgRPDAGU60p/iHy64ARgRQOi73nkLGGuMMZ08B2XwMJ7ps4yYDDtnnXVWX40NZcrU6BrPaR7Lqv82Hvq/cdi4uGbNmhTySz6d8C2N7h+fDx6BMAAMHvO4YyAQCHSBgAUsqz3FCVc6FmmGAAtDC3ZqCJuAVgkxcfXVV1cuuOCCpFCxqPzc5z6XFg6tfhvfBwKBQCAQCPQOgW6UgbWlQP4jhRgCEBHCE0SqpE0oRRqjiE3yoDZwwg7YbAvNwcgeKRAIBAKBWgSMR0LCIUARnjx7kXjW89b1FOyM
+
+
+
+---
+*Source: Document 64a95cd2950865cc023eedad1ff9b65d*

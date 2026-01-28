@@ -1,0 +1,33 @@
+---
+id: 4c263619-a4ba-41f6-a3fb-3d359c903abc
+type: insight
+created: '2017-10-19T23:15:11.000Z'
+document: 18dc3a996dd053a8e2f8b89fa16c3840
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - loj3094etac0t3fm61vagtynqaoaxwdpvblyp1qljyp
+  - >-
+    gro5eowapsmc2y8gkfvrmczv8rygxisnhpurv0bvowfugpicg4ydx6stq2uzwxmmrygqtum3jwpozddsnp1rnkd5nwa
+  - >-
+    dwo6qdrsms6iqd7tchh9bmlpsbbmx7bgqzo9e3zuzxn8p2hdewns8hroq8u9xysqzvg5r45dxywnklhfkv
+  - b0hcnmu1fp1vb06zni2vkhdyoid
+  - >-
+    pyforgymdzm7nebkfzo0fdiroajhxr1wjx7w37ms1yywjmwikkkcaagoo0bwb2hu0swgy0uaheijgzes22ny0v1himlzljw200sgeefjhh2mkinqwxqa0l2kjmu0j
+---
+# loJ3094ETAC0t3fM61VAgTYnQAOAxWdpvBLYp1qLjYp/GrO5EowAPsMC2Y8GKfvRMczV8ryGxisNhpUr
+
+## Context
+From document: L-day IN A CHAR — chunk 632 (chunk 632/966)
+
+## Content
+loJ3094ETAC0t3fM61VAgTYnQAOAxWdpvBLYp1qLjYp/GrO5EowAPsMC2Y8GKfvRMczV8ryGxisNhpUrV0bVOwFuGpIcg4YDx6STQ2UZwXmmryGQTUM3JwpoZDDsnP1rNkD5nWA/DWo6qDRsmS6IQD7TCHH9BMlpsBBMX7BgQZo9e3ZUzxN8p2HDeWns8HrOQ8U9xySQzvG5R45DxywnKLhfKv+b0hCnMU1FP1VB06ZNi2vkHDyOId/pYFORgyMdZM7Nebkfzo0FdiRoaJhxr1wjX7w37Ms1YYWJmwIKKKCAAgoo0BwB2hu0SwgY0uahEIJgZEs22ny0V1hImLZLJW200Sgeefjhh2MKINqWxQa0l2kjMu0j+9Fedmt/AhT40O8h0cMUKgT/aZPz/jc0arj4bilQ4vPB/3/0EYqLoIr3a8rP9IEI8jKqm+Ku4s9fPg7XSZ+IRMWoUaNa5bz52H5vuwL03ylQ4zPLZ2To0KHVRnvx2aEvTf+cv1FuCrQFgS9LTtvC1XgNCiigQDsToDqdhiYdDwLnNGIJ2hN8Zt5/qkGo2CfAzDymNBaooqcTw+ME8tmfjWNRRUKjl+lqaLjynaA/jUuqwAj4cz6C2SQdaCRTWUDDg84hjVMaoDRQawu2cxyC5zSo6ShRXcVruV6OSbUN56URw3BzGizXXHNNnJf5V3PCgdED7EeDl6l9qNjhPgi4c+5cZc8oARo/PMfxm7JxXRyXRnxeq4DOHomIe+65J/xywgJTOt5MFUT1D9MxPVdYAJhOM/eKC4kKki4cl9+5bpIHuPP+uCmggAIKKKCAAs0VoBiC9gVtDdolLS0sILhEkQltNNoqlbbdeeed6f7770/Tp0+PdmXN4Ctt7lxEQ7LFrf0J8LlmWk6KmcaPHx9tfvoQtPXpE9V8z+u7QwqZSCLw/14ehV3f/g09R9+O6VYpIqIvUdfGNdJfoU9x8803Hxz9U9f+Pt4xBPjssj7JE088EcV59EmLN/rK9Fvpmza1D1x8HH9WoDUFjHi0pqbHUkCBihIgmE7ngy+m26GDRkU9gX+mxOF3gswEpPlOwJxKdQLaNBbpGA4cODCC+3TwaCDQmKCSnYbr+eefHw0GAtdsdCoJuPPaPMqABADnp5HMc1TIkzSoa8sNaa6N4D+NFc7L+Thm7mDy+4QJE2JefwL43/jGN6KTRfCchjkN
+
+
+
+---
+*Source: Document 18dc3a996dd053a8e2f8b89fa16c3840*

@@ -1,0 +1,26 @@
+{
+  "id": "10318493-2937-4dd7-adbc-54341999bb5c",
+  "type": "insight",
+  "timestamp": "2025-11-25T07:22:05.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><br></div>\n<div> -d, --debug If brewing fails, open an interactive</div>\n<div> debugging session with access to IRB or a</div>\n<div> shell inside the temporary build directory.</div>\n<div> --display-times Print install times for each package at the</div>\n<div> end of the run. Enabled by default if</div>\n<div> $HOMEBREW_DISPLAY_INSTALL_TIMES is set.</div>\n<div> -f, --force Install formulae without checking for</div>\n<div> previously installed keg-only or non-migrated</div>\n<div> versions. When installing casks, overwrite</div>\n<div> existing files (binaries and symlinks are</div>\n<div> excluded, unless originally from the same</div>\n<div> cask).</div>\n<div> -v, --verbose Print the verification and post-install</div>\n<div> steps.</div>\n<div> -n, --dry-run Show what would be installed, but do not</div>\n<div> actually install anything.</div>\n<div> --ask Ask for confirmation before downloading and</div>\n<div> installing formulae. Print download and</div>\n<div> install sizes of bottles and dependencies.</div>\n<div> Enabled by default if $HOMEBREW_ASK is set.</div>\n<div> --formula, --formulae Treat all named arguments as formulae.</div>\n<div> --as-dependency Install but mark as installed as a dependency</div>",
+  "context": "From document: -d, --debug If brewing fails, open an interactive — chunk 1 (chunk 1/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "18ce0710d28389561889f6efd8d041c2",
+  "relatedUnits": [],
+  "keywords": [
+    "install",
+    "formulae",
+    "print",
+    "installed",
+    "times"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

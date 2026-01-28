@@ -1,0 +1,26 @@
+{
+  "id": "08d32275-a08e-45a2-9bc8-14a5395eaef3",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>   - Structured data vocabularies</div>",
+  "content": "<div>   - Structured data vocabularies</div>\n<div>   - **Purpose:** Semantic web and metadata standards</div>\n<div><br></div>\n<div>7. **awesome-scalability** (Fork)</div>\n<div>   - Patterns for scalable systems</div>\n<div>   - **Purpose:** Study distributed systems architecture</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **Additional Personal Repos (Partial Visibility)**</div>\n<div><br></div>\n<div>The search results show at least **8 visible repositories**, but you have **39 public + 1 private = 40 total**. The remaining ~31 repos likely include:</div>\n<div><br></div>\n<div>- More forks for function implementation study</div>\n<div>- Experimental prototypes</div>\n<div>- Archive migration attempts</div>\n<div>- Draft implementations of org concepts</div>\n<div>- Learning repositories (frameworks, languages, tools)</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **ARCHITECTURE ANALYSIS: The Four-Layer Flow**</div>\n<div><br></div>\n<div>### **Layer 0: Archive (Physical/Cloud Storage)**</div>\n<div>- iCloud, Dropbox, hard drives</div>\n<div>- Writing, video, music</div>\n<div>- **Status:** Unindexed, scattered</div>\n<div><br></div>\n<div>### **Layer 1: AI Brains (Knowledge Bases)**</div>",
+  "context": "From document: Contents_Table — chunk 48 (chunk 48/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "layer",
+    "purpose",
+    "systems",
+    "study",
+    "architecture"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

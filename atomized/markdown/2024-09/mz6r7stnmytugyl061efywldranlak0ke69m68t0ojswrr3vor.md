@@ -1,0 +1,31 @@
+---
+id: 0475b47c-295e-4bd1-aa93-d75764218e13
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - mz6r7stnmytugyl061efywldranla
+  - k0ke69m68t0ojswrr3vorzxx2hbzz7aptct3pj9v4ovhsj1ugs
+  - jnknc8e5g6o0wwo6g6noiwu27
+  - >-
+    z04edw4awtnbuliw3d1bnfv3xz12q6ewo9kpp5d68jhaxqaj72wu2umquuo7ohoum52a9he6awxqbijoo5xbz6flo7ptjarnw7ljaurvaxe66bzydronli0shutbimrr0zzilzo0uw3yvnahd4e6z9yzq0qhi
+  - f1yokkjfm4xqhtactbp
+---
+# mz6R7stnMYtugYl061efywLdRaNLa+k0ke69m68t0OJSWrr3VoRzXx2HBZz7aptCt3pj9v4oVHSj1ugS
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 6655 (chunk 6655/11534)
+
+## Content
+mz6R7stnMYtugYl061efywLdRaNLa+k0ke69m68t0OJSWrr3VoRzXx2HBZz7aptCt3pj9v4oVHSj1ugS+jnknC8E5G6o0WWo6G6NOIWu27+Z04edw4aWTnBuLiw3D1BnFV3Xz12q6eWO9kPp5D68jHaXqaj72wu2uMQUuo7ohOUM52A9he6AWXQbIjoo5xbZ6FLo7ptjArnW7lJaurVaXE66BZYDroNli0shutbiMrR0zziLzo0uw3YVnaHd4e6z9yZQ0QHI/f1yoKKjfm4xQHTActbP/cM+ptA9+upjg7p/nJ250SXaWmLyHNAdWlwCyMFHHL5UdIHlPIUOkY83oaLD/LkhqHvdWjrr52g3fRZdgLopoV1VzoW/DuXcpx/caI0uo61lwrmcQofpdNnccvz1h/CppRO0SxWdFXUGdYZzmj8nLd2i2kGLS2vprJ+jxX/xN7QAdZxIt49Gl8R18pty7s2zv736yU5AblYttXFQzhHd7dTi8oKRf9u+sZeK7rzp56yZ+7edptY1IHcpOGcLdPfzKVV0AHKbEiecuwgtHf2N/O0A2j1Xi0tZNrSM+XOhogsUh/aVgeXWRGtGcc0GumOLy0mAtxuAcFbRKX8uFDefampdAXUAckZ01NU15RwhXIvz6ipwXfrQzMGHpUJuHCo6rPrFmG0q3dwS8QR1v1hF/BjLjQ3kWAe4DvjNOrn/GBFNNc2crh4cCSxHzDYKOGcfawHeut+uEqQtpZBzZGkgx2rREjMiWit098uaeVD+QRXkB0JbFDi3YA7iwH4J2PDCpWUWzLaQX9ceAu+xwr741+QEqJsR8nWcBqiGz4K1pcJxpnVyXpV47IqvOZgJiwrOiUhFXPO3+GrD2EyAJ1dx7T4qdL9GQi0nAOa1O+XvBeFaNUIvn6Tq4SJSENrc/jXW2Az3HOcxCsJLZPuwCbrg41VaKPZapuEQzo8XZ17rz+K4IgHwfNUWL+xqfd8fg0DX8dVWc1DhhUBOraYTMifyGwJxjl8Leke9CoxzHldooKJ+3pqj19Cx1r6ta+YqnMF7ee3pKr6gryBqFiCt5/uFdeTopaEwT6gEVN+7pOXuu3hx6ZP4DKe7O+J7Zd/nr3emrj2t8AefP193uiZtOzN3t7+Lu3GawzO3HJ9f1i9VAye4Zv908XK/vtINVOZqsnGHcy3QAmFDAwN4ndoAhl6z
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

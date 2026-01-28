@@ -1,0 +1,32 @@
+---
+id: b54cb2d6-6cfd-4054-995c-0598349a1563
+type: insight
+created: '2022-03-16T12:34:10.000Z'
+document: 7405c2da6b92da26b0b49297d3a4e664
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    npkhdzxvlowjdhghr7vuhjxlkvzqytx1du2uyw3tumzvmwb0rvglabzm9o1vbewkblcqb1reijdu2z31hipfqxtlurjnn0rvn2eek4i7vlw6sk4zwksyi
+  - mzb3e1ysnijv
+  - wycdputti0msp5x
+  - gq0su5wfg0u61t5fm44h86znc0fturzbkkaa1u6najhbs3ltw0u9
+  - >-
+    epsqs08sodrcfsn5aodxwihwo71wuerqnnzvpdn5n7tupeppbytd8o6ulyvjpme0mplwknezerfs4g0jnirfi
+---
+# NPkHdzxVloWJDHgHr7VUhJXLkVZQytx1DU2UyW3tUmZvmwB0rVGlABZM9O1VbewkblCQB1reijdU2Z31
+
+## Context
+From document: The battle of the blinds — chunk 275 (chunk 275/1787)
+
+## Content
+NPkHdzxVloWJDHgHr7VUhJXLkVZQytx1DU2UyW3tUmZvmwB0rVGlABZM9O1VbewkblCQB1reijdU2Z31hIpFqxtlUrJnn0rVn2EEk4I7VlW6SK4zwKsyI/mZB3e1YSNIjv+WYcDpUttI0mSp5X+Gq0sU5wFG0U61t5Fm44H86zNC0ftUrZbKKaa1u6najHbS3LTW0u9+EPSqs08soDRcfSn5AOdXwIhwo71WuERQNnzVPDN5n7tuPeppbYtD8o6ULYVjPME0mPlwKnezeRfs4G0jnirFi+18N8wrWmmihTzeM9M1YzgLyxfdsQbjU+mA25Mcg28Hmtm5njYZQDPrWRcy+gxVRZnKJ5Tc2v2r4i20KjJwD+te1ftJ6ReReB7aeKPdCscQLehwK8o0xPtHxRswvPyL/ADr6w/aZsJLP4aROi+ZH5cWR+Ar0aD2PExzex+d3h5o2tg4PzLxitVWZiee9cr4WdXeSMnB3HiuljOxyvXmvZseG0d34VDNdq2OBXqxPmAKfl4rynwo+68RF6V6xIjxKJNvArmqvU6qPwmlYRtECxH0qxJbljvxinWLb1Bx+FXi2fkcbBWSOgygvlHOcioBBGX8wnArSkCMCoqoWSLCtRsMa1sjfMpwKaIk2MFO81XdjuxG2Qe1TRw5Iw2D6VJPoT2udjI42he9ToFkUoG49aUw4j649RUcafL8vFUgex5h4gULemPqEPWsuMSk5jGR3rU18bb5t3rUVuqhMxfMT2rvp7HFJalKU4bavyt7VJMGFsocc0jxFnOflYU1nJTYRkirMikDGEO3qBVQuSnyjmrMqnG7G2q6Ng/KM0wI4k3HDcYqSRyCF6Cp/LB+YHHFVljZ32t8uKLAXFSLb8tQtCS20fKKJJ0Q+WABioZbzcNqjBpAPkQwfvEYsKZIxli81vl7YpjTeWu1f3tQtdcY2/hTvYTJrcHdmtaKOSJw0fH0rAeS52YEez6V0VjY6oyC5ERdRUykhxR6ZpQc2fzDmrCOi58w4Fecv4jvbBdhi6cVknWrmXLM5TPasFQuzT2ttD1dpbSPkz5HpUM/iLT7dNhYMMdK8tNzcum/cSoqoGWY5lfGKtYVdSPbnoFx4xI+W04HtWVJ4s1TGVz+dYFr5SyAEDFX3eAZK4+lWqEUZusyu2uahdSbZmYKevPSkDq0oUfN605fs8YLjDlug9KY
+
+
+
+---
+*Source: Document 7405c2da6b92da26b0b49297d3a4e664*

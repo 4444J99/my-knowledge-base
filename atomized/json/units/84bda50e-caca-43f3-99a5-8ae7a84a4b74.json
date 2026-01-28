@@ -1,0 +1,26 @@
+{
+  "id": "84bda50e-caca-43f3-99a5-8ae7a84a4b74",
+  "type": "insight",
+  "timestamp": "2025-12-21T14:29:42.000Z",
+  "title": "<div>   - Confirmation mechanisms</div>",
+  "content": "<div>   - Confirmation mechanisms</div>\n<div>   - Rollback/pause controls</div>\n<div><br></div>\n<div>4. Perspective Mode Toggle</div>\n<div>   - First-person view (user)</div>\n<div>   - Avatar perspective replay</div>\n<div>   - Third-person analysis</div>\n<div>   - Split-screen comparison</div>\n<div>```</div>\n<div><br></div>\n<div>### 3. Responsive State Management</div>\n<div><br></div>\n<div>**Universal State Machine**:</div>\n<div><br></div>\n<div>```javascript</div>\n<div>// Platform-agnostic state definition</div>\n<div>const RelationshipStates = {</div>\n<div>  INITIAL: {</div>\n<div>    avatar: 'amorphous',</div>\n<div>    environment: 'neutral',</div>\n<div>    tools: ['basic_chat']</div>\n<div>  },</div>\n<div>  DEVELOPING: {</div>\n<div>    avatar: 'transitional',</div>\n<div>    environment: 'reactive',</div>\n<div>    tools: ['chat', 'validation', 'boundaries']</div>\n<div>  },</div>\n<div>  ESTABLISHED: {</div>\n<div>    avatar: 'realized',</div>\n<div>    environment: 'personalized',</div>\n<div>    tools: ['full_suite']</div>\n<div>  },</div>\n<div>  CONFLICT: {</div>\n<div>    avatar: 'defensive',</div>\n<div>    environment: 'turbulent',</div>\n<div>    tools: ['de-escalation', 'perspective']</div>",
+  "context": "From document: # Platform-Agnostic UI Architecture: Project Evolve — chunk 5 (chunk 5/10)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "05b5ebf7576dd7636e989ca708836977",
+  "relatedUnits": [],
+  "keywords": [
+    "avatar",
+    "environment",
+    "tools",
+    "perspective",
+    "state"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

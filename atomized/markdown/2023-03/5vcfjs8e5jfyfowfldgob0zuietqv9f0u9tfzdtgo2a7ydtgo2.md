@@ -1,0 +1,32 @@
+---
+id: c0e5e597-626f-455f-a759-c6dc12124bcd
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 5vcfjs8e5jfyfowfldgob0zuie
+  - tqv9f
+  - >-
+    u9tfzdtgo2a7ydtgo2a7ydtgo2a7ydtgo2a7ydtgo2a7ydtgo2a7ydtgo2a7ydtgo2a7ydtgo2a7ydtgo2a7ydtgo2a7ydvzddgb6xlckap2m3nayf6cfnbuudkxpbc0lzjyse5yhni8bw49uygyyqbj6gsb8hbi9ylk2sxiyxjwlmlwc2f5o0nvdviqu9aa23odjjkfpbippaxzpru5ww0ti
+  - hnknxecvyltvihvzyfw
+  - >-
+    mng99pc8625iqsnu7zv6bacefpc8zp3ixtxiv2skkeevuq8ep2mkoelhnjvsnnn3qsau30w1apm2dn8ip7culsvhfxci9n
+---
+# 5vcfjs8e5JFYFOWflDGob0zuIE+TQv9f+0/U9tfZDtgO2A7YDtgO2A7YDtgO2A7YDtgO2A7YDtgO2A7Y
+
+## Context
+From document: New Note — chunk 404 (chunk 404/8096)
+
+## Content
+5vcfjs8e5JFYFOWflDGob0zuIE+TQv9f+0/U9tfZDtgO2A7YDtgO2A7YDtgO2A7YDtgO2A7YDtgO2A7YDtgO2A7YDtgO2A7YDtgO2A7YDtgO2A7YDtgO2A7YDtgO2A7YDvzDdGB6XlCkAP2M3NAYF6CfnBuUDKxPbc0LzJySE5YHNi8Bw49uygyYQBJ6GSB8HBi9YlK2sxIYXjWlMLwC2F5O0nvDVIqU9aa23ODJJKfPBIPPAXzPrU5wW0Ti/HNKnxecVyltviHVZyFw/mng99PC8625IQsnU7zv6bacEFPC8zp3IXtXIv2skkeeVuq8EP2MkoELhNJVSnnn3QsaU30W1APm2dN8IP7culSvhfXcI9n+ibac4LkqA+hB9AL0APwZU/PDZk4BzM8semSqC8+zn5mA9dk6zijsN02Ant8+Ryn1KnrxxKQsEuvTA+brHfpNk0igb8sJncuHB/NIi1+g4mODp1tzgxZOygni9wQtInH+R0qgF6BnnR83pweYBHqQ/QuM+YnwfG2S5y+r4/u+1JDm9xLp9C+T8P+r5vuAnh79oTU79M+tmc5XalO9XuGfzb/zYcHfphX1fw3Yv7gh07GcVPTlUwr7r2jLC189OT9iDUnz67i3jnvrSZzfCjx/DxT+KUj9c6D7Zw0ZAdtbckI/AJl/CSo/qPR5cPdXYPY9Sp8HvR8A2AvU7+f8ECj8cHWy9yHA+iHGHGGto8w9puL6uPC8Cjh+krEnBeiB4Weas4LagertE2MfPlMZ797OWKXQd7Cf8wB1pc+f5x0uRH8RUH5Jxf1LrHWpDDxPcvxlzq8w7irvvco7HyTQuwA99w2eZ90u9nt9zPDvXON3mNI59zpZs7scSM8+lRqvRPnumlTfG+Wxbt1C80LyoPib7L+bZz18hHBLJTjPb7mpIx8FGFyv57pWGj2p+AbPs+9upd5XJXkqeb6LtZSE38mHBiYpn3Olz7sS9E0CPddXWOe68HxDRtDVhnTn5bq0wEtgeNLogy81AOhrkvzbAfCneXb+/2XvPqOrvO5938c2CFSW1pKWKsV2dva59+ybOKZIqPfehehCvQsh0QxugAFjO8VJbKcn27GTnZy4YtNNFRgbdwOm996rhCQ6vt/fhOXjfcc97/YeI3uP+WKO+TzzmXM+8/k7jEHG+Kwf9IdB70fq0twnlUJfD6AH059i/nFA
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

@@ -1,0 +1,25 @@
+{
+  "id": "4c1247bf-c3d7-4659-b854-63f7ce360e94",
+  "type": "insight",
+  "timestamp": "2022-01-01T22:06:31.000Z",
+  "title": "<div>The what ifs the what could have been of me</div>",
+  "content": "<div>The what ifs the what could have been of me</div>",
+  "context": "From document: The what ifs the what could have been of me",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "ec583a843c32550fb70e248d3c05e08a",
+  "relatedUnits": [],
+  "keywords": [
+    "what",
+    "could",
+    "have",
+    "been"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

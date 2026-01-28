@@ -1,0 +1,26 @@
+{
+  "id": "1c029c8d-6503-426d-b769-fe0a8cba6ae1",
+  "type": "insight",
+  "timestamp": "2025-11-18T01:59:31.000Z",
+  "title": "<div><tt>gh repo list --limit 1000 --json nameWithOwner --jq '.[].nameWithOwner'",
+  "content": "<div><tt>gh repo list --limit 1000 --json nameWithOwner --jq '.[].nameWithOwner' | xargs -L1 gh repo clone</tt><font face=\".AppleSystemUIFont\"><span style=\"font-size: 13px\"><tt><br></tt></span></font></div>",
+  "context": "From document: gh repo list --limit 1000 --json nameWithOwner --jq '.[].nameWithOwner…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "592bba4426c82dfeb4f82f76c8ba286d",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "repo",
+    "namewithowner",
+    "span",
+    "list"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

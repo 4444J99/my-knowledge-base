@@ -1,0 +1,32 @@
+---
+id: 8d648b05-22d3-43a7-a2d6-288299448d52
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 1n5rnnxrhhqqz
+  - >-
+    fhhpciogyrcaiwt6j7zsyev5uccupckyly1ayvxiq8qlmmzuyazqslnocpn1qfjkqeb7meyx4hbrv6jht69rp
+  - >-
+    woa0amqeyzbjeufsrpzymgihwjkzzxyp0crult1fu7bwf39nyb6guew0hrnbcshe8u3usxzvvjkr7ekagrm5jhlpjnjcsiwfyey8apslvijgxprjv
+  - p4zolv5aoogb
+  - tn5wydvn6gfxehm0t1rythg70uoauavkw3by3v2phmarpftkrahcjj1cwy0x
+---
+# 1n5rnnXRHHQQz/2//+fHHpciOgyRcAIwt6j7ZsYev5ucCuPcKyLy1ayvXIQ8QlMMzuYazqslNocPn1QF
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 9066 (chunk 9066/11534)
+
+## Content
+1n5rnnXRHHQQz/2//+fHHpciOgyRcAIwt6j7ZsYev5ucCuPcKyLy1ayvXIQ8QlMMzuYazqslNocPn1QFjKQEB7mEYX4hbRV6JHT69Rp/woa0aMQEYZBjEuFSrpzymgIHwJkzZxyp0cRult1fU7BwF39NYb6GUEW0HrnBCsHe8u3USxzVvJkr7EKaGRM5JhLpJNJcSiWFYEy8ApSLvijgxprJV+P4Zolv5AoogB+TN5wydVn6gFXEHM0t1rYtHg70uOAuavKw3bY3V2phmARpFtKRAHCjj1CWy0X/upvD5wgltEhS+6Ami66s1qqvkdURc3vevHPSJUzElparOFQ7crdNtZhc0sj4kIgnPgAGJtGft+ck02JJtMYn3Tak6BcaKvqzzDBxqLsVZpAaEHOVwtArP4DpiiMONYUcZ2dT0NCSBW2hzsGdT0wUStN6Uc9qygfVfZRhSwaRFVRrPPe5z3VyeO7cOZ4xNOLIBdAtHfCpO8Q2PE7kklbFRESnzQkNQY6QaID2V56lyc+ePWtoGxFo6cB7IL0vWiETQW3i4kMBJfgAlINdFi2GJJQhqYhz46qscXSrxsFZpbja6mITp67BkIYiQA6EjiBaLzgMwdarqjl0VnjttdeaT8S9DF78r2WYa90EfzWp4w4TTY6QKKCFKQlQa7lOzOsq3sgj4ewEzOczPtE84fTtYMKeu3Wp19htXVBPeTQ6JICOk8PRvzpayOdurQlTL+cU8q64d7beXve610HWjyI6c6Mruw7HJHO1qUZUZkayTNi8UGgCxEdvwm8/RaClZaiHLettevHWYSA3lxTzj1fqkhdbRZBwK9XFjCT2oz+e7pKwDdaV90kcI+w2Qb+MohwVnvWCHQ31Uk1JnGl+QBsCoUI+l89VXxOx1Wc/+9l0IJECaQUHskJAnbvPL8MWmI6yC8KWGE0klJIzGwBzslgwSOZn98pxt5mcQRqGAEPPT7maP72FiSrTlQcc2uC9DSFzldMNMqAdFjAzjtwmtWFrah0OErM3pvgqtvyuu+46o56qcZBjIqGdqW84O8zJovBUrsF4hMkZiQl5XTrpEZ2ld5/2LXDBFuBw5HHKJX4bi/cxjI1JyTrHL8HE1JPvm5cJR8gnorNwWtQli5+IjtdupTdhNWxC5u0B5C7tWK2txLgNxUhMLllmIodFJjXruplFwlZup9/UA81I
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

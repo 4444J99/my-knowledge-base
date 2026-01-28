@@ -1,0 +1,30 @@
+---
+id: 64128b63-40e4-4e6e-b145-9e7a7515f01e
+type: insight
+created: '2025-07-05T15:06:03.000Z'
+document: af0c0eec9b95a645ff4159ded0dae6bd
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: programming
+keywords:
+  - nodetype
+  - this
+  - return
+  - function
+  - 7bvar
+---
+# 7D,e)%7D%7D;function%20M(e)%7Bvar%20t=this;return%20me.call(e.childNodes,functio
+
+## Context
+From document: javascript:void%20(()=%3E%7Bvar%20S=(e,t)=%3E()=%3E(t%7C%7Ce((t=%7Bexports… — chunk 12 (chunk 12/16)
+
+## Content
+7D,e)%7D%7D;function%20M(e)%7Bvar%20t=this;return%20me.call(e.childNodes,function(r,n)%7Bn=new%20ue(n,t.options);var%20i=%22%22;return%20n.nodeType===3?i=n.isCode?n.nodeValue:t.escape(n.nodeValue):n.nodeType===1&amp&amp(i=ve.call(t,n)),I(r,i)%7D,%22%22)%7Dfunction%20ge(e)%7Bvar%20t=this;return%20this.rules.forEach(function(r)%7Btypeof%20r.append==%22function%22&amp&amp(e=I(e,r.append(t.options)))%7D),e.replace(/%5E%5B%5Ct%5Cr%5Cn%5D+/,%22%22).replace(/%5B%5Ct%5Cr%5Cn%5Cs%5D+$/,%22%22)%7Dfunction%20ve(e)%7Bvar%20t=this.rules.forNode(e),r=M.call(this,e),n=e.flankingWhitespace;return(n.leading%7C%7Cn.trailing)&amp&amp(r=r.trim()),n.leading+t.replacement(r,e,this.options)+n.trailing%7Dfunction%20I(e,t)%7Bvar%20r=z(e),n=K(t),i=Math.max(e.length-r.length,t.length-n.length),a=%22%5Cn%5Cn%22.substring(0,i);return%20r+a+n%7Dfunction%20Ne(e)%7Breturn%20e!=null&amp&amp(typeof%20e==%22string%22%7C%7Ce.nodeType&amp&amp(e.nodeType===1%7C%7Ce.nodeType===9%7C%7Ce.nodeType===11))%7DH.exports=v%7D);var%20j=S(f=%3E%7B%22use%20strict%22;Object.defineProperty(f,%22__esModule%22,%7Bvalue:!0%7D);var%20_=/highlight-(?:text%7Csource)-(%5Ba-z0-9%5D+)/;function%20F(e)%7Be.addRule(%22highlightedCodeBlock%22,%
+
+
+
+---
+*Source: Document af0c0eec9b95a645ff4159ded0dae6bd*

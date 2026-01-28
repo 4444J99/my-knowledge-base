@@ -1,0 +1,31 @@
+---
+id: d0b71da3-5f8f-46b8-a15c-fd728a8faf2c
+type: insight
+created: '2025-06-26T17:15:56.000Z'
+document: 87215f26527a3ddd27752e0848e7ba23
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: design
+keywords:
+  - with
+  - ethical
+  - that
+  - energy
+  - actions
+---
+# ally “gotten away with”). In reincarnation-based systems, it explains inequaliti
+
+## Context
+From document: 🧵 Meta-Laws of Reality — chunk 49 (chunk 49/79)
+
+## Content
+ally “gotten away with”). In reincarnation-based systems, it explains inequalities of birth and life circumstances as results of past lives’ actions (rather than random chance). As a cross-domain concept, it’s analogous to Newton’s third law in ethics – every action has an equal and opposite reaction, just on a metaphysical plane. It also resonates with psychological principles (acts shape character – e.g., doing kind deeds makes one a kinder person and attracts kindness). In the West, phrases like “what goes around comes around” or even the notion of poetic justice echo karma. It aligns with Hermetic cause-and-effect and with the idea of ethical entropy: negative actions leave a kind of imbalance that will be corrected eventually. While not empirically verifiable as a law, it functions as a powerful framework for ethical cause and effect in spiritual worldviews.</div>
+<div>  •  The Wiccan Threefold Law (Domain: Modern Witchcraft/Wicca) – A tenet in Wicca stating that whatever energy (positive or negative) a person puts out into the world will return to them three times over. Example: If a witch were to cast a benevolent spell to heal or help someone, that positive energy is believed to come back on them threefold (perhaps as good fortune or spiritual growth). Conversely, if one were to curse or hex someone, that curse energy would rebound on the caster three times as strong, deterring ethical practitioners from harmful magic. Implications: It’s a specific formulation of karmic-like retribution, emphasizing exponential return of intent. It serves as an ethical guideline among Wiccans: essentially, a magical Golden Rule. The “threefold” aspect can be interpreted in different ways (literal three times, or affecting mind, body, spirit, etc.). Symbolically, it underscores responsibility and the magnification of energy – small actions can have amplified consequences, especially in the unseen realms. It also might reflect a psychological truth: doing harm often brings disproportionate negative consequences to one’s psyche and life (guilt, fear of retal
+
+
+
+---
+*Source: Document 87215f26527a3ddd27752e0848e7ba23*

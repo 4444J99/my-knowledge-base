@@ -1,0 +1,26 @@
+{
+  "id": "f5aa2091-ca25-4d8f-a85b-9adf74dc9a73",
+  "type": "insight",
+  "timestamp": "2015-04-06T13:41:14.000Z",
+  "title": "<div>Tabloids</div>",
+  "content": "<div>Tabloids</div>\n<div>Celebritarian </div>\n<div>Commercials </div>\n<div>Advertisements</div>\n<div><br></div>\n<div>Takes place on multiple planets?</div>\n<div>American Empire</div>",
+  "context": "From document: Tabloids",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "e77fa29637df8d4bfb516a239a098828",
+  "relatedUnits": [],
+  "keywords": [
+    "tabloids",
+    "celebritarian",
+    "commercials",
+    "advertisements",
+    "takes"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

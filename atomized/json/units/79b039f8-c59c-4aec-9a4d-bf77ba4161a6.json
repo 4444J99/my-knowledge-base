@@ -1,0 +1,26 @@
+{
+  "id": "79b039f8-c59c-4aec-9a4d-bf77ba4161a6",
+  "type": "insight",
+  "timestamp": "2025-12-24T04:20:04.000Z",
+  "title": "<div>after i export my complete history with Grok, I want to archive the data; w",
+  "content": "<div>after i export my complete history with Grok, I want to archive the data; what are the best methods? provide 5 different methods for archiving, system governance, titling, metadata, front matter, unique ID, tagging, making queryable from full conversations, to prompt and response pairs, to related themes, words, letters (atomization);</div>",
+  "context": "From document: after i export my complete history with Grok, I want to archive the…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "bdb03c6f4df25c54245a0edb332f6f7a",
+  "relatedUnits": [],
+  "keywords": [
+    "methods",
+    "after",
+    "export",
+    "complete",
+    "history"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

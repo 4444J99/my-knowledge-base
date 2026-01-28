@@ -1,0 +1,26 @@
+{
+  "id": "2903b25f-53d3-4abe-bfd5-29150f414f8c",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt>   - Date  </tt></div>",
+  "content": "<div><tt>   - Date  </tt></div>\n<div><tt>   - Phase or System Thread ID  </tt></div>\n<div><tt>   - Source thread name or user context (if relevant)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Export Format Settings (for iPhone Notes):**</tt></div>\n<div><tt>- All caps headers  </tt></div>\n<div><tt>- Markdown-styled bullets and sections  </tt></div>\n<div><tt>- No preamble or summary (just clean module content)</tt></div>\n<div><tt>- Single file per concept or object</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### NEXT STEPS:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- [ ] Confirm Phase 3 Folder Map in Notes  </tt></div>\n<div><tt>- [ ] Start saving module chunks with ID + folder placement  </tt></div>\n<div><tt>- [ ] Confirm if index cards are wanted for each module  </tt></div>\n<div><tt>- [ ] Begin export of: `SYS_EXPAND_PHASE_2.5_MASTER.txt`?</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>::REF_ID = ARCHIVE_MODE.ACTIVE  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>—-</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## ::ARCHIVE</tt><i><tt>_ENTRY_</tt></i><tt>023  </tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 115 (chunk 115/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "module",
+    "phase",
+    "thread",
+    "export",
+    "notes"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

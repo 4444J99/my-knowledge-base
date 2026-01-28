@@ -1,0 +1,32 @@
+---
+id: 076a5a18-e7c1-46bb-805f-614248c8aa73
+type: insight
+created: '2018-11-17T18:19:07.000Z'
+document: e329ec4e43d47fccabf1e22882189db8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - pd0flkkpxbwgpq0aqqjj
+  - afjadpblsdsimmhz
+  - >-
+    nu3gdtuoakgvseccn1x2puwui4uaggjptqakrzcxjixgpskefswlfl8ygo9wiykxyyfwmyxzztdyx2dbz
+  - >-
+    v0oahuqe2kdjaksco3brthfcevllhtz0pzsqqaw37shvxi9kr74xheagcmjpyfwgcwyedknhsgkkdqltndjlwpahpc01xdtxzacrnnpippionkwoio6nc9o4oehoanfygiijgb83turjym23owenjrx0qn33sjjkksor0h5u5viloblh6ghn04facckmj92gx2zxsxshawuhaofwefxpxlidhc
+  - x0hod3qsmrru3aegd
+---
+# pd0flkKpXbwGPQ0AQqjj/AFjADPblsdsimMhZ+Nu3gDtUoAKGVSeCcn1x2puwui4UAggjPtQAkRZCxJI
+
+## Context
+From document: Black Bean Salad — chunk 156 (chunk 156/2298)
+
+## Content
+pd0flkKpXbwGPQ0AQqjj/AFjADPblsdsimMhZ+Nu3gDtUoAKGVSeCcn1x2puwui4UAggjPtQAkRZCxJIXGPSkeFSwlfL8YGO9WiYkXYyFwMYxzzTDyx2DBz+v0oAhUqE2KdjAksCO3brThFCeVlLHtz0pzSqQAw37shvXI9Kr74xhEAGCMjpyfWgCwyEDKNhsgkkdqlTndJLwpAHPc01xDtXzAcrnnPIPpionkWOIO6nC9O4OehoAnfYgIiJGB83tURJYM23OwEnjrx0qN33SJJkksOR0H5U5VILOBlH6gHn04FACCKMj92GX2zxSxSHAWUHAOFwefxpXLIDhc+X0HoD3qSMRru3AEgd+v4VtZAQvsJBlXOGwNv8AWrEUeHLgAFPmUd/pUK5k+aPJ4IGRtOfWrYScZCIrEYzk8+9FkA1mO8H/AJ6A8e9IXw4G1kY9uuRS5W4wfugHdjuD0pYvmHz/AMPPWiyAicl84Y5HTqOAetSzqUBaMqcAckjJzQj+Y21eMd/89qYsW7IYhsnOR2osgF8184VuewAxUmNqkEZ3Yy3GfpUA2AsMkYPJxz+VTqCU2gfTPtWjSsAmEgONx5HHeogrFSF4LMeM9cVdUL1OXAHb3qsXVdshGSwyAPSs7ICE+YF3KQTnr1PHWlLqSAFI2tk855NO3RK3yjBfnHuaTcJHYOQDn+EenSsQLI8vkKSg4+pz7dqklVVQ5YcjGO5I96z5ZJivkw/ffbg55AzzSyl1ZTEAduD83HI60AJCGMe2TJIGR2INTg+XIGkI+XlSOecZqtJcFz5pG1l4Hfv1pzFnYBBlz82TwD2IoAgmcGN2mjO2R8qCclTnsK8M+I139lv5lnlMshHyhhyq44APTivarzJtpUdGdmcMPovUAe9fP/xEM0N5LFPjEhG1R145HXnmpmETzLLiVGLk78jdxg5zge1NCMrMWYEjr9P61O4xuMiFQAuAMdemahZRG+4kBZQVOOSFXqT6VJoKu7lFY4U4bAx06jmnEKIyqJ97nntjtQMN80RwADyR973pxGZANwAPr6/UVLAciFkVnBBoDKpyUB3NtGePloDNn5gCwXI9fyqWNjtCZ3ZHXoR+FSBKIUVRuYbhgD0YDtxTCsW7aoYcAZBzyKVVO4hmIJXKr12j1PpSb1Vt6glG6YPLH3z0oAIt5kBIARRznnNWDPsXGRt
+
+
+
+---
+*Source: Document e329ec4e43d47fccabf1e22882189db8*

@@ -1,0 +1,26 @@
+{
+  "id": "1341bc09-9ee4-4ad1-baaa-16ba982d6315",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt>**Architecture:**</tt></div>",
+  "content": "<div><tt>**Architecture:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- **Outer Loop**: Meta-training across task distribution, learns optimal initialization θ₀</tt></div>\n<div><tt>- **Inner Loop**: Few-shot adaptation (3-10 gradient steps) on new task</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Algorithm:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>```</tt></div>\n<div><tt>θ'ᵢ = θ - α∇θL_Tᵢ(fθ)  [Inner loop]</tt></div>\n<div><tt>θ ← θ - β∇θ Σ L_Tᵢ(f_θ'ᵢ)  [Meta-update]</tt></div>\n<div><tt>```</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**First-Order MAML:** Omit Hessian (33% speed-up, minimal performance loss) </tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Hyperparameters:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Inner learning rate α: 0.01-0.1</tt></div>\n<div><tt>- Outer learning rate β: 0.001</tt></div>\n<div><tt>- Meta-batch size: 16-32 tasks</tt></div>\n<div><tt>- Inner steps: 3-10</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Performance:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Few-shot classification: 48.70% (1-shot), 63.11% (5-shot) on MiniImagenet </tt></div>\n<div><tt>- RLOS target: &gt50% (1-shot), &gt65% (5-shot) on linguistic tasks</tt></div>\n<div><tt><br></tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 19 (chunk 19/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "shot",
+    "inner",
+    "loop",
+    "meta",
+    "outer"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

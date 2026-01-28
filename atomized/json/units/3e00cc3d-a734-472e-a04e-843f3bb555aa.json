@@ -1,0 +1,25 @@
+{
+  "id": "3e00cc3d-a734-472e-a04e-843f3bb555aa",
+  "type": "insight",
+  "timestamp": "2021-05-10T22:20:45.000Z",
+  "title": "<div>Keiser Door Code</div>",
+  "content": "<div>Keiser Door Code</div>\n<div><br></div>\n<div>5814*</div>",
+  "context": "From document: Keiser Door Code",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "c40a2407f860c971748d8f1a8fa652dd",
+  "relatedUnits": [],
+  "keywords": [
+    "keiser",
+    "door",
+    "code",
+    "5814"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

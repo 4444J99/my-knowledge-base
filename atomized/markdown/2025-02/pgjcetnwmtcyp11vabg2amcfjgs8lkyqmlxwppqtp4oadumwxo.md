@@ -1,0 +1,31 @@
+---
+id: dba936c6-8b92-4ae3-b53f-82bc7afd8821
+type: insight
+created: '2025-02-14T06:30:51.000Z'
+document: aa5afafaa5b4a9e35e1fe8ae7ee501fe
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - pgjcetnw
+  - >-
+    mtcyp11vabg2amcfjgs8lkyqmlxwppqtp4oadumwxonqwqosvvyshysitj9eqbjtnkzwabnuskzgpg0ftgotixg0neuwzqc22hzvlypcogvufuuim2qhgsrsb44ngy
+  - hpujyfqlhglmythb3eanwqcvcxslbysxbthtzwmhpo97xjvxpfrhnfpsxepgpggs5gzoysvywn
+  - tcs0nyjemmnoxldvqjuz
+  - xyrghp9lk5p5nlnj04q8xff6wcaqwrenjclbwus2w8bni08bgyodery70xno9k6dtk0p3c2gl1
+---
+# PGjCETNw+MTcYp11vABg2aMcFjgs8LKyQMlXwpPQTP4OAdUmWxOnqwQoSVvYSHYSITj9EqBJTNKzWABn
+
+## Context
+From document: ETCETER4 — chunk 2037 (chunk 2037/2399)
+
+## Content
+PGjCETNw+MTcYp11vABg2aMcFjgs8LKyQMlXwpPQTP4OAdUmWxOnqwQoSVvYSHYSITj9EqBJTNKzWABnUSKZgpG0FTgOTixg0NEuWZqc22hZVLYpcogvufuUiM2QhGsRSB44NgY+RW/hpUjYfqLHglMythB3EANWQcvCxSLbYsxBTHTZwMHpO97xjvXpfrhNFPSxePGpGgs5GzoySvYWN/TCs0nYJEMmNoXLDvQjUz/xYrGHp9Lk5p5NLNj04Q8Xff6wcAqWrenjclBwuS2w8bNI08bGYOdERy70XNo9K6dtk0p3C2GL1/QAZxFOJhMgudRwJ93oLWLjD/rxqHn/XPusw6M/+yVPMPrx5Ev39K2wCzxlykgHdFpgBH+dPNrzQbCz1j/p65u0uldbOIB1T26xZMy0QJ90ye4yjixEFTp1tfmwSWqTZxFtQ2g84GEceLYhM4Z8rTj+xqt+Gy2LZp+eRvvvf//74stOFqdgyIGei41t2IwXeMaUeFPaYODRtTrGn+iokyVYNvFP72yK2FyMyR9iMjm0w1Wq3ZMdvn7FvQttJb7u9231RQ8enei9h4Wv2NSwoVwUjE9fenHRz9CAq8/9bUty3BYeHL3lwGKFvcSVdjJkDzFXPki/9Edn2kwMsAN/8AU4cSfH95w/9MFVw8OzuEG3IvfFtzbP5ZNkUe9t55ledLC5AyM25Dg52SL7tOUwcA4t9JMPjjhymKN20OXwUxzLqfK42JX3jB16dPBlfpB79MM1ljxfXFzceetb37pwyGAcsY1v4cChJzupzQ3GsbFOPpte8wa7Grt8hqc5MvsbZ/lJG5vShz/0kc/8pZ2f2U8ssiV4MrITWGODDdhFOxg1eu7Zjuz4BauvKz/hJSeEpz0Y8xJ8l7Z8N+/hk78DW3nb/Lcv97cX9Q4Q5S5zK5hf/vKXa37jT3MTefFAX1Gjj3/5dPY5AJSrki8cMOyOBz/Z1OFBT+NbbM0ih8/CfooPJuSz+uPfc7bvuXWT2MKT39gfHt3ElJimD9/qFzN8iRfeLvjiiw86rCCnT/7Lpw73fFMRLniHifrQEzee0ZfT8SULmsaFD4R4dmU7dhbLZNXOVtrI5Zn82YWu4PDBD32+M3eIe+1gtaNhPMqtcPBDEx59xI42uiv40Nn4K371owVfSQ7P2tmJjcCji742+cIzn3eIhRYfkVV8sJ/x
+
+
+
+---
+*Source: Document aa5afafaa5b4a9e35e1fe8ae7ee501fe*

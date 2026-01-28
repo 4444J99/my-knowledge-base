@@ -1,0 +1,26 @@
+{
+  "id": "97886a7b-6844-4255-88a0-002f9c94c0e5",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:57:38.000Z",
+  "title": "in filenames or folder names is a robust way to impose order. For instance, orga",
+  "content": "in filenames or folder names is a robust way to impose order. For instance, organizing photos or documents by date (YYYY-MM-DD format) ensures they sort chronologically and prevents name collisions (since it’s unlikely two files from different eras have the exact same timestamp and name). A common schema in migrations is: /Archive/2020/2020-12-01_ProjectUpdate.doc etc. Including version numbers directly in file names (like Report_v01.doc, Report_v02.doc) is another tactic to keep track of iterations if version control systems are not used. The important thing is to be consistent: pick a date format (ISO 8601 is recommended: year-month-day)  , and a version notation (v1, v2 or a revision letter), and apply it uniformly. Consistency helps when writing any automation around the files and when visually scanning for the latest version. • Metadata Retention: In a migration, ensure that you carry over or translate metadata from old systems. Metadata can be file timestamps, tags, descriptions, or any extended properties. For example, if you migrate emails or notes, you’d want to preserve original creation dates and authorship info. Many file formats (like images, documents) allow embeddin",
+  "context": "From document: Transforming a Fragmented Digital Life into a Unified Canonical Architecture — chunk 27 (chunk 27/37)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "97ddee0de00a1fdb1a5da48c7c6bd4f2",
+  "relatedUnits": [],
+  "keywords": [
+    "version",
+    "file",
+    "metadata",
+    "names",
+    "documents"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

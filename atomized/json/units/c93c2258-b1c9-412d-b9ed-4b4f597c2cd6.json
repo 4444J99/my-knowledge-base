@@ -1,0 +1,26 @@
+{
+  "id": "c93c2258-b1c9-412d-b9ed-4b4f597c2cd6",
+  "type": "insight",
+  "timestamp": "2025-11-05T21:42:26.000Z",
+  "title": "<li>Trademark registrations (brand expansion signals)</li>",
+  "content": "<li>Trademark registrations (brand expansion signals)</li>\n<li><b>Endpoint:</b> <font color=\"#CB30E0\">https://developer.uspto.gov/api-catalog</font><br></li>\n</ul>\n</ol>\n<div><br></div>\n<ol>\n<li><b>Census Bureau Business Patterns</b> (Free)</li>\n<ul class=\"Apple-dash-list\">\n<li>Industry statistics, employee counts by zip code</li>\n<li><b>Endpoint:</b> <font color=\"#CB30E0\">https://api.census.gov/data/2021/cbp</font><br></li>\n</ul>\n</ol>\n<div><br></div>\n<div><b>Implementation:</b><br></div>\n<div><tt>// src/lib/data-sources/free-tier.ts</tt></div>\n<div><tt>export class FreeTierDataSource {</tt></div>\n<div><tt>  async fetchUCCFilings(companyName: string, state: string) {</tt></div>\n<div><tt>    // Playwright scraper for state SOS portals</tt></div>\n<div><tt>  }</tt></div>\n<div><tt>  </tt></div>\n<div><tt>  async fetchSECData(cik: string) {</tt></div>\n<div><tt>    // Direct API call to EDGAR</tt></div>\n<div><tt>  }</tt></div>\n<div><tt>  </tt></div>\n<div><tt>  async fetchOSHAViolations(companyName: string) {</tt></div>\n<div><tt>    // DOL API call</tt></div>\n<div><tt>  }</tt></div>\n<div><tt>}</tt></div>\n<div><br></div>\n<div><br></div>\n<div><b><h3>💰 Starter Tier ($99-299/month)</h3></b><font face=\".AppleSystemUIFont\"><h3><br></h3></font></div>",
+  "context": "From document: data enrichment strategy for ucc-mca intelligence platform — chunk 3 (chunk 3/32)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "42efb0f415b2f324521d2959a50f91bf",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "string",
+    "async",
+    "endpoint",
+    "color"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

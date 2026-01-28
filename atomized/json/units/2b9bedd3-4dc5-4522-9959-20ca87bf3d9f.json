@@ -1,0 +1,26 @@
+{
+  "id": "2b9bedd3-4dc5-4522-9959-20ca87bf3d9f",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **PRESERVATION TEMPLATE FOR FUTURE CONVERSATIONS:**</div>\n<div><br></div>\n<div>Every significant planning conversation should be:</div>\n<div><br></div>\n<div>```markdown</div>\n<div># Conversation Metadata</div>\n<div>- Date: 2025-11-02 04:23:49 UTC</div>\n<div>- User: 4444JPP</div>\n<div>- AI: Claude (via GitHub Copilot Chat)</div>\n<div>- Topic: Four-Layer Cognitive OS Architecture</div>\n<div>- Status: Foundational Planning</div>\n<div>- Repos Created: cognitive-archaelogy-tribunal</div>\n<div>- Repos Planned: 7 additional (see roadmap)</div>\n<div><br></div>\n<div># Key Decisions</div>\n<div>1. Established four-layer model (Archive→AI→Personal→Org)</div>\n<div>2. Created tribunal for archaeological audit</div>\n<div>3. Defined 8-repo roadmap with phased implementation</div>\n<div>4. Established preservation protocols</div>\n<div><br></div>\n<div># Artifacts Generated</div>\n<div>- Repository specifications (8 total)</div>\n<div>- Description templates</div>\n<div>- Copilot prompts</div>\n<div>- Architectural diagrams (conceptual)</div>\n<div><br></div>\n<div># Next Steps</div>\n<div>- [Checkboxes for implementation]</div>\n<div><br></div>\n<div># Full Conversation</div>",
+  "context": "From document: Contents_Table — chunk 118 (chunk 118/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "conversation",
+    "preservation",
+    "planning",
+    "copilot",
+    "four"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

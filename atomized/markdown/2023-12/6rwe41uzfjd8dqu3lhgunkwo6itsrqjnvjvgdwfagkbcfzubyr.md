@@ -1,0 +1,31 @@
+---
+id: 0dd715f0-82b4-484c-a796-0436a2c413cc
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 6rwe41uzfjd8dqu3lhgunkwo6itsrqjnvjvgdwfagkbcfzubyr6wi
+  - >-
+    h2cryegvkwqsxll9k27iiookf3zsq9mkn1olc44jp4hlkyklfyk0wbqfp5bixtbjq4sfdqkr6geh4vzdkids38wg2yt1quzydlsdcxff7qajyvgoijhe6wokqstw7rt0u6mh5
+  - g7ed9ep3
+  - gof2hkjktxp150bxlzzrlcvxp8izuemrjkgr5ivxgxg8xf36ac6
+  - drczsfidcix4dmkwbl0b2q8chpzo9s
+---
+# 6rwE41UzFJD8dqu3lHguNkwo6itsrQjNvJVgDwfagKBcFZuBYR6wI+h2cRyegVKwQSxll9k27iiOokF3
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 904 (chunk 904/3262)
+
+## Content
+6rwE41UzFJD8dqu3lHguNkwo6itsrQjNvJVgDwfagKBcFZuBYR6wI+h2cRyegVKwQSxll9k27iiOokF3ZsQ9MKN1olC44JP4hlKyklFYK0wbQFp5bIXTBjQ4sfdQKr6Geh4VzDKIDs38wg2yT1qUZYdlsDCXFf7qajYvGOIjHe6WOkQsTw7RT0U6MH5+G7eD9eP3/GoF2hkJKTxp150BxlzzrlcVXP8izuEmRjkgR5IVXgXg8xF36aC6/drCzSFidCIX4DMKWBl0B2Q8ChPzO9s/1j38WMpqxg6YfOK4eR/+d3yLGdwBR+oT8dC2JMtS5CTbufEjD7XdSp1VG8/MLmNA0xlyijAXJzx769RQHykveZkLcKIqRmGDX5xM3FCGeMWn9YrcArMERM7Clw417sKR24IQSGS0wyN/yKFC/D/cF4Tt23hPWTZGXXtgCAo89aS//K/eASDOAxcNipjgoC5ZpeRidw0r0bwPfVCTPPkKQYwun77sCcUMJPwJN7Gbz4fwveiPfvR3pk9+6lP65NVXUs+XbtORMznUxQMQDUScOyTN7VIPcpm0oc0tgzO3b8XB200XDGfwu7ltkAbMubt+qtaaBt8NARz5oLftM48QeMTQE0WGSI6ks6t4+LkiR7Rh8XQJCx7np/ZBW3C7qC2F6E8dC6ULxvQKEAM0fdpO27cPHtKlOyebnzvHKbUcxhdYrzQzoPMkB8STN/oaXYISzqDW9HJuh3iAXtutsxeYJDmoyWIBe3XntFalWYlGNtL+mCahTjCey4hW/VgvCofDxDP6yZ5g4Z60ytpt2Dk7XzeRoS6hZaG74Vbv4SFh4Tn12Aa06zQVRmbOL/DUCNh1KR76q2IDBzrcQF/TmnRKCd5kaT+4QEhbdR6KbCOMqObZbEAHfEmrZ+LcpyIb4jlyC310wfSl3qkjWbjU8uMMQ3/ISXobEjIA4Dt9xxF9+vAV997r957v+7Ov9mesmATLDp60HWhcd80rwqHD/FwH+q4/izlDPYnTC0WulHrsutIjBvRv67DDn/0ffm76zmOP2XBELrNzDh4iH8HLRBF8WN/hlSwz5pgzhEf8Kd9MYLl6FZ2wK/MPYpvgwDfeMd3od0YuVwrXNI2y2rwJGGME+UQgsDzhureyAa32y6Fghzhtf98BjWdZQcUQzBkW3jwsP7vh/Om62/boTpvPrpi9+7Wl
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

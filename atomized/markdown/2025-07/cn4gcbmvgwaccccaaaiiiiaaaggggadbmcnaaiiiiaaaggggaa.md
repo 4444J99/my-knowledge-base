@@ -1,0 +1,33 @@
+---
+id: 26594b71-9a98-4bcf-adfc-33632b96bf52
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - cn4gcbmvgwaccccaaaiiiiaaaggggadbm
+  - >-
+    cnaaiiiiaaaggggaaccccageebgrdbxo7riiaaaggggaaccccaaaiiiedwjngjgaaccccaaaiiiiaaagggyfca4g0ql
+  - >-
+    s6cccaaaiiiiaaaggggaaccbc8cd4iiiaaaggggaaccccaaaiigbqgebve5b4oaggggaaccccaaaiiiiaaagrvgjcccccaaaiiiiaaaggggaacbgui3gzxua
+  - >-
+    daaiiiiaaaggggaaccccaamgb4i0aaggggaaccccaaaiiiicaqqgct0fc7usggaaccccaaaiiiiaaagggqpamecoaaaiiebd4
+  - 8jnerx1fucfwnyc2
+---
+# CN4GcbmvgwACCCCAAAIIIIAAAggggADBm+CNAAIIIIAAAggggAACCCCAgEEBgrdBXO7rIIAAAggggAAC
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 1030 (chunk 1030/18928)
+
+## Content
+CN4GcbmvgwACCCCAAAIIIIAAAggggADBm+CNAAIIIIAAAggggAACCCCAgEEBgrdBXO7rIIAAAggggAACCCCAAAIIIEDwJngjgAACCCCAAAIIIIAAAgggYFCA4G0Ql/s6CCCAAAIIIIAAAggggAACCBC8Cd4IIIAAAggggAACCCCAAAIIGBQgeBvE5b4OAggggAACCCCAAAIIIIAAAgRvgjcCCCCAAAIIIIAAAggggAACBgUI3gZxua+DAAIIIIAAAggggAACCCCAAMGb4I0AAggggAACCCCAAAIIIICAQQGCt0Fc7usggAACCCCAAAIIIIAAAgggQPAmeCOAAAIIeBd4+8JNerx1fucfWnyc2/HmuR1vRD1u2/HGbdtfP2s9Xmv5se3VM9bjFZfHrVtfPr31JU+PLZdObf6998fJTS+e2PRCLB7PH9+ox+8C9Hj+xCY9Oosj4ZPt+UScz+70lkunt7T9iWvHcNlt7F+9enbbqy3veNYO+bp2Tu2iUTtt0z9b2tX1FdAX4fZdenj/7vBKBBBAAIGEFiB4J/THzxUDAgj4TcC51rf+fyHqYeXhLnhYkVuZxMoq73wo2Cg8W/FYYSn6YSVhK31teqH5Q7lOSfXYht8eXf9c64/fHGl45vC6p9t8HFr39MH6J25Zc9H7Y9+qR/au/HXnH3tWPrR7xYM3L3/g5uW/CsTjAW2ONqqzMqse3rf60f2rH/P+ieiVB+of1+d4aO1TbX7i2jGOrv9N63vOc9q1tINpN2u+79k/eVE7Z2PIj95vrT1Ze3XUrq5/6iugL4ITv7viexfxZbfTftNxgPDvt2M4l50IIJC4AgTvxP3sOVchgEDcCuhSPqqefG6nVUkOBwBV8OwSceP/b936SvPEe2rLpZObVWl8x8NJue8oyW74bSj0Kr00PY6sf/awsm7Uw46+h9Y9pUTU7PHkwbVPKiwdaOHxuHKUa+56TMFsvxXPWn0oHnt8KCjuacfDSsuxeViROzCp27l38MDu5Vb87uRjz4qHFODth9ePpjHtK7R7+Nxddhv7V8r8brFfO6f9aHHXfUJ7dbNd/Sl9BRrvCER9QRqe0Rcn8nvk3BRwwv87vne6F7DRak1gNwdo+pLqaxt130pfbX3Bw993p3QfPhRYT1Su3/lm5BHDrsZzeYMAAgggEF8CBO/4+jziNgawYgggYAtElpTV
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

@@ -1,0 +1,26 @@
+{
+  "id": "cf46b933-4fad-4d01-892d-5b921edb2085",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **What's Being Built:**</div>\n<div><br></div>\n<div>### **Complete Documentation Structure:**</div>\n<div><br></div>\n<div>```</div>\n<div>cognitive-os-master-plan/</div>\n<div>├── README.md                                    # System overview</div>\n<div>├── architecture/</div>\n<div>│   ├── four-layer-model.md                     # Archive→AI→Personal→Org</div>\n<div>│   ├── repository-map.md                        # All 58 repos mapped</div>\n<div>│   └── integration-points.md                    # How everything connects</div>\n<div>├── planning-conversations/</div>\n<div>│   ├── 2025-11-02_initial-architecture-planning.md  # THIS conversation</div>\n<div>│   ├── metadata.json                            # Structured metadata</div>\n<div>│   └── key-decisions.md                         # Decision log</div>\n<div>├── roadmap/</div>\n<div>│   ├── phase-1-foundation.md                    # Tribunal, constitution, orchestrator</div>\n<div>│   ├── phase-2-specialized-tools.md             # Archive, AI, lineage tools</div>\n<div>│   └── phase-3-integration.md                   # Automation &amp feedback loops</div>\n<div>├── specifications/</div>\n<div>│   ├── 1-cognitive-archaelogy-tribunal.md       # ✓ Created</div>",
+  "context": "From document: Contents_Table — chunk 120 (chunk 120/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "phase",
+    "cognitive",
+    "architecture",
+    "archive",
+    "integration"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

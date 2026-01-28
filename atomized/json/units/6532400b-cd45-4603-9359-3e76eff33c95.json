@@ -1,0 +1,26 @@
+{
+  "id": "6532400b-cd45-4603-9359-3e76eff33c95",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **GitHub Copilot Workspace Prompt:**</div>\n<div>```</div>\n<div>Build a Python suite with 4 audit modules: (1) Archive scanner for iCloud/Dropbox/drives with file classification and deduplication, (2) AI context aggregator using chatgpt-exporter for conversation extraction, (3) Personal repo analyzer (35 repos) classifying forks vs originals with modification tracking, (4) Org repo analyzer (23 repos) for status/dependencies. Output: unified inventory JSON, knowledge graph, triage reports, migration plans. Uses GitHub API, file system scanning, metadata extraction.</div>\n<div>```</div>\n<div>**(498 characters)**</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **File Structure:**</div>\n<div><br></div>\n<div>```</div>\n<div>cognitive-archaeology-suite/</div>\n<div>├── README.md</div>\n<div>├── requirements.txt</div>\n<div>├── .env.example</div>\n<div>├── .gitignore</div>\n<div>├── config/</div>\n<div>│   ├── classification_rules.yaml</div>\n<div>│   └── file_type_mappings.yaml</div>\n<div>│</div>\n<div>├── 0_archive_audit/</div>\n<div>│   ├── __init__.py</div>\n<div>│   ├── scanner.py              # Scan iCloud/Dropbox/drives</div>",
+  "context": "From document: Contents_Table — chunk 94 (chunk 94/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "with",
+    "file",
+    "github",
+    "suite",
+    "scanner"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

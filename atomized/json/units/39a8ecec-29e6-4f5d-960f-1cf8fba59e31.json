@@ -1,0 +1,26 @@
+{
+  "id": "39a8ecec-29e6-4f5d-960f-1cf8fba59e31",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div>  &quoteditor.cursorSmoothCaretAnimation&quot: &quoton&quot,</div>",
+  "content": "<div>  &quoteditor.cursorSmoothCaretAnimation&quot: &quoton&quot,</div>\n<div>  &quotworkbench.startupEditor&quot: &quotnone&quot,</div>\n<div>  &quotfiles.autoSave&quot: &quotonFocusChange&quot,</div>\n<div>  &quoteditor.formatOnSave&quot: true</div>\n<div>}</div>\n<div>```</div>\n<div>(Adjust accent hex to match your preferred highlight.)</div>\n<div><br></div>\n<div>**Optional Lightweight Enhancements (Still Low Overhead)**</div>\n<div>- `&quotworkbench.list.smoothScrolling&quot: true`</div>\n<div>- `&quoteditor.minimap.enabled&quot: false` (saves GPU if not needed)</div>\n<div>- `&quotwindow.titleBarStyle&quot: &quotcustom&quot` (consistent dark look)</div>\n<div><br></div>\n<div>**Uninstall Commands (Example)**</div>\n<div>```bash</div>\n<div># Cosmetic/UI extensions to remove</div>\n<div>code-insiders --uninstall-extension johnpapa.vscode-peacock || true</div>\n<div>code-insiders --uninstall-extension drcika.apc-extension || true</div>\n<div>code-insiders --uninstall-extension brandonkirbyson.vscode-animations || true</div>\n<div>code-insiders --uninstall-extension richardluo.frosted-glass-theme || true</div>\n<div>code-insiders --uninstall-extension ezze.dynamic-base16 || true</div>\n<div>code-insiders --uninstall-extension sykeben.vscode-vibrancy || true</div>",
+  "context": "From document: User: fix — chunk 19 (chunk 19/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "true",
+    "uninstall",
+    "extension",
+    "code"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

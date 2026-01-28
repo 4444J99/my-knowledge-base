@@ -1,0 +1,26 @@
+{
+  "id": "1efe266b-6250-4d94-86b2-e5e56919ea28",
+  "type": "insight",
+  "timestamp": "2025-04-19T03:28:40.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>## STRUCTURAL</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| ID  | Left       | Right      | RNG   | Tags                  |</tt></div>\n<div><tt>|-----|------------|------------|-------|------------------------|</tt></div>\n<div><tt>| 02  | complex    | simple     | d6    | [logic, visuals]       |</tt></div>\n<div><tt>| 05  | machine    | organic    | d10   | [form, flow]           |</tt></div>\n<div><tt>| 10  | hidden     | exposed    | d12   | [secrecy, reveal]      |</tt></div>\n<div><tt>| 29  | vertical   | horizontal | d20   | [axis, layout]         |</tt></div>\n<div><tt>| 34  | opacity    | clarity    | d8    | [UI, transparency]     |</tt></div>\n<div><tt>| 35  | stable     | shifting   | d12   | [rules, chaos]         |</tt></div>\n<div><tt>| 33  | active     | passive    | d4    | [motion, rest]         |</tt></div>\n<div><tt>| 41  | gravity    | levity     | d6    | [tone, rhythm]         |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## NARRATIVE</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| ID  | Left       | Right      | RNG   | Tags                  |</tt></div>\n<div><tt>|-----|------------|------------|-------|------------------------|</tt></div>",
+  "context": "From document: # |[ DUALCORE::V3.0_SORTED_BY_DOMAIN ]| — chunk 2 (chunk 2/7)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "46153e4e921024e07e0947e72df4c6c2",
+  "relatedUnits": [],
+  "keywords": [
+    "left",
+    "right",
+    "tags",
+    "structural",
+    "complex"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

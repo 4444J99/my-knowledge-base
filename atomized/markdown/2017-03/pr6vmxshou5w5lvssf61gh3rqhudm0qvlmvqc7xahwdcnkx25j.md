@@ -1,0 +1,31 @@
+---
+id: a26d7b59-8cf8-4b3b-b089-a42555c39fad
+type: insight
+created: '2017-03-03T03:57:06.000Z'
+document: 0f5a61a6fb83412f6aa40e5b9176bdd3
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - pr6vmxshou5w5lvssf61gh3rq
+  - hudm0qvlmvqc7xahwdcnkx25jao7rb8mdlhho8u4
+  - ojidsbj
+  - >-
+    besm4yvwhmagtb3yh4sryxtohbyb8bqpy5nongtz1kgdievgthdgdi24qohxx4pqdjhno4lmi9lvyixghldnuhsimd4nzbulwf2rhqm0wmw4xaf1re9yasjejxk452qeoz2tey9qljajpcplaqzp7bkhatpytuhr9eboojdyrgynhj8
+  - gqhrfhiy6fqk9qyvktygidhui4uxa8ykvhmxxtl9pckdekbbcjv8aip86ltakv55ju
+---
+# PR6VMxsHOU5w5LvsSf61Gh3rq/Hudm0QvLmvQc7XAHwdcNkX25JAO7RB8MDLhho8u4/OJIdsbJ+E/BEs
+
+## Context
+From document: New Note — chunk 892 (chunk 892/1653)
+
+## Content
+PR6VMxsHOU5w5LvsSf61Gh3rq/Hudm0QvLmvQc7XAHwdcNkX25JAO7RB8MDLhho8u4/OJIdsbJ+E/BEsM4yvwhMAgtB3yh4sRYXtOHBYb8bQPY5NoNGtZ1kgdIEvgThDgDi24QOHxX4PQdJHno4LmI9lVyIXGhldnuhsIMD4nzbUlwF2rHqM0Wmw4xAf1RE9YaSJEJxk452Qeoz2TeY9QLJajpCpLaqzP7bkHATPYTuhR9eBooJDyrgYnHJ8/gqhrfhiY6fqK9qyVktYGidHuI4UXA8yKVhmxxtl9pckdEkbBcJV8aip86ltakv55JU+yHC9wGkHMXtiQPQUnfrmPGmZlC6G1BF26y7EgbSuG3HLjUDFwws9ITzA4JRNttSziBh5zM9EF4maRAN6iTLZlBd4eeN/+xE6z3T9xK9Enq48ubyEU8up31a8Eeu5oiN1JAbkQC37TjvdeXp66mi7qDzKYZzFbWsXE3OyN8+PjLvi740M80runsJ03BYZkRvfdMrYk6wDmbZuJwAw2mIJoAN56lybsnVRbdGNgaO+QcANuj1d2h1gvAlRBheiDtNW2EjJhd54enzlngEBrsY3j94S/dt+On/o401A9BFXYvDAdmdqVQiOjOBAjnnBMpQI9M2xM0U2GZ2/8kAowQ863d3GPJLFA89vMMi2tm+vAzfi8eCBRD4gTybCpK6NuPvvVF9nVV7CtB6JRz+3pXgDW67df8M/Tan0ile+KX0ar7wjjv7YttdjBh+ZGk8e2rZXT/NUPMk9f8Q5ObQO01lxZ0C0qX41XvHoNjkFugbXDJDl8wE9dVi2EGhOmyMi7Tcn6YCQYo991Wuaz/Uthpwnr+aZ8ictRph3PpuH9tX1lcP8/TyANsanPD1pAda9BViuZ7pkDw4EnPusdb6nwJuMvO1YA7IOO0yOgEVYWOAgsgBv25599tkDkwAvfOELh0996lNj7S+99FJPDJx//vleFuiud73rmLZAFhZYWGBjWoAlgr77u7/bjvhTTz11ePnLXz685S1vGdgsPAFfwdve9raBJYPe+973em+RO9/5zkneK3iLW9xCL7duGfcfuPjii4fPfe5ze5X3m2dSf5HxnMcdOLHoU2rslhfAWG7GXUp+dNCtdX+UqPqVGWfUPqr5G7t+W3AfWJndLU3fWBC6l+yV05vJAMqe9n8jYy1C6yqdWQro
+
+
+
+---
+*Source: Document 0f5a61a6fb83412f6aa40e5b9176bdd3*

@@ -1,0 +1,26 @@
+{
+  "id": "57f62e03-6b09-4687-b451-656e7a8f33ad",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt>| ::EDU_SYLLABUS_X     | Modular education builder: core logic, method,",
+  "content": "<div><tt>| ::EDU_SYLLABUS_X     | Modular education builder: core logic, method, and application layers.                        |</tt></div>\n<div><tt>| ::TRANSLAT10N_ENGINE | Recursive language processors: multilingual logic, wordcutting, narrative transformation.    |</tt></div>\n<div><tt>| ::FLOAT1NG_VIS       | Visual + motion syntax: video systems, projection mapping, gallery forms.                    |</tt></div>\n<div><tt>| ::DR34M_AI           | AI x Ritual integration: symbolic dream tools, machine-mediated spirituality.                |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Each of these is tagged by:</tt></div>\n<div><tt>- Primary Logic Mode  </tt></div>\n<div><tt>- Domain/Medium  </tt></div>\n<div><tt>- System Role (Tool, Archive, Ritual, Study, etc.)  </tt></div>\n<div><tt>- Link to Parent Node (e.g., ::4_bl00m or ::AJP.MECA.ARTS)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### OUTPUT STRUCTURE PER THREAD</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Each thread generates:</tt></div>\n<div><tt>- `.md` file for GitHub  </tt></div>\n<div><tt>- `.txt` version for iPhone Notes  </tt></div>\n<div><tt>- Optional PDF format (with diagram, metadata, glyph)  </tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 95 (chunk 95/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "logic",
+    "ritual",
+    "each",
+    "thread",
+    "edu_syllabus_x"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "f96cdac9-2794-4f48-8bbc-a5dc4074078f",
+  "type": "insight",
+  "timestamp": "2025-02-06T00:45:50.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🔄</font> Alternating A/B Schedule (Weeks 1-10)</div>\n<div>  •  Week A → Heavy discussion, concept exploration, collaborative analysis</div>\n<div>  •  Week B → Close reading, structured independent engagement</div>\n<div><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Time Block</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Week A Focus</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Week B Focus</div>\n</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>10-15 min Opening Discussion</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Concrete Work/Healthcare Applications</div>",
+  "context": "From document: Comprehensive Course Structure and Alternating Schedule (A & B Weeks… — chunk 91 (chunk 91/108)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "e6f6d7a4f460105d4038eb4ed27bc7e9",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

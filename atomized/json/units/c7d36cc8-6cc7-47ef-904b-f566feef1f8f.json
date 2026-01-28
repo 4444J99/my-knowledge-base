@@ -1,0 +1,26 @@
+{
+  "id": "c7d36cc8-6cc7-47ef-904b-f566feef1f8f",
+  "type": "insight",
+  "timestamp": "2022-01-31T13:48:16.000Z",
+  "title": "<div>A man too large to take the steps demanded by the distance of two buildings",
+  "content": "<div>A man too large to take the steps demanded by the distance of two buildings the man works within. He cycles between each building, parks his bike, and the journey complete. </div>",
+  "context": "From document: A man too large to take the steps demanded by the distance of two…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "0310dbe80921215c785bb35f86e9f105",
+  "relatedUnits": [],
+  "keywords": [
+    "large",
+    "take",
+    "steps",
+    "demanded",
+    "distance"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2dfa9f8c-8984-471c-ac10-52b4db7f8074",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:18:05.000Z",
+  "title": "<div>  - Configure repository settings (Private/Public).</div>",
+  "content": "<div>  - Configure repository settings (Private/Public).</div>\n<div>- [ ] Add a `README.md` file for each repository.</div>\n<div>- [ ] Add a `.gitignore` file (choose language-specific templates).</div>\n<div>- [ ] Set up a **LICENSE** for the repository.</div>\n<div>- [ ] Enable branch protection rules:</div>\n<div>  - Go to **Settings** &gt **Branches** &gt Add **protection rules** for `main` or `default` branches.</div>\n<div>- [ ] Add repository collaborators and assign permissions.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **3. Set Up GitHub Projects**</div>\n<div>- [ ] Create a **Project** board:</div>\n<div>  - Go to **Projects** &gt **New Project**.</div>\n<div>  - Choose between **Kanban** or **Table** layout.</div>\n<div>- [ ] Add columns to the project board:</div>\n<div>  - Example: **To Do**, **In Progress**, **Done**.</div>\n<div>- [ ] Link repositories to the project board.</div>\n<div>- [ ] Automate workflows (e.g., automatically move cards when issues are closed).</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **4. Configure Issues**</div>\n<div>- [ ] Enable Issues in repository settings.</div>\n<div>- [ ] Set up issue templates:</div>\n<div>  - Add `.github/ISSUE_TEMPLATE` directory.</div>",
+  "context": "From document: full best practices house keeping; — chunk 16 (chunk 16/24)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "3e83484e9c334693cb3ed7e0779f00e5",
+  "relatedUnits": [],
+  "keywords": [
+    "repository",
+    "project",
+    "settings",
+    "board",
+    "issues"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

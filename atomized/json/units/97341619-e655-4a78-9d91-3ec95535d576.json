@@ -1,0 +1,26 @@
+{
+  "id": "97341619-e655-4a78-9d91-3ec95535d576",
+  "type": "insight",
+  "timestamp": "2025-12-04T01:01:32.000Z",
+  "title": "<div>&gt Content to Critique:</div>",
+  "content": "<div>&gt Content to Critique:</div>\n<div>&gt [INSERT CONTENT HERE]</div>\n<div>&gt </div>\n<div>Step 2: Logic Check</div>\n<div>Purpose: Ensure internal consistency and sound reasoning.</div>\n<div>&gt Prompt:</div>\n<div>&gt Act as a Formal Logician and Philosopher. Your task is to perform a &quotLogic Check&quot on the provided content. You must rigorously scrutinize the text for internal consistency and the validity of its reasoning. Ignore style; focus only on the mechanics of the argument.</div>\n<div>&gt Please identify:</div>\n<div>&gt  * Contradictions: Any two statements that cannot both be true.</div>\n<div>&gt  * Logical Fallacies: Identify specific fallacies (e.g., circular reasoning, strawman, slippery slope, false dichotomy).</div>\n<div>&gt  * Gaps in Reasoning: Steps where the conclusion does not follow from the premise.</div>\n<div>&gt  * Coherence Score: Rate the logical coherence on a scale of 1-10 and explain the deduction.</div>\n<div>&gt Content to Check:</div>\n<div>&gt [INSERT CONTENT HERE]</div>\n<div>&gt </div>\n<div>Step 3: Logos Review</div>\n<div>Purpose: Assess the clarity and persuasiveness of rational arguments.</div>\n<div>&gt Prompt:</div>\n<div>&gt Act as a Debater and Data Analyst. Your task is to conduct a &quotLogos Review&quot (Appeal to Reason). You are evaluating the intellectual weight and factual appeal of the content.</div>",
+  "context": "From document: Here is a complete prompt chain designed for high-performance Large… — chunk 2 (chunk 2/7)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "fe775850073f3ec2cab0d229e4f63b69",
+  "relatedUnits": [],
+  "keywords": [
+    "content",
+    "reasoning",
+    "check",
+    "insert",
+    "here"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

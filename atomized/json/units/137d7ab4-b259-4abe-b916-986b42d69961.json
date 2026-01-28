@@ -1,0 +1,26 @@
+{
+  "id": "137d7ab4-b259-4abe-b916-986b42d69961",
+  "type": "insight",
+  "timestamp": "2020-07-27T13:22:32.000Z",
+  "title": "<div>Apple Serial Numbers</div>",
+  "content": "<div>Apple Serial Numbers</div>\n<div><br></div>\n<div>Apple Watch</div>\n<div><br><br></div>\n<div><br></div>\n<div>iPad</div>\n<div><br><br></div>\n<div>MacBook Pro</div>\n<div><br><br></div>\n<div><br></div>\n<div>iPhone</div>\n<div><br><br></div>\n<div><br><br></div>\n<div><br><br></div>\n<div><br><br></div>",
+  "context": "From document: Apple Serial Numbers",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "39d1069e9d1f899c1c57997c1f0ae864",
+  "relatedUnits": [],
+  "keywords": [
+    "apple",
+    "serial",
+    "numbers",
+    "watch",
+    "ipad"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

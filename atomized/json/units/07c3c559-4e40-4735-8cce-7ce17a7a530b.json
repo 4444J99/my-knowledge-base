@@ -1,0 +1,26 @@
+{
+  "id": "07c3c559-4e40-4735-8cce-7ce17a7a530b",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>$REPO_ROOT/$ORG_ID/os-foundation</div>\n<div>$REPO_ROOT/$ORG_ID/worlds</div>\n<div>$REPO_ROOT/$ORG_ID/tools</div>\n<div>$REPO_ROOT/$ORG_ID/docs</div>\n<div><br></div>\n<div>os-foundation holds implementation of the OS specifications: scripts, libraries, and automation configurations.</div>\n<div>worlds contains world-specific assets that require version control (for example, game logic, narrative scripts, datasets).</div>\n<div>tools holds reusable utilities or command-line tools that interact with $ARCHIVE_ROOT and $PROMPT_ROOT.</div>\n<div>docs contains human-facing documentation and published narrative outputs.</div>\n<div><br></div>\n<div>Branch model:</div>\n<div><br></div>\n<div>main – stable, handoff-safe state, aligned with the latest accepted specs.</div>\n<div>dev – active integration branch where new features are merged and tested.</div>\n<div>feature/{world-id}-{short-description} – short-lived branches for specific enhancements.</div>\n<div><br></div>\n<div>Pull requests must reference one or more archive IDs from $ARCHIVE_ROOT/meta or $ARCHIVE_ROOT/specs so that every change has a traceable narrative and decision record.</div>\n<div><br></div>\n<div>2.6 $AUTOMATION_ENGINE</div>",
+  "context": "From document: 0.\tPreamble and Scope — chunk 12 (chunk 12/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "b3360b527d494aeb150b316c90472eb0",
+  "relatedUnits": [],
+  "keywords": [
+    "repo_root",
+    "org_id",
+    "tools",
+    "that",
+    "narrative"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,31 @@
+---
+id: 57fa8d68-540c-4e47-9308-25516f3d367c
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ilj5fsvwpfg6qhotlcri15zncb3ovwlfpfdn
+  - kxqbkjakq5buslvty9hfo74vcrkea9lyxpzbmfhlxovgwoauatadr0mr2g6krad5
+  - >-
+    ye1rdnilzan6x9kjleknrehpvhrpecwe1gtpp13cvutjglnqezw6cll6wwe9biudv6lwefcksmymptspb9vbdd
+  - jer7kw7vkbnhe2n0do8uimzhqt5taxsjs74ihhoxh41gzle51odmejvku4mpcvqp
+  - fbafakrzhhjhrscervumlxy6bxvrqixmsfdronaw7qnk8ueqpqdboj2hpufy33ugji
+---
+# ILj5fSVWpfG6QHoTLcRi15ZNCb3ovWLFPFdN+KXqbkJAkQ5bUSLvTY9Hfo74VCrKEA9lYxPzbmFHLXOV
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 11699 (chunk 11699/18928)
+
+## Content
+ILj5fSVWpfG6QHoTLcRi15ZNCb3ovWLFPFdN+KXqbkJAkQ5bUSLvTY9Hfo74VCrKEA9lYxPzbmFHLXOVgWoAuatadR0mr2g6kRAD5+yE1RdNILZan6X9KjLeKNrEhpVhRPECWe1GtpP13CVUTjGLNqezw6clL6wWE9bIudV6LwefckSmYmptsPB9VBDd+jER7Kw7VKbnHe2n0do8UImZHQt5TaxSjS74ihHOXH41GZlE51odMeJvku4mpcVQp/FBAfaKRZHhJhrscErvumlXY6bXVrQIXmSfdRONaW7Qnk8uEQPQdbOJ2HPUfY33UGJi+ZeE99YC18YVm0KDIEqLyTo+ZH9O8Wq0S34I48nV9XAMO0fa4XFLIUuANp8TY1jxsTncLvhsqk2UPp/aH+QLtTizGCjq/v/9aqLc0ysy9cQlPHKZWJsgIVOdoTLz7V2++q0IUW0lUFXhLDduVQxn0+YonvwzS7a06RNQG8XN1+4YCgLHfHLF3/YaLeUk3ErbDiM4l52mpCnatFfv9BVSI4xGE+MJeucI5i+mwQkIE/nMznwef/JSBSQpJmNdAo8V8Ue3Q1XDbNUTwO9zEFaXCUs1mDpdA73wfij5SOshRvzgkxJdrh6LulZAnDcrCzcxmxn/AVRDl4xwFBxKKGLHmFIHjaqwS5SLarHt6c9icmmZShgnMpWyJqRxp6cmTN1BOMF+NXWqfdR/58scCFZ83aMKCBHbuoWNIZxqHhSAKBas/7ya3rxx5CfIdfGzkt0RUQrsgCvAz/vvH+hSWpS4zOr9ShzO34s3hm15f6D73/N/J5YDR2t9ERfiTP8Prvi9K1VlhJA9MbN2AMLUznk5EsDRjE5G0MpR4gCGcinlIQzgUQi+96k7lOBJSzSdumJ61ltU6UOSq+4PggNW3dIYXcLX5W69W/i7Z4BHxfPhVWmucZxSQFVsuvjb/DK8RVMdyZjsV8BjDvig8R9pV3VTii2lJzlThS5P6a6jfcImgM8rNps1AbSGpZZEpRfZoYr220FiGhZuKvQCzESFRNWfVtoAl868gb9kdlF86k4VXbO58YBf/vRIbpy/2zMBifKFRSWGFTVkAoymmMKyQAW9cIyEHOFH+yZCZm65Ut21vIMi4ayQjZyF0zNXGIgE5HvemJPHjYCqEALBuw8OVVRiPdFaqhVvwj4SMoM9ixdvbjAEitM1
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

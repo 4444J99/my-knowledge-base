@@ -1,0 +1,26 @@
+{
+  "id": "cf33bfd2-05de-4fd9-80d1-c4e0498fe769",
+  "type": "insight",
+  "timestamp": "2025-12-21T14:37:57.000Z",
+  "title": "<div>- [ ] **Archive branches**:</div>",
+  "content": "<div>- [ ] **Archive branches**:</div>\n<div>  - Push all branches to a backup remote (e.g., `git push backup --all`).</div>\n<div>  - Alternatively, zip the `.git` directory or export branches as patches:</div>\n<div>    - `git format-patch origin/main..branch-name`.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **3. Consolidate Branches**</div>\n<div>- [ ] **Merge changes into main or other base branches**:</div>\n<div>  - For branches with important changes, merge them into the main branch or a designated feature branch.</div>\n<div>    - Use `git merge branch-name`.</div>\n<div>    - Resolve conflicts as needed.</div>\n<div>- [ ] **Rebase small changes**:</div>\n<div>  - For branches with minor changes, rebase them onto the main branch to preserve commit history:</div>\n<div>    - `git rebase main branch-name`.</div>\n<div>- [ ] **Tag important milestones**:</div>\n<div>  - For branches that you want to delete but need to preserve history, create tags:</div>\n<div>    - `git tag &lttag-name&gt branch-name`.</div>\n<div>    - Push tags: `git push origin --tags`.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **4. Delete Unused/Stale Branches**</div>\n<div>- [ ] **Delete safely**:</div>",
+  "context": "From document: Cleaning up disparate branches in a GitHub repository while preserving… — chunk 2 (chunk 2/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "21b3da15b421224ca9d912d612ff13de",
+  "relatedUnits": [],
+  "keywords": [
+    "branches",
+    "branch",
+    "main",
+    "name",
+    "push"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

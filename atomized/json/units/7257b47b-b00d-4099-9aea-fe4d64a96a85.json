@@ -1,0 +1,26 @@
+{
+  "id": "7257b47b-b00d-4099-9aea-fe4d64a96a85",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>8. **solve-et-coagula** (Python)</div>\n<div>   - &quotDissolve and coagulate&quot transformation</div>\n<div>   - **Role:** Alchemical transformation pipeline (chaos → order)</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **🔧 Developer Tools &amp Context Management**</div>\n<div><br></div>\n<div>9. **a-context7**</div>\n<div>   - Context7 MCP Server</div>\n<div>   - Up-to-date code documentation for LLMs</div>\n<div>   - **Role:** AI-powered documentation generation</div>\n<div><br></div>\n<div>10. **github-mcp-server**</div>\n<div>    - GitHub's official MCP Server</div>\n<div>    - **Role:** GitHub integration for AI tools</div>\n<div><br></div>\n<div>11. **docs-et-cet-alia** (TypeScript)</div>\n<div>    - Forked from GitHub docs</div>\n<div>    - **Role:** Documentation infrastructure</div>\n<div><br></div>\n<div>12. **demo-repository** (HTML)</div>\n<div>    - GitHub showcase repository</div>\n<div>    - **Role:** Examples and demonstrations</div>\n<div><br></div>\n<div>13. **.github** (Shell)</div>\n<div>    - Organization configuration</div>\n<div>    - **Role:** Org-wide workflows and settings</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **🌐 Web &amp Interface Layer**</div>",
+  "context": "From document: Contents_Table — chunk 44 (chunk 44/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "role",
+    "github",
+    "server",
+    "documentation",
+    "transformation"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

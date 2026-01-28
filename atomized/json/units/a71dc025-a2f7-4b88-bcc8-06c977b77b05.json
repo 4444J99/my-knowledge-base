@@ -1,0 +1,26 @@
+{
+  "id": "a71dc025-a2f7-4b88-bcc8-06c977b77b05",
+  "type": "insight",
+  "timestamp": "2018-10-02T19:42:19.000Z",
+  "title": "<div>Electronic Music 101</div>",
+  "content": "<div>Electronic Music 101</div>\n<div><br></div>\n<div>The Theory and Technique of Electronic Music, Puckette</div>\n<div>The Computer Music Tutorial, Curtis Roads</div>\n<div>Algorithmic Composition, Simoni and Dannenberg</div>\n<div>The Art of Electronics, Horowitz and Hill</div>\n<div>The Csound Book, Boulanger</div>\n<div>Electronic Music and Sound Design, Cipriani and Giri</div>\n<div>https://www.amazon.com/Electronic-Music-Sound-Design-Practice/dp/[REDACTED:PHONE NUMBER]<br></div>\n<div>Synthesizer Cookbook, Welsh</div>\n<div>Demystifying Max Msp</div>\n<div><br></div>\n<div>https://www.syntorial.com<br></div>\n<div><br></div>\n<div>Sound on Sound - Synth Secrets - Sound Design</div>\n<div>https://github.com/micjamking/synth-secrets/blob/master/README.md<br></div>\n<div>https://www.soundonsound.com/search/all?f%5B0%5D=im_field_subject%3A8106<br></div>\n<div><br></div>\n<div>Coursera</div>\n<div>https://www.coursera.org/courses?query=music<br></div>\n<div><br></div>\n<div>https://www.kadenze.com/courses/programming-max-structuring-interactive-software-for-digital-arts/info<br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div>Carnegie Mellon - Intro to Computer Music</div>",
+  "context": "From document: Electronic Music 101 — chunk 1 (chunk 1/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "2c2c8c78a824fda05dd9f9289ba512ca",
+  "relatedUnits": [],
+  "keywords": [
+    "music",
+    "https",
+    "sound",
+    "electronic",
+    "design"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

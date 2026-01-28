@@ -1,0 +1,31 @@
+---
+id: 959b23b6-b7a1-4bf5-9dd1-42cc79774439
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - uyixae8yow693rnxeuu8xctz
+  - xdolrpmcgtivsnlanw4dgoyq
+  - ye7lkwh5e
+  - h7mf58mhltghwacnamupafd5cihleafzcre3bk6dbicbcc
+  - >-
+    clhdolxm7lcugnncdszwg3fa5dcufh0hzpdrfvgqzwxqn7mxrzkmookcsusycq1w6ylnxgnnse86hfzlz6hliorc3z1xmhhqb0h62dkrhfzz8jny4rheb4yjfznscdbea00j3563c5b58rojygc4gsiqoknq5a2bgmky7rktclyfqqvdtowqq0vlf6dwlxttpyaruiv6aqpf
+---
+# uYiXaE8yow693rNXEUu8XCtZ+XDOlrPmcGTIVSnLAnW4DgOyq+yE7LKWh5E/h7MF58mhLTgHWacNamUP
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 4354 (chunk 4354/11534)
+
+## Content
+uYiXaE8yow693rNXEUu8XCtZ+XDOlrPmcGTIVSnLAnW4DgOyq+yE7LKWh5E/h7MF58mhLTgHWacNamUPaFd5cihleaFzCRe3BK6DBicbcc/clhDOLxm7lCUgnNCdsZwg3Fa5dCufh0hzPDRfvgqZWXQn7MXrzkMOOKcsusycq1w6YLnXgnNsE86hFzLz6hLIoRc3z1XmHHqB0H62DkRHfZz8jNy4RHEB4YjfznSCdBea00J3563c5b58roJygC4GSIQoKnQ5A2BGMkY7RkTCLYFqqvdtowqq0VLF6DwLxttPYaRuiV6AqPf+J2cpS8v0o6Kaf/tnHsED5hUASz3HzLz1sZYLs8WongNX1jE//7/j9BOo/j52NmN9LmS24ZMayNlfjnok/u655IhCRRcLJc579Tz7LC32sO25kvBT/44VFewQm1CZcaAjZOv/MnctegE8/vbf7Sf69XzSevyvfY7/j383zf71oyb29JxgqeJxll4As54H5pKYwmOF7vTTMpkRaAcwjJFEbtn41H1uRKtn0nX/rfH3/Ln4FIrkIWbEc8Z/80/9J2Ktafyyic+yJxteJoqjt6nlmGWqH5aZ62YNcZe/Q5yf11sBQuMxRG5LRptZdPRgMHYwuVvOetpn+co+C8aHPu+csyVGYa5V4b0+tsuZCedRtH+j2DJ/zhr7wVzvn4VP64nuEtfRg8tRLgjzKjcOljPZmvIQt81NM+1o45vnpnl1u1buEqCucuasN5Cz3rIz6qrdz5yrLDrl1TEH7oNz4bpbyZFFRznLWlp2Xl3X8466yKV7JX3PpbslivO9dHEX3Srg3LVy5gzwDOdg+Uj+nKBdZM6tBO1eRsucucR1zqWjJrPoCtcBwqG3t8irI667mefPQUPL61bi8lBw7mnTvKCMEpcAdciQs+xsOcqXzK5DFp1bgzpYfu95QDviustJFh1tDOES1DlzjrjuIeDcrcpdQo9Cl5Djdrr7KHpJmHcfmXP3HyOXLgpgMpfubmTRFaiDHiUujeJY9FKgDuUunUt3rCw6Z9RV+8OXcSMdUJzvokNLRHfslplzPzphpl0Uujz2jUw0uREAAEAASURBVHQd0VkOzUWVu8xcuivAucOG614wf8430qEVrlN7Rf1nC4K6zw6oCVAngPfZJjLn0Hu8CERH+SFkojjBOWTUOYvOLbHc5tkhWhW99I10
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

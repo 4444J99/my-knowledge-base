@@ -1,0 +1,31 @@
+---
+id: ef559875-f84f-4262-9cc5-a2c8ef07de94
+type: insight
+created: '2017-10-19T23:15:11.000Z'
+document: 18dc3a996dd053a8e2f8b89fa16c3840
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - byae2jzjq0cgxqcuacwhe2xfe9o2p0q
+  - sn2fth3dnsr2k
+  - bprxpbbzynji238sicklwsd2rmykut9q7kbq2anwwd6h
+  - >-
+    us6lpnqdgqzycs8da6eb3lbm6kk4pdonzo4qsso4kefuncsxezn0a215tv6lsgpykczatwmpvigsosysblzbucvjx9ftjfkhfyjvik746y0sryc71f6osfslktihprkpikqxex16umcusrtxi1ysj7b4gc0dflqdbxxybugerribszwqlfqlpqh8hwxatwbsp5izyxbopbop
+  - zcfihfa5f9zoz
+---
+# ByAE2JZjQ0CgxqcuAcWHe2XFE9O2p0Q+sN2FtH3dNSr2K/BPRXpbBZynJI238SICKlWsd2rmYkuT9Q7k
+
+## Context
+From document: L-day IN A CHAR — chunk 343 (chunk 343/966)
+
+## Content
+ByAE2JZjQ0CgxqcuAcWHe2XFE9O2p0Q+sN2FtH3dNSr2K/BPRXpbBZynJI238SICKlWsd2rmYkuT9Q7kBQ2AnwwD6h/US6lPnQDGQZYCs8Da6EB3lbM6Kk4pdONzO4qssO4KefUnCsxeZN0a215tV6lsgpykCZaTWmpvigSosySblZBucVjx9FTJFKhfYJvIk746y0sRYC71f6OsfSLKTIhprKPikqxex16UMcuSRTxI1ysJ7b4gC0DFlQdbXxYBUGERrIBSZwqlFQLpQH8hwxAtWBsp5iZyxboPBop/zcfihfa5F9zoz/kP9zj33nuv7dixw1auXOnWEPdfrBlAt4ULFzohRlpaqjW3iSgZnWxd7Tp3IixOtvdbUV62Axw5FKBziYBJCuCiRAaYpRgqCmZ8xQH/AX+xigFwxYbkpIDL3VLLA5KX5kYdIAogeWYD2ETdT/HZePWPfQtqcUgA/t4uBTLWQQCrKLBReC+eKOJLKOzAIArnoEcU7bwniqWax84nVyBuj5Bk/qYwLpY9EAU3T486JTiZBoDNKL85FgApICy3kRwDYB4lPkVOAabpDwAbIHey+qRQK+B6OCcAblTXqN7JDGBfgHaAdd47xAlffPaBKOjQdgDFgPmAy+zDcQHITyjeEC/BGKTW1nEppMw+PHdAtkmA5wDEgOyA1mdrECqMj2NmCJjHiokYQCQwLuyAIBEgQcJ5hP1wDs7Vb7jNmb859wDhzAV7GmoKsGa2oiJX3MjgQK1O/QOOD/hO0eRRLHmdS7zuOSevV+K3H5wH7KCYPzG5uphzGBApAOwcj75T9NZhXqjp8funODVg/h6tP0gY1sgTu4NjnuoO6k6gWt+p18nQED6v7AEsb2LuvEGSEOcrJ0ddxsdMrd/bSqNuLtgEEZfFEzmHEVcEmnliKQUgDyhODQpqAEA6kDHyjk2QuTkzJ4B91hvHonYC2QcQTbyG6h4SiT5R9mOzw/lgTUGUMF7is1W1BW6VjRYEEnY/EEysITIKUnQOsLFiDBBckAu8zyAwlhYEBYhZh5Ahq0UQ5Cge1Lt4VuOG3CDjhfcNc6X4NLZNFDEms4JMFNY7pMPFNoRXFCQnOynMYkMwxne6FStWuO+IfP5BBEyeMtXqjuyXfZKKCpeU2JVTdMKHNIVDJFPU/tsj+1S7rdvGJbW6jPMhm/iHPgI+Aj4Cl0UE
+
+
+
+---
+*Source: Document 18dc3a996dd053a8e2f8b89fa16c3840*

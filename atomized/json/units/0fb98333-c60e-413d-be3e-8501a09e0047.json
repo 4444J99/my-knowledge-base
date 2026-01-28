@@ -1,0 +1,26 @@
+{
+  "id": "0fb98333-c60e-413d-be3e-8501a09e0047",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## 🔌 PLUG-IN NODE FLAGS</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Each module in the MYTHOS system is designed to be **plugged into a symbolic rack**, like audio modules in a Eurorack synth. These are tagged for function, crossover, and recursion capacity:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Flag | Meaning                            | Example Modules                                  |</tt></div>\n<div><tt>|------|------------------------------------|--------------------------------------------------|</tt></div>\n<div><tt>| GEN+ | Generative System                  | Music Bloom Engine, Dream Dialogue Loops         |</tt></div>\n<div><tt>| RIT+ | Ritual / Emotional Use             | Grief Chamber Builder, Naming Ceremony Mapper    |</tt></div>\n<div><tt>| LANG+| Language Parsing / Construction    | SYMNUM4GRAM Core, Conlang Bloom, Polyglot Altar  |</tt></div>\n<div><tt>| MIR+ | Mirror + Identity Tool             | Friend Avatar Engine, Past Self Replayer         |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>All modules are interoperable, remixable, and recursive. They can be deployed singly or as **ritual chains** for complex multi-phase experiences.</tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 51 (chunk 51/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "modules",
+    "system",
+    "bloom",
+    "engine",
+    "ritual"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

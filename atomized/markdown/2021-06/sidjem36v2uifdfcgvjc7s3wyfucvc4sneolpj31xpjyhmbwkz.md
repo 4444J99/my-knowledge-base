@@ -1,0 +1,32 @@
+---
+id: ce842524-7bc7-4c97-b720-d4bc9186474a
+type: insight
+created: '2021-06-24T19:10:13.000Z'
+document: b5de64ea907b6e44ec94b342683f3041
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    sidjem36v2uifdfcgvjc7s3wyfucvc4sneolpj31xpjyhmbwkzbd22v9onglxbk28adqlh5p3mur96m1yhojd0pnulso5drjj9kwko6k
+  - 7tf25
+  - >-
+    s4dz3rfghd0bebhdcwnovbhgnjxdiscwz6svvkmp2iaawuqn1emzsmu09kzxobp9jsxysph3xcar9cafeqoqpivti7jaglvqhm93szswlfugoxloejisifcq
+  - 0mizpfjg1sxfb4htgeaigqm9ypg0ke5soizcvlj
+  - qhvcvovpuaa5gdls2gpkngrzhwldlpalzsjue99nn32aqw45pjyz3oyqijjzdcdzuvdqip3
+---
+# SIDJeM36V2uIfDFCgVjC7S3WYfucvC4SneoLpJ31XPJYhMBWKZBd22v9oNgLxbK28ADQLh5p3Mur96M1
+
+## Context
+From document: TODAY FEELS LIKE A REAL BAD GO — chunk 227 (chunk 227/940)
+
+## Content
+SIDJeM36V2uIfDFCgVjC7S3WYfucvC4SneoLpJ31XPJYhMBWKZBd22v9oNgLxbK28ADQLh5p3Mur96M1yHojd0pNuLsO5DRjj9KWKO6K/7Tf25+s4dZ3RfghD0bEbhdCwNovbHGnjXDIScWz6svvKMP2IAaWUQn1eMZSmu09kzxoBp9JsXYspH3XcaR9CAFeqOQpIVTI7jaGlVqHm93sZsWLFUGOxLOejisIFCQ/0mizPFjG1SXfB4HtgEAIgQm9YPG0KE5SOiZcvlJ/qhvCVoVPUAa5gdls2gpkNgRZhwlDLPaLzsJuE99nn32aQw45pJyZ3oYQIJjZdCdZuVdqIP3/xmD/JUezGbNoV6FosK0s5uJAnZFOeLGB2+APPPDA4j7NPX7UdfUexowXi17bpEiuJdRQDsSfSiJIKZCgS9/2PS+61sk7RYTCznOB8mEMVJKD8MM1mWXG36xB5l59+f+o4u/+xpthUizpqGvz3fZBgEK6juTgVvUAJd9cQ05SDoSVmUdIQV4AlCVKDUW5rZV0q9oy7rm1PdpE2Ur5PwSsr8pW9Wtd35EvPp977rll3HVN2mzNHzwN5/9at+O/xoA9wnOqPMtz8qiN0BLhlKMIAb/zGiShd7zr6P+ZN8LX7KF9ivAWHi7mItKkelC0uRdiC8mHTHD6h6TP48gtoTFCFhkj1k3+aoNlfrN+CIQQWL8+79VijK2Ns21sVtuHUNYpddNYYC6PStuzrgl3FE2LPsu9eE8b26IL4dFRNtzlKHzTyAtKrk13nTYkFnJndjvy6VnPelaD1R8sXKbF60veRVGGD4GGYo/YaeuyT4lnBdplIwbb9V2KJGEsNWJg9aNnzmsMGeuHHnpoITa0jfeLBF7INvkoeAwgQ7yMDwo+zFj0CHTDpJxx7YXIEHbRdo50wSO/DQKriIA5Iz8DLyWko7lOcbIem/NbpSyuItbbtU36eyuKNdv6bz0n3yCfH/zgB49UzmetnzYiDoR92kOEq0kcae8dd4y0a9RR/dSzbeGNybLft5iTjn3lGdhHLuLNc/bZZxevCYYA+/awzOCkKGGeyAJJprdqDPTFKNcFgUUgEEJgEaiu4D25XWORKWpinsdtIm2bbpOxaDtujsV30gZiE8MWs8C3Yc8lkuOSzbp8wAEHFIv9OJa4bX3b/g5GN77xjUv8G8V2GiFA+bPp8hJY
+
+
+
+---
+*Source: Document b5de64ea907b6e44ec94b342683f3041*

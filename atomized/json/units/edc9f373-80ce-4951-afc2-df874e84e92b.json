@@ -1,0 +1,26 @@
+{
+  "id": "edc9f373-80ce-4951-afc2-df874e84e92b",
+  "type": "insight",
+  "timestamp": "2025-07-14T19:57:26.000Z",
+  "title": "<div>GoDaddy reference migration</div>",
+  "content": "<div>GoDaddy reference migration</div>\n<div><br></div>\n<div>Ticket number</div>\n<div>Em-394597</div>",
+  "context": "From document: GoDaddy reference migration",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "adbf1faadd90ffb7427095ed04553ff1",
+  "relatedUnits": [],
+  "keywords": [
+    "godaddy",
+    "reference",
+    "migration",
+    "ticket",
+    "number"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

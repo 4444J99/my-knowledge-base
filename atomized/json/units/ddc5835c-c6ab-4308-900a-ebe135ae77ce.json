@@ -1,0 +1,26 @@
+{
+  "id": "ddc5835c-c6ab-4308-900a-ebe135ae77ce",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>│   │   └── format-distribution.json</div>",
+  "content": "<div>│   │   └── format-distribution.json</div>\n<div>│   ├── extracted-content/</div>\n<div>│   │   ├── writing/</div>\n<div>│   │   │   ├── raw-text/</div>\n<div>│   │   │   ├── summaries/</div>\n<div>│   │   │   └── concepts-extracted/</div>\n<div>│   │   ├── music/</div>\n<div>│   │   │   ├── metadata/</div>\n<div>│   │   │   ├── lyrics/</div>\n<div>│   │   │   └── patterns-analyzed/</div>\n<div>│   │   └── video/</div>\n<div>│   │       ├── transcripts/</div>\n<div>│   │       ├── thumbnails/</div>\n<div>│   │       └── key-moments/</div>\n<div>│   └── semantic-index/</div>\n<div>│       ├── vector-database/</div>\n<div>│       ├── knowledge-graph.json</div>\n<div>│       └── concept-map.json</div>\n<div>│</div>\n<div>├── 1-ai-contexts-layer/</div>\n<div>│   ├── conversation-exports/</div>\n<div>│   │   ├── chatgpt/</div>\n<div>│   │   ├── claude/</div>\n<div>│   │   └── other-llms/</div>\n<div>│   ├── extracted-concepts/</div>\n<div>│   ├── archive-references/</div>\n<div>│   │   └── which-ai-chats-referenced-which-archive-files.json</div>\n<div>│   └── synthesis-prompts/</div>\n<div>│       └── prompts-that-bridge-archive-and-current-work/</div>\n<div>│</div>\n<div>├── 2-personal-repos-layer/</div>\n<div>│   ├── repo-catalog.json          # All 39 repos</div>",
+  "context": "From document: Contents_Table — chunk 35 (chunk 35/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "json",
+    "extracted",
+    "archive",
+    "concepts",
+    "layer"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

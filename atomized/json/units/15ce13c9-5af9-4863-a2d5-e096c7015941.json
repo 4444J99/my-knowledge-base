@@ -1,0 +1,26 @@
+{
+  "id": "15ce13c9-5af9-4863-a2d5-e096c7015941",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "</td></tr>",
+  "content": "</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>If They Act</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Their power resets to zero, and they take an XP hit.</div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Ensures long-term mystery—students don’t know what the Observer is doing.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Creates a slow-building tension—when will things start shifting?</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Introduces real consequences for breaking neutrality.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 5. Final Refinement of the Faustian Bargain</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Now the Bargain must be “unlocked” through specific class events.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> A student cannot just receive the Bargain—it must be earned through specific conditions.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 391 (chunk 391/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "border",
+    "style",
+    "width"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

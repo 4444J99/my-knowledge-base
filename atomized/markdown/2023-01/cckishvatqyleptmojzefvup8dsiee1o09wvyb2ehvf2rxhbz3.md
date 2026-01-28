@@ -1,0 +1,31 @@
+---
+id: 5372588d-77e6-43ba-a33e-bd4e7dc2a46d
+type: insight
+created: '2023-01-28T23:52:21.000Z'
+document: 1806f8ce08c45bef186cd3568c16a435
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ckishva
+  - leptmojzefvup8dsiee1o09wvyb2ehvf2rxhbz3ihqpl50jcmu5jtvajv
+  - 2trjlffp4iu6ntgo
+  - >-
+    3i4bdahhqh3pdp0pztbov2m1isgebyzwjvjgz3yp9bxbbp12m6qug2ddvephqqafvvsouvtcki8m1807gp9igqlyrsaxnjaoqn0xlssmppwrymhsblo9p2ichlqeuqb6zpvtjgjfz1jhhf3ce5utw3xenxvqoofsypvthkvbux4hgnrinbpk42xbsdfni
+  - nykcfnexssszig7rt38thbekbqksf7izo2mvgyoevuxn2sr4
+---
+# C+ckiShvA+TQy+LepTMOJZEFvUp8dSIEe1o09wVyb2ehvf2RXhbZ3IHqpL50JcmU5JTvaJV+2tRJlFFP
+
+## Context
+From document: New Note — chunk 44 (chunk 44/395)
+
+## Content
+C+ckiShvA+TQy+LepTMOJZEFvUp8dSIEe1o09wVyb2ehvf2RXhbZ3IHqpL50JcmU5JTvaJV+2tRJlFFP4iU6nTgo+3i4bdAHHQH3pdp0PzTboV2M1isGeByzwjvJgZ3yp9BXBbp12M6qug2DdVEpHqqAfVVsoUvtckI8m1807gp9IgQlyRsAXnjAoQN0XlsSmpPwRYMhSbLo9p2iCHLQeUqB6ZpvTjgJFz1JHHF3ce5UtW3xeNxVQoOfsYpvThKVbux4HGnrINbpk42XbsdFNI+NYkCfnExSSSziG7rT38THbekBQksf7IZo2MVGYoEvuXN2SR4/xb7ChIwO5g6y6ODVEG+1gYcx362tUmgn8OFBNglFVff8jXGfz8KHN9cAdAXif/ymX94kUGmbYZQSxw68nQjhqsy8Z56i99q1AEcKci6kfWOZQMPQ6yVgPWfh4rtIE+9NeKtpPl5qWzaDBkPxew7purPHQ3jXi46cw0ZJ/OWj44Uu6rGL74DaSZgTd67RsQXZYyFZxPtwmBcbIAs4DzyH8elEgwXesFtfGlHQSuQdg8JR9xyibWEVioMBe9TpW42J+6r+W0fhNg/y4UNBiwVNAzj8gxe9J0CX41u0rVtyoW0cso0v14EDXSwHudiTnGNN/9BdeMcd/xLD6kPmR8bFPuJr+PBDdeJimpquB4f+k02fX+gHn3OadnQWbcuV7ujFJGPHdRMc8wRRVQ3bN7Woc+Q7DQZksgmADULB79NQwsuGENcwfqvmm69V1/UxGwjIH8a6ZOwbfcEJbKrcftBP8NXXfn3xd7VIyIHfY0YMAqXTTepAx1VbZg2UITu5D7bkbA+GYsbv+OD5c8VqGeJGPADqvFbtF71S7Vcd338nXMZvscznRGAiMBGYCEwE7msEaqV1X7s//Z4ITAQmAhOBicDvjAALZxbdz/USXi+KtQB1wp/FqhbJBi2QWcNy1NrWC/tFrEVt8aKPhMFOAiBQgl70Ui/IAhy6E5Glg4UyQPILfV7wV0kSwW3xeNEv/E4CWao+mj8dTR153iudV08EZx+KGdtZ0CdGJNuQ5QBIXJC4xdTb0+J891+01HF1gxr2H10hlN60TS8B91l8KbeeE73jw3u2g7n0IWODnHEmqlE+0S2qj+UbepwMKp4nxZMuQAOHnk6TuMFipQelOxkiKkmfbLagD3suY0ONJJ/y
+
+
+
+---
+*Source: Document 1806f8ce08c45bef186cd3568c16a435*

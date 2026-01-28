@@ -1,0 +1,32 @@
+---
+id: 04f3b06b-abd5-4989-b111-0f6c64c16b92
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - vnw4agmlrhkllta9etixufyuoaggkwgsqg6ranmymobgnegy2octzggyqyjd
+  - ramjxvi4edd
+  - ios0nlqh4qwxdevd
+  - >-
+    ee0dekohfvfifkih2bb3s2do9sgyxydl1f4rwbbxx9hggefbn9x9rkys4km8f2eezkdkiogngruk3ny5swzsnzohhq9mhnnpmp
+  - >-
+    eol2zrv97h1yh2j9daghrdnes9tykhnj0vull0jcutbpd4gnxamsyoajfxtvpfopmf4ynm463mm5mkm28xsfa8zod2be2vdioqwj0e0kzotgwkvewsjd3k38ox6w4m4zew
+---
+# vNW4aGMlrHKLlTA9ETiXuFYuOaggKWgSQg6rANMYmobgneGY2OCTZGgyQyjD/rAMjxvi4EDD+iOS0NLQ
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 4288 (chunk 4288/11629)
+
+## Content
+vNW4aGMlrHKLlTA9ETiXuFYuOaggKWgSQg6rANMYmobgneGY2OCTZGgyQyjD/rAMjxvi4EDD+iOS0NLQh4QwxDeVD/Ee0deKOHfVFIfKIH2bB3S2Do9sgyXYdl1F4RwBBxx9HggeFbn9X9RKyS4Km8f2eEzKdkioGNgRUk3NY5sWZSnZoHHQ9mhNnpmp/+eoL2zrv97h1Yh2J9DagHRdNES9tYKHnj0VuLL0JCutBpd4gnXamsYOAjfxtvpFOPmF4yNM463MM5mKM28XsFa8Zod2Be2VdiOQWJ0e0KZOtgWKVEwsjd3K38oX6w4m4Zew+ru4HjTwLGrDJZdx5DamEimYRzzGTMW9saMlbUsdgi+wr4OFuna6he+jseq+xOsb6E6Hfeg9NPLoYzxLHHeOOyedUxmEK5PXJ59OfTdTzJQdr2Hjp9TSmr8+sxb602qb+wKeJi40p5t+Y5EebWj4zft4pOHBWrAWrPrY8x7Ut33fvmHfD2+oux4lqf5kESu5XbQ9H32kGwbU/lT1Pdz7FK8PjVwx+qY+lM0HQHWbNvA5I8AIHGUE8EKPah1TNxox0ZfSH/VVGO+I/g79cDr0xQP0VQ/wUm8ZNnPlbDm7qMbKsl2yi/a8DXm1mqOEHlGCDvccbGjtFGkV8ER5fHlsGWOlXV+uV9etjZl1qyHrbr0UYU55Zetc9dz7PoJEpR/Wj2hcpjEL+NIcHnMUq6bJb7raWP+PmYvlTV6auoTRMn/y4ekrx59i5LyFBwbfswS9+KV+e21mfWZ12serjzAqzjVuNqab06Cup+sXN+bx8F8V21IWVutr76wG4l01sjWtd8V9cRP6PZSCF8JjtFy0FtUDavh9gVZTxZjqBdoeF78DpHowjK4/WSUP+IIQXt4B28DFMwKMACPACDACjAAjMMQI0KOtelZfx68A9RuCZva0WoB2tcNcSnlKm7R/JlaLu5npzBzCvFPJ1OBvK6kdGj27Qh40zA4xK7Tn8eI4D780bk3ICXusNFbNkccNYaNMoeESIQ7NynesoKEZm6vO2v0zZ5X6nOS9SDQe007HvsWpmblUc9CWhb2XbSAwaP29G8saGIHRRWBw95fWrJHpV/+wqZN6iOE8jL5rEAZaZ6+cffT6411UmwPGLqLDntyvptN1PRWGIEko0GDvYTUNnoFzhC38ApyFtlP7jSfnH9u1f/Zf
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

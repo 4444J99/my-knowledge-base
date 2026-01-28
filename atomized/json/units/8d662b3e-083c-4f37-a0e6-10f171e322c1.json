@@ -1,0 +1,26 @@
+{
+  "id": "8d662b3e-083c-4f37-a0e6-10f171e322c1",
+  "type": "insight",
+  "timestamp": "2025-05-17T08:23:01.000Z",
+  "title": "<div><tt>  •  </tt><b><tt>Share each tab</tt></b><tt> to Notes or another app.</",
+  "content": "<div><tt>  •  </tt><b><tt>Share each tab</tt></b><tt> to Notes or another app.</tt></div>\n<div><tt>  •  Use </tt><b><tt>Tab Groups</tt></b><tt> (iOS 16+) and sync via iCloud to Mac, then export from there.</tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>Pro Tip:</tt></b><tt> On a Mac, use the “Show All Tabs” screen, right-click and save URLs manually.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>⸻</tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>[AA02] CHROME (iOS 18.5)</tt></b><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>A. Export Bookmarks</tt></b><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>Method 1: Sync to Google Account</tt></b><tt><br></tt></div>\n<div><tt>  1.  Make sure Chrome is synced:</tt></div>\n<div><tt>Chrome &gt Settings &gt Sync &gt Bookmarks = ON</tt></div>\n<div><tt>  2.  On </tt><b><tt>desktop Chrome</tt></b><tt>:</tt></div>\n<div><tt>chrome://bookmarks → click ⋮ &gt Export Bookmarks</tt></div>\n<div><tt>Saves .html file.</tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>B. Export Open Tabs</tt></b><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>Method 1: Sync Tabs to Desktop</tt></b><tt><br></tt></div>\n<div><tt>  1.  Enable sync in Chrome iOS:</tt></div>",
+  "context": "From document: SAFARI-CHROME_BOOKMARK-TAB_EXPORT — chunk 2 (chunk 2/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "337637d06af18a42ef605b725d4702be",
+  "relatedUnits": [],
+  "keywords": [
+    "chrome",
+    "sync",
+    "export",
+    "bookmarks",
+    "tabs"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

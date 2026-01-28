@@ -1,0 +1,40 @@
+---
+id: a7613525-b27a-4227-be7f-04d34981008b
+type: insight
+created: '2025-02-17T23:20:46.000Z'
+document: f724cc82d2d987b6ae9e11ab05d297ca
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - journey
+  - discussion
+  - path
+  - phoenix
+  - represents
+---
+# <div><tt>The path Phoenix travels is another significant symbol. It represents t
+
+## Context
+From document: Student Submission: — chunk 110 (chunk 110/134)
+
+## Content
+<div><tt>The path Phoenix travels is another significant symbol. It represents the hardships she endures, especially as an elderly Black woman in the South during the era of segregation. Her journey is fraught with obstacles like thorny bushes and a condescending hunter. When the hunter points his gun at her to see her reaction, she remains calm, saying,I seen plenty go off closer by, in my day, and for less than what I done” (Welty, 1941). This response highlights her resilience in the face of racism and adversity. The worn path symbolizes not just her physical journey but also the lifetime of challenges she has faced.</tt></div>
+<div><tt><br></tt></div>
+<div><tt>Through these symbols, Welty portrays Phoenix Jackson as a figure of quiet strength. Her journey, though exhausting and full of challenges, represents the power of love and endurance. Despite everything, she keeps going, proving that sacrifice and perseverance are often intertwined.</tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt>Student Submission:</tt></div>
+<div><tt><br></tt></div>
+<div><tt>The submissions for this assignment are posts in the assignment's discussion. Below are the discussion posts for Jennifer Thomas, or you can view the full discussion.</tt></div>
+
+
+
+---
+*Source: Document f724cc82d2d987b6ae9e11ab05d297ca*

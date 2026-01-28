@@ -1,0 +1,32 @@
+---
+id: e93ae62c-e361-40d5-98e3-19165d0234d1
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - xxwoofpjq
+  - i6zpwdfpghvnbvd7gjgmhdzuxjue4comev
+  - jwk7zjlp2fhpextkik3qeopbeze0oa2n34cqdk1khxwxqu4nqfkkwjvjl
+  - >-
+    s7p28ln0oh9jbu1otzj5m88zdpvao6owyw65ou7jpfiwnqsnteeobqolgjwkgxobygwlxdomypye6lxduzcwszigns7dgyptqxorm99lhwvfee3kjbeluyc7opo7ea
+  - >-
+    uwc6o1z9zn5spjdeydodgu3gwlfagh6rycticwr8oxewoqudh5bgbvol9hzbdc1a32nr6kz1xlxgmksxiaosniujurjbso3yj53xdyw7bqowessowca6
+---
+# XxwooFPjQ+I6ZPwdfPghvNBVD7GjGMhDZuxJue4coMEv/JWk7Zjlp2fHpeXTkIK3QEoPbeZe0oA2N34c
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 1852 (chunk 1852/18928)
+
+## Content
+XxwooFPjQ+I6ZPwdfPghvNBVD7GjGMhDZuxJue4coMEv/JWk7Zjlp2fHpeXTkIK3QEoPbeZe0oA2N34cQdK1kHXwxqU4nQFKkWJvjl/S7p28Ln0Oh9jBu1OtZJ5M88ZdPvAO6OwyW65oU7jpFIwNQSNteeoBqoLgjWKGXobYGwLxdomypyE6lXDuZcwSziGNs7dGyPTqXOrm99LHWvFee3KJbEluyc7opo7ea+uWC6o1z9ZN5SpJdEYdodGU3Gwlfagh6rYCticwr8oxewOqudh5BGbvol9hzbdC1A32nr6kZ1xLxgMksxiAoSNiujUrJbsO3YJ53XDYW7BqOweSsOWca6/4+pPYlBtz6nDAEX3dnstlnLae3VwleCzK8UU5a6dJl3K/bE72tr4xEwj38twNw2xLqQX2LjEhKyQmEo7N3Zk0GP9CuauxSVw3g+O9koFLg3TRG+VLGwLvkqwYAtsUx1bli4I3TN8l02l7e/woO3L3MmlbBSuTazGrT6rxFUMBvPGZPHzjn+nduLe5BG+NvUt4m0Nz8jcCGnijAxpS7H39725yUbeeOQXBe8qi9afNSgEba47AJ+uuJ77T0rlFdkCbz74ak6Qwu5sDl/TteeDZd2H3hmGcA2cuWTewx7Ifh6dDL3eJWZ0EdI7yYFyHUIjJ/ZEDid1f0k5eNXMAtS+XuqmclGRvOKjH4F0RdQNKKwZvTKIWHM7QG7yPdwaYtbSFnIo3qkfJWzLgnY4IIFoQeBt9mbW7DAJvidkuuQH8liUTzKxhs7zqkXHXpAVreIVL+RDqZdDI5JIaSnuIwg8GxsHv4iFXhMgUEh7ivf7GVnujlbr5FdXhd4ZkrTO6ye4dRN2ef7/BSzJDSQ7MVkJWqETWcu8M9EB1+CVv3WsOe5v5VpS6yehtsrf5ZAoBgsIhnJUSrBALSwKONdHCsLSPNybUQdd59JX31bo1ynnvY6y7BvnIax/AQs73wgOQps/5qRt2Qj9LF71qTvZ2fSw6Nj7gQ+47bP7qweCNwd0DybTthD8DHMudyQ6g9JjAUwM4MT+TcFGELhGf30UCJUANOliqraLf1MOcZUamei3ejprehB3FLFnBibFlSGfn3OTQncw1rs499b2a01CFUNSUjfiaMdw8RZzw9AcavXO9zcFLBDnWikkw6WHvQt7miJxr8UYyKD1SNXnn+z+14u4F
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

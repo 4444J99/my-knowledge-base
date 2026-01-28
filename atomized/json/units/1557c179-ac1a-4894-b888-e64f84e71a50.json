@@ -1,0 +1,26 @@
+{
+  "id": "1557c179-ac1a-4894-b888-e64f84e71a50",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt>1. **META-INTERFACE** - User interaction, visualization</tt></div>",
+  "content": "<div><tt>1. **META-INTERFACE** - User interaction, visualization</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Information Flow:** Bidirectional (upward/downward/lateral/recursive) through unified hypergraph substrate.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**1.2 Core Components:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- **Multimodal Intake Engine:** Text, audio, image, video, gesture encoders → shared embedding space (768-1024d) </tt></div>\n<div><tt>- **Linguistic Analysis Core (LAC):** 9 parallel modules with cross-layer feedback</tt></div>\n<div><tt>- **Rhetorical Strategy Engine (RSE):** Ethos/pathos/logos analysis, persuasion detection/generation </tt></div>\n<div><tt>- **World Knowledge &amp Reasoning Module (WKRM):** 10M+ concepts, 100M+ entities, causal reasoning</tt></div>\n<div><tt>- **Meta-Learning Controller:** MAML-based outer/inner loop for few-shot adaptation</tt></div>\n<div><tt>- **Unified Hypergraph:** Central representation substrate (labeled property hypergraph)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>-----</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## **PART II: FORMAL FOUNDATIONS**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### **2. Category Theory Framework**</tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 3 (chunk 3/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "hypergraph",
+    "meta",
+    "unified",
+    "substrate",
+    "core"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

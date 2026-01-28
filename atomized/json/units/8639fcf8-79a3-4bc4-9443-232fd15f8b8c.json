@@ -1,0 +1,26 @@
+{
+  "id": "8639fcf8-79a3-4bc4-9443-232fd15f8b8c",
+  "type": "insight",
+  "timestamp": "2022-07-08T14:47:59.000Z",
+  "title": "<div>Veronica Humphreys told me that Kristin wanted to kiss me.</div>",
+  "content": "<div>Veronica Humphreys told me that Kristin wanted to kiss me.</div>",
+  "context": "From document: Veronica Humphreys told me that Kristin wanted to kiss me.",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "0fefb73cb504dc0578408d7466d37b69",
+  "relatedUnits": [],
+  "keywords": [
+    "veronica",
+    "humphreys",
+    "told",
+    "that",
+    "kristin"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

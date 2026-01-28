@@ -1,0 +1,26 @@
+{
+  "id": "955f9494-d1a6-43e5-b482-d0a22eda0aef",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 1. Custom Dice Mechanics – Archetype-Specific Rolls</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Each archetype has a unique dice system, similar to Mario Party.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Some archetypes roll higher but have drawbacks.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Some roll consistently but have lower variability.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> The Observer and Professor also roll dice, modified by setting and exposition elements.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📖</font> Example: Archetype Dice Rolls</div>\n<div><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Archetype</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Dice Type</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Roll Effect</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 379 (chunk 379/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "border",
+    "style",
+    "face",
+    "width"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

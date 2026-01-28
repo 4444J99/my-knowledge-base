@@ -1,0 +1,32 @@
+---
+id: 22174d8b-f7f5-4dc5-9dbb-2cd213beea72
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - xybwdynvvceanjtblg7myafhkiuqzahb2xwrfzl9txrnunh63z0
+  - >-
+    hnwtj8pujxqtgjfhekrqaelon9b8xivuk9pob3myeg4h3mrm3lmeilk3wwxiwfgawsgb0glgsdwkhazadrwin6tq6gzh6v2fgehn1cl0idniszi
+  - yfu1tvfs9rrchc52ejdraihzcaftuutanpab5c7okprik4p6gmfe4t45crzs02lskcpzf
+  - f4mvlopv3tmk3yw4gd6xwcfmjad2jzfsmxejsnnbpn8sdq86muqo2oad7z78qzthqpbf
+  - >-
+    fzfjcopmfajmeu57llu8vn9i6f3u2t8dh1x98urmbv4onqdawtz8b736rm7sx4kpdewg3kevmunyr4
+---
+# xyBWDYnVVCEANjTBlg7myAfhkIUQzaHB2xwrFZL9tXRNuNh63z0+HnwtJ8PUjXQtGjfhEKRqAeLoN9b8
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 10685 (chunk 10685/18928)
+
+## Content
+xyBWDYnVVCEANjTBlg7myAfhkIUQzaHB2xwrFZL9tXRNuNh63z0+HnwtJ8PUjXQtGjfhEKRqAeLoN9b8xIvuk9POB3MYEG4H3mRm3lmeilk3wWxIWFGAwSgB0gLgsdWkHazadrWIn6tq6gzh6V2FgEHn1CL0idnIsZI/YFu1TVfS9RrcHc52eJDraIhzcAFtUuTaNpAB5c7OkpRiK4P6gMFE4T45CrZS02LSKcpZF/T8p/2J/f4MvLoPV3TMk3Yw4gD6xwCFmJAd2jZFSmxeJSnNbPN8sDq86MuQO2OAD7z78qzThqPBF+FZFJCoPMFajmEu57lLu8VN9i6f3u2T8dh1X98urmbV4OnqdAwtz8B736rm7SX4kpdewG3KEvmuNyR4/M5pmq5bT4VYZX34W970PwwuVrMZ8Gel9I7Z2kkIiK/VeBAmPXZxtd1U89CuEm7d1WPUqBlMYxlmofoDGDQpzeJn2Y6on0wNbeWNad5p/MPPv+8BwnzgHLKZZf34P34QhJlnnpm6NHhso6myIPLVidl9vxg2frOsb4xtMzQeHHXMUfMPOWnWUMgKQEMj7Mu++PnPzEqHeuScHM6Ws+7jDVtSb0E6vMb6jVC8MdxW7YrLX3OXO9xyX/BLS24+H3U7MeIPA0BfkOfQ4yhZJJ1V0lZokh7umlJZ/uBJANf7jXcHbwCJquVETqjHD7zzjfe8CYL1BcTL4Ah5R9Ims7wZpKJZ2lB388B79YhnO4yPvP8dEEo7E0ZCSKtFnAMUnWXg/cc98J6ZM6Z9yHGf2Z//9Mf/8Lqv2mgB1uiYrumXP/rOm17ziny8vdpEgzAD77e98S+N9t3veP3d7jwarnZNWQDVb8r6wDUOLbWQH0nSH173tTzi2bd35hAkA2+pNleiU54bEnO+jWKKH1F1bOD5JFFz6JqOXNU8fvN4JduJhafdWfH2OMRAUYStc87wN9s16TeAP2pEqrCLwB28JilqebIp0hYwZKOvyXLa3+C7pgORG0xiOOG36t5BiqN8mJZSKmIVrJc8DVYJUQiDmh1z4yjAMAu1HcCgSSlCYjZyi3SxrVrabXeAeLl97jPvk9uJyTDEsAy8JVXJyCiaGy7yXHTlQj8pmmSXyHY/nmiCNUFiNZTHlj8lM1BnCAy/lpLFXE1KI2SUFYCkFRCiAAmlwQFqNjNqSBrLL0jpoDBbDS5Q
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

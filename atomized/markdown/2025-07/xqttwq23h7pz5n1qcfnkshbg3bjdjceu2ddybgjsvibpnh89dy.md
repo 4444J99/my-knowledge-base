@@ -1,0 +1,32 @@
+---
+id: 3bed5324-9636-4377-9588-fef73351ee2d
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - qttwq23h7pz5n1qcfn
+  - kshbg3bjdjceu2ddybg
+  - ibpnh89d
+  - >-
+    yx5bgsa9hvd5dyrqe2aidfhj6wuvvahdw44xri2lqtizwm6inesrfzlmbnitebjm6366xibr4d6zwdrtdgbud49folkkt1kbltthdgzfbhl1ca4b9kaildytjdwkz6vklh63wkmwrlia2acanjmfgtr
+  - >-
+    apxo6iehabaonpi34q3b0kdumzl2ech8c4diadg4sg3ub3n91rl2ggzjc4xypskm3supuwqyyct3bbfhmfi7bgwh8nnagdymdqfq847chure3wlemknuazayotr5em9ghd98vwo1qxfqqy
+---
+# X+qTTwq23h7Pz5n1qCFn+KSHbG3bJDjCeu2dDyBg+Jsv/ibPnH89d/yX5BGSA9HVd5dYrQE2aIDFhJ6W
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 10308 (chunk 10308/18928)
+
+## Content
+X+qTTwq23h7Pz5n1qCFn+KSHbG3bJDjCeu2dDyBg+Jsv/ibPnH89d/yX5BGSA9HVd5dYrQE2aIDFhJ6WuVVaHdW44xRi2lqTIZwM6iNESRfZLmBNItEbjm6366xibR4D6ZWdrtdgbUd49FoLkKT1KBLTtHDGZFBhl1CA4b9kaiLDYTjDWKZ6VklH63wkMwRLIa2aCANJMFgtr+ApxO6IEHabaoNPi34Q3B0KDUMZl2ECH8C4dIadg4SG3uB3n91rl2gGzjC4xYpskm3SupUWqyYct3bbFHmfi7BGwh8NnAgDYMDQFQ847cHURE3WlemKNUaZAyOtR5Em9ghd98vWo1qXfQQY/ptNTfnznT/AuZTKRcjma9v5Oe7PfqxfwsLALe+EBLz7afPJfd66hqk27mndES24OxS05p1t+Z3U9cXPoHHZfPHFF7/79HfmUfCrXfGwYWWYbq8Y3/OONyWKEfPsXt7ylVsj+dGZgXyfbh7DvvVRN+cO9n3udozD7JFGvt41Dl8ns+SzueOd3E5/x9v3ibWP6Z9+/KO8ftg6v++MtxIunHlEPJ8yzItwbstPy2+s+Yb5Fz7z8b1oUwqH01PTC5/9tIV85149mje89jWyDTe0e5nt2nvCLF/25vH47BFKZ2iPBPQA2qqeXWkXR1r3crrKkiA0foLVH9yBsx2DHKwjz/y3L0E9dwS0I5xT3Evwt1KGFmD4j09Nh/QVgGklUqdrYJRp45WjBL1IBpMuW5OIURisrZd22ivzjpkKulRqjQSflqLbDZItGgWtCGIitEl8D2oNwGvwbVjkWCXB5HDWCQ++jlokiaGfeJZ7gzh2Jnn02vOzhXzAlgV2HphpJbKPmhOF5CPvRZV74HH5yT9voUqITiZU5Bxl/gJtnXbzQ9axOmRcMsD1n4SskPPnCv6OEnnT/cgHtw7w29/4qoOa+JfqxSsfyq4Lko8Vhg8j4oVj8vzCpz+y9VfNcj+cTEhm2k2z1ya35UiGKq36Hnv0W545/8SHknO23+C+d8ZCoLRsJtDClO1cFrNqKzImx9VTgSMFM5DoGJ7BhCZKt4OpyVL0LkAZzVBqMe0VWf1aiFUSrO5TTw30ax4cYxVJXPQTz3JybWUwNFZaOVXCma4JtCZyjj2uVwDQyrPXkQzMKOA3vssfnXSFIUsbR+WNadtgdSd/uuANjSBSq9XTlGF2
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

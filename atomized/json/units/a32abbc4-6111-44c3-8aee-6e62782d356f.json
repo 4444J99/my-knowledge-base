@@ -1,0 +1,26 @@
+{
+  "id": "a32abbc4-6111-44c3-8aee-6e62782d356f",
+  "type": "insight",
+  "timestamp": "2021-06-17T13:31:00.000Z",
+  "title": "<div><h1>Grandfather’s Logins &amp Bills</h1></div>",
+  "content": "<div><h1>Grandfather’s Logins &amp Bills</h1></div>\n<div><br></div>\n<div>HOA - 1st</div>\n<div>AT&ampT - 4th</div>\n<div>AAA CC - 16th</div>\n<div>Barclay CC - xx/xx</div>\n<div>Florida City &amp Gas - 09th</div>\n<div><br></div>\n<div><br></div>\n<div>Chase </div>\n<div>Username: tony1731</div>\n<div>Pass: JenniE!($$</div>\n<div><br></div>\n<div>AT&ampT</div>\n<div>Username: [REDACTED:SSN]</div>\n<div>Pass: victorIa!944</div>\n<div><br></div>\n<div>Wells Fargo</div>\n<div>Email: [REDACTED:EMAIL ADDRESS]<br></div>\n<div>Username: tony1731</div>\n<div>Pass: victorIa!944</div>\n<div><br></div>\n<div>Barclays</div>\n<div>Username: jenniepad</div>\n<div>Pass: victorIa!944</div>\n<div><br></div>\n<div>Sun Pass Account</div>\n<div>Username: Jennie1</div>\n<div>Pass: Padavano!8</div>\n<div>Pin: 1944</div>",
+  "context": "From document: Grandfather’s Logins & Bills",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a106b3e3da89e74460d1c393fa121243",
+  "relatedUnits": [],
+  "keywords": [
+    "pass",
+    "username",
+    "victoria",
+    "ampt",
+    "tony1731"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "fecb62f3-fa36-44a6-ac68-784ab60cf08d",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:53:51.000Z",
+  "title": "<div><h1>REVIVE_0412_SEGMENT_004.md</h1></div>",
+  "content": "<div><h1>REVIVE_0412_SEGMENT_004.md</h1></div>\n<div><tt># REVIVE_0412_SEGMENT_004.md  </tt></div>\n<div><tt>**Segment:** 004  </tt></div>\n<div><tt>**Range:** Msg 061–080  </tt></div>\n<div><tt>**Tags:** Folder Auditing, UX Naming Conflicts, Ritual Logging, POV Invocation  </tt></div>\n<div><tt>**Status:** Logged</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## RAW THREAD DATA (CLEANED, STRUCTURED)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>1. **User Upload:**  </tt></div>\n<div><tt>   Posts screenshot of `GPT_ARCHIVE_CORE/` and its subfolders  </tt></div>\n<div><tt>   Asks: Are these nested and titled correctly?</tt></div>\n<div><tt><br></tt></div>\n<div><tt>2. **GPT Diagnostic Audit:**  </tt></div>\n<div><tt>   Responds with:</tt></div>\n<div><tt>   - Flattened vs. nested confusion clarified  </tt></div>\n<div><tt>   - Final recommendation:  </tt></div>\n<div><tt>     Nest `MEMORY_*`, `THREAD_REVIVALS`, and `TO_PROCESS` under `GPT_ARCHIVE_CORE/`</tt></div>\n<div><tt>   - Confirms symbolic alignment with:</tt></div>\n<div><tt>     - `SYS_EXPORT/`</tt></div>\n<div><tt>     - `PRODUCTS/`</tt></div>\n<div><tt>     - `KONS0L/`</tt></div>\n<div><tt>   - Offers new structure:</tt></div>",
+  "context": "From document: REVIVE_0412_SEGMENT_004.md — chunk 1 (chunk 1/3)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "3e8c0271cde683cb052dd8f6d96c8b11",
+  "relatedUnits": [],
+  "keywords": [
+    "revive_0412_segment_004",
+    "gpt_archive_core",
+    "nested",
+    "with",
+    "segment"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

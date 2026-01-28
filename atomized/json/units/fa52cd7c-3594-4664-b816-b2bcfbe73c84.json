@@ -1,0 +1,26 @@
+{
+  "id": "fa52cd7c-3594-4664-b816-b2bcfbe73c84",
+  "type": "insight",
+  "timestamp": "2018-12-19T17:05:03.000Z",
+  "title": "<div>Hey Mike, It’s Anthony Padavano. I’m going to be in NYC from December 24th ",
+  "content": "<div>Hey Mike, It’s Anthony Padavano. I’m going to be in NYC from December 24th until January 1st. I would love to be able to chat with you, pick your brain, and ask for some advice regarding your industry. If you’re in town the same time, perhaps we could meet for coffee? I understand you’re also probably very busy, so if that is inconvenient I could email you as well? Thanks, Mike, look forward to hearing from you!</div>",
+  "context": "From document: Hey Mike, It’s Anthony Padavano. I’m going to be in NYC from December…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "2c7b35ac555ed8ecc08f8c8c1e90302a",
+  "relatedUnits": [],
+  "keywords": [
+    "mike",
+    "from",
+    "your",
+    "could",
+    "anthony"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

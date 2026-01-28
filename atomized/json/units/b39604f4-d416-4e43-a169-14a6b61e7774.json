@@ -1,0 +1,26 @@
+{
+  "id": "b39604f4-d416-4e43-a169-14a6b61e7774",
+  "type": "insight",
+  "timestamp": "2025-11-05T21:42:26.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Custom + ML</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Unlimited</div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div><br></div>\n<div><b><h2>Next Steps</h2></b><font face=\".AppleSystemUIFont\"><span style=\"font-size: 13px\"><h2><br></h2></span></font></div>\n<div><br></div>\n<ol>\n<li><b>Choose 3 pilot states</b> for initial UCC scraper development (recommend: CA, TX, FL for high MCA volume)</li>\n<li><b>Set up Postgres database</b> to replace GitHub Spark KV</li>\n<li><b>Implement Free Tier sources</b> first (SEC, OSHA, USPTO)</li>\n<li><b>Build MCP server</b> for data abstraction</li>\n<li><b>Add tier management</b> and usage tracking</li>\n<li><b>Integrate Stripe</b> for payment processing</li>\n</ol>\n<div><br></div>\n<div>I can help you implement any of these phases. Which would you like to start with?</div>\n<div><br></div>\n<div><h2>📘</h2><b><h2> API SOURCE BOOK – MASTER REFERENCE</h2></b></div>",
+  "context": "From document: data enrichment strategy for ucc-mca intelligence platform — chunk 18 (chunk 18/32)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "42efb0f415b2f324521d2959a50f91bf",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "font",
+    "valign"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

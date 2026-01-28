@@ -1,0 +1,31 @@
+---
+id: e3c442fb-ce5c-40b9-bb75-4fe3ce8b4002
+type: insight
+created: '2021-06-24T19:10:13.000Z'
+document: b5de64ea907b6e44ec94b342683f3041
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    nraibakbqcaqcaqcguageageaofaibcyfqjbcmwkybhoibaibakbqcaqcaqcguageageaofaidaibiiqgnfgrvcdguageageaofaibaibakbqcaqcaqcgvkheitarjcm6wqcguageageaofaibaibakbqcaqcaqci0igcierdvz0nraibakbqcaqcaqcguageageaofaibcyfqjbcmwkybhoibaibakbqcaqcaqcguageageaofaidaibiiqgnfgrvcdguageageaofaibdyzaj8
+  - r37xi19u
+  - 3vfzczdphsguageajmdiegbgygzvwoeageaofaibaibakbqgbecpz5z3
+  - u9t9
+  - 2rppfesvve9783rnnhdqgbqbp79739pfw6cgagsc4hjl
+---
+# NRAIBAKBQCAQCAQCgUAgEAgEAoFAIBCYFQJBCMwKybhOIBAIBAKBQCAQCAQCgUAgEAgEAoFAIDAiBIIQ
+
+## Context
+From document: TODAY FEELS LIKE A REAL BAD GO — chunk 454 (chunk 454/940)
+
+## Content
+NRAIBAKBQCAQCAQCgUAgEAgEAoFAIBCYFQJBCMwKybhOIBAIBAKBQCAQCAQCgUAgEAgEAoFAIDAiBIIQGNFgRVcDgUAgEAgEAoFAIBAIBAKBQCAQCAQCgVkhEITArJCM6wQCgUAgEAgEAoFAIBAIBAKBQCAQCAQCI0IgCIERDVZ0NRAIBAKBQCAQCAQCgUAgEAgEAoFAIBCYFQJBCMwKybhOIBAIBAKBQCAQCAQCgUAgEAgEAoFAIDAiBIIQGNFgRVcDgUAgEAgEAoFAIBDYzAj8/e9/r37xi19U//3vfzczDPHsgUAgEAjMDIEgBGYGZVwoEAgEAoFAIBAIBAKBQGBeCPz5z3+u9t9//2rPPfesvve9783rNnHdQGBqBP79739PfW6cGAgsC4HjL+vGcd9AIBAIBAKBQCAQCAQCgUCgDwJ/+MMfqqc85SnVc57znOqmN71pdapTnarPaXFMIDB3BMjmBz/4werII4+sfv7zn1eXuMQlqjvd6U7Vmc50prnfO24QCMwCgSAEZoFiXCMQCAQCgUAgEAgEAoEZIfD73/++vlIEvf8H6Be+8IXqwAMPrN761rdWt7nNbarHPe5x1elOd7oZoR2XCQSmR+BTn/pU9eQnP7kmBP7xj39UJz3pSas3velN1fe///1aZk984hNPf/E4MxBYEALHWVuDFYuwFgR23CYQCAQCgUAgEAgEAoEuBH7wgx9UD3/4w6uTnexkdUBx8pOfvOvwnd/JTL7jHe+oznnOc1bXvva1d34+5j9+/OMfV4cddlj1ohe9qPrd735X7bPPPtX97ne/6rSnPe2YH2tD9v1vf/tbva/DSU5yks7n+89//lP95S9/qRzvb8TO8Y53vM5zVvFL4dOb3/zm6rGPfWz17W9/u55zd7zjHavTn/701WMe85jqa1/7WvXKV75yw8zFVRyD6NPsEIgKgdlhGVcKBAKBQCAQCASWisC//vWv6lWvelVdtnrve9+7muScL7WzcfNjIWD8nv/851eve93rqvOd73z1OPYhBH76059W97///esM+iUvecnq/Oc/f00MHOsG//vgJz/5SXX44YdXV7rSlaorXvGKbYfN9PO3ve1t1Y9+9KNqr732qk50ohN1Xvs73/lO5Xiy/K1vfau6ylWuUt3nPvepg6vjH39juK72Q/jlL39ZGV9B5JjbN77xjXpvhz/+
+
+
+
+---
+*Source: Document b5de64ea907b6e44ec94b342683f3041*

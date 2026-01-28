@@ -1,0 +1,26 @@
+{
+  "id": "5cddde6c-fb8f-419f-957a-ec25a6231609",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> “The Mentor’s Boon” – If a student helps another succeed in a challenge, they gain XP but must take a debuff in the next round.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> “The Selfless Guide” – A student can “gift” their success, giving up a reward to help another player avoid failure.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> “The Pact of Knowledge” – Two students can team up for a major challenge, but if one fails, both suffer the penalty.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">✅</font> Why This Works:</div>\n<div>  •  Encourages a community-based playstyle.</div>\n<div>  •  Makes mentorship a real choice with consequences.</div>\n<div>  •  Ties into major literary themes of sacrifice and heroism.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📌</font> Final Questions for Version 5.9</div>\n<div><br></div>\n<div>1. Should there be a “Secret Alignment System” that tracks how students engage (Hero, Trickster, Scholar, etc.)?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> If so, should this affect their final challenge?</div>\n<div><br></div>\n<div>2. What should happen if two students independently discover the “True Ending” path?</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 240 (chunk 240/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "zapfdingbatsitc",
+    "challenge",
+    "students"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

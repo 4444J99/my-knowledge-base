@@ -1,0 +1,26 @@
+{
+  "id": "5ce193b7-74ce-4ae5-b447-2761ce328607",
+  "type": "insight",
+  "timestamp": "2025-02-12T19:07:35.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>An example might be: After finishing my presentation, the applause filled the room.</div>\n<div><br></div>\n<div>In the original sentence, the phrase &quotafter finishing my presentation&quot is a dangling modifier because it is not logically or grammatically connected to the subject of the main clause, &quotthe applause.&quot Adding the subject &quotI&quot to the sentence clarifies that the speaker finished the presentation, leading to applause filling the room.</div>\n<div><br></div>\n<div>A better sentence would be: After I finished my presentation, applause filled the room.</div>\n<div><br></div>\n<div>After you finish this page, click Next to continue to Specifics of Grammar: Run-On Sentences.</div>\n<div><br></div>\n<div><br></div>\n<div><h2>Week 4 | Specifics of Grammar: Run-On Sentences </h2></div>\n<div>Run-On Sentences</div>\n<div>A run-on sentence occurs when two or more independent clauses are joined without proper punctuation or conjunction. This results in a sentence that could be clearer to read and understand.</div>\n<div><br></div>\n<div>Two main ways to fix a run-on sentence are using proper punctuation or adding a conjunction and a comma. Proper punctuation means separating the independent clauses using a period, semicolon, or comma. It is important to note that the comma is only appropriate when the conjunction is used. Using a comma alone would transform the run-on sentence into a comma spice, another common error to avoid. Adding a conjunction means joining the independent clauses together with a word like &quotand,&quot &quotbut,&quot or &quotor.&quot You might recall the popular acronym, FANBOYS, which stands for For, And, Nor, But, Or, Yet, So.</div>",
+  "context": "From document: Weeks 1 - 6 Canvas Data Dump — chunk 115 (chunk 115/188)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1b21c03b1f1909954adca118a79b0158",
+  "relatedUnits": [],
+  "keywords": [
+    "sentence",
+    "quot",
+    "comma",
+    "presentation",
+    "applause"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "12241f44-2e0a-4f99-8045-1451e8f937a3",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants to compile all their ChatGPT prompts—especially non-business, poetic, human, and insightful ones—into a structured archive. They are interested in collecting these prompts alongside old Notes app entries and other elements from their digital life to form a comprehensive personal mythology. They prefer both summaries and raw content to be preserved, processed in manageable chunks.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants all of the Architect's lines from *The Matrix Reloaded* translated into conversational language, with prose summaries of the scenes interspersed.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_051425_MASTER — chunk 25 (chunk 25/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "5e4feb3febe2be13a91fd74e828ebc64",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

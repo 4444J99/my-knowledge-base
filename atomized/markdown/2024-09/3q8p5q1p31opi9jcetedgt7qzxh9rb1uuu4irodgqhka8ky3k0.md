@@ -1,0 +1,31 @@
+---
+id: 22f0fe42-e916-4f06-a4f0-a7b8c7a110bc
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    3q8p5q1p31opi9jcetedgt7qzxh9rb1uuu4irodgqhka8ky3k009cqbup80vliekxpml9vcr6w296c5nppbbxgdfiv2j4se0i263xbvrtqyfq2rscs0
+  - wzlxr3tejyafzd0npvsrvtcbaoo1fludqnjc4ewzoypmclofnyv9jntdcfjhjxgla6xghxf
+  - acpebnbhu7fgyfyv5clm8zwuvi6tqrhqx
+  - 5zhfrxvajkweczkct9yoc1fbevcpcfi4r5wc7wieebqsx5agcj4gslpml
+  - xdy73zkxa9stmjeetu1fidnj92vpww0
+---
+# 3Q8p5Q1P31OpI9JCETEDgt7QzXh9Rb1UuU4irODGQHKa8Ky3k009CQBUP80VlieKxPmL9vcr6w296c5N
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 1466 (chunk 1466/11534)
+
+## Content
+3Q8p5Q1P31OpI9JCETEDgt7QzXh9Rb1UuU4irODGQHKa8Ky3k009CQBUP80VlieKxPmL9vcr6w296c5NppbbXGDFIV2J4SE0i263xBVrtQyfQ2RSCs0/WzlXR3TeJYafZd0npvsRVtcBAoO1fLuDqnJC4ewzOYPmCLOfnYV9jNtDcFJhjXGLa6xgHXF+AcpEbNbHu7fgyfYV5CLm8zWUVi6TQRhQX+5zhfRXVAJKWEczkCt9Yoc1fbEVCpcFI4r5wc7wiEEBqSX5aGCJ4GslPml+xDy73ZKxa9sTmjeetu1fIdnj92VpwW0+j4SAsd4xuemKdulYBesSoAv1i68J9a344+JNPIG/PWLUV+ll5UFlS5jFysd4yhcKCAwb2nC2ysS4sSxcB9wOHYwXxAduoAx6bKA9qmOgeuoUuy9ABBMrekimQxy7htIVydy0JZX9o8z7wBToMhajmwjQ0P7PR100M0otlzPGeMfnHLvr3muGH68rF4zPLEHFgN9LT4hTff5oIxDCimL7BU5TYBmQTLA/SRmL/wZjnZ9pq9ZkybL1s+rFeOpeL7tpqYYuLHKSu7zcVjLi1zCRlQGr0XZ2zdr8FxOZXAJn96Dg7B6SwauXRchHg/rmjBPv5u14v5Nm1+yKl6bnyqj56eEyUqyRhlRiyjPML4KTZaVskTOooP43KkAuKCV4fW4YCAnLG7BnxruDFfoYG/Bec0fx2L4HlxkRIYUTckUp+GrG3wkOWPW4qA9Co/svtTc31kkTEsI7Q1icf+NDqJvXksrP1dNP76HnKoNfC/8kM0AcsZSLDePDt2cI+vx4VkLMQDD1n/cZo/EpDnYI7LxvwehkRrsbbjm8COecaglcjjcC4iessLrZgYugYvvO07rOl5ElDkmDTeqm10ksJ+5Uxut36pdrF7unGxdK6bFalDu7Bd11TKYInhB/4HjsNoIXjfpWIMZC/ib89ewUZImkQeROuuSfTZXM1zC6/EexPCuc/Ns8hcQl4UqHPrYI4GFb52nFIixLGgbXGIJ4/vJtWVWrSdpKul0lTHqUq0Hq/RY+pA/0V16BuOctn4FtDTwSoTgKtsNVWJ6AgGOIa0HOQi8Q0kno8l5wqH/rHBXJX3zEEqDh7xx3OBmQvJeJ2BxxjAyRlIxfI9FC64Dp2H3qH1Dv4v300uHgPETT9DfbVCP0N9pbJYwkAw9B
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

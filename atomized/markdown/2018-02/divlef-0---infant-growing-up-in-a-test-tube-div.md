@@ -1,0 +1,36 @@
+---
+id: 2d8298aa-e45b-4f87-8ca8-7d0e6f1616f0
+type: insight
+created: '2018-02-28T14:48:35.000Z'
+document: cd607b38bbedd8cc64bfae4c4b2c15e0
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: research
+keywords:
+  - they
+  - network
+  - other
+  - have
+  - people
+---
+# <div>LEF, 0 - infant growing up in a test tube, </div>
+
+## Context
+From document: Open View — chunk 4 (chunk 4/9)
+
+## Content
+<div>LEF, 0 - infant growing up in a test tube, </div>
+<div><br></div>
+<div>DED, 60’s, head terrorist - the network was passed on down to her from her mother, but woman in the organization are not supposed to have children, so she was raised in secret. She feels an obligation to keep the network afloat. No matter the boundaries, it doesn’t bother her that this is hurting other people, as she argues it entertains so many other people. The resurgence of gladiators. The world is overpopulated. Life is meaningless. </div>
+<div><br></div>
+<div>RAN, early 30’s, extremist - she is a newish on the job, monitoring the program. She attempts to contact the family without the network finding out, and tries to send them signals so they could escape. She is thwarted by the network. One of her family members were on the show. She was one of the girls who escaped the show </div>
+<div><br></div>
+<div>Rachel and Tony in bed both invested in other online relationships. They discuss they’re going to let their kids know they’re going to get divorced in the morning. Rachel wakes up and reads about a school shooting on her phone, Tony wakes up consoles her, they have a tender moment. Ha, they’ve killed Da’s kid.</div>
+
+
+
+---
+*Source: Document cd607b38bbedd8cc64bfae4c4b2c15e0*

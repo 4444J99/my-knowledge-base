@@ -1,0 +1,31 @@
+---
+id: c2db492b-5385-4e4d-99a0-0d10ab67d4d5
+type: insight
+created: '2018-11-06T20:47:41.000Z'
+document: 8c3ce8993066f857adca061d250e2c68
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - uypfjtpu
+  - >-
+    weyeetfavfahiebfapgz4zegbtwb4b0i30prrehyra3xaolhlmxowzmplmxle8kmuvoooahuvne3ls1dy5mrgjmu5vyjglcjib6jiz61
+  - rwoferxrtwbux
+  - zfn8cemlc5zltw9a8pxalz3sccrdzzaxia5cl24izgraiv17ooa
+  - nd9j
+---
+# m6/uYpFjTPU+WEyeetfaVFAHIeBfAPgz4ZeGbTwb4B0i30PRrEHyra3XaoLHLMxOWZmPLMxLE8kmuvoo
+
+## Context
+From document: Octatrack Tips & Tricks — chunk 2276 (chunk 2276/2544)
+
+## Content
+m6/uYpFjTPU+WEyeetfaVFAHIeBfAPgz4ZeGbTwb4B0i30PRrEHyra3XaoLHLMxOWZmPLMxLE8kmuvoooAhuVne3lS1dY5mRgjMu5VYjglcjIB6jIz61+RWofErXrTWbux/a+/Zfn8ceMLC5ZLTW9A8PxalZ3sCcRDzZAxIA5Cl24IzGrAiv17ooA/ND9j/4Y/E3XPj54+/am+IfhF/h/aeI9Pg0bRtDmURzw2UIt0UvDtUxBEtIlAZVySxChQM/RPxd/Yv8A2cvjdrr+KvHXhRW1uUKJb2znms5ZQvQyiF1SRscbnUtjAzgCvqaigDyP4Q/An4UfAjRZtB+Fnh+HRLe6ZXuJFZ5Z52XO0yzSs0j7cnaC2FydoGaufCj4MfDX4H6Fe+Gvhdo/9i6bqF49/PF9ouLnfcyIkbPuuJJGGVjUbQQvHAyTn1CigDy/Svgz8NdE+Kms/GzTNH8nxp4gtEsb6/8AtFw3nW8YhVU8lpDCuBBHysYb5evJz5T8Xf2L/wBnL43a6/irx14UVtblCiW9s55rOWUL0MohdUkbHG51LYwM4Ar6mooA8j+EPwJ+FHwI0WbQfhZ4fh0S3umV7iRWeWedlztMs0rNI+3J2gthcnaBmrnwo+DHw1+B+hXvhr4XaP8A2LpuoXj388X2i4ud9zIiRs+64kkYZWNRtBC8cDJOfUKKAPnr4zfsr/An4/XlrqnxP8MpqWpWUYiivIpprW4EQJIjaSB0LqCSQr5AJJGMmuZl/Yi/Zal8Cp8OG8A2q6Il0L3CzXK3JuApQO12JRcN8pI2mQr7V9V0UAeP+HPgJ8JvCXxCl+Kvh7QvsnimbTYdIe8+03MmbGBIo44vKeVohtWCMbgm87eWJJz7BRRQAV438Y/2f/hH8fNJt9H+Knh6LWUsmL202+SC4gLdfLmhZJADxuXO1sDIOBXslFAHxjpn/BPv9krTfDM/hRvAy3drdTRXE0s17efaXkhDqn79JldVAdsohVGOCykqCPof4m/CL4bfGTwyfB/xM0G313StwdI5tyvE44DxSxsskbY43IwJGQTgkV6PRQB8h/DT9hX9mP4UeJ4PGXhbwkJNXs5PNtZr25nvBbuDlWiSV2QMp5VypZTyGBr2zW/gx8NPEfxO0L4x61o/2jxh4age20+++0XCeRDIJAy+SkghfImfl0Y88HgY9QooA+Xvit+
+
+
+
+---
+*Source: Document 8c3ce8993066f857adca061d250e2c68*

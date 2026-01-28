@@ -1,0 +1,26 @@
+{
+  "id": "d1472d09-6b67-4e87-8219-db894a0e8f87",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div>```</div>",
+  "content": "<div>```</div>\n<div><br></div>\n<div>**Remediation Suggestion**</div>\n<div>- Reinstall or fully remove and reinstall the Python extension (`ms-python.python`) so that `debugpy` bundles correctly.</div>\n<div>- Launch without Neovim/animations/vibrancy first; confirm stable logs (`main.log`, `renderer*.log` appear with no repeated extension activation errors).</div>\n<div>- Reintroduce extensions gradually.</div>\n<div><br></div>\n<div>Want me to script an automated cleanup for stale extension directories or produce a diff between your current extension list and a recommended baseline? Just let me know.</div>\n<div><br></div>\n<div>User: i like the current appareance and want to maintain it\\</div>\n<div><br></div>\n<div>GitHub Copilot: Completed: *Analyze log errors* (9/13)</div>\n<div><br></div>\n<div>Starting: *Profile separation plan* (11/13)</div>\n<div><br></div>\n<div>Starting: *Appearance risk audit* (12/13)</div>\n<div><br></div>\n<div>Starting: *Safe rollback instructions* (13/13)</div>\n<div><br></div>\n<div>Completed: *Safe rollback instructions* (13/13)</div>\n<div><br></div>\n<div>You can keep the current appearance and still improve stability by isolating risk and having quick rollback options.</div>",
+  "context": "From document: User: fix — chunk 11 (chunk 11/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "extension",
+    "python",
+    "current",
+    "starting",
+    "rollback"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a46face7-338f-41be-ae7c-0c2768cad479",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt>| SOULPATCH           | Modular synth meets soul mirror. Also: literal ",
+  "content": "<div><tt>| SOULPATCH           | Modular synth meets soul mirror. Also: literal synth patching           |</tt></div>\n<div><tt>| RE:GE:NESYS         | REGE + Genesis + System                                                  |</tt></div>\n<div><tt>| MIRR4R              | Reflection-based, with your “4” motif                                   |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## 🧬 FUNCTIONAL PATCHBAY MODULE CATEGORIES (YOUR REFERENCE POINT)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>We’ll encode these into the upcoming MYTH01_MODULE_TREE.v1.0, but for now:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### 🔲 Categories by Functionality</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Core Module Type      | Examples / Descriptors                                                   |</tt></div>\n<div><tt>|------------------------|--------------------------------------------------------------------------|</tt></div>\n<div><tt>| INPUT_NODE           | Memory dump, symbolic query, user emotion prompt                         |</tt></div>\n<div><tt>| PARSER_UNIT          | SYMNUM4GRAM: breaks input into sentence/word/letter                      |</tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 132 (chunk 132/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "synth",
+    "your",
+    "module",
+    "categories",
+    "into"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

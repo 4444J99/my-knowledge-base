@@ -1,0 +1,32 @@
+---
+id: 07230e57-6218-4aba-86e4-9814af64802f
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - siaesiaesiaesiaesiaesiaesiae8hoafqgwoa6adaghuxivigesiaesiaesiaesyejgm5e
+  - 2ffdw
+  - >-
+    odi58aciffmrpp7gjbbigarigarigarigarigarigarigariggflianyhwipgncpiz2jzeiabeiabeiabeicbralbfpgd
+  - hi3r
+  - >-
+    0kwnhec9583hksj1jgarigarigarigarigarigarigarigararwbwi1iqye1kndjxrxigarigarigarigatobj1322yn
+---
+# SIAESIAESIAESIAESIAESIAESIAE8hOAFQgWoa6adaghuxIvIgESIAESIAESIAESyEJgm5E/2ffDw/9j
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 4004 (chunk 4004/11534)
+
+## Content
+SIAESIAESIAESIAESIAESIAESIAE8hOAFQgWoa6adaghuxIvIgESIAESIAESIAESyEJgm5E/2ffDw/9j/b+ODI58aciffMrPP7GjBBIgARIgARIgARIgARIgARIgARIgARIggflIANYhWIpgNcpiZ2JZEiABEiABEiABEiCBRALbfPgD+/+Hi3r+9v+Ofm/0KwNHec9583HKSJ1JgARIgARIgARIgARIgARIgARIgARIgARaRwBWI1iQYE1KNDjxRxIgARIgARIgARIgATOBj1322Yn+oS91S2+5r08Mu1MB/5IACZAACZAACZAACZAACZAACZAACZAACZBAMoEvTviDTwawLJktT/yFBEiABEiABEiABEhAIfDhsY+O/uX4P6zff/TqoHX7qiiZBEiABEiABEiABEiABEiABEiABEiABEhgIRCAlQkWJ8UExSQJkAAJkAAJkAAJkEBM4GNdh3a97Sz5ly/sP/7V0ePcN6KFMEFkHUmABEiABEiABEiABEiABEiABEiABEiABNpDABYnWJ9giaJNjgRIgARIgARIgAQWNIEP7vuRvo9/Ru5mWiUWjZ7kTvEvCZAACZAACZAACZAACZAACZAACZAACZAACbSQACxRsEotaMMcK08CJEACJEACJLAwCXR39xz7hS98efJIb8Jrz24p3oUESIAESIAESIAESIAESIAESIAESIAESIAEQABWKVioFqZ1jrUmARIgARIgARJYcAQ+ufELY/t0f63reLE5TD7al7+SAAmQAAmQAAmQAAmQAAmQAAmQAAmQAAmQQOsIwEIFa9WCM9KxwiRAAiRAAiRAAguHwKdHFw0dyXPmAu5WIwESIAESIAESIAESIAESIAESIAESIAESsI0ALFcLx1LHmpIACZAACZAACXQ6gdO7pv9o42fGd5lc6ts28aI+JEACJEACJEACJEACJEACJEACJEACJEACJKASgBWrq2bR6nSzHetHAiRAAiRAAiTQqQRqU5neL+w1HritC0dAySRAAiRAAiRAAiRAAiRAAiRAAiRAAiRAAiTQXAKwaHGhrlPNlqwXCZAACZAACXQ4AXrOqTuwmCYBEiABEiABEiABEiABEiABEiABEiABEphfBGY86jrchsfqkQAJkAAJkAAJdBCBTw/KM+eau3eJ0kiABEiABEiABEiABEiABEiABEiABEiABEig
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

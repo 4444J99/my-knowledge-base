@@ -1,0 +1,32 @@
+---
+id: 1a846600-11bc-440d-a441-f9520018bc05
+type: insight
+created: '2019-04-16T14:05:00.000Z'
+document: 0c34a8b78e60a6c1ecbdc7504f7c4c39
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - u0fubeavlrgmdvghbhpfol0uhaumjjsqhllabdfr0vum
+  - a1uyxdtl8qh
+  - >-
+    0bu2vkwjoa8svikadkin3ss7gufoy9ch3iot6rzg9qoerudvkc8csvpsg7tfe1bnnnvxtvshydwhbrnegvl0jabwjjdyzal0ebnitoestxmnnj63pdxnzro
+  - vcjvucyqfact1qkk0obf7bpud0w
+  - >-
+    nwiigb0ayhdnqhcmqj8ymzbhsibzquvlw8j5zugs0pjrozr8chyedqcondsokfytrrreiaqbtxd6mejlsedccvmhlupvuirki1kbrnr4sszaat4wjekevvamknjogrbxmzltdroaa5g5bcnricyovio
+---
+# U0fUBeAVLrGmDvgHbHPfOl0uhAumjjSqHllaBDfr0vuM+A1uyxdTL8qh+0bu2vKwjoA8svIKadKIN3Ss
+
+## Context
+From document: Reverb Cheatsheet — chunk 689 (chunk 689/770)
+
+## Content
+U0fUBeAVLrGmDvgHbHPfOl0uhAumjjSqHllaBDfr0vuM+A1uyxdTL8qh+0bu2vKwjoA8svIKadKIN3Ss7GuFoY9CH3iOT6RZg9qoERUDVKC8csVPsG7TfE1BNnNvXTvSHYDWHbrnegvl0JABWJJdyZaL0EbNitoEstxMNnj63pDxNZrO+vCjvUCYQFACT1qKK0oBF7bPuD0w/NwIIgB0AyHDNqhCmqJ8YMZBHSIBZQUvlw8J5zUgs0pJrozr8cHyEDQCoNDSOkfyTRrREIAqBTXD6MejLsEDcCVmHLupvUIrKI1KBrnr4SsZAAt4WjeKEvVamkNjOgrbxmZLTDROAA5g5BcNRiCyOVIO+J6jl13GKnN5FDe3VaucsP6UVJQUqE6OX3DyG/wBCta64xaXWcaXd1xFDQdDQqtuLuhrAqjNASadZBLScgM2glPZfVa5Hei8rEk+ghhRIgReBdYDwhJMVdVV6+gTfaQhQmh1OucMVOjKPYFwn6AF5sGVUSJyIA6ZkAJRy9cCx6lwt6EwCMOyJI9vo9bf270bgwDiKOlO4D5xjChFQtctxKgcECQN/MQiJQp1agmAhasAEwWlBs1eiCYepz5BdQArEXyr0JxjPeykSMs4b19Mdt9UKyKEa2ob/AKhJWEbZRPlp84/WwhFx/uXz+Cu3qeBE9xdwuuBeAjoyfIn08i+DYpsOwPeo5Ppcy1qrEHUr9UA64k3Hq+B4RG0AJYpgwTgaxynKKjaK7X14X72gXQdomdVy/WOf8GyQjzf3fqN61L40+j3HfCJTHG2Y/YMM5CaUUGJtnjZf/p+o5JqYA82SJU4FEC/D8wWbbhKrJrkN3yr9Ri0IZWhfJhDLLyLSeu+V0n4OzEzRCn7t7i654TCMSfIn086Nj9RJqTuOh+Fp4V2gVA8g+RPP1fYe/wDBVG5Z0jYxC0fJvnHdZ/CwfKqeeABoPz77h2flgKKnD1PqAXl1EYtE31RXappYQw85EOIaTIS29MN/HhQOkobOS+j9nn2he/8Az+kzzCAADK02w2bwAUoij6umfhLFUMliAKG0YhKUd8SbCHcX3xt4+pLTABpA784AKURR9f53dDxKscAREdidcEL5PEkMBuJzEUf0c/GNX8THlGinA4xwORPWwYhzlZLkaDeLo4cnqvbx6gSCSiKP1F9h5m6mTTgUuaAoI9jbz7ek1dn
+
+
+
+---
+*Source: Document 0c34a8b78e60a6c1ecbdc7504f7c4c39*

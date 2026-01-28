@@ -1,0 +1,26 @@
+{
+  "id": "2f16c9ee-da8a-4fd8-ab8c-523964be1362",
+  "type": "insight",
+  "timestamp": "2025-11-23T22:21:12.000Z",
+  "title": "<div>────────────────────</div>",
+  "content": "<div>────────────────────</div>\n<div>2. Build the Fibonacci glyph stream</div>\n<div>────────────────────</div>\n<div><br></div>\n<div>Goal: create a long underlying stream of characters where Fibonacci numbers control run-lengths and glyphs cycle through 4, j, P.</div>\n<div><br></div>\n<div>Step 2.1</div>\n<div>Initialize an empty list (or string-builder):</div>\n<div>$STREAM = “”</div>\n<div><br></div>\n<div>Step 2.2</div>\n<div>For i from 0 upward (or until $STREAM length exceeds the highest number you need):</div>\n<div>  1.  Let $glyph = $GLYPH_CYCLE[i mod length($GLYPH_CYCLE)]</div>\n<div>  2.  Let $run_len = $FIB_COUNTS[i]</div>\n<div>  3.  Append $glyph repeated $run_len times to $STREAM</div>\n<div><br></div>\n<div>Stop when length($STREAM) ≥ $MAX_STREAM_LEN, where $MAX_STREAM_LEN is at least as large as the total characters implied by your clusters (you can set $MAX_STREAM_LEN = $MAX_CHARS or a safe upper bound).</div>\n<div><br></div>\n<div>Result: $STREAM looks like:</div>\n<div>4 j PP 444 jjjjj PPPPPPPP [REDACTED:CREDIT CARD] … (concatenated)</div>\n<div><br></div>\n<div>────────────────────</div>\n<div>3. Slice the Fibonacci stream into cluster-units</div>\n<div>────────────────────</div>\n<div><br></div>",
+  "context": "From document: Here is a reusable, parameterized algorithm you can use to recreate… — chunk 2 (chunk 2/8)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f75193c56b19a08e9a1a9ea52ee44833",
+  "relatedUnits": [],
+  "keywords": [
+    "stream",
+    "fibonacci",
+    "glyph",
+    "length",
+    "max_stream_len"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "39dcb1d0-db6d-4720-a93f-9da3a5f3d452",
+  "type": "insight",
+  "timestamp": "2025-08-20T01:08:51.000Z",
+  "title": "<div>  ◦  Learner/User feedback</div>",
+  "content": "<div>  ◦  Learner/User feedback</div>\n<div>  ◦  Grant Strategist feedback</div>\n<div>  3  End with a unified Next Steps bullet list summarizing cross-archetype action items.</div>\n<div>Syllabus Modules</div>\n<div>Module 0: ChainBlockARK &amp Foundational Wings</div>\n<div>Objective:   Initialize a self-documenting ledger of every prompt, commit, build log, AI interaction, and artifact.</div>\n<div>Reading List  •  Reinventing Discovery (Michael Nielsen)</div>\n<div>  •  Blockchain Revolution (Don &amp Alex Tapscott)</div>\n<div>  •  The Fourth Paradigm (Microsoft Research)</div>\n<div>Further Studies  •  Provenance in Scientific Workflows</div>\n<div>  •  Digital Humanities methods for textual corpora</div>\n<div>Examples  •  chainblockark/example-2025-08.json  •  Jupyter notebook analyzing prompt patterns</div>\n<div>Templates  •  chainblockark/template-prompt-log.md  •  chainblockark/template-change-record.jsonTie-ins  •  Arts &amp Humanities: archival practice</div>\n<div>  •  Math/Sciences: provenance graphs</div>\n<div>  •  Philosophy: epistemology of records</div>\n<div>Wings Artifacts  •  Academic: Nielsen chapter summaries</div>\n<div>  •  SOP: How to log a prompt</div>\n<div>  •  Business: pitch slide Living Syllabus Platform</div>",
+  "context": "From document: Prompt for AI: Multi-Archetype Syllabus Critique — chunk 2 (chunk 2/10)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "735011ec826ae272226ee00d2196dfe0",
+  "relatedUnits": [],
+  "keywords": [
+    "chainblockark",
+    "prompt",
+    "feedback",
+    "list",
+    "syllabus"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

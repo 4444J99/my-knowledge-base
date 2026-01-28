@@ -1,0 +1,26 @@
+{
+  "id": "c48fe28e-d6ff-4424-87ad-40fdf5440c70",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>| W3   | KNNC0002  | Nature of Code Fusion  | ✅ Assigned   | W4V3_FUSION_DE",
+  "content": "<div>| W3   | KNNC0002  | Nature of Code Fusion  | ✅ Assigned   | W4V3_FUSION_DEVICE  | W4V3L0RD           |</div>\n<div>&quot&quot&quot)</div>\n<div><br></div>\n<div>&quotREPOPULATE_ALL_MD_FILES_SUCCESS&quot</div>\n<div>undefined</div>\n<div>⚠️ Folders Missing   Confirmed: although the archive was re-extracted correctly, the target subfolders like:</div>\n<div>KN-LR_01-00_learning-recursions 2/KNST0000_sicp_symbolic_recursion/</div>\n<div>do not yet exist — which caused the repopulation to fail.</div>\n<div>✅ LOGICAL FIX</div>\n<div>I will now:</div>\n<div>  1  Create the missing UID folders (KNST0000_..., KNNO0001_..., etc.)</div>\n<div>  2  Inject the content into .md files as intended</div>\n<div>  3  Ensure the full cycle completes without write errors</div>\n<div>Proceeding with: ::FORCE.CREATE_AND_REPOPULATEThis will rebuild the UID folders and then populate.</div>\n<div>Analyzed</div>\n<div># Create UID folders if missing, then populate them with symbolic content</div>\n<div>for uid, data in uid_map.items():</div>\n<div>    folder = base_path / f&quot{uid}_{data['title']}&quot</div>\n<div>    folder.mkdir(parents=True, exist_ok=True)</div>\n<div><br></div>\n<div>    # README.md</div>\n<div>    (folder / &quotREADME.md&quot).write_text(</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 348 (chunk 348/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "folders",
+    "missing",
+    "folder",
+    "will"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

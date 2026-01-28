@@ -1,0 +1,25 @@
+{
+  "id": "ea317555-13c7-4aac-b376-667e4da6e823",
+  "type": "insight",
+  "timestamp": "2023-04-09T13:07:16.000Z",
+  "title": "<div>Confidence is the difference between some and a lot. </div>",
+  "content": "<div>Confidence is the difference between some and a lot. </div>",
+  "context": "From document: Confidence is the difference between some and a lot.",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "8c2a85cb6a5b5a10ddf17fe6f0c19404",
+  "relatedUnits": [],
+  "keywords": [
+    "confidence",
+    "difference",
+    "between",
+    "some"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

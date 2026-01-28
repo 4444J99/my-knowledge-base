@@ -1,0 +1,32 @@
+---
+id: 671ae582-c8fd-4196-8eac-74dce192a6b9
+type: insight
+created: '2017-09-01T01:01:20.000Z'
+document: c09dc023ec256edd51aef2e3615dd904
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - if0ryj85hcnawk9iy7t
+  - xgrar0mw1j8rhphegmo8l28pcn
+  - d2uizr44spdncwfjtvzmk743mcnied2caqh
+  - >-
+    4xzmdoxsem5rwmr7yla9uutybaocrfb2qexzdwry6wclxkvax5w5owrzpyrxg8ujm27t5rtql21nqpzamrn1ryqyvex7pijymnvczpsktmrkfs3yf8hfyzacq3jpsowity
+  - >-
+    tpeb9re0p6cuej7bqoafmramqvsumal7hr2xgyvwoytaa4j3m2vhcldnfkaajuowcobbczaeldzr7xubq9dbymj
+---
+# if0ryJ85hCnaWK9iy7T/8l/XGraR0mW1j8RHPhEgMO8l28PcN+d2uiZr44sPdNcWFJtVzmK743mcnied
+
+## Context
+From document: Web Sitcom Ideas — chunk 388 (chunk 388/798)
+
+## Content
+if0ryJ85hCnaWK9iy7T/8l/XGraR0mW1j8RHPhEgMO8l28PcN+d2uiZr44sPdNcWFJtVzmK743mcnied2caQH//4xzMdOxseM5Rwmr7yla9UuTYBAoCRfb2QeXZDWrY6wCLXKVax5w5owRZPyRXg8ujm27t5rtQL21NQPzaMrN1RyqYVEx7pIjYMnVCZPSktMrKfS3yF8hfYZACq3JPsoWITY/TPeB9rE0p6CUEj7bqOAFmRamQVsuMAL7Hr2XGyvwoYtaa4j3m2vHclDNfKaAJuOWcobBcZaelDZR7xUbQ9DBYMj+9/twbRYYIgMrxkPFhj+nuVwWu82IEp71g24Di4mn036jrWsfFAA19AX/2L3V/Z03n3G2ssxrgM6qHQBbEdyx/o+zD8vv9de7Gzgb21xvef52dDd+f5VxaY7I6d6pdB2wv9mjFn0wtmlD0xPEm/PRvzEpNXCaT7H6zgyEhGlZJU8S0qiGmcjb/gjwBN5ih7tM36IMOrfIHouo1XXr0U4B3YMvvoxN6RdcF+4H/MEvNW1jH/mi83FPeDwOYx53kW0U7GOoKC4BS/0TGbUu9tyndVkMr4eGf6783x8fb5+LLIUgZpbj8F3GLjjRKML5suQM2xKnQvkuW9995b7FRYyTA4y4aGqaiigEiJiTr8/tFHHy1cBdDl3F6AW/S8n3CX8ayC/rilfvKJSfQeqc2tvQOrEPZHfM/amB05bVWBhVl9C/DfAOCV8YU79fNMFoxsABmgMrHm6d5Z15j0nfdEBQDBbu+KfRT4OOM6dNK5w8++kyC1TAX+O7/jiRYBfGL8KJKUSauAba8X6sv1f9YjsDsj8HhsSgD/pz/96doXBeZ8xRVXFBER+19WKxu4L0UM06ZPZQz0gYJhz+hT5X/g4HSvYOxZZ51VVXCGx63y930VALAw3X777VWfrq9DJ7oimmLA7K6M5c9hsMh4AEoEOUZpIAP8n2NEOGbmzskMk/wbRaEV+6RXGAwnzgAWeozEqj3LGOm/N/IMr2QJYHI255/7A4N33lNJG9JPWyx55RGWVb7j7etTnPVi/zOGGPB99JpDLVABPAZQxgBrOCIi24xyhuEywkBKVkQ5PwxNDkIvHKt/FwfDeMaAbl54Qf9Np4yBZUBiLB19mSXAcQ5FnLIRFot+uk+gQe6tGJVnnd45Y4e+OarATL+Izmp3O99x
+
+
+
+---
+*Source: Document c09dc023ec256edd51aef2e3615dd904*

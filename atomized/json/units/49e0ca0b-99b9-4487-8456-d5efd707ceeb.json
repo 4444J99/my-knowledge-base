@@ -1,0 +1,22 @@
+{
+  "id": "49e0ca0b-99b9-4487-8456-d5efd707ceeb",
+  "type": "insight",
+  "timestamp": "2015-11-04T20:17:32.000Z",
+  "title": "<div>Soon</div>",
+  "content": "<div>Soon</div>\n<div>Soon</div>\n<div>Soon</div>\n<div>Soon</div>",
+  "context": "From document: Great a friendship — chunk 2 (chunk 2/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "43daf86b32433c01c1478add480f7841",
+  "relatedUnits": [],
+  "keywords": [
+    "soon"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

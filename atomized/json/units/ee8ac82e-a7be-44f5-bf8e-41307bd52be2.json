@@ -1,0 +1,26 @@
+{
+  "id": "ee8ac82e-a7be-44f5-bf8e-41307bd52be2",
+  "type": "insight",
+  "timestamp": "2018-07-09T13:01:29.000Z",
+  "title": "<div>I don’t want to know who you are a fan of, I want to know who you are and a",
+  "content": "<div>I don’t want to know who you are a fan of, I want to know who you are and a fixie an auto</div>\n<div>Aficionados</div>",
+  "context": "From document: I don’t want to know who you are a fan of, I want to know who you…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "9b49fd208ba1d141695cc917fe69530d",
+  "relatedUnits": [],
+  "keywords": [
+    "want",
+    "know",
+    "fixie",
+    "auto",
+    "aficionados"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

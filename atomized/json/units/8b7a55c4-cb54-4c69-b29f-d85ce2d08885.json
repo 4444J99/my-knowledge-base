@@ -1,0 +1,26 @@
+{
+  "id": "8b7a55c4-cb54-4c69-b29f-d85ce2d08885",
+  "type": "insight",
+  "timestamp": "2013-10-30T23:22:05.000Z",
+  "title": "<div>Eyes Without a Face</div>",
+  "content": "<div>Eyes Without a Face</div>\n<div>The Brood</div>\n<div>Possession </div>\n<div>From Beyond</div>\n<div>Altered States</div>\n<div>Ringu</div>\n<div>Pulse</div>\n<div>Tetsuo: The Iron Man</div>\n<div>Pontypool</div>\n<div>The Host 2006</div>\n<div>Demon Seed</div>\n<div>existenz</div>\n<div>Jacob’s ladder</div>\n<div>Shock Corridor</div>\n<div>Deep Red</div>\n<div><br></div>",
+  "context": "From document: Eyes Without a Face",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "8e5616d41d794036cbe4c83936efa01b",
+  "relatedUnits": [],
+  "keywords": [
+    "eyes",
+    "without",
+    "face",
+    "brood",
+    "possession"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

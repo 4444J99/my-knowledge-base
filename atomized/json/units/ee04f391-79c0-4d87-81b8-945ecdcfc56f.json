@@ -1,0 +1,24 @@
+{
+  "id": "ee04f391-79c0-4d87-81b8-945ecdcfc56f",
+  "type": "insight",
+  "timestamp": "2022-04-07T17:41:49.000Z",
+  "title": "<div>I got my under armor on</div>",
+  "content": "<div>I got my under armor on</div>\n<div>In my veins</div>",
+  "context": "From document: I got my under armor on",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "8d08c69594be3dbee319eed264145d9a",
+  "relatedUnits": [],
+  "keywords": [
+    "under",
+    "armor",
+    "veins"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

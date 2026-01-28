@@ -1,0 +1,23 @@
+{
+  "id": "61791bb1-fea5-4891-8a1e-47da7cfbb72d",
+  "type": "insight",
+  "timestamp": "2025-01-25T14:41:29.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><br></div>\n<div><br></div>\n<div>Prompt 6:</div>\n<div><br></div>\n<div>Response 6:</div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div>Prompt 7:</div>\n<div><br></div>\n<div>Response 7:</div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div>Prompt 8:</div>\n<div><br></div>\n<div>Response 8:</div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div>Prompt 9:</div>\n<div><br></div>\n<div>Response 9:</div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div>Prompt 10:</div>\n<div><br></div>\n<div>Response 10:</div>",
+  "context": "From document: OK, can you provide me a detailed summary of all the ideas we went… — chunk 18 (chunk 18/18)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "07b786dd26363bd1960159a129bbf9a3",
+  "relatedUnits": [],
+  "keywords": [
+    "prompt",
+    "response"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "b48ecc32-bbba-4d6b-a836-bc80c61f0835",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>3.2 Self-Evolving OS Loop</div>\n<div><br></div>\n<div>The OS evolves by applying the same procedural stages to itself.</div>\n<div><br></div>\n<div>Seed OS Waves: define upcoming macro-waves for the entire OS in VISION-META-SPEC documents.</div>\n<div>Expand OS Components: when new needs arise (for example, a new archive type), expand SYSTEM and WORKFLOW specs rather than improvising.</div>\n<div>Simulate OS Usage: periodically run “meta-sessions” where an AI inspects the archive and repositories, simulates future use, and proposes refactors or new modules.</div>\n<div>Archive Governance Deltas: write governance changes and rationale into $ARCHIVE_ROOT/specs with CONTINUITY-layer indices.</div>\n<div>Emit OS-Upgrade Prompts: store prompts that instruct future AIs on how to implement or further refine proposed changes.</div>\n<div><br></div>\n<div>This loop ensures that the OS is not static documentation but a living pattern that can be revised by its own procedures.</div>\n<div><br></div>\n<div>3.3 AI Roles and Read/Write Responsibilities</div>\n<div><br></div>\n<div>Architect can read and write $OS_ROOT/config and $OS_ROOT/specs, propose structural changes, and emit VISION and SYSTEM artifacts.</div>",
+  "context": "From document: 0.\tPreamble and Scope — chunk 15 (chunk 15/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "b3360b527d494aeb150b316c90472eb0",
+  "relatedUnits": [],
+  "keywords": [
+    "archive",
+    "specs",
+    "write",
+    "changes",
+    "that"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

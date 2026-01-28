@@ -1,0 +1,26 @@
+{
+  "id": "a72445c8-7636-4372-a4db-9a607b9540e6",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 2. Faction-Wide Consequences for Failed Secret Ballot Rituals</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> If a faction proposes a ritual that the class votes against, the entire faction suffers a penalty.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> How Failed Secret Ballots Work:</div>\n<div>  •  If a ritual proposal is denied by secret ballot, the initiator’s entire faction takes a debuff.</div>\n<div>  •  If multiple factions support the failed ritual, all involved factions suffer.</div>\n<div>  •  If a faction leader proposed the ritual, the penalty is even worse.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Example Faction-Wide Penalties:</div>\n<div>  •  The Mark of Rejection → The faction cannot propose another ritual for a set period.</div>\n<div>  •  The Scar of Defiance → The faction’s members gain an individual debuff (ex: difficulty with persuasion, weakened skill checks).</div>\n<div>  •  The Wages of Hubris → The faction leader is temporarily stripped of their leadership status and must re-earn it.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 548 (chunk 548/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "faction",
+    "face",
+    "ritual",
+    "applecoloremojiui"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

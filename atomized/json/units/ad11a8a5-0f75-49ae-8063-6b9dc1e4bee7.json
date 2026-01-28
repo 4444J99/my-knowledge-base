@@ -1,0 +1,24 @@
+{
+  "id": "ad11a8a5-0f75-49ae-8063-6b9dc1e4bee7",
+  "type": "insight",
+  "timestamp": "2023-06-21T15:43:17.000Z",
+  "title": "<div>✍️🎸🎥🎭🎨🥾<font face=\".AppleColorEmojiUI\">🏞️🏋️‍♀️🧘‍♂️</font>🍸💨🍽️</d",
+  "content": "<div>✍️🎸🎥🎭🎨🥾<font face=\".AppleColorEmojiUI\">🏞️🏋️‍♀️🧘‍♂️</font>🍸💨🍽️</div>",
+  "context": "From document: ✍️🎸🎥🎭🎨🥾🏞️🏋️‍♀️🧘‍♂️🍸💨🍽️",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "391ac26945d391819368b8d36879c59d",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "applecoloremojiui"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

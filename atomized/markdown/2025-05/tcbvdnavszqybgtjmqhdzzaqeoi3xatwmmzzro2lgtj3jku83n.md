@@ -1,0 +1,32 @@
+---
+id: ec4a8b7d-e1cf-4637-b49a-0afac8e4661a
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - tcbvd
+  - >-
+    navszqybgtjmqhdzzaqeoi3xatwmmzzro2lgtj3jku83nikyasziv0gpoagbyuwpdpy1wa2yisniimuzsmi6bu16x5vlrxx6dzqy0zo3ipptznhtuj6cu3enxhnj9
+  - >-
+    jfnya0zytornjgdgztkyhiwkwo5jbhymvotyqxlojwranttkjqogqvj6dvaku9jrpswootqkawtrguy5xs6e1yfryztompi0lshmsaqjztgggj1bly1efa1wqbbgkflnubodrqcljrqcdbwpqrvonajvr
+  - 9xuiqjvsubvbt9upgsain4aiokaubvgqsgwlupoluro9xpsfbf2gyyfu6prqewqrp0
+  - bnpwl1fserw1ehp5x6tdsnp1z2yetvgkqpvcyfvux44xp30008h9cknn2c0
+---
+# tcBVd/+NAVsZqybGTjMqhdZZaQEoI3xaTwmmzZRo2lgTj3JKU83NIKyaSZiV0GpOagByUwPdPY1wa2YI
+
+## Context
+From document: New Note — chunk 9018 (chunk 9018/21099)
+
+## Content
+tcBVd/+NAVsZqybGTjMqhdZZaQEoI3xaTwmmzZRo2lgTj3JKU83NIKyaSZiV0GpOagByUwPdPY1wa2YISnIImuZSMi6BU16X5VlRXx6DzqY0zO3IppTZNHTUJ6Cu3EnXhNJ9/JFNya0ZyTORnjgDGZTkyhiWkWo5JbhyMVotYQxLOJWRantTKjqoGqvj6DVakU9JrpSwOotQKaWTRgUY5XS6E1YFrYZTompI0LShMsAqJZtGGGj1Bly1EFa1WqbBGkFlnUbodRqclJrqcDBWpQRVOnajVR/ad+9xuiqjVSuBVbt9upGsaiN4aiOkauBVgqsGWLUPolUro9XpsFBF2GYYFU6prqEWQrP0/BNPWL1FsErw1Ehp5X6TdSNp1Z2yetvgKqPVCYFVuX44XP30008h9cknn2C0+vjjjzFWffTRR/BWH374IbzVBx98AG/1/vvvQ+q9996D1Lvvvgtv9c4774CBqrk0WNXIzNM3oHpPvy/0e0C/B36M7wH50PTOf8usn1FPQE9AT0BPQE9AT0BPQE9AT0BPQE9AT0BPQE9AT0BPQE/g+5+ABqsj4ao3rMr7t4JV+bGjYVU+J1iV+1hglYGqu74dwqpjoVUVq/LaDFbNaFWgqnRJVfWGVRmuqmjVE1ZV0aoKVWWtIlVeq1CV1wxTpatwVaCq2lWoKlhVuqdkVQasjFPVMiNVOVahqro2Y1U+9gRWvaFVFahKqqp0AapmnMoo1VMJUPXUvaFVwaneOmNUT2iV96XG+lmAilE9rQWsjoVUzTh1LLTK2HQiQNWMU83HglDH6gxIBaZKnyhKlesZg6ogVQWkco109ZysvT1Wzps7w0x1T44FcqpdvY7X6jlZe9uX899H539J+b7S5TmMjcFznvbkvLnLvcz74zm+lceO5/76mrEnsHlBNjbPz8C2+anYuYB+1fn8KBxfn4uHttdjL4Gy/VXZGKDE0xPpRTiWWYx9BEoXZkahs8CO+Y0JWNqejk2Ly7FkTi42LqnEzqV1OLS2ncBqHU7vaMFZAquntrdR8morjmxuRd/6Vmyna9bOq8KqwYTVZT2tlLpYhSpKU2Wkmp9fjdySThQ2rh9EqvtGxarFXQRV23Yjo3oNojPbYE2oVLBqOSIIpnJKKaenhkUXGemk/lb+lesJBko1cColmc4IjiGcGk8INPFGUuoIhJrq9dyt49Xh
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

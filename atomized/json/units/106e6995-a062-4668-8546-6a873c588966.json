@@ -1,0 +1,26 @@
+{
+  "id": "106e6995-a062-4668-8546-6a873c588966",
+  "type": "insight",
+  "timestamp": "2025-04-19T03:32:42.000Z",
+  "title": "<div><tt>| B16  | enabled   | disabled  | technical     | system switch        |",
+  "content": "<div><tt>| B16  | enabled   | disabled  | technical     | system switch        |</tt></div>\n<div><tt>| B17  | awake     | asleep    | state         | user state flag      |</tt></div>\n<div><tt>| B18  | clean     | corrupt   | code          | integrity scan       |</tt></div>\n<div><tt>| B19  | safe      | unsafe    | security      | alert status         |</tt></div>\n<div><tt>| B20  | high      | low       | signal        | amplitude zone       |</tt></div>\n<div><tt>| B21  | accept    | reject    | decision      | conditional fork     |</tt></div>\n<div><tt>| B22  | sync      | desync    | timing        | LFO clock match      |</tt></div>\n<div><tt>| B23  | active    | inactive  | process       | system heartbeat     |</tt></div>\n<div><tt>| B24  | logged    | out       | identity      | session state        |</tt></div>\n<div><tt>| B25  | allowed   | blocked   | permission    | firewall rule        |</tt></div>\n<div><tt>| B26  | stable    | broken    | integrity     | recursion guard      |</tt></div>\n<div><tt>| B27  | rising    | falling   | time          | signal edge          |</tt></div>\n<div><tt>| B28  | forward   | backward  | motion        | directional logic    |</tt></div>\n<div><tt>| B29  | bound     | free      | ritual        | constraint status    |</tt></div>",
+  "context": "From document: # |[ DUALCORE::M1RROR_T4BL3 ]| — chunk 3 (chunk 3/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "f08dcfc73bfb47e0879eedebbe407657",
+  "relatedUnits": [],
+  "keywords": [
+    "state",
+    "system",
+    "integrity",
+    "status",
+    "signal"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

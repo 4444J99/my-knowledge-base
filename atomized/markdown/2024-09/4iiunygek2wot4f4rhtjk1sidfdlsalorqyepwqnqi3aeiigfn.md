@@ -1,0 +1,32 @@
+---
+id: a63c3755-8bd3-41d2-8c5e-31aa92581092
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 4iiunygek2wot4f4rhtjk1sidfdlsalorqyepwqnqi3aeiigf
+  - nbr8
+  - >-
+    8vpjjizaqkmusqqelzfyrbv9fby1ajucnwh5fobvd9b01gqemghy5ewbufdq92o1utqi8excw0hyp7kxxqcwstmvgosx
+  - din2o3cdakcd3arqsopsn6jdhjtcrhry22nimpj8i3kb4fevtfgtb48cdrizfq0gps8xq0hkx2l
+  - >-
+    shcbtpvn38vpvc30emxczqawaoafqpo4zrsooqxglvdv6vjqt1zez5o4tlzmvypqowirahx38bqkcn30im7kifx3
+---
+# 4iIUNyGEk2WOt4F4rHtJk1sIdfdLSALOrQyepWqNQI3AeiIgF/nbr8+ynk+8vpJJIzAQkmUSqQeLzfYr
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 8190 (chunk 8190/11534)
+
+## Content
+4iIUNyGEk2WOt4F4rHtJk1sIdfdLSALOrQyepWqNQI3AeiIgF/nbr8+ynk+8vpJJIzAQkmUSqQeLzfYrBV9fbY1AjUCNwH5FoBvd9b01GqEmgHy5eWBufdq92o1uTQI8excW0hyP7kxXqcwstMvgOsx+DIN2o3CdakCd3ArqsOpSN6jDHJTcRHRY22niMpj8i3Kb4FEVtFGtb48CdRIzfq0GpS8xQ0hKX2L+sHcBTPVN38vPVC30EMXcZqAWaoaFqpO4zrSOOqxGlvDV6VJQt1ZEZ5O4TlZMVyPQOwIrAHX38BqKcN30iM7kIFx3/yyITkf+OewRPV10Mu2iC0tc3pgO/5x0t6qfzGuL6DaccwrgHN9EdAGcQ1BHEF3WPwdw7jtoUOJStufPBc45C146RUpcsmv94J9zJ8+5dvb8ObILo9mXwf2+jMA5h4OEgKGCbw4q1NB9ToclOaK4ZQGc6z55bj4415wwR+t3E+dcd0FLrBgeaCecS7jlcLrGYNJGdAdYTsC+M6p9HXJTAblBHrjJwFtu0SInSqkzuE7VGoEagRqBGoEagYkiMDGyoonCvknGNd9/v5K/h/Fq2am9k/926jN9au7k3qtxziT5LNI98yrt1bcujvZkPYfxnazvIo5A9BeK35md/Z2OGTHpSA3tgUhPZla48Yo4QnS51fd4dLfFbzcptDsKXIfZLVSS9ZrFVycjR52BHus33yccdQI25ZsW1OGpdQGu01f8XtAt/r1BHfvGN0AdQruVgbp9QHQV18n7+m+aCDCI5E51C6ibBtGZO38d0w3hcrfeav/YNSC65UpcOjhnAcWpSJl3yKFzrvrnJnbO4UCLu2NAH46QhUEah2rQgXCOOds+f6+dskA59PCooCVOVkRb1jKAc7hHSWQ8c9b3v6Fwjm0WMUjAOXYuw1KWJ9r1mC1wjmVKMXDop8qgjANo1i03FZAb5o1LoTiZd8LllgFF/XSZkVuKlPQzWMasRnukZccsAutjawRqBGoE5oiAPjMLnDs1xys/5mvuVRJ/+cRrFhLo00MAUfVd1AjUCOxjBAT8/hyGrjP+y8O/knlINMvqjfEkrHxzStfXBQBvDLpbBbRT6TxMc9QI/2xdJgdVQZuqPnd5nvgQk+CgE7WZQXrDoEdeMJdrQsWME2afQLGeU6MT+OowVxbl0CCrFpTBVMRRh23bz1cX
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

@@ -1,0 +1,26 @@
+{
+  "id": "1ede8b49-8206-4326-8690-d6d79f23f0ed",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Your **exploration laboratory and staging area** - fully mapped:</div>\n<div><br></div>\n<div>### **🧠 AI, Machine Learning &amp Autonomous Agents (10 repos)**</div>\n<div><br></div>\n<div>1. **js-genai** – Google Gemini/Vertex AI SDK</div>\n<div>2. **terminal-ai** – Shell-based AI, multi-model support</div>\n<div>3. **aionui** – Gemini CLI GUI application</div>\n<div>4. **maxmsp_ai** – Deep learning in MaxMSP</div>\n<div>5. **DeepCode** – Open Agentic Coding (Paper2Code, Text2Web)</div>\n<div>6. **Intelligent-Agent-for-Microsoft-365-Automation** – M365 AI automation</div>\n<div>7. **anthropic-cookbook** – Claude implementation recipes</div>\n<div>8. **xai-cookbook** – Grok API examples</div>\n<div>9. **awesome-ai-agents** – Curated autonomous agents list</div>\n<div>10. **stable-diffusion** – Text-to-image diffusion model</div>\n<div><br></div>\n<div>**Purpose:** Study AI/ML implementations, test agent frameworks, explore generative models</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **📚 Cookbooks, Learning &amp Documentation (7 repos)**</div>\n<div><br></div>\n<div>11. **openai-cookbook** – OpenAI API guides</div>\n<div>12. **adaptiveDEVIearningHub** – GitHub Desktop tutorial</div>",
+  "context": "From document: Contents_Table — chunk 57 (chunk 57/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "learning",
+    "agents",
+    "cookbook",
+    "autonomous",
+    "repos"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

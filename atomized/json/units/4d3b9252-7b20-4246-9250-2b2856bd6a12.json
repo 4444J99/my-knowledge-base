@@ -1,0 +1,26 @@
+{
+  "id": "4d3b9252-7b20-4246-9250-2b2856bd6a12",
+  "type": "insight",
+  "timestamp": "2010-06-23T23:02:40.000Z",
+  "title": "<div>Everything she loves in her life goes away </div>",
+  "content": "<div>Everything she loves in her life goes away </div>",
+  "context": "From document: Everything she loves in her life goes away",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "fbe0ed0fc60742980fde449277ef3909",
+  "relatedUnits": [],
+  "keywords": [
+    "everything",
+    "loves",
+    "life",
+    "goes",
+    "away"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

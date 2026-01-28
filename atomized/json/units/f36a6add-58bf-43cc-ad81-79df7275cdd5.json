@@ -1,0 +1,26 @@
+{
+  "id": "f36a6add-58bf-43cc-ad81-79df7275cdd5",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>#### **5. Context Compilation Missing**</div>\n<div>- AI conversations scattered across platforms</div>\n<div>- No unified context store</div>\n<div>- **chatgpt-exporter** exists but outputs not aggregated</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **ARCHITECTURAL PATTERNS REVEALED**</div>\n<div><br></div>\n<div>### **Your Personal Repos Show Clear Research Themes:**</div>\n<div><br></div>\n<div>#### **Pattern 1: Multi-Model AI Orchestration**</div>\n<div>- Gemini (js-genai, aionui)</div>\n<div>- OpenAI (openai-cookbook, chatgpt-exporter)</div>\n<div>- Anthropic (anthropic-cookbook)</div>\n<div>- XAI (xai-cookbook)</div>\n<div>- Moonshot (kimi-cli)</div>\n<div>- **You're studying how to orchestrate multiple AI models**</div>\n<div><br></div>\n<div>#### **Pattern 2: Automation &amp Workflow**</div>\n<div>- git-auto-commit-action</div>\n<div>- renovate</div>\n<div>- commitzien</div>\n<div>- **Automation is a recurring theme**</div>\n<div><br></div>\n<div>#### **Pattern 3: Creative Computing**</div>\n<div>- p5.js, maxmsp, SoundJS, maxmsp_ai</div>\n<div>- stable-diffusion</div>\n<div>- **You're exploring creative/generative systems**</div>\n<div><br></div>\n<div>#### **Pattern 4: Agent-Based Systems**</div>",
+  "context": "From document: Contents_Table — chunk 64 (chunk 64/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "pattern",
+    "cookbook",
+    "context",
+    "chatgpt",
+    "exporter"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

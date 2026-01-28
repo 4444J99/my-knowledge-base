@@ -1,0 +1,26 @@
+{
+  "id": "8c4e79d3-014a-4bc3-af55-8835dc67791a",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>   - RBAC, SLAs, append-only logs, BLAKE3 hashing</div>",
+  "content": "<div>   - RBAC, SLAs, append-only logs, BLAKE3 hashing</div>\n<div>   - **Role:** Master orchestrator for the entire system</div>\n<div><br></div>\n<div>2. **a-recursive-root** (Python)</div>\n<div>   - Recursive foundation layer</div>\n<div>   - **Role:** Core recursion engine for processing</div>\n<div><br></div>\n<div>3. **reverse-engine-recursive-run** (Python)</div>\n<div>   - Reverse engineering capabilities</div>\n<div>   - **Role:** Trace concepts back to origins</div>\n<div><br></div>\n<div>4. **4-ivi374-F0Rivi4**</div>\n<div>   - &quotRecursive + generative organ body&quot</div>\n<div>   - **Role:** The living system metaphor itself</div>\n<div><br></div>\n<div>5. **universal-node-network**</div>\n<div>   - Network infrastructure</div>\n<div>   - **Role:** Connectivity layer between components</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **🏛️ Governance &amp Framework Layer**</div>\n<div><br></div>\n<div>6. **system-governance-framework**</div>\n<div>   - System-wide governance rules</div>\n<div>   - **Role:** Policy and control mechanisms</div>\n<div><br></div>\n<div>7. **collective-persona-operations**</div>\n<div>   - Collective operations management</div>\n<div>   - **Role:** Multi-agent/persona coordination</div>",
+  "context": "From document: Contents_Table — chunk 43 (chunk 43/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "role",
+    "system",
+    "recursive",
+    "layer",
+    "governance"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

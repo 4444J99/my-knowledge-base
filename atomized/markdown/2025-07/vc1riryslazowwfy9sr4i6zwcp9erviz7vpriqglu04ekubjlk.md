@@ -1,0 +1,32 @@
+---
+id: e41e53cc-dcb6-4703-9095-ea1c185972d7
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - vc1riryslazowwfy9sr4i6zwcp9erviz7vpriqglu04ekubjlkupsxtn
+  - >-
+    6bu6qmnupzr4iqvxkgqp7nw29ksy1j5sxugrykctmfvsskalngdm7trxmifcgfpvwtbcn0kpka96swhazftk71uiursziu3tvitibemnvuv9qbywmjto6sysdzqs6q3nokwztrm3
+  - niykibylil2qol1buca3rc8lvhulc
+  - edr1snmi
+  - >-
+    lnman1dddraiky1f2qdxpbuzckforubzbqhaf9drt4vcciedyy0p50rqg6gvo1nmttuyurkunxzm5lfr8jbeqoh1rq6ki7oarznyxwzfcdycvdfr
+---
+# vC1RIRyslAZOwwFy9Sr4i6zWcp9ervIz7VPRiQglU04EkubJlkupSxtN/6Bu6QmnUpZR4iqVxKGqp7nW
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 8955 (chunk 8955/18928)
+
+## Content
+vC1RIRyslAZOwwFy9Sr4i6zWcp9ervIz7VPRiQglU04EkubJlkupSxtN/6Bu6QmnUpZR4iqVxKGqp7nW29KSy1j5SxuGRYkctMfVssKAlnGDm7TRXmifCGfpVWtBcn0KpKA96swhAzftK71UIurSZiU3tVITIbeMNVUv9QbyWmJTo6SySdzQS6Q3NOKWztrM3/nIykIbyLIl2qOl1Buca3rc8LvhULc/EdR1snMi+LnMan1dDDRaikY1f2qDXpBuZCkfoRubZBqHaF9drT4vCCieDYY0P50Rqg6GVo1NMTtuyUrkuNXZm5lfR8JbeQoH1RQ6ki7OArZNYxwZfcdYCVdFR/T6bo9BSJd+MHsofiseY22ru8g6Mvt+3C3Wzd86d60+QKz+wA3L4NFBtQNPg9x40I0Xvpq9NXMg3Bv7ttXXe/ljEK7iEe39C+8WbxYNLSALJSxW1paHXPzTZZrHu07rwc5dP2j4otaiEVeNWDKeCnu/Hjw2ZjHR2vDX6RODR3TubehCyLEkR+MrkpjMZW6U8kzGFNBR5xeGE9mZfGUvplCqW65qGRhKxrO9vmxQ3b1Gci/dXZfiauPFOOFXiwe33Xt5fWOhzX+lxwFrZ6U90hua5CgpXRTpohLVKYGUnM4peZwT5xJtDnbfHL6W4jhcPyosBcsoyj8nPuU5lBEnpH2J2hJXTUvFU2Gg9DnVKell+ZAl6ehjS6naN/F/t8WjdcNbO9eue2rwxPDhWRxd/na4v9gzg/pzw6eHm2bxN+JPab48UX5Ksz79t1jSeFzS34vLM+WJ7MHN94a3D6yV/Drv8H6hw//hPplh97buhJbjsmXfraa6G0lW2mG8HL0Vz9PRuT7PSZTbBzdfvmq4lB2fORRjXzWSzTYhjbqmpTkhHX1QHEznQ/5W+mdXkOXHHhLenMY+E0HiH9uf9c9Gf+x/3j6b/zH7nKLtT8HnFG0ohR7JfrLGIu8kjSz93s13bb45PBUkM+8VSEs3UuyCAUgk0R6dCRaSw8WGzrrN118h8Wyl7E9fHW0voAsfyU471OuEd/KHkhPMKP8UfdZfLv+YcLLZlrj6Uvrc6PGhbzEra2sajh6LOWlNHKh0nMFNZeWcbscebiS5QbdtJOGtqEyvRNq3+Qh0OvY8px3h5e8pHU7772mf+ulcY49S3TjInRLe/d+0lzXVzR9eEIVangko
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

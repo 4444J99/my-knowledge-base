@@ -1,0 +1,31 @@
+---
+id: ce92703e-3d49-4bf6-a046-2c7774282469
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - kio581gue8ocyl8hacohjopmak
+  - e6pfr
+  - dzpaqancuynwfdwicz9xk9jig3ezuhgr3hm
+  - >-
+    6mxbh0hkpkevr0gglwtlewkczyfzihmgcyadqg5caxlqdeckltesm6baemzdbfoec3ill0mpabsqdlkodoiipu8zesc3bt1sf
+  - m3f23xy8pfurwrkqtduepwtqcdfoo031pri
+---
+# KIo581GUe8OcYl8HACoHjopMak/e6PFR+4d//Cf7+WM/dzPAqanCuYnWFDwIcz9xK9jig3ezUhgR3HM+
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 2888 (chunk 2888/3262)
+
+## Content
+KIo581GUe8OcYl8HACoHjopMak/e6PFR+4d//Cf7+WM/dzPAqanCuYnWFDwIcz9xK9jig3ezUhgR3HM+6MXbh0HkpKevr0gglWTlewKczyFzIHMgcyADqg5cAxlQdeCkLTeSM6BaeMZDBFOeC3ILl0mpaBsQdLkoDoiiPu8zEsC3bt1sf/M3f23Xy8PfurWrkQtduEPwTQCDFOo031Pri/OEFkK1/UQz6VNTUxJwx+TRb5f2TL1g3/ve9+yNnbttxcr10qj1ufYg3FhrbBrkpMqPqzzmZn5JE0cAUHm5QqqnVy7np+pRN8bJ4IMeTxFgAFRFabJSWWIq61dh8le+kxc6oV7XPum43sZRaaKO24jM/j61ediuWN9vq7unbWWtoTT2WYlGIZU3ejfbGycGBaj22gejk3Z8uktgqgBUXQJUc70CVRoT2inXnIgmNFSAKTf7Q0tVaKgAdQSNjVnkck+E6od4TesDD4ExBzGu4L2aY9j6z7UzBaCamZl2gIumE1DlXhRhgd6nZf5HOmts69YtdvXVV9uXdKbZ1VdfKVDb44BKZCxJAFBxNbvzmVXfEBuB8XHJb4uPHxD+4IP/Yo899gtpQg/ZCZkCTsrhRjrLLfZTAcJgJ+BQIB7+Y8sID9Vs6s/XcrGe4L33zuC9QJTy9UaaiKBuDpkDmQOZA1lD1XlrIAOqzpuzZUfx+Qqo3FNayFQ+pwh1kqo+ZH5T4fllUvqHVEXzIFnbTbYkS7r5mnc4ZytXDetw1ivsG9/4c9smhwKYxiHa0ao7sfDmow/kvpAG4917PAtyvJ5uJ4uQ0S4mZS0H76oP9kzt33/ATbGekDkWB7AePToqeocl0OqsJAm2LsBCoQhNGq0EnjDLIgAU0DK4AwFPUZ/+V30CKkjmGempKE9wFWZ5HlcZWk5vxAArbvInjQi8BsJwcpROk9L5U+M2ODtqK+aO2Y0X9tin1vfYBXKfPiIvgHLfoDIS7lXj7d61tutEn722Z5/tPzFnBxsDNlkbtKkuOaZQKdcy8SxAkSMbp0j9SbAPf37JOUXMqFMiunlCZzl18IQxFSmMO+UlkBUmbc4RgQnMAQFgAdQCFKhJtdNMl5ONFStsw/r10nzebDfcuN22b79GniN1lpYaL9jnFEc8eOVUkJ9occYGd72wU06smlaNp1I8NSI6K0Mqp2eKKptxU4qimP89
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

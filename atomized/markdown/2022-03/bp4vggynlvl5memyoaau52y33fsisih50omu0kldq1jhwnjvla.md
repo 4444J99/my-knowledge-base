@@ -1,0 +1,32 @@
+---
+id: bcab6a32-c39f-4ffb-8e15-08bc0ab8beaf
+type: insight
+created: '2022-03-16T12:34:10.000Z'
+document: 7405c2da6b92da26b0b49297d3a4e664
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - bp4vggynlvl5memyoaau52y33fsisih50omu0kldq1jhwnjvlaqtxsnsyjjiomkdkuufsp
+  - >-
+    eaqosikwx8o9aaqeskaynm3dsc1zvy0uk4egw6drxnttayvqanwyhjptsy4xubnzx1zsegap3g4hsm
+  - >-
+    yu8dgmplps5bab20wkdxzk3i4pdtybt8ukklech5gccocfvmxigzxuknjobve42bsa9au7qojpu9kozord5rkjrqihoaqonvujom0jnjojvpf27cad6jzfjbbgfegbpxavzfnjpvpe2em2rtmdx6vw3ho7bmmakimvi
+  - amccnctetn5buzqkfxykpania5y4qocgxjhzubwlj21ax8n923j9kyegugpbhnzleze
+  - g49q1xfyob4qron6
+---
+# +bP4VGgYnLVL5meMYoAau52y33fSiSIH50OMU0kldq1JHwNjVLAQTxsNsyjjiomkDKUUfSp/KQ/eAqOS
+
+## Context
+From document: The battle of the blinds — chunk 1025 (chunk 1025/1787)
+
+## Content
++bP4VGgYnLVL5meMYoAau52y33fSiSIH50OMU0kldq1JHwNjVLAQTxsNsyjjiomkDKUUfSp/KQ/eAqOSIKwx8o9aaQESkAYNM3Dsc1ZVY0Uk4egW6dRxntTAYvqaNwYHjpTsY4xUbnZx1zSegAP3g4HSm+S/YU8DgMPlpS5bAB20wKDxzK3I4pDtYbT8uKklecH5gcCocFvmxigZXUkNjOBVe42BsA9au7QoJPU9KozorD5RkjrQIhOAQOnvUjOm0JnJojVpF27cAd6jZFjbBGfegBpXavzfNjpVPe2em2rTMDx6VW3HO7bmmAkiMvI+amcCnCTeTn5BUZQkFxyKpANIA5Y4qOcgxjHzUbWlj21Ax8n923J9KYEgUGPBHNZLeZE+G49q1XfYoB4qrON6+Yo8w+lAEMgRovmwKyZAI3wOTWouJDuPygDG2sme1nD+YMmghk4yy9N1UFVd5dTtA7VOPMSMis/Y6gnOBQNFWQTSOSeg6VN+88vkYxUnnAJz1qDLk4JwDXmZh8B6OB+Im/wBWA2OasqySYlb+GlYR+WA3HFEMSIpGdwavkJbn1ENESSOpXzU+bZVdWjlG/ow7UkcUizbduIz19KdOqBwsIwfapGTSOFVQRyagjDK27HFSRMgBWY5I6A0wXIV8Ffl7e1A0DNNG+8cj0p8GHdpcfhU0jK8LFfSorVPLTcTnd2pNFXQrOd2R+VOMjkgFaQFVc5pxJkPTaB3oQyYE4KDtTMkKB0PeoY2CSfe3Z4qRwQ1DQDycLkDrSLs/j4NJkfxcYpJGTAIHNLlAa0ZRuTxQePlFRHexyTmn4I680coh4K96mwvcVAQKC/bqKEArMd1SYHQVGi5460NIEbaOTVDJ1RTHs6GkjCKMLy3rUayDO78KYRtcFDmpAmbKuCKVlXbvaiTgBuvtUW1pOvHtTYDgu7gDZQS+NmNwpAzR/eFSJKOnSkloA0sqgBajzlgMUMjK2RzTwvfGKkB+7chUdRUPzAYPFKpVWwDkntTQSz4pgSDIxUgJyCegqI8cUudq4HOapICcM275KuRSMrgnk1nxtjvipXL4ygyR0oUwN55zMBHNF50Z4ZT0xXn/AIt+D/hrxdBJJGsenSEfLtHeusS6ZYQG+8RWjb3W2JSxrop15R2MJQT3Pzt+Iv7P+v6IrS2lvJdxc/vtvavly+03VNHnaGWNpNv
+
+
+
+---
+*Source: Document 7405c2da6b92da26b0b49297d3a4e664*

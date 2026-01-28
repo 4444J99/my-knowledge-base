@@ -1,0 +1,26 @@
+{
+  "id": "25bb70e9-e678-4e7e-9e1d-bda0738df193",
+  "type": "insight",
+  "timestamp": "2025-03-05T14:18:11.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><b>Course duration (standard format):</b></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>1 hours</div>\n</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><b>Course duration:</b></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>1 Hour</div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div>For any questions regarding this event, contact a course or catalog admin.</div>\n<div><br></div>\n<div>--- </div>\n<div> </div>\n<div><b>From: </b>[REDACTED:EMAIL ADDRESS] &[REDACTED:EMAIL ADDRESS]&gt<b>Date: </b>Monday, February 17, 2025 at 10:00 AM<b>To: </b>AnthonyJames Padavano &[REDACTED:EMAIL ADDRESS]&gt<b>Subject: </b>New Learning Task Assigned</div>",
+  "context": "From document: 1: — chunk 3 (chunk 3/630)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "d56851c0b64e6fc46a6205c88fb237ad",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

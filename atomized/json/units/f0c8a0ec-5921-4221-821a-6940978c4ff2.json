@@ -1,0 +1,26 @@
+{
+  "id": "f0c8a0ec-5921-4221-821a-6940978c4ff2",
+  "type": "insight",
+  "timestamp": "2019-04-11T23:11:46.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Feedback on Resume</div>\n<div><br></div>\n<div>What could I be doing right now to make myself competitive?</div>",
+  "context": "From document: Hey Mike, I hope this message finds you well! It’s Anthony Padavano… — chunk 2 (chunk 2/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "704aa6ccdedf8cc9a77addc508eb34c3",
+  "relatedUnits": [],
+  "keywords": [
+    "feedback",
+    "resume",
+    "what",
+    "could",
+    "doing"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

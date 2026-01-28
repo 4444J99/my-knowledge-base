@@ -1,0 +1,30 @@
+---
+id: bf42de4f-24b2-499c-bb4a-7c41193a3af2
+type: insight
+created: '2019-07-20T00:28:36.000Z'
+document: 2503c7de934f3b34466953d39945df2c
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - oglj042m4vhjpr1gkeyvodyfxwjq3hjxhoovy
+  - fdz0y5stzgkwf7kwjluflbg1dgru3hiwmz5oawqk9h8r
+  - b74s
+  - dtixx
+  - fngvwdg0xsf6teafcqqjccaf5ecgk9asm9q8
+---
+# /Oglj042M4vHjPR1gKeYVODyFxWJq3hjxHoOvy+FdZ0y5stZgkWF7KWJluFlbG1DGRu3HIwMZ5oAwqK9
+
+## Context
+From document: Naming Tracks — chunk 62 (chunk 62/198)
+
+## Content
+/Oglj042M4vHjPR1gKeYVODyFxWJq3hjxHoOvy+FdZ0y5stZgkWF7KWJluFlbG1DGRu3HIwMZ5oAwqK9H8R/B74s+DtIXX/FngvWdG0xsf6TeafcQQjccAF5ECgk9ASM9q8/tra5vbiK0s4nnnmYJHHGpZ3ZjgKqjkkngAUAQUV6vrPwI+Nnh3R38Qa94B13TtNjUu9xPptzHHGo/idmQBB7tiu+/ZR+HOqePPjZ4RMvhmfxB4ct9Vtk1M/Y3urKOJySRcna0aqQD9/AIFAHzVRX1T+1T8IvFHg/4v+OtW0zwZe6N4PttTkW1uItOlt9NSJ2CxiOQIsIUk4XBwTwK5T4geKta1X4P+BdAvfh5B4dsdN877Pr6WTwyavn726coqy7PZmxQB4DRXUTeCPGlta6Ve3GgahFb68cadK9rKqXpGP8Aj3YriXqPuE9RW/4p+D3xY8D6VHrvjLwbrGh6dKVUXN7YT28O5vuqXkQAMewJBNAHnFFXtM0vUtav4NK0e0mv726YJDBBG0ssjnoqIgLMT6AV2/ir4QfFfwNpyav4z8G6xoVjJtAuL2wnt4st0UvIgUMfQnPtQB51RWzrHh3xB4da1TxBpl1pjX0K3NuLqF4TNAxKrLHvA3IWVgGGQSCM8Gvpr9hi1tr39qrwHa3kKTwvLfbkkUMpxY3BGQcg80AfJlFeqfHSKOH42/EGGFBHHH4h1ZVVRgKBdygAAdAKh0j4KfGLxBog8SaF4G1zUdKZQ63VvptzLC6n+JXVCGHqRkDvQB5jRT5I5IZGilUo6EqysMEEcEEHoRXUeE/Anjbx7evp3gjQL/xBdRAF47C2luWQNwCwjVto9zgUAcpRXTeKfBfjDwNqA0rxpod9oN6y7lhv7aS2kZc43BZVUkZ7jiq9n4V8Uajol74m0/R7y60fTWVbq9it5HtrdnICiWVVKISSMBiM5FAGDRXpt38FfjDYeHv+EtvvA+t2+i7DKb2TTrhYBGBneZCm0JjncePevMqACiiigAooooA//9X8R6KKK0AKKKKAP1g/Z1ufhbafsC+MZ/jJaaje+Fh4s/0iLSygui5jsfK2l3RcB8Fvm6V8v/E3Wf2I7rwPqcHwn0LxbaeK3EX2KXUntzaKRKhk8wJO7cxbwMKfmx9a9Z8Gf8oz/Hn/AGN8P/thX5zUCP1p+HXxMh+Ef/BPvRPG0Gk
+
+
+
+---
+*Source: Document 2503c7de934f3b34466953d39945df2c*

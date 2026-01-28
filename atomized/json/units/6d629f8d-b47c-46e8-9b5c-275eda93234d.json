@@ -1,0 +1,26 @@
+{
+  "id": "6d629f8d-b47c-46e8-9b5c-275eda93234d",
+  "type": "insight",
+  "timestamp": "2025-02-12T16:23:09.000Z",
+  "title": "<div>No</div>",
+  "content": "<div>No</div>\n<div>Time Limit</div>\n<div>40 Minutes</div>\n<div>Multiple Attempts</div>\n<div>Yes</div>\n<div>Score to Keep</div>\n<div>Highest</div>\n<div>Attempts</div>\n<div>5</div>\n<div>View Responses</div>\n<div>Always</div>\n<div>Show Correct Answers</div>\n<div>No</div>\n<div>One Question at a Time</div>\n<div>Yes</div>\n<div>Lock Questions After Answering</div>\n<div>Yes</div>\n<div><br></div>\n<div>Week 1 | Summary</div>\n<div>Summary</div>\n<div>This week, we learned about the writing process, which is a helpful map for becoming a better academic writer. It involves taking step-by-step approaches, starting with the prewriting phase. This part is crucial because it helps you stay organized and focused on what you want to say in your writing.</div>\n<div><br></div>\n<div>During our discussions, we covered some essential things to remember while writing. One of them is understanding your audience - the people who will read your work communicate effectively with them; it's critical to think about how they will react to what you're saying.</div>\n<div><br></div>\n<div>We also discussed diction, which means choosing the right words and phrases in your writing. Picking the appropriate words can make your writing more precise and more transparent. Additionally, we highlighted the importance of knowing the purpose of papering and understanding different writing genres, like essays or reports.</div>",
+  "context": "From document: Week 1 Canvas Data Dump: — chunk 33 (chunk 33/34)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "d335896de37c0a2e3347239949db1f78",
+  "relatedUnits": [],
+  "keywords": [
+    "writing",
+    "your",
+    "time",
+    "attempts",
+    "week"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

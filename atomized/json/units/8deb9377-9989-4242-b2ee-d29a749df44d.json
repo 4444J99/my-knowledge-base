@@ -1,0 +1,26 @@
+{
+  "id": "8deb9377-9989-4242-b2ee-d29a749df44d",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>│   └── catalog/</div>",
+  "content": "<div>│   └── catalog/</div>\n<div>│       └── master-archive-index.json</div>\n<div>│</div>\n<div>├── 1-ai-context-layer/</div>\n<div>│   ├── exporters/</div>\n<div>│   │   └── uses → chatgpt-exporter   # Your existing tool</div>\n<div>│   ├── aggregators/</div>\n<div>│   │   ├── openai-contexts/</div>\n<div>│   │   ├── anthropic-contexts/</div>\n<div>│   │   ├── grok-contexts/</div>\n<div>│   │   └── gemini-contexts/</div>\n<div>│   └── unified-context-db/</div>\n<div>│       └── all-ai-conversations.db</div>\n<div>│</div>\n<div>├── 2-personal-repos-analysis/</div>\n<div>│   ├── repo-scanner/</div>\n<div>│   │   └── scans-all-35-4444JPP-repos/</div>\n<div>│   ├── pattern-detector/</div>\n<div>│   │   ├── ai-ml-cluster.json       # 10 repos</div>\n<div>│   │   ├── automation-cluster.json   # 7 repos</div>\n<div>│   │   ├── creative-cluster.json     # 3 repos</div>\n<div>│   │   └── knowledge-cluster.json    # 7 repos</div>\n<div>│   ├── lineage-tracker/</div>\n<div>│   │   └── which-archive+ai → which-personal-repo.json</div>\n<div>│   └── graduation-queue/</div>\n<div>│       └── ready-for-org-promotion.json</div>\n<div>│</div>\n<div>├── 3-org-repos-integration/</div>\n<div>│   ├── connects-to/</div>\n<div>│   │   ├── auto-revision-epistemic-engine/  # Orchestrates</div>",
+  "context": "From document: Contents_Table — chunk 66 (chunk 66/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "json",
+    "repos",
+    "contexts",
+    "cluster",
+    "archive"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

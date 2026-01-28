@@ -1,0 +1,31 @@
+---
+id: 31c1994a-ed72-4a35-ac9e-fe20daf4646a
+type: insight
+created: '2019-02-16T23:05:18.000Z'
+document: c6c8d9d6deda1d081d973fac56d652c6
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - akkkkapxc
+  - 08w9fthx4ufsaf8phfj7
+  - aluvf
+  - >-
+    ni3r9o6aciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigd8a
+  - acopwd
+---
+# AKKKKAPxc/Y0/5SO/H3/d17/08W9ftHX4ufsaf8pHfj7/ALuvf+ni3r9o6ACiiigAooooAKKKKACiiig
+
+## Context
+From document: Compressor Cheat Sheet — chunk 666 (chunk 666/1529)
+
+## Content
+AKKKKAPxc/Y0/5SO/H3/d17/08W9ftHX4ufsaf8pHfj7/ALuvf+ni3r9o6ACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD8a/+Crv/ACOPwD/7CGq/+jdNr9lK/Gv/AIKu/wDI4/AP/sIar/6N02v2UoAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiivDf2nPEeueD/2c/if4s8M3j6dq+j+GtWu7O5jxvhuILWR45FzkZVgCOKAPcqK/GH9iPwN+198cPA3w9/aK8RftE6g2hXmotcXnh+XT0lFxbadqEkEtu1yJUwJ1hI3eX8obocc/Z37bv7Tvib9mHwB4a1rwLoVv4m8S+KtettGsrC5d0WQzRyuWGwqc7lRBzjLjNAH2hRX5Jf8NNf8FPf+jaNO/wDBgn/yVXZ/Dj9oT/gohr3j/wAOaJ49/Z+sNC8NX+oW0Gpagl8jtaWkkirNMqi5bJRCWAwc46GgD9OqKgurq2sbaa9vZkt7e3RpJJJGCIiIMszMeAABkk8AV+St1+3N+0V+0X451nwf+wl4BsNa8PeH5fIvPFPiBnjsnfsYUEkOAcZQEySMp3GJBQB+uNFfkB4q/ah/4KB/swW8XjT9pT4baD4t+H8UiLf6h4YldbmyWRgodg8jDbk8boVQthTKpYV+oPwu+J3gv4yeAtG+JXw+1BdS0HXIRNbygbWGCVeN1PKyRuCjqeVYEUAd9RRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAU
+
+
+
+---
+*Source: Document c6c8d9d6deda1d081d973fac56d652c6*

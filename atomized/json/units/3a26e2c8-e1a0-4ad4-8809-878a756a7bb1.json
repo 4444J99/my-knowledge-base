@@ -1,0 +1,26 @@
+{
+  "id": "3a26e2c8-e1a0-4ad4-8809-878a756a7bb1",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>```markdown</tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## 🧬 TRANSLATION + CONLANG SYSTEMS</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### 🔤 `SYMNUM4GRAM`</tt></div>\n<div><tt>The symbolic parsing grammar for converting text into recursive symbolic code.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Level      | Syntax Example                                   |</tt></div>\n<div><tt>|------------|--------------------------------------------------|</tt></div>\n<div><tt>| Sentence   | `(This is a sample sentence.)`                  |</tt></div>\n<div><tt>| Word       | `([s][y][m][b][o][l])`                          |</tt></div>\n<div><tt>| Letter     | `[g] [l] [y] [p] [h]`                           |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Parse language at multiple recursive layers.</tt></div>\n<div><tt>- Encode mood, context, and recursion via brackets and cuts.</tt></div>\n<div><tt>- Map language to gesture, sound, image, or emotional feedback.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### 🌐 `CONLANG_FORGE` MODULE</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Builds recursive constructed languages based on:</tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 176 (chunk 176/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "recursive",
+    "symbolic",
+    "sentence",
+    "language",
+    "markdown"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

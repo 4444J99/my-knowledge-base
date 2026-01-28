@@ -1,0 +1,26 @@
+{
+  "id": "fc28da72-3197-46e3-99d5-8dd2dc703471",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:44.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Another example we might propose: `SYSTEM-ARCHIVE-SCRIPT-INDEXER-v2_0.py` – a System layer script in the Archive domain for indexing, version 2.0 of that tool. Or `STORY-RECURSION-PROMPT-FRAME-0003-v0_1.md` – a Story layer prompt template in Recursion domain (maybe for framing a story within a story), ID 0003, still a draft.</div>\n<div><br></div>\n<div>By following this naming grammar, **every artifact’s name becomes self-descriptive**. It aids both humans and AIs. An AI agent tasked with finding the latest spec about naming conventions can search by name for `META-SPEC-LANG` for example. Or when the automation engine sees a file name, it can parse out what it is and route it accordingly (e.g., if a file name starts with STORY, maybe treat it differently than a SYSTEM file in some processes).</div>\n<div><br></div>\n<div>We instruct all future AI agents and collaborators to **adhere to this naming scheme** when inventing new file names, prompt titles, module names, branch names, etc. If an agent is generating a new artifact, it should compose a name in this format, picking the appropriate layer/domain/type and a provisional ID (if unsure, it can search the archive or config for the next number or an unused code). The environment can even provide counters or an ID registry to help assign new IDs systematically.</div>",
+  "context": "From document: # Blueprint for a Self-Evolving Creative Operating System — chunk 36 (chunk 36/38)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "83dee6092ba3a8d02324ba12da038c25",
+  "relatedUnits": [],
+  "keywords": [
+    "story",
+    "name",
+    "file",
+    "system",
+    "archive"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

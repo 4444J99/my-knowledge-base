@@ -1,0 +1,26 @@
+{
+  "id": "c07c5919-6993-48e5-a18b-0e06befe1d7c",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><font face=\"ZapfDingbatsITC\">✔</font> Encourages faction cooperation and st",
+  "content": "<div><font face=\"ZapfDingbatsITC\">✔</font> Encourages faction cooperation and strategic alliances.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Introduces a built-in balance where no power can dominate completely.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 2. Each Unique Archetype Has a Specific Purge Moment &amp Method</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Instead of allowing purges at any time, each archetype has one moment in the semester where they can attempt to free themselves.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> How Purge Moments Work:</div>\n<div>  •  Each archetype has one scheduled event per semester where purging is possible.</div>\n<div>  •  The method of purging is unique to the archetype.</div>\n<div>  •  If the moment is missed, they must carry the archetype until the end.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Example Archetype-Specific Purge Moments:</div>\n<div>  •  The Oracle’s Eclipse → Can purge their power only during a week where the Fate Wheel lands on “Blindness.”</div>\n<div>  •  The False Prophet’s Reckoning → Can purge themselves only if they are caught lying during a class debate.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 528 (chunk 528/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "archetype",
+    "purge",
+    "zapfdingbatsitc"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "634256be-c1f0-427a-aed2-84811db07626",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>$AUTOMATION_ENGINE is an abstract scheduler and event router. It watches for events such as:</div>\n<div><br></div>\n<div>New session start and end.</div>\n<div>Declaration of a new world or project.</div>\n<div>Creation or update of naming conventions.</div>\n<div>Merge of a feature branch into dev or main.</div>\n<div>Periodic continuity maintenance waves.</div>\n<div><br></div>\n<div>For each event, $AUTOMATION_ENGINE invokes predefined workflows described in $PROMPT_ROOT/workflow prompts and implemented as scripts in os-foundation. The exact mechanism (cron, event bus, agent framework) is left intentionally unspecified, but all workflows must be documented in WORKFLOW-layer specs and stored within $OS_ROOT/specs and $REPO_ROOT/$ORG_ID/os-foundation.</div>\n<div><br></div>\n<div>────────────────────────</div>\n<div>3. Procedural Generation and Self-Evolving Flows</div>\n<div><br></div>\n<div>3.1 Core Procedural Generation Stages</div>\n<div><br></div>\n<div>The procedural generation layer supports three world types: conceptual, narrative, and operational. All share a common sequence of AI-callable stages:</div>\n<div><br></div>\n<div>Seed World</div>\n<div>Expand Entities</div>",
+  "context": "From document: 0.\tPreamble and Scope — chunk 13 (chunk 13/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "b3360b527d494aeb150b316c90472eb0",
+  "relatedUnits": [],
+  "keywords": [
+    "event",
+    "world",
+    "procedural",
+    "generation",
+    "automation_engine"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

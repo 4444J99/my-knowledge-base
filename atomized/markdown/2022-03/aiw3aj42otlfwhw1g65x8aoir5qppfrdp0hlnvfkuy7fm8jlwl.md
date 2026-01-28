@@ -1,0 +1,30 @@
+---
+id: e749b430-8d22-4188-9252-edbf5d581dbd
+type: insight
+created: '2022-03-16T12:34:10.000Z'
+document: 7405c2da6b92da26b0b49297d3a4e664
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - aiw3aj42ot
+  - lfwhw1g
+  - 8aoir5q
+  - ppfrdp0hln
+  - vfkuy
+---
+# AiW3Aj42oT+lfWHW1g/65x/8AoIr5Q+PPFrdp0Hln+VfKUY/7fM8jLWlKx+J3ivf/AMJbDcN3uFH4Zr9
+
+## Context
+From document: The battle of the blinds — chunk 1437 (chunk 1437/1787)
+
+## Content
+AiW3Aj42oT+lfWHW1g/65x/8AoIr5Q+PPFrdp0Hln+VfKUY/7fM8jLWlKx+J3ivf/AMJbDcN3uFH4Zr9xP2b7gn4e2scf3f8A61fiH4wONfRMcrOD+tftN+yxKZPhrbSHn5iPyr6fGw/2ZHqVPiRg/tIRf8SR29/6V+TviHi8b13V+tv7RcZk0RwPX+lfknritJqzxggAGlw1u0Z5h8CZ678Gzt8VQjp8lfRvxoiSXRwvX5F/lXzT8KJ44fFkBbpsAr6i+LUUR0hWToYx/KvUx+lVHmUdj4ARsa4u35QG/rX3P4LmEvh9PM6AAfpXwtLxrJx2f+tfbXgAmbQFj6jj+VfR4V/u0eXjNDr/ABLbK3wt1WLs0ma+Xv2eNw1e+h7faW4r611u3k/4V3qKdt39K+R/2f5Fi8SahGev2p/511weljlXwH15cO6s0fYmmMgWP8Kfdqd5JqNz+6ye1Wc63INr9uKU78fNzTVckilkYgjFBY6MAMARwam+YNtHTtUYDLhjjFTCReoFAmCx9d9N9R1FG7Oc9O1LGSGwOlAbIbEdu4Lwe1TpG2N7dabKioQ460hmzg0BcYSd3zdqsAgjKcYqJvnApykHMfpQMyrg7npsLhXwOKWfbHJtFMWPv61DVgNRgH+ZadAwBweKjjRoYhkg03KuenIqkBZlw5wBSREIdrdP0pdzMoApTyMGoAJF2jK0ZB5pu0E4pwG0Y7UAMkdSuO9IjhFxinLHE3OKk2rirsAz764xSrEVTBINLE+TtPWmj71LlAdxjavFOwFGDQdo60wndUgOOO1PUHBA700jaBihDs96AIzlTzUitxlu1IF885PGKVh0UUAIPmyT0FSRqrdqTGxcCnxfIpJ5oAgbAkwO1WNoYAjioAMy7qsZbPPTtQA/dgYNJsVhkj6UwLzmpC+OnagCIDt0p44+X0pm4MxL8+mKkAU4I4oAUHIwvFJtA4pTjOKCMcU7AOIGAooIAPzc0wClx2FFgJIkBO5qJJmD5XkUxg4XaelPUbBnrSAb5meMVG7/ADZXil53cU7y97YHFACnJGBQBj5QMVGSUcGpp3YAAdMUAR5wacfm4pYsGEse1CbWOBQA1WKnB6UxW8t91WgE6NTYxE7bXGfSgBGEkybx8oFRKr9FqSab/lnHwo4p8aNHGcEAt0oAgB8tsOOO9WAFVSQcA9qbKOF3DJ9
+
+
+
+---
+*Source: Document 7405c2da6b92da26b0b49297d3a4e664*

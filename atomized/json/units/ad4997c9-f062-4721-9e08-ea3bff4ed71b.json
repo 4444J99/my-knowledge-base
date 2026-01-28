@@ -1,0 +1,26 @@
+{
+  "id": "ad4997c9-f062-4721-9e08-ea3bff4ed71b",
+  "type": "insight",
+  "timestamp": "2022-02-09T22:29:32.000Z",
+  "title": "<div>I don't forget anyone<br></div>",
+  "content": "<div>I don't forget anyone<br></div>\n<div>Never I<br></div>\n<div><br></div>\n<div>I never bother anyone<br></div>\n<div>Just one</div>",
+  "context": "From document: I don't forget anyone",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a74ae6accc2d01df3997cc82258bc957",
+  "relatedUnits": [],
+  "keywords": [
+    "anyone",
+    "never",
+    "forget",
+    "bother",
+    "just"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "b393af7c-0671-4d2e-80d0-53285558477c",
+  "type": "insight",
+  "timestamp": "2013-08-16T06:51:16.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>--my 808's are usually split into 4 tracks and frequency isolated. so one lpf'd at 200 in mono uneffected, and then the others highpassed at different frequencies, saturated, bitcrushed, chorused, verbed, panned, imaged.</div>\n<div><br></div>\n<div>--nice thunky sub kick, lowpassed it and put it in mono, then took a kick with a snappy knock and highpassed it, flipped the phase on it and peaked it to shit. when they're playing back in tandem you get this nice solid thunk with the weird stereo knock on top.</div>\n<div><br></div>\n<div>--splitting your bass into 3 and treating them all differently. usually ill have a sub bass in mono, and then 2 basses that are highpassed around 200, and effected/panned, eq'd differently. then I group them and eq them as a group to &quotglue&quot them together and mix them as 1 entity into the rest of the track properly. if the bass isnt standing out mess around with saturation. if you can hear it through laptop speakers youre on the right track</div>\n<div><br></div>\n<div>--use returns for some parallel compression and reverb layers. I love using reverb on returns because its so simple to eq the verb and autopan the tail/do cool shit like that.</div>",
+  "context": "From document: Musical Ideas — chunk 4 (chunk 4/8)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "0d5de81e5702ab7284eec16ac275678c",
+  "relatedUnits": [],
+  "keywords": [
+    "them",
+    "then",
+    "into",
+    "mono",
+    "highpassed"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

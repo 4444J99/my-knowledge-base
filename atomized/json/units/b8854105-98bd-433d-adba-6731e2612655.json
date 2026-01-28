@@ -1,0 +1,26 @@
+{
+  "id": "b8854105-98bd-433d-adba-6731e2612655",
+  "type": "insight",
+  "timestamp": "2019-05-16T17:37:19.000Z",
+  "title": "<div><span style=\"font-size: 21px\"><br></span></div>",
+  "content": "<div><span style=\"font-size: 21px\"><br></span></div>\n<div><span style=\"font-size: 21px\">Ch 12</span></div>\n<div><span style=\"font-size: 21px\">This chapter provides students with the opportunity to put all their previous work in the service of a complex argument. Proposal arguments have been popular in our classes because most students see them as the culmination of the semester’s effort: once students have learned to analyze and produce arguments of definition, evaluation, and causation, proposal arguments make more sense. No other student-written argument seems to lend itself to a variety of student presentations as well as the proposal argument, so you might allow students more options for how they present their proposals — they can really tailor their presentation of the argument to a specific audience.</span></div>\n<div><span style=\"font-size: 21px\"><br></span></div>\n<div><span style=\"font-size: 21px\">We have asked students in our classes to do extensive audience analysis as part of the writing process. The chapter’s guide to writing proposal arguments gives students some ideas about audience analysis, but you can go beyond what we provide. In the early stages of the writing process, ask students to write about their audience and consider the approaches that will be most rhetorically effective. Re-mind your students that if a proposal is to be accepted, it needs to be finely tuned to the demands of its audience. Sometimes you will have to work hard to push students beyond easy formulations of “average people” (often a code for “people who think like me”) when they’re defining their audiences.</span></div>",
+  "context": "From document: EAA Chapter INTROS — chunk 11 (chunk 11/18)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "96eb322624e76b9b2f5ac7aabacd881c",
+  "relatedUnits": [],
+  "keywords": [
+    "span",
+    "students",
+    "style",
+    "font",
+    "size"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

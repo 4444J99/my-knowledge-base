@@ -1,0 +1,26 @@
+{
+  "id": "cfffca68-4788-4218-8fa0-7fe6c5a58919",
+  "type": "insight",
+  "timestamp": "2021-10-08T04:12:55.000Z",
+  "title": "<div>Mother Box</div>",
+  "content": "<div>Mother Box</div>\n<div>New Gods</div>\n<div>Fourth World</div>\n<div>Technology </div>\n<div><a href=https://en.wikipedia.org/wiki/Mother_Box?wprov=sfti1>https://en.wikipedia.org/wiki/Mother_Box?wprov=sfti1</a><br></div>",
+  "context": "From document: Mother Box",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "e2ab73637866769de3fc4fd1cf0b0cdd",
+  "relatedUnits": [],
+  "keywords": [
+    "https",
+    "wikipedia",
+    "wiki",
+    "mother_box",
+    "wprov"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "d2412271-85f7-4647-835c-e842d81b5ea4",
+  "type": "insight",
+  "timestamp": "2025-03-19T12:12:32.000Z",
+  "title": "</tbody>",
+  "content": "</tbody>\n</table></object><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>This criterion is linked to a Learning Outcome</div>\n<div>Pick an Appropriate Topic</div>\n<div>Select a suitable and relevant topic that aligns with the assignment's objectives, demonstrates a clear understanding of the assignment's purpose, and engages the audience effectively.</div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>10 pts</div>\n<div>Full Credit</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>5 pts</div>\n<div>Partial Credit</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>0 pts</div>",
+  "context": "From document: Week 1 | Overview — chunk 44 (chunk 44/75)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "327f02c0d4f0dc7a528bfc69a2a41abd",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "tbody",
+    "table"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

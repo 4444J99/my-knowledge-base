@@ -1,0 +1,26 @@
+{
+  "id": "3c08f03f-c8e0-4cfc-90c3-a6b0957c5b91",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div>- Conditional: Vibrancy/Mica (enable only after verifying stability in core",
+  "content": "<div>- Conditional: Vibrancy/Mica (enable only after verifying stability in core profile), Neovim (enable alone first).</div>\n<div>- Remove or Defer: External animation JS import (`apc.imports`), duplicate AI assistants—choose one primary (e.g. Copilot) and disable others initially; set `editor.aiStats.enabled` false unless needed.</div>\n<div><br></div>\n<div>**Profile Setup**</div>\n<div>1. Core Dev Profile:</div>\n<div>   - Extensions: `ms-vscode.js-debug`, `ms-python.python` (after clean reinstall), `esbenp.prettier-vscode`, `dbaeumer.vscode-eslint`, `ms-vscode.theme-defaults`, one AI assistant.</div>\n<div>   - Settings: Minimal baseline + formatting + autosave.</div>\n<div>2. Cosmetic Profile:</div>\n<div>   - Add vibrancy, animations, mica, Peacock, dynamic base16, cursor animation, Neovim (after confirmed stable).</div>\n<div>   - Start from Core Dev profile export, then layer cosmetic keys.</div>\n<div><br></div>\n<div>**Appearance Preservation Checklist**</div>\n<div>- Export current settings: `code-insiders --profile &ltCurrentProfileName&gt --show-versions --list-extensions &gt current-profile-extensions.txt`</div>\n<div>- Copy existing `settings.json` for reference.</div>\n<div>- Create new profiles (Command Palette: “Preferences: Create Profile”) naming them `Core Dev` and `Cosmetic`.</div>",
+  "context": "From document: User: fix — chunk 13 (chunk 13/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "profile",
+    "core",
+    "vscode",
+    "after",
+    "extensions"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

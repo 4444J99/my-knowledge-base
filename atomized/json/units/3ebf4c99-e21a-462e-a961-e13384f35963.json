@@ -1,0 +1,26 @@
+{
+  "id": "3ebf4c99-e21a-462e-a961-e13384f35963",
+  "type": "insight",
+  "timestamp": "2025-12-21T15:20:09.000Z",
+  "title": "<div>  - `auto-revision-epistemic-engine` for governance</div>",
+  "content": "<div>  - `auto-revision-epistemic-engine` for governance</div>\n<div>  - `solve-et-coagula` for transformation</div>\n<div>  - `a-recursive-root` for recursive processing</div>\n<div>  - `a-context7` for AI documentation</div>\n<div><br></div>\n<div>### **Phase 4: Create the Meta-Repository**</div>\n<div><br></div>\n<div>**The Kernel of Your OS:**</div>\n<div><br></div>\n<div>**`meta-cognition-hub`** - A new org repo that:</div>\n<div>- **Ingests** from all three layers</div>\n<div>- **Analyzes** patterns, connections, evolution</div>\n<div>- **Synthesizes** consolidated documentation</div>\n<div>- **Generates** production-ready code</div>\n<div>- **Feeds back** insights to AI layer</div>\n<div><br></div>\n<div>**Structure:**</div>\n<div>```</div>\n<div>meta-cognition-hub/</div>\n<div>├── intake/</div>\n<div>│   ├── ai-contexts/          # Exported conversations</div>\n<div>│   ├── personal-repos/       # Links/submodules to your 39 repos</div>\n<div>│   └── org-repos/           # Links to 23 org repos</div>\n<div>├── analysis/</div>\n<div>│   ├── pattern-detection/   # Common themes across layers</div>\n<div>│   ├── genealogy/           # Lineage tracking</div>\n<div>│   └── gap-analysis/        # What's missing between layers</div>",
+  "context": "From document: ## **The Complete Architecture - Three Layers Revealed** — chunk 5 (chunk 5/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1af7be2a2fd28b6d6d9d99f3c9081883",
+  "relatedUnits": [],
+  "keywords": [
+    "repos",
+    "meta",
+    "layers",
+    "recursive",
+    "documentation"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

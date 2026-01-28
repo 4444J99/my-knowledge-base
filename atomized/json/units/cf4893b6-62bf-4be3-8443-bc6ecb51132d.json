@@ -1,0 +1,26 @@
+{
+  "id": "cf4893b6-62bf-4be3-8443-bc6ecb51132d",
+  "type": "insight",
+  "timestamp": "2022-01-18T00:38:35.000Z",
+  "title": "<div>Crossfield</div>",
+  "content": "<div>Crossfield</div>\n<div>Snow storm</div>\n<div>Lost wallet</div>\n<div>Hurricane sandy</div>",
+  "context": "From document: Crossfield",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "8088b39a0cdd1ac110799d58e9da3765",
+  "relatedUnits": [],
+  "keywords": [
+    "crossfield",
+    "snow",
+    "storm",
+    "lost",
+    "wallet"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

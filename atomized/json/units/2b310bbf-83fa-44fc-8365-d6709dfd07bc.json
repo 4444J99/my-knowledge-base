@@ -1,0 +1,22 @@
+{
+  "id": "2b310bbf-83fa-44fc-8365-d6709dfd07bc",
+  "type": "insight",
+  "timestamp": "2025-10-28T10:47:46.000Z",
+  "title": "<div><tt>*** End Patch</tt></div>",
+  "content": "<div><tt>*** End Patch</tt></div>\n<div><tt>EOF</tt></div>",
+  "context": "From document: agent@chatgpt:/$ apply_patch <<'EOF' — chunk 19 (chunk 19/19)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "cd6b3f031d9095b66a75525d2e2b5a60",
+  "relatedUnits": [],
+  "keywords": [
+    "patch"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

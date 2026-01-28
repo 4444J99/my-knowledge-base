@@ -1,0 +1,26 @@
+{
+  "id": "bd5c392f-228e-4bd5-b404-a24ad7274977",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div>User: fix</div>",
+  "content": "<div>User: fix</div>\n<div><br></div>\n<div>GitHub Copilot: I can see you're experiencing a Neovim/Lua error related to VSCode module loading. This appears to be a configuration issue with your Neovim setup trying to load a VSCode-related Lua module that doesn't exist.</div>\n<div><br></div>\n<div>Let me help you resolve this. This is typically caused by:</div>\n<div>1. A Neovim plugin configuration referencing VSCode</div>\n<div>2. An init.lua or init.vim file with incorrect require statements</div>\n<div><br></div>\n<div>Let me search for any Neovim configuration files in your workspace: </div>\n<div><br></div>\n<div>Searched for files matching `**/{init.lua,init.vim,.vimrc}`, no matches</div>\n<div><br></div>\n<div>Searched for regex `require.*vscode|require\\(.*vscode.*\\)`, no results</div>\n<div><br></div>\n<div>The error is coming from Neovim but there are no Neovim config files in this workspace. This suggests the issue is in your global Neovim configuration (typically `~/.config/nvim/init.lua` or `~/.config/nvim/init.vim`).</div>\n<div><br></div>\n<div>**To fix this error:**</div>\n<div><br></div>\n<div>1. **Quick fix** - Disable the problematic Neovim extension temporarily:</div>\n<div>   - Close any Neovim instances</div>",
+  "context": "From document: User: fix — chunk 1 (chunk 1/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "neovim",
+    "this",
+    "init",
+    "vscode",
+    "configuration"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

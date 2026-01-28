@@ -1,0 +1,32 @@
+---
+id: 1d6938ab-5c84-4773-a03d-421d0e8fcedf
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 4fmpiwyxcaozr5des1cpqhxrs2d6vjsot8r26mlx2b1j5ohscelxivccn4
+  - >-
+    n1wvqnjvffpyljuzdfr4cl5obayvfuzcqeaf3798ffmmaxvurmc2zad0lzxp7pihpcucpx0favg2ejya9gecjre
+  - >-
+    s8wqajgz63a8qxeeowqot7cowzczmuffrgz69zynlhqr7ybaz51mqmidkna3edbhnagmmlhh4dck8xpsjw0fhexxcuxqalg4cacvd
+  - fdked
+  - 8m94nb65owbntc8dq2fr4f34jvdq9aay2qcc22x1hpl4a1l2idzwnodwb4ekw54vrsifyt
+---
+# 4fMPiWYxcaoZr5dES1cpqhXrS2D6VjSot8r26MLX2b1J5OHsCElxIVCCn4+N1WVQnJvFfPYlJUZDFr4c
+
+## Context
+From document: New Note — chunk 1504 (chunk 1504/8096)
+
+## Content
+4fMPiWYxcaoZr5dES1cpqhXrS2D6VjSot8r26MLX2b1J5OHsCElxIVCCn4+N1WVQnJvFfPYlJUZDFr4cl5ObAYVFuZCQEAf3798FfMmAxvuRMc2zAD0LzxP7PIHpCUCPx0fAvg2eJyA9gecJRE/s8wQAJgZ63A8QxEeoWQot7cowZcZMUFFRgZ69ZYnlHqR7ybaZ51mQmIDKna3eDBhNAGmMLhh4DCk8xpSJw0FHexXcuXQALG4cACvD/fDKeD+8M94Nb65owbNTC8Dq2FR4f34JvDq9AAy2qcC22X1hPL4A1l2iDZwnoDwB4Ekw54vrSiFYT+zzeO8whnppSTEms/PYTOaozZ4EK5bNggf3r8HXz6+hshK/xac4jXmecnR8DY6f3zEvKBSVFcPt+/fQTr+8De5mrqkd+MbrJSA1CRaM7wzHs0A2O955Ltv+G0DPjv0t433EwOBkjN2XHJvA3SSz+3SGy/+E0ska7DySmXFyXX+Bxdl5v411ntep/de55J7oHO3HZtZj+8mxSbt97Ldz77Q+O4fNf8777fjsmp3W7Thm+3GYa+90Pux2x/m2H7ujv/O5kDZZmxwH7ycm8F7El2k6TPTkvhw0SJanobFk/xGdjZyJHv8AcD//36mAhsZ08sI+98NVgKsAVwGuAlwFuApwFeAqwFWAqwBXAa4CXAW4CnAV4CrAVYCrAFcBrgJcBbgKcBXgKsBVgKsAVwGuAlwF/q+owAw8CyYQnp+J4PyMTvA8C87/KzyP+y4+cUL3eE1Nla+Ibs1KTonnbdy48VJf2YFaCNGvwdDAOWif/w2e34RwGLHPb8Ng4fkdCFTtxPkI0YvvHjRkoN7Bw/uCDx3e76u1ZYvd7LkLTUePV77eu//QM5RY12MU1fW4GCV5UoKSONOVEtPrTlHnEaI/j8ciAP3FgQP7X7Wxsbb08vJ8jOCX6Y4d2+5OmaJqPHXq5FvjxskbjxkzirTv6OoeNfPz87H5+fO7zdIVS001EaI3fWxhY3Tvjs2cRWoW3fvI3qMkxO6iiZ4F6B8gSE/iIYkhA2UfG9+46JacEJFYXV2c1VD/K6+uppwB6Ak8X1lZlP+rojCPQPQVFQX59dWlhY2VJUW8AJ+8V9f259mcmFVus7t/vcMuSvjtCCVyPY12+PbwQujd6QRFfzlK0e4I07teoOif5yj61491ggJHLUG2
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

@@ -1,0 +1,32 @@
+---
+id: 538e7546-b8e3-48c7-a098-7e80cfac3ea2
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - lwl4es4i9ks2jxae
+  - uedsv0mwbsmwrzn0rwmevfufqyl4lemewbame
+  - >-
+    n0qyhia3kwi7mqqtjiijixgsfyrrqfqgk5cch0rykqto5todjkryc8mpsl8zd0by9ma1wusrkn4g32qmgxt1zitnjzz71zc
+  - qcm7f8inwcv9mh0funkjdgople9irsyrmue4xuocks4ayem0
+  - >-
+    e5cbpdjnsh92tulc8elunqsrk47dntuajciqeo4qse0ivecsncjqrukwvmrqnkzsmrkdjinlmhmznwo0hcdveo2irvn5z0
+---
+# lT1/lWL4es4I9KS2jXaE+UEdsV0MWbSMwrzn0rwMevfufQYL4LEMeWbaME+n0qyHIA3KWI7mqQtJIiJI
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 1824 (chunk 1824/2189)
+
+## Content
+lT1/lWL4es4I9KS2jXaE+UEdsV0MWbSMwrzn0rwMevfufQYL4LEMeWbaME+n0qyHIA3KWI7mqQtJIiJIxgsfyrRQFQGk5ccH0ryKqTO5todJKrYC8MPSl8zd0BY9MA1WuSRKN4G32qmgXT1ZITnJzz71zc/Qcm7F8iNWCv9MH0FUnkjDGOPle9IrSyrmUe4xUOcKS4AyeM0+e5cbpDJnSH92TuLc8elUnQsRk47DNTuAJcIQeO4qSe0ivECSnCjqRUKwvMrqnkzsmRkDJINLMhmZNwO0HcDVeO2iRvN5z0/CtqCLEeAS+eaaaTuU5szvtU3nbAOnOTUF9ILmEJMgOeM1av1cMDFk44b/GqV0jSlUQfdqZ1Ehy2OX1WKRt4jPIH51+aPxV1OL/AIXzo3hS6ZLdbxixuJW2qpjOQmACdz9I+xPBx1r9N9T8xraWPo4HB6EV+SfxCaC+/aQt7vU4VkmspljIwSWIA2vgH7ysQFA67a/QOD8O6kKkvT8z4riGtaSR+wnhqO3i0eCOIf6Oi7UGdwwBwM9/rWxJs2eagLAnpWdofnJ4cgSZAJAAGCnIz3IPpV+LKxbyMA9q+TzJ/vT63D01ZFe5E0qeZIeRSO0cagAZfHX61OIzKfnbAPSi5RrZPLxk5xXnNp6HVFWER2MYGOT1FRwyRiUxuvGOlBzGAG5JqjJJEkwYj5m4JHWsZysO7LjKjMZACAelPXy5h5ZJLR9zTpJPKjBB6fnVZ3UfvlOT3ArSEk9wUbsfIiZ2dNvGarQt9nLAAkE/hUYu1nkUbSuecHqanSJIpTNu4YcL71nKxUZW0JBOLmYKygBR0HGKrXivKFjJwuR+lQRRskzN0Dc49KJDNMgEPb1qoaDburkkzuE+Y7VUcnPaqMUsMiBwDk8YI5/GppDsiEhUkAYx6/Wo44/l3AY/+vWqcW7Et9jg/H4kk0WUMc5ByPb0Nfml+zpNc6t+0Fqus2MX2ddkqL5e1UECyAKgBGOcZx1546ZH6XfEKRLDw/c3Eg3iKN3ZRk52jOMDnnHavzk/ZrvjefF3UYdOhkhhYPcu+AEJLgKvIzk7zj6GvssDUlDDSa63X/kp8VmMVPER8v8AM/VRyiYmmxiTkDrj8arKonmJU7R2q2ZEHlhhu2qDz61VMsYXEq4J7elfLxajLlPqqcWz/9b+ni4AMuPeoZpPIhLdTTh
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

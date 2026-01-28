@@ -1,0 +1,45 @@
+---
+id: 1ebac768-8433-4a6f-901c-dbd183198061
+type: insight
+created: '2024-03-07T02:09:08.000Z'
+document: 9edaf15722d6aeb5cf3e0f5de0e43064
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: design
+keywords:
+  - tech
+  - business
+  - customer
+  - optimizing
+  - content
+---
+# <div><h1>Tech Fees</h1></div>
+
+## Context
+From document: Tech Fees — chunk 1 (chunk 1/2)
+
+## Content
+<div><h1>Tech Fees</h1></div>
+<div><br></div>
+<div><br></div>
+<div>Zoho One, at $200, priced at a single subscription fee, offers an integrated suite of over 40 business applications spanning sales, marketing, customer support, and operations, streamlining business processes across multiple domains to enhance efficiency and productivity. It is our CRM+++ (customer relationship management).</div>
+<div><br></div>
+<div>Ahrefs, at $450, is an SEO tool that improves website search rankings through keyword, backlink analysis, and competitive insights, optimizing content and technical SEO strategies to organically improve our ranking.</div>
+<div><br></div>
+<div>Unbounce, costing $350, enables creating and optimizing landing pages for higher conversion rates, offering easy design, publishing, and A/B testing without coding requirements.</div>
+<div><br></div>
+<div>Total Intial Tech Fee Cost: $1,000</div>
+<div><br></div>
+<div>Bundle Stripe Process - start with zelle tomorrow, then moving forward bill with stripe.</div>
+<div><br></div>
+<div>etsy template - $200</div>
+<div><br></div>
+<div>Selection of 10 MSI Properties for 4 week schedule &gt Etsy templates &gt Send tech fee tomorrow &gt begin content calendar for week 1 &gt have next weeks posts complete before monday</div>
+
+
+
+---
+*Source: Document 9edaf15722d6aeb5cf3e0f5de0e43064*

@@ -1,0 +1,32 @@
+---
+id: 5480b472-58c9-4e7c-b1f0-6778bed7defb
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    bsmrkrr6da0myuw4jruymx75sggrk7fsxxoym3cojqzprljygsync1q1paympalanyrudfulgxjvlrqqiaucvy2awi5o1ahpecoocr37p15lwbwwklbv9yke1wspqwjxbz4gjzydec
+  - vpc2qv7sjorqv0m
+  - ezbvpvb5xg
+  - >-
+    be11wfxsvr8ekohxmsv4uns2h6wew4nvp8rrz43bzgbvlblcaa8mcckoosunsppvsakccwfkz6wdfkxwwfemf55kauizyq44m8matay6scsynivaxugwuq4kzm9kvugwqtjvd5de3l4mh75fetkfmzh1ywgrvpct3vtpkzz61amnvmdi6tdmxp26fk7s88vxwtbvp
+  - qp7zsgyv5md4qetcxdhx3rtrebwni7okvhbbtzryz
+---
+# bSmrkrR6Da0mYuw4JrUymX75SgGrK7FsxXOYM3cOJqZPRlJyGsYnC1q1paympAlanYrUdFulGXjVlrQq
+
+## Context
+From document: New Note — chunk 8939 (chunk 8939/21099)
+
+## Content
+bSmrkrR6Da0mYuw4JrUymX75SgGrK7FsxXOYM3cOJqZPRlJyGsYnC1q1paympAlanYrUdFulGXjVlrQqiauCVY2awi5o1ahpeCooCR37p15LWBWwKlBV9YKE1WspqwJXBZ4GJzyDec+/VpC2qv7SjOrqv0m++eZbvPvB5xg/be11WFXSVR8ekoHxmSv4uns2H6wew4nvP8Rrz43BzGBvLBlcAa8MccKOoSUNsPpVSAkcCWfKZ6wDfkxwwFEmf55kAuiZyQ44m8maTay6sCSyniVAXUGwuq4kzm9kvUGwqtJVd5dE3l4mh75fEtkfMZH1YwGrvPcT3vtpKZz61AmnvmDi6tdMXP26Fk7s88VxwtBvP+qP7ZsGYV5mD4QEtcXDHX3RtrEbWni7oKVHbbTzrYz+XWtg9fx2+OmrXsg52hU5P7dH3s/3M031QWLVDoSqD+CX4+3x64n7cOVEW1w62Zrpqq0JVjsgJ6svPtv7BIIH1cX9zSoYCa5NfVzR1M8D97UJQPDwbpiT+TTe3DAK33w0EmcO9ET2waa4cKAOLh6qyCpHtFoauV87Imc/v7+vbF3WeUSrv3xZCr9+VhqXPmRy6h7u7SBcJVrNfZNgdRMTVdcTqa7k+efYmVB7eQ7Baiavm8TZTeB8mGR7aqwDfo5xwKEIG1h9c3gJrDLAqj/2bcnA73nf4K/fc/ITVvnazJTVq1f/wupNe/BE2IJ8nFoIUrXCVXPCKtdfmMCqJK1ej1b/nrLqR1Tqn49WZS3w1JMBoB6EqlJetJg+tJYqaVVAagO/6qwaRoqqr2cl45wnrxOwKgmrco0krAb6ViNA5XmCVRtaLQ8Bq62a8c+urSuL8LRVPbRrTdjcog4aBVZEA//yeOihQEzKDMPWXSvx3uevYOOWxZjM43797kM7YtWWLWqiZctaaNO6Lhw8+Mk8qWM9Getqw6sCWCsZYFVSVQWoenlVIxStyoTTKkb3krVbZSNZ1YPdnQmr9YlSnevdg3oKrNZmmirhal3ZI2StxaTUaoSqVWo5skoaeLUeB1RfoCzRrHTn+gSqRglkldRXG1Z15VDdOBxPDseLA/Hk0Iy0Vdk3ElYFtN5Owqrg1VuAq7eBVa9PVxW0SiR6J8oMVeXxbilp9VrKqgarb2Hbtm1Gbd26Ff3790fHjh2NkvWWLVuuqzfeeAObN2/G66+/jtde
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

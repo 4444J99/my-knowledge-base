@@ -1,0 +1,26 @@
+{
+  "id": "252d616b-d533-401f-b96e-d57697e8a7bf",
+  "type": "insight",
+  "timestamp": "2018-11-28T01:48:36.000Z",
+  "title": "<div>https://en.m.wikipedia.org/wiki/Cyclothymia<br></div>",
+  "content": "<div>https://en.m.wikipedia.org/wiki/Cyclothymia<br></div>\n<div><br></div>\n<div>https://en.m.wikipedia.org/wiki/Atypical_depression<br></div>\n<div><br></div>\n<div>Constant marijuana use - when I don’t use it, my stomach hurts, and I experience anxiety</div>\n<div>Can’t stop using substances</div>\n<div>Been abusing food since I was a child, binge eating</div>\n<div>Unrealistic attachments to friends growing up</div>\n<div>Was diagnosed Bipolar</div>\n<div>Anxiety attacks one a week</div>\n<div>Obsessive behaviors, organizing, tidy</div>\n<div>Compulsive behaviors</div>\n<div>Seek out worse drugs when depressed</div>\n<div>Can’t maintain jobs long term</div>\n<div>Sometimes I won’t shower for days</div>\n<div>And sometimes I just shave my head</div>\n<div><br></div>",
+  "context": "From document: https://en.m.wikipedia.org/wiki/Cyclothymia",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "ae55563318be99c6f3acb35bbc5b93f6",
+  "relatedUnits": [],
+  "keywords": [
+    "https",
+    "wikipedia",
+    "wiki",
+    "when",
+    "anxiety"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

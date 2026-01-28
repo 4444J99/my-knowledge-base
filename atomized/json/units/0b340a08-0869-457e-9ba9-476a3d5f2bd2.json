@@ -1,0 +1,26 @@
+{
+  "id": "0b340a08-0869-457e-9ba9-476a3d5f2bd2",
+  "type": "insight",
+  "timestamp": "2025-10-28T10:48:05.000Z",
+  "title": "<div><tt>+## Plexus and Hypergraph Control</tt></div>",
+  "content": "<div><tt>+## Plexus and Hypergraph Control</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+Conventional NLP pipelines impose a strict sequence of operations that cannot accommodate the complexity of human communication【33635101037775†L33-L68】.  RLOS instead implements a **plexus**: a dynamic network in which modules send queries and constraints to one another.  The central data structure is a **unified hypergraph** that stores multimodal representations; each module reads from and writes to this hypergraph【33635101037775†L253-L272】.  The hypergraph is continuously updated as modules refine interpretations; for example, the pragmatic module may prompt the syntactic parser to re‑evaluate an ambiguous structure【33635101037775†L279-L284】.</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+This plexus is governed by a *meta‑learning controller* that monitors performance, allocates resources and resolves conflicts.  It supports **RAW** and **PUBLIC** modes.  In RAW mode, analysis and generation are unrestricted, providing full access for research.  PUBLIC mode inserts safety gates for truthfulness, bias mitigation and cultural sensitivity【3†L123-L145】.</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+The following diagram (adapted from the AI responses) illustrates the **RLOS flow**: user input passes through mode selection, layered analysis and cross‑modal integration; outputs are filtered through cultural analysis, safety gates and adaptation loops, and user feedback feeds into system evolution.</tt></div>",
+  "context": "From document: agent@chatgpt:/$ apply_patch <<'EOF' — chunk 4 (chunk 4/29)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "f26b5db7dbbb97eefdf7225d3aa3e47b",
+  "relatedUnits": [],
+  "keywords": [
+    "hypergraph",
+    "plexus",
+    "that",
+    "33635101037775",
+    "mode"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

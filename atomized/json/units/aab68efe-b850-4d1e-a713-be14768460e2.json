@@ -1,0 +1,26 @@
+{
+  "id": "aab68efe-b850-4d1e-a713-be14768460e2",
+  "type": "insight",
+  "timestamp": "2015-01-02T18:40:11.000Z",
+  "title": "<div>Moments</div>",
+  "content": "<div>Moments</div>\n<div><br></div>\n<div>Dressing up as batman and getting my head stuck on the stair spindles </div>\n<div><br></div>\n<div>Almost getting kicked out of Farrell for stealing food--being in the principals office</div>\n<div><br></div>\n<div>Crying at football practice </div>\n<div><br></div>\n<div>Johns grandmas funeral</div>",
+  "context": "From document: Moments",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "15b4bd7ea86a4848d5a1a59d8a896473",
+  "relatedUnits": [],
+  "keywords": [
+    "getting",
+    "moments",
+    "dressing",
+    "batman",
+    "head"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

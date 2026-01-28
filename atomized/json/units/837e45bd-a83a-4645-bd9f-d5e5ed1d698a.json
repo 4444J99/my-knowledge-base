@@ -1,0 +1,26 @@
+{
+  "id": "837e45bd-a83a-4645-bd9f-d5e5ed1d698a",
+  "type": "insight",
+  "timestamp": "2016-10-24T21:12:37.000Z",
+  "title": "<div>artist couple</div>",
+  "content": "<div>artist couple</div>\n<div>each others muse</div>\n<div>bad communicators</div>\n<div>they write about each other and everytime they write about the other a piece of them preserved/stolen</div>\n<div>the other cant look at the others art or something bad happens</div>\n<div><br></div>\n<div>acemic writing</div>",
+  "context": "From document: artist couple",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "9363452151e7d64d296532c75e6fc45b",
+  "relatedUnits": [],
+  "keywords": [
+    "other",
+    "each",
+    "others",
+    "they",
+    "write"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

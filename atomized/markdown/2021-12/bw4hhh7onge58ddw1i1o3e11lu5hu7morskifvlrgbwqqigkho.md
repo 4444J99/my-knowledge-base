@@ -1,0 +1,32 @@
+---
+id: ad2e66b4-1379-452b-950d-a44f6695078e
+type: insight
+created: '2021-12-17T14:46:39.000Z'
+document: 37d960e30d45ec53cee7bbbc54f3efc3
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - bw4hhh7onge58d
+  - dw1i1o3e11lu5hu7morskifvlrgbwqqigkhosa8k
+  - i3gbx98oviq3xf
+  - >-
+    hemtrnre5a7ty1lugdqsqlfyxv8bwyg7wzkyaz9puucwhxvp8afn48fec4tni8ced5vdlfx595eiziwohg6ajeagckam5xx6h1p46ajr
+  - >-
+    pfblu9fto5ta1upzk3kqlpz3s4ilusuyom4leaya9hxutfk4hjx7p2l6novwh0dtnytjrg8hfzvhnjakrn1zkw3iwbgqqrkddmvof2g
+---
+# bW4HhH7Onge58D/DW1i1O3e11LU5Hu7mORSkiFvlRGBwQQigkHoSa8k+I3gbx98Oviq3xf+HemtrNre5
+
+## Context
+From document: How lung until quit smoking? — chunk 248 (chunk 248/249)
+
+## Content
+bW4HhH7Onge58D/DW1i1O3e11LU5Hu7mORSkiFvlRGBwQQigkHoSa8k+I3gbx98Oviq3xf+HemtrNre5a7tY1LuGdQsqlFyxV8bwyg7WzkYAz9pUUcwHxvP8AFn48fEC4tNI8CeD5vDLFx595eIZIwOhG6aJEAGckAM5xx6H1P46aJr+pfBLU9Fto5ta1UpZK3kQlpZ3S4iLusUYOM4LEAYA9hXutFK4HjX7P2l6novwh0DTNYtJrG8hFzvhnjaKRN1zKw3IwBGQQRkdDmvOf2g/hd4p1nWNH+JngGPz9a0MxhoVwXdYZPNidAeGKsTlerAjHTB+q6KL63A+Mrn46/GrXtP8A7D8O/Dy7sNbkwhuZI5WijY9W2SxKq+29yB3zXu8Pg7xL4n+Flz4T+ImoJdavqlvIs8scaKkMj8xhQgUN5ZC5Pcg84xXq1FFwPz18Ba98bfga154Ll8H3GuWjzNJD5UcroHIwWiljRgytgEqRkf7JJqrqHhH4t6r8bfCnjHxZotw73d3YXU32aCSS3sYUuNoieRQygoiB2y3G7Jr9FKKrmAKKKKgAooooAKKKKACiiigD/9T9/KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD/9X9/KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKK
+
+
+
+---
+*Source: Document 37d960e30d45ec53cee7bbbc54f3efc3*

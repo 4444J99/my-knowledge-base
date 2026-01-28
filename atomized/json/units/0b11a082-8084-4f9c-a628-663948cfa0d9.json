@@ -1,0 +1,26 @@
+{
+  "id": "0b11a082-8084-4f9c-a628-663948cfa0d9",
+  "type": "insight",
+  "timestamp": "2019-01-09T02:31:27.000Z",
+  "title": "<div>EL is (or can be) a podcast. She doesn’t talk, thus, the listener can be pl",
+  "content": "<div>EL is (or can be) a podcast. She doesn’t talk, thus, the listener can be placed in her own headphones, how she experiences the world. <br></div>\n<div><br></div>\n<div>Sandra’s face changes depending on what mood she is in. Like the Mayor of Nightmare Before Xmas. <br></div>\n<div><br></div>",
+  "context": "From document: EL is (or can be) a podcast. She doesn’t talk, thus, the listener…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "6054d0bb5bd480a7cfe2769b3fd4b804",
+  "relatedUnits": [],
+  "keywords": [
+    "podcast",
+    "doesn",
+    "talk",
+    "thus",
+    "listener"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

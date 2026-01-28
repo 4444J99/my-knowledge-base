@@ -1,0 +1,31 @@
+---
+id: c4e31f82-9601-406d-8fbe-22607a3c4825
+type: insight
+created: '2017-11-08T14:03:53.000Z'
+document: f47673d86e05016edf5cfc9824f2b752
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - v5qmmm0b2nhyor3vvaah1zxmsek3qbswt
+  - h8i6jolytcdwsj7auwxiswb5bdd2bkfjxo6l4zonsikwalv7inic
+  - eqe5gdwk
+  - >-
+    w7zwjq94jvlfinmugksx80doqt8v6viwnwuuzu8pbdlhtw0meego5ldk8vrhmy23bybvofpmg6dpumyz3t4omtnpwsguhgdxwgaig4lazkk9mvoxpgyazlwfszhvnjthkzw58qzkybghrsa7videce9mv7pd8ebwxaputmesjoqtiufxe4oqcmfmp0
+  - cu08k
+---
+# V5qMMm0B2nHyOR3VVAAH1zXMsek3qbSwt+h8i6joLytCdWsJ7AuwxIsWB5bdd2BkfjXO6l4ZOnSiKwaL
+
+## Context
+From document: use this photo as a reference to create my own cut out piece. also… — chunk 19 (chunk 19/242)
+
+## Content
+V5qMMm0B2nHyOR3VVAAH1zXMsek3qbSwt+h8i6joLytCdWsJ7AuwxIsWB5bdd2BkfjXO6l4ZOnSiKwaLV7InIC/eQe5GDwK+w7zwJq94jvLfiNmUgKSX80dOQT8v6ViWnwuuZU8pbdLhTw0MeEGO5LDk8VrHMY23BYBvofPmg6dpumyz3t4omtNpWSGUhGdXwGaIg4LAZKk9MVoXPgyazlWfSZHvNJTHkzW58qZkYbgHRsA7VIDEcE9MV7pD8EbWxaPUtMeSJoQTiUFxE4OQCMfMP0/Cu08K/DGO5nP8AwhCyv4zKkR2Nmn2mxvoDnzN8ZOBIQcZ3Lg4rRZgpaI5p4WUd0fKui3Emm6k6Q37r8yh0yCDns8Mgw3uR+ddff+CdEuro6vHN9huJWG2SMn7KQfvBk+9GR6gAV+jfwm/4J6/E3xlvvfGPh+Hw9p1/827U3El5bN/ejVMYBPRSTjuTX2L8Jv8Agmb4A8GaqmufEXxPqHjSVGyLRlWCzcAjYHRQSwUD1HvWUsZ5nLyW0Pxh8HfDH4r65qK2Ph/whe+NLZgUiMUDXECBgRnzGxtB7MTxX318Lv8AglXrmvaauu+NdWuPBbX0Y3adBtuZYSTnPmN8o+n4V+5ej6Pp+lWsenaZbR2dtAojSOBQkSgDAA2gHgcYJqTVdY03QrOW81OZLS3hRmZnOMBASSAOuAOnU1588S3rcajrsfD/AMFP2Bfg18IXn1HVbdfFmqToIxPqMSMI0H9yEDYCe5619hxQ+F/AWhHyorXQdKslJIRUhiCAcYC44B6Z5rwHxH+1D4cfTnbwLayatcs21DKPIQE8AgEZYew/OvAo9W8VeP8AUjqPjqZnfeRHAgCW4U9ihyGwcDnJ968mvikt3c7oYZy1asez+Nv2mt1zPoXw6s1vH8sGPU58i13vnIAGCSpweeDXx54v8PfELx1A58aazdeI7W6IDLC5heFgcgxopAYD3Ga9+i+Glvbs89qo8qU5eIEgA9xtGBj0/rXSWnhO3hYTWMflyjgqTkcewxXjTxMuh7NKnCC2PjrRvh7BcbNH1GQPIjAKQmXwp+ViSM7uzE54zXSH4XLYFxp0b26OD59uCDEz5+/GMcEjggV9VP4Vs7vM81t5dyRjzF4J/HrWnZ6VNAI1kjEgh6S4GVA7AEcn3xXH7WWzZ1c0T580PwrbW0dtPJAEVCk
+
+
+
+---
+*Source: Document f47673d86e05016edf5cfc9824f2b752*

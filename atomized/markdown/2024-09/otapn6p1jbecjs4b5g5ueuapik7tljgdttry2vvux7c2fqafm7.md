@@ -1,0 +1,32 @@
+---
+id: d1945323-3d89-49f8-a40f-d3fcabaf4ade
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - otapn6p1jbecjs4b5g5ueuapik7tljgdttry2vvux7
+  - >-
+    c2fqafm711pgbz9xylyo6m06h1vs3mfwlgf1mdc7r9fkwxjzatimn0m1natliuyvbmzk3hy55ek8f
+  - rlgslehoae7y7fcltdqlbcaxw65tabdvoac7c5fp3ft9nbulkadfxxpytrdssk6qeuxvrvdq
+  - >-
+    bp3t4rka5z6gh3quaxguhufyaf54joyhsjwxthrdpwrfg32wbridflxxlaouto6mhuqbliuc1aoajuc2h3qadu5pazwzvbp6mo2z6
+  - rbd94
+---
+# Otapn6P1JbEcjS4B5G5uEuapik7tLjGdTtRy2Vvux7+c2Fqafm711pGbz9xylYo6m06H1Vs3mfWlGF1m
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 3759 (chunk 3759/11534)
+
+## Content
+Otapn6P1JbEcjS4B5G5uEuapik7tLjGdTtRy2Vvux7+c2Fqafm711pGbz9xylYo6m06H1Vs3mfWlGF1mDc7R9FKwXJZATiMn0m1NATliuYVbmzk3hY55Ek8F+rlGSlEHOAe7y7FcLtdQLBcaXW65TaBdVoAc7C5FP3ft9nbuLKAdFXXPYTrdSSK6QEuXVRVdQ+bP3T4rKA5z6Gh3qUaXguhufyAF54joYHSJWXThRDpWRFG32WbRidFlXXLAOUTo6mhuqbliuc1aoaJuc2h3qaDu5PazWzvbp6mo2z6/rbD94/yVfC7f+PW5r02Pzz3XP5t/OP5p6434cvRR6+1uN/qs8nY0H33Weit+TrRl0Jl90H0lfy4SYPZo/0r/xcqjFdGxPdL9Sf670Jb1uy9gEtug8kLcjgbdF6N23M9/L2rXftwV5Vy/9T3Mb/tp/sXokS4BnthOnuuLIu1c9G5X4Rzi2einuO2z1vluS6wv36u9Akx4pSudMjPvMWA/YLnaO7WXamejd/sv9x+LxXzyXF60buejD1qX48dry93X4gu1jyqv5Z+Eou7VGCaZrZfz56L38y/lz7be77+Sf7wl9QtdAXVQ18WvinKu9Xp0LpaZc49VPoxfix6OP64s5B+prOTfzJ9rXc3/MP9E/NctAXIr+bcRBWc+iWsXahe7f9ad77f6T8bNyh/E0/V/NP7rmYMTw5NfmDxcxf+tX8BRydSBZczlWdk/PjoYGRycvKd+fOJolojuxOSRycPjw9WdY7tyxQwgnAK54pDBOUF0KwLkDM7h/yAHWI6GloRwVZ1LJ3ndVHRiZZlRLMeYNrqcEo2dqujqiXJuV0PnzBHCZRTXLRu0E0NL1p1+TiqWE7/tmtuNowZRyAHRMSYquowq5GYEv0FFJ1huhvhNIg0tMYUOuVfRCYSbMctK4DpTyzn9XEY1dsuK5TyKM6PLVRpXUhtHaCfgzcE51cbNmHJOwNuMoTjJl0UhF1ZgaAlVHCbSSVxV2OawHCpeLZfkU6qTC8Ab58wBuUnPQDBbaGXpV4nuBLalTCwJ7VQVNxVo6ZzFJcGbKuQMwsEckSjOAzlWENco51ghYCO0SypTqrEbJNHr5AC99i8LrgPMI5ZDjlXWCe0EsE0Sj2kPwduE4Tfq5xgDFCf2ksBpQGuEc87okhVFbuOMhHOaLxiWw63jWrG4HLNV
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

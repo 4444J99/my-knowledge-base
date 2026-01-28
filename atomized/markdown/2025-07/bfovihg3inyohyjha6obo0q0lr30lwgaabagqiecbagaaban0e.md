@@ -1,0 +1,32 @@
+---
+id: 23ad3165-122a-4010-be4b-adcd4d33b9e9
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - bfovihg3inyohyj
+  - obo0q0lr30lwgaabagqiecbagaaban0ebg
+  - >-
+    buxecffzpkwkqiecaaaecbagqinb6acg7ebfz6oh014d3lwydpv0vwv9osgiecbagqiaaaqiecbdoiyb4c96neoizf5pmgaabagqiecbagacb1gsi3o2inunhp414t
+  - >-
+    6tzguiecbagaabagqiejivaok34n0igfn6brtebagqiecaaaecbahmvodg3yjyacr78t9q1paaaqiecbagqiaagfkqihgl3o0qmk9vqotngaabagqiecbagmdkcwjejyidrrwn
+  - 61mdqkqiecaaaecbagqmk8cgrfg3qib
+---
+# BFovIHg3InYOHYj+ha6/obO0q0Lr30lWgAABAgQIECBAgAABAn0EBG/BuxECffZPkwkQIECAAAECBAgQ
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 4791 (chunk 4791/18928)
+
+## Content
+BFovIHg3InYOHYj+ha6/obO0q0Lr30lWgAABAgQIECBAgAABAn0EBG/BuxECffZPkwkQIECAAAECBAgQINB6AcG7EbFz6Oh014D3LwydpV0VWv9OsgIECBAgQIAAAQIECBDoIyB4C96NEOizf5pMgAABAgQIECBAgACB1gsI3o2InUNHp414t/6tZgUIECBAgAABAgQIEJivAoK34N0Igfn6BrTeBAgQIECAAAECBAhMvoDg3YjYacR78t9q1pAAAQIECBAgQIAAgfkqIHgL3o0QmK9vQOtNgAABAgQIECBAgMDkCwjejYidRrwn/61mDQkQIECAAAECBAgQmK8Cgrfg3QiB+foGtN4ECBAgQIAAAQIECEy+gODdiNhpxHvy32rWkAABAgQIECBAgACB+SogeAvejRCYr29A602AAAECBAgQIECAwOQLCN6NiJ1GvCf/rWYNCUxTYNWqVd/r/J1//vnTnHWqem5h7dq13S3kVxcsWND9qikECBAgQIAAAQI1CgjegncjBGrcp2e7qccff3zZsmUf/ehH3/72t//Lf/kv//Iv//KLX/ziokWLrrzyytletPbnlcC73vWuX+j8bbvttuOteG7hy1/+cncL+dWXvexl3a+aQoAAAQIECBAgUKOA4N2I2GnEu8Z9evaaeuqpp7bbbrtf+ZVfSXGo+/9mm2324IMPzl4HtDyvBHIwFrzn1Xa3sgQIECBAgMBECgjegncjBJr/7rrhhht+//d/vztsV6b82q/92uGHH9781Rnaww9/+MP/X+fvjjvuGFp5vlWYG5xWB++5IZpvO571JUCAAAECBNorIHg3InYa8W74W2jdunWRqHPGfsMb3rD55pvvtttucens8uXLv/a1r/3n//yf86tROO200xq+RkO79y/+xb9Ia3TttdcOrTzfKswNzmwH7/vuu+/Gzt9NN91U+xacG6Lau61BAgQIECBAgMAsCQjegncjBGZp/66l2UceeeSNb3xjztXvfve7n3jiie6WFy9enM9Cj2T+8MMPd9dp0RTBacDGmhuc2Q7eA1Zw5i/NDdHM+6kFAgQIECBAgMDcCAjejYidRrznZncfbyk5/7zkJS/ZfffdBzRy2WWX/eIv/mKK6O9973sH1Gz+S4LTgG00Nzh5x5ula7wHrODMX5obopn3UwsECBAgQIAAgbkRELwF70YIzM3u
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

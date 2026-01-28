@@ -1,0 +1,33 @@
+---
+id: 88aee82d-68bd-4450-8f4a-ded6d4dd1139
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    iqrj1ycaa4bhuvj1onvjhdxmzlvwxq6osd9yeqhkdkm6q17vvsfbvxg1bvabuqtqzwd6pwmsxfv4lxzt7elsv3e6b66guv5v8lufsnkswcwjr2vg7sqwcvkrscqkpgcmawoop3rwkdaloe86dlv2du7260eldhqydyzv0sfg6mriiolqzqoinsc7d
+  - q8ddwxewbv
+  - >-
+    qlia1enptdkxchvmliwqdunu3cxpdu1q1w2b8vkxpoiggov6qprefwfzobk4muybli6yysrnr8ckupxbjql9
+  - >-
+    ewwntywpuxsqkv3xjktekdl6dtz0usmapaqqqsrhpwgkdpqraayqj6jyuwa63m85uemhnppzfl888
+  - 9bpy
+---
+# iqrJ1YCAa4BHUVj1oNVJhdXmZlVWXQ6oSD9yEQHKDKM6q17VVSfBVXg1BVaBUqtqzwD6PWMSXFV4lXZt
+
+## Context
+From document: New Note — chunk 11535 (chunk 11535/21099)
+
+## Content
+iqrJ1YCAa4BHUVj1oNVJhdXmZlVWXQ6oSD9yEQHKDKM6q17VVSfBVXg1BVaBUqtqzwD6PWMSXFV4lXZt7elSV3e6B66GUV5V8LUFsNKsWCwjr2vg7SqwcvKrsCqKpgCmAwOop3rwKDAlOe86DLV2dU7260eldhQYdYzV0sfG6mRiIoLqZQoINSc7d+Q8ddWxEWBV+qlia1enPtdKxChVmLIWqDUnu3cXPdu1q1W2b8vKxPoIgGoV6qpreFwFzOBK4mUyBLi6YysrnR8ckUPXbJQL9/ewWntYWpuXSQKV3XjkTEkDL6dTZ0uSMaPAqqqsRhPwgkDPqraayqj6JyuwA63m85UemHnPPZfL888/Kr/+9bPy+usvyu9//4L85jfPssr1o3xPvozXlPNg1YqKD3D8hcC3Mdm9t0v2nduLymqbbN2IIiqQcx/juJ1c5gGrFa4uFlURdRWKq8uAqvUariT3Cp4ux6OUm+MaoKxaaKv0YNUivqOz1oNW+/qjiHYqjNqIomkNY6IckBml1Ww56q30awe+7lewNU0eU15b9+vzJBIAoyiR1qN4Wlu9DGVVgFWg6Fp8Q90qiTaUA1vXoKobkY62JAqrUelBUXT92gKAcbds3NjuHbMLEFaPvWlTO4KLfVzXTq5hArVjQNQQeUWdNgYcq0BpDaDqJLC6kHt8CfD0MmDVFUDnwKz4WqDVugZg2pTe66irZidVVRMpQNVktaeoql6BVlU+TTRVA4+uQWUZZVZg1SpA30qA3/LKOVJZPZftS8hfpbR3kB9ykUFxNoXybCpTgZpqNQb4mkVBtjUkPf0p6e5LS0sxzH6g2KYKgNdJMFaVXeNAq6r8qqBqPbBtTR2545w9hdUhFFbVRgYqsSoPXB0drMZDwLO9r28FN8hyLhTAKgqrqqrqKaweBlYzQKOpAoS5B6vyZphTdVTgVWh6BVAbcxD+6XmeuqoCqx60mkJyGpVUhVbValK8EXpw69mTCqs+YDWiwKpa82H4NcsxM0haJ7npm86QBLCrfkEv9SVet7lf+C22yYB6nTCYt8mDO7Gw2CYd5m2CYt6dvPgnOG7bnQi5EyWNbSLleptkmbeJmOttwmYTONe7Ez6L3UmhC6wqqGp2LMDqOw2rvvLKK/LDH/5wRjNYVf3zzz/Pm//AFLS6Y8eOGYHV6667bgpWVXD10UcfDYBV/gei
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

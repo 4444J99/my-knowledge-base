@@ -1,0 +1,32 @@
+---
+id: 08821949-c531-46ec-943f-1087cd93b49d
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ier5jtglqvo82kqk1tfsdh9b6rykkfrlcdteecyxi3fejm3hbhej9at0xphavyxztkbn
+  - >-
+    nxb2noxwl8zuh4zap1a5xhwojixfkaurk4vij7p80t0hpie9etzlinozcukeql49pxzbhxnujyt4w9uxqjk7acg36ig8uykz0syfpawpcqhzuuuleb5pstzlse8wxbnzaxgsv0an2x
+  - 2rnkastws9jngesceuj4iet3rqkgr6wvdhvz5dxe80tysgjle1zykwxl
+  - >-
+    jxhpceyqo8uaoboswbopsqbitbrwwipyraa8nmak4fptypj0yuip9xjxjqsukowshzpiqbu7kv4yfmytyqps
+  - jucscjjlvlonmosc
+---
+# iER5JtGLQvo82kqk1tfsDh9B6ryKKfRlCdtEEcYXI3FeJM3HbhEJ9AT0xPHaVYxzTKBn+nxB2NoxWL8Z
+
+## Context
+From document: New Note — chunk 3153 (chunk 3153/8096)
+
+## Content
+iER5JtGLQvo82kqk1tfsDh9B6ryKKfRlCdtEEcYXI3FeJM3HbhEJ9AT0xPHaVYxzTKBn+nxB2NoxWL8ZuH4zAP1a5XhwoJIXFKAURK4ViJ7p80T0hPIE9ETzLInoZcukeQL49PXzBHxnUjyT4w9uXqjk7ACg36IG8UyKz0SyfPaWpcqhzUuULEB5pstzLsE8WxbnZaxGSv0aN2X/2rnKASTWs9jnGEsCeUJ4ieT3rQKgR6WvdhVz5DXE80TysgjlE1ZYKWxl+jxhPceYQo8UaoBOSwBOpsqbiTbRwwIpyRaA8nMAK4FPtYpj0YuIP9XjxJQSUkowShzPIqbU7kv4yfmyTyQpS+JUCScJJLVLonmOsc+04V8DekIhonkJ6CWa59h6i/dUq2a+NcjE+bVm40bWzHlnOGD6631InH+MtPmHfiav/AQw/xjHjwjo0bJ+GEug/4qAHlj+LkukzyOBfoXBC58tm/z8Zx5Tnv8U9QlQ5I0lU557H3V90eRnP1gw8dkPkCD8lfO7T/XPnfjsFTfD16MXznjPnj94S2dNnLFo+nibf/eH8L/4hDBvB8MQfweRLs8vNcjH1phtyAoro1Av+zlh3rYuYV42TqHLre2DlppNC11qZRm2zMIt1MPaOWSp+YwwIPqI5VZ+EZ7WAeHLLJeFoR/pZbcrxscxFWny1UiSfz9p9dwryWvmXkpA+nzMSudT6nLKjwlwyo8NcCkAij8V4+9SRDAfG+AKNM/WpQyJ8gD2zhVIqa8Aoq9EvybG37E+1t++BdUW5+/QlrDKuT5xlXNTfIDDuTh/+4vA8heB6Nt3r3RtSWXifIDjJWD56ymBSKD3c7iZ5G//Psauo24Ayt8Dmu8PXzJLiVg6SxW5dPZI5DKzwTgvq+8TvG2+ilth+RD1CIny95N8bR/ELLd4ErPcvDfRx+Y7pM/fQ91P8bf/MsnP+nvC+XhviydJvpY/JfpYPCae3x1oh0R664cA731E88TzQO+9OB6IXa6G84nelv2JXkDznmZDCSsA6L0sBnGMsmQ7lORtOZjiazOAhHkeI2HefARrjST4WKjxvA/S54HnJaDH/JFUPxsm0o/Ee5oDzluoMKapBE/CeaTLr7AQYD4twEaV6melSvGxHN3tZz2KY4HnBXAHck9gej1T4pEqD0yvTpDHGBE8MXz88lkC2BPTE9izOFdex3mE
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

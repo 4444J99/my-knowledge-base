@@ -1,0 +1,31 @@
+---
+id: b149f928-041a-454c-989d-51fa33fabba5
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 7pqmxmt2vwxtc8zivkti4bwjopokx3w10mqusgxmoys88dn8ajwohv7brwi2rczwfnhnl
+  - bslmgb93cfcqp4i1ix8vqprzmghqk1o3zvpwsiqkealdqc63trw7fd4ph
+  - c7tj01vhsmmy8hxfzqlvveu2xntb7nxmonnkjnpnj
+  - >-
+    onwx6egmyel0ducqmxatlz5mwvbvrfproqmsszae7akpukstgnghoh9wyyiya0ar4ruthm8rttptmp0i3f7iouibo
+  - 5lhij5zm6eswg3rfngurgoqzvjf1lcvpplndrkpilt91l8km9llz
+---
+# /+7Pqmxmt2vwxTC8zIVkTI4bwJoPoKx3W10MqUsGXmoYs88dN8AjWOhv7brwI2RczWFNhNl+bslmGb93
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 178 (chunk 178/3262)
+
+## Content
+/+7Pqmxmt2vwxTC8zIVkTI4bwJoPoKx3W10MqUsGXmoYs88dN8AjWOhv7brwI2RczWFNhNl+bslmGb93CfcqP4I1IX8VqPRZMgHQK1o3ZvpWsiQKealdQC63trw7fD4PH/J+c7Tj01VHsmMY8HxfZqLvveu2XNtb7nxmonNkJnpnJ/OnWx6egMyEl0ducqmXAtLz5mwVBvRfPrOQMSSzAE7akpukStgNghOH9wyYiya0aR4rutHm8RttptMP0I3f7iOUiBO+5lHij5zm6ESWG3RFnGurGOqzVJF1LCVPPLnDrKpilt91l8kM9Llz+XxVlm6/UjPQb+RBRd6Brvzxy+sM+YwV0HFdNk25L8u4H3zk49MNeVfz8JGjiUeDe9pw6sWZHCUhHiVXfuLEcs7jqNhBNCgrHo/qXPPVB/W0bBt0UONYdOvcccMvVlsffcgVpz2iW6brsKZdxrd/pF7/LsP59zr8l67BaC+NlsbRBikZpHFdfSatwcPG4dff04bmfJxbfnk0r2XYMu/9/NL89V//9fQXf/EXtRzz+uwufG+WqFqCaaYNLzTyJzu5HZ0Xnmg4Ycu8m6bjiyg/fT32+Bj1gFbZ8OY6v3/8x3+s2a3vB8QwyO+7777pU5/6VM1A49N5LPNu/vjw4zXix71zGY+m60T+S57iwqH0Lz03zrvrRJq9PNe0Q4ZOL3xJK7yPZf7olm6ZRnjL3Ppa0u71N/8Rrq5GWfbKjW7ZzsR3PTTtMj/07fibpsPe6ty04puHtJz8HJ0Pf+ul4/emF7/XNT+0eLRsHb6X/q2upf/BD34w/dEf/VG9RuDB7gP54sWv/uqvTh/5yEdWsuGLto+W2TXX+Xb5Ol74si6X9M3LGd1+5cS74/m5sWfBSDNCRv6dd+tWXOfXvJtXh7fcrjss3CLPukxm5nuXcitYbCB222231esgza/5dJ5rXkOGvfmj63pbxnU6/JY80bdT/pYPD655NI0zXo6mWeplybvplmHtF9f1Jw/hjubrvAzv/IWj6zoZ6eaJpZkIDdfnOXiVR1/vjReO38ZtNPCLNHD1Aehvfn3dadM5NPxq/IuOsnpnNGHrWbgxCKRXFCDVN7p76Cg6qKXTAAIAje5K3H4dD+c3J1+H2byrPiGVvp3uvzjM7uYohETeDBB1xFcCewo5lmBnHnTaynebt3eOZs+lY1mefWx6
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

@@ -1,0 +1,26 @@
+{
+  "id": "e36395b7-4ad7-4cf5-b0fb-b025d9ee81f4",
+  "type": "insight",
+  "timestamp": "2022-05-04T07:35:46.000Z",
+  "title": "<div>Advertising entire music videos on YouTube</div>",
+  "content": "<div>Advertising entire music videos on YouTube</div>",
+  "context": "From document: Advertising entire music videos on YouTube",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "55e4bfc4f2dde9b454da096b4295311f",
+  "relatedUnits": [],
+  "keywords": [
+    "advertising",
+    "entire",
+    "music",
+    "videos",
+    "youtube"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

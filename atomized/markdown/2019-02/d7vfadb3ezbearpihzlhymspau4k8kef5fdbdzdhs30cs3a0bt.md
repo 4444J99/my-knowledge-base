@@ -1,0 +1,32 @@
+---
+id: 01d0c0a4-e5ff-4f98-9f08-83ead715557e
+type: insight
+created: '2019-02-22T12:18:39.000Z'
+document: 28f283ae0c72332a99d7478ac2e9c9c7
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - d7vfadb3ezbearpihzlhymspau4k8kef5fdb
+  - dzdhs30cs3a0btjbxmza3ybwhmg3yzgqcfducomvv0uaz2kappph
+  - >-
+    s7tq9bsonn02wisg3tranyyiykgfsonafrvawfaaa6vnehpchhpwffeweetfstei1g5kvbplg2itlnupqbjpkilupk4ubnblhayek6kigdybxp8bfgh421z
+  - >-
+    hjvghgdqdb1ckfru80y2nncqabvd4yz4agnxoo1epwtra2ntfzwukw9vaosoonqiiijavvgaabwaknooa8vf4i
+  - bqtxz
+---
+# D7Vfadb3EzBeArPIhZlHYMSPau4k8KeF5fDb+DZdHs30CS3a0bTjbxmza3YbWhMG3yzGQcFduCOMVv0U
+
+## Context
+From document: Grandpa Pepe’s Lasagna — chunk 117 (chunk 117/205)
+
+## Content
+D7Vfadb3EzBeArPIhZlHYMSPau4k8KeF5fDb+DZdHs30CS3a0bTjbxmza3YbWhMG3yzGQcFduCOMVv0UAZ2kaPpPh/S7TQ9BsoNN02wiSG3traNYYIYkGFSONAFRVAwFAAA6VneHPCHhPwfFeweEtFstEi1G5kvbpLG2itlnupQBJPKIlUPK4UbnbLHAyeK6KigDybxP8Bfgh421z/hJvGHgDQdb1ckFru80y2nncqABvd4yz4AGNxOO1epWtra2NtFZWUKW9vAoSOONQiIijAVVGAABwAKnooA8vf4I/BqTxZ/wnkngXQm8SGTzv7SOm2xuzLu3eZ52zf5med+d3vXYaH4S8K+GJ9SuvDejWWkzazcve3z2lvHA13dSffnnMaqZJW7u2WPc10FFABXlrfA74Lv4tPj1/AehN4kaTzjqJ022N2Zs7vN83Zv8AMz/Hnd716lRQB434/wDhrpQ+E/xE8MfDrQLLT9S8W6dqzNFZww2n23Ur62ePzZmUIrSyMVDSSHJ/ibArx74Efs1+FU/Z6+Hvgj47+BNI1bxB4asBBJFqNraag1u4ld9iS4kXbzkhWIOee9fYtFAGfpWk6VoWm2+j6HZw6dYWaCOC3t41hhiReioiAKqjsAMVoUUUAFFcN4c+JfgTxdqniPRfDesQ3994Rn+y6rFHu3Wk2GOx8gDOFPTPSp/APxB8GfFHwva+NPAGqxa1ol60iw3UO7Y5icxuBuAPyspB47UAdlRRRQAUUUUAFFFFABXoPhT/AJB0n/XU/wDoK159XoXhT/kHSf8AXU/+grUz2A6aiiisQCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD/0v38ooooAKKKKAPF6Kc6lGKHqpI/Km10AFfFfjP9saHw18aPFPwH0LwLqXijxVolvYzWFtYSoX1A3cSzOWLqqW0UCN88sjkZwAMsBX2pX52/CqGFv+CkHxtuGQGVPDeiIrY5CvFbFgD6EqM/QUAX9A/b1tJNR1TwB46+GmveG/ihamEWPhVVF5cap5+7DWtwqxxmNApeSR9qKgLAtggdf8Mv2utZ8Q/GK1+Bnxg+Guo/DPxPrNtNd6QLm7iv7e+jgVnkVZoVVVcIjNgbhwQWB2huB8TwxN/wVA8ISMgLJ8OZmBI5B+3XS5Hvgkf
+
+
+
+---
+*Source: Document 28f283ae0c72332a99d7478ac2e9c9c7*

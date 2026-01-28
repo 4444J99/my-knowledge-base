@@ -1,0 +1,32 @@
+---
+id: 84b8693a-eeaf-4175-a5fc-db7633566357
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 29xhxcpyduqi6xc9jzaycwobcye9oazo58eb
+  - whllbeg
+  - >-
+    5ugtzfckk2ccf098lgel7qjw8so2sfnycnmb4gbngoujwjxobhdgkl2sdxmdmeoe4gcftpzjkmdi4wmthxkd5oq7pl3q8ngbzj2d
+  - legf2o7wwraa92auhhzu8tnizu1ijzwodazo6qa1sbsupru1qmybjxaskhgrdbtopb4rsdvncnb
+  - >-
+    y5yavoykmmyzrojxq9eim1wvew9cqq2c3ukn6iu6tzhjqbmndpp5bfznzr9e5tchfvqawihuqdr8doi2o0n9leve43ytwltl
+---
+# 29XHxcPyduqi6xC9jZaYCWobcYE9oAzo58EB/wHlLBEg+5UgtZfcKk2CCF098lGel7qJw8So2SFNyCNm
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 7748 (chunk 7748/18928)
+
+## Content
+29XHxcPyduqi6xC9jZaYCWobcYE9oAzo58EB/wHlLBEg+5UgtZfcKk2CCF098lGel7qJw8So2SFNyCNmB4gbNgoujwJXOBhdGkL2sDxmdmEOe4gcFTpZJKmDi4WMThXKd5OQ7pL3q8NGBzj2D+LEgf2O7WwrAa92auHhZU8tNIzu1iJzwoDaZo6qA1SbsUPrU1qMYbJXaSKHGRDbToPB4RsDvNCnb+Y5YavOyKMmyzROjxq9eiM1wvew9cqQ2c3UKn6iU6tZHJQBmnDPp5bfZnZR9e5tchfVQAwIHUqDr8doI2o0n9lEVE43yTWLtL+Rqloo8tfKZWYeXyUXm9l8ma/ASF8oNHPZTeM5INj7xgXXteRbsRXOufib6/k4naxY8xZprLuxmojh1xY6bsO9LMe/QsOzYwDityJwj8vB4+v5LIM02gezDLrIg3kt8Mx2fIj2xHzWbhjeGVtp5Mb+3Dav7qWdtFUfrjR4r9yjs3NW0ngHz44rZTDnAR7e1i6idbkhunvbCkuOa2rzO3+Q5gfxsc4vuCN6v13N+xu8v9yu9B2zN3gaG6r/Q7P35wQzxxq+hFf3w5Tdbld6eCuGXdJOP0yOX1TGXsKVzz6K3B+FzpUl/4bz5Vrgy/XOwz+FJO/jbPzIgpx/nQzedlP3l+ueR/fUw3fhoyvDN5ofvgUedX89av0PX9O/cEnomb1Khp9Q+I5tbFrGxm8LQdpD/otFeu6ENH9kxmaYyxcwgd/vg++P1rDS4H2fj1Rs3kZBlvBHOfysBwGXMAd/sqNzrOun1masboOnZVfdXN+z+qfAwxuFLodhox6Lgydn/1NNrBHznuNAEr+RXn+FYlPn4t3uaXDr083S+QIjQ/NQtJmzULdQHswjGsC9WO5ZeOexm2X0SneuzFDlniwQBruMyfTD0FiZ84xczmT5m8wKJtvfLFUxIMSWVMPksz6pjikAP8rqmUKiXa7V8h2tskdzk21yjZZHtoOfRwDJWiaP8pF1TB7TIdSF88KdRr2er3fzjWwhu0XwskW+LWAHqyhsIeJ0GQ16gW5P7WGBjI5leniGLfb18k1siY81Nuu01se3sGUMvNW4PNxvtOrlc/18K1vugfxSHd58XGpJYhoiHehjm/USZQD8TCx1bqfa+NK5QXCLWqnhVzv48sCQ3GGUS37Sx5cJY2QP7/HvJLcKtQuc3GuA
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

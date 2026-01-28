@@ -1,0 +1,26 @@
+{
+  "id": "d16f4c55-d3ad-48bf-82be-19bb56942a07",
+  "type": "insight",
+  "timestamp": "2025-02-09T19:57:30.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>AAA.003 → AAA.003.1 (Inserted Later) → AAA.004</div>\n<div><br></div>\n<div>📌<b> LEVEL 5 (MODULES)</b><br></div>\n<div><br></div>\n<div>✅ <b>Letter 1 = Previous module’s first letter, +1.</b><br></div>\n<div>✅ <b>Letter 2 = Same as Letter 1.</b><br></div>\n<div>✅ <b>Letter 3 = Same as Letter 1.</b><br></div>\n<div>✅ <b>Universal number continues from the last module.</b><br></div>\n<div>✅ <b>If past ZZZ, transition to ZZZ.AAA.</b><br></div>\n<div><br></div>\n<div>📌 <b>Examples:</b><br></div>\n<div><br></div>\n<div>AAA.001 → BBB.016 → CCC.031 → … → ZZZ.226 → ZZZ.AAA.227 → ZZZ.AAB.228</div>\n<div><br></div>\n<div>📌<b> LEVEL 4 (MAJOR SECTIONS)</b><br></div>\n<div><br></div>\n<div>✅ <b>Letter 1 = Same as first letter from the last snapshot.</b><br></div>\n<div>✅ <b>Letter 2 = Third letter from the last snapshot, +1.</b><br></div>\n<div>✅ <b>Letter 3 = Third letter from the last snapshot, +1.</b><br></div>\n<div><br></div>\n<div>📌 <b>Examples:</b><br></div>\n<div><br></div>\n<div>ZZZ.200 → ZAA.201</div>\n<div>PPP.110 → PQQ.111</div>\n<div>FFF.046 → FGG.047</div>\n<div>BBB.016 → BCC.017</div>\n<div><br></div>\n<div>📌<b> LEVEL 3 (SUBSECTIONS)</b><br></div>\n<div><br></div>\n<div>✅ <b>Letter 1 = Same as first letter from the last snapshot.</b><br></div>",
+  "context": "From document: 📜 FINALIZED RULES FOR THE NAMING STRUCTURE & UNIVERSAL SYSTEM — chunk 2 (chunk 2/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "0007ef4c0342a73c2192c138949b0a39",
+  "relatedUnits": [],
+  "keywords": [
+    "letter",
+    "from",
+    "last",
+    "same",
+    "snapshot"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: 48c35e9c-620b-4f22-a86d-c15de8873022
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - lrrmkk4onpmtcgt
+  - >-
+    xnhpvnxsc3wlaglazxladmrgdyztjozqvtlccdabzfwlwo4okg4m5farxnwylcnuwwiwby3zeorzduyepaogclvraetgcnelpumi5igihzh1xsxkixacplxdoajrhhtndzao0k7auepqco8jnf80y
+  - dimleq7urkxj7lczaldcfm1svu3bl
+  - 3glvwxvqmannacdn
+  - >-
+    a7qth1qnx6znlecpzmn4qlpeukonpfqdxnyfcvhck5v64z1qkuvsrmcuetdeijhrugxnheqzgujyqtukkfgmfvr
+---
+# LrRMKK4onpMTcgt/xnhPvNxSc3WLAGlAZXlaDmrGdYZtjoZqVTlCcdaBzfwLWO4OKG4M5FarxnWYlCNU
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 5624 (chunk 5624/11534)
+
+## Content
+LrRMKK4onpMTcgt/xnhPvNxSc3WLAGlAZXlaDmrGdYZtjoZqVTlCcdaBzfwLWO4OKG4M5FarxnWYlCNUWwiwbY3ZEoRzdUyepaoGclvrAeTGcnElpuMI5IgIHzH1xsxKiXACplXdOaJRHHTndZaO0K7AuePqCO8jnF80Y+dImLeQ7urkXJ7lCZALdCfM1sVU3BL/3GlVwXVQMAnnaCDn/A7QTh1QNX6znlEcPZMn4QLpeUKOnpFQDXNyFcVhck5V64z1QkuvsrMCuetdeIjHRuGxnhEQzGuJyqTUKKfgmfVR+UhghoswhdaE97ZSFAO/ZWfRuWo7m5yTEqCuobiO3dCHcZNi0b9AHzTxNoQTJ6m4Lq+ic586ON8LqnntXnhP83C3inVOjn1StepDmoTDXzqx6hvw030gN+f2MP7QFJ1R3MZwjrNuR9ddclXgOnn2jp6Ka4rn6ozrjPR8Jebb+wB1gnMZ7Cn/x1XneSqu6YHrvgm8ffIcXnYGlsMPpTFRB8wGCOdo5XPCdVS+yy8PgFxVPFdnFGekh9wYjxDuozCe5+Q+Bdhj9WvSv+apuKYHrvvCbsgBzDCHh/ji/NzwtsfFlY7AZnENZsF1VJ4D3cGDWbeqvFs1FGekBywHhBagLnDdCdgzrnuS/hSA7YOur6wwD3COKO6BwM+g7t2XwG925ohZN8zAOdY+WMv8cRbhqTNzqL5fNBTnuTqgu4zrjNysyJ8m7XbhxI/fPAOHmJGekZs72IO8wLkAe9Y96+Z46oQSU3QZ0eFPAsE2V/Fj94r0AH6QU9kZSiWwtyBSso5Y8zoV51U8iafWuuap3bDKs3HuACCnSxcV+/AnXEelzNLZGR7qo09ItFOm7oz3pARIa52xl5xRxY9aMW9HpThbn1GrplR9wdn6AKGx206KPqVyPaY9eorcU90MYMru4QHuynivdI5qPW3R2R+5YdJRFQDJ1az/zInzo4+c2kvPbqVGetSzzMxlpBR74fzAe96F0fhNnes5rTfnKL+jvkbYhXsdZrpXtehdfCUm/5zCxZjtc6jwzH5+DtHzBLbFKj2LkVt0lvPg58pPKr2sIq4brYSnfubrwUqKg3enUoCZ+sdXKpz4fVThmfGbFXzPA+kdwbbyXSToNeXOdMLPtWMgMe9LXcAPZ3DuaIRmv3dMmC36w1lxXfPjv5RplwTeZihOurGZ
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

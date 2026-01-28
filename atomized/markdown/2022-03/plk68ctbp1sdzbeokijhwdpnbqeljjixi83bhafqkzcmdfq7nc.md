@@ -1,0 +1,31 @@
+---
+id: bd0c545d-28e9-43fd-8a16-1056eaece484
+type: insight
+created: '2022-03-16T12:34:10.000Z'
+document: 7405c2da6b92da26b0b49297d3a4e664
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - plk68ctbp1sdzb
+  - eokijhwdpnbqeljjixi83bhafq
+  - >-
+    kzcmdfq7ncdiqhge9u1izjclsbfeajvmklkcnqizd5ecctcrjnavdfptcpufpyw9kauz00ezhae1rhblflfbkrvmq54xujsypplaoc5gnbootpmnxknh6vtpmz4g3p7u0kfwjfaxm1dol8vly4qphzsxlflxiukyxjwekysihsifaxmw6nvtsjp6vmuiqi5om1z8193nojmcth
+  - laiunlvtkkfstoo0iqgp0xwzi7mxd6vpfm4nvaeckaj5lrd
+  - 80ww0k8daaveixb7j8qxrmtdjhe1accgjpfki61a2kzm5ezaftupzpmh8nx
+---
+# PLk68CtBp1SDzB/EOKijhWdPNbqelJjIXi83BHAFQ/KzCMdFq7NCdiqhGe9U1iZJcLSBFeaJvMKLkCnQ
+
+## Context
+From document: The battle of the blinds — chunk 228 (chunk 228/1787)
+
+## Content
+PLk68CtBp1SDzB/EOKijhWdPNbqelJjIXi83BHAFQ/KzCMdFq7NCdiqhGe9U1iZJcLSBFeaJvMKLkCnQiZD5ecCtCRjnavDfpTCpUfPyw9KAuZ00EzHae1RhblflFbKRvMq54xUjsYpPlAoC5gNBOOtPMNxKNh6VtPMz4G3p7U0kfwjFAXM1dOl8vLY4qpHZSXLfLxiukyXjweKYSIhsiFAXMw6NvTsJP6VMuiqi5OM1Z8193NOjmcth+lAiuNLVTkkfStOO0iQgp0xWZI7mXd6VPFM4nVAeCKAJ5LRd+80wW0K8dAavEIxB7j8qxrmTdJhe1ACCGJpfKI61A2kzM5EZAFTupZPMH8NX/ALWi24I6qKYGE9rMn7skAiie2RIcn05q40ct0QzED0qnq0n2eNLbOd4wcUikyjDpUt0pkH3Vqc6W6gBa3rHEdoqt3HFLcPJCqlMEUxI5VrK4hbgVZUXDptftXSJKJIgxAziq0rDAPHFIaZlxNcmF0/hA4rKWKSQ7emK6tPLMRK8GsacMrblwKCkZkjOv7r+7ViAlFyenala2Mp3p1HWr2xGgVW7UARibaoamsys+6kSHc2F7UrxDNAFxZgV4qFDIzbV4qpGp349K0EC79/Q0AR72iJjk6Y7VAkUkg3jgA1ZunDJsXqKbEzNBzwaAI2Xz+Y+MVWkk8heRzWlZRrgyfxdKgkhMsu1+mKBJmP5kZGRw1SfJLgMOabNbrEantzGV245oK6FhLIJhlIqXy1mYM3CrxUYXcdqVJ8zpsHagcQMNvj5QaYqjOxKfbgiUL2q28cdtMretSyiOK1YHLVIziCQKo+U9aSC6Zpdr9D0qGWRpZCoHSiwhyOFkLL901MzrIyqKt21ijRnzO9Qm2jR8J2ppEuRSuYE439qw723Bt5SvYcVtX2FXc3GK5K+1FlAij+63BrWMTCcrHJPFJKfLz0rldRe4tHYKcba7UN5UjM/IbpivO/GF5JHhY/4+K66cTkZ9ef8ABPH4YXfxE+Ntzq0qeZHpUsc7fSv6rIo4reJYYhtVQAB7V+O//BKv4Unw94fv/Gt1EP8Aib26bCR6Yr9iK7pNRijxMZO8rCdqzPtvli6c8eTHu/KtGRwinP4VxHim/OmeEvEGqkY+zWMsnT+6hP8ASnF+7cxorVH85P7autR6v+0HrssZO7aoI7ce1fOmmRE26qK
+
+
+
+---
+*Source: Document 7405c2da6b92da26b0b49297d3a4e664*

@@ -1,0 +1,33 @@
+---
+id: 3c21465f-5470-4453-92bf-eaaf4dcb8b10
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - dnux
+  - >-
+    qaidmv3nppxh6ozyph3r22knhaboitqvxsgtjkujooom2quz0jmatxmv4zobsdhvdvs30prnamxxh63kc3nbrg2ws9srm1yzytdpaa9xegtpc5oelehzjiayqmubjfww
+  - imgoqrpjxljzr6h151xzlbxfpaka964fbwppabgu6hrfj7iavklq2
+  - >-
+    0wqzim43mys3qhbpzabzcop2ur6xk65g7firybkgwxzvt2rtaypwernrdm2ne9ycrwyyc1gx4mtikj1p
+  - >-
+    vwmwmtnao8z6punwqunwsfnn1bwwkosfepw1fr4vxxpgtw15r5ftzvlximxs8p1dslzvutejfgqa6sdwkfzo7r
+---
+# DnUX+QaiDmV3nPpxh6ozYpH3R22KnhaboitqVXSGTJKuJoOoM2QUZ0JmaTxmV4ZobSDhVDVS30PrnAmX
+
+## Context
+From document: New Note — chunk 7464 (chunk 7464/8096)
+
+## Content
+DnUX+QaiDmV3nPpxh6ozYpH3R22KnhaboitqVXSGTJKuJoOoM2QUZ0JmaTxmV4ZobSDhVDVS30PrnAmXxh63Kc3NBrG2WS9SRm1yZYtdpaA9xEGTpC5oEleHzJIayqMubJFWw+iMGoqrpjXljZr6h151XZlbXfPAKa964FbWPPAbGu6HrfJ7IavkLq2/0wQzim43myS3QhbpzaBZcoP2uR6xK65G7fIrYbKgWXzVT2rTAYPwerNRdM2nE9yCRWyyc1GX4mTIKj1P+VwMWmTnaO8z6PuNwquNWsFNn1bwwKOsfepW1FR4VXXPGtW15R5FTZVLXimxS8p1dslzvUteJfGqa6sDWkFZo7r+qZ/ybtIL73lVtfUeda3AInwW11Td+5W26t5fGeofjdslFV43AfxuRbXJLas0UZzYp66v9GsbntKda+FzSCsbPcoakV9b/zyga3js09Q/plrUUC5St7zK4FZUqbD/a6sWI5byq6E9GzyKainlZHAREE9jsUtRpXDKKiwuWaXWpajEHOX+3GuTVNioL6RcqnFH2uOJS15d6ZBWGCyC5y5LQ7nPKqw02iVVdQ5JdaVdVvPMLqVaqOpPe5UNp+zK2iswl1pw0iGvvWkUVgiNgnKdUVguNwqeq3Q1j33q6kdBTfWjgLL8fo/86b1xVfn9DsWzez3UZrTVjx36uqcyk7DiiVNef8JNELlfLfnSR+rrjUbxhwRNf+wm9XdXEXSO/zZDEd5lEBVAdCjDA6QH2E6K5xt0BXi+ardBUrUb0Hrxf8t/U99C6zWSigOqhvKzCsHTc6Rmvhk+i1r0a5CsSdnwPqmxf6WR1X4N04rrNhuUws8By7+5t1Er+USrFK1iv1lFeeqUb/EYrZlyB1RvImieAPY1ZrV8ucOsfMtlUL9tMyneMetkywjYXgeFeoLZt+uV4h1QodfIBUepPWhQSXdaCLC36xUrrWrJBpNGspeA/JMEel+hX6m6aKGxTS/72qZXfOUwqta4CeaGIjp8UEi3mxWrnSbVCptOusegbLhCivSH6cz9pHJ/XScXVJg14ksmtfAmwfZX5A0VCY2kOu8xK/KZiCvfn23OdxNIn2y25wMObb6h6vHfAaDXyuvUBJyXWTTiO3pFnUwrrXGpRBUprbzWatIIK6xa8QOourutioM2+nNm1YnumkhpXk8fiuiUdRYDwe8FgF4r
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

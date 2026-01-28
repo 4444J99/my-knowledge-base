@@ -1,0 +1,26 @@
+{
+  "id": "d46b35b7-93ee-47c5-8330-955be9b0c4a0",
+  "type": "insight",
+  "timestamp": "2018-12-18T05:53:09.000Z",
+  "title": "<div>Beastie Boys</div>",
+  "content": "<div>Beastie Boys</div>\n<div>Arca</div>\n<div>Guns N Roses</div>\n<div>Smashing Pumpkins</div>",
+  "context": "From document: Beastie Boys",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "9ff314d4be057ff938acb301725694fb",
+  "relatedUnits": [],
+  "keywords": [
+    "beastie",
+    "boys",
+    "arca",
+    "guns",
+    "roses"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

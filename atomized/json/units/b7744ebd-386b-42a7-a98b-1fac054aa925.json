@@ -1,0 +1,26 @@
+{
+  "id": "b7744ebd-386b-42a7-a98b-1fac054aa925",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>A “handoff seal” answers four questions:</div>\n<div>What is this artifact in the naming grammar.</div>\n<div>Which worlds, waves, and characters it touches.</div>\n<div>Which prior artifacts it depends on.</div>\n<div>What it expects the next AI or human to do.</div>\n<div><br></div>\n<div>The SEAL is embedded as a short header or footer, in plain text, and references its own LAYER-DOMAIN-TYPE-ID-VERSION name plus cross-links into $ARCHIVE_ROOT.</div>\n<div><br></div>\n<div>Example name:</div>\n<div>SEAL-SYSTEM-SPEC-HANDOFF-0001-v1_0</div>\n<div><br></div>\n<div>────────────────────────</div>\n<div>2. Self-Evolving OS Architecture and Core Roots</div>\n<div><br></div>\n<div>2.1 Root Directories and Roles</div>\n<div><br></div>\n<div>Define the following high-level roots as environment variables:</div>\n<div><br></div>\n<div>$OS_ROOT – the conceptual and file-system root of this creative OS.</div>\n<div>$ARCHIVE_ROOT – the durable, append-only digital memory archive.</div>\n<div>$PROMPT_ROOT – the canonical library of prompt templates and prompt shells.</div>\n<div>$REPO_ROOT – the local or remote root hosting all git-managed repositories for $ORG_ID.</div>\n<div>$ORG_ID – the neutral, non-branded organization identifier used in repository names.</div>",
+  "context": "From document: 0.\tPreamble and Scope — chunk 8 (chunk 8/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "b3360b527d494aeb150b316c90472eb0",
+  "relatedUnits": [],
+  "keywords": [
+    "seal",
+    "root",
+    "handoff",
+    "what",
+    "this"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

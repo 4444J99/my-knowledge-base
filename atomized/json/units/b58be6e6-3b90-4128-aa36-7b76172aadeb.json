@@ -1,0 +1,26 @@
+{
+  "id": "b58be6e6-3b90-4128-aa36-7b76172aadeb",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## 🔧 SYSTEM COMPONENTS (RECURSIVELY SCAFFOLDED)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Component      | Description                                                                 |</tt></div>\n<div><tt>|----------------|-----------------------------------------------------------------------------|</tt></div>\n<div><tt>| SYMNUM4GRAM  | Symbolic grammar parser (sentence &gt word &gt letter); core of language play   |</tt></div>\n<div><tt>| RGLE         | Recursive Generative Language Engine; story-growing feedback brain          |</tt></div>\n<div><tt>| ARCHIVE_OS   | Versioned story memory, grief logs, dream scripts, self-loops               |</tt></div>\n<div><tt>| MIRROR_MODE  | Dialogue with past/future selves, character-based journaling                |</tt></div>\n<div><tt>| NODE_RACK    | Modular symbolic synth rack; plug-in and reroute all layers                 |</tt></div>\n<div><tt>| CHARACTER_NODES | People become mythic agents—FORREST_BUFF, JESSICA_MIRROR, DAVID_WAYNE etc. |</tt></div>\n<div><tt>| RITUAL_ENGINE| Ceremony templates, symbol generation, seasonal loop syncing                |</tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 110 (chunk 110/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "symbolic",
+    "language",
+    "story",
+    "system",
+    "components"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

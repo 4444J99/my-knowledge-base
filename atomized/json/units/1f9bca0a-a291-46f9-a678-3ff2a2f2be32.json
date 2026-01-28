@@ -1,0 +1,26 @@
+{
+  "id": "1f9bca0a-a291-46f9-a678-3ff2a2f2be32",
+  "type": "insight",
+  "timestamp": "2020-10-14T17:29:00.000Z",
+  "title": "<div><h1>Hulu login</h1></div>",
+  "content": "<div><h1>Hulu login</h1></div>\n<div><br></div>\n<div>[REDACTED:EMAIL ADDRESS]</div>\n<div>Britt728</div>",
+  "context": "From document: Hulu login",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "e2537a1237b41820bd119faa28f812af",
+  "relatedUnits": [],
+  "keywords": [
+    "hulu",
+    "login",
+    "brittanypadavano",
+    "gmail",
+    "britt728"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,31 @@
+---
+id: cef83224-193f-4daa-93c5-722cd3c36868
+type: insight
+created: '2025-06-26T17:15:56.000Z'
+document: 87215f26527a3ddd27752e0848e7ba23
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: design
+keywords:
+  - 'true'
+  - induction
+  - truth
+  - being
+  - like
+---
+# sistent logics. Symbolically, they represent binary thinking – a clear distincti
+
+## Context
+From document: 🧵 Meta-Laws of Reality — chunk 18 (chunk 18/79)
+
+## Content
+sistent logics. Symbolically, they represent binary thinking – a clear distinction between truth and falsehood, being and non-being. (Modern developments like fuzzy logic or quantum superposition explore what happens when these laws are relaxed, but the classical laws remain cornerstones of formal reasoning.)</div>
+<div>  •  Principle of Mathematical Induction (Domain: Mathematics) – A fundamental axiom/principle used in proofs: if a statement is true for 1 (or some base case) and if assuming it true for n implies it’s true for n+1, then it’s true for all natural numbers. It is a way to prove infinite cases with a finite argument. Example: Prove formula for sum of first n integers, $1 + 2 + ... + n = n(n+1)/2$. Base: For $n=1$, $1 = 1(2)/2$ holds. Induction step: assume true for $n$, then for $n+1$ the sum $1+...+n + (n+1) = [n(n+1)/2] + (n+1) = (n+1)(n/2 + 1) = (n+1)(n/2 + 2/2) = (n+1)(n+2)/2$, which matches $(n+1)((n+1)+1)/2$. Thus by induction, the formula holds for all $n$. Implications: Induction is like a domino effect in logic – topple the first and a rule ensures all fall. It exemplifies recursion and self-referential structure in mathematics: the truth at one stage ensures truth at the next. It’s also conceptually linked to recursive definitions in computer science.</div>
+
+
+
+---
+*Source: Document 87215f26527a3ddd27752e0848e7ba23*

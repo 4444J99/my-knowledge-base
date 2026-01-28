@@ -1,0 +1,32 @@
+---
+id: 2f461012-51ac-42d0-b413-1476637335db
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - auqyubcrl7bnvfaixaqmubdqdg4tvubjq1b
+  - i9my15pstiochbs6l8ifymocasd4
+  - >-
+    uqneaqj0hpdeb7fsang3mjfqeot9kqrg1ziavabgvdcgnnzmk5iwozqi9nvehqlabolflcztdq5x6fzkxibsnjlxmwq0gkmlkkjkfuesaxcjni5qfrlwrxy9xzoeunmj2gj31worrqaqoqssgjlltraxvderhrnwka5qcnrqvr2xheeaab2clhmr6oaw6x0arnchzpg
+  - l9jdezkhtxqgau
+  - >-
+    xgg4dkhefgeo9gi8wqerglgyaghccbwaaqabjrefuuw8nalpurmrq4ws205vind2g12r0q6saq304j3qrcjqwrhmgne
+---
+# qI/auqyUbcRl7BNVFAiXAQmuBdqDg4tVUBjQ1B/i9My15PStIocHbs6L8iFYMoCASd4/UQNEaqJ0Hpde
+
+## Context
+From document: New Note — chunk 7756 (chunk 7756/21099)
+
+## Content
+qI/auqyUbcRl7BNVFAiXAQmuBdqDg4tVUBjQ1B/i9My15PStIocHbs6L8iFYMoCASd4/UQNEaqJ0Hpdeb7FSAng3mjFQEOt9kQrg1zIAVABGVDCGNNZmK5IwozQI9NveHQLaBOLFlczTDQ5x6fZkxibSNjlxMwq0GkMlkKjKFUESaxCJnI5QFRlwRXY9XzoeuNMJ2Gj31wOrrqaqOqSsGjlltRaXvdeRhRNWka5qcNRQvR2XhEeaaB2CLhmr6oAw6x0ArnCHZpg/L9JdEzkHtXQGAU/xGg4DKHeFgEo9gI8WQErGlGYAgHCcbwAAQABJREFUUw8NALPuRMrq4Ws205VINd2G12R0Q6sAq304j3qRcjqwrhmgNE+DY03UM4SAxw6EPQKlNrbgPAJUbWqNUnNLHJAzjP67gDwNSDFFYixST60Aqy4/p80COAOmMlbNNAco1xLE8QC/Ig2U01k7+zK0G3j5I3ceorvvv44+duwojmkLepwFLK6lKhjJyrqlVAOwqjdXkMlWDahZgxE9NJWLqtejHzpOYF2D17gaSLUS29eih2tE6a24LUos29eQAVZSj2BRHdJpjbg6vc0Fe+kDVAVQ9YdrcB5V47ypomCkBlgUgBtwNNNgwfO0UWPegefuBM5lcIvXGOmq3Nskp9AiHFSC1QTgcCRuQsIsEldxdXt/WIekWSOSeC24rYNakaI6NJYFWO2gPQfw++DwMB1AGu6BQ/h52jdIGze3IVHYj/RUE4VwWx/ux+LA84URrUfaLANdhquctGqyrCGbs1Kk2Xp89XSRHhrXrMcvLETJWrgMHA+9CCmq+IVlXoLkVIhtO34AgFZ5ZLQqoKpIVQVgBVYViauGZWLkOSeoGuuWiJJo1WnGD5YCrdoAUzlh1YnIX/vE3IuT1Qcp7EHT7YCq1jocF8oJ0OrDixLCD0HcjYRVXwWlUDFXGQWsS8iDX7Y+00L6hiJhlZGqAKsCq05NVxWIVcJVgVcLUJWTVgVSlSNwqkSrAqwyUGWwqsSqk2iV01VPJ6w+x4gVxVC1WMlkVR6/DLgq3yDJN0+T4z/10qnPt9BLf5ajbqTKJqLB92HVYoDV6XDSD777z3Tq1KkpUFW+8XsfWJ3Eqv+HvfcAk+yozv6xP4K00ubd2Z3Y093T03G6ZzpOzjnv7MzmrAirCBYSBgNCSAJE8OP/B8YBMGCw
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

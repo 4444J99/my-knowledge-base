@@ -1,0 +1,32 @@
+---
+id: 95a6d8be-b264-4415-8644-32f9da6910c9
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - zqnb1wmn8q
+  - >-
+    lx9t6yu7s807xre7l9im2om9rslfo23ljkfuaj6v9rwmryt27f5hxfgluac9t9gvgvbwtt8m9ghslcwlyweuasqqbaqussflhyjjj45r2wcwdygsbx0zxzr
+  - zy8u
+  - >-
+    wy0e7hugulas0ien2g1iu0zlkohlz4r337cqgintok8bicdwlmn3z6ostpdwa7i0gguzkz2pddg0db7
+  - 5nnv7upcr7g3krzxgaj8els21wjydyharkuv2i4w3aiwwy4o7phr0r52b0poyppalccjc
+---
+# ZQnb1wMn8q/LX9t6yu7S807xRE7L9im2om9Rslfo23ljkfUAj6V9rwMrYt27f5HxfGLUaC9T9GvgvbWt
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 1182 (chunk 1182/2189)
+
+## Content
+ZQnb1wMn8q/LX9t6yu7S807xRE7L9im2om9Rslfo23ljkfUAj6V9rwMrYt27f5HxfGLUaC9T9GvgvbWtt8M9GhslCwLYweUASQqbAQuSSflHyjJJ45r2WCWdYgSBx0zXzr+zy8U/wy0e7huGuLaS0ieN2G1iu0ZLKOhLZ4r337cqgInToK8biCDWLmn3Z6OStPDwa7I0GguzKZ2PDDG0dB7/5NNv7UPcR7G3KRzxgAj8elS21wJYdyHaRkUv2i4W3AiwwY4O7PHr0r52b0PoYppalCcJC+YzkAcgHmn2qi4YylSBT4PJRXMnOzr3qzBKJrQSgbQwzzRFpLU1ukizm2CbVJyOnFZ6mUAxtxzyBVeS5kiQeWBgHpUK3DvJtkPLnGPSnCfUFqi+ruflPzKBxmsoXLr+67k1a8iVJPJkYrnpWPOdsz2qrl8cGtvaK10T6nQQecbsCQgKBz+NTX8sRXasm0A9O3HeuY0+Z7crbANnGTnn8z0q9cubmRVGMZ5pbsOW/Qr3lojr++G8uchutQWs1vA2bl8BerGrT/wCilk3ZxWQpcbncdcdavku0KUGf/9H+p+JYfLDPngYK/wCNTboyudvyjvSje1qpYAAUxlBUNnI6V+OKOup+gJ2SuZ+2KMt5mct0P9Kbcw+ZCrFiuD0Hf86mmIkYIw6elTNCZFJPH9K6MHC8tDnrt7njnxQtTLpDRwnHyknPTjmvgj4V2k0nxf8A7ZhkeB0DK2D1zt7enAr7s+Lepy6ZoVwI1O/aRnGSMg8j8/wr8+vgbqviib4uzyXEUX9nGVkjaXInJGDwB8pXrk8c9K/TcohJYKfz/I/PMyd8RFLv+p+tZfz445QMfKOMfzqisJaVkZSDnirVsZ5oI55TyB2qUBHLGM/MeOf1r82as3c/RsO/dVyOKAD55ecVG2XQqoCjv71ZWIlgJjxT5LUY+VsjtWeh1blSNAExnJNPVVEgBOTVlIGZAI+ecHPpSmJY33H5sdDVpXJikzOuAWxnjHbpV4oix+W5zjt2JqvtlnkLyVLJFEY8vkYNDdtzRWK7o6y77U846dq0Iolxul6+lVrUjzto5wM9KsFcsZDnA9alyRLauV5C5cyE/KO1M3qoXcNw9+1Rq6SbkzkrzU8ZjZMtwKmVnsTUdiFmC8xgH60sV0r5jHBqi5VPklPXoR0pLHHWQc9qumiYSsa
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

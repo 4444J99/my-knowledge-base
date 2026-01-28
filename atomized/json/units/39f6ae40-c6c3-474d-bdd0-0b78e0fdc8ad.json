@@ -1,0 +1,26 @@
+{
+  "id": "39f6ae40-c6c3-474d-bdd0-0b78e0fdc8ad",
+  "type": "insight",
+  "timestamp": "2025-02-06T00:45:50.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Forum Post + Peer Response</div>\n</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>B Week</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Close Reading Assignment</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Annotate + Text Breakdown</div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">✅</font> Why This Works:</div>\n<div>  •  Encourages deeper critical engagement.</div>\n<div>  •  Alternating structure prevents repetition burnout.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🎭</font> 6. Catharsis Threads (Structured Reflections)</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🚀</font> Every week features a “Day Thread” and a “Night Thread.”</div>",
+  "context": "From document: Comprehensive Course Structure and Alternating Schedule (A & B Weeks… — chunk 100 (chunk 100/108)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "e6f6d7a4f460105d4038eb4ed27bc7e9",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "font",
+    "valign"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

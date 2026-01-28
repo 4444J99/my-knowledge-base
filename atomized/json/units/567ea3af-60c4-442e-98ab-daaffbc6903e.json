@@ -1,0 +1,26 @@
+{
+  "id": "567ea3af-60c4-442e-98ab-daaffbc6903e",
+  "type": "insight",
+  "timestamp": "2015-02-13T14:08:24.000Z",
+  "title": "<div>I'd wonder who has been inside, who crawled inside before </div>",
+  "content": "<div>I'd wonder who has been inside, who crawled inside before </div>",
+  "context": "From document: I'd wonder who has been inside, who crawled inside before",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "07764a26ee5ca4e764cbf06cd37393ee",
+  "relatedUnits": [],
+  "keywords": [
+    "inside",
+    "wonder",
+    "been",
+    "crawled",
+    "before"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

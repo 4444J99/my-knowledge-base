@@ -1,0 +1,26 @@
+{
+  "id": "9393fa8e-c17f-4c92-a461-022b337f264a",
+  "type": "insight",
+  "timestamp": "2022-01-07T00:17:08.000Z",
+  "title": "<div>When I arrived to long stay at my familial home, I walked up a flight of fr",
+  "content": "<div>When I arrived to long stay at my familial home, I walked up a flight of freshly painted stairs and tracked paint soaked sock prints across the hall. </div>",
+  "context": "From document: When I arrived to long stay at my familial home, I walked up a flight…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "161d037e5db293a264206a4d30edd70c",
+  "relatedUnits": [],
+  "keywords": [
+    "when",
+    "arrived",
+    "long",
+    "stay",
+    "familial"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

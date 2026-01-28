@@ -1,0 +1,26 @@
+{
+  "id": "73803d77-52d1-42e0-854d-bb06828349e7",
+  "type": "insight",
+  "timestamp": "2025-05-11T12:30:52.000Z",
+  "title": "<div><tt>│   ├── grants_pitches/</tt></div>",
+  "content": "<div><tt>│   ├── grants_pitches/</tt></div>\n<div><tt>│   ├── syllabi_toolkits/</tt></div>\n<div><tt>│   ├── portfolio_reels/</tt></div>\n<div><tt>│   └── pdf_downloads/</tt></div>\n<div><tt><br></tt></div>\n<div><tt>├── experiments_live/           # Prototypes, open threads, volatile systems</tt></div>\n<div><tt>│   ├── threads_open/</tt></div>\n<div><tt>│   ├── gpt_fusion_tests/</tt></div>\n<div><tt>│   ├── revision_loops/</tt></div>\n<div><tt>│   └── n4rr4tive_prototypes/</tt></div>\n<div><tt><br></tt></div>\n<div><tt>├── fragments_memory/           # Raw text, logs, memory dumps</tt></div>\n<div><tt>│   ├── mem_dumps_by_date/</tt></div>\n<div><tt>│   ├── emotional_tr4ces/</tt></div>\n<div><tt>│   ├── log4s_interactive/</tt></div>\n<div><tt>│   └── unfinished_id3as/</tt></div>\n<div><tt><br></tt></div>\n<div><tt>├── gateways_input/             # Input streams from device, GPT, or sync</tt></div>\n<div><tt>│   ├── sync_inbox/</tt></div>\n<div><tt>│   ├── txt_ingest/</tt></div>\n<div><tt>│   ├── audio_drops/</tt></div>\n<div><tt>│   └── ai_response_stacks/</tt></div>",
+  "context": "From document: 4_S0VRC3/ — chunk 2 (chunk 2/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "f9893577568308f9ddc4c44fa77b59fa",
+  "relatedUnits": [],
+  "keywords": [
+    "grants_pitches",
+    "syllabi_toolkits",
+    "portfolio_reels",
+    "pdf_downloads",
+    "experiments_live"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

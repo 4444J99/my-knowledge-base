@@ -1,0 +1,26 @@
+{
+  "id": "ba7ebddf-9e24-4689-b22f-237b9693a925",
+  "type": "insight",
+  "timestamp": "2024-02-29T00:17:08.000Z",
+  "title": "<div>[Notary Seal]</div>",
+  "content": "<div>[Notary Seal]</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>Instructions for Use:</div>\n<div><br></div>\n<div>1. Fill in the Blanks: Complete the date, state, county, names of the signatories, and the type of identification used for verification.</div>\n<div>2. Signature by the Parties: Ensure both the Service Provider and the Client sign the SOW document in the presence of the notary.</div>\n<div>3. Notary Acknowledgment: The notary public will then fill in their part, confirming the identity of the signatories and witnessing the signing. They will also affix their official seal.</div>\n<div>4. Check Local Requirements: Notary requirements can vary by location, so it's advisable to check any specific requirements in your state or country to ensure compliance.</div>\n<div><br></div>\n<div>Adding this notarization section will enhance the legal robustness of your SOW, providing an additional layer of verification and formal acknowledgment of the agreement.</div>",
+  "context": "From document: Notarization — chunk 2 (chunk 2/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "cc82e30dd699ef5cc02ce76d8596c630",
+  "relatedUnits": [],
+  "keywords": [
+    "notary",
+    "will",
+    "requirements",
+    "seal",
+    "fill"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

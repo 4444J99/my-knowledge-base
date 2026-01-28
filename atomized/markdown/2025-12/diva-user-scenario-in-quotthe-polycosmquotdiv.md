@@ -1,0 +1,35 @@
+---
+id: 01feb16f-da9c-42c0-aee0-016e2e93065f
+type: insight
+created: '2025-12-21T15:18:27.000Z'
+document: 5aac1d5f80c3f292367e97b95697efe9
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: writing
+keywords:
+  - quot
+  - they
+  - column
+  - quotdream
+  - prism
+---
+# <div>A User Scenario in &quotThe Polycosm&quot</div>
+
+## Context
+From document: This application, "Infinite Wiki," is a dynamic, AI-powered hypertext… — chunk 11 (chunk 11/11)
+
+## Content
+<div>A User Scenario in &quotThe Polycosm&quot</div>
+<div>A user starts with the word &quotDream&quot in the default Oracle Prism. It provides a psychological and neurological definition. The ASCII art is a simple, abstract representation of brainwaves.</div>
+<div>Intrigued, they click the &quotBranch&quot button next to the Prism selector, creating a new column. They set this new instance to the Poet Prism. The definition of &quotDream&quot becomes a short prose poem about &quotthe soul's nightly theater.&quot The ASCII art morphs into something more whimsical and surreal.</div>
+<div>In the Poet's definition, they click the word &quotsoul.&quot It continues in the second column, now defining &quotsoul&quot in poetic terms.</div>
+<div>They jump back to the Oracle column and click on &quotneurological.&quot This continues the exploration in the first column, drilling down into the science.</div>
+<div>Their screen now shows two parallel explorations branching from the same starting point. The Exploration Graph shows one root node (&quotDream&quot) splitti</div>
+
+
+
+---
+*Source: Document 5aac1d5f80c3f292367e97b95697efe9*

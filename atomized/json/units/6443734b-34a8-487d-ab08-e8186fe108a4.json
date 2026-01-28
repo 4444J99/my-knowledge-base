@@ -1,0 +1,26 @@
+{
+  "id": "6443734b-34a8-487d-ab08-e8186fe108a4",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>GitHub Copilot: Collecting extension inventory and checking Python debugpy directory status.</div>\n<div><br></div>\n<div>Created 7 todos</div>\n<div><br></div>\n<div>Ran terminal command: code-insiders --list-extensions | sort | head -n 50</div>\n<div><br></div>\n<div>Ran terminal command: ls -1 &quot$HOME/.vscode-insiders/extensions&quot | grep -E 'ms-python.debugpy|ms-python.python' || true</div>\n<div><br></div>\n<div>Ran terminal command: test -f &quot$HOME/.vscode-insiders/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/package.json&quot &amp&amp echo 'debugpy 2025.16.0 package.json OK' || echo 'Missing package.json for debugpy 2025.16.0'</div>\n<div><br></div>\n<div>Ran terminal command: du -sh &quot$HOME/.vscode-insiders/extensions&quot/* | sort -h | tail -n 12</div>\n<div><br></div>\n<div>Starting: *Suggest internal remediation* (6/7)</div>\n<div><br></div>\n<div>**What’s Actually Wrong (Inside VS Code)**</div>\n<div>- The earlier “corruption” symptom was a transient missing package.json error for an older debugpy directory; you now have a valid newer debugpy folder (`ms-python.debugpy-2025.16.0-darwin-arm64`).</div>\n<div>- Instability risk primarily comes from overlap of large AI / tooling extensions plus cosmetic/vibrancy layers, not from a broken core install.</div>",
+  "context": "From document: User: fix — chunk 28 (chunk 28/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "debugpy",
+    "python",
+    "quot",
+    "extensions",
+    "terminal"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

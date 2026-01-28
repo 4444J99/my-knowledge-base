@@ -1,0 +1,32 @@
+---
+id: cd677f93-77f0-4920-9eaa-db3ae75a06e8
+type: insight
+created: '2018-11-17T18:19:07.000Z'
+document: e329ec4e43d47fccabf1e22882189db8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 2dqarnmsauxdn7urx1oae43msetg8hpx60ierq
+  - >-
+    gzghchukqs3lhzkhpi9x2qjx3kz4oentjoertmzjtbyvkkegqwkkafmn8nowz39mu1icvj5q3q4702lgssutg5x
+  - hqa59lvg
+  - >-
+    4hg44xn8kzbijfnmdgndkagyq1jkkm0hkhpzj6cun5mn0raomzpqe1dbvickykx8zbkzhqom09kg2isuw4bnh1fsskfisfmxqoo3eo9xbcw6lf1ocwslozchvcdsoeotlpizryhda9d7vmjbfyqg4hlh7xp4vc0isusa9tkk47j3oiewqk5l8jhgeooqp5wfeh
+  - uotx
+---
+# 2DqarNMSAUXdn7uRx1oAe43MseTg8HPX60iERq+GzghcHuKQs3lhzkHPI9x2qJX3kZ4OenTJoERTMzJt
+
+## Context
+From document: Black Bean Salad — chunk 84 (chunk 84/2298)
+
+## Content
+2DqarNMSAUXdn7uRx1oAe43MseTg8HPX60iERq+GzghcHuKQs3lhzkHPI9x2qJX3kZ4OenTJoERTMzJtByvKkegqWKKAFMN8nOWz39MU1icvj5Q3Q4702LGSsuTg5x/hQA59lvG+4HG44xn8KZBIjfNMDgndkAgYq1JKkm0HkHpzj6cUN5mN0RAOMZPQe1dBViCKYKx8zBkzhQOm09Kg2IsuW4bnH1FSSkFiSfmXqOO3eo9xbcW6lf1oCwsLOZChVcDsOeOtLPIzRYHDA9D7VMjbFyqg4HLH7xP4VC0iSusa9Tkk47j3oIEWQK5L8jHGeOoqp5wfeh+UoTx/ez6Um4kYcEFTjPGDj3NO+0R/Kki8Ekc9s8UACt84XG5R79al8wsowPfnnp2oddgVuCAce5pifI21frn/61ADzufowQDnB68VIqsq7TwW5wf1pkcKsSWYkNnrTZFwwcNtxxgVSZLQksqY2gEMpzx7VmTllZZSxGRyCM1MjT7jI3fPLelTSvKZhEiEIQDnGc46mqJK6ht+xpMZXdleD9MUpRWTK5DHoD0/Glw6yBw45bvg5HcZpHuPMPKbApx70EMJyEjjZm27Tu2jnjp0qOKPy/mXliSckdvTFRuI9zFQWYNgt2AFTByw4PC+negRZZoJZFL8FVyMdM1CI8uZVckf3TximviNwmPlwD7k+lSbx9wZJ44PagChcxtHIJTnrtHGeop2IypOBkLubI60s8gd1UMAB2Bz25quuxciPK7R1z19K3Aqbtzl8bQRwcdPapFhKc8EHnk4pkRkb96Bjno3I5pXAVd43Fs7SB905qQKxUFiRkd8GlcNNFIrHGe/+NPkR8KithtoHqcelU7szojOOfl+6ejen41qkrBY5K/8A3S7o41DFipI56f41UkZmwuwcdRxnH0qa5y6ERKV2NuZT0BPoaqblQCY8MccNzn8a0ikQMOzOSQV9Bx7c0MreVlwuM4ByeR60wlvM3cEHrgfz9KAEDNvHQ5UZPT61o1YyGxybcfMSucAHp09alG7y8IMgnkHGPTFMRvlZ5CNike3BqEnoVJYMcY7GhK4EhJO2N/mCHKgY+UU1uDxklj+H45o8tMnydoz6dQB607J3bgCpGPp+P1rSyAjmCj52IBVRt6Y+uarHPlgZ3Fm4z/P6VKzJIpicBcH5cDrn2pm6IDcQzBTjGNvH+FF
+
+
+
+---
+*Source: Document e329ec4e43d47fccabf1e22882189db8*

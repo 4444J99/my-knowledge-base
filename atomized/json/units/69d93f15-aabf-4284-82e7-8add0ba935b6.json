@@ -1,0 +1,26 @@
+{
+  "id": "69d93f15-aabf-4284-82e7-8add0ba935b6",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><i><tt><br></tt></i></div>",
+  "content": "<div><i><tt><br></tt></i></div>\n<div><i><tt>---</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>### I. | GOAL</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>To ensure all outputs from this system are usable on-the-go, every module will be exported in a format that works seamlessly in iPhone Notes (and optionally Notion or GitHub).</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>---</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>### II. | EXPORT FORMAT STRUCTURE</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>Each module includes:</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>- </tt></i><b><tt>**Header**</tt></b><i><tt> (e.g., `::GR1ND3R [PROJECT PROFILE]`)</tt></i></div>\n<div><i><tt>- </tt></i><b><tt>**Context Framing**</tt></b><i><tt> (short summary, placement in system)</tt></i></div>\n<div><i><tt>- </tt></i><b><tt>**Main Content**</tt></b><i><tt> (tagged, editable, with subheadings)</tt></i></div>\n<div><i><tt>- </tt></i><b><tt>**Next Steps / Metadata**</tt></b><i><tt> (integration options, status, REF_</tt></i><tt>ID)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### III. | EXAMPLE MODULE STRUCTURE</tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 146 (chunk 146/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "module",
+    "system",
+    "format",
+    "structure",
+    "goal"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

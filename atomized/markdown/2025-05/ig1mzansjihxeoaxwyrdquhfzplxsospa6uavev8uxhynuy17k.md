@@ -1,0 +1,32 @@
+---
+id: 17f1ad99-47d9-4794-bcb3-a49aaaf6aebf
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    ig1mzansjihxeoaxwyrdquhfzplxsospa6uavev8uxhynuy17khazvbpttw7qzlagmrynctoqlf2ee0x
+  - aowfybqa7opw8
+  - 2tjyb
+  - >-
+    dwmstzl2dk1y8as5trzo8foq3zuoihdpwoydmpifmnzwpwxo6rewycr49fd1qzwy4zv4bcqworttz9ncicqegqskow21eoqjus9ovea3gpj8r5qyhx8bsbofakcqoaqoaqoaqqakqakqakqgcqgcqgcqoaqoaqmnqikri4esorlrapi9ztd6ilyfadqo
+  - 8uwbwbvk1sxewaoorpwbvcvkvanv1wawc6gkraftdkp1wowusktmgvv1gdshy1yzwxwav7f
+---
+# IG1MzaNsjIHXEOaxwyrDqUHfZPLXsOspA6uAVev8UxhYnUy17KhazVBpTTW7qzLAGmRYNcTOqlF2eE0x
+
+## Context
+From document: New Note — chunk 8234 (chunk 8234/21099)
+
+## Content
+IG1MzaNsjIHXEOaxwyrDqUHfZPLXsOspA6uAVev8UxhYnUy17KhazVBpTTW7qzLAGmRYNcTOqlF2eE0x+AowFYBqa7OPw8+2tJyb+DwMsTZl2dk1y8As5tRzO8fOq3zuOIhdPwOyDMPifMNzWPWxO6rEWYCr49Fd1QZWy4ZV4bCqwOrTTz9NCICqEgqsKow21EOqjus9oveA3gPj8R5QYHX8bSboFakCqoAqoAqoAqqAKqAKqAKqgCqgCqgCqoAqoAqMnQIKrI4esOrlrApI9ZTD6ilYFaDqO++8UwBWBVK1sxewaoOrpWBVcVkVaNV1WAWc6gKrAFTdkP1WOwusKtmGVV1gdShY1YZWXWAV7f/3//7faWEDqy6sWgxYFUBVMgBV1DaoKrUXsCruqpJdaNWGVaW2YVXAqNIWUNXONpzqVduQqlvbgKpXbQOqUmNvH3W5e/wCo2K+1JIBn6IWKNUri8NquaCqgK2SBUhFW+pysw2jnmktkCmOl3o4GYCoPV/aAo5KxhypRzID0JT1BOxEW2rJXn0yhjzUuD3XrvEJOFTbnWPPRy3jXtkM6j//sgqMNSCn51dIU++B8XMP9Pcl6Kqreug/rumjKy/vogs35Gj16jitX5+mpUvrqLEJ4Om5FI6cRw2Ns4y76uZNHXTJRe20ZlWO+npCzGRWG0i1vbWGujrYXJSdVJsa51OGnVRTaYZRM3PYobWSmppr2TV1LruuMv8ZnEiB0AQKxSZRLDmDkuyimsjMokR6ej5S09iJlRnTHEOr9XNMpLIYZyNVdmeNsTtrlFnPeGwmnSOwaiIyi5IROKbyiTnQjgb5BdQxsBrkBdmFtYEh0dYck7UMrLYAWE3mgVWMhxhKraudZMJfzcBqNQOr6GNgFdkHJ1SGVhF+gK0ewGpDtorB1Xw0sotqi3FUrWKyt5Kac/OpIc1isLNrI4OrDZxT8dkU5XXqGJBFnBmwehawqrirSh4mvOrtrjpCbqvDAlUBqwqwKjkPrz7//PMk8dxzz1GpOHHiBA0Vx48fp2Jx7NgxKhZHjx6lYnHkyBGSePbZZ0ni8OHDVCyeeeYZOnTo0GmhwKpCZ+U+kOo8vVf0HtB7YLzfA7Jx+i/7ZK4vTBVQBVQBVUAVUAVUAVVAFVAFVAFVQBVQBVQBVUAVGIYCCqyOHrBqHFbfGuywajutAlB1w3ZYtWFV
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

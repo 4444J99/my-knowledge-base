@@ -1,0 +1,26 @@
+{
+  "id": "d61c181b-df56-4c87-accd-6cdfe2c19864",
+  "type": "insight",
+  "timestamp": "2025-06-19T23:23:52.000Z",
+  "title": "<div>   * Review Group Chat: Quickly scan the #Daily-Job-Updates channel to get ",
+  "content": "<div>   * Review Group Chat: Quickly scan the #Daily-Job-Updates channel to get a high-level overview of yesterday's progress and any immediate flags.</div>\n<div>   * Review Master Request Log (Google Sheet): This is the most critical step.</div>\n<div>     * Filter the sheet to show only &quotPending&quot requests for today/tomorrow.</div>\n<div>     * Prioritize &quotUrgent&quot requests.</div>\n<div>     * Consolidate procurement lists.</div>\n<div>     * Assign who will pick up what and for which job.</div>\n<div>     * Update the &quotStatus&quot column as items are being addressed.</div>\n<div>   * Morning Briefing/Huddle (Quick):</div>\n<div>     * If all teams meet at the office: A quick 5-10 minute huddle where you go over the day's consolidated supply run, any critical updates, and confirm who is doing what.</div>\n<div>     * If teams go straight to job sites: A quick virtual huddle via the group chat (or a quick phone call to team leads). Announce: &quotSupply run consolidated, John is getting X for Job A, Maria is getting Y for Job B. Confirm receipt when delivered.&quot</div>\n<div>Overarching Principles for Success:</div>\n<div> * Start Simple and Iterate: Don't try to implement everything perfectly on day one. Get the basic systems working, gather feedback from your employees, and then refine them.</div>",
+  "context": "From document: OK, I have been taken in to my father‘s company, Majestic design. It’s… — chunk 21 (chunk 21/22)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "c0d4fbcbae75c9060ede6ca48028b0a9",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "quick",
+    "huddle",
+    "review",
+    "group"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

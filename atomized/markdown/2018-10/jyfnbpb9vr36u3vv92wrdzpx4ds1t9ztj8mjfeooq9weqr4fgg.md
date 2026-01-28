@@ -1,0 +1,31 @@
+---
+id: 37353802-c444-46c3-a7e7-ee480c87f0f0
+type: insight
+created: '2018-10-05T22:17:31.000Z'
+document: 15981fe11fce83e658f6940d49a17e08
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - jyfnbpb9
+  - vr36u3vv
+  - 92wrd
+  - zpx4ds1t9ztj8mjfeooq9weqr4fggnu8g8js4m4bw
+  - kwf1jqlynw
+---
+# JyfNBpB9+vR36u3vv/92wrd/zPX4DS1t9Ztj8mjfeooq9WEqr4FGgnu8G8js4M4bW/KWf1JqlYNW+6Cp
+
+## Context
+From document: Mike’s Mom’s Spanish Rice — chunk 173 (chunk 173/565)
+
+## Content
+JyfNBpB9+vR36u3vv/92wrd/zPX4DS1t9Ztj8mjfeooq9WEqr4FGgnu8G8js4M4bW/KWf1JqlYNW+6CpIKF1ojKgMlAnGWgHeSZRV9kvlpd2C9oF4P0Q3q6kSb6/bCZ1pxlz/GGygDth48fJzxCv4L4C9NVDOy8G7dDONf1pDWSpAQV3M9EhGdoJk6eDptOvboBSOKkTnGhZVB5VBtLJQNNA3g/vyWCeNFbkA/d37/xa9SSQT6V1TwnuH8ykQE/rrhr3YoCv4J4FUDVseA30GLhn17anM5PJp233NDTlg3vUojnpBk2FC60nlQGVgTrJQN1B3g/u9OvF4H01gDvz3dRUph3yFdzDUVSvZqmB2oB7tH2d2OC19tGfAOsG7grtCkh1AiQti8pjU2TAD/NVfrlMl7Yf3hXcwzXvLRt3Bfd2aFdTmSxwqmGja6BycA+fyCKf3Vr7tOAeDe3Y7GUH92QzmXpo21sL6zRl4NVyKiSqDKgMlCEDLYhPB9nlK0zEvt3e54d31binmZhKGJ2cGg1vemf11sAqBXdv0aVqzWTKGzwU2ssY/DUNhUiVgWbLQLcBvvta9yS7dvt+d23cVeOuGvfVC9ZVP3mJ4F6VD/eWiUx33EBm17iXaduu0K6w1WzY0vbT9itTBlrwTt/YWQ28H9yL2brn07rbYJ50nArc38v4Gu0K0v0annlyqoK7gnvV+Lp60/9/YZTT0TBpNmgAAAAASUVORK5CYII="/><br></div>
+<div><img style="max-width: 100%; max-height: 100%;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAu4AAAU2EAYAAACaR+9FAAABYWlDQ1BrQ0dDb2xvclNwYWNlRGlzcGxheVAzAAAokWNgYFJJLCjIYWFgYMjNKykKcndSiIiMUmB/yMAOhLwMYgwKicnFBY4BAT5AJQwwGhV8u8bACKIv64LMOiU1tUm1XsDXYqbw1YuvRJsw1aMArpTU4mQg/QeIU5MLikoYGBhTgGzl8pICELsDyBYpAjoKyJ4DYqdD2BtA7CQI+whYTUiQM5B9A8hWSM5IBJrB+API1klCEk9HYkPtBQFul8zigpzESoUAYwKuJQOUpFaUgGjn/ILKosz0jBIFR2AopSp45iXr6SgYGRiaMzCAwhyi+nMgOCwZxc4gxJrvMzDY7v////9uhJjXfgaGjUCdXDsRYhoWDAyC3AwMJ3YWJBYlgoWYgZgpLY2B4dNyBgbeSAYG4QtAPdHFacZGYHlGHicGBtZ7//9/VmNgYJ/MwPB3wv//vxf9//93MVDzHQaGA3kAFSFl7jXH0fsAAAAJcEhZcwAAFiUAABYlAUlSJPAAAEAASURBVHgB7J0JnGVFdf9HRQXjMu6DwVTHJXFJtDXGPzEm1XGJiKgdg3FikGpNJGhcRiVqcKlRAVFAh+DCJjUiIWAUWkXB9TaCiKztwMAwCzUsAzNMd0/PwkyzzJz/qVfn1H2v7rt973v9Xq/31eczv6m6e93tnG+fe2rRBLgCtX+nog9oVwAqrfqhug7m8H0g6Pqd5TphJvBZg8+tTqmk9Tm1uN4WdU8yYd1yuapoeo7uBj89qJ1Qbn27WfWEelBiPUfvBz89qKF6rJLa6zUB2JXssQ/Wq8K6wfZId1rfHlTvSdx8O1nFnuQhAbAD9siamkilr29P9sgHAcDpQxpVkcrdiauP20g11Um3AdYtwDZDqnfLWl14HUt2C1d3+rBEVV5HLev9xrWPKq8jUKcJwIjBukEV94t63Zr4+lZ5v9grAO6zkapd5mEA2AK7dE3NLr1XY1006mazE/YqgM0S1QLca0l1o96DPbtPAtyjSYXXTclO5dqDyh3W1e+2qAZVe70LSLmudyg3/U5ABVRDKhv1jmS7BQ1wh/K60W5PXH2j
+
+
+
+---
+*Source: Document 15981fe11fce83e658f6940d49a17e08*

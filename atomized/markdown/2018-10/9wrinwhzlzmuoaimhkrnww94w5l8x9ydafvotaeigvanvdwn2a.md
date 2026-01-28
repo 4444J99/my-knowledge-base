@@ -1,0 +1,31 @@
+---
+id: 3fb628ae-fe89-4b56-a3b5-2e26d7a415af
+type: insight
+created: '2018-10-05T22:17:31.000Z'
+document: 15981fe11fce83e658f6940d49a17e08
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 9wrinwhzlzmuoaimhkr
+  - nww94w5l8x9ydafvotaeigvanvdwn2a9goqzzdeldxaffocd1l5meqjqa0bd6xvyrix1zifyb6i
+  - pdthbjubql3oge7cbg7buivwbu7lye
+  - 3lbuv2rovlw0dqudx5r1rfp3ivtp
+  - >-
+    fix3p1wpxyd2pddpqjmr0quun8sloq7byc9nt9nwqf9pmjf9fxmzwecvfh40kld6dgxlzejmkjpqkhgpqlzo92dwd0ovc9wlzepht1zfncnuwc43wxc99p9n0e6rxvwdp5dtsvwdqnwjvy7o9nt9akzio2eebznfybo1
+---
+# /9wRiNwHZlzMuOAImHkR+nww94W5L8x9YdaFvOtAEigvanvDwN2A9goQZzDeLDXAffoCd1l5meqjqA0B
+
+## Context
+From document: Mike’s Mom’s Spanish Rice — chunk 533 (chunk 533/565)
+
+## Content
+/9wRiNwHZlzMuOAImHkR+nww94W5L8x9YdaFvOtAEigvanvDwN2A9goQZzDeLDXAffoCd1l5meqjqA0Bd6xvYriX1ZiFYB6i+pDThBjuBQL3OGe7cbg7BuivwBu7LYE+3lBuv2roVLw0dQUdX5R1rFp3ivtp/Fix3P1WpXyd2pDDPQjmR0QUuN8sloq7bYC9nt9nwQF9Pmjf9FxMzwEcvfH40klD6DgXlZejMkjPqkHgPqLzO92DwD0OvC9WlZepHt1zfNcnuwC43wxC99p9n0E6rxvwDP5DTSvwDqNWJVY7O9nT9AkZiO2eEbznfYBo1/Ice53nBevXLUqQGyBxPW6HlWPBt+s4ZO1XbuAeBvCcl2vgNyIaCz5rP0w5dwRyz08zbmbccATMvDFgnEbAzAMzD8w8aMP7oCiwntROZuCu/VAxG2TFKc467oRCtrRb3uvveCcrRJ3uM+6lqSIQSkaUrXWUR+d3WFMd7l69rA73TM72Gg5319ley+EuDXC/RnRoDPeMwJ1DybDGhZQxwB1vhLYEy6Zf8dfF8a5XDW0H4L6C+mfdKVxtM+BOAH5EIHgWFUf73s/vu+DAAGjvXrRl15Zn4Mshe88VF+J5uM54HaNWNoc7g/lE8C5rh5aJA+5x4J1jt3914yBcZAPweTAI3XvJfl1v683geJf5Qsuw0501GGrGlgCUr1JcwN08KY7v4rAKb3tYrbIL2G+xqzWLw51BfCxwTwHvME0eVPmlpzwfXrY5JYD/U5QgN5DgetwOt8svXe30cSsMuDN4D2mnj4/pvzsCue8bM25m3HAEzLyZJp+r5n4297O5n+tfz5JAeVHbL6sB0hmop+m402bAXXr9mU5qgLu1TtQG7rlAO4L6dgfuVaFksL+pIWVwvhuHe9TZzo73PA53elnqQzieqS9NRT5TFcPd8fIBpZjtDNpZswL3B+Qah0C8ieFunO5iBU7ItvpBAidmJzjcV1A/A8DdzdcP3oXnjG/Y6T4isF8ecH9P6b2l95d9R/tLd3rpeS99AeCb4mJxhR11wjcK3uOA+4gOON4bBe8UIkZ5DnbUC8TFsBDb5/NiIPruvvd2HT5Uw+lu+8B9JWA5WVarqN1a6nj7KwqrsN5iKE+qC9gxX6Xay5NivcVhtbztMUrOdgbveYB7PeAdpgkY2GIWJX++7z2HEl6oBs+P2+H5tflL
+
+
+
+---
+*Source: Document 15981fe11fce83e658f6940d49a17e08*

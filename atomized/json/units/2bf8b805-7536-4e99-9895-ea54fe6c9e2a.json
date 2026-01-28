@@ -1,0 +1,26 @@
+{
+  "id": "2bf8b805-7536-4e99-9895-ea54fe6c9e2a",
+  "type": "insight",
+  "timestamp": "2022-05-14T19:04:32.000Z",
+  "title": "<div>An old dying dictator with one son who pretends he wants to take over and s",
+  "content": "<div>An old dying dictator with one son who pretends he wants to take over and send this business. However, he has other plans. Those plans, however, are destroyed when his father dies.</div>",
+  "context": "From document: An old dying dictator with one son who pretends he wants to take over…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "3e8eb9b605f4f40b898ae7933671e8a6",
+  "relatedUnits": [],
+  "keywords": [
+    "however",
+    "plans",
+    "dying",
+    "dictator",
+    "with"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

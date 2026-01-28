@@ -1,0 +1,30 @@
+---
+id: eed541cc-30cf-415d-8f7a-b275ced314e5
+type: insight
+created: '2025-05-15T00:57:38.000Z'
+document: 97ddee0de00a1fdb1a5da48c7c6bd4f2
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: programming
+keywords:
+  - that
+  - metadata
+  - files
+  - even
+  - unique
+---
+# g metadata (EXIF for images, ID3 for music, etc.). It’s wise to embed critical i
+
+## Context
+From document: Transforming a Fragmented Digital Life into a Unified Canonical Architecture — chunk 28 (chunk 28/37)
+
+## Content
+g metadata (EXIF for images, ID3 for music, etc.). It’s wise to embed critical info into the files themselves before moving them, in case they get separated from external databases. If that’s not possible, maintain a metadata sidecar (like a CSV or JSON for each directory) that lists each file and its attributes (original path, tags, comments, etc.). This acts as a bridge so that even after renaming or relocating, you haven’t lost context. Using standard schemas for metadata (e.g. Dublin Core for documents, EXIF/XMP for media) will ensure the metadata is structured and possibly even machine-mergeable if needed later  . • Unique Naming to Prevent Overwrite: During a large import of files from different sources, it’s crucial that name collisions are handled. A good practice is to enforce globally unique filenames (even if it means making them a bit longer or less pretty). Archives guidelines emphasize uniqueness strongly: file names should “be unique and not tied to things that change over time or location” . In a reset, this might mean prefixing every filename with a short code for its origin or a UUID. For example, if two files were both called budget.xlsx in different folders, you
+
+
+
+---
+*Source: Document 97ddee0de00a1fdb1a5da48c7c6bd4f2*

@@ -1,0 +1,31 @@
+---
+id: 0b2f9b8d-aa2c-4733-892f-a4ce155930a7
+type: insight
+created: '2017-11-08T14:03:53.000Z'
+document: f47673d86e05016edf5cfc9824f2b752
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 4zwxzwlzjc0k0csnltiwkbb8rocxu8kg9ak2oapgsju8
+  - >-
+    w8jjibowrhrkee9mgcg85oaqm1gltxsgvppyyspwqr5bihhixnmtw3llhikxueestow3qaswbhfnaioppk1wmkvtntoroemka4etoqzl35dzjnazgcri2nnfy
+  - zra4lmkcbsrwjtgkrg8jd6jgck2bg2lrmwile1mdndtmhzq4bwcaon
+  - ofh6zrdhkuoyire2gg
+  - q24lvmyncs3kkf8aabljjibxuusdoltansz7i3siivo
+---
+# 4zWXZWlzJC0k0CsnltIWkbB8rOCxU8kg9AK2oApgSJU8+W8JjiBOwRhRkEE9Mgcg85oAqm1gltXSGVpp
+
+## Context
+From document: use this photo as a reference to create my own cut out piece. also… — chunk 158 (chunk 158/242)
+
+## Content
+4zWXZWlzJC0k0CsnltIWkbB8rOCxU8kg9AK2oApgSJU8+W8JjiBOwRhRkEE9Mgcg85oAqm1gltXSGVppYySpwQr5bIHHIxnmtW3llhikXUEESTow3qASWBHfnAIOPpk1WmkvtNtorOEmKA4ETOQzl35dzjnAzgCri2Nnfy/Zra4lMkCbSRwjtgkrg8jd6jgCk2Bg2lrMwile1MDndtmHzq4BwCAON+OFH6ZrdhkuoYIrE2gG+Q24lVMyncS3kKf8AabljjIBxUUsdoltanSZ7i3SIiVo+JBCwOAzEZ3MTwFHbmpZptQhs5LpBJJd7yCwdS0Hm/fAA4aSQnJYfcB5xTAleJryG6vZLSNZ7wC3EsagJBImS0cYBwWI4J65yapywRNdxQTZa5giVZQgw6LwQgHdiOpGetVLQFLSMJLKLm0mkaVCw2RIcYaMdWkYZBPTOcV0Gl2tlfand30Vz9kTAeSdgT9miH3CR/wAtJG6ADoetJgZMr2U8oey02S0cyCMgDAGOiqO8h6kk8V9TfsJ+OX+HX7aXg2+upzFbaxdHTJ5M4yLtCFDj2cLkHqea+bptNvYryKwiv5BepKZwZQAsKMMhyehlYdAeADisPWtXu/CvxCt/EOnzFLzT5ra6jkQFT58TKwbHUEhefrQmSz+5iIqGK55znHp/nNT15p8KfGtv8Rvh34W8d2WDD4g0u1vgQQfmnjV2GRkHB4OK9LpkhWNqv/LL/gX9K2axtV/5Zf8AAv6UAf/S+R/2gfi54pHx/wDH3h9tRlGn6drt7AiqSAEiIAFfJ3izxNfeI9TKvPJLGG4DEnIPf2r0j9qG+2ftFfE6JRtL+JdSwR7OK8V0+4S2ie7nXdKQQufToTX6LhoRjTSPjq8XzbjdVuYbdEtbRiSOp7fnVK3jViJj8pzj8fWqsglb962ChJ69ea01aJFQIQAQDzXpOTOWdkrI3Y7pLezij3gH5sjvntXK3d3JLMdzZBPFQz3O6Rkj/PP8qpMxVQetZt2CEO42ZyCTnPHTuKw3nYuVbkHOKuTzHO714NZ7gSSBWGAOanfU9qhFJajVPO/acmtFGUqDTPlbCIOKuQJESI+9F9UOtNNCLH5i/dxjnnsK0Vik3tGjAfLnrUkatnyivynjOO9N2AnYq/PjBP4VrY4ObUriJY9wdwWxxzVCV3YhJCTxkVcmt2tmOcBsA4z
+
+
+
+---
+*Source: Document f47673d86e05016edf5cfc9824f2b752*

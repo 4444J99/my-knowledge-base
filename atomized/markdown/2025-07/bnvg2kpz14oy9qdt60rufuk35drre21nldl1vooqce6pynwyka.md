@@ -1,0 +1,31 @@
+---
+id: 032fca4d-b263-4132-af44-27302dd837cd
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - bnvg2kpz14oy9qdt60rufuk35drre21nldl1vooqce6pynwyka3ybyydyxus2ym
+  - h8twfg3yojlhg5pe99hyk4brhzck5qzyzq2pgqblxll
+  - tcwqmo2ilciz7inyzzcl5jrdd0inojermmjocbaki2eauky
+  - >-
+    u4t2lyhpo2k0hh7sfeopmnwetbv7bdr5nlfbed1v7si0vz3cy4ca5xk02bcbmvu8hf3trxcsmqcikszuoz3upiff8whqcglieifyybyg
+  - agxdt2tr7zqzbasy430rsxa01e3
+---
+# bNvg2KpZ14OY9QdT60ruFUk35DrRE21nldl1vOoqce6pYnwYka3YbYyDYxuS2yM+h8tWFg3YojLhg5Pe
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 10263 (chunk 10263/18928)
+
+## Content
+bNvg2KpZ14OY9QdT60ruFUk35DrRE21nldl1vOoqce6pYnwYka3YbYyDYxuS2yM+h8tWFg3YojLhg5Pe99hYk4BRhZCk5qZYZQ2pGQBlXlL/tcwQMO2iLciz7inYZZCl5jrdd0InojERMMjocbAKi2eaUKY+U4t2lYHPo2k0hH7SfEOPmnweTbV7bdR5NLFbeD1v7SI0vZ3cY4cA5Xk02bcBMvU8HF3tRxCsMqciKSZuoZ3UpIFF8WHqCGlIEIFYYBYg/AgxdT2tR7zqZbasy430rSXa01E3+lECsVmYZwTcslKgf9sGJ1HNaoKY9QdT60rupw3phlwneqLtrPI8mrqTo42E7BVRyPsjyvNoWhto39yNo6tMM0bJiJKXN6SJG/6HcjRd/+LdJ4596fsP6afSbgTNkiE34zC0pw/ml2Mx/HpFE7IdSIdHf9Vc0qneUT1X0qUOjSZJGVljOhLR+/k+0aHPtM07nVwYswQqh6B5xQGsIbW8x5CWTlam6JuEPyyBnhSL9vRQYPUAC5GFflg1iWwsRp/wCsgaIUg10fdzyXTT7z9cFbe+SwRzoQRzR4yHgpAYmjX8I3ANihtg3lnom8G8mc32suARUuOa49bKYEMxuXPpjKejJbyLZjg3wqjvEq0UK45y9AoNC+ZGwpxHU7e0n8KlOQ8HGt1TnGnvhOYTUrwClQAFzUsGnEdTmsBli86jyR3i+XMeTW4PmuMI2Pqz//xSCVDQfEj4R5rzU1P9Hvw8mtgkvU/Oo8lunEcT26OPHZrjCDiPJhpFN3LerqBP5u2LtwoDMgFchgSDZ+o2xTakAAGMJgGmrCFTCKFUj4kaCkkOZxwyjnT05BJtAVmDCQnvKLMVrW81rqEF1MrYgKkjzk5XgCELG+aIe81rOlHTFVgX4L0gMNrTq3L/wpZpbH1LM+VKysZfNpspAqLYDmw6YjU9RSMzjgD5BmIMM5UZwFDzwXRvW+3lkxBRSFIU3CoxBMoAPVq6yUN9Kxsfig8XYAnuwmnAMGQ6ZHaDH95G4VNRgeldIphV3YrCsxjNh8PgmfbNKgA4Dh9TIhghUwihVI9YTaY6tB4eJuNIt2JCRFtA1mBQWo4pypDpPPrONYVyigUuYwgG7xRDC60+vWazBERNl9cH4L0gMNrTq/I8mvhF9v4TJ20ZjyCMDRxNs/8Bap5K9lNQ3OmND8Vj
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

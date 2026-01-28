@@ -1,0 +1,26 @@
+{
+  "id": "83c0d51c-f365-469b-b447-8c5f7da11884",
+  "type": "insight",
+  "timestamp": "2025-02-12T19:07:35.000Z",
+  "title": "<div>10 pts</div>",
+  "content": "<div>10 pts</div>\n<div>Full Credit</div>\n<div>5 pts</div>\n<div>Partial Credit</div>\n<div>0 pts</div>\n<div>No Credit</div>\n<div>10 pts</div>\n<div>This criterion is linked to a Learning OutcomeExplain the moral or main point clearly.</div>\n<div>Effectively communicate the central moral or key point of the narrative, argument, or content in a manner that is focused, and aligns with the intended message, ensuring reader comprehension and engagement.</div>\n<div>10 pts</div>\n<div>Full Credit</div>\n<div>5 pts</div>\n<div>Partial Credit</div>\n<div>0 pts</div>\n<div>No Credit</div>\n<div>10 pts</div>\n<div>This criterion is linked to a Learning OutcomeProvided 3 supporting points.</div>\n<div>Offer three distinct, relevant, and well-articulated supporting points or arguments that substantiate and reinforce the main thesis or idea presented.</div>\n<div>10 pts</div>\n<div>Full Credit</div>\n<div>5 pts</div>\n<div>Partial Credit</div>\n<div>0 pts</div>\n<div>No Credit</div>\n<div>10 pts</div>\n<div>This criterion is linked to a Learning OutcomeAnswered each question in detail and showed clear connection to topic.</div>\n<div>Thoroughly and comprehensively address each question presented, providing detailed, relevant, and contextually appropriate responses.</div>",
+  "context": "From document: Weeks 1 - 6 Canvas Data Dump — chunk 30 (chunk 30/188)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "1b21c03b1f1909954adca118a79b0158",
+  "relatedUnits": [],
+  "keywords": [
+    "credit",
+    "full",
+    "partial",
+    "this",
+    "criterion"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: ff5358be-0f1a-4f45-9de4-2622a868880e
+type: insight
+created: '2017-09-01T01:01:20.000Z'
+document: c09dc023ec256edd51aef2e3615dd904
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    bnkmazxvrnymdnakounzbycyffr1haa6patqfrwzv6ujoopazl0zqk655xryqhfjx8ohggcljs2ct1xgjizlqnk7fo2n7l8kxadepzyoccdykjrhlqqfgfakkkdjfh4v
+  - ahnhw
+  - >-
+    dervossra7zoa8xnzo5kbvo8vnkaibsicsalpututjm4nr72xxi06brxtpe4zwvfk8auxxocawo6e0phac8h1dazdtc7yglin25iiawcuuf
+  - 5hdbsvmnx9fmlhwrukpbpgyeettwydl7himbrpbol6qmpq2
+  - 1xuw
+---
+# bnkmAzxVrNYMdNaKOUNZbYCyffr1HaA6pATqFRwzv6ujOoPAzl0ZQK655xRYqhFjx8ohGgcLjs2ct1Xg
+
+## Context
+From document: Web Sitcom Ideas — chunk 196 (chunk 196/798)
+
+## Content
+bnkmAzxVrNYMdNaKOUNZbYCyffr1HaA6pATqFRwzv6ujOoPAzl0ZQK655xRYqhFjx8ohGgcLjs2ct1XgjIZLqnk7fO2N7l8KxadEPZyoccdYKjRHLQqfGFaKKkdjFH4v/ahnhW/DERvoSSrA7ZoA8XnzO5kBVO8vnKAIBsiCsalPUtUtjM4NR72xxi06brxTPe4zwVfk8AUXXOCaWo6E0PHAc8h1DaZDtC7yGlIn25IiAwcuuf/5HdbsVMnx9FmlHWRukPbpgYeEtTwydl7hIMBRpBol6QMPq2+1XUw/C+6kscTz53kl6JciEjgN4QT7tNm96YGmBya3B5BZNF7POuss5+2nzmCnBhElpjLDAUpDzpFqmHoAOD6XL19usjvRrvz2yiuvTIrMm9YOADqIELG9CpOgIjKLwK5du5wW6Nxzzx3td4eHkjaEBzTykEZ/1BuU1ECxNhnpKHK12IIYZlIUnftRBeYIKSw2MxpRcqSctv71Z0sX+OI+XX3W4hdZlSlMZ8BQKW7p/WsV1ioF9P3v0zXKCJUDxMYt7Mg6jXtrDM86PdVsM5k9IKMFw7L1R1c6tNxgHeyhp7dleUMF4uCIS79zSzbXJBMA6QBiAOhcR6DuHJjM+2rO1ZceoB7Myy+/bGZnpwOyVsyaNctMfhbUbtrWrVtHa810s9+M21bGyPCXrsnWR4EkTiPH/Fm2JBm+bZVYnXPr3RIADRE8GENFRzlADLVrzj0zSQQw2BDq5Kiud9b6W0kncKi7HImksUhvvN1rqQsVLl9qwAOWaevf/onB3vDpy5Pw0dPeAjtKDPd4chvwMCe7Ye/FnWfwa7pPKRKIIgT8nztbkZKHD/Zu0FcEEphRKkCuTM9rewGAQqTNOWOljqPrFgHCBR4BNzs1gTitf/enyuX/nYwZq5QgMEUTiuf+qz/utHd2Pp2TnOJExITPfirTQwGpmjamByjaTo5onACk7+m1RadvBJx6Pc6U7qex6XSfApjsdJrkixlWAWAiZNJVD2ZRCOhi2DukzoFsJftM+Tkk32vaHd1eP8AbYCX11WS7UZjegDVrTWzYezixAathq8cG6Ml6BEBKhJaMcDtxVTA1UQRR+t3vxS07vyL/pUMA/LeuujQZ1vrhe9a6N+0awPvuPRnY2O7iYGHTj05JNtJXygEP410U7SxtmZ51wNFOP7ZZA8edBga+
+
+
+
+---
+*Source: Document c09dc023ec256edd51aef2e3615dd904*

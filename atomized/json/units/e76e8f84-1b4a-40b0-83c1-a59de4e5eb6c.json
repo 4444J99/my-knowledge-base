@@ -1,0 +1,26 @@
+{
+  "id": "e76e8f84-1b4a-40b0-83c1-a59de4e5eb6c",
+  "type": "insight",
+  "timestamp": "2019-05-16T17:37:19.000Z",
+  "title": "<div><span style=\"font-size: 21px\"><br></span></div>",
+  "content": "<div><span style=\"font-size: 21px\"><br></span></div>\n<div><span style=\"font-size: 21px\">Ch 11</span></div>\n<div><span style=\"font-size: 21px\">Causal arguments can be extremely challenging for students; the logic of causality is complex, the evidence is often shaky, and the results can be uncertain. In some versions of the stases, causal arguments came before arguments of evaluation; in others, they came after. Regardless of their place in the order of the stases, causal arguments build on and set up other arguments. Like definitions and evaluations, they rarely appear in pure form, though we provide some examples of such pure causal arguments in the text. The situations that open the chapter suggest such ideal causal arguments, though they also rely on definitional issues.</span></div>\n<div><span style=\"font-size: 21px\"><br></span></div>\n<div><span style=\"font-size: 21px\">We have found that students typically try to tackle causal arguments that reach too far for a regular class paper; it’s too much to explain the effects of the French Revolution in four pages. Remember, too, that because the logic of causal arguments can be complex, students will likely benefit from extra time and help as they make causal claims. For useful models, you might turn to sportswriting. Students can easily see how reasonable, informed observers can differ on why a team or an individual won or lost a competition.</span></div>",
+  "context": "From document: EAA Chapter INTROS — chunk 10 (chunk 10/18)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "96eb322624e76b9b2f5ac7aabacd881c",
+  "relatedUnits": [],
+  "keywords": [
+    "span",
+    "arguments",
+    "causal",
+    "style",
+    "font"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cf8ea667-22ca-469c-abde-d74c86d9b923",
+  "type": "reference",
+  "timestamp": "2025-07-06T01:33:11.000Z",
+  "title": "Ordered List (1 items)",
+  "content": "7. Thematic Environments &amp Historical Immersion Text modals undermine immersion; visuals must reflect each era fully. Expansion Proposals • Visual theme selector showcasing a thumbnail of each era. • Five core eras packaged with scene.json, assets, ruleset.js, lore.md. Era Setting Unique Mechanics &amp Assets Roman Villa (150 AD) Marble courtyard with fountain audio Bone checkers, white marble board Byzantine Court (900 AD) Candle-lit hall with mosaic floors Gilded board, chant soundscape Viking Longhouse (1000 AD) Fire-lit Great Hall with central pit Wood/horn pieces, wind &amp crackling fire Tang Dynasty China (700 AD) Scholar’s study with calligraphy scrolls Feng shui dice physics, ink UI accents Edo Japan (1600 AD) Tatami room with shoji screens Ink-brush animations, minimalist interface • Dynamic day/night cycles that shift lighting and ambient audio. • Hidden lore scrolls unlocking mini-lessons and cosmetic upgrades. --- 8. Educational Journey in 3D Animated 2D tutorials feel detached in a 3D world; learning must live on the board. Expansion Proposals • Timewalk Onboarding: Fly-through of era before gameplay, narrated by the Archivist. • In-World Tutorial:• Scene-anchored",
+  "context": "From document: title: \"Backgammon Chaperone: Mobile Design Critique | Shared Grok… — chunk 3 (chunk 3/20)",
+  "tags": [
+    "list",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "9fd27aa005603b4099800d554c6afb3d",
+  "relatedUnits": [],
+  "keywords": [
+    "with",
+    "board",
+    "immersion",
+    "must",
+    "each"
+  ],
+  "sectionType": "list",
+  "hierarchyLevel": 0
+}

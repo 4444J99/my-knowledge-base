@@ -1,0 +1,31 @@
+---
+id: 6f8754dd-8888-434f-a5c1-ca3372269481
+type: insight
+created: '2022-03-16T12:34:10.000Z'
+document: 7405c2da6b92da26b0b49297d3a4e664
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - kdqaj4xarjujqlgstzvvpsfvyu1reeyspn4xqbzqupa4qyqgoelzhun82v
+  - 7whkwdbspmcdf8wfsnkeza7colc7v96nddnhq0wh2mmg
+  - zpvckvlv7ata3b6va024w1lo44gkbql3by42njzsapfth8nenbqv5qpi
+  - fpsid0ny
+  - >-
+    lmctfn8kcdsd8dkby1qa9gam1kkgiw1qssqqh4fpxycau1spqooaxbapmkenuubsom9bujigjacetozcmedaexdr8ljslyzwbvlyokiix81toadnokolsokd8236vidnz5mvqta3u0kgchqhk
+---
+# kdqAJ4XaRjUjQLgsTzVVpSFVYu1ReeysPN4xQBZQupA4qyQgOelZhuN82V+7WhKwdBspMCdF8wfSnkEZ
+
+## Context
+From document: The battle of the blinds — chunk 714 (chunk 714/1787)
+
+## Content
+kdqAJ4XaRjUjQLgsTzVVpSFVYu1ReeysPN4xQBZQupA4qyQgOelZhuN82V+7WhKwdBspMCdF8wfSnkEZA7CoLc7V96nDDnHQ0wH2mmG++ZPvCkvLV7aTa3B6Va024W1lO44GKbql3by42nJzSApFTH8nenbQV5qPI++fpSId0ny+lMCTfn8KcDSd8dKBy1QA9gAM1KkgIw1QSsQQh4FPXYcAU1sPQOOaXBApMKenUUbsOM9BUjiGJAcetOZCMEdaexDr8lJsLYzwBVLYokiIx81ToADnoKolSOKd8236VIDnz5mVqTa3U0KgChqHk+XB49KdgHea2NtKCyYzyDTYwrr71Lvi2eWfpSAjON42mriDH3+M9KzBmNsLyO1STyOUVW4x6UATtGfMwOlOkPlAKvWkhcLDu68VGmZPnNAFi2dmZs+lRrNiT5h9KcGWPBXr3pZGR8Beo6UATSn5MtwaijbauXqtIJC+X4PpTs4QUASRkyOaPMC8Pwab53lLtUZNLsWX95Jw3pQA5sqnmCiLmPPemrlm3HoKemDyKaQArAPz6UNjoKay4GKeYTj5abFYEYn2qXAZeeKgRDj2FSt/qzs7UXGQjefkPSkmAGAOlLHK27ZgUu0KfmpiE+ZVAHQ1YRBs+Wos7h8lELbWxTEOZGHynvU64gwB0PWmyZbhaAgCYPWgoaC4ZnXoKlWaPGWqJF7HpSGPBPpQK48vvO0/dPShVZCQvQU3ZnAWrA/dja3egEMX5jk/w07OWLLyDT0VUHHQ1DvVXO3pQSyZMcetW0U5LP+FURIlXk/eRhR1Wkxpk0TM5KtwKiWBTMV7DpSSSFv3Y+U+1IxKKsR+8DTGhx8zfs9KVT+849KdcjKjHBqDYTJtfjHpQMCj+aQKeqhm9qsfuox5pPbFUorhSTu49KmwiTAjGSc1DLt3jPApsbtn1pky7GyOTTBkrsAMDmjzMr8v3qYjjd81PkAj/AHg60ybBIXUAgCkTEi/PxTBIx+dhwKVtkq7k6igdhq4V/m6VZlV3j+TpUbK7KOOgpsLMrbe1Kw9hjQhFz1NOLD5dvakJaGT950NSOw28jGfu0uUVyPeDndxTlJJ46LSK6hcN+FKpV/lPy0kgTInVWbK9adsc43dKl2bc+gqNZAc5/CnEoeyoFyOCKhhY7mB/i4qZcdqawYkHGNtEQI/LcsV7Cl2mMZT
+
+
+
+---
+*Source: Document 7405c2da6b92da26b0b49297d3a4e664*

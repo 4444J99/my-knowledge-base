@@ -1,0 +1,32 @@
+---
+id: 67ea38a4-0584-4719-b2f1-c1d2a39d4511
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    89sgrqkhnitcrks2omcrgbrppawdunseviu59ngyosdqf7qsfxtfgbvjgw0dy3ev6o8l8zcar0ahij
+  - 3tupwb4vswze23zzuq6z7jjmmgxyqndu52efb3s98
+  - buz189consjq84cww4ursytnj5848ot9zdr6fxtputzqs3lcd9xdtl
+  - >-
+    5xztcmgwqaitzedqwqcgkmgaqezndidr2jrz4cimibfwodmwmkvuy6gc7undhpihci95dciojew4dpsholrejlesfjlsxcsz6fcqpwyjqthvcbfot0teclmgiefy4i1gh7ymeappopsl4g4pzlcw5kqox
+  - 4o2jtfaqcbwcttosxgpoua7y
+---
+# 89sgrQKHnitCrKs2OmcRGbrpPAwdunSeVIu59NGYoSdqf7QsFXTFgbvJgW0dy3EV6o8L8ZcAr0aHij/3
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 2426 (chunk 2426/11629)
+
+## Content
+89sgrQKHnitCrKs2OmcRGbrpPAwdunSeVIu59NGYoSdqf7QsFXTFgbvJgW0dy3EV6o8L8ZcAr0aHij/3TUPWb4vSwze23ZZuq6z7JjMmgXyqNdU52eFb3S98/bUz189cOnsJQ84CWw4urSytNj5848Ot9zdR6fXTPutZQs3lCd9xdTL+5XztcMgWqaitZEDQWQcGkMgAqezNdIdR2JRZ4ciMibfwODmwMKVuY6Gc7UnDHpihCI95DCioJew4dpsHolREjLEsFJlSxcsz6fCqpwYJqThvcbFOt0TeclmGieFY4i1gh7yMeaPpopSl4G4pZlcw5kqox/4O2jTFAqCBWcTtOSxGPOUa7Y/vy5YS6+5kCsZAo6s9HPzLUIz33WI0rhiUTFZj6LBHphgFBPlM2WtTXaTOtmuWHApCRmv1piC5jAp48EZHu5l5tqVLtkrCIGc9I5NRkKgQzWOYWNkSvO4t1aXZVOdUj83P2yk7Z2Dqvp66eicZJW7Iiy4YmDtpk/Wu+RaGH6nyD2X2FgF32Fnv8+7H8PCcSTD0w4OWe58V3n/lrpnfp0y4IK/WwmtD8i2/if/X/+j//kf/+qFvnvpm55vGXOee9k/7p8KZnzt9/cyV1bC6tALnzJhhmNmUvD/T+dq7X/v21989dQWz94/4oAM7X/Chh/mV7gdbHz7z/uZUHzN3C99JW/oCNA8tma0YDupZqoXGE1rER2Jt4leEjcosxmsEHY+fRQwYhKO42j5Zr9frE55WBz++DBPNnJZ3V35h8rJfm2vS28e5ZOAbl4W9FapIAboHpLC7Ao/CutpxMZfoVh4OqCpTrLd5dB3GWYpR3OItZRLnGHT7XNQx1gt44yBkWjt1oCgDq442GCl/OyMBKztEqouwzPQyZfNwifxD+xjG+A9+RnyYxGArutsFNsmLrXq30RLuEyFexdrRxsYbnQN5M11ZOMSyyb0dA94IH3RPspz0cc59atYHjnsnIVGmM62D9NAbreXsr6DpUCfwwjnqlO0JDv3QEx2cjbzdE/J2Iqk7VFDbW+7CEziN52qZz3bGQ+OxM346csmX3WRMObUUtnLjeNksRVfBigM2Dmz3EfVtJI1+Enj9E8+nMPDDpp0k515jwg78l5mBNvsI6n2Jn070pfMn337ynSffPrl46ken0riqO5q6P3j2wzfee0m9kwFMd4q2Bk+8
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

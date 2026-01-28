@@ -1,0 +1,26 @@
+{
+  "id": "762651b9-ff38-4f69-b01e-f243a155cf25",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 4. Forced Infection Mechanics – Who Becomes the Transformed?</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> If no one selects a transformative path, a player is randomly infected based on hidden metrics.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> How Forced Infection Works:</div>\n<div>  •  If no player willingly selects a transformation path, one will be randomly assigned.</div>\n<div>  •  The selection is based on a calculated negative score OR a dice roll.</div>\n<div>  •  Metrics for “negative score” calculation include:</div>\n<div>  •  How often they acted against their faction.</div>\n<div>  •  Failed skill checks &amp betrayals.</div>\n<div>  •  Level of alignment drift toward chaos.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Examples of Forced Infections:</div>\n<div>  •  The Dark Bargain: The student with the most failed negotiations gets “offered” a deal.</div>\n<div>  •  The Cursed Scholar: The student who pushed boundaries too often gains a forbidden power.</div>\n<div>  •  The Mark of the Betrayer: The player who had the most suspicion cast on them is forcibly transformed.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 505 (chunk 505/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "forced",
+    "player",
+    "applecoloremojiui"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

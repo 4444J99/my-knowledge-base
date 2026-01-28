@@ -1,0 +1,26 @@
+{
+  "id": "9b3db670-af46-49ed-ab92-f8f8d7475251",
+  "type": "insight",
+  "timestamp": "2025-02-10T14:03:53.000Z",
+  "title": "<div>Dear Students,</div>",
+  "content": "<div>Dear Students,</div>\n<div><br></div>\n<div>This announcement outlines updates to class expectations, assignments, and attendance policies. These adjustments are designed to create a more structured and productive learning environment.</div>\n<div><br></div>\n<div>After reading the information below, submit your required response here before Week 6's Class: Acknowledgment &amp Reflection Submission</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📌</font> 1. Attendance, Technology, &amp Classroom Conduct</div>\n<div><br></div>\n<div>The institution’s policies ensure that classrooms are spaces for focused learning. Disruptions, including off-task technology use and speaking over others, interfere with that goal.</div>\n<div><br></div>\n<div>Classroom Expectations:</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📌</font> Raise your hand if you want to contribute. Discussions work when we listen to each other.</div>\n<div><font face=\".AppleColorEmojiUI\">📌</font> Attendance will be recorded when the lecture and discussion are complete and before independent work time.</div>\n<div><font face=\".AppleColorEmojiUI\">📌</font> No laptops, phones, or devices during lecture or discussion.</div>",
+  "context": "From document: Dear Students, — chunk 1 (chunk 1/10)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "507c421ce01d608013d2eb06e939c456",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "applecoloremojiui",
+    "attendance",
+    "class"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

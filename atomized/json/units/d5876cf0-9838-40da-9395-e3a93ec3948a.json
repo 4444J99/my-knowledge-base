@@ -1,0 +1,26 @@
+{
+  "id": "d5876cf0-9838-40da-9395-e3a93ec3948a",
+  "type": "insight",
+  "timestamp": "2025-03-19T12:12:32.000Z",
+  "title": "<ul>",
+  "content": "<ul>\n<li>Chapter 11 Sections 1, 2, 3, 4, 5, &amp 6</li>\n<li>Chapter 12 Sections 1, 2, &amp 3</li>\n<li>Chapter 14 Sections 1 &amp 5</li>\n</ul>\n<div>Select the &quotTake the Quiz&quot button to complete this 20-question quiz on the grammar concepts covered in this module.</div>\n<div>Please only attempt the quiz after completing the weekly readings, lectures, and assignments. <u>TWO</u> attempts are provided for the quiz, questions are randomized in each attempt, and the highest score will be awarded in the grade book. The exam is timed, you are allowed 2 minutes per question.</div>\n<div><br></div>\n<div><b>Time for Completion</b></div>\n<div>You have 40 minutes for each attempt of the quiz.  </div>\n<div><br></div>\n<div>Click Next to read the Week 1 Summary.<br></div>\n<div>Quiz Type<br></div>\n<div>Graded Quiz<br></div>\n<div>Points<br></div>\n<div>100<br></div>\n<div>Assignment Group<br></div>\n<div>Quizzes<br></div>\n<div>Shuffle Answers</div>\n<div>No<br></div>\n<div>Time Limit<br></div>\n<div>40 Minutes<br></div>\n<div>Multiple Attempts<br></div>\n<div>Yes<br></div>\n<div>Score to Keep</div>\n<div>Highest<br></div>\n<div>Attempts<br></div>\n<div>5<br></div>\n<div>View Responses<br></div>\n<div>After Last Attempt<br></div>",
+  "context": "From document: Week 1 | Overview — chunk 73 (chunk 73/75)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "327f02c0d4f0dc7a528bfc69a2a41abd",
+  "relatedUnits": [],
+  "keywords": [
+    "quiz",
+    "attempt",
+    "chapter",
+    "sections",
+    "attempts"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

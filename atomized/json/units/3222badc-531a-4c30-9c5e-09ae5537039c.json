@@ -1,0 +1,26 @@
+{
+  "id": "3222badc-531a-4c30-9c5e-09ae5537039c",
+  "type": "insight",
+  "timestamp": "2025-03-26T04:41:56.000Z",
+  "title": "<div>PROJECT_NAME/</div>",
+  "content": "<div>PROJECT_NAME/</div>\n<div><font face=\"HelveticaNeue\">└──</font> 01_Premiere_Project/</div>\n<div>│    <font face=\"HelveticaNeue\">└──</font> MyProject.prproj</div>\n<div><font face=\".CJKSymbolsFallbackSC-Regular\">├──</font> 02_Footage/</div>\n<div>│    ├── CameraA/</div>\n<div>│    ├── CameraB/</div>\n<div>│    <font face=\"HelveticaNeue\">└──</font> StockClips/</div>\n<div><font face=\".CJKSymbolsFallbackSC-Regular\">├──</font> 03_Audio/</div>\n<div>│    ├── Music/</div>\n<div>│    <font face=\"HelveticaNeue\">└──</font> SFX/</div>\n<div><font face=\".CJKSymbolsFallbackSC-Regular\">├──</font> 04_Graphics/</div>\n<div>│    ├── Logos/</div>\n<div>│    <font face=\"HelveticaNeue\">└──</font> Overlays/</div>\n<div><font face=\".CJKSymbolsFallbackSC-Regular\">├──</font> 05_Proxies/</div>\n<div><font face=\".CJKSymbolsFallbackSC-Regular\">├──</font> 06_Exports/</div>\n<div><font face=\".CJKSymbolsFallbackSC-Regular\">├──</font> 07_Renders/</div>\n<div><font face=\"HelveticaNeue\">└──</font> 08_OtherAssets/</div>",
+  "context": "From document: PROJECT_NAME/",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "e57a61acb36fbbf5e6cef0ffdfb6dd49",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "helveticaneue",
+    "cjksymbolsfallbacksc",
+    "regular"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

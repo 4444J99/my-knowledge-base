@@ -1,0 +1,26 @@
+{
+  "id": "90a2e2c7-c4fe-460a-aca7-58e76c33581b",
+  "type": "insight",
+  "timestamp": "2024-06-04T14:32:48.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>### Financial Projections</div>\n<div><br></div>\n<div>**Summary of Financial Projections**</div>\n<div><br></div>\n<div>The financial projections are based on detailed monthly calculations, accounting for ad spend, lead generation, new client acquisition, and various operating costs. These projections illustrate our expected growth over a three-year period, highlighting key financial metrics such as revenue, profit, and cumulative performance.</div>\n<div><br></div>\n<div>#### Monthly Financial Projections for Year 1</div>\n<div><br></div>\n<div>1. **Month 1:**</div>\n<div>   - **Ad Spend:** $5,000</div>\n<div>   - **Number of Leads:** 33</div>\n<div>   - **New Paying Clients (Ads):** 1</div>\n<div>   - **Appointment Setter Spend:** $1,600</div>\n<div>   - **New Clients (Appointment Setter):** 3</div>\n<div>   - **Clients Gained:** 4</div>\n<div>   - **Clients Lost:** 0</div>\n<div>   - **Total Clients (Post-Turnover):** 4</div>\n<div>   - **Total Paying Clients:** 3</div>\n<div>   - **Monthly Revenue (Paying Clients Only):** $17,007</div>\n<div>   - **Number of VAs (Client Service):** 0</div>\n<div>   - **VA Cost (Client Service):** $0</div>\n<div>   - **Number of VAs (Sales):** 0</div>",
+  "context": "From document: DWV Media — chunk 6 (chunk 6/20)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "aecf5ea345ca08ade51033542abc0b80",
+  "relatedUnits": [],
+  "keywords": [
+    "clients",
+    "financial",
+    "projections",
+    "monthly",
+    "spend"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,31 @@
+---
+id: a5d20abb-6339-4f67-8efc-ea664bc6fc0f
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - i74h9dnr6gi20py
+  - ag33j1cpxkeh8xbxtoikif8hd3i5t4meafqn9lqlb6mvcw8dy88l8gcqi9v
+  - >-
+    onlh1xn1ttvhhdw3nzwnflnmibdzl6mdpeizsrpamnyylskl6o8np1qfsvgn0ywheesnwdd30g9lq8gqa15c7hvsi8l7ozwx9hzzrcodhlmr5puyn6cv
+  - stfrs86b
+  - ilwy8zvvescv0mnpvtiizhmmgiosc6btklghk5xypjx2vae8iant4gqh
+---
+# i74h9DnR6GI20Py+ag33J1cPxKEH8xbxtoIkIf8hD3I5t4meAFqN9lqLb6mVcw8Dy88l8GCqI9v+ONLH
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 2907 (chunk 2907/11629)
+
+## Content
+i74h9DnR6GI20Py+ag33J1cPxKEH8xbxtoIkIf8hD3I5t4meAFqN9lqLb6mVcw8Dy88l8GCqI9v+ONLH1Xn1ttVHHDw3NZwNfLnMibdzL6MDpeizSRPaMnYYLskL6O8Np1QfSvGn0YWHEeSNWDD30g9lq8GQA15C7hvSi8l7OzWx9hzZRcoDHlmr5puyN6cv+stFrS86b/ilwy8ZVvesCV0mnpVTIizhMMGIOsc6BtklghK5xYPjX2vAe8Iant4gqh/1u/+i8KLqa09Y23Jto0f/+tgfH1/20MMPdXh41NsbmfFmk3mh4KlUqZRLfARN/Gz9KKfvEls/6jni2OF1u8zh8323lbqhZFQqhcewtKKUbUBhsbBhboNbGoQN4wZxg3MvWsl8V7hu0Jf/YP2ox6NfMN/+8ENr/lr27ViADofir/HbUep/w2+GA8V/M5T+xgmVcWCIcpUuf1V+nfwHmdrC2KyDFRbLKzaHiYWyQDm5H3NX+t/joI6UFhTVUOM+UiVs4o2p9YhSsilVJnoOv/fY1bWe/0jdX3VmzPDJZU84rQrG4L60zygpPe02Deb55MFuDpM0cxh3pd0cnl4aTFmteBq4lVGbnZDpdwaFLido5QaTUoF7cu4uLhHj5vR8Kgt/fKF1sHNbGjGp8g3TixFTy77OOC1zqLHl5aBF7y3ZV51/1WHXxEOHDu04vFeXqbz4+bZuT3Zb3K1q/VH1XD1y4oB4FQt1ZFeduWlljyvzsfRKL/Yc2mtor7hn2PNPPf96z+GTMib3GxJGRwyB88oHkbhHJf+FwUstAku0uubqz1bXNMf/tmTu4kpA5fjgCgcvrP46EzB6dYncc7znZfpOHrwhz3F3Htf9uHOCZSbtGCy5NnDOYQ+hgmLgAnIN7VoxCsTCnc95riXi6W7AphBim85z6U48wxwpmThoHcjQaOdcsTuE0GJUUqw86Vcp7RH3N2K59oGcTJbxdFFd9Dw22nUPvSOHMw6YtN0ZnEdWTpzO2tRqE0uhRdU3TzEair6puQ8GS9+K57KsOnhzOj0YfZuz5Zu83+XlUE614HY1yNAB9T+yMmySe2+x5A0fDED4o0Au1cJS7o4/lg67BA/1jcAS0gzHW+KrMq+K+x82rPyw4iNu7Xxv5yPOuPeciWdf3e3quvPrRsfFWiRwLhVJgpTBz5HTuf3j/dHpXt17HdTr
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

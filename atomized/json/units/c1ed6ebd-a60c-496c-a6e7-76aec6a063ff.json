@@ -1,0 +1,26 @@
+{
+  "id": "c1ed6ebd-a60c-496c-a6e7-76aec6a063ff",
+  "type": "insight",
+  "timestamp": "2025-02-12T23:46:07.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📌</font> 2.2 Section Components</div>\n<div><br></div>\n<div>Each section follows this standard layout:</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📂</font> | X.X | Week X | [Section Title] | [Type]</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📌</font> Overview</div>\n<div>  •  Brief summary of the purpose of this section.</div>\n<div>  •  Clearly state key takeaways in a few sentences.</div>\n<div>  •  Explain how it connects to the weekly theme.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📌</font> Key Themes &amp Questions</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Key Themes: (Bullet points summarizing learning objectives.)</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Key Questions: (Guiding questions for student reflection.)</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📂</font> Canvas Content</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📂</font> Title:</div>\n<div><br></div>\n<div>&quotWeek X | [Section Name]&quot</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📂</font> Heading:</div>\n<div><br></div>\n<div>&quot[Descriptive Title from Canvas]&quot</div>",
+  "context": "From document: ENG 101 | Course Content Formatting & Protocols — chunk 4 (chunk 4/8)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "499cbdc66afc5c828775c69f3b17f7c2",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "applecoloremojiui",
+    "section",
+    "title"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

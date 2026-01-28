@@ -1,0 +1,24 @@
+{
+  "id": "7f435db5-28ae-4568-87e1-4d7dfb73b2b9",
+  "type": "insight",
+  "timestamp": "2021-03-16T14:26:03.000Z",
+  "title": "<div>Mom’s Wifi Password<br></div>",
+  "content": "<div>Mom’s Wifi Password<br></div>\n<div><br></div>\n<div>slices5309sad8kelp </div>",
+  "context": "From document: Mom’s Wifi Password",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "d5bb5c6f295c034d87c4af6079f0826c",
+  "relatedUnits": [],
+  "keywords": [
+    "wifi",
+    "password",
+    "slices5309sad8kelp"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

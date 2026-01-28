@@ -1,0 +1,30 @@
+---
+id: 784e92cf-7911-4806-88a7-a0f8b824aeca
+type: insight
+created: '2018-10-05T22:17:31.000Z'
+document: 15981fe11fce83e658f6940d49a17e08
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - h1tdroznksx
+  - giug
+  - 4kfo74pxvgjfom3cxcpy9f0s7af1q
+  - 3qse4ujzcbc67ao958wl
+  - nxnl4l1zt3h03e0p3rwu8fptefgdze3
+---
+# q+H1TDrOZnksx/VE7/T3+giug/4kfO74PxVgjfoM3CXCPY9f0S7af1Q/3qSe4UjzcBC67aO958wL/nXN
+
+## Context
+From document: Mike’s Mom’s Spanish Rice — chunk 221 (chunk 221/565)
+
+## Content
+q+H1TDrOZnksx/VE7/T3+giug/4kfO74PxVgjfoM3CXCPY9f0S7af1Q/3qSe4UjzcBC67aO958wL/nXNL4l1zt3h03E0P3Rwu8fpteFGdze3+0p4Xb9t2O7gv0uWOsfxjf7W7HnO2a/+qp9Sc9r3mzn/mHfZwTcJBKy9bPd5ULYAzoPsd9I0/qdlHDY1n3quj16gXgFsS2/nBOCtS5W0vyFdG4D36Th62zeyHnTVQHhqr7n/9IL9EpzXykPPa7He6Ih1VVwHTsp9SrJej77Tdx8beL/OgF2n77sM2N2BigOPcjUwxB64uF7HriWpLzSDdpOWlwEta08h4w/9UpHttu3PZNAufk72e3xaLwN3V/hL8J9EM3AP50zsHyLcRwN3Yv+PzwcCreD/ZeXljV8Y13MzKWVC25/MwN2xv8nrLQzcvaROFZ2Au02gDC85RcQ6UsaMVWyP9kaDO+nPtJ0AzGk8eAQmEL7z14OS+bpj2gHvbsDLU3m+7WxqGZsi1i9U9EeSiPZSXSXSXXO950h3NSylzA/mKIc7cro3ke5mM7nct5Fa5je1QGoZezxwh+HRC9xtihBYWWqZaGjRApHuJhmMMAw7qWWcGJSqHeFRGqQlcO9EulMB3F0buHci3k0C6x+KDo5033XwbsVhUUn/Ep42bxiiezW/tJTnYwOGufxnfbW9Vc9RdbWK9X/yV9FcNVLfpyG1f1W4zt0RiF43b/p3WQGy+xS50x+m9JLX3N8Ius3McVTKf5L9l/qUfVa/5Pm+5X6kCwP6A0DepJTRM/utjN/T4R/6ZW4fqWjK4/xEfWq+UEcR6wD1LTU8/pX+/0nG/Vp/o7qb13s1vO7fDkSXLP8Rf2zzR9/ob2hPE/1FPaqfVEftbfr8Y971Ovp2P/Z+9alWgrQ7aRrfaRy2Mw6rnt8mAba+H66WBu09AK/TvhPwt2pV0u6WtBeg+9S/ta9nZD9QLZHWl7s6GYearvn8bAysu+L6IilXNN8f+u4/Pd8LHcCu0/cqwHqpawPtNgW87Axwh58BJfE7ROGnZP8liJ9jCvUFaBd/aFQqmTAilYykBs0R7vDvRDNot+czaI/AHSlIP7dt0P65gPcWcNdzgLtNfumXUJKyKALIsn/rp5Qydh7IBCgHOB8L3LE+tkd7Ow8MeTTmjcfU72lcpnkx4gcPJfNlR/TUAffAgNwwCLIJ
+
+
+
+---
+*Source: Document 15981fe11fce83e658f6940d49a17e08*

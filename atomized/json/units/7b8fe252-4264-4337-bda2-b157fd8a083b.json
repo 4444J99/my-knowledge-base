@@ -1,0 +1,26 @@
+{
+  "id": "7b8fe252-4264-4337-bda2-b157fd8a083b",
+  "type": "insight",
+  "timestamp": "2025-12-21T15:24:25.000Z",
+  "title": "<div>Ingest, digest, suggest tasks + which agent for handoff, expansive &gt exha",
+  "content": "<div>Ingest, digest, suggest tasks + which agent for handoff, expansive &gt exhaustive;</div>",
+  "context": "From document: Ingest, digest, suggest tasks + which agent for handoff, expansive…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "c280c24f5d3b0e12c6d54a0780df400a",
+  "relatedUnits": [],
+  "keywords": [
+    "ingest",
+    "digest",
+    "suggest",
+    "tasks",
+    "which"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

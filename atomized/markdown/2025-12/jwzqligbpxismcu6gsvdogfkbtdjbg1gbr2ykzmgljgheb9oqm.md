@@ -1,0 +1,31 @@
+---
+id: 054790b0-027f-4958-b176-7148019a52f3
+type: insight
+created: '2025-12-30T16:56:40.000Z'
+document: d6633204ebd2a6d6fe3a9c10c1750226
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - jwzqligbpxismcu6gsvdogfkbtdjbg1gbr2ykzmgljgheb9oqmc2plegc7lmakybqbalsxth
+  - >-
+    fmtswcwbrhfqoceblbllyc2iqc3rqc9zlygxi647lsdtgbpq8igdhohoeroh8ye9rgc4h5hbs4abme1ohkjz5aowseuawqgtbjl4zjgbaeji5a15qmba2cmjnyshbb0bqigbkdmgcbrf7vrljyiizzqhzl7da4w3e6kdkxivrgrb0d
+  - sawox
+  - kqembrrnfuregzzsitnpybatuds1tpe
+  - ld7lvkowuwlwfpbp5lsb1agi7rgspho
+---
+# JwzQLIGbPXISMCu6GSvdOgFKBtDJbG1gbr2YKzMgljgHEB9oQMC2pLegc7lMAKYBqbalsxTh/FmtSwCw
+
+## Context
+From document: New Note — chunk 362 (chunk 362/841)
+
+## Content
+JwzQLIGbPXISMCu6GSvdOgFKBtDJbG1gbr2YKzMgljgHEB9oQMC2pLegc7lMAKYBqbalsxTh/FmtSwCwBRhFQoCebLBLLYC2IQc3RQC9zLYGxI647LSdtgBPQ8igDHoHoEroH8yE9rgC4h5HBs4AbME1oHKJZ5AOWSeuAwQGTBjL4ZJGBaejI5A15QmBA2CMJNYSHBB0bQIgBkDmgCbrF7VRljYiizZQHzL7dA4w3e6KDKXIVrGRb0D+SAWox/kQemBRrnFUREgZZsiTNpYBatuds1tPe+lD7LVKOwuwlwFpbP5LsB1agI7RGsphO+R2CvY/X/scLFLQmgcUm//YtDadp5Ulj6FYbk/0CyXojyZgzljyfWbWBy3B6UFfox/UtJnHCTYPe2M1+NDb8rEf44mx1PyWhe1CYsjxeKEO0n1QFhnU636LUUk5Rl5X1hse6kdnDoB/7EO9yLB8xjhkJ1q+aXyYB37X5zHJSKe2+W0L0qqFi9PAgu2pu707LTx5X9pxz0IB/tK4odjYiNqvg1GGY2BiUFbp1rgZdosB0sqaj/5aj6cGIEeZAP+frzQzkHnEcQZIJmRJzNqOkqUuyDdxDdDITGcAV8oDvBPyZkyxTgJIjgKhl/qNh6D0MlCIrFKmZbee4Sn1IL47wDHgfwCKUQ/lAD45SirLlun/3K6jnQGs8g0s+5A8AF1m0QOAu03Ynv5rdTTAD2BMH8EDP2km7n9acfHXrulUKJ+xvGfFpqfH03FL23NMe/gAznEUjEo+4LT/FAKq79KqEcD/EmTGYWCCB8cS4wO+foXwWahQPsx0pwz9163xgnz2FLjxO6MZJF+0SN9R5d9+B53Ylu69byyH9zn+eDmpBKbTt7Q1bOXa4oxc28VtReceOTcA4NGJg/Ic5m+1KdIYq6WsUp6vfbYW3Jflory+U+qHX//V/nTTzbF3AXzsg/DgulGtHhhP7/1J/X3Xn6JNm6RUC5V18PvDhO7xfYo2c833lnaxMoR2U7+PKEubZgv8v1JicMpotd/4p2VL7TU0cUcWDR+/ewj/wwpHfhNxECaR3zYQ+ytxDy8rBAi5yO+nVjLYDx8rJikfeqS0fPnydOGFF+a6mFRRqVqgWqBaoFqgWqBaYHotoJ8OlaoFqgWqBaoFqgX+z7PApk2btOx+ZvrTP/3TxGZzhAPivG7duvT7v//7eaY/
+
+
+
+---
+*Source: Document d6633204ebd2a6d6fe3a9c10c1750226*

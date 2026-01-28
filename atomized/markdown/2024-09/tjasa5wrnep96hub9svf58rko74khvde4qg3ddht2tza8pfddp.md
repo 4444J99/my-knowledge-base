@@ -1,0 +1,31 @@
+---
+id: 137678fd-a699-4d88-ab0c-1f8474284f4a
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - tjasa5wrnep96hub9svf58rk
+  - 74khvde4qg3ddht2tza8pfddpbvxgtv2l
+  - casyi61gfwjb5wah3oa4usxbk2vj3cwg1mrfg1tajn1wyswl0
+  - >-
+    xyonccc4r73q5abyglob57xrnvbmyy82frww2nftkbfdhipwo67d46gttirguynzwpcrxr9cy1grqg6eb7jjb91rrrhqdzg3wxikmwrircdxsgrvg5yz91rygxyzcv08w6nlek4coqkybf5bbljojcv0qyd4qvgbw4zurhranrvdbovdm
+  - 0vjeaniibxatxga2he1skotw
+---
+# tJaSa5WrNEp96hUb9SvF58rk+o+74KHvDe4Qg3DdHT2tZa8PFDdPbVxgtv2l+/cASyI61gfWjb5WaH3o
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 3211 (chunk 3211/11534)
+
+## Content
+tJaSa5WrNEp96hUb9SvF58rk+o+74KHvDe4Qg3DdHT2tZa8PFDdPbVxgtv2l+/cASyI61gfWjb5WaH3oa4USXbK2VJ3cWG1mrFG1TAjn1WysWl0/xyonCCc4R73q5ABygLoB57xrnVbMYY82fRww2nftKBFdhIpWo67d46gTtIrgUYNzWPCRXR9CY1GrQG6eb7JjB91RRrhqDZg3wXIKmwrIRcDxSgRVG5yz91rYgXYZcv08w6nLEK4COQKyBF5BbljoJcv0QyD4qvGbW4zurhraNRVdBovdM/0VjEanIiBXAtxGa2hE1sKOTw+XRxi9pacDsI1ynb4ZdsdzhPhbrxGIbwqb8GlArtZjZMZs2iAsxQcEAiSY6JZGiN86uYYuElpohGYZKFHAz+PnOGAY4I3rATDoJfhnOxZjngq6WlpII5aYYVfXjXrz7xhM+ioUbLbkyBw9wE9Dd0Pl1izjKLfzWIsquo2l2YKbGt4bY2KfAKp/lvkLs7Wzov/G+eeToLe0CYLGv5bPv4Gc/tblmql1/qaUYe8qzF7PY/peWLg+mc0/cP3nGP8frn8r5JqKTnerZlLv+uX7l1bscVw+La0l/xojgPSaci6+l18C0DpTfGId09pV15/FcZqK1y8cxOonRRzlgopOI3t9Y9XMtQ6LAZstDcjFCtl0b2OdrWq5gw2gHWvy8G92erHyA7rGej4BeH4WtN3mWNspo1fV0rV6HZORscT4CeTySYS9l3o2df+sN+Vc2C8AYAA2nllY0LHlUwxP9pkTcNJzTePrhZN4klqjpn9RD1y34hGM2WQHgAWsWk9tHGCPEnw1INbFsv6sjHDg+nla6AVmGyOgYGtln2Fiv/3J+OP3QNtxltlGSSLKdfsblUlzxrHwGcfFkyMy/4biNL5+h+DZcZqAGZaYG3WwXINzePZfMvmLpfnIrg8j85uHb0E9RvaYm3vho0+M419N+Qvqio9+Ybv/gpufejRUcS9d928nAbwYs6G4Ucen7TynY2xieWkI+sK/1l5RlhHsg0JOujqNJlwXUG0vys0vs67RLlXRgd+i1zS5pSzAOXAd2jiSXsqygOLActp5DjsQriM66edsQS2XmjlUdFF6/znBOdcDvAnOBZD7ZSlPbD8Gy2U91HJ/CPx26/4AciS3vGWkV+EcSSyF7j6+8ent3yeQi7SW77re0lqqdZLi
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

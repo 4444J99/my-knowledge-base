@@ -1,0 +1,26 @@
+{
+  "id": "3d2f63c7-fa93-44c5-aa5c-0b7907771485",
+  "type": "insight",
+  "timestamp": "2025-12-24T04:20:20.000Z",
+  "title": "<div>Merge commit ALL open PRs and branches into MAIN;</div>",
+  "content": "<div>Merge commit ALL open PRs and branches into MAIN;</div>",
+  "context": "From document: Merge commit ALL open PRs and branches into MAIN;",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "7163a15387210c9e307081896cd1126f",
+  "relatedUnits": [],
+  "keywords": [
+    "merge",
+    "commit",
+    "open",
+    "branches",
+    "into"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "6b788550-9c4e-4b30-87c6-3af024a2f139",
+  "type": "insight",
+  "timestamp": "2023-08-22T23:23:00.000Z",
+  "title": "<div>Open API Key</div>",
+  "content": "<div>Open API Key</div>\n<div><br></div>\n<div>[REDACTED:API KEY OPENAI]</div>",
+  "context": "From document: Open API Key",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "21a74a41127a37a0c8ab2f4319cd7a5e",
+  "relatedUnits": [],
+  "keywords": [
+    "open",
+    "hejpxd5fkrvdk72hq09ct3blbkfj3pzma13ncjq12m76nqhm"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

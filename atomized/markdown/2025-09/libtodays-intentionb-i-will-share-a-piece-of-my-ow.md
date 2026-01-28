@@ -1,0 +1,45 @@
+---
+id: 7db72a66-2410-457b-87af-26c4746040ed
+type: insight
+created: '2025-09-17T16:26:39.000Z'
+document: 3dde979fd2f414fcc1bb9df32aa813e9
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: research
+keywords:
+  - quot
+  - wisdom
+  - night
+  - have
+  - today
+---
+# <li><b>Today's Intention:</b> I will share a piece of my own hard-won wisdom wit
+
+## Context
+From document: A 30-Day Journey with Siddhartha: Aligning the Path with Daily Life — chunk 27 (chunk 27/29)
+
+## Content
+<li><b>Today's Intention:</b> I will share a piece of my own hard-won wisdom with someone, not as a lecture, but as a humble offering.</li>
+</ul>
+<div><b>NIGHT</b><br></div>
+<ul>
+<li><b>Night Reading:</b> &quot‘Seeking means: to have a goal; but finding means: to be free, to be receptive, to have no goal. You, O worthy one, are perhaps indeed a seeker, for in striving for your goal, you do not see many things that are close to your eyes.’&quot</li>
+<li><b>Reflection:</b> What is the most important &quottruth&quot I have learned in my life so far? How did I live that truth today?</li>
+</ul>
+<div><b>Day 29</b></div>
+<div><b>MORNING</b><br></div>
+<ul>
+<li><b>Morning Reading:</b> &quot‘Wisdom is not communicable. The wisdom which a wise man tries to communicate always sounds foolish... Knowledge can be communicated, but not wisdom. One can find it, live it, be fortified by it, do wonders through it, but one cannot communicate and teach it.’&quot</li>
+<li><b>Today's Intention:</b> I will try to be fully present in this moment, letting go of regrets about the past and anxieties about the future.</li>
+</ul>
+<div><b>NIGHT</b><br></div>
+<ul>
+<li><b>Night Reading:</b> &quot‘The world, my friend Govinda, is not imperfect... No, it is perfect at every moment; every sin already carries grace within it, all little children are potential old men, all sucklings have death within them, all dying are eternal life.’&quot</li>
+
+
+
+---
+*Source: Document 3dde979fd2f414fcc1bb9df32aa813e9*

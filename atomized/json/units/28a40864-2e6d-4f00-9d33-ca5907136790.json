@@ -1,0 +1,26 @@
+{
+  "id": "28a40864-2e6d-4f00-9d33-ca5907136790",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt>⸻</tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>III. | NOTES &amp TIPS</tt></b><tt><br></tt></div>\n<div><tt>  •  Always include Ref ID, Folder, and Filename for re-syncing later.</tt></div>\n<div><tt>  •  Use :: prefixes for IDs and symbols.</tt></div>\n<div><tt>  •  Keep line length to 80–100 characters for best mobile readability.</tt></div>\n<div><tt>  •  Each section must be self-contained; do not require scrolling between modules.</tt></div>\n<div><tt>  •  When exporting long entries, use suffixes: _P1, _P2, etc.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>⸻</tt></div>\n<div><tt><br></tt></div>\n<div><tt>::REF_ID = SYS_EXPORT_FMT_NOTES.v1</tt></div>\n<div><tt>::STATUS = ACTIVE</tt></div>\n<div><tt>::NEXT = [SYMBOL_SYSTEM_BOOTSTRAP]</tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 171 (chunk 171/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "notes",
+    "tips",
+    "always",
+    "include",
+    "folder"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

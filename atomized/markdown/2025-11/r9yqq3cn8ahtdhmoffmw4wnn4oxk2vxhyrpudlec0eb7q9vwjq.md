@@ -1,0 +1,32 @@
+---
+id: adb0bc92-78c8-4eb5-9ae5-c0e303fddaa9
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - r9yqq
+  - >-
+    3cn8ahtdhmoffmw4wnn4oxk2vxhyrpudlec0eb7q9vwjqt8bqeph1ayanqfqs0zithtyfxgl4puxlmmjisfxs3lwdi3mpltvk
+  - >-
+    s7fjnro9poiw2kpiwojvyhimwh25uljkcai0fwipv9qoyza2opfy1p367tgit17nemkny4ynmpwumlicbsea83grfgcqlomdpgiougb5zoezucryzfsdadr3vsounuvyy4ji91bd7hapxuerbk
+  - ux9g4bv2rhr7sgw7lqlnqdvrrjw4r95
+  - qsxuh9brhdnijcqdxppc0in0w8gdfvbzb19df13bsw88byqqna3sqbtth0mla7
+---
+# R9yQQ/3Cn8ahtdhmoFFMw4WNn4oxK2VXHYrpUDlec0eb7Q9vwjQt8bqepH1ayANqFqS0zIThtYfXGl4p
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 9767 (chunk 9767/11629)
+
+## Content
+R9yQQ/3Cn8ahtdhmoFFMw4WNn4oxK2VXHYrpUDlec0eb7Q9vwjQt8bqepH1ayANqFqS0zIThtYfXGl4puxLMmjiSFXS3lWDi3MPlTvk/S7fJNRO9poIW2kpiWOjvYHiMWh25ulJKcAi0fWipv9Qoyza2opfY1P367tgIt17nemkNY4ynMPWuMlICbSEA83grFGCqLomDPgIOugb5ZoEZUCryZfSdAdR3vsouNUvyy4JI91bD7haPXuerBk/UX9g4Bv2RhR7SgW7lQlNQDvRRJW4r95+qsXuH9BrhdNIjCQdxppC0In0w8Gdfvbzb19df13BSw88bYQqna3sqBTth0mlA7+CQB34W6kPiIL74ODveTnRwL7Gs6/PNk5pPb335vwr+WfDmHzEpoc0OxJdUQvUlKSFeAH0wWhLujbKMOcprRoA/dkoKmtjdx1NieDNL80Fyq/eNa2pf88J1Y+pPrHdloyshB/qLehYdctBDK1UiugxSjmoE9uCHNiPvSvKIfZ+G147oPbZ3Ut/kGsOqL60xDHFN3K3Y+k5N7sugO9I76Al2vjQrbWQ9CxMZ1R/m5+3PWzx9X4Ezd/LsAxGTIo3oDJj6DY8/mI9rUEDdqupL28O952ApD9JTKKGDMjqiVXLvhG+2aTTv0lz6+XHZNdrhn4MjzKjxojtGAe6A8xAJmogrLsqlAl7lNaLs5BEpUel2sp38t1S3TkLdsgY93/7jmzv/8Ye99j61/1HdYixJ74cOV8pQv2QYw7EWPzsqVZfRKg2UmmVlkO+Yt3T6UvdLVZstvqwLKBhKOCi8a4f8+lAnhvQryVEpTnrWTSsHJN5hB+5xqs/qXJA3x5mF67umhfyDsK7PUHkhAClIK3DNqImRaTGzy3yuH60n4BlSnoezdY2bpL2hpUkoBSlSVzqGt3vEc5jAUC2iaxRiiEcdBVz0WsFAULaeFn9cd/xIVWoXrUR0Vb7BO+iB0XPhTt3GXWsA03YNXJdwTPKF1GycRf+JnS90LLnDCdWP4TRf1LxLy8XZvXw1OnwJbgujslETEWW4a9Ih0JohUaeCq4bfOyRlRCr+KgH3Trlpi8+5vG5C/UfeGvam97V/7i87oPZKTcIjVXE6lp6m4Jyq34aWSM7zcE+hTFwdvSinNw9TReU6bOEZxI9+2wz60G/7PE3dB9wWqgh3z2hJuKcUHsIlPyo1
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

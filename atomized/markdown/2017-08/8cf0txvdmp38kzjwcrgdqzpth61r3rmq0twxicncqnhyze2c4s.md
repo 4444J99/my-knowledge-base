@@ -1,0 +1,33 @@
+---
+id: 6e2f6591-7da5-44da-9a67-413d2896a0d1
+type: insight
+created: '2017-09-01T01:01:20.000Z'
+document: c09dc023ec256edd51aef2e3615dd904
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 8cf0txvdm
+  - >-
+    p38kzjwcrgdqzpth61r3rmq0twxicncqnhyze2c4sgmvyogh1qopxdlsbsfohf8u8sertvbjyd9ywd
+  - >-
+    wbaptu0u2obgc3azmazsbn4vwagl3do45aecysuglj08bvl1yeu2rywlxvswuz34jx1xvqvmefou2stbyroxw
+  - ygkex315kcl4uebkbwcixvsfog6uut
+  - >-
+    zid5vgofixrrfmkktcfrzhyaom3g9vwhof1bvukwk6luztfgzatzva25z6y4uco1yap0hub5deoyzb8jclycfvc
+---
+# 8cF0tXVdm+p38kZJwCrgDQzpTH61r3rMQ0TwXIcncqNhyZE2c4SgMvyogH1QoPxdlsbsfoHf8u8Sertv
+
+## Context
+From document: Web Sitcom Ideas — chunk 13 (chunk 13/798)
+
+## Content
+8cF0tXVdm+p38kZJwCrgDQzpTH61r3rMQ0TwXIcncqNhyZE2c4SgMvyogH1QoPxdlsbsfoHf8u8SertvBjYD9ywD+wbAPTu0u2Obgc3AZmAzsBn4vWagL3DO45aeCysuglj08bVL1Yeu2rywLxvsWUz34jX1XvQvmefoU2STBYroxw/YGkeX315kCl4uebkBwCIXvsFoG6uUT+zID5vGoFIxrRfmKKtcfrZhYaOM3G9VwHOf1bVukwk6LuzTFgzaTZva25Z6y4Uco1YaP0hub5Deoyzb8JCLYcfvC+0lSLjJQkDLhqiMbytX/wwn+44bDpQj7R2L/Vo638p1bbK82JuzMmhKQWt59e0oCV05LVhOSnWHrxHBv0fHcoG0zWGQFl/0Sd/RYiaFR7kTWZNDNmgae8FnmBgvs3PoEKRvv8U9Jq1wXPpR9uxpozRu4STbNJVFKrUFY7Xpxp6/7DsfeOsyFrOazUo7aOQGXyyqqI/ksuCMXK2dNwOCX9nIt/NyVNV7ji8UVTrE6sc/mRXVZ65lVLtGpUpuHD+y+OPXhLltPbZH+4BM1rKA2blN+9abCY8JMcSKZewYKvK+LNOeNo5xscE/+dAGVvS3l41U9lflYEZ/lOvmgemccY82bnSe9MUo6k+OLTNn+E175sQlufu19vGynDgOdtgQr9tuL6e1Z3gi387zElrreq8OjmwuTb0rnFzINlgTZ/ZnQGs2it/RT0CO40RsUsFKA1Npzfe0ka9cLcfMmMZ2+Lwm/BquFjJIZLxUur8j4NRnvBXzjIhD7suNZecr94ZMgNo6SckF321gHcoaqwBX3H6d4dP6+Oe1i+y8F25nvmusTsgeM4s6Pg0cB8lxJZaKSwz9mWIvOOf136/j9mU/iseQ8eN9u72Vcxk0D8au41iaZuyOS/SOnfmx4ODrRXws8E0sZai4HFtbD3q36Vtzg/cjlv1sJ6yyQZd+CM2xkmPwadOxTjcXDrw7L+YS7wfYkAk5RU4uVmsTPMdLR+2X1sV++NJCfuWHz3nb2m/aelx9DogfuHIcGIusFhfjSjrgdz5lM3aFB+4hl2EQHKoNAS5lrf9O5duCdEcIdjcydndTSHbFuxufbbMZ2AzsGwB7DmwGNgObgc3AZmAz8A4Y6KuGxYWLG5deMKCuP1/0IErPn8uyiI+NHsvjawctxPuT87bTp/O9r4X6
+
+
+
+---
+*Source: Document c09dc023ec256edd51aef2e3615dd904*

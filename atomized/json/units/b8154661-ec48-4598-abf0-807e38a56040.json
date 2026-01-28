@@ -1,0 +1,26 @@
+{
+  "id": "b8154661-ec48-4598-abf0-807e38a56040",
+  "type": "insight",
+  "timestamp": "2025-12-16T05:30:49.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>Prompt 9 – Rebutting the Employer’s Affirmative Defenses</b><br></div>\n<div>Systematically analyze common ADA affirmative defenses raised in federal pleadings, including undue hardship, failure to cooperate, legitimate business reasons, and after-acquired evidence. Apply the law to show why zero-cost remote work, documented cooperation, and lack of contemporaneous discipline defeat these defenses as a matter of law or create triable issues of fact  .</div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>Prompt 10 – Summary-Judgment-Ready Narrative Synthesis</b><br></div>\n<div>Using all prior analyses, generate a court-ready narrative suitable for a statement of undisputed facts or opposition to summary judgment. The narrative should integrate chronology, medical evidence, employer admissions, and damages into a cohesive theory of liability that demonstrates failure to accommodate, retaliation, pretext, and resulting harm under the ADA.</div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div>If you want, the next step is to <b>run these prompts sequentially and fuse the outputs into a single master brief</b>, or convert them into <b>expert declarations</b>, <b>Rule 56 fact statements</b>, or <b>jury-instruction-aligned trial themes</b>.</div>",
+  "context": "From document: Below are deep-research prompts designed to generate a litigation… — chunk 5 (chunk 5/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "7a833000eeae446ac24afb198f501b69",
+  "relatedUnits": [],
+  "keywords": [
+    "defenses",
+    "narrative",
+    "into",
+    "prompt",
+    "employer"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

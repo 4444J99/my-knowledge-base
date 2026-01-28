@@ -1,0 +1,26 @@
+{
+  "id": "5128c54c-c5b6-443e-a10a-923a0928b068",
+  "type": "insight",
+  "timestamp": "2020-06-22T04:18:41.000Z",
+  "title": "<div><h1>Apartment options</h1></div>",
+  "content": "<div><h1>Apartment options</h1></div>\n<div><br></div>\n<div><h3>The Lodge</h3></div>\n<div>Pros:</div>\n<ul>\n<li>Washer and dryer included</li>\n<li>Nice floor plan</li>\n<li>Good location</li>\n<li>Gated</li>\n</ul>\n<div>Cons:</div>\n<ul>\n<li>Parking situation is rough apparently </li>\n<li>Only one dumpster and no recycling </li>\n<li>Internet connection not good??</li>\n</ul>\n<div><br></div>\n<div><h3>Kensington</h3></div>\n<div>Pros:</div>\n<ul>\n<li>Nice floor plan</li>\n<li>Gated</li>\n<li>Good amenities </li>\n</ul>\n<div>Cons:</div>\n<ul>\n<li>Farthest away of all options</li>\n<li>No washer and dryer in unit</li>\n<li>Highest price of all options</li>\n</ul>\n<div><br></div>\n<div><h3>Timberlinks</h3></div>\n<div>Pros:</div>\n<ul>\n<li>Internet included in rent but it too seems to be a not great internet plan?</li>\n<li>Washer and dryer included</li>\n<li>Nice gym</li>\n<li>Nice location</li>\n</ul>\n<div>Cons: </div>\n<ul>\n<li>Least favorite floor plan - lots of wasted wall space with extra closets and doors</li>\n</ul>\n<div><br></div>\n<div><h3>Fountains</h3></div>\n<div>Pros:</div>\n<ul>\n<li>Gated</li>\n<li>Good reviews</li>\n<li>Updated units for reasonable price</li>\n<li>Closest to campus and loop</li>\n</ul>",
+  "context": "From document: Apartment options — chunk 1 (chunk 1/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1fb5af8163f1c45ae3cad1b2d228a902",
+  "relatedUnits": [],
+  "keywords": [
+    "pros",
+    "nice",
+    "plan",
+    "good",
+    "options"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

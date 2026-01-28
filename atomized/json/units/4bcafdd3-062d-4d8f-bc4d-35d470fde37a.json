@@ -1,0 +1,26 @@
+{
+  "id": "4bcafdd3-062d-4d8f-bc4d-35d470fde37a",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>- **Name:** `cognitive-archaelogy-tribunal` (note: &quotarchaelogy&quot spe",
+  "content": "<div>- **Name:** `cognitive-archaelogy-tribunal` (note: &quotarchaelogy&quot spelling - intentional?)</div>\n<div>- **Description:** Perfectly captures the scope - auditing &quotprevious chaos: all disparate sources&quot</div>\n<div>- **Visibility:** Public</div>\n<div>- **Created:** 2025-11-02 (3 minutes ago)</div>\n<div>- **Organization:** ivi374forivi ✓</div>\n<div><br></div>\n<div>### **Pull Request #1 (Draft):**</div>\n<div>- **Title:** [WIP] Build Python suite with 4 audit modules</div>\n<div>- **Status:** Open, draft, mergeable</div>\n<div>- **Branch:** `copilot/build-audit-modules-suite` → `main`</div>\n<div>- **Created by:** Copilot coding agent</div>\n<div>- **Assigned to:** You (4444JPP) + Copilot</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **Implementation Plan Outlined in PR:**</div>\n<div><br></div>\n<div>The PR includes a comprehensive checklist for building all 4 modules:</div>\n<div><br></div>\n<div>### **✓ Foundation:**</div>\n<div>- [x] Project structure created</div>\n<div>- [ ] Dependencies setup (requirements.txt)</div>\n<div><br></div>\n<div>### **Module Development:**</div>\n<div>- [ ] **Module 1:** Archive Scanner (iCloud/Dropbox/drives, file classification, deduplication)</div>",
+  "context": "From document: Contents_Table — chunk 101 (chunk 101/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "created",
+    "modules",
+    "copilot",
+    "quot",
+    "draft"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

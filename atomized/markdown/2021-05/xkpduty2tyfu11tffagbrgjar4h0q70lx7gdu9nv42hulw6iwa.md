@@ -1,0 +1,31 @@
+---
+id: ce9d9eed-effa-4de1-add0-742db53a239a
+type: insight
+created: '2021-05-26T23:26:41.000Z'
+document: d338c9f6bd92d1f92f8eaa091bec0082
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - z74g1lfexhh4dadpwqrtvjuynpgwwjs5ze
+  - xkpduty2tyfu11tffagbrgjar4h0q70lx7gdu9nv42hulw6iwacajxhkkjcfxvhwqqqrvhwv4s8k
+  - >-
+    cngh8oec9gsta0m3ltfz6fbx2tuhkys5wkjvqfmjjwoscnmugooa4zxd8oph54u1jtpexizwvpwtaroriswvl2ygubi0dwdhojzuz4ihumchbyaeors6kkaon8kfdn4e
+  - bljubvwp4y0vw9prdrjfsadzqwj3towkto0kkzgbdic2snx9tnq8u
+  - efcnjjrpvdvjpr7pxdlumgs1voi7mbiohmcgzcjsczhauiooa8h8c
+---
+# xKpduTy2TyfU11tFFAGbrGjaR4h0q70LX7GDU9Nv42huLW6iWaCaJxhkkjcFXVhwQQQRVHwv4S8K+CNG
+
+## Context
+From document: Sausage & Peppers — chunk 187 (chunk 187/394)
+
+## Content
+xKpduTy2TyfU11tFFAGbrGjaR4h0q70LX7GDU9Nv42huLW6iWaCaJxhkkjcFXVhwQQQRVHwv4S8K+CNGh8OeC9GstA0m3LtFZ6fbx2tuhkYs5WKJVQFmJJwOScnmugooA4zxD8OPh54u1jTPEXizwvpWtaroriSwvL2ygubi0dWDhoJZUZ4iHUMChByAeors6KKAON8KfDn4e+BLjUbvwP4Y0vw9PrDrJfSadZQWj3ToWKtO0KKZGBdiC2SNx9TnQ8U+EfCnjjRpvDvjPR7PXdLuMGS1voI7mBiOhMcgZcjscZHauiooA8h8C/AD4IfDHUjrXw+8CaLoGpEMv2q0sYY7gK/3lEoXeFPdQce1dV4X+G/w78EX+par4L8LaVoF7rLB76fT7GC1lu3DMwad4kVpCGdjlieWJ7mu0ooA5zxR4P8JeN9LOieNNEsdf05mDm21C2iuoSwBAPlyqy5AJ5x3rzTwp+zV+z74G1lfEXhH4daDpWqRtvjuYNPgWWJs5zE+3Mf8AwDFe3UUAFcd4y+HfgD4i2UWnfEDw1pniW1gJaOLU7OG8RGIwWVZlYKcdxzXY0UAc34T8HeE/AehweGfBGjWegaRbFjFaWMCW0CF2LMRHGFUFmJJOOScmukoooA5zxR4P8JeN9LOieNNEsdf05mDm21C2iuoSwBAPlyqy5AJ5x3rzTwp+zV+z74G1lfEXhH4daDpWqRtvjuYNPgWWJs5zE+3Mf/AMV7dRQAV5742+Evws+JTRSfEPwfo/iaS3UpE+pWEF28ak5IRpUYqM+hFehUUAZmi6Lo/hzSbTQfD1jBpmmafEsFta20awwQxIMKkcaAKqgcAAACvIL/8AZk/Z01TXB4l1D4ZeHLjUw28zPpVqWZ853uPLwzZ/iYE+9e5UUAcRrPwy+G/iPWtJ8S+IfCmk6pq+gmM6deXVjBPc2RicSRm3ldC8WxwGXYRgjI5rgfj1+0b8L/2bfDln4n+KN5cWtpqMzW1sttbvcSSzKhk2AIMKSoOCxC+9e61z/iDwn4V8WRQQeKtGstZitZPNhS9t47hY5MY3oJFYK2OMjmgD8df2U9H1P9rv9szxJ+2TqeizaZ4K8PL9l0FblArT3KQi2izjKs0ce+WTDMEkZFBIGR+1VQWtra2NvHaWUKW8EQ2pHGoRFHoFHAH0qegAooooAKKKKACiiigAooo
+
+
+
+---
+*Source: Document d338c9f6bd92d1f92f8eaa091bec0082*

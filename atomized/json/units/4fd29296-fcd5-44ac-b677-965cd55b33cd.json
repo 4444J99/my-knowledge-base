@@ -1,0 +1,26 @@
+{
+  "id": "4fd29296-fcd5-44ac-b677-965cd55b33cd",
+  "type": "insight",
+  "timestamp": "2021-12-29T16:12:46.000Z",
+  "title": "<div>The flu continues to evolve from generation to generation to such a degree ",
+  "content": "<div>The flu continues to evolve from generation to generation to such a degree that it forces humanity to exist in total isolation from one another. This causes the development of metaverse technology to catch up to human’s need for digital, no longer physical, connection. </div>",
+  "context": "From document: The flu continues to evolve from generation to generation to such…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "0b3d7cd1c867d4373b876e72e8639be5",
+  "relatedUnits": [],
+  "keywords": [
+    "from",
+    "generation",
+    "continues",
+    "evolve",
+    "such"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "3aacd4cf-1df7-4ed3-b93a-94d525507c49",
+  "type": "insight",
+  "timestamp": "2025-03-19T08:54:53.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><b><font face=\"HelveticaNeue-Bold\" color=\"#111111\"><span style=\"font-size: 15px\">Monday: Warm-Up, Discussion, Prewriting</span></font></b></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><b><font face=\"HelveticaNeue-Bold\" color=\"#111111\"><span style=\"font-size: 15px\">Tuesday: Rough Draft</span></font></b></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><b><font face=\"HelveticaNeue-Bold\" color=\"#111111\"><span style=\"font-size: 15px\">Wednesday: Peer Review</span></font></b></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><b><font face=\"HelveticaNeue-Bold\" color=\"#111111\"><span style=\"font-size: 15px\">Thursday: Quiz/Midterm/Final</span></font></b></div>\n</td></tr>",
+  "context": "From document: Below is a sample “Module Navigation & Weekly Overview” document that… — chunk 10 (chunk 10/46)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "bd2f2280cc167423e582fae6fad9d700",
+  "relatedUnits": [],
+  "keywords": [
+    "style",
+    "border",
+    "font",
+    "width",
+    "color"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

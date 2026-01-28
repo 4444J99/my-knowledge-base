@@ -1,0 +1,32 @@
+---
+id: e891dab2-0040-4166-9cdd-c8b1507dc67e
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ujstazeagb7ifbcsjcwmavthfgi2di8
+  - azf17vnrlgnwcnoydmqtjwveyslijp
+  - 6l978guc89b7fdnfbfnnnrfdjm
+  - >-
+    0v0aok5qbdfov2wo89qxhy1tj15crrbtcgay2zrkgju0zhvjuwrdbwzmtqrdwckbhshijbpvtjfmzv81zihr4bxq3nqyrnrxndc4dmztxrpstsx
+  - >-
+    w55t6ir9p2o97ra5i2gobcrgcqzghlcmiluem57o11faqbrlhzs2qa6xplv1zbmc7uahkbgzhehbr78skddqlwh6w49p4avosv5npsxrr4tqmlsxnbje
+---
+# UJStazeAgB7IFbcsJCWMAvTHfGi2Di8/aZF17vnRlGnwcnoyDMqtJwveYSLIJP/6L978guc89b7fdNfb
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 10508 (chunk 10508/18928)
+
+## Content
+UJStazeAgB7IFbcsJCWMAvTHfGi2Di8/aZF17vnRlGnwcnoyDMqtJwveYSLIJP/6L978guc89b7fdNfbfNnnrfdjM/0v0aOK5QBdFOV2Wo89qxHY1Tj15CrrbTCGay2ZrkgJU0zHvJUwrDbWZMTqrdWCkBHshiJbPVtJFMZV81ZihR4BXQ3NqYrnRxNDc4DMzTXRPstsx/W55t6iR9P2O97ra5i2gObCrGCQZGHlCmiluEM57O11fAqbrlhzs2QA6xplv1ZBmC7UAhKbGZhEHBR78sKDDQlWH6w49p4AvOsV5npSxRR4tqMlSXNbjE+HZLqNCODbbVWa4jGa2CXEOgjUN6Mt0U5vfUc7HTwYTWKOfwQCbZHlcFpPFMYn3YXycNPFSn3XvdCUm0plgoiDuzTpIVM0a5cw1GRrwrsNWF8RrHNWpr9MQNdydPBtRWkSTVmBhqtSZoD8NunLX5q3/g++2bf+vtXI2xFKY5XVbXreXudHU02A+bj2aQUzxj6bMKY4XkBnoencFp9yjqbbyLYr6oC5ymvgcHTcVmsJ0vVsIO4sbYlm5UV1lGJDMKS0BgZZ1pjjH43ALGT9fGhNop+iR1M+b7/6d3/jMd//sLt+1Vd4Wwn6J8wl88H7T17/Khoe/UPuDqQnw6G1uKN6DhLesVClrToR892VRMWtoWKHZAZJFlaugFaKO5Set1fdmMgUBwwsA1jX+PdrFYShBztRQ6LbFZiCkm1PHqyPYFjJc+w9ATxdrzDXEzdT4NkGd0uS5rYYnw7JdBsRwLfbqjTFYzSxS4h1EKDPx4O/f9efv/hFzzv87MnFP0B7Dwr8pjeAf4nGfBiyzWrUHtKz4xLQhvocTuuJwnyKHk2Yp4EuLXl+18QJdSCcKc9Xb3eVSYTvFK6EvjGRKR7l2Kpx28Aq3UYLTLcTo1ekoDEFJVuuYQRez4SQ6S+Q97Yl8doHb00xSuZ6XYbUCGyBU3oFJHa6oYBdPiQ9GBV0bnCat3/cLsjjXZ1EUxpLCtYoRVkjU9CXkWQE8no20Acr7vMm+0DQYI4G3IaNr0ejp4XIwke8jfQ4PVJ8DtqDZ8dclK7wrl0xZPsT0hkHm8GBrWSnGMJ2nAJTWiaJeb4geYD2SYi1y4Xp9ODBOBllSZfE0JBbgFYtoERCqwn6LXT5Df02hMMZ9BqLZrxImYmXZbQxmrEfgFGA
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

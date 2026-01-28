@@ -1,0 +1,26 @@
+{
+  "id": "452b25ed-908e-4e52-a12a-435d1e91c63f",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><i><tt><br></tt></i></div>",
+  "content": "<div><i><tt><br></tt></i></div>\n<div><i><tt>### II. | CORE DEFINITIONS</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>| CATEGORY     | DEFINITION                                                                 | EXAMPLE                      |</tt></i></div>\n<div><i><tt>|--------------|----------------------------------------------------------------------------|------------------------------|</tt></i></div>\n<div><i><tt>| ARTIST ID    | A persona, voice, or filter through which you create or frame work         | `::4_</tt></i><tt>bl00m`, `::ETCETER4`    |</tt></div>\n<div><tt>| PROJECT      | A modular work, storyworld, or system produced through one or more IDs     | `::MET4morfoses`, `::GR1ND3R`|</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### III. | SYSTEM STRUCTURE EXAMPLE</tt></div>\n<div><tt><br></tt></div>\n<div><tt>```md</tt></div>\n<div><tt>::4_bl00m [ARTIST ID PROFILE]  </tt></div>\n<div><tt>&gt ROLE: Root creator, recursive designer  </tt></div>\n<div><tt>&gt PROJECTS: ::MET4morfoses, ::GR1ND3R, ::FLOAT1NG.P01NTS, ::Q_v33R  </tt></div>\n<div><tt>&gt FORMAT: All formats, master recursion  </tt></div>\n<div><tt>&gt OUTPUTS: Myth engines, project architecture, recursive logic  </tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 150 (chunk 150/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "example",
+    "artist",
+    "through",
+    "work",
+    "project"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

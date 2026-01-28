@@ -1,0 +1,26 @@
+{
+  "id": "d7661ee2-2a79-479e-bf88-cb34bbc8b1a1",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Only one student may hold this role per semester.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> They can nullify one curse every three weeks (must be used strategically).</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> After nullifying a curse, they suffer a debuff the following week (weakened in certain skill checks).</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> The Purifier’s Skill Check for Nullification</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> To successfully nullify a curse, the Purifier must complete a ritual-based challenge (e.g., solving a literary puzzle, passing a logic test, or completing a persuasive argument).</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> If they fail the skill check, the curse remains active, and the Purifier receives a double debuff.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Example: The Purifier in Action</div>\n<div><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Curse</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 337 (chunk 337/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "zapfdingbatsitc",
+    "curse",
+    "purifier"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

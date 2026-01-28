@@ -1,0 +1,26 @@
+{
+  "id": "a1bba943-93c5-421c-b30b-58a1612e4cc1",
+  "type": "insight",
+  "timestamp": "2020-05-05T03:13:51.000Z",
+  "title": "<div><i><br></i></div>",
+  "content": "<div><i><br></i></div>\n<div>Mark</div>\n<div>Okay. I know you’re sick now.</div>\n<div><br></div>\n<div>Hunter</div>\n<div>Yeah!</div>\n<div><br></div>\n<div>Enrique</div>\n<div>Yeah!</div>\n<div><br></div>\n<div>Dan</div>\n<div>Son of a Bitch. </div>",
+  "context": "From document: Confession (First Draft) — chunk 5 (chunk 5/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "4cb8b9b108b0448c30a795b9f98be791",
+  "relatedUnits": [],
+  "keywords": [
+    "yeah",
+    "mark",
+    "okay",
+    "know",
+    "sick"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

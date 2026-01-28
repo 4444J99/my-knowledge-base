@@ -1,0 +1,32 @@
+---
+id: 8753e331-d347-4712-9719-1f12f537705c
+type: insight
+created: '2025-03-05T14:18:11.000Z'
+document: d56851c0b64e6fc46a6205c88fb237ad
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - wq8vbwjvbthdbbgdghu16wvc1ncxm9xbuwdxvbzx5gdwlazd3cfsoa
+  - >-
+    jqwo8lrucqmv7pgwawersabo9dt46umzcug8eb8kqdnsurqercg07wc07vgk7hx0o1sy1wxxap8tmkm1rqj61euo3lt5xqvqvwpnmlxb
+  - >-
+    f34nyb46nn2leqyyhp4dxjuwu7nbfrezlwfxx229s8u1qhgrrf9iwp9xddbb3nx8nxbwbt4lp7bv9dzh3p9s42ywdezzdrl2uy4w777idyuvqvfz
+  - 31ctzbpgbw1x5vjvryvw997roumyov
+  - zcjuuuvd6
+---
+# WQ8VbWjVbtHDBBgdghu16WvC1NCxM9xBUwdXvbzx5gdWlaZd3cfSoa/JqwO8lruCqmv7PGWaWerSabO9
+
+## Context
+From document: 1: — chunk 191 (chunk 191/630)
+
+## Content
+WQ8VbWjVbtHDBBgdghu16WvC1NCxM9xBUwdXvbzx5gdWlaZd3cfSoa/JqwO8lruCqmv7PGWaWerSabO9Dt46uMZcug8eb8KqDnSuRQerCg07Wc07vGk7Hx0o1Sy1WXXap8tMKM1RqJ61euO3lt5XqVqvWpNmLXb/+f34nyb46nN2LeqyYhP4dXjUwU7NbFrezLwFXx229S8U1qhgrRf9iwP9XddbB3NX8NXBWBt4Lp7BV9dZh3P9S42YwdezzdRl2uY4W777IdYuvQVfz+31cTzbPGbw1X5vjvrYvW997rouMYOv/qH+ZcjUuUvd6/EBAQQQQOB/Arc7bsARAQQQIPjybyBJBPztwHQg1bOrrj/fqSDk+hylQodreVPNTsZn+eXIcSv7U3WtpirI6VnQvQd+NWFSXYJruYLvJDWb/LQKhzrkLFm92R181T2y1s3ISEuHJj1bqs/VNdM7YsJcM/vqGVznf7nOyl6wrqXuY7UO/3bChO6RE+da3so9t79V8D124pQJ4s+/NtCcl65T+14jTRDfve+QO/iq+3bNDHWdlj3NzKYOykePnTSE9Vr3tvRsrw5njxZvbOlZVz1zq+57tfQspp7xjRl89Ubqsl0zu6r3pxdvZmM+mm8Vq97G+uvSZbOea8ZXfylarY3VofcoE1Tfem+6Obb+JYevwbdL/zHmXHWd9Sy6bld1326s4BtXm+m21bPDun2/2bnP0kFefy9bt72ZpdUztDqE6xnfuLb3bPOYwVefkw7guh1XbfjG7Gfrjr0EX9P6/AcBBBC4tYC/44Zb75E1EEAg1AS4xzcZXp7uhFP2916d/745Xu7P+r9X38Ss/76fD8vAbq1F3wOrl8Hq3st+6t7M+CwqTEufYZNEhV5JmTJC9P20Iwd1FP2gKP1U5/5dW0mDl3qLvie3hPqZvs905+qp0n3IBNm0fY85ZKsm1aVN89qiLm0VFcwlSj1JeIS6f7TAE4+ae2pdT1FW/0djjjX781WiYrtUUw9PGjOki3mQlD4Hz3I1Wxlr+7xlm0vPjs2lRaOqoi7DVg/GyiHDer8aq9oH1EOTeqt96XrpJxo/8fhDMrh7Gyn6VB7zICp1+a96mFJ+2b5znzzyn+wyY1xf88ofdYm0upc3paROnUpmvd/P3FOsZthFXYJrzrVwgcdlysieMnTsTHOv6twY9xF/o14Fpev+
+
+
+
+---
+*Source: Document d56851c0b64e6fc46a6205c88fb237ad*

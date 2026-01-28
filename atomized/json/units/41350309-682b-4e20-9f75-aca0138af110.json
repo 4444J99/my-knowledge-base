@@ -1,0 +1,26 @@
+{
+  "id": "41350309-682b-4e20-9f75-aca0138af110",
+  "type": "insight",
+  "timestamp": "2019-06-05T19:45:49.000Z",
+  "title": "<div>When you’re accustomed to privilege, equality feels like oppression </div>",
+  "content": "<div>When you’re accustomed to privilege, equality feels like oppression </div>",
+  "context": "From document: When you’re accustomed to privilege, equality feels like oppression…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "082041a605612aae1b48077cb5cf610a",
+  "relatedUnits": [],
+  "keywords": [
+    "when",
+    "accustomed",
+    "privilege",
+    "equality",
+    "feels"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

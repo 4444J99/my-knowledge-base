@@ -1,0 +1,26 @@
+{
+  "id": "1cc50ff9-f7bd-4c18-bc18-f74e3e7e7fa9",
+  "type": "insight",
+  "timestamp": "2015-10-24T15:51:36.000Z",
+  "title": "<div>Nothing in his life became him like the leaving it </div>",
+  "content": "<div>Nothing in his life became him like the leaving it </div>",
+  "context": "From document: Nothing in his life became him like the leaving it",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "204008a3853f6c24598ce4283cb0f61a",
+  "relatedUnits": [],
+  "keywords": [
+    "nothing",
+    "life",
+    "became",
+    "like",
+    "leaving"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

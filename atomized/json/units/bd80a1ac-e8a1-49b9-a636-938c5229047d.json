@@ -1,0 +1,26 @@
+{
+  "id": "bd80a1ac-e8a1-49b9-a636-938c5229047d",
+  "type": "insight",
+  "timestamp": "2025-02-12T19:07:35.000Z",
+  "title": "<div> Can't unpublish In-Class Activities if there are student submissions </div",
+  "content": "<div> Can't unpublish In-Class Activities if there are student submissions </div>\n<div>Context Module Sub Header</div>\n<div>Week 2 Assignments</div>\n<div> Published. Click to unpublish Week 2 Assignments. </div>\n<div>Assignment</div>\n<div>Week 2 | Weekly Writing Warm-Up</div>\n<div>Feb 3</div>\n<div>100 pts</div>\n<div> Can't unpublish Week 2 | Weekly Writing Warm-Up if there are student submissions </div>\n<div>Discussion Topic</div>\n<div>Week 2 | Discussion: Using Descriptive Language</div>\n<div>Feb 4</div>\n<div>100 pts</div>\n<div> Can't unpublish Week 2 | Discussion: Using Descriptive Language if there are student submissions </div>\n<div>Assignment</div>\n<div>Week 2 | Assignment: Narrative Essay - Rough Draft</div>\n<div>Feb 5</div>\n<div>100 pts</div>\n<div> Can't unpublish Week 2 | Assignment: Narrative Essay - Rough Draft if there are student submissions </div>\n<div>Quiz</div>\n<div>Week 2 | Quiz</div>\n<div>Feb 6</div>\n<div>100 pts</div>\n<div> Can't unpublish Week 2 | Quiz if there are student submissions </div>\n<div>Context Module Sub Header</div>\n<div>Week 2 Summary</div>\n<div> Published. Click to unpublish Week 2 Summary. </div>\n<div>Page</div>\n<div>Week 2 | Summary</div>\n<div><br></div>",
+  "context": "From document: Weeks 1 - 6 Canvas Data Dump — chunk 38 (chunk 38/188)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1b21c03b1f1909954adca118a79b0158",
+  "relatedUnits": [],
+  "keywords": [
+    "week",
+    "unpublish",
+    "there",
+    "student",
+    "submissions"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

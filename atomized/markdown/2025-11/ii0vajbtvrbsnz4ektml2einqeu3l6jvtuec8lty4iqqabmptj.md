@@ -1,0 +1,33 @@
+---
+id: 5e440803-df94-4e32-8a91-a6cc12c22564
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ii0vajbtvrbsnz4ektml2einqeu3l6jvtue
+  - c8lty4
+  - >-
+    iqqabmptji7xyh3dquohjjtbuy6cuv3hi3mn0mlugj3qxgnac4tgz9ll2zazcvkrbd56kjembz9uwakly3tkls1nt0te
+  - >-
+    urylde4x5vtokhqnbrblfqqmdthpvwmnwbsngjzkp5iirpqmnugmiu1f0bjalf6zlvyqp0epso5xe3kkpxaexpj8puq6gjomeptqjrrtpvsck
+  - >-
+    2orfwdonu5djaimb3hmkyjybmidwgyddzagpyfslr7inpbbtxvfnzjdg9xwtbsmaryu9w5e8ltb1yycw97rlns05ypjm069fjvvxlh1jjnw67bsu
+---
+# Ii0VAjBTVrBSnZ4eKTml2EInQeU3l6jVTue+C8Lty4/iQQabmptJi7XYH3dQUohJJtBuy6cuV3Hi3mn0
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 8840 (chunk 8840/11629)
+
+## Content
+Ii0VAjBTVrBSnZ4eKTml2EInQeU3l6jVTue+C8Lty4/iQQabmptJi7XYH3dQUohJJtBuy6cuV3Hi3mn0MLUgj3QxgNac4TGZ9Ll2zAZCvKRbd56KjEmbz9UwAKLy3Tkls1NT0tE+uRYlDe4X5vToKhqNbRbLFQqmdTHpVwmnwbSNGJzkp5iIrpQmnUgMIU1F0bjAlf6ZlVYqp0EpSo5Xe3KkPXAEXpj8pUQ6gjOmePTQJrRtPVSCK+2oRfwDONU5dJaimb3hmKyJybmiDWgyDdZAGPyFSlR7iNpbBtXVFNZJdg9XWTbSmarYU9w5e8lTb1yycW97rLNs05YPjm069fJvvXLH1JJNW67bsu/uD2CujdMr2LPFc6Zq2Y0gLTmIPhyA3mMkCqmqfswbycnsLXN02/ex6d0QU9S1zP9uGkHKEmYp87dlQrp6NS7tj6/EYyThG7a8taIrCMXxKnuV0lVfanLUuStNIKatmvW6pO32iKOmpGlW41aDpk8qUViATX2BsAJHXfPHqe2XFop2nH1QmR4fjIaSfAEQi1W57PIu+yVwlmbhUSlB6X9wB2X4KDIX5Bz+AKDG3QHi50QZBklp4GeDGGcWNW9ZszOYRARrTm0H73lTuE6bjYQeH1XT+EFeyxkdTzp6rdGK+u3I8HdnwcxzIch+rnlA+tEYo/r096PmnIVLfMk5/c6jReihMdLrZu96TB3S4e1otaBHeNDrWvQhB1NtOl1qO+Uho5gvg3M6X+oB45PMY0qkPyRUl8BBcZo0+nkTisEpDELO636Y1P4HEKlE6ZvLh57DfF0bDbqeh4gkPTQz9Qykg7mPOwz6oqxWmiGyg5cWlWb0cK65/TQSytyl+MF1LcusYJh1ZRfGXSneDpQbbmZM3ZpvlkAxyiatC8QYTu9lZ3GkR836/W9vII0ApPFY8HCn+mmWmToy3uLN1M37jzB2n3LjKZedOsrryzcuWTPaGWmNrXx4+cOTWyfvfu3d773rumwDj/m0kVDkTSj0fZi6eVcGM2y4OOADQMbpMXzQfDG18aneVJzsMER0RmLiyB7JUu3l9iiBfzLJNDFa/Ugq0igkb36uIDx1bvwwZiiBoQSGEhhKYCiBoQSGEhhKYCiBJ7IEbB7LAgqrcrqPzfOncR/xtAvGN41/admq8VVL1o6v3L5ux/JHp+675r5z73ut7jV9tsza
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

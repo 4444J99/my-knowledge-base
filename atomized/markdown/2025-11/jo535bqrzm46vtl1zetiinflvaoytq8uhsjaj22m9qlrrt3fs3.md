@@ -1,0 +1,32 @@
+---
+id: 6eb677fc-7936-4c7d-b6b0-b3f7622b5bcb
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - jo535bqrzm46vtl1zetiinflvaoytq8uhsjaj22m9qlrrt3fs
+  - 34fdmmv8jl4w1bb1xxhn205ojsq4s1r0sk5jydcuhyxr1c5nnrsudeoskz2e41bi1yztjr7um1s
+  - >-
+    usrj6oq3vosx3tlh6w5msdhj9pzb03ku4wfmyqmeykpqfzqu6nhktojah8pdra6b5mgdbsiut4pvejep
+  - dbil0nzwhzqnrtk46
+  - >-
+    wotq9ao2rhqbxtwjrxvp9wiogapya60da2rihrhklxzwnlaweajgycmnwjj2j2i6zr6wcddrxzffnnranbwvcnfwp6r
+---
+# JO535bQRzm46vtl1zetiinFlVaoYTQ8UHSjaJ22M9qlrRT3FS/34fdmMv8Jl4w1BB1xxhn205OjSQ4s1
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 3296 (chunk 3296/11629)
+
+## Content
+JO535bQRzm46vtl1zetiinFlVaoYTQ8UHSjaJ22M9qlrRT3FS/34fdmMv8Jl4w1BB1xxhn205OjSQ4s1R0sk5JyDcuHYxR1c5NnRsUdeOsKZ2e41bi1yZtJR7Um1S+usRJ6Oq3voSx3Tlh6W5mSDhj9pZb03ku4wfMYQmeYkPqfzqU6nHkTOjah8pDrA6b5MgdBSIUt4PVeJEp/DBIl0NZWHzqnrTk46+Wotq9ao2rHQbxtWjRXVp9WIoGaPYA60dA2RIHrhKlxZWnlaWeaJgycmnWjJ2J2i6ZR6WCDDRxzfFnnRanBwVCNFWP6r+ZNzd9SdWWdYXWpHGiOqE9JuGk+qBbrfJ01IJkkviSuc9DT4FHpyvOAoq+ZF0nkifBETsx1h+wIRBhIeiM5G1ofErIweHpMeOzXKH/1WlJ8ciSXtmFK+hMLWRgZ+ki7Rrijpn/9uPrLFmtbPXzG+S+3uL0HZeN7yHLXFraN+Q8l1oba2QbXF8bs2IVW4zb02z9w483O1r+/nRRIFvgg/kArysGtFMgJEyCQA/d7LZJ8jE4/mfCkHc+SpebIjjT40xzZB51zrlmz+eUdZnDr/We1hdZoqn4pW00yb4ymcY52PvXf4uPCfaQ/E0AUIdyjX8+e4Wbls5EBZx3z4AW6S28htYjpMDjCYfOT6/OxvkVzzL8doYVTdkwZLRu9a06l1E3kPd4fQBtINh0N9Oh9/T0qgH1TSb0CB5C3cdSoX6N1r+bEkHmkHsBPNAPpvdtaHF4wQPtuX5bOZPnt/9ba8hzPx9Dyn68M7+FvGDwnnvV6eGln0o6mxf75m29V1rn+l0Z6Gw5tEe33XKvbLWXEm84qMny3JYRKAIOSlEPqQY0l96Y76iNSyNw20OnDeOVp69KHDnfiHIzwXua7wXqaO1wI1HjpExyCd0MHK/pFHS1RN5IqxizxVNbvakOo2ezodjPqfUn9pSrGlE1EWSGfVerZ249p/dFNpadH0TYZp8M4w8XDH7/B9w9Zc/L76f1358y4gRwtQyMlUkR4zLWpqVNu4L24Yf8Or43c0HtGIg2BUNHimrWZr/ZVnMn+a8fDiK+CU/AO1Tf7TSGvQ7YLfcg8nLM2T84oJ/wgjEEYgjEAYgTACYQTCCIQRCCMQRiCMQBiBMALfJwIR32fh4bJBwBaVEUoyR6kFD3NCZc7HeZseX/8/qEnu
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

@@ -1,0 +1,30 @@
+---
+id: 62e44908-c14c-48ec-83a1-68950654c07a
+type: insight
+created: '2018-12-11T22:09:08.000Z'
+document: 62cf9f4ed32fc66bb1a9c806a1ee2d42
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - p3qab93hp0wkaz7lpfwvrctzdxecmtkao7hvjbpgk457ut1e2diiyxs8dursfuymeby9accc
+  - 1flvpolxqpg34hfd6n2nt
+  - d9wzldcsziqlpvjdh
+  - ahmf8cnv
+  - hv1dfezrvdlhzsey2
+---
+# P3QAB93Hp0wKAZ7lPfWVrCtzdXEcMTkAO7hVJbpgk457Ut1e2diiyXs8dursFUyMEBY9ACcc+1fLVpol
+
+## Context
+From document: CLASSICAL STUDIES — chunk 3 (chunk 3/213)
+
+## Content
+P3QAB93Hp0wKAZ7lPfWVrCtzdXEcMTkAO7hVJbpgk457Ut1e2diiyXs8dursFUyMEBY9ACcc+1fLVpolxqPg34hfD6N2nt/D9wZLDcSzIqlpVjDH/AHMf8CNV/HV1dfEzRvDlhZSEy2+jXGsThepljQRoP+/gYUBY+rri7tbQIbqZIfNYIm9gu5z0UZ6k9hXnvhPxLq2reOPGGh3sitaaO9otuoUAqJkdnyRyeQOtcL/aw+IHinwBADvjtrM61dAdpABHH+Kygir3hSSOHx78TpZrgWaILItMeBEBDJl+f7vWgLHrs/iPw9a3f9n3OqWsN1nHlPOiyZPbaTn9K0bm7tbOLz7uZIIgQNzsFXJ6cnjmvlO3tvh63hi40zQvCt94pkMcpOqta+WskhyS5uJCGXB9B2pusXd1d/s0afcXEjSSho0DE5OI7lkUZ9gABQFj6jfWtHjvhpkl/breN0hMqCU5/wBjOf0q/LNFBG007rHGgyzMQAB6kmvnz4i/DXwrovw51C+tLQf2pYok4viSbl5g6lnaQnJLZOewzwOlQ69JL4213wJ4O1eV20++sRqN4gYr9oZY9yqxGMjcpJHvnrjAB3Pj3xpLpunaJeeGL6GZb3VrWzleMpMpil37lyMgHgc9a9Mury0sYWub6dLeFeryMEUfUnAr5x+KPgTw54euPDGsaBappzPq9nBLFD8kcoJZlZlzgsuDg4zhjVfxbq1pq/xXvNM8RaRf69pmg28Xk2dnAZ086ZVcyypuAPDbRnjigdj6Tsr+x1KAXOn3Ed1CejxOrqfxUkVXn1rR7WOWa5v4Io4X8uRnlVQj/wB1iTwfY8189+Hd9l8StNvfB/hnVND0m/jkh1GKe0aC33KpMUgALKCDx29upo8GeCtE8VeNfGl34hiN5DZapIIYGZhEsjk7pCoIy2AAM9OaBWPoPUNb0XSCg1a/t7IyfcE8qR7vpuIzWhDNDcRLPA6yRuMqykFSD3BHBr5n1nTm8PeONd1vxv4Um8TadqLIba6hiF19niUEbDG33cZ5PHTIzmvRfhMfCR0rUP8AhDdQluLF7lpPsswKmzZ+TGqsMhfTqOvOc0BY9XorO1dNQk0m9TSWCXzQyCBm+6JSp2E+27FeQfBvTvibYDVf+FgSzNE7J5C3EolfeC28qQzYXpx0PbjqCPcK5Px1q17oXg/V9Y05glz
+
+
+
+---
+*Source: Document 62cf9f4ed32fc66bb1a9c806a1ee2d42*

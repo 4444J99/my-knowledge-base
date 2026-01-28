@@ -1,0 +1,33 @@
+---
+id: 74047977-4c32-46b3-aab0-d17dfcb30d8f
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    ab0cegx0cugv0cugv0cvgf4bvqj6bfqk6bxqk7a7k3dwwwfh7lpp5q1bzzhq3hpphdr55533qe1qwqqkrpzlwjwk1v1nwn2yzquuuokksrv161b
+  - >-
+    pfvhs1juj6rpkmfvggo5skrgqkbvgaskrapqnzczqqqxifvzcvjvcfubvdufqsryclzlw0fv1qwtvkqcqvcqjm2lfs
+  - >-
+    quhmrlktzfabqlmvkqkkq5q5svvvxqapwugqgqmqskkrqcqhauxmsck41q1vr0qrcquzutly1j81avy2tufw2
+  - 39qxcbmepa6xglu3vwwuqdqvsfv
+  - b29gpurqnvshanltgwfkqxqbqnlxojm1bwa7wynmvepb1xlgdnghw
+---
+# Ab0CegX0CugV0CugV0CvgF4BvQJ6BfQK6BXQK7A7K3DWWWfh7LPP5q1BzzHq3HPPhdR55533Qe1qwqqk
+
+## Context
+From document: New Note — chunk 18614 (chunk 18614/21099)
+
+## Content
+Ab0CegX0CugV0CugV0CvgF4BvQJ6BfQK6BXQK7A7K3DWWWfh7LPP5q1BzzHq3HPPhdR55533Qe1qwqqkrpZLWJWk1V1NWN2yZQuuuOKKsrV161b+pfvHS1JUJ6rPKmFVgGo5sKrgqkBVgasKrApQNZcZqqqxIFVzCVJVcFUBVdUFqsrYClZlW0FV1QWtvkqcqvCqjM2lfs+quhmrlktZFaBqLmvKqkKq5q5SVVVXqapWuGqGqmqskKrqCqhauxmsCk41Q1Vr0qrCquZuTlY1j81AVY2tUFW2/9//+39QXcbmEpA6XglU3VWwuqdQVSFV+b29GpuRqnVshanltgWfKqxqBqnlxoJM1bwa7wynmvePB1XlGDNGHW+skKrsV2MzPFXz5rmdja0oVY4fb86MTCczFgRpPk5tSzeP5ZjJzE10jNq3u1392WV+vMxNtC371DHlurGT/1LHmY9R+8abM++3js3ns+7bne29fb7deQ1f9McsGs3w1u1BDBBfLlqQwZFHzMUZp63DKSevwUEH9aOHcC/CJM9QdBZTSiuJPnkL9TjvpM3E1Qxvh95DdDl/Xpa4sYAlS4pGLVrUjvnzWzFnhLcC74+i2BNEe3cQBQLTjt6ogVS7BuLoGkigrSuIdN6FONNRo0RosSShaYqBh7xdejTBtEpC1QjHId5uPRitQZg9yxRMwaodPSEiUi/BqoOvhSmpxKvFzqCxHZHHssJ8fIApmL4QvVqEaJVJq4JWk5lGotUmPs5G1EmUWuR5iFcTnI/LPmLcLFNX2wSrFj3IErPmiVe7eghUiVUHh6NEuPJ8glhLqasDBI9DQ0ybJUaVhNXB/hATVj3G3Pr1fTiN67ply/G47ptfxbe/cQrO/9oGHLSmnWmkTHJtZXppjvg0NhXB8L5c8ylEu1MJUqcSO04h1J3KJNQZxIzTiCJnMA11NmEk1yNazRTPKqPCRMSJbC1yBSarEsDmWa1FQthuvkeCVZnPtzcyabUBuSzBMc+RIVZtZYJrhlC2QMA6MseHVcszWLsmj7Wr81i8IIo+Pl6Qamt2Nl8nk1ULtehj2mpvWyVTSWcgz9eYjeyLfGw/dGdnYbizHoMErW3ZfdHZPg2HbsjglltO4f9wdAf/W+Zh/rfRA/jlL2/Gww9dgm33nYsdT16FF39zG17944P4x59/grf+9hTe/sdP8c7b/413
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

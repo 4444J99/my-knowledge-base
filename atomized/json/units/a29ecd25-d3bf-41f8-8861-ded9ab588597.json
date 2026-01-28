@@ -1,0 +1,26 @@
+{
+  "id": "a29ecd25-d3bf-41f8-8861-ded9ab588597",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>Analyzed</div>",
+  "content": "<div>Analyzed</div>\n<div>from pathlib import Path</div>\n<div>import zipfile</div>\n<div>import shutil</div>\n<div><br></div>\n<div># Set up the nested dummy folder structure</div>\n<div>base_path = Path(&quot/mnt/data/REGE_OS_DUMMY_VAULT&quot)</div>\n<div>learning_core_path = base_path / &quotREGE_OS&quot / &quotL1_LEARNING_CORE&quot</div>\n<div><br></div>\n<div># Define folder UIDs and titles (condensed)</div>\n<div>uids_titles = [</div>\n<div>    (&quotKNST0000&quot, &quotsicp_symbolic_recursion&quot),</div>\n<div>    (&quotKNNO0001&quot, &quotparadigms_norvig_ai&quot),</div>\n<div>    (&quotKNNC0002&quot, &quotnature_of_code_fusion&quot),</div>\n<div>    (&quotKNOS0100&quot, &quottanenbaum_os&quot),</div>\n<div>    (&quotKNLF0101&quot, &quotlinux_from_scratch&quot),</div>\n<div>    (&quotKNSP0102&quot, &quotsystems_performance_metrics&quot),</div>\n<div>    (&quotKNMW0200&quot, &quotmetaphors_logic&quot),</div>\n<div>    (&quotKNTP0201&quot, &quotplateaus_ai_modularity&quot),</div>\n<div>    (&quotKNGB0202&quot, &quotgeb_recursive_mirrors&quot),</div>\n<div>    (&quotKNDS0300&quot, &quotdsl_syntax_system&quot),</div>\n<div>    (&quotKNDD0301&quot, &quotdata_fusion_layer&quot),</div>\n<div>    (&quotKNFP0302&quot, &quotfunctional_scala_symbolism&quot),</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 306 (chunk 306/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "import",
+    "path",
+    "folder",
+    "base_path"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

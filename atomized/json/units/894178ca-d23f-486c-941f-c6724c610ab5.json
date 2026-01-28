@@ -1,0 +1,24 @@
+{
+  "id": "894178ca-d23f-486c-941f-c6724c610ab5",
+  "type": "insight",
+  "timestamp": "2025-06-27T06:10:52.000Z",
+  "title": "CBAgQIAAAQIECBAgQIAAAQIECJQXUACUXwEABAgQIECAAAECBAgQIECAAAECBAgQIJBRQAGQMVUzESBA",
+  "content": "CBAgQIAAAQIECBAgQIAAAQIECJQXUACUXwEABAgQIECAAAECBAgQIECAAAECBAgQIJBRQAGQMVUzESBAgAABAgQIECBAgAABAgQIECBAgEB5AQVA+RUAQIAAAQIECBAgQIAAAQIECBAgQIAAAQIZBRQAGVM1EwECBAgQIECAAAECBAgQIECAAAECBAiUF1AAlF8BAAQIECBAgAABAgQIECBAgAABAgQIECCQUUABkDFVMxEgQIAAAQIECBAgQIAAAQIECBAgQIBAeQEFQPkVAECAAAECBAgQIECAAAECBAgQIECAAAECGQUUABlTNRMBAgQIECBAgAABAgQIECBAgAABAgQIlBdQAJRfAQAECBAgQIAAAQIECBAgQIAAAQIECBAgkFFAAZAxVTMRIECAAAECBAgQIECAAAECBAgQIECAQHkBBUD5FQBAgAABAgQIECBAgAABAgQIECBAgAABAhkFFAAZUzUTAQIECBAgQIAAAQIECBAgQIAAAQIECJQXUACUXwEABAgQIECAAAECBAgQIECAAAECBAgQIJBRQAGQMVUzESBAgAABAgQIECBAgAABAgQIECBAgEB5AQVA+RUAQIAAAQIECBAgQIAAAQIECBAgQIAAAQIZBRQAGVM1EwECBAgQIECAAAECBAgQIECAAAECBAiUF1AAlF8BAAQIECBAgAABAgQIECBAgAABAgQIECCQUUABkDFVMxEgQIAAAQIECBAgQIAAAQIECBAgQIBAeQEFQPkVAECAAAECBAgQIECAAAECBAgQIECAAAECGQUUABlTNRMBAgQIECBAgAABAgQIECBAgAABAgQIlBdQAJRfAQAECBAgQIAAAQIECBAgQIAAAQIECBAgkFFAAZAxVTMRIECAAAECBAgQIECAAAECBAgQIECAQHkBBUD5FQBAgAABAgQIECBAgAABAgQIECBAgAABAhkFFAAZUzUTAQIECBAgQIAAAQIECBAgQIAAAQIECJQXUACUXwEABAgQIECAAAECBAgQIECAAAECBAgQIJBRQAGQMVUzESBAgAABAgQIECBAgAABAgQIECBAgEB5AQVA+RUAQIAAAQIECBAgQIAAAQIECBAgQIAAAQIZBRQAGVM1EwECBAgQIECAAAECBAgQIECAAAECBAiUF1AAlF8BAAQIECBAgAABAgQIECBAgAABAgQIECCQUUAB",
+  "context": "From document: 4320 Mariners Cove Dr 2.m4a — chunk 103 (chunk 103/225)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "3daa4ef2da2c63b0f7b42279befdb3fc",
+  "relatedUnits": [],
+  "keywords": [
+    "ruaqiaaaqiecbagqiaaaqiecbagqiaaaqizbrqagvm1ewecbagqiecaaaecbagqiecaaaecbaiuf1aalf8baaqiecbagaabagqiecbagaabagqieccquuabkdfvmxegqiaaaqiecbagqiaaaqiecbagqibaeqefqpkvaecaaaecbagqiecaaaecbagqiecaaaecgquuabltnrmbagqiecbagaabagqiecbagaabagqilbdqajrfaqaecbagqiaaaqiecbagqiaaaqiecbagkffaazaxvtmriecaaaecbagqiecaaaecbagqiecaqhkbbud5fqbagaabagqiecbagaabagqiecbagaabahkffaazuzutaqiecbagqiaaaqiecbagqiaaaqiecjqxuacuxweabagqiecaaaecbagqiecaaaecbagqijbrqagqmvuzesbagaabagqiecbagaabagqiecbageb5aqva",
+    "cbagqiaaaqiecbagqiaaaqiecjqxuacuxweabagqiecaaaecbagqiecaaaecbagqijbrqagqmvuzesbagaabagqiecbagaabagqiecbageb5aqva",
+    "ruaqiaaaqiecbagqiaaaqiecbagqiaaaqizbrqagvm1ewecbagqiecaaaecbagqiecaaaecbaiuf1aalf8baaqiecbagaabagqiecbagaabagqieccquuab"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

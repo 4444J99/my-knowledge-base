@@ -1,0 +1,26 @@
+{
+  "id": "4c994277-30f3-4170-9b46-d8916461aa9f",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Each week, students may acquire weapons, armor, and artifacts from literature.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Each week, one weapon, one armor, and three literary artifacts will be available.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Each artifact has a one-time effect but may come with hidden consequences.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Once taken, an item cannot be used by another player.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📖</font> Example: Week 4 (Gothic Horror &amp Madness)</div>\n<div><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Category</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Item</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Effect</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 329 (chunk 329/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "border",
+    "style",
+    "width",
+    "face"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

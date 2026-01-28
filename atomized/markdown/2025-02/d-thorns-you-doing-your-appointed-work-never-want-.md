@@ -1,0 +1,41 @@
+---
+id: b3d3866c-16fe-445e-9abe-488d12814963
+type: insight
+created: '2025-02-17T23:20:46.000Z'
+document: f724cc82d2d987b6ae9e11ab05d297ca
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - journey
+  - this
+  - discussion
+  - sacrifice
+  - that
+---
+# d. “Thorns, you doing your appointed work. Never want to let folks pass, no sir&
+
+## Context
+From document: Student Submission: — chunk 114 (chunk 114/134)
+
+## Content
+d. “Thorns, you doing your appointed work. Never want to let folks pass, no sir&quot. Furthermore, just like you mentioned, the black dog she came across during her journey is another obstacle that was trying to prevent her from continuing further. Even though there were so many challenges along the way, she fought through with all her might and strength for the wellness of her grandson.</tt></div>
+<div><tt><br></tt></div>
+<div><tt>-Jennifer </tt></div>
+<div><tt><br></tt></div>
+<div><tt>Student Submission:</tt></div>
+<div><tt><br></tt></div>
+<div><tt>The submissions for this assignment are posts in the assignment's discussion. Below are the discussion posts for Amanda Urciuoli, or you can view the full discussion.</tt></div>
+<div><tt><br></tt></div>
+<div><tt>from Week 5 Discussion</tt></div>
+<div><tt>Feb 4, 2025 6:34PM</tt></div>
+<div><tt>Amanda Urciuoli</tt></div>
+<div><tt>    Eudora Welty uses symbolism in “ A Worn Path” to convey the themes of perseverance and sacrifice by going in depth on the events that occurred in the life journey of Phoenix Jackson, as she was described​​ to be selfless and strong along her journey.  Her journey's goal was to reach the destination of the town and retrieve the medication for her grandson. As stated, “Well, Granny,” he said, “you must be a hundred years old, and scared of nothing. I’d give you a dime if I had any money with me. But you take my advice and stay home, and nothing will happen to you.” “I'm bound to go on my way, mister..”(Welty, 1941)  In this phrase, it describes how high strung she was to complete this journey no matter what got in her way.  However, there are symbols of determination and selflessness by explaining not only the journey she faced but to symbolize the life struggles she went through to get where she had to go. She didn't mind the struggles because she traveled before this journey and endured all the hardships even if it set her back. Despite the path being easy or hard, she showed endurance and sacrifice to keep going forward which showed her perseverance and sacrifice. The
+
+
+
+---
+*Source: Document f724cc82d2d987b6ae9e11ab05d297ca*

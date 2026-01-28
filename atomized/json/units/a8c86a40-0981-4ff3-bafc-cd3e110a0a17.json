@@ -1,0 +1,26 @@
+{
+  "id": "a8c86a40-0981-4ff3-bafc-cd3e110a0a17",
+  "type": "insight",
+  "timestamp": "2020-02-06T13:25:29.000Z",
+  "title": "<div><h1>Mom’s Rice Pudding</h1></div>",
+  "content": "<div><h1>Mom’s Rice Pudding</h1></div>\n<div><br></div>\n<div>Half gallon whole milk</div>\n<div>1 cup of sugar</div>\n<div>1 cup of carolina white rice</div>\n<div><br></div>\n<div>Combine and Cook and constantly stir (not with a wooden spoon) on medium heat uncovered. Takes about an hour. </div>\n<div><br></div>\n<div>Take it off the heat</div>\n<div><br></div>\n<div>Add two tablespoons of vanilla extract</div>\n<div><br></div>\n<div>Pour into tin tray </div>\n<div>Add raisins </div>\n<div>While still hot, sprinkle with cinnamon</div>\n<div>Do not cover while still hot </div>\n<div>Put in the fridge when it’s cool, covered</div>\n<div><br></div>",
+  "context": "From document: Mom’s Rice Pudding",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "778ca8d7fb75a52a43aa06227d7b226b",
+  "relatedUnits": [],
+  "keywords": [
+    "rice",
+    "with",
+    "heat",
+    "while",
+    "still"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

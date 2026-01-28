@@ -1,0 +1,32 @@
+---
+id: 6a8bb4bc-e194-43da-9925-dfaa54a39b08
+type: insight
+created: '2025-12-30T16:56:40.000Z'
+document: d6633204ebd2a6d6fe3a9c10c1750226
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - wka2xhw
+  - jrq9auhsdvnoul0y0mtbrjw4gl9kpancvqvgtwcmzeoqw7v4ll5ay5svj
+  - >-
+    q8rgjqun4ouvpa9aztnl4c0xdif78esf4kg8vboudyztjejlmx9mojru4rkyfibk7riyjunlvsp0nfx4gobaqfq0lbacvtiqrqgbomotb4rpg1wtd
+  - amb9jt4ci7bpv5d
+  - >-
+    n8u1uumhkuyvbnzpxlmqobh0d3wprvbabyykmogufr7fz0r2wdzs4kda6noemo9bbronvdumk02gtxmubwwfxsavynfoywt6e0jt007zddzq
+---
+# wkA2XHW+jrQ9AuhSDVnOUL0y0mtBrjW4gL9kPAnCVQVgTwCmzEOQW7v4Ll5AY5Svj/Q8RgjQUn4oUvPa
+
+## Context
+From document: New Note — chunk 488 (chunk 488/841)
+
+## Content
+wkA2XHW+jrQ9AuhSDVnOUL0y0mtBrjW4gL9kPAnCVQVgTwCmzEOQW7v4Ll5AY5Svj/Q8RgjQUn4oUvPa9azTNl4C0xdiF78esF4KG8vbouDyztJeJLmX9mojrU4rKyFIbK7rIYjunLVSP0nfx4GoBaQfQ0LbAcvTiqrQGBOmoTb4RPg1wtD+AMB9Jt4ci7BPv5d+N8U1UumhKuYVbNZPxLmqOBH0d3WPRvBaBYYKmOGUfR7Fz0r2wDZs4KdA6nOEMo9BbrOnvDuMK02gtxmUbWWFXsAvYnFoYwT6e0jt007ZDDZq+T+G9qQsUuHkfATPNzEDZaP8FwCcL0PtoFLgPxAo98fs6GG89lAHzJP+2wDVt8RVSN4VtuSu0XK/lVrdyEiPFtUnPfFaWv8extnGfI9G5ZYeHyOYnyqqCagEDJTsmo7lbDSzmYBaSqXJq/iwLEMCbzACFR3GcPjvKNv+OPxH2u9j5lORkeqk4azE0/Tn3deLHK7nfllNCQM594XbURh8PXyNNW1lLe5D+i2s+iu0oYKinlx2zQECb++cE3Y9Pyrc/C4odq55NvTuQZ02Hh+Y7towpIRnQhnJ4hXQNAWFGHEAyigAtNg1ZSAynlT9GTYUz5YBkK8qOx4Knkrbk6ygS2E4VsY33dgQAUbB7QE9ZQQyr72mITQTR1lO+2efY9++3gsgiuIwWsInUJSvt1PjKDEsAexLAbYvvojV51yQU+ogAW+T2KFvx+6nczGAsKC3IG8uEw/44/Vc1vbOlnK+c3M8tiPI3zugoDDPZH+mP//TweGJH/ONQX5jQwJ1tYA+BuOZ4zXZpoCzigzH5/mD3+qKluBxjpcQr4W5Sg+k9bzgbF6Pv/vSYPouhT/7i5NhPJ4BWvgvvKwOypjG8DoytKyAvuDsCfTPtm1bjtn+M9Dtp/kJsFaxU5F1HOTAn1w/ybMi20oZKv4MyXbOTHlOZ+b/vOe2fbb2czteU47V4Hy+phzyOCyX19Hrud2f1nZuJ5c5W33zctt+pngPFQWVbeR9yAjiHovlAPnncj8IoDc2Jg8B8O+wYaPgNtRB/PuR9kk7g4aGcqQNamHPbNrcF71J9BBR+eYecZ4G0pY6azBeB4L20m/t3WvZcqT32bKlP/ziPfgSAeSrjBgyJIH27vG//sLg8IMfduO1o9dNX1QgCO4fOZL2tHP0/nbcljcA
+
+
+
+---
+*Source: Document d6633204ebd2a6d6fe3a9c10c1750226*

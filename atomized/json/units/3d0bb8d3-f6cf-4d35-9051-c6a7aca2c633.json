@@ -1,0 +1,26 @@
+{
+  "id": "3d0bb8d3-f6cf-4d35-9051-c6a7aca2c633",
+  "type": "insight",
+  "timestamp": "2025-01-30T02:31:06.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>MORS ID  Description</div>\n<div>TXT-BOOK-PDF-000001-01-AE3F2D  First book, PDF format</div>\n<div>VID-MOVIE-MP4-003476-02-B12C7A  3,476th movie, MP4, second version</div>\n<div>IMG-PHOTO-JPG-100984-01-8F4D9C  100,984th photo in JPG format</div>\n<div>SFT-APP-EXE-001502-03-C17B8E  1,502nd software application, EXE format, version 3</div>\n<div><br></div>\n<div>9. Search &amp Querying</div>\n<div><br></div>\n<div>A digital database could use:</div>\n<div>  •  Text search (by category, format, ID)</div>\n<div>  •  Hash lookup (to verify integrity)</div>\n<div>  •  Version tracking (to fetch the latest update)</div>\n<div>  •  Decentralized distribution (via blockchain or IPFS)</div>\n<div><br></div>\n<div>10. Implementation in Digital Libraries, Operating Systems, and Media Platforms</div>\n<div>  •  Digital Libraries: Academic papers, archives, and repositories could use MORS to standardize referencing.</div>\n<div>  •  Operating Systems: File systems could apply this naming convention for tracking and indexing files.</div>\n<div>  •  Media Platforms: Streaming services, app stores, and file-sharing platforms could integrate MORS to unify and manage diverse content types.</div>",
+  "context": "From document: M-O-R-S_REFERENCE-SYSTEM — chunk 4 (chunk 4/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "29750b183483782697d81e3f0ac721ea",
+  "relatedUnits": [],
+  "keywords": [
+    "format",
+    "could",
+    "mors",
+    "version",
+    "digital"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "36eac4c2-8b97-4424-95eb-244b725688f0",
+  "type": "insight",
+  "timestamp": "2025-12-21T14:38:11.000Z",
+  "title": "<div>Headings → unique, descriptive, easy to understand content's content &amp o",
+  "content": "<div>Headings → unique, descriptive, easy to understand content's content &amp outline reads like a document unto itself ;</div>",
+  "context": "From document: Headings → unique, descriptive, easy to understand content's content…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "359a231695322690c009d00eecf9790c",
+  "relatedUnits": [],
+  "keywords": [
+    "content",
+    "headings",
+    "unique",
+    "descriptive",
+    "easy"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

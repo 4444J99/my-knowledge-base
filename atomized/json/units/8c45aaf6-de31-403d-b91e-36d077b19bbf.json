@@ -1,0 +1,26 @@
+{
+  "id": "8c45aaf6-de31-403d-b91e-36d077b19bbf",
+  "type": "insight",
+  "timestamp": "2021-12-30T14:15:23.000Z",
+  "title": "<div>Uber, but they tow drunk folk’s cars home</div>",
+  "content": "<div>Uber, but they tow drunk folk’s cars home</div>\n<div><br></div>",
+  "context": "From document: Uber, but they tow drunk folk’s cars home",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "4e3882f34f0b79e23e3a282aa6b20c01",
+  "relatedUnits": [],
+  "keywords": [
+    "uber",
+    "they",
+    "drunk",
+    "folk",
+    "cars"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

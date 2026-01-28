@@ -1,0 +1,41 @@
+---
+id: f523503a-c97c-454f-b9ab-ab770a5e6348
+type: insight
+created: '2025-02-17T23:20:46.000Z'
+document: f724cc82d2d987b6ae9e11ab05d297ca
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: writing
+keywords:
+  - that
+  - phoenix
+  - discussion
+  - path
+  - assignment
+---
+# <div><tt> </tt></div>
+
+## Context
+From document: Student Submission: — chunk 17 (chunk 17/134)
+
+## Content
+<div><tt> </tt></div>
+<div><tt> </tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt>Student Submission:</tt></div>
+<div><tt>The submissions for this assignment are posts in the assignment's discussion. Below are the discussion posts for Dmitry Bulkin, or you can </tt><b><tt>view the full discussion</tt></b><tt>.</tt></div>
+<div><tt>from </tt><b><tt>Week 5 Discussion</tt></b><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt>Feb 10, 2025 7:37PM</tt></div>
+<div><tt><br></tt></div>
+<div><tt>Dmitry Bulkin</tt></div>
+<div><tt>In &quotA Worn Path&quot, Eudora Welty uses symbolism to illustrate the ideas of perseverance and sacrifice by making it the central ideas of her writing. Her journey through the wilderness is an example of the emotional and spiritual connection that she faces as an older woman that is trying to take care of her unwell grandson. The two prominent symbols in the story. Phoenix Jackson is a character whose role is very important and shows the perseverance and the sacrifices she makes for the love of her grandson. The phoenix is a mythological bird that burns itself to death only to rise from the ashes, which is a fitting metaphor for Phoenix’s own life. She faces many struggles in her life both physical and mental and just like the metaphor of the phoenix she shows strength and continues to rise again over and over again. The Phoenix’s slow but steady walk reflects the inner strength she has despite the physical challenges that come with her age and her environment. The path that Phoenix Jackson travels is very long and difficult. The path represents both her persistence and the scarifies that she must make. Quote: “The path ran up the hill, and at the top of the hill, the t
+
+
+
+---
+*Source: Document f724cc82d2d987b6ae9e11ab05d297ca*

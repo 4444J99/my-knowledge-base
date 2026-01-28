@@ -1,0 +1,26 @@
+{
+  "id": "2bb13f3b-ae0c-400c-a81c-be964641de3e",
+  "type": "insight",
+  "timestamp": "2024-05-06T21:53:17.000Z",
+  "title": "<div>I need clarity. </div>",
+  "content": "<div>I need clarity. </div>\n<div><br></div>\n<div>I know the IMC is dealing with accommodations for disability. </div>\n<div><br></div>\n<div>In the meantime, I've had an emergency that physically stopped me from travel. I will remain in the position I am currently in. </div>\n<div><br></div>\n<div>I do not have control of when the doctor's send the notes. This increases my anxiety by involving me at this level. I have no control over these elements. </div>\n<div><br></div>\n<div>My healthcare provider reached out to the IMC. My healthcare provider is advocating for me as I've had an ongoing health crisis. </div>\n<div><br></div>\n<div>I will continue to work. </div>\n<div><br></div>\n<div>In the meantime, have the IMC reach out to Dr Robinson to request the records. </div>\n<div><br></div>\n<div>I am authorizing the IMC to request the records directly. </div>",
+  "context": "From document: I need clarity.",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "285f427d6258f3f28ac96fdaffdb5ef4",
+  "relatedUnits": [],
+  "keywords": [
+    "have",
+    "meantime",
+    "will",
+    "control",
+    "this"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

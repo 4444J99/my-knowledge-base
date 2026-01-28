@@ -1,0 +1,32 @@
+---
+id: 9a0754ef-d0c1-4e7e-9de2-e15d0b026aee
+type: insight
+created: '2019-07-20T00:28:36.000Z'
+document: 2503c7de934f3b34466953d39945df2c
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    2np8ad2v6tzxupavplze2mmqhupoyxkjt1bjdsuoiqhacfioh9kx6aciiigaooryupd2v2mj23ig60y5h0q9ypbdvc628rkscqskbgikkea8yppqbj0uvpb2tzduy7wf5nayqiljj1wkaikkkkaciiigaooooakkkkaciiigaopqctgck1ra34f17w1edtveem3olxzup5n3c8emxs4bbiachbwcuazffffabrrrqauuvr6n4e1
+  - rylo61ntbmwh1gmtwr3elxlpeqchilgb1iiovyorqbkuuuuaffbeph7x7nrp
+  - >-
+    edvptzlpnq4imvfhdreorsyr5qnisdy4boer6isegaooooakkkkaciiigaooryuvd2v2olwuu32mxvvpt8sle6khdijiucioqgk2mhocaameite40dxbtslxxbdabcw6xesyw928lrbzmhizy5cnrefscatgg
+  - lzfabrrrqauuuuaffffabrwxrhh7x
+  - aa9jbdr
+---
+# 2NP8AD2v6tZXupaVplze2mmqHupoYXkjt1bJDSuoIQHacFiOh9Kx6ACiiigAoorYuPD2v2mj23iG60y5
+
+## Context
+From document: Naming Tracks — chunk 149 (chunk 149/198)
+
+## Content
+2NP8AD2v6tZXupaVplze2mmqHupoYXkjt1bJDSuoIQHacFiOh9Kx6ACiiigAoorYuPD2v2mj23iG60y5h0q9YpBdvC628rKSCqSkbGIKkEA8YPpQBj0UVPb2tzduY7WF5nAyQiljj1wKAIKKKKACiiigAooooAKKKKACiiigAopQCTgck1ra34f17w1eDTvEem3OlXZUP5N3C8Emxs4bbIAcHBwcUAZFFFFABRRRQAUUVr6n4e1/RYLO61nTbmwh1GMTWr3ELxLPEQCHiLgB1IIOVyORQBkUUUUAFFbEPh7X7nRp/EdvptzLpNq4imvFhdreORsYR5QNisdy4BOeR6isegAooooAKKKKACiiigAoorYuvD2v2OlWuu32mXVvpt8SLe6khdIJiuciOQgK2MHOCaAMeite40DXbTSLXxBdabcw6XesyW928LrbzMhIZY5CNrEFSCATgg+lZFABRRRQAUUUUAFFFFABRWxrHh7X/AA9JBDr+m3OmSXMYmiW6heEyRNwHUOBuU4OCOKx6ACitiz8Pa/qOm3es6fptzc6fp+PtNzFC7wwbunmSKCqZ7biKx6ACiiigAooooAKKKKACiith/D2vx6KniR9NuV0iSTyVvDC4tml5+QS42FuDxnPBoAx6KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP//Q/EeiiitACiiigD9Fddf/AIWp/wAE7tF1b/W6l8KNfazmc8uLK7Py/wDAc3EKg/8ATOn/ALA2q6R8LbT4j/tCeI4wbDwvZ2GmIW4BfVLtFbb7qI1z7N6E1R/YXkXxxoXxd/Z/uCG/4TTw7LcWSt0F9ZZWPaP72ZVc+0ftXK+Kw3w8/YX8IeHWBhv/AIl+I73V5QeHNnpii2VGHp5gRx9fegR53+2N4H/4QT9pXxzo8Ee23vr46jb7R8pTUVFzhfZWkZfwxXvn7Y11f+BJ/gl8CNAAN/4F0SzuZYxjadUvXTcGBwM74t3PAEnXk16X4j8Df8L88e/sr/EMR/aU8U6fBYaqwGQ8nh1zLdlvd1EoGey+1fIHxz8ef8LJ/a01zxVHJ5ttJ4gitbZgeDb2UqW0TD2ZIw340Aavxb8F/tMfGj9oCTwr470BJfiPc2cTGxgktYVNvDFvVtwl8n/VjP38+2a+zP2x/wB
+
+
+
+---
+*Source: Document 2503c7de934f3b34466953d39945df2c*

@@ -1,0 +1,30 @@
+---
+id: ece56133-96e5-455f-bb46-242a4a221787
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - l8yche81l1
+  - eeogdesgww
+  - 6baxpb9lk9bd
+  - vw3p89
+  - fyrt5
+---
+# l8yChe81L1/+eeOGDesgwW+6baXPb9lk9bd+vw3p89/fYrt5+5Zbm7ZtvsWEensxfR5J9RDnNzWs2bC+
+
+## Context
+From document: New Note — chunk 7638 (chunk 7638/8096)
+
+## Content
+l8yChe81L1/+eeOGDesgwW+6baXPb9lk9bd+vw3p89/fYrt5+5Zbm7ZtvsWEensxfR5J9RDnNzWs2bC+cc2GjY1rN25qhETfxJbyPCX69Zu3WGN8Zp8SPVPoIdQ3Yax56/c7KcTfYPp8Zh5S51tT6CnP7z146BbS57nHYJ2hPM+CcH/zbHbO5dzCovM5qIKSkrqiMkdNXlHROSTXXzyRmQUZHwJ9cWltfklZigJ9kaMyDnE9kV/iSOaXOuK5RaXVkOdrKNBnFxQlC8vKAwVljkBhWYUXYnwZRPWiSo8vv9Lty4UEf4ICfTCW2If0+X1VvuCRcrfnBNLtzxaVlWchCf6Ey+vbXen1/VDlC2yLJFNfUaBHevwqJMuvwVnrKdAXlDh2F5SW78wvLt1Z5CjfRIHeGwx/6PIFKNK/i2T6+U5f4N2KKk9rAn1ybrS6dmaqvn5ioq5usjsYnu3yBZ/CmllOt3em0xecGojFxviRPs8Eekmf90ajgz2RSJo/HB/gC4X6U56v9PsHeAKB3k5PoDfu0rvc6+1e6Q50cfnCKs//Q/6215coASWgBJSAElACSkAJKAEloASUgBJQAkpACSgBJaAElIASUAJKQAkoASWgBJSAElACSkAJKAEloASUgBJQAhYBkeAphlMUFzGc4jD7nBeRnGNMXadwLmXJ9K1iNsVrKcrWlqDemkTOZ4rXFNopXfOZ8jbXs08hmyV77GPSp6QtMjz7PI+iPMfk2b6Gc0yfZ8k67uE7WNYd2kEqxzcxbZ7fxET63vf9hyXRW3J8KxNysMvzZEUeHBcZnq0lhf8deZ5zFLQ5L+spklMul++THwrwmVzsPyCwP8t6fsPfG7e+q5Ut58lVJH27VC8S/J3rKcDzriLfi2TP9wk/eS/nOM7zeR73Cgd+G79RvvlOkd5i1SrJWxI6+qM639eWRO5pn64AAEAASURBVC9yPcdYFOstqV72tKbTU5qXdPchTIBH8ZmtJM9L4nyLcI8fEUCglzHhzm/h/XlP3o19+78flOhZItFb94c4Lwn5bSnzrUnzlOblXpTomUTPVu7H9UyYl2L6PPt/T56XlHq2ItNzPddSmB/V9eE2aZ7PLMr0FOgpyFOcpxjPlqL8ECbQQ6TPQNI8x7iGz2yZND+2T0vSPNuR3R4zw5lC36OjJc+P7o3k+QG9zPSM4UifH2Qy0vpY
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

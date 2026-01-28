@@ -1,0 +1,31 @@
+---
+id: 33861281-76ff-4aa1-985c-ab7e03db3283
+type: insight
+created: '2021-06-24T19:10:13.000Z'
+document: b5de64ea907b6e44ec94b342683f3041
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    casbibaegkaqcai7ibbcyac48p8geascqbaiakegcasbibaegkaqcalrguaigfxo57qycasbibaegkaqcajbiagegsaqbiladgieengbjvwncasbibaegkaqcajbiagegsaqbilaeiaqqma9
+  - jmtdajbiagegsaqbijaeagcqsaibiegsamciqr2gcp
+  - cqjbiagegsaqbijaeagcqsaibiegsb4ihbbyj35ok4naeagcqsaibiegeascqbaiakegcoyawbv2
+  - ewscweoh8o1vf7v5whe
+  - 0hz84x9vbnazmzw3ve1tv6p9auwqcajbiagegsaqbijaeagc
+---
+# CASBIBAEgkAQCAI7IBBCYAc48p8gEASCQBAIAkEgCASBIBAEgkAQCALrgUAIgfXo57QyCASBIBAEgkAQ
+
+## Context
+From document: TODAY FEELS LIKE A REAL BAD GO — chunk 231 (chunk 231/940)
+
+## Content
+CASBIBAEgkAQCAI7IBBCYAc48p8gEASCQBAIAkEgCASBIBAEgkAQCALrgUAIgfXo57QyCASBIBAEgkAQCAJBIAgEgSAQBILADgiEENgBjvwnCASBIBAEgkAQCAJBIAgEgSAQBILAeiAQQmA9+jmtDAJBIAgEgSAQBIJAEAgCQSAIBIEgsAMCIQR2gCP/CQJBIAgEgSAQBIJAEAgCQSAIBIEgsB4IhBBYj35OK4NAEAgCQSAIBIEgEASCQBAIAkEgCOyAwBV2+F/+EwSCwEoh8O1vf7v5whe+0Hz84x9vbnazmzW3ve1tV6p9aUwQCAJBIAgEgSAQBIJAEAgC/REIIdAfu1wZBLYtAl/72teac889tznrrLOaT33qU823vvWt5qCDDgohsG17LBULAkEgCASBIBAEgkAQCAKbj0AIgc3HPE8MAgtD4Hvf+15z/vnnNy95yUuaj370o811r3vdZvfdd2/udre7Nb/1W7+1sOfmxkEAAv/4j/9Yxt0tbnGL5ld+5VdmAuXzn/9888lPfrKM3Wtc4xoz3SsXB4EgEASCQBAIAkEgCIxGIITAaFzybRBYOgR4AiAC3vzmNzfXvOY1myc+8YnNgx70oOYGN7hB82M/9mNL155UeDkQ+OEPf9j89V//dfOWt7ylvJACz3jGM2YiBBABPFqM6SOPPLI5+OCDlwOM1DIIBIEgEASCQBAIAkuGQAiBJeuwVDcIDCPwjW98o/nTP/3T5qSTTmq+8pWvNPe73/2axz72sc2tbnWr4Z/m/0uMwA9+8IPm4osvLi+eHze96U2by13uclvWIt4oH/vYx5o3vOENzTnnnNP8x3/8R3PrW9+6OeCAA8oY7Fuxf/3Xf23+6I/+qPmHf/iH5id/8iebj3zkI81///d/N1e60pX63nJu1/3oRz+aGXO4vfrVr25+8Rd/sbnXve41t7otw43kNNF+ffnTP/3Ty1Dl1DEIBIEgEASCwMojEEJg5bs4DVxVBP73f/+3ueCCC5oTTzyxvHPTfvrTn97c+973bn7iJ35iVZu9lu3iPv/yl7+8efvb39780z/9U3OnO92pOeOMM5qrXvWqm47Hv//7vzfvec97ChHw3ve+t+EhcPe7373Zc889S72ufvWrz1SnV7ziFc1f/MVfNHvvvXchAzxvOxAC//Zv/9a84AUvaG5+85s3D3vYw3q3UYJP
+
+
+
+---
+*Source: Document b5de64ea907b6e44ec94b342683f3041*

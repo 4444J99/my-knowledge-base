@@ -1,0 +1,32 @@
+---
+id: 2dbbca24-37ae-46ca-ae0a-428071964691
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    xo2jkzlgapee6qrszsgsj0fxwme9bxuo0anflqq6pqkwzezoleobv7srfiwjmbqdoiovkulccgfklxlp716zqcw0wlgtgnlkwnovyxvgns0zglcqb0ijhbvy1rjycszkfgwwgh
+  - vq0kctz20gk1oncwfhkb7eos7
+  - te0eg1y9dtrqopzzblqsaivekqnuwjyxwrvnrxbkshavwfwdxjqo1hw3tnhg3o8xlm6twehp70zv
+  - >-
+    2rzrxrh7quwy7tq7gszefw9npbmhiibwufnptsehgm8wnkumuse50rlyslcld2yce9zgm4goe2wjwjy
+  - zrsyb1ciavsulaxsral1lclpucul3qqsiqkodujtrg8wuz
+---
+# xo2jKZLgapee6QRSzSgsj0FXwme9BxUo0aNfLqq6pqKwzEzoLEoBV7sRfiwjmBqdoIOvkULCCGfklXLp
+
+## Context
+From document: New Note — chunk 11075 (chunk 11075/21099)
+
+## Content
+xo2jKZLgapee6QRSzSgsj0FXwme9BxUo0aNfLqq6pqKwzEzoLEoBV7sRfiwjmBqdoIOvkULCCGfklXLp716ZqCW0WlGTgNLKWNoVYxVgNS0zgLCqB0IjHBVY1RjYCSZKFgWwGh+vQ0KCTz20Gk1oNcwFhkB7eOs7/Te0eg1Y9dTRqOpzzbLqSaiVEKqnuwjyXwRVnRxbKSHAVWFWdXJqo1hW3TnHg3O8XLm6twehP70zV/+2RzRXrh7QuwY7tq7GsZefw9NPbMHIIbWUFNpTSEhgM8wNKUmuSE50RlysLcLD2yCE9zGM4GoE2wJWjY+zRSYB1CIaVSuLAxSral1lCLpUcul3QqsiqkoDUJTrg8wUZ/JhDsjNcFcg1W41waitCCCoKgBXf9RV6VFXqecxfGjH9aBFlcbVfDcFWi3MpFk13RllXAK+jqBrzxoToVMjupV5olLArVk2tJp2RnWJGwb0CMbkUelYPKMCC6Z3w8QR5RjYLQ3D+V6uWDQcm9dNw/bNc2gQ3YRTbz6Ht9/Yg8d3LOZq5rU08EYiJdGbYK0nX5c364f3iauslxYFcKn7CqxfMwqbN47HymX9MX1KEaZM4srfi7tj6aIeNKwWEIYNQj7rrK7MhFEDc7BwZl889vADeOvNF3H180v4+qur+OjyBRw/ekSJD86dxpdffIxvvv4M3/zlM3z75acKqPrXv1zFd1c/xVXOvXTmNM6deAPvv/E6Pibk+vmlyxz/EF9c/ghffvQxvv6M+169ih9o7f/rX2jg/+IqvvroLM6eeAkPb5iNWRO7YvKYEsycUoq5M6rwwILuePjBcTh+ZAsuvf8izbrHcP7dvWTqtuG5Pcvxwt61OP7qo3jv3X345OOXFGD1008P4dLFF7ii+YsEbffh8sWDSpx640kKNVdh81raXhf1w6plg/g9vB/mzKnlZ6wEYwkO9++fjVoaUisqElFUZCbALUDONFR3LcPICcMxb/kCBVZd/tBGrHx4M1Y8tAlLtyzDrGVTMXzyAJR0y0VgjDeB1c4wRbkiLSeIkGgkispCmINQXE7DankIIVVhSDagoEyPjDxPxCba0obaESF8HgTxOWAIa0nglSzjNWDVN4RcZBBXnjdSuEnLqrtB2FWbw4PZm+MCWI1K8UJaQQhyy2IIrrI28kKQyZxTFI6s/FCeJxhZtCoXVcQowHqv/rm0
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

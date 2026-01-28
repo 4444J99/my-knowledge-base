@@ -1,0 +1,32 @@
+---
+id: ec7d70ab-b923-41ff-a222-7ff79100088b
+type: insight
+created: '2022-04-03T19:08:35.000Z'
+document: 06491227457788266c42ac1c8bad8c66
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - e3b9n2qwnt59m9vbbv27lb4kgqaxfenjtxj4znjuvf
+  - izxn4ruyd3lxhitxtv12elftd
+  - xlql1dsjvcqg2kbtq5zgubzlb
+  - >-
+    v67nm0afabqauafabqauafabqauafabqauafabqauafabqauafabqauafabqauafabqauafabqauafabqauafabqauafabqauafabqauafabqauafabqauafabqauafabqauafabqauafabqb
+  - >-
+    iproakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoa
+---
+# E3B9n2qwnt59m9Vbbv27lB4KgqAXfEnjTxj4znjuvF/izxN4ruYd3lXHiTXtV12eLftD+XLql1dSJvCq
+
+## Context
+From document: Project File Naming — chunk 167 (chunk 167/406)
+
+## Content
+E3B9n2qwnt59m9Vbbv27lB4KgqAXfEnjTxj4znjuvF/izxN4ruYd3lXHiTXtV12eLftD+XLql1dSJvCqG2kbtq5zgUBZLb/L+v67nM0AFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQB//X/iProAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoA//9D+I+ugAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgD//0f4j66ACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKAP//S/iProAKACgAoA/ZX9h3/AIJKaN+11+yp4w/a28efth/CX9lz4ceC/i3qXwl1a++LGjJFocOpWmh+BtWsdQufFl/4w8M6RZDWLrxzZ6RY2E48+S9t8RzSvdRwqEuVna1/69PLuvw972//AIc0/shf9Jsv2Df/AAofBv8A8+KgV5fys/EP4xeBtF+GXxY+JXw58N+PfDvxT8P+BfHPijwlonxK8IywTeFfH2leH9ZvNLsPGHhya2vdSt5dE8RW1tFqumSQajfQvZ3UJju7lCJ
+
+
+
+---
+*Source: Document 06491227457788266c42ac1c8bad8c66*

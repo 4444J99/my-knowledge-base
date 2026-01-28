@@ -1,0 +1,32 @@
+---
+id: de86c933-9cc2-4e30-9218-34c8102c7e68
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - e7fffnu0u9nfv7ei378dbypdl7dllltyy0ag
+  - >-
+    fhhhzpznnsxojrqorypk9lr7gak8oam2psfpnjnfddtdrevriau3smntdvwezflzlu1v1ege2uvwrsid6xbb7113xxxbbxkxdslwim4z9k5r761lkmkud7c74qf7btoq9muremdnss9uxm2
+  - 89kae9k9d9utxykhtd7q4yvgo7mtxybl2ulxqthg3qgc29
+  - yhvx85ogn5qvgaqkiifaocuxnwdhhtvd
+  - >-
+    cy95phjcin1xbfhhjv6orjp5513xmhjbgluedjqswq9wyb7fcmnn0tjxnr9lhhndxwlmbzkjsvg9iunge29994bbldbyhqydswx1exkzs0m95r3uphr433lgwoc7z1cfwbqeiiucu8b8o
+---
+# E7fffnu0U9NFV7EI378dBypDL7Dllltyy0Ag+fHHHzPZNnSXOjrQOrYpk9LR7GAK8OaM2psfpNjnfDDt
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 333 (chunk 333/18928)
+
+## Content
+E7fffnu0U9NFV7EI378dBypDL7Dllltyy0Ag+fHHHzPZNnSXOjrQOrYpk9LR7GAK8OaM2psfpNjnfDDtDreVRIAU3sMNTdvWEzFLZLU1V1EGe2UvWrSID6xbb7113XXXbbXKXDSLwIM4Z9k5R761lkmkUD7c74QF7BTOq9MureMDnsS9uxM2+89KAE9k9d9utxYKhTd7q4YvGO7MTxybl2uLxQthg3Qgc29/yHVX85oGN5qVgAQkIIFAoCuxNwDhHTVD+CY95phjCiN1xBFHhJV6oRjP5513XmHJbGLuEDJqsWQ9WyB7fcMNN0TjXNR9lhhNdxWLMBzKjSVG9iUnGe29994bbLDByHqYdSwx1ExkZS0M95r3UphR433LGWOc7z1cfwbQeiIuCu8B8O+liUTMElm9tNRNHaRdnI5uPYAtWNp33325Dyp8PaCiy897U/KOO+4IFbGAnULXaDdOquNPYZlqExPAE1nV+lDGGjQCeW6zjz/iXnnlleF3ENazcRA9kMs8OAY8BOLNN9+Mq7DC7x2kz5s3r93uemX87KdMAnhh1gCGZdmBkdcSkIAEJNAPga7E3gA+4R999NHwbRief/zjH7frXbgXLxZesGBBu5IhHa3+wQcfxPLhgtPF2tXi6NxYGJHPrZHtSlaV3lUswldwP9/v1m1HoHB40zGxnbWhpLPPeZQGTz311C677DIUNwbWaCI6Cu+BRaG7hhIxS2R110ZPpbmRKewDf8UVV7QzwE3yHMAWviH4T+M7gCMc2hUmnVzKcPZAqELd733ve+3K0y7F8AFP2pWpNj0BPJFVrQ9lrIExbNPyySef8Ft7qMJuBdmVcmR1fLBGLgSCZwYBQWNzrH3Y0I7En/70p4XrHco42WeZBPDCrAEMy6oa4mhHAhKQgAS6EnsD+IRnq9f4hcjFL37xi3Yxuuyyy7IluebM2naF0SEcW5srz8t2d25znmu2cEKft2uxh/SuYhG+gvv8ird6IYHC4U3HxEJTQ0zkLtGwlJJ3MjvJ77zzzkN0pu6mE9FReNcNv0f7iZglsnpsrJtq/KuEn13ZcWSHHXZoVxXlHH/c4n+MfeP5cZe63F3DMmaW9/DMNSmkkxu/UaiVUN20GHY6wYeB/dMmgCey2pGpL53N3m+88cZAkkNE4034559/frhBIEIuefHcc8/F6W6CFVfctbvDv76u
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

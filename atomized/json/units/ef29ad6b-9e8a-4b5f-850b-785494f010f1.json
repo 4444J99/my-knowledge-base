@@ -1,0 +1,26 @@
+{
+  "id": "ef29ad6b-9e8a-4b5f-850b-785494f010f1",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt>├── SYS_PRODUCT_EXPORTS/        # Manifestos, Readmes, Pitch Decks, Zin",
+  "content": "<div><tt>├── SYS_PRODUCT_EXPORTS/        # Manifestos, Readmes, Pitch Decks, Zines, PDFs</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Each folder includes:</tt></div>\n<div><tt>- `.txt` or `.md` files  </tt></div>\n<div><tt>- Clear titles (e.g., `ETCETER4_PROFILE.md`)  </tt></div>\n<div><tt>- A 00_INDEX.md in every folder with contents list + suggested reading order  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### IV. | DRAFT &amp PROMPT PRESERVATION SYSTEM</tt></div>\n<div><tt><br></tt></div>\n<div><tt>To guarantee no data is lost:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>1. Create master documents that combine all prompts and responses per phase.  </tt></div>\n<div><tt>   - E.g. `SYS_EXPAND_PHASE_2.5_MASTER.txt`  </tt></div>\n<div><tt>   - Includes ALL prompts + responses + commentary from thread  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>2. Break into modular iPhone-friendly exports:  </tt></div>\n<div><tt>   - `P2.5A_ARTISTvsPROJECT.md`  </tt></div>\n<div><tt>   - `P2.5B_EDU_CASCADE.md`  </tt></div>\n<div><tt>   - `P2.5C_COMMODITY_MAP.md`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>3. Tag every entry with:</tt></div>\n<div><tt>   - REF_ID  </tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 114 (chunk 114/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "folder",
+    "includes",
+    "every",
+    "with",
+    "prompts"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

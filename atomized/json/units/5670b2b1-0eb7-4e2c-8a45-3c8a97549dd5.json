@@ -1,0 +1,26 @@
+{
+  "id": "5670b2b1-0eb7-4e2c-8a45-3c8a97549dd5",
+  "type": "insight",
+  "timestamp": "2021-04-27T18:38:11.000Z",
+  "title": "<div><b>The University of Texas at Austin</b><br></div>",
+  "content": "<div><b>The University of Texas at Austin</b><br></div>\n<div><br></div>\n<div>Statement of Purpose:  Write an essay that explains your education and experience so far, your future goals, and how you think our program will help you achieve those goals. Rule of thumb is to keep this concise, around two printed pages, double-spaced.  No other essays are required.</div>\n<div><br></div>\n<div>Resume or Curriculum Vitae (CV):  Include education; work experience and internships; honors and awards;  and publications or creative works.</div>\n<div><br></div>\n<div>Academic Writing Sample: This should be a report, article, review, or anything that you've written for a class (or similar). It should be between 10 and 20 pages, but a longer one will be accepted if you feel it is your best work. If you no longer have any academic papers, please submit a 10-page original essay. Please do not send your Master's thesis.</div>\n<div><br></div>\n<div><b>UC Santa Cruz</b><br></div>\n<div><br></div>\n<ul>\n<li>Can you tell me what my Statement of Purpose should include?</li>\n</ul>\n<div><br></div>\n<div>The Statement of Purpose is typically 2 to 4 pages long. The statement should include:    </div>\n<div>A. A personal statement giving sufficient background to explain how you came to be involved/interested in your area of research.    </div>",
+  "context": "From document: The University of Texas at Austin — chunk 1 (chunk 1/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "83b6f4ce7e39c12b3cd841337abb6856",
+  "relatedUnits": [],
+  "keywords": [
+    "statement",
+    "your",
+    "should",
+    "purpose",
+    "pages"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

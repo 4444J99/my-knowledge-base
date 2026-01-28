@@ -1,0 +1,26 @@
+{
+  "id": "7034929f-600f-4a02-b1c5-eeb58be656a2",
+  "type": "insight",
+  "timestamp": "2025-12-03T05:00:13.000Z",
+  "title": "</ul>",
+  "content": "</ul>\n<li><br></li>\n<li><b>Execution</b><br></li>\n<li><b>Communication Plan</b><br></li>\n<ul class=\"Apple-dash-list\">\n<li>Defined cadence for status updates, stakeholder communications, and reporting channels.</li>\n</ul>\n<li><b>Complete Gantt Chart and Schedule Integration</b></li>\n<ul class=\"Apple-dash-list\">\n<li><b>A fully formatted Gantt chart showing dependencies, durations, </b>and milestones without formatting errors.</li>\n</ul>\n<li><b>Change Management and Post-Prototype Roadmap</b></li>\n<ul class=\"Apple-dash-list\">\n<li><b>Approach for evaluating adjustments, scaling options</b>, and transitioning from<b> prototype</b> to production phases.</li>\n</ul>\n<li>to touring/streaming contexts.</li>\n<li><b>Creatively authentic live experiences</b> where no two shows are the same.</li>\n</ul>",
+  "context": "From document: Project Charter: Contextual Awareness and Audience-Interactive Live… — chunk 15 (chunk 15/15)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "6c79b8186fe335c5c6f24948326d3edf",
+  "relatedUnits": [],
+  "keywords": [
+    "class",
+    "apple",
+    "dash",
+    "list",
+    "gantt"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

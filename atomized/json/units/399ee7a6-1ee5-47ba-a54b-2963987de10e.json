@@ -1,0 +1,26 @@
+{
+  "id": "399ee7a6-1ee5-47ba-a54b-2963987de10e",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>  •  Group templates and exports clearly</div>",
+  "content": "<div>  •  Group templates and exports clearly</div>\n<div>  •  Prepare for long-term recursive growth</div>\n<div>📁 REVISED STRUCTURE PROPOSAL</div>\n<div>KN-LR_01-00_learning-recursions/</div>\n<div>├── 📂 ACTIVE_CORE/</div>\n<div>│   ├── KNST0000_sicp_symbolic_recursion/</div>\n<div>│   ├── KNNO0001_paradigms_norvig_ai/</div>\n<div>│   ├── KNNC0002_nature_of_code_fusion/</div>\n<div>│   ├── SPELLBOOK_STUDY_SCHEDULER.md</div>\n<div>│   ├── WAVE_TRACKER.md</div>\n<div>│   └── README.md</div>\n<div>│</div>\n<div>├── 📂 ARCHIVE_ITERATIONS/</div>\n<div>│   ├── KN-LR_01-00_learning-recursions 2/  ← rename to `v1a_raw`</div>\n<div>│   ├── KN-LR_01-00_learning-recursions_REPOPULATED_v1a/  ← move zip contents here (unzip)</div>\n<div>│   └── KN-LR_01-00_learning-recursions/ (original) ← archive as `v0_seed`</div>\n<div>│</div>\n<div>├── 📂 TEMPLATES/</div>\n<div>│   ├── L1_LEARNING_CORE_MINI/</div>\n<div>│   ├── REGE_OS_L1_LEARNING_CORE_v1a.zip</div>\n<div>│   └── REGE_OS_MINI_FORK_TEMPLATE_v1a.zip</div>\n<div>│</div>\n<div>├── 📂 EXPORTS/</div>\n<div>│   ├── 4_S0VRC3_KNOWLEDGE_STACK_v1a_nested.zip</div>\n<div>│   ├── 4_S0VRC3_KNOWLEDGE_STACK_v1b_nested.zip</div>\n<div>│   └── KN-LR_01-00_learning-recursions_REPOPULATED_v1a.zip</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 355 (chunk 355/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "lr_01",
+    "00_learning",
+    "recursions",
+    "templates",
+    "exports"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

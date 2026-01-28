@@ -1,0 +1,26 @@
+{
+  "id": "081239d0-36aa-4bf3-83d8-7dca0ebd5136",
+  "type": "insight",
+  "timestamp": "2025-12-04T16:48:25.000Z",
+  "title": "<div><tt>emotion &lt&gt logic </tt></div>",
+  "content": "<div><tt>emotion &lt&gt logic </tt></div>\n<div><tt>ego &lt&gt mask </tt></div>\n<div><tt>focus &lt&gt scatter </tt></div>\n<div><tt>stable &lt&gt shifting </tt></div>\n<div><tt>peace &lt&gt tension </tt></div>\n<div><tt><br></tt></div>\n<div><tt>### TEMPORAL </tt></div>\n<div><tt>future &lt&gt now </tt></div>\n<div><tt>sync &lt&gt drift </tt></div>\n<div><tt>scarce &lt&gt plenty </tt></div>\n<div><tt>vertical &lt&gt cyclical </tt></div>\n<div><tt>clock &lt&gt spiral </tt></div>\n<div><tt>rise &lt&gt fall </tt></div>\n<div><tt>auto &lt&gt improv </tt></div>\n<div><tt>memory &lt&gt moment </tt></div>\n<div><tt><br></tt></div>\n<div><tt>### AUDIO/VISUAL </tt></div>\n<div><tt>glitch &lt&gt clean </tt></div>\n<div><tt>silent &lt&gt loud </tt></div>\n<div><tt>signal &lt&gt noise </tt></div>\n<div><tt>flesh &lt&gt metal </tt></div>\n<div><tt>front &lt&gt back </tt></div>\n<div><tt>harmony &lt&gt chaos </tt></div>\n<div><tt>sharp &lt&gt blur </tt></div>\n<div><tt>whisper &lt&gt scream </tt></div>\n<div><tt><br></tt></div>\n<div><tt>### TECHNICAL </tt></div>\n<div><tt>chaos &lt&gt order </tt></div>\n<div><tt>fixed &lt&gt wild </tt></div>\n<div><tt>code &lt&gt voice </tt></div>\n<div><tt>call &lt&gt echo </tt></div>\n<div><tt>compress &lt&gt expand </tt></div>",
+  "context": "From document: # synth-wave-modules — chunk 26 (chunk 26/51)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1f0200e52addd3bec3d0beb78cca4a02",
+  "relatedUnits": [],
+  "keywords": [
+    "chaos",
+    "emotion",
+    "logic",
+    "mask",
+    "focus"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

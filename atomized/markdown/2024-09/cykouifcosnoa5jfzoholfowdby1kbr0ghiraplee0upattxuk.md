@@ -1,0 +1,31 @@
+---
+id: 6e8e320e-dca1-4bc3-a619-54d1af9465d7
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - cykouifcos
+  - noa5jfzoholfowdby1kbr0ghiraplee0upattxuk4glqauwvjsjlxuwzu6
+  - aw211opkszrodwrheslkeec40akbuy3avqhcecev2gc0b09
+  - >-
+    rqpccs57lp4cpiuubedcyhdwxkioki5qzud6m6kjvqxy7ees5p5lbfpjxlckuv3vdglyi6wtavcmvlrafwbgghoeciz8eiimhxwbuvcjgzjeusimixujwht4ozu4e5dohub1wccksmassbjdl
+  - 67kslum9jqk55znimb8g4vqz
+---
+# cYkoUIfcOs/NOa5jFzohOlfOwdby1kbR0gHIRaPLEe0upatTXuK4gLqauWVjSjlXuWZu6/aW211OpKsz
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 3797 (chunk 3797/11534)
+
+## Content
+cYkoUIfcOs/NOa5jFzohOlfOwdby1kbR0gHIRaPLEe0upatTXuK4gLqauWVjSjlXuWZu6/aW211OpKszROdwrhEsLkeEc40akBuY3aVQHCEcEV2Gc0B09/rqPCcs57lp4CpiuUbEdcyHdwXkiOKI5QZud6m6kJvQXY7eeS5p5lBfpjXlckUV3VDgLYI6wTavCMVlRAfwBggHOEcIZ8eiImhXwBuVcJgzjeusImiXUJwht4ozU4e5DOHuB1WcckSMAssBjDl+67kSLuM9jQK55ZnIMb8G4VQZ+gaZzUzfbY8bZ3ZUHdehEqGd8BtiqUfkJrDn6E7QjrguzcH23MMDR24G8JKKTtDL1jww4AfQhavSt+8frUj95nWDPRxF5FFCaJqvmarrLD5qUKpjufAbIs7y8FCbjLV1ONNXyHlGergqnVeAKoM9bFBCP8dRnvHAVgCEs6t1yMeKwzbOJF7KEE7z4/p4fDK6w6gAWwZ+NtMBla9sK+xbjpk8r8d4LOpZA6c5HDWsla7Erj+fS/OD1s3WxCjO/niZMExGlCt+Dbwqz3H9Uc+X19R1hhV0zeW8+QrzlQtDHtPM4ZoB6uxqdwnYeD/4zAT2gM0A5Ay/tR3RqYK/V0Z0NrpvgC3PUQXrA+whP4brNIoVoKiL0A7b1nlmrHMFQrgVrrYjCGcR1pp21C6VcG3mLcdvzYDosGn+pH0ClhOis1H2qMvoThVspgPXYas9q+uQP9nndvyBqWSeLjuWwwY97C6xcV8zvWz7qNX3Hd3ZzH3DcoBzwngEeA7kct5q1xCdwYOhKXtyRzrl0MlBLQfMIOtL9ahDVAVHPaMq7lnbKpiFiH8AAEAASURBVM/2COfaioYiUBGWU6ygqHN0F3DdQVHOJRWd6ZZgd4mIyoToDsgExpglryM64BZ0FxtSXWcA5sByQDsgGVkdQlHHXJoqQ3TAeDgKZpgySCR+cz2W5R3W94WIHN1JuUVo5PWonAOcgw0jKu+1CecE9twS060gBfAMRCVEJ3RXsNaB95/TnALVDn0FzWRd1pQRtin3is08sDwjOlYE7SxCOaez5Jm5glG30+wI4HHN3lPBNq1jsY7rbHTf1yy5Vui6lSXq0M8Zcjt6Ks0cUZxV8Lipnkcj+ESO+ehCp7+C8Kqi/oLIoaIr5paHzHuyuCyKumdDVRzRGZAbMl+1e8ZVdIeP
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

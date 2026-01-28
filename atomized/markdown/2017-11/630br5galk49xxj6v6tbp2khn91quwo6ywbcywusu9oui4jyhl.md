@@ -1,0 +1,31 @@
+---
+id: aee7af9a-4a49-4f25-9b2f-088a631f6abe
+type: insight
+created: '2017-11-08T14:03:53.000Z'
+document: f47673d86e05016edf5cfc9824f2b752
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 630br5galk49xxj6v6tbp2k
+  - >-
+    hn91quwo6ywbcywusu9oui4jyhld1afv9rvnfubfqn5naa3axdypjh2g4yemrgbiptvqucxbxwl9fzw8ftel2fizyyukfhclum
+  - tmutv7c6tjmestrhysnwwsr25616ld6z4xs9gjfr7lr1giw6sb2iirmnqki84bwmisjts8o
+  - yhulmfvnxvtlklyobxmfzzn0yabncefrshumfnolvbk5co05mw446ll0bpyhisbxdoc
+  - i6m8e8e8bocbiaqm
+---
+# 630br5gaLk49xxj6V6TBp2k+HN91qUWo6YWbCyWUsU9oUI4JYHLD1AFV9RvNFuBFqN5Naa3axDYPJH2G
+
+## Context
+From document: use this photo as a reference to create my own cut out piece. also… — chunk 143 (chunk 143/242)
+
+## Content
+630br5gaLk49xxj6V6TBp2k+HN91qUWo6YWbCyWUsU9oUI4JYHLD1AFV9RvNFuBFqN5Naa3axDYPJH2G4yemRgBiPTvQUcxbxWl9FZW8FtEl2FIZYyUkfHcluM/TmuTv7C6tJmEsTRhySNwwSR25616ld6z4Xs9GjfR7lr1GIW6sb2IiRMnqki84BwMisJtS8O/YHuLMFvNxvtLklyoBxmFzzn0yaBNCeFrSHUmFnOlvBK5Co05MW446LL0BPYHisbxdoc+i6m8E8E8BOCBIAQM+kgJVgexFdOLvRbG1xoN2t1aNtaSwv1AkZx1AIGOOxqPWk03xDHA3h+5a2gXHmWl3ISInxlmjJJBj4AA65z6UCsQeDkDRiNREZXO1UkOwse+JD8oPpXU6t4V028R0iRo79MtLA6hJ0X+8MfLIPQjk1H4cQHRlt9NurXUrRziXSrs+VKrkkZjk4OeMggjAPvUN5oOoamJ7rw7I11DpakPFOxFzbsD86RhTukA7E5oGlY4f/AIR6OJjLJclrckgeWMzE+jR9QPevUNKks7fSLWyvYobvziYxclCwiz0yUwyEcA5471xN8ptZYr6a7FzC0ZAubRCrI5PKSg85HQ5rsNK1y1l0+S8nDadfs/2eDVYIt1vKAM+VJCMAuc4DHJHWgZw/jaGY3CNdSMsiHbtkIdCBwCJB1BHT06V5s/OW6c9Oo/CvRtcuLrFzBLGtuqKC0EfzxIxAyYySQCepx3Jrzt8sOmMAdsZ96CepGMHmtCzumt8qq7w4KkdODwP61TdQAGHQimgkYIJ9fy6UBY+sP2Wfjxr37P8A8X9H+I+i3DRWAnji1C3Jys1nIQkgYA9QOVz0Ir+xjwp4n0Txd4d07xP4dnW503U4EuLeVSCGRwCB7EA8iv4PYpnUGMnAIx+Ff0cf8EjP2kLfxP4Hu/gB4iuidX8Pl7rTS3V7R+XQE8koeQPQ0CaP23Q5FOqKLlF69uvX8aloEFFFFABWNqv/ACy/4F/StmsbVf8All/wL+lAH//W/bS31618P+CrHULr5NttGAnU5I4x61876rql1rl9NqF+SHds7ckhQOAAD0BHOKu6zrdzqf2KzJ22+nxpGqn+IqMZPrWIxDYwcHJJz1OelYt3MG7kTOApwMHpwO1IYsIXJHIzimEgkoOcmjBPy9QvOPpWTZg3cUsJE2kAFORjjOK
+
+
+
+---
+*Source: Document f47673d86e05016edf5cfc9824f2b752*

@@ -1,0 +1,31 @@
+---
+id: 18fbf629-ea60-4b5d-bf51-33edc26ab015
+type: insight
+created: '2018-11-06T20:47:41.000Z'
+document: 8c3ce8993066f857adca061d250e2c68
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 6v4m8h6ddnfahovhp1y
+  - d0ttaxquc9csig810tfabrrrqbyq
+  - bfbkx39ql4e04xmd3ni0h83dnod
+  - 3dnpvxvuuuafm8upzpn2jfjg7hoptnpooakkkkaciiigaooooakkkkacsq90hq9tms41ltra7lj
+  - >-
+    68sksmv0lakvq0uaiafavrgdgauyogkisykvc53ngazpqfu1jrqajkrkvyzb4ipq0iqqkeqbvxgacacnuuaqxnrbxslw15ek8l8mkihlp1b4nc9yecpbelxzv9l0dt7o5j3ebdaxryzhfcqg5
+---
+# 6V4M8H6DdNfaHoVhp1y+d0ttaxQuc9csig810tFABRRRQByq+BfBKX39qL4e04Xmd3ni0h83dnOd+3dn
+
+## Context
+From document: Octatrack Tips & Tricks — chunk 166 (chunk 166/2544)
+
+## Content
+6V4M8H6DdNfaHoVhp1y+d0ttaxQuc9csig810tFABRRRQByq+BfBKX39qL4e04Xmd3ni0h83dnOd+3dnPvXVUUUAFM8uPzPN2jfjG7HOPTNPooAKKKKACiiigAooooAKKKKACsq90HQ9TmS41LTra7lj+68sKSMv0LAkVq0UAIAFAVRgDgAUyOGKIsYkVC53NgAZPqfU1JRQAjKrKVYZB4IPQ0iqqKEQBVXgAcACnUUAQXNrbXsLW15Ek8L8MkihlP1B4Nc9YeCPBelXZv9L0DT7O5J3ebDaxRyZHfcqg5/GuoooAKKKKACsmXQNCuL1dSn022ku0ORM0KGQH2YjP61rUUAFRxRRQJ5cKLGvJwoAGT14FSUUAFFFFABR14NFFAHLW/gbwTaaj/bFr4f0+G/DbvtCWkKzbuud4Xdn3zXU0UUAFFFFABXNXPgzwfeah/a13oVhPfE5897WJpc+u8ru/WulooAaqKihEAVVGABwABTqKKACs3UNG0fVgq6rYwXoTlRNEsmPpuBxWlRQBHDDDbxLBAixxoMKqgBQB2AHAoWGJZGmVFEj4DMAMnHTJ71JRQB+QH7Mv/J+nxH/6+/Ef/pfX6sal4J8Ga1ejUtY0DT767GP309rFLJxwPndSf1rQtvD+g2V/JqlnpttBezFi88cKLK5c5bc4AY5PJyea16BtjI444o1iiUIiABVUYAA6AAdqfRRQI53VvCHhPX5PN13RLHUXGDuubaKY5HTl1PStWw03TtKtxaaXaxWcA5EcKLGgP+6oAq7RQAUUUUAFcveeCPBeo3p1LUNA0+6vCcmaW1ieQn13spP611FFADURY1CIAqqAAAMAAdhTqKKACiiigAooooAKyYtA0KC9OpQ6bbR3h6zLCgk/77Az+ta1FACMqupRwGU8EHkEU1I0iRY41CIowABgAewp9FABRRRQAwRxq7SKoDNjJA5OOmTT6KKACiiigDJi0DQoL06lDpttHeHrMsKCT/vsDP61qsqupRwGU8EHkEUtFADEjSJFjjUIijAAGAB7Cqmo6XpmsWpstWtIb23YgmOeNZUJHqrAir1FAGPpPh3w/oEZi0LTLXTkPVbaFIR+SAVsUUUAFFFFABRRRQAVlXug6HqcyXGpadbXcsf3XlhSRl+hYEitWigBAAoCqMAcACmRwxRFjEioXO5sADJ9T6mpKKACiii
+
+
+
+---
+*Source: Document 8c3ce8993066f857adca061d250e2c68*

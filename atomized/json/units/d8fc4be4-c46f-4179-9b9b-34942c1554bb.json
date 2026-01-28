@@ -1,0 +1,26 @@
+{
+  "id": "d8fc4be4-c46f-4179-9b9b-34942c1554bb",
+  "type": "insight",
+  "timestamp": "2025-03-11T13:38:37.000Z",
+  "title": "<div>accommodations</div>",
+  "content": "<div>accommodations</div>\n<div>michelle cuervas</div>\n<div>veronica hebert</div>\n<div><br></div>\n<div>tutoring on library page</div>",
+  "context": "From document: accommodations",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "41b80027098125b1d13fab9b4f29ea4f",
+  "relatedUnits": [],
+  "keywords": [
+    "accommodations",
+    "michelle",
+    "cuervas",
+    "veronica",
+    "hebert"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

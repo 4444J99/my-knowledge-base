@@ -1,0 +1,26 @@
+{
+  "id": "5ccb6b7c-d53e-4343-9e78-e3c031612f21",
+  "type": "insight",
+  "timestamp": "2022-07-19T14:17:43.000Z",
+  "title": "<div>8:50 AM - Time of birth</div>",
+  "content": "<div>8:50 AM - Time of birth</div>\n<div>04/18/1990</div>\n<div>staten island, NYC</div>\n<div>Anthony James Padavano</div>",
+  "context": "From document: 8:50 AM - Time of birth",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1deab814fb2e1f5518127b31eff0b964",
+  "relatedUnits": [],
+  "keywords": [
+    "time",
+    "birth",
+    "1990",
+    "staten",
+    "island"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: 30992564-189e-4ce7-909d-955607948b26
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    x33w5oo7d7ye3mhg3yqftnehdtk3smgrvalbtnvwsjsqtndukq3tav4kvxsvkquaxagywazptnxnsckxzms00ate76jnb7xkbhs30imnsyracb
+  - rbst69ji37k0nsgfyuosrgpo
+  - >-
+    v0twagw54qhf3h9avt8h5hxbvtudfuoc9f3x7jircblcv4odyavhpgd4mbv2kfbyi0lweowwq3hprd5fdcprfi2dxyuxv4xfrvvsq5oi7ujgqscicnnxlovrpdxo9oyk2feqhetpw2vbu4ygya
+  - wgazowki2anu
+  - 4qhicmr01ul8s7u1fy6bgy
+---
+# X33w5oO7D7Ye3mHG3yQfTnehDTK3smgrvaLbTnvwSJsQtNDukq3TAV4KvxSVKquAxagYWaZPtNxnscKX
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 120 (chunk 120/11629)
+
+## Content
+X33w5oO7D7Ye3mHG3yQfTnehDTK3smgrvaLbTnvwSJsQtNDukq3TAV4KvxSVKquAxagYWaZPtNxnscKXzMs00ate76JNb7XkbhS30iMNSYraCb/rBst69jI37K0NSGfyUOsRGpo/V0tWaGW54qHf3H9AVt8h5hxBvTUDFuOC9F3x7JIRCbLCV4oDyAVHPGD4MbV2kFbYi0LWEOWwq3HprD5FDCpRFi2DXyUXV4xFRVVsQ5oi7uJGQsCiCnnXlOVRPDXo9oyk2FeqHeTPw2VbU4ygYA+WGaZoWkI2ANu+4QHIcMr01uL8s7U1fy6bGy+54CvUyk+Y+aTVzAra2F8xEOHiRJxK/5/LZR0ubo2a8BLGd0dwq34Ex9Sno8HCk+p91qInE38qEzV0g01K5meEEEVxTnp8inz2zQ/yBII51fsl9MHyH1RwAFk5xUaLT2tFPUM/4ijyiKx0kf7ibFaZ1fwYVXEPG0noOqiWEQUJSN1eXdveoFtfXgz2lWTFiFjILeK7+OCZynG15GoW4Czkwb4KKZ4yzOO2LlPDD0qQC+0zJ8qwegOte4Oc3HpjXqTQx/SOgz4Sf/SRX8fQn/JVqw0w4heWw/N7vEeDJ91xwgPRIJ36bN9162iJa7MI3bp1qW4hpWpEF7KYHwXbxfbOrNxMF/XpJt/82poDFdgou0dQdn+Rdy1PlZlka5Ha0gpELR+yawhIL9SCkk9C0Mw/Rk9g3MXqovEZv13xnCie9+S9tmbInC5bz0Q3fyK0tuBE7yd8eSAxoii0QDAy54pRlMq2QOi5l82Zj0Y1xWXJddxq7AsTJfbHEFqJP6RTblVT1jMZTXd/e1VoVXVxcFwJIZOHiDfET0gqrO6RwLLwHX2aRyEt+tpy09HekBU1cHiapfAYfVWiwmNKOGEjy812M21KseaNB7Xhk4C86BQa2rediVTFMOjuO0RjkiivHnR2Fp4+4qb5h2v/ni2dcQIppho0c7COr5H3YRH7dFetZGmLK/XvbCUwQ5swD9F9zMDP/nGfdr3IX9zowuMmQumtWSOdc7/rCWU30IrQp7gdxC8EaEVrZ9Jl7yh8c9obY6BBHrITkQuLMZObn7ORpAG9svbc5B6c5vMP6lNgAQ/ymqwZatbKZfPPmJ56ke9BltIRIFH9GJEAGD61IeMj4PjtGs29qBu1wrEQ+qW4GGOcHlHe0N98
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

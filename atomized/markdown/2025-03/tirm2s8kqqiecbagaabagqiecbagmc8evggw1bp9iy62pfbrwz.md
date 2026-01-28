@@ -1,0 +1,30 @@
+---
+id: 98a7b4ca-6c04-4e97-9fdc-d60c250ab5c8
+type: insight
+created: '2025-03-13T23:47:48.000Z'
+document: 3b2e4f3759d2535cf9a91dec728a8fbc
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - tirm2s8
+  - kqqiecbagaabagqiecbagmc8evggw1bp9iy62pfbrwzzuzpu
+  - vgqvp
+  - fa4pyn48
+  - jtw22jhvk3llz2n0gylqjeypgvqllvchtnmm4xi4w
+---
+# tIrm2S8/KQQIECBAgAABAgQIECBAgMC8EVggW1bP9IY62PfbrWzZuzpU/VGqvP/fA4pyn48//jTW22jH
+
+## Context
+From document: Squarespace, ChatGPT, GoDaddy Expenses — chunk 1537 (chunk 1537/2268)
+
+## Content
+tIrm2S8/KQQIECBAgAABAgQIECBAgMC8EVggW1bP9IY62PfbrWzZuzpU/VGqvP/fA4pyn48//jTW22jHvK3LLz2n0gylqjeYPGVqLLvChtnMm4Xi4w+eqXQ6nUuzpu6975H48suy/V+aN28eyy3bP3578uGxVrb/VsXy7bffRb7c4E13ZTN6yuqnWVknHndorL32wFhr3Z9GCnL+99L9FS9rcq9Hjx4bJ//unGwZwUcr9X29ddeMP/7+hCy4rLzfWaVKM9/87e9XZrPcLoqdd9w6zvvrqdVVibuzpQZTIPbFl+Mrnd9k43Xjd6ccWeu+ejdk4/jHbHnHsZ+PK7++fft2ceTh+8Wv9t+r/NicvBg5dnw+E2tOrnXNDwLph+A9upb9UP2Ho14RIECAAAECBAgQIECAAAECBAgQIECAQF0EBGp1UcrqlGqgVsfu16vamLHjYsKESbHEEr3Ll72bXQMp1GuWLWHVK5vtVPE332d3TVM7l4zS7L0URPbvt0T0779EgxAMGzY8Xnv9nWjVqkV+n8UXL5t5UJebTZs2Pbv27RgxYlQsumjXfFZa22wPs7ktY7+YFDOy3+RX5k4gzWro2rnd3DXiagIECBAgQIAAAQIECBAgQIAAAQIECDRRAYFaHQdeoFZHKNUIFFlg0pTpMXGyJcPmlrV929bRrk3LuW3G9QQIECBAgAABAgQIECBAgAABAgQIEGiSArbfaZLDrtMEGo9A65bNo0Vze8bMzYglv9atms9NE64lQIAAAQIECBAgQIAAAQIECBAgQIBAkxYQqNVx+Lt2bFXHmg1fbX56lobvrTs0dYFmzRbMZla1ipYtBEJz8llIYVrya5btoaYQIECAAAECBAgQIECAAAECBAgQIECAwJwJLDRnlzW9q/p07xBjx0+bLzqenkUh0JQEWjRfKNuPr3VMXXih+GrG19meat/E998ngfw/TYmiTn1NexEu1KxZFkKWzUwTptWJTSUCBAgQIECAAAECBAgQIECAAAECBAjUKCBQq5Gm8omNB/aOF98ZVfngPHqXnkUh0NQEymaqtbQPWFMbeP0lQIAAAQIECBAgQIAAAQIECBAgQIDAfCBgDbA6DsIOGy4dGwxYrI61G65aeob0LAoBAgQIECBAgAABAgQIEPh/9u4DTKrq7gPwX0AQFRuKKGCvYMFu7L33FnuPMcZoTOIX
+
+
+
+---
+*Source: Document 3b2e4f3759d2535cf9a91dec728a8fbc*

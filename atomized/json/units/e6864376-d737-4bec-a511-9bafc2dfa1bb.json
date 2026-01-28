@@ -1,0 +1,26 @@
+{
+  "id": "e6864376-d737-4bec-a511-9bafc2dfa1bb",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:16:27.000Z",
+  "title": "<div><tt>- **Modifiers** = version, mood, interface node, etc.</tt></div>",
+  "content": "<div><tt>- **Modifiers** = version, mood, interface node, etc.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>LIVE SYSTEM COMMANDS:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Command | Function |</tt></div>\n<div><tt>|---------|----------|</tt></div>\n<div><tt>| `|[ST4RT.io::` | Begins live working thread |</tt></div>\n<div><tt>| `::S4VE.io]|` | Ends session + triggers export protocol |</tt></div>\n<div><tt>| `::mirror peer_id` | Generates a use-case explainer (e.g. Jessica, Rob) |</tt></div>\n<div><tt>| `::deploy project_id` | Converts system object into user-facing product |</tt></div>\n<div><tt>| `::translate object --lang:fr` | Translates a module to French or other language |</tt></div>\n<div><tt>| `::loop ritual_id` | Re-executes a ritual with version control |</tt></div>\n<div><tt>| `::fossilize thread_id` | Locks and archives a thread, tags density |</tt></div>\n<div><tt>| `::echo command_id` | Repeats last issued instruction with metadata |</tt></div>\n<div><tt>| `::spawn output_type` | Spawns raw template or shell (prompt, poem, zine) |</tt></div>\n<div><tt>| `::revise filename --mode:ritual` | Updates file using creative protocol |</tt></div>",
+  "context": "From document: KONS0L_TERMINAL_CALLS.txt — chunk 2 (chunk 2/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "b593d211eb25917a24f216f1aba65d99",
+  "relatedUnits": [],
+  "keywords": [
+    "version",
+    "live",
+    "system",
+    "thread",
+    "protocol"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

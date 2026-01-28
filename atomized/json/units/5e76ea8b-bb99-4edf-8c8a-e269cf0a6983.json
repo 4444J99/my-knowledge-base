@@ -1,0 +1,26 @@
+{
+  "id": "5e76ea8b-bb99-4edf-8c8a-e269cf0a6983",
+  "type": "insight",
+  "timestamp": "2025-12-04T16:48:25.000Z",
+  "title": "<div><tt>----</tt></div>",
+  "content": "<div><tt>----</tt></div>\n<div><tt># |[ CHARACTER_W4V3_MODEL.v1.0 ]|</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Each character = waveform object </tt></div>\n<div><tt>Used for fusion, modulation, triggering, narrative encoding</tt></div>\n<div><tt><br></tt></div>\n<div><tt>CHARACTER_W4V3 {</tt></div>\n<div><tt> SIGN4TUR3_ID: &quotJ3SS-04&quot</tt></div>\n<div><tt> W4V3_FORM: sine | square | noise | pulse | fractal | soulwave</tt></div>\n<div><tt> MOD_AMP: float [-1.0, +1.0]</tt></div>\n<div><tt> FREQ_B4SE: Hz or META_CYCLE (e.g. BPM, narrative beat, moon)</tt></div>\n<div><tt> FUSI0N_COMPAT: [&quotAphex Twin&quot, &quotGabe&quot, &quotMM15&quot]</tt></div>\n<div><tt> MYTHIC_TAGS: [&quotGOD&quot, &quotANGEL&quot, &quotERROR&quot]</tt></div>\n<div><tt> EMIT_EFFECTS: function() → modifies system threads</tt></div>\n<div><tt> ALIGNED_EVENTS: [&quotsunset&quot, &quotApril 18&quot, &quotfull_moon&quot]</tt></div>\n<div><tt>}</tt></div>\n<div><tt><br></tt></div>\n<div><tt>____</tt></div>\n<div><tt># xviii</tt></div>\n<div><tt>----</tt></div>\n<div><tt>----</tt></div>\n<div><tt># |[ SYMBOLIC_RITUAL_TRIGGER_ENGINE ]|</tt></div>\n<div><tt><br></tt></div>\n<div><tt>SYSTEM: Activation of symbolic rituals </tt></div>",
+  "context": "From document: # synth-wave-modules — chunk 45 (chunk 45/51)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1f0200e52addd3bec3d0beb78cca4a02",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "narrative",
+    "system",
+    "character_w4v3_model",
+    "each"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: 86413cbd-74c9-4490-b0cc-aa18f6a01a27
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    5kcat08bsbycmh0nrvtx0ccu9jrdbysddaahhh8fcdud6ccbm09adswtch9hvxqczxeqvdehg48gmsbdcjz3owfoa6anpa3geqya8yhfgj5u6hduvgza
+  - 3lq1qax8lpa9dpa3zxdommw1heifwa9gpyhaowexwfpta7n90e4s8n5vnia8qraj2fop
+  - >-
+    qdobxqd9jt2yt5g9kpe7jcf6hewadad2byo9czpqu9zfohad6ccchxpgqbpu88lx3k40rogr1xrsniedvucthcctoczpwf8xe1d9ihpt3uke1me6pg8pjm4hwfxphs
+  - 2ui58pzicodvun5naurokbz7dka8zsoe6hhbyrdxbubp13bmdwsfqc
+  - d5wnq45yxmx8u5sjooioyyxryiv8gsnex1zhg
+---
+# 5KcAT08BSBYCmH0NrvTX0CcU9jRdBYSddaAHhH8FcDud6CcBM09aDSWTcH9HvXQCZxEQvdehG48GmsbD
+
+## Context
+From document: New Note — chunk 1943 (chunk 1943/8096)
+
+## Content
+5KcAT08BSBYCmH0NrvTX0CcU9jRdBYSddaAHhH8FcDud6CcBM09aDSWTcH9HvXQCZxEQvdehG48GmsbDcJz3OwFoA6AnpA3geQyA8yhFgJ5u6HDuvgzA/3LQ1QAX8lpA9DpA3zXDOMMw1hEIFwA9gPYhAOwExwfpTA7n90E4s8N5vnIA8QRAj2fop/BM/QDoBXQd9jT2YT5g9Kpe7JcF6HEWAdAD2BYO9CzpQu9zfOhAD6CccHxPGqBPu88Lx3k40ROgR1xRSnieDvUCtHcCtoczPWF8xE1D9IhPt3uKe1ME6PG8PJM4HwFxPHs/2uI58PzicoDVUN5nAUROkBz7Dka8zSOE6HHBYRDxBUBP13bmDWsFQC/d5wnQ45yXMX8U5SjOOIoYYxRyiV8GSNex1zhg+nGA3+OE5wG1j2O/cYLyeBcTyKtwn7cZygQ4jxxP4vLAJPafdOE7oAjQ+2zVV1inAz1herrSC3ie7vQU4rpNFeOOtrIxh6F8DHGzAD0A/RHsLRzo4cRPV/1B9AGgL0078eMd4nsRAD1A9S680w6oHd9hEs7vCayJwQ1eAPQ2Y1XAZa3xW01VXrjQu+FCLxzo4RxvtZkqLQDnTS6b3oBfnmh1WeoaAcvX2001eoD01TaDrhJlORznS+1GAvQ1l2zGmvN2k/4sytOYR4D+GKD1IwDoD+IM+/Ad7gHET4B+J97FDrznbQ5zxVaA88KB3tRW+i4BerjOv+t3N2zA5Ze38exrnVbdWzZT+RpA9ITnV7vt1a/hHa3C5YeVcNR/2WurftFlKn/BY9atsDcXP2dpKnrW1lKynAC9x1z9DC4KPGVqqXjS0lb1hLm18nGc+zG7oeaxjph92Uh/+FGH1fHwmjVrluHfCI8AXH4M/yJ6HBIQPf7b/Qzqz6GfEP1L0EqIEP1rEF3o1wGg33jzzTd/cMddXzpy5+/+7rHP3nbL4cLrlx4BEHoMOgVo/hzA9ouAjIsBt5fmXZdfiXo14FJA9IV1AEwb6UIPEaI3YMwEWdBvB2AqAXov2n6MB6EwRIA+BgA/AUi/He0OCdAD0O/B3D7E7geYP4BYg4BSh9BHB/oRlKMUYo9B45AE6CfRfwXzr1KYSwf6a+gTAD3KafRnAXqM0Xl+Fn0fqqAwF6L/JICe/QKSR0wF69NaANJjLAvfflJ9HqSbgasR+8N1EsbNjDGO
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

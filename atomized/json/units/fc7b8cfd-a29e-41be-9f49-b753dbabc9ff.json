@@ -1,0 +1,26 @@
+{
+  "id": "fc7b8cfd-a29e-41be-9f49-b753dbabc9ff",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div># Create the target path</div>\n<div>target_path.mkdir(parents=True, exist_ok=True)</div>\n<div><br></div>\n<div># Copy the entire structure from dummy REGE_OS into the final vault location</div>\n<div>for item in source_path.iterdir():</div>\n<div>    if item.is_dir():</div>\n<div>        shutil.copytree(item, target_path / item.name)</div>\n<div>    else:</div>\n<div>        shutil.copy2(item, target_path / item.name)</div>\n<div><br></div>\n<div># Zip the new final structure as embedded inside the OS vault</div>\n<div>final_zip_path = Path(&quot/mnt/data/4_S0VRC3_KNOWLEDGE_STACK_v1a_nested.zip&quot)</div>\n<div>shutil.make_archive(str(final_zip_path).replace(&quot.zip&quot, &quot&quot), 'zip', target_path.parent)</div>\n<div><br></div>\n<div>final_zip_path.name</div>\n<div>Result</div>\n<div>undefined</div>\n<div>✅ Your UID-bound knowledge stack has been successfully embedded into your OS vault at:</div>\n<div>/4_S0VRC3/4_S0VRC3_COURSE_OS_FULL_v2a_FINAL/MT-PR_00-00_meta-operations/KN-LR_01-00_learning-recursions/</div>\n<div>Download the ZIP:   📦 4_S0VRC3_KNOWLEDGE_STACK_v1a_nested.zip</div>\n<div>🔒 FINAL STATUS</div>\n<div>Component</div>\n<div>Result</div>\n<div>UID Constitution</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 309 (chunk 309/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "item",
+    "quot",
+    "target_path",
+    "final",
+    "vault"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

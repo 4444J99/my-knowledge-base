@@ -1,0 +1,26 @@
+{
+  "id": "d5c677d6-39e6-4035-add8-abb2087fa993",
+  "type": "insight",
+  "timestamp": "2025-08-20T01:08:51.000Z",
+  "title": "<div>Objective:   Prototype an AR overlay and VR scene, integrate SMT checks, an",
+  "content": "<div>Objective:   Prototype an AR overlay and VR scene, integrate SMT checks, and AI-augmented code generation.</div>\n<div>Reading List  •  ARKit by Tutorials</div>\n<div>  •  Learning Virtual Reality</div>\n<div>  •  Paradigms of AI Programming (Norvig)</div>\n<div>  •  Rosette PLDI 2015 paper</div>\n<div>Further Studies  •  XR HCI research</div>\n<div>  •  Neural-symbolic integration papers</div>\n<div>Examples  •  src/ui/ar/ar_demo.swift  •  src/ui/vr/scene_unity/Templates  •  modules/module-7/project-template.md  •  Z3 integration CI snippet</div>\n<div>Tie-ins  •  Arts: immersive storytelling</div>\n<div>  •  Sciences: spatial cognition</div>\n<div>  •  Philosophy: extended mind theory</div>\n<div>  •  Math: 3D transforms</div>\n<div>Wings Artifacts  •  Academic: XR systems summary</div>\n<div>  •  SOP: Deploying AR Demo</div>\n<div>  •  Business: AR OS potential deck</div>\n<div>  •  Social: VR snippet tweet</div>\n<div>  •  Community: XR channel Kickoff</div>\n<div>  •  Wiki: Neural-Symbolic Systems</div>\n<div>  •  Web/Blog: XR prototype post</div>\n<div>  •  Grants: AR/VR research alignment</div>\n<div>Capstone: Unified Microkernel &amp Multi-Modal Platform</div>\n<div>Objective:   Merge your microkernel, DSL, UI layers, multimedia engines, AR/VR demos, and AI toolchain into a demo platform.</div>",
+  "context": "From document: Prompt for AI: Multi-Archetype Syllabus Critique — chunk 9 (chunk 9/10)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "735011ec826ae272226ee00d2196dfe0",
+  "relatedUnits": [],
+  "keywords": [
+    "objective",
+    "prototype",
+    "research",
+    "neural",
+    "symbolic"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

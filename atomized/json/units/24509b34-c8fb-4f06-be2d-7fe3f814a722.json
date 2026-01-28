@@ -1,0 +1,26 @@
+{
+  "id": "24509b34-c8fb-4f06-be2d-7fe3f814a722",
+  "type": "insight",
+  "timestamp": "2025-02-12T19:07:35.000Z",
+  "title": "<div>Daily Journal</div>",
+  "content": "<div>Daily Journal</div>\n<div>24 pts</div>\n<div> Can't unpublish Daily Journal if there are student submissions </div>\n<div>Context Module Sub Header</div>\n<div>Week 1 In-Class Activities</div>\n<div> Published. Click to unpublish Week 1 In-Class Activities. </div>\n<div>Assignment</div>\n<div>In-Class Activities</div>\n<div>16 pts</div>\n<div> Can't unpublish In-Class Activities if there are student submissions </div>\n<div>Context Module Sub Header</div>\n<div>Week 1 Assignments</div>\n<div> Published. Click to unpublish Week 1 Assignments . </div>\n<div>Assignment</div>\n<div>Week 1 | Weekly Writing Warm-Up</div>\n<div>Jan 27</div>\n<div>100 pts</div>\n<div> Can't unpublish Week 1 | Weekly Writing Warm-Up if there are student submissions </div>\n<div>Discussion Topic</div>\n<div>Week 1 | Discussion: What Does Writing Mean to You?</div>\n<div>Jan 28</div>\n<div>100 pts</div>\n<div> Can't unpublish Week 1 | Discussion: What Does Writing Mean to You? if there are student submissions </div>\n<div>Assignment</div>\n<div>Week 1 | Assignment: Narrative Essay - Prewriting</div>\n<div>Jan 29</div>\n<div>100 pts</div>\n<div> Can't unpublish Week 1 | Assignment: Narrative Essay - Prewriting if there are student submissions </div>",
+  "context": "From document: Weeks 1 - 6 Canvas Data Dump — chunk 3 (chunk 3/188)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1b21c03b1f1909954adca118a79b0158",
+  "relatedUnits": [],
+  "keywords": [
+    "week",
+    "unpublish",
+    "there",
+    "student",
+    "submissions"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

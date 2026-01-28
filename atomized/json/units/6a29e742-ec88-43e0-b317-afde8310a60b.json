@@ -1,0 +1,26 @@
+{
+  "id": "6a29e742-ec88-43e0-b317-afde8310a60b",
+  "type": "insight",
+  "timestamp": "2025-04-07T17:53:48.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>SECTION 1: ESTATE OVERVIEW</tt></b></div>\n<div><b><tt>1. Name of the deceased:</tt></b><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>2. Date of death:</tt></b><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>3. Did the deceased have a will? Where is it now?</tt></b><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>4. Who is listed or acting as executor or personal representative?</tt></b><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>5. Other known heirs or listed beneficiaries?</tt></b><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>",
+  "context": "From document: PROBATE CASE TOOLKIT — chunk 3 (chunk 3/12)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "928848834a6e17b562461ef5f9d30f99",
+  "relatedUnits": [],
+  "keywords": [
+    "deceased",
+    "listed",
+    "section",
+    "estate",
+    "overview"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

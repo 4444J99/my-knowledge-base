@@ -1,0 +1,26 @@
+{
+  "id": "96eccb8b-4df6-4887-8275-7ccf173540a9",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:51:38.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>3. **User Notes:**</tt></div>\n<div><tt>   - Needs each ID system to be exportable AND poetic</tt></div>\n<div><tt>   - Asked whether naming convention can support:</tt></div>\n<div><tt>     - public-facing clarity</tt></div>\n<div><tt>     - backend recursion</tt></div>\n<div><tt>     - dynamic translation (language/code/media)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>4. **GPT Suggestion (embedded):**</tt></div>\n<div><tt>   - Two-state identity system:</tt></div>\n<div><tt>     - Canonical ID → used in filenames, scripts</tt></div>\n<div><tt>     - Styled ID → used in visuals, user-facing layers</tt></div>\n<div><tt>   - Example: `queer` = canonical → `Q_v33R` = styled</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## META NOTES:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- This segment is the philosophical backbone of the whole system.</tt></div>\n<div><tt>- Introduces artist-as-system concept.</tt></div>\n<div><tt>- Begs for development of:</tt></div>\n<div><tt>  - `SYS_ID_ALIAS_MAP.json`  </tt></div>\n<div><tt>  - `SYS_ALIAS_CHANGELOG.md`  </tt></div>\n<div><tt>  - Dynamic translation engine across media</tt></div>",
+  "context": "From document: REVIVE_0412_SEGMENT_002.md — chunk 2 (chunk 2/3)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "c81c77b2f9194cc83dc113155dcce856",
+  "relatedUnits": [],
+  "keywords": [
+    "system",
+    "user",
+    "notes",
+    "facing",
+    "dynamic"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

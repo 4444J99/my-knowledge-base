@@ -1,0 +1,32 @@
+---
+id: 60213ce8-b1b4-43fb-8461-80398ec3bd62
+type: insight
+created: '2018-11-06T20:47:41.000Z'
+document: 8c3ce8993066f857adca061d250e2c68
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - beyiw2jjbqg9wa
+  - iqkaeaaaagakwiigaooooaa6liji4yrag
+  - >-
+    q188fcl9ld4afarwbjxf8mfccwl6pco0rupj7i7mwjycuje5kkkkcdo3bpcmvomvpfht8vfahxe0a88qfdnv11nt7c8l0
+  - >-
+    evi5ygl1cqtjhivejidqcgec8hrqb6frrrqauuuuafffedeafiz8pfihnrtv4d1hdvk8nxr6dqiwkwpylqmkngfnrnxgdyur70aei0uuuafffebfeb4vfdn4sq6tp8q9ztr49dveslivfll51y4ysy8phxn1ba96apsakk82s
+  - i98ob
+---
+# beYIW2jjBQg9wa+iqKAEAAAAGAKWiigAooooAa6LIjI4yrAg/Q188fCL9lD4AfArWbjxF8MfCcWl6pco
+
+## Context
+From document: Octatrack Tips & Tricks — chunk 828 (chunk 828/2544)
+
+## Content
+beYIW2jjBQg9wa+iqKAEAAAAGAKWiigAooooAa6LIjI4yrAg/Q188fCL9lD4AfArWbjxF8MfCcWl6pco0RupJ7i7mWJyCUje5kkKKcDO3BPcmvomvPfht8VfAHxe0a88QfDnV11nT7C8l0+eVI5Ygl1CqtJHiVEJIDqcgEc8HrQB6FRRRQAUUUUAFFFedeAfiz8PfihNrtv4D1hdVk8NXr6dqIWKWPyLqMkNGfNRNxGDyuR70Aei0UUUAFFFebfEb4vfDn4SQ6TP8Q9ZTR49dvEsLIvFLL51y4ysY8pHxn1bA96APSaKK82s/i98Ob/4nX3watNZSTxlptoL+40/ypQ0ds3lkSeYU8o/61OA5PPTrgA9JooooAKKKKACiiigAooooAKr3dpaahaTWF/ClzbXKNFLFIodJI3G1lZTkFSDgg8EVYooA+ML7/gnz+yTf6jLfyeB/JjnfzZLWDUb+G0Z/XyI51RQOyqAvtX1l4Z8L+HfBeg2XhfwlptvpGkacnl29raxrFDEuSSFVcDkkknqSSTyTW7RQAUUViaB4m8N+KrN9R8L6raaxaxyNC81nPHcRrKmCyFo2YBhkZGcjIoA26K89+G3xV8AfF7RrzxB8OdXXWdPsLyXT55UjliCXUKq0keJUQkgOpyARzwetehUAFFFFABRRRQAUUUUAFFedaf8AFn4e6p8S9T+D1hrCy+MNHs11C7sBFKGitX8vbIZCgjIPmpwHJ+bpwcei0AFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAH/9f9/KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD8sv23vGmjfDv9qP9njxrr6zSWOktrMrx20TTzysUhVIoo15aSRyqIO7EZIHNd74m/bG+N3wvitfG3xn+BN74Z+HtzNFFLqUGrW9/eWKzHaklzaxKCoYlRtYptJ27mchTyX7YuoeHtK/a+/ZjvvFDRpp8d/fgtLjYkzPbrAxJ4G2YocnpjOR1r6n/AGx77QtP/Za+J83iJkW1fQ7uGPzMYN1Mnl2oGf4vPZNvvigDQ+Nv7R3hD4OfDvSPHcNtN4om8VT2tpoFjp5Bk1O5vV3QLG5yFRl+Yvg8YABYhT4N4g/at+Onwik0zxH+0F8IIvDfgjUbmC1uNU07WYdRk017htqG4hRAWUH
+
+
+
+---
+*Source: Document 8c3ce8993066f857adca061d250e2c68*

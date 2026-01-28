@@ -1,0 +1,31 @@
+---
+id: 5f0a12f4-377f-461c-8938-049c59f7ce49
+type: insight
+created: '2017-10-19T23:15:11.000Z'
+document: 18dc3a996dd053a8e2f8b89fa16c3840
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - zcxqb5jaxubijhc24u4mgd5xxm
+  - mhtvlu8btsawawggaagtacegcynm2htvogcyfgp1
+  - dxafhtikcf0cgaoso7znfbjrttfbyheakbashdhpptjh71fmoj6z7ne
+  - >-
+    weyffvzbkwnu7id4xim1ivifoyeaeggsagzozvimoi8zqonaeccsialygy9wdlqc1pw3cijenzu9ipqwiylumpmxdz796ykb6fj0euxkvbbur5wf1hpy7l9vhizlwwucqmxaopbhihxfrihgofnngrca54wbqgibiolzjgo9alrjvcm6wam1s
+  - 0bahsibypi98iykf9jzewriolivrfmckyyocykcrggz2oab2ooaii5mhssfzjred
+---
+# ZCXQb5JAXUBijhc24u4mGD5xxm/mhtVLu8BtSAWAWggaAGTAcEgCYnm2htVOgcYFGP1+DXAfhTikCf0C
+
+## Context
+From document: L-day IN A CHAR — chunk 341 (chunk 341/966)
+
+## Content
+ZCXQb5JAXUBijhc24u4mGD5xxm/mhtVLu8BtSAWAWggaAGTAcEgCYnm2htVOgcYFGP1+DXAfhTikCf0CGAOSo7znfBJrttFbyhEAkBashdhppTjH71FMOJ6z7NE+WEYFfvZBkWnU7ID4xIm1iVIfOyEAeggSAGzOZViMOi8zqOnAeCCsIAlYgy9WDLqC1pw3CIJenZu9IpqwiYLUmpMXdZ796YkB6fJ0eUxkVbBur5WF1HPy7l9VHIzlWWUCQMxAOpBhIhxfRIHGofnNGRcA54wbQgibIOLzjGo9ALRjvcM6WaM1S/0BAHsIBYpI98iyKF9jZewrioLivrfMCKyyOCYkCrGgz2OaB2OoaIi5mhSsfzJReD+wXlnjrN8rRIS09/ATFJwu1PuS/sfofcF5ofH+Zi1BKEBOkBkAUdalc0M/kCmspV69gVk7jPlca8d1eJZ/yGDbvHmzq3FDPRIa3+X43EMoBtFN6+7usmnFE23DgXbbtf+I3X333e758B+OCxk2QtkKu/sy7dNz54oof8Ruv/32cBP/20fAR8BH4LKJwOmP/8tmvH6gPgI+Aj4C74kAXozY/vBlMz8/393w4UNLgacP2h555BFn0fO1r33NeSUPpz8IgN7eXt20SokkhRw3oyguz2xlZWX2ox/9yPnk/u53v7M/+7M/c9s+9NBDri4A+69aterM3d73bwgQbny5wcXj2atU3jdc/kUfAR8BH4FPXARQbePjjj87n08otOcK3ICYpgHu8gOhzE9CYoID7VHeUxQYkBubH2oB4JtfJ2V7ntTrFPFtEzhep8K5KbK6qZFaHyIAZT9gP0WDUfBDALBtsrZpoKCugH3IAYnpXYMUyBRhwDGqVGQXv34yCjg29kBDgX62bVFh4iSB4DHZ49DnhbQ0gfN98tTHxihFYH1Xf7vG0W5Z/SItkgus+DSpgSXOvq5DykBId/NqUcFdiAOyHiaoWHCVwH0yA6htsLl9p92QdeXpwwv5Qk2ftkh/i7DorLRdUv3vFzA/tnW9XaV4PSxLoWsyyhSLLhtJYeTeYwKF+61RdkF1HeV2kKLIUvg3iRAYjM+SerjORukcHFfMtus46cpcKNHzgrv1Wa/gUQOg6Ql5rtxig12H9dwOIV9C4WQ15DIZGBnbafzUIXBkQGJ+QAAkFQbg/9vEBxufvaHs5z4HggiAjXXDfQeZ
+
+
+
+---
+*Source: Document 18dc3a996dd053a8e2f8b89fa16c3840*

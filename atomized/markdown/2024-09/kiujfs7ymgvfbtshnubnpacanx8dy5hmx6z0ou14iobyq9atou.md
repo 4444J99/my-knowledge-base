@@ -1,0 +1,31 @@
+---
+id: da781ccd-4eda-42eb-a33c-91f1c609dca5
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - jfs7ymgvfbtshnubnpacanx8dy5hmx6z0ou14io
+  - byq9atoulatxbafsw
+  - dgyg1jnthrjvtnm
+  - 6yzvgij39fab7ozmpol6a1d6r
+  - >-
+    brlwywjnmdkjvzhd2sjo0yfb9mnlgy8pkgurhg6kn17brixtj6bfxwtiyvpxyw9lglwtk9idbugomczs1os2jjhlgvxemovxytidk61gqv0i5kbgduqm9psejqyklnc0ei665sqgihpnvdob17ysbuljdmcbwxiuw1g26nwdnlgzarm8zbyuzrlk0iioe
+---
+# kIu+JfS7YmgvfBtsHNubNPAcAnX8dy5hMx6z0Ou14Io+byQ9ATOuLatXBAfSW/DGyG1JnTHrjvTnm+6Y
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 4843 (chunk 4843/11534)
+
+## Content
+kIu+JfS7YmgvfBtsHNubNPAcAnX8dy5hMx6z0Ou14Io+byQ9ATOuLatXBAfSW/DGyG1JnTHrjvTnm+6YzVgIJ39faB7ozmpoL6A1d6R/BRLwYwjnMdKjvzHd2SjO0yfB9MnlGY8pkGurHg6kn17BrIxtJ6bfxwTIyVpxyw9lGLwtK9iDBugOMcZs1Os2jjhlgVxeMoVxytiDK61GQV0I5KbgDUqM9PsejqYkLNc0EI665SQGihPnvDOb17ysBULjDMCbwXiuw1g26nWDnlGZArm8zBYUzrlK0iioE/Cmx1fmx+j3YYvrrgreLJCzs+ico562tsFvU/Q0xxxuSe+fo9iiONIYdKcaoDiMtq9OgVxeeuMKgtNCiU1HnfTJaV5iB8i5h1t6rJnsSj+cJ5q2AjnAPBmxVh025AnFEbSbDB0Ut6wx5d1jKqGhkZ7xpTM8EpDLUs9cXoEcx8saA9E5I+MugmcbcV3bAW9Z0bQFyBl/3gX5rKI77OvkuRKANMJstIuJpcKsoLIQ6E5nCXeRMr51QH1mDNvCqCuOYpq1nXMbYy8CctaBNR7cBIm1JQY8awGnYQQw0315d4PfKB5fjhwMGINPhLWgRwebhW1tA9I2AzkoacxuZeSW2loBujP7OuDN4DRSWuea0VsH+CCPkT098cmrG2vyuperwe7QIwa4ivTeUJ2R0hM3M0aebQYYhL7IYWwFsQA2k8fsZh92QLVSJ6E4AnjmuEjeizJYK0oAM0V37ixpqHetLThNYq0TazHLwMaANInVWTQCfgQrjglQgXI8yw/3FQvJtdgOOeuAajUP6CV4iVYJIoID72U1USWAW23RKFJyYrdag8EiT3cX50hJC6iyW/rmqEn1JJxgARh8kLF5wksUWwRFGutmNa6DnSV0QVjI6snBrZPuofXk+2m63DZ58l2yngR4xjyu3K61eviTEhkaoaHRxkB01s1d69aA+Kr1Y611tpVQhvXys8Ys7QUH1gCD4RhJo4xmu3JFRR0J6tB947GgnlG8rBqshRKICyPtpZBsWYGQRWLkFlVinN21QGK4CowueMOs6BXdYZaUBJ8w6+7l5hHDc4OGqrLO6rPA/qN52aUoR2X6Vwdydt/IwWA/7AUkxvfEOEj9DurrqrOtkDzprhLSw8h5oDjj7Lq5mshhwfEXBKu7L/D9x09n60pM8Fjf6VobRFjL
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

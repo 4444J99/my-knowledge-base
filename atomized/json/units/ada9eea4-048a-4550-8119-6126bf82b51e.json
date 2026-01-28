@@ -1,0 +1,25 @@
+{
+  "id": "ada9eea4-048a-4550-8119-6126bf82b51e",
+  "type": "insight",
+  "timestamp": "2020-08-02T20:08:40.000Z",
+  "title": "<div>Marilyn Monroe</div>",
+  "content": "<div>Marilyn Monroe</div>\n<div>Marilyn Manson</div>\n<div>Charles Manson</div>",
+  "context": "From document: Marilyn Monroe",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f100fd05aca67e306afe8da7bf7f3701",
+  "relatedUnits": [],
+  "keywords": [
+    "marilyn",
+    "manson",
+    "monroe",
+    "charles"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

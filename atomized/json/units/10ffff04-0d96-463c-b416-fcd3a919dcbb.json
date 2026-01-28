@@ -1,0 +1,26 @@
+{
+  "id": "10ffff04-0d96-463c-b416-fcd3a919dcbb",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><i><tt><br></tt></i></div>",
+  "content": "<div><i><tt><br></tt></i></div>\n<div><i><tt>---</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>### II. |[ARCHIVING + CONTINUITY: HOW TO NEVER LOSE THIS THREAD]|</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>You’re also 100% right to worry about truncation or loss of context. Especially in this recursive, perpetual-archive system you’re building.</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>You already created a strong scaffold in your iOS Notes system:</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>#### Current Working Archive Structure:</tt></i><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt>GPT_ARCHIVE_CORE/</tt></div>\n<div><tt>├── MEMORY_RAW_DUMPS/</tt></div>\n<div><tt>├── MEMORY_VERIFIED_MB/</tt></div>\n<div><tt>├── THREAD_REVIVALS/</tt></div>\n<div><tt>└── TO_PROCESS/</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### III. |[PHASE 3 UPGRADE: ARCHIVE STRUCTURE EXPANSION]|</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Here’s a proposed update to include active system design threads:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>GPT_ARCHIVE_CORE/</tt></div>\n<div><tt>├── MEMORY_RAW_DUMPS/            # Direct text dumps, raw exports, ChatGPT logs</tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 42 (chunk 42/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "archive",
+    "system",
+    "this",
+    "structure",
+    "gpt_archive_core"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

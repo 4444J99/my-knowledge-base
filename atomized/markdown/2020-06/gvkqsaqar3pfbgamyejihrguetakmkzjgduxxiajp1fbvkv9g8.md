@@ -1,0 +1,32 @@
+---
+id: 044b231b-fc62-43f5-8944-f2899e4eab47
+type: insight
+created: '2020-06-04T17:55:09.000Z'
+document: 7838224ece3cf674d11a18091884392f
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - gvkqsaqar3pf
+  - >-
+    bgamyejihrguetakmkzjgduxxiajp1fbvkv9g8zntfc0piayarzvhwncvuhdjnnpvmjno3p60eyg70gurmchihempgnxnstngtml86nubtuplqgqa5zt6imq5xtvmwkowwdlyqthgm0zzox1pnj58frqkxifxsewpwojcxetktxgxwvwglbtyn7viyb
+  - >-
+    tl5o24qnrinohokb2i7ezt7qew6cmhqfaaqcpk5zuyu7dewcu37da7v9yv5igvkwau2kzd3u9kgfulmctki
+  - 8cfmxutpzzcxd
+  - wcnawliqetpqk2sav937xdn
+---
+# gVkQSAqAR3pF+bGamYEjihRgUEtakMkZJGDUxXIAJp1FBVkV9g8zNTFc0pIAyaRZVHWncVuhDjnNPVMj
+
+## Context
+From document: Music Intervals — chunk 40 (chunk 40/140)
+
+## Content
+gVkQSAqAR3pF+bGamYEjihRgUEtakMkZJGDUxXIAJp1FBVkV9g8zNTFc0pIAyaRZVHWncVuhDjnNPVMjNO3p60eYg70gURmChIHempGNxNStNGTml86NuBTuPlQgQA5zT6iMq5xTvMWkOwwDLYqTHGM0zzox1PNJ58frQKxIFxSeWPWojcxetKtxGxwvWgLBtYN7VIyB+tL5o24qNriNOHOKB2I7ezt7QEW6CMHqFAAqcpk5zUYu7deWcU37da7v9Yv5igVkWAu2kZd3U9KgfULMctKi/8CFMXUtPzzcxD/ga/wCNAWLIQetPqk2saV937XDn/rov+NRPrGlJ9+9hX6yKP60DNAKAc0hQE5zWWviHQs86jbDH/TZP8aY3iXw8rHdqdqP+26f40BY1TED3p+3jGawz4s8Mx8tqtoAehM8f/wAVUR8YeFAOdZsv/AiP/wCKoFZHRAYGKY8Ydgx7VgDxj4SHP9tWX/gTF/8AFUjeNPCR/wCY1Yj/ALeYv/iqExnQlAce1AQetc7/AMJp4PTl9csQP+vmL/4qmN438HZz/blhj1+1Rf8AxVAWOmK7qTyx61yx8d+Ch18Qaf8A+BcP/wAVTv8AhYXgNeD4i00f9vcP/wAXQKx1O0YxSBQtcafiR8Pw2D4k0wf9vkP/AMXTj8R/h8T/AMjLpg/7fIf/AIugZ2ijJxTtg9a4c/E74dqcf8JNpn/gbB/8XUJ+KHw3wXPinSwPe9g/+Lp2A7xoge9MwQfavPz8WPhgq7m8W6QB/wBf9v8A/F0ifFz4WE/8jfo//gfb/wDxdID0AoCc0Fc15+3xg+FHT/hMNH/8D7f/AOLpo+MPwnXk+MdH/wDBhb//ABdAHoRXIxTwmFzXmx+NPwkBx/wmOj/+B9v/APF00/Gz4RqMnxjpGP8Ar/t//i6GgPTFXdSsuBXlp+OXwgH/ADOOkf8AgdB/8XTf+F6fCA/8zhpP/gdB/wDF0AeqBflzSp3rydvjx8HlOD4w0rj/AKfYP/i6qT/H/wCDaED/AITDSzn/AKfIf/i6APX1QbjzUpGFxXjK/tAfBsMP+Kw0v/wMh/8Ai6d/w0J8GDwPGGl/+BkP/wAXQB6/SKg3da8Yn/aM+C1uQJPF2mHPpdwn+TVC37SHwUPA8Xadn2uYv/iqrlYHthQb800RAHOa8Ml/aY+CMWd3i2w+X0uIz/7
+
+
+
+---
+*Source: Document 7838224ece3cf674d11a18091884392f*

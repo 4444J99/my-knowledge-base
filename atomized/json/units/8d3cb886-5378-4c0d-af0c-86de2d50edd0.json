@@ -1,0 +1,26 @@
+{
+  "id": "8d3cb886-5378-4c0d-af0c-86de2d50edd0",
+  "type": "insight",
+  "timestamp": "2018-04-13T15:10:17.000Z",
+  "title": "<div><b><u>Pyrotechnico</u></b></div>",
+  "content": "<div><b><u>Pyrotechnico</u></b></div>\n<div><b><u><br></u></b></div>\n<div>New Years Eve - Paid </div>\n<div>Marlins 04/13 - Paid</div>\n<div>Marlins 05/12 - Paid</div>\n<div>Marlins 06/29 - Paid</div>\n<div>Fourth of July - Paid</div>\n<div>July 14 - Mission Impossible,</div>\n<div>Marlins 07/28 - Paid</div>\n<div>Marlins 08/11 - Paid</div>\n<div>Marlins 08/25 - </div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: Pyrotechnico",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "7b4637b1e8c6263ec02f094cff8fc17e",
+  "relatedUnits": [],
+  "keywords": [
+    "paid",
+    "marlins",
+    "july",
+    "pyrotechnico",
+    "years"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "74b5c7b2-0c43-4bac-9c78-c5b00d484737",
+  "type": "insight",
+  "timestamp": "2022-01-22T14:39:03.000Z",
+  "title": "<div>Two people sitting at a table, and upon ordering, one signals to the waitre",
+  "content": "<div>Two people sitting at a table, and upon ordering, one signals to the waitress that they’ll be sharing, and then orders two meals. That's not sharing. Sharing is one meal. </div>",
+  "context": "From document: Two people sitting at a table, and upon ordering, one signals to the…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "b39d5d6ab230ac61cd32ebc911534363",
+  "relatedUnits": [],
+  "keywords": [
+    "sharing",
+    "that",
+    "people",
+    "sitting",
+    "table"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

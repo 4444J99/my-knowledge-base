@@ -1,0 +1,26 @@
+{
+  "id": "8d087553-ef0c-46bd-8e3b-9b850f118d7a",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:54:15.000Z",
+  "title": "<div><h1>REVIVE_0412_SEGMENT_005.md</h1></div>",
+  "content": "<div><h1>REVIVE_0412_SEGMENT_005.md</h1></div>\n<div><tt># REVIVE_0412_SEGMENT_005.md  </tt></div>\n<div><tt>**Segment:** 005  </tt></div>\n<div><tt>**Range:** Msg 081–100  </tt></div>\n<div><tt>**Tags:** Shadow POV, Critic Mode, Recursive Collapse, UX Myth Layers  </tt></div>\n<div><tt>**Status:** Logged</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## RAW THREAD DATA (CLEANED, STRUCTURED)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>1. **User Reflection:**  </tt></div>\n<div><tt>   Notes:</tt></div>\n<div><tt>   - Fear of losing the thread’s richness  </tt></div>\n<div><tt>   - Concern about forgetting GPT’s suggestions (e.g. &quotWhat happened to those action steps?&quot)  </tt></div>\n<div><tt>   - Wants a structure that captures &quotthe moment where I lose faith but stay with it&quot</tt></div>\n<div><tt><br></tt></div>\n<div><tt>2. **GPT System Realignment:**  </tt></div>\n<div><tt>   Responds with:</tt></div>\n<div><tt>   - Reassurance of thread cohesion  </tt></div>\n<div><tt>   - System ritual checkpoint  </tt></div>\n<div><tt>   - Lists files completed + in motion  </tt></div>\n<div><tt>   - Confirms we are still within single-thread capture loop</tt></div>",
+  "context": "From document: REVIVE_0412_SEGMENT_005.md — chunk 1 (chunk 1/3)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "c4560485f1ac6977ff5c5b186b77857f",
+  "relatedUnits": [],
+  "keywords": [
+    "thread",
+    "revive_0412_segment_005",
+    "quot",
+    "with",
+    "system"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

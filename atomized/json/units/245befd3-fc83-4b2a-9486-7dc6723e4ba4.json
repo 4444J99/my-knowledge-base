@@ -1,0 +1,26 @@
+{
+  "id": "245befd3-fc83-4b2a-9486-7dc6723e4ba4",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Has requested to stop generating full documents unless explicitly stated. They want recursive outputs delivered as exhaustive, step-by-step responses instead of publication-mode documents.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Is expanding RE:GE_OS to include additional system layers: Chamber of Commerce, blockchain and economy modules, analog vs digital logic, protocols for commodifying and monetizing the creative process, audience/community-building infrastructure, time regulation rules, and symbolic place protocols (e.g., HERE, NOWHERE, MAIN_STREET, MULHOLLAND_DRIVE).</div>",
+  "context": "From document: MEMORY_DUMP_RAW_051425_MASTER — chunk 3 (chunk 3/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "5e4feb3febe2be13a91fd74e828ebc64",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

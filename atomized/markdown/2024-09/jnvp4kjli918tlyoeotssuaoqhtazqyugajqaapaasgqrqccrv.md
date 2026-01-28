@@ -1,0 +1,32 @@
+---
+id: 5b530b00-324f-4f46-90cc-73c459abf81c
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    jnvp4kjli918tlyoeotssuaoqhtazqyugajqaapaasgqrqccrvaackabkaafelsgudgtfv3gcwvxyjtytlqgnd7wrgfou3j60yzwzkht85wnfx0qhynzrzr7mvy8dosaejxjvlhs5
+  - zstxhghlq7ajot0
+  - jnjm45grvo3zf6zurkxigucyplegiazjaspj
+  - n9lx0ie7gclbxo0z0h9co7x0
+  - >-
+    ipdmqu47h4swe9kqtdnkh2zvx46bhygabaaafiacuccraj0gz7hpuaakqaeose8fsiocrndw7gddcvqwbropmju
+---
+# jnvp4KJLi918tlYOeOTssuAoQhTAzQYUgAJQAApAASgQrQCCrVAACkABKAAFelSgUdgTfV3GcWVXYJTY
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 5612 (chunk 5612/11534)
+
+## Content
+jnvp4KJLi918tlYOeOTssuAoQhTAzQYUgAJQAApAASgQrQCCrVAACkABKAAFelSgUdgTfV3GcWVXYJTYTlqgNd7WrGFoU3j60YzWzKHt85wNFx0QHYNzrzr7mVy8dOSaejxjvLhS5+zStXHghLq7Ajot0/jnjM45grvO3zf6ZurKXIgucYpLegiAzjasPJ+n9LX0iE7GcLbXO0Z0h9cO7x0+iPDMqU47H4SWe9kQtDNKh2zvx46bHygABaAAFIACUCCRAj0GZ7HPUAAKQAEosE8FsiOcRNdW7GdDCvQWBRoPmJU/osyIjkLfG6Aui4tOJMX82pxMzxzuP8+hxHrGchk5a/MvjbxlLnWYQ9eWyksHUOeOysovmQ/OEZQ1IjpnONeSf86W4vJr9nMIw3L8XKQHc+dWPaLb8M/NZ9SjwUVnQ3LyvAhEd3zt+P7xNqOL7nA8HB9O/3WlaI2cgOgOe0dZvXVGXT8v3DhBASgABaAAFIACGRTYZ8AXRw0FoAAUgAItK9AQ7Mlw5cXRZVGgz0hIeZQ16jsGIjoKXp+D2fYaD4sb6/Ygu2EuhebN5RnC2WtGOEcjZm2iOeEm2nYULehOB+XWbR6IjnCLNelleVBH8Kk89Gr/Hc1YLo1zLi2cawnREXTXlzRKpbH0RnR6OEeu4g1EZ4BzPikuX7j4nYvrOakljT/nPwqdDdGFprik9T52/MbxmwY4R9AuEs+JbQPRAdENpwBuiqAAFIACUAAKQIHMCrQcqMW+QQEoAAWgwH4UyAJvMl9Dsc/VFOgTy9FjyqOislrHVQTREcAzwjkKoBsgnDHsPi9vhnM8lG/Hc+e5HYM6B0QHUFcX4G3BuTSILpVzLgbOEYpesDX7S8DbWp5/jXKN/6LluvEsYYBzdC4yP1hQF9HJ/rk2EB3BucyI7g7OIdGlqyur587cvo4RN1RQAApAASgABaBAcQX2Ew7GkUIBKAAFoEAtBaqhneJXVRxpMgVGieTUQlljvu/hAETHkmF2jOicvXS1QB0BqLqQrPy7u2G5zHDOc+Q57uBcezvp1bZblEG5tf/UCufo1yeDOfFaBnIqmPdFdGY4R3P0iG7DPzefS3OkuPRAdHcpLnO46DLDOUqOCUQ3nHtslK5nLFDE7RMUgAJQAApAAShQVYFaoVu8LxSAAlAACoynQDJUU/XKiKMoqsCIsZExUdlD
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

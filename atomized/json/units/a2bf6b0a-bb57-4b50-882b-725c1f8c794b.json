@@ -1,0 +1,26 @@
+{
+  "id": "a2bf6b0a-bb57-4b50-882b-725c1f8c794b",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>Build RECURSION_ENGINE/ folder; implement a visual sort &amp search demo in",
+  "content": "<div>Build RECURSION_ENGINE/ folder; implement a visual sort &amp search demo in Python.</div>\n<div>• Python Jupyter Lab </div>\n<div>• Obsidian canvas for flowcharts | | M1.2 – UID Constitution | Your own UID_Constitution_v2.md | Auto‑generate UID folder tree for 5 demo files. | • Bash/PowerShell UID script | | M1.3 – Symbolic Grammar Basics | Metaphors We Live By (Lakoff &amp Johnson) | Draft SYMB0L_FUSION.md for two simple metaphors → code comments. | • GPT prompts for metaphor expansion |</div>\n<div>🌒 PHASE II — CANONICAL COMPUTER‑SCIENCE CORE</div>\n<div>Module</div>\n<div>Required Reading</div>\n<div>Project Checkpoint</div>\n<div>Tool Integrations</div>\n<div>M2.1 – Algorithmic Depth1. CLRS – Introduction to Algorithms 2. Sedgewick &amp Wayne – AlgorithmsImplement Dijkstra + Union‑Find as callable library in PROCESS_NEXUS/.</div>\n<div>• Python / Rust playground</div>\n<div>M2.2 – Recursive Language &amp Logic3. SICP – Structure &amp Interpretation 4. Gödel, Escher, Bach (Wave 4)</div>\n<div>Create KNGB0202/MIRROR_CHAMBER/ with a self‑referential markdown renderer.</div>\n<div>• Scheme/Lisp REPL</div>\n<div>M2.3 – Operating‑System Grounding5. Tanenbaum – Modern Operating Systems 6. Hennessy &amp Patterson – Computer ArchitectureDraft kernel‑module map (KERNEL_spec.md).</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 376 (chunk 376/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "python",
+    "folder",
+    "demo",
+    "metaphors",
+    "computer"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

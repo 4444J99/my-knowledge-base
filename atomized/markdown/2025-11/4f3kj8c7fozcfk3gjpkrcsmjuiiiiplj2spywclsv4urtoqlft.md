@@ -1,0 +1,32 @@
+---
+id: f2050ee0-4bc4-4702-bd31-00cdc616898b
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    4f3kj8c7fozcfk3gjpkrcsmjuiiiiplj2spywclsv4urtoqlftlsnob7kz2a9j5zludlogmky2zcyaolq26r
+  - >-
+    krnlaflwk2cgmsbhqmkw562irulg8thina9i81mhsu0rhciqvtxqwkquud2mm3zv6inky8alvfpwf6t87dybnvxo4qxxsvyqysdll8chiekzeyzwxhgqlxcca994xavgaiwssq6998n1p68fhkxyv0rg2rzlk1ptmma1orzdpyiuvvu
+  - 2xh8irtv
+  - kr9yns4lxlxynzjlyzxfo16wcd2sa4c
+  - lhpfxahocwict1mpb8f8j8bx
+---
+# 4F3KJ8C7FOzCfk3GJpkRcSMjUiIiIpLj2sPyWCLSV4urtOQLFtLsNOB7KZ2A9J5zludLOGMky2ZCyaoL
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 1559 (chunk 1559/11629)
+
+## Content
+4F3KJ8C7FOzCfk3GJpkRcSMjUiIiIpLj2sPyWCLSV4urtOQLFtLsNOB7KZ2A9J5zludLOGMky2ZCyaoLq26r+krnLaflWk2CgMsBhQMKw562irUlG8ThInA9I81mhSu0rHCiQvtxQwkQUUd2mM3zV6inky8ALVfpwF6t87dybNvxo4qXXsVyqySDll8chIekzEyZWXHGQLxCCa994XaVGaiWssQ6998n1p68fHKXyV0Rg2rzlk1pTmma1orzDpyiUVvu+2Xh8irTV+kr9ynS4lxLxYnZjLYZXfo16wcd2SA4C/lhPFxahOcWIcT1MPb8F8j8BX+Fzi/rC/CgcbCyw17XxwautBnfzOwd9M1ai3XT101/k//1ebyoxYUVoalMDRYKIc5b8RHvQq6d0NfuOirdXDVXzEhvFBZbbnrZ42VyoEV5NGbF2FLj3bxu6/zhekVyY3+w/QSjZOztXum0CjE2IqCxsPwoR01Tyb+MtIgMjKRYaAQqPn/AQfqJceCuA7sO6ooc2+GfzM6yOQ27O5ZsUDK4X4gcQlErAEJTZ96ceTPw1ro5BNzvcjCcJdA44NlR0jZmxy0J8UeFhoCXX9BSld9D2ZICL8hrfRgWWGUvkIUip+63nddn3rp56+NmEIhXMIiyJHqBwMx6heq1qV9w5s6Z42aWLn6keLaik5EN+GbqaKIYFL+Rflt8a7Rd0LZj+y/wR7cpMkmSxvolFf7PHa8E20JVnap0YifB85PUImvKDSxTvl4T/vPlSc77LPYFxkahf3GR03MRo0G8RPg/xSqcH2s71nZMVRnvuIX/Q7KJtVTyNYKfORJLRUNaya0c28BqpKtpX8Dn30v/cuCfxAHDP4mYvyUtZNiEedMNHMJtTS2VrSaCZdlZwJCr/L4qSVEp0Y+jBwnjrrt9MIcA/vQWrJncsgkNJaNGHmcHhByVsjgiAOa81ud5OmHCVdEw/Hd5xamQvjte/nj5E0/rPcPq+06LOhV0WbR0wxKPZQ9fp79Of9OAMIRp52fRDLxGaK/X3svLrSi3/CGG9y65XMI797ACmnfP0GxRw8XDFnXGetcZFVvyRkOmHL5+cG7oTSbWomM1Ot4nfMBs/zbPbZV/HNwpvvMi5/i1A9aV3zAA04avL9PwmUrvCoVUHPEeOQq3hVLhpIG7wAANaLridK6lZYtz6FbNa96enA58+HFt
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

@@ -1,0 +1,32 @@
+---
+id: b8ac6d8b-0838-4bf4-9ceb-3a7d7fb71b5b
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ymmu5m02vwwyj1ftymt4mesiktrrtpvwabtitoz88tjpixhk6c3no3x1b8bo
+  - cy8vaqp51ymn2estgb8a4lfpf56e54u4febjm
+  - >-
+    qw0wznrjhp2p30jifwqmgtz6fsry7bidqtimxm741dzdww15ngsfjnhk83kvmb4xnb04wipadqkczpcpxk2whpxqy
+  - iadr0xmmrysv
+  - >-
+    bzi8svnuqj2atsk8sqbpjbozv2f7cbiqkhsjxgpqvj1eyvjhpumircgfurop0keecetckkdbhjhkwpvz0onfkgt1zzw4up58pjwnqgp2fnkj1hggf
+---
+# ymMu5M02vwwyj1fTYmT4mESikTRrtPvWABtiToz88tjpIXhk6C3NO3X1B8BO/cY8VAqp51yMN2EstGB8
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 12252 (chunk 12252/18928)
+
+## Content
+ymMu5M02vwwyj1fTYmT4mESikTRrtPvWABtiToz88tjpIXhk6C3NO3X1B8BO/cY8VAqp51yMN2EstGB8a4LfPF56e54u4febjM/QW0WznrJhp2P30jifWQmGTZ6fSry7BIDQtImXM741dZdWW15NgsFjNhk83kvmb4xnb04WIpaDqKczpCPXk2WHPxqY+Iadr0xMmRYSv//mB+BZi8SvNuqJ2atSk8sQBpjBOZv2F7CBIqkHsJxGPqvJ1EYVjHPUMircgfuROp0kEECETCKKdbhJHKWpvz0oNFKGt1zZW4uP58PjwNQgp2FNKJ1HgGf/v/nacHavox7D2Z3O/TGbb6TSr07Oyp6WGplGEP5YPmbB5xIjLz3C/O1bk8Cp36V5bzTPu9CbYj6JUslM9Zp+Y+VhBTfRfDczIVQaWoANOSl2wPxs2Pq9vsszPzYK7w2zU/0X75mINLDTC4sgn9jBe3MPePdfD88e8qwM/udk2Uy+WOGnMHWkYPdDXqYA4zFMSh6PpoL/6hRRsLmbTVswC1DtniXkGTr7pj5/C7LUC3P+O3sVmOBLvLLoUXYfkoskdpKlWh4K0fN9F2z/nYnsBHjYVKWNloLJwuVxXokE0OHTPfQ3Dw1kT1eNN/ha5cMZMJ+NTAqz30wFudJNb8M5ucJjTE3hZ7dbfzmn24i/BJ+o+ETHibZqzr2Ns41g9mYUcy26AUo9/W9t9g/zXtmVos+L6wLJW85sxcbmkp3fWJlBsE7tS/ms2mquZbWkDrzaK0mwtYCTbgVchM4rI2mdS2y0whk1lSkyV0/NHWcGGXw0woAqz1oAsfiNYTZTA7AHZMOuqhNgtkz62KzjZj83T1Xae0BNmNneVObvJZ7NbE7zOPXXMEaGZn3WTCJnP2fbk1R6EGNOGJbwXd+VWiIpc9/nywSeRZ7tZE4MGH5lPyIDuR2bDenrqJQ415aJGBbxZaPSPM7SwOcLyjvpuwoTtReaM6Lw6R5FJcYAGdg7W5+/eDCwRRtiKGQ6bACp//FOJLaSkpe3nO6/wV+jxVzZV7x6ezXKsYRkCdZpjFJj692H+l0pLlICHWVmeXgegJPakFojm+fceKkKPS5N4RmF3eGlsw/O/LYOSbzht0cGz0OV35pS3pJUlDAhZvq/gGsXSepp5mYU8nxr6mtBHsIx9BY/KUpeY7JA0e5s6+n/fzTNMEWZ
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

@@ -1,0 +1,26 @@
+{
+  "id": "a462d478-4b2a-41cf-a626-de218cb398a0",
+  "type": "insight",
+  "timestamp": "2025-12-24T04:19:51.000Z",
+  "title": "<div>Critique &amp expand; merge commit into Main; preserve functionality; </div",
+  "content": "<div>Critique &amp expand; merge commit into Main; preserve functionality; </div>",
+  "context": "From document: Critique & expand; merge commit into Main; preserve functionality…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a53eacd7acbf248721cfd5d61f5e8243",
+  "relatedUnits": [],
+  "keywords": [
+    "critique",
+    "expand",
+    "merge",
+    "commit",
+    "into"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

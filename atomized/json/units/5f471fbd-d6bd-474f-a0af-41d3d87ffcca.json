@@ -1,0 +1,26 @@
+{
+  "id": "5f471fbd-d6bd-474f-a0af-41d3d87ffcca",
+  "type": "insight",
+  "timestamp": "2025-02-12T19:07:35.000Z",
+  "title": "<div>22 to &gt18.0 pts</div>",
+  "content": "<div>22 to &gt18.0 pts</div>\n<div>Developing</div>\n<div>Information sometimes repeated and/or wanders from prompt/task; may contain inaccuracies. Examples/explanations are incomplete; lacks detail. Prompt/task/topic inconsistently or not adequately developed</div>\n<div>18 to &gt0 pts</div>\n<div>Beginning</div>\n<div>Information inaccurate, inadequate or omitted. Examples/explanations unclear or missing. Prompt/task not developed or may not be addressed</div>\n<div>30 pts</div>\n<div>This criterion is linked to a Learning OutcomeStyle</div>\n<div>20 to &gt18.0 pts</div>\n<div>Exemplary</div>\n<div>Rich, accurate vocabulary. Engaging tone is appropriate for audience. Varied sentence structure enhances the meaning and flow of the writing when read silently and/or aloud</div>\n<div>18 to &gt15.0 pts</div>\n<div>Accomplished</div>\n<div>Clear, accurate vocabulary. Tone is appropriate for audience. Complete sentences with some variety allow the writing to competently flow when read silently and/or aloud</div>\n<div>15 to &gt12.0 pts</div>\n<div>Developing</div>\n<div>Basic or inaccurate vocabulary. Tone is inappropriate or immature. Awkward, simple, or incomplete sentences with little variety detract from the flow of the writing when read silently and/or aloud</div>",
+  "context": "From document: Weeks 1 - 6 Canvas Data Dump — chunk 184 (chunk 184/188)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1b21c03b1f1909954adca118a79b0158",
+  "relatedUnits": [],
+  "keywords": [
+    "prompt",
+    "task",
+    "vocabulary",
+    "tone",
+    "flow"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

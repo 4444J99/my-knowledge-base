@@ -1,0 +1,26 @@
+{
+  "id": "8fa21c89-380c-4a61-8bf5-864587b31301",
+  "type": "insight",
+  "timestamp": "2018-09-18T14:44:51.000Z",
+  "title": "<div>Don’t play all sounds in unison when recording</div>",
+  "content": "<div>Don’t play all sounds in unison when recording</div>\n<div>Subtract some sounds and record, then experiment, create some rhythmic movement and polyrhythms </div>",
+  "context": "From document: Don’t play all sounds in unison when recording",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "caf70ab61a8d1d62a7b6efbe87d2570b",
+  "relatedUnits": [],
+  "keywords": [
+    "sounds",
+    "some",
+    "play",
+    "unison",
+    "when"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "9fcd8e94-adb4-4c4f-8b76-fa1d234a3e72",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:20:25.000Z",
+  "title": "<div>- **Ingests** from all three layers</div>",
+  "content": "<div>- **Ingests** from all three layers</div>\n<div>- **Analyzes** patterns, connections, evolution</div>\n<div>- **Synthesizes** consolidated documentation</div>\n<div>- **Generates** production-ready code</div>\n<div>- **Feeds back** insights to AI layer</div>\n<div><br></div>\n<div>**Structure:**</div>\n<div>```</div>\n<div>meta-cognition-hub/</div>\n<div>├── intake/</div>\n<div>│   ├── ai-contexts/          # Exported conversations</div>\n<div>│   ├── personal-repos/       # Links/submodules to your 39 repos</div>\n<div>│   └── org-repos/           # Links to 23 org repos</div>\n<div>├── analysis/</div>\n<div>│   ├── pattern-detection/   # Common themes across layers</div>\n<div>│   ├── genealogy/           # Lineage tracking</div>\n<div>│   └── gap-analysis/        # What's missing between layers</div>\n<div>├── synthesis/</div>\n<div>│   ├── consolidated-docs/   # Unified knowledge base</div>\n<div>│   ├── extracted-functions/ # Reusable code patterns</div>\n<div>│   └── integration-points/  # How everything connects</div>\n<div>└── output/</div>\n<div>    ├── production-ready/    # Code ready for org repos</div>\n<div>    ├── documentation/       # Generated docs</div>\n<div>    └── feedback-prompts/    # Insights to feed back to AI</div>",
+  "context": "From document: --- --- --- — chunk 6 (chunk 6/16)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "35fed1b2e2d94a09b13c5614aa5aa659",
+  "relatedUnits": [],
+  "keywords": [
+    "repos",
+    "layers",
+    "ready",
+    "code",
+    "patterns"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

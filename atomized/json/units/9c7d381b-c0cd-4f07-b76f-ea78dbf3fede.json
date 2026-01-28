@@ -1,0 +1,24 @@
+{
+  "id": "9c7d381b-c0cd-4f07-b76f-ea78dbf3fede",
+  "type": "insight",
+  "timestamp": "2025-11-20T20:02:50.000Z",
+  "title": "<div>export GITHUB_TOKEN=[REDACTED:API KEY GITHUB]</div>",
+  "content": "<div>export GITHUB_TOKEN=[REDACTED:API KEY GITHUB]</div>",
+  "context": "From document: export GITHUB_TOKEN=[REDACTED:API KEY GITHUB]",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "ef709902251d10570f3e7ef2fd9334b1",
+  "relatedUnits": [],
+  "keywords": [
+    "export",
+    "github_token",
+    "[REDACTED:API KEY GITHUB]"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

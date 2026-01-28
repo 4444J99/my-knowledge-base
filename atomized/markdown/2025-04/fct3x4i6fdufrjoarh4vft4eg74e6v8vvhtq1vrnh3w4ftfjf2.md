@@ -1,0 +1,30 @@
+---
+id: efdcb865-a36c-4d14-b3df-aece47e1cdd5
+type: insight
+created: '2025-04-29T15:24:31.000Z'
+document: 2f9acac7d1d9258c51751aaa4896b40d
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ct3x4i
+  - 6fduf
+  - rjoa
+  - rh4v
+  - ft4e
+---
+# f+CT3x4I/6FDUf/RJoA/RH4V/FT4e/G74e6V8VvhTq1vrnh3W4ftFjf2jh4Z4sldyMOCMgj8K9Ar8nf8
+
+## Context
+From document: Self-Mythologizing Fractal — chunk 53 (chunk 53/613)
+
+## Content
+f+CT3x4I/6FDUf/RJoA/RH4V/FT4e/G74e6V8VvhTq1vrnh3W4ftFjf2jh4Z4sldyMOCMgj8K9Ar8nf8Aghf/AMokvgX/ANi8P/SiavLv2qv+DhH/AIJf/si/E27+D3jvxnc654h02QxX9t4fs3v1tHXhklmBSHcv8So7FTwQDxQB+2dFfHv7G37e37KP7fXw/f4kfsseLbfxJZWzCO7hCvBdWjnok9vKqyJ7HG0/wk19hUAFFFFABRRRQB88/Er/AJLp8Of97Vf/AEmWvoavnn4lf8l0+HP+9qv/AKTLX0NQAUUUUAFFFFABRRRQB+WX/BSr/j48D/8AcS/9ta/P7RT8or9AP+Clf/Hx4H/7iX/tpX5+aMflArspfCB6HZn5RW5F6Vz9mRtFbsVaAacfSr0dZ8fSr0dAF5OMVcSqSGrkdAH3B8BtcXU/BQ01j+8sJGjx/st8y/1H4V7bXwH8K/Gf/CG+JFuLg/6JcARTj0HZv+A/yr7d/wCEo8Pf8/sP/fYrCa1A/9P+g+SqMlXZTVCXgV6AGJefd4rgNZ+6RXfXf3a8/wBZ+6aAP0G/4JpnNx44/wC4b/7dV+p9flf/AME0v+Pjxx/3DP8A26r9UK46vxAFFFFZgFFFFABRRRQB88/Db/kuvxG+ulf+k7V9DV88/Db/AJLr8RvrpX/pO1fQ1ABXgX7T37NHwh/a/wDgbr/7PHx00tNX8NeIoPJuYG4ZSpDRyRsOUkjcB0YcqwBHSvfa/KD/AILEfBj9tz4ufsp/bf2AfFl74Z8f+Gr+LVIoLKbyDqdvGrLLZsxGPmVtyjuygUAfjFov/BGX/gsh+wBFLpP/AATM/aR/tHwjbMz2HhrxSm6CBMltgEiz225s8lIEzX03/wAE7f8AgsJ+1jdftiL/AME2v+Covga38I/Ey7gM2iappy7bXU0RS2Su4p8yqSjR4HBBVSK86+F3/Bz58J/Cng+Pwn+2H8LfGXhD4h6VH9m1Kxg0yWeGW8i+V/KYL8qsQSAeleAfss2X7RX/AAWQ/wCCwfgz/gpFqvgLUfh78JfhDYPZ6LJqsZhudRc+dtG0gEkmd2OBhQFFAHpn/Bx9pemJ+01+yVIlvEGn8ajzCEXL/d+9xz+Nf0s/tH6bp+m/s3+OotOgjt0Oh35KxqEH+ofsAK/nx/4OXfg18bdS8P8AwT/al+EHhm78WQf
+
+
+
+---
+*Source: Document 2f9acac7d1d9258c51751aaa4896b40d*

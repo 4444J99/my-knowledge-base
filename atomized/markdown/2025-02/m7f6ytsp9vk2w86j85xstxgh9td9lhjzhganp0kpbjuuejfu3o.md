@@ -1,0 +1,32 @@
+---
+id: ca6bb006-0f5d-4704-a8bb-1eb328573195
+type: insight
+created: '2025-02-14T06:30:51.000Z'
+document: aa5afafaa5b4a9e35e1fe8ae7ee501fe
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 6ytsp9v
+  - k2w86j85
+  - >-
+    xstxgh9td9lhjzhganp0kpbjuuejfu3o9flwspzu7tbnw8aduuc96cftgucfjgtcfrgv9wcgnibhiryul57bd4es4jo9wipuqmxqbdlhkmq4lbbqk1omkroibaaayzatrarubcqcz4fzilcdhhjgi5np1xgho4df4gpqezgcx4pb4m7ghxqknatpjibxqg
+  - >-
+    ynob1fae1q5mhkrbzmnhaapronalcmdbeefogmv2ckbmpzygf15kiqnz0fuaqxaghi49ya5mfwcydmhw9lchdihcj7p6gxqc
+  - ont2f
+---
+# M7f+6YtsP9v+K2W86j85+xsTxgH9td9LHjzhganP0kPbjuuejfU3O9FlwsPZU7TBnw8Aduuc96cFTguc
+
+## Context
+From document: ETCETER4 — chunk 143 (chunk 143/2399)
+
+## Content
+M7f+6YtsP9v+K2W86j85+xsTxgH9td9LHjzhganP0kPbjuuejfU3O9FlwsPZU7TBnw8Aduuc96cFTgucFjgtcFrgV9wCgnIBhiRYUL57bD4ES4JO9wIPuQMXQbDLhkmQ4LBBQK1OMKrOIbAAAYzATRAruBCQCZ4FZILcDhHJgI5Np1xgho4Df4GPQEzgCx4Pb4M7gHXQKnATpJIBXQG+YNob1fAE1Q5mHKrbzMnhaAProNAlCMdbEEfOgmV2cKBMPzYgF15kIQNZ0fUAQXAGHi49ya5MfwcydMhW9LchdihCJ7p6gxQc+QSV+oNt2F/OpvDk7CmIxZNc6sC410YPF3nVhw+ObOiAFcCBw4ucDrXp5rDcJk9ADsdmhuz6SIBos0x2B6/0Z+f6hC50g8eWeLOL+w6KbIbwZyP910EdPyQbnfBCCw286MWf2IeM7IlePoU+32sjcffw4/rMhp5fsK/+xpfeyQlXkuuzbJivrsbjgx4umxRtLv3Hdj/4wQ9uve51r1v3bMG/8jm8+FgpHdmGfvqpvlBOHvBgpfTlp/rHz5DoE75XX4ODT291M5FV20z47Py0q3fhjY6+Iie6+kqb/uGn+kObcj5FL3Brg3D4lgcwfAgc+6ErB8e/8TDG1KORPspT5uRNB/T1pbFgbGtnc3RsBG3m2Acfh7f6hFxTx2hV1/3cCKH7ShMcF7vPFK3a+CBb8Dn2sUG1UeX79JOixVbs4fJAg+83z9GR7mwmgVFnPKDf/JZfNObRYJPsLDe+/CyBA7Hgo3kpp6P+g8cfyM3++oZ+2tGZtNSBoVMyT9rprE45/OTU38aBca7/83k5vc1d7AGPbY3JfBRNybilu77mM/joAzIbb2TUH9Yc65k10QMvMPyqufA73/nO8q1ke4n6L3+mD1xXSf2ltNfv9+FUP3nr00984hO3vvWtb/3SvEKfCRcNfVCbdmVJjr523zqR9LNv2eg786D+hhNeOGCTTblxR3f1+iy/ay0DR3a09NvE11bSri1e7iV1lbuPhtzFJ1vfwear+td63ny2CI6P8MsnnwG26KGZ/OCChTtTtNTtbRPuQdovwUd/5sElk/v627eJ6G/8tNbSY6Zo7XXu0TSvzJRe6Eyexpu+aI67hAOXP8jJVOJ7xqi5rblj0g5OPuWd5drk5gXxpHbykM2DRQ8AjXHzBz7pAG7ycz9T
+
+
+
+---
+*Source: Document aa5afafaa5b4a9e35e1fe8ae7ee501fe*

@@ -1,0 +1,31 @@
+---
+id: 815f5e36-ddf4-420d-8e06-d7d71df30dbb
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - nihzt3bhmrs3ntqrafdpt1psefnuzw5rattg3ekev9rxpuiandbtziiefl87e3hfs
+  - z1e3vrniojreaq5q9p0qn1zmjz25o5klyvsxys7xzm8plibomjtwxlbcjlk85
+  - zzxpwrfnxzcavv
+  - >-
+    e6xglgbuvuklztyklkrih1fyxjc8ank1dyxm8wvtwocmmnfbpkyqsx4yd0afxypvikc9svutgstuwpxrpqpo3phfslmx4qzcnvvnwqzbw6pk5nxjlvuhetqkart0gswsivvd6kujaiuzf
+  - pfmkkjyeg9ogpwxkagfdrsvlsk1ti1hkzojlgcdpxl
+---
+# Nihzt3bhmrs3nTqrAfdPT1psEfnuZW5RattG3EkeV9RXPUiaNdBtzIiEfL87e3HFS+Z1E3VRnioJreaQ
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 1055 (chunk 1055/2189)
+
+## Content
+Nihzt3bhmrs3nTqrAfdPT1psEfnuZW5RattG3EkeV9RXPUiaNdBtzIiEfL87e3HFS+Z1E3VRnioJreaQ5Q9P0qN1ZmJz25o5klYvSxYs7xZm8plIBOMjtWxLbCJlK85/zzXPWrFNxZcAVv+e6xgLgBuvuKlzTYKLkrIh1FYXjC8Ank1DYxM8wVTwOcmmNFbpKyqSx4yD0AFXYpVikC9sVUtgStuWpXRpQpO3PHFSlMx4QZCnvVNWQzBW6pk5NXjLvUhetQkaRt0GSwsIvvd6kuJAIUZF+pFMkkjYEg9OgpWXKAgfdrSVlsK1ti1HKzoJLgcDpXl+h/FPwt4p8X674P0K6Wa+8N3CW2oxAcwSSp5iK3+8vTGRxXXa/q1lpulz32ousFrbxtLPJKdqJGgLOzMcAAAE5Jr+dz/gl38UNW+MP/BRD44+PvCBubzwrqsc1yblwxQvJe/6N8x+6wj3hEOCVycfLxdPfU5603Zs/Qj/gpjf6L/wqG0e9u2tr1L5JLCNMN502NjB1JyqKjE7h3wO9fVf7GOiWHh79nLwrbwW8aXV5Ypd3DJz5kk3zB2PqU2j2xivin/gpjodvf/DHTvtayCVL0PFIFBjUbdpR2+8C2cqAMcHJHGfvL9j5Zj8BfCguZVmaDS7aMbQMqAgKhsdwCPwr9SzRL/VehP8Avs/Ocod8+qq/Q+jktGD7QBk9B6U/mDMbkZ/WtF5Y1kDzD6VVmw+ZP7vNfks3dWP0+xJbusgOASfftViL9w/NZ4KQgGM8+3vUm1my7E8dqxS7FdSxMyMDO/XOKZOgNqZI+tOjT5QSM59amaVJUKFcY4pVU7WM5LU5x5AGVZT84HFM2SmNpc/MPXqfeth4IUi2x9c5bPt3pzkDCDkMOoq6Ls0E33P45P8Agu9DqNp+1fol1qv+ou9Ch+zEsSuI5JFYbei/OWPYkn6V+sf/AAR8l1yw/Z/i8P3+mPBa5gmtruVl/fRyISPLUKPlDbjkknn1yB8h/wDBw78GEttK8A/HfSQ0k/m3GiXKs/yKGQzQFUxxkiQM2eu3jmvpz/ghR4m1jXf2Qp9N8S332650LV5LOHev7y3tmQSRwsxHzAFmZOThWA6AAdGGk/q81Nf8MZTfvxP2/hgWJi6ggDoT3phlk2SG5Uf7OK03d5kRMcAYz/jVW4gbb5SkjHUnmuSDRtLTQy02XNu
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

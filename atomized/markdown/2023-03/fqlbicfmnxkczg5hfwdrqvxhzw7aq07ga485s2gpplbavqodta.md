@@ -1,0 +1,32 @@
+---
+id: 6b261d7f-3b05-4c65-8090-fd2f4dd8b742
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - fqlbicfmnxkczg5hfwdrqvxhzw7aq0
+  - 7ga485s2gpplbavqodtad0q
+  - tcno
+  - >-
+    v2ie2knknk8mmblkdjiftauxgsyjmnovo9juanczwvz3msch6wkz24yzgozpja80u58ubdg80lvwmg6b6ijvelfneyd9rxyg9zhkad2lyy9f0jyxpj9fg2ddyhsft2hkpy9oheasj8us0jbeltabhncbo4pz0uxavc4h2uncbjilsjlf5gaexhdtacxcfclkx
+  - >-
+    nr1fgcuunpnta9huplhocb3blxskenqe8wnplmjxlmpzgyb9aecyf93lugpfr5qvs0hdfbqxi1v5ubf9etyjlnaeu5rb88u3wmiua8axqq8dmaxixo0hoffb8nnquxivt4estjjwdkj8gavaed4iogeg7qa8s
+---
+# fqLbicFmNxKCzG5hfWDRQvXhZW7aQ0/7GA485S2gpPlBAvQoDtAD0Q+tcNO+v2ie2kNKnk8MMBlKDjIf
+
+## Context
+From document: New Note — chunk 1046 (chunk 1046/8096)
+
+## Content
+fqLbicFmNxKCzG5hfWDRQvXhZW7aQ0/7GA485S2gpPlBAvQoDtAD0Q+tcNO+v2ie2kNKnk8MMBlKDjIfTAuxGsyJmnovO9JuANcZwvz3MScH6WkZ24YzgOZpjA80u58UbDG80lvwMG6B6ijVElfNEYD9Rxyg9zHkAD2lyy9F0jyXPj9fG2DdYHSFt2hkpY9ohEasj8Us0JbELtABhNcbo4pz0UXavC4H2uNcBJIlSJlf5GaExHdtacxCfclKX/NR1FgcUuNpnTA9HUPLhOcB3BlXSKEnQE8wnpLmJxLmpZGYB9AecyF93lUgpfR5QvS0HDFbQxI1V5ubF9eTyJLnAeU5RB88U3WMiuA8AXqq8DmaXIXO0hoFfB8NnqUxivT4ESTJjwDKj8gAvaed4iOgeg7QA8s/oCJAHzRDC4Be937wTJ1hLzvFYZwzFDJLdwjrg0iaH3SfqjjgaqswgPEeCohe+S7h+eB5BneC5urd9puhcctzusotD3vlm1TYf8PXGUn0Tlo3vJw0+v1maHOA3sNB9foCW8X+BTYK16lcpypfo1poo3TNfapKr4eDRo/bVBWURg/AfA+wfI/rNK1uV3tdlDZVF9VcW7UeZ3P53nmWil0uwPME6CmBHtVOcN4NifTY1krp9JRID0jfPMdCsZXS6L0c9QjUN8lS6X1nG1HSfPMsS5XWBbbaLUiRb5lvp9cyG8tcTdFqAZZvnWGl2epsod063VK71d5Mu81WpN5ubajaASjfKdJW6DbQlOvRU5fr0VGV69VWAZRX4cB8nwrgvApQOldA88DyfUiWl1Uvlqkmw3bAd8B5+f+iFBSB6FHySKT/T4Ce4P0/0+onX0O2LMPzNMoS6P8J6BXkZSn0/bhWP1D1+CgvdwPL/wroFeRuAatzeB7Pdbv0zNGxq1fOSk8BzP916CdJFVD3+dJj0jOA8qUnjrKzp5Amf/oEu3K+jCGRnpWdOiI9d+aY9ApAPKFwWqe6eAH7z59llyous1NlpQxQnp0+8ou04uJJ6WXA/GpcA7BcirR2aXtLLZLbr0i//uJjSXRUsMTL01ViaWUyjugVCM0rjcN5WpaVIoF6roC3FcbxuAxRPzkizZzD5VzSuhxzcVnAPvzoLXbs2G/szJm/WH19ORLxz7MO3Ec14HsV4DtB/7NlQP8YGwDg65EgT2C+Ekn69VUVrK2xDhi+
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

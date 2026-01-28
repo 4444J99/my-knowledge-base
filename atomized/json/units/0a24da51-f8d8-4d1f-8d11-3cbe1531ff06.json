@@ -1,0 +1,26 @@
+{
+  "id": "0a24da51-f8d8-4d1f-8d11-3cbe1531ff06",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:44.000Z",
+  "title": "<div>  - `MYTH` – for mythological or narrative character content.</div>",
+  "content": "<div>  - `MYTH` – for mythological or narrative character content.</div>\n<div>  - `WAVE` – for anything related to iterative processes, cycles, or Wave Theory in the project management sense.</div>\n<div>  - `RECURSION` – for artifacts that involve recursive storytelling or self-referential structures.</div>\n<div>  - `PROCGEN` – for procedural generation logic or content.</div>\n<div>  - `ARCHIVE` – for indexing and archiving-related files.</div>\n<div>  Essentially, domain tags the artifact with the theme or subsystem it belongs to. It helps group files across layers; e.g., one could find all myth-related files (mythic characters, mythic specs) by looking for `-MYTH-` in names.</div>\n<div>  </div>\n<div>- **TYPE:** This indicates the kind of artifact or its format/purpose. Common types include:</div>\n<div>  - `SPEC` – for specification documents or design docs.</div>\n<div>  - `PROMPT` – for prompt templates or prompt examples.</div>\n<div>  - `SCRIPT` – for code scripts or executable pieces.</div>\n<div>  - `INDEX` – for index/manifest files.</div>\n<div>  - `LOG` – for logs or transcripts.</div>\n<div>  - `NOTE` – for miscellaneous notes or smaller write-ups.</div>\n<div>  - `CHAR` (character profile), `MOD` (module), etc., if needed for specific categories.</div>",
+  "context": "From document: # Blueprint for a Self-Evolving Creative Operating System — chunk 33 (chunk 33/38)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "83dee6092ba3a8d02324ba12da038c25",
+  "relatedUnits": [],
+  "keywords": [
+    "files",
+    "myth",
+    "related",
+    "prompt",
+    "character"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

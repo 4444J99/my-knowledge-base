@@ -1,0 +1,31 @@
+---
+id: 93e4ad75-c49a-4dbb-817e-44cf81b3bba5
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - kfaoib6fxflp35a8elxjdnwpfeo3qa2dceino5pb5j3wmhpye
+  - daxs99ihgu3qmq74xzdub1jwpxm8beepqsjrf74x1wpptsf3rf1
+  - y4n5vxyv0bgpdg72gnjfmb64k1wgwahqjdgdrgm7bzfkynd
+  - >-
+    ymirhvwfgazkwjh7micxczphb1flyml33nmbgoyi4zcdd4dmxruje1hq9pswfmwtnxbephzqr2tiocud5hq8vsxz599m8pad3q8wdqbafi1
+  - hammfcp1ampkbbmdfzacdhawxdzl5vb6czwnrurj32tignbdshsd41oad9aonot9aho
+---
+# KFAOIB6FxFlP35A8ELxjDNWPfeO3Qa2dceINo5Pb5j3wmHPYE+daXS99IHgU3qMq74xzDuB1jwPXM8be
+
+## Context
+From document: New Note — chunk 5701 (chunk 5701/8096)
+
+## Content
+KFAOIB6FxFlP35A8ELxjDNWPfeO3Qa2dceINo5Pb5j3wmHPYE+daXS99IHgU3qMq74xzDuB1jwPXM8beePqsJRf74X1WPPtSf3Rf1+Y4n5VxYv0BgPdg72gNjFMb64k1WGwAHQjdgDRgM7BzFKynD+yMIrhVwfGAzKwjH7mICXCzPHB1FLYmL33nMBgOyI4ZCDd4DMxruJe1hq9pswfmWtnXbephzqr2tIOCud5HQ8vsxZ599M8PAD3q8wDqbaFi1+hamMfcp1aMPkbbMdFzACdHAWXDzl5vb6CZWNrURJ32tIGnbdSHsd41OAd9aonOt9ahO+SeuFOMNhaF3Glzp75XP2PGiWW87XPwe+Ln7veM8ah5fcjf5u58plC7/r3k5+h3y2r0nBMjDg/wDhwNQM1enIv9/VsKGOd98jra3Ic9awGvgccNYDueu6SN93rft5+za/F90yeGecZcp3PRZ468NueM1uBnZjicvDx/1jLHGnI5H2PU7/jWO2mJjdbFvuzlPXxG+tyn7wEPfB6F250XbyAeHwXlAdttUfCdMa8BpCcH+3ncOajNzzW6P2djDWMY7ahRb3Te98GY67FSPB7VeTyQO2A80LuheLyheUPw9B1L27m8hhyjdLd4j5GTNc3rfhXU5g3LW33efXvD84DxAPWA9VFjzNA8sRhq9Aa5AbMNt9NuC94yZtg7CuDSjsLcUcCbfMx7D9YzZtjeUL1zO7/3bltHFIo2RG0Q2H0868kVrdOwMTnIy96ex2Os87z7eMYc07ZG9vc6z0XrpM2455zXZ3R+70E+G2fxPPW2Vf4nJ2dhLfm8zrn/kifGsDVtYgzQA2w3Q9u/qKI7p9cZescbvvYc9ZIbz5zv3GOe97545/Mc3m1q4/xeT99ndZxrcCw+Wo/3Ig/GPMb6ee8DqQO7NwP0jNPGWOe1UUieNgZAP/M9lNupt/m+on2P4YHi8cSyjrYNUJ75qBmo51n4fNTru8J7/Jcam+/Nfe7J74bH/C75/ef9Yc7nZw1t4HaD5wblgdQNqhtQZy46z7ooIE8cQLoBdfpeE/WA7Mx5LfswT/8vAfQeI4Z1jjcQz5jNQLznDMnTZz3eMVaej8LztK0ujzckb/V4YHiD9VFlecbp2wDkUZq3GaaPAvSA75P1/yEYbUD5AMG/oH9P67/1DcYDz4/Rf8/jiZnSTn+uymi3
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

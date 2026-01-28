@@ -1,0 +1,35 @@
+---
+id: 8c70ee65-dfe8-44f7-b392-b08ba16a6e8a
+type: insight
+created: '2025-03-19T12:12:32.000Z'
+document: 327f02c0d4f0dc7a528bfc69a2a41abd
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: research
+keywords:
+  - your
+  - this
+  - that
+  - another
+  - grammar
+---
+# <div>Why? Use you're in place of you are (e.g., “You're so funny!”). You use you
+
+## Context
+From document: Week 1 | Overview — chunk 62 (chunk 62/75)
+
+## Content
+<div>Why? Use you're in place of you are (e.g., “You're so funny!”). You use your for possession (e.g., “Is this your bag?”).</div>
+<div>Here’s another one that autocorrect often doesn’t catch because it’s spelled right, even if it’s grammatically wrong. But be careful! You’re is a contraction that only means you are. Your is a possessive of you, used when you want to show ownership.</div>
+<div>Remember this: The more you study grammar in this course, the better you'll get at identifying the sentences in your drafts where grammar needs to be corrected.</div>
+<div>Spelling errors are yet another issue that can plague college written work. You must take your time while proofreading to avoid misspelling the names of people, places, organizations, etc.</div>
+<div>Being aware of these common pitfalls will help you improve your overall quality of writing by avoiding these simple yet significant issues!  </div>
+<div><img style="max-width: 100%; max-height: 100%;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAAAXNSR0IArs4c6QAAAHhlWElmTU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAAAAAADYAAAAAQAAANgAAAABAAOgAQADAAAAAQABAACgAgAEAAAAAQAAADCgAwAEAAAAAQAAADAAAAAAVrtQ3wAAAAlwSFlzAAAhOAAAITgBRZYxYAAABZlJREFUWAnNV+1rHEUY352dvdu7JO1dkia1kgipFm3afEj8WtpCVfygUiGCFCqItOAfEAKKKArqH2ClrfZDiv0Sab9ZFIkQSv0QI6U19jWtNm0iJObSvN7b7vqb3dvnNndzl7kISYbldnbmefnN73nmmTn9/C93ta3U2FYCI7Bw191akLirFRAdP/zcJkIbCDKHB3g2EYznOggUGNoSjWBIcqj73I0Nw/j7u/t9X5TKXNtiMZMwpBHaDSMKrAQxk+RQMFUNDmRgwnFdx/v1RXVdZ7pm6Bo6ejVtyRw5lTIkUQgPAYTtujnbzdhOxnbzDmC5gGEwzWR61GARQ0eHsRpghRkicOS0fISmBCtZ213OOQbT3+5s7m6N9zxV35G0Uun8/VR6dGrx/B8z91LpepNZnEFGkSoqhxKGCGwRRdADN0Azn7UPtW//7FAbcAQzWtLiQIbnRPfOwT9n+oYeLmWduKmKiZzKCiNNkjevA97ytruUtQ+2NVw4Wq2s9+5t7khYL18Y47ppcbWMCqJSPDrIewU8IliZvJO0jFOv7ibh0cnFwbGZ+3NpMNTb2XykI+FP9eyq//zwM58MT3DGTYUTvFrIKlUmAch2TuxrTcZQvUT78sqjj4cfbosanOm2q303Nn2ss/n0awXywFP/0F91NuNIb1+h8i+xwNDzn6Iw2JM9rqNhOyFLfEmk8KfDEy1xE9wkojwZ5U0WH7g+Dc58AeB+oSluYx2O3GC4JBMMACo0AhQMSN5Y6e5GC1DwXLw5k7CMGGfY4ag9nGnY7Zahj04ukKn27REBqHIjSRLhQF/agvwqGQcay2AHvr2etR1UnSjX60wmUtaTxxId
+
+
+
+---
+*Source: Document 327f02c0d4f0dc7a528bfc69a2a41abd*

@@ -1,0 +1,32 @@
+---
+id: 18b78171-6db2-499d-88aa-de2be080db98
+type: insight
+created: '2024-03-07T02:33:33.000Z'
+document: 27162d3685a234131532342f177d17e4
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    s2gjzbjopfqnlty6zzwffmllbbmwbyabuqaik0nwe7yp1w7vwbnkiodbfagac4w7d28myggsjzirmmcfwxdlkjkuuyl
+  - 1rj8k8zkdlxdt1kqvyhnal5qrtlg726nbvawbudiptjhtc3ztdyvm00b6o
+  - >-
+    xnchrvt5cnhxyi9nom2eep3en719paa3hfctwkf9ay85zc2blk8h1iaztmkoas0qmuaehumyj1fovvp4
+  - x78pvuhzmq9fkhzgbanox6gpj4seftohnolfw8ajikevk7wnfgpuhtmy5tvqquf7myipb9ozs
+  - uijyueqtzdjmzwajp
+---
+# S2gjZBJoPFQnLTy6ZZWFfmllbBMwbYabUQAik0NwE7yP1w7VWbNkIodBFAgAc4W7d28MyGGSjZIRMMCf
+
+## Context
+From document: CC INFO BILLING: — chunk 788 (chunk 788/909)
+
+## Content
+S2gjZBJoPFQnLTy6ZZWFfmllbBMwbYabUQAik0NwE7yP1w7VWbNkIodBFAgAc4W7d28MyGGSjZIRMMCfWXDLkJKuUyL+1RJ8K8zkDLXdt1kqvyHNAl5qrTlG726nbVAwbUDIptjHtC3ZtdYvm00B6o/XncHrVt5cnhxYi9Nom2eeP3eN719Paa3hfCTwKf9AY85ZC2blk8h1iAzTMkoas0qMUAEhumYj1FovVP4/x78PVUHzMq9FKhzgBaNoX6GPj4seftOHNOLfW8aJIkeVK7wnfgPUhtMy5TvQQuf7MYipb9ozS+uijYueqTzdJmzWAjp+OUexhpBIchCQDE/NN1Utcp2AVt5a7ZH4BZIGfKQNUxGfO56BoJRAjSsA1PDOAwoVnNp4m2kaKx10BCnEIRq4s/On9arfEhk9ihrCxAygh1p2oKKp91NyKGRiwdiwRqYeAxcO7bxB8sP26zy8GpIATfjRk/dc4X5MqGeoJSbCd0tx09YhnuH/DDRkgNIwU/b9KlFHrc3MSmhs/SQQa6NH5s6Vg6rViF1mwuwQW4fzjmPvhx7T7DmVt6btULKN355ezhNRNOcGxOOD9ZEd/VbwzdvyQOIvY6/qUDESDTBHsjzcYgtzhJgbtrmbs7WMSwMHADSiKAnlbhXdbzHdJNXhQF5EMA8urb2guzDz1ymqEHiy3mJ8Jp0y457/JZuUb0Ehk84C1pKWQcgVSRdnq+s/Hg4PtmPm83yrjYH9Q2qZzMox54ABVcH5xOzrLMy6pZp3h2Zgy0Se8GVcfvYfdIH6wxL2tmVcvliHaEXX9T0HL/ELgYtcmnEgm/Ibz3/tanc+LXKQS+ufeqSAg5v++gb0+UZ5YNXbvJPtxCbJc+UI1TEpaAVS2io7CBuuzQac60X/QFz/rInufi2zSvCccztYAsOyUPPVXu+eUc5TEKpfomfN7tjRTBbBbxcCXOlFeqHon0u2F6eBp6aKTquEXbBlLxmVkOeu/wTJqQiX1FXoCwQ+ZfoL08eeN6yY5Lvv+Lcznt0d0X9TdAB4XJeI5UXrbzNVzBNYAXJQ1zks/l/eaDp+/GL0tQKxuYJ9YkSVLDk0FW5MtF1y6+q4TMUicDQed0I/iBYwfQeiBN5iIjDaM+69uX2L66J6dvBv0u5dwE2ZyheZfnBBpuwor3K2pL+4EzleJCy7FF1Kt4cSgBI3KrOh
+
+
+
+---
+*Source: Document 27162d3685a234131532342f177d17e4*

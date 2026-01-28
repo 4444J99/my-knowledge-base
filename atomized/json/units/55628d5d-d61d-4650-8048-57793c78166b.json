@@ -1,0 +1,26 @@
+{
+  "id": "55628d5d-d61d-4650-8048-57793c78166b",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>  - Tag with timestamps and intent</div>",
+  "content": "<div>  - Tag with timestamps and intent</div>\n<div><br></div>\n<div>- **`seed-bank`** repository - A structured store for:</div>\n<div>  - Conversation exports</div>\n<div>  - Extracted concepts</div>\n<div>  - Unimplemented ideas</div>\n<div>  - Evolution timeline of thoughts</div>\n<div><br></div>\n<div>### **Phase 2: Map the Lineage (Cross-Layer Tracking)**</div>\n<div><br></div>\n<div>Build the connective tissue:</div>\n<div><br></div>\n<div>**What to Build:**</div>\n<div>- **`provenance-tracker`** - Documents:</div>\n<div>  - AI conversation → Personal repo (which idea became which code)</div>\n<div>  - Personal repo → Org repo (graduation path)</div>\n<div>  - Org repo → AI conversation (feedback loop for improvements)</div>\n<div><br></div>\n<div>- **`genealogy-graph`** - Visual representation:</div>\n<div>  - Network graph of idea evolution</div>\n<div>  - From abstract concept → working code</div>\n<div>  - Shows all branches, dead ends, and successes</div>\n<div><br></div>\n<div>### **Phase 3: Automate the Cultivation (Integration Pipeline)**</div>\n<div><br></div>\n<div>Connect all three layers:</div>\n<div><br></div>\n<div>**What to Build:**</div>\n<div>- **`triadic-synthesis-engine`** - Orchestrates:</div>",
+  "context": "From document: Contents_Table — chunk 24 (chunk 24/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "repo",
+    "conversation",
+    "build",
+    "evolution",
+    "phase"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

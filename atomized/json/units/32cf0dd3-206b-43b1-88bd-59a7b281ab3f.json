@@ -1,0 +1,23 @@
+{
+  "id": "32cf0dd3-206b-43b1-88bd-59a7b281ab3f",
+  "type": "insight",
+  "timestamp": "2022-09-24T13:06:43.000Z",
+  "title": "<div>Once you’re in You’re in / end</div>",
+  "content": "<div>Once you’re in You’re in / end</div>\n<div>Complete the sin </div>",
+  "context": "From document: Once you’re in You’re in / end",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "7d388a7dd785505d3cb081d12a35144c",
+  "relatedUnits": [],
+  "keywords": [
+    "once",
+    "complete"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

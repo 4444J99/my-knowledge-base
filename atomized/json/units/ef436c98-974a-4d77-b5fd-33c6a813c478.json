@@ -1,0 +1,26 @@
+{
+  "id": "ef436c98-974a-4d77-b5fd-33c6a813c478",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>12prompt</div>\n<div>What other repos should be created (Inc dsc and prompt as you did with arch Repo)? How do we preserve the context of this convo?</div>\n<div><br></div>\n<div>12response</div>\n<div># **COMPLETE REPOSITORY ROADMAP**</div>\n<div><br></div>\n<div>Based on our conversation, here's the systematic build order:</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **PHASE 1: FOUNDATION (Create Now)**</div>\n<div><br></div>\n<div>### **1. ✅ cognitive-archaelogy-tribunal** (CREATED)</div>\n<div>**Status:** In progress</div>\n<div>**Purpose:** Audit all four layers, generate inventory</div>\n<div>**Output:** Feeds into all subsequent repos</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **2. system-constitution**</div>\n<div><br></div>\n<div>**Description:**</div>\n<div>```</div>\n<div>Decision framework and governance rules for the ivi374forivi cognitive OS. Defines intake criteria, migration policies, repo lifecycle management, and cross-layer integration protocols. Living document establishing &quotthe rules&quot for personal→org graduation, archive digitization, AI context capture, and system evolution.</div>\n<div>```</div>\n<div>**(298 characters)**</div>",
+  "context": "From document: Contents_Table — chunk 104 (chunk 104/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "repos",
+    "created",
+    "repo",
+    "context",
+    "cognitive"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

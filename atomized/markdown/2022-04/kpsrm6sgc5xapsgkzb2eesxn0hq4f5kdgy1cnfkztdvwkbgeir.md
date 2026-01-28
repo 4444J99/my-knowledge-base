@@ -1,0 +1,32 @@
+---
+id: 73098e6a-6ce0-4ea1-8224-be520d7dc12b
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - kpsrm6sgc5xapsgkzb2eesxn0hq4f
+  - 5kdgy1cnfkztdvwkbgeirunqyom6zrqlq45tgrrfuoid6a9ixclqehdwbhjnxshuvee9fqtz
+  - >-
+    jrxq1fsipnvqggdqxkb6wiukz6briawdno4jaauythplkbfzglgcabqxakou2lrxgdvz3cjxge4hbyplupxd3uhgltbphgz
+  - >-
+    htjj0knoufeurjzgueoqhgubud8padyjbewcgbvoadxrad9hg9mcacuiacdhgcfzgfbhsiizp08jcha2oln5gdzgcmzszap
+  - eynjkqayiwcmiok
+---
+# KpsRM6SgC5xAPSGkZB2Eesxn0HQ4f/5KDGY1CnfkZTdVWkBgeiRUNQYom6ZRQLQ45tgRRFuOId6A9IxC
+
+## Context
+From document: Strike one — chunk 923 (chunk 923/4795)
+
+## Content
+KpsRM6SgC5xAPSGkZB2Eesxn0HQ4f/5KDGY1CnfkZTdVWkBgeiRUNQYom6ZRQLQ45tgRRFuOId6A9IxCLQehDwbhjNXSHUvEe9FqTz+jRXq1FsiPNvQGgdQXKb6WIUKz6Briawdno4JAAUyTHPLKBFZglGCABQxAKou2LrxgDvz3CjxgE4hBYPLupxD3uHgLTbphgZ/hTJj0KNouFEURJZgUEoqhGUBuD8pADyJBEwCgBVoADXRAD9hg9mCACUIACdhgcfZgFBhsiiZP08JCHa2oLN5gdZGCmZsZAP/EYNJkQAyIWCmIOK+KUYkz4BmVuOI4NOBmFVPD5T9tZAb6AFJYlgw/9LtoZDFXded0BFRDZHxwsCGi4A2S1uIaYhA+gZ8HoRT6OS68NzRg7Y+u5ETxMFySNUnGpQ05i1sSmiHKRcUYQhF+FNlSc5FD4A4eeQfYQgpkQAaYAAsKIZbsQR1YgiF0iyHm4RxSspbEbRmWoRvU1TtUWu8UZh4q0BxYoRUebRRGARQkgQzWYA00QZYTIRFmDwMwAAAAeC/iwKIVoQqqQBHMAFGJj51bsCpn1ZnjQj1JJM8SriG6UiwdhESgkYxu15+CBXtn9onNZoptpC11gEQedLG2GIz/o0iA1EyM5+syUq96xNooHIplAWAQAKAOqoUwQsM1bs2RjJUzjBXqkIT9FqK0YGOPBWchiCAilWAD0nYFNLpQi5ZmZuC0ZwAJZAAJ9mAmh+pczS1O7MEdbGEBZyEZKAEQblunbzpLY1tdyQQSMmEYgBoR+kANdkANEEGNB6EOvAAGAIAJ2KBbAWAJZnXBRmFxLLXmXq8qq5KtODopODZVohktkQAJfjg2QOVB7Otk89NG5BpAj2IaFoK+lSISpEBmAUC/A4qJ9br5Wm2dMeMHAMALvMcKLKMt8uJt0SmxS4Q0fKWgteU2ymUENLt/BIIEFloprNazBKIEPKtGckAF/xSACACAHC7CBOo3BhbZA+6gC3DGU0JanNTgPJkgD3TqTWayJA0Q3RwYECqhJc7kYVAnGQ7wAJVUFPkuylLCHFqhEDIhwBBhuefAC9AYjdO4FCSBCTwAA/IXuosSGKqhGfo7YWGOQF7luwP1iqKyC4gRerIyK4v2Wdb7QdJaVip1MrKWLrERAvTbbfsAe/kHr0l3eWVj9BqiDSwDweGrIfDZKAzcKKKA
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

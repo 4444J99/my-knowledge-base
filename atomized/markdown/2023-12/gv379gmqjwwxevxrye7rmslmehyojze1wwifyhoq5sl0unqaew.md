@@ -1,0 +1,31 @@
+---
+id: dbb5c2fc-d102-4390-8568-a6114490ca27
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    gv379gmqjwwxevxrye7rmslmehyojze1wwifyhoq5sl0unqaewl3aqfirnxuccxi2qgcvzyekpkva5anx3pixinmr0hupvm7l6ixm4uftimfas36q54yjigsjcnb5csxwuetmctqwjgjsc9vxmvimyhuveuof91wt
+  - sudfa2ykyxbft25jmljcbjauhrxpfpmaz86vknccwx48eo48nntdvecy2k4
+  - wymh3oobenfv97fqjoyl
+  - 0dpt
+  - 5mkc2ndsb6khtzsvphkcpmi2ht4c
+---
+# gv379gMQjwWxEvxrYe7rmsLmeHyOjZE1WwiFyhoq5sL0unqAewL3aQFIrnxucCxi2QgcVZYEkpKVa5An
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 2682 (chunk 2682/3262)
+
+## Content
+gv379gMQjwWxEvxrYe7rmsLmeHyOjZE1WwiFyhoq5sL0unqAewL3aQFIrnxucCxi2QgcVZYEkpKVa5AnX3PixInMR0HUPvm7L6ixm4UFtimfAs36q54YJiGsJcnB5csXWUetmCtqwJgjSc9VXmviMyhUVeUoF91wt/suDFA2Ykyxbft25jMLJcbjaUhRxpfpmaZ86vKnccWx48eo48nntdvEcY2k4/WYmh3ooBeNfV97FQJoyl+z6H+0Dpt+U/5MKc2nDsb6KHtZSVpHkCpmI2Ht4c+eO5O5WWCN30UIlWTHtSLBGzFcFfeJsFB3/U179z2U0xWh0hkT1dBQHxpjygVm8pxkwNgabwmB8Ragu/59nvG7jNJbUGADXRtnS6iK43HHYQqiCpGpjDrUmZar850Nr02xXbNubfY1SrKphaZxSso9smqGx4p6KtPYfJR59nowbv9kTlyDKjCm3kkm/JvYNOCJGnzojKcao2pYxPVYT4NvjV/WkyZnreWFC8nSXPXxGo591oN5TjZnHjNmLCmVj0CSu2DccBrHyXXYps+MmEq2JQ4SO5v7VvIeoW16V2osvd4OHjiMGceaUHttrJyIuhtFPke1jeeT6nmFNdW9m7bpw8OttD+Eytq4fUGo/hEKu6qjZhIafbz++u9Qb4ti3atGV1Mrt3LFyjCWUHmMOjRi5EZP2uxJjZCdq0ZC1adPnyBUz9DL6hoxr6k9Qu8yCT81VKT8GXM3bGKk3L+lGnI/vX5aC/5ZuuUIVWMkct+bZgRyhKrpzVuOUDW9OfvVjfiOEyo+/H/q9uNNzh8+sP1re1SltBM+9/3050HJybjxY6PPTkfUEAH81i3VoTKpukzFLn0owNOUq7Vr10TzXwGDRej34PI1mDSzKZNfjgJ1zQfemzEz2759R5CKSI8h1evLL79G2dhGOt3K2DUW2KV6GNWbBDKs/6ioGpY9PaEMglAQROvQoZpI+VuwYFHWtnU+gIkeRBIqgOBdAPbJqBHjx43FNr01r3ucZqjbszWr10R9jpbtLVuY4qWttpHCBIOUMXfBVQDKyodlv3/7laifEEDtAyRqrLFkyTJAVxagMgLEfVOTBICSEMFoz549oiZo4GMDgiA4zi9Iw1owf0Hs3gv6PZ441V1r4xV2zwG4TVsSVPI7SZpAkS8dD3t07w45peYMsxCd0uowu7AWZBVu
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

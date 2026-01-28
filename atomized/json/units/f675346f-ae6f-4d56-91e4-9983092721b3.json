@@ -1,0 +1,26 @@
+{
+  "id": "f675346f-ae6f-4d56-91e4-9983092721b3",
+  "type": "insight",
+  "timestamp": "2025-11-23T04:21:32.000Z",
+  "title": "<div><b><tt>Include state or previous outputs if this is part of an iterative or",
+  "content": "<div><b><tt>Include state or previous outputs if this is part of an iterative or evolving system.</tt></b></div>\n<div><b><tt><br></tt></b></div>\n<div><b><tt>Recommended Prompt Flow for Handoff:</tt></b></div>\n<div><b><tt>Begin with a single, clear objective sentence.</tt></b></div>\n<div><b><tt>Provide the conceptual framework (your first four items).</tt></b></div>\n<div><b><tt>List the procedural or technical elements (your next three items).</tt></b></div>\n<div><b><tt>Provide organizational structure instructions (your final three items).</tt></b></div>\n<div><b><tt>Conclude with explicit constraints and desired output format.</tt></b></div>\n<div><b><tt><br></tt></b></div>\n<div><b><tt>This structure transitions from vision to execution to organization, which is ideal for AI continuity and minimizes ambiguity.</tt></b></div>\n<div><b>—</b></div>\n<div><b><h1>AI Handoff Prompt Manual</h1></b></div>\n<div><b><br></b></div>\n<div><b><h2>Table of Contents</h2></b></div>\n<ol>\n<li><b>Context and Objective</b><b><br></b></li>\n<ul class=\"Apple-dash-list\">\n<li><b>1.1 Purpose</b><b><br></b></li>\n<li><b>1.2 Background</b><b><br></b></li>\n</ul>\n<li><b>Thematic and Conceptual Inputs</b><b><br></b></li>",
+  "context": "From document: ]||||/\\\\vvvv//\\.../\\/\\---/\\/\\.../\\\\vvvv//||||[ — chunk 4 (chunk 4/96)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "751d0ce44738c7033755a28c7169e646",
+  "relatedUnits": [],
+  "keywords": [
+    "your",
+    "items",
+    "this",
+    "prompt",
+    "handoff"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

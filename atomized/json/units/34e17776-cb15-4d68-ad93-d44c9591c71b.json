@@ -1,0 +1,20 @@
+{
+  "id": "34e17776-cb15-4d68-ad93-d44c9591c71b",
+  "type": "insight",
+  "timestamp": "2017-01-03T03:05:30.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: For those who don’t know my work, I am appropriating the bones of… — chunk 3 (chunk 3/3)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "2850520bff5d63ff52cf9353f6e03d6d",
+  "relatedUnits": [],
+  "keywords": [],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

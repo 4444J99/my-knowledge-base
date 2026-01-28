@@ -1,0 +1,26 @@
+{
+  "id": "f7d029d8-b8d6-4050-b05d-9a65d3c2a7c9",
+  "type": "insight",
+  "timestamp": "2023-08-08T12:05:55.000Z",
+  "title": "<div>I might kill someone. </div>",
+  "content": "<div>I might kill someone. </div>\n<div><br></div>\n<div>Most likely a woman because I have a better chance of success 🥲</div>\n<div><br></div>\n<div>That doesn't make me a mysoginist. Just a sore loser </div>\n<div><br></div>\n<div>But I was relieved to pass 28. </div>\n<div><br></div>\n<div>28 is the median age most serial killers make their first kill  </div>\n<div><br></div>\n<div>I'm 33. So phew. So far</div>\n<div><br></div>\n<div>I think I was on my way to becoming a serial killer. </div>\n<div><br></div>\n<div>No, not just now. </div>\n<div><br></div>\n<div>In life. In general. </div>\n<div><br></div>\n<div>When people ask me how I want to die—</div>\n<div><br></div>\n<div>I say, lethal injection. </div>",
+  "context": "From document: I might kill someone.",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "c963ff34bfe9e0be223be770c2be60e4",
+  "relatedUnits": [],
+  "keywords": [
+    "kill",
+    "most",
+    "make",
+    "just",
+    "serial"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "0d060bd4-a7ce-40f1-a021-2bb71090c7be",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>- Create repos in personal profile (4444JPP)</div>",
+  "content": "<div>- Create repos in personal profile (4444JPP)</div>\n<div><br></div>\n<div>Music → Code:</div>\n<div>- Analyze compositional patterns</div>\n<div>- Extract algorithmic approaches</div>\n<div>- Build generative music systems</div>\n<div>- Apply structures to code architecture</div>\n<div><br></div>\n<div>Video → Code:</div>\n<div>- Extract workflows and processes shown</div>\n<div>- Identify tools and techniques</div>\n<div>- Document methodologies</div>\n<div>- Create tutorial/documentation repos</div>\n<div>```</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **Phase 3: The Unified Repository Structure**</div>\n<div><br></div>\n<div>Create the master integration point in your org:</div>\n<div><br></div>\n<div>### **`primordial-synthesis-engine`** (New Org Repo)</div>\n<div><br></div>\n<div>```</div>\n<div>primordial-synthesis-engine/</div>\n<div>├── 0-archive-layer/</div>\n<div>│   ├── inventory/</div>\n<div>│   │   ├── icloud-catalog.json</div>\n<div>│   │   ├── dropbox-catalog.json</div>\n<div>│   │   ├── hard-drives-catalog.json</div>\n<div>│   │   └── master-deduped-index.json</div>\n<div>│   ├── metadata/</div>\n<div>│   │   ├── temporal-timeline.json</div>\n<div>│   │   ├── thematic-clusters.json</div>",
+  "context": "From document: Contents_Table — chunk 34 (chunk 34/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "json",
+    "create",
+    "code",
+    "catalog",
+    "repos"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

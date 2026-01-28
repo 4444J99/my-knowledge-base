@@ -1,0 +1,26 @@
+{
+  "id": "e6ef7562-2488-4c7a-adca-0d9a527a7023",
+  "type": "insight",
+  "timestamp": "2021-12-12T20:19:35.000Z",
+  "title": "<div>The lens through which a thing is observed does not change the thing only h",
+  "content": "<div>The lens through which a thing is observed does not change the thing only how we see it. </div>",
+  "context": "From document: The lens through which a thing is observed does not change the thing…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f035d00fd2afc52e80062a4774081a19",
+  "relatedUnits": [],
+  "keywords": [
+    "thing",
+    "lens",
+    "through",
+    "which",
+    "observed"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

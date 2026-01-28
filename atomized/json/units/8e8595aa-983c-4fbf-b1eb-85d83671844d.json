@@ -1,0 +1,26 @@
+{
+  "id": "8e8595aa-983c-4fbf-b1eb-85d83671844d",
+  "type": "insight",
+  "timestamp": "2025-04-07T15:46:07.000Z",
+  "title": "<div># LEGAL INTAKE SYSTEM: PROBATE CASE TOOLKIT</div>",
+  "content": "<div># LEGAL INTAKE SYSTEM: PROBATE CASE TOOLKIT</div>\n<div>## I. MARKDOWN HEADERS + FORMATTING MAP</div>\n<div>## II. QUESTIONNAIRE — CORE + EXPANSION</div>\n<div>### [SECTION 0] RELATIONSHIPS &amp PARTNERSHIP</div>\n<div>### [SECTION 1] ESTATE OVERVIEW</div>\n<div>### [SECTION 2] FUNERAL HOME PAYMENTS</div>\n<div>### [SECTION 3] BANKING + FINANCIAL TRAIL</div>\n<div>### [SECTION 4] SCHEMES &amp MANIPULATION</div>\n<div>### [SECTION 5] EVIDENCE &amp DOCUMENTATION</div>\n<div>### [SECTION 6] TIMELINE BUILDER</div>\n<div>### [SECTION 7] REAL ESTATE &amp PROPERTY TRANSFERS</div>\n<div>### [SECTION 8] DIGITAL ACCESS &amp ONLINE FRAUD</div>\n<div>### [SECTION 9] LEGAL + MEDICAL MANIPULATION</div>\n<div>### [SECTION 10] DOCUMENT RED FLAGS &amp FORENSICS</div>\n<div>## III. LAWYER CALL SCRIPTS — 3 SIZES</div>\n<div>## IV. STORY REQUEST MODULE — 3 SIZES</div>",
+  "context": "From document: # LEGAL INTAKE SYSTEM: PROBATE CASE TOOLKIT",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "0bb918fa7170555237dfab13c646fbec",
+  "relatedUnits": [],
+  "keywords": [
+    "section",
+    "legal",
+    "estate",
+    "manipulation",
+    "sizes"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

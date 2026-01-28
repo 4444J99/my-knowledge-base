@@ -1,0 +1,26 @@
+{
+  "id": "59e46394-c049-45fd-90cd-861a5124d226",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:12:28.000Z",
+  "title": "<div><h1>USE_CASE_ROB.md</h1></div>",
+  "content": "<div><h1>USE_CASE_ROB.md</h1></div>\n<div><tt># USE_CASE_ROB.md  </tt></div>\n<div><tt>**REF_ID:** USE_CASE_ROB_001  </tt></div>\n<div><tt>**DATE:** 2025-04-12  </tt></div>\n<div><tt>**VERSION:** v1.0  </tt></div>\n<div><tt>**ROLE:** Execution Lens / Process-as-Product Mirror / Commercial Activator</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## PROFILE</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- **Name (Styled):** Rob [Last Redacted]  </tt></div>\n<div><tt>- **Roles:** Fitness Brand Builder, Lifestyle Coach, Digital Sales Leader  </tt></div>\n<div><tt>- **Domains:** Personal branding, entrepreneurship, B2B training, team-building  </tt></div>\n<div><tt>- **System Persona:** Operator | Tester | Frontline Avatar</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## KEY THEMES</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### 1. *&quotMost people don't need ideas—they need systems that work.&quot*</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Rob’s lens shows us:</tt></div>\n<div><tt>- **Ideas aren't scarce—execution is**</tt></div>\n<div><tt>- He values systems that can **be deployed immediately**</tt></div>",
+  "context": "From document: USE_CASE_ROB.md — chunk 1 (chunk 1/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "df76decd33c808f3cb503659c3a11ce2",
+  "relatedUnits": [],
+  "keywords": [
+    "use_case_rob",
+    "execution",
+    "lens",
+    "need",
+    "ideas"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "23794474-7ddb-440f-aa9f-0b4d202a1f14",
+  "type": "insight",
+  "timestamp": "2022-03-09T03:05:09.000Z",
+  "title": "<div>Why me?</div>",
+  "content": "<div>Why me?</div>\n<div>Cause why not me?</div>\n<div>I have plenty of answers after the second question. </div>",
+  "context": "From document: Why me?",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f9198902e024b4dacf24bef63a2b97b3",
+  "relatedUnits": [],
+  "keywords": [
+    "cause",
+    "have",
+    "plenty",
+    "answers",
+    "after"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

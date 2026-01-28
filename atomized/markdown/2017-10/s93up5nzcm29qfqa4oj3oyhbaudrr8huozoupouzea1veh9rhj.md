@@ -1,0 +1,31 @@
+---
+id: ac95750f-25fa-46cc-a704-f80dea9a2569
+type: insight
+created: '2017-10-19T23:15:11.000Z'
+document: 18dc3a996dd053a8e2f8b89fa16c3840
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - s93up5n
+  - zcm29qfqa4oj3oyhbaudrr8huozoupouzea1veh9rhjw1gs9b92zrc74rycyz2pq
+  - >-
+    bfijdtzegpqhqhnu7fdnwa39kalc8nhnlg09fynxdxze50pzdml8atc5gmfc21txgs7bxdtv2bjxgqghxvbzsfjwuabueftauvr0pnzbxibfrejgg0egcmzn230fjbimzpdj3bzrgjeeqwanaeuxs
+  - agtbevgl2apqxtiwxmbvmzqmboguow3vyecb272osp60csrit1iwwbv
+  - 0mpe7y8j7khnv84wrgguswmfgl8f2arn002ukgw4gvgmwaft0mbtp2ydahlaghe4r
+---
+# S93UP5N+zcM29QFqA4oJ3oYHbaUdRr8HUOZoUpouzEA1veh9RhJw1Gs9B92zrc74ryCYz2Pq+bfiJdtz
+
+## Context
+From document: L-day IN A CHAR — chunk 389 (chunk 389/966)
+
+## Content
+S93UP5N+zcM29QFqA4oJ3oYHbaUdRr8HUOZoUpouzEA1veh9RhJw1Gs9B92zrc74ryCYz2Pq+bfiJdtzeGPqHqhNu7fdnWa39Kalc8nHNLg09fYNxDxze50pzDMl8aTc5GmfC21TXgS7BXdtv2BjXgQGHXvBZsFJwUABUEFTAUvr0PNZbXiBfreJgg0EgcMzn230fJbIMZpDj3BzRgjEeqwANAEuXS+AGTbEVgL2ApQxTiwXmBVMzQmBOGuoW3vyEcB272Osp60CsRIt1iWwbv/0mPe7y8j7kHnv84wrGGuSWMFgl8f2Arn002Ukgw4gVGmWaFt0MBtP2yDAHLagHe4r+Kp0kd/H7GH7aEPP47RjLttwvjgvjALQBgKyRl0ImFtfLlXDuZhIlD1y9PYgfWKdNjDyANmsaJfzSjsbeRIRDwL89PHwVzjWQuy9gnbbTsaL83IEG5UaGQPnsNEInT9gO4Fsju+fdUBSJnJiRCRA4wV8p132xc/KYjtti+ek/fMvAH365PXipOI8YI45WI55Dtx7fir7M9DBctZpD0lFx8+x9Jj+GflhJIfEhHbxumO0gnPSdivdFfbjt59dd2bEpfMo5jbLYm57fOxjG2yLREJEfVCnxxGQd65JUEhYaT9JIe3uOB27L6tX+2kTveP9bt1uI4Ae5IjzgnY5PyUSbH9MVD6MVhBwD3tTt0SQ+ztGEh6SA/ncjflNO8P+1Dn++jFCm6w3jk1f8jk+fqzYaqx4fbYN0W7aJ9hvlJJjpz09hvPQ+R22on6O4f1M2Vqj1s8///yIFr///vtDx9+8dN7/LEYJdHR0hN6/UeLK3y5cuDDeKa3Dd9CNGzfGO6ze/94vJRO8V3q9ch/fByUNilJYoLBAYYFzzQLcSYpSWKCwQGGBFA81vsT5gKTsj17z5gEQ+BZ4PyVR22mMJmiuDNBll10WhIIPYXplGElwtiKg7v4CEfmn3y3W+Sd/8icRtikIb0JeAYzxRQ8z8w64vxI/kwHpBUaUGnr/+98fD4wf+chH0uc///nw/Kis34dC5Yj2EImQayZXri++FxYoLFBYoLBAYYGXmgVMzvqNb3wj7u333HNPSOp5rxTcyIuEe2CW3Ff1ulezXwLAIkhvstpNeMeb9Hdp/eJIEuzyWQBhyvYoGSTwL2FgDoAh/lMuZz/gnwSBiYFDQggwaTFAq57/
+
+
+
+---
+*Source: Document 18dc3a996dd053a8e2f8b89fa16c3840*

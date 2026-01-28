@@ -1,0 +1,31 @@
+---
+id: 8635aa2e-ddc6-4c34-9444-703f2e7e4796
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - p7kpe9liiocqxi
+  - yjgaa7bcazfhfnclc5v80w2zfbuwdt2omukkpbqjpmydvfjwlijegnzzzbrmcubpglcbk
+  - ej7onmhxshtdingg2edos2nmhplmiy0ct5agotewuilquygeckaqskka8nxauggcaoeeiigkyqi1
+  - 5ftgn0nuzo3kqywwxwuiaywcaaciiahnusnhi5cxrfzn7cldl35dmumethgdki
+  - >-
+    0ee0q9b6wei3rbvcksh9hfakj4xcebdoo9adugibrk0gygtaagiza8gqpqo0ocfclekkgly31xry9uwogc
+---
+# P7KPe9liIOCQxi+yjGAA7BcAzfhFNcLc5V80w2ZfbuWDt2omUKKPbQjpmYDVfJWLIjegnzzzbrMCUbpG
+
+## Context
+From document: Strike one — chunk 990 (chunk 990/4795)
+
+## Content
+P7KPe9liIOCQxi+yjGAA7BcAzfhFNcLc5V80w2ZfbuWDt2omUKKPbQjpmYDVfJWLIjegnzzzbrMCUbpGlCBk/eJ7oNmHxSHTDiNGG2Edos2NMHplMIY0CT5AgoTEwUIlquygECKAQSKkA8NxAUGGcAOEEIIgKyQI1+5FtGN0NUZo3kqYwwxWUiaYwcAAcIIAhNusNhi5CxrFZN7ClDl35DmUmetHGDKI+0EE0Q9B6Wei3RBVCKsh9hFaKj4xCEBDOo9AdUgiBrK0gYgTAAgIZA8GQpQO0OCFCLEkkgly31XrY9UwOgc+CaLvgTzjGQn5N0LU0RD/M0OEVN2GESl3ptaMNthMqPh1gP31a+jNsollZTFCvDiQKS3OLsz+OEgV/VyFDOKZGyeIGjX6XJR729tVm1emE1KFQ8SgAw/oQPFo8AJ13+AIQC4ePCMpSX4s+dT3/swqoJGQSDwkGUhBOEYTEvWr7OjXDu4Z9Uj14o5QfKteV1t2b0mNrUvx2gSZCyoQNySEqHxXLcdKfEa+ckMTZBAM8fiu3G5Sl1eK0khpxLg/EuoeqBsANAgCqSHdPIKIwxvurWHkQdIMYqQi2BB/yCeoHmGOONiud7W1goJ9vdjmcyOg+t6lOsU3DQfN7hwfUjThjpmQKe71Hmc2IhAhpTTC/96ke3dIlPqOxwpOpQpxSEkFAPCCFwTB8ELm+Ub6IWWI+KMfqv1MKBrC+Pt+hBgAGP1xFUIKYA0CFdzuwyg4tnmkfIoyq7Qb2I9T589LfVS/Ntv5ihs/6nTYWB2uBc3zot2DjxADDZAjwN7bO+XqPY67i2ibtuH7thoAqr8bCO8KiUOorB54pyAonuIhnnnrmkgCiesDDUbhGlQLDbLRuPOTlfNTu4HQvIEIv0DbiNZwCPVzuC5BCAEzMNDwF6xzOAjbOlKps1+oQbAiH5YClWFLIG7btiG5u0Lbvd1jttlDCgKMvQT8uJSBJgkEQ4cgAeVTPgAoAdiRNBJAGhuwgP+EkLmGaA0T6AAgA4AjMLyg+4JJqL4aoj6C6EPJ+wyxUR4F6YNISIVbIIhPgEFF3La7qos+GITwgMQ+UETzS4goUIMoiIKGMIM9AIA50CeFeAeuy6oe9LyvYrA48xmHW7D62D9WkpvQU4goTJm2SyMpCY1b1EKNe4+6qMKT+UWICMYwZB0RIAgNiKx1uqmQ
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

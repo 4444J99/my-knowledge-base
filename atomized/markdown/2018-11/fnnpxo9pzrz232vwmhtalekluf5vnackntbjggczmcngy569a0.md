@@ -1,0 +1,32 @@
+---
+id: 69f4f6c9-d870-404e-89e6-726dad7061af
+type: insight
+created: '2018-11-17T18:19:07.000Z'
+document: e329ec4e43d47fccabf1e22882189db8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    fnnpxo9pzrz232vwmhtalekluf5vnackntbjggczmcngy569a0jfhfespllgfvhzu64rorlf1c4is323cqobgruwr7ee9c0dlku5jzlll
+  - 3pazzwpqe11qezjixcsmu4hf4vr7v3eg2awwknmmqzebce3h61lsbqstjnvwsibkj
+  - ijg4k
+  - >-
+    waq6iw0awdc5hb69uah1cao3xygierkldh6zx0rnhr141t9hlua4yzbzgenfnmfut387yrpbg4bgbgc9en0rhitkzlgfnddnsmnpxr2klxmjvynxgm3q
+  - oyk0bxtiynnyeaczxoqphpqwvgsreoibdnyzlcdie3vvga4ktwriodot78ds
+---
+# fNnpXo9pZrZ232VWMhTALEkluf5VnackNtbJGGCzMcNgY569a0jfhFeSPllGFVhzu64rORLF1C4iS323
+
+## Context
+From document: Black Bean Salad — chunk 1930 (chunk 1930/2298)
+
+## Content
+fNnpXo9pZrZ232VWMhTALEkluf5VnackNtbJGGCzMcNgY569a0jfhFeSPllGFVhzu64rORLF1C4iS323CqoBGRuwR7Ee9c0dLku5JZLLl+3PAzzWPqE11qEzJIxcSMu4hf4vr7V3eg2awWknmMQzEbce3H61lsBQstJnVwsiBkj/iJG4k/wAq6IW0awdC5HB69uah1CaO3XyGIeRkLDH6Zx0rnhr141t9hlUA4yZBzgenFNMFuT387yRPbg4BGBgc9en0rHitkZlgfnDDnsMnpXR2kLXmJVYNxgM3Q+oyK0bXTIYnNyeAcZXOQpHpQWVGsreOIBDnyzlcdie3vVGa4ktwRIoDOT78ds+lPvtWhiH2eOMl5DnPZQprIX/TsAsVXJBKnPI56UAatjJ9tljMLk+uPau1ihijjVcBmJ6/yrmtGtjYs+8NuQ4VQAR+dbUupwRQCXOwq23BGQT/APXrKO4Gdrd7LaNDtcx7NxwvUmsT7XdXcQd0eVnIJAPOe351l6jqD32qtxukyBt6YPrXoVlbRQxK6J++KgkDsMVqBlJpUkixTTkRM4BZf7oHUfWtKYxwgIoCEL0HHA78+tTy3MB2wy/I0nQHnGe5rEmu4rif7J1dODxnGOwPvWm4GZqss1z+7hTaoYYA5Jx7e9a2lWe6FiYyjRnC5GDz2PrTrWBpJ8IhZccjbg8fw7u1dNmEKhkBRFwcE8j/ABIo2AzJ7hbdELjbxjv+PWsiW8MjvwSQQQBU2rSxXXmSJKu0YAx39+tZ2mK9xJJ524bVG09uuOeKzAk0623ytLM2VPyquDkNn1B5roJ5hYR740WSaPaFVjwwzyDzUziGAbpH+RRlRgDBAxkfjWDKBJN5gUMWbDgnp6ED1oALuX7XKWXAKgqpxjB69BVixiPLOMt0AA6/hT1gRwY4WXzEwcfxH1z9KtRMVR1bA2jduHbFADpJEjgYKdruSMHoPwrHWJmYOpxgc5zz70l2zTHy8KWT16n3H1q5ZwHazXIKlgMA85x14HSspbgRRhYHQiMsWOSR24zmtiS/SG38m5YksPlyODu/wp0EkoBG0ALnBAyMVyurQhrvzWkYkHdj+EY4pbAPEiySSBWyBwp64zXU6fAYo8ZAOOW6/wCeawrSxVQRLHhz0A+7xzzWr85Gd+dnGOmQa2A05ZguEj5YMctnIGelYk0T+czMclz
+
+
+
+---
+*Source: Document e329ec4e43d47fccabf1e22882189db8*

@@ -1,0 +1,32 @@
+---
+id: dc468333-2c25-4d40-8738-699e80fa8260
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ruinnnvnda7oarlnjc73oml17hwxo6virac1sq6yvsbu0dfgtd2v1z2qprxahayc4rwu
+  - >-
+    v0trl5bp4wamyzughhzybwubibweqv5dvfo8gxntbnrxjtcffgky5ugznlhumwxfbzjvm35zzzvjnxozr1fhzd0holqm
+  - >-
+    gjk719thqc9zlqwyempgw1ctuzu76ggdmawhtoomsuflhlgboofd9ffaphs32ympmelpzjix8x65mlyzpv
+  - v5vsth61jrftx8ubgzs
+  - reqpbegqk8zpjx8iruhthmt1rgsz86wl2fqtwxrwp
+---
+# ruINnnvNdA7OaRLNjC73OmL17HWXo6vIraC1Sq6YVSBU0DFGtd2V1z2QprXaHaYC4rWU/8+O+V0trL5b
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 9532 (chunk 9532/11534)
+
+## Content
+ruINnnvNdA7OaRLNjC73OmL17HWXo6vIraC1Sq6YVSBU0DFGtd2V1z2QprXaHaYC4rWU/8+O+V0trL5bp4WamYzuGhHzYBWubibWeqv5dvfo8gxntbnrxJTCFfGKY5UGznLHuMWxFBzjVM35zZzVjnxozr1FHzd0HOlQM//gjK719Thqc9zlqWYEmpgW1ctUZu76gGDmAwHTOOMSuflHlGbOOfD9ffAPhS32ympmelpzjIx8x65mLyZpV/v5vsTH61jrftX8UBgzs/reqPBegqk8ZpjX8iruHTHmt1rGSZ86wL2fqTwxrwp/1/ye+cP5Pe0lYt2cTTmOnXuS81wm9N6iOs9vzmD+wfm1zzf7/2v+/9r9x3mCR98Rj3WeCT5/Rsznjp9BEV11l/P5/MlqnIG6AuQZ+M86/7HKn31+7U9eqU576z3EXr3HtetfsP/nqyLX0vN3nuonz98x4b97/iWv/83Xuvn6H7tUdE3WhHH9H9PuPmfyGAfOc2lc8XhExrFW7n8yUS1DP9Wqfp7OnENhCbVEoivmR9VTHVfa1NcknGEom3lMOPCak8y9/83ze86c9jK/cc/fxm7n4zJ3OZ/3P6vgU+GP7b+ZPgdmhaZzoMUMx/6bk8xf898+Or/2X3vy8fP333P+5PmJSfwcARLnqt5T+FEDcjr/X/fkN5z5x/Vn9Ja8IvFaBGW/8kdepl6u3o73GqmZHHRRf8w25zltVhPBtM4d0QXEvV2TlGkG4jpSr+XefJ8ChUuO3kSKZrPmzDw4Sxz7+vrPef81r+XcV6TMf5zfZ9Wc/yN83hMrOLqL+Zh/0/wzx7lf4ym/X7QWNH8skRtfj3eFwmMSc/zuwzjz6LXCOW6cJ5hcS68bL0ay8IODT2mMNMy/3Fthjl5RyEORPhCYps6NL7Qq0QsF4rNJbHP3h/joEtOcD2Jl7wkHHwrG56hVhK8PjasHZ8671G4RaMIGdtWauxAxH1d0raFmDqqYgfn6YKbzmxi9M05+Nz5HqxFJYxiflF7M4C3s4ZZWcSLocu7YdZ8x4m+rDWCv9VTSHu5hDC8wLPdP8wqzs7PLJjSY6/eCv3Dc1DVH6xAZVffOnD27BmdP5frkqruYV9nM+3NVTpwcR86ceRrJQJyP+LwO5NRbidtUnixk9JofcROnY/USfCOYB0znE/Jl4ZzGlZf4JdVNCtSp5sgY
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

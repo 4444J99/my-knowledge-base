@@ -1,0 +1,60 @@
+---
+id: 50cfefb0-11a6-44da-951d-e118d5c55194
+type: insight
+created: '2025-04-07T17:53:48.000Z'
+document: 928848834a6e17b562461ef5f9d30f99
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: writing
+keywords:
+  - this
+  - from
+  - insurance
+  - estate
+  - another
+---
+# <div><b><tt>11. Was this from insurance, the estate, or another source?</tt></b>
+
+## Context
+From document: PROBATE CASE TOOLKIT — chunk 5 (chunk 5/12)
+
+## Content
+<div><b><tt>11. Was this from insurance, the estate, or another source?</tt></b><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><b><tt>12. Is the $80,000 part of a prepaid plan or post-death payment?</tt></b><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><b><tt>13. Any suspicious staff behavior or coercive action at the funeral home?</tt></b><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><b><tt>14. Any missing invoices, altered amounts, or billing inconsistencies?</tt></b><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><b><tt>SECTION 3: BANKING &amp FINANCES</tt></b></div>
+<div><b><tt>15. Known bank accounts in the deceased’s name:</tt></b><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+<div><tt><br></tt></div>
+
+
+
+---
+*Source: Document 928848834a6e17b562461ef5f9d30f99*

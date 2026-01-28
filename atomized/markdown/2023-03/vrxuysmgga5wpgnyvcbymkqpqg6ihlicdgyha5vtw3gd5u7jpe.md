@@ -1,0 +1,33 @@
+---
+id: f00e712f-4946-4c75-9f5b-c4bf102d0dae
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    vrxuysmgga5wpgnyvcbymkqpqg6ihlicdgyha5vtw3gd5u7jpe42slznof8vqwjz7gdqoy5vqd6g6eo2x
+  - fkmjfuz3qxsrf3myml9x0zqg8annkd1rkopw3yjhh9dgg
+  - >-
+    gzyndjkh3gregyw3kadszznybwivddytwafehy0zgvkrwdcb8kdythiunzxvb7ceoudzqn0gxihkgcab4qhjad4n0fujntna8ywznl
+  - x9csd6afqzpuy824hqd
+  - >-
+    i7hqvma7kdv5nkci59c9smy90vcslznkbfd8p7rmmf6z3mtzyefffpsuh6r0oehddsp4fhkab6ahin
+---
+# vRXuySMGGA5wPgNYVcBYMkQPQG6IHLicdgyhA5VTw3GD5u7jPe42sLznOf8VQWjz7gDQoy5vqD6G6eO2
+
+## Context
+From document: New Note — chunk 4587 (chunk 4587/8096)
+
+## Content
+vRXuySMGGA5wPgNYVcBYMkQPQG6IHLicdgyhA5VTw3GD5u7jPe42sLznOf8VQWjz7gDQoy5vqD6G6eO2x/Hem/fKmjFUz3qxsRf3mYMl9x0zQG8ANNkD1RkopW3Yjhh9DGg+GZynDjkh3greGYw3kAdsZzNYbwivDdYTwAfEhy0ZgvKrwDCB8kDythiUNzxvb7CeOUDzQN0GxIHKgcaB4QHjAd4N0FuJnTnA8YwZnl+s/x9Csd6AfQzPUy824HQD+I7HqvMA7kDv5NkcI59c9smY90vcsLznkBfD8p7rmMF6z3MtzyefffpsuH6r0oeHDdSP4fhkaB6AHiN+R9P/1wF7AnAaJKZvAJSY+waH4zxizsXHAClwqO9bQ6P25Lkebc91jD5wKpZc3znes2uyL68fe/INQMewKzHnkcMYMep477yvXN/vMXzcZtwxe58RfY/znuQ8XJu2r83z7OM4bfbnfflanOP9eR2vSd/m/bjvXO+HcdfDcy6sifmMPJ5cg/WYj/dnkq8D788j58V7IcYe/JnE5xL5xL1H2hhx8sh3TXtfh+t5DnGb12AOMXJ83clrMcb1ctYY94at7fz17yLD8UD0wPT0AeQxg/SG5wHmiZNDe4b+zWaI3gC9wXBAbyurk8e4AfowTwAtquhT9DkFRP+8gHfAc8B3IPMYfgdCxwDHMcPoAO7A82MEqzPPZvjdsHoMsbsGc5gPPP/4v/6HUIe+4Xtqkeuanse4c4gxBxifGk/89n9vg+4N2Xuv8TVl6WysQM85cWacCecDKE/fyvOMO4cx2mN1Ps+Ea/9N4kEAzuDe/9jyvOB5QPpJGp+pf/9Rk/MFoJ+uz/pQW4C73xcA9G77s8PvHb9XuL+417jnfK8x5nHGuPfoUwsVe0B63nPEGOc9YYAe9fklwx5JPBiX9HMaEN6K8rT9MxzPX0XAM74k8xd1ec8h5rkG6/HE3fdcYpgB9xhkN9xuID7uG5YnZoDeCvLk0ybHwLxj9A3De01AeMB416GdDM97HXI9hgeen8eDL/q3MxC84XnAeMP0gPCMYyjMY843QG/APgD0ej/jX1E9xucxV/05is/X91vz9f0USvSL9F0Z4Pwc/Xt8jr6To51QoE+o0KNIj6FUvwggXgYMH8PxqNAv0kM3C2WA9Ev0Hc5r+vxZotwA28u/1l/Au9TiBc8D0DeHtr7b
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

@@ -1,0 +1,26 @@
+{
+  "id": "55377783-3c3f-4c25-bcbb-bd9138e815b8",
+  "type": "insight",
+  "timestamp": "2025-11-05T02:08:19.000Z",
+  "title": "<div>  •  <b>T092</b> Create or confirm creation of meta‑synthesis‑orchestrator<",
+  "content": "<div>  •  <b>T092</b> Create or confirm creation of meta‑synthesis‑orchestrator</div>\n<div>  •  <b>T093</b> Create or confirm creation of archive‑resurrection‑engine</div>\n<div>  •  <b>T094</b> Create or confirm creation of ai‑context‑compiler</div>\n<div>  •  <b>T095</b> Create or confirm creation of repo‑lineage‑tracker</div>\n<div>  •  <b>T096</b> Create or confirm creation of graduation‑pipeline‑automator</div>\n<div>  •  <b>T097</b> Create or confirm creation of recursive‑feedback‑integrator</div>\n<div>  •  <b>T098</b> Implement the description and Copilot prompt for cognitive‑archaelogy‑tribunal</div>\n<div>  •  <b>T099</b> Implement the description and Copilot prompt for system‑constitution</div>\n<div>  •  <b>T100</b> Implement the description and Copilot prompt for meta‑synthesis‑orchestrator</div>\n<div>  •  <b>T101</b> Implement the description and Copilot prompt for archive‑resurrection‑engine</div>\n<div>  •  <b>T102</b> Implement the description and Copilot prompt for ai‑context‑compiler</div>\n<div>  •  <b>T103</b> Implement the description and Copilot prompt for repo‑lineage‑tracker</div>\n<div>  •  <b>T104</b> Implement the description and Copilot prompt for graduation‑pipeline‑automator</div>",
+  "context": "From document: Below are the two hierarchical to‑do lists.  Each atomic task is separated… — chunk 10 (chunk 10/29)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "3d614fe05eaf43ed6ced45e9304621d0",
+  "relatedUnits": [],
+  "keywords": [
+    "implement",
+    "description",
+    "copilot",
+    "prompt",
+    "create"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

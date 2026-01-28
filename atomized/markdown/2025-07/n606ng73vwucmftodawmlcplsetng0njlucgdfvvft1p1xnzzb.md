@@ -1,0 +1,30 @@
+---
+id: d698b247-963f-4f29-8bed-401606faf6b0
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 606ng73vwucmftodawml
+  - cplsetng0njlucgdfvvft1p1xnzzbo
+  - x5ltre7j
+  - vm602hj24kv6a952vrue93im52vjpmz
+  - m6e56r6kc2pxpdsafxztcipsdnlrzobfkgaabalnwqow9zq
+---
+# n/606NG73vWucmfTOdAwmL+cPlsetNg0njluCGdFVVfT1P1xnzzbO/x5lTre7J/Vm602HJ24kV6A952v
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 2455 (chunk 2455/18928)
+
+## Content
+n/606NG73vWucmfTOdAwmL+cPlsetNg0njluCGdFVVfT1P1xnzzbO/x5lTre7J/Vm602HJ24kV6A952vruE93iM52VJPmz/m6e56r6kc2pxpDSAFXZtCipSDnlrZobFKgAABAlNWQOw9ZQ+tjhEYUCAF3nGJ2SZrvFiouEDPYuY0H3IMtY2HRZv/YlqsopAjjzwyqzRddg8TeEeZ999/f1HFC17wgqyKhtXhA6QoPF5J/etf/7qoPf032hMD4F/ykpd0vgee7jTGON6sC/HW66KialQ28uPSHA6NKpKJKbWLHsURSXe242HaNJ11w0P+GU55ddBi49eoohm9Hq0vF55+GXnPe95T3h7Lw59X6XPR7J/Vm602HJ2Yt6/o6SabbJLlylYbAu+RnGwte7rrrrsWDZ4ggfegp1amapUAAQIEprKA2HsqH119I9BaYCSBdzzU+o9//KO4Dh7ov1/5yleylqbL7iED7+uuu65oyUDzqw0fIBXdidvOcUcunkWvssR90TDPet1mNZDTcIMXvehFKUs8J1+8oytu72cTxY/FcWkO/BpCu6LBLW8hxjPwaVazzTbbrMi79957F8f08ssvT90faGGgYuMgppM53i/Vt6LPfvazRfoYtp0lHv68Sp+LZv+s3my119EpnyfVN2NnhfQKvMuFJLc2C9mXQMueTrTAe6BTKyO1SoAAAQJTX0DsPfWPsR4S6CcwksA7KklvyTrzzDM/0/qvOq41XXYPGXjHHFHFRX/tzNi9VIYPkLKS4xHlCBcvueSSdKu2aFXMxhSBSpa472oEXUX2mFkqJU5jbqOWtDEtjPy4NAd+vUK71J6WgXek/8AHPlB0NgYwF9nTaN4IulKBgy4MVGwK/quPbVfrPfvss4sGv+Md78j2Dn9epc9Fs39Wb7bacHTSCJENNtggy5Wt9gq8I9lITraWPZ1ogXd0f6BTK1O1SoAAAQJTX0DsPfWPsR4SaBQYVeAdUxwVUUcMtG6ssM/OdNk9TOAd9yrTrebFFlusT5Wl3cMHSKXCZliMx8533nnnNAVaWGVPL8+QusdKvAa86FeM53/6059epIoZ1Av5eEK/mm/kx6U58GsI7Yq2tQ+8U2ejy0suueQKK6xQdDNu71cnw692vNeWgYqNW+tFpTvuuGOvAtP2NMhi8803TxuLheHPq/S5aPbP6s1WG45O+lGj
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

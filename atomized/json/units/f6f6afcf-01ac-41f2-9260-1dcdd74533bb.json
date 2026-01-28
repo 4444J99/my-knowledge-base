@@ -1,0 +1,26 @@
+{
+  "id": "f6f6afcf-01ac-41f2-9260-1dcdd74533bb",
+  "type": "insight",
+  "timestamp": "2025-04-19T03:49:35.000Z",
+  "title": "<div><tt>| Speech Style               | Linguistic  | Vocoder + RNG             ",
+  "content": "<div><tt>| Speech Style               | Linguistic  | Vocoder + RNG                     |</tt></div>\n<div><tt>| Fusion Morphology          | Structural  | Pitch Shift + FM                  |</tt></div>\n<div><tt>| Poetic vs Literal Balance  | Textual     | Filter, Symbol Flow               |</tt></div>\n<div><tt>| Symbol Injection Level     | Semantic    | Glitch, Dream Pressure            |</tt></div>\n<div><tt>| Narrative Drift            | Structural  | Delay, Reverb                     |</tt></div>\n<div><tt>| Thread Brightness          | Visual      | LFO (Jessica/Gabe)                |</tt></div>\n<div><tt>| Idea Overlap Density       | Conceptual  | Granulator, LFO, RNG              |</tt></div>\n<div><tt>| Myth Intensity             | Narrative   | RNG, Glitch, Shimmer              |</tt></div>\n<div><tt>| Compression of Thought     | Logical     | Compressor + Threshold            |</tt></div>",
+  "context": "From document: # [#modulatable_features] — chunk 2 (chunk 2/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "33e74666d931a4ba5b9d7be2a0bd5e2b",
+  "relatedUnits": [],
+  "keywords": [
+    "structural",
+    "symbol",
+    "glitch",
+    "narrative",
+    "speech"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

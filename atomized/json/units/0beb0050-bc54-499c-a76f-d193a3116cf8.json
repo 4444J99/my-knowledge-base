@@ -1,0 +1,26 @@
+{
+  "id": "0beb0050-bc54-499c-a76f-d193a3116cf8",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:14:16.000Z",
+  "title": "<div><tt>| `Surface Layer` | User-facing visuals | Clean, stylized display of pr",
+  "content": "<div><tt>| `Surface Layer` | User-facing visuals | Clean, stylized display of projects, threads, rituals |</tt></div>\n<div><tt>| `Logic Layer` | System commands, rituals | Handles all prefix actions, recursion, archive, memory |</tt></div>\n<div><tt>| `Symbol Layer` | Glyphs, leetSpeak, color codes | Artistic indicators of system status, project state |</tt></div>\n<div><tt>| `Data Layer` | Canonical names, safe logic | File paths, version tracking, ID resolution |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## PRIMARY UI COMPONENTS</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- **Dashboard View**  </tt></div>\n<div><tt>  - Panels = Projects, Rituals, Peers  </tt></div>\n<div><tt>  - Graph logic: Bloom → Threads → Outputs  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>- **Terminal View (`KONS0L`)**  </tt></div>\n<div><tt>  - Typable commands (e.g. `::deploy QUEER`)  </tt></div>\n<div><tt>  - Live feedback + echo from 4N3 or ARKIV subsystems</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- **Object Drawer**  </tt></div>\n<div><tt>  - Where system &quotobjects&quot live:  </tt></div>\n<div><tt>    - Prompts, poems, rituals, raw ideas  </tt></div>",
+  "context": "From document: InterfaceSchema.md — chunk 2 (chunk 2/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "053fb44bca49be288ba954030d6647fc",
+  "relatedUnits": [],
+  "keywords": [
+    "layer",
+    "rituals",
+    "logic",
+    "system",
+    "projects"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

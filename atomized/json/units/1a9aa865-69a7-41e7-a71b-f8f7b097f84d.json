@@ -1,0 +1,26 @@
+{
+  "id": "1a9aa865-69a7-41e7-a71b-f8f7b097f84d",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>- KNNC0002_nature_of_code_fusion</div>",
+  "content": "<div>- KNNC0002_nature_of_code_fusion</div>\n<div>- KNGB0202_geb_recursive_mirrors</div>\n<div><br></div>\n<div>### FILES POPULATED PER UID FOLDER:</div>\n<div>- README.md</div>\n<div>- UID_MAP.md</div>\n<div>- MYTH_AGENT.md</div>\n<div>- SYMB0L_FUSION.md</div>\n<div>- REVISION_HISTORY.md</div>\n<div><br></div>\n<div>### GLOBAL FILES:</div>\n<div>- WAVE_TRACKER.md (Waves 1–4 assigned)</div>\n<div>- SPELLBOOK_STUDY_SCHEDULER.md (Ritual schedule defined)</div>\n<div>- SYSTEM_HEADER_NOTE.md</div>\n<div>- SYSTEM_FOOTER_NOTE.md</div>\n<div>- FULL_STRUCTURE.md (this file)</div>\n<div>- OS_SYLLABUS/README.md (SY-OS_02-00)</div>\n<div><br></div>\n<div>### AGENTS DEFINED:</div>\n<div>- The Oracle (Recursion Engine)</div>\n<div>- The Language Smith (Symbolic Vocoder)</div>\n<div>- W4V3L0RD (Wave Generator)</div>\n<div>- Echo Daemon (Mirror Chamber)</div>\n<div><br></div>\n<div>### FOLDERS ORGANIZED:</div>\n<div>- ACTIVE_CORE/</div>\n<div>  - OS_SYLLABUS/</div>\n<div>  - KNST0000_.../</div>\n<div>  - KNNO0001_.../</div>\n<div>  - KNNC0002_.../</div>\n<div>  - KNGB0202_.../</div>\n<div><br></div>\n<div>## EXPORT NOTES:</div>\n<div>This folder is ready for duplication, Git versioning, vault publishing, or collaborative expansion.</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 399 (chunk 399/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "files",
+    "folder",
+    "readme",
+    "defined",
+    "this"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

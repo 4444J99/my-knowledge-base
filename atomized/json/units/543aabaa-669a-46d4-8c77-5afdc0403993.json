@@ -1,0 +1,26 @@
+{
+  "id": "543aabaa-669a-46d4-8c77-5afdc0403993",
+  "type": "insight",
+  "timestamp": "2025-12-11T19:52:56.000Z",
+  "title": "<div><b>Invitation to Collaborate: Omni-Dromenon-Engine Narrative Co-Architectur",
+  "content": "<div><b>Invitation to Collaborate: Omni-Dromenon-Engine Narrative Co-Architecture</b><br></div>\n<div><br></div>\n<div>Chris,</div>\n<div><br></div>\n<div>I’m inviting you to join me as a <b>narrative co-architect</b> for the Omni-Dromenon-Engine—a real-time, audience-input performance system. This is not a commission; it’s an intellectual partnership to establish the dramaturgical foundation for all future collaborations.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div><b><h3>System Overview</h3></b><h3><br></h3></div>\n<div><br></div>\n<ul class=\"Apple-dash-list\">\n<li><b>Omni-Dromenon-Engine</b>: A platform where audiences become computational agents, influencing narrative, emotional tone, and thematic focus in real time, while maintaining performer authority.</li>\n<li><b>Technical Achievements</b>:</li>\n<ul class=\"Apple-dash-list\">\n<li>70+ pages of documented frameworks across 47+ project files</li>\n<li>Proof-of-concept prototype with sub-100ms latency</li>\n<li>Full Node.js server infrastructure, real-time consensus algorithms, audience/performer interfaces</li>\n<li>11 modular GitHub repositories with professional infrastructure</li>\n</ul>\n<li><b>Core Innovation</b>: A cross-disciplinary, real-time architecture unifying theater, music, dance, opera, and visual art under a single audience-agency framework.</li>",
+  "context": "From document: Chris, — chunk 2 (chunk 2/25)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "95023b367d0cafd95246c623bb5c2f5c",
+  "relatedUnits": [],
+  "keywords": [
+    "real",
+    "time",
+    "omni",
+    "dromenon",
+    "engine"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

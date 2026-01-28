@@ -1,0 +1,26 @@
+{
+  "id": "a948d19f-f4e8-49d4-a174-4691fc7a70eb",
+  "type": "insight",
+  "timestamp": "2025-12-04T16:48:25.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## STRUCTURAL</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| ID | Left | Right | RNG | Tags |</tt></div>\n<div><tt>|-----|------------|------------|-------|------------------------|</tt></div>\n<div><tt>| 02 | complex | simple | d6 | [logic, visuals] |</tt></div>\n<div><tt>| 05 | machine | organic | d10 | [form, flow] |</tt></div>\n<div><tt>| 10 | hidden | exposed | d12 | [secrecy, reveal] |</tt></div>\n<div><tt>| 29 | vertical | horizontal | d20 | [axis, layout] |</tt></div>\n<div><tt>| 34 | opacity | clarity | d8 | [UI, transparency] |</tt></div>\n<div><tt>| 35 | stable | shifting | d12 | [rules, chaos] |</tt></div>\n<div><tt>| 33 | active | passive | d4 | [motion, rest] |</tt></div>\n<div><tt>| 41 | gravity | levity | d6 | [tone, rhythm] |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## NARRATIVE</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| ID | Left | Right | RNG | Tags |</tt></div>\n<div><tt>|-----|------------|------------|-------|------------------------|</tt></div>\n<div><tt>| 16 | plot | drift | d100 | [story, recursion] |</tt></div>\n<div><tt>| 20 | point | godview | d1000 | [POV, omniscience] |</tt></div>",
+  "context": "From document: # synth-wave-modules — chunk 7 (chunk 7/51)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "1f0200e52addd3bec3d0beb78cca4a02",
+  "relatedUnits": [],
+  "keywords": [
+    "left",
+    "right",
+    "tags",
+    "structural",
+    "complex"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

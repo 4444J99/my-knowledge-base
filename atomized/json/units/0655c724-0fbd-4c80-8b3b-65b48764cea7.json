@@ -1,0 +1,26 @@
+{
+  "id": "0655c724-0fbd-4c80-8b3b-65b48764cea7",
+  "type": "insight",
+  "timestamp": "2025-12-21T15:18:12.000Z",
+  "title": "<div>Provide a table of contents for this thread as a user prompt with the title",
+  "content": "<div>Provide a table of contents for this thread as a user prompt with the title and then your response titled and do it for the whole thread please (in markdown code window within chat below);</div>",
+  "context": "From document: Provide a table of contents for this thread as a user prompt with…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "9b2850a54ecb6de5bec05f51fe092386",
+  "relatedUnits": [],
+  "keywords": [
+    "thread",
+    "provide",
+    "table",
+    "contents",
+    "this"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

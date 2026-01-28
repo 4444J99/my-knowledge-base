@@ -1,0 +1,26 @@
+{
+  "id": "b31de422-390b-4e68-ad4a-915b39c2828a",
+  "type": "insight",
+  "timestamp": "2025-07-06T01:33:11.000Z",
+  "title": "<div>Optimization:</div>",
+  "content": "<div>Optimization:</div>\n<div>  •  Preload tutorial assets during app launch to avoid stuttering.</div>\n<div>  •  Use object pooling for ghost checkers and animated trails to reduce instantiation overhead.</div>\n<div>  •  Cache frequently accessed lore content locally to minimize backend queries.</div>\n<div>Challenges to Mitigate:</div>\n<div>  •  Balance tutorial depth with pacing—offer a “Quick Play” mode bypassing onboarding.</div>\n<div>  •  Ensure philosophical prompts are optional to avoid disrupting casual gameplay.</div>\n<div>4. The Archivist AI Chaperone</div>\n<div>Approach:</div>\n<div>  •  Diegetic Presence: Model the Archivist as a low-poly 3D avatar (robed figure or hologram) using Unity’s Animator. Place it subtly in the scene (e.g., corner of the board) to avoid clutter.</div>\n<div>  •  Visual Cues: Highlight valid moves with glowing outlines (via Shader Graph) and animated arrows. Use a lightweight state machine for hint logic, avoiding heavy AI inference.</div>\n<div>  •  Voice Customization: Offer three voice personas (grandparent, philosopher, child) using TTS (e.g., AWS Polly) with pre-recorded fallbacks for offline play.</div>\n<div>  •  Socratic Dialog: Implement mid-game prompts as 3D speech bubbles, triggered by game state (e.g., risky move). Limit frequency to avoid annoyance.</div>",
+  "context": "From document: title: \"Backgammon Chaperone: Mobile Design Critique | Shared Grok… — chunk 14 (chunk 14/20)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "9fd27aa005603b4099800d554c6afb3d",
+  "relatedUnits": [],
+  "keywords": [
+    "avoid",
+    "with",
+    "tutorial",
+    "animated",
+    "offer"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

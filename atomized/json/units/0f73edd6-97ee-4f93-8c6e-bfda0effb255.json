@@ -1,0 +1,26 @@
+{
+  "id": "0f73edd6-97ee-4f93-8c6e-bfda0effb255",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 3. Weekly Items &amp Decay System (Afterglow &amp Ether Dissolution)</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Items now have durations &amp lingering effects.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Items are strongest the week they are claimed.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Each item has a “decay” system where effects weaken over time.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Afterglow lasts for one additional week before the item dissolves into “The Ether.”</div>\n<div><br></div>\n<div>Example: Week 6 Items &amp Decay</div>\n<div><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Item</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Week 6 Effect (Full Power)</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Week 7 Effect (Afterglow)</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 199 (chunk 199/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "border",
+    "style",
+    "width",
+    "face"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

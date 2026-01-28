@@ -1,0 +1,32 @@
+---
+id: e4a3714d-4d93-47bb-9acb-4bcd7bf30087
+type: insight
+created: '2021-05-26T23:26:41.000Z'
+document: d338c9f6bd92d1f92f8eaa091bec0082
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - nmv5cjyif8anmv5cjma5yiuj8ih
+  - >-
+    oooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkap
+  - fyiiigaooooakkkkaciiigdkvengci
+  - ihhr
+  - >-
+    pxkv6syq6lhgvyyipcvwoq6u9hj5kylqmed6exqkwmeiiiqakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkacrthzvfxkwrworh0fqqqs3mqwwruzq9c03t49pg8tfmduwb1p
+---
+# oooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAo
+
+## Context
+From document: Sausage & Peppers — chunk 327 (chunk 327/394)
+
+## Content
+oooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP//U/fyiiigAooooAKKKKACiiigDkvENgci+iHHR/wCh/pXKV6syq6lHGVYYIPcVwOq6U9hJ5kYLQMeD6exqkwMeiiiqAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACrthZvfXKwrwOrH0FQQQS3MqwwruZq9C03T49Pg8tfmduWb1P+FJsC7GixosaDCqMAewp9FFQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQB/9X9/KKq7m9TRub1NNoC1RVQs2Oppm9/7xosBeoqjvf+8aazv/eP50IDQorO8x/7x/OkMj4+8fzosBpU10SRDHIoZW4IPQ1meZJ/eP50hlk/vH86LAYmoeH3QmWx+Zf7ncfT1rmmVkYq4KkdQetd95sv98/nVaaNJmzMocjuwz/OmmBxFFdj9ltv+eSf98imG2tv+eSf98immByNFdd9mt/+eSf98imG3t8/6pf++RQmBylFdV9nt/8Ankv5Cmm3t/8Ankv5Ci4HL0V0/wBng/55r+Qo+zwf881/IUNgcxRXT/Z4P+ea/kKYYYO0a/kKEwOboro/Ih/55r+Qo8iH/nmv5CmBzlFdH5EP/PNfyFHkQ/8APNfyFLmA5yiuj8iH/nmv5CjyIf8Anmv5CjmA5yiuj8iH/nmv5CjyIf8Anmv5CjmA5yiuj8iH/nmv5CjyIP8Anmv5CjmA5yiui8mD/nmv5CjyoP8Anmv5Ci4HO0V0XlQf881/IUeVB/zzX8hRcDnaK6ExQ/8APNfyFJ5UP/PNfyFMDn6K6DyYf+ea/kK
+
+
+
+---
+*Source: Document d338c9f6bd92d1f92f8eaa091bec0082*

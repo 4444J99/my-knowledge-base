@@ -1,0 +1,26 @@
+{
+  "id": "1d4bdac3-6b87-4548-ba34-871bd312cafe",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>```</div>",
+  "content": "<div>```</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **Practical Implementation Steps**</div>\n<div><br></div>\n<div>### **Week 1: Archive Inventory**</div>\n<div>1. **Mount all sources** (iCloud, Dropbox, drives)</div>\n<div>2. **Run file system scan** - Create complete inventory</div>\n<div>3. **Generate checksums** - Identify duplicates</div>\n<div>4. **Export metadata** - Build master catalog</div>\n<div><br></div>\n<div>### **Week 2: Content Extraction**</div>\n<div>1. **Process writing** - Extract all text, OCR scans</div>\n<div>2. **Process music** - Extract metadata, lyrics</div>\n<div>3. **Process video** - Generate transcripts, thumbnails</div>\n<div>4. **Create structured database** of extracted content</div>\n<div><br></div>\n<div>### **Week 3: Semantic Analysis**</div>\n<div>1. **Run AI analysis** on all content</div>\n<div>2. **Generate summaries** for each piece</div>\n<div>3. **Extract themes and concepts**</div>\n<div>4. **Build knowledge graph** of connections</div>\n<div><br></div>\n<div>### **Week 4: Integration**</div>\n<div>1. **Connect archive to AI contexts** - Which chats referenced which files?</div>\n<div>2. **Connect archive to personal repos** - Which code came from which ideas?</div>",
+  "context": "From document: Contents_Table — chunk 39 (chunk 39/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "week",
+    "which",
+    "archive",
+    "generate",
+    "content"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

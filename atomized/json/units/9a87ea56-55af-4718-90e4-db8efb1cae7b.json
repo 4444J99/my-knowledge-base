@@ -1,0 +1,26 @@
+{
+  "id": "9a87ea56-55af-4718-90e4-db8efb1cae7b",
+  "type": "insight",
+  "timestamp": "2022-08-21T23:46:09.000Z",
+  "title": "<div>So-and-so committed suicide, they didn’t die. </div>",
+  "content": "<div>So-and-so committed suicide, they didn’t die. </div>\n<div><br></div>\n<div>So-and-so died. </div>\n<div><br></div>\n<div>Very different. </div>",
+  "context": "From document: So-and-so committed suicide, they didn’t die.",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "ab5579088e8e659f7df3b041a7488cdc",
+  "relatedUnits": [],
+  "keywords": [
+    "committed",
+    "suicide",
+    "they",
+    "didn",
+    "died"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

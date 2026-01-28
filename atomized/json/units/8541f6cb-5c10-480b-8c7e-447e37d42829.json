@@ -1,0 +1,26 @@
+{
+  "id": "8541f6cb-5c10-480b-8c7e-447e37d42829",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Character Archetype Buffs/Debuffs – Each archetype interacts differently with challenges.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Day/Night Phases – The setting alters challenge parameters (some characters gain boosts at night, others during the day).</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Current Buffs/Debuffs – Temporary effects from XP trades, past failures, or artifacts.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Random Selection Elements – Some weeks will randomly assign skill check types (group vs. individual vs. whole class).</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Example: Skill Check Complexity in Action</div>\n<div>| Week 6: The Hero’s Trial (Classical Mythology) |</div>\n<div>|—————————––|––––––––|</div>\n<div>| Archetype Buff/Debuff | The Trickster gets a +10 persuasion bonus but must lie to pass. |</div>\n<div>| Day/Night Phase Effect | If this challenge occurs at night, players must work in pairs. |</div>\n<div>| Current Buff/Debuff | A student who used the Aegis shield may ignore one failure. |</div>\n<div>| Random Selection Element | The class must draw from a deck—some will be forced into individual tests. |</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 316 (chunk 316/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "zapfdingbatsitc",
+    "night",
+    "archetype"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

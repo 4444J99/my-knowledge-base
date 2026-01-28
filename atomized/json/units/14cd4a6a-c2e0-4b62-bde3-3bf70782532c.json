@@ -1,0 +1,26 @@
+{
+  "id": "14cd4a6a-c2e0-4b62-bde3-3bf70782532c",
+  "type": "insight",
+  "timestamp": "2024-06-04T14:32:48.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>**Initial Investment:**</div>\n<div>- We are seeking three months of operating costs to get the business started, with the option to renew or reinvest, and pay back at a 25% return on investment. This will be incorporated into the cost with the assumption that the investor will renew every three months.</div>\n<div><br></div>\n<div>**Client Acquisition:**</div>\n<div>- We aim to offer 1 free trial spot per month, with the goal of signing 8 paying clients in total each month.</div>\n<div>- Ad spend will be $5,000 monthly until 10% of the previous month’s revenue exceeds $5,000.</div>\n<div><br></div>\n<div>**Staffing Plan:**</div>\n<div>- **Virtual Assistants (VAs):** Hire 1 VA for every 7 new clients for client servicing at $25/hour (full-time). Also, hire 1 VA per 100 leads for sales outreach.</div>\n<div>- **Replacement of Workload:** The COO will replace initial service and sales workload after reaching 15 clients to focus on expansion.</div>\n<div><br></div>\n<div>**Turnover Rate:**</div>\n<div>- Account for a 2.5% monthly turnover rate for both free trial and paying clients.</div>\n<div><br></div>\n<div>(Continue to the next part for further details on the financial projections and other plan elements.)</div>",
+  "context": "From document: DWV Media — chunk 5 (chunk 5/20)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "aecf5ea345ca08ade51033542abc0b80",
+  "relatedUnits": [],
+  "keywords": [
+    "will",
+    "clients",
+    "with",
+    "month",
+    "initial"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

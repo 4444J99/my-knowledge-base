@@ -1,0 +1,26 @@
+{
+  "id": "5acbe3d8-16f3-4787-8843-0b96c153e395",
+  "type": "insight",
+  "timestamp": "2025-06-27T06:10:52.000Z",
+  "title": "IECgoIABoGCpIhEgQIAAAQIECBAgQIAAAQIECBAgQIAAAQOAO0CAAAECBAgQIECAAAECBAgQIECAAAEC",
+  "content": "IECgoIABoGCpIhEgQIAAAQIECBAgQIAAAQIECBAgQIAAAQOAO0CAAAECBAgQIECAAAECBAgQIECAAAECBAoKGAAKlioSAQIECBAgQIAAAQIECBAgQIAAAQIECBAwALgDBAgQIECAAAECBAgQIECAAAECBAgQIECgoIABoGCpIhEgQIAAAQIECBAgQIAAAQIECBAgQIAAAQOAO0CAAAECBAgQIECAAAECBAgQIECAAAECBAoKGAAKlioSgbEK/P333+3ly5djPZ5zESBAgAABAgQIECBAoKzAX3/9VTabYAQIECCwvoABYH0bXyFAYEICaw/+f/3113bs2LH2zz//TOhdvQ0BAgQIECBAgAABAgQIbFbg1KlT7dy5c+3OnTub/S2+jwABAgQKCHzz9t2PAjlEIEBghAJrD/4vX77crly50h4/ftyePn3aHj582BYXF0d4WkciQIAAAQIECBAgQIBAXYGlpaX26NGjtmvXrnbixIl24cKFduDAgbqBJSNAgACB9wIGABeBAIGJC3zqwX/fGldXVw0AExf3hgQIECBAgAABAgQIENhYYG0AuH///vtv2rlzpyFgYy5fJUCAQBkBA0CZKgUhMHuBjR7899MZALqEVwIECBAgQIAAAQIECAwn8OEA0D/1wyHg/PnzbWVlpX/JKwECBAgUETAAFClSDAKzFNjMg/9+PgNAl/BKgAABAgQIECBAgACB4QQ+NQD0TzcEdAmvBAgQqCdgAKjXqUQEBhNYe/B/6dKldvXq1f//O/77v+pnvUMYANaT8esECBAgQIAAAQIECBCYnsBGA0D/VENAl/BKgACBOgIGgDpdSkJgMIEvefDfD2cA6BJeCRAgQIAAAQIECBAgMJzAZgaAfhpDQJfwSoAAgfkXMADMf4cSEBhM4Gse/PdDGgC6hFcCBAgQIECAAAECBAgMJ/A5A0A/lSGgS3glQIDA/AoYAOa3OycnMJjAJB7898MaALqEVwIECBAgQIAAAQIECAwn8CUDQD+dIaBLeCVAgMD8CRgA5q8zJyYwmMAkH/z3QxsAuoRXAgQIECBAgAABAgQIDCfwNQNAP+WOHTva7t2724kTJ9r58+fbyspK/5JXAgQIEBipgAFgpMU4FoFZCkzjwX/PYwDoEl4JECBAgAABAgQIECAwnMAkBoB+WkNAl/BKgACB8QsYAMbfkRMSGExg",
+  "context": "From document: 4320 Mariners Cove Dr 2.m4a — chunk 50 (chunk 50/225)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "3daa4ef2da2c63b0f7b42279befdb3fc",
+  "relatedUnits": [],
+  "keywords": [
+    "iecgoiabogcpihegqiaaaqiecbagqiaaaqiecbagqiaaaqoao0caaaecbagqiecaaaecbagqiecaaaecbaokgaakliosaqiecbagqiaaaqiecbagqiaaaqiecbawalgdbagqiecaaaecbagqiecaaaecbagqiecgoiabogcpihegqiaaaqiecbagqiaaaqiecbagqiaaaqoao0caaaecbagqiecaaaecbagqiecaaaecbaokgaakliosgbek",
+    "p333",
+    "3ly5djpz5zesbagaabagqiecbaokzax3",
+    "9vtabyaqieccwvoabyh0bxyfayeicaw",
+    "3113bs2lh2zz"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

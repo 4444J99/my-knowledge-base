@@ -1,0 +1,32 @@
+---
+id: 595be68c-b0a4-4959-96bc-608187a66ef6
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    b8ymvintmqut7g3zthtqkvjvuqowwsmjl1kwm8g7pltsoajzyjv47xdcz3xi9lpgh40vxgdrismvykajvbdif2razmpl9jbxngldg8athdzt8rxwdmtvpc
+  - >-
+    oufldxcajgbpjhqtmdg1o24ekneoqnpiqbwyco3pxaigqb4larjhs0bj2jgsaiuejzm0nx1rvoxwwg4xjgrlpiow9nrjm21zgxlsoakuqobz6jjmll5gc5vyfj0i
+  - on68wntsvvm03dgkoj1jka89
+  - xcjmwvc9onsv2yvnvglp
+  - 48iadnjfs3kmig3z3qam5i
+---
+# TcA+b8yMVINtMQUT7G3zthTqkVjvUQOWWsmjL1KWM8g7pLTsOAJzYJV47XDcZ3xI9Lpgh40vxgdRIsMV
+
+## Context
+From document: Strike one — chunk 3932 (chunk 3932/4795)
+
+## Content
+TcA+b8yMVINtMQUT7G3zthTqkVjvUQOWWsmjL1KWM8g7pLTsOAJzYJV47XDcZ3xI9Lpgh40vxgdRIsMVyKAJVBDiF2RAzMpL9jBXnGLDg8AtHDZt8RXWdMtVpC+OufLdXCajGBPjhQtmDG1o24EKNEOqnpiqbWyco3pxaIGQB4lArjHs0bJ2jGsaiUejZm0nX1RVoXwwg4xJGRlpIOW9NRJm21zGXlSoAkUqObz6JjMLl5gC5VyFJ0I//ON68WnTsvvm03DgkOj1jKA89/pCr/5QK/xCJmwvC9oNSV2YvnvGLP+48iAdNjFS3kMiG3Z3QaM5I/GiNw7mBvwoPh8Epz7CUkBqt6N/Qg+Q5pzbAYGJG6lBClXBQYfADui83AXewsWxq9Ksh2U7o1Nnl7GM1Y5857RHEXHHtiJCQDK6Ya8gGykhyzei6g0dqJo5KbRliir/A5ndeJDGAINDCAVkoIQxeJYPmJkySQmHGEA0SRM8coz9aKfbEZOUgCu3KS/pOA0zkwFyEw736S7kiCms8zMq0cDygZRBgyUTqT1ewAVcwJyLOoMXmhLQMALwq4438ivjGJhIgIM00IqNCQ1wOqoNwYF4kQKssAI1+Z1HcyNEGYXOyzK++4jzKTqn64yKCIL/OACENAMpHNA0PtupDSyCScM3HKk5qdiFwZiYm1IgQXw2JzACJLSSMymBVsAGIoyQyCOpe0Ey5bo71QAL1fuPgjCBE4ma5mAKbjMfa6sNKBID3DJE8PkolPigD4Acg1GtvIucPTKn5ZqImLLBQ3kAILjEW8ypIAACQfwkh7hBFlzF4Ik9PfOorREgYqKDdyIFPrgB4TEA3ruBriLB+0rEsRAsKgSrWwqgvFMP5sMKHWGM46uOP3AoC0mDOvA1h+C+CcoCPHBHWQooNQE+zWnCNvGoPLyLMuA84YI9CDoYLZmYOkC7GXu4CYhEoSGlvtACc2CDpAguWBS6jniBuyoE/zPAiCuQtxOjEArwn8XgxAshkUZqi+Z4jh64A1JUggOYgHI7DU0MxrFYOySEH+AylivUAsBSLSSBiVQhQOl5vQjcgM/hAIS0gbJprfgBrxYEG1CMijn5we1KxkvxBFjIhDYgwWJEigxiQsfAEzKil/8amMx5RNATjXBsvjwsR4xAIGm8DDswiT3hnzppAzgsRsEJLZVIM2vcjRGwAWSjKzPC
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

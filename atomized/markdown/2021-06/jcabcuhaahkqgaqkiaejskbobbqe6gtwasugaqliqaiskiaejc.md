@@ -1,0 +1,31 @@
+---
+id: 3e0e2c28-7039-4ca9-b57d-9418b6f0bc8d
+type: insight
+created: '2021-06-24T19:10:13.000Z'
+document: b5de64ea907b6e44ec94b342683f3041
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    jcabcuhaahkqgaqkiaejskbobbqe6gtwasugaqliqaiskiaejcabcuhaao1mqeggkxfhtulaahkqgaqkiaejseacepcabopeqeggtmcdvgiskiaejcabcuhaahkqgaqk0mgefaqaexdcmwqkiaejseacepcabcqgaqlioe4efatqbnzpjsabcuig8qn897
+  - bfxfukijseacepcabcrqjwkt12lep5wabcqgaqk0fifff
+  - 01vpfee2hs2lhhztffdo
+  - 880747bffwscba0phjh0baq0urgiskiaejcabcbqeaqwblqdsnsqgaqliofui
+  - pzzz9hwf
+---
+# JCABCUhAAhKQgAQkIAEJSKBOBBQE6gTWaSUgAQlIQAISkIAEJCABCUhAAo1MQEGgkXfHtUlAAhKQgAQk
+
+## Context
+From document: TODAY FEELS LIKE A REAL BAD GO — chunk 112 (chunk 112/940)
+
+## Content
+JCABCUhAAhKQgAQkIAEJSKBOBBQE6gTWaSUgAQlIQAISkIAEJCABCUhAAo1MQEGgkXfHtUlAAhKQgAQkIAEJSEACEpCABOpEQEGgTmCdVgISkIAEJCABCUhAAhKQgAQk0MgEFAQaeXdcmwQkIAEJSEACEpCABCQgAQlIoE4EFATqBNZpJSABCUig8Qn897//bfxFukIJSEACEpCABCRQJwKT12lep5WABCQgAQk0FIFff/01vPfee2Hs2LHhzTffDO+880747bffwsCBA0PHjh0baq0uRgISkIAEJCABCbQEAQWBlqDsNSQgAQlIoFUI/Pzzz9Hwf+yxx8KoUaPCs88+G7766qswxRRThCmnnDLMN9984YcffmiVtXlRCUhAAhKQgAQk0NoEJvl9/GjtRXh9CUhAAhKQQJYE3n///fDwww+HO++8Mzz99NPhn//8Z5h//vnDyiuvHNZYY42w5JJLhtlnnz3MPPPMYY455giTTmoGXZb8nUsCEpCABCQggbZBwAiBtrFPrlIC7YYAGuW///3vMM0007Sbe/ZGsyGAp/+ll14KI0eODHfddVd49913w0wzzRQFgB49eoS11lorigJEBzgkIAEJSEACEpCABEIwQsCnQAISaCgCd999d7jsssvCscceGxZbbLGGWpuLaUwCX3zxRbj//vvDddddF0aPHh0FpRVXXDH07NkzdO/ePSy66KJhqqmmaszFuyoJSEACEpCABCTQigSMEGhF+F66/RD4z3/+EyhoNvXUU7efm67yTl977bXo3e3fv7+CQJUM28tp1AK4/fbbw/Dhw6MQMO2004Z11103bLnllmHttdeOKQHthYX3KQEJSEACEpCABKohoCBQDTXPkUAFBAh/P/fcc8Pzzz8fjjzyyLDEEktUcHbrH/qvf/0r/Pjjj2HuuecOk0wySYssaLLJJgu2g2sR1AUvQvV9Qu+/++67sPDCC4dVV101TD554/zvgtQAagMMHTo0PPXUU9Hw32WXXULfvn3D8ssvr/BWcFd9UQISkIAEJCABCfyRQON8wvvj2nxFAk1B4IUXXgjnnHNO+Pjjj0OHDh3C4MGDW8ywrhUgQsDRRx8dva/7779/6NevX+q1f/vtt2GGGWZIfXyyVmoIIAb88ssvyUvt9nvCAoGkJQbXGzFiRDj55JPD66+/HohsmWWWWQLRGgceeGCY
+
+
+
+---
+*Source: Document b5de64ea907b6e44ec94b342683f3041*

@@ -1,0 +1,26 @@
+{
+  "id": "339ddd04-3b70-4569-a69c-6cdb2eb87749",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🚀</font> This iteration finalizes the structure of purges and faction recovery mechanics, ensuring a risk-reward balance.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 1. One-Chance Purges—No Second Attempts</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Players get only one opportunity to purge their archetype—if they fail, they are locked in for the semester.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> How One-Chance Purges Work:</div>\n<div>  •  If a purge is denied, the player remains in their archetype permanently.</div>\n<div>  •  If a purge is sabotaged, the initiator suffers the listed penalties but cannot retry.</div>\n<div>  •  If the purge succeeds, the player fully transforms and assumes the risks of their new form.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Ensures that purges are high-stakes and meaningful.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Prevents players from treating archetypes as temporary.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Encourages deep commitment to the roles and faction interactions.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 553 (chunk 553/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "applecoloremojiui",
+    "purges",
+    "purge"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

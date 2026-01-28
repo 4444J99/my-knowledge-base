@@ -1,0 +1,26 @@
+{
+  "id": "6b3b6ece-ed7f-4d04-89cb-31497f34c48c",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div>  - Threshold logic: if combined heavy extension size (AI + vibrancy) excee",
+  "content": "<div>  - Threshold logic: if combined heavy extension size (AI + vibrancy) exceeds `EXT_SIZE_LIMIT_MB` (default 400MB) it applies minimal transparency stack.</div>\n<div>  - Supports `DRY_RUN=1` for preview.</div>\n<div><br></div>\n<div>**Quick Start**</div>\n<div>```bash</div>\n<div>chmod +x scripts/manage-vscode-transparency.sh</div>\n<div>chmod +x scripts/auto-vscode-transparency-runner.sh</div>\n<div><br></div>\n<div># Run all phases once</div>\n<div>./scripts/auto-vscode-transparency-runner.sh --all</div>\n<div><br></div>\n<div># Dry run</div>\n<div>DRY_RUN=1 ./scripts/auto-vscode-transparency-runner.sh --all</div>\n<div><br></div>\n<div># Just status + conditional apply</div>\n<div>./scripts/auto-vscode-transparency-runner.sh --status --maybe-apply</div>\n<div>```</div>\n<div><br></div>\n<div>**LaunchAgent (Optional Scheduling)**</div>\n<div>Create `~/Library/LaunchAgents/com.user.vscode.transparency.plist`:</div>\n<div>```xml</div>\n<div>&lt?xml version=&quot1.0&quot encoding=&quotUTF-8&quot?&gt</div>\n<div>&lt!DOCTYPE plist PUBLIC &quot-//Apple//DTD PLIST 1.0//EN&quot &quothttp://www.apple.com/DTDs/PropertyList-1.0.dtd&quot&gt</div>\n<div>&ltplist version=&quot1.0&quot&gt</div>\n<div>  &ltdict&gt</div>",
+  "context": "From document: User: fix — chunk 39 (chunk 39/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "transparency",
+    "vscode",
+    "quot",
+    "scripts",
+    "auto"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "d061f304-39f7-437e-8beb-631285209475",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Wants to develop a system of POVs or personas—different voices, tones, and identities (e.g., business owner, musician, visual artist)—that reflect their layered roles and can be invoked as needed for specific types of work, audiences, or contexts. They want these personas to help clarify how content should be framed, commodified, documented, and shared. They also want a way to periodically review all ongoing projects and be prompted to cross-apply ideas or workflows across them when appropriate.</div>\n<div><br></div>\n<div>Is not only rebuilding a single course module but is undertaking a full course rework for ENG101 and potentially designing a system that exists one layer above — a meta-framework for designing courses across higher ed campuses. They want to develop a scalable structure for course design that includes instructional phases, scaffolding, assessments, and modular reuse. User wants all uploaded files to be immediately extracted, summarized, and analyzed by default, with full overviews and suggestions created for each file.</div>\n<div><br></div>\n<div>Wants to create a master thread for course design architecture, with all content—including user references and AI suggestions—automatically documented as an annotated bibliography. They request that all new titles include a second, less technical version alongside the primary name, formatted with a semicolon subtitle that adds interpretive or contextual depth. They want all materials referenced (user or AI) to be listed, attributed, and recorded for future citation—especially names, eras, frameworks, or institutional references.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_041225_MASTER — chunk 31 (chunk 31/35)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "a6c8d7ecac270c27cc9e416b39cd8866",
+  "relatedUnits": [],
+  "keywords": [
+    "that",
+    "they",
+    "want",
+    "course",
+    "wants"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "3263aef0-c368-4a83-a619-9fce5edb35ff",
+  "type": "insight",
+  "timestamp": "2025-02-09T19:57:30.000Z",
+  "title": "<div>📜<b> FINALIZED RULES FOR THE NAMING STRUCTURE &amp UNIVERSAL SYSTEM</b><br",
+  "content": "<div>📜<b> FINALIZED RULES FOR THE NAMING STRUCTURE &amp UNIVERSAL SYSTEM</b><br></div>\n<div><br></div>\n<div>🚀 <b>This document is the complete and absolute system definition</b> 🚀</div>\n<div><br></div>\n<div>✅ <b>Covers ALL naming conventions, numbering rules, and hierarchy.</b><br></div>\n<div>✅ <b>Includes universal number rules (excluding drafts).</b><br></div>\n<div>✅ <b>Defines the snapshot system for seamless consistency.</b><br></div>\n<div>✅ <b>Ensures sortability, continuity, and logical progression.</b><br></div>\n<div><br></div>\n<div>📌<b> UNIVERSAL NUMBERING SYSTEM</b><br></div>\n<div><br></div>\n<div>✅ <b>The universal number applies to ALL levels EXCEPT Level 1 (drafts).</b><br></div>\n<div>✅ <b>The universal number continuously increments across ALL modules.</b><br></div>\n<div>✅ <b>Each new entry gets the next available number sequentially, regardless of module.</b><br></div>\n<div>✅ <b>If a new entry is inserted later, it receives a decimal number to maintain order.</b><br></div>\n<div><br></div>\n<div>📌 <b>Example:</b><br></div>\n<div><br></div>\n<div>AAA.001 → AAA.002 → AAA.003 → … → BBB.016 → CCC.031 → DDD.046</div>\n<div><br></div>\n<div>📌 <b>Insertion Example (New Entry Between AAA.003 and AAA.004):</b><br></div>",
+  "context": "From document: 📜 FINALIZED RULES FOR THE NAMING STRUCTURE & UNIVERSAL SYSTEM — chunk 1 (chunk 1/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "0007ef4c0342a73c2192c138949b0a39",
+  "relatedUnits": [],
+  "keywords": [
+    "universal",
+    "number",
+    "system",
+    "rules",
+    "entry"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

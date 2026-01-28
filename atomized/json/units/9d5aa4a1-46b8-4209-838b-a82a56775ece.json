@@ -1,0 +1,26 @@
+{
+  "id": "9d5aa4a1-46b8-4209-838b-a82a56775ece",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>        &quotsystem&quot: &quotW4V3_FUSION_DEVICE&quot,</div>",
+  "content": "<div>        &quotsystem&quot: &quotW4V3_FUSION_DEVICE&quot,</div>\n<div>        &quotchant&quot: &quotMotion is the root of memory.&quot,</div>\n<div>    },</div>\n<div>}</div>\n<div><br></div>\n<div># Populate content for all specified UID folders</div>\n<div>for uid, data in uid_map.items():</div>\n<div>    folder = base_path / f&quot{uid}_{data['title']}&quot</div>\n<div><br></div>\n<div>    # README.md</div>\n<div>    (folder / &quotREADME.md&quot).write_text(</div>\n<div>f&quot&quot&quot&lt!-- UID: {uid[:2]}-{uid[2:4]}_00-00 --&gt</div>\n<div><br></div>\n<div># {data['title'].replace('_', ' ').title()} – {data['agent']}</div>\n<div>## UID: {uid}</div>\n<div>## Agent Symbol: {data['symbol']}</div>\n<div>## Role in System: {data['system']}</div>\n<div><br></div>\n<div>This module is a knowledge agent responsible for embodying and teaching the logic behind:</div>\n<div>- {data['system']}</div>\n<div>- Recursive symbolic programming</div>\n<div>- Myth-engine integration</div>\n<div>&quot&quot&quot)</div>\n<div><br></div>\n<div>    # UID_MAP.md</div>\n<div>    (folder / &quotUID_MAP.md&quot).write_text(</div>\n<div>f&quot&quot&quot# UID_MAP for {uid}</div>\n<div><br></div>\n<div>| UID       | File Name           | Description               |</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 344 (chunk 344/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "data",
+    "uid_map",
+    "folder",
+    "title"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

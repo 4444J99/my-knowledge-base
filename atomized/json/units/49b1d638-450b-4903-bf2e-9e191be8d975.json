@@ -1,0 +1,26 @@
+{
+  "id": "49b1d638-450b-4903-bf2e-9e191be8d975",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:18:05.000Z",
+  "title": "<li>- [ ] **List all components**: Identify all repositories, services, tools, a",
+  "content": "<li>- [ ] **List all components**: Identify all repositories, services, tools, and external APIs.</li>\n<li>- [ ] **Define interactions**: Document how components communicate with one another, including protocols (e.g., HTTP, WebSocket, gRPC) and data formats (e.g., JSON, YAML, XML).</li>\n<li>- [ ] **Dependency hierarchy**: Map all dependencies, including libraries, frameworks, and third-party integrations.</li>\n<li>- [ ] **Ownership and accountability**: Assign a responsible team or individual for each component.</li>\n<li><br></li>\n<li>---</li>\n<li><br></li>\n<li>### **2. Communication and Integration**</li>\n<li>Ensure seamless interaction between components:</li>\n<li>- [ ] **Standardize APIs**:</li>\n<li>  - Use consistent naming conventions, versioning policies, and authentication mechanisms.</li>\n<li>  - Implement OpenAPI or GraphQL schemas for API documentation.</li>\n<li>- [ ] **Interoperability checks**:</li>\n<li>  - Verify compatibility between components, especially when using different tech stacks.</li>\n<li>  - Perform tests with multiple versions of dependencies.</li>\n<li>- [ ] **Error handling**:</li>\n<li>  - Design robust error messages with actionable insights.</li>\n<li>  - Use retries, circuit breakers, and timeouts for communication failures.</li>",
+  "context": "From document: full best practices house keeping; — chunk 20 (chunk 20/24)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "3e83484e9c334693cb3ed7e0779f00e5",
+  "relatedUnits": [],
+  "keywords": [
+    "components",
+    "with",
+    "apis",
+    "including",
+    "dependencies"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

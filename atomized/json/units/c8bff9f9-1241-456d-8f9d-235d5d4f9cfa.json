@@ -1,0 +1,26 @@
+{
+  "id": "c8bff9f9-1241-456d-8f9d-235d5d4f9cfa",
+  "type": "insight",
+  "timestamp": "2025-06-14T19:00:44.000Z",
+  "title": "<div>Auto pay</div>",
+  "content": "<div>Auto pay</div>\n<div><br></div>\n<div>Teacher discount</div>\n<div><br></div>\n<div>Service and perks</div>\n<div>Activate </div>\n<div>Apple one</div>\n<div>YouTube premium </div>",
+  "context": "From document: Auto pay",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "5449848bfd79f03c2f15d8aa0ef44a2c",
+  "relatedUnits": [],
+  "keywords": [
+    "auto",
+    "teacher",
+    "discount",
+    "service",
+    "perks"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

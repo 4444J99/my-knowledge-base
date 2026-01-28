@@ -1,0 +1,26 @@
+{
+  "id": "37d82d00-5877-4059-bba3-32b79c61dcde",
+  "type": "insight",
+  "timestamp": "2025-05-16T19:32:28.000Z",
+  "title": "<div>Got it — here’s a super sparse version, written exactly how you’d text some",
+  "content": "<div>Got it — here’s a super sparse version, written exactly how you’d text someone like John without sounding like it came from AI:</div>\n<div>⸻</div>\n<div>Text to John:</div>\n<div>$25/week can’t work.</div>\n<div>Meta needs 50 leads/week to get out of learning.</div>\n<div>Even at $10/lead, that’s $500/week.</div>\n<div>We’re getting 1–2 leads/week max right now.</div>\n<div>Every time we pause, it resets learning.</div>\n<div>It’ll never stabilize at this spend.</div>\n<div>Best move is to pause FB for now.</div>\n<div>Let’s push the $25 into Google Search.</div>\n<div>People there are already looking.</div>\n<div>Way more efficient at low budget.</div>\n<div>If we want FB later, we need at least $100–150/test.</div>\n<div>That’s it. Clean plan.</div>",
+  "context": "From document: Got it — here’s a super sparse version, written exactly how you’d…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "d5dfbe0c6e0c48f5066aa97d3e745e79",
+  "relatedUnits": [],
+  "keywords": [
+    "week",
+    "text",
+    "like",
+    "john",
+    "leads"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

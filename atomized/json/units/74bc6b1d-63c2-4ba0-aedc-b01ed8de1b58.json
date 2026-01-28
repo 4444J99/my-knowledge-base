@@ -1,0 +1,26 @@
+{
+  "id": "74bc6b1d-63c2-4ba0-aedc-b01ed8de1b58",
+  "type": "insight",
+  "timestamp": "2025-07-06T01:33:11.000Z",
+  "title": "<div>Optimization:</div>",
+  "content": "<div>Optimization:</div>\n<div>  •  Use Addressables to lazy-load era assets, reducing initial app size.</div>\n<div>  •  Implement a CDN (e.g., Cloudflare) for fast asset delivery.</div>\n<div>  •  Validate community themes with automated CI checks (GitHub Actions) for compatibility.</div>\n<div>Challenges to Mitigate:</div>\n<div>  •  Ensure community themes meet performance and security standards.</div>\n<div>  •  Optimize backend queries to handle high concurrent users.</div>\n<div>7. Mythic &amp Philosophical Integration</div>\n<div>Approach:</div>\n<div>  •  Meta-Narrative: Weave the “Great Game” story into onboarding and tutorials, with the Archivist as a 3D narrator. Use lore.md files for era-specific stories.</div>\n<div>  •  Cosmic Symbols: Visualize dice, checkers, and points with subtle animations (e.g., glowing dice for chance). Tie to philosophical quotes in tutorials.</div>\n<div>  •  Archetypes: Unlock archetypes (e.g., Strategist) via achievements, influencing AI tone (e.g., analytical vs. playful).</div>\n<div>  •  Interludes: Display quotes as 3D text overlays after significant moves, with a toggle to disable for casual players.</div>\n<div>Optimization:</div>\n<div>  •  Preload quote assets to avoid runtime delays.</div>",
+  "context": "From document: title: \"Backgammon Chaperone: Mobile Design Critique | Shared Grok… — chunk 17 (chunk 17/20)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "9fd27aa005603b4099800d554c6afb3d",
+  "relatedUnits": [],
+  "keywords": [
+    "with",
+    "optimization",
+    "assets",
+    "community",
+    "themes"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

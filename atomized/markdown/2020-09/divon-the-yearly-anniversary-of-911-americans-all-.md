@@ -1,0 +1,32 @@
+---
+id: a32fdbac-6eb1-4082-8e7e-55ef8c059a0c
+type: insight
+created: '2020-09-30T18:08:27.000Z'
+document: 39262d360887bd3797e2011ff70b41fe
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: writing
+keywords:
+  - only
+  - american
+  - that
+  - anniversary
+  - never
+---
+# <div>On the yearly anniversary of 9/11 Americans all over the country share the 
+
+## Context
+From document: On the yearly anniversary of 9/11 Americans all over the country share… — chunk 1 (chunk 1/4)
+
+## Content
+<div>On the yearly anniversary of 9/11 Americans all over the country share the same sentiments on social media: never forget the 3,000 American deaths that were lost  #TBT #FBF. And then that signal of your purity and virtue is followed up with a selfie pic, and/or a picture of a pumpkin spice latte. We only remember 9/11 on its anniversary...how quaint, how cute; and only for a moment because it's Fall after all, and it's time to go pick some pumpkins. Yay! I'm the center of the universe and everything revolves around me! Well guess what? It only appears that way because you've only ever been you and you've only seen American maps. Go to the UK, and they're the center of the world; go to Russia, and ditto.</div>
+<div><br></div>
+<div>Guess who will never truly forget the decades before 9/11 and the repercussions after? The war torn nations that we've invaded, occupied, and ravaged in the name of freedom (AKA as the expansion of our Holy American Fuel Burning Empire). Every action causes a reaction; if you're not clear on what I mean here, let me put it plainly: crashing planes into a symbol of American capitalism wasn't the action, it was the reaction. 9/11 is the middle of the story, not the beginning. The good guys and the bad guys are not so black and white in this conflict. And no war has been so black and white, Good vs Evil, Empire vs Rebel Alliance, since WWII.</div>
+
+
+
+---
+*Source: Document 39262d360887bd3797e2011ff70b41fe*

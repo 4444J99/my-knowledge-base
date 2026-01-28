@@ -1,0 +1,26 @@
+{
+  "id": "592a6f81-156b-4f78-8634-d3574c877630",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div>- Dynamic Base16, Frosted Glass Theme (not required for current look)</div>",
+  "content": "<div>- Dynamic Base16, Frosted Glass Theme (not required for current look)</div>\n<div>- Extra AI assistants (keep only primary to reduce overhead: e.g. Copilot or Gemini, not both, plus remove ChatGPT/Pieces if not essential to look)</div>\n<div><br></div>\n<div>**Minimal Appearance Settings (Drop-In)**</div>\n<div>```jsonc</div>\n<div>{</div>\n<div>  &quotworkbench.colorTheme&quot: &quotDefault Dark+&quot,</div>\n<div>  &quotworkbench.editor.pinnedTabsOnSeparateRow&quot: true,</div>\n<div>  &quotwindow.autoDetectColorScheme&quot: true,</div>\n<div>  &quoteditor.inlayHints.padding&quot: true,</div>\n<div>  &quoteditor.bracketPairColorization.independentColorPoolPerBracketType&quot: true,</div>\n<div>  &quotworkbench.colorCustomizations&quot: {</div>\n<div>    // Accent color replacing Peacock (choose one)</div>\n<div>    &quotactivityBar.activeBorder&quot: &quot#4FC3F7&quot,</div>\n<div>    &quotactivityBarBadge.background&quot: &quot#4FC3F7&quot,</div>\n<div>    &quotstatusBar.background&quot: &quot#1E1E1E&quot,</div>\n<div>    &quottab.activeBorderTop&quot: &quot#4FC3F7&quot,</div>\n<div>    &quotterminal.ansiCyan&quot: &quot#4FC3F7&quot</div>\n<div>  },</div>\n<div>  &quoteditor.cursorBlinking&quot: &quotexpand&quot,</div>",
+  "context": "From document: User: fix — chunk 18 (chunk 18/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "true",
+    "4fc3f7",
+    "quotworkbench",
+    "quoteditor"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

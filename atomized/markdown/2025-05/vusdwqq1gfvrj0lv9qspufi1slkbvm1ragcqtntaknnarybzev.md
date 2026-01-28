@@ -1,0 +1,32 @@
+---
+id: 196be4f2-08c1-49d8-9263-b8d54654e216
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    vusdwqq1gfvrj0lv9qspufi1slkbvm1ragcqtntaknnarybzevxvord6xbyavysbssruwtcwsrrvqrahrwfybu8bmkvunbvc2hrebctapblweug2qtbqe3efcweskqzapave2nveva6parcq54dwqmsqynxgjrirlmibfv6tm1gasjoctqgblg4rxb2ksyodwqmudpu7qu
+  - smuggat1u
+  - twtva0oq8fhnz83zgfoaavhwmvgztfflkuvvtofbnknhdofm4tvjzhwgubn0
+  - >-
+    9w8lcbuifqgvcbuifqgvcbuifqgvcbuifqgvcbuifqgvcbuihsfqja6sgfvggoduiw6rmselalelslelslelil
+  - v3vf3ouqgrvqdkcvv
+---
+# VUSdwqq1gFVrJ0lV9QSpUFi1slKBVM1ragCqTnTAKnNArYBZEVXVOrd6XByAVysBsSrUWtcwSRrVQrah
+
+## Context
+From document: New Note — chunk 9204 (chunk 9204/21099)
+
+## Content
+VUSdwqq1gFVrJ0lV9QSpUFi1slKBVM1ragCqTnTAKnNArYBZEVXVOrd6XByAVysBsSrUWtcwSRrVQrahRWFYBU8bmkvUNbVC2hREBcTaPblWeuG2qtBqe3eFCwesKqzaPaVe2nVeva6pArCq54DWqMsqYNXGJrirlmiBFV6tm1gAsJoCTQGblg4RXB2ksyodWQmuDpu7qu/SmuGgat1U/TwTVA0Oq8FhNZ83ZGFOAAVHwmvgzTfflKuvvtoFbnKNhDOFM4TvjZHwGuBN0+/vW+9w8lCBUIFQgVCBUIFQgVCBUIFQgVCBUIFQgVCBUIFQgVCBUIHsFQjA6sgFVgGoDuiw6rmsElalElSlElSlElil/v3vf3OuqgRVqdkcVv/93/9dCKtCAajaIKRK5f1WKgFVtJlDLazqA6tJsCrhVQusWlgVoGouh1WMA1Jl0FHVqg+rsm2BVQKqvhJS9dWHVNm2sCpzgqq+AkolvMqc6sOqgFJtnw+psp0Eq9o+wqm+4p4++rLd2weUasd8SJVtQqloM8+mBFNzgauAUjGPyjWEVTnG9kBKgBXzfBA1qQ2AFP0ETDnHtpnnowBBOY8gKdrMj7QC3uQ1kLPNPB/Fes6zOfvyVfx041ybsw/KfirHbNtN0v9wPsfY76vdY6C5/trQ/m4rkAQT2j4HjyrsF4OpSXkKXMU6B/2VtztYNZu7Ktwh3X5uHQFVH1yNoNUIClWAUedmRgRJEhzNAEuxbwoqTdIYNHXQKfY18GmOdfFeClci57rIxZRwKJR5GlQFEJoJrHJe5txE4DUXDJtzjNfIF4CFI6nnsgp4NRvASgdTBT/pquorwNAISKVGYGoEqKZzzuF8tHFdB5RaQJXAKjUFmcaAaQybKrCKx4IzKrgaAbIAVnucSyzAW+egqvuMLSOomnZnjcBVbXvXOVLQanrfVvc9lG6rq6uBVcdoPrqkVYrqZ0ZwKp1VqSlwtbRpnowpaXdOrHBYBayaCaweTrmrpvvpwtrXUyy93UXS0z1JeromqpZKX1+F9PSUS2dniXS0F0mXurD26rzZM6vkhOPbZd2aKRqTZfWKFlmyoELmzR4lx875J1m2eIysOblMNl3UKbdsXi7bbz9Vbrv5BLnkgg657NLj5eGHfyEHDvxevvzyQ/3jss/km28+V/2Dwqt/lK++/FjeO/im7H3jd7Lntd0a
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

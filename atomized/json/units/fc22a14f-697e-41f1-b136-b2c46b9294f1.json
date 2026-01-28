@@ -1,0 +1,26 @@
+{
+  "id": "fc22a14f-697e-41f1-b136-b2c46b9294f1",
+  "type": "insight",
+  "timestamp": "2021-12-15T15:13:02.000Z",
+  "title": "<div>I don’t have a mind for the market today. </div>",
+  "content": "<div>I don’t have a mind for the market today. </div>\n<div><br></div>\n<div>Never a mind for market</div>",
+  "context": "From document: I don’t have a mind for the market today.",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "e30c5f974fc3427d0fce6c30275a6eb9",
+  "relatedUnits": [],
+  "keywords": [
+    "mind",
+    "market",
+    "have",
+    "today",
+    "never"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

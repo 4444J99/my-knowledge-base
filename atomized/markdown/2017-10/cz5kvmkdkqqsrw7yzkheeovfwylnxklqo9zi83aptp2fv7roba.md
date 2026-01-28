@@ -1,0 +1,32 @@
+---
+id: 40aa12e4-5c6a-4fab-9c0f-fec868bc2efc
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - cz5kvmkdkqqsrw7yzkheeovfwylnxklqo9zi83aptp2fv7robaoqw6n5
+  - >-
+    px196bvm1yozsajnhaizwhqxbsryrjg1jswkx100cycjntwadzqjj7vqccvaija3qxon49c81c9tub84hnhetm7aszbvuwlov0rptyoleezfd7sri6kmkhimcm4yiwbvt5jbccdnjochrxeklbqbye5
+  - gi9dmqptpi5njstwhahoee698h
+  - >-
+    hx428kv4o8xapy6jpsqhxgkgj8s7wda4agoqd16ivhbz9jb9mew0ntqpgjrbhbgrh7vw27enxpi9ep6hne
+  - efh4t0j9yv5hdbqbnlky4vehut7vyxgrx
+---
+# cz5kVMkdKqqsrW7yZKheeOvFWylNXKLQO9zI83APTp2FV7RobaOQW6n5+px196bvM1yoZsAjnHaiZWhQ
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 338 (chunk 338/2189)
+
+## Content
+cz5kVMkdKqqsrW7yZKheeOvFWylNXKLQO9zI83APTp2FV7RobaOQW6n5+px196bvM1yoZsAjnHaiZWhQxbsryRjg1jswkx100cycjntWadzQjj7vqccVaija3QxoN49c81C9tuB84HnHetm7aszbvuWLOV0RpTyOleezfD7Sri6kmkhiMcm4yIwBVt5JbcCDnJOcHrXekLbQBYe5/Gi9DMqptPI5NJSTWhahoee698H/hx428Kv4O8XaPY6jpsqhXgkgj8s7WDA4AGOQD16ivHbz9jb9meW0NtqPgjRbhBgRh7VW27enXPI9ep6HNe/eI/EFh4T0J9Yv5hDbQBnlkY4VEHUt7VyXgrx/oHxF0qDxB4QvotR0+5GYriAlkbBwRyByCCCOxqXroZ2toePt+w7+yhfaekM/w70HKEMGFoqtleh3LhvwzivQvB37NvwN8CXqXngfwnpmlyLtJkt7dQ+U5UhjuIIPI5r3fyTHAhweeufWrH2cWxEmMA9aqm4p6IymPbT7JTFcsPmyPqzdMn1NbE/kwIWYfNjrVMSLc4bHCdPUGl3SG4LOvHbPbFTUqkeZl6lC0ulyk5A2nGDjNfj18OtNtW/bq1rwzbmRYdK86YGV90jho41OWc7mb585zn171+yGq3JNi/wDCcEc4xivxS+FmpyQ/t8vqnjGS1im1SW7t8B8xqzR4tlWRgpZm2ogyBktjHav0jg1uWErK3RHwPFFTlxNJruftlbwubZA8gIGCM9a02dghZhkHAqj5S7xCy/NgVdhSSGL7Mw3P1JPavgarvNs/QaSaSTKsolDFl6Gm7ig3sNwqcnLNCTyB1rKkMgkETHAHvUSi7XRs3p7poeVgiRORjpUk0LyWrfNjPaorfz4FC/w5ycmraySrPmZRtbselRcXqU4CyRpbFiT6/wAqkvJHl/drwUHJqQlI2doh0Jxxx+HtVJ5JDOd3fmpnKyNFLubD2yiwWNhgNg0wWrR25cDI70pu1EPPQepq/aXUYtctn6VrTmiZyPlD45/EPx54Nsbe58FaDJrWHJljh3GXGPlKqOSA3Xkfrx/Nh8Vf2L/2+f20viNceM/iDDJYSxu0do+qpLHbRx8vtTy0K7T78kkcEkV/WtNZxXt150sX3Dxn26GrzWyNMkrgkA/rUVY82wU5NH8z3w6/4Ic/EO+0myPj3xnaxT43XDWlq0h
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

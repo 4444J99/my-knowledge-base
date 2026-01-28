@@ -1,0 +1,26 @@
+{
+  "id": "c80bf88f-8172-4325-938a-1330b70a123d",
+  "type": "insight",
+  "timestamp": "2025-11-23T22:21:12.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Step 4.1</div>\n<div>Initialize:</div>\n<div><br></div>\n<div>$DASHES = []</div>\n<div><br></div>\n<div>Step 4.2</div>\n<div>For k from 0 to length($CLUSTERS) - 2:</div>\n<div>  1.  Let $dash_len = $DASH_PATTERN[k mod length($DASH_PATTERN)]</div>\n<div>  2.  Let $dash_unit = repeat(”-”, $dash_len)</div>\n<div>  3.  Append $dash_unit to $DASHES</div>\n<div><br></div>\n<div>Note: There will be (number_of_clusters - 1) dash units.</div>\n<div><br></div>\n<div>────────────────────</div>\n<div>5. Optional mirroring for end symmetry</div>\n<div>────────────────────</div>\n<div><br></div>\n<div>If you want a mirrored block (palindromic overall structure):</div>\n<div>  1.  Build a “forward” sequence of clusters and dashes as described in Section 6.</div>\n<div>  2.  Compute a mirrored copy of the cluster/dash sequence without duplicating the exact center. For example:</div>\n<div>Forward indices: 0,1,2,3,…,K</div>\n<div>Mirror indices:  K-1, K-2, …, 0</div>\n<div><br></div>\n<div>You can decide whether to mirror clusters only, or the [cluster + dashes] pairs as atomic units. A simple and effective choice:</div>\n<div><br></div>\n<div>Forward half = [C0, d0, C1, d1, …, Cn]</div>\n<div>Reverse half = reverse([C0, d0, C1, d1, …, Cn-1])</div>",
+  "context": "From document: Here is a reusable, parameterized algorithm you can use to recreate… — chunk 4 (chunk 4/8)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f75193c56b19a08e9a1a9ea52ee44833",
+  "relatedUnits": [],
+  "keywords": [
+    "dashes",
+    "clusters",
+    "forward",
+    "step",
+    "length"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

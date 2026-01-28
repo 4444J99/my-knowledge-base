@@ -1,0 +1,26 @@
+{
+  "id": "4acaca5f-d123-44bc-bd7e-24f28c7da70a",
+  "type": "insight",
+  "timestamp": "2018-07-31T01:32:32.000Z",
+  "title": "<div>Want to see what feelings are trending in your area?</div>",
+  "content": "<div>Want to see what feelings are trending in your area?</div>",
+  "context": "From document: Want to see what feelings are trending in your area?",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "95089b63491c9731facc8b0178d7d352",
+  "relatedUnits": [],
+  "keywords": [
+    "want",
+    "what",
+    "feelings",
+    "trending",
+    "your"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

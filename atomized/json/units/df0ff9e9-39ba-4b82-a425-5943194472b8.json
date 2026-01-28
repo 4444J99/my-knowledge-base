@@ -1,0 +1,26 @@
+{
+  "id": "df0ff9e9-39ba-4b82-a425-5943194472b8",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:18:05.000Z",
+  "title": "<li>- [ ] **Community engagement**:</li>",
+  "content": "<li>- [ ] **Community engagement**:</li>\n<li>  - Use GitHub Discussions for brainstorming and Q&ampA.</li>\n<li>  - Recognize contributors and encourage open-source participation.</li>\n<li><br></li>\n<li>---</li>\n<li><br></li>\n<li>### **8. Blind Spots and Shatter Points**</li>\n<li>- **Blind Spots**:</li>\n<li>  - Lack of visibility into third-party services or dependencies.</li>\n<li>  - Insufficient test coverage for edge cases.</li>\n<li>  - Over-reliance on specific team membe</li>\n</ul>",
+  "context": "From document: full best practices house keeping; — chunk 24 (chunk 24/24)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "3e83484e9c334693cb3ed7e0779f00e5",
+  "relatedUnits": [],
+  "keywords": [
+    "blind",
+    "spots",
+    "community",
+    "engagement",
+    "github"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "13fd91fb-8151-4965-a3b5-fb8a313fc965",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "AI, we need multistakeholder governance|</tt></div>",
+  "content": "AI, we need multistakeholder governance|</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### **17. Safety Filtering (PUBLIC Mode)**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Multi-Layer Architecture:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Layer 1: Pre-training Data Curation**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Quality filtering, bias auditing, harmful content removal </tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Layer 2: Safety Alignment**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- RLHF, Constitutional AI principles, safety-aware fine-tuning </tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Layer 3: Runtime Filters**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- **Input**: Prompt shields (jailbreak detection, injection blocking) </tt></div>\n<div><tt>- **Output**: Content classifiers (4 core harm categories + custom)</tt></div>\n<div><tt>  - Violence, Sexual, Hate Speech, Self-Harm</tt></div>\n<div><tt>  - Severity thresholds: [0-1 scale, configurable]</tt></div>\n<div><tt>  - Multi-modal: Text, image, video </tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Layer 4: Human-in-the-Loop**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Real-time monitoring, appeal mechanisms, continuous improvement </tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 39 (chunk 39/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "layer",
+    "safety",
+    "filtering",
+    "multi",
+    "content"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

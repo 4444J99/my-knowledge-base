@@ -1,0 +1,26 @@
+{
+  "id": "3e006c43-74c4-4615-9b1b-a7e7f7444ade",
+  "type": "insight",
+  "timestamp": "2025-12-21T14:37:46.000Z",
+  "title": "<div>- **Blind Spots**:</div>",
+  "content": "<div>- **Blind Spots**:</div>\n<div>  - Lack of visibility into third-party services or dependencies.</div>\n<div>  - Insufficient test coverage for edge cases.</div>\n<div>  - Over-reliance on specific team membe</div>",
+  "context": "From document: To build a cohesive and scalable ecosystem where all the components… — chunk 6 (chunk 6/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "dd47633a9af6625faac8bf360cc4cb84",
+  "relatedUnits": [],
+  "keywords": [
+    "blind",
+    "spots",
+    "lack",
+    "visibility",
+    "into"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

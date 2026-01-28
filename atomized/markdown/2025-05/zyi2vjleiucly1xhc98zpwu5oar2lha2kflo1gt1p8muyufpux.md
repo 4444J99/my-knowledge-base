@@ -1,0 +1,32 @@
+---
+id: 981c1b11-5e86-4eaa-ae73-2c1badac6c06
+type: insight
+created: '2025-05-15T00:56:03.000Z'
+document: 084f9bc77d1d8854a07a52206c286278
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - zyi2vjleiucly1xhc98zpwu5oar2lha2kflo1gt1p8muyufpu
+  - xilooa5
+  - >-
+    8acnvpqcmp6dd3wl6lkajz7vhibhtejaq2pxgfespxf8prrwtduo73w77ubunc9ojtqro45guqamtymtnand5rqb8435m1bw3rviw8grz9qv1ht0df6kj55xh0cqufqmui8dedopfvh1bzvkenksg2tvmocskaygp94ufqtxkszszarpsjm1pb3mjrot0lzwkxz15hfzwp6zqfpa6vbb3k8us2yivhkjlo7e8e7ggd
+  - style
+  - width
+---
+# zyi2vJLeIuclY1xhc98ZPWu5oAr2lha2KFLO1gt1P8MUYUfpU/XilooA5+/8ACNvPqcmp6dd3Wl6lKAJ
+
+## Context
+From document: Grokking Algorithms for OS — chunk 116 (chunk 116/402)
+
+## Content
+zyi2vJLeIuclY1xhc98ZPWu5oAr2lha2KFLO1gt1P8MUYUfpU/XilooA5+/8ACNvPqcmp6dd3Wl6lKAJZ7VhibHTejAq2PXGfesPxF8PrrWtDuo73W77UbuNC9oJtqRo45GUQAMTyMtnANd5RQB8435m1bw3rviW8gRZ9Qv1ht0Df6kj55XH0CqufQmui8DeDoPFvh1bzVkEnkSG2tvMOCsKAYGP94ufqTXKszSzarpsjM1pb3MjRoT0LzwKxz15HFZWp6zqFpa6VBb3k8US2YIVHKjLO7E8e7GgD/9k="/><br></div>
+<div><img style="max-width: 100%; max-height: 100%;" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwkHBgoJCAkLCwoMDxkQDw4ODx4WFxIZJCAmJSMgIyIoLTkwKCo2KyIjMkQyNjs9QEBAJjBGS0U+Sjk/QD3/2wBDAQsLCw8NDx0QEB09KSMpPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT3/wAARCAGnAacDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDWLnJ5pMmg8tWPJ4jWORk/sjW2wSNy2RIP056Vja54EKcp/CjYyaMmm6bINSWJjFPAJM5SZNjrgkcjseK2Vt7Qzm3RUMyqHKdSFJIB/HBp2KVNu5kZNGTW4NPiyc24wOvB4qvbiwuxEbYxSiZDJGU53KDgkfjxRYfsmZeTRk1t/YYf+eA/Kl+wRc/6OOOvBosHsn3MPJoya3DYRDrb/oarxCwuLh4IQskiZ3BUbHHUbsYOO+CaLB7JmXk0ZNbL2dvG8avEqtIdqAjljgnA/AE/hTVgtZArRxq
+
+
+
+---
+*Source: Document 084f9bc77d1d8854a07a52206c286278*

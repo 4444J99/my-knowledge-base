@@ -1,0 +1,31 @@
+---
+id: cdc1923e-a05b-490f-9bef-52509bf936e7
+type: insight
+created: '2021-02-15T19:54:52.000Z'
+document: 7cab5884ad37ebd0143542c422e3a7d4
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - rererere5lth82mgvqmxgona70kt
+  - vccqerererere4rgzk446bfqgc09l8jaberereretkdhdslic5oa
+  - vabarererezhtvnomzqqzmlwcrf3
+  - lpnrcerererere5jpj
+  - >-
+    mjkgywedjhoycqebjogsaiiiiiiiinjbss3cmz4w4aga0hkoaiiiiiiiiygnjcsahuepwax8baahererererelaaqererereresuarerererereqjabererererfrakbererererelaaqererereresuarerererereqjabererererfrakbererererecqarererereroa34nqqiiiiiiiicyk094c
+---
+# RERERERE5LTh82MGvqMXgONA70Kt/VcCQERERERERE4rGZk446bFqgC09l8JABERERERETkdHdsLIC5O
+
+## Context
+From document: Week 1 Retention Tracking — chunk 12 (chunk 12/133)
+
+## Content
+RERERERE5LTh82MGvqMXgONA70Kt/VcCQERERERERE4rGZk446bFqgC09l8JABERERERETkdHdsLIC5Oa/+VABAREREREZHTVnomzqQZmLwCrf3/lPNrCERERERERE5jPj/mjKGYWedjhoyCQEBjogSAiIiIiIiInJbSs3Cmz4W4AGA0HkoAiIiIiIiIyGnJcSAhUePwaX8baAhERERERERElAAQERERERERESUAREREREREREQJABERERERERFRAkBERERERERElAAQERERERERESUAREREREREREQJABERERERERFRAkBERERERERECQAREREREREROa34NQQiIiIiIiICYK094c+NMRocJQBERERERETkdAj8S0tL2bhxI6FQ6O2A0e+nqKiIESNGaJCUABAREREREZFTXXt7O0899RS//OUv6ezsjP08NzeX2267TQkAJQBERERERETkVGet5dChQyxbtoz8/HySk5MBr+x/4MCBTJs2TYOkBICIiIiIiIic6oLBIMuWLQPggQceoG/fvrEEQGJiIrm5uRokJQBERERERETkVGatpaSkhIULF5KdnU1ubi7Z2dmkpqbiONo0TgkAEREREREROS10dnby+uuvs2rVKgD279/P5MmTueaaaxg3bhwJCQkapNOIUjoiIiIiIiKfUs3NzZSUlFBQUEBiYiKbNm3iwQcf5Otf/zr/8z//Q1NTkwbpNKIKABERERERkU+pzMxMvvnNb3LVVVdx8OBBXn/9dV588UW2bdvGr371K1JSUvjMZz5DIBDQYJ0GVAEgIiIiIiLyKRUXF0efPn2YOHEin/nMZ7jjjjv43e9+x+TJk6murubPf/4zR44c0UApASAiIiIiIiKnC2MMGRkZXHjhhfzoRz+id+/eFBcXs2/fPg2OEgAiIiIiIiJyuvH7/UyZMoVzzjmHzs5OqqurNShKAIiIiIiIiMjpKC0tjcGDBxMfH09OTo4GRAkAEREREREROdVZa7HWdvtZMBikrq6OXr16UVRUpEFSAkBERERERERO5cC/paWFHTt2UF5eTjgcBiAcDrN9+3bWr1/PFVdcQa9evTRYpwltAygiIiIiIvIpFIlEeOWVV/iP//gPMjIyuOqqqxg6dCglJSU8//zzDBo0iM9+9rMkJydrsJQAEBERERERkVOV4zjk5uZijGHVqlWsX7+e
+
+
+
+---
+*Source: Document 7cab5884ad37ebd0143542c422e3a7d4*

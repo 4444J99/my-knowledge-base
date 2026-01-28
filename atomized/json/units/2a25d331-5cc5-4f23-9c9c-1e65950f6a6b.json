@@ -1,0 +1,26 @@
+{
+  "id": "2a25d331-5cc5-4f23-9c9c-1e65950f6a6b",
+  "type": "insight",
+  "timestamp": "2024-02-27T19:17:52.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Graphic Design Software: Provides a wide array of design tools necessary for creating high-quality, engaging visuals for property listings, social media content, and advertising materials. Estimated Cost: $100/month.</div>\n<div><br></div>\n<div>Social Media Manager (Hootsuite): Allows for the scheduling, posting, and analysis of social media content across multiple platforms, ensuring consistent engagement with our target audience. Estimated Cost: $250/month.</div>\n<div><br></div>\n<div>Email Marketing (Constant Contact): For email marketing campaigns, newsletters, and automated follow-ups with potential and past clients. Estimated Cost: $35/month.</div>\n<div><br></div>\n<div><b>SEO and Web Management Tools:</b><br></div>\n<div><br></div>\n<div>SEO Analysis (Ahrefs): Offers comprehensive insights into keyword performance, competitor analysis, and SEO optimization recommendations to improve the client's website ranking and visibility. Estimated Cost: $200/month.</div>\n<div><br></div>\n<div>Landing Page Builder (Unbounce): Facilitates the creation of optimized landing pages designed to convert visitors into leads, enhancing the effectiveness of our paid advertising campaigns. Estimated Cost: $250/month.</div>",
+  "context": "From document: Statement of Work (SOW) for Marketing Services for Florida Luxury… — chunk 6 (chunk 6/11)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "494a55ac2845a8f9a5e9f92dc1d1614f",
+  "relatedUnits": [],
+  "keywords": [
+    "estimated",
+    "cost",
+    "month",
+    "social",
+    "media"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

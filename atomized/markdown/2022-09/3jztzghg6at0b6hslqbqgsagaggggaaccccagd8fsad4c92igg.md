@@ -1,0 +1,32 @@
+---
+id: ca92a6ee-e1b2-48a3-a48c-b1dba079605a
+type: insight
+created: '2022-09-20T22:57:55.000Z'
+document: ab59c5236e29ddf04340bee2baadbe39
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    3jztzghg6at0b6hslqbqgsagaggggaaccccagd8fsad4c92iggeeeeaaaqqcljcskulqxmfhx7skwnkls2k
+  - >-
+    wkhjnrcvz5eirezgwymmy8bnbu6epgntpk1zt1t37tzz9ar8ti8bawzyp06dtdsjpk6dsi36eh4gspcubavklxkjo3owhbcesygaaaiiiiaaagewiaeqyfbohwaccccaaal
+  - e7h8
+  - bidp37cba6snbrhqhijcxcu5kn1qi5no0anxell2lfjtn
+  - kkelblfvmjrilpistsnehmtrxbt2pe94tzmtgkkwagw
+---
+# 3jzTzghG6AT0b6HslQBQGSAGAggggAACCCCAgD8FSAD4c92IGgEEEEAAAQQCLJCSkuLqXMfHx7skwNKl
+
+## Context
+From document: SHE — chunk 123 (chunk 123/150)
+
+## Content
+3jzTzghG6AT0b6HslQBQGSAGAggggAACCCCAgD8FSAD4c92IGgEEEEAAAQQCLJCSkuLqXMfHx7skwNKlS2k+WkhjNRCVZ5EiRezgwYMmY8bNBU6ePGnTpk1zT1t37tzZ9AR8tI8BAwZYp06dTDsjpk6dSi36EH4gSpcubaVKlXKJO3owhBCeSyGAAAIIIIAAAgEWIAEQYFBOhwACCCCAAAL+E7h8+bIdP37cBa6SNbrhqHIjCxcu5Kn1Qi5no0aNXELl2LFjtn///kKeLbLfvmjRIlPiSTsnEhMTrXbt2pE94TzMTgkkWagW/Zw5cywpKSkP7+KQQAjo5r+SAOnp6TRhDgQo50AAAQQQQAABBMIkQAIgTPBcFgEEEEAAAQS8I6Da9Cr7o6GSNb1793ZPrS9fvtx27tzpnUB9GEn9+vVNpVz0BPGWLVt8OIPQhCwf1blXqaT27dvbwIEDQ3NhH1xl8ODBzmTPnj1uF0BWVpYPovZ/iEoAqA+A/n3U55KBAAIIIIAAAggg4E8BEgD+XDeiRgABBBBAAIEACmgHQE6DWtW8TkhIsOrVq7uyNRs3bgzglaLvVHqCu0WLFnblyhXbsGEDjVxv8hFQD4oFCxZY0aJFbdiwYdawYcObHBl9P9YuEpnIZtasWe5zFH0KoZ9xXFyclStXzvTvIwmA0PtzRQQQQAABBBBAIFACJAACJcl5EEAAAQQQQMC3AtcmAEqUKGFNmzZ1XxkZGbZ27VrjieOCL60aibZt29btqNAOgAMHDhT8ZBH6TjVZnTx5sitD1aZNGxsyZIjzitDp5nta6iEhk5YtW9qOHTts+vTplp2dne/z8Ib8CagUlRIAGkoAKInHQAABBBBAAAEEEPCfAAkA/60ZESOAAAIIIIBAgAV0gz9nB4ASAFWqVLF27dq5q2zevNnUnJVRcAFZVqxY0fbt22fJyckFP1GEvlNP/8+bN8/UNFlPujdv3jxCZ1rwaWkXydChQ90JZsyYYfq9ZARXIDY21ipUqOAuogSAEqUMBBBAAAEEEEAAAf8JkADw35oRMQIIIIAAAggEWEBPtuY8UawyI3riuFWrVqZkgOqO7927N8BXjK7T6eZtkyZNXPmfNWvWXLWOLoUbz1ZP/0+aNMlSUlLcZ04Nb5UIYHxVICc5ot05mzZtcrsAeCL9q0aB/pv+Hbw2AaAdUQwEEEAA
+
+
+
+---
+*Source: Document ab59c5236e29ddf04340bee2baadbe39*

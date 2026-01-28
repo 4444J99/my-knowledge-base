@@ -1,0 +1,26 @@
+{
+  "id": "527a295e-91ef-4511-aa50-542ddae1c4d6",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>[6] CONTEXT, CONSTRAINTS, AND DEPENDENCIES</div>\n<div>Do not write executable code; focus on detailed, implementation-ready specifications and prompt templates. Keep everything cross-platform and vendor-neutral. Assume prior materials exist in $ARCHIVE_ROOT but may be fragmented; your design should be self-contained enough that a future AI could implement the engine with only this spec, the master OS spec, and the directory roots.</div>\n<div><br></div>\n<div>[7] FINAL REQUEST</div>\n<div>Produce a detailed, sectioned specification for the Procedural Generation for Evolving Worlds engine that:</div>\n<div>(1) defines its conceptual model under the four lenses (Metaformeme, Myth Fusion, Wave Theory, Recursive Storytelling);</div>\n<div>(2) describes the full stage structure, with inputs, outputs, and archival side-effects for each stage;</div>\n<div>(3) specifies required prompts in $PROMPT_ROOT and spec files in $OS_ROOT/specs and $REPO_ROOT/$ORG_ID/os-foundation, including example names using LAYER-DOMAIN-TYPE-ID-VERSION;</div>\n<div>(4) ends with a concise list of “first implementation moves” that an AI-assisted developer could take to turn this engine spec into real scripts and templates.</div>",
+  "context": "From document: 0.\tPreamble and Scope — chunk 30 (chunk 30/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "b3360b527d494aeb150b316c90472eb0",
+  "relatedUnits": [],
+  "keywords": [
+    "spec",
+    "that",
+    "engine",
+    "with",
+    "detailed"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

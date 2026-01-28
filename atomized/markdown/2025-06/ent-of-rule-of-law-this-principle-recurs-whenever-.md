@@ -1,0 +1,31 @@
+---
+id: 5b8ca020-3f55-4a73-a8ba-5e12ff3845cf
+type: insight
+created: '2025-06-26T17:15:56.000Z'
+document: 87215f26527a3ddd27752e0848e7ba23
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: programming
+keywords:
+  - rights
+  - human
+  - udhr
+  - habeas
+  - corpus
+---
+# ent of rule of law. This principle recurs whenever we talk about due process rig
+
+## Context
+From document: 🧵 Meta-Laws of Reality — chunk 57 (chunk 57/79)
+
+## Content
+ent of rule of law. This principle recurs whenever we talk about due process rights, or when de facto regimes hold political prisoners without trial – the call for habeas corpus is essentially a call for accountability. Symbolically, it’s light in the darkness – bringing the prisoner (body) into the light of court scrutiny. It underscores a recurring legal theme: burden of proof on detainers – power must justify itself. It’s akin to an invariance: regardless of regime, if you claim to follow law, you must subject imprisonment to independent check. Cross domain, habeas corpus reflects the broader pattern of transparency and review to prevent abuse (like code review in software to catch errors, or peer review in science to check validity – one might say there’s a “habeas corpus” of ideas: any claim must be brought to scrutiny when challenged).</div>
+<div>  •  Universal Declaration of Human Rights (UDHR, 1948) (Domain: International Law/Ethics) – A landmark document adopted by the United Nations, enumerating fundamental human rights deemed universal to all people. While not a binding law by itself, it has served as the foundation for international human rights law and many national constitutions. It proclaims principles like: all human beings are born free and equal in dignity and rights; the right to life, liberty, and security of person; prohibition of slavery and torture; freedom of thought, conscience, religion; right to education, work, participate in government; etc. Examples: The UDHR’s Article 1 states the equality and brotherhood of all humans. Article 3: “Everyone has the right to life, liberty and security of person.” Article 5: “No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.” These have inspired binding treaties like the International Covenant on Civil and Political Rights. Many countries’ constitutions or bills of rights echo UDHR language. Implications: The UDHR represents the codification of moral principles into a universal aspirational law, after the atrocities o
+
+
+
+---
+*Source: Document 87215f26527a3ddd27752e0848e7ba23*

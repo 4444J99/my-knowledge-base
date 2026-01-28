@@ -1,0 +1,26 @@
+{
+  "id": "5153fd55-fde7-453a-bcb4-58dbe1186ba2",
+  "type": "insight",
+  "timestamp": "2025-05-02T07:16:30.000Z",
+  "title": "<div>leaving</div>",
+  "content": "<div>leaving</div>\n<div>lizzy grant</div>\n<div>Era</div>\n<div><br></div>\n<div>entering</div>\n<div>kelly rutherford</div>\n<div><br></div>\n<div>holly go lightly</div>\n<div><br></div>\n<div>dev annie</div>\n<div><br></div>\n<div>10/24, jade </div>\n<div>4037, code</div>\n<div><br></div>\n<div>jenna</div>\n<div>hansen</div>\n<div> </div>\n<div>nicole richy</div>\n<div>sofia</div>",
+  "context": "From document: leaving",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "67d77bac4848a84d5fcfb21ea7cfe44d",
+  "relatedUnits": [],
+  "keywords": [
+    "leaving",
+    "lizzy",
+    "grant",
+    "entering",
+    "kelly"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

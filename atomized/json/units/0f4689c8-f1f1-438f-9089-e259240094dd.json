@@ -1,0 +1,26 @@
+{
+  "id": "0f4689c8-f1f1-438f-9089-e259240094dd",
+  "type": "insight",
+  "timestamp": "2017-06-21T20:54:01.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>https://call-for-papers.sas.upenn.edu </div>\n<div><br></div>\n<div>https://www.buffalo.edu/nemla.html (abstracts due sep 30th)</div>\n<div><br></div>\n<div>https://www.acls.org/programs/comps/<br></div>\n<div><br></div>\n<div>https://pen.org/grants-awards-residencies/<br></div>\n<div><br></div>\n<div>http://ach.org/membership/<br></div>\n<div><br></div>\n<div>https://www.neh.gov/divisions/odh/institutes<br></div>\n<div><br></div>\n<div>http://guides.lib.uiowa.edu/c.php?g=224399&ampp=1487499<br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: Grants — chunk 2 (chunk 2/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "90c7aa438125f5d61a46117ca82e2257",
+  "relatedUnits": [],
+  "keywords": [
+    "https",
+    "http",
+    "call",
+    "papers",
+    "upenn"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

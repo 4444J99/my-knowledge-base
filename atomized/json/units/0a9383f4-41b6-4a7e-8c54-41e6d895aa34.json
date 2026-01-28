@@ -1,0 +1,26 @@
+{
+  "id": "0a9383f4-41b6-4a7e-8c54-41e6d895aa34",
+  "type": "insight",
+  "timestamp": "2025-02-10T16:22:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>🔹 Connecting Prompt:</div>\n<div><br></div>\n<div>Think about a time you changed your mind after hearing a strong argument. What made it compelling?</div>\n<div><br></div>\n<div>🔹 Exploratory Prompt:</div>\n<div><br></div>\n<div>If you had to persuade someone to see the world exactly as you do, what would be the most important argument you’d make?</div>\n<div><br></div>\n<div><br></div>\n<div>Day 16: Comparing Perspectives &amp Biases</div>\n<div>📌 Instructions: Choose one of the prompts below to explore in depth.</div>\n<div><br></div>\n<div>🔹 Concrete Prompt:</div>\n<div><br></div>\n<div>Compare two news articles covering the same event but from different perspectives. How does language shape bias?</div>\n<div><br></div>\n<div>🔹 Abstract Prompt:</div>\n<div><br></div>\n<div>Can true objectivity exist in writing, or is all writing shaped by perspective?</div>\n<div><br></div>\n<div>🔹 Connecting Prompt:</div>\n<div><br></div>\n<div>Compare two articles on the same topic. How does the author's perspective, tone, and use of evidence shape the argument? What makes one source more persuasive or reliable than the other?</div>\n<div><br></div>\n<div>🔹 Exploratory Prompt:</div>\n<div><br></div>",
+  "context": "From document: Daily Journal Prompts | Weeks 1 - 6 | ENG 101 — chunk 12 (chunk 12/19)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "e6eab879b76e49062d95c26643b9406a",
+  "relatedUnits": [],
+  "keywords": [
+    "prompt",
+    "argument",
+    "what",
+    "connecting",
+    "exploratory"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

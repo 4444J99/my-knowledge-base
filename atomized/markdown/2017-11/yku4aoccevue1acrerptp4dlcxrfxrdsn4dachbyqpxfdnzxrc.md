@@ -1,0 +1,31 @@
+---
+id: b341f120-b08d-4464-88e0-91748c730229
+type: insight
+created: '2017-11-08T14:03:53.000Z'
+document: f47673d86e05016edf5cfc9824f2b752
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - yku4aoccevue1acrerptp4dlc
+  - xrfxrdsn4dachbyqpxfdnzxrcjyyjwfmyfqdq
+  - qvdfimhluriukdgonptdxsol
+  - >-
+    kiiolalbdzykjob6d2qxfrq5a1bfzpd1vld1m8xjzgb7cvyfic2ivbk52dhn8b1rhjphnp9mgyvcg46vgnjc3mjjd92edjpykxavoyxoyiij4cuo2kckchig
+  - gpfemw107sfzeryp4vwxhyofzjbpvyu4n8812nzmhcwwu0y
+---
+# yku4AoCCevUe1acrerPTp4dLc+xrfXRdsN4DAcHByQPXFdnZXrCJYYjwfmyfQdq+QvDfiMhluriUkdgO
+
+## Context
+From document: use this photo as a reference to create my own cut out piece. also… — chunk 103 (chunk 103/242)
+
+## Content
+yku4AoCCevUe1acrerPTp4dLc+xrfXRdsN4DAcHByQPXFdnZXrCJYYjwfmyfQdq+QvDfiMhluriUkdgOnPTdXsOl+KIIolAlBDZYkjOB6D2qXFrQ5a1BfZPd1vLd1M8xJZgB7cVyfiC2ivbK52dhn8B1rhJPHNp9mGyVcg46VGnjC3mJjd92eDjpyKxavoYxoyiij4cuo2kCkchig+gPFemW107SFZerYP4VwXhyOFZJbpVyu4n8812nzmHcwwu0Y+vPFZ8vKOd7anSxyFFZ4uQRwK09ynZKSd4wRj+E+v9K5i0Y7EK/I6jlT0PpWxbXbAhB8sspxx0x7U7nHKOmhuiRnbduIz2PU+/40TnzAqYGeue9VFi/0jc79uee9PLvETxuz39qrocmysKS0CtkE7uMnrVfAwWVo8gcg9TUsmXDEoTgZ64/Ss6WH5hv+QkZznPFK5qkxkrLbISsmSTwB6kVwDJqc948sRdXEilcDII5712MtxvDAESCI9T2q5DPF5Jl3AnGOBSO+E7RsZFzK72485B53TLHGD9KxUaWEmO5dS8I3AhuMGrmquko+UNvT5gfXHasR972nmOwx1yRz9KDoplG41dLedYbdSJn5JHIIPpTL2WS7UsrbWIwc+tVme2lP2howrRcFvr0xWY90oMiudz5ODk881ViraMr7biFTDI+8Owx9Oc1g3dxJEFhRPLUSYyvU5rTZWmR2kHllFO0n1qg7NFJE2/zYn5Yf7Qqoma2MtHtpbhYGZt7fd/2dtREzRCSKSbJfnH96lmMMsvmwt/qm+ZqgEDQ3Aumk81nX5QegrZXtqU5O4lnCImaeQqgPSkCSfaGuiCDHyGUZ4+nf6UsszSBknhDtjjHapXAjiSM5GwZbB7VoIwr9laF0s3Em85yV2nPfisCMCZGnYhizFQD0JArtJLYyMiyhRERuGOvHPNcuIGiLknYpY4A6D3rVO+hzLdnmXiGN/sN2Z2IRsDB7Z44rxjxHa6fDeQRPGwYwbQo9+/19K998WWJv4HLsUihIwBzuOa8juNMhuJ3yWbkIGY8j6D2r16T5UjnjZysznfD/AILhO5lAKO7sxPXjBA/3ieK+ifDzy+H/AIdahotiIhca1dIZVP3jbRD5Qfoxqj4X0JYoAjoEjjAABGS5HO/3Jo1CMy6pLb3KJGgA2MGIJU9tvQHPappz5ps0xtl
+
+
+
+---
+*Source: Document f47673d86e05016edf5cfc9824f2b752*

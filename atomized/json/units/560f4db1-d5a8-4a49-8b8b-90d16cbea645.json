@@ -1,0 +1,26 @@
+{
+  "id": "560f4db1-d5a8-4a49-8b8b-90d16cbea645",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> How Influence Works:</div>\n<div>  •  Players can use their turn to assist or sabotage another’s roll.</div>\n<div>  •  If helping, adds a +1 to their roll.</div>\n<div>  •  If sabotaging, forces a -2 penalty to the target’s roll.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Skill Checks Can Now Be Contested</div>\n<div>  •  If a player attempts to influence another’s roll, the affected player may contest it.</div>\n<div>  •  Contests are resolved via opposed rolling (higher number wins).</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Faction-Based Influence Buffs</div>\n<div>  •  Some factions gain automatic influence over certain skill types.</div>\n<div>  •  Example: The Trickster Cult gets +1 when sabotaging opponents.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Allows greater player-to-player interaction.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Introduces risk-reward mechanics to every challenge.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Creates real tactical depth.</div>\n<div><br></div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 465 (chunk 465/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "zapfdingbatsitc",
+    "influence",
+    "roll"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

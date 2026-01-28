@@ -1,0 +1,31 @@
+---
+id: 654e3fce-ad6e-456c-997f-3e2bada4ac4b
+type: insight
+created: '2018-11-17T18:19:07.000Z'
+document: e329ec4e43d47fccabf1e22882189db8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - i471kdrfegcdtrgaay6d6aiiaobb6
+  - 9llcc
+  - n6ue
+  - kcy4pfkwdhgpfigcpacsfunqkmgwgoo44pvtrg4vhkfrsbqtua79dwhopchowc5
+  - >-
+    ptwdspmgmhfrbsyaynvwjajxywnadiyngo5xk1hja2evttiqoadnc9keo4b4bxgzoazk4yomuqhbldccghcdp6mmftncjg0howfkspbgbjk1awcykncf7vpt95i5aortflhlhgepxoagjz8wwv6eetnkzypxhgavsmestjhshqoyoocninacjiwwaxtlp3sy5fi
+---
+# I471KdrfeGcdTRgAAY6d6AIiAoBB6+9Llcc/N6UE/KcY4PFKwDHGPfigCPACsfunqKmGWGOo44PvTRg4
+
+## Context
+From document: Black Bean Salad — chunk 519 (chunk 519/2298)
+
+## Content
+I471KdrfeGcdTRgAAY6d6AIiAoBB6+9Llcc/N6UE/KcY4PFKwDHGPfigCPACsfunqKmGWGOo44PvTRg4VhkfrSbQTuA79DWhoPcHOwc5/pTWdSPmGMHFRbsYAyNvWjAJxywNADiynGO5xk1Hja2evtTiqOADnC9Keo4B4BxgZoAZk4yOMUqHBLdcCgHcdp6mmFtnCjg0HOWFKspBGBjk1AWcYKncf7vpT95I5AORTflHLHGePxoAGJz8wwV6EetNkZyPXHGaVsMeSTjHShQoYoOcnINACjIwwAxTlP3sY5FI+ePQVCgPJPBJ4x6V0APXcFG4gnPTpTwF3gD7wzTTjdjqe2e1IoOMnBA70ASE5bC4FMOGxubkcD8aUKS5fGQB2psYJcDaCM5oAMZ4yCc8dulNRVRTlc9+eeam+QHH3vfpUe/OBgDt1oAY2SvBwOKQZUMo4Oe/9KVSPlb6ipev3csRxzQBCvmKQDlvWjeN4A4I4/CrOBnB4PfFVm3eZuwMZ4/8Ar0ATgoOrDDcH1piDaSo4A/M00DJJIFKSMigBCWxgcD3oLdOgKj86UnPYcd6j2tu3dDQBJlAdwBPHOPWk7AtxjkjHSmqhD5bvzTydx57cY9aAE2jG88noB7U5CT16A9qYRtJXGRnqTThnJVuQB2oAY20g85A6U5vlfAGehzScZyegPT6UgwCdx56igCM725J78gelRzSwxYj7sMjHt6ntUo468Dv64rg9d1C+a7Wxsx+7bliPvYHpXOB2wZXiDgg4Pb0pmSck5PpVe0WRYIjJgnHNXQhL+X90Y69qAEbK/dQ46GnqRu3pkdqNpVgpPC9SPapvlf5uQev1oAUb4g3GWYYBNBwCqE5IHzH1pDuOS+R2ApzFch1GcYHvQBXkVmOE6DtTI/nB6nB5FSsvPOcH0/lUqoACoBBPJPtQBUIwuMY7Cjjb23dqXegwFO/tQoYKqqMN270HQNwxZe+BzUm1DtJOwnjnpTsfxZ6dqTlt2R8vb60AQ8buWyRn8/anAAPv44/PNAwWxtJx68GkGe3HOKABVDZ3KOe44xRkkN3AI4oOeS3Ht3NLwDgEgD2oEAOFd1dhjpmgF1UMD83v39aF3biCdwNCns3O2gY7aobAGO/40wED5ecHrTiTuy/I9KcuAWAGV9TQBH8hLLyQAP1puzOcHG0d6cN3O7jBIP8ASnD
+
+
+
+---
+*Source: Document e329ec4e43d47fccabf1e22882189db8*

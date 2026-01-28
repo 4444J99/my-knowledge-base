@@ -1,0 +1,34 @@
+---
+id: 83d781e8-fe71-45b7-9bd4-c8deef8d9488
+type: insight
+created: '2022-03-22T20:31:29.000Z'
+document: 6026045003266a52cbccc2bd6ea85fcf
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - with
+  - anthony
+  - oasis
+  - potential
+  - into
+---
+# <div>One year living amongst a new world, Anthony, courtship refuted by a potent
+
+## Context
+From document: One year living amongst a new world, Anthony, courtship refuted by… — chunk 1 (chunk 1/2)
+
+## Content
+<div>One year living amongst a new world, Anthony, courtship refuted by a potential lifer or potential deather, rebounds into a relationship of convenience; their love true in/out, never stunk with co-dependency: to themselves, at least. Appreciated for intellectual endeavors and physical appearance self-rated grotesque, Anthony counted zero reasons to not fall down the same well as Her; beyond her depths, even. After all, with kindness embedded deep into her DNA network, an eternal appreciation arts / activity / activation, and the steady base to Anthony’s hazardous acid: wrong hid from sight— </div>
+<div><br></div>
+<div>With two of three main life goals achieved or being in the state of acheival ( [x] physical pastime / [x] romantic rendezvous / [3] superstar success ), Anthony’s high plummeted all-day headlong. A few months of sobriety rescinded with speed ( literally [just ____] ). Life = okay; the worst assessment; preference arises to be in either peaks or valleys despite the zero-survival rate of take-offs and crash-landings. Yet, comfort and the distance between the last oasis and this oasis was that there was never a first oasis to begin with.</div>
+<div><br></div>
+<div>Nature’s fault, and Nurture, fair share of thy blame held, worked to malform a comtemptable beast of insatiable appetites (ape tits). At once, said giant’s reflection, visible in one strict light to him, and to all other shades, hidden with fractured intent yet perceptible to seekers. </div>
+
+
+
+---
+*Source: Document 6026045003266a52cbccc2bd6ea85fcf*

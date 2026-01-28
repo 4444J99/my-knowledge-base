@@ -1,0 +1,32 @@
+---
+id: 52430b29-8dd1-4fbf-b325-7c7ea3f22c67
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - l73kjgdbaaraaaraaasghubodp2mxg5l
+  - fotj
+  - >-
+    0rw9urytijqeuhfr0igaaigaaigaaigaaijdwbh9kbtiby3z4hnxayfglkt4680fyjp514dzzvrttlt6aql024nsyfhmpsotqzlwlkhwspd0arxtef6subjg2kmvq925th9nr8xrsrdwiaaaiaaagun8bl62zusvd03vhga4avdikts
+  - omnrfh4te
+  - >-
+    hzwkfwvsjyt4gago6gqmdejbaaraaaraaaraaaraybwifcmrelmlmctn1phujvuxquwew0lgvvosragsb
+---
+# l73kjGdBAARAAARAAASGhUBoDp2MXg5L/fOtJ+0rw9URYtIJQEUHFR0IgAAIgAAIgAAIgAAIjDWBh9kb
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 7894 (chunk 7894/11534)
+
+## Content
+l73kjGdBAARAAARAAASGhUBoDp2MXg5L/fOtJ+0rw9URYtIJQEUHFR0IgAAIgAAIgAAIgAAIjDWBh9kbtiby3Z4hNxAYFgLkT4680fyJP514DZzVRtTlt6aql024nSYfhMPSOtQzLwLkhWsPd0arXtef6SUbjg2KmVq925TH9NR8XrSRDwiAAAiAAAgUn8Bl62ZUSVd03VhGa4AvdIkts/OmnRfh4te/HzWkfWVsjYT4GAGo6GQMDeJBAARAAARAAARAAARAYBwIfCMrelmLmcTn1phuJvuxQUWew0LgVvOsragsb/oT5l1V58PSLtQzXwLT6jCvnmGcaP2erst8y0VuIAACIAACIAACxSTwNJ8X9Za1wUbxTLKqLGZt+10r2kvSvjLLuhppfAJQ0UkfB8IgAAIgAAIgAAIgAAIgMJ4E/sYPsIo+e8MWtmjwFwTGh8Bf5X5WaRGv+DPAMlu2Vj7K3pI1e+7EVrwdY0tg2rZX0ZVkzSzbzewlXjXnrb6XLdrxeXfQUhAAARAAARAYTwLXbnjClI2/Ynydf8aXxnoPRXtJnwnC2QlARSezw0JKEAABEAABEAABEAABEBhVAuTWu9/nK5E/CBSNAAlZDpmP7BI7qD+UdbtNvmZq/Bb1rKyoDdM7eAm3S3XRem3w9bnO7knMV86o121N/FM/zyr2BjkrKvz7Cw+oEht8fVAiCIAACIAACIDAShG4dmG3KNvbjDvgSH+vXP3wmK8YaS85qjvlfrcLKjqo6EAABEAABEAABEAABEAABE4QuJE/lQidV2q7i3JBAARAAARAAARAAARAAARAAASGhQDtH/utxBrt/KGigzgGBEAABEAABEAABEAABEDgBIEj5kvR4GdPb1GLZli2hagnCIAACIAACIAACIAACIAACIDAIAnQnpH2j6OtQut366CigzgGBEAABEAABEAABEAABECghcCf1NOyIga5wUNZIAACIAACIAACIAACIAACIAACw0KA9oz9Vl+NQ/5Q0bUII8ahy9FGEAABEAABEAABEAABEEgn8Kn61i6LyTX3qFLT7XlJO1fw+AsCIAACIAACIAACIAACIAACIDDeBGifSHvG9H0lfs1CACo6qOhAAARAAARAAARAAARAAATaELhbzekqzF3qYTnHinqCAAiAAAiAAAiAAAiAAAiAQL8J0D4xi/IJabIQgIqu
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

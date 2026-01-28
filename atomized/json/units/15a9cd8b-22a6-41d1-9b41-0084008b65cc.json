@@ -1,0 +1,26 @@
+{
+  "id": "15a9cd8b-22a6-41d1-9b41-0084008b65cc",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>A simple script that:</div>",
+  "content": "<div>A simple script that:</div>\n<div>1. Scans all your personal repos</div>\n<div>2. Checks: Is it a fork? Have you modified it? When was last commit?</div>\n<div>3. Generates a triage report with recommendations</div>\n<div>4. Creates a decision matrix for you to review</div>\n<div><br></div>\n<div>**This will give you concrete data on what you actually have, not what you think you have.**</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **THE BRUTAL TRUTH**</div>\n<div><br></div>\n<div>You don't need a four-layer integration architecture **yet**.</div>\n<div><br></div>\n<div>You need:</div>\n<div>1. **Inventory** - What do you actually have?</div>\n<div>2. **Triage** - What's valuable vs. noise?</div>\n<div>3. **Cleanup** - Remove redundancy and chaos</div>\n<div>4. **Foundation** - Build the decision framework</div>\n<div>5. **Then** build the synthesis system</div>\n<div><br></div>\n<div>**You're trying to organize a library before knowing what books are on the floor.**</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>**Want me to build the `repo-audit-and-triage-tool` first? It will scan both personal and org, give you a full report, and create actionable next steps based on actual data, not assumptions.**</div>",
+  "context": "From document: Contents_Table — chunk 85 (chunk 85/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "what",
+    "have",
+    "triage",
+    "build",
+    "personal"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

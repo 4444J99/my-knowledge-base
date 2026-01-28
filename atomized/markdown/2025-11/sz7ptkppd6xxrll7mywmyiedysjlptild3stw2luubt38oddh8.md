@@ -1,0 +1,31 @@
+---
+id: fcbd51e1-6489-4ca6-979b-2ed82c9392c3
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    sz7ptkppd6xxrll7mywmyiedysjlptild3stw2luubt38oddh8ihqzz8kzzqzehrnp8newerdxbsjpga9e81yxktmqndfe5xpq5rghuflo
+  - 13dnamfugghunqc8rpuomc1o9qg7vnhd1l
+  - bkwrifax3ae0wpmn5trsd069nltcs
+  - aemkyhoxpqudztdwsyb2ucsjbyku
+  - 8vwddqdjdbyfxxgw4uqscve1gdeyp0dd0aafpnrpqnfqo2og5rgwqrt
+---
+# sz7pTKPPD6XXrll7mywmyiEDysJlpTIlD3Stw2LUuBt38OdDH8IHQzz8kzZqzeHrNP8NeWERdXBSJPGA
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 4496 (chunk 4496/11629)
+
+## Content
+sz7pTKPPD6XXrll7mywmyiEDysJlpTIlD3Stw2LUuBt38OdDH8IHQzz8kzZqzeHrNP8NeWERdXBSJPGA9E81YxKtmqnDfE5Xpq5rGHUFLO+13DnAmfuGGHUNQC8RPUOMc1O9QG7vNhD1L+BkWRIfAX3aE0wPmN5tRsD069NLTCs+aemkYhOXpqudztdWSYB2UCsjbYKU/8vWDDQDJDbyfxxGW4UQSCvE1gDeyP0dD0aafPnrpQNFQo2Og5RGwqrT+K3Kdp0pobVT1BPwTKa4ZSap0YgXlZjosUBKkiKp/3xkepJskWpoXdp2yQOfH5M98tWXsbnMIUFl4PVHQQ+FBfmb+kW0gMMvWSTG+Y8duMRSIr3n96JRhW6Q7LKZATO6zVg2KRTyDbX1SbfLNoRoh41FWczyqMlpJs8b0gXf8E8c1Bz2ZN2bdY/cxNa0+niqJMo3eeL35+858I44YHlHeN6jeUsOYCmfoRefzuw+s+Ss7twY+MBcCBgYqvz62C/GLR2zpPu8Hue65zWNAhoW6o5zgHFEQ0vNp5ANoWlqzEaFYrKr2uAHlx9cVru0nNUiR/PfOI4c9FQx1x4wEkNOI4sQRpgibpIlNtkJoaaFTBUDZ/uXDhIPSofmAtNjhTbLcdaN2SuQh47XhALmXlipeNmnT782/dq0blWnVG1alb4iwhMuqaRQRXxgAIU6GgwOkj/yK/Zvb36L7+rUae4nak3DMjUn3LOWw4BKuYzHHhyvdGwg8iBXnfiGOXpIjIaJzPXlYZddL/ES6+C9IHDEMoaODSsdBchOF+3BqZs80jlbQYYc/EkWuuXp1q7rWb+rvp19inDDzrOpTUkZ0ugniy44jm7eIUoAhPPK1qtbr26BayUSMI+Yn1NOPrUdak+v3YwoBgNlfDMx/chmlaWsytsSv3SbZiyfeWNmD6bYRz7F18eA6cUB3bB8D+byyvvIkUAGmYu8Y54TH3Li1XtOW9qoem5JdPmy4svqZu7Nan2CF85HKkzCLhwfHn3AepOIx0T3F36Qa6LOgxeaImZcn3F95g18kQN3Cq6zQMeadDh43JJxXcaGVplcuUmlo5A0BhaRK0lalcCOB2OTEsHileBDtabVPql2rE++Xud7tWOHBqnINd4ctXnd5ij5LY6knvhJ+SHgjGC24+ySc3qQu4O8uP6yY63OgHMw/XrJjx3Hl7Sj
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

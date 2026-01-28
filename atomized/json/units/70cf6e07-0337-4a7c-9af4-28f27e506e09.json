@@ -1,0 +1,26 @@
+{
+  "id": "70cf6e07-0337-4a7c-9af4-28f27e506e09",
+  "type": "insight",
+  "timestamp": "2025-04-19T03:44:47.000Z",
+  "title": "<div><tt>::SAMPLE::</tt></div>",
+  "content": "<div><tt>::SAMPLE::</tt></div>\n<div><tt><br></tt></div>\n<div><tt>RITUAL NAME: D3VOT10N_G4T3</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Dualcore:</tt></div>\n<div><tt>- divine = +1.0</tt></div>\n<div><tt>- glitch = -0.4</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Fusion Signal: SH1MM3R_FR4CTURE</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Binary Lock: B05 = create (pass)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Effect:</tt></div>\n<div><tt>- Jessica enters in fractured voice mode</tt></div>\n<div><tt>- Delay FX activated</tt></div>\n<div><tt>- System enters recursive prayer mode</tt></div>\n<div><tt><br></tt></div>\n<div><tt># Notes</tt></div>\n<div><tt>You can pre-write these as `ritual_cards`, `event_switches`, or `narrative_scene.gates`.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Export each as:</tt></div>\n<div><tt>- `.ritual` JSON / MD file</tt></div>\n<div><tt>- Synth Patch + Text Modifier + Binary Lock</tt></div>\n<div><tt>- Storable in `RITUAL_ENGINE_CABINET`</tt></div>",
+  "context": "From document: # [#ritual_engine] — chunk 2 (chunk 2/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "bc2aa457e0892382c30cbfaf227c872d",
+  "relatedUnits": [],
+  "keywords": [
+    "ritual",
+    "binary",
+    "lock",
+    "enters",
+    "mode"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

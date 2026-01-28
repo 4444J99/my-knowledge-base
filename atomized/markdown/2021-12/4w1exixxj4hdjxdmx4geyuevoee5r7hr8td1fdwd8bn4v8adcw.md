@@ -1,0 +1,31 @@
+---
+id: 094af06f-1bd9-4625-a154-62bf340c922e
+type: insight
+created: '2021-12-17T14:46:39.000Z'
+document: 37d960e30d45ec53cee7bbbc54f3efc3
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 4w1ex
+  - ixxj4hdjxdmx4geyuevoee5r7hr8td1fd
+  - wd8bn4v8adcw3r79r03emxj5dcfjifqbg
+  - >-
+    4j71xymn9pg1oxq9bopkk5drhrrrqsffffabrrrqauuuuannnpxptwigffffmquuuuaffffo5lquuuvsjciiimaullrqayilioxqrybrs0lagooop3akkkkaciiii4brrs4oasilxs4ohybrinypcuh8ozflin0ud5rmkxfooocwmbs0uudciiigbakkkacikpavx2ciiik2plciiiphykkkkasffffawooooakkkkadfgkkkap
+  - 9p91kkkkaciiigaooooaskptsgmgerxh41
+---
+# 4W1eX/iXXj4hdjxDMx4Geyuevoee5r7Hr8td1fd/wd8bN4v8ADCw3r79R03EMxJ5dcfJIfqBg+4J71xY
+
+## Context
+From document: How lung until quit smoking? — chunk 17 (chunk 17/249)
+
+## Content
+4W1eX/iXXj4hdjxDMx4Geyuevoee5r7Hr8td1fd/wd8bN4v8ADCw3r79R03EMxJ5dcfJIfqBg+4J71xYmn9pG1OXQ9bopKK5DRhRRRQSFFFFABRRRQAUUUUANNNpxptWiGFFFFMQUUUUAFFFFO5LQUUUVSJCiiimAUlLRQAyilIoxQRYbRS0lAgooop3AKKKKACiiii4BRRS4oASilxS4oHYbRinYpcUh8ozFLin0UD5RmKXFOooCwmBS0UUDCiiigBaKKKACikpaVx2Ciiik2PlCiiipHYKKKKAsFFFFAwooooAKKKKADFGKKKAP/9P91KKKKACiiigAooooASkpTSGmgErxH41/GzQvhBofmzbbzW7xT9js88t28yTHKxqe/VjwO5B8a/jXoXwg0LzZdt5rd4p+x2eeWPTzJMcrGp/FjwO5H5D+JfEviDxx4guNf1+4e/1K/fLMeTk8KiKOijoqjgDgV+yeGXhlPNJrG41WoL5ObXRf3e7+S6tfBcXcXrBp4fDu9R/+S/8AB7L5vz+zfg1+1P8AEHxD8RdN8OeLxBe2GtTi3URQiJ7d5OEKFeq5wGDZOOc8c/ozXxf+zX+zmfBi2/j7xvD/AMT2RSbS1b/lzVxjc4/56kHGP4Af733fsyWWOCN5pnEccYLMzHCqBySSegFeF4mYjKqmZcmUQSjFWfLpFyu9l+F+v4v0uEKWNjhObGybbd1fdLz/AMun4E1cj4m8feCvBqb/ABRrdppp7JNKokOfRM7j+Ar4Q+OH7WWpXd3ceF/hbObW0iJSXUlH7yUjr5Ofur/tdT2xXwzd3d3f3D3d9M9xPKcvJIxd2PqWOSa+x4T8EMTi6axGYz9lF7RSvL530j+L7pHhZ14h0qM3Twsedrr0+Xf8D9h3/ag+BKS+SfFCls4yLW6K/wDfQhx+tegeGPih8PPGTiLwz4hs76Y4xEsoWU5/6Zth/wBK/DCnxySRSLLExR0IKspwQR0IIr7XF+AGXOFqFeal3fK19yUfzPn6PiXi1L95Ti15XX6v8j+gc0lflp8Gf2q/EvhC5t9D8dzSazoZKoJnO+5t16ZDHl1A/hPPoa/TzS9U0/W9Ot9W0m4S7s7tBJFLGcq6N0INfgnGHBGNyWqoYlXi/hktn/k/Jn6VkXEWHzCDlSdpLdPdf8DzL9FFLXxtz3haKSloYBRRRSAKSik
+
+
+
+---
+*Source: Document 37d960e30d45ec53cee7bbbc54f3efc3*

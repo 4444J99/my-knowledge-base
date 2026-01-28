@@ -1,0 +1,26 @@
+{
+  "id": "6a7add9f-c2ab-44d7-bcc0-ba1041db4ee6",
+  "type": "insight",
+  "timestamp": "2015-08-22T02:18:28.000Z",
+  "title": "<div>Orwell</div>",
+  "content": "<div>Orwell</div>\n<div>Such and such were the joys </div>\n<div><br></div>\n<div>Ee cummings (memoir)</div>\n<div><br></div>\n<div>House of leave</div>\n<div>Thomas Pynchon </div>\n<div><br></div>\n<div>Gore Vidal </div>",
+  "context": "From document: Orwell",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "7bff2af5e6835ded9b5dbd299e6bcb74",
+  "relatedUnits": [],
+  "keywords": [
+    "such",
+    "orwell",
+    "were",
+    "joys",
+    "cummings"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: dc978faa-a6e5-48f7-a800-f498c095f8c7
+type: insight
+created: '2020-12-04T00:15:12.000Z'
+document: e44d7acfd42bc15a324166b827d0b603
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    ktajf0aoqecap1of0cln78ukqsvwbzfusfuniwm727brt1mwvdbbjwm0oxxtwgr425os8wvpmgmxhy8oyhzkrrjikg5ruyuno2v5ynj64r9y7zbyn938ou4fobrzqoaw7o9gqhkovhownwpgps2z
+  - 1tsdy5hzhsgwq2eyr6wbqwo8arq1skzadydplnyc
+  - bs7z43
+  - exiqrvviwwyh6qm
+  - >-
+    1wwupreuo4swnxist91e7eejsoovwamr9pvtck0eaxgutv2nhf2zkmawnaaqfrkxumsnavqwz21bwlfauqiu3hj9d9
+---
+# ktajf0aoQEcap1OF0cLN78ukqsVWbZFUSFUNIwM727Brt1mWVDBbJwm0oxXTWGr425oS8wvPmgMXhy8O
+
+## Context
+From document: How Geniuses Spent Their Time — chunk 421 (chunk 421/812)
+
+## Content
+ktajf0aoQEcap1OF0cLN78ukqsVWbZFUSFUNIwM727Brt1mWVDBbJwm0oxXTWGr425oS8wvPmgMXhy8OYhzKrrjiKg5ruYuNo2V5ynj64R9Y7ZbYN938OU4FOBRzQOaw7O9gQHkoVHOWNWpgps2Z+1tsdY5HzHsgWq2eyR6wbqwO8arq1SKZADydPLNYc+bS7Z43/EXiqRVVIWWYH6Qm/1WwupReuO4sWNXisT91E7EejsOovWamr9pvtcK0EAXGutV2NhF2ZKmawNAAqFrkxUmsNAvQWz21BwlfAuQIu3Hj9d9/7DE7NPqoz56nHVdFTk5/8Qt7xRjTWTxszCkqDyHb+sbPHn/CiXxfSPYNN5rz1ltv5/swvAXvH//xHxWu9XcffZQn3rH5+6d/+ifuh5H3pps+x7BX2iS+itVM93i7fXfpAO8B20C+qCtiTUBDaruMqqfpIrE58yAUVYuyreDF2FKZSyEjXWtUbLjaBzKR+Wv4Tyc8WtSKaIsnHXYjt7xVTDHKODZ3+ktzqPWGGG0CCFRseUZjCywxrWgCSkPzS5vVinchMMgF4OsSOsLyODr7ng6OzN7XoVZ7EVRM7zO3z0Sr74G2+wE788yzT197BgbPY/N0C04AwAATQqwIMSDc68R99lt3wH7rD/jg+g/te/7+B6855PKrr3z0UV7gqOaXcomX/nB6A832v0KqLdVvxrOwhFNZVFt2GsLEWr2ayCLsmJlTRQAT5cmgQImPQPIqdQqoq38AS/BOFeS5ZSEcYABFhc2PuDOYMYvDS114AjyVDHwHF/mi02ml2XWN7jWRPKPH/qNZRlUrkaKqG4s2PRY7c2aV5eLjycGKQxYHLg5f2os4oHFY06FSaw56HPo4AN566+22N9ruZ3vgJZd8mhkp7Z86eHIg5XDKQZVDq3Zy7Zas6SL49cdhmYMzeTdt2lzy1CKXZ00snQ1gzall5k/8BAMYv5AzfPEIYylbX1FIQsvY7RZoIb5YcLMXRVatqEbR4pxEKbrIWVK7+m+gCgvDeFJoi+xOQ3iVnCqWHY0E0ERESzw1sQb2LIoNO9OJat74jKrwyriIF6EJ0JK5otfcKf4ioRg8fKHi1ltvv/LKq3nJl46q7G21/3H1z6MrTJByAOU+FmueceUVpE8++eQ///O/aEeP3bP9p/B/+Id/eOKJJ77y4IO3+EMAhPOF
+
+
+
+---
+*Source: Document e44d7acfd42bc15a324166b827d0b603*

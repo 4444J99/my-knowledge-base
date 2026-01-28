@@ -1,0 +1,32 @@
+---
+id: 999e21a3-7efb-436b-8e9d-15c02ee439c7
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - cg5zu086hokxhszes8qr7wambihoktlnikpxqru1qnfoay9abekcoc5nih7u7
+  - >-
+    j0mpqj5l5njj0gaxltldnbj6wgsxhmwf2j5ssz0dnaum0l5o0rtpbmjza8dxmtwntmzbje0epwvlkqzr1fc7mqskww
+  - >-
+    f5ndcqjykr7arkcbxgwdkah4qavbzyc34vrswwfiemrezgfgkcfsgsrx9ffc68mzxiqmtixmundgk9kdan05robovlybnqogovmx6gv1mryiifnrvlv5f7w9ptl9xayhfpm2l
+  - j464t13hiba7x5alb2njgbkd1k9vt2tjkznn2qzwskizgon
+  - abxbeu4umj
+---
+# Cg5Zu086HOKxHSZEs8qr7waMBihoktLNiKPXqru1qNFOAY9abEkcoc5NiH7U7+J0MpqJ5l5Njj0gAxlT
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 17390 (chunk 17390/18928)
+
+## Content
+Cg5Zu086HOKxHSZEs8qr7waMBihoktLNiKPXqru1qNFOAY9abEkcoc5NiH7U7+J0MpqJ5l5Njj0gAxlTldnBJ6WGSXHmwf2J5ssZ0DnAum0L5o0rtpbMJzA8dxmtwntmzBJE0EpwVlKQZR1fc7MQsKWW+F5NDCQjYkr7aRkCBxgwDkaH4qaVbzYC34VRswwFiEmREZgFgKcfsGsrx9FFc68mZxiQmTixMUNDgk9KDaN05roBovlyBnQOGOVMx6GV1mryiIfnrvlV5f7W9Ptl9XAYHfPM2l/2/j464T13hIbA7X5aLB2NJgBKD1K9Vt2tJkZNN2QzWskIzGoN/aBxbeU4umj+m1xNf/K0PQsH12RrnOCRNJ0oYq145ZDBAJTjxa/t73+CHVZkxVkgbsbSDSwtqTlAh97SPIfJxAA1AR3VBDHp6LNm22I0WKEEw/eqT6cEL8Pnrmy9PoKOBg8+WwSAsVUPb0Vl5jbzFj//pYitawAfzQHriV4p+eUy38aQlGs95caKM6S4wY6bGYnZ8tutGsuFgRQk5EyCw3OPmCIg0S1iVj2zzQS+P/Unn3ZuH9sbxy8+CYUMaE+2MkYHTzmjWNE8hXD4/iz0mfVobgnAvjWLWgrgexvcZLbdWLBWK/S8AhzW9l5Nzy3BTN6T+X3/OOF1GH6H0CsQtFvw4LM1kWhv1SOzolmKm3mL79VUL6jn49AcLyCr34vo+SB2/eSjAKCPryxMa+KzjtC9ml5z6Gk7up9J3qvpuSX6CHm0ID2u61zVyTdFgcDQcHDbIFm9DcYH3orKFDfzFj/fBbauAXw0B6wnur81PT+ye0oM2VH3ltENJlu/X74yZqsy/gzcd0Fo1DU6+BavclR8NU+h6OGzHnNxUGwheFd8jlttWyNJCttgATxjgQzuLEf3Vr7upZ7esMrWWoCskIbkB7C0vOYAHXpL890S6WoCOqoJMtKD4bNtcVuhxBY+65+x74SutHzrhkqNox3phnY3PQXRiAXDBz4rgOpsJfHpbRg7kQ9Y6a+7CZI/6qiICZjoW1/PHkbnVloLMisOAFejgyFdsjvUx1zF6gMko++/944No6cKJmss9Zgh/dDAWMnCnHXXywRojphtJ+6PrNLcNgyOoB16Kw9oh5bthjBoNKFWi4dAz8Nz1SQ1x5DXtPfWddd7eb0anTvaLQ1sh+j39zsFT5/j
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

@@ -1,0 +1,32 @@
+---
+id: 009f3c27-805c-4fb7-8ab4-7c2367bd6881
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    rqjexdiqd7bmeq8p8brrrbjq9ruqkmqeu9mpqdrmakhvxibvqqk4hjkbv9ajfccpx2fnknosrb7aidrqfxthtlvzueseofmdw3lfsr41qp2pqtn51et4ycbjbo7xoafff
+  - epswqsztyqv87ohxzzd2bdgfwcrgbxcwgdpgjto
+  - >-
+    qordu3gl4fqmpzvhmg1tik6qdtee5a1ugmctivwg1ilv7zhkbq1wa05eeoge4bvvpgmgqytfwzxxnacmdvj8kqo7fqypv9v
+  - 8x8vtzrzt3vr9wfex7v4i7rdjh9d
+  - ltz71f6s8bdq4q45ixllreqy6zzzvggix12u
+---
+# rQJExdiqD7Bmeq8P8BRrrBJQ9RUQKmqEU9MpQdRMakHVXIBVQqk4HjkBV9ajFCCpX2fNKnOsRb7aIDRq
+
+## Context
+From document: New Note — chunk 6110 (chunk 6110/21099)
+
+## Content
+rQJExdiqD7Bmeq8P8BRrrBJQ9RUQKmqEU9MpQdRMakHVXIBVQqk4HjkBV9ajFCCpX2fNKnOsRb7aIDRqFXthTLVzueSEOFMdw3lfsR41qp2Pqtn51eT4ycbjbO7XOAfFF+epsWqsztyqv87OhXzzd2BdgFWCrgBXCwGdpgJTo+qoRdU3Gl4FqMpzvhmg1Tik6qDTeE5A1UGMcTiVwG1iLv7ZHKBq1wA05eeOgE4BVVpgMgqyTFWzxxnAcmdVj8Kqo7FQYPV9v/8X8vTzrzt3VR9WfeX7v4i7rdJh9d/lTz71f6S8bdq4q45IXllrEqy6zZzvGgiX12U/Gz8D56ym24vHcS9/rZ3PJec+qfblfBp97YUYsAqXVQuqMqfGgNUXHag60FeujqeVCqtWO2B1ZKhaJsbqncPq3Eyrc1EdH611rqhDAxUKuBY7h1XAp7vG62VhT7fsnmuXgf5yB6e2qrNqt7qw9nQVSbtyo3BYbVaQtb11uwyok+ukOrjumWuTvbtbZXaqUcaHK2V4oEx6+nQ/HZ85Oyt//Efvli/81R9p/LH84UffLWdOL8rUVLcMDtfL2GSrjE+2SXdPpWzpVFi1c6Bc2tS2taWzUGFVjbYiaWotkMYWdVtt3SE9PfkyM14hR+br5eRCk5zeUy1Lc5Vyel4h0kUApI0KmDaoq2qdnFPA9JzCpWd3l8uZOQVUZ0tkebZYHVTLnMPq8mSxHB/LV2B1mxwa2qYOqzsUZi2RSwq9vuNYp7ztSLvcpk6rF/bWqUNrtZyar9LzqFurnvMcYFgXdQ6SPa/5pb21cofCrW89mCuwuo6wKqDWVUKrKy6rxhV1rcBq1pAq3VWpybAq4FXCqtB0sCrmMsGqmE8Fq6KeClZFPRWsijphVShhVWgqWBX1AKwGoCzTg2eYD/dIuAfCPfBmvwf40nTzP2KHKwwdCB0IHQgdCB0IHQgdCB0IHQgdCB0IHQgdCB0IHQgdCB24/h0IwOrGAauAVC2wGgWtWliVuQ+tAlxlEFSlElKl+g6rFlgFuEpQlUpQ1SogVQbgVD/4ztUqYVUfVKWzKuupYNUoYNWHVeGymglY9UFVwqqsE1SlWndV5gRVCalSLbCazmEVLqs2AKly7AOrdFhFnaCq1Sh3VQKrFlBlbgHVdLkPqtoxfieAcbrfDfhwKseEVAmqUln3oVVAp6wxzwSt
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

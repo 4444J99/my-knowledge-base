@@ -1,0 +1,33 @@
+---
+id: 77c56215-187a-40d2-88d5-80ff6c8e1563
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    gxxj6rnwmfqkibyc5vcsg2dyrhgf4jpl11gkpvxeokqvnnc6ue7jfchm6j4aysbkgusqyms0ovlnorseqqbvbwmhstloul31yvni4rbrrt7ouze2rpqusaqclu7wj2pf3g89xlrootz768ujd3xdx6tdzhfmqwwaehus6ejdhcs16mawspjjucbriepm
+  - >-
+    qvjsuzafe9vgjp5ytbyczuebdoqbtzbatjrpkgtpkwtzr0syn41uinlctarlxfaoarlofx09ku3o0ngdg1jpy
+  - >-
+    wnybhl9uqckblsh1ykvgjjee3izzkj0wk1enphtnojfc9ko05tbvcpgcdjv92qrd32qldovjdh76tcse8twcxaupg2tunv
+  - 0pbvcmnbzwit9wrk3jianstd8kddsjwj7rpwqrk
+  - rc03vasnv5envetdcxrdrqoo5uz
+---
+# rYv+gXxj6rNwmfQKiBYc5Vcsg2dyRHGF4JpL11GkpVXeoKQVNnc6Ue7JFchM6J4aysbkgUsqYmS0ovlN
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 345 (chunk 345/11534)
+
+## Content
+rYv+gXxj6rNwmfQKiBYc5Vcsg2dyRHGF4JpL11GkpVXeoKQVNnc6Ue7JFchM6J4aysbkgUsqYmS0ovlNoRSeqQBvBWmhSTloul31yVNi4rbRrT7oUze2RpquSAQCLU7wj2PF3g89XLrootZ768Ujd3xDx6TdZHfMQwWaehuS6eJdhCs16mAWSPJjUCBRIePM+qvjSUZAFe9VGjP5yTByCZUEbDoQbTZBatJrpkgtpKWtZr0SYN41UINlcTArlXFaOarLoFX09Ku3O0NgdG1jpy/WnYBHL9uQckbLsH1yKvGjJEe3IzZkj0wk1EnPhTnoJfc9KO05tbvcPgcdJV92qrd32qLDoVjDh76tCse8twcXAUpg2TUNv+0pBVcMNbZWiT9WRK3JIaNstD8kDDSjWJ7rPwQRk+RC03vAsnv5ENVETDcXRdRqOo5UZ/G6NvuspbVcWozQh1Un9G5+TrQG388lBe+PXBLRlOZqh4YE8tRIS+MM8Vurwy4ZIPFpbxGoQfi3nukgXXvXmZhjD78yoiA4wtBARM/+XchYXLU3+J8/bYFyfemH5h7DNTF8TcRAggedyA3OLxD3GFMcII9K9BPTz5AX4cufUTeUBo4xzO55MfwW530smBMUPI/4rdt8huqeP3YhCadooT79N/i8Hjrxk+MPH+sVfhQ6P/CotxuY0x2Yna1IdmrkwlEYE3dxveh1YF/hArNfhS2BQMEi0nMVpkTdq6kmZPwovCXl+4b3lsPpl+YfbRzP7EC1OvT+6O/oHhO/rP61sT2fHi2I9OfGf8BsIUJj+K24hunPMXZbJFp2HtQIniEVPJ1lZ5Y0AZyI0oSWFOAkIAkYzuI2y7Lq5JsPPdqiPmbDPJxt1aZ1Aht9mYWguj7YkMYjLiWdQSsfSpuismFThcUiZyM95UCkhZXsnhHGvOcI8c5gJ4mcRnL44UMX608CDSINtqAzr5jnK0T5/2MkZnwoaUsl9KGhg87qMztp6Pp2AE7U/akovCQWWtHu6mhO3Gep5dzu9VFDoXQMgRy6MjF8+pLehK97vxSriP0RmysC7AepoBYwnoV6mwf2kJPfOgJVCVSiuVeMVf8lYSlUDJW4dAS0yiS2O9QyNRJbm+p8SL0RR61EqKDS+mSL4gBtLbkiIGusxhIrfW9kmOHtsh5mFo7OpT2JW0cjUsOC02XVRwW+wkMyD7eg
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

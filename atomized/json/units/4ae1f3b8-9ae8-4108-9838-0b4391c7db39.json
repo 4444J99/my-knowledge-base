@@ -1,0 +1,26 @@
+{
+  "id": "4ae1f3b8-9ae8-4108-9838-0b4391c7db39",
+  "type": "insight",
+  "timestamp": "2024-07-17T20:24:42.000Z",
+  "title": "<div>To sell</div>",
+  "content": "<div>To sell</div>\n<div><br></div>\n<ul>\n<li>2 bedside tables</li>\n<li>1 bedside table </li>\n<li>Amp</li>\n<li>King sized bed </li>\n<li>King sized bed frame </li>\n<li>Computer chair</li>\n<li>Ableton push</li>\n<li>Equator d5 monitors</li>\n<li>Speaker stands</li>\n<li>Autonomous standing thingie </li>\n</ul>",
+  "context": "From document: To sell",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "eb00da1614cdb6c159708523e90565e8",
+  "relatedUnits": [],
+  "keywords": [
+    "bedside",
+    "king",
+    "sized",
+    "sell",
+    "tables"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

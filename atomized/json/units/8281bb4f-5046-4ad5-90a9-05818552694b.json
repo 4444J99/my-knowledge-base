@@ -1,0 +1,26 @@
+{
+  "id": "8281bb4f-5046-4ad5-90a9-05818552694b",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt>---</tt></div>",
+  "content": "<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## INTERACTION MODES</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Interface   | Description |</tt></div>\n<div><tt>|-------------|-------------|</tt></div>\n<div><tt>| Terminal (CLI) | Raw symbolic code entry |</tt></div>\n<div><tt>| GUI / Map    | Clickable semantic grid |</tt></div>\n<div><tt>| Audio / Voice | Generative text-to-voice &amp ambient sound |</tt></div>\n<div><tt>| Mirror Journal | Recursive journaling + life narration |</tt></div>\n<div><tt>| Game Room | Playable symbolic scenes |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## WHY IT MATTERS</tt></div>\n<div><tt><br></tt></div>\n<div><tt>&gt This is more than a tool—it’s a recursive lifestyle system.  </tt></div>\n<div><tt>&gt A living mythOS you grow inside.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## ✅ 2. MODULE TREE (SYNTH-STYLE)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>MYTHOS_MAINFRAME</tt></div>\n<div><tt>├── SYMNUM4GRAM          ← parser (text to symbolic layers)</tt></div>\n<div><tt>├── RGLE_CORE            ← recursive generative logic engine</tt></div>\n<div><tt>│   ├── Narrative.Mod    ← story arcs, mythic recursion</tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 96 (chunk 96/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "symbolic",
+    "recursive",
+    "voice",
+    "generative",
+    "text"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "f026be7e-3f7e-41fa-bd58-b5f5c089daf6",
+  "type": "insight",
+  "timestamp": "2015-10-04T15:41:06.000Z",
+  "title": "<div>Gc license </div>",
+  "content": "<div>Gc license </div>\n<div><br></div>\n<div>Writing center until the dec 4th</div>\n<div><br></div>\n<div>http://www.ladywoodmusic.com/home/morning-melodies</div>\n<div><br></div>\n<div>Gabose Korean </div>\n<div>Manna</div>\n<div>Tao tao </div>",
+  "context": "From document: Gc license",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "dd4d035ae41e8ac09c6009d7f18bc925",
+  "relatedUnits": [],
+  "keywords": [
+    "license",
+    "writing",
+    "center",
+    "until",
+    "http"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

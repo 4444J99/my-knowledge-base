@@ -1,0 +1,31 @@
+---
+id: 9addcbd1-6991-49b3-aa35-324cc1ab9e47
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ucxu31an
+  - >-
+    1wlvwmd84on08axce4czjvhg3m3zbw1psh5xavj6qydvm8qmmhjaurgzb6yzsrbaqbvzntom70zmdusrxupmxoil0gybpki5o59ja29dwx2xznxfmph6qfmlkjzujtylpuilobxpjymaewsyfbmujhbma6sjqwhlskqxmgtg7btn5sa74crm5ldeyvjnfypxubbprzshmlb7leigb9e66m2y56m17jpel
+  - 1fa574ffljck9rlt
+  - g8jk8gjcqpmhf5ritfllo8lfdd6hkl
+  - 4vp886nled2z6tg6sxytj7vzxaez
+---
+# UCXu31An/1WLvwMD84oN08axce4czJVHg3M3ZbW1PsH5XaVj6qyDVm8qmmhJAUrGZb6YZSRbAqBVznTo
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 1034 (chunk 1034/11534)
+
+## Content
+UCXu31An/1WLvwMD84oN08axce4czJVHg3M3ZbW1PsH5XaVj6qyDVm8qmmhJAUrGZb6YZSRbAqBVznTom70zMdUsRXUPmxOIl0gybPKI5o59Ja29dwX2XznxFmPh6qfMLkJzUJtYLPuIloBxPjymaewsyfbmUjHbma6SjqWhlSKqXMgTG7btN5SA74CrM5ldEyvjNFYPXuBBPRzSHmLb7LEIgb9e66M2y56M17JPEl/1FA574ffLJck9rLT+g8JK8gJcQpmHf5RITfLlo8Lfdd6hKl+4vp886nlEd2Z6tG6SxyTj7VzXaez+U75zvbZUp/UQNXJdWVDFSll1xt3nO8WHLftr0C5LZwGgBG7HMnMdzA9gGmBLYTQF9rAWse2wD/av8CD2uFuNzWh+vX9irgruXzPGuKH+EPtvW4A4/7kpFk5lYBwxY+hLmE1gjBnPB/obFVn0cAr/4LiKc2/BC+f/4pHMy2qig5K9Zvuu95K66y68RzzVGDUM/dAG5cup1opwVFxlRhVUF/7cIH+PyTdxujTHDu36NkRPMpfYdkSHvYverfZHurfWq+sS7HamutpJKuredjw+Q0PIpNUpVwlbmQLQx2WiBNXr4D5BlS8PVSnguX4Uv2jzlIRjWSNwjJsusBOxbxyOJr/IisLPc9wFTPOGpShKUu4pRX7iTySXFNRMOurQT8ufAai62WGSrWsRnd31rebP6A8Sf4I5hI636aIWGRuRLfg7ZUbQuZWPoQPLgLW4hudrUk1t3LHbRL4pIoSa6nrls2QluuW/YFR8VhsbzIAp9NAFGGT+Ooe8ye/+tcsIh7rq6HjEPTFxyq/cPmb9qD1uD8GPHLlmp0EGmt1qMlQp41yrVprFji/UQjKgPIeZO4J8oddBuvdeEzDucB4+VCtBavhErA82uzI3b6oRJHyGiG9k+QXSddZS7kIcKEvfeY83geaE37w/hLjX8hthw6eqep+djyWQRZ2x6gpdszAPp1PYJQwP6Uw2MmJrCs9kL1pdthJVxfuY2uaLvHfMeiMbyfu40hNTB/xn20qLPdB8g3d1iEeI83HzseOUTLLXiF3dN1MdxeHR8Ie9nM6OLofO7s4CT3fOe5HjK9lD7kX5qQcUHTmeuYFrS/pY1gjTf3Mazx9M/jc226CpmXs4y6K99Tdn//OuLiHQN/30efLQRKS1cBuUl2SlHbvi
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

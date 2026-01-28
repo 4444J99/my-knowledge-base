@@ -1,0 +1,31 @@
+---
+id: 609a686c-0b3c-4475-9b0f-34aafa18b22a
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - yatk9rqjsx0srjiqr4ecd0llveyluwq301kp5pqudhpm6zbsuoh4qf0fjn9o
+  - do8f6tcqwhzkxngugvxu4c0rtrel0
+  - pijl9sw
+  - gjsoqpdisla3yiw2vizudpxnlenwhjojx1tphv8ma75zvoue
+  - gvovzqbn6betxxpif8
+---
+# YAtK9RQJSX0srjiqR4ecD0LLveylUwq301KP5pqudHPM6ZbSuOh4qF0fjN9o/do8f6tcQwHzKxNguGvX
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 5614 (chunk 5614/11534)
+
+## Content
+YAtK9RQJSX0srjiqR4ecD0LLveylUwq301KP5pqudHPM6ZbSuOh4qF0fjN9o/do8f6tcQwHzKxNguGvXu4c0rTRel0+pIjl9Sw+gjsOqPDisla3yIw2vizUdpxnlenwHjOjX1TPHv8Ma75zVOUe/GvOvzQbn6BetxXPiF8/PG4a67gwkp7Xk5zen8+OF8MA9U0pyxrmVL1z8zsX1nM7ykVJuJLmEi04BckB0qTtkvXZG7V1wzIUCUAAKQAEoAAWgABSAAlAACkABKAAFxlYAERKzAsBvucGb+/ZP8M0pFH3Jg9e6ui4A7tZmBHUbME4frt+CcxwDmGHBeg5AHQGjxzM4Sl22gtdC90Nok0oTRzAnPodkcI7Qrx+i08A5AtPlEZ0ByPGzivk8FIHoFCzHQZ0bnKOl2kR0mUehO4oUmgeMRXfoFYCZO3mtHNHYtxk4OigABaAAFIACUAAKQAEoAAWgABSAAlDApED7UYt6ewg45w7PyizpiegI5OngHIW5zWHwrTk8mK6pZwR1axBnfrWB6AhLaLxzepDBfUhudYIo26WHm8rVpaVZLhWOMm8nFJaVWC8lkOMKAM7Z4boeyIf75+ispEd0dK7bKA2IrjU4RyPS+Y9FB0SXIrGlvI1W8FW9jmAJBUwddLRDASgABaAAFIACUAAKQAEoAAWgABSAAmMrMHbEI+7oAOfKIDffd0mM6MJBnQbLqc6Y9kGdM6IjcOcG58jbtA3n+BJlQB0hJQ6ZctbTwrdcmC1MgV7gHH1jNdjZwTlXK8Wl+fEAPZyjRxDC4By56FpDdP5wjtYAopPxWorXJQBVXHdthD0c+2YDRwcFoAAUgAJQAApAASgABaAAFIACUAAKmBRAVMSsABCdLzwrs3wQoqPgNbx0Rl+dM6jzQXQAdW1BtTAUp64FOPfKjN7b8c+VQnSU3LLlFJeZEZ0xxeVrh/cOHziMMKeOOWdqSYHWUm1jBABm7uq1cnSmbjraoQAUgAJQAApAASgABaAAFIACUAAKQIGxFWg/alFvD4HoyiA3z3f5/425C5StG2JhAAAAAElFTkSuQmCC"/><br></div>
+<div>Our first deal to get a gift for you to move in and live with me, something you proclaimed you wanted to do since the second week of us talking </div>
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

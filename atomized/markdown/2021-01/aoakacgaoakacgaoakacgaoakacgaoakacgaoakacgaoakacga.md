@@ -1,0 +1,32 @@
+---
+id: fa676ffc-c88e-4573-a567-a6b4ed98918e
+type: insight
+created: '2021-01-09T17:16:44.000Z'
+document: b08f3427975696d1616a6633df09ddd6
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    aoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgd
+  - 4j66acgaoakaoq8bf8jpqf
+  - >-
+    6b7wgdlaacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgd
+  - 0p4j66acgaoakaoq8bf8jpqf
+  - 6b7wgdlaacgaoa0xomsto7eiv0juzocx
+---
+# AoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoA
+
+## Context
+From document: Structure — chunk 149 (chunk 149/206)
+
+## Content
+AoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgD/1/4j66ACgAoAKAOq8bf8jPqf/bl/6b7WgDlaACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgD/0P4j66ACgAoAKAOq8bf8jPqf/bl/6b7WgDlaACgAoA0xomsto7eIV0jUzoCX/wDZT64LC6OjrqhgFz/Zran5X2Jb82zLcfYzMLjyGEvl7GDMB+Zq2XgrxdqPhXWfHFh4c1i78H+Hr6x03XfEtvYzy6NpOoam8aafZ39+qGC2uLx5I1t4pHVpWdQoORR/X9f1+QHL0AFABQAUAFABQAUAFAHSeEvB/inx74g0/wAJ+C/D+reKPE2q/a/7N0LRLKbUNUvvsNlc6lefZrS3SSWX7NYWl1eTbVOy3t5ZGwqEqAc/NFLbyywTxvFNDI8U0UilXiljYpJG6nBV0cFWUjIIIOMGgCOgAoAKACgAoAKAOo1zwV4u8M6T4a13xB4c1jRtG8ZWNxqXhTU9RsZ7Wy8Q6fayRw3N5pFxKiR3tvBLNFHLLCXVGkQE/MKA/r+v6/M5egAoAKACgD3Hw1+zP+0H4x0LTfE3hX4N/EXxB4e1iA3WlazpPhfVLzTtQthI8Xn2l1DbPFNF5kbpvRmXchA6EKCuu6+85X4gfCD4pfCn+yf+FleAPFXgf+3vt39jf8JNo15pP9qf2Z9j/tH7F9rii+0fYv7QsftPl7vK+1W+/HmpuB3T2/O/9f12MDxX4K8XeBb6z0zxl4c1jwxqGo6TY67Y2WtWM9hc3ejamJG0/U7eKdI2lsrwRSm3uFBjl8ttpO00f1/X9fmBy9ABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAU
+
+
+
+---
+*Source: Document b08f3427975696d1616a6633df09ddd6*

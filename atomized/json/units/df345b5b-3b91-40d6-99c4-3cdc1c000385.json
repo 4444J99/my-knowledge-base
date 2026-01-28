@@ -1,0 +1,26 @@
+{
+  "id": "df345b5b-3b91-40d6-99c4-3cdc1c000385",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:44.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>1. **Seed World** – When a new world or project is declared, the engine creates an initial scaffold. From a minimal prompt or idea, it generates foundational elements: core concepts, a high-level mythos or theme, and a unique identifier (following naming conventions defined later). This is akin to planting the first seed of a new narrative or project space.</div>\n<div>2. **Expand Entities** – Given the seed, the engine expands on the entities within the world. In a narrative context, this means creating characters (with backstories, archetypal roles), locations (with descriptions and symbolic significance), and key plot points or goals. In an operational project context, “entities” could be modules, tasks, or requirements that need fleshing out. This stage uses **Metaformeme Linguistic Analysis** to ensure new terms connect to existing symbolism, and **Mythological Fusion** to give each entity a larger-than-life persona or significance (e.g., treating a module as a “fire-breathing forge” in metaphor to signal it’s a build system).</div>\n<div>3. **Simulate Interactions** – Next, the engine runs simulations or narrative scenarios to explore how the entities behave and evolve. In a story world, it might simulate character interactions or events (essentially story prototyping), possibly using AI role-play to see if the world is coherent and engaging. In a project world, this could be a dry-run of workflows or an AI simulation of how modules interact (for example, testing if a pipeline of tasks completes or where it breaks). This phase is guided by **Wave Theory**: it might simulate multiple cycles or “waves” of interactions – calm phases, conflict spikes, resolution phases – to ensure the world can withstand and adapt to changes.</div>",
+  "context": "From document: # Blueprint for a Self-Evolving Creative Operating System — chunk 8 (chunk 8/38)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "83dee6092ba3a8d02324ba12da038c25",
+  "relatedUnits": [],
+  "keywords": [
+    "world",
+    "this",
+    "project",
+    "entities",
+    "seed"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

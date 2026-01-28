@@ -1,0 +1,32 @@
+---
+id: f0b6195d-93c9-43b1-95b1-ca9a352446a7
+type: insight
+created: '2021-06-24T19:10:13.000Z'
+document: b5de64ea907b6e44ec94b342683f3041
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    oyatp48x2ty0izcapdgmnvlvzrwml2fwxoyechapoimnc6y0bgukripacwpsjciqjgqy7tiznhtvvfle8mjpvejhqzmajnjqqkcqab8svyqnwpvn1a
+  - >-
+    yqnljcwuynlu2rka5pmw6fybx8nyuceneucrudan28utrnjxrilx2tqm5h3txihkwcittbryangprw8hgclqp3qb7rppnwf9ytk27xu
+  - grg4mvuyv2ra5ix3fruub8dulk
+  - mm2ukermqkkxx7nuqarwjaa2aqcwi8fqzegoomhz
+  - d2kcvjkrzyy7zhemisaw3iwpq0o3cit6ytn1
+---
+# OYatp48X2TY0IZCApDgmNVlVZRwML2fWxOYEChApOIMnc6Y0BgukrIPAcwpsJCIQJGQY7tIZnHTvVfle
+
+## Context
+From document: TODAY FEELS LIKE A REAL BAD GO — chunk 464 (chunk 464/940)
+
+## Content
+OYatp48X2TY0IZCApDgmNVlVZRwML2fWxOYEChApOIMnc6Y0BgukrIPAcwpsJCIQJGQY7tIZnHTvVfle8MJpVeJHqZmAjNJQQkCQAB8sVyqnWpVn1A/yQNljcwUynlu2RkA5pMw6fybX8NyUCeNEUcrUDAn28utRNJxrilX2tqm5h3txihkwcitTbryangPRw8HgcLQp3qb7rPpnWF9YtK27XU//GRG4mvuyv2Ra5ix3fruub8duLK+Mm2UkeRMQkkXX7NuQARwjAa2AQCWI8fQZEgoOMhZ+D2kCVjKRZyy7zheMISAw3IwpQ0o3CiT6YtN1/Xl8Z36aU56zLZjzOZ2g5J3zQNcz4uay8UrBXJPzKbARaJEPx6ZGB9CH5p5yRM6sY12jr61wf+WGxnWVSVZZZjaEQ2zZneoY8oBkaWrkju7k2JdZPc+L8CrLMtN1BLICMPcqN3BLx8zjtzEQ8KWkALs/SZ+a5wIG8lVWbqU+yjrRBRzDfA6RH5WLbLGliMhezZx3Pcc2yUR+jXQPvzmZAiNONTKGz0JeZaONH1tYEhL5+elvupGjTY7pgXxOeF66ilPb1DfXINN8KA4+/0vmT1/YtDE21R0qLwSa6yFE4Ygooaum9R+WgR958/xIzlkQ82R0+xr5xb5IstjLSfUlW0xebNAom9uV6S9xoGuMEx+3q4qBbRVI0kls7KQEgLlk7wvVtZacIsjKoLPsy0b7P7vHPlpuBAO6xNxHEJfJqfTs9AQilP5ROdXU2ADJSfLFHx5CBphDyEbJW0Q9ncVe5LrKPX0uYBfEd/lO9LNKBUSVSp5yORT50s8mQlOyWfIOGSAxgehCICBjczJAf/TBdehQGPl7EW2Y17iIHs3wHoDs0wgcg8vJNpFtImKgDZoBo5QwPt79a5I7VnBAsJR4cEa2rZW7uF/fe/bp16KPEUyanARdYEAoKeO+jRK1aRbnF4bW6bY53n2vuZ7jOKH6wqhyxE0uDgi2kdNqDBkYSyNkzftm65r6xFkTJCkF5UwhkThs0xp0CtI6Y4aoK5vJefJcZJUB1QdKuWTojQeHlKx6/c9GacaYMkfIDS11n4QBvSBLDGO4uY/5XWLbdh3GQ5BOFjgupVORnEZyormfv0tjlV/fMa6b5pV9ThgfRKa+0l9d6/Dya6W/03N6rrZMiLkiOPb8glkEqQCbnmTwx1B1
+
+
+
+---
+*Source: Document b5de64ea907b6e44ec94b342683f3041*

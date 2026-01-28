@@ -1,0 +1,31 @@
+---
+id: 7f94d7d8-6185-4063-8003-ec1c70fb8765
+type: insight
+created: '2025-03-13T23:47:48.000Z'
+document: 3b2e4f3759d2535cf9a91dec728a8fbc
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    blrige9mnziwxyfasba2zeitrnqawjrn7jeaqjtzne1t5lonk9buzzrebladykudedsphoofhxk1nfb70nrhclzpnn60iynntxubsvpqjzin2uu0a2snzhsnwjvakebq2arvvovaupulcmm5ezz45yncudjobrsso1dys79nu7alshogj01cpw3n32r7s
+  - ao7qa8zzo4jqmbql1e1
+  - 6cc7ybahdkc3pwhweeeeaaaqqqqaabbbbailcc6szetm2bm6qrx79
+  - crvxnf
+  - w4cpjnkv2we9rptfz8vkslvbqer9sclct0oik
+---
+# bLRige9MnZIWxYFASba2zeITrNqAwjrn7JeaQjTZNE1t5loNk9bUZZrebLadYkudeDsPHooFhXK1nfB7
+
+## Context
+From document: Squarespace, ChatGPT, GoDaddy Expenses — chunk 2233 (chunk 2233/2268)
+
+## Content
+bLRige9MnZIWxYFASba2zeITrNqAwjrn7JeaQjTZNE1t5loNk9bUZZrebLadYkudeDsPHooFhXK1nfB70NRhClZpNN60IYNNTXubSVPQJziN2uU0A2snzhSnWjvaKeBq2aRvVOvaupULCmm5EzZ45YNCudjOBRsSO1DyS79nu7alShOGj01CPW3n32r7S+ao7QA8ZZO4jQMBQL1e1/6CC7YbahDkC3pwHwEEEEAAAQQQQAABBBBAILcC6szetm2bm6qrX79+cRvXNf/w4cPjnkv2wE9Rptfz8vKSLVbqeR9SClcT0oIK/IRDP6U2YJ/Q4CN16KppioBwx7AfURocVesWTvGPltU2FeDxZfpzdTzarQJBahrFrA8Q1AmvDy6CTaYLFixwI2bvueeeyH6H4LrcRwABBBBAAAEEEECgOgkoGKMpgX2IQ+9tzpw5Gb1FTeP85JNPRq6jawB/DeEX1qCDZG3hwoUuUOJf1zXUoEGDchoUUkWlYHhJ1xDJwkL6rHjHjqtFCHR9FL4WUkWdV155JTad16uvvuquSVSpSKGkDRs2xAaC6H2pmlAuKyR5q3RuFeLxTRWDdA3brFkz/5S79WGhuCezeKBr2b179xpNP6a2a9cuo2mwFa6iVaxAtfmEvL+dBkkt0zBFeXL7Y/HHVp77qm7b3lpS1UbVh9qESt3pvfpqQrrf2lYUOm07elQV5qNVa8xf5y0wby5aYuYUrLchk/g5ILW8b7sOFweF2jVrnrKakF++gf0h2aFFcXlwBYV8y9V2/PZ0W3TkqFlfUkmnf+dO5vyli2aLTZ1qGjaFZ8qzaSo1tdpphIS0XDBMpA5O33KxnSJb9Um/bNUU1Eqn9exwdbngeUpnXZZBAAEEEEAAAQQQQAABBBBAINcCy5cvd6NFhw0b5kIr2WxfHbWzZ892q6oKTtRoW78PBXAKCgqMRoWqck627YMPPnBTeWn98Ha0Dz8lmkYMp9tUVci38Ohd/3yy21TH49fxFYUUcpo1a5bRVAYaGavA1Pjx411AygeedI7eeeedWB+E3wa3CCCAAAIIIIAAAghcTwKqdprqb/q//vWvZs+ePWUi0VRbb7zxRtzf3grZhKdo9jtRqER///um6at8VVb/XC5u27RpE7cZDbjQtU6ipuuH4DWM1g1Pz6xA0C233BK3+pEjR8zcuXON1vfVYrWAzL/9
+
+
+
+---
+*Source: Document 3b2e4f3759d2535cf9a91dec728a8fbc*

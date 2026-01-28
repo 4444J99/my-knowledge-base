@@ -1,0 +1,31 @@
+---
+id: aa086593-306d-40d5-9999-0f18795b0712
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - joq62pexzlg4z1ddasoc9q13ptj9bnum8znx9qz0s
+  - 9lija1fmiznkn6m7atand1j2het
+  - ucxnuhuv4fzag
+  - >-
+    rw0dd58jmg1ckvkvkdtdbpghwjt07e9joll6fawzd40ducrvvk97lsfa0qlcbg7aewoscnefaa40hucl0zo9fbxd0sqz2blpgr6qxbzg4qvmrpavmvmpreunaltvewqn0jqnzcls2muwfpanrukdh9onscywx8ft6w0tjtnxf3nwn61gofvxg085vofgf60ra3vrfmgxeqnfax6kv63mout8nluq
+  - guwryies30duwayfqslr7seh4mahufvysn4lkfwbiszyku
+---
+# M+46+joq62peXzLG4z1dDASOc9q13ptJ9BnUM8Znx9Qz0s/U+9lija1fmIZnkn6m7atAnD1j2HEt/ucx
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 16661 (chunk 16661/18928)
+
+## Content
+M+46+joq62peXzLG4z1dDASOc9q13ptJ9BnUM8Znx9Qz0s/U+9lija1fmIZnkn6m7atAnD1j2HEt/ucxnuhuV4fzaG/Rw0Dd58JmG1CKvkVkdtDBpgHwjt07e9joLl6FaWzd40DucrvVk97lsFa0qLcbg7aEwoSCNeFAa40hUcL0Zo9FBXd0sqz2BlpGr6qxBZG4qvmRpAVmVMPREUNALtVEwqN0JqNzClS2muWFpaNrUkdh9oNSCyWX8Ft6w0tJTNXf3NWn61gOfVxG085VoFGF60Ra3VrFmgXeqNfax6Kv63mOut8Nluq/GuwRyIES30DuwAYfQSlR7sEh4MAHuFVYSN4lKFwBISzykU/hAcy5LK7hZixaSzyPjwR5vLBc5RRpHP4XzimGVBL5KLlzAQfRTRHD5yaP0ibXTR4B28Y0qfApO3tFpAh22scwFvJWbQLLs4WW8/KZ9inDcz+UTIXYDs214RGppXDfVwNZ220jkW3keSjLpqjwts++uLt4yZgqHMzf2o3kK9gwXwFGEgtlYmI/iVaEFtut9aQ8bRtJkLzMLyZT94d4aVpl4ivABELvd0Jki16CK15RoZ/ipn2Q8OQycH/sq+RuEUmiZQKPl0kFGIKQ7dX2515JrFFTlWHkT6oMzTiSN+wLbSn8mHlc47bC7PZp/LZMuoWSv755B2bjRs7vz51+o+A5y1Wy+d+Zy9PondTiZHqY7YvSmXCZq/1PY9rPQGm/ZMc1AJ5u01zQt3tsQLbG0GeCqw/SrleRXW4I2vHST+bCgk2AjKe7tj+H0l6deJ3Mp2+XLElnsLC3Z0TocAB9Boji6kzs/i8xNu5UDhwdPiRITJgsnwhcyN0pY2Zmu5UJk8gOarnnwtyNHxNXm6JbkLL5aCA3czTjYV4EPsPobWm3g+86neleHg/z3//kzQzQhdMZx5kr/9gju9mxZb3HnXaPGbyz8JipmW3nzrWT8liw0SW+GuUBjYLp+07iOx0vFK/KcfQKtBH0kyonAO+5snQuS7sTf4PcY/Fml9lsdvPW5x9mZ7V4/70VmwQnin0wwJs91Xq5ujuo+z//n1+6eS0bmz8Jv1XDvp2Nb3Nh8c4VbXhQWbVPdc1qmaOzSjY6K+FBSs0uJZbh26PhmwJdbodD1eg8Vmc9j+VQ/mT5/4Ftrxd3ExKxb0LmcZ1jK+RNs99cWzR6dvPC
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

@@ -1,0 +1,26 @@
+{
+  "id": "d51f22d0-eda4-452b-a068-5586d53a4b6b",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt>  - `/SYS_MAP_OS_4BLOOM/`</tt></div>",
+  "content": "<div><tt>  - `/SYS_MAP_OS_4BLOOM/`</tt></div>\n<div><tt>  - `/SYS_EDU_PEDS/`</tt></div>\n<div><tt>  - `/SYS_PRODUCT_EXPORTS/`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>::REF_ID = ST4RT_3.0_OSFUSION  </tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt>—-</tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt>## ::ARCHIVE_ENTRY_022  </tt></div>\n<div><tt>**Title:** Peer Feedback as Translation Engine  </tt></div>\n<div><tt>**Ref ID:** SYS_TRANSLATE.PEER.INTAKE_0412  </tt></div>\n<div><tt>**Folder:** /GPT_ARCHIVE_CORE/SYS_INPUT_PEERS/  </tt></div>\n<div><tt>**Filename:** PEER_TRANSLATION_FEEDBACK.md  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### I. | ON PEER FEEDBACK AS LENS + USE CASE</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Core Principle:** Feedback from friends, peers, or colleagues (especially those with business acumen or outsider curiosity) is a key *translation mechanism*. It reveals how your system is perceived, misunderstood, or misunderstood *productively*.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 109 (chunk 109/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "peer",
+    "feedback",
+    "translation",
+    "misunderstood",
+    "sys_map_os_4bloom"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

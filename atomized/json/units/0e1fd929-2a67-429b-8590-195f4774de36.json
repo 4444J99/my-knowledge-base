@@ -1,0 +1,26 @@
+{
+  "id": "0e1fd929-2a67-429b-8590-195f4774de36",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>| W1   | KNST0000  | SICP                          | ✅ In Progress | `RECUR",
+  "content": "<div>| W1   | KNST0000  | SICP                          | ✅ In Progress | `RECURSION_ENGINE`       | The Oracle       |</div>\n<div>| W2   | KNNO0001  | Norvig – AI                   | ⏳ Open        | `SYMBOLIC_VOCODER`       | The Language Smith |</div>\n<div>| W3   | KNOS0100  | Tanenbaum – OS                | ❌ Not Started | `PROCESS_NEXUS`          | Time Warden      |</div>\n<div>| W4   | KNGB0202  | GEB                           | ❌ Not Started | `MIRROR_CHAMBER`         | Echo Daemon      |</div>\n<div>4. MYTH_AGENT Template (One per Resource)</div>\n<div>File:MYTH_AGENT.md inside each book folder   Template:&lt!-- UID: KN-ST_00-00 --&gt</div>\n<div><br></div>\n<div># MYTH AGENT PROFILE: The Oracle (SICP)</div>\n<div><br></div>\n<div>## Type:  </div>\n<div>Archetypal Architect</div>\n<div><br></div>\n<div>## Symbol:  </div>\n<div>Recursive Spiral Shell  </div>\n<div>Glyph: ∞</div>\n<div><br></div>\n<div>## Powers:</div>\n<div>- Speaks only in recursion</div>\n<div>- Summons waveforms that echo and resolve through time</div>\n<div>- Architect of the RE:GE_OS soul</div>\n<div><br></div>\n<div>## System Influence:</div>\n<div>- Guides creation of all repeating logic</div>\n<div>- Powers `RECURSION_ENGINE`</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 290 (chunk 290/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "sicp",
+    "recursion_engine",
+    "oracle",
+    "started",
+    "time"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

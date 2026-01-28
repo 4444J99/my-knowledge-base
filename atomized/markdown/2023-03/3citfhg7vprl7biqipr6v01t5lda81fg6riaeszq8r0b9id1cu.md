@@ -1,0 +1,32 @@
+---
+id: f58c2d9d-c0b5-45dc-97b5-a4c1e90c21f4
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    3citfhg7vprl7biqipr6v01t5lda81fg6riaeszq8r0b9id1cudrofrpe2ictwb8jwg9kyahvy11qi9tkqb51uipek7wpoe8bz9jbrbnk0bpbm72eb2bnvuwrta214npicl5hhe9gteb59gqr9rlgz0v5la4hdu4jjznkzornze8atybpfvlobhoem85
+  - >-
+    qsxhdgc5wbya2yn5ze8j8dzyzz6zq23thom62cc2jydsj73iftwej5lanvccx2b60tcc6bvdq6p4tpqgj5lgnzui3bnctpmj3k
+  - vv6tlvbxq5clcnt5dhe8r88lr8h74zl7ec73crd483qck
+  - v4pjyd12mlpv9a0k
+  - gzsa2eip71fj0qa
+---
+# 3CitfHG7vPrl7bIqIPr6V01t5ldA81Fg6RiAeszq8r0B9ID1cUDrOFrpE2iCTwB8JwG9kyaHVy11QI9t
+
+## Context
+From document: New Note — chunk 7808 (chunk 7808/8096)
+
+## Content
+3CitfHG7vPrl7bIqIPr6V01t5ldA81Fg6RiAeszq8r0B9ID1cUDrOFrpE2iCTwB8JwG9kyaHVy11QI9tKQB51UIPEK7wPOE8Bz9jbrbNK0BPBM72eb2BnvuwrtA214npicl5HHE9gTeb59GQr9rlgZ0V5la4Hdu4JJZnKzoRNzE8ATyBPFvlObhOeM85/qsxHdgc5wBYa2yn5zE8j8dzyZZ6zq23thOm62Cc2JyDsJ73iftWEJ5LAnVCcx2b60tCc6BvdQ6P4TPqgJ5LgnZuI3bncTpmJ3K/VV6tlVbXq5cLCNt5DHE8r88lr8H74ZL7eC73cRD483qck/v4PJyD12MLPV9a0K/JJY/Xj+Gzsa2eiP71fJ0qa/352TrPTJgp9vfjuqppHvek1rmN6wD4KexL4XMKOaZwvhq4XyB6AHrAeexL4pikK9iOZZcC9LjvBF42iOO+iOj7iOhxP31ope/FvDE8UxQvJ7zqfvjzy/uPf33R9fCnF6Hu+y8wD4cO6J8GIl2/Rrru/9L94PFPPQ9/eoTv+8eO+z8+xH09dPkiD/Az/6DN7HgIQP+wprH1x+qG1od4sQSj+UFVfeP9ZoO5wxkIuoHFbUDudn+k3RTpud9MQO/w+kyuQLA1iPZ54PkaXzhSA0Reg2PL0UrP9vlyYPEK4PIygPVy/E5VGSz2UpvLcw34/Srgegle7igCui9EE30xzsUynOsJhY8B4R8FaM/AOIoW+XQg+HS01h+1Ob3pdq//AIC6ap93B8Nfo4VeNc/7wx1bFJ73Bbahnf1Ls9251WCxbQGkV3jeZHOsw/pazLUW56/GWEU0jxcA1rqCwbVc2rzeFfWtrfNvlZdPO3/16kQi+qra+tmE775w+yqM1b8NtQ7ovwrzLUeL/FLMtxQN94sB4xWWbzIYFuqI3mBzLGLrvNXlWuj0+z9n87zN4yGgn2dzu+fbvYG5yGqu3eWZg/MJ6Ge5vYGZeJ4ZaJyfic/T3b7gVHy3k13eANrn/ROtHv8EvBAwnu3zyHcMXgYY6Q22f+IJRD72h8ND0UD/f7P3Xu9RXem29x91dgd32O3d7m7b7YzJyTliwMZgojE2wTZgcg6SUAIECOWcShVUOVetylXKWUgClKX6xph4cXz2+S6699Xx87wX7zPnmuGdc421Srr5zbH+Eoqm/oz6H7V4/Bk45f8OsP9vsIf/
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

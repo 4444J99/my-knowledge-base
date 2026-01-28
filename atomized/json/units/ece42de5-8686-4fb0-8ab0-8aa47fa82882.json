@@ -1,0 +1,26 @@
+{
+  "id": "ece42de5-8686-4fb0-8ab0-8aa47fa82882",
+  "type": "insight",
+  "timestamp": "2024-03-14T18:33:04.000Z",
+  "title": "<div><h1>Forward Funders Passwords</h1></div>",
+  "content": "<div><h1>Forward Funders Passwords</h1></div>\n<div><br></div>\n<div>Dropbox Sign</div>\n<div>[REDACTED:EMAIL ADDRESS]</div>\n<div>6231Amboy</div>",
+  "context": "From document: Forward Funders Passwords",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "5271e964adadee9eea065614fc515c13",
+  "relatedUnits": [],
+  "keywords": [
+    "forward",
+    "funders",
+    "passwords",
+    "dropbox",
+    "sign"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

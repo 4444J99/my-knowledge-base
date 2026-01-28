@@ -1,0 +1,32 @@
+---
+id: e0d3fbf2-a89d-478f-80f2-5e9c3db070a5
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    czaaczaaczaaczaaczaaczaaczaaczaaczaaczaaczdakseqpcw5mtmfjocjlovasmllecrtnonvtsz1dzdvnq7iou8pfx
+  - e97r
+  - lxssiaesiaesiaesiaesiaesiaesiaesiaesiaesiaesiaesiaesiaesoj0jupa
+  - >-
+    nwvnjnhmucq1xm9sonaqugwdsi3bcirpqoi2tiupluc6ucgdczaaczaaczaaczaaczaaczaaczaaczaaczaaczaaczaaczaaczaaczzwblik
+  - wldpsduhmrrx4pkjfndrszrxgxvzata2n9xnjfx
+---
+# CZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZDAKSEQPCW5MtMfjoCjlOVaSmlLecrTnoNvTsz1
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 1119 (chunk 1119/11629)
+
+## Content
+CZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZDAKSEQPCW5MtMfjoCjlOVaSmlLecrTnoNvTsz1DZDvNq7IOU8pFx/E97R/lXsSIAESIAESIAESIAESIAESIAESIAESIAESIAESIAESIAESIAESIAESOJ0JUPA+nWvnJNhmucq1XM9sONaQuGWDsi3BcirPQOi2tIUPLuC6ucgdCZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZzWBLik+WldPSduHMRrx4PkjfndrszrxgxvZatA2N9XnjFX/ZgnniNTIAESIAESIAESIAESIAESIAESIAESIAESIAESIAESIAESIAESIAESIIEfhkAgoUVCoPa1P0xmzOUUEHC9p1VTa6OFj9pouXbTxPmJW5KD1TZXs2s0L/uszCs7G1e0ctVGmfuNWd+IfwrsZJYkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkcJwErHr96ldrtPg472L0M4eAxtu7dcyLOUp3XdU1MSOpyYCm9zRf4hdg09sb7/y065KLlhQt2GdbtgPZG5vnnjnFo6UkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAL/vQT4Du8fed3jLd1YxLxBXIN+De9uktzkoeZrrAGWG1zqF7vJkia6+YBNb2+69bMOu8t3zd7eDXO85T3eDCRAAiRAAiRAAiRAAiRAAiRAAiRAAiRAAiRAAiRAAiRAAiRAAiRAAiRw2hOg4H3aV9GJGYi3dEPCbjP1vDUX3Gf3DfSLWxRzYm7U8VO1nUAozmmTc96yC7rvvGVXh+0aAjkDCZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZwRBOwzwkoa+Z0J1I1LX1hvUd2FdePq9Y2pWDYEcMcOeVn+3j/jX/VjfueMeCMJkAAJkAAJkAAJkAAJkAAJkAAJkAAJkAAJkAAJkAAJkAAJkAAJkAAJ/MAEKHj/wMC/t+zkzdsQs7GAuWPhCB8sZR5w2gw6v1b7FR5mbgcsuYYly51YnmVh4fJsOyLxPCemlLYjbe9rN/iiBM9RSt7l/WVqnpZlzr83u091wuABbof2GtwQwFBZwgElxxmz9xxhU7k3TCSOpXzmchfD90/A
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

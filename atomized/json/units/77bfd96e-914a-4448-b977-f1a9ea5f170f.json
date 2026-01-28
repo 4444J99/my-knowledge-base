@@ -1,0 +1,26 @@
+{
+  "id": "77bfd96e-914a-4448-b977-f1a9ea5f170f",
+  "type": "insight",
+  "timestamp": "2015-11-25T02:18:44.000Z",
+  "title": "<div>Put together visual images to draw from for each contact </div>",
+  "content": "<div>Put together visual images to draw from for each contact </div>\n<div><br></div>\n<div>The great diversion</div>",
+  "context": "From document: Put together visual images to draw from for each contact",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "8794decfac53396e41283e3420790f6d",
+  "relatedUnits": [],
+  "keywords": [
+    "together",
+    "visual",
+    "images",
+    "draw",
+    "from"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

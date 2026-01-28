@@ -1,0 +1,32 @@
+---
+id: f120dd7d-9016-4a3f-937c-5898266eea03
+type: insight
+created: '2022-09-20T22:57:55.000Z'
+document: ab59c5236e29ddf04340bee2baadbe39
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ga75l7kdvtg88cqtxhulzvhz5s2b7a233rjnmzz5g
+  - b77rnhypqpe9
+  - >-
+    mkx5payaswblyirmnoibqkmiy7agbceaaahcaqkiecaakiogniaabceaaahcaqgwqmdt3rg0bnsxontrlwf933hgh5cuxl6ix
+  - >-
+    nnn9uzzz5ru6zmsymhd160ljlz5lgq7khxr56pataggvgkei4kahfr0kcb1ahrw44fp24zzszwe0mk8tt94pvxxrgxx37zzxbkli3rzv9lyf5onvr3o
+  - 842vpmton3xnnnda6deuwi1clknobsk5p586dyr
+---
+# ga75L7kdVTg88cQTXhUlZvHZ5s2b7a233rJNmzZ5g+B77rnHypQpE9+mKX5PAYAsWbLYiRMnoibQkmIY
+
+## Context
+From document: SHE — chunk 94 (chunk 94/150)
+
+## Content
+ga75L7kdVTg88cQTXhUlZvHZ5s2b7a233rJNmzZ5g+B77rnHypQpE9+mKX5PAYAsWbLYiRMnoibQkmIY7AgBCEAAAhCAQKIECAAkiogNIAABCEAAAhCAQGwQmDt3rg0bNsxOnTrlWf933HGH5cuXL6IX//nnn9uzzz5rU6ZMsYMHD160ljlz5lgQ7KhXr56pATAGgVgkEI4KAHFr0KCB1ahRw44fP24zZszwe0mk8tT94pVXXrGXX37ZZXbKli3rzv9Lyf5onVr3O++842vPmTOn3Xnnnda6deuwI1ClknoBSK5p586dYR+fASEAAQhAAAIQiC4C8actRNcaWQ0EIAABCEAAAhCAQCIEdu3a5Y6rdevWeQbvL37xC5NTPJJN8hiDBg1yOY78+fNbnTp1PMtf2bPK3h0+fLg7z9RQs1evXqYmwBgEYpGAmtimtgJA3IoWLeqSN+ojooDiypUrrWHDhhGHdMeOHfbPf/7TA6KnT5+2KlWq2KOPPmpqiB5fw18tUBVUH3/8sWv/q6eImgNLJuhS26cGiu5ZBQoU8OblCgComkkVARgEIAABCEAAAhCIjwABgPio8B4EIAABCEAAAhCIIQLSuFaDS2XLS1f65ptv9kekI1AGrrL6t27d6o1Jp06datOnTzdJleiz/fv3u3OuS5cuaZKlG+n8mH/sEAgqAM6fP28p7QEQ0JIM0MiRI23Dhg0efFNVgO4rkWKrV6/2zP8xY8Z4hr0Ch4899ph17NgxwSXo3vLmm2+6Ln+LFi1M0j9pVUGlgKaCLWvWrHEJIEkVFSxYMMH58SEEIAABCEAAArFLAAmg2D33rBwCEIAABCAAAQg4gbFjx9r777/vjj81wpVsheQlIt0yZ85sjz/+uFcBPPXUU9a0aVPPmlV2ruQ9SpQoYQ899JDde++9lj179khfLvOHQIoJKEtdGeQKAKS0B0BwcDUDlgNc/8/UDHfLli3BRxn+WbJgv//9723UqFHu/G/evLn/nJjzX454VQxs3LjRypcvbw888IBVqlQpzdabI0cObwSsA+zZs8clitLsYAwMAQhAAAIQgEDEE6ACIOJPIQuAAAQgAAEIQAACKSfw9ddfe9bqvn37rGTJku4Mr1atWsoHzGB7Ktu/bt26/pB2t6Q9tFY5zcqVK+eOSkmfYBCIZQLK0Nf/A8nYpDYAoMBb27ZtTRn0
+
+
+
+---
+*Source: Document ab59c5236e29ddf04340bee2baadbe39*

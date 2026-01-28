@@ -1,0 +1,26 @@
+{
+  "id": "a0fa9584-087a-4e67-9c5b-df8d6a52a7e9",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:44.000Z",
+  "title": "new roles are introduced or when existing roles are refined. For example, if we ",
+  "content": "new roles are introduced or when existing roles are refined. For example, if we find that complex projects benefit from an additional “Coordinator” agent, we add a new config. Access: an Automation or Manager entity typically orchestrates agent creation (so it writes/reads these definitions), while agents might read their own persona config at startup to prime their behavior. </div>\n<div><br></div>\n<div>All these foundational components ensure that the creative OS has a well-defined structure that any AI (or human) can inspect to understand how the system operates. Each component changes under specific rules, preventing chaos even as the system self-modifies. The separation into config, prompts, worlds, archives, and agents also cleanly delineates **conceptual knowledge (ontology and vision), process knowledge (prompts and workflows), state (worlds), memory (archives), and agency (agents)**. This modular design echoes real operating systems (with config files, libraries, data storage, and processes), but here it’s extended into the creative and conceptual realm. Crucially, because these components are version-controlled (via Git) and archived, the OS can *reflect on and improve its own foundation* over time – a hallmark of a self-evolving system.</div>",
+  "context": "From document: # Blueprint for a Self-Evolving Creative Operating System — chunk 16 (chunk 16/38)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "83dee6092ba3a8d02324ba12da038c25",
+  "relatedUnits": [],
+  "keywords": [
+    "config",
+    "that",
+    "these",
+    "agents",
+    "system"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

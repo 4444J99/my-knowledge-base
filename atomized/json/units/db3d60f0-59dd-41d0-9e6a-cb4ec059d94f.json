@@ -1,0 +1,26 @@
+{
+  "id": "db3d60f0-59dd-41d0-9e6a-cb4ec059d94f",
+  "type": "insight",
+  "timestamp": "2012-05-08T00:52:11.000Z",
+  "title": "<div>I'm going to be a millionaire by my 27th birthday.  In return for this weal",
+  "content": "<div>I'm going to be a millionaire by my 27th birthday.  In return for this wealth I will give the world my heart and my soul through my music and my art. </div>",
+  "context": "From document: I'm going to be a millionaire by my 27th birthday.  In return for…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "b67e7eaba762da0b8df10d8ccfec19b1",
+  "relatedUnits": [],
+  "keywords": [
+    "going",
+    "millionaire",
+    "27th",
+    "birthday",
+    "return"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

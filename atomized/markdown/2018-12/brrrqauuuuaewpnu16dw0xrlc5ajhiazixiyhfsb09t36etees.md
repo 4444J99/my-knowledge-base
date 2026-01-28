@@ -1,0 +1,34 @@
+---
+id: 6996ff71-64c4-4785-b265-db165150d681
+type: insight
+created: '2018-12-11T22:09:08.000Z'
+document: 62cf9f4ed32fc66bb1a9c806a1ee2d42
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - brrrqauuuuaew
+  - pnu16dw0xrlc5ajhiazixiyh
+  - fsb09t36eteesryrsnfkpr0jvlyyii4iipcv9k18k69
+  - yhdr
+  - aem1mkbf8np4hsbxdu0o1mnez2v5cbojdqvbad
+---
+# BRRRQAUUUUAeW+PNU16dW0XRLC5aJhiaZIXIYH+FSB09T36eteESRyRSNFKpR0JVlYYII4IIPcV9k18k
+
+## Context
+From document: CLASSICAL STUDIES — chunk 212 (chunk 212/213)
+
+## Content
+BRRRQAUUUUAeW+PNU16dW0XRLC5aJhiaZIXIYH+FSB09T36eteESRyRSNFKpR0JVlYYII4IIPcV9k18k69/yHdR/6+Zv/AEM1MkBf8NP4hsbxdU0O1mnEZ2v5cbOjDqVbaD/nmvpnTb06hZR3bQSWzOPmjlUo6nuCCB+fevPfhT/yArr/AK+T/wCgLXqFNIAooopgFZ2sTPb6Te3EfDxQSMPqqkitGobiFLmCS3k+5KpQ/Rhg0AeS+EG8VT+H4ItBS2tbeLdmSfcWlcsSSAucAdPwrsPC2syalLfWd/apa6lZuFn2Dh85wwPX17n9a5/RdVvPCFodA1XTrmYQO/ky28fmLIrMW9Rg5PT862fCmn37XupeItShNtJqLLsib7yRoMDd7njj2pAdvRRRTAKKKKAMufXNEtpWgudQt4pUOGV5UVgfcE5r5a1uSOXWb+WJg6PcSsrKcgguSCCOxr3vxt4Pj1+3N7ZKF1CEcdhIo/hPv6H8Pp86SRyQyNFKpR0JDKRggjqCKmQHtXwz1XS7DRrmK+vIbZ2uCwWSRUJGxRnBI4r1e2u7W9iE9nMk8RJAaNgy5HXkZFfNvg/wnP4kvN0mY7KEjzX9f9lfc/oPwz9J21tBZ28draoI4ogFVR0AFNAT0UUUwCiiigD/1/38ooooAKz9U/48Jf8AgP8A6EK0Kz9U/wCPCX/gP/oQoYGhRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAV53d/DPQb27mvJZ7kPO7SMFZMAscnGU6V6JRQBg+H/D1l4btJLOxeR0kcyEyEE5IA7BeOK3qKKACiiigAooooAKKKKACiiigAooooAK8/8AFPgO18QXkV9buLaYsBMQPvp6/wC8O3r3r0CigClp+n2ml2cdjZRiOGIYAH6k+pPc1doooAKKKKACiiigD//Z"/><br></div>
+<div><br></div>
+<div>Epic Cycle</div>
+<div>http://www.maicar.com/GML/TCSummaries.html<br></div>
+<div><br></div>
+
+
+
+---
+*Source: Document 62cf9f4ed32fc66bb1a9c806a1ee2d42*

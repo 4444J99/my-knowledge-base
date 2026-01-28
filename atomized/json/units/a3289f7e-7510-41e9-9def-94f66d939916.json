@@ -1,0 +1,26 @@
+{
+  "id": "a3289f7e-7510-41e9-9def-94f66d939916",
+  "type": "insight",
+  "timestamp": "2025-11-23T04:21:32.000Z",
+  "title": "<li><b>Check that the purpose aligns with the overall project vision.</b></li>",
+  "content": "<li><b>Check that the purpose aligns with the overall project vision.</b></li>\n</ol>\n<div><b><br></b></div>\n<div><b>Checklist:</b></div>\n<ul class=\"Apple-dash-list\">\n<li><b>[ ] One-sentence goal clearly defined</b></li>\n<li><b>[ ] Specific and actionable</b></li>\n<li><b>[ ] Matches project vision</b></li>\n</ul>\n<div><b><br></b></div>\n<div><b><h3>1.2 Background</h3></b></div>\n<div><b>Instructions:</b></div>\n<ol>\n<li><b>Define why the system is being created.</b></li>\n<li><b>Identify the intended users or audience.</b></li>\n<li><b>Specify the desired output format for the AI.</b></li>\n</ol>\n<div><b><br></b></div>\n<div><b>Checklist:</b></div>\n<ul class=\"Apple-dash-list\">\n<li><b>[ ] Rationale documented</b></li>\n<li><b>[ ] Users identified</b></li>\n<li><b>[ ] Output format specified</b></li>\n</ul>\n<div><b><br></b></div>\n<div><b>---</b></div>\n<div><b><br></b></div>\n<div><b><h2>2. Thematic and Conceptual Inputs</h2></b></div>\n<div><b><br></b></div>\n<div><b><h3>2.1 High-Level Themes</h3></b></div>\n<div><b>Instructions:</b></div>\n<ol>\n<li><b>List the guiding concepts for the AI.</b></li>\n<li><b>Include all relevant theoretical or narrative elements.</b></li>\n<li><b>Confirm each concept aligns with the project’s creative direction.</b></li>",
+  "context": "From document: ]||||/\\\\vvvv//\\.../\\/\\---/\\/\\.../\\\\vvvv//||||[ — chunk 6 (chunk 6/96)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "751d0ce44738c7033755a28c7169e646",
+  "relatedUnits": [],
+  "keywords": [
+    "project",
+    "list",
+    "aligns",
+    "with",
+    "vision"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

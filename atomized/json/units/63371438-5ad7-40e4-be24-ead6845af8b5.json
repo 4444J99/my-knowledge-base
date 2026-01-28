@@ -1,0 +1,26 @@
+{
+  "id": "63371438-5ad7-40e4-be24-ead6845af8b5",
+  "type": "insight",
+  "timestamp": "2025-12-11T22:37:24.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>ON FORMAT &amp WORKFLOW (We Arrive at It Together)</div>\n<div><br></div>\n<div>Here’s what I know we need:</div>\n<div><br></div>\n<div>- Weekly or bi-weekly sync calls (30–90 minutes depending on phase) to process what we’re learning. We don’t script these; we let them breathe.</div>\n<div>- Shared documentation (Google Docs, Figma, GitHub—whatever feels natural to you). I don’t care about system; I care about your thinking being preserved.</div>\n<div>- Access to prototyping infrastructure: You can test ideas in real time; see how parameter changes affect narrative feel. You need to experience the system, not just theorize about it.</div>\n<div>- Audience feedback loops: We test with small groups (10–20 people) regularly so you can observe how readers/viewers actually respond to different parameter configurations. The audience is a collaborator too.</div>\n<div>- Flexibility on timeline: If you need to step back for two weeks to let something simmer, that’s fine. This is exploratory work; it doesn’t follow a Gantt chart.</div>\n<div><br></div>\n<div>What I don’t know—and genuinely want to figure out with you:</div>\n<div><br></div>\n<div>- Do you prefer synchronous work (calls, collaborative writing sessions) or asynchronous (you work independently, we synthesize weekly)?</div>",
+  "context": "From document: Chris, — chunk 10 (chunk 10/26)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "4da601776fe2a536037bde47b9f74920",
+  "relatedUnits": [],
+  "keywords": [
+    "what",
+    "need",
+    "weekly",
+    "about",
+    "work"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

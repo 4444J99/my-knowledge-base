@@ -1,0 +1,31 @@
+{
+  "id": "c52b1838-cbda-474d-9392-fd1f52437ca8",
+  "type": "insight",
+  "timestamp": "2025-10-28T10:47:46.000Z",
+  "title": "<div><tt>+| **Pragmatic** | Interprets context, speech acts and dialog state; re",
+  "content": "<div><tt>+| **Pragmatic** | Interprets context, speech acts and dialog state; resolves coreference and manages implicature【33635101037775†L157-L168】. |</tt></div>\n<div><tt>+| **Discourse** | Models coherence, argumentation and narrative flow through hierarchical graphs (e.g., enhanced RST)【33635101037775†L167-L170】. |</tt></div>\n<div><tt>+| **Sociolinguistic** | Tracks dialect, register and power dynamics to ensure outputs match social context【33635101037775†L171-L182】. |</tt></div>\n<div><tt>+| **Interface** | Exposes RAW and PUBLIC modes and provides a visual IDE for analysis and generation【33635101037775†L253-L272】. |</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+Each layer can operate independently yet interacts with its neighbours through upward, downward and lateral flows.  *Upward flows* progressively abstract raw input; *downward flows* allow high‑level interpretations to inform lower‑level analysis (e.g., semantics influencing phonology); and *lateral flows* enable phenomena such as sound symbolism【3†L47-L67】.  The architecture is visualised below:</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+![Layered architecture of RLOS]({{file:file-6ZqwXiqkC3U1VDZGnQbixf}})</tt></div>\n<div><tt>+</tt></div>",
+  "context": "From document: agent@chatgpt:/$ apply_patch <<'EOF' — chunk 3 (chunk 3/19)",
+  "tags": [
+    "paragraph",
+    "html",
+    "has-image",
+    "image",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "cd6b3f031d9095b66a75525d2e2b5a60",
+  "relatedUnits": [],
+  "keywords": [
+    "33635101037775",
+    "flows",
+    "context",
+    "through",
+    "analysis",
+    "layered",
+    "architecture",
+    "rlos"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

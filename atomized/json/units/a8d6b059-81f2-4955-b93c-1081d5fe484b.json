@@ -1,0 +1,26 @@
+{
+  "id": "a8d6b059-81f2-4955-b93c-1081d5fe484b",
+  "type": "insight",
+  "timestamp": "2025-11-23T22:21:12.000Z",
+  "title": "<div>$CLUSTER_PATTERN = [1,2,4,8,4,2,1,2]</div>",
+  "content": "<div>$CLUSTER_PATTERN = [1,2,4,8,4,2,1,2]</div>\n<div>$DASH_PATTERN    = [1,2,4,8,4,2,1,2]</div>\n<div>$MAX_CLUSTERS    = N</div>\n<div>$MAX_STREAM_LEN  = M</div>\n<div>  2.  Build Fibonacci stream</div>\n<div><br></div>\n<div>$STREAM = “”</div>\n<div>i = 0</div>\n<div>while length($STREAM) &lt $MAX_STREAM_LEN:</div>\n<div>glyph    = $GLYPH_CYCLE[i mod len($GLYPH_CYCLE)]</div>\n<div>run_len  = $FIB_COUNTS[i]</div>\n<div>STREAM   = STREAM + glyph * run_len</div>\n<div>i        = i + 1</div>\n<div>  3.  Slice clusters</div>\n<div><br></div>\n<div>$CLUSTERS = []</div>\n<div>cursor = 0</div>\n<div>cluster_index = 0</div>\n<div><br></div>\n<div>while cluster_index &lt $MAX_CLUSTERS and cursor &lt length($STREAM):</div>\n<div>cluster_len = $CLUSTER_PATTERN[cluster_index mod len($CLUSTER_PATTERN)]</div>\n<div>if cursor + cluster_len &gt length($STREAM):</div>\n<div>break</div>\n<div>cluster = STREAM[cursor : cursor + cluster_len]</div>\n<div>CLUSTERS.append(cluster)</div>\n<div>cursor = cursor + cluster_len</div>\n<div>cluster_index = cluster_index + 1</div>\n<div>  4.  Create dash units</div>\n<div><br></div>\n<div>$DASHES = []</div>\n<div><br></div>\n<div>for k in range(0, len(CLUSTERS) - 1):</div>\n<div>dash_len  = $DASH_PATTERN[k mod len($DASH_PATTERN)]</div>",
+  "context": "From document: Here is a reusable, parameterized algorithm you can use to recreate… — chunk 6 (chunk 6/8)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f75193c56b19a08e9a1a9ea52ee44833",
+  "relatedUnits": [],
+  "keywords": [
+    "stream",
+    "cursor",
+    "cluster_index",
+    "clusters",
+    "cluster_len"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

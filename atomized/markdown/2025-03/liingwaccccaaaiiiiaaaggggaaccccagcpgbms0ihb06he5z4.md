@@ -1,0 +1,32 @@
+---
+id: f1db6b11-2434-4451-93cc-5238aea81545
+type: insight
+created: '2025-03-13T23:47:48.000Z'
+document: 3b2e4f3759d2535cf9a91dec728a8fbc
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    liingwaccccaaaiiiiaaaggggaaccccagcpgbms0ihb06he5z4jo6dklktspu0vq1klsqm3pyzsccccaqhgcfy5ckhpnzstj8x17
+  - pgjszkypwtkmn5
+  - >-
+    v0zsitkq4yle270jqf3b14ejqwabbbbaaaeeeeaaaqqqqaabbbbaieyc3mdaocnhtrzfesmymyoks5smrttjjqqqqacbqavonjwlr44ee80gzpi5k8lys207k6kwtvlcw5i0or0wx4saaggggaaccccaaaiiiiaaaggggaacwqwcyjo
+  - 2nuhvjpfkylgwna0likaaakxeehrfqyg37pnl1w0gcergtxdnpn9hitns
+  - o1ikba7rq5ebwgaggggaaccccaaaiiiiaaaggggaaccs1w
+---
+# LiingwACCCCAAAIIIIAAAggggAACCCCAgCPgBMs0iHb06HE5Z4Jo6dKlkTSpU0vq1KlsQM3pyzsCCCCA
+
+## Context
+From document: Squarespace, ChatGPT, GoDaddy Expenses — chunk 1471 (chunk 1471/2268)
+
+## Content
+LiingwACCCCAAAIIIIAAAggggAACCCCAgCPgBMs0iHb06HE5Z4Jo6dKlkTSpU0vq1KlsQM3pyzsCCCCAQHgCFy5ckHPnzstJ8x17/PgJSZkypWTKmN5+v0ZsiTKQ4Yle270JqF3b14ejQwABBBBAAAEEEEAAAQQQQAABBBBAIEYC3mDaocNHTRZFEsmYMYOkS5smRttjJQQQQACBqAVOnjwlR44eE80GzpI5k8lYS207k6kWtVlCW5I0oR0wx4sAAggggAACCCCAAAIIIIAAAggggAACwQWcYJo+2NUHvJpFkYlgWnA0liKAAAKxEEhrfqyg37PnL1w0GcERgTXdnPN9HItNs+o1IkBA7Rq5EBwGAggggAACCCCAAAIIIIAAAggggAACcS1w/PhJM2baGZuVpg97aQgggAAC8Seg37Ppzeuk+d7V71/a9SVAQO36up6cDQIIIIAAAggggAACCCCAAAIIIIBAIhdwsiEuXRI5ffq0yY646JYeS+Q0nD4CCCAQ7wJa6lG/d0/Z79+I3Tnfy/G+c3YQrwIE1OKVl40jgAACCCCAAAIIIIAAAggggAACCCBw9QQ0iHalXZIzZ8/JRVN+LEWKFFdmM4UAAgggEG8C+n2r37tnzfevKfgYb/thw1dfgIDa1TdnjwgggAACCCCAAAIIIIAAAggggAACCMSTQMTDWyewdv78eblw8YIJqCWPp/2xWQQQQAABr4B+3+r3rn7/anO+j8lS8yolzGn+l/QauG46QOGxy/VU06dLK5kyZbgGjopD+P8Q0C/Vnbv2urvOmyenJEmSxP3MRPgCidl07rzFsnjJX1L3zhpy800lwseL4zX2Hzgk3//4u6RPn1buv/dOSWe+72gIIIAAAggggAACCCCAAALxJXAp4iGuedZw6SIZEvGlzHYRQACBQAL2e1e/f83Xb5Ik+h3MM95ATgltHgG1OLhi+sB+xcrVsnnLv7J79z4THDshWbJkkrx5csltt94iWbNmDrqXTyZ+K19+Pdn2eazhvdKqxXNB+1/LCzdu2iar12yQ3Xv2yQHz8Dx9+nSSPVsWKV+utJQsUSRkcOjUqdNy8NARs+5BE8G/ILly5fA5XY0tZUifXjJkSOcz3//DocNH5OTJ0/6zo/05WdKkkju3776Drbx37wE5cfKk7N9/UDJnziT+g/ymSJ7c3gfJkycLthkz
+
+
+
+---
+*Source: Document 3b2e4f3759d2535cf9a91dec728a8fbc*

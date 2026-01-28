@@ -1,0 +1,26 @@
+{
+  "id": "73d7afa3-e67b-4e36-92c1-c3ea72bebe47",
+  "type": "insight",
+  "timestamp": "2021-06-25T20:11:47.000Z",
+  "title": "<div>I fell in love with Marilyn Manson at the same tender age as Evan Rachel Wo",
+  "content": "<div>I fell in love with Marilyn Manson at the same tender age as Evan Rachel Wood. </div>",
+  "context": "From document: I fell in love with Marilyn Manson at the same tender age as Evan…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "ffecf720b75bfc9b22b811174542a182",
+  "relatedUnits": [],
+  "keywords": [
+    "fell",
+    "love",
+    "with",
+    "marilyn",
+    "manson"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

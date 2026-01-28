@@ -1,0 +1,26 @@
+{
+  "id": "70e5f9ab-ff8d-40ac-a5ff-bc48541c018f",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt>Suggested Notes App folders for drop-in archiving:</tt></div>",
+  "content": "<div><tt>Suggested Notes App folders for drop-in archiving:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>/GPT_ARCHIVE_CORE/</tt></div>\n<div><tt>├── PROJECT_MODULES/</tt></div>\n<div><tt>│   ├── GR1ND3R/</tt></div>\n<div><tt>│   │   ├── PRJ_GR1ND3R.V1.md</tt></div>\n<div><tt>│   │   └── GR1ND3R_ARG_ENGINE.md</tt></div>\n<div><tt>│   └── MET4/</tt></div>\n<div><tt>│       ├── PRJ_MET4_CORE.md</tt></div>\n<div><tt>│       └── MET4_TIMELINE_MAP.md</tt></div>\n<div><tt>├── ARTIST_IDS/</tt></div>\n<div><tt>│   ├── 4_bl00m_PROFILE.md</tt></div>\n<div><tt>│   └── ETCETER4_PROFILE.md</tt></div>\n<div><tt>├── OUTPUT_LOGIC/</tt></div>\n<div><tt>│   └── LOGIC_MODE_TAGS.md</tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt>⸻</tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>V. | NEXT ACTION ITEMS</tt></b><tt><br></tt></div>\n<div><tt>  •  Confirm preferred copy/paste structure for iOS Notes</tt></div>\n<div><tt>  •  Begin batch generation of module files (1 per project or artist ID)</tt></div>\n<div><tt>  •  Output ZIP folder for mobile storage or iCloud sync</tt></div>\n<div><tt>  •  Optional: Notion database mirror with tags + links</tt></div>\n<div><tt><br></tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 148 (chunk 148/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "notes",
+    "suggested",
+    "folders",
+    "drop",
+    "archiving"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

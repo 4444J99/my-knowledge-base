@@ -1,0 +1,26 @@
+{
+  "id": "153a415f-fc5a-4e09-85ac-32ddddea1c1f",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:17:05.000Z",
+  "title": "<div><tt>| Code | Markdown | HTML / JSON / Python | File-to-export conversion |<",
+  "content": "<div><tt>| Code | Markdown | HTML / JSON / Python | File-to-export conversion |</tt></div>\n<div><tt>| Style | Mythic | Academic | `Q_v33R` → Syllabus-ready toolkit |</tt></div>\n<div><tt>| Aesthetic | Experimental | Commercial | `floating_points` → Pitch deck |</tt></div>\n<div><tt>| Modality | Text | Audio / Visual / AR | `Met4Morphoses` → VR room narrative |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## TRANSLATION FLAGS (for system calls)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Flag | Function |</tt></div>\n<div><tt>|------|----------|</tt></div>\n<div><tt>| `--lang:xx` | Convert language (e.g., `--lang:jp`) |</tt></div>\n<div><tt>| `--mode:simple` | Translate to plain English |</tt></div>\n<div><tt>| `--format:product` | Convert to launch-ready object |</tt></div>\n<div><tt>| `--audience:edu` | Reframe for pedagogy |</tt></div>\n<div><tt>| `--compress` | Reduce length, keep recursion |</tt></div>\n<div><tt>| `--remix:form` | Change format entirely (e.g., zine → slide deck) |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## TRANSLATION LAYERS</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### 1. Literal  </tt></div>",
+  "context": "From document: TranslationModels.md — chunk 2 (chunk 2/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "e68bf774e88f8cdd1f281a874840b193",
+  "relatedUnits": [],
+  "keywords": [
+    "ready",
+    "deck",
+    "translation",
+    "lang",
+    "convert"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

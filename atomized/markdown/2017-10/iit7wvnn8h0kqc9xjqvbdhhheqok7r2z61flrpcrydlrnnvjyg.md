@@ -1,0 +1,33 @@
+---
+id: 87ee98dc-91a7-4e12-8bb2-57b2debe7574
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - iit7w
+  - vnn8h0kqc
+  - >-
+    9xjqvbdhhheqok7r2z61flrpcrydlrnnvjygcimde1feqep9go2zbs9hyxqmf0ps0uhcrn7vnuizktnebcmfyqzk1wswk7molbxlpqvcnsrno
+  - >-
+    o0jgcle2zx85mycobuw15w44zvjy5rhtotjmllyfgi8m7alj86yjo8lconeoyzfwt0iwaaqmhi68ce0nn6dulodmn8e5471qmc8dwsh
+  - >-
+    srzcr82cv9abn5kwb1j57vufbyfqu4ouuizuc1p5yevidluw9kwk3wtpxj8qsbetdtzj0rzwfoxrfly5mbxgtvgxskzfpipsjswaxjprvfz5yqsdu9n3as
+---
+# iIt7W/Vnn8H0kqc+9xjqVBDHHHeqoK7R2z61flRpcRyDlRnNVJYGCiMde1fEQep9go2Zbs9hYxqMf0ps
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 571 (chunk 571/2189)
+
+## Content
+iIt7W/Vnn8H0kqc+9xjqVBDHHHeqoK7R2z61flRpcRyDlRnNVJYGCiMde1fEQep9go2Zbs9hYxqMf0ps0Uhcrn7vNUIZktnEbcMfyqzK1wswk7MOlbxlpqVcnSRnO/O0jgCle2ZX85myCOBUW15W44zVjy5RHtOTjmlLyFGI8M7ALj86YJo8lCOneoyzFwT0IwaaqMhI68cE0NN6DuloDmN8E5471QMc8dwSh+Qjk/SrZCr82CV9abN5Kwb1J57VUFbYFqU4oUUiZuc1P5YeViDluw9KWK3WTPXj8qsbETDtzj0rZWFOXRFLy5MbXGTVgxskZfPIpsjsWAxjPrVfz5YQSDu9N3as+dXIjKw3z9kG5z0/GsGUG5uPMU5A5GP61pT/vrf5jyT0FQLAYThvkyMD0NK/Y6HsRY4DS8Y4p7JGseOx5pRGsrGNuCOc0txC8UYLAEdsV1Uu5hLQ4zXYiVIBAUjAz3Nfmb+2e+k/8IG+ma8TsFzFNGFHIkUkBge3XHTkE1+pl8qHKkZGOhr8sf279LXV9NiukuFtWgkjGzGfOwxJJJ6FQB049a/QeBF/tad+5+deITvhLeZ7x+xYH/wCFU2V2sqNFL5myNODGAxBEgPRiQeOflwe9fX8yrI5MbH6jtXyt+x7o1rY/CC0uVcutzibB4KllG5SBx94E/jX1VDbvErpGuOMjdXh8UVF9Zn6nrcGxawME+xp2QLITIQMDg1LdGVtu7BwfzFV4kUxhQf8AP0qvcGWCcM3zdhzxXx04s+0Tsy/HC5l8x+npTgSJSIhgAVbVPOt9yHkc/wCNQQAoGY5yehpwg2rIuzZtwTK0G8nLDqKhmvDgLjI61XWNbe1aVjyD9Sfb8aQh2XcAewNDjbcycSGK4ZgcAjHer8A+XfKM1mTxrGFOceg/xpPtbeUVIx2qG+ZWNOTQSWVXm+XkAE5qJZAAwkGT6/41lmYRgrnIPPHrUE08qQfuiNx9aSizWC6FSXUrdLg2jHbmqdxpguspEMVzGomRpxKQd2cn869C0KKe9gDODx+tU49jOZi3GnR2dqD6jvUOm+Go9QUvIME8n6V3E2mCc/vTnHar0Ft5UO0DBHpVSRFjlx4Zt7aPaDkjnPsafa2EMJwecV1Ui7F2uOtYogMTkSHk/pVbbi0vY1LeUQWwUrwegrL1W625hzzjNXdzSMqk5C84rn/
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

@@ -1,0 +1,31 @@
+---
+id: 723ebc17-edcf-492f-8e7e-6f5e3c0fe1e1
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - yzyoxt03ivosf6viyijbuob2qejvj5xk85nvj
+  - 8kyyjz6drnjkq0qlqo3xftqwrxl5g7fpmoky
+  - >-
+    aw3cmmr3bjyfpftg7y4j9siuhvpvxgcoyqdu4aqexq6sdiu2lqe9q3zvno8rbtbwetkvnoatsu13jjhwwmkw56c96kjmziwmhldgk1lxmkn8tcmehntifavtbja647voql3ysnoije5dgyx17jivj39swf774s6lfa0nbi4jzkjd04ixk43f7oa
+  - twklr5gmz53v8gftjxvb8jnwjljelrxliwocqtkojaymn0r6zhzuwksxz
+  - kfn8qsxshby
+---
+# yzyOxt03IvOSf6VIYijbuob2qeJvJ5XK85NVJ+8kYyjZ6DRNJKQ0qlQO3XFTQwRxl5G7fpmokY/aW3Cm
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 1704 (chunk 1704/2189)
+
+## Content
+yzyOxt03IvOSf6VIYijbuob2qeJvJ5XK85NVJ+8kYyjZ6DRNJKQ0qlQO3XFTQwRxl5G7fpmokY/aW3CmmR3BJyFPFTG7Y4J9SIuhVpvXgCoYQdu4Aqexq6sDIu2Lqe9Q3ZvNo8rbtBweTkVnOaTsU13JJHWWMKW56c96kjMZiWMHLDgk1lxmKN8TcMehNTifaVTBJA647Voql3YSNOIJE5DgYx17jivj39sWF774S6lFA0nBi4jzkjd04Ixk43f7Oa+tWkLr5GMZ53V8gftjxvB8JNWjlJELRxLIwOCqtKoJAyMn0r6zhZuWKSXZ/kfN8QSXsHby/M5P9hBo73wLdNb26Lbx3rxiSMEAyoq+YrAgdMrgjPORnivvydQmFXIJ618HfsKxQaX8O4tE0xmFvHcTSrvA3fNtBYnvkg84r7tklaWU4ry+JZtYmUX5fka8PxvQVv61ERJYyHcnFW4y0qDMYOe1Z7/aJLgA42gcitZmWF0Mh+THOK+ZVR3PpdtiLeIRsiXIHboKgWNHQrL3P4ih5VmuTDF93r04q08UMAVnPze3So1bNlPQxILCRLiTeSVPIPoPeoT+5lJibA6ECuhfZJ8qDJI7f1qo4WBNzIAex4qpT0syG9TmtRlljhLRkrjqe1cU00sylcAgnqK9E1SVXsRHIuWU8dcEf41zaW9uxBljwG647fhWTfcHIzVRGK+b8p9TW0YsW48jIbirN7YQXLJIOCnT/AOvT0CovoMU0uxUmrXMG7tFnbdIec5/HucVLaBwAG5I9T27dKhuJXNxycAcY7U5sK2+FtpHv2qrN9TNssXBkMTKgwoFfkx+1NZ2n/C3NKjsrd7uKUee9tMzGN54XGSmCSMrtGB1I6c8/q7eX0kcJU4Lc+vNfkD+1j4il0T4x6doGkQzTSXPlXBKhnCMXCsAo6KCobgcknPHJ/ROD/cm526HwHGkW4xgu5+nXwy8LSabp0EKBVigAVQo4CjoK96gkdYwDgKK82+Hhnm8PLFchWlCgMYwVBOOSAeQK7z7HdtalUx8i557+3H9K+bzrEynWcvU+qyLDqFBQXl+R/9X+nmPb5jFeUHv3rGlmWXMZyCvGfpSC5ZVVlBTf0U8ZqIbZXOV2H35r8fpx5Yan2T5hkkCyKcV4v8RbGKLTHCf6wj8K9vdPsy7j1bqa8Y+JzSmzfywdxUY9M/4V9Nl
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

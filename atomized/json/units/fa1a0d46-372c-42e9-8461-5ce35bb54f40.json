@@ -1,0 +1,26 @@
+{
+  "id": "fa1a0d46-372c-42e9-8461-5ce35bb54f40",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:56.000Z",
+  "title": "<div>Use the naming grammar to infer meaning even if tags are sparse.</div>",
+  "content": "<div>Use the naming grammar to infer meaning even if tags are sparse.</div>\n<div>Update manifests atomically when adding or superseding artifacts.</div>\n<div><br></div>\n<div>4.4 Cross-Linking Practices</div>\n<div><br></div>\n<div>Within each artifact, the SEAL must include:</div>\n<div><br></div>\n<div>self_id – LAYER-DOMAIN-TYPE-ID-VERSION string.</div>\n<div>world_ids – list of world IDs touched.</div>\n<div>character_ids – list of character IDs affected, if any.</div>\n<div>depends_on – list of IDs for prior artifacts.</div>\n<div>emits – optional list of IDs for newly created artifacts in the same run.</div>\n<div>next_prompt_path – pointer into $PROMPT_ROOT for follow-up prompts, if applicable.</div>\n<div><br></div>\n<div>These fields permit later graph reconstruction without external databases.</div>\n<div><br></div>\n<div>────────────────────────</div>\n<div>5. Git Organization and Repository Patterns</div>\n<div><br></div>\n<div>5.1 Organization Namespace and Repositories</div>\n<div><br></div>\n<div>Assume a neutral organization identifier:</div>\n<div><br></div>\n<div>$ORG_ID</div>\n<div><br></div>\n<div>Repositories:</div>\n<div><br></div>\n<div>$ORG_ID/os-foundation – scripts, libraries, and configs implementing OS workflows and automations.</div>",
+  "context": "From document: 0.\tPreamble and Scope — chunk 19 (chunk 19/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "b3360b527d494aeb150b316c90472eb0",
+  "relatedUnits": [],
+  "keywords": [
+    "list",
+    "artifacts",
+    "organization",
+    "repositories",
+    "org_id"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

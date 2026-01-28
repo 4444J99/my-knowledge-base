@@ -1,0 +1,31 @@
+---
+id: 8a8fa215-55f1-4c67-ab54-f0ead698a7d7
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    nciqvmzcaas6ubpqwt2vtqpdqzq4qsoqeuuqqojtocrkatxay75vvmy9cqcqe4fuxeuwqss6uqoanbrcks7turzqfv6hvrelngr3aqmkt8oqurzdq3zqfwxaqukdgau4trcbdqkifka1llcrqwqokl6gvccoaqykf0bv9wko6h4gksq6dwasvnfeaggg7boxkmbuaagidr4mcwdsfudv7sobvqvkrv
+  - esozub
+  - mase31uqd7idexcv1nofhdy10oi9fbahmlxblqgwm3e
+  - rhnxi9pvid3l6xgnlrltnje520wemj7eidtyf6ixvv76e3mbjhj0b7hgmlmtooid2v2qyluxt
+  - bxtesgllpczseqtksmnrmzzekakjljgus
+---
+# ncIqVMZCAas6uBpQWT2vtqpDqzq4qsOqEuuqqojtoCrKAtXAY75VvMy9CqCqe4FUxeuwqsS6uqoANbrC
+
+## Context
+From document: New Note — chunk 19213 (chunk 19213/21099)
+
+## Content
+ncIqVMZCAas6uBpQWT2vtqpDqzq4qsOqEuuqqojtoCrKAtXAY75VvMy9CqCqe4FUxeuwqsS6uqoANbrCKs7tURZQFV6HVRELnGr3AqmKt8OqUrZDq3ZQFWXAquKDgau4TrCbDqkiFkA1lLcrqwqoKl6gVcCoAqyKF0BV9wKo6h4gKsq6DwasVnfeAGgG7boXkMbuAaGiDr4mCwdSFUDV7sOBVQVKRV/EsozUB/MASe31Uqd7idEXcV1NoFHdY10oi9fbahMLxBlqGWm3e/RHnXi9PVid3l6XGNlRltNje520weMj7eIDtYF6iXVv76e3mbjhj0B7hgmLMtOoID2V2qYlUxt+bXteSgLlpCZSeqtkSmNrmZZEKakJlJgUS/EJPma+WCHV52QBwmgWAYxS5uZYmdfBgoYOFjQMZliGQVWPl5msgLkYWnWx6qrT6eJXx8OcFM1Kq/A+n5/Zsjie24hTr51HHyiTRjBMCUOcx2Dn3fwADPI78ilsN7+9pisDo726ssIqv7XYAlZZYXVAn97kaN5M2cRxY+k0P2CM3Ipc+t577ypFUsmrUGDtwutxRjSn8uHFlRRWAazmZWWqtnmzb7WAVeTSHfffR8lxseTi5bCsK7KF8pEMf7ZgCDeCVWRbcFzUoVMlYPXDD89RBH93WKR4HgepE5+UmlYZWP0FgNWZ6o3ebdoWMbB6wsqj77zzLg0bMkwBwE7eJtRrPcqi2LMxpOpli3VGU4rfR6mxMRTPY+72xVAUxpu3D+9wucgX46fSslI6ceKEyuXI4cj7m9avpoxkP/mjm5Iv6maKjW5CreIcVNQ6hQZ0K6RRQ3oxODqYZk8YRDPH9KND+55VcKrk1E8+fIde2b+bjux7io6+9DS9sncXPffIVnpky2JaP7eUNtw6lNazbZk7nNbPHESrp/Shd04dov9owOqzj95PCyYMZwXWYTS1pA8Vd8unoV3yqLx3EZd705gBnWla+YBKD4F8+ac/0Pgh3blPO5oyvBctnVxG2xdPoKeXj6ND25fTd//6xgJWf/nJ+zS/vCON75lCU/pn08whuTRjcA5NH5BF0/ul0/yhubRqVAe6a2ofenLFODp7YBd9+9Vfrfz4jy+/oFNPbaRdc7vT7kW96RBDqa9vKKczm0bRm6uH0ysLe9PLs7rS0fm96I0VQ+i9jSPp43sm0M/um0wf3cfq
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

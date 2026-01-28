@@ -1,0 +1,31 @@
+---
+id: ff8201f0-369c-41c3-985e-be67e6022969
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    k3jvmn6geguamq6rvjzhqlwnqlmsixg1yjsnkgk8oelgk78ghmbxyujk6pkki1ozul5cxzmlwogn1geur5clqf3xrl9miepuqcbkhlxev1aokzvh6mmrlmsidfmhnvaeqpk2vlxhekqeqo9l1mojhn7iwpc24pn10hafbogt679bf3w9zjh99ssrwnv9xfgmoubhuyku0ltsdwu61jkp
+  - f3rkwocw9mb0ioxwxyibvgavyzvzqpwnolypul0oids8
+  - qm0irq8rcpyqviuwlx7kr4qnuc8xyfxoxbmlcxxyq2jg
+  - j37gmsnpwetnbaud4w3iafc1cfv5xxik
+  - w8em
+---
+# k3JVmn6gegUamq6rVjzHQLWnqLMsiXG1YjsNKGk8oElGk78gHMbXyujK6PKki1Ozul5cXzmlwoGN1GeU
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 4871 (chunk 4871/11629)
+
+## Content
+k3JVmn6gegUamq6rVjzHQLWnqLMsiXG1YjsNKGk8oElGk78gHMbXyujK6PKki1Ozul5cXzmlwoGN1GeUR5clQf3XRl9MiEpUqcbkhLxev1AoKZvH6mMRlMSiDFMHNvaEQpK2VLXHeKqeqo9l1MOjHn7iWPC24Pn10hAfBogT679bf3w9zjH99ssrWNV9xfGMoUBHuYKU0lTSDWU61JKP/f3RkWOCw9Mb0IoxwXYiBvGAVyZVzqpwnOlypuL0OiDS8+qM0IrQ8rCpYQvIuwlX7kr4QNUc8xYfxoXbMLcXXYq2JG/J37gMSnpwETnBAUd4w3iAFc1CFV5xXik+W8eM/H29Pz4a0Nu/d21XUnrbYR6G5yhpek6PM8WnV33XtXhC8fIiO7at7uDzYsMejTY3XBjMg60hbthm2b8fv/pq7o785/Q6xEeYTqH0pxxQ2FPwY+X6pMSbZI8TNXfpILHAQjpDArFlMDYN3rV6V0nGi6yjXoITZzWqfdvkNkkdB7vYYLCOlSsAxZF1h9ft61ThKMePKGKr9El6sWP15SmXe2SVgRcT9UJwnktVvaZqrLeyTXfRH1OOK7QbAQzpJE8sKXZSbEDfNY0zmixsuh019GSsIqkiutSRNfXS+ovl5fbydWVrK9eUOcqjUUcu10eDIpVZIK/AQXO1jjk25uhTx+u51VsQ6g0Zhmke+cOofHVGTq8rPU5NPV2eORWnmNrzX/B80fNFrwmhaaELwmEWauDeaCEZzllCwNZaPLD3k9FPxoyd/emfP9328VfgDsvehPwNcH5wRRqOMh5jH6pYmk2n8GLngCiXxJ7+PVdH+bf0bvVJq9fLsWF6WeKpzpmdT3bKrc5tf3VFyMv11tdPw44C8Q2isVeBzVuxc6xPj+fJsVqsfmbDubTMirgjsUf7vR/Yv/boOgOqYqoclY5zG86Xnym7MOFi+/Mv+M/1jfNLDZ1R/1rogqA+QTH1IJksXk2oo8H8po/aPOrImGMfah8+/Z5GXIU04lpzDX5Qof/roybzb0Nqfkx8WKOsxkQbJreTZTAnMFABnlHmkBntxr3AG44nIeNwMjeRjGFSBN7gDnxlh1QjxkD2GuKhW9JXAHGNFeG3QqZFejI8se+dhlvNKO/7QLpD6QIldiJqyShh17E2t1+j9GEPDx/5SIjykCXBBblhModt5+odRant09umrUxp
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

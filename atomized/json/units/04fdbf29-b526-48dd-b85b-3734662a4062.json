@@ -1,0 +1,26 @@
+{
+  "id": "04fdbf29-b526-48dd-b85b-3734662a4062",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>### **2. The Gaps Between Layers**</div>\n<div><br></div>\n<div>**AI Brains → Personal Repos:**</div>\n<div>- Manual copy/paste from conversations</div>\n<div>- Lost context between sessions</div>\n<div>- No automated way to extract &quotthe good stuff&quot</div>\n<div><br></div>\n<div>**Personal Repos → Org Repos:**</div>\n<div>- Which personal repos fed into which org repos?</div>\n<div>- What was the decision logic for promotion?</div>\n<div>- How do you track lineage?</div>\n<div><br></div>\n<div>**Org Repos ↔ AI Brains:**</div>\n<div>- Your AI conversations now reference your code</div>\n<div>- But there's no feedback loop to capture new insights back into repos</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **Consolidation Strategy: The Three-Layer Integration**</div>\n<div><br></div>\n<div>### **Phase 1: Harvest the Seeds (AI Knowledge Extraction)**</div>\n<div><br></div>\n<div>Create a system to capture and structure your AI conversations:</div>\n<div><br></div>\n<div>**What to Build:**</div>\n<div>- **`ai-context-extractor`** - Tool to:</div>\n<div>  - Export ChatGPT/Claude conversations</div>\n<div>  - Parse and categorize by topic/project</div>\n<div>  - Extract code snippets, ideas, decisions</div>",
+  "context": "From document: Contents_Table — chunk 23 (chunk 23/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "repos",
+    "conversations",
+    "personal",
+    "your",
+    "between"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

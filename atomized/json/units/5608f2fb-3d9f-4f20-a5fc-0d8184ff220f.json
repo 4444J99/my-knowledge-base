@@ -1,0 +1,26 @@
+{
+  "id": "5608f2fb-3d9f-4f20-a5fc-0d8184ff220f",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:15:38.000Z",
+  "title": "<div>├── Analysis Views</div>",
+  "content": "<div>├── Analysis Views</div>\n<div>│   ├── Session Review</div>\n<div>│   ├── Progress Dashboard</div>\n<div>│   └── Perspective Replay</div>\n<div>└── Settings &amp Customization</div>\n<div>    ├── Avatar Preferences</div>\n<div>    ├── Environment Themes</div>\n<div>    ├── RTM Configuration</div>\n<div>    └── Privacy Controls</div>\n<div>```</div>\n<div><br></div>\n<div>### A.2 Detailed Screen Specifications</div>\n<div><br></div>\n<div>#### **Screen 1: Archetype Selection**</div>\n<div><br></div>\n<div>```yaml</div>\n<div>Layout:</div>\n<div>  Type: Grid (3x2)</div>\n<div>  Background: Soft gradient with particle effects</div>\n<div>  </div>\n<div>Components:</div>\n<div>  ArchetypeCard:</div>\n<div>    Dimensions: 280x400px (mobile) / 320x480px (desktop)</div>\n<div>    Elements:</div>\n<div>      - AnimatedShape: </div>\n<div>          Size: 120x120px</div>\n<div>          Animation: Continuous morph loop</div>\n<div>      - Title: </div>\n<div>          Font: System UI Medium, 24pt</div>\n<div>          Example: &quotThe Challenger&quot</div>\n<div>      - Description:</div>\n<div>          Font: System UI Regular, 14pt</div>\n<div>          Lines: 2-3 max</div>\n<div>      - TraitIndicators:</div>\n<div>          Type: Horizontal bar chart</div>",
+  "context": "From document: AI Review & Expansion Prompt: — chunk 22 (chunk 22/25)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "f193a3a0a188e43c3f5b1686778be1f5",
+  "relatedUnits": [],
+  "keywords": [
+    "screen",
+    "type",
+    "font",
+    "system",
+    "analysis"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

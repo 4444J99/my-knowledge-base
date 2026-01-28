@@ -1,0 +1,26 @@
+{
+  "id": "6a9cd3d1-3ec2-4b43-87e8-71956b89702e",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:17:05.000Z",
+  "title": "<div><tt>  - iOS Shortcuts  </tt></div>",
+  "content": "<div><tt>  - iOS Shortcuts  </tt></div>\n<div><tt>  - Voice-to-module conversion  </tt></div>\n<div><tt>  - Auto-export to GitHub or app  </tt></div>\n<div><tt>- Formalize translation tags per output type</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Every translation is:</tt></div>\n<div><tt>- A transformation of essence, not just form  </tt></div>\n<div><tt>- A way to loop back into yourself  </tt></div>\n<div><tt>- A method for building bridges—between past and present, art and business, myth and market</tt></div>\n<div><tt><br></tt></div>\n<div><tt>::EOF</tt></div>",
+  "context": "From document: TranslationModels.md — chunk 4 (chunk 4/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "e68bf774e88f8cdd1f281a874840b193",
+  "relatedUnits": [],
+  "keywords": [
+    "translation",
+    "shortcuts",
+    "voice",
+    "module",
+    "conversion"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

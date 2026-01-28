@@ -1,0 +1,26 @@
+{
+  "id": "0f408e83-a29e-4667-81b5-0cb0c36cea50",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:44.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>### GitHub Organization and Repository Structure ($ORG_ID, $REPO_ROOT)</div>\n<div>While the archive preserves *everything* in raw form, the Git repository structure under a neutral organization (represented by **$ORG_ID**) is used to maintain the *active and refined* artifacts of the project. Think of the archive as the journal and raw lab notes, whereas the repositories are the polished codebase, story manuscripts, documentation, and tools that are meant for ongoing collaborative development and deployment. We assume an organization (on a platform like GitHub or similar) that hosts multiple repositories all related to the creative OS. Key repositories under $ORG_ID include:</div>\n<div><br></div>\n<div>- **$ORG_ID/os-foundation:** This repository contains the core operating system files – effectively a curated subset of $OS_ROOT and some of the archive. It includes the config files, prompt templates, agent definitions, and core scripts that drive the OS. In essence, this is the implementation of the blueprint. Changes to fundamental OS logic (for example, updating the prompt template for world seeding, or modifying the automation scripts) happen here. The repository is structured similarly to $OS_ROOT for consistency (with folders like config/, prompts/, agents/, etc., mirroring the runtime structure). This repo is version-controlled with a typical branching model: **main** branch holds the stable, tested OS (only updated when new features have been validated), **dev** branch is where active development occurs (integrating the latest changes from feature branches), and feature branches are used for isolated work on specific improvements or additions. We adopt a naming scheme for branches such as `feature/{world-id}-{short-description}` or `feature/{component}-{change}`. For instance, if adding a new agent role for a world with ID “OMEGA”, one might use `feature/OMEGA-new-age",
+  "context": "From document: # Blueprint for a Self-Evolving Creative Operating System — chunk 26 (chunk 26/38)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "83dee6092ba3a8d02324ba12da038c25",
+  "relatedUnits": [],
+  "keywords": [
+    "feature",
+    "repository",
+    "org_id",
+    "organization",
+    "structure"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

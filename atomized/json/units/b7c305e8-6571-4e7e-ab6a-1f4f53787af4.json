@@ -1,0 +1,26 @@
+{
+  "id": "b7c305e8-6571-4e7e-ab6a-1f4f53787af4",
+  "type": "insight",
+  "timestamp": "2012-01-22T08:52:29.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div>The wall quakes</div>\n<div>Ceiling </div>\n<div>Well,</div>\n<div>        ceiling </div>\n<div>                             RSVP </div>\n<div>yes to the</div>\n<div>Dance that never came</div>\n<div>Cause nothing--</div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: The wall quakes",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "c0556789a08451b75510d6766e500996",
+  "relatedUnits": [],
+  "keywords": [
+    "ceiling",
+    "wall",
+    "quakes",
+    "well",
+    "rsvp"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

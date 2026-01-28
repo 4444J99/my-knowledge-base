@@ -1,0 +1,31 @@
+---
+id: f8ffd97a-903f-4822-9145-f4cd64f58497
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - om8xfqqaxwkw1e3iqlxn
+  - 8m1qj2t8c0sut4u53pu5mpopj1otm9lyxdr8
+  - hmbf0oq
+  - ud95nz5j7net1pqv3uy9
+  - >-
+    2iswcdgbmjnrhqtg9mbibkalspzmr2njvm8syuyjfaojsxredyxifx1zkjtgawznrbrvbzsm98duuxe4skqv9ixmsuqijgydl4i10xowynic5mbhyxjgnnkhded0ddt0eu05do35cvok9slwuwmynn00xo9pz8jqinrf9eefpqzgeq4m9kskfk3fspq09iykzqwrsusrlklvmdic1xhnsdoacx0h8r6cvh01nhwybvanzz6mydmneciorepaboymp2posewkpzjhny1gnx0kkjoyseqamiiqvdbq5ljc1hesjqoqujv6wuyode0dgadetxfg1zdzk1wl52fvx7h7
+---
+# Om8XFqqaxwkw1e3iQlXn+8m1QJ2T8c0suT4u53Pu5mPoPj1Otm9lyXdR8/HMbf0Oq/ud95nz5j7neT1P
+
+## Context
+From document: New Note — chunk 15924 (chunk 15924/21099)
+
+## Content
+Om8XFqqaxwkw1e3iQlXn+8m1QJ2T8c0suT4u53Pu5mPoPj1Otm9lyXdR8/HMbf0Oq/ud95nz5j7neT1PQV3uY9/+2iswcdgbmJnRHQtG9MbibKalspZmR2NJVm8syuyJFaOjsXREDyxIfx1zkjtgaWZnrBrVBZsm98DuuXE4sKQv9ixmsuqiJGydl4i10xOwYnIc5mbHYXJGNNKHdEd0dDt0eu05dO35Cvok9sLwUWmYNn00xo9PZ8JqInrF9EEfpqzGEq4m9kskFk3FsPQ09IyKzQWrSUSrLKLVmDiC1XhnsDoACX0H8r6CVh01NHWYBVanzZ6MydMnEciOREpaBoYmp2PosEwkpzJhNY1gNX0kkjOYsEqAmiIQVdBq5ljC1HEsJqoqUjV6WuYoDE0dgadeTXFg1Zdzk1Wl52FVx7h7/6k4cvT4VT9/uEKr8rPIKf6c8v4HpwhVr/0HNMeOv49B2YvQWlJYWRZYZX+i83BkT1mGc+e/w4Vveb8DizEp7k6MaFcJk9uWwry2XljRjh9F38ENbzLhc4+kq3Z3w5FeTP/s425h1c8TiVUFWQ7xwFepRKqZXviKCPOrSUxXnUGESax6ej5B5tLS+HRRZSxKrIi4x8qgc+syaN+qLNq1roj2raui4wNV8OrDFdHz+QpIiaqJWcPrYP2s+ti38nacerM+vj5YF2ffDcb5w9Vw/t3yhKolcfG4J8uDaahSTC3l9g8EqpeITy8RqF5VJ92ZqkqoetKL5e3oRKs/EqxeZv3wvpQHy5vJq2Vw4URFnrsqvj/ii28OheCD7ZHYtbgeFo0KR0pvH3R9rhw6PVER7R6ugOfuLo1HG3rj/rpeeKCeJx663Q3Pt/DA0JfL4N1x1XBhcU38srQSfiLa/WkuH2eWG76f7oazkwhWmbL6fZYXvuPanRnqjtOEv18luePzWDd81McNJ7jWkrK6n2u/g1+DNa+4Y8ErJTC5U3lMT2yC47um4PdfvsZ/CVZ//3//tv5ByLpth9AhdnIuWBWomg9WVZyal8SaC1V1m/uP7HMkrJppqg6keoCQ9WBucXzBMW5ymy/TVZmcyqRVqfAApqnmgVWOiVNNsBpKYBpupa1WsuCqgtWQ4GpMS/VHowZhxKfN8dhjD/Lvp/ehbt0IVK9eBWXLl0LJMiVQplxJlK9UFj7VGIBK8xlCGFuvbnWmrIbj
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

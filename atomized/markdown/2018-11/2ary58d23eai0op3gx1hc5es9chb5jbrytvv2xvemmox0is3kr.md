@@ -1,0 +1,31 @@
+---
+id: 33079514-b7bf-4c49-b7de-f22f34744ea1
+type: insight
+created: '2018-11-17T18:19:07.000Z'
+document: e329ec4e43d47fccabf1e22882189db8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 2ary58d
+  - 23eai0op3gx1hc5es9chb5jbrytvv2xvemmox0is3krqyk8jkjzoqsfpqe1
+  - zona9pfiwzh1trbtz7c4gvlrhgr6c4xjpxjhj1bctnpbfx3ltadaky5a454xxnhgvw7sm50o8p
+  - >-
+    swqfc7vfdf0ttqkysywkplop2gsocy64rntn8lq6tq1rzzx5unhttbb5uabn0r6p8femore4ubcdhecj77fwwd2r530msax1wo4zwfzirm27hvs49q9alkuo7wojx1p1
+  - dcr6p4u0vshmwwa2jrgyrtj2aaz
+---
+# 2Ary58D/23eai0Op3Gx1hC5ES9cHB5JBryTVv2XvEmmOx0IS3KRqyK8jKjZOQSFPQE1+zOna9pfiWzh1
+
+## Context
+From document: Black Bean Salad — chunk 1380 (chunk 1380/2298)
+
+## Content
+2Ary58D/23eai0Op3Gx1hC5ES9cHB5JBryTVv2XvEmmOx0IS3KRqyK8jKjZOQSFPQE1+zOna9pfiWzh1TRbtZ7C4GVlRhgr6c4xjpXjHj1bctNPbFX3LtADAkY5A454xXNHGVW7SM50o8p+SWqfC7VfDF0ttqKySywKpLOp2gsOcY64rntN8LQ6tq1rZzx5UNhTtBb5uABn0r6p8feMore4ubCdHecj77FWwD2r530mSax1WO4ZWfZIrM27HVs49q9alKUo7WOJx1P1/+DCR6P4U0vSHmWWa2jRGYrtJ2AAZ/CvoiGVNw2YK/Xg18xfDDULbUdIgmgVZIdowx4YtgZzX0PZeUNqRKNqgHg/5718rNtzbfc9+kkopI2pGwykgEZ6Um07cE4UHAPsaeoICqdvoTSS5D7cZSsDQZsbA29F9e4qOOTBcD5CMdaseh2kgAjnpWfqMHliSfeR5aM5x0wozQB8TftOftQX3wt8T6X4V0ayW4u4wZ51YbVMZPG3BGc8nPNeHx/t+vf6/ZQ6vp0Njpr7VkYs0rqQT2AA5wK+ZdU8MfEr9oj4wa/Iv+ltBM0DO2FVI/MOFHIAAANbPxc/ZZ8R/CbQYNf1CeK7iZlDxMTuXceOQACOhr6GjQo8i9puzyqlWfM+XY+mR+33YS3F899pF0kTYW2i8wbHC8ZGQMdBnrnNfP/wAWf2sdR+LGiPoUGmPYGI5hmZwcjO7JIwAfQ81raZ+w/wCOvF3h3QvE+javYi4vlLNGzHCq3AGADjHP0zXHfGL9lzxd8GrXTjq2ox3cOoExhoRgB1GSPmwcc8HvWlPD4ZPR3ZjzTPrL9g34o6JdxDwJJ5supRq8hDZCDLZZs5wTx37V+ks+PMLK2QTXxl+xB8M/C3hnwPN4vsEW51TV23PISCY1TgxrjkDOCRnr7V9pS7B95cZrx8Vb2jsetTV4IrYBbOOnQ4pOQPmH4YqVRnORkCkXgtgZPvXMMhccliAB3FQIwU54+mKtOAGw7EnHHNQFWZsDJ560AeC/tCeB7Txn8PdSjlha5eGFnRFJA8xB8rH1Ir5d/Z3/AGgvBWi+GB4C8RTxaTNpabEdh5SuGbBwcHJAHp+dfowsKuGhmXzEw2V2g5B45zntX56ftT/sz+HL6x/4Tjw8kenXgmDNEGGycMQOQehGc8DPt3HoYecZfupddjlqpr3kcN+
+
+
+
+---
+*Source: Document e329ec4e43d47fccabf1e22882189db8*

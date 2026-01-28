@@ -1,0 +1,26 @@
+{
+  "id": "b68e7623-a4a8-47f5-845e-050533a65062",
+  "type": "insight",
+  "timestamp": "2025-12-03T06:00:45.000Z",
+  "title": "<div># Your current task:</div>",
+  "content": "<div># Your current task:</div>\n<div><br></div>\n<div>--Grant application strategy (I identify targets + help draft))</div>\n<div><br></div>\n<div>-----</div>\n<div><br></div>\n<div>## Upcoming tasks:</div>\n<div><br></div>\n<div>--TBD</div>\n<div><br></div>\n<div>-----</div>\n<div><br></div>\n<div>### Previous tasks:</div>\n<div><br></div>\n<div>--Manifesto draft (I help you write it)</div>\n<div>--Technical white paper (i help you structure it)</div>\n<div>--Proof-of-concept code architecture (I map the build)</div>",
+  "context": "From document: # Your current task:",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "074a9051de2eea1ad4aea62402586003",
+  "relatedUnits": [],
+  "keywords": [
+    "help",
+    "draft",
+    "tasks",
+    "your",
+    "current"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

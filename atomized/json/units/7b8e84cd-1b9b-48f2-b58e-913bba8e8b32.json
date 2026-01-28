@@ -1,0 +1,26 @@
+{
+  "id": "7b8e84cd-1b9b-48f2-b58e-913bba8e8b32",
+  "type": "insight",
+  "timestamp": "2025-06-21T10:30:40.000Z",
+  "title": "<div><h1>Post Call Info Jose</h1></div>",
+  "content": "<div><h1>Post Call Info Jose</h1></div>\n<div><br></div>\n<div>First name</div>\n<div>Jose</div>\n<div><br></div>\n<div>Last name</div>\n<div>Milla</div>\n<div><br></div>\n<div>Email</div>\n<div>[REDACTED:EMAIL ADDRESS]</div>\n<div><br></div>\n<div>What is your current role/occupation?</div>\n<div>Sherwin-Williams</div>\n<div><br></div>\n<div>What is your phone number?</div>\n<div>+[REDACTED:PHONE NUMBER]</div>\n<div><br></div>\n<div>Address</div>\n<div>2360 Union Pointe Ln</div>\n<div><br></div>\n<div>City/Town</div>\n<div>Knoxville</div>\n<div><br></div>\n<div>State/Region/Province</div>\n<div>Tennessee</div>\n<div><br></div>\n<div>Zip/Post Code</div>\n<div>37932</div>\n<div><br></div>\n<div>Country</div>\n<div>United States</div>\n<div><br></div>\n<div>What experience do you have right now when it comes to building a business online and entrepreneurship?</div>\n<div>I have 0 experience to be honest but in the position that i am in right now, I am willing to learn and set my mind to it</div>\n<div><br></div>\n<div>Have you had your &quotLine In The Sand Moment&quot? If so, tell us about it in detail below.</div>\n<div>My &quotLine In The Sand Moment&quot happened when I started to realize I am doing the same thing everyday, also doing something I don't enjoy doing. Also i realized i needed to lock in and find some other way to make more income to be able to provide for my misses and our newborn baby boy. I want to be able to just provide and give them the life they deserve.</div>",
+  "context": "From document: Post Call Info Jose — chunk 1 (chunk 1/3)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "c99a439c2eaf7a11c9279ca56ead8fa2",
+  "relatedUnits": [],
+  "keywords": [
+    "what",
+    "your",
+    "have",
+    "doing",
+    "post"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

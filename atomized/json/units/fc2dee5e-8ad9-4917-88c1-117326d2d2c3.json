@@ -1,0 +1,26 @@
+{
+  "id": "fc2dee5e-8ad9-4917-88c1-117326d2d2c3",
+  "type": "insight",
+  "timestamp": "2018-07-09T15:40:26.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Also, I understand you are super busy, so please answer at your earliest convenience.</div>",
+  "context": "From document: It doesn’t happen often, but it was nice seeing you for the birthday… — chunk 3 (chunk 3/3)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a925bcc675f4ac4005129a5d7f714728",
+  "relatedUnits": [],
+  "keywords": [
+    "also",
+    "understand",
+    "super",
+    "busy",
+    "please"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "898d2080-4c67-42d1-a7c5-990875ac4407",
+  "type": "insight",
+  "timestamp": "2017-10-26T20:00:21.000Z",
+  "title": "<div>Audio Prompt</div>",
+  "content": "<div>Audio Prompt</div>\n<div><br></div>\n<div>Do not read each letter, instead make the sound of the letter:</div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div>A </div>\n<div>B</div>\n<div>D</div>\n<div>E</div>\n<div>F</div>\n<div>G</div>\n<div>H</div>\n<div>I</div>\n<div>J</div>\n<div>K</div>\n<div>L</div>\n<div>M</div>\n<div>N</div>\n<div>O</div>\n<div>P</div>\n<div>R</div>\n<div>S</div>\n<div>T</div>\n<div>U</div>\n<div>V</div>\n<div>W</div>",
+  "context": "From document: Audio Prompt",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "7681e7cfeb0433ebe5c0b5f7947fe693",
+  "relatedUnits": [],
+  "keywords": [
+    "letter",
+    "audio",
+    "prompt",
+    "read",
+    "each"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

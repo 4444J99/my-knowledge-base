@@ -1,0 +1,26 @@
+{
+  "id": "1fe22a68-ca27-4f80-b127-394f2fb3b4ad",
+  "type": "insight",
+  "timestamp": "2015-03-04T18:33:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><u>Don't   just  sit</u></div>\n<div><u>And     wonder</u><br></div>\n<div><u>Whose  gonna</u><br></div>\n<div><u>Stop  the   rain</u><br></div>",
+  "context": "From document: Don't   just  sit",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f117636412b700998ee4b6587bb43eed",
+  "relatedUnits": [],
+  "keywords": [
+    "just",
+    "wonder",
+    "whose",
+    "gonna",
+    "stop"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

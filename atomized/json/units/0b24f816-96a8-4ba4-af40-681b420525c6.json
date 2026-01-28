@@ -1,0 +1,26 @@
+{
+  "id": "0b24f816-96a8-4ba4-af40-681b420525c6",
+  "type": "insight",
+  "timestamp": "2021-06-11T16:26:06.000Z",
+  "title": "<div>Apple Repair Watch Band</div>",
+  "content": "<div>Apple Repair Watch Band</div>\n<div><br></div>\n<div>D496195227</div>",
+  "context": "From document: Apple Repair Watch Band",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "4c4ed55aedb870bc4f9ca37138e23423",
+  "relatedUnits": [],
+  "keywords": [
+    "apple",
+    "repair",
+    "watch",
+    "band",
+    "d496195227"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "99909b66-e534-403e-9d3a-b89a06c2f003",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div>User: generate</div>",
+  "content": "<div>User: generate</div>\n<div><br></div>\n<div>GitHub Copilot: Optimizing tool selection...</div>\n<div><br></div>\n<div>Created 7 todos</div>\n<div><br></div>\n<div>Starting: *Define clean backup process* (2/7)</div>\n<div><br></div>\n<div>Starting: *Detail reinstall steps* (3/7)</div>\n<div><br></div>\n<div>Starting: *Recommend settings pruning* (4/7)</div>\n<div><br></div>\n<div>Starting: *Extension conflict mitigation* (5/7)</div>\n<div><br></div>\n<div>Completed: *Extension conflict mitigation* (5/7)</div>\n<div><br></div>\n<div>Below are the full results of the plan—every task completed.</div>\n<div><br></div>\n<div>**Assessment**</div>\n<div>- Corruption symptoms likely caused by aggressive UI modification (vibrancy, animations, fake mica), many experimental flags, and overlapping AI/assistant extensions, not a binary corruption. The Neovim Lua error stems from the `vscode-neovim` extension loading `require('vscode')` outside VSCode’s shim.</div>\n<div><br></div>\n<div>**Backup Before Reinstall**</div>\n<div>Run these to preserve state:</div>\n<div>```bash</div>\n<div># List extensions</div>\n<div>code-insiders --list-extensions &gt ~/vsci-extensions.txt</div>\n<div><br></div>\n<div># Backup user data (settings, keybindings, snippets, profiles)</div>",
+  "context": "From document: User: fix — chunk 3 (chunk 3/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "starting",
+    "extensions",
+    "backup",
+    "extension",
+    "vscode"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

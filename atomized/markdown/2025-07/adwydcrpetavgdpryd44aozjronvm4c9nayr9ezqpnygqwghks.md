@@ -1,0 +1,31 @@
+---
+id: 52d1288a-82ef-4471-90bf-5efad860704b
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - adwydcrpetavgdpryd44aoz
+  - jronvm4c9nayr
+  - 9ezqpnygqwghksttzu6k3tybsjyu
+  - jjjeaskn
+  - >-
+    aahrtmdyc62juu26bcxgf1ftcdqbrzs57hytq3cp9dyt3jzr6kjjpzfrf3vkvgzdobntjpvooglgkgocjnok2c7kjgi6l0xun831h5ivrrvfvtyondq6u367fqfkcii0qzqtkvizvrtowoxq2mjv4ydfpv6tvzforv4ngsaykuvr18frgm1you7nrhipfaftyawkitboij66rrqi4cew5bstbkguaxgzwols1ghb8fkyohuzsj1ay42tpkjwfohrkx1zn3hmquapjcasfgnpk
+---
+# AdWydcrPEtaVGDPrYd44aoZ+JRoNVm4c9nAyr/9ezqPNYGQwgHkStTzU6K3TYBSjYu+jJJEASKN+AaHR
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 15957 (chunk 15957/18928)
+
+## Content
+AdWydcrPEtaVGDPrYd44aoZ+JRoNVm4c9nAyr/9ezqPNYGQwgHkStTzU6K3TYBSjYu+jJJEASKN+AaHRtMDYC62jUU26BCXGF1FTCdqbRzS57HYTQ3cP9Dyt3Jzr6KjJpZfRF3vkVgzdObNTjpvooGLGkgOcjnoK2C7kjgI6l0XUN831H5iVRrvFvTyOndq6u367FqfkcIi0qzQTkVizVRTowOxq2MJv4ydFpV6TVzforv4NgSayKuvR18FRgm1you7nrHIPFAftYAwkITBoIj66RRQi4cEw5BSTBKgUaXgZWOLS1gHb8FkyOHuZsj1ay42tpkJwFOhrKx1zN3hMqUApJCaSFgnpK/wAPyq1FY3pRXogHACvQHEYFuNFJIB6w5KD5egN8KF8BriWIOccte4CBcWfQmJqwYCcUgeU1sk8mSYoW/x5IHQoN3MKlqH5FyszqffwL0HOvVXwTNWiX/iLhyWj0uRgVR76JKYfCKmdUPaWSsNbvKVsSBu4swAjP5m5WwJKXdzsMTB/pC0BCbp0q7BUyehqivNAGZBpnZTnEUhmQW4FVDuLIWwGo3bOBc6OB5vs6JIh9NbLJM4OY4QZ928GZBCv4wcI3YGUwZNDRwxyGGxnJmhhtjTXSN5LBnOhe3JuMD4xBRjPt5EfyP3kj5ZL/6FUl/7k0qN/WP6hOQZ+B2CzoxiXHIO3+0Iwc1zTMYND6YZkJ/SD3jF97VAEZE7A8+voCvC8tQTbA7BN5wVVBP53Xncg7Uwm+robD3PSAO84BBmDLS/PBpvct+i+S8HPM63pW5e0iZxPgtf1R8y0momDki/wJnjzc8Rx6QLhGMBzKeQm0Fogd43bNWj325EzXxa+Pkzvevgl4vOBn3nnfwXqA7yxfgvCs9MYS6WCvZ+x3pvYJSyh0tsc03dmnMfh/N14m+f7mH3Ffp4J60xhs+q7DudEOG+w0kDxX7x78e/GOfdDDPBOtPNfvyXYCpt756s9c+UNzsJi71jCCbQW7N0oqgJv7N7GWsPzPN7mhoABcjNT/1EM3URZ48CBLkHX2CclG4zhXkcomaxu6z6m0UkMvaaKQqw1Emv0/iT+erFyi8Oj7TR2LAg80WSjFBFZNgfqXHSqm/6p6jVq3lGovgfQURCFCot31KyeV9+SKTofFbSOnAsPern02ntDczFRsVOZBvmYvxxW972Ip94j
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

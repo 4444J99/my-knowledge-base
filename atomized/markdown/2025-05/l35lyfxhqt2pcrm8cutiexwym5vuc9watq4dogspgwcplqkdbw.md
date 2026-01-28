@@ -1,0 +1,31 @@
+---
+id: 730d3c8f-aacd-419a-8711-18330c373da0
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - l35lyfxhqt2pcrm8cutiexwym5vuc9watq4dogspgwcplqkdbw6uwaoordqeppus6
+  - 614f4d7jvwjbwg9e3ty
+  - nlsvsobgxccrgvccvgvsctgfsbtwjubdwkubvwk
+  - >-
+    bwwk2awwg3am4fruwvcgd18ofvtva1ewsprucqgarelowbvulvtdgq4fszu1is6gwrkgbxevgvsbmnrep7rtivq9pjaarr4kqcgu02vpwxilxtglrlrfhvuwib6v6sqmbvu6basvegql3rakujq5xbvuwqdtekvs9ylwnfndifqgovd6vkvbeq2sc2vnvxvccqxfmrvq3ovx3fqxknju0uofwobatqpzzzgk29vskgqucuptpy1r7r
+  - fk6gfofqtovovalky6va6onzc4
+---
+# L35LYFXhqt2PcrM8cuTIeXWYm5vUc9wAtQ4dOgSpgwcPlqkDBw6UwaoOrDqEppus6+614F4D7jVwJbwG
+
+## Context
+From document: New Note — chunk 5120 (chunk 5120/21099)
+
+## Content
+L35LYFXhqt2PcrM8cuTIeXWYm5vUc9wAtQ4dOgSpgwcPlqkDBw6UwaoOrDqEppus6+614F4D7jVwJbwG9E3Ty/NlsvsobgXcCrgVcCvgVsCtgFsBtwJuBdwKuBVwK+BWwK2AWwG3Am4FruwVcGD18oFVTVa1ewSpRuCqgarELOWBVUlVtdGq4FSZu1is6gWrkgBXEVgVSBMNrep7rtIVq9pjAarR4KqCGu02VpWxIlXtglRlrFhVuwIb6V6sqmBVu6bASVegql3RakUJq5XBVUWqdtekVS9YlWNFNdIFqGovD6vKvBeq2sc2VNVxVcCqXFMRVq3ovX3FqXKNju0uOFWObaTqPZZzgk29vSKgqucUptpY1R7r+fK6gFOFqtoVoValKy6Va6ONZc4+p9d4u8BQmdOu5xWS6rx9bI/1XntOxgItvXP2sZ73dr1G5rX0edGOvef0mqp22SmjXavz2vUaPdYu8/rLvkbP67mKju1n2Ne78ZW9Am2IUtsSrEq6agcPWG3C+cb165kqMHA1l3A1m3A1C/UJV/NzWNkZyJG0VaasZiSHkG7gKtFqKIAUotXkoA9JkrJKrBo2xdRVQatEqiE/iz2RQFPAapAwM0CsGiDm9LPycrKx4rbbyqSsyt773rvv4gj9zUHamrdPniyzt549ewbLlixGejiEHpKwSrAqe6jsq4efO0R4GQGrglW1MpLCuG/zZsiz7T31OIPsJGHVX7cORpSAVd1fn973FJoyfVSSU+fPnc3P8cPS/XXn9u3ITktBkFA1EFu3pMfAFx/LpNM4JPD3GM9xe/70ZXt/PX36FM8RqvJ8ApNffQJWZWxK0Grk3pzsbAN3dU/9uCRhNSauLFi191J77N1Xz54+jRnFxejZqROeo1/S/VX2zD9zv/+Yv7fXX3sF775zEr/73W/NeXmeAbEffYCHtm7C7bMnYeWcSQapLp8+DsuIVpdPH4uVsydizfxibBC4unAaNrJee/4Q/spvdFGwevyZn+GOBVOwaupILC8agtsmDsJypq2umTwYK4sGYu3kQVgxoS9WF/U3dce0wThjgVXZE737rL2PyvhrwtS7bp2O26aPxum33yyzr8r+/cXvf4dPPv4Af/rjF9xLI3uu7IX/JDo99cphrJvcGzN7F2BS13zczef86YvflaJV2fu+/vtX+K9f8t+U75/C73/zuQGv
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

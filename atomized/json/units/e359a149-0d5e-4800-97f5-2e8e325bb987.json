@@ -1,0 +1,26 @@
+{
+  "id": "e359a149-0d5e-4800-97f5-2e8e325bb987",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>📜 Why This Works:</div>\n<div>✔ Prevents purges from being an easy way out—someone else must be involved.</div>\n<div>✔ Encourages faction and archetype negotiations, creating alliances and rivalries.</div>\n<div>✔ Maintains balance—one player’s transformation always affects another.</div>\n<div><br></div>\n<div>📜 3. Archetype Purges Appear Randomly in the Sequence of the Day</div>\n<div><br></div>\n<div>📜 A purge event will be inserted randomly into the day’s class structure, meaning players must be ready at all times.</div>\n<div><br></div>\n<div>✔ How Random Purges Work:</div>\n<div>  •  Each class, a single purge slot exists but appears at random.</div>\n<div>  •  If no one is ready to purge, the opportunity disappears.</div>\n<div>  •  If multiple people want to purge, they must battle for it (debate, skill check, persuasion).</div>\n<div>  •  If no valid sacrifice is found, the purge is denied.</div>\n<div><br></div>\n<div>📜 Why This Works:</div>\n<div>✔ Prevents players from planning around purges too easily.</div>\n<div>✔ Adds an element of unpredictability—players must stay prepared.</div>\n<div>✔ Forces immediate decision-making—either take the chance or lose it.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 539 (chunk 539/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "purge",
+    "purges",
+    "must",
+    "players",
+    "this"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

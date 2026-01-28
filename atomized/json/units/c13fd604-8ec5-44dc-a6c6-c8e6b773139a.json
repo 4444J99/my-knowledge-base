@@ -1,0 +1,23 @@
+{
+  "id": "c13fd604-8ec5-44dc-a6c6-c8e6b773139a",
+  "type": "insight",
+  "timestamp": "2025-01-02T17:01:13.000Z",
+  "title": "<div><h1>Call Recording</h1></div>",
+  "content": "<div><h1>Call Recording</h1></div>\n<div><br><br></div>",
+  "context": "From document: Call Recording",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "6fb92d808f3d815ff2085ebb4626c4a9",
+  "relatedUnits": [],
+  "keywords": [
+    "call",
+    "recording"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

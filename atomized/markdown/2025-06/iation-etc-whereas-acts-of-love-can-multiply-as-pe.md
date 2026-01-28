@@ -1,0 +1,31 @@
+---
+id: e3e398a3-36d1-4446-abba-4b50213feb57
+type: insight
+created: '2025-06-26T17:15:56.000Z'
+document: 87215f26527a3ddd27752e0848e7ba23
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: design
+keywords:
+  - like
+  - that
+  - with
+  - attraction
+  - attract
+---
+# iation, etc.), whereas acts of love can multiply as people pass kindness forward
+
+## Context
+From document: 🧵 Meta-Laws of Reality — chunk 50 (chunk 50/79)
+
+## Content
+iation, etc.), whereas acts of love can multiply as people pass kindness forward. As a meta-pattern, it’s interesting alongside concepts like feedback loops – where an output feeds back positively or negatively. Threefold Law is an example of a culturally specific law that rhymes with the broader principle of reciprocity (but with a dramatic flair).</div>
+<div>  •  Law of Attraction (Domain: New Thought/Metaphysical) – Popularized in the 21st century by works like The Secret, it posits that like attracts like – one’s thoughts and feelings attract corresponding events and outcomes in reality. Essentially, your mind acts as a magnet: think positive, you attract positive experiences; dwell on negative, you attract negative experiences. Examples: Visualization and affirmation practices: someone regularly envisioning success, feeling gratitude in advance, and maintaining a positive mindset may find opportunities and ‘coincidences’ aligning in their favor (according to this law). Conversely, chronic worry and fear might supposedly draw the very circumstances one fears. A common anecdotal example: when you’re thinking about a friend and they suddenly call (interpreted as attraction or synchronicity). Implications: The Law of Attraction is a mental-spiritual spin on cause and effect and mentalism (echoing the Hermetic principle that the Universe is mental). It empowers individual mindset as a causal force on par with physical action. Critics point out it can lead to blaming victims for their misfortune (“you attracted this”), but proponents
+
+
+
+---
+*Source: Document 87215f26527a3ddd27752e0848e7ba23*

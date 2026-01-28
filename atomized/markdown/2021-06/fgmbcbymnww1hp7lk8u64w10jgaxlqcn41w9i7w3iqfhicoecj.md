@@ -1,0 +1,31 @@
+---
+id: 19459af2-ec4d-44f2-9c31-ab0cf76e6acc
+type: insight
+created: '2021-06-24T19:10:13.000Z'
+document: b5de64ea907b6e44ec94b342683f3041
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - fgmb
+  - cbymnww1hp7lk8u64w10jgaxlqcn41w9i7w3iqfhicoecjj
+  - jpvrj3nn39
+  - >-
+    8gwwh9sp6nzghafydb7timvumhtkyjogvsjvharcwnxbdtll21vt6nvz2afezugbjis8mgsqvvlfsj10gberhcj59geythyiw
+  - unqer
+---
+# fgmB/CBymNww1hp7LK8U64W10JgaxLqcn41w9i7W3iqFHICoECJj/JPVrJ3nn39+8gwwh9sp6NZghAfy
+
+## Context
+From document: TODAY FEELS LIKE A REAL BAD GO — chunk 187 (chunk 187/940)
+
+## Content
+fgmB/CBymNww1hp7LK8U64W10JgaxLqcn41w9i7W3iqFHICoECJj/JPVrJ3nn39+8gwwh9sp6NZghAfyDb7timvumhtKyJOgVSJVhARCwNxbdtll21VT6nvz2AfeZUgBJIS8MGSQVvlFSj10gBeRHcj59geytHYiw+UNqEr+DLCZUXUgMBAEpooQEGPJ1b8XJY+F0WZDIahrQ6uzR21Q4ukoP2IzLWo2mSi9IWBTZaniWtdroQwRUijeebOk4FFSJP4jvFNqGsmCbs/ibof9J+wTDAhCXCTLFhY5lkSCJevtJJYspPjJgkZBglldFiNkAFLAWiCRIyHO2lBn4e2h3Tx9CCntCoKIcJgJAf3r/winMoWixnpLEWsVx23cEryteZS2RgWaxSq7LiMNmgvrPBd+Y7YKGUPJ986SXhFahbfkggAx5hERrFuIANbC/P4ETmQopV+SQwRuLkgWxxry7DAWhDi0inHP14/DT67FhHHrv0IBEL+NpDE2ei2d+oui5WN+sf52upYVkELYTApZX7nfIpnMHfOI55P1UVyxLPK8ECh8CKFR3HN7xbbX++BtvLNe8sBo9prpVG/efzpd0+pv9iYeGsI2EG+8ccRUlynISR5axqdCATZWrAl1FWQfsohibqyY10K7PBNRNqhi3FsLeeNUKe6DqX3J2Gd11o+UTvi2OzkAdsJmYNfNxV9IjzHiGa2IA/1JrpkzZ06hj/op1mkf61D2DutUn+faN5ABVcZvpzrr+htyXIgTrzN7D485436FFVYo9W51tSPqCQRmCoGpyiEg1lJmXnGpBA+bFctKJ/er3DE2QUJJN7fsfP2wf1I6LfQWWu5n2GQJtSxumaEfdpvG9XkEL0IqIaqKst78vixjBF+KEYEFQcBjIHuaYOoRAhR6Al43oc3G62hBdbIiYK17OQtXhmKnEjhKjyLX7bnN7zUu/yd8sh5RKm32LI6NcZv9vIc1g/ULuQNL/UHBrEtxYXWloDtHnoDXKiM1i5u/sdjmuEYx+O5FgBi73QRWRCdM2p3rDSMKpnWSkOR52epkPaV4UtBbuS67T7utRbBvZ/lq7gdjOic1JLTmc7TNS1Z+RKdxK8t8o1BpDSTQXXjhhcnqhhBoFlLNQ6Swtmi3EALroxCwcSysVrCiCGXrq1APZ2VbbxrzTxgvxgSlxPrmp092tdZH1hZ97Dok
+
+
+
+---
+*Source: Document b5de64ea907b6e44ec94b342683f3041*

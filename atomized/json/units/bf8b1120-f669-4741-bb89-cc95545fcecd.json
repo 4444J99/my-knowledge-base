@@ -1,0 +1,26 @@
+{
+  "id": "bf8b1120-f669-4741-bb89-cc95545fcecd",
+  "type": "insight",
+  "timestamp": "2022-07-14T21:40:40.000Z",
+  "title": "<div>Thank you for opening the door. </div>",
+  "content": "<div>Thank you for opening the door. </div>\n<div><br></div>\n<div>I trust that the company I keep will be better at my job than me. </div>",
+  "context": "From document: Thank you for opening the door.",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "c4c14630fc3d35248e7a7b16cf0864bd",
+  "relatedUnits": [],
+  "keywords": [
+    "thank",
+    "opening",
+    "door",
+    "trust",
+    "that"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

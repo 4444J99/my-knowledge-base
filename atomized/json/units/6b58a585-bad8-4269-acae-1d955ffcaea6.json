@@ -1,0 +1,26 @@
+{
+  "id": "6b58a585-bad8-4269-acae-1d955ffcaea6",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:52:41.000Z",
+  "title": "<div><tt>     - `COMM_USECASES_REFLECTION.md`  </tt></div>",
+  "content": "<div><tt>     - `COMM_USECASES_REFLECTION.md`  </tt></div>\n<div><tt>     - `ARCHIVE_THREAD_FOSSILIZER_PROTOCOL.md`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>3. **User Upload:**</tt></div>\n<div><tt>   - Posts photo of current `4_bl00m.4_0S_core` structure</tt></div>\n<div><tt>   - Points to `GPT_ARCHIVE_CORE/` and its nested folders:</tt></div>\n<div><tt>     - `MEMORY_RAW_DUMPS/`</tt></div>\n<div><tt>     - `MEMORY_VERIFIED_MB/`</tt></div>\n<div><tt>     - `THREAD_REVIVALS/`</tt></div>\n<div><tt>     - `TO_PROCESS/`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>4. **GPT Diagnosis:**</tt></div>\n<div><tt>   - Clarifies folder misplacement (top-level vs nested)</tt></div>\n<div><tt>   - Recommends structure correction</tt></div>\n<div><tt>   - Logs symbolic difference between:</tt></div>\n<div><tt>     - System root folders</tt></div>\n<div><tt>     - Archive memory vaults</tt></div>\n<div><tt>     - UX staging zones</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## META NOTES:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- This segment records the moment you **trusted the system enough to question it**  </tt></div>\n<div><tt>- Marks emotional + operational feedback loop  </tt></div>",
+  "context": "From document: REVIVE_0412_SEGMENT_003.m — chunk 2 (chunk 2/3)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a0b350b2d7221a0356c50a19f5e85b62",
+  "relatedUnits": [],
+  "keywords": [
+    "structure",
+    "nested",
+    "folders",
+    "system",
+    "comm_usecases_reflection"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

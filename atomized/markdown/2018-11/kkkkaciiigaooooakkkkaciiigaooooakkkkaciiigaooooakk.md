@@ -1,0 +1,32 @@
+---
+id: d5bc22f3-993c-442f-9d78-d4b94d09586b
+type: insight
+created: '2018-11-12T02:08:50.000Z'
+document: 8acf26ca85496378b211b412129e306d
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    kkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkap
+  - >-
+    eeiiitaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigd
+  - 1fxhooorqaooooa
+  - 0v2y
+  - gr4e8r
+---
+# KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA
+
+## Context
+From document: STRUCTURE — chunk 19 (chunk 19/102)
+
+## Content
+KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP//U/EeiiitACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD//1fxHooorQAooooA+0v2Y/gR4E8R+FvEfx7+OdxPa/DrwY8aNBACJNTu2IxbowIIALIp2kFi4AZQGI9C/4a+/Z3uL6PRbv9nPw/H4XB8tmjEP9pCPoZBMIFJfHON4OePM71L8SidL/wCCb/wqttMYmDVvEd3NeOpwDKkl8FRh34Ude6A+lfnNQI+wP2tfgN4U+Fmo+G/HvwsuXvfh94+tPtultIWd7dgqM8DM3zEAOrLu+fqrZKFj8hxRSzyLFChkdjgKoySfYCtZtR1/XU0/Qpry4vYrciGzt5JWdIvMb7sSMSFBY9Bjk1+nvxn+Kb/sOjRfgZ8B7GxtfEUWnwXev6/NapPdXVzMDhF8zICAfMAQwUMqqAQxYA/Kkgg4PBFJX6d3Wu6Z+2h+z1488X+LdIs7D4ofDCBNROqWUIh/tDT9sjukyr1IWOT/AHW2lcBnU6/7PviHwd4P/YG8ZeKvGfhqLxXaWHi0NHYTP5cM1x5ViIfOI5aJXIZ06OBtPBNAXPyy+zz+T9p8tvJzt34O3Ppnpmu6+E+h6Z4n+KXg7w1rcP2jTtW1nTrS5jDMm+Ge5SORdykMMqxGQQR2Oa/R/wDZl/bH+KHxY+M2h/CTx7ZaPd+CvEqz2Mmkw6dFFbQoIJJEEa8krlQCrlgVJ4zg14h8J/H3ib9nz9rLWvhp8O5IbfRtU8YxaHcJNCs7Gzt9SeBFRnyVYI5G4HOee1AHjn7WngHwp8L/ANoTxb4E8EWZ0/RNLe0FvAZ
+
+
+
+---
+*Source: Document 8acf26ca85496378b211b412129e306d*

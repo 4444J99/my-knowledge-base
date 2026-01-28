@@ -1,0 +1,26 @@
+{
+  "id": "4f77b422-5359-40c6-8254-91be13730917",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>│   ├── file_classifier.py      # Classify by type (writing/music/video)</d",
+  "content": "<div>│   ├── file_classifier.py      # Classify by type (writing/music/video)</div>\n<div>│   ├── deduplicator.py         # Find duplicate files via checksums</div>\n<div>│   └── metadata_extractor.py   # Extract creation dates, tags</div>\n<div>│</div>\n<div>├── 1_ai_context_audit/</div>\n<div>│   ├── __init__.py</div>\n<div>│   ├── conversation_exporter.py  # Uses chatgpt-exporter integration</div>\n<div>│   ├── topic_extractor.py        # Extract themes from conversations</div>\n<div>│   └── context_aggregator.py     # Unified conversation database</div>\n<div>│</div>\n<div>├── 2_personal_repos_audit/</div>\n<div>│   ├── __init__.py</div>\n<div>│   ├── github_client.py        # GitHub API for 4444JPP repos</div>\n<div>│   ├── repo_analyzer.py        # Fork detection, modification tracking</div>\n<div>│   ├── classifier.py           # GRADUATE/MINE/ARCHIVE/DELETE logic</div>\n<div>│   └── value_assessor.py       # Recommendation engine</div>\n<div>│</div>\n<div>├── 3_org_repos_audit/</div>\n<div>│   ├── __init__.py</div>\n<div>│   ├── github_client.py        # GitHub API for ivi374forivi repos</div>\n<div>│   ├── status_checker.py       # PRODUCTION/DEVELOPMENT/EXPERIMENTAL</div>\n<div>│   └── dependency_mapper.py    # Map repo relationships</div>",
+  "context": "From document: Contents_Table — chunk 95 (chunk 95/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "__init__",
+    "extract",
+    "github_client",
+    "github",
+    "repos"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "f9ab4b9b-ebf2-46f2-9b1a-be50dc53f18b",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:12:28.000Z",
+  "title": "<div><tt>You’re **building machines that others can rent.**</tt></div>",
+  "content": "<div><tt>You’re **building machines that others can rent.**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>::EOF</tt></div>",
+  "context": "From document: USE_CASE_ROB.md — chunk 5 (chunk 5/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "df76decd33c808f3cb503659c3a11ce2",
+  "relatedUnits": [],
+  "keywords": [
+    "building",
+    "machines",
+    "that",
+    "others",
+    "rent"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

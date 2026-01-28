@@ -1,0 +1,32 @@
+---
+id: ef64137d-178f-4771-8e8c-7195aef296e6
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    zlu2lxnfsukavvdmmqzqqasrqzopnfvus3loonk8bvrwuihkshlgbbdkvls8ichunfq3vol6hlpocs8g7t2wnfaxavbtg2yh
+  - vvvvloqxnhk9itqihhuzwzwnioiqppfmdlpljg5hm
+  - hiebhhum6666hu3z05nfyex6nssrqafsojw3npretwr7acnivqdyd3n6xlahs1mya4hftrky6v6
+  - cdgxu0o7uyh6fq9uam4xtz
+  - >-
+    auqove3nkgvct5tfuewk2inw1fnns4lbvwt2cqdqh1ny2loebltg0tq7q2ftaew0rdhpc0lkaudquom1vyu9exiivdq30bltpwzj63lgigxwhoaqaftfpnuwysjnj
+---
+# ZlU2lXNfSUkaVVdmMqzqQasrqzOpnFVUS3LOoNK8BVRWuIhKShlgBbDKVlS8iCHUNFq3voL6hlpocs8g
+
+## Context
+From document: New Note — chunk 16765 (chunk 16765/21099)
+
+## Content
+ZlU2lXNfSUkaVVdmMqzqQasrqzOpnFVUS3LOoNK8BVRWuIhKShlgBbDKVlS8iCHUNFq3voL6hlpocs8g7T2wnfaxAVbtG2yh+vVVVLOqxNhK9itqihhUzWZwNiOiqppFmdlplJG5hM+hiEbHhum6666hU3Z05NFYex6NssrqaFsOjW3NprEtWR7ACniVQdYd3N6xlaHS1mya4HFTrKy6v6+cDgxU0O7uYh6fQ9uaM4xtZ+AUQOve3nKGVCt5TFUEWK2inW1FNNS4lBVWT2cQdQH1Ny2loebltG0Tq7q2FTAEW0rDHPc0LKaudQuom1VYu9exIivDq30bltPwZj63lgIGXwHOAqAFtFpNUwysjnJ+ZsAqoNUZGpRVZwmreuqqoqwKP8fqqknDqra6KtqZ5qtnAaqKAUqNZw5YfdGorDqFVQejJfuh0Y1z94q7B9w9cKzuAVn4PGE/WX8ET2xqasqH4a699tqkK4AFvZaWFn/fxx57LOl9ZzsQi3NYlMai6Gw3LGpiYRwLj8lsqY4PmhM/X1gIt7eZAKtzWQv7fOw2Fnux6D+bDXOg3lj4nYtNFtmTnautrc3cs83NzcnuktQ4vKazrU3Ygb7xjW/4P2fPPPNM2LDA/EzqnSqwigVkXDt+J9jbxMSEOffKykq7K7SNn2v8fOPenu2GB1p4AOQ2VwFXAVcBVwFXAVcBVwFXAVcBVwFXgRO5Ag5YnT9gVRRWDbT6bnx41QCrv3ovRnEV4CryYQCrqKzCA1YVL6qr7yt41VZbBbwq6qra2+CqDbAGQaz/+q9/Ihtg9RRX/5U++OAD+uDDD+hDG2LltqzdwoeBqzbAaiuuCsQq4Kr2Aq5qL9CqgKvSthVX0cbnfPECsWpwVccCrmr/17/+H2YNQwBW8UEgK4BVAVs1vCox4FXEGmLVsQ2v6rbAqrYHnCq5IIBV5+LBrAKy2qCrQKy2B8wqa2x2LKArPNZspC0xfKomzx6wn8TT/P8X+4zGhlSx5qVhVelHPp5pSFVirFMiFo9YIFXbYwxyM4VWsd4Fw3qaHSMneYnF630kN9ce75Myp46DcmH9khcv+8JLzgT8j+SknYyfyT7JzOvGzK4CAphqADUoDh3H0Kj0CZSK/SUO83qMp6yKfRjQZBMfA6zGUTu1IdLZtD3IMnlAVQOrXuwBmwJrip89WBoFQY/dXAJoxjsW
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

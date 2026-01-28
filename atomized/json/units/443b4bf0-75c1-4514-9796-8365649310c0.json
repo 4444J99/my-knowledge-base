@@ -1,0 +1,26 @@
+{
+  "id": "443b4bf0-75c1-4514-9796-8365649310c0",
+  "type": "insight",
+  "timestamp": "2018-03-17T20:51:49.000Z",
+  "title": "<div>A 5 year couples Three holidays in sequence </div>",
+  "content": "<div>A 5 year couples Three holidays in sequence </div>",
+  "context": "From document: A 5 year couples Three holidays in sequence",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "e00d9348338f30398e134675c43177de",
+  "relatedUnits": [],
+  "keywords": [
+    "year",
+    "couples",
+    "three",
+    "holidays",
+    "sequence"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

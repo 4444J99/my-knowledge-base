@@ -1,0 +1,26 @@
+{
+  "id": "01b831d4-b04f-4f5b-bdb3-7a7ea72b3f64",
+  "type": "insight",
+  "timestamp": "2024-03-07T02:09:08.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>talk to john tomorrow about a sales percentage for sales</div>\n<div><br></div>\n<div>listings under 3m remove<br></div>\n<div><br></div>\n<div>Charles needs to give price on Drone footage, so maybe how much would it cost to do?</div>\n<div><br></div>\n<div>we need to offer concierge services on the website </div>\n<div><br></div>\n<div>we need to figure out the questions  that need to be on the lead form:</div>\n<ol>\n<li>What is your budget?</li>\n<li>When are you looking to make a purchase?</li>\n<li>Do you need concierge services?</li>\n</ol>",
+  "context": "From document: Tech Fees — chunk 2 (chunk 2/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "9edaf15722d6aeb5cf3e0f5de0e43064",
+  "relatedUnits": [],
+  "keywords": [
+    "need",
+    "sales",
+    "concierge",
+    "services",
+    "talk"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

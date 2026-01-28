@@ -1,0 +1,26 @@
+{
+  "id": "0dee24a6-40cd-4209-9cc2-673689a69e46",
+  "type": "insight",
+  "timestamp": "2018-11-02T14:49:05.000Z",
+  "title": "<div>How many times has my come cost me money</div>",
+  "content": "<div>How many times has my come cost me money</div>",
+  "context": "From document: How many times has my come cost me money",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "5364b8b708f096293b87bae65025248a",
+  "relatedUnits": [],
+  "keywords": [
+    "many",
+    "times",
+    "come",
+    "cost",
+    "money"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

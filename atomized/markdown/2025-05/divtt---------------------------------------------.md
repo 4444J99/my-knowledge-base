@@ -1,0 +1,43 @@
+---
+id: aabb3126-6f85-498c-a96a-945a44f27bb3
+type: insight
+created: '2025-05-17T02:49:18.000Z'
+document: 97f62abc7c2459304ad6df9f4596a27a
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: writing
+keywords:
+  - language
+  - symbolic
+  - story
+  - plug
+  - symnum4gram
+---
+# <div><tt>|----------------|-----------------------------------------------------
+
+## Context
+From document: # Character Engine POV Critique — chunk 118 (chunk 118/206)
+
+## Content
+<div><tt>|----------------|-----------------------------------------------------------------------------|</tt></div>
+<div><tt>| `SYMNUM4GRAM`  | Symbolic grammar parser (sentence &gt word &gt letter); core of language play   |</tt></div>
+<div><tt>| `RGLE`         | Recursive Generative Language Engine; story-growing feedback brain          |</tt></div>
+<div><tt>| `ARCHIVE_OS`   | Versioned story memory, grief logs, dream scripts, self-loops               |</tt></div>
+<div><tt>| `MIRROR_MODE`  | Dialogue with past/future selves, character-based journaling                |</tt></div>
+<div><tt>| `NODE_RACK`    | Modular symbolic synth rack; plug-in and reroute all layers                 |</tt></div>
+<div><tt>| `CHARACTER_NODES` | People become mythic agents—FORREST_BUFF, JESSICA_MIRROR, DAVID_WAYNE etc. |</tt></div>
+<div><tt>| `RITUAL_ENGINE`| Ceremony templates, symbol generation, seasonal loop syncing                |</tt></div>
+<div><tt>| `CONLANG_FORGE`| Grow your language. Trace it across storylines. Bloom it like a glyph vine  |</tt></div>
+<div><tt><br></tt></div>
+<div><tt>---</tt></div>
+<div><tt><br></tt></div>
+<div><tt>## 🔌 PLUG-IN MODULE TAGS</tt></div>
+<div><tt><br></tt></div>
+
+
+
+---
+*Source: Document 97f62abc7c2459304ad6df9f4596a27a*

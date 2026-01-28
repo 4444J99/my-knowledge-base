@@ -1,0 +1,32 @@
+---
+id: 6185e239-4550-40c4-94c5-e8490f834d11
+type: insight
+created: '2017-10-10T23:16:34.000Z'
+document: 64a95cd2950865cc023eedad1ff9b65d
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 3uu08ndyoo
+  - >-
+    if8hhnkjvy6t4wddc42tmvjvyd2r3dbf5mlcdeiyp7lsqa0fenls3x5cfi1hofpc5aztfsihxonybjenevsuzqlsdoewrdngq5ucntwcrg81s
+  - 6twlkw3rqal08txknd7ak1wemaq3amhbetbrii9iq45jxim91wcgr
+  - >-
+    hhh4cuhpgpnhgzzbbxmkljkohijixrcjsaezi2p4korsouop1ja0jeymroomvjvcyalqh1ns3raod6juo510lafy5dlphxuf5mtb5hvufkohgbibzz9khk
+  - gzc6dhhhbpsdldoi444iogoyc9utyx4q2qagcgpquakgklnec2jzm
+---
+# E+3UU08NDYoo/iF8HHnkJVY6t4Wddc42tmVJvyD2r3DBf5mLCdEIYP7lSqa0fenLS3x5cfI1hoFPC5aZ
+
+## Context
+From document: sign -- signifies t signified ___________ iz'ag — chunk 139 (chunk 139/273)
+
+## Content
+E+3UU08NDYoo/iF8HHnkJVY6t4Wddc42tmVJvyD2r3DBf5mLCdEIYP7lSqa0fenLS3x5cfI1hoFPC5aZTfsiHXonYBjENEVsUzQLSDOEWRDNgQ5uCnTwcRg81s+6tWlkW3Rqal08TXknD7ak1wEmAQ3amhbETbriI9iQ45jXiM91WcgR+/HHH4cUHpgPNHgZzBBxmkLjkOhijiXRcjSAEZI2p4KoRsoUop1Ja0JeYMRoomvJvcyAlQh1NS3RAOD6JUo510LaFY5dLpHxuf5mTb5HvUFkOhGbiBzZ9khK/gZC6DHHHBPSDLDOI444IogOyc9UtYx4Q2qaGCGPqUaKGKLnEc2JzM+HKF9+G7huiDIl7zK9DRDjqWMRzXMRXMqvH3EFEYZ6lvo/WRDCEeAR/8n5jMgTjQ7qU67xaDLSUyHX/UdEIv0I5yEmC2YH27WPD7jJvnPs6rLQmwHjgesIAwwzDIGLfcJ4wpDi2s0H77rcj8rWDUcmerDE85dl0oZhHGIIIPCRE5/zjBRHMc0R93CuOz6L4Mfx5hwkInhTlRG9UrZdT27yG0oUvxG21/i0Yk2xvTt2mV141R9t3PJutnDESXbX222tX8ci80w9dvjQlP3k4JZhBX6Jfa1U8NZXPjN//ip76/d/sYVjx9ox/twwcuSWX/l7dS+o76+46Qp72UVPelpceNKFnk9/32ojntlP238r7/HVK1wXvKSE95mHV5nXYdn/Y87fmSPal1++++9P+nacZ0d860g74/s/srN/dqnNmj3Hjrvyf7yn0MH+HTcS/HtfEf7LzAAMhPA3f80yzzscg7ffmWXXXf97W5UqtkPO+pltNWRY+FtM38gx4nN8PvMey01tbc+SzHv+fvsWHW1e/742Z+48Gzd5pnXqNcAaNW3mKWgy34vrwPwJ6/ENSa5vlf9htb+R9m1Yl25iq7r+2Dp/93h73Xs8nHyfj33VvjQI/+XNAp7TYu9N5o09MiXMfbkpr5n7ORTm4XU6nFP0HOW9zHfK5vF1kfcaGnGorX1jsj07ZrrtcuBaa+ofTvaMiOYDz4ph2efxeZZzNEx+DGfMmO5R+eeGlH0tW7YIQTt1KZJT91H/U1fwbE8qQ57j6CVFz0bS+PDswHmca8FQvOCCC0LPDHoD8GyE4UBvLJ5lDz744KwM+1y3Q98TAREQAREQAREQgdoSkAFQ
+
+
+
+---
+*Source: Document 64a95cd2950865cc023eedad1ff9b65d*

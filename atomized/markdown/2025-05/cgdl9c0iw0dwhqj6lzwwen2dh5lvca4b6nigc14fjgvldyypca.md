@@ -1,0 +1,32 @@
+---
+id: eac491a0-11e3-4f29-b9ca-18a44952b2e8
+type: insight
+created: '2025-05-15T00:56:03.000Z'
+document: 084f9bc77d1d8854a07a52206c286278
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    cgdl9c0iw0dwhqj6lzwwen2dh5lvca4b6nigc14fjgvldyypcarfex5mkge9p90zp0z0r6ikxsbk7
+  - d8vr7v5pohh5u
+  - ienwxtuqxummz315emasbtmv8va6bvbbqb2fw
+  - >-
+    0a50lwvbws9zdpeycano1ikl8sy5ycgfudx9k6iq1jzr6dyw9nb7vkt41itexy7vgbknvvmgaooooakkkkaciiigaoopm0alsfgoyxaagst0rmr7xvbfazllq7wfwtqtgx2uplq
+  - vf1rn1hrpfgtatesaxqcqawsexpmmjcu207q8p
+---
+# /CgDl9c0iw0Dwhqj6LZwWEn2dh5lvCA4B6nIGc14FJGVldYYpCArFEX5mKgE9P90ZP0z0r6ikxsbK7+D
+
+## Context
+From document: Grokking Algorithms for OS — chunk 16 (chunk 16/402)
+
+## Content
+/CgDl9c0iw0Dwhqj6LZwWEn2dh5lvCA4B6nIGc14FJGVldYYpCArFEX5mKgE9P90ZP0z0r6ikxsbK7+D8vr7V5PoHh5U+IenwXtuqXUmmz315EmAsbTMV8vA6BVbbQB2fw/0a50LwvbWs9zDPEyCaNo1IKl8sy5ycgFuDx9K6iq1jZR6dYW9nb7vKt41iTexY7VGBknvVmgAooooAKKKKACiiigAoopM0ALSFgoyxAAGST0rmr7xvbfaZLLQ7WfWtQTgx2uPLQ/7cp+Vf1rN1HRPFGtaTeSaxqCQAwSeXpmmjCu207Q8p+ZsngqMA0AS3fxGtbXS1vTb/AC3c5h01HlCG6AIHmsTxHHk9Tk4574rpdIF7/ZkJ1K4guLtwXd7dcRckkBepwAQAT1xmvnP7VcR2k1hZWm4xl2llW3BuGUf3mwSqgD7vAHOTXs/gvwhd6Rpli+oa1e3LRoGS2jm228eRwoA5YDPc49qAOzooooAKKKKACiiigAooooAKKKKACisvV/Euk6D5f9qX0cDSfcTBZ2+iqCf0rB0P4kWOva2lnbwMlvKxjimaRdxcAtzH1AIBw3PTBxQB2VFFFABR+FFFAB+FYfjK/wD7M8Harc5IZbdkXB6M3yj9TW5Xn/xjvhb+FYLQEh7q5UY/2VBY/rtoA8i0GLzPEWlRL/FewD/yItezfFu5MPgeSPnE9xHGeffd/wCy1474dYJ4o0dj2voP/Rgr03413RTSNLtB0luGlP8AwFcf+z0AYXwwlcaH4lt4/wDWXHkQoR2aTdGD+Gc/hS+LbxJfC+kWdxuP9nWzxyYGA0oPlons2EZiOu365LfhJbPc396cr5EM1vLLk9AqzYP/AH1tqjr9zb3Phe81FSd9/rE/kKSflhyWJx6klM+wWgDj0BdwAMkntTSfmPrmlXOCRwR05ptADiQUXA5ycn1oK5GDjaw5OOlISCTgYHpTtwbafTrQB9FeB7z7f4J0eYsWb7KisWOTuUbTn3yK3q87+DN20nhq8s2Bxa3Z2kn+F1DfzJ/OvRKACiiigAooooAKKKKACiiigAooooAKKKKAD8KKKKACiiigArh/CUTaj8QPFOtOMpG6WEDA8YQfP+oX9a6XxFrCaD4fvdSk6QRllH95uij8SRWd4D0eTRvCtutwSbq6Jup8/wB9+cfgMD8KAOkooooAKKTPbvWHrnj
+
+
+
+---
+*Source: Document 084f9bc77d1d8854a07a52206c286278*

@@ -1,0 +1,26 @@
+{
+  "id": "21d456d0-0656-4722-9deb-644417eba389",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>* * *</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### ✅ Modular Function Types:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>&gt INPUT\\_NODE, PARSER\\_UNIT, REGEN\\_UNIT, CHARACTER\\_ENGINE, RITUAL\\_ENGINE, etc.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Confirmed in:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>*   `MYTH01_MODULE_TREE.v1.0` (staged for ASCII synth-style grid)</tt></div>\n<div><tt>    </tt></div>\n<div><tt>*   Mentioned by name in recovered synth logic table</tt></div>\n<div><tt>    </tt></div>\n<div><tt>*   Scheduled to become visual diagram in next node (`MODULE_TREE_EXPORT.v1.0`)</tt></div>\n<div><tt>    </tt></div>\n<div><tt><br></tt></div>\n<div><tt>* * *</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### ✅ Recovered Name List:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Name | Confirmed Presence |</tt></div>\n<div><tt>| --- | --- |</tt></div>\n<div><tt>| `RE:GE` | ✅ Core name, used in 3+ documents |</tt></div>\n<div><tt>| `R!TUAL` | ✅ Found in `RE:GE_SYSTEM.v1.1`, module tags |</tt></div>\n<div><tt>| `RE:GEN` | ✅ In naming list (regeneration pun noted) |</tt></div>\n<div><tt>| `MIRR4R` | ✅ In tag list + metaphor section |</tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 139 (chunk 139/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "name",
+    "list",
+    "_unit",
+    "_engine",
+    "confirmed"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "05db9ebe-fad6-4602-be74-54b223d788ea",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>- ChatGPT, Claude conversations</div>",
+  "content": "<div>- ChatGPT, Claude conversations</div>\n<div>- **Bridge Tool Found:** `chatgpt-exporter` in personal repos</div>\n<div>- **Status:** Partially extractable, no unified storage</div>\n<div><br></div>\n<div>### **Layer 2: Personal Profile (4444JPP - 39 repos)**</div>\n<div>**Categories Identified:**</div>\n<div>- **ML/AI Tools:** tensorflow, codex, semgrep</div>\n<div>- **AI Context Export:** chatgpt-exporter, terminal-ai</div>\n<div>- **Knowledge Systems:** schemaorg, awesome-scalability</div>\n<div>- **31+ More repos:** Need full enumeration</div>\n<div><br></div>\n<div>**Function:**</div>\n<div>- Study repos (forks for learning)</div>\n<div>- Experimental implementations</div>\n<div>- Testing ground for org concepts</div>\n<div><br></div>\n<div>### **Layer 3: Organization (ivi374forivi - 23 repos)**</div>\n<div>**Production Stack:**</div>\n<div>- **Orchestration Core:** auto-revision-epistemic-engine</div>\n<div>- **Transformation Engine:** solve-et-coagula</div>\n<div>- **Recursive Processing:** a-recursive-root, reverse-engine-recursive-run</div>\n<div>- **Context Management:** a-context7, github-mcp-server</div>\n<div>- **Data Intelligence:** tab-bookmark-manager, public-record-data-scrapper</div>",
+  "context": "From document: Contents_Table — chunk 49 (chunk 49/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "repos",
+    "chatgpt",
+    "engine",
+    "recursive",
+    "exporter"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

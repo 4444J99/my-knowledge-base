@@ -1,0 +1,26 @@
+{
+  "id": "844d787f-30fc-42db-8010-9f3817184827",
+  "type": "insight",
+  "timestamp": "2025-12-04T16:48:25.000Z",
+  "title": "<div><tt>**Name:** BINARY MIRROR TABLE </tt></div>",
+  "content": "<div><tt>**Name:** BINARY MIRROR TABLE </tt></div>\n<div><tt>**Entries:** 32 </tt></div>\n<div><tt>**Type:** Strict logic pairs (true/false, on/off) </tt></div>\n<div><tt>**Function:** Access gates, logic triggers, recursion locks, state switches </tt></div>\n<div><tt>**Behavior:** Mutually exclusive; cannot be modulated or fused </tt></div>\n<div><tt>**Used In:** </tt></div>\n<div><tt>- Ritual entry/denial </tt></div>\n<div><tt>- Narrative forks </tt></div>\n<div><tt>- Execution switches </tt></div>\n<div><tt>- Security toggles </tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Tag for notes:** `#binary_mirror`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## 3. |[ HYBRID::T0GGL3_T4BL3 ]| </tt></div>\n<div><tt>**Name:** HYBRID CONDITIONAL TOGGLES </tt></div>\n<div><tt>**Entries:** 15 </tt></div>\n<div><tt>**Type:** Context-sensitive ritual states </tt></div>\n<div><tt>**Function:** Symbolic/mystical conditionals—midpoint states that reflect myth, emotion, or power </tt></div>\n<div><tt>**Behavior:** Not true switches or sliders; they respond to narrative logic, ritual state, or emotional tone </tt></div>\n<div><tt>**Used In:** </tt></div>\n<div><tt>- Story beats </tt></div>",
+  "context": "From document: # synth-wave-modules — chunk 2 (chunk 2/51)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1f0200e52addd3bec3d0beb78cca4a02",
+  "relatedUnits": [],
+  "keywords": [
+    "logic",
+    "switches",
+    "ritual",
+    "name",
+    "entries"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

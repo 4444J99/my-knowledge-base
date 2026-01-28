@@ -1,0 +1,26 @@
+{
+  "id": "5b088bea-eaae-4013-8518-86367d22db33",
+  "type": "insight",
+  "timestamp": "2025-11-05T02:08:19.000Z",
+  "title": "<div>  •  <b>T102</b> Implement the description and Copilot prompt for ai‑contex",
+  "content": "<div>  •  <b>T102</b> Implement the description and Copilot prompt for ai‑context‑compiler</div>\n<div>  •  <b>T103</b> Implement the description and Copilot prompt for repo‑lineage‑tracker</div>\n<div>  •  <b>T104</b> Implement the description and Copilot prompt for graduation‑pipeline‑automator</div>\n<div>  •  <b>T105</b> Implement the description and Copilot prompt for recursive‑feedback‑integrator</div>\n<div>  •  <b>T106</b> Wire tribunal outputs into the constitution and orchestrator repos</div>\n<div>  •  <b>T120</b> Perform this week tasks: create system‑constitution repo</div>\n<div>  •  <b>T121</b> Perform this week tasks: create meta‑synthesis‑orchestrator repo</div>\n<div>  •  <b>T122</b> Perform this week tasks: start implementing archive‑resurrection‑engine</div>\n<div>  •  <b>T123</b> Perform this week tasks: start implementing ai‑context‑compiler</div>\n<div>  •  <b>T124</b> Perform this week tasks: start implementing repo‑lineage‑tracker</div>\n<div><br></div>\n<div><b>Phase 8: Master Plan and Preservation</b><br></div>\n<div>  •  <b>T107</b> Approve and execute creation of cognitive‑os‑master‑plan as the architectural record and source of truth</div>\n<div>  •  <b>T108</b> Manually create the cognitive‑os‑master‑plan repository in ivi374forivi</div>",
+  "context": "From document: Below are the two hierarchical to‑do lists.  Each atomic task is separated… — chunk 25 (chunk 25/29)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "3d614fe05eaf43ed6ced45e9304621d0",
+  "relatedUnits": [],
+  "keywords": [
+    "perform",
+    "this",
+    "week",
+    "tasks",
+    "implement"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

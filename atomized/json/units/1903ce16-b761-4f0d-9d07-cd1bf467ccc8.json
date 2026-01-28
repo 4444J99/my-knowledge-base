@@ -1,0 +1,24 @@
+{
+  "id": "1903ce16-b761-4f0d-9d07-cd1bf467ccc8",
+  "type": "insight",
+  "timestamp": "2022-09-24T08:02:20.000Z",
+  "title": "<div>The reaction is real, the set up is fake</div>",
+  "content": "<div>The reaction is real, the set up is fake</div>",
+  "context": "From document: The reaction is real, the set up is fake",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1f7fede5ee7120ef73ab5aa16eeddef8",
+  "relatedUnits": [],
+  "keywords": [
+    "reaction",
+    "real",
+    "fake"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

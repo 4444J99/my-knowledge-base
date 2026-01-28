@@ -1,0 +1,33 @@
+---
+id: d235cf6f-6991-40ee-a4c1-103e0bdb3720
+type: insight
+created: '2025-03-13T23:47:48.000Z'
+document: 3b2e4f3759d2535cf9a91dec728a8fbc
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    tqznqw0oxvwiwmiyv1uceqgam7cv187bbrstuo2m8towcm0icz3rkekpbx9uccqdoyudcbihzlbnht8ot9xickumusdr008
+  - jcgxmnfnzw5rvajqyy24rhkwruo9e
+  - qhkzyzocatawk9yzo
+  - >-
+    fld18cepcabcqgaqm0cwev0n7sksw1wlhqnrdadafydjeef2pmy5yj60eillubylmm1oxzebgfrqblk8ubmg
+  - >-
+    oqkjyyxn5zq5oxghehewrexmibckihgxsnhpoyset7mduvtx97nzqajce5ellokqirh1zvgxsmu62y401vgzsrfrhoicjskpsmc
+---
+# tqzNqW0oXvWiwMIYV1UCEqGAM7cV187bbrstuo2m8tOWCM0Icz3rKekpbX9uCcqDOyuDCbihZlbnHt8O
+
+## Context
+From document: Squarespace, ChatGPT, GoDaddy Expenses — chunk 478 (chunk 478/2268)
+
+## Content
+tqzNqW0oXvWiwMIYV1UCEqGAM7cV187bbrstuo2m8tOWCM0Icz3rKekpbX9uCcqDOyuDCbihZlbnHt8Ot9XickUMusDr008/jcGxmnFnZW5rvajQyY24rHKwRuo9e/QHkZYZoCAtAwK9yZO/d3+4U+fLd18CEpCABCQgAQm0CwEV0n7sKSw1WLhQNrDadafYdJeeF2PmY5YJ60EiLLuBYlmm1OXzEbgFRQBLK8ubMG+OqKJYYXn5Zq5oXghEhEWReXMIbcKihGXsnHPOySet7mduvtX97nZQaJCe5EllokQirH1ZVGxSmu62Y401VgzSRFRhoiCjsKPsMc+0GLSpUVll9U9tQ6F57bXXSrMT4AohsBBzU+kHFFLmzNaTCSaYILzyyiv1Lvf7eSL+Yl1GkUYpPfHEE7t97soqNc0005Sdjn1J5F2e52aEQYuiBb+ZfHgaII2WIaJsJKVN257kiQX8+KfsOclfd18CEpCABCQgAQkMFQIqpP3U02ndUZSkSy65JFrhGt2qp+mLZY022mjRssYyFdn8tmqQnWK6/DHRaFFIsSqikLJF8tZRjkmDGy2WWSx8KCEoo0RmRWEgeFCZkL5ZIaoqktySm81HOgInYT3GdZnldS699NJYt0ZloORgZaR/ioLyQfAerNHJullMU++4rM3JrZnBiZ133rle1przk002WVxSByWWgYjBJgT/QQnFjRXLNYMpg7GezXBLz15ajqksT3oucbtGepMnX27Zc5K/7r4EJCABCUhAAhIYKgScQ9oPPc1yIbguolTg+okrYCNpJj2KXxZ0J0ZVxYpWlOTuiftus4pBmjuJW2gWHCe6p6LYEg02L6zZiQLHsiO0a+65564qfGlOXT59b/ZTtFiimpatzYnyyLUyiyDRe3F1pl7UtZ5bbKoXbqAonbhPP/roo+l0zTa5iNZbYqfZ9SkplD5BWF+znmBFzbebpW6IvIvVukxQntLyKsXraS3U4vlWHTPflyjFKKMsrcOSLc0oWD1h1qq6NlNOevZw2S6zxrKU0D333BOLwr0b6U2emNE/EpCABCQgAQlIQAI1BFRIa3D07YCXWeYzsjwKFkQUELb1pCfpmU+HNQ/FhYAoeUFZZekVpDvlN5+Pea2stfj111+HvfbaKwbJwWW1aDXk3gjLsuQFSyzrZLZCWI8TS2IWvTbyy5cJJ5ZZQVFG
+
+
+
+---
+*Source: Document 3b2e4f3759d2535cf9a91dec728a8fbc*

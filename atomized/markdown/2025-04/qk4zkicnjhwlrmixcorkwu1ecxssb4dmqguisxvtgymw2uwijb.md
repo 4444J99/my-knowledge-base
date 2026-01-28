@@ -1,0 +1,32 @@
+---
+id: 57367a81-11b5-4d00-b6cf-405f9b8f5685
+type: insight
+created: '2025-04-08T10:17:01.000Z'
+document: 7704478edec58fe98c8158d649dbd34b
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - qk4zkicnjhwlrmixcorkwu1ecxssb4dmqguisxvtgymw2uwijbmdja
+  - >-
+    b0gaaqabjrefuyajkmjyverzglmcniepsl3yorxsqyrgubdidcwa0z5bgmmsyqzwyl2lnbrhpm1itykj11ipsymuwzf
+  - qkfovreophxolhwqxxvkyddeekua
+  - >-
+    mpapm372bxufmeolynyfmmm4zgcglaqu94v7eulbs7rspwuyuxxyldg1vg6qd9dajmbdhq5fw6ai1jdvx4saeqhhww0lzgwq5lennrxvn3gmdz7rnk96u
+  - jugb
+---
+# qk4zKicNJHWlRmIXCoRKWU1ECxssB4dMQgUiSXVTgYMw2UwiJBmDJA/b0gAAQABJREFUyaJkMjYVErZG
+
+## Context
+From document: New Note — chunk 2206 (chunk 2206/3044)
+
+## Content
+qk4zKicNJHWlRmIXCoRKWU1ECxssB4dMQgUiSXVTgYMw2UwiJBmDJA/b0gAAQABJREFUyaJkMjYVErZGlmCNiEpSL3YOrXSQYRgUBDIdCWA0z5BgMmSyqZwyL2LnBRhPM1iTykJ11ipsymuwZF+QKFOvReOphxoLhwQxXVKYdDEeKua+mPApM372bxUFmeolYnYFMmM4ZGcglaqU94v7eulbS7rspWUYUXXyldG1vg6qd9dAjmBDhq5fw6aI1jDVX4saEqhHww0lzGwq5LEnnRXvn3gmDz7rnk96U+Jugb/wI9WXhT/3uwfDvhV2/qM7v/3nh8PXsPMgvvsLDzl/LKybaoV/v3bBZN/232bCm1+5Pu/SR7t8Xv5f338kXH9LXHC4DQsNL8GCt3Gsebv1ziVbWOftnrSlbbsZep/33L0cZrDzHm1yQZ5P5W5+ntevzPZz10SfuCvhLXfEnW24MHHDtJ2FDNm4rqpTVgsI9+yHf9hFkLsBnnFypXMSuw+W6YvXL2K3+k7gzomWENTPfqV5gSD5i9hVhn2EuxKeun0kTE20LP70c9/B5fD7iO0vvnx9eAB3cUzJFsGyD6b+I3pjbn218pMliVkuvohUgrJJVGJJKsoSYkqqDCUHpq4iOW7kkECct1vIWLXUZYpKIpGlhSYMcQ10XZhiS5Wuc++rx0JXHA8oCA9QiWMIrlLIUDy6xStWSkmPPhBPsukA1KiEWSFiutsF/olK2XZhoJ8rlDmeRN3Hq+N47J8wWQWNBtTAkiY6T7nuGcUYTwg/7FtWSDIcNPgfdOtG+MGdzXdBs+5lRNouUup7NugUrDpN3y5Hu/HeSYP4KNniQdjjanXsjoj3IZiHtqjQXmXMuxX8wnw67jQe5dvQwfba1Jw68GoYaxvYjJAtCExmbPFtthmJun6iG9QUZUyYRLUxAixOKnbxMiMZNGXUgY/KGdNU8OdU/IEEBU55g4xXTTaTp0XK/fZYXRNFEwc+N4Xc8VTrj8oH13SscoNb6EYeTx9p6IbZgPogCbLRRCNPfA0jlFG5jInoCcNd/M7HBFLzcZJvxwI4LgbjYrlzuRugS9uxC59PHPq4sen52MEujo2eG8vr8piSeM6nr8wfDR9Iiwe7JSsKdY9Dz0XJnxu4MyB85O6A7z18KNyyvBhev2lT9cjA2aCWfzp8JCxg8QkXQD4KixSL
+
+
+
+---
+*Source: Document 7704478edec58fe98c8158d649dbd34b*

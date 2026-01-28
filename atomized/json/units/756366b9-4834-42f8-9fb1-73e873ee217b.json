@@ -1,0 +1,26 @@
+{
+  "id": "756366b9-4834-42f8-9fb1-73e873ee217b",
+  "type": "insight",
+  "timestamp": "2019-05-16T22:53:10.000Z",
+  "title": "<div>This movie is dedicated to these following sources of inspiration</div>",
+  "content": "<div>This movie is dedicated to these following sources of inspiration</div>\n<div><br></div>\n<div>David Cronenberg</div>\n<div>Dan Harmon</div>\n<div>Alejandro Jodorowsky </div>\n<div>Stanley Kubrick</div>\n<div>Yorgos Lanthimos</div>\n<div>David Lynch</div>\n<div>Terrence Malick</div>\n<div>Marilyn Manson </div>\n<div>Michael Mann</div>\n<div>Hayao Miyazaki</div>\n<div>Robert Rodriguez</div>\n<div>Ridley Scott</div>\n<div>Quentin Tarantino</div>\n<div>The Wachowskis</div>\n<div>Edgar Wright</div>\n<div><br></div>",
+  "context": "From document: This movie is dedicated to these following sources of inspiration",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "c2b3f37a522484d89217787e4e996a60",
+  "relatedUnits": [],
+  "keywords": [
+    "david",
+    "this",
+    "movie",
+    "dedicated",
+    "these"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

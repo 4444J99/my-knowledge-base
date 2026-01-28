@@ -1,0 +1,26 @@
+{
+  "id": "82bd78f5-d9ca-43a5-913a-977ad138d74f",
+  "type": "insight",
+  "timestamp": "2019-05-16T17:37:19.000Z",
+  "title": "<div><span style=\"font-size: 21px\"><br></span></div>",
+  "content": "<div><span style=\"font-size: 21px\"><br></span></div>\n<div><span style=\"font-size: 21px\">Toulmin logic will help you explain the contested, rhetorical na-ture of definitional claims. Because definitional criteria are warrants, they must be chosen with the audience in mind (if the audience members do not accept the criteria you choose, they will not accept any other part of the argument). </span></div>\n<div><span style=\"font-size: 21px\"><br></span></div>\n<div><span style=\"font-size: 21px\">Some students who struggle will be able to place an object within a given class (a fiddle is a violin; NASCAR racing is a sport; paid workers are not volunteers) but will balk at the need to explore or defend definitional criteria. Turn to Toulmin to show that they might have evidence in support of their reasons but not in support of the  warrants — the definitional criteria themselves.</span></div>\n<div><span style=\"font-size: 21px\"><br></span></div>\n<div><span style=\"font-size: 21px\">Ch 10</span></div>\n<div><span style=\"font-size: 21px\">In the notes for Chapter 9, we explained the classic illustration of the missing urn: the urn belonging to one person is found in the home of another. The parties disagree about the nature of the incident. One says the urn was stolen, and the other says it was merely bor-rowed. The matter is stuck at the level of definition, but let’s imagine that the court decides the urn was stolen. The defendant might argue that he stole the urn for a good reason: the urn contained water that he needed for his ill child. The defendant now makes an argument of evaluation: the act of theft was, he claims, praiseworthy.</span></div>",
+  "context": "From document: EAA Chapter INTROS — chunk 8 (chunk 8/18)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "96eb322624e76b9b2f5ac7aabacd881c",
+  "relatedUnits": [],
+  "keywords": [
+    "span",
+    "style",
+    "font",
+    "size",
+    "21px"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

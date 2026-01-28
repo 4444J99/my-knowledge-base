@@ -1,0 +1,26 @@
+{
+  "id": "d765266f-af58-461d-8502-3ae42f497af4",
+  "type": "insight",
+  "timestamp": "2021-06-24T20:11:54.000Z",
+  "title": "<div>School shooters shifted from serial murderers</div>",
+  "content": "<div>School shooters shifted from serial murderers</div>\n<div><br></div>\n<div>How School Shootings Spread | The New Yorker</div>",
+  "context": "From document: School shooters shifted from serial murderers",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "23543022d5699c3d2f03820ccd90eb63",
+  "relatedUnits": [],
+  "keywords": [
+    "school",
+    "shooters",
+    "shifted",
+    "from",
+    "serial"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

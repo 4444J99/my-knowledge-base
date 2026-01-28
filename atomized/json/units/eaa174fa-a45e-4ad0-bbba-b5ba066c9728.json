@@ -1,0 +1,26 @@
+{
+  "id": "eaa174fa-a45e-4ad0-bbba-b5ba066c9728",
+  "type": "insight",
+  "timestamp": "2015-03-28T01:16:08.000Z",
+  "title": "<div>Have journal website</div>",
+  "content": "<div>Have journal website</div>\n<div><br></div>\n<div>Feature presentation </div>\n<div><br></div>\n<div>Werner herzog </div>",
+  "context": "From document: Have journal website",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "2e5c1e3b98042002072ab8ecc01602cc",
+  "relatedUnits": [],
+  "keywords": [
+    "have",
+    "journal",
+    "website",
+    "feature",
+    "presentation"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

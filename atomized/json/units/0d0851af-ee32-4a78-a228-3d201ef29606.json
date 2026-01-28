@@ -1,0 +1,26 @@
+{
+  "id": "0d0851af-ee32-4a78-a228-3d201ef29606",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:20:12.000Z",
+  "title": "<div><tt>---</tt></div>",
+  "content": "<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## ENTRIES</tt></div>\n<div><tt><br></tt></div>\n<div><tt>```</tt></div>\n<div><tt>2025-04-11_21:22 | ::ST4RT.io:: → Initiated thread bootloader sequence</tt></div>\n<div><tt>→ Files affected: SYS_EXPORT_0412_MASTER.md</tt></div>\n<div><tt><br></tt></div>\n<div><tt>2025-04-12_10:35 | ::lock naming system → Frozen . vs _ logic, symbol grammar, recursion syntax</tt></div>\n<div><tt>→ Files: naming_manifesto.md, SYS_N4M1NG_PROTOCOL_0412_DROP.md</tt></div>\n<div><tt><br></tt></div>\n<div><tt>2025-04-12_11:15 | ::lock dual-ID logic → Implemented canonical/styled dual ID layer</tt></div>\n<div><tt>→ Files: SYS_ID_ALIAS_MAP.json, SYS_ALIAS_CHANGELOG.md</tt></div>\n<div><tt><br></tt></div>\n<div><tt>2025-04-12_14:02 | ::run full cascade → Triggered full-thread ingest, export cascade initiated</tt></div>\n<div><tt>→ Files: ALL phase outputs</tt></div>\n<div><tt><br></tt></div>\n<div><tt>2025-04-12_14:32 | ::rename ANN → 4N3 → Reinvented system assistant as ritual oracle</tt></div>\n<div><tt>→ Files: alias map, terminal command engine</tt></div>\n<div><tt><br></tt></div>\n<div><tt>2025-04-12_15:20 | ::spawn USE_CASE_JESSICA → Peer-mirror export activated</tt></div>",
+  "context": "From document: THREAD_RITUAL_LOG.md — chunk 2 (chunk 2/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "2086f8d1c3499999efb38cdd904507a5",
+  "relatedUnits": [],
+  "keywords": [
+    "2025",
+    "files",
+    "initiated",
+    "thread",
+    "lock"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

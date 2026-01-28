@@ -1,0 +1,31 @@
+---
+id: b66a379c-b8a7-4b12-907b-de267af1abda
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    3oodu1mx1cngkpcplvuguggmwgczurkt1lmdkgup0nun0juvwxgme7aqifeosxzaqw7uh2dv0ggrurpqyjxvkodvikbqmigvzybvfd7gvkarnutftxsveunuatr54kuu2tjbhfgnolbahfyvqfw8gkvhfnxvygasdhkyxa
+  - sin6hgfvaq3fddrcbkivsa79
+  - ypymzzt
+  - nbqr169livvs2hvupi15oa1b6w5ugnmggyavt5ba6tngigbawcwaqcbet7
+  - pmvpjgwwfxhq17qexqbvcyvtzs2lbqdbx98snics4dvug
+---
+# 3OoDU1mx1cngKpcplVUGUgGmwgCzurkt1LMDkGUP0NUN0JUVWXGME7AqIFeosxZAqw7uH2DV0gGrurpq
+
+## Context
+From document: New Note — chunk 8614 (chunk 8614/21099)
+
+## Content
+3OoDU1mx1cngKpcplVUGUgGmwgCzurkt1LMDkGUP0NUN0JUVWXGME7AqIFeosxZAqw7uH2DV0gGrurpqYJXVkODVIKBqMIgVZYBVfd7GvkARNUTftXsveunUaTr54kuU2TjbHFgNoLBaHFYVQFW8gKvhfnXVygasDhkyxA+sIn6hgFVAq3fddRcBkIVSa79+/YpYmzZt/NBqr169LIVVS2HVUpi15oA1B6w5UGnmgGyaVt5ba6tnGIGBAwcWAQcBET7//PMVPjgWwFXhQ17qExqBVcyVTZs2lbqdBx98sNics4DVUg+jdcAfeASs/+/+wB+e1XVrBKwRsEbAGgFrBKwRqBQj8P/+83909qWz9Pmjn9FHS1mZlCHPrxZ9oQBQgKffLoOdpe/8xq9+Xv4tnVv+XQmGOoEs0LGB6vvO990yPncAQx995uuzD5oFyOqDWXFNuDZcI64V14xrt8IfewQsYLXigFUoqurAakkKq4BTAa7q6qo6sApwVQdWBVQVcNUIrRqBVaSN4KoOrAJOlbSAquIDAasAVbEHawRWkRZ1VYFVkZa4EVbFno+AquKNwKqurKqDqogbYVUdWhVIFUqrEhcvoKrRBwNVzaBVgVfhjeCqwKkCsEpaB1X1OCBVAVXF66Aq4oBSxQugKl7AVSOwKmmBU40e4KnkBQNXBU4NBKpKOSBUxEVFVY9LnsCoAqwa86Vc9wKmlhZUleMAmJYFVhWoFfAoLFRQVeqbeYFFUYa4XkfKztcDzAzUBsqkXLzUlbTUudAeK6t+Dj1tjEtavByHNALSupe45KvCAP+EUifAoVZ2BY1ApD2czCzKYWNolVVHGRCMLWIuLY146QxwqlikglShnCrKqgKqMqDIkKoyVjGN9nipayeGAx9+WP1wxPiDEKztGzc8RL26d6G4KA+rsvrUU7t17khbWeBF1ta33/4HzZw+levwq+Yd4dx+uKor0GrPbp1p9+5d/h+A7Nu7jzq1a89QawQNHTSYTpw44V9bt23dyhBrY3LbHTRj2jT1twbWz0Brq76uIj6Nj2nbtq1ab83WU/kRiHisq2gb4CjUTh999FGStRV/v0yYMIEZOjs1bdpUcU6yturrqdmairX0lVdeobFjx/qBVUCvEPhDvtl6ir99Vq1axa9oz1FqrmaqqsiDSquYjVVTw70xytbcfid9wtci6yg81ktj
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

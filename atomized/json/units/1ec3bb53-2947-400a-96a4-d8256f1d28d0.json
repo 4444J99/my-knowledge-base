@@ -1,0 +1,26 @@
+{
+  "id": "1ec3bb53-2947-400a-96a4-d8256f1d28d0",
+  "type": "insight",
+  "timestamp": "2013-08-16T06:51:16.000Z",
+  "title": "<div>    http://otherbirds.com/tutorials<br></div>",
+  "content": "<div>    http://otherbirds.com/tutorials<br></div>\n<div>    https://www.youtube.com/user/BazTutorials/videos<br></div>\n<div>    http://vimeo.com/[REDACTED:SSN]<br></div>\n<div>    https://cycling74.com/category/articles/tutorials/</div>\n<div><br></div>\n<div>PROCESSING </div>\n<div>  http://www.plethora-project.com/education/2011/09/12/processing-tutorials/<br></div>\n<div><br></div>\n<div>PPOOLL</div>\n<div>http://ppooll.klingt.org/index.php/Main_Page<br></div>\n<div><br></div>\n<div>BEAP</div>\n<div>https://cycling74.com/wiki/index.php?title=BEAP_Analog_Model_Curriculum_Outline</div>\n<div><br></div>\n<div>Max4Live Library</div>\n<div>http://maxforlive.com/library/index.php<br></div>\n<div><br></div>\n<div>http://www.djtechtools.com/2012/04/18/how-to-start-djing-in-ableton-part-1/<br></div>\n<div><br></div>\n<div>FM Synthesis</div>\n<div>http://gorenfeld.net/lou/fmguide.html<br></div>\n<div><br></div>\n<div>Drum Racks</div>\n<div>http://www.soundonsound.com/sos/mar08/articles/livetechnique_0308.htm<br></div>\n<div><br></div>\n<div>Effect Racks</div>\n<div>http://www.soundonsound.com/sos/jul11/articles/live-tech-0711.htm<br></div>\n<div><br></div>\n<div>http://www.musictech.net/2013/02/live-8-tutorial-get-creative-with-the-impulse-device/<br></div>",
+  "context": "From document: Musical Ideas — chunk 6 (chunk 6/8)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "0d5de81e5702ab7284eec16ac275678c",
+  "relatedUnits": [],
+  "keywords": [
+    "http",
+    "tutorials",
+    "https",
+    "articles",
+    "index"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,31 @@
+---
+id: 5e4ce6f7-c168-44fa-a935-90d422e4702e
+type: insight
+created: '2018-10-05T22:17:31.000Z'
+document: 15981fe11fce83e658f6940d49a17e08
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 7xrahjwjckww5zsn7jywfzfhp93r7mh3jiyia8qb4gbxgdhahcaodc4oice78zvhtd
+  - ckx486xfqgo1bgjekgnkf2b
+  - >-
+    0bogher4wwr1dgretiq1yg9zido7eh44jhrm6juyfxahiahgaoeacia4qb4gdxahiqj44gaj2mtlggp0efgm8duwtslctycfbhr
+  - aqmk9s4bruk7kkt3qbpfb5u5rjytf5hbiz4k9j
+  - z5tuxpt7qn2hphfeiacya4qbwgdhahiaptw4f1cp00fi38xpi9jpji5jhiu1xo6bk
+---
+# 7xRAHJWjckww5zsn7JywFzFhp93R7mh3JIyIA8QB4gBxgDhAHCAOdC4OICe78ZvHtd/cKX486xFqgO1B
+
+## Context
+From document: Mike’s Mom’s Spanish Rice — chunk 360 (chunk 360/565)
+
+## Content
+7xRAHJWjckww5zsn7JywFzFhp93R7mh3JIyIA8QB4gBxgDhAHCAOdC4OICe78ZvHtd/cKX486xFqgO1BgjEkGNkf2B+0BogHER4wwr1DgRETiQ1yg9zidO7Eh44JHRM6JuyfxAHiAHGAOEAcIA4QB4gDxAHiQJ44gAj2MTlGgp0EFgm8DuWtSLCTYCfBHr/AQMK9S4BrUk7KKT3Qbpfb5U5RjYTf5HBiz4k9J/Z5TuxpT7Qn2hPHFeIAcYA4QBwgDhAHiAPtw4F1cp00fi38XPi9JPJI5JHIU1xo6BK+jnhFvNobXpFw7/IOjAkJNokxu7Jv1xMWTFzoMNBhoMPQPoeB/Y39jf2N/Y04QBwgDhAHiAPEAeJAHQfgl8JPhd8KP5ZEFYmqvRFVtAvaBe2CCy7djgMk3LuccE8ywBlp/pSakBNyUii1W+4Oc8XvkDvkLn28TW6TO7Q0E6BtrlL4dA+pbDBBglwj18iNjlJxErvEU66WG7Se2qWHVWqVWu/piS0l9UA7aL4fcBNjbmKs8ZuEGQkzEmbsB8QB4kAv4kCcH4fz8Psg4RfCT4TfaPzIna5SINCREhVEOvzQJH+Vv4caYCRzj/MytHPaudYA+3nJ+jkJ95I1OIGeQE+g50BHHCAOEAeIA8QB4gBxgDhAHCAOEAeIA8QB4gBxgDhAHGgNDpBwJ+FuNKDYwVrTwahX6lVrgP2LOEucZT8gDhAHiAPEAeIAcYA4QBwgDhAHiAPEAeJASXCAhHuPNzQ+5cOnffjUD5/+4VNAfBqITwXx6aD5lHCzU88Jj08N42S7Uqj0ynOYAoapcLoyFRBTrjDlih4XmGqBqRZ6MdUC7Zp2XYRdx82rcR6pPSAxT8e8HfN4zOsxz8e8H34A/AIGhDAghAEhioRXj/MgxDniHHGOOFc0DpBw7/KBZkpOyWlZz51nJtzcNJVEEAkDEgZFEAa0O9od7Y7jD3GAOEAc6HwcAHEPvwEEPYj5oh1UPj/UAAnhLvfTace0Y60B9mP2Y6MB2kFJ7YCEe5c0PCbA2+V2ucutR5zTsaVjS8e28x1b9lP2U/ZT9lPiAHGAOEAc6BYcACFv/I6dQin4ISQQSSCSOCJxRhwgDhAHiAPEgXQ4QMK9Qwn3MTkmx/UEF5+KdssEnfUkoUBCgYQCcYA4QBwgDhAHiAPEgd7DAfgl8FPocKdzuKkn
+
+
+
+---
+*Source: Document 15981fe11fce83e658f6940d49a17e08*

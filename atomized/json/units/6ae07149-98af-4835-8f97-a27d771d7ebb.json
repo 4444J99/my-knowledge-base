@@ -1,0 +1,26 @@
+{
+  "id": "6ae07149-98af-4835-8f97-a27d771d7ebb",
+  "type": "insight",
+  "timestamp": "2025-02-18T18:11:16.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><b>Diana Ramos (81.88% | B−)</b><br></div>\n<div><br></div>\n<div><i>“Diana is performing well with a current score of 81.88%. She has demonstrated strong engagement in discussions and quizzes, consistently scoring above 90.00%. However, her Narrative Essay Prewriting (50.00%) and exam performance (68.00%) indicate areas for improvement. Completing all writing assignments and reviewing exam material more thoroughly could help boost her grade further.”</i></div>",
+  "context": "From document: Danielly Herrera (86.07% | B) — chunk 2 (chunk 2/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "50249b3a54381a403a335863612baaee",
+  "relatedUnits": [],
+  "keywords": [
+    "diana",
+    "exam",
+    "ramos",
+    "performing",
+    "well"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

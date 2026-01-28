@@ -1,0 +1,26 @@
+{
+  "id": "9b1834d6-eb09-4379-834a-794c6d4622c5",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>f&quot&quot&quot&lt!-- UID: {uid[:2]}-{uid[2:4]}_00-00 --&gt</div>",
+  "content": "<div>f&quot&quot&quot&lt!-- UID: {uid[:2]}-{uid[2:4]}_00-00 --&gt</div>\n<div><br></div>\n<div># {data['title'].replace('_', ' ').title()} – {data['agent']}</div>\n<div>## UID: {uid}</div>\n<div>## Agent Symbol: {data['symbol']}</div>\n<div>## Role in System: {data['system']}</div>\n<div><br></div>\n<div>This module is a knowledge agent responsible for embodying and teaching the logic behind:</div>\n<div>- {data['system']}</div>\n<div>- Recursive symbolic programming</div>\n<div>- Myth-engine integration</div>\n<div>&quot&quot&quot)</div>\n<div><br></div>\n<div>    # UID_MAP.md</div>\n<div>    (folder / &quotUID_MAP.md&quot).write_text(</div>\n<div>f&quot&quot&quot# UID_MAP for {uid}</div>\n<div><br></div>\n<div>| UID       | File Name           | Description               |</div>\n<div>|-----------|---------------------|---------------------------|</div>\n<div>| {uid}     | README.md           | Overview and symbolic notes |</div>\n<div>| {uid}     | MYTH_AGENT.md       | Agent persona and invocation |</div>\n<div>| {uid}     | SYMB0L_FUSION.md    | System function and logic  |</div>\n<div>&quot&quot&quot)</div>\n<div><br></div>\n<div>    # REVISION_HISTORY.md</div>\n<div>    (folder / &quotREVISION_HISTORY.md&quot).write_text(</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 349 (chunk 349/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "data",
+    "agent",
+    "system",
+    "title"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "0b0792d0-23b4-4882-a891-5d6b7a4627bb",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div># RE:GE OS — Master Curriculum v2 (Component‑Linked Edition)</div>\n<div>*A cross‑disciplinary blueprint for building the OS and educating yourself indefinitely.*</div>\n<div><br></div>\n<div>## 📜 HOW TO READ THIS DOCUMENT</div>\n<div>| Column | Meaning |</div>\n<div>|--------|---------|</div>\n<div>| **OS Component** | The literal folder / service you will create inside your vault (e.g., `RECURSION_ENGINE/`). |</div>\n<div>| **Module** | A time-boxed learning unit (≈1 week). |</div>\n<div>| **Required Reading / Resource** | Canon texts, online courses, or tools to study. |</div>\n<div>| **Checkpoint** | A tangible deliverable committed to your repo/vault. |</div>\n<div>| **Tool Integrations** | Software or scripts you’ll touch. |</div>\n<div><br></div>\n<div>*Copy this file to `ACTIVE_CORE/OS_SYLLABUS/README.md` and update as you progress.*</div>\n<div><br></div>\n<div>## 🌑 PHASE I — BOOT THE SPINE (Weeks 1–4)</div>\n<div>| OS Component | Module | Required Reading / Resource | Checkpoint | Tool Integrations |</div>\n<div>|--------------|--------|-----------------------------|------------|-------------------|</div>\n<div>| RECURSION_ENGINE/ | M1 – Visual Algorithms | Grokking Algorithms 💠, VisuAlgo.net, CS50 Week 0–2 | Python script: visual bubble-sort &amp recursion trace | Python + Jupyter |</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 391 (chunk 391/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "component",
+    "this",
+    "your",
+    "vault",
+    "recursion_engine"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

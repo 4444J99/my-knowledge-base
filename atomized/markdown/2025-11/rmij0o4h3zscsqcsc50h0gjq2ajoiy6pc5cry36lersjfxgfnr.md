@@ -1,0 +1,32 @@
+---
+id: c5ab820f-d030-447e-b63f-e59aeb7f1f3e
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - rmij0o4h3zscsqcsc50h0gjq2ajoiy6pc5c
+  - >-
+    ry36lersjfxgfnr5gljiubps8pmz4iiebt0kpxqs6mnkj1ww7afqssvqydxixptogofy4g3gcmaiyjjgn12vlpqwpldpch
+  - vl0wh16eg9eixlaj1pfrws
+  - >-
+    nui3vuwjvni8db3wadscm1fuq65xn8r9d1audqkgr8smvxqdhu70saya2bsn2v1wyefej2eyqhieprrpwuickafgxcabhos8ftcn50c1xumdftshihs5cgwsmw9fs2xo3jlusx9
+  - dd4faiah0g2mez8av7vzyvqigfqsxdp9zjsyoch
+---
+# RmiJ0O4h3ZScSqCSC50h0gjq2AjoiY6pC5C+RY36LerSjfxGFnR5GljIUbPS8Pmz4IIeBT0KpXqS6mnK
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 947 (chunk 947/11629)
+
+## Content
+RmiJ0O4h3ZScSqCSC50h0gjq2AjoiY6pC5C+RY36LerSjfxGFnR5GljIUbPS8Pmz4IIeBT0KpXqS6mnKJ1Ww7aFqSSVqYDXIXpTOGoFy4g3GcMAIyJJgN12VlPQWPldpcH+QB+ko/Vl0wh16EG9eiXlAJ1pfrwS+nUI3VUWJVnI8Db3wadSCM1fUq65Xn8r9D1AudQkgr8SMVxQdhU70SAya2BsN2V1WyEFEJ2EyqHIEprRpWUICKAfgXcABhoS8FTcN50C1XumDFTshIhS5CgwSMW9FS2xo3jLuSx9+DD4FAiAh0g2mEZ8Av7vzYvqiGfqsxdP9ZjSYOcH+gP1gh8Flm5bNXjZ7+UXlXMperdSn8tpK5Zy0AmoBlWnEKUrspEPrhGintdXaNkmdN9WFVF/2Vvuo38g00L1YsqDXdLr8xSD1m/Wf67LuuDPrTsedM4vNvDVjRaqA1INSDqJSpaUW+tlyvzz69fH8Tgs6L+hEJ3idWne+b/iY8MO3U98aeXskZtoCUJ/3QFd15bDyg2hoZI5uOLT1sIJDFzfXm2dtPgn6rOHsSmxDCe2vwWtb/yIJ7/J11BiyCRpzgAuKfBb5NPIZpMVAVip5aAo9RWieI3ky5kl5Vvwqfn30GkaSe0jNEn7t0fv7gakXugjJhuHVbJ/NvDrzyswrWLvvn3oQLK/AsX3cauN4hW/OrFswa+HsBa1PnTz18MzJC4ciDkWkv4kPFDcr3a9x/4v7I7hGa8Zh4wcjA3beUMWEIZ2GzB46G7ulTW7uQPnAcgVjmN8w7RjyTowdI+6TDND6HsKxCNBDyEL9AxsMblO9gL4KrpX0LnYewJbmN5WipiYDB4DUaSEKiS/jysExGWDnLN9Zi2Zdwcd/S0oLVmxrvOWpaqOcLnvq4elvUAcAOP8z65kpEXXD+4ZnuIldNW7ue1DjQcoHqWSectga1mGCMmHI4iGzh8z2UX0m+2CtAGx6cNxy30kMS1PSu1nZ7Lq5242fblS+uTqjlknLoGKISLPoNXLXGFdjHG1sPqcTcAZvLLBoivDIDBjPazHPcLzbwfsEmOCwPuIxpC8kT2klH+5Uwh9aoL+qL5Ii+jBgUeWACywD4Ia4ufm2CFwU6DJ78YzgGZln6vbJ7O3s7WiSQblfyl8t17Hc4soHK6evlA4byKcsYEU+GBil3KA/RJHeTm+ntXFM
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

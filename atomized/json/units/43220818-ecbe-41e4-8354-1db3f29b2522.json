@@ -1,0 +1,26 @@
+{
+  "id": "43220818-ecbe-41e4-8354-1db3f29b2522",
+  "type": "insight",
+  "timestamp": "2017-05-15T14:34:50.000Z",
+  "title": "</td></tr>",
+  "content": "</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><span style=\"font-size: 16px\">CODE 5</span></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><span style=\"font-size: 16px\">734 941 724</span></div>\n</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><span style=\"font-size: 16px\">CODE 6</span></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><span style=\"font-size: 16px\">736 871 972</span></div>\n</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><span style=\"font-size: 16px\">CODE 7</span></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><span style=\"font-size: 16px\">919 965 956</span></div>",
+  "context": "From document: KEEPER — chunk 3 (chunk 3/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "4fedc87691347f45d4055d6de41d7d33",
+  "relatedUnits": [],
+  "keywords": [
+    "style",
+    "border",
+    "width",
+    "span",
+    "valign"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: 06e29445-e6dc-4e90-b778-97f94d0cab33
+type: insight
+created: '2017-03-03T03:57:06.000Z'
+document: 0f5a61a6fb83412f6aa40e5b9176bdd3
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    jwg7z0dvyzrh3ebjc2mkbaex5evgyrcwcvsipkirl5yefruyfdni6mhjbvbazqfkvahwjkhgqp36hiykavojt0tzhw90giy4tgxojrbjtfze3mc7g3a
+  - tpgjhth6y8jpbv8t7prxwf
+  - amtm5cdmetpsugad8
+  - >-
+    yuc4ojie834o6cfjk0xmedip16id96pgzfxqcccexih9ehir4zw6obi67j4irdefnx4xnqp7kseqselkqd3jakvwf4wua8j1
+  - mcc0uvvitjeji4vhz0whmyhsk9xgd8ymjhnfljijy7pbaeysdfamxzfbj9r9aodj
+---
+# jwg7z0dVYzrH3ebjc2mkbaeX5EvGyRCwCVsiPkirl5yefRUYfdNI6MhjBVBAZQFkVAhWjkhGqP36HiYk
+
+## Context
+From document: New Note — chunk 958 (chunk 958/1653)
+
+## Content
+jwg7z0dVYzrH3ebjc2mkbaeX5EvGyRCwCVsiPkirl5yefRUYfdNI6MhjBVBAZQFkVAhWjkhGqP36HiYkAvoJt0tzHW90giY4tgXojrbjtfzE3mC7g3A+TpgjhTH6y8jPbv8t7PrXWf/AmTM5cdMEtpSuGaD8+yuC4OJiE834o6cFjk0XmeDip16iD96pgzfxQCcceXih9eHIR4Zw6OBI67J4IrdefNX4xnQp7KSeQselkQD3jaKvwF4WuA8j1/MCc0UvvITjeji4VHz0whMYHsK9XGD8yMJHnFlJIjy7PbAEYsDFaMXZfBj9r9AODJ/Tp07bhn916Onom/GfDpdOWx1wDLN0wO6E9XBVO25welBwcbTxPgye8ErTHznhay4weqILXGD51kk4eHCloIkLgV4MejhkkpbGK3pwI9dKOGniQQ8PYS7zA6MzQvLNP0V2dIPQ5awHAL3VuQaP3xz8uqIbXoflGyYYWL477QpbRnQGXH4VUOUAjk6dOiVu6rGvW+A2wGLQpctpFX/w9pFDH2rk41wuXYG0MExxlV+C1ssgQ+n1oFA4geMASjLote7SiRrXJTp6ncIvVAThG8j17YAotktH4Zz3SoPz2ZVLoe31fD1+V8BESTFRhl78AS6c2x3EvhwLdp4a44RHQZzLoXzrouKSR0e6EoS/0QRaf+KVzEIZ9Gmw4Oo/KVfaj3Uk/tVFTIlck6n0NrFKk/MIDIEflaMnHfDr4lnJQNa7ofTs5JnKOZYMcjlea6FsFdzgjnFEv7OX7LAAMI8tNnjFzsmfS2AXlcCRRx45vOxlLxs4o5+dzZ/4xCf0aPYD1DFk/jON7va3v/3wiEc8wob/4447bjj44IOnLHN4HZYA/QFn9GPc58z+GPw5y/+73/2uz/bv638tWeC4nlvf+tbDUUeN5/ezw59jfTjO58Y+v38t6Z3y8AFj8n/00UcPfLti2mdO+Qn/z//8jxdO1scCgBLEmKodASSYecXKbSwGBTyOIvUTB5+HSPwMw/9eoF3/H/mf4U3/ctbwpbO14Wzitmzea3j8A+4wvPAp9xh+/v/cedhrf42dshGNMZcjHnVNROfgDVUC3gimsqceuDD2Y+TPSQEe83JMLAZ7+bYRsEufeWLNIXtDP9XnuaUaB7wc80PYmw2lI8f8+EghaOLJXJT5S3/GfxoiOtO3+Kga4qhG2s8x
+
+
+
+---
+*Source: Document 0f5a61a6fb83412f6aa40e5b9176bdd3*

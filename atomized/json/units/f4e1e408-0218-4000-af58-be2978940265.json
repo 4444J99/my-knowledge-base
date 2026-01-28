@@ -1,0 +1,26 @@
+{
+  "id": "f4e1e408-0218-4000-af58-be2978940265",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### IV. | EXAMPLE MODULE TYPES</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| MODULE ID        | PURPOSE                               | FORMAT TYPE         |</tt></div>\n<div><tt>|------------------|----------------------------------------|---------------------|</tt></div>\n<div><tt>| ::4_bl00m_ID     | Artist identity core profile           | ARTIST ID PROFILE   |</tt></div>\n<div><tt>| ::GR1ND3R_SYS    | Narrative system breakdown             | PROJECT MODULE      |</tt></div>\n<div><tt>| ::M4_EDU_SYL     | Syllabus seed for MET4 pedagogy        | EDU SYSTEM TEMPLATE |</tt></div>\n<div><tt>| ::TRANSL8R_ENG   | Language processor / cut-up logic      | TOOL MODULE         |</tt></div>\n<div><tt>| ::ET4L_LABEL     | Studio identity and business outline   | BUSINESS PROFILE    |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### V. | ARCHIVE COMMANDS</tt></div>\n<div><tt><br></tt></div>\n<div><tt>To export a module:</tt></div>\n<div><tt>- Tag with `::ARCHIVE_ENTRY_###`</tt></div>\n<div><tt>- Assign `REF_ID`</tt></div>\n<div><tt>- Drop into correct folder (e.g., `/SYS_MAP_OS_4BLOOM/`, `/SYS_EDU_PEDS/`)</tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 165 (chunk 165/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "module",
+    "profile",
+    "artist",
+    "identity",
+    "system"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

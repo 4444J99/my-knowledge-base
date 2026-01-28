@@ -1,0 +1,26 @@
+{
+  "id": "bf5e3d65-8fb2-453d-bf8e-b5af1168cd4c",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>When a new version supersedes an old one, do not erase the older artifact. Instead:</div>\n<div><br></div>\n<div>Create a new artifact with an incremented VERSION field.</div>\n<div>Include in its SEAL an explicit “supersedes” field with references to prior versions.</div>\n<div>Update manifest indexes to mark older versions as superseded, not deleted.</div>\n<div><br></div>\n<div>4.3 Text-Based Index Format</div>\n<div><br></div>\n<div>For every major subdirectory, maintain a manifest file, for example:</div>\n<div><br></div>\n<div>$ARCHIVE_ROOT/meta/index_worlds.tsv</div>\n<div>$ARCHIVE_ROOT/meta/index_sessions.tsv</div>\n<div>$ARCHIVE_ROOT/meta/index_characters.tsv</div>\n<div><br></div>\n<div>A simple line-based format is sufficient. For example, a tab-separated line:</div>\n<div><br></div>\n<div>idnamelayerdomaintypeworld_idtimestampversionpathtags</div>\n<div><br></div>\n<div>Example entry:</div>\n<div><br></div>\n<div>WORLD-MYTH-SPEC-CORE-0100-v0_2Core Mythos SpecWORLDMYTHSPECWORLD-0100202511230015v0_2$ARCHIVE_ROOT/worlds/world-0100/core-spec-v0_2.mdmyth,seed,primary</div>\n<div><br></div>\n<div>Future AIs are instructed to:</div>\n<div><br></div>\n<div>Read manifest files first when orienting to a directory.</div>",
+  "context": "From document: 0.\tPreamble and Scope — chunk 18 (chunk 18/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "b3360b527d494aeb150b316c90472eb0",
+  "relatedUnits": [],
+  "keywords": [
+    "archive_root",
+    "manifest",
+    "example",
+    "meta",
+    "when"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

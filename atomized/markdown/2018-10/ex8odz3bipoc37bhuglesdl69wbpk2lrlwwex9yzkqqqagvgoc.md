@@ -1,0 +1,31 @@
+---
+id: e2e189d2-44f1-483a-9b45-5b6018cffafa
+type: insight
+created: '2018-10-05T22:17:31.000Z'
+document: 15981fe11fce83e658f6940d49a17e08
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    ex8odz3bipoc37bhuglesdl69wbpk2lrlwwex9yzkqqqagvgocoieyund64l1tbhrfbjrd3b4s7zs846t8szp9wxxxxfssmnjdsszohcbrvte
+  - nj0cbasd7rzraixn0va9i5aypkx9ukkuzs
+  - uo6e6slyfs0q7v0saxi6uyoomm7z7gensbwbz9to7eonfx9a5c952iujcuu
+  - pcuafiekyfbdmba0sbv2ly24kijhyse66glzbzrnmyxoulzveoe16e1aoutpyfam27j32
+  - 3o8ettz41tjv6i65tmelgwoiddz5jtcoaztx1ncsd
+---
+# eX8odz3bIPoc37BhuGLEsDL69WbPK2lrLWwex9yZkQQQAgVGoCOIeyUND64l1tBhRfbjrD3B4s7zs846
+
+## Context
+From document: Mike’s Mom’s Spanish Rice — chunk 123 (chunk 123/565)
+
+## Content
+eX8odz3bIPoc37BhuGLEsDL69WbPK2lrLWwex9yZkQQQAgVGoCOIeyUND64l1tBhRfbjrD3B4s7zs846t8szP9wxxxxfSsMnjDSsZoHcbrvtE+Nj0cbaSD7RzrAIxN0va9I5AyPkx9UkKUzS/Uo6E6sLyFS0Q7V0saxi6UYOOmm7z7GenSbWbz9tO7eOnfx9a5c952iuJCuu+PcuafiEkYFBdMbA0sBv2ly24kijhYse66GLzBZRNmYXoulzveoE16e1AoutPYfAm27j32/3o8eTTz41TJv6i65TMELGwOiDDz5JTCOaZtx1NcSd+oxLg3tYZ8GCuvDD1KO8fnrRc5+4//e/Z3TJ2w+bRtwZ/CA7xDqJ+JMWbZatw7G0WVdCXHzh4wg/4TBGYOggXHSAaunUekxrr01PmNmKSx8Dw6STThrKhStPXBis18jNn29oqcf7U882KNq++WX5/e//EMrfu/fm3cpYSVvrp9Xs8wJzJokmBHJHQMQ96GBolGjMraGmU/QbKiOLWNeSiBThhw37sOTvedRRx5TSwC/c0i63gJVFVIRlcaYvQ6sQ9z59dg7lZ5GcL38l55V0JlYXdEppaUIowBGrpx+unp3mU0891yVty8fcD1h0afeiR9xokC/qA+4Td2aBovH867333jdMIy0fPzzn9dBFXKOS9Nl3k7nkkstL8jMYtjhxbjAmp0/Ior7uRsiYabHwtR6rIe644iTlYwMNiCBE1cLVo7yWVtzRJ+5xsxcWJ424s7iWOll99TVKclu8ckdbA7LZZt1JoR/XBvKsSfDvZz1Pa69NT9LWHkwdLKin7H477cvEoNH09aqrri3JXo/3p55tEG5bvtz+OS56lIF69u9zXklbG43TzOvcmZEEEAIFRqDjiDuk4dJLrwgWVR0euq+wAwlkEKulNdRJxB0f7nKNl1mY8LW2sPiNWtpJ1ikLa9PrUQtekYg71t7bbrsr9IeFPG633Q5uww03Di2trAGgrI0m7rari+EWPbLoFjmwiPrP6tlp4sPsp23nLNgjb9w+7F70uM0224Vh0og7PsPReP41u2WYXkXdu/xw/nk9dJH0sMCSN/Xvp4+PNffxZWeBoT2zfPEdZtCS9LdlsHOMlQm/d4vP0QhZLW5YfjqcV0Pcsb5G49v1gAEXleT1F2HWo7yWR9zRJ+5Jeki8NOJuLk9Y3uPy
+
+
+
+---
+*Source: Document 15981fe11fce83e658f6940d49a17e08*

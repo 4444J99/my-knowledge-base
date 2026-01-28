@@ -1,0 +1,26 @@
+{
+  "id": "be945867-8269-4ed6-b5de-6ff6200b905e",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px",
+  "content": "<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants ChatGPT to always ask before committing information to memory, clarifying whether it should be applied universally, locally, or project-wide. User also wants ChatGPT to suggest custom instructions whenever an opportunity presents itself, and to explain the macro and micro outcomes of those instructions.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants ChatGPT to actively alert them when they are being redundant, unclear, or otherwise suboptimal in communication. They expect ChatGPT to be smarter, more aware, and capable of guiding with precision. User wants ChatGPT to cross-reference all threads when making a suggestion and cite relevant past entries. They want ChatGPT to identify and categorize different types of threads they’ve created based on behavioral patterns. User expects the system to behave like a growing avalanche—building momentum, memory, and structure without forgetting or losing information.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_051425_MASTER — chunk 28 (chunk 28/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "5e4feb3febe2be13a91fd74e828ebc64",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "chatgpt",
+    "wants"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

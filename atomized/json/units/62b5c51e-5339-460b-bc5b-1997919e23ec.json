@@ -1,0 +1,26 @@
+{
+  "id": "62b5c51e-5339-460b-bc5b-1997919e23ec",
+  "type": "insight",
+  "timestamp": "2025-12-11T22:42:12.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Option D: Micro-experiments. 5–10 minute pieces testing different hypotheses. Failures are data.</div>\n<div><br></div>\n<div>AI: Format: Iterative prototyping with small audiences (10–50 people) at regular intervals. Direct observation of what works, what breaks, what surprises.</div>\n<div><br></div>\n<div>AI: Outcome: Working theatrical piece + documented case study showing how narrative functions under real-time audience influence. Publishable research contribution.</div>\n<div><br></div>\n<div>ANTHONY: Flexibility: Need two weeks to let something simmer? Fine. This is exploratory, not Gantt chart bullshit.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>Phase 3: Codification (Weeks 8–12)</div>\n<div><br></div>\n<div>AI: Collaborative documentation extracting principles:</div>\n<div>- Parameter mapping methodology  </div>\n<div>- Failure modes vs. emergence patterns  </div>\n<div>- Writer's workflow and infrastructure needs  </div>\n<div>- Governance and creative authority protocols</div>\n<div><br></div>\n<div>ANTHONY: We write this together. 15–20 pages essayistic + visual diagrams. Not me documenting you—both of us articulating what we learned.</div>\n<div><br></div>",
+  "context": "From document: Chris— — chunk 4 (chunk 4/7)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "f016dcc60da04b8263d223f729e753ea",
+  "relatedUnits": [],
+  "keywords": [
+    "what",
+    "anthony",
+    "weeks",
+    "this",
+    "option"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

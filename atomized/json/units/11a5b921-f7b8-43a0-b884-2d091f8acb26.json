@@ -1,0 +1,26 @@
+{
+  "id": "11a5b921-f7b8-43a0-b884-2d091f8acb26",
+  "type": "insight",
+  "timestamp": "2025-12-03T05:00:13.000Z",
+  "title": "<li><b>Main Performer:</b> Controls core “dangerous” elements and the structural",
+  "content": "<li><b>Main Performer:</b> Controls core “dangerous” elements and the structural flow of songs.</li>\n<li><b>Rotating Band Members:</b> Handle melodic parts, solos, and synchronize with the main performer.</li>\n<li><b>Audience:</b> Aggregated input drives mood, tempo, and tonal shifts.</li>\n</ul>\n<li><b>Software Infrastructure:</b> Modular “song” environments allow rotating participation and audience-driven variations.</li>\n<li><br></li>\n<li>---</li>\n<li><br></li>\n</ul>\n<div><h2>2. Objectives</h2></div>\n<ol>\n<li>Define a <b>Contextual Awareness Subsystem</b> that supports dynamic band rotations and interactive audiences.</li>\n<li>Enable secure, <b>real-time audience and performance data relays</b>.</li>\n<li>Build a <b>modular live performance architecture</b> supporting streaming and touring.</li>\n<li>Deliver live experiences <b>actively shaped by audience input</b>.</li>\n<li>Produce a <b>prototype performance engine</b> demonstrating nightly band changes and audience influence.</li>\n</ol>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div><h2>3. Project Scope</h2></div>\n<div><br></div>\n<div><b><h3>In Scope</h3></b><h3><br></h3></div>\n<ul class=\"Apple-dash-list\">\n<li>Development of software layers for main performer, rotating band, and audience input.</li>",
+  "context": "From document: Project Charter: Contextual Awareness and Audience-Interactive Live… — chunk 2 (chunk 2/15)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "6c79b8186fe335c5c6f24948326d3edf",
+  "relatedUnits": [],
+  "keywords": [
+    "audience",
+    "band",
+    "main",
+    "performer",
+    "rotating"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

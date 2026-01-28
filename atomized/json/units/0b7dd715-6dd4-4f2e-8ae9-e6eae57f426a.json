@@ -1,0 +1,26 @@
+{
+  "id": "0b7dd715-6dd4-4f2e-8ae9-e6eae57f426a",
+  "type": "insight",
+  "timestamp": "2021-01-19T00:35:49.000Z",
+  "title": "<div>An artist travels the country painting and replacing hotel art with their o",
+  "content": "<div>An artist travels the country painting and replacing hotel art with their own</div>",
+  "context": "From document: An artist travels the country painting and replacing hotel art with…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "43f5bce4ecf1cdb5d91f05e3b16f83ad",
+  "relatedUnits": [],
+  "keywords": [
+    "artist",
+    "travels",
+    "country",
+    "painting",
+    "replacing"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

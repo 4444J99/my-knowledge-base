@@ -1,0 +1,31 @@
+---
+id: eb2e3afc-4624-442b-a397-78a47ab3055c
+type: insight
+created: '2018-11-06T20:47:41.000Z'
+document: 8c3ce8993066f857adca061d250e2c68
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    fabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabu1v
+  - vq1nb
+  - wcux8f5uaavfffabrrrqauuuuaf
+  - kkkkaciiigaooooakkkkaciiigaooooakkkkaciiigarz3xp
+  - wbbfehv57rn
+---
+# FABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFF
+
+## Context
+From document: Octatrack Tips & Tricks — chunk 1881 (chunk 1881/2544)
+
+## Content
+FABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABU1v/rl/H+VQ1Nb/wCuX8f5UAaVFFFABRRRQAUUUUAf/9T9/KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigArz3XP+QpP/wH/wBBFehV57rn/IUn/wCA/wDoIoAtaF/y3/4D/Wugrn9C/wCW/wDwH+tdBQAV5Z8avizoXwN+GWtfFPxLaXN9puhi3MsNoEad/tE8duuwSMi8NICcsOAe/Fep18W/8FDv+TO/iD/u6Z/6c7WgDa8XftjfD3wd4S+F/jC/0jVJrX4rNCunJEkHmW5mERH2gNKAMeaM7C3Q+2frivgn4YfBZfjL+zt+z5Hq2tSWOg+GLPStXurCKFGbUZ7aKNrZGmY7o40cEuFB3g44IBHnXxF/ac/aSj/a38T/ALOPwi0jStVIsLVtOkvkeOOxklgtria7u5EbLxIrSKEABLMmNxG1gD9O6K/I0ftT/th/C/4q3f7OnxA8P6N4w8d+ILeKXw3dWIa3s907sDLP/qy1vGiSM2FRwYyCSDuXs/D/AMf/ANqf4O/tGeEPhD+0n/YmtaP8QXMVje6PG8awTMdiqjOsRYLIUV1dCcMGDHoQD9P6KK+H/wBlb4+/EL4h/Eb4q/CP4s/ZBr/gLURHbNawmAT2TPJH5m0s2fuI2eOJFoA+4KK/Nn9m79sjxZ8Xf2mPF3wx16G1i8KuuoyeG54oiklwmn3Qh+aQsQ5ePc5wBjaa63Tf2o/E2oftQfEvwnPcWdp8LfhVo73eq3ZhLzm6jjQugkDcEOZAF2nPlEDkigD75or8vfAvxY/bk/ab0y5+Jvwcj8OeA/BTTyJpcOsJJPdXyQsUZndI5Rt3gqWVY8EYXdgtXrH7Pn7U/i34hW3j34b/ABS0WDw58Uvh3bzS3ltCS1tdRxqcTxKS2FDFAw3spDoythsKAfdVeCT
+
+
+
+---
+*Source: Document 8c3ce8993066f857adca061d250e2c68*

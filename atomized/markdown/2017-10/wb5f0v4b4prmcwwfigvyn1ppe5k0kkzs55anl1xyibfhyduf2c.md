@@ -1,0 +1,32 @@
+---
+id: 0d4eb806-2d39-4179-9960-0b39cbcdad61
+type: insight
+created: '2017-10-10T23:16:34.000Z'
+document: 64a95cd2950865cc023eedad1ff9b65d
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    wb5f0v4b4prmcwwfigvyn1ppe5k0kkzs55anl1xyibfhyduf2cga4hifgoqcvhesya6numwxb0hc0wfers4jrltwrcqjgijk4ifovcnzquyjjrc8rbv2jois1msgmdd7ibyzqe6pia63eoddoowczzmcawtxl7d3yulejdu
+  - k0xbdqwihpekypx3iggcy7groeayy0i9lrlue5no
+  - hinexuosc5xn9xwg
+  - >-
+    ezh8zls3tjbnblmqybnggngoaeqaysloljkwwz7jw4d0iislxesdysqvo8lcs9stu4x2p7uwtm3cayue5d1hnpirvoxscqdeev7m9eywoyykfg
+  - zf7oq79nc8tif
+---
+# wb5f0V4B4prMCWwfIGvYN1PpE5k0kKzs55Anl1xyibfhYDuF2cgA4HiFgOQcVHEsYa6numWxb0HC0wfE
+
+## Context
+From document: sign -- signifies t signified ___________ iz'ag — chunk 18 (chunk 18/273)
+
+## Content
+wb5f0V4B4prMCWwfIGvYN1PpE5k0kKzs55Anl1xyibfhYDuF2cgA4HiFgOQcVHEsYa6numWxb0HC0wfERs4JRLtWRcQjGiJk4iFOVCnzQuYjJrC8RBv2JoiS1MSgmDD7IbYZqe6Pia63EOdDoOWczzmcawTXl7D3yULEJdU+k0XBdQwiHPEKYpX3iGGcY7GrOeaYY0I9LrluE5nO+ZJo/HiNexuOSc5xN9xwg/ezh8zls3TJbNbLMQYBnGgNgOAeqaysLOljkwwz7jW4D0IISLXeSDysqvo8LCs9stu4x2P7UWtm3caYuE5D1HNPirVOxSCQdeev7m9EYWoYYKfG+ZF7Oq79nC8TIf/ZVwjQCDILuQ/lvpMsLfrGdlQrLARmLopFc3doGrGG8U8dhTUo9TYvEODWFtLch2y4/9bPOXZfVtnW/h4xwU8ICasEBbISVosJTjRAGPCTy0iI1UOI2RetrovgBIR5813xZPe6+nv3mxXut2Q7UL8AsQMRIMg2QDSot0o8COojIB40rhNxEwWWY1P9jWKWR/yWTAM1ISAEhECxICABoFi2pMZRJQKQaJBFPMxDRKZCHBHdhrUO9iVVPZRX1RHWC7lPH3gYJHqrb9++/qEQMhFyj4dIiH+ilOk35A1R2N99952PWuYhDUIVAoKIRB4g+R0CAXYaEJMQm5ACWB9B+Cf6kEkEITUCmB8BgHXzIEtNhX79+nkBJVEBAII1IP9y6V1e1fYoxO/YJjykMyEEQD4jBiBusQ/dfffd9vzzz1uvXr18xHWqXtQBNux77KuB+BR8nugrJEOwn+KJHJCR7GtEXXIMQF4QdcgxBmHJ/gxBHE+kqm7d9BexikaEPyJUxcZxwvIRtSBjIE2SbUSm33vvvd7/m6wMhBKEPQjCRI+3RNZZVlbmI0mx75rp6oDkSgCgr1iCIXTQF/yhwZCo/mCbVhwP25wIabYFEbFE+zMWxJdEyKmKy2L51CoBX4hORE7OpVhTcD5VWxsBotQRhqmdgCicqnXX2kstrb84P2GDEkT6c+0n4p7oaghjMgmJ/M+ELzri/cUXX5wQ4IHAzjmHmgD0l2s/JG66DYGBKdGGAJDOPRLnZSxnsM4pxOOa+zUym+I17ocQTxFn2HcqyxCI99uKn3PNRPyH/CdjlHu//fbbz0fvI9ZUJ2hzjSXblExCyH/uKRHGESXI
+
+
+
+---
+*Source: Document 64a95cd2950865cc023eedad1ff9b65d*

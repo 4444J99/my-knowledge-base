@@ -1,0 +1,32 @@
+---
+id: b415e1d9-ac15-40ed-b57f-81e5f6800b7e
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ycnemexztwlcqluwkoukrlqtbld2suoqra4m8pr01sbwtsrijemxiv6iuvoxtvmni1ani2cnjb
+  - >-
+    ecdedmcakhagdkri6lmywiohwbargueygsytwjal7ioondgurvcpyny4yvebqbnnvxzotntqeijzoln49hhgeq7eeqveeqgjw3yjwpc2kvq
+  - dwqodf1ptiukfrdjjvbcqlbqaiegnbefqctvelcewwnw3psckza3i1ibq9rd2ujwd
+  - >-
+    uhzjtas9wpktyaqkapgvstplymsasufdsrxbdblnyvwns2vgjupq1ls0gyinbufaggmqqpyzqqcvugraulvtaw6u4w
+  - bkt8knl2fwutzjn5nserd
+---
+# ycnEmExZTWLCqluwKoukrLqTBLD2sUoQrA4m8pR01SBWTSRijeMxiV6iUVoxTVmNI1aNI2CNjB+EcdED
+
+## Context
+From document: New Note — chunk 18202 (chunk 18202/21099)
+
+## Content
+ycnEmExZTWLCqluwKoukrLqTBLD2sUoQrA4m8pR01SBWTSRijeMxiV6iUVoxTVmNI1aNI2CNjB+EcdEDMCaKhaGDkrI6LmYwIohWBarGuEYGSytWjaL7ioondGURvCpYNY4YVeBqBNNVxzOtNTqeIJZOLN49HHGEq7EEqvEEqgJW3YJWpc2kVQ+dWQoDF1PTiUkFrDJJVbCqlbQaIEgNBEFqCtvelCEWWnW3pscKZA3i1iBq9RD2ujwD+UhzJtAS9wpktYAqkapgVStplYmsASuFdSRxbDBlNYVwNS2VGJUpq1LS0gYiNbUfAgGmqQpYzQqCVUGrAULVtAw6u4w+BKt8knl2fwutZjN5NSerD/Jz+qG0cAjR6lg0TInAzKZ4zJ3jweIFqVi7Kh8nnzQZ5501B5dcsBDnnz0HO7ZPIVzNszBry0wPZhGqzprGY2a4iVTTsG5ZNo5dno3ViwOYNyMOTZNHBsFq8yisWhCN1YtimLAaiYVEq0tborBxTRouPqcRd99+In62/yL85qUb8fvf3IY//34vPnjzR0xXvQsfvnUn3vvdzXjv9avwh19djF8/vRPPPLoD++4/GXv3rMUVu2bjzO112H5CDbZvnood22ZYZcvGKdh17gr8cO/52P/YLXji8dtx333X08Ss49/L51hoNYuANIdJn0WVqQSruaiZVoiG2RVomFWOuqYiTJ5RjPkr6nHmrk2475Gb8fOXf4oHHr0V02dNxPCRAzBwyDFWymqcexQSfaOtdFUPU1a94g6JVQWsJqdFEa1GW1A1K9fDdFMvE2+TWvFqPN+XeBSV+jG1sQzLVszCiSetstDqT/ffRfv3Y5aHaAUfxmMH7sGemy7FqmPn8Rw+FBSnISc/mcd7iV/dRM1MQGUSqqSkZuelWcmq8xbPxLoNK7DppONw4rYNOP7EdZi/eDahZjn3QQqxeJwFVj1MWXW5Ywmi47jfY/nZZPHEcF/GWXA1RcAqXyfAIsmq7uRY/rwxiPFGw0PI2rK8BdfvvYFI9WW8zXTV1//6Jn789KM4+5KzsXHLKsyeP5lA1cv7wX2dEcnXjrP6ZRWpKK9KQwOR8Eknr8bDj97JP7u+gfc+eg8f/+MTfPoFk/D/9Rn+9tmnFlZ9443fYt++H/MfpV2IjSeuxey50zGtaTIaZ0xBXX0lCsuykFuUhvrpNdjxnZOZWHs/
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

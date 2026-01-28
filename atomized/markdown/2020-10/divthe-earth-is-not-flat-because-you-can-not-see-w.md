@@ -1,0 +1,42 @@
+---
+id: 4133d060-d617-488c-8986-22cdd7aa4215
+type: insight
+created: '2020-10-08T16:12:47.000Z'
+document: 20c4f8faaa6aab7c74e77c3036f7ca64
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: writing
+keywords:
+  - will
+  - this
+  - most
+  - because
+  - their
+---
+# <div>The Earth is not flat because you can not see where it curves.</div>
+
+## Context
+From document: The Earth is not flat because you can not see where it curves. — chunk 1 (chunk 1/2)
+
+## Content
+<div>The Earth is not flat because you can not see where it curves.</div>
+<div><br></div>
+<div>The Government are not reptiles in human masks even though our smart phones and their apps and notifications reprogrammed the reptile part of the brain to take center stage. </div>
+<div><br></div>
+<div>And...I suppose there might be 5-10 pedophile’s eating pizza somewhere in the world at this very moment, but definitley not at the same pizzeria, and they’re most likely related to you or me. Most sexual abuse is committed by people we know, not a cabal in dark robes drinking the blood of children to gain eternal life. See: propaganda. See: pathos. </div>
+<div><br></div>
+<div>None of this matters because delusion can not be confronted with reason. See: logos. </div>
+<div><br></div>
+<div>I’m talking to myself, aren’t I?</div>
+<div><br></div>
+<div>Only people who have been profiled by their willful, and most likely ignorant, participation in mass data collection as having a similar ‘personality’ to me will see this article.</div>
+<div><br></div>
+<div>And since I’m sharing it, so will my family, so will some old friends from the little tiny island I hail, and so will some new friends I made during my decade long journey to strengthen my mind through education and conversation of conflicting ideals and viewpoints (or as They like to call it: indoctrination). </div>
+
+
+
+---
+*Source: Document 20c4f8faaa6aab7c74e77c3036f7ca64*

@@ -1,0 +1,26 @@
+{
+  "id": "baee4b0f-dc26-45b1-a51f-2a82b5acd6b6",
+  "type": "insight",
+  "timestamp": "2025-11-05T02:08:19.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><b>Phase 10: Primordial Synthesis Engine Implementation</b><br></div>\n<div>  •  <b>T137</b> Create primordial‑synthesis‑engine in the org (Week 1)</div>\n<div>  •  <b>T138</b> Build personal repo analyzer to scan all 35 repos and generate cluster analysis (Week 1)</div>\n<div>  •  <b>T139</b> Aggregate existing AI contexts via chatgpt‑exporter into a unified DB (Week 1)</div>\n<div>  •  <b>T140</b> Build archive intake scanner for iCloud/Dropbox with checksums and metadata extraction (Week 2)</div>\n<div>  •  <b>T141</b> Process archive content: text, music (using maxmsp_ai patterns), and video metadata (Week 2)</div>\n<div>  •  <b>T142</b> Map relationships across archive files, AI conversations, personal repos, and org repos (Week 3)</div>\n<div>  •  <b>T143</b> Build a concept/timeline view of evolution (Week 3)</div>\n<div>  •  <b>T144</b> Generate consolidated documentation: complete creative history, concept genealogy, implementation queue (Week 4)</div>\n<div>  •  <b>T145</b> Create feedback loops that resurface archive material and suggest repo graduations (Week 4)</div>\n<div><br></div>\n<div><b>Phase 11: System Architecture Operational Steps</b><br></div>\n<div>  •  <b>T146</b> Audit existing resources (step 1 of system architecture)</div>",
+  "context": "From document: Below are the two hierarchical to‑do lists.  Each atomic task is separated… — chunk 28 (chunk 28/29)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "3d614fe05eaf43ed6ced45e9304621d0",
+  "relatedUnits": [],
+  "keywords": [
+    "week",
+    "archive",
+    "build",
+    "repos",
+    "phase"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

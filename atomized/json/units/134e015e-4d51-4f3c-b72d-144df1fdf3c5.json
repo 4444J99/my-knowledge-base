@@ -1,0 +1,26 @@
+{
+  "id": "134e015e-4d51-4f3c-b72d-144df1fdf3c5",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:18:05.000Z",
+  "title": "<div>  - Create issue templates (e.g., Bug Report, Feature Request).</div>",
+  "content": "<div>  - Create issue templates (e.g., Bug Report, Feature Request).</div>\n<div>- [ ] Add labels for issues:</div>\n<div>  - Examples: `bug`, `enhancement`, `help wanted`, `good first issue`.</div>\n<div>- [ ] Enable **Discussions** for community engagement.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **5. Set Up GitHub Actions**</div>\n<div>- [ ] Enable Actions in repository settings.</div>\n<div>- [ ] Add workflow files:</div>\n<div>  - Create `.github/workflows` directory.</div>\n<div>  - Add YAML files for CI/CD workflows (e.g., `build.yml`, `test.yml`, `deploy.yml`).</div>\n<div>- [ ] Use pre-built Actions from the GitHub Marketplace.</div>\n<div>- [ ] Set up secrets for workflows:</div>\n<div>  - Go to **Settings** &gt **Secrets and variables** &gt **Actions**.</div>\n<div>  - Add sensitive credentials (e.g., API keys).</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **6. Configure Security and Compliance**</div>\n<div>- [ ] Enable Dependabot alerts:</div>\n<div>  - Go to **Settings** &gt **Code security and analysis** &gt Enable **Dependabot** alerts &amp updates.</div>\n<div>- [ ] Set up code scanning:</div>\n<div>  - Add a workflow for **CodeQL** analysis.</div>",
+  "context": "From document: full best practices house keeping; — chunk 17 (chunk 17/24)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "3e83484e9c334693cb3ed7e0779f00e5",
+  "relatedUnits": [],
+  "keywords": [
+    "enable",
+    "actions",
+    "github",
+    "settings",
+    "workflows"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

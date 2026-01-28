@@ -1,0 +1,33 @@
+---
+id: 2f9fc1d4-2190-4911-9d56-244b3575c85d
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - eayupdi5zrjgjd5nsfu92
+  - >-
+    0i9g4auazega1ubwai5he3aitvqdj31hdcgymawg6npw6odrdsphfg8m4eqtq0gdt2zghtlkfnqmumcabpu3mbiwj
+  - >-
+    awdckubmj8r5pqbcnubw0kv607unhzfbixdebzfxqyrxayfn25angkdnajangqweqigquba4aaafgiyyl3aqzxdjmkurukagonagcpftypft7pu5njvs
+  - >-
+    fzduacwtctxsetqpytttv9grek7ui8hyeo4iaogge8xjb8c7jf10eubcygc6ilu8aqmqaljlz9yya6lejtykihqiep1rz
+  - blead
+---
+# EAYupDI5ZRjGjd5nsfU92+0i9g4AUAzEgA1uBwAi5hE3AiTVQDJ31HdCgyMAwG6NpW6OdRDsphFg8m4e
+
+## Context
+From document: Strike one — chunk 1477 (chunk 1477/4795)
+
+## Content
+EAYupDI5ZRjGjd5nsfU92+0i9g4AUAzEgA1uBwAi5hE3AiTVQDJ31HdCgyMAwG6NpW6OdRDsphFg8m4eQTQ0gDT2ZghTlkFnQmUmCABPU3mBIWj/AWdCKUBmJ8R5PqBCNUBw0kV607UnHZFbIxdEBzFxQYRxaYFn25ANGKdnAJANGqWEQIgQUBA4AAAFgiYYL3AqzXdJMKURUkAGOnAgCPFtypFT7PU5NjVs/+FzDUAcWTctxSEtqpYtTtV9GrEK7uI8hYEO4IAOGgE8xjB8C7JF10EuBCYgC6ILu8AQmqALjLZ9YyA6lEJTykIHQiEP1rZ/bleAD+M+5EALbqc+4/AO7VMjPyJidwUk6dAIXxNuOeYbhUCBANBYtMAKtJCBaXF4CIFki9cRTTZv7CQnkwdaCPGLSaOCeHEYU+h5COEDqYVFMzhmheMYwUF6+HQFDQQA/0QgB5RgcT94ELlwhAghhGmhZ0I4e3aWcQhRZSR3EKzHe0yWEbmFEHAAh1pYBiYDA2mEAzBgOcwiLAcBAgHwOSBAhvKFU+vRADqwSfYVHxchZAfBdHhRVR5Rh3VyiHTSAreTVWIIAOZiiJQkkSBidupRf8hGBwPhIwtYYtiQYsKADeOgiZnwf7fwDtVAPutwMRcTP3b3D+XQCCwAbjnGAocwY50wTbL4itUUWUaJEBlIBMgUB3fQQAo0Jw7QA0jjZAAgBxt0lWmCECPoF1OAjsQYg61lQqsycDVYZhpRAponliUAgwCQZmmxZYrnHz1oZxd3hBOHFxenUUS4Da9wEP/hwITBZQhNMAWMEV08wFIIZ0Iv0AMvAJeEcSAhQAZphAFEp32YBgIBCQEMADkIAQHfkX68MhgcQQeLUAgiomoeoQmqeRD28n4PkQywWYdcFRi7YAmaQEmhhBckgmm0sy6wUJu7+ZHwEQZXgGz2dwytFD915z3PNoAAQA68JFfrUwwpJiMWU5OtlIB0Fz/poAhgogSRcRAHNIGvOIuziJQeASY15gFVUI1U4wJWeRBywCYjWE6hFVpa+VnBGJaqQltj+Rhn2VqhV0/y5JajR1vBAZkdsQJDsAJZY40AQAkesZcfB5jf+I16lmem0JfmuITG9QdOdkXQpREUVAJXdHL/B/FThCFGy4FpB0F0GBAgv8KZmtZp4SJHOECGEABpmKYD9HcQZNCb3/J94JUWEVaH
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

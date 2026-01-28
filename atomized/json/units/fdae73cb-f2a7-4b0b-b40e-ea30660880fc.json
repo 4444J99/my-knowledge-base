@@ -1,0 +1,26 @@
+{
+  "id": "fdae73cb-f2a7-4b0b-b40e-ea30660880fc",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>&gt invoke-agent --uid {uid} --role &quot{data['agent']}&quot</div>",
+  "content": "<div>&gt invoke-agent --uid {uid} --role &quot{data['agent']}&quot</div>\n<div><br></div>\n<div>Or invoked in system rituals via:</div>\n<div>GPT.invoke(&quot{data['agent']}&quot)</div>\n<div><br></div>\n<div>## Manifestation:</div>\n<div>- Animated GPT voice</div>\n<div>- Code generation assistant</div>\n<div>- Mythic validator</div>\n<div>&quot&quot&quot)</div>\n<div><br></div>\n<div># Write global files</div>\n<div>(base_path / &quotSPELLBOOK_STUDY_SCHEDULER.md&quot).write_text(</div>\n<div>&quot&quot&quot# SPELLBOOK STUDY SCHEDULER</div>\n<div><br></div>\n<div>## Weekly Cycle: v1 Ritual Plan</div>\n<div>- Monday: Invoke Agent</div>\n<div>- Tuesday: Study Core Concept</div>\n<div>- Wednesday: Symbolic Fusion Log</div>\n<div>- Thursday: Integration Draft</div>\n<div>- Friday: Reflection &amp Myth Agent Update</div>\n<div><br></div>\n<div>## Invocation Ritual (Sample)</div>\n<div>To begin a study session with The Oracle:</div>\n<div>&quotTo begin, I must return.&quot (spoken aloud)</div>\n<div><br></div>\n<div>To awaken The Language Smith:</div>\n<div>&quotLet the syntax mirror the soul.&quot</div>\n<div><br></div>\n<div>To summon W4V3L0RD:</div>\n<div>&quotMotion is the root of memory.&quot</div>\n<div>&quot&quot&quot</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 339 (chunk 339/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "agent",
+    "invoke",
+    "study",
+    "data"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

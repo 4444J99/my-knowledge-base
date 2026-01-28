@@ -1,0 +1,26 @@
+{
+  "id": "983a34d0-0341-45e2-961f-147fa81a4e4b",
+  "type": "insight",
+  "timestamp": "2020-09-30T01:55:52.000Z",
+  "title": "<div>+$1,930</div>",
+  "content": "<div>+$1,930</div>\n<div>-$700 - Happy Money</div>\n<div><br></div>\n<div><br></div>\n<div>+$19,891</div>\n<div>-$3,311 - Apple CC</div>\n<div>-$2,411 - Amazon</div>\n<div>-$1,461 - Credit One Blue</div>\n<div>-$1,570 - Merrick</div>\n<div>-$1,505 - Capital One</div>\n<div>-$1,235 - Chase CC</div>\n<div>-$1,170 - Premier</div>\n<div>-$660 - CC misc.</div>\n<div><br></div>\n<div>+$6,568</div>\n<div><br></div>\n<div>-$120 - AT&ampT</div>\n<div>-$5 - Peacock</div>\n<div>-$25 - Avant</div>\n<div>-$104 - AG &amp Squarespace</div>\n<div>-$261 - Geico</div>\n<div>-$82 - iZotope &amp Affirm &amp Crunch</div>\n<div>-$700 - Happy Money</div>\n<div>-$81 - Internet</div>\n<div><br></div>\n<div>-$30 - FSCC</div>\n<div>-$40 - Legacy</div>\n<div>-$140 - Credit One</div>\n<div>-$15 - Prime</div>\n<div>-$32 - Apple One</div>\n<div>-$20 - Dropbox &amp Backblaze</div>\n<div>-$30 - Macys</div>\n<div>-$40 - Disney &amp Creative Cloud</div>\n<div>-$30 - Paypal</div>\n<div>-$90 - FPL</div>\n<div>-$50 - Affirm</div>\n<div><br></div>",
+  "context": "From document: DEBT — chunk 2 (chunk 2/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "9e653132537eb3d996061df35139a10d",
+  "relatedUnits": [],
+  "keywords": [
+    "happy",
+    "money",
+    "apple",
+    "credit",
+    "affirm"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

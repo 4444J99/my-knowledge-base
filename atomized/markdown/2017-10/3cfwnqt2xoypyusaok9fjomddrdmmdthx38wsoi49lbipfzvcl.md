@@ -1,0 +1,30 @@
+---
+id: 0c5b83fb-5739-4859-b504-90b10791c26f
+type: insight
+created: '2017-10-10T23:16:34.000Z'
+document: 64a95cd2950865cc023eedad1ff9b65d
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 3cfwnqt2xoypyusaok9fjomddrdmmdthx38ws
+  - oi49lbipfzvclbsxqr
+  - gbckoxklzffgfd0ms56rfmmcm8jj0fbz
+  - ej43q89pzjh7eeijmj
+  - jytsegvk4gx5u4wcvwhpuadwyf8vi0uyqkhxdp
+---
+# 3cFwNqT2xOyPyUSAoK9fJOmdDRDmMdtHx38wS/Oi49lbIPFzvCLbSxqR+ew/GBckOxkLZFFgFD0mS56r
+
+## Context
+From document: sign -- signifies t signified ___________ iz'ag — chunk 57 (chunk 57/273)
+
+## Content
+3cFwNqT2xOyPyUSAoK9fJOmdDRDmMdtHx38wS/Oi49lbIPFzvCLbSxqR+ew/GBckOxkLZFFgFD0mS56rFmmCm8jJ0FbZ/Ej43q89PzJH7EEIjmJ/jyTSeGVk4Gx5U4WCVwhPuADwYF8Vi0UyQKHxDP+R5QBGU3TuGdoLMoZx8yInDUF5+TSkn+Ar2Md9fx8pAlTCXj+f/fW2Kh8BinbjLOT+5n52cwQcgfwg4A6A/OBYpa0QoQxJTqolCxAiuU8SYYsT4Kcq3NpDhVOKL2z4HefA0+MsRD+c3C8ZNNtZkD0prXfI/0v2i4cUQ9p9TUQwZOceip5ILQgre8BEO1y+f0wf+kl7fKwWaNIw/MMbIoG/wBEQyQI1F8mbD0ulHJLeyMKLBdzVihYpK2I+2+su0QIRrUkWnQ1FRudqEPGPaF7veD8iv//fsEiGJ1M7SD8xn0SpM9dsCnIx0lD/o3knuv5IRWHk0nc2Ar9+NWFzRaDfcHQ8yAdle20KZSE7hGwV0kS/PiIexsAX/6YtSbt0/2iDTjrt1xrffKIDtECgWBZjpP4Ajq7mIv/ZPOCAaKQUXBw6RK+kfjbUwpzjBW+IHpq2SDqlShtmroi2IQSHhTiRS221yRjQIdLk5P7AsYHDjfuGyBs2AL3kCDhU77v/2jeuRUq2o/XjHIHti8Dnn39uTz31lNWpU8eWLVtmRIRCCLk5Ao6AI1AbEVi7dq298sor9v7771vdunUNLf9DDz3U+vTpUy44kFNr1KhRiLKn7dJs9OjRNnLkyCD3c9JJJ4UMrH333dceffRR47V169ZVOCtrniSF/va3v4UCwz/72c9s4sSJhpOjd+/e4fO/tH75c9UbgUDU57jWL2vEqX0Da9yyjLU+gUpI/bAHPblfTIE6MWWTbwl7Rtbv6NT/TdKuBDDxYA3PWppgnpTxHAQzmbU4EMrabxKQQ7APY4aIT9kG7RN0m0uvPgra6aK9JIR7KlOXPQLtcl5vBZq1abwl7HVOUBZAWfr8tM95BKg9NjZm87VPhhSnWC9tk4VA5gHODxwZ1Bxg3BTs/XhWzN4QEU+/IOupjVBSThdHCXu2ejsoS0FODfZtKXlerpsK4GPvAW44BWjnhUlm76jt6f2jaxM1/5cPk6FmwEe67osi1QmW2ndn1VbQsTvEqVOgBvUvG6OeA5nkFGA9vX/MBG8oLDxS
+
+
+
+---
+*Source: Document 64a95cd2950865cc023eedad1ff9b65d*

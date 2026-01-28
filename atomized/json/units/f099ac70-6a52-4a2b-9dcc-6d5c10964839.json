@@ -1,0 +1,26 @@
+{
+  "id": "f099ac70-6a52-4a2b-9dcc-6d5c10964839",
+  "type": "insight",
+  "timestamp": "2025-12-16T05:30:49.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>Prompt 2 – Breakdown of the Interactive Process as an Independent ADA Violation</b><br></div>\n<div>Analyze the ADA interactive-process requirement as a standalone basis for liability. Identify legal standards governing good-faith participation, unilateral employer decision-making, and failure to engage meaningfully after receipt of medical documentation. Apply those standards to a factual pattern in which the employee repeatedly requested full-time remote work, provided provider documentation, and objected to a staged return that ignored the chronic nature of the disability. Address how repeated demands for additional medical records after an IMC already confirmed disability status may evidence bad faith rather than diligence.</div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>Prompt 3 – Retaliation Framework: Temporal Proximity and Escalating Adverse Actions</b><br></div>\n<div>Develop a retaliation analysis under the ADA using the McDonnell Douglas burden-shifting framework. Focus on temporal proximity between protected activity (accommodation requests, internal complaints, OEOP filings, EEOC charge) and adverse actions (increased in-office demands, heightened scrutiny, removal from assignments, non-renewal framed as administrative). Construct a causation narrative demonstrating escalation following protected activity, supported by employer communications and timeline evidence  .</div>",
+  "context": "From document: Below are deep-research prompts designed to generate a litigation… — chunk 2 (chunk 2/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "7a833000eeae446ac24afb198f501b69",
+  "relatedUnits": [],
+  "keywords": [
+    "prompt",
+    "interactive",
+    "process",
+    "standards",
+    "faith"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,31 @@
+---
+id: dba54d85-9c6f-4c36-8731-a8ab7f53d642
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - eb7dsyjdxooqqfzqwikgz0
+  - 1hvls6vvmxy4bmpfbv0snzo8zcj6bb0qfzjd9fgeh5oebmr3fgmfcwf
+  - s07mtdbj328hze337tlkb
+  - 3h6iahiob5plhagd57
+  - >-
+    xbteusqhkhy0dwavunmgt99a8okfituq3mb48h0epcmp0auofjrplgy8twz1eltsay43hq11feluk7o9fezopxkgcqhqapoa8jiu5whot04zghumhyihmcdfoqloiqgec0rha5bzyqhaora6czev5m76xuadyf3au8a8tqwxe9cr0k41nn8lwquw1mc
+---
+# Eb7DSyJdXOOqQfzQwikGz0/1HVls6vVmXy4BmPfbV0sNzO8zcj6bB0QfZjD9FGeH5oebMr3fGMfcWF/s
+
+## Context
+From document: New Note — chunk 7211 (chunk 7211/8096)
+
+## Content
+Eb7DSyJdXOOqQfzQwikGz0/1HVls6vVmXy4BmPfbV0sNzO8zcj6bB0QfZjD9FGeH5oebMr3fGMfcWF/s07mTDbj328HZE337TLkb+3h6iAHIob5PLHagD57/xBTEUSQHkhY0DwAvuNmgt99A8oKfiTuQ3mB48h0EPcMP0AuOFjRPLgY8Twz1elTsAY43hQ11feLUk7o9feZoPXkgcQHqAPOA8JiU5wHot04zgHumHyIHMCdfOQLoiQGeC0rHA5bzYQHAORA6czEv5M76XuAdyF3Au8a8tQWxe9cR0K41NN8LwquW1mc+89gj3luDOsxljvI5x6fzJjo7OIffMOAH6vEuf5ZB6xbHAOgxQHgvPC91eSney6M2z/uCMQfzvzu/fkTB+0PsgI05pXt79/ZMM/C+z3YbBI+RBzyPl6o8Hkh+d7T99oNIg9zN9tm75QXoAecB5nfamMB5PEA879X60MH+98sgetpA8gDzAui3k8tHHeYB5L0APW1iss19YDx1BM6vsY+aMRTfiQPRY8xlffIA6aUo7wXqDWZGNd1B9AZpO7hd0DwQvYPe7b/1DHx2Y4Dz5DEHaN6U53tnGlgMPE/MIGmnWu/fC0r5H7i9aW3qkIMB8mNA8ovtN5Zhi4a9YRC6QfRmC+y/J+d/aPszjy0Z8ZbLITZ38J/cGHkGvvfG238rAswDz8u2RYzpMeVoU6Ef2gfQD3awvBTngefXhgzuxgyQ7wacNxi7x6BsB9C7WND7ToV+bfBgB9AbYG9w+5umrP4nU9y38w/6Xb/Nff8Pdp63qNO+etz7BtAPbt0Q+mHzupAhLRZrs7ltK0b/ud3qO7905Fsdi0e82WkfDHQt+OgVU17/owHkfwJO71o0zA+XA6QD0Q8A6N3dzzNldz887wD6Tns2QOqowrdYDQfQ4+kbPN9gz72RtoHrqMc7gB5wHrN1HRgPLA84b+tRz40tGfZaC8Y8VOrtmTWtHDOozj6MeElba7m9vmfK+P53octq8lEA5wGc7wf7iZFj+U6Bfv6Hf7Q1Aej/ZGr0rxtU74foF3xoSvQG0BtYb++eH54XTA88b3fZYnfaaB9CmLr+W6bg74fnl48wdX8D6PEG0Ldiy0113sD55rhx7zcC0S8d/pZTq1842GobRL/kg1d8C9+1d/gdg+ff/YNB9H90Nu/tf/LNH2S/WYD4O793Y4ts
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

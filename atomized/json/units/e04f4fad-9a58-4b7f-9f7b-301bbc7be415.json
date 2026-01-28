@@ -1,0 +1,26 @@
+{
+  "id": "e04f4fad-9a58-4b7f-9f7b-301bbc7be415",
+  "type": "insight",
+  "timestamp": "2019-04-11T16:47:39.000Z",
+  "title": "<div>A Midsummer Nightmare</div>",
+  "content": "<div>A Midsummer Nightmare</div>\n<div><br></div>\n<div>Midsummer Night’s Dream as horror</div>",
+  "context": "From document: A Midsummer Nightmare",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a82e108a9aed0f49569ee6577b207d2f",
+  "relatedUnits": [],
+  "keywords": [
+    "midsummer",
+    "nightmare",
+    "night",
+    "dream",
+    "horror"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

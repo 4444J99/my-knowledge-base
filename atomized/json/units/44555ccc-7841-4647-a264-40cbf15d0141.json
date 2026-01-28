@@ -1,0 +1,25 @@
+{
+  "id": "44555ccc-7841-4647-a264-40cbf15d0141",
+  "type": "insight",
+  "timestamp": "2025-02-03T19:09:46.000Z",
+  "title": "<div>ABHES Faculty Data Form</div>",
+  "content": "<div>ABHES Faculty Data Form</div>\n<div><br></div>\n<div><br><br></div>",
+  "context": "From document: ABHES Faculty Data Form",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "e1cd01d9d3d01d0c38fcef9cd7a3d1f1",
+  "relatedUnits": [],
+  "keywords": [
+    "abhes",
+    "faculty",
+    "data",
+    "form"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a1c99fb0-d263-47e7-a6a9-d5ab04d8f1f5",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div>1. Profiles:</div>",
+  "content": "<div>1. Profiles:</div>\n<div>   - Create `Core Dev` profile (Command Palette: Profiles: Create). Enable just: Copilot OR Gemini (pick one), GitLens, Python, Pylance, YAML, Docker/Kubernetes if needed.</div>\n<div>   - Keep transparency profile separate (`Transparent`) with vibrancy extension added.</div>\n<div>2. Extension Hygiene:</div>\n<div>   - Uninstall or disable extra AI stacks you’re not actively comparing (e.g. ChatGPT, Gemini, Windows AI Studio) in `Core Dev` profile.</div>\n<div>   - Remove duplicate Pylance versions (old folder). In Extensions, uninstall/reinstall Pylance to clear stale directory.</div>\n<div>3. Neovim Stability:</div>\n<div>   - In your Neovim `init.lua`: wrap VSCode-specific requires:</div>\n<div>     ```lua</div>\n<div>     if vim.g.vscode then</div>\n<div>       -- VSCode-specific config only</div>\n<div>     end</div>\n<div>     ```</div>\n<div>   - VS Code settings: remove `extensions.experimental.affinity` unless you need CPU pinning.</div>\n<div>4. Transparency Optimization:</div>\n<div>   - In settings, set:</div>\n<div>     ```jsonc</div>\n<div>     &quotvscode_vibrancy.forceFramelessWindow&quot: false,</div>\n<div>     &quotvscode_vibrancy.refreshInterval&quot: 0,</div>",
+  "context": "From document: User: fix — chunk 30 (chunk 30/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "profile",
+    "pylance",
+    "vscode",
+    "profiles",
+    "create"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

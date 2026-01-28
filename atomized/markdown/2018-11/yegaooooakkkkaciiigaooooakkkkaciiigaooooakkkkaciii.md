@@ -1,0 +1,31 @@
+---
+id: 795aa3b5-9e71-42c2-a67a-f608d0f50644
+type: insight
+created: '2018-11-06T20:47:41.000Z'
+document: 8c3ce8993066f857adca061d250e2c68
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    yegaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigd
+  - 1p38ooooakkkkaciiigd8
+  - acap4g
+  - wdtp
+  - sla439p
+---
+# YegAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACi
+
+## Context
+From document: Octatrack Tips & Tricks — chunk 1852 (chunk 1852/2544)
+
+## Content
+YegAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD/1P38ooooAKKKKACiiigD8/f+CnP/ACaP4g/6/wDTP/Sla439p/4s3Pw1/YS8KaFoTM3iHx5oukaDYRx8ykXVpH9oZVHP+pDICOjutfefxO+FngP4yeEbjwJ8SNM/tfQ7qSKWS386a33PCwdDvgeOQYYZ4bB718i+Nf2aPGHjr9qL4Za/e2lta/CT4T6en9mWxuDLNJfRKDGSjbmwrJByxJIh5OWoA9u+D/wJs/hv+zVpnwOUrHMdGmtL2VeQ15fRsbmTPcebI23/AGQB2r4a/wCCXOo+CvAfhrx18J/EzW+ifEnT9dmF/a3LLFdS20MaRRhN2C6RSLKCFztLbjw4z+uVfMvxj/Y9/Z7+O+rDxF8QvCyTa0FCG/tJpbS4kVQABK0LKJcAAAyBiBwCBQB8ceLNT8OeOP8Agpz8P7r4TSw3154f0e6Hia8siJIVVYbiMJO6fKXUSRxkknazRqeVwM/w1+zZ+3H4B+MHjT4v+GbvwTq2veK7mTGoaxLeT3UNnvPlwRBIkSJNgRSqg8Iqg4GK/Qv4Ofs+/CD4B6ZcaX8K/DsOji9INzPuee5nK9BJPMzyFR1C52qScAZNezUAfgf4Uh/bGP7ePjKPSp/CY+KQ8Pxfb3lFz/ZBsdllt8rC+b5mPKzkYzu9q/aPT/ir4IXxhafCnVvEVgfHhtUnm0yKT98f3XmO6oedmMsM/wANR2HwX+GmmfFbUvjdY6N5XjXV7NbC61D7RcN5lsoiATyTIYF4hT5ljDcdeTmofgT8Kj8XB8djof8AxXIg+zDUftNz/qfK8nb5Hm+R9zjPl575zzQB6D4muNas/Dmq3fhyCO61aC0nezilz5clysZMSPtIO1nwDgg4718a/su/tO+
+
+
+
+---
+*Source: Document 8c3ce8993066f857adca061d250e2c68*

@@ -1,0 +1,26 @@
+{
+  "id": "889c3297-e0a8-4959-9e8b-c417ffb22caf",
+  "type": "insight",
+  "timestamp": "2025-03-30T09:06:16.000Z",
+  "title": "</td></tr>",
+  "content": "</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><b><font face=\"HelveticaNeue-Bold\" color=\"#111111\"><span style=\"font-size: 18px\">Applied to all layers</span></font></b></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><font color=\"#111111\"><span style=\"font-size: 18px\">No static elements unless intentional</span></font></div>\n</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><b><font face=\"HelveticaNeue-Bold\" color=\"#111111\"><span style=\"font-size: 18px\">Subtle to pronounced</span></font></b></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><font color=\"#111111\"><span style=\"font-size: 18px\">Ranges from ambient drift to layered animation</span></font></div>\n</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><b><font face=\"HelveticaNeue-Bold\" color=\"#111111\"><span style=\"font-size: 18px\">Keyframes always used</span></font></b></div>",
+  "context": "From document: [layerType]_[sourceIdentity]_[version?]_[shape?]_[positionOrRole]_[blendMode… — chunk 5 (chunk 5/7)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "d2ea38f26347010911af0b975a50c2df",
+  "relatedUnits": [],
+  "keywords": [
+    "style",
+    "border",
+    "font",
+    "width",
+    "color"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

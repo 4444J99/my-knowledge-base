@@ -1,0 +1,26 @@
+{
+  "id": "aca6da58-c82d-4b66-b51e-cf3de18836ce",
+  "type": "insight",
+  "timestamp": "2017-06-21T21:16:17.000Z",
+  "title": "<div>Code Learning Tools</div>",
+  "content": "<div>Code Learning Tools</div>\n<div><br></div>\n<div>https://github.com/P1xt/p1xt-guides/blob/master/cs-wd.md<br></div>\n<div><br></div>\n<div>https://visualgo.net/en<br></div>\n<div><br></div>\n<div>https://codefights.com<br></div>\n<div><br></div>",
+  "context": "From document: Code Learning Tools",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "132094d0cb3ef25f8cfaddead93387e3",
+  "relatedUnits": [],
+  "keywords": [
+    "https",
+    "p1xt",
+    "code",
+    "learning",
+    "tools"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

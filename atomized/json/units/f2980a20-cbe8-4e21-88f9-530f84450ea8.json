@@ -1,0 +1,25 @@
+{
+  "id": "f2980a20-cbe8-4e21-88f9-530f84450ea8",
+  "type": "insight",
+  "timestamp": "2020-09-30T01:56:14.000Z",
+  "title": "<div>Unemployment</div>",
+  "content": "<div>Unemployment</div>\n<div><br></div>\n<div>$3,300 / $1,100</div>\n<div><br></div>\n<div>0 05/02 - Waiting Week</div>\n<div>1 05/09 - $247 X / $540 X</div>\n<div>2 05/16 - $247 X / $540 X</div>\n<div>3 05/23 - $247 X / $540 X</div>\n<div>4 05/30 - $247 X / $540 X</div>\n<div>5 06/06 - $247 X / $540 X</div>\n<div>6 06/13 - $247 X / $540 X</div>\n<div>7 06/20 - $247 X / $540 X</div>\n<div>8 06/27 - $247 X / $540 X</div>\n<div>9 07/04 - $247 X / $540 X</div>\n<div>0 07/11 - $247 X / $540 X</div>\n<div>1 07/18 - $247 X / $540 X</div>\n<div>2 07/25 - $247 X / $540 X</div>\n<div><br></div>\n<div><br></div>\n<div>Current: $5,337</div>\n<div>        $1,620</div>\n<div>        $741</div>\n<div>————————————</div>\n<div>        $7,698</div>\n<div><br></div>",
+  "context": "From document: Unemployment",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "2aaaf24ace4311fef9920db7c775d999",
+  "relatedUnits": [],
+  "keywords": [
+    "unemployment",
+    "waiting",
+    "week",
+    "current"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "5b0fbe78-dedf-403f-985e-a5f537831ede",
+  "type": "insight",
+  "timestamp": "2025-02-07T02:30:40.000Z",
+  "title": "<div><font face=\".AppleColorEmojiUI\">✅</font> Exploratory writing is messy. The ",
+  "content": "<div><font face=\".AppleColorEmojiUI\">✅</font> Exploratory writing is messy. The goal is momentum, not perfection.</div>\n<div><font face=\".AppleColorEmojiUI\">✅</font> Keep the conversation going. Let’s email and refine ideas together.</div>\n<div><br></div>\n<div>Would you like this formatted into a PDF workbook for easy reference?</div>",
+  "context": "From document: Writing Guide for Derek: Structure, Exploration, and Momentum — chunk 8 (chunk 8/8)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "3aa7ba88e0398dbd8c2e4244be7ac005",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "applecoloremojiui",
+    "exploratory",
+    "writing"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

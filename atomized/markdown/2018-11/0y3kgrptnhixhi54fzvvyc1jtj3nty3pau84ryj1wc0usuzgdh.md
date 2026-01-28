@@ -1,0 +1,32 @@
+---
+id: 3596c1f5-d278-46f4-a55b-16f30518ab5f
+type: insight
+created: '2018-11-17T18:19:07.000Z'
+document: e329ec4e43d47fccabf1e22882189db8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 0y3kgrptnhixhi54fzvvyc1jtj3nty3pau84ryj1wc0usuzg
+  - >-
+    dh3jnofokal87iglfyeycuoc1hbgrpemtzcthiwznv0rmgks8ocwtjgptpq4rq4lag0jbayhhghb5jpbqubfdplbis5gziwr69gkxzplslwah
+  - azzyar
+  - >-
+    iprgtxpb4dzrubbpbxpirwlwwttglw4lzoollyqd9kgb0ktilds2qcc5gcdttpgtpg86figon3ge1rbljz0bzmgcmscyoa4zg0aghpahu59qkc1cxqriviuey6zzye9z8ckng08nbjydoevwqsjexbzlsnykeud0qhu9qezcipp
+  - pegpm0zdffogu5zjjoecpp0p7xjhbzgibjbqkd
+---
+# 0y3KGRpTnHIXHI54FZVvYC1jTJ3Nty3PAU84rYj1WC0UsUzg/dH3jnofoKAL87IgLFyEyCuOc1HbGRpE
+
+## Context
+From document: Black Bean Salad — chunk 1307 (chunk 1307/2298)
+
+## Content
+0y3KGRpTnHIXHI54FZVvYC1jTJ3Nty3PAU84rYj1WC0UsUzg/dH3jnofoKAL87IgLFyEyCuOc1HbGRpEMTZCthiwznv0rMgkS8OCWTJGPTPQ4rq4LaG0jbayhhgHB5JPBqUBFdPLbIS5GzIwR69gKxzPLsLwAH/azzyar+IprgTxpb4dZRuBBPBXpirWlwWttGlw4LzOoLLyQD9KGB0KtILdS2Qcc5GCDTtPgtpG86fIGON3Ge1RBlJZ0BZmGcMScYoa4zG0agHPAHU59qkC1cXqRIViUEY6Zzye9Z8cKNG08nBjYdOevWqsJExbZlSnykeuD0qHU9QezCiPp/EO/PegpM0ZDFFOGU5ZjjOeCPp0p7XJhBZGIbjBQkd+9ULQXF4GBAGBk/wCApsjASC3GQ4P3cHse9BRsR3CPtYY3d88g1IDGx+Xap7rnOc+1UFhlEfIAKjJAyQB6n0qpIY7d5JrghgAOAcEZ6YpoZ//T8BG8YTOSnvx+VLyPvY+bnPQimcABwwG7nnrxS7y2FZgpPQjkGvDOwky6ljjdj3xkUjYY5UFVwD6jNMLMwIJJ2g8Y60gEUaBkBJ6kduatAOLMpDsMrjIHv60rNt2yDr/dxkc1GzcBuu4Y208u+Vx24K/ypgO37pCvXtyOtP3oE2EZJ4J6ce9MBL/Mhx6diD3oVW+4ep7dc0ATs/BeLmLoOPT0phbbhHyCRx70jJFEoJR92SMH7v6UkmcKrLgD054NAAQTkdj6elOHlbQsfzYzkAVHG8aksF3cDGe1ObgyPHwSBgDrkdaAHJNHHGjMT90Z46ntSA+Y6EKPl5ye2etRssZGQcZAwByc02QyIy+X0HJB6GruXclG8LtQBiepUdqHR1Rj/FkdPTvUpZcKcLGGGcA01cAgFt2BkHqfyouFxjRA7kIO1eeO9PDRqF8piVf+H0+tMI/5aSZIBBOP8KlByzqFULjKnvii4XHBVMbZGQO2Mnd2p2TKqq+CQOo6n6moGaVwVVQgAzkDr9alDRuFBbaRjkDnPfii4XJFVuRtVR3IJx+VJGkYdnXhhxxwuB0zTSQH2lsg+ox+lCIHkEZzEFOCex79KlEonZjEg87lW/iXmhVcYDc55Cng8U99sSbAQQeR9PUVE5YspYkEDgr61ZYeWcnksW7+gHY0gxs2E8AYJ9AT0oU5y4PJ+8PXFSDY7kAZXA4
+
+
+
+---
+*Source: Document e329ec4e43d47fccabf1e22882189db8*

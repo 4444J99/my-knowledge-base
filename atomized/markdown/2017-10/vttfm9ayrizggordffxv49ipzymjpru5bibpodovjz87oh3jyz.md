@@ -1,0 +1,32 @@
+---
+id: 8ddc8f0a-3cf9-4e61-be61-b408aa3cb5ce
+type: insight
+created: '2017-10-10T23:16:34.000Z'
+document: 64a95cd2950865cc023eedad1ff9b65d
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    vttfm9ayrizggordffxv49ipzymjpru5bibpodovjz87oh3jyzpgmwdxbypyxxibl8ay1sdwaf6qwzmnqhwtzypmp1a3qrrmyc
+  - jhgrcexgtkjknyp9nomfm2wbs
+  - dycjza0wud
+  - >-
+    7tpywiwtwspwr2et2co1rja6yxrqj4xduuccegsoqa30m9fbmjfrqqrew7ti960ysik0lmkodjbxkwlrfibbkbrcarsarmjwlgdszusv4it5oxaihgjz
+  - 5ydm507lxfyeauqkriqxsy07zd
+---
+# VTtfm9AyrIZggoRdffXV49iPZYMjPRU5biBpoDoVjZ87oh3JyzpGMwDXbypyxxIBL8Ay1sDWAF6Qwzmn
+
+## Context
+From document: sign -- signifies t signified ___________ iz'ag — chunk 204 (chunk 204/273)
+
+## Content
+VTtfm9AyrIZggoRdffXV49iPZYMjPRU5biBpoDoVjZ87oh3JyzpGMwDXbypyxxIBL8Ay1sDWAF6QwzmnqHWTZYPMp1A3qRRMYC+jHgRCeXgTkJKNYP9NOmFm2wbs/dycjzA0wUD+I/7tpywIWTWspwR2et2cO1RJa6yxRqj4XduucceGsoqa30M9FBMjfRQQRew7Ti960YsiK0lmkodjbxKWLRFIBBKBRCARSARmJwLGdsZusv4IT5oxAiHGJz/5ydm507lXfYEAUQkRiqxsY07zD/M0oj1jV3NY4hnzWAIl41xjW3MK3zMXNHcgaFFvzPe33377mGfIEFCsl/CF7etYc5ixwCCmY8tq3SxSWzMGcArmk+ZQghLmAxPdzlh9yM8SgUTgsQhkAOCxmOQ7iUAi0ILAdAQADKI///nPh386ZQ3lP3JuKhpiz6CnyXwYvk2qCmSlz9nSTEYJr+irgr9nnnlmpFiy/ekV+W8/2CgdeuihRXFVBP5YpPrw/UZsspJB0l544YXh4diQ1cOXnejfBoQGpexzYMPz37FHso7VqMUNVqlMDG573QxUDaSRw4JAyF42PuyKBKykzyLgEfrjNYN3BYDZwww/x+EtoMGaRtYGexyqHUEAA3pktACS9PPLLrssJqKsghSddYwM6pvMhPH6MZWfmxA4vjIfPKjvTQzgxirJcZ9X7Yymupl8SEX2cOxc4/qK8Pfaw6TKw2QKtgJozr/xlFBTvS+5vUQgEUgEEoFEIBHoLQJIVuMYwhUZlx/4wAdiPJh1AHqLe669BPG/2WablVNPPTXqfrEMlQ2MyCdEYqHrYWwrY4BNJYENy0vLmb8ax/qeOciOO+4YGfBI+W4082UZ/CxSZbq3ipKMq42f1bvLDIBuoJ3rSATaRyADAO1jlUsmAnMSgdYAAJKu141FDfIfUW1gggBux6amW/0SAJCiiExGlA9vFAtIcOTqWmutNfzjtv+mokd0mzQYbH3kIx/pKfnPm/yggw4K65/tttsuFNadqi3sr4Gm/WeV0g7B3S4gBoMnn3xyBEQMFFmzqPdgkDpek6VBjU39zmuy1w0pL3VW5oGiWQbY++yzTxStFayg/KJeH6/pK4sf1xUsKclbm+MDh3mVDJcNI/AEd774lPG+L1jmPDV4V5xLk4Vw2GGHBXkNQ8tPd3NsWDQh/gU91M8QNHG9US0J
+
+
+
+---
+*Source: Document 64a95cd2950865cc023eedad1ff9b65d*

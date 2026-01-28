@@ -1,0 +1,26 @@
+{
+  "id": "31127434-f139-4cf5-bef9-3bd22917d3e9",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt>│        ─────────────                                          │</tt><",
+  "content": "<div><tt>│        ─────────────                                          │</tt></div>\n<div><tt>│        ⮞ SYMNUM4GRAM (Text-to-Symbol Converter)               │</tt></div>\n<div><tt>│        ⮞ RGLE (Recursive Generative Language Engine)          │</tt></div>\n<div><tt>│                                                              │</tt></div>\n<div><tt>│        [INTERFACE MODES]                                      │</tt></div>\n<div><tt>│        ─────────────────                                      │</tt></div>\n<div><tt>│        ⮞ Terminal Mode       → (code, prompts, ritual CLI)    │</tt></div>\n<div><tt>│        ⮞ Text Mirror Mode    → (journaling, therapy prompts)  │</tt></div>\n<div><tt>│        ⮞ GUI Grid Mode       → (clickable symbolic rooms)     │</tt></div>\n<div><tt>│        ⮞ Audio Hang Mode     → (music, ASMR, ambient)         │</tt></div>\n<div><tt>│        ⮞ Myth Game Mode      → (narrative puzzle explorer)    │</tt></div>\n<div><tt>│                                                              │</tt></div>\n<div><tt>│        [FUNCTIONAL LAYERS]                                    │</tt></div>\n<div><tt>│        ──────────────────                                     │</tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 100 (chunk 100/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "mode",
+    "text",
+    "prompts",
+    "symnum4gram",
+    "symbol"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

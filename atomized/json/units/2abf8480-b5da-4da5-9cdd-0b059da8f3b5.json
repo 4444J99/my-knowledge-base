@@ -1,0 +1,26 @@
+{
+  "id": "2abf8480-b5da-4da5-9cdd-0b059da8f3b5",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🎮</font> 1. RPG System Fully Integrated</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Students create an avatar in Week 1. They:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Choose an archetype (which influences XP gains and play style).</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Customize their appearance (color, distinguishing features, literary inspiration).</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Select a starting tool or weapon that symbolizes their approach to learning.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Earn XP to level up, unlock perks, and evolve their character.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🛡️</font> Character Unlockables by Week</div>\n<div>  •  Week 1: Pick an archetype, tool, color, &amp defining traits.</div>\n<div>  •  Week 3: Unlock a secondary skill or ability (aligned to play style).</div>\n<div>  •  Week 5: Earn a mount (grants a small in-class privilege).</div>\n<div>  •  Week 7: Unlock a special charm or artifact (unique skill activation).</div>\n<div>  •  Week 9: Ability to re-spec their archetype if needed.</div>\n<div>  •  Week 11: Unlock final form transformation (based on cumulative XP).</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 32 (chunk 32/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "week",
+    "face",
+    "zapfdingbatsitc",
+    "their"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

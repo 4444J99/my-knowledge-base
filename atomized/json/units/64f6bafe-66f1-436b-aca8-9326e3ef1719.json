@@ -1,0 +1,26 @@
+{
+  "id": "64f6bafe-66f1-436b-aca8-9326e3ef1719",
+  "type": "insight",
+  "timestamp": "2016-09-05T21:43:00.000Z",
+  "title": "<div>Draft an email reaching out to visual artists</div>",
+  "content": "<div>Draft an email reaching out to visual artists</div>\n<div>—missions statement</div>\n<div>—emphasis on the blending/hybridization</div>\n<div>—not literal interpretation  </div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: Draft an email reaching out to visual artists",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "efe148392ccace9cec63260267cae70c",
+  "relatedUnits": [],
+  "keywords": [
+    "draft",
+    "email",
+    "reaching",
+    "visual",
+    "artists"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

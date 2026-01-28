@@ -1,0 +1,26 @@
+{
+  "id": "92dcb9c5-458b-4852-9eb7-fb3bc2392283",
+  "type": "insight",
+  "timestamp": "2015-03-07T01:19:40.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>10. ‘Option + drag’ the ‘Arpeggiator’ object to make a copy. Do this 2 more times so there are 4 ‘Arpeggiator’ objects in total. Name the ‘Arpeggiator’ objects ARP1, ARP2, ARP3, and ARP4.</div>\n<div><br></div>\n<div>11. Cable to ‘Monitor’ to the 4 ‘Arpeggiator’ objects. Connect them in order; first ARP1, then ARP2, etc.</div>\n<div><br></div>\n<div>12. Now, cable each of the 4 ‘Arpeggiator’ objects to the 4 Ultrabeat Software Instrument tracks.</div>\n<div><br></div>\n<div>13. Return to the ‘Main’ window. Create a new track of any kind.</div>\n<div><br></div>\n<div>14. ‘Control-click’ on the new track’s track header, and choose ‘Reassign Track &gt Mixer &gt Monitor’.</div>\n<div><br></div>\n<div>*You are now feeding the MIDI on that track to the ‘Monitor’ object in the MIDI Environment.</div>\n<div><br></div>\n<div>15. Select the ‘Monitor’ object track in the track list.</div>\n<div><br></div>\n<div>16. Show the ‘Step Input Keyboard’. Go to main menu: ‘Window &gt Show Step Input Keyboard’.</div>\n<div><br></div>\n<div>17. Set the Step Input Keyboard to ‘whole note’, and ‘Chord Mode’.</div>\n<div><br></div>\n<div>18. Press ‘Return’ to move the Playhead to the beginning of the project.</div>",
+  "context": "From document: CREATING EVOLVING DRUM PATTERNS IN ULTRABEAT USING THE MIDI ENVIRONMENT — chunk 2 (chunk 2/3)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a93647ef799f58e17284be64aa2db01c",
+  "relatedUnits": [],
+  "keywords": [
+    "track",
+    "arpeggiator",
+    "objects",
+    "monitor",
+    "object"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

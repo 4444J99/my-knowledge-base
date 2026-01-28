@@ -1,0 +1,26 @@
+{
+  "id": "0f0bc95b-355e-40bd-a1e0-652a8850c8a9",
+  "type": "insight",
+  "timestamp": "2019-07-12T13:53:19.000Z",
+  "title": "<div>What rule of nature have we violated? (the shining)</div>",
+  "content": "<div>What rule of nature have we violated? (the shining)</div>\n<div><br></div>\n<div>Ignoring </div>",
+  "context": "From document: What rule of nature have we violated? (the shining)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "84007c59afd9668f17eee1d8c86111fe",
+  "relatedUnits": [],
+  "keywords": [
+    "what",
+    "rule",
+    "nature",
+    "have",
+    "violated"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

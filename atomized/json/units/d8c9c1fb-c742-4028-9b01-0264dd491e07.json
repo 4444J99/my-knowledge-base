@@ -1,0 +1,26 @@
+{
+  "id": "d8c9c1fb-c742-4028-9b01-0264dd491e07",
+  "type": "insight",
+  "timestamp": "2025-02-25T16:23:22.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>                let  </tt></div>\n<div><tt>                [  </tt></div>\n<div><tt>                    go  </tt></div>\n<div><tt>                    [  </tt></div>\n<div><tt>                        &amp&amp  </tt></div>\n<div><tt>                        (  </tt></div>\n<div><tt>                            go  </tt></div>\n<div><tt>                            [  </tt></div>\n<div><tt>                                &amp&amp  </tt></div>\n<div><tt>                                go  </tt></div>\n<div><tt>                            ]  </tt></div>\n<div><tt>                        )  </tt></div>\n<div><tt>                    ]  </tt></div>\n<div><tt>                ]  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>                until  </tt></div>\n<div><tt>                [  </tt></div>\n<div><tt>                    gone  </tt></div>\n<div><tt>                ]  </tt></div>\n<div><tt>            ]  </tt></div>\n<div><tt>            ::  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>            ACHERON ::  </tt></div>\n<div><tt>            [  </tt></div>\n<div><tt>                carries  </tt></div>\n<div><tt>                [  </tt></div>\n<div><tt>                    what  </tt></div>",
+  "context": "From document: i :: \" WAIT ! ! ! / / / \\\\\\\\ ||| || | \" :: — chunk 4 (chunk 4/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "b537418280970b641227c12293fdb901",
+  "relatedUnits": [],
+  "keywords": [
+    "until",
+    "gone",
+    "acheron",
+    "carries",
+    "what"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

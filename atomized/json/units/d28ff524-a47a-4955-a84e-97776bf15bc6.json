@@ -1,0 +1,26 @@
+{
+  "id": "d28ff524-a47a-4955-a84e-97776bf15bc6",
+  "type": "insight",
+  "timestamp": "2025-04-12T18:55:22.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## ACTIVE THREAD INCLUSIONS (0412)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Reference | Title | Purpose |</tt></div>\n<div><tt>|----------|-------|---------|</tt></div>\n<div><tt>| PHASE_2.5 | Expansion + Classification | Artist vs Project logic, dream/real, UX UI addition |</tt></div>\n<div><tt>| PHASE_3A–C | Bootloader System | Process vs Product, Peer Mirror Logic, Ritual Engine |</tt></div>\n<div><tt>| ROB_FEEDBACK_001 | Peer Use Case (B2B) | Execution focus, burnout logic, pipeline clarity |</tt></div>\n<div><tt>| JESSICA_FEEDBACK_001 | Peer Use Case (UX) | Simplification, AI tool modularity, framing value |</tt></div>\n<div><tt>| NAMING_RITUAL_0412 | Syntax &amp Slug Rules | Dot = dimension, Underscore = thread, Mixed = avoid |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## ACTION HISTORY SNAPSHOT</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- [✓] Naming protocol locked  </tt></div>\n<div><tt>- [✓] Dual-ID logic accepted  </tt></div>\n<div><tt>- [✓] Folder structure updated  </tt></div>\n<div><tt>- [✓] UX/Translation system integrated  </tt></div>",
+  "context": "From document: SYS_EXPORT_0412_MASTER.md — chunk 3 (chunk 3/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "60056b349006bb4d33a341f0d2fad493",
+  "relatedUnits": [],
+  "keywords": [
+    "logic",
+    "peer",
+    "thread",
+    "system",
+    "case"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

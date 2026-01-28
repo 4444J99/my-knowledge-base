@@ -1,0 +1,26 @@
+{
+  "id": "02b92183-935a-49e6-96f0-0bfa62a3576b",
+  "type": "insight",
+  "timestamp": "2015-07-17T13:48:23.000Z",
+  "title": "<div>(Alright you can tell I'm mad about it (I don't know why I'm speaking to YO",
+  "content": "<div>(Alright you can tell I'm mad about it (I don't know why I'm speaking to YOU in parenthetically, when this whole point of this is speaking to you). You -- you've been here before haven't you? (Maybe not this exact position (there I go again (dammit))). Trying to figure out what to write. What face to where. </div>",
+  "context": "From document: (Alright you can tell I'm mad about it (I don't know why I'm speaking…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "3f23afca2fef83972393acf4d2190957",
+  "relatedUnits": [],
+  "keywords": [
+    "this",
+    "speaking",
+    "what",
+    "alright",
+    "tell"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

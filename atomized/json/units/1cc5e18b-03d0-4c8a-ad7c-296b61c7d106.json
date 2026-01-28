@@ -1,0 +1,26 @@
+{
+  "id": "1cc5e18b-03d0-4c8a-ad7c-296b61c7d106",
+  "type": "insight",
+  "timestamp": "2015-05-14T14:51:11.000Z",
+  "title": "<div>We are a radio</div>",
+  "content": "<div>We are a radio</div>\n<div>We are a television set</div>\n<div>Pre recorded programming pre ordained</div>\n<div>And looping...loopy.......looped</div>\n<div>Signal strength (Weak (this week))</div>\n<div>But never mind:</div>\n<div>We have slots for inputing information</div>\n<div>Stick something in to know what we are</div>\n<div>You can shut us off, the adapters/the receivers </div>\n<div>You can't shut off, the transmitter/the sender</div>\n<div>THE SOURCE ......of.......</div>\n<div>miscalculated misinterpreted misrepresented</div>\n<div>misappropriated misconstrued amiss</div>\n<div>Self appointed importance</div>\n<div><br></div>",
+  "context": "From document: We are a radio",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "617833bfb29c698da04da1e856b119a4",
+  "relatedUnits": [],
+  "keywords": [
+    "shut",
+    "radio",
+    "television",
+    "recorded",
+    "programming"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

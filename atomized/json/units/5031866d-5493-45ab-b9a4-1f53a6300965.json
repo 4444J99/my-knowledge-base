@@ -1,0 +1,26 @@
+{
+  "id": "5031866d-5493-45ab-b9a4-1f53a6300965",
+  "type": "insight",
+  "timestamp": "2024-01-04T19:45:26.000Z",
+  "title": "<div>This is Anthony Padavano reaching out again. </div>",
+  "content": "<div>This is Anthony Padavano reaching out again. </div>\n<div><br></div>\n<div>My healthcare provider does not have a fax machine and has not received any requests at this time, which she will happily provide, and would prefer to communicate via email @ [REDACTED:EMAIL ADDRESS].</div>\n<div><br></div>\n<div><br></div>\n<div>I want some sympathy and empathy during this process without what seems to be an IMC that is already entering this situation with judgments against mental health issues, which in itself is discriminatory.</div>",
+  "context": "From document: This is Anthony Padavano reaching out again.",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "7cf3e8ffe03d5d2ffeab927835489037",
+  "relatedUnits": [],
+  "keywords": [
+    "this",
+    "which",
+    "anthony",
+    "padavano",
+    "reaching"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

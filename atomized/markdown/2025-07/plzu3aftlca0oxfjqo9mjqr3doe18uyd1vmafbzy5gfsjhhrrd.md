@@ -1,0 +1,31 @@
+---
+id: 7af85d76-5633-48c4-a150-809cb8459149
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - plzu3aftlca0oxfjqo9mjqr3doe18uyd1vmafbzy5gfsjhhrrddnjdi7bumzjevhqxm
+  - kjh0mprer9cvd5u6zt6ee9frjgiydfocf
+  - wzmmfktiw4cha3cxeo72qob7jwyt5jc6gyrlthrm8ewrfhtgmmtyhfyh
+  - >-
+    zeomq6gj7h29ja0ctksmnliuqxm5bf3m3ovbpizshnixppxp2yolicvjxyqsj3olh6dxnr6t1rke81zvox8xiiycefzoqmbj9mj5e4gpr4q1wztggcpfd
+  - becmnel06heq2k
+---
+# PlZu3AftlCa0OXfJQO9mJQr3DoE18Uyd1VmaFBZY5gFSjHhrrdDnJdI7bumzJevhQxm+kjh0MPrER9Cv
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 4416 (chunk 4416/18928)
+
+## Content
+PlZu3AftlCa0OXfJQO9mJQr3DoE18Uyd1VmaFBZY5gFSjHhrrdDnJdI7bumzJevhQxm+kjh0MPrER9CvD5u6ZT6Ee9FrjgIydfOCF+wzMmfKTIw4CHa3cxEo72qOB7jwYT5Jc6gYRLThRm8EwrfhtGMmTYHfyh+ZEOmQ6GJ7h29jA0cTKSmnlIuQxm5BF3M3OvBPizSHniXpPXp2yoliCVJXyQsj3olh6dxnR6T1rke81ZVOX8XiiYcefzOQmBj9MJ5E4Gpr4q1WzTggcpfd+BEcmnEL06hEq2K/n8jHWCGx1j0bpg6xt7nU00o3OLiOqc0j3vra56qhqubBnDI6G10hbrr8ILJXliBwhIx2VYKrQOfIySLeWbxaX46zCqC8DGIDibfuLgZeBUeh9mxfWkASBYg3zJYYkPBkFp4UNIx4LO3JZV3EG6oAx5apTnUiSrBSoH43nrZ5LiUSOK4KuvTD9wXJHH/tVhePHtqFCLn5Wek8FIXAmYKA7kzRUaj3uyk7MmouiHCGGS16+0foAr4D3jGWuB/jeD99zpOpX8wIicoChPzCvaNuTTxTZ3VEmWICyzxAlEKHhDaip4KGsT1SLLyV59lCLV1g1T0RLFXLtAy9J2qChkCODZfq3lkMkTmjfax32oe9tpxKIfDzngcVdsCGwUo0b4zMfTrePr5bztY68JBeqbbrApniwQ555p+2+D+0d9+c/JkqQr/RR3aJN1AxCDZMG2W0U9BvMa2DauHTxWyPd4JeOhdGvB0w/u//KvUocZXpesQbliW/mjk/NYYKMXuoEkZscuFqa+LN22pOTCiGfczteGvS+mbzwqIltAifEYU9YqNDHN9pD1mS6i6bbTHxVlVzIq+zMQvwMoNIwDyctMXyKfpgucVbWLYeiA92+xJvtvhKp8Iobi6Y9RJvNjuIPVmE47994cgrmXj4gLBzWDK9+ek256XhxlSXWnzibhBGE/SqxC/DmGoQe3Fh8PYSo7CwfY5ZisuUu3koCsRG+kL0B6mlE77e76ZMbH6P4rrJglHWsuCzL77EDNcTqkQ3FvI8n2Ga0EdNXRbvwr2jxZp4toZ4l3mAFCPeOUELxz0n8cZ5RPwg8FQXIXI+ovcok1s1R4FiS1e8IjOHgzZdrSJzJmcfU3+S3CYsXTUEOLYK6piTxCq9JKGe3qkc+IBfbz5eS+zMbq0CaWHL
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

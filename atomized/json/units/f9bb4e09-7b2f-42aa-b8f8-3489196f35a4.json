@@ -1,0 +1,26 @@
+{
+  "id": "f9bb4e09-7b2f-42aa-b8f8-3489196f35a4",
+  "type": "insight",
+  "timestamp": "2019-05-16T17:37:19.000Z",
+  "title": "<div><i><span style=\"font-size: 21px\">EAA</span></i><span style=\"font-size: 21px",
+  "content": "<div><i><span style=\"font-size: 21px\">EAA</span></i><span style=\"font-size: 21px\"> Chapter INTROS</span></div>\n<div><span style=\"font-size: 21px\"><br></span></div>\n<div><span style=\"font-size: 21px\">Ch 4</span></div>\n<div><span style=\"font-size: 21px\">Finally, the good stuff: evidence, facts, testimony, statistics — real numbers, real facts, and no more opinions and feelings. That’s the attitude some student writers will take. Students who feel lost with-out “solid facts” to support arguments will be happy to come to this chapter. But using evidence responsibly is complicated. Students will need to become comfortable critiquing facts as well as opinions, questioning surveys and statistical evidence, and uncovering as-sumptions that lie behind enthymemes. For example, you might in-troduce the factual claim that the Bayer company used to use in its aspirin advertising: “Nothing works better than Bayer.” It’s a fact: no aspirin works better than Bayer aspirin. But it’s a fact that conceals the important point that other aspirins work equally well.</span></div>\n<div><span style=\"font-size: 21px\"><br></span></div>\n<div><span style=\"font-size: 21px\">The concept of the arguable proposition might help students see that making a distinction between fact and opinion can sometimes be difficult. Certain propositions are not arguable: the square root of 81 is 9; Spain borders Portugal; Charles Dickens wrote in English. We do not argue about these claims because we accept them as commonplaces: they are, for most purposes, facts. But other facts are arguable: Christopher Columbus discovered America, William Shakespeare wrote all the plays attributed to him, clear-cutting in the rain forest has little environmental impact. At some point in the  not-too-distant past, these last three facts were commonplaces, at least to certain audiences. But now they are arguable propositions: reasonable people could dispute the claims and offer other evidence in support of counterarguments.</span></div>",
+  "context": "From document: EAA Chapter INTROS — chunk 1 (chunk 1/18)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "96eb322624e76b9b2f5ac7aabacd881c",
+  "relatedUnits": [],
+  "keywords": [
+    "span",
+    "style",
+    "font",
+    "size",
+    "21px"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

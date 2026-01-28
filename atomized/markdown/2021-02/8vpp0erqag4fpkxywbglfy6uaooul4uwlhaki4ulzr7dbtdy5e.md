@@ -1,0 +1,31 @@
+---
+id: bd8fa407-ddca-4e08-b483-c8b2554484cd
+type: insight
+created: '2021-02-15T19:54:52.000Z'
+document: 7cab5884ad37ebd0143542c422e3a7d4
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 8vpp0erqag4fpkxywbglfy6uaooul4uwlhaki4ulzr7dbtdy5eipy
+  - >-
+    qejljcxizzbb523nxtc4xgiy6xsxrxt0ljitg4gpgsc6gsrizcwkj8fx2zphmynjrf2ngopa17ehgqgxvlmdfjakro9dmzz
+  - ns7cq4ojjjkyczduxypdw8snls5ofn09nzicphqcat4enpyzgxy4ikisjqtvjexk5
+  - fj4tls3sljbjkyzjgqpfxsdaaiwfhqwmdaxltffw8cakjasbzuzpt49u1woqaiakhqkvsowfnx
+  - h4eeebqwh0wi
+---
+# 8vPP0erqag4fPkxYWBgLFy6UAooul4uWlhaKi4ulZR7dbTdy5EipY+qejlJcXIzZbB523NxTC4xGIy6X
+
+## Context
+From document: Week 1 Retention Tracking — chunk 85 (chunk 85/133)
+
+## Content
+8vPP0erqag4fPkxYWBgLFy6UAooul4uWlhaKi4ulZR7dbTdy5EipY+qejlJcXIzZbB523NxTC4xGIy6XSxrxT0lJITg4GPgsC6GsrIzCwkJ8fX2ZPHmyNJrf2Ngopa17eHgQGxvLmDFjAKRO9dmzZ+ns7CQ4OJjJkyczduxYPDw8sNls5Ofn09nZicPhQCaT4enpyZgxY4iKisJqtVJeXk5+fj4tLS3SlJBJkyZJGQpfxsDAAIWFhQwMDAxLtffw8CAkJASbzUZPT49U1wOQAiAKhQKVSoWfnx/h4eEEBQWh0Wi+sU622Wzm3LlzlJWV0dnZiVKpJCwsjJSUFGJjY1Gr1RgMBnJzc+nv77/k+6hUKtLS0oiKihI3eEEQvpNaW1t56623CAoKYs2aNV8pm0sEAARBEAEA4WtxV5pXKpWo1erLPtS759M7nU7UavVlR//Of5179N7lcn3hZ3xV588RP38U2V09/7syIuieY/1lov7ufbPZbCiVyi+9XJ27HWw2m7SM4sUK0Lk7f+e/v/uz3VkM7vPAnWovk8mG1TGw2Ww4nU5UKhVKpVJ6H3cAQKvV8uyzzzJp0iTpsy53HrnfUy6Xf63R5m/iOpHL5Zddwu9i3CsCfJ3jZrVaUSgU39q1810KSrqDOe77hiAIgggAfLeJGgCCIAjftxu3UnnFHSu5XH7Fqcef/1L7tr/kPr/u+vn7913yVdL93Pt2qSX7vqnjfLH3v1i7fr4jfP7/X27/3GMEMpnsis8jmUz2nXhA+qrn0b/juP1QfJn7iyAIgiACAIIgCIIgfMe4K8vr9XppisXAwAAOh+MHMffxP2VoaEia9vFFZDIZWq2WkJAQ0eaCIAiCCAAIgiAIgvDtMBgMZGVlsXfvXlwuFxaLhZ07d+Lp6UlGRoYY8f0KnE4nNTU1vP766+j1+i98vVwuJzU1lbVr1+Ln5ycaUBAEQRABAEEQBEEQvnnuwnrz589n3rx5wGfTBLy9vcUc76/IvTrH1KlTGRoauqLXR0dH/yDmmgqCIAgiACAIgiAIwneUl5cXkyZNYsKECRcEBv5b5rZ/GwGAiIgIbrzxRq609rJCoRDtLQiCIIgAgCAIgiAI325nVXQ8v3lyuRwPDw/REIIgCMJ/9vtINIEgCIIgCIIgCIIgiACAIAiCIAiCIAiCIAgiACAIgiAIgiAIgiAIgggA
+
+
+
+---
+*Source: Document 7cab5884ad37ebd0143542c422e3a7d4*

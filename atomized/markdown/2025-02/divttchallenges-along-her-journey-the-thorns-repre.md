@@ -1,0 +1,35 @@
+---
+id: bfa7e3b9-7dc9-45b4-849f-5afd36ee1058
+type: insight
+created: '2025-02-17T23:20:46.000Z'
+document: f724cc82d2d987b6ae9e11ab05d297ca
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - this
+  - shows
+  - when
+  - phoenix
+  - scarecrow
+---
+# <div><tt>challenges along her journey. The thorns represent the struggles and ob
+
+## Context
+From document: Student Submission: — chunk 64 (chunk 64/134)
+
+## Content
+<div><tt>challenges along her journey. The thorns represent the struggles and obstacles she deals with in life. When she says they are “doing appointed work,” it means she understands that difficulties are a normal part of life. Instead of giving up, she keeps going, showing how strong and focused</tt></div>
+<div><tt>she is on completing her mission. This moment shows the theme of perseverance, as Phoenix continues no matter what gets in her way. This shows her resilience in the face of certain hardships.</tt></div>
+<div><tt><br></tt></div>
+<div><tt>Another powerful symbol is the scarecrow Phoenix encounters. At first, she is frightened and thinks it is a ghost, but she quickly realizes it is harmless and laughs, saying, “You scarecrow, I ought to be shut up for good” (Welty, 1941, pg 4). This quote shows how Phoenix Jackson talks</tt></div>
+<div><tt>to a scarecrow she thought was something scary. When she realizes it’s harmless, she laughs at herself for being scared. By saying, “I ought to be shut up for good,” she jokes about how silly she feels. This shows how strong she is and has the ability to keep going, even when things seem scary at first.</tt></div>
+<div><tt><br></tt></div>
+
+
+
+---
+*Source: Document f724cc82d2d987b6ae9e11ab05d297ca*

@@ -1,0 +1,26 @@
+{
+  "id": "ab467d92-67d3-4b89-95bc-cfee8c3c267f",
+  "type": "insight",
+  "timestamp": "2025-02-10T16:22:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>🔹 Concrete Prompt:</div>\n<div><br></div>\n<div>Think about a time when you had to explain a complex topic to someone (a younger sibling, a friend unfamiliar with the subject, etc.). How did you simplify it?</div>\n<div><br></div>\n<div>🔹 Abstract Prompt:</div>\n<div><br></div>\n<div>How does finding connections between unrelated topics enhance creativity and understanding?</div>\n<div><br></div>\n<div>🔹 Connecting Prompt:</div>\n<div><br></div>\n<div>Think about two subjects that seem completely different—what unexpected connection can you make between them?</div>\n<div><br></div>\n<div>🔹 Exploratory Prompt:</div>\n<div><br></div>\n<div>If you had to explain a complicated emotion or experience using only metaphors, how would you do it?</div>\n<div><br></div>\n<div><br></div>\n<div>Day 15: Argument &amp Persuasion in Writing</div>\n<div>📌 Instructions: Choose one of the prompts below to explore in depth.</div>\n<div><br></div>\n<div>🔹 Concrete Prompt:</div>\n<div><br></div>\n<div>Choose a belief or opinion you hold strongly. Write a paragraph arguing for the opposite viewpoint.</div>\n<div><br></div>\n<div>🔹 Abstract Prompt:</div>\n<div><br></div>\n<div>How does the way an argument is structured affect its effectiveness?</div>",
+  "context": "From document: Daily Journal Prompts | Weeks 1 - 6 | ENG 101 — chunk 11 (chunk 11/19)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "e6eab879b76e49062d95c26643b9406a",
+  "relatedUnits": [],
+  "keywords": [
+    "prompt",
+    "concrete",
+    "think",
+    "about",
+    "explain"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

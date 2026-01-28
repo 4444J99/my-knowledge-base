@@ -1,0 +1,26 @@
+{
+  "id": "bd08e2aa-f98b-4088-97bc-68a17109ca66",
+  "type": "insight",
+  "timestamp": "2025-02-12T16:21:40.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Effective storytelling requires careful consideration of sentence structure throughout your work. Utilizing different lengths and structures while being mindful not to overuse certain words like pronouns will result in clear communication for audiences every time!</div>\n<div><br></div>\n<div>Sentence Structure</div>\n<div>A simple sentence expresses a single thought and must contain a subject and a verb.</div>\n<div>e.g. The government has a responsibility to ensure the safely of its citizens.</div>\n<div>A compound sentence consists of two simple sentences that are connected with a coordinating conjunction (for, and, nor, but, or, yet, so).</div>\n<div>e.g. Some believe the government should increase spending on national defense, yet others believe the expenditure should be allocated to education.</div>\n<div>A complex sentence is an independent clause connected to one or more dependent clauses using a subordinating conjunction (while, although) or a relative pronoun (who, which).</div>\n<div>e.g. Although the government promised to tackle childhood obesity, the 2020 target has not been met.</div>\n<div>A complex-compound sentence has two independent clauses and one or more dependent clauses.</div>",
+  "context": "From document: Week 2 Canvas Data Dump:  Week 2 | Overview: — chunk 11 (chunk 11/24)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "0d4efdf09cb66aedfded39b9a4c3edf4",
+  "relatedUnits": [],
+  "keywords": [
+    "sentence",
+    "government",
+    "clauses",
+    "structure",
+    "while"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

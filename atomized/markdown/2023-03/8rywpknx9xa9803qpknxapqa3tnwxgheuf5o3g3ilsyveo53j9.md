@@ -1,0 +1,31 @@
+---
+id: 40cc7f13-fdfc-4de6-9e5c-21b50caf97be
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    8rywpknx9xa9803qpknxapqa3tnwxgheuf5o3g3ilsyveo53j9alzqvp16sfmdfda53wvya84nyaetd8f3zxkxg
+  - ekas7j33clz7njc9xnuukhee11hl3keyxuo61jod3dfc8irgdjlxotd
+  - j5750xas6chv7ve73dpfxpoueeeaxqnzavqqwl1jn9er7zginufwy4vqa
+  - jz75yavrvps99n3vpm4bjfg8by8hzajeejwtcgkuipcl9qah1isemfb89fbrkd6d07afzxmh
+  - zor2ukugvgcjbob9edsxqrzkvmv8sgn2k0dn
+---
+# 8rywPKnx9xA9803qPKnxAPQA3TNwXgheUF5o3g3ilSyvEo53J9ALzQvP16SFmDFda53wvYA84NyAeTd8
+
+## Context
+From document: New Note — chunk 378 (chunk 378/8096)
+
+## Content
+8rywPKnx9xA9803qPKnxAPQA3TNwXgheUF5o3g3ilSyvEo53J9ALzQvP16SFmDFda53wvYA84NyAeTd8F3ZXKXG+eKAS7J33cLz7njC9xnUUkhee11Hl3keYXuO61jod3dfC8irGDJLXOTD+J5750xAS6cHv7vE73DPFXPoUeEeAXqnzAvQqwL1Jn9eR7zGInufwY4VQA+jZ75YAvRvPs99N3vPm4BjfG8By8HzAjeEJwTcGkUIPcL9qAH1isEmfB89fBrkD6D07AfZXmH+ZOR2UkugvgcjbOb9EdSXQRzkvMv8sgN2k0DN+ljT5U4D5k4yfZB9TPOM0608w7wR4/9Tgu4CeZ5yoTO11hrHjpL0fYv5+1u0rJoWeuftZsxfYvof32Ev9WBLl3M2aPYD/PSD4nYxtp7YZQB/ju5nnbOYdN5bFBWwanhgEpvdbx35fkHz/Ge+2ikT81YOjAfQx/l9xvgpk/zmJ8Z+D/Rfyo4HpxRGOWQL0pOS/Rwr8u3zHWyTafwC2/zuY/93SSNefAPSv5T7k+WJ+f68XCwY4ni8Kdz5fGuX/7JCYgGcGA+hB9o+VRPs9PCgmYPKQuKDJAPlRWb/qVls4wKepOMLZxPoaJdBnP9i9NL+/9+CiSL8R/KihsjjcOajgQa9M9k0Tns97oGdCzgMe0bkPdIsC7EfyrOh/tX9L2++1HbAdsB2wHbAdsB2wHbAdsB2wHbAdsB2wHbAdsB2wHbAdsB2wHbAdsB2wHbAdsB2wHbAdsB2wHbAdsB2wHbAdsB2wHfgn68CU0l7Rk4qCoyaXhsVNBs+rugC9MxXcnT0uv3cuGD6/tTCssA1AD+ouG5MVPKI1P6xsQlGfMhLih48lgd4A+vyw2pHprjHNGb6tJKePVZF83iZAPzYndPyYnIBJ4O1JzJ/cVhgGoO89hTT2qUp2F1ZX0vv4wl4GnpPM/iSp78+0FfR+Rgn0Ewr7PMvYMwamg+mF590lWK9z3a9N8GirjPl5i0meL+n3QltR72cE6EmJn6hUegF6cPpjgu8aV6K8sLxqZJrfFOH5MdnBU5Vkb1LpGdO13lNjAvTaB5hu8PzoTPYB55t0+izXo+z72Kh01+OjM/yfUI3K8n+SHw08qRR6AXoS9M17jgbQt+QEvsDeLzam+PyGvX/LO76iIs3+VdLiX2POG7zfm6MzXL8H6f+Bvf9I
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

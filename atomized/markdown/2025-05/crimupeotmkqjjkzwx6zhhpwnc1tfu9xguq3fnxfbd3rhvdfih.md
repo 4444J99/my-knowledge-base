@@ -1,0 +1,32 @@
+---
+id: 6c142826-a243-43f6-bf2e-5e43f68b5d54
+type: insight
+created: '2025-05-15T00:56:03.000Z'
+document: 084f9bc77d1d8854a07a52206c286278
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - crimupeotmkqj
+  - jkzwx6zhhpwnc1tfu9xguq3fnxfbd3rhvdfih7fbrmzfkd8gatu5b
+  - >-
+    6sedwhpomjkzgcddbtbgdqi7lyighnfmaooooakkkkaciiigd5fnfffcz64uuuuah8jruno8d2fjpltbswv07rrhcvzecvw9fupnbetpqe5o32ox3xioxuljdynufochg7gc
+  - >-
+    sul1bx1y3uk3lphz3sppcuvnzccuixsjjprzmtpp28gxxuehpf8ekavjzxvvnmaw8poybsbhioe2en1rl6ksk0oufjwyggfhriui8k
+  - ibtqeujpbcsyxbufjt2gdoovfk1zx560u07dcvjwzr
+---
+# CRiMupeOTmKQj+Jkzwx6ZHHPWnc1TfU9xguQ3fNXFbd3rhvDfiH7fbRmZfKd8gAtu5B+6SedwHPOMjkZ
+
+## Context
+From document: Grokking Algorithms for OS — chunk 196 (chunk 196/402)
+
+## Content
+CRiMupeOTmKQj+Jkzwx6ZHHPWnc1TfU9xguQ3fNXFbd3rhvDfiH7fbRmZfKd8gAtu5B+6SedwHPOMjkZGcddbTbgDQi7lyigHNFMAooooAKKKKACiiigD5fNFFFcZ64UUUUAH8JruNO8d2FjpltbSWV07RRhCVZecVw9FUpNbETpqe5o32ox3XiOXUljdYnufOCHG7Gc/Sul1bx1Y3uk3lpHZ3SPPCUVnZcCuIxSjjpRzMTpp28gxXUeHPF8ekaVJZXVvNMAW8poyBsBHIOe2en1rl6KSk0OUFJWYgGFHriui8K+IbTQEujPBcSyXBUfJt2gDOOvfk1zx560U07DcVJWZr+J9aj17VVuYY5Y4liWNUkIJBHXpR4Y1iHQtUa7uI5ZEMRjAjIBGSPX6VkUdaObW4cq5eXodH4q8R2Wvw2wtrWeO4hY5eQg/Ke3HvWdo2vXehzmS1cGNjl4n5V/8PwrMxS0c3UlU1y8p30HxGtfJXz7CdZOciJwV/DPNcr4k1ZNb1dryKJok2KgViC3HfisukocmwjSUdjovCfiG38P/AGv7TBNN5+zHlkDbtznOevWmeKtfg8QXFrJbwTQiGNkIkIJOTntWDRRzO1g9mubmLGnXCWep2t1IrMkMqyMq9SAc112r+ObHUdHu7OGzukeePYrOy4HIriaKFJpBKmpO7PSPgyoa81pWGR5cAwfrJXoFzoKu2bd9nOSrciuA+C//AB/az/1zg/nJXq9bw+FHDX+NmLb6B84a5mDAH7qcZ+prZVVQAKMAdAOlLRVmRlahpUl5dmVZEVdoGCKsWlq1rZJA5DMueV6cmrtBHFAHOa9ps97aCO1uPs0qurLJt3dP4cdgfauK1bQ1vI0TVbOKOUABHjbhemcEdMZx/hXqEsW4Gsy709JkZJEV0IwVYZBpxk0JxTPH5dD1fQJmm01pLlHIztHzYHIDL0IxxkcjtSXmv2d/ps5niMVw2Pmxnd83Iz1x1zn6ZzXcXHh2509i2luZYc5a0nkOB67H5I+hyK5zxJbWd1pl1JdQGO7hAzHIdjNyF4OfmX5vvDP9K151LchRad0bWja/PpMUUaf6VZGIOsQXEh46qf4vfPPNdXpGtaZriSGwlQvgGaLG117/ADD+v8q8nuLHUfDoae3nNxalRmHGeo5/P2we5GKmsfEWm6qY0uC0M+coWfy9rL90lh7
+
+
+
+---
+*Source: Document 084f9bc77d1d8854a07a52206c286278*

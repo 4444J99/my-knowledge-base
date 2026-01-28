@@ -1,0 +1,26 @@
+{
+  "id": "4df474f6-42dd-4fff-826d-5e0d6801e707",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>### GRADUATE (5 repos)</div>\n<div>| Repo | Commits by You | Last Activity | Reason |</div>\n<div>|------|----------------|---------------|--------|</div>\n<div>| chatgpt-exporter | 15 | 2025-10-28 | Original work, active |</div>\n<div>| terminal-ai | 8 | 2025-10-15 | Significant modifications |</div>\n<div><br></div>\n<div>### MINE (12 repos)</div>\n<div>| Repo | Last Activity | Notes |</div>\n<div>|------|---------------|-------|</div>\n<div>| tensorflow | 2025-09-01 | Study fork, no mods |</div>\n<div><br></div>\n<div>### ARCHIVE (8 repos)</div>\n<div>### DELETE (10 repos)</div>\n<div><br></div>\n<div>## Org Repos (ivi374forivi)</div>\n<div><br></div>\n<div>### PRODUCTION (8 repos)</div>\n<div>### DEVELOPMENT (10 repos)</div>\n<div>### EXPERIMENTAL (3 repos)</div>\n<div>### CONSOLIDATE (2 repos)</div>\n<div><br></div>\n<div>## Top Recommendations</div>\n<div>1. Graduate chatgpt-exporter to org (high value)</div>\n<div>2. Delete 10 unused forks from personal</div>\n<div>3. Consolidate a-context7 + github-mcp-server</div>\n<div>...</div>\n<div>```</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **Next Steps After Creation:**</div>\n<div><br></div>\n<div>1. **Set up GitHub token** (with repo read permissions)</div>",
+  "context": "From document: Contents_Table — chunk 91 (chunk 91/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "repos",
+    "repo",
+    "2025",
+    "graduate",
+    "last"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

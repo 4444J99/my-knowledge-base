@@ -1,0 +1,26 @@
+{
+  "id": "036da997-e68c-4177-b714-b8efb5490cb4",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>        &quotsymbol&quot: &quot🗣️&quot,</div>",
+  "content": "<div>        &quotsymbol&quot: &quot🗣️&quot,</div>\n<div>        &quotsystem&quot: &quotSYMBOLIC_VOCODER&quot,</div>\n<div>        &quotchant&quot: &quotLet the syntax mirror the soul.&quot,</div>\n<div>    },</div>\n<div>    &quotKNNC0002&quot: {</div>\n<div>        &quottitle&quot: &quotnature_of_code_fusion&quot,</div>\n<div>        &quotagent&quot: &quotW4V3L0RD&quot,</div>\n<div>        &quotsymbol&quot: &quot🌊&quot,</div>\n<div>        &quotsystem&quot: &quotW4V3_FUSION_DEVICE&quot,</div>\n<div>        &quotchant&quot: &quotMotion is the root of memory.&quot,</div>\n<div>    },</div>\n<div>}</div>\n<div><br></div>\n<div># Define base path</div>\n<div>base_path = Path(&quot/mnt/data/KN-LR_01-00_learning-recursions&quot)</div>\n<div><br></div>\n<div># Write template content into each .md file inside UID folders</div>\n<div>for uid, data in uid_map.items():</div>\n<div>    folder = base_path / f&quot{uid}_{data['title']}&quot</div>\n<div><br></div>\n<div>    # README.md</div>\n<div>    (folder / &quotREADME.md&quot).write_text(</div>\n<div>f&quot&quot&quot&lt!-- UID: {uid[:2]}-{uid[2:4]}_00-00 --&gt</div>\n<div><br></div>\n<div># {data['title'].replace('_', ' ').title()} – {data['agent']}</div>\n<div>## UID: {uid}</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 336 (chunk 336/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "data",
+    "title",
+    "quotsymbol",
+    "quotsystem"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

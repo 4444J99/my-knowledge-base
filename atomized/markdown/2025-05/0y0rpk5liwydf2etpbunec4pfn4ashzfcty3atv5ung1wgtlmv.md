@@ -1,0 +1,32 @@
+---
+id: ae2e0a63-2958-4f13-be1d-a9950b330f77
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    0y0rpk5liwydf2etpbunec4pfn4ashzfcty3atv5ung1wgtlmv0sk5bbjiev5nzicx4mju1ibdzj9y7u6
+  - sen9ebkymbxhm83hxrqcmqpups5sdqj8gy568sylvht8jzh3tefvv3pmtqv5efxhyskoqop
+  - gg1edmlgnwfa5ga3tn2mqef7oogj
+  - >-
+    ni1memohshqjl5jbkeuhrxs6nsa00ky3ytdtlm6sqzhikolf1ywizjmstiqkbu9kojvicstw0anw8epp50ahcazxsvbbeixygq9qkbshvir4tsaskrmzcq3edvt8vgmdvwaxg9e86iaqkvj2lcasgqtootlvw1ylulvbvbhjvtw
+  - ivnvvynw
+---
+# 0Y0rPK5LiwYDF2eTpBUnec4pfn4AsHzfcty3AtV5UnG1WgtlmV0sk5BbJiEV5NzIcx4mJU1ibDzJ9y7u
+
+## Context
+From document: New Note — chunk 4169 (chunk 4169/21099)
+
+## Content
+0Y0rPK5LiwYDF2eTpBUnec4pfn4AsHzfcty3AtV5UnG1WgtlmV0sk5BbJiEV5NzIcx4mJU1ibDzJ9y7u6/SEn9ebKYmBXhM83hxrqcmqpUpS5sDQJ8Gy568syLVHT8jzH3tEfvv3PmtqV5EfxHySKOQoP/gg1eDMLgNWFa5GA3tN2mqEF7ooGj/Ni1memOhShqjl5JBkeUHRXs6NSa00KY3ytDTLM6SqzhikOlf1yWIzJMstIqKbU9KojvICStw0aNW8ePp50aHCAZXsvBBEiXYGq9qKbsHVIR4TSaskrMZCQ3eDVT8vGmDVwAxg9e86iaqKVJ2lCasGqtoOTLVw1YlULVbVbhJVtW/iVNvvYNW/fRdWVbxq0KoDqlq0+s6PO3j1nU2YavtfMTflgqomWZVtFqfabsGqTVO1XbGqQatA1a2EVcd4p8mqmqqqpQmrWg8jYfX9RKp63zuFqu8Vqypa/eEPf7htKUztVn/5l3/5LqyqaFXBqsWq3/3ud+Xb3/62Kf0vObd70+Xte3eCoLcm3pp454B3DnjnQPdzwP7B98P71tx7Zt4KeCvgrYC3At4KeCvgrYC3At4KeCvgrYC3At4KeCvgrYC3At4K3HsFFMkpWNV6/fXXTX31q18VLUWq7noQtGrBqu1vvvmmPOzaLiX1Yeyz6PRBuhOsdkOrv+iStPpeUlYVsDrxareE1W5otRtYVaBqE1fdWFXnTqxqE1Ztt+mq2i1UdXc3UrVzBao6dqJVi1PdeNXi1F7djVWd824Jq7pNQartNmlVYapz7ISqdrwTsGrxai+oqtsVpdpugaqz3+vv/06Mut3YwlVn3w6r2n07QarOY5xAdSdwVXGp3sZ2O7Zz7fdTikjdx1t0+l66YlF7O4tJbdftdvwwu0JMe3/usc5t6TF2/KvS9TdSt8dyr+32N5ne1v5zju02Z7/Xfuex3vjDsQKV0jiWSo0VUBPDFcN4xcCmik8VrNqEVU1Q1dKU1SgYU9GqQlZfoM/AVZO0SlihQtXIZtcU1jA4NQVUTeWHSVs8Au7DkJG6Wm4FgYlNefTJdXnhlcvy7MsXTJJnDJiqWHWYmg7y9QGr/nCndD4+s0+Oj+8B4+2TCV+fTIdIdOUxxTPHgHYEGhKuGMWrGawKQg0nDxq8qmmrpkhUTRKMmCaBNVWmNIkVtBriuGBsn0lYVawayxLO
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

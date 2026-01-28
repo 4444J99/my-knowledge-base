@@ -1,0 +1,31 @@
+---
+id: e944edf7-4889-44a1-a8c8-ea80f03b244c
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - zcuxl8dnn91kmsisqsrqlbfcatnexvvnfvutevfz
+  - anaqiit9qsyun79evtw7rjjdvrkaqeeix0rsgqhvxue0pyjlfjnlu1e5jhl7lo9oq
+  - >-
+    qc6tmnkk5pyqgqpqvwfvvb1f191p15pyuxpa5xy2bc8q6f2x6mwewss43qzfnpcu256sl1vls9trnrycqelnv1r4rqcpe4ft1dnbv4vtt9xzuvxc1o4vvgvj7ulntcvo1qvubuqvsgqn2sgco5vzewkrwdfdzbgdvpz3uqql4qrf4hvk78yaseikhvyvntzjvrnp4af5gummjwkm21
+  - kxeofczr
+  - 15v5aj940bw
+---
+# ZcuXL8dNN91kmSisqsrqLbfcAtNEXVVNFVUTeVFZ/anAqiit9qSyun79evTW7rjjDvRkAqEeix0rsGqH
+
+## Context
+From document: New Note — chunk 18436 (chunk 18436/21099)
+
+## Content
+ZcuXL8dNN91kmSisqsrqLbfcAtNEXVVNFVUTeVFZ/anAqiit9qSyun79evTW7rjjDvRkAqEeix0rsGqHVXUe0pyjlFjnLu1e5jhl7lO9OQ+qc6TmnKk5pyqgqpQVWFVvB1f191P15pyuxPa5Xy2bc8Q6f2x6mWeWss43qzfnpCU256sl1vls9TrnrYCqelNV1R4rqCpe4FT1dnBV4VTT9xZUVXC1O4VVgVJ7UlntCVo1QVUBUqVsgqn2sgCo5vZEwKrWdfdZbgdVpZ3UqQl4qrF4hVK78yaseiKhVYVNTZjVrNP4aF5gUmmjwKm21/KxeoFCZR/15v5aJ940bW/W9SYWANPeTuvUm9u1Trxp0sYs/5RYvmuPZX9tr1731bJ4/SfbuvtnbjPj7tqb9cfa3tzXiU9uBkQ1MkwQLocgnidIxUvCf9n+/lwSfQhBMDequax5PYUKBegLUF1SllxPTj/dUFjtS2i17xHAqqisWsu6Z59pqaumEVjNILyaTTVMAVUFWPWIqqZ7MDxUbPQSQvQHRaUymWqoKYTy0qgmSZVUAnn5XNY+TlVVgVIFPBW11EicAGFcwFXaIR8vJOBaQrVMAVYJtxZTIbWUKpSiSCn7dUGqAwgwnmPFASpiCrDqp8/l8UVpVYDVYePrUNdWhFipFz5RYyUYW0wYrrGzCgKsVgyvRhEVKCOFJSisbcPkiy7Hyjs34u4tj2MFV7seOW0qX48gZGUuVq25Gm+88Qj27L6LIOgULhNPYLAqE1dcORY7X3gAn/+FqqnfHcQbB57HzRvvxvBps3EBAdXV9z2E+596Dpu27sRNm+7Htbetw0r659/aiz/yWeIzPhN8RJX3b775An/5iiuWU2n1iS13Y+6lI9HZlIGOoemYPNqPcyeHMWVcEaaOK8YtS2djx7a1XA39Ybzx8v14/KHlWDh/IhVYizB6eJkFrIrC6tKlV+OVF3fhL9/8Gd99y2cfPjt9+9WX+PZPFJs8+B52PfsUFsyfQ9iY95IqppFwMnIjhDgJpGaKgiphVLFM10Ck5yQjI5By2NIJpKZRVTUla4AFOv8nsJrMPjKYqquivNplmVRnFUg1g+BrprwGY1FWzWQ/FRNgVVSBBboWUFWgVcsIVooiaJDnFs0T0DSJ6qgCq6Zb/bqyIWLd82qq6VY1RHm//Ox37JuEVd3+PpbKaiBKtdUY
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

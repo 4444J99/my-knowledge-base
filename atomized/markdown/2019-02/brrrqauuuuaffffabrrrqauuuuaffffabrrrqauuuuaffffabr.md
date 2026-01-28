@@ -1,0 +1,32 @@
+---
+id: 164c2239-5c7b-400c-a61a-290026cb8b41
+type: insight
+created: '2019-02-22T12:18:39.000Z'
+document: 28f283ae0c72332a99d7478ac2e9c9c7
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    brrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqbcsr65sjhnbtg9x2i9ck9m03uydstxnfww4ze6n
+  - ad0ryetpsb9tovelz
+  - >-
+    7bhx6qf8ottknwpvakqemaqcg0tygffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqb
+  - 38ooooakkkkapjtunnzqe8xoqxih0ha
+  - sqfkxyxj7mkroak
+---
+# BRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFA
+
+## Context
+From document: Grandpa Pepe’s Lasagna — chunk 35 (chunk 35/205)
+
+## Content
+BRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQBcsr65sJhNbtg9x2I9CK9M03UYdStxNFww4Ze6n/AD0ryetPSb9tOvElz+7bhx6qf8OtTKNwPVaKQEMAQcg0tYgFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQB//1/38ooooAKKKKAPJtUnNzqE8xOQXIH0HA/SqFKxyxJ7mkroAK+SP2kf2np/g9rGgfDH4eeG5vHHxO8YK7aXo8LBI0iQkNcXUnVIhhiOgIRyWRVLD63r82fg/bw65/wAFIvjlq+tRg33h/RNHs9OWT5jHbXFvbyStGT03MATj++R3NJgWtb+Kv/BQ/wCHOlzeOfGXw58JeJ9BtAJ7vTdAubsapDbqf3mwyu6SMFycIrn0GOK+ldB+Pfh34o/s56n8cfhhcN5P9j6hd263CL5tvdWkUhMU8YLAMki8jJBGCCVIJ+h6/I39m23h0Hwz+2V4I0WMReH9F1rXjZInEUTSQXKSRIvQCNYo147AUAfdf7J/xG8T/Fv9nnwV8RfGcsc+ta3ayy3LxRiJGZZ5IxhF4HyqOlfQ9fhx+z38efEnxI+DHwx/Y5+AGsxaN4rvNLuZfEGuyMEOk2IuJGkjs0JVprxo3BGz/Vg5BBDPF+v/AMJ/hX4T+DPgbT/APg2OQWViuXmuHMtxczNjzJ55Dy8jkcngAYVQFAAEwPSK+eP2rfjFrfwC+AXin4teHLK31HUdC+w+VBd7/Jf7VewWzbvLZW4WUkYI5A7V9D18Nf8ABSX/AJMs+Iv/AHCP/TtZ0MDldI+JH/BRbW9Jstasfh54INtfwR3ERbULkEpKodcjzODg9K9v8SH9rLX/AIBW0nhtfD/hj4uSzA3EbM9xpkUK3LDEbsspLNAEJLK2CWAwcEfP3gn9qT9oex8G6DZWn7NOv3sFvYWscc6albqsqJEoVwDHkBgMge9P/b+8TeINV/YV1LxRqGnXHhfVr46NNPYvLmezkluoS8LSJtBKElSRgGgD9EtPF8thbLqjRveiJBO0QIjMu0bygOSFLZwDzirlfmB+3LZeK9c+Jn7Nvhfwjr9x4bvtc1XULM31scSwJNDbJJKgzgyIjMY
+
+
+
+---
+*Source: Document 28f283ae0c72332a99d7478ac2e9c9c7*

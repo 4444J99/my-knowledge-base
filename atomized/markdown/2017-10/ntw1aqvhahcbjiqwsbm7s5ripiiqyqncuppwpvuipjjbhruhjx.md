@@ -1,0 +1,32 @@
+---
+id: e6ee3198-808d-436f-8f8a-e8c9159ad0c8
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    ntw1aqvhahcbjiqwsbm7s5ripiiqyqncuppwpvuipjjbhruhjx1qsftgjsbadz9cvbbbfk87gok53tclys3irmztpjfl
+  - ykjbvqr6miwbwxzijgk4hp
+  - nwli5cnhv5pempeoi85jwd0
+  - >-
+    tbn36dule6kbrkzrdngoc1pfan998oopptue6msvxpfokg2moz5y7ybjg44gpbpvwuut7o1vtacew68k8e1u1gt5spnjtnfqqxctizct8nj78uskrsflixpceorotmxf3p
+  - qqdoyuysm4
+---
+# ntW1aQvHAHcbjiqWsbm7S5RIpIIQyQncUPPWpVuIpJjbhRuHJx1qSFTGjSbADz9cVBbBFk87GOK53tcl
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 1090 (chunk 1090/2189)
+
+## Content
+ntW1aQvHAHcbjiqWsbm7S5RIpIIQyQncUPPWpVuIpJjbhRuHJx1qSFTGjSbADz9cVBbBFk87GOK53tclyS3IrmztpJfL+YKjbvqR6miWBWXzIjgk4Hp+NWLi5CNhV5PemPEoi85jwD0+tbN36DUle6KbrKzrDnGOc1PFaN998OoPPtUE6mSVXPfoKg2mOZ5y7YbjG44GPbpVWuUt7o1vtACeW68k8e1U1gt5SPNJTnFQQXcTIZCT8nJ78UskrsFliXPceorOTMXF3P//T/qqDOyuysM4/lUEe9GDy8jtipHMQiabOF7ZqCMvcpuU8AcV+Mw0Vkfo/Qnk1Bi+2IbT0Oaosjq7EDANNnSdFwR064pqzvIhXr7+lEZNscpKxla5bxRWTMoLMw59K/H39s3x/F4evLGyvY8xFmd5GycAfdUEHALHJORwF96/YnUhGbGRJGydvFfkH+1r4KtfEniiLTHClJIw8jbSzCTcQueMfdHPOQMV+hcGRXtXfsfm3HV3Rsu5lfDf/AIKMfs3fCb4aiTxZqsqXEEYUQwW7szS85jVgNvGPvcDB5rwvx1/wXM8Jzm7sfhn4TvdSjKL9lub4i2SJtgLrPGpYsA2cFHGQBnHWvWfB/wDwTO8EfFTweraz4gvbJrmMhhZwQOu7cfmBkzgdBtwcY69Mdn4G/wCCM37PeiOlz4/l1LxLtd/NhmmNvBOuCE3LBtYAcHAYdADkDnz+I40Y17P+vxPd4WlF4WN0z83PHv8AwV0/aR8YeHprL4ZaTYeHrl4WMV3HO16UBAxJGsqhCw7BldSP4c818jXGpft0ftcSw3fxE8R61fW97GsDzaVFutt+MCMxW2xd7xkBl5J4B4xj+mPwj/wTa/ZF8JXIu/DvgXTYTGnlKkwknjCZ6GOZ3Vj/ALRGa+wvh78NfC3w0006Z4V0+2sYTN5wW2hSIb8bdxCADIXCj2GK+SjWjGVqaPrLq1kfzO/CD/gkT8YNYu4Y/EMdh/ZUUcF0n255LWeUuchQsYk2soX5kOcEjkngfqn8OP8AglZ8IJbl9c+JAlurnzldIIZCLaFY23KF4BfjGQwA479a/VIR27vnYA4Ockc1qW8ipH5I6HrWk5zlrccZSueHeC/2aPgT8Pb977wx4U0u1uJAwaZLaMOwfgg4G3GOOAPzzXr8ml2zzKiLtRRtCjgAdf51okl3KJy
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

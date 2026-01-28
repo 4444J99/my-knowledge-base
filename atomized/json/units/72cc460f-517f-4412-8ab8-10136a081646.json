@@ -1,0 +1,26 @@
+{
+  "id": "72cc460f-517f-4412-8ab8-10136a081646",
+  "type": "insight",
+  "timestamp": "2025-12-21T14:29:42.000Z",
+  "title": "<div>### A.1 Core Screen Hierarchy</div>",
+  "content": "<div>### A.1 Core Screen Hierarchy</div>\n<div><br></div>\n<div>```</div>\n<div>ROOT CONTAINER</div>\n<div>├── Onboarding Sequence (First Launch)</div>\n<div>│   ├── Welcome Screen</div>\n<div>│   ├── Archetype Selection</div>\n<div>│   ├── Initial Calibration</div>\n<div>│   └── Tutorial Overlay</div>\n<div>├── Main Interaction Space</div>\n<div>│   ├── Environment Layer (Persistent)</div>\n<div>│   ├── Avatar Display Zone</div>\n<div>│   ├── Conversation Interface</div>\n<div>│   └── Metrics HUD (Toggle)</div>\n<div>├── Analysis Views</div>\n<div>│   ├── Session Review</div>\n<div>│   ├── Progress Dashboard</div>\n<div>│   └── Perspective Replay</div>\n<div>└── Settings &amp Customization</div>\n<div>    ├── Avatar Preferences</div>\n<div>    ├── Environment Themes</div>\n<div>    ├── RTM Configuration</div>\n<div>    └── Privacy Controls</div>\n<div>```</div>\n<div><br></div>\n<div>### A.2 Detailed Screen Specifications</div>\n<div><br></div>\n<div>#### **Screen 1: Archetype Selection**</div>\n<div><br></div>\n<div>```yaml</div>\n<div>Layout:</div>\n<div>  Type: Grid (3x2)</div>\n<div>  Background: Soft gradient with particle effects</div>\n<div>  </div>\n<div>Components:</div>\n<div>  ArchetypeCard:</div>\n<div>    Dimensions: 280x400px (mobile) / 320x480px (desktop)</div>",
+  "context": "From document: # Platform-Agnostic UI Architecture: Project Evolve — chunk 7 (chunk 7/10)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "05b5ebf7576dd7636e989ca708836977",
+  "relatedUnits": [],
+  "keywords": [
+    "screen",
+    "archetype",
+    "selection",
+    "environment",
+    "avatar"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

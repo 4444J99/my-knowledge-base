@@ -1,0 +1,26 @@
+{
+  "id": "67b71901-4ff9-4c90-8f86-67855cfccdcf",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Wants to establish a ritualized opening and closing phrase system—similar to a walkie-talkie protocol (e.g., “over and out”)—to clearly signal the start and end of focused work sessions. They also want thread intros to follow a standard format that ensures correct setup, project folder tagging, and role alignment at the beginning of each work session.</div>\n<div><br></div>\n<div>Wants the session opening and closing commands to align with their personal naming conventions, such as substituting “A” with “4”. They prefer a custom phrase to initiate and end work sessions that reflects their aesthetic. They also want ChatGPT to regularly check in to confirm whether ideas are being implemented into actual projects or remaining in iterative discussion, as distinguishing between theorizing and doing is a crucial part of their process.</div>\n<div><br></div>\n<div>Wants the session start command (`|[ST4RT.io::`) to trigger a structured series of contextualizing questions that will guide the thread’s focus. These prompts should help them clarify their goals, ideas, and intended outputs. Similarly, the session end command (`::S4VE.io]|`) should initiate a comprehensive review and state-saving process that collects relevant data, unresolved questions, and ensures that the thread is properly archived and not abandoned or lost.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_041225_MASTER — chunk 26 (chunk 26/35)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "a6c8d7ecac270c27cc9e416b39cd8866",
+  "relatedUnits": [],
+  "keywords": [
+    "that",
+    "session",
+    "their",
+    "wants",
+    "work"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

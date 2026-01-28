@@ -1,0 +1,20 @@
+{
+  "id": "89437afd-6c00-4c39-a0f2-bce0a23da443",
+  "type": "insight",
+  "timestamp": "2022-03-15T21:09:16.000Z",
+  "title": "<div><br><br></div>",
+  "content": "<div><br><br></div>\n<div><br><br></div>\n<div><br><br></div>",
+  "context": "From document: Fom W-2",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "efc73cd65f404ddcd5e8d5220dd874a9",
+  "relatedUnits": [],
+  "keywords": [],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

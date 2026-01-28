@@ -1,0 +1,26 @@
+{
+  "id": "55312133-df4d-4854-bd40-c35cce006beb",
+  "type": "insight",
+  "timestamp": "2023-09-27T14:44:21.000Z",
+  "title": "<div>I'm attaching the template for a power point presentation. I've also attach",
+  "content": "<div>I'm attaching the template for a power point presentation. I've also attached social media data from Sprout Social we'll use to analyze and fill out the template. You are a digital marketing manager making a report for Miami Dade College after running ads during the I am MDC period of MDC Foundation fundraising events. </div>\n<div><br></div>\n<div>I want you to review the entire powerpoint presentation and then pull the data from the datasets, provide me with the copy to complete the slides. </div>\n<div><br></div>\n<div>Pre ad boost files:</div>\n<div>Post Performance (Miami Dade College Foundation) July 12, 2023 - August 14, 2023.csv</div>\n<div>Profile Performance (Miami Dade College Foundation) July 12, 2023 - August 14, 2023.csv</div>\n<div><br></div>\n<div>post ad boost files:</div>\n<div>Post Performance (Miami Dade College Foundation) August 15, 2023 - September 17, 2023-2.csv</div>\n<div>Profile Performance (Miami Dade College Foundation) August 15, 2023 - September 17, 2023.csv</div>",
+  "context": "From document: I'm attaching the template for a power point presentation. I've also…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "89a142aa29d842588efcddc62c0d2887",
+  "relatedUnits": [],
+  "keywords": [
+    "2023",
+    "miami",
+    "dade",
+    "college",
+    "foundation"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: 40a8a19e-af5c-4862-931b-15c6ba2dbf2c
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    agopcqx2ytopaxm1l9t5otzlwxtcdbpctuzg0dzwhct3xnn5lj001o70azbkwnjuaa4arwt0qjexhxeklt4c8gl9fjowbyw5xhw9u3
+  - sudnh5bskdn57zyfcpvmgdfnkbjhcfxd
+  - cexm1i5wrsyua6lq1t1g5zonwc
+  - >-
+    pghdx4ukkevhfgbgfuugdsoz3hzuhlcutwwhw3fgnab7v4zyvlhhaqlcq9ama3mlvual2zcpxhqpe
+  - tabmns4rprk
+---
+# AGoPcqx2ytopaxm1l9T5oTZlwXTcdBPctUZg0dzwHct3XNn5Lj001o70AZbkWnJuaa4arWt0qjEXhxEk
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 1327 (chunk 1327/11629)
+
+## Content
+AGoPcqx2ytopaxm1l9T5oTZlwXTcdBPctUZg0dzwHct3XNn5Lj001o70AZbkWnJuaa4arWt0qjEXhxEkLT4C8gl9fJOwbYw5xhw9u3/x/sUDNh5bSKDn57ZyFcpVMGdFNkbjhCFXD/cEXM1I5WrsyuA6lq1t1g5ZOnwc+PGHDX4UKkeVHfgBgFUUgDsoz3HzuHlCuTwwHW3fgNAB7v4ZYvlhHaQlcq9ama3MlvUal2zcpXHqPe/tabmnS4RPRK+IXrFPxs4au3m2T7Mt9hpKjzFTeT1t0RHoCIS1Yx0Rett9K+R2vy5HutTvku7a/WubrveFDpjAQFEbnkOQkgh3gC1hhVpprrRyn8rTMnd4O27W7oeygtaJXYn7J9yCQd+iU3pU3IppsrEvmZfMy+QDbR9qOmKFFP5TQbwZ0IgDpi7lMvqbhyYc8jw0oaMPYH0aA36dhTiGwx8aqTCEYlFeyDsnaEEZpZ/kVph8eWXXu/1/6F97wLH97+3HGXxFrCJVixjOM84ckBNIFFKBVsgwGOoRtQzwmCB1loXBVUyaTL069a00hcTXoB9sui2sRsd6dNY9EfuxVhyyKRONkPKLDQ4HSyyesXUn5K66q+qE1XXVd03sOCF4XItSo0qrUqSRwSkcgJDsFmGiNTF4QpB7NTt4f1/2++WTPU8VPVX0pE+qfBjOyIu9xACyqsMBCTTcU0FST96hVMgN3VIOUlYp+LczApqg02rOlDmgv5eTA8hiO5ibLrn8bbldHK65rzCAogYcAzizLs/aOUsFbD05ooiFuJZbSbtvAI4TatjL6HW9l9lThRcILxrR6dyGc7nPbUjTJc3VNMtTbgOUVZNVWqReHzt1ACtw0FdWjfjPxwr0hQtmec46PTs+eIDDPygTtFZ/HT6b1i19t4YL5i9oM38+9ooZ7Ily4isDbVEreWgfBby29gjpka6HKTYk/4VFqJnPpbv2znvvxEv+aYoeKcoi/liABZ31n3hqUrbJ4dvqblu+bXkps1QyP+JJbJ46gMKgYUDG/scGHM/WOluFbNcKVnlv+LukK0qcRCWxkmzpl75f/z5H+nVF68Y68y684wLwuzZe2JC+UPrP0hdMVCRRrERFYHOV21P4EoovASIJ5qw2gNPYv2fH2CB5bkGShavSDntqPP9eRO11ACvlcGHrzgM1x9c0ACHwwk+pYEc2R0un
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

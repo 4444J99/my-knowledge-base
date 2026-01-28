@@ -1,0 +1,32 @@
+---
+id: d534f435-1c0d-4529-b1a3-829be0eabb01
+type: insight
+created: '2025-05-18T23:05:52.000Z'
+document: 955e78dcca103e5ba9c46535a5ea6110
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - riacadthvekmwpnvvwnaxwyn4jhp4typz3buwlcqjidp7appfnzd3r
+  - p6epgfibtew0k5kepa9zgvsny5cbgpxn
+  - >-
+    o6gftnc6oneimn2mf7demeu0zfejdowespsvlxpdcith9bhpoyo9gwpbdgf37uame7gcajsmk1eutflls7lys0
+  - dojxq
+  - >-
+    7jpbppgdxitqdnjrzoir8u4zqe9xhuqzqejllfekehdh1ovxr0snyylbafbwbicynk3bjcufgqeaaciwbvdsmhoth1qxqwanmhpm57wrwi0uzjbcfi6izkbg8wmwzwnoawk8bqtcr
+---
+# RiACADthVekMWPnvVwNAxwyN4jHP4tyPz3BUwLcQjIdp7ApPfNZd3r+P6EPGfibTEw0K5kepA9ZgvsNY
+
+## Context
+From document: ][ . E . A . R . T . ][ — chunk 53 (chunk 53/117)
+
+## Content
+RiACADthVekMWPnvVwNAxwyN4jHP4tyPz3BUwLcQjIdp7ApPfNZd3r+P6EPGfibTEw0K5kepA9ZgvsNY5cBgpXn/O6gfTNC6oNeImn2Mf7demEu0ZfeJDoweSPSVLxPdcitH9bhPoYO9gWpBdGf37uAmE7GCAJSmK1eutFLls7LYS0+dOjXQ+7jPBpPgDxitQDNjRzoir8U4ZQe9xHUQZQEjllFekeHDh1OvXr0SNyYlBAFBwBICYnK3BJcUFgQEAacIwBvDSMHotH1QxQwaNMhpM57WRwi0UZJbcFi6iZkbg8WmWZWnOAwk8BQTcR+B+vp6Mjro48AeZP7/2qMrqFFBEtLSvO9Sfva57k+IS09ITkplA0Cpo9bb2ADQHlMApqNeOKusKZ1VKp55V50RgJ01aIq+yUmCN/YlurIrowHY+3/ZQaLB7AS4Sr1+0dniiEBtFQp8FVEEEYDa/hDZ25vmvUj03zOJ1u8iauL/47VmG1vQ/kz06sv22zZZEx7nUKaqFuwRg+xQoBoPs+1B+b9u3TqzxU8phwjpCy644JRrYf0P9rLY09oR1IOSWsQdBGDEMsphgTPkxIkThR7MHfil1YgjEIBjSsRnSIYvCIQMAXhjHD3qXgZAHCbKy8sDhRoU3Ebe8qAAOnSIsycGTDAup94zKg0JAYOvS7oLQ5MR3RQMVUGKROkMYlt7A1UffY1pazpftf53JntQdyu4mZKTupJDxXq/T62RTOkp7AbuQFrbqxhLVa7zDjrioGoZvP9VTiN7Q6cFyCN6JK/l2bwMHmBDAOU7ANJJVXweOU/jBRwNMI+pgUS8Q8AxfQ/s8gFa754gix+YNrZstbBxlCn1qIktW428523gVz0vcLzj/0xPwhrGxF3ax9axRYuJDsexkO1m7+ZlyzivBifWcFGgCDVyDLD7aHj/B3U/YXfMTuthHhYsWGBbsX3uuefSyJEjnXYjEPVx1gTtrB3BXhg5BETcQQAGrI8//li38Z49e9KECRN078sNQUAQsI8Ajj4igoAgIAh4hkBtba2hgtFpR7BpQBLgIAmU/0Zh0Iia2LePtSMBE3h3gbvfKMQz0ZCCzjmfaHx+u4/PpxHPbwFTDQQ1H0NT82aqb3TuLVma9332/p/st6mz3J+01O5aAk+7BpFY2yFeK+wVmsKu5AGVAnaDGc5K8M2q+s8KUW4uUJLF
+
+
+
+---
+*Source: Document 955e78dcca103e5ba9c46535a5ea6110*

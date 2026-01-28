@@ -1,0 +1,32 @@
+---
+id: 13161f10-8826-4b79-b6ac-d0a9a390085b
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - aw2ds9vglam9apfljvsl
+  - chuujc0ctev0m0lyqb7iyxkgbuxf
+  - >-
+    zlhas8amamstb1rc4s5wc0qreawsh9vdwgclynfrlrixgtt1ghudvvw2w0uzpewjcpe78t6p1wqdyu9urrzliaj5kizs2kwkdnvain2i
+  - >-
+    rdum4rkw1xvfj13mnmhqljsfx1zjnxesgw7vlkw1utduqxtyxhstd5rmlvmgqkasqtlcdo2u7zfuktpz217yg6gs2grg8zgytlrhq2hxv7zrr6p6vnpkrvl2zxlumtvb0eitf
+  - rja65cnknmqcalufb5vxnr61fhyokofvxfxdgvot0dfrexgdxjgxzv0bwaq
+---
+# AW2DS9vglAm9apFLJvSL+cHuujC0cTEv0M0LyqB7iyxKgbuXF+zlhaS8AMaMSTB1rC4s5wc0QreaWsH9
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 5472 (chunk 5472/18928)
+
+## Content
+AW2DS9vglAm9apFLJvSL+cHuujC0cTEv0M0LyqB7iyxKgbuXF+zlhaS8AMaMSTB1rC4s5wc0QreaWsH9vdwgCLynFrlrIXGtT1GHuDVvW2W0uzpEWjcPE78t6P1WQdyu9urrzLIaj5Kizs2KWkdnVain2i+rdum4RkW1XVFj13MNmhqLjSfX1ZjNXESgW7vLkW1utdUqXTyxhStD5rmlVmGqkasqTLCdO2u7zFUKTPZ217YG6gS2GrG8zGytlrhq2hxV7Zrr6p6vnPKrVl2ZXlumtVb0eitF/rJa65cNknMqcalUfb5VXNr61fHyokOfVxfxdGVOT0dfREXgDXJGxzV0bwaq+xGZRhnmaOd2wl5OBnKaFoZkchA1RZczMeZmrInA0cWN0WJYx8znNMobY8Pulo7GekdUA4ylnDRtErd70M4N3iaVm9i7m1l3RylZjaFuegR4U545QsvRvx2F7k0Lhr0hHSNubbjBG9QNAq8m6RsqN+gaNA7WdYDDy8lYPlwAbEbuJjiH6A0JmhaxxDUSscl5fiUak7jpER3diExD8jms6YyNHPFpVJjUzSzMTKc3pakxxnUyk4O6awbs3H4Hvx/s7eQPIFYdaWpAbiC97kJIkqNvy1Z8fli9b4d4/bKKhcm5GdN2p05dnjp5btqkjPRJ6WkT01ImpqROTEudmIpKmZhK7D0+JYmpGHsDv2MFCJ8zNhV2dKYVPPntMUlvUys4dYPPGpU8c1QyHimDjYos6ETdryfPeD15+mvJ015LfvO15LdeQ+/3cMGC/gb853ikBanfWNz1pU+B+k1FsA0In/xyMp5Oejlp4kvJE15KnvgSBHCsUZDBY4t7QA4yvwvnDIHfA3JSv19KBG+PfTlhwuvJb09PX5mZmb95dfuhXcaTe0wFOa68bf7ctR7W+8aiHA2H481531P4vuFUtrvgw0DuFm/Bhx72tv7cNH/BO072Pm/BB8H8zSh34W7Fuc8NpUV21hFT4TFz0WEve5c/d5eFlY+p3fbi4+ZThcaSEgfrhJu9P8hBa/dKW/4xA+usuajYXpJjL83FIDFl7uWGozeu7j9/7vCpr86Vi7sULpcXyB3v5R7hn4AX5KU4eMfB+wX5oxi/jd+uHYiD92/X9zv+aeM78ALswNdf/woJ5wHzQNh0k9gbireJHgccX98M3w47o3ZlRNsZUtwZ6A3w
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

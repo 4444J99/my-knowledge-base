@@ -1,0 +1,26 @@
+{
+  "id": "a3f0be2a-a5c0-47e7-b141-7de77d03907a",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 2. Leadership Challenges – Implementing a Cooldown Period</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Faction leadership can only be challenged every few weeks.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Leadership Challenge Rules:</div>\n<div>  •  Leadership challenges cannot occur more than once every four weeks.</div>\n<div>  •  A leader must defend their position through skill checks, debates, or trials.</div>\n<div>  •  If a faction overthrows a leader too often, they may suffer a stability penalty.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Cooldown Effects:</div>\n<div>  •  A faction that maintains stable leadership gains a small bonus to faction-wide actions.</div>\n<div>  •  A faction that keeps changing leaders may attract a random chaos event.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Prevents non-stop leadership battles.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Encourages strategic timing for overthrow attempts.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Adds depth to faction decision-making.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 498 (chunk 498/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "leadership",
+    "faction",
+    "zapfdingbatsitc"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

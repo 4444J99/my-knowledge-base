@@ -1,0 +1,26 @@
+{
+  "id": "caff584c-ee98-488d-bbb6-2ecfa0cc2f21",
+  "type": "insight",
+  "timestamp": "2021-05-14T11:51:05.000Z",
+  "title": "<div>Sausage of Peppers</div>",
+  "content": "<div>Sausage of Peppers</div>\n<div><br></div>\n<div>eight sausages </div>\n<div><br></div>\n<div>4 green peppers</div>\n<div><br></div>\n<div>5 onions</div>\n<div><br></div>\n<div>Add all to tin, add pepper and olive oil, cover with tin foil, </div>\n<div><br></div>\n<div>Oven 350 degrees for an hour</div>\n<div><br></div>\n<div>After hour, broil</div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: Sausage of Peppers",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "35b0d86e734853641c0f538bd4718739",
+  "relatedUnits": [],
+  "keywords": [
+    "peppers",
+    "hour",
+    "sausage",
+    "eight",
+    "sausages"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,33 @@
+---
+id: 8162d717-c257-49ff-b6a3-3f7b3cd21da2
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    upsm60kc4vghctdyiyytsa1qy2dpb3jm1qeanzi1ubmgd6ih2bb6qmlljmtjggyexv3ghdpzyfa3w51udwdi3shvzrjxy8yvvwfzocualx2vxe6oawwhkwfkyxg0ywsfkozc8qh1r9rjrzfif
+  - 3phipwher6s
+  - svpxtpu5xvrryw
+  - >-
+    d30hzhlm2phukxvlenpzay49fycuo4tbjze4di3hx1z71shbu2wcebttz496yn1jx5q9fpjjatvxd1
+  - >-
+    1s1zkazbmyoxjd3icho0n7lx8zfawdoenxigarigarigarigarigarigarigguiqscrescfkocxk9ha3dza5mchis8sy5frpwetvprtxt
+---
+# uPSm60Kc4VgHCtdyiYytsa1qy2dPb3jm1qeaNzi1UbmGD6IH2bB6QMLLjmTJGgYexv3gHdpzyFa3W51u
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 8072 (chunk 8072/11629)
+
+## Content
+uPSm60Kc4VgHCtdyiYytsa1qy2dPb3jm1qeaNzi1UbmGD6IH2bB6QMLLjmTJGgYexv3gHdpzyFa3W51uDWdI3sHvzrJxy8YvvWfZOcuaLx2vXe6oawwhkwFkYXG0YwsfkozC8Qh1R9RJrZfif+3PhIPWher6S/svPXtpu5XvrRyw/D30hzhLm2PhukXvLENPZAY49Fycuo4tBJzE4dI3hx1z71sHbu2wceBTtz496Yn1jX5q9FPjjatvXd1+1S1ZkazBmYOxjD3IChO0N7lX8zFAWdoeNxIgARIgARIgARIgARIgARIgARIggUIQSCrEscfKocXk9ha3DZA5MChis8Sy5FrPweTVPRTXT/10lt+5fMvS8bN/mv3O17cbAxMMVeK+NEEOy3PDLA8YntVZarsaAzPTHvWxpY2qyEmONpsHY4pnPsI4FROjFGbziPMTpittphfTFEzF+FWCJ8uGYw+WutayIxaMY4iDGZWenrN7YAH2IIcD/8T0hVlrUSzZGA1S03vEuI/SOnjaH5ZCRaqQTvIGCwvPJ0R8C/OLsD8DwciAOMgPXqtfpIepTcyyMSsWGNuV6iO/GilhMGqhmh8Q5cgfwihvVKTC0TA8Yc54BM4HOcaTpR9FQjHYifFOGyjls3tokjg2JjP4YQiM4FcHx3ny9FBZAjeET9iiiRjmo4KnpKb3FODNMAR1CXAwYCFZyIalKR0YKX159js+CyXIgeUTUbd49moYtaBASfYbeo5kiX36WBhflwl9yA6XoOiJtR7m11eD+OYoxNbm1PzKijm4eEa4Tt8cIilbcFKj1pWWW+oastWpW6dng8XZscSI/breQ+537y4dv/h/oRF32IgJVzfm6ULSuJFWeEIWlA+p4KEAqBG4tDAzCalB49GqQlJePGNS5+vBUSOpyJPCAwMrYkZtqUVZXhTPxpSaQl06pmaDAkq95ei2kIFu6oAltPELGCG+GIiDz2gFFlyqrsgoc6BQG+K4QrtFTQRJ5ueflAWS61qQstlITWZN6rSUNiRDT23HDmdHsjFkIYR80RIRH0MBIDGIo7VgSV9IgJKJdAdv+I40ZYa0CmKjbDk1K/qB6o6K/AcOA5cDn3//hzwMuFKPSNRBq9C5WF7zh5p9cdJXree3vurslaI/oOmgpr0t+3/6bGPm22+89fZ/1+84fceWn/erCdY+LAGabSUg
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

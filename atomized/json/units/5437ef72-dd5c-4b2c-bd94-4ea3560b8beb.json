@@ -1,0 +1,26 @@
+{
+  "id": "5437ef72-dd5c-4b2c-bd94-4ea3560b8beb",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>**Probable Cause Of Observed Problem**</div>\n<div>- A mix of aggressive settings + multiple AI/animation/vibrancy extensions raises instability risk.</div>\n<div>- The Neovim Lua error you saw earlier wasn’t in this log (because it would appear in `renderer` or `main.log` during a GUI session). That error stems from an extension trying to `require('vscode')` from a context where the module isn’t packaged—configuration level, not core binary corruption.</div>\n<div>- The Python debugger missing package.json confirms at least one extension directory mismatch (partial uninstall or failed update).</div>\n<div><br></div>\n<div>**Next Validation Steps (Optional)**</div>\n<div>```bash</div>\n<div># Open VS Code Insiders with verbose logging and disable extensions</div>\n<div>code-insiders --disable-extensions --verbose</div>\n<div><br></div>\n<div># After opening the GUI, check new log folder for main/renderer logs</div>\n<div>ls -1 &quot$HOME/Library/Application Support/Code - Insiders/logs/$(ls -1t \\&quot$HOME/Library/Application Support/Code - Insiders/logs\\&quot | head -1)&quot</div>\n<div><br></div>\n<div># Grep neovim related errors if present</div>\n<div>grep -iE 'neovim|vscode-neovim|error|exception' &quot$HOME/Library/Application Support/Code - Insiders/logs/$(ls -1t \\&quot$HOME/Library/Application Support/Code - Insiders/logs\\&quot | head -1)&quot/renderer*.log 2&gt/dev/null | head -n 50</div>",
+  "context": "From document: User: fix — chunk 10 (chunk 10/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "code",
+    "insiders",
+    "logs",
+    "neovim"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

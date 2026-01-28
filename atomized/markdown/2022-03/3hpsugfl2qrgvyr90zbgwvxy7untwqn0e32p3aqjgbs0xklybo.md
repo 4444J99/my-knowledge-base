@@ -1,0 +1,31 @@
+---
+id: 6a59bfd4-3a37-42f3-8c80-419abe42526d
+type: insight
+created: '2022-03-16T12:34:10.000Z'
+document: 7405c2da6b92da26b0b49297d3a4e664
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    3hpsugfl2qrgvyr90zbgwvxy7untwqn0e32p3aqjgbs0xklyboaxaqnh4fh3rt61kqeibvxgyjphjbbuzmoytjapbcys209bvjair4haxs7govgtukirvwplpnm1vlh40wi22n5mxbpjhtgdkmnbyytnhpvykrzj0qegjtsomlgmo8kww5xsgisd8fyd0pdeyje
+  - nwbp26rlymvxnxrk2vhrnio7ly4rpurmicntqj4r0uo78oywc5dyy4
+  - koq1ufewmgne54o819tfa24zfevs7hgmdnflgzbdyq9ajcp1r6y
+  - cyfdbtifuu6nwnxfah7zedm
+  - 4p9cngxj
+---
+# 3HpSugFl2qRgVYR90ZBGwVXY7uNtWQN0e32p3AQJgbs0xkLYbOaXaQNh4FH3Rt61KQEibVXgYJphjbbu
+
+## Context
+From document: The battle of the blinds — chunk 1154 (chunk 1154/1787)
+
+## Content
+3HpSugFl2qRgVYR90ZBGwVXY7uNtWQN0e32p3AQJgbs0xkLYbOaXaQNh4FH3Rt61KQEibVXgYJphjbbuzmoyTjApbcys209BVJAIr4HAxS7gOVGTUkirvwPlpNm1vlH40wI22n5mXBpjhTgdKmnBYYTnHpVYKRzJ0qEgJtsOMLgmo8KWw5xSGIsd8fyD0pDEyje/NWBp26RLyMVxnxRK2vhRniO7LY4rpURmICNtqj4r0uO78OyWc5DYy4/KoQ1ufEWmgne54O819TfA24ZfEVs7HGMDNfLgzBdyQ9AJCP1r6Y+CyFdbtifUU6nwnXFaH7ZeDm/4p9cngxj/0GvgP9oGRhLOVOBk195eFCT4ajEfJ8ocD/dr4a+N+lXl5dywrGzg5NePB+8yrH52eJo/LuFfPUj+dfpr+zRJJ5FjEv8SLx+Ffmx4xs51uxHsI2sB+Rr9IP2ZZlDWBBwUjUH8q6q+lM6pfDY+yvHOZ9EkUn7qYx+Ffh78XDjxnPF93961fuB4u/wCQTP7qf5V+KHxg02YeMbi4ALgSvWODnuc1j5R+IsNvA0W3Cuy1l6QSVtwfQYq18S42+2W7MeNvSqOmHa1qQeMdK3mb02frL+wRMr31/GSCRIuBT/8AgoBYfZ9V0Wc8bt5HtXL/ALB9yU8RXEfZ5Vr0f/godCWutAYdg9fn+cR5cTH1PrMF/BZ+Y+rJ5unB2P3F4rhYEZJ4HU4LGu31bI00dgVrhYpCJrfPIB4r6TB60meTVVqiP6D/ANmTd/wpvTA7bt1vg1+dvxMH2b40aztOAZxX6JfsmSw3fwr06DIcrByvpX5/fGaAW/xt1jI2jz1xXweJ93GSR7uGleLR4r8T7d23SHhfSuM+C8hg+IejMOA15EMfjXpvxJ2ixcsN2V49q8m+E0u3x1ouflKXkZz+NfW4XXDteR59Re+z+hDxduk+Gl6MbQbIjH/AK/Grwx/oeu3UaDgsw/Wv2U1APdfDK6fdv3WZH/jor8bLNTa+Lbq2zyGP86+KpwSxUz26atQSPN/i6AZ51I52/wBK+kf+Ced59l8QToVyTEw+nNeA/GGJVR32846/hXrn7Cl15Xi9gh8vKY/Wvoqr/wBkseUtJS9D9Lv2nof+LdCQNsbeTn2xX5X+EZGuPOH31y9fq/8AtEIlz8PnR14Ck/8Ajtfk94COyO4T0kk/nXy+WaS
+
+
+
+---
+*Source: Document 7405c2da6b92da26b0b49297d3a4e664*

@@ -1,0 +1,30 @@
+---
+id: 7e32773f-0457-4285-b732-9a4d0d58e0b1
+type: insight
+created: '2020-12-04T00:15:12.000Z'
+document: e44d7acfd42bc15a324166b827d0b603
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - zcbqlbdaa48h5widgf
+  - wj95w1lnfjz4fa9id
+  - 97fe8beammndga8fuwkph
+  - hrrg61w27cu8drrdb5cav7lczok47rsmhagyl6aecvabof
+  - cs6ngmzpocyl8
+---
+# zCbqLBDAA48h5WidgF/wj95w1lnfJZ4fa9iD/97FE8BEAMMNDgA8FuwKPH/hrRg61w27CU8DRRDb5cAv
+
+## Context
+From document: How Geniuses Spent Their Time — chunk 356 (chunk 356/812)
+
+## Content
+zCbqLBDAA48h5WidgF/wj95w1lnfJZ4fa9iD/97FE8BEAMMNDgA8FuwKPH/hrRg61w27CU8DRRDb5cAv7Lczok47rSMhAgyL6AEcVABoF/zjk+CS6nGmzpoCYL8/0AKVhYOq8jjoNDL9qQ8WP89lq1XPZBeNM3BvoAb/+Jarf7LmGnPvy0vnswDCexJ5abw61wOG8DJ5pTQoH6aaPn0Go+fIUaOZvmMYYcJl9uy5wD8E+x0RzEsHJoV2rG2guPQ7aWBNid5n6hnUGUJIeeldq4Y/w7/6T02vqM1o3cNrEN3e5CjRz5ZXDJnwq+LPytNDiPglwRKj2xdCxPP2urkjBP+vb2i4c6qv/bN5brNxDdKS09vmvNePu4QOQDwp6BggneE2AWdxGcgaEB6gm5glJLIMvfZ6Fvdjc7fD5oqfHftR6dqXHkLyrZrSuagrqx1/KoKgGf6gmOdimoN4WMId2Px/Y9vg5zb33mtzIn64hpQ8Ab43osG/RwM8Mr8rO23TFoT6trVt5LXfffe9zzzzHB/4oX8+9NDD/AHed9/9LPR64IGHUElxXLGOAlBjT45p02c888yz3NUwkpuMtiublQZMlyLibu4A+2juogtZo7fLUt89cP5LSuqOqkpUSCVloVYhv6Wa7UXlefzx3RYOfe/9fFCLR+KbWo899guCpblEG+KB4cfmoLHnzJnH3ydojQ982bLlZLQ9Sp96+pVXXyOFV/bLX5oEyiLL0qXLmFulOIatx9m39Ilf8UL5G2OvEmS+9NKvmXClIPyZjM49x/aWadUwvsk+r+6jCQOHCG754Gt+xavWDiXuD3OfuX/c/pgNa9aswR8wa9bM8RPGsxiPiX9W/bGSnjA6gukmTJxwxRVXYF4Tp8Rx5plnEWP9tWOOcey3z+gdcsghrPQD7Qn1B/j39/V++P8VB0BsPp8SZncBUBlmfPvgNPjti/dOxq9AYCASkAnAowqgJcDG3D8eBSSwlwAEdn+HDh0I70cV4BbBB2gJ5GJmgYUGLD70AIWTzZ4ixO+ss/hYEUEAlIjpj9sfVWbc1a7pb21696fD3ntq1T9ef/xff/8LYC+859zWtinmAtata1Vzqw9wDiK3ftVViruRaISyiD/T1rnVuM4gfnGmfhUZlaX9JQJhFfy7cOvipBRik6h81+RnOSpL/FUWvMqPPvoYq+LY85hPdgEq
+
+
+
+---
+*Source: Document e44d7acfd42bc15a324166b827d0b603*

@@ -1,0 +1,31 @@
+---
+id: 87cd36a8-ee0d-4cc7-af9c-6d094ce5720a
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - rnr8up7vrvtfewn21q8ssfuinjzngvycpvlfdji5aizxr
+  - >-
+    s7fxxy614w1y0gmtff0sm62bqjo0ht4xhh5m9qgkjg5uma4wtxdhsfoeplgltlqrwfuxsunfbv2urx1
+  - um9ou3xatu
+  - 3zdnfps
+  - xxypv7aeyvi
+---
+# vh/rNr8Up7VrvTfEWn21q8SsFuInjzNGVyCpVlfDjI5AIzXR/D/S7fxXY614w1y0gmtfF0sM62bqJo0h
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 3262 (chunk 3262/3262)
+
+## Content
+vh/rNr8Up7VrvTfEWn21q8SsFuInjzNGVyCpVlfDjI5AIzXR/D/S7fxXY614w1y0gmtfF0sM62bqJo0ht4xHH5m9QGkJG5uMA4wTXdhsfOePlGLTlqrWfuxSunfbV2urX1/um9Ou3XaTu+3ZdNfPS/XXyPV7aeyvI/Os5UnjyRujdXGR1GVJFWNielUNM0jSdFtvsejWUFhbli/l28axJubqdqADJxya0a+up83Kufc9aN7ajdielGxPSnUVYxuxPSjYnpTqKAP/Z"/><br></div>
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

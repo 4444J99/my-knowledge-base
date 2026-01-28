@@ -1,0 +1,32 @@
+---
+id: 2595c520-d901-47b0-b32e-c7badb70aaf3
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ermntmmmddj
+  - >-
+    mfasuofjt8irbsezhjywemexdpg3dbmopdxnwmeshgeysgmslhesllu4mbjsuftrbhyzhnhtyzcaajd06cget5ie
+  - 2uxhrjbosmhfjxbhfnyhwuygxr3u6thynutqo6o
+  - >-
+    yivpeujuh5uwln3ex8mrrt2jyyh08l1nwvqaou3go8onrs3mtkj0xqdtpeqsxivppqu3gtkmabe8fafdkwdvo7avifjderjzthvfixgrxw2c3oyjuvygabyhsdrha5hf1zi
+  - m7adeohjwc5j1hwnzexcyfwc48bdychejbbcl0ukroybuvgftqvnye5oc
+---
+# ERMnTmMmdDJ/mfASUoFjt8IrbsEZHjYWeMEXDPg3dbMoPdXnWMESHGEYSgMSLHesLLU4mbJSUfTRbHYZ
+
+## Context
+From document: Strike one — chunk 4395 (chunk 4395/4795)
+
+## Content
+ERMnTmMmdDJ/mfASUoFjt8IrbsEZHjYWeMEXDPg3dbMoPdXnWMESHGEYSgMSLHesLLU4mbJSUfTRbHYZHNhTYzcaajd06cGET5iE/2uXHrjBOSmhFJxBhFNYhWUYGXR3U6thYnuTqo6o/YIVPeuJuH5UWLn3EX8MrrT2jyYH08L1NWvqaou3GO8ONrs3MTKj0xqDTPEqsXivPpQU3GTKMABE8FaFDkwDvO7AVIfJDErJzthVFIXgrxw2c3OYjuvYGaByHsDRHA5hF1zi/m7ADEohjwc5j1HWNzEXcyFWc48BdYchEjBBcl0UkROYBuvgFTQVNye5Oc/hkFcUhWX3k2V4hfOYFDxhHrJhhEVZlb9hkMFRR3V0mtgLd37rJ75NL/REMTZrSeS2PUpgo6K4qjJrSZom8PRISFrgMUgspuZsg4w5py4nmfkJ+/9KYQp0LtWilCH29w+Ir1RVrZtpsN+OkN8krYybcQmTUECP721mZYzTTGyBZQjk7QIteTcp9pXvGZ911BwyARHMABr7uQjcAGVdORwH+jl7k1OFExvEoRlIdxjSABEU+mYVloMZWCmfkpMRmkU3t3O54XVBWZVVeBycc/Kq4R5AGqVrl4XzmaBdTGmBuHGQudsM4DhwDGmgRKYjIwlIZ1iJUI19+k858Kct8iLBIBHQ+PjM9YyjKPIijxkrrxhIARdyl19lAVMNN5zhwAng4CZudau3Og22GgmvuQvIGfnGGQ3QeqmH8n//+VyLsKwhU5o70X1QAFbRoIMv2J5ZmqD/8XkeMoEXoloWpAW8vkkWWjkrKXaQL5dFS3dxEdZSbXiiMfhEIVf2PFWxsaFg6iEeyKEdPnscQjt0O1scoGEXdkEexMGj2+FzQ7uzQfuz4SEbDrqvCfoF6Ex6wVWYd+uWk+RpX6oGqvkVSqGqrdq4ZSEXA1u5821jlxvfnhu6ozu6w6G5Oda5pZsYYCEV0vpNQVQytECrHYVWkgAOhG9UnWCb0UBUk5AS6kBUL+FDHEEO/qC86xsa77tcB5QN6kDS0BYylYAG4NqbjhIKyeob+RrB/QEbti0RTLqwndoYMtqVCbmQg3OSuUFj9wAQIPZFFdaDc1PnHG0TFhajTTYc/4OhG77hszkbHVictcuhs7U7GIqhH1RkHVwbtDtbx1/8Ofn6gcwS5pj2dPwVet/lmTFIMrZrsK8b
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

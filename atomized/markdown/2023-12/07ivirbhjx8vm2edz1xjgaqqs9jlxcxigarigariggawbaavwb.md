@@ -1,0 +1,32 @@
+---
+id: 79a4c3c2-53fb-450f-a99a-257e53dae3c2
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 07ivirbhjx8vm2
+  - edz1xjg
+  - aqqs9jlxcxigarigariggawbaavwbgqwxbveftkz5
+  - >-
+    yiaqvcbj2i0llysnyswqtcwbanscci1d2wzn6dtpvoa3nkgcekmk9qetrqo5o2hrtanjwamcc20irrjk8zady0quvkxrkswfkolojrdjf9j95pcjtjxqn33i
+  - >-
+    fpfednmwkq8aq9gswuggiauvfntug8sotweieevlrfpjc5bbksl2kwqpc82tswtvjml22matwvhgwtdsji0vxxlxczcirycukk9566y156awxojukcwvneguxnsr5uxlooyfkmmuu6wy5xqicffhlai
+---
+# 07iVIRbHjx8vm2++edz1XJg+AQqs9JlxCxIgARIgARIggaWbAAVWBgQWxBVEFtKz5+YiAQVcBJ2i0llY
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 1072 (chunk 1072/3262)
+
+## Content
+07iVIRbHjx8vm2++edz1XJg+AQqs9JlxCxIgARIgARIggaWbAAVWBgQWxBVEFtKz5+YiAQVcBJ2i0llYsNysWqTCwbAnsCCi1D2wZn6dTPvoa3nkgcekMK9QetRqO5o2HRtanJWamCC20IRrJk8zADY0quVKxRKsWFKoLoJrDJf9j95PcjTJxQN33i+fPfedNMwKq8Aq9gSWugGiAUvFntug8soTWEieEVLrFpJc5BbkSl2kWqpC82TswTvJmL22MAtWvHGwtDsJi0vXXlxcZCIrYcUkK9566y156aWXojUKCwvNegUXNsR5uXLooYfKmmuu6WY5XQICFFhLAI+bkgAJkAAJkAAJLJUEKLAyILBgqYHFpl8/zbanJiL889K0+64xU0aQSSoM4PmnsVRIj46xrypnVcnHb0+VJx99WnqV9ZbC6nJLm47amt5Pq2MDz8+weWKWJ6RCR6hXk9qiIoURWW3dleXA4/eRnCKR6665Wb554wcJzVftpQuQPdAsVdpeRF0Dg3lqwUKiC+wD8VcYB0vHxIL7YE24SqrDC2TXw8bKDvuMkQFD+0mOLkfxuwjaggRviBtDXFqBWvR69WzbeFg33nij/Pbbb7aHNdZYQw455BBzcUTGxltvvVX++usvW7fBBhvIfvvtZ5+d8HLp4SsrK6VJxybr379/gp4uWgz3wzx1Z+wZp7+WbESPCcW1DQsbtunTp48OqqzQ4xT0Z/78+SYIy23w5fj13KY4tmoV7L1797a+uOVuGtsP1we4TaLv/jJv3jxb1qNH8kQjc+bM0fNUYMdNgeUnyM8kQAIkQAIkQAIk0DoBCqwMCKx58+ZLULP29e/vJXTwBFbMyTBlpEkrNK5KHfX0n1qo1IIVVoFVNWehfPbeF/LK869JSWGpBGpKdJ0KMIghHTfLs2Lh5t6zYpl409kcZCsM5Eh9sF406aCstdEasufhO2tSDJGbbr5dpk/6TsJVYZVNOqBwWG++EdcFsQa3QhVYIf0XDusYWoF8r05Ex8TS9bXhamkI1Mo4dRHcWmOw+i2vLoK56QksHD0utjy16PXp0zsGRmqzF110kdTUaDIOLdttt53ssMMO0Q3hNvjuu+/aPMTIQQcdJK+//rq8+uqrtgyi69dffxWIBxQIoJ122kk222wzm3dvs2bNsm1+/PHH6L6QWn7MmDGy1VZbRcXUM888
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

@@ -1,0 +1,39 @@
+---
+id: 8db7bfe9-96af-4241-b7d3-4e9198d5fa30
+type: insight
+created: '2025-02-12T16:23:09.000Z'
+document: a727fbfe745a37d5f1770e6775399db1
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: research
+keywords:
+  - paper
+  - your
+  - transitions
+  - phrases
+  - what
+---
+# <div>Each type of transition serves a different purpose and can be used in diffe
+
+## Context
+From document: Week 3 Canvas Data Dump: — chunk 13 (chunk 13/32)
+
+## Content
+<div>Each type of transition serves a different purpose and can be used in different ways. For example, use a transitional phrase at the beginning of a paragraph to introduce a new idea or at the end to conclude an idea. Use a transition within a sentence to contrast two ideas or to emphasize a point. Experiment with transitions and transitional phrases to find what works best for you and your argument. </div>
+<div> </div>
+<div>In your conclusion section, transitions can serve a unique purpose to indicate your final or closing thoughts. Phrases such as &quotIn conclusion,&quot &quotTo sum up,&quot or &quotFinally&quot will signal to the reader that you are coming to the end of your paper and help them remember the main points of your paper.</div>
+<div><br></div>
+<div>Watch the video below to learn more about transitions and phrases!</div>
+<div><br></div>
+<div><br></div>
+<div>Week 3 | Common Methods of Conclusions</div>
+<div>Common Methods of Conclusions</div>
+<div>There are a few common methods for concluding a paper that can help elevate its impact. First, summarize the main points of the paper. This would include a brief recap of what was discussed in the body of the paper and how it all ties together. Another option for concluding a paper is to discuss the broader implications or lessons learned while researching your paper. You could also make a call to action urging readers to act based on what they have read. Whatever method is used, ensuring the conclusion is well-structured and flows smoothly is important.</div>
+
+
+
+---
+*Source: Document a727fbfe745a37d5f1770e6775399db1*

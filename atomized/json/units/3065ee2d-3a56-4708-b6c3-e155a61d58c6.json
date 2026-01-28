@@ -1,0 +1,26 @@
+{
+  "id": "3065ee2d-3a56-4708-b6c3-e155a61d58c6",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>∿</div>\n<div>&quot&quot&quot</div>\n<div><br></div>\n<div># Inject the notes into new header and footer files</div>\n<div>header_file = base_path / &quotSYSTEM_HEADER_NOTE.md&quot</div>\n<div>footer_file = base_path / &quotSYSTEM_FOOTER_NOTE.md&quot</div>\n<div>header_file.write_text(header_note)</div>\n<div>footer_file.write_text(footer_note)</div>\n<div><br></div>\n<div>&quotHEADER_AND_FOOTER_NOTES_CREATED&quot</div>\n<div>Result</div>\n<div>undefined</div>\n<div>Analyzed</div>\n<div># Now perform folder restructuring: move, rename, and reorganize folders</div>\n<div><br></div>\n<div># Paths</div>\n<div>root = Path(&quot/mnt/data/KN-LR_01-00_learning-recursions&quot)</div>\n<div>current_dir = root / &quotKN-LR_01-00_learning-recursions 2&quot</div>\n<div>archive_dir = root / &quotARCHIVE_ITERATIONS&quot</div>\n<div>templates_dir = root / &quotTEMPLATES&quot</div>\n<div>exports_dir = root / &quotEXPORTS&quot</div>\n<div>active_core_dir = root / &quotACTIVE_CORE&quot</div>\n<div><br></div>\n<div># Ensure destination folders exist</div>\n<div>for path in [archive_dir, templates_dir, exports_dir, active_core_dir]:</div>\n<div>    path.mkdir(exist_ok=True)</div>\n<div><br></div>\n<div># Move current live folder into ACTIVE_CORE</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 361 (chunk 361/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "root",
+    "path",
+    "into",
+    "header_file"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

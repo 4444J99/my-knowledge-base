@@ -1,0 +1,32 @@
+---
+id: 47be354a-abaf-4590-9336-1f08f279b0dc
+type: insight
+created: '2018-10-05T22:17:31.000Z'
+document: 15981fe11fce83e658f6940d49a17e08
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - abxghjtciuihqqhqiabdqieadgecganwaa7aatgab
+  - >-
+    aahiadcaaowae4aacgwafmuforqegdqeg8uohbdq9urkgh1apqafuadsaboaah4aacganwaa7aatgab
+  - roaqr3bhcedwsi6w5c8p96amgc9od2gpyadsaboaah4aacganwaa7aatgab
+  - banxxaco
+  - >-
+    tgqh1chxoa4cieuq9qbwqb8qb9qaowae4aafgabyaa3aadsaboaah4ednoydgxvma4iebdwwqiowgea56dxahxafxqd2aa3aadsaboaah4aacganwaa7agb45goaosaajiokbjdy44cengrvqj2hpau9pt
+---
+# ABxghjtCIUIhQqHQIaBDQIeADgEcgANwAA7AATgAB+AAHIADcAAOwAE4AAcGwAFmuFORqEgDqEg8uOHB
+
+## Context
+From document: Mike’s Mom’s Spanish Rice — chunk 294 (chunk 294/565)
+
+## Content
+ABxghjtCIUIhQqHQIaBDQIeADgEcgANwAA7AATgAB+AAHIADcAAOwAE4AAcGwAFmuFORqEgDqEg8uOHBDQ9uRKgH1APqAfUADsABOAAH4AAcgANwAA7AATgAB+rOAQR3BHcEdwsI6w5C8p96AMGc9oD2gPYADsABOAAH4AAcgANwAA7AATgAB+BAnxxAcO/TgQh1CHXOA4CIeuQ9QBwQB8QB9QAOwAE4AAfgAByAA3AADsABOAAH4EDNOYDgXvMA4IEBDwwQioWGEA56DxAHxAFxQD2AA3AADsABOAAH4AAcgANwAA7Agb45gOAOSAAJIOkbJDy44cENgrVQj2hPaU9pT+EAHIADcAAOwAE4AAfgAByAA3BAENwBASAABIJgjmCOYC7UA9pD2kPaQzgAB+AAHIADcAAOwAE4AAfgABzomwMI7oAEkACSvkGCYI9gj2Av1CPaU9pT2lM4AAfgAByAA3AADsABOAAH4AAcYIY7QiFCIUKh0CGgQ0CHgA4BHIADcAAOwAE4AAfgAByAA3AADsABOAAHBsABZrhTkahIA6hIPLjhwQ0PbkSoB9QD6gH1AA7AATgAB+AAHIADcAAOwAE4AAfqzgEEdwR3BHcLCOsOQvKfegDBnPaA9oD2AA7AATgAB+AAHIADcAAOwAE4AAfgQJ8cQHDv04EIdQh1zgOAiHrkPUAcEAfEAfUADsABOAAH4AAcgANwAA7AATgAB+BAzTmA4F7zAOCBAQ8MEIqFhhAOeg8QB8QBcbAN6sEb9g37ZiLyavJqctSIvOX+3nGW/gz9GThOPYADcAAOwAE4AAfgABwYFw4guCMwIDBYgDQuQOI+Ug8gHMFluLwBl2et+3O4vt/cbx6MRK4315sb3faUmTIH3PEHzUFzpdu+xdxibnf7n0+eT16MRVas/3M7iKuJiKsL4wtjV7zyq/BX4XmJK/fkYHKVdT9Qvh2V75L4P5EnzBPmSCTyoHnQPBKIvO/+Pkjcji79+K59175nRO4z95kHXDpXmivNNS6Za8215npnNf1P7Cd2xh3XbfqDOn7Q+VYe3ZfclzwQiRwyh8wNzl5qLjUHXDZ1W3k1L/OyYN2OLv07qOPnrftzl9fyeCR5JHks7v9+XrOv2ddNO92nzFPmmbD/dIv5fsW8Yl6N29d51jxrnh/CdYrXZTv1wJbFLf7H/84DxN8WtRvU
+
+
+
+---
+*Source: Document 15981fe11fce83e658f6940d49a17e08*

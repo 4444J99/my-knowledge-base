@@ -1,0 +1,32 @@
+---
+id: 93505860-2210-48b0-ad99-9c471bf2ddbc
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - nx3jhe6emlth0hvnyxqhr8eqkziwmjiz
+  - i3alvaojgd7e818pxvcmap7r78xo
+  - >-
+    m5cgj3io9v7uhgmbxh6fpf4pec6iae96notlrrhltbqxdsxrbemj1zm0oce6zfqsyeiu7fgxpdwebaghc1wdtw8t2qiqohmu6oh7lqsgdgfycl3ouzg6ze27fe1lbz52hsbs7hsfyyvsbuilod3gcha8jrqczaw4fc1c2gbcevgiwold4pdhfmayatehmkaugkwavi0vp9helgsdfpoo8c8gkusg5btiwteyk3gb4c1wlg3gnermf7wvwkdvvicp6dencur7tcb
+  - >-
+    mfjtdqsclnqosa3ab9gxrpyllsbthmjzegdtf1gfpa0xywq5md0hijhgbbqovrr15h8bwqzea3fi0my39ms
+  - a8ctp
+---
+# NX3jhe6EmLth0HVnyXqhr8EqkZiwMJIz+fZy/i3ALvAOJgd7e818PXvCmaP7r78xo+m5CgJ3io9V7UHg
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 15002 (chunk 15002/18928)
+
+## Content
+NX3jhe6EmLth0HVnyXqhr8EqkZiwMJIz+fZy/i3ALvAOJgd7e818PXvCmaP7r78xo+m5CgJ3io9V7UHgMbXh6fpF4PeC6iAE96nOTlRRhLtbQxDsXRBemJ1zm0Oce6zfQSYeiu7fgxPDwebAGHC1wDtW8T2qiqOhMU6Oh7lQSgdgfYCL3ouZg6zE27Fe1lBZ52HSBs7hSFyYvSbuILoD3gCHA8jrqCzAw4Fc1C2GBCEvGiwOLD4PDhfMAyATEHmKaUGkwaVi0Vp9heLgSdFpoO8C8gkUsg5BTiwTeYK3gb4C1wLg3GNermf7wvWkDVvICp6DeNcUr7TCb/MFjTdQScLnQOsA3aB9gXRpYLLSbtHMJZEgdtF1GFpA0xYwQ5MD0hIjhGbBQoVrr15H8bwqzEa3Fi0MY39mS/a8ctP+oPGDsVlAOXi7bNmnvcg5+LktAaCuyToVjbu4DYD2RktLI8lWBX0rAOGE2/yyZOO6D4fzn4AuG3lM67UB5y/uaaL5Iz0DNm+S7xdBYIht+RiukzCRXH4gWd7i8wmW/oTtOl8WnxsOJoLthOd71MStlTtfKCZuPk8+UgLnMh7jdq5+9QHndguYteNznv6hV1xmXLnDlQa8HTTeXuW3IvCsALr5xUXA9E7rj0MfhZOOq4eB06wV8rYXXVxPL28fmH4Px3KJ6RizRkk/mf4z8LudZ+6/zxYeI7V4Y+Wu5/n/+Qf2/rjcCSZvt88sa9ypTm9/Ji3p2J9BJIPCdvtn7O6gQG/v+NXB6OHjFI6MPpsBOgzNrOAwKWVe3fyNZFCTCaOMaZV/2A6wPPFLw1hZ+XNPLmdGWoIZEzNcMmKGYObevp2BNWEe9x6aI1viz/jeIhz9lEPT7h3JI4CUTlSqzDNYX9jtDNbJ6+i/CZvjqaBmlFcWMDo580PnCVv8EKwYlsvHuprz4uRxl03Wz2zmZnF4ncC+pZC9NubJ2Hinhtss7uJtqkE1UXRiKs8Rj5ZK9Z8LmnPBrUqU/wjw30xlTqoEzAXOzY6mtmzbJk59hCavpjVMi3wRoK/Kp0VADAU+OSL/lMJGbF7P0tERY2U4CUc841u68imB2al/sytBVdccEb7tYPVzlW4qLgyThAtNUrRJMsKM/tuOvfM9nAqaTFsLpyBT3qcthW3LEg7NazN6xCir6jDNvaJWvSE+V/kcITcVYp+P5Ig3
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

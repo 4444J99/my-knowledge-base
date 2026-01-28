@@ -1,0 +1,26 @@
+{
+  "id": "0634bf10-c2f1-420a-b8d2-8d82acf98d4a",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>✔ How Fate Manipulations Work:</div>\n<div>  •  A fate shift (wheel manipulation, divine intervention, or cosmic bargain) can be triggered by a player.</div>\n<div>  •  To undo a fate shift, one player from each faction must come forward and agree to sacrifice something.</div>\n<div>  •  The sacrifices must be significant and thematically tied to their faction.</div>\n<div>  •  If no one steps forward, the fate stands permanently.</div>\n<div><br></div>\n<div>✔ Example Faction-Based Sacrifices:</div>\n<div>  •  The Scholar’s Offering → Must surrender knowledge (ex: losing a bonus, giving away an answer to another player).</div>\n<div>  •  The Warrior’s Tribute → Must take a lasting debuff (ex: lowered attack rolls, temporary loss of abilities).</div>\n<div>  •  The Trickster’s Gambit → Must accept random punishment instead of a predetermined one.</div>\n<div>  •  The Devout’s Atonement → Must take on another player’s burden or debuff as penance.</div>\n<div><br></div>\n<div>📜 Why This Works:</div>\n<div>✔ Prevents a single person from reversing fate—requires teamwork.</div>\n<div>✔ Ensures that factions remain engaged in power struggles.</div>\n<div>✔ Adds weight to faction identity—each has a unique cost.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 537 (chunk 537/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "must",
+    "fate",
+    "player",
+    "faction",
+    "shift"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

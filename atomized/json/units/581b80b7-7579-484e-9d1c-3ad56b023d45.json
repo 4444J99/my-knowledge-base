@@ -1,0 +1,26 @@
+{
+  "id": "581b80b7-7579-484e-9d1c-3ad56b023d45",
+  "type": "insight",
+  "timestamp": "2026-01-22T10:54:11.000Z",
+  "title": "<div><h2>download-watch--movies</h2></div>",
+  "content": "<div><h2>download-watch--movies</h2></div>\n<div><br></div>\n<ul>\n<li>amistad</li>\n<li>Unseen cinema</li>\n<li>Saw</li>\n<li>Timecode</li>\n<li>Death in Venice</li>\n<li>Ms 45</li>\n<li>The Bitter Tears of Petra von Kant</li>\n<li>High noon</li>\n<li>Moby dick</li>\n<li>A League of their own</li>\n<li>City Slickers</li>\n<li>Sister Act</li>\n<li>The breakfast club</li>\n<li>Unforgiven</li>\n<li>The Prince of Tides</li>\n<li>Ghost</li>\n<li>Awakening</li>\n<li>Gone with the wind</li>\n<li>Casablanca</li>\n<li>St Elmo’s Fire</li>\n<li>The pope of Greenwich village</li>\n<li>Krzysztof Kieślowski</li>\n<li>Apichatpong Weerasethakul</li>\n<li>John Cassavetes</li>\n<li>Polanski</li>\n<li>The insider</li>\n<li>Mamoru Hosoda</li>\n<li>Perfect. Blue</li>\n<li>The Night of The Hunter</li>\n<li>Ordinary people</li>\n<li>The verdict</li>\n<li>Splash</li>\n<li>Reds</li>\n<li>Sergio Corbucci</li>\n<li>Performance</li>\n<li>Walkabout</li>\n<li>Nosferartu the vampyre</li>\n<li>In the mood for love</li>\n<li>Paris, Texas</li>\n<li>Band of brothers</li>\n<li>Y tu mama tambien</li>\n<li>The last picture show</li>\n<li>The French connection</li>\n<li>Peter bogdonavich</li>\n<li>Sam peckinpaw</li>\n<li>Being there</li>\n<li>Shampoo</li>\n<li>All that jazz</li>",
+  "context": "From document: download-watch--movies — chunk 1 (chunk 1/7)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "c74e9fb39a3bece21728d7ff82e485ef",
+  "relatedUnits": [],
+  "keywords": [
+    "download",
+    "watch",
+    "movies",
+    "amistad",
+    "unseen"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": "b0a54e8a-b9a5-48e3-8e52-257f1fbebd18",
+  "type": "insight",
+  "timestamp": "2025-11-23T04:21:32.000Z",
+  "title": "AAECBAgQIJAXUADkMzABAQIECBAgQIAAAQIECBAgQIAAAQIECBAoF1AAlJM6kAABAgQIECBAgAABAgQI",
+  "content": "AAECBAgQIJAXUADkMzABAQIECBAgQIAAAQIECBAgQIAAAQIECBAoF1AAlJM6kAABAgQIECBAgAABAgQIECBAgAABAgQI5AUUAPkMTECAAAECBAgQIECAAAECBAgQIECAAAECBMoFFADlpA4kQIAAAQIECBAgQIAAAQIECBAgQIAAAQJ5AQVAPgMTECBAgAABAgQIECBAgAABAgQIECBAgACBcgEFQDmpAwkQIECAAAECBAgQIECAAAECBAgQIECAQF5AAZDPwAQECBAgQIAAAQIECBAgQIAAAQIECBAgQKBcQAFQTupAAgQIECBAgAABAgQIECBAgAABAgQIECCQF1AA5DMwAQECBAgQIECAAAECBAgQIECAAAECBAgQKBdQAJSTOpAAAQIECBAgQIAAAQIECBAgQIAAAQIECOQFFAD5DExAgAABAgQIECBAgAABAgQIECBAgAABAgTKBRQA5aQOJECAAAECBAgQIECAAAECBAgQIECAAAECeQEFQD4DExAgQIAAAQIECBAgQIAAAQIECBAgQIAAgXIBBUA5qQMJECBAgAABAgQIECBAgAABAgQIECBAgEBeQAGQz8AEBAgQIECAAAECBAgQIECAAAECBAgQIECgXEABUE7qQAIECBAgQIAAAQIECBAgQIAAAQIECBAgkBdQAOQzMAEBAgQIECBAgAABAgQIECBAgAABAgQIECgXUACUkzqQAAECBAgQIECAAAECBAgQIECAAAECBAjkBRQA+QxMQIAAAQIECBAgQIAAAQIECBAgQIAAAQIEygUUAOWkDiRAgAABAgQIECBAgAABAgQIECBAgAABAnkBBUA+AxMQIECAAAECBAgQIECAAAECBAgQIECAAIFyAQVAOakDCRAgQIAAAQIECBAgQIAAAQIECBAgQIBAXkABkM/ABAQIECBAgAABAgQIECBAgAABAgQIECBAoFxAAVBO6kACBAgQIECAAAECBAgQIECAAAECBAgQIJAXUADkMzABAQIECBAgQIAAAQIECBAgQIAAAQIECBAoF1AAlJM6kAABAgQIECBAgAABAgQIECBAgAABAgQI5AUUAPkMTECAAAECBAgQIECAAAECBAgQIECAAAECBMoFFADlpA4kQIAAAQIECBAgQIAAAQIECBAgQIAAAQJ5AQVAPgMTECBAgAABAgQIECBAgAABAgQIECBA",
+  "context": "From document: ]||||/\\\\vvvv//\\.../\\/\\---/\\/\\.../\\\\vvvv//||||[ — chunk 26 (chunk 26/96)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "751d0ce44738c7033755a28c7169e646",
+  "relatedUnits": [],
+  "keywords": [
+    "aaecbagqijaxuadkmzabaqiecbagqiaaaqiecbagqiaaaqiecbaof1aaljm6kaabagqiecbagaabagqiecbagaabagqi5auuapkmtecaaaecbagqiecaaaecbagqiecaaaecbmoffadlpa4kqiaaaqiecbagqiaaaqiecbagqiaaaqj5aqvapgmtecbagaabagqiecbagaabagqiecbagacbcgefqdmpawkqiecaaaecbagqiecaaaecbagqiecaqf5aazdpwaqecbagqiaaaqiecbagqiaaaqiecbagqkbcqafqtupaagqiecbagaabagqiecbagaabagqieccqf1aa5dmwaqecbagqiecaaaecbagqiecaaaecbagqkbdqajstopaaaqiecbagqiaaaqiecbagqiaaaqiecoqffad5dexagaabagqiecbagaabagqiecbagaabagtkbrqa5aqojecaaaecbagqiecaaaecbagqiecaaaeceqefqd4dexagqiaaaqiecbagqiaaaqiecbagqiaagxibbua5qqmjecbagaabagqiecbagaabagqiecbagebeqagqz8aebagqiecaaaecbagqiecaaaecbagqiecgxeabue7qqaiecbagqiaaaqiecbagqiaaaqiecbagkbdqaoqzmaebagqiecbagaabagqiecbagaabagqiecgxuacukzqqaaecbagqiecaaaecbagqiecaaaecbajkbrqa",
+    "qxmqiaaaqiecbagqiaaaqiecbagqiaaaqieyguuaowkdiragaabagqiecbagaabagqiecbagaabankbbua",
+    "axmqiecaaaecbagqiecaaaecbagqiecaaifyaqvaoakdcragqiaaaqiecbagqiaaaqiecbagqibaxkabkm",
+    "abaqiecbagaabagqiecbagaabagqiecbaofxaavbo6kacbagqiecaaaecbagqiecaaaecbagqijaxuadkmzabaqiecbagqiaaaqiecbagqiaaaqiecbaof1aaljm6kaabagqiecbagaabagqiecbagaabagqi5auuapkmtecaaaecbagqiecaaaecbagqiecaaaecbmoffadlpa4kqiaaaqiecbagqiaaaqiecbagqiaaaqj5aqvapgmtecbagaabagqiecbagaabagqiecba"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

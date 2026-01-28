@@ -1,0 +1,32 @@
+---
+id: bdd32499-1370-41e9-a8d9-0f646b3f4fa8
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - kdiivxhsmljnxxs0w5filwpwpx2no7trrromwsddfykjc8
+  - >-
+    nt4abkozratjiruwzznljeakipdxxr7zxs8m6rpj3ewvnzkvlyqt1py3me9mm2nir5dtnbdsza2y84ichb2h3aymu9s0do
+  - uirl5szto6skdguavn9sn0nftqw95od07kequigpgklnhnixvyu1iixrsba3rxlu1rr
+  - r7hh4q
+  - >-
+    ptmyak3prjiuxbssvumiywvoyu7yufsmjmn176dhos77jglrvpm3ifs23hdydktdjhtvt6qi677pg6scqbpn6ex2cvpypmhg3gx
+---
+# kdIIvXHsMLJnXxs0w5fILWPwPX2No7trrrOmWsddfYKJC8+NT4ABKOZRAtJirUWzzNljeakIpDxXR7Zx
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 1306 (chunk 1306/11534)
+
+## Content
+kdIIvXHsMLJnXxs0w5fILWPwPX2No7trrrOmWsddfYKJC8+NT4ABKOZRAtJirUWzzNljeakIpDxXR7ZxS8m6RPj3eWVnZKvlyqt1Py3ME9Mm2nIR5DTnbdSza2y84icHb2h3Aymu9s0DO/no/UIrL5SzTO6skdGuAVN9sn0nFtqw95OD07KeqUIgPGKlNHnixVYU1IIxRSbA3RXLU1Rr/R7hh4Q+ptmYaK3prjiuXBSsvUMIYWvoYu7YUfsmjmn176DhOS77jGLrvpM3ifS23HDYdkTDjHTvt6Qi677pg6SCqbPN6ex2cVPYpMHG3gX+w3I7WNrruJJVqoAY9/sg0gJLEcaBSbVS+SF5z6okgczbZebR+0dkTc3hGRmM/VCuN8/bB2TqIkcwVuaPdTpKCE31x/sRYzEFJx/c7SPzJ/1Gxc/pfA+KxesbRsL9bzUtd2anwP3r3V88hnSMdAwawVucsPzj77U0/O98I+YZLwSyzRHC8Bk3EYGUhfZKLmXdbI24ScbLvPksc+fL/tKcPO0MbXM7MNuRjMj1xC5iIxzxbzTeBZ2pjO1eIX+D0W6ldee8Lv59+PTqnFBBy+C5/jjm/e5ZxRYhNlgmcmV36lzwYESk7PNC5Wc/1Mi/cWw2+e0k+kfX2reKl/0KXNVV5Xt4YXujtasggpKJ5Hnnt78DpBfKjzVaGcVQfQtr0WWmB3W6/WD5QdgXcKHum5SrqOcY/nBjgB0nN/23vPfoqzn/0GGnxtLyHrWkR8RrwvWa+PiDObRWDwajsXj0EOMHb5EZ7ZFR+8k64UfOVRkraiM18Ez6Q9xeV5fmSf6C5867Y2l5A5zhqbKOm+R3R1zHeYNeHWrkxJVuGkfqGkCzxt/D0KJYxrr5cpYVxHzn6/8sbwonA0Ayz9UEBj9EHjDS3fPKyzo4jGRJKQaQuqi0xOllg6f4Z81d4M3tV9kqLPKfsCVsW7IhePmbRQgwCZrXCEJhqRj4qv9V+pHhePuvuFrI7W9piKkURC3tcIMSrtNfVGTkR+KN1ItremCQXHeAcMD7JQypu09kEK2fMU+WB3zftAKTtbXO5lt1WWOe55ipTiOsE9jiscYS0P/WPrAKCttTecPe81SwpjWX/ku/8tEsx2FU3GzgffLR4j1eo9E4+5bIx7fAYuGONxAiKXkDHmJvGYrulyFasL5xR50FAN2+aQAG
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

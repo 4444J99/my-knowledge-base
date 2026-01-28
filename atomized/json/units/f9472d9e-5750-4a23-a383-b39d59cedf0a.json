@@ -1,0 +1,26 @@
+{
+  "id": "f9472d9e-5750-4a23-a383-b39d59cedf0a",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:18:05.000Z",
+  "title": "<div>➡️ Human Review Gate 1 (HRG-1): Merge Approval [HRG-1]</div>",
+  "content": "<div>➡️ Human Review Gate 1 (HRG-1): Merge Approval [HRG-1]</div>\n<div> * STOP EXECUTION.</div>\n<div> * Present the &quotMerge Candidate Report&quot [P1-B] and the &quotBaseline Test Report&quot [P2-A] to the human user.</div>\n<div> * Request: &quotDo you approve this merge strategy? [Yes/No/Modify]&quot</div>\n<div> * Proceed only upon &quotYes.&quot</div>\n<div>Phase 3: Validated Amalgamation [P3]</div>\n<div> * Execute Approved Merge [P3-A]:</div>\n<div>   * Execute the merge strategy precisely as approved in [HRG-1].</div>\n<div>   * Flag any new conflicts that arise (if any) and place them in CONFLICTS.md for the swarm.</div>\n<div> * Post-Merge Validation [P3-B]:</div>\n<div>   * Run the exact same test suite from [P2-A] on the newly amalgamated main branch.</div>\n<div>   * Definition of Completion: This phase is complete only if the test results are equal to or better than the baseline. If new tests fail, this is the primary focus for Phase 5.</div>\n<div>Phase 4: Analysis &amp Task Definition [P4]</div>\n<div> * Repository Knowledge Graph [P4-A]:</div>\n<div>   * Scan the amalgamated main branch.</div>\n<div>   * Generate the interconnected knowledge graph mapping files, functions, dependencies, and user context.</div>",
+  "context": "From document: full best practices house keeping; — chunk 3 (chunk 3/24)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "3e83484e9c334693cb3ed7e0779f00e5",
+  "relatedUnits": [],
+  "keywords": [
+    "merge",
+    "quot",
+    "phase",
+    "test",
+    "this"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

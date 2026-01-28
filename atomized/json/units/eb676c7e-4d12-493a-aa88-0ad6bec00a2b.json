@@ -1,0 +1,26 @@
+{
+  "id": "eb676c7e-4d12-493a-aa88-0ad6bec00a2b",
+  "type": "insight",
+  "timestamp": "2025-03-19T08:54:53.000Z",
+  "title": "<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px",
+  "content": "<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><b><font face=\"HelveticaNeue-Bold\" color=\"#111111\"><span style=\"font-size: 15px\">Week 1</span></font></b></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><b><font face=\"HelveticaNeue-Bold\" color=\"#111111\"><span style=\"font-size: 15px\">Introduction to Writing</span></font></b></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><font color=\"#111111\"><span style=\"font-size: 15px\">Writing Foundations, Mechanics</span></font></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><font face=\".AppleColorEmojiUI\" color=\"#111111\"><span style=\"font-size: 15px\">✅</span></font><font color=\"#111111\"><span style=\"font-size: 15px\"> Weekly Writing Warm-Up </span></font><font face=\".AppleColorEmojiUI\" color=\"#111111\"><span style=\"font-size: 15px\">✅</span></font><font color=\"#111111\"><span style=\"font-size: 15px\"> Discussion: What Does Writing Mean to You? </span></font><font face=\".AppleColorEmojiUI\" color=\"#111111\"><span style=\"font-size: 15px\">✅</span></font><font color=\"#111111\"><span style=\"font-size: 15px\"> Narrative Essay - Prewriting</span></font></div>",
+  "context": "From document: Below is a sample “Module Navigation & Weekly Overview” document that… — chunk 11 (chunk 11/46)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "bd2f2280cc167423e582fae6fad9d700",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "span",
+    "style",
+    "color",
+    "border"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

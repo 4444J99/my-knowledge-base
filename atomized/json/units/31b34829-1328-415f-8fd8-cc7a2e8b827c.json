@@ -1,0 +1,26 @@
+{
+  "id": "31b34829-1328-415f-8fd8-cc7a2e8b827c",
+  "type": "insight",
+  "timestamp": "2015-02-09T16:39:46.000Z",
+  "title": "<div>To you, whoever the 'you' is that is reading this, we are one in the same a",
+  "content": "<div>To you, whoever the 'you' is that is reading this, we are one in the same and you don't know it yet, but I've already been accepted to this school. </div>",
+  "context": "From document: To you, whoever the 'you' is that is reading this, we are one in the…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "d33e8e97a7de37109e31bac5cf054f75",
+  "relatedUnits": [],
+  "keywords": [
+    "this",
+    "whoever",
+    "that",
+    "reading",
+    "same"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

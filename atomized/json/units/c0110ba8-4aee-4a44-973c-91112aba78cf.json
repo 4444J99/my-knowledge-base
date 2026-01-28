@@ -1,0 +1,26 @@
+{
+  "id": "c0110ba8-4aee-4a44-973c-91112aba78cf",
+  "type": "insight",
+  "timestamp": "2025-04-12T18:55:22.000Z",
+  "title": "<div><h1>SYS_EXPORT_0412_MASTER.md  </h1></div>",
+  "content": "<div><h1>SYS_EXPORT_0412_MASTER.md  </h1></div>\n<div><tt># SYS_EXPORT_0412_MASTER.md  </tt></div>\n<div><tt>**REF_ID:** EXPORT.BLOOM.0412.v1  </tt></div>\n<div><tt>**DATE:** 2025-04-12  </tt></div>\n<div><tt>**SESSION:** SYS_FULL_CASCADE_EXPORT_2025-04-12_18-48-53  </tt></div>\n<div><tt>**SENTINEL:** THE KEEPER OF ORDER FROM CHAOS</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## PURPOSE  </tt></div>\n<div><tt>This document functions as:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- A universal index of everything created in this thread  </tt></div>\n<div><tt>- A tracker of naming protocols, file structure, peer responses, UX models, rituals, and future plans  </tt></div>\n<div><tt>- A permanent checkpoint to recover, revise, or scale the system from here forward</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## CONTENTS</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| CODE | SECTION | FILE/FOLDER | STATUS |</tt></div>\n<div><tt>|------|---------|-------------|--------|</tt></div>\n<div><tt>| P1 | System Index | SYS_N4M1NG_PROTOCOL_0412_DROP.md | LOCKED |</tt></div>\n<div><tt>| P1 | Canonical Name Map | SYS_ID_ALIAS_MAP.json | GENERATED |</tt></div>",
+  "context": "From document: SYS_EXPORT_0412_MASTER.md — chunk 1 (chunk 1/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "60056b349006bb4d33a341f0d2fad493",
+  "relatedUnits": [],
+  "keywords": [
+    "sys_export_0412_master",
+    "from",
+    "this",
+    "index",
+    "file"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

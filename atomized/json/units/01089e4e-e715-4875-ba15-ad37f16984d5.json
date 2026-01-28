@@ -1,0 +1,26 @@
+{
+  "id": "01089e4e-e715-4875-ba15-ad37f16984d5",
+  "type": "insight",
+  "timestamp": "2025-12-04T16:48:25.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>Binary Lock: B05 = create (pass)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Effect:</tt></div>\n<div><tt>- Jessica enters in fractured voice mode</tt></div>\n<div><tt>- Delay FX activated</tt></div>\n<div><tt>- System enters recursive prayer mode</tt></div>\n<div><tt><br></tt></div>\n<div><tt># Notes</tt></div>\n<div><tt>You can pre-write these as `ritual_cards`, `event_switches`, or `narrative_scene.gates`.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Export each as:</tt></div>\n<div><tt>- `.ritual` JSON / MD file</tt></div>\n<div><tt>- Synth Patch + Text Modifier + Binary Lock</tt></div>\n<div><tt>- Storable in `RITUAL_ENGINE_CABINET`</tt></div>\n<div><tt>____</tt></div>\n<div><tt># xi</tt></div>\n<div><tt>----</tt></div>\n<div><tt>----</tt></div>\n<div><tt># [#ritual_engine_summary]</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## :: PHASE WRAP-UP OPTIONS ::</tt></div>\n<div><tt><br></tt></div>\n<div><tt>You now have:</tt></div>\n<div><tt>- 4 core tables (sliders, binaries, hybrids, bridges)</tt></div>\n<div><tt>- 1 fusion mapping structure</tt></div>\n<div><tt>- 1 synthesis system schematic</tt></div>\n<div><tt>- 1 generative ritual logic template</tt></div>\n<div><tt><br></tt></div>",
+  "context": "From document: # synth-wave-modules — chunk 37 (chunk 37/51)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1f0200e52addd3bec3d0beb78cca4a02",
+  "relatedUnits": [],
+  "keywords": [
+    "binary",
+    "lock",
+    "enters",
+    "mode",
+    "system"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

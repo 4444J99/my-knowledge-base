@@ -1,0 +1,32 @@
+---
+id: a59ba17d-a215-4932-9dd4-72ae61280387
+type: insight
+created: '2018-11-17T18:19:07.000Z'
+document: e329ec4e43d47fccabf1e22882189db8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    y7sya7mluygckaiivbw2t6u0kdlut2ftkht901htzznhrqbgcafs5gkamgbs5qrd2tuobj5femgsvzhni
+  - kgaocemyxzimjapt6u8hfgcme0w
+  - kvj7dmvdy7gzenpcjmo8465oepapm
+  - bjgqfsoskdibpomuxc4v9e3am42nb7dafjlew6j
+  - >-
+    cmffu47fnrcljwsvy8cacd6qtbszb8nj5iq4ouzaycqaax15wrwtuegbcof3agknj6vjq4iixgeac98vu3mwgpcnkvz13fiezr26vxzwp0fgfo9gcmy71vicrgoy565pzfiumtg4xwvvi
+---
+# Y7sYA7mlUYGCKAIiVBw2T6U0kDluT2FTkhT901HtzznHrQBGcAFs5GKaMgBs5qRd2TuOBj5femgsvzHn
+
+## Context
+From document: Black Bean Salad — chunk 2135 (chunk 2135/2298)
+
+## Content
+Y7sYA7mlUYGCKAIiVBw2T6U0kDluT2FTkhT901HtzznHrQBGcAFs5GKaMgBs5qRd2TuOBj5femgsvzHnI/KgAOCeMYxzimjAPT6U8hFGCME0w/KVJ7dMVdy7gzEnPcjmo8465OePapm+bjGQfSoskDIbPOMUXC4v9e3am42nB7dafjLew6j/CmffU47fnRcLjwSVY8cAcd6qtbszb8nJ5Iq4oUZAyCQAaX15wRwTUEGBcOF3Agknj6Vjq4IIXgEAc98Vu3MWGPcnkVz13FIEZR26VxzWp0FGfO9gCMY71VicrGoY565pZFIUmTg4xWVvI+VTjjjNcTRoaUhBPyrgd6SM4YAjIFVopSqhDznoa04ojkMcE+hre6JJo1ZhuHOeBTTubgtjb1HrV0bcgKcfTtVd4gS56sOBxRdEkTygkeg/ShscDqGqMISp7U8IUUKDkdKltAMwU4PI9qkVf4nXNPZdqgk5yccVMvBMa8g9zRFoCSOJWOcA5GR7VpJAjJ+74Ddvf1qhFxjII7Y+ta0cB+VWBUIMZrZANt42UhTzjpXRIxCKW59azo0TICdq0ECk8/jXWiJEpOz94MtmnKuAWPG7saiPUleg7VY64zg8dKsyE29M4xTsKPmPOKZsz0yPalUMMpmgCXdw2QRgZqP5SAdx+btins4xjOWHGKiOY1APY80AKRt9+KUDuaQsFYdcN2pWXB3DnHagAB5yPyNVpc89evNTncw3dMVEzDqOfagCFGVlyQRk9aEyGKnk0qM4DDGQTwPSlUErj+L1rQzAHjk5wTSrkjAHsRTXUBc9Mck0xGbBIOaAJNgIyeMUh5yvT3pDIfTKnvS8bRjkUANwQpYdBwafjK4BzxTGZAowxAPamKXXhj/8AXoAkMYUY6VCYznI6fzqctn5AM+9OUBQwZsntQBRmQcdzWTNH+8z+tb5UMMsM4qEwhjyK55G6MEy8hGBIPGazby1iVyyLgMOtdC9oMEAgkn8j7VTuLZgmwAkdDnrisZIa3OMMabmCLnPX2pYgwYEcAe/WtO8ha3cKRhe/HWqbRI2SGwR0HpWJqQkgFxnG7t/Wo1cs2Ac/pVgW29dx5OcZ6VXa3kQMcYAGR700CDzl34HUnH1oLg5Q8YyQaYIj5au5Jf27VSkYgfKADyDmiwWZKWJfIXIVc/jSi6dAF7D+tU3kcgHgHHajLAcknBH
+
+
+
+---
+*Source: Document e329ec4e43d47fccabf1e22882189db8*

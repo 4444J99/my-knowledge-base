@@ -1,0 +1,26 @@
+{
+  "id": "3de6ffa1-2e63-437f-aed1-794f6db1aef6",
+  "type": "insight",
+  "timestamp": "2025-12-11T22:37:24.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><font face=\".AppleSystemUIFontMonospaced-Regular\"><span style=\"font-size: 12px\">$10,000 + tech support</span></font></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><font face=\".AppleSystemUIFontMonospaced-Regular\"><span style=\"font-size: 12px\">Ongoing rolling admissions</span></font></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><font face=\".AppleSystemUIFontMonospaced-Regular\"><span style=\"font-size: 12px\">Moderate (9/10 fit; limited slots)</span></font></div>\n</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><font face=\".AppleSystemUIFontMonospaced-Regular\"><span style=\"font-size: 12px\">S+T+ARTS Prize</span></font></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><font face=\".AppleSystemUIFontMonospaced-Regular\"><span style=\"font-size: 12px\">€20,000 (~$21.5K USD)</span></font></div>",
+  "context": "From document: Chris, — chunk 17 (chunk 17/26)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "4da601776fe2a536037bde47b9f74920",
+  "relatedUnits": [],
+  "keywords": [
+    "style",
+    "border",
+    "font",
+    "width",
+    "span"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

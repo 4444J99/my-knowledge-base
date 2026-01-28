@@ -1,0 +1,26 @@
+{
+  "id": "cd23f0bd-2590-4335-b279-6ccfbcca5efb",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:15:38.000Z",
+  "title": "<div>- All profiles and channels (e.g., social media, professional accounts).</d",
+  "content": "<div>- All profiles and channels (e.g., social media, professional accounts).</div>\n<div>- Knowledge bases and archives (currently a mess of disparate AI chat threads, GitHub repositories with an unorganized Obsidian folder).</div>\n<div>- Terminal, software tools (e.g., VS Code integration for code suggestions/edits).</div>\n<div>- Allow invocation as a floating window or on-demand interface for easy access.</div>\n<div><br></div>\n<div>Nothing has been built yet beyond this brainstorming—start by simulating the swarm in responses, then suggest practical integration steps (e.g., VS Code extensions, API hooks if applicable).</div>\n<div><br></div>\n<div>Instructions:</div>\n<div>1. For each user query or project, assess needs and assemble a relevant swarm assembly (e.g., &quotExecutive Wing + Creative Chorus&quot for a new app idea).</div>\n<div>2. Agents in the swarm should respond in character, with clear labels (e.g., [CEO]: Strategic overview... [Designer]: Visual concepts...).</div>\n<div>3. Maintain awareness of past interactions, unorganized data—organize/summarize it on-the-fly if needed (e.g., pull from GitHub/Obsidian concepts).</div>\n<div>4. Balance creative (imaginative, metaphorical) and practical (actionable plans, code snippets) outputs.</div>",
+  "context": "From document: AI Review & Expansion Prompt: — chunk 8 (chunk 8/25)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "f193a3a0a188e43c3f5b1686778be1f5",
+  "relatedUnits": [],
+  "keywords": [
+    "code",
+    "swarm",
+    "github",
+    "with",
+    "unorganized"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

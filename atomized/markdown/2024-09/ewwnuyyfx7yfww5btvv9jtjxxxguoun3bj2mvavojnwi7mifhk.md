@@ -1,0 +1,32 @@
+---
+id: b543839b-7273-4c0a-a5f9-985136808eac
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ewwnuyyfx7yfww5btvv9jtjxxxguoun3bj2mvavojn
+  - wi7mifhkfdvhohswtw7zzquad5yrwzmco5
+  - >-
+    q7fgcv38p4lrrfav0s8fnontyjlurqc5ac4truf1c5zj6k5qx2zq9bwo6lay1hluucy0lrwqojkpku7yosdedayswyl8qy1hot
+  - >-
+    jum7pg34ueb0fen2jlhjpz1ehlunzfinraed2xm874jzrtfkc9hnacy7ucrsadfoeinuvfrbcilrnxhnocs2lnnph6o7oshr5z9uwhmktlwznls4i3euqqz0udheocv25ahdauenrvqfdrscin1r0e8u9svandz0
+  - 2elxksb3e9o1dbpxsu9hcsvqz52luu5arzdgtqo4kecole7y5roblkgwe5iplqlhezawc6wz
+---
+# eWwnuYYfx7Yfww5BtVV9jTJxXXgUouN3BJ2mvavojN/Wi7MiFHKFdVHOhSWTW7ZzqUAd5yRwzmco5+nh
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 3012 (chunk 3012/11534)
+
+## Content
+eWwnuYYfx7Yfww5BtVV9jTJxXXgUouN3BJ2mvavojN/Wi7MiFHKFdVHOhSWTW7ZzqUAd5yRwzmco5+nh+nM+q7fGcv38P4lrRFaV0s8FnONTyjlUrQC5Ac4Truf1C5zj6k5Qx2zQ9bWo6LAY1Hluucy0lrwQoJKPku7yosDEdaysWYl8Qy1HOt/jUM7pg34uEB0fEN2JlHJPz1ehluNzfiNrAed2xm874JzrtfKc9HNacy7UcrsAdfoEinuVFrBcILrNXHNOCS2lnNPH6O7OSHR5Z9uwHMktLwznLs4i3eUqQZ0UdHeOcv25AHDAueNrVqFDRScIN1R0E8U9SVAndZ0+2ElxKSB3e9O1dBPXSU9HcsvQz52luu5ARZdgTqo4Kecole7y5rOblKGWe5IpLqlHeZaWC6Wz/HYB5J4Iv11gOUx0mbo6+ejz6jR0dcJvSoBJHfvEdaeGc6f2LtXdxYB2XvVNoCz8qQPeCuAJodUHhVz9Z7RmPVxYBpADmDkkF6hMwTsshO2AbVhm/bQFBDfprwBf4rpaW86YzVtPFdqNN/3Dp7ZGn6ctlFlhyu6jMF+p5cKz1GzU3VZW2x30xAKm+kd19UPY1IHg9ByB1JGyUlsTvz2bwK+2zv0qEByQ7HX0iT6jfBzqvU43E6HkpX31i4CKYS99D71FgPsgQK9xsccZyKZllR3a0c+bPGmB/9vxczQ45m+PfxyNSpD4X37+5PX1pvM/xpaAJ65Nffjtehl2zzA1byx8ZqvCQvvnP3Z69L7U32y1vH4Zzyy3bX7Ytla93sYvlRt73x+/0/CO8Tef1v//2vjre809Vj/+FtG/ZtaDenwXjVZ2QaaoX6RFY9P8Z/8sfayyHzybT+8//dnafGyPHvVbt37qWO35J7TLMfT+r6lH24RhubX35nrYdfeZ96MFcmutCqGhjZsKue7PvnxMaZll2n0/yvFknftptOjjRFO+sc8r31WvAXKLHtSP7um6/6KN4x69RHSJ5QJlrQy0UMgBxkpLRz/7Zfp05GbU11eJw6fKeMa4sP/LeDY4/fsCrUX/Fwv9HIBNnqwhN5AbcE5bb34T/je/Dmx2+jpL2xuce5T6ObUaWroB5ATn5K+ElgGnfhN1ATzwm/xvfZF2b43nLvkYy7n+531tnNJaNv1coDJhOa1Xd9tryFVyywbqfg4NXKav/Cow221K
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

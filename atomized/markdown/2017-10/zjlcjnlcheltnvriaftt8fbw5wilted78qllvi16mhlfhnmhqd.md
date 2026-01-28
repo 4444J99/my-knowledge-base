@@ -1,0 +1,32 @@
+---
+id: 2a71ebb8-11c0-4db0-a8e0-81497991e8e4
+type: insight
+created: '2017-10-19T23:15:11.000Z'
+document: 18dc3a996dd053a8e2f8b89fa16c3840
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - zjlcjnl
+  - cheltnvriaftt8fbw5wilted78qllvi16mhlfhnmhqds7reqpfs98h8zflsu9btvlueut
+  - >-
+    ippfbfgckdepoxbxnawbteupvdr2cmgngjkyektmvksh8gseakifirergrsor5vzaiyidjlal4wzmzmel5hgses2thkkddgwk55ee5kmeaxmdneb
+  - >-
+    dd50xie4zqmrgrf6ls66oi4whddoi4ehpvs97htxw8l4nuqportqugyh15anjqcifcik4yaxosqtu4wqy0mv5gctmz8s09mi1zsi9kj9x0ljkz
+  - rv0mbbf6bakazadynokmo
+---
+# zJlCJNl+CHElTnvrIaFtt8FbW5wILted78qLLvI16MhLFhnmHQDS7ReQpFs98h8ZFlsU9btvlueUt/IP
+
+## Context
+From document: L-day IN A CHAR — chunk 689 (chunk 689/966)
+
+## Content
+zJlCJNl+CHElTnvrIaFtt8FbW5wILted78qLLvI16MhLFhnmHQDS7ReQpFs98h8ZFlsU9btvlueUt/IPPfBfGckDEpOxBXnAWBTEuPvdR2cMgngJKyektmvKsh8GSEakIFIReRgrSOr5VZaIyiDJlal4wzMZMel5hgSEs2thkKDDgwK55EE5kMEAxMDNeb+dd50xie4ZqMRgRF6lS66oI4wHdDoI4EHpVs97htxw8L4NuqpORtquGyh15anJQCIfcIk4yaxOSQtu4wQy0mV5gctmz8s09MI1ZSi9KJ9x0ljkZ+RV0MbBF6baKAZAdYnOKmO/Fymol3ROmalPiEZy0neGU+WlfRUc1QVGOPn1DOOUZ7S7+g95lkd1Qj1Qj+K/OsqgxQjgunoWdWeRMElZEoFFQuD06dOlv9WmqjOTBPXN6iTvczI+0p9pqzIkAolAIpAIJAKJwHgIGNeaG5vL95vvmhO7J/rcfveMl/LyPWW+aT5g6+BvfvObnxqD4BDMI8xROaHm+GT5yretxGkAaItY3p8ItEAAKYVURNDxeka2aoR9WKWRsXUv9K7JGQ064sgnJrKIVwGJZKJrb2heaognhCRrMOIQsYaU4jGPsPKbIQGhpINAQMkbgkonrAORXwQV0h+p5b4g6lpAN9atyC9yIL/IW08XIYrQRiQjSBHqixgQ4Ii+t99+u5AG8PZRfgYyVR1xDkkIe3lWHrYakEfkIgwCB3EqH4S068qoHpQxjOioOGMggCA3eKIT0udNAGcDLMYHAwvpOI4K4lc3Is6433nlEqS48oQFIwjdpE/0mYx++5BFuuIK/Y74Bh3dh1Cl/wY70hWXvMFHfhxhVMV6UHyjzpNdHVEeQc5KS154sIdRYFQ89evyTb4gi+UJNspNmvRdHtoYR+ppLPp/5UavQ2fC6AEX5UxHFzXQ648++qh4/5NTnZCXIP3ptEBvXHeMfClTddP2TlZYxaoYeivfUffpOPJRPaLn/drFRcUn5UoE5oGAusSZwJGDg7ozadAvX7t2rfSrxnzRr04abz6fCCQCiUAikAisGwLGs+ah5jqcfvoFc2FOMuZGeImYC/e7d9XPmROYD5gf+h3zRnMQ8yb8FKdU8/x1xmnV9SDylwaAQCKPicAUEAgCx0tpeaPGHnRIHAaAL33pS6UhbkpcdiWi9JGOOkbbAiGiGCh0Dsh/
+
+
+
+---
+*Source: Document 18dc3a996dd053a8e2f8b89fa16c3840*

@@ -1,0 +1,32 @@
+---
+id: 65f4f362-354c-42e6-b46e-cb8166ed1770
+type: insight
+created: '2018-11-17T18:19:07.000Z'
+document: e329ec4e43d47fccabf1e22882189db8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    cfdomj2oaaxijib9frs529om9qomakce5d9qebipkgiavsbsemdmgcgm8hdwo64heny3hgkh29ksieckhjoo1n2lavy4b9utqbavxjbjbhq
+  - >-
+    1syaaz26u5cnj5sd6h0pjoovqcgbm7ded64pyhgzsdngikjtfvxkkypuxawyghthr9aalwfjjgqamiogtbb5jhkn3qu4jblenaxigkkyjxnt6uaqt8rcgfn
+  - onfgxuaaahqd6augbkg49o1kykyfj24wkagq2
+  - a6hpg03ptpjipp0fisax7yxz7u9sm4hchoaaak5fcomc8
+  - lpzuklhjuayhpu0ocsfvugot
+---
+# cfdOMj2oAAXIJIB9frS529OM9QOmakCE5D9QeBipkgIAVsBSeMDmgCGM8Hdwo64HenY3HgkH29KsiEck
+
+## Context
+From document: Black Bean Salad — chunk 572 (chunk 572/2298)
+
+## Content
+cfdOMj2oAAXIJIB9frS529OM9QOmakCE5D9QeBipkgIAVsBSeMDmgCGM8Hdwo64HenY3HgkH29KsiEckHjoO1N2lAVY4B9uTQBAVXJBJBHQ+1SYAAz26U5cNj5SD6H0pjoOvQCgBm7DED64pYhGzsDngikJTfvxkkYpUXaWYghThR9aALWFJJGQAMioGTBB5JHKn3qU4jbLEnAxigkkYJxnt6UAQt8rcgfN/OnFGxuAAAHQd6aUGBkg49O1KyKyFj24wKAGq2/A6Hpg03ptPJIPP0FISAx7Yxz7U9SM4HcHOaAAK5fcOmc8+lPZUkLHJUAYHPU0oCsFVuGOT+VNOGTK5I/ligB+0gAIcZ9aYwG4HnI/pT8NsU4BJ705wudxOccH0oArBn3DLfKxxkikUMpMYBJY8H2FICcBW7ninEqSu/IKnqK0MyIyIgGVYZPQU8srKD0/3uuKWNuQpGOvJ9KGAAw2GyeDQQxuFA5zyMjFJncpzkAH8zQQxbavP19KnPZRxtOR71oWQHDZY8r/nNTEZOFBIx0+lOwSApYAY4FMzg7uhxx+FACnPmZI4PP/66ryR7sBecE/rVjbhAS2d2c+3tUIXjAJJ6ioaIaKyqR8ucKOuKpvh5SByMHP1q8x2vyMKevpVR1AJx8o6D1NIpEfz4B/LNHJAbgKvrSlQeh6f54pwAGF65HegYjZVwTjkZ/CkXBJb0qQgbfn7cCkAwNp4HJbHWoZaG8FeOcmmlSGAUYzTkYEAqMjnGRgilKqX6kYH50hjCu05UbR6+9IY1Vuue/HrTzgDG3gjjmk2hSN2ct2oAVdzSg5AHOSamGMgEc9RVfeM7MnPpT42J6AAD1oAmAVXyBwT1p+9ghVOR0/M1EuM4yCTj8aXDIvAwCPyq0QywFKAdCeOlIeCGPb1pqhuCvI4poILBW53E8elMRITtG0nK9BnrSO5VdzdCOn0okO7Hr696ZwQQaAHq5OMDHf8ACpXLuPkHXAJ+tNjwoAYZAH86GcDO3GBQArgqygnOOKacI54OTzml+ZjuONhGMjrmnYDHBJOP5igCuSeQecnimBiMjOfw5qZnbLLjntnoKhIx0+bnk1maCrzhkblTyDU2ccNwarDlh8uM84qULtPIzz+VWiGKdwIyfmBx0pi4Yjkg/wBakG45ZMbj09BURkO3CqASc5piJdoAwTnBpmGEmVF
+
+
+
+---
+*Source: Document e329ec4e43d47fccabf1e22882189db8*

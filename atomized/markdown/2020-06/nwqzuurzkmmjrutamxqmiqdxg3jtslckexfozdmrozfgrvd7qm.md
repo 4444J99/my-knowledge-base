@@ -1,0 +1,32 @@
+---
+id: c40ee4ff-6094-4656-866b-cb840d859cc0
+type: insight
+created: '2020-06-04T17:55:09.000Z'
+document: 7838224ece3cf674d11a18091884392f
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    nwqzuurzkmmjrutamxqmiqdxg3jtslckexfozdmrozfgrvd7qmcynjjkplo3rrylmhrkvn2kxztuhsg3cdpb4puiuzfxpadjvsqsetzbhzb5o6vetmdiskkdx5l2nmpqwiyko3ptd6ukcgcdnowxndioykoncirbts
+  - >-
+    ctfgckxsijiql5oxnfdsqumjrqkfy7kvezhkvu8wry3smsxyulao1cqcyldfuorniykdkhf5uy8hio5wtzo0icdnqkk9aqtcjbkjmqzxqh3s1sg2hof
+  - dtzcx
+  - c1idijzhar53i
+  - fwx5ribj
+---
+# nWQZUUrzKmMjrUtAmXqMiqDXG3jtSLcKexFOzDmRoZFGRVD7QmcYNJJKPLO3rRYLmhRkVn2kxZTuHSg3
+
+## Context
+From document: Music Intervals — chunk 109 (chunk 109/140)
+
+## Content
+nWQZUUrzKmMjrUtAmXqMiqDXG3jtSLcKexFOzDmRoZFGRVD7QmcYNJJKPLO3rRYLmhRkVn2kxZTuHSg3CDPB4puIuZFxpADjvSqSetZbHzB5o6VetmDISKkdx5l2nmpQwIyKo3PTd6UkcgCDNOwXNDIoyKoNcIrbTS+ctFgckXsijIql5oxnFDSquMjrQkFy7kVEzHkVU8wry3SmSXYUlAO1CQcyLdFUornIYkdKhF5uY8HIo5WTzo0icDNQkk9aqtcjbkjmqzXQH3s1Sg2HOf//T/dtZCx+c1IDIjZHAr53i/ab+FwX5ribJ/wBgf/FVY/4ab+GTYHnzf98D/wCKrZmOp9DR8/M1MknIzhq+dz+078MT+7E05/7ZjP8A6FSP+0p8MivEl0T7RA/+zUlHuNXPocjMee5qwoTyxnrXzx/w0p8ONoG66/79D/4qg/tLfDgKcG7I/wCuI/8Aiqlu+hSPopWcD5elIZJT1Br51X9p/wCHAGFS9P8A2wH/AMVSD9qL4dEkLFfHHpB/9lUFH0XufGcGm5J+8MV89f8ADT3w9zgW9/8A+A//ANlTH/ad+HmebfUPwt//ALKm0Jn0MVHYc045OK+cX/ae8AIMm01E/wDbt/8AZVGf2ovh/wAYstT5/wCnX/7Km1Yhpn0nuPTNBCDkd6+a3/ah8AqQRYaq30tf/sqjb9qTwFwP7N1b/wABP/sqVilc+l8cdKcgQV8zv+1T4BVdo0zVyfa0/wDsqqn9q3wME3jR9Zb2Fnz/AOhU+UOU+oc5HNM6qN1fMK/tW+CCP+QDr3/gB/8AZ0//AIam8HlOPDuvsfawP/xdKwNM+m9o44p4IWTngYr5h/4an8J4wfDPiHj/AKh5/wDi6H/aj8L7gR4W8Rt9NOP/AMXSEk7n1G33TUMbfezXzOf2pfDO3/kUvEp/7hp/+LqGL9qPw24JXwh4nP8A3DD/APF07aFSZ9PE+tR8iTPavmU/tQ+Hydv/AAhvij/wVn/4ug/tR+H2YKPBfiokf9Qo/wDxdDRKTPp0EgmkJJxivmNv2odFHB8D+K+f+oU3/wAXTU/ah0fkHwL4sAHT/iUt/wDF0WKSPp2TbxjqaZtXGXFfLx/ak0cOSPAXi9vTGkN/8XTJf2p9L4Vvh54yOfTR2P8A7PTUbkuLPcPiYm/wFra/9Osn/oNeS/svF3+EliX5/wB
+
+
+
+---
+*Source: Document 7838224ece3cf674d11a18091884392f*

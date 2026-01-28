@@ -1,0 +1,32 @@
+---
+id: 769e2b11-19ce-4cce-a4b2-1756bbd10ddb
+type: insight
+created: '2022-09-15T21:24:08.000Z'
+document: 78ffa9589d25b2912402df4dafe270de
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: research
+keywords:
+  - after
+  - with
+  - drink
+  - that
+  - sober
+---
+# <div>If I took a drink, I’d wait until after 12:01pm. Time proved that at exactl
+
+## Context
+From document: If I took a drink, I’d wait until after 12:01pm. Time proved that…
+
+## Content
+<div>If I took a drink, I’d wait until after 12:01pm. Time proved that at exactly one minute after noon, the signal would go out either summoning or ghosting the probationer. I was sober for the first court-mandated drug test. Sober-ish…a few months after DUI, I upped my alprazolam dosages with the help of my psychiatrist and the help of pressed research chemicals from the dark web and also finally made my decade long love affair with cannabis official by receiving a medical card. Both of which I was high on when the police pulled me over at 5:00am on Labor Day. At the probation officer’s behest, I urinated into a multi-drug screening cup. My nerves weren’t all that high as I was. Though I did not drink because I was unsure how the office tested for alcohol. After I pissed, the officer retrieved a breathalyzer with an alcohol detection window of only a few hours. This suited my machinations well. </div>
+<div><br></div>
+<div>When imbibe, I commit crime. </div>
+
+
+
+---
+*Source: Document 78ffa9589d25b2912402df4dafe270de*

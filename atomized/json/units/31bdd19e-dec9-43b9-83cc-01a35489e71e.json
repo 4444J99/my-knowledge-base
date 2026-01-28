@@ -1,0 +1,26 @@
+{
+  "id": "31bdd19e-dec9-43b9-83cc-01a35489e71e",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:15:38.000Z",
+  "title": "<div>    showSuggestions: true,</div>",
+  "content": "<div>    showSuggestions: true,</div>\n<div>    avatarState: 'attentive'</div>\n<div>  },</div>\n<div>  ANALYZING: {</div>\n<div>    inputHeight: '48px',</div>\n<div>    showSuggestions: false,</div>\n<div>    avatarState: 'processing',</div>\n<div>    showMetricPreview: true</div>\n<div>  }</div>\n<div>};</div>\n<div><br></div>\n<div>// Avatar response animation</div>\n<div>const ResponseAnimation = {</div>\n<div>  stages: [</div>\n<div>    { duration: 200, effect: 'shimmer' },</div>\n<div>    { duration: 500, effect: 'morph' },</div>\n<div>    { duration: 300, effect: 'stabilize' }</div>\n<div>  ],</div>\n<div>  environmentResponse: 'gradual', // 2-3 second transition</div>\n<div>  metricsUpdate: 'immediate' //</div>\n<div>```</div>",
+  "context": "From document: AI Review & Expansion Prompt: — chunk 25 (chunk 25/25)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f193a3a0a188e43c3f5b1686778be1f5",
+  "relatedUnits": [],
+  "keywords": [
+    "duration",
+    "effect",
+    "showsuggestions",
+    "true",
+    "avatarstate"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

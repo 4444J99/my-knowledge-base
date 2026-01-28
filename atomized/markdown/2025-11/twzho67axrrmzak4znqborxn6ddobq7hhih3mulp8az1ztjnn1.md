@@ -1,0 +1,32 @@
+---
+id: c809bb2a-c006-4bfe-a2f5-7ae17d4d98fa
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    twzho67axrrmzak4znqborxn6ddobq7hhih3mulp8az1ztjnn1x9cvyu0qri9ilzvx9e7a52tuh2ssgetyx8tmk85qgunwub3wsbjrdthczjhacnh967sdbo1ax0v
+  - jxi4
+  - l45haqs
+  - >-
+    fknoijamylysxac6tuhr9qulbjlnfsw3cvrqcqvwosrkjjgf1cgkgfcqry03t6ijsfrx7xas1t9p7krksgoeijmhvxu
+  - wzb3n6oxzlsrxrhwpn6tg3bvmqkvubyc53zjaeql7kepxedkeppypf0gbmunmf7nzx
+---
+# TWzHo67aXrRMZak4ZNqBORxn6dDOBQ7hHIh3mulp8AZ1zTJnn1x9cvYu0qRI9iLZVx9e7a52tUh2SsGE
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 2575 (chunk 2575/11629)
+
+## Content
+TWzHo67aXrRMZak4ZNqBORxn6dDOBQ7hHIh3mulp8AZ1zTJnn1x9cvYu0qRI9iLZVx9e7a52tUh2SsGEtYx8tMk85QGunwUB3WsbjRdthcZjHAcNh967SdBo1AX0V+Jxi4+L45hAQs+FkNoIjaMyLYsxAc6TuHR9QUlBJLNfSW3CVrqcqVWoSRKjjgf1CGkgFcQrY03T6iJSfRx7XAs1T9p7kRKSGOeIjmHVxU/WZB3n6OXZLSRXrhWPn6tg3BVmQkVuBYC53ZjAEQL7kepxedKeppypf0gBMUNmF7nzx/2SW2mfJG4hjlLDdqY6nRZ0AN7oAHo8uEAUZHM1WYTAcWn34CJuDv8+vM/fNx6eefimI+qoezSZuiNH6c4RAZSW6Lzu07SeQEuhV0p0R0rkuF75LTG2pYahzrm69rlS3hIH9sgxva61GXFAQ+nOEwFTB09KXEpa6h+WWbc/lVZNt+1o7UwL518fhRaGx9XR4TWu7m90bqVVxM8+iQM3siABv49Lltz0MWiFZL/p7VSUJ/2sJe0XbhBH+R83oSWf9V/+ERdiROum20hpG7X3dQzr0oPr1tLNyBbP5Nfkxcy6GOG1ziMlcX7bKzKYHVySQBYjYOqpqU0yRtXjdweZsE+02zKjbUVhRht1UNc0G8fP1km91a1HwPFgRpeeUWqb3DqDnsWMz1OmYWp6yj1cJwESIAESIIFTCASfsoc7MoWAPxBH560nH9zkRGTywb8AsP1BuzmEjhz++DqG9RnrZBrE0QYnpZfmAsJFIvKjyyoE5KLOxpBQyk0Go45eukF2kBWwL/sBPqTgHPF5++aNyPPz3oS9CXty7Dq269juOTvVzqidKtFOjEzU58tlKuLRTiZgoJeIE0NdOqkjIKUH384DbR9Y+UDbrt92u+a593PNzlktV/X5j80fteCau9veXfielYdePPTCIdgc4Fy95OJ0BIx2Qb88971H3nvknfLVv736muoLVbR3jff09OrT987Y21P1VM+DvNZCG3qdHp66ffMTlhhEt8UrmXI0jprtg8iKf6Z8oUW43Dbl68pluWzjVh9HPO49jw84BX4QX3BOgVsKxub5Ps/3Ec33vbz/lv0v7ej5R68dPXce21UXbaB428KTKAFHxWsctmgKnU8Ate+4URBrAeeBlfevvK9tt2e6fdvtoJ6mH7dgPPy37QLthnWo
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

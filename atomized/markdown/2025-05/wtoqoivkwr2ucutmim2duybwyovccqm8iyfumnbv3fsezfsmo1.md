@@ -1,0 +1,33 @@
+---
+id: 9ff90217-1a8d-46ae-bd12-568b8e13b099
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    oqoivkwr2ucutmim2duybwyovccqm8iyfumnbv3fsezfsmo1jgxz4tkp5gsyqfrrsjyap9vhsfxksklkvr8j
+  - >-
+    zne4olhupmcaa85cjua6ate1dwpxfooplqolflqebczx4mzpazxhsenjwokpyeeyliizjovnjvzzlim91bilk5j0t4ysloahklr43bpaxot7a0tsezvw
+  - >-
+    n4oayi4igplz9sqqehbqpgklgaauztt1r14crxmapak5hgscpxkrfqw1sfkllltnjqxs3su1en9cvywwyaqhkutrzuqn6w4xg2hgavvv9xgnpcxsjqtxlktl6mt28aci1lxumzvretohkxevwjsflel0xcalh5ejlcdqtpjuhyla0yhg0ziswowswseqlmh6seq5uqsppzprc6b2h1epjzwf0pq
+  - swydugqwejqzzczrwtqdqw
+  - swzzwhluz7zn376avnppfwu2pxkk08kcabdw7zskc2bn8umtztk48an6wj6o9yjjzwilp5p
+---
+# /Wt/oqoiVkWr2ucuTMiM2dUybWYoVcCqM8IyFUmnbV3FSEZFsmo1jGXZ4TKp5GsyqfRrsJYAp9VHSFXk
+
+## Context
+From document: New Note — chunk 8589 (chunk 8589/21099)
+
+## Content
+/Wt/oqoiVkWr2ucuTMiM2dUybWYoVcCqM8IyFUmnbV3FSEZFsmo1jGXZ4TKp5GsyqfRrsJYAp9VHSFXkSKlkVR8J+zNE4olhUpMcAa85CjUa6ate1dWPxfoopLQOlfLQEbCZX4MzPAzXHSENjWOkpyeEYLiIzJoVNjVzZlim91bIlK5J0t4ySloahklr43Bpaxot7a0TseZVW/N4Oayi4igpLz9SQqEhBqpGkLgaAUztT1r14CrXmapak5hgsCpxKrFqW1sFklLLTNJqXS3SU1EN9cVYwwYAqhKutrZUQN6W4xg2hGAVVV9XgnPCXsJqTxLKtl6mT28AcI1LXUMZvrEToHKxeVWjsFleL0XCalH5EJlcdqTpJUhYLa0Yhg0ZIsWowSWsEqlmh6sEq5uQsPpZPrC6B2h1EpJZWf0pq/swYdUGqwEJqzZczRwTqDqw+swzzwhLUz7Zn376aVNPPfWU2PXkk08KcaBdW7Zskc2bN8umTZtk48aN6WJ6o9YjjzwiLP5p+Ycfflg2bNggDz74oPANif1m58s65pvk9vb2NGjk11bI1/L888+nr2loaDB/TsS+jomgilCJYu1j/vG6devS5952220Z5xYKVnnPFStWpO/D763/cew5P0jR7y0/0LCPFTK2UefZZ59t3ixnu+5HP/pR+nldeumlGY+VC6zyfn19febaadOm5YS/V111Vfox/GCV9+Fz1O/HSSedJPwwwf98+WGR/Vrg+QcDrPK/SNZ/p/nhmP952vMFCxaYr4tJtzYEts9x4/0PLd0e75s91g9OD8231e5ZuR1wO+B2wO2A2wG3A24H3A64HXA74HbA7YDbAbcDbgfcDrgdOLA74MDqgQSrH6axqqJVdoWq2m2w6k9Y5VyTVdkVqrLbWNUe+6GqglXtClW122DVj1V1/oWVtKqfuWr3g1VNV7XRai6omithlb/b0GRV9j1Fq0SqmrSaC6xqkmpQV7hKlBoEVrmuZUNVTVXV7geruRJWFbHaaJUolXOFqkHdj1XtuY1T/eNCfi+hcDUbVNV1G6HmGxOi8hwbpGYbE5nymN05Dio/TuU5NjrNNSYY9R9XWMp1Pa5re9MJSXm9H5TqPf3rg50TZuo19ti/xmN22cft9f015k9Dvbc9ttd0XbseszuP+f/h8T35Z0+v25PHctcUtgMDwSpSVS9h2iq7Jqy+
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

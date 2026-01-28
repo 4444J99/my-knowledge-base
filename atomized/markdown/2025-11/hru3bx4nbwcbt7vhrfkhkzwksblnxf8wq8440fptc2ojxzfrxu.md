@@ -1,0 +1,31 @@
+---
+id: 6427132a-c2ed-4cbd-b42c-74f385a768b1
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    u3bx4nbwcbt7vhrfkhkzwksblnxf8wq8440fptc2ojxzfrxuclaua3ywr2itvxqkysipshsjkorcwmssrawpohofhnt9qxkj7pievydrgo1h4hapw5emfqy6bb93qxnfmqcogdthqfbtiir8ybhdvovxfhfio643dmeplmbyzqxcafaequh6ywynbpm4lxmrjyp0optumzwgkp3aq
+  - 7qi0va0pemyaoxrhomrj6vzuuawov2
+  - rbcpi01gucn5yztrhtoiqao
+  - fhbwrcxd3tnk5bfqqzpxgx7oh1bfwmnquggpogjdqutmgubzsgdmjbod4xciv
+  - 1xbavjykqibylky5mda0fcd8tt6wcabmhhngngchb0uobf5hrdnxko
+---
+# Hr/u3bX4NbwCBt7VHRfkHkzwksblnXF8WQ8440FpTC2oJXzfrxUCLaua3yWr2itVXqkysIpSHSJkORCW
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 4462 (chunk 4462/11629)
+
+## Content
+Hr/u3bX4NbwCBt7VHRfkHkzwksblnXF8WQ8440FpTC2oJXzfrxUCLaua3yWr2itVXqkysIpSHSJkORCWMssrAWpoHOFHnT9qxKj7pIEVydRgo1h4HApw5emFQy6BB93QXNFmqCOGdTHQFBtiiR8ybHDVoVXfHfIO643DmEpLmBYZqxcafaEQuh6YWYNBpm4LxmrJYp0OPtumZWgKP3AQ/iM+7Qi0vA0pEmyAoxrHOmrj6VZUuawov2/0+RbCPi01gUcn5YzTrhTOiqao/fHBwrcxD3tNK5BFQQzpXGX7oH1bfwMNqugGpOGJDquTmgUbZSgdMjBOd4xCIV/1xBavJYkQIByLky5MdA0fCD8tT6WcabmhHNGNGchb0UOBf5hrDNXKO/+AzGPeHhB+uIcCmuRXcs3Ioj7yt/b4gXrgHSgnHTgB9YBaNTYXxXXmxTMf+LKG3yV7y9Tq8M6PIFfxbH3csLSe3F6yIaDIQySHRqqTedRslis649PJvejAzzymUcD9jq93XNZx6YrLVuxZ+ajlmtVCS7tyzAIDumiGxVPXlN89bNjwe0cMJ1TwVacyK+B+Qbq/4FdpFh7j5RMl6smneVaXjuWh7uacICcrl05QKamKjAtffOQvzrP2SO8PdYmVxaHeH2uYxU5jH0KvYqHYmFyPUfNj0x50b+2q1fXOy+9f1ukmdmCgLQE30Ixd9XbV211P69bldPhxQqhoowyMqaRV90TqeC2P1P78EodhlJ7v9Hg7/Z2fWCv0017VbVoulP3U2xbftvjW1hJSUMKsnbElUnQl8GVKZZl+SQ3wDSU/1R8/4o3tPK7zuE5AYWqexIxYLri25NpP7hCyaqOm85j1/eGAu9Lbpq/IsL5iBq2j9LbYXDTf/CVOOo20fMhV6AlLtPAg1DTDL9YI7onXOMJV6LFO7++6kSksi5EOLSoJ5ldLdOdbOle4v8K6CWt7UEdLqyATaEjFJg0/y62kXCTkWwkuqDW/23fjWLPPykswEm6ATZDBgRlTCvWWKZbU0Z5ibAEdfAVPcrOQ7Vu5V/0xrnSBZd1P+3Npx/I5qTmpuQF1h+G9EfpJ6Umu/Gt6GbJVTJUDB2f1h0LIRbVBgOg9A0+G9Zqp+bRM73sd/8bax+jsuBwcrCUQnIT7nqXO1tFSc/GPLByPtepVR2xgYsfQYffux81h4IpV4F+0KNPi
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

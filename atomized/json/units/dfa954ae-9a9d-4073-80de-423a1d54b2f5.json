@@ -1,0 +1,26 @@
+{
+  "id": "dfa954ae-9a9d-4073-80de-423a1d54b2f5",
+  "type": "insight",
+  "timestamp": "2025-02-12T23:46:07.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📂</font> Content:</div>\n<div><br></div>\n<div>&quot[Full text from Canvas, exactly as written in the course.]&quot</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">➡️</font> Navigation Button</div>\n<div><br></div>\n<div>&quotClick Next to continue to [Next Section Name].&quot</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📌</font> 2.3 Readings, Presentations &amp Knowledge Checks</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📖</font> Readings:</div>\n<div>  •  Listed as bullet points with chapter numbers &amp section titles.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📖</font> | Chapter 4 Section 2: Effective Transitions in Essays</div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🎥</font> Canvas Presentations:</div>\n<div>  •  Clearly labeled as:</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📖</font> | Week X | Writing Strong Thesis Statements</div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">✅</font> Knowledge Check:</div>\n<div>  •  Clearly marked with interactive instructions &amp guidance.</div>",
+  "context": "From document: ENG 101 | Course Content Formatting & Protocols — chunk 5 (chunk 5/8)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "499cbdc66afc5c828775c69f3b17f7c2",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "applecoloremojiui",
+    "quot",
+    "section"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

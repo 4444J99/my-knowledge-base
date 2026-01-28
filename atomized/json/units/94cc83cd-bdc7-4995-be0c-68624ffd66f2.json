@@ -1,0 +1,26 @@
+{
+  "id": "94cc83cd-bdc7-4995-be0c-68624ffd66f2",
+  "type": "insight",
+  "timestamp": "2025-12-21T15:24:13.000Z",
+  "title": "<div>provide system governance, including title, metadata, front matter, unique ",
+  "content": "<div>provide system governance, including title, metadata, front matter, unique ID, and so forth;</div>",
+  "context": "From document: provide system governance, including title, metadata, front matter…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "3a0fdecdee7d58345be977f30cbff620",
+  "relatedUnits": [],
+  "keywords": [
+    "provide",
+    "system",
+    "governance",
+    "including",
+    "title"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

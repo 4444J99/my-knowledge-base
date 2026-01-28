@@ -1,0 +1,26 @@
+{
+  "id": "5e5cf3f6-30a0-4540-b54b-8bcd60f4c815",
+  "type": "insight",
+  "timestamp": "2018-01-01T22:43:12.000Z",
+  "title": "<div>The rain could be everywhere at once: </div>",
+  "content": "<div>The rain could be everywhere at once: </div>\n<div>And so do I, except,</div>\n<div>I’m not as strong</div>",
+  "context": "From document: The rain could be everywhere at once:",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "696e609682463e4014a9ccc91e295c78",
+  "relatedUnits": [],
+  "keywords": [
+    "rain",
+    "could",
+    "everywhere",
+    "once",
+    "except"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

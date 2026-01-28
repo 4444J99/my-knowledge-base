@@ -1,0 +1,24 @@
+{
+  "id": "34df3d60-fc4d-4041-a92c-664b66c44b3f",
+  "type": "insight",
+  "timestamp": "2023-03-20T14:53:15.000Z",
+  "title": "<div>“</div>",
+  "content": "<div>“</div>\n<div><br></div>\n<div>Cover Letter: “</div>\n<div>“</div>\n<div><br></div>\n<div>Thank you letter: “  “</div>",
+  "context": "From document: Nursing students are applying to a job (job posting attached). — chunk 4 (chunk 4/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "6e91d04f1e3b85993d2aac65042b0ab9",
+  "relatedUnits": [],
+  "keywords": [
+    "letter",
+    "cover",
+    "thank"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

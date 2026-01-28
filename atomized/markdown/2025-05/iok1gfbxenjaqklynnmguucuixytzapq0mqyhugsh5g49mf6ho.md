@@ -1,0 +1,33 @@
+---
+id: 80560df5-370d-4dd4-9ca1-1bf13d7f34cf
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - iok1gfbxenjaqklynnmguucuixytzapq0mqyhugsh5g49mf6h
+  - >-
+    oaumnsilck9zptaacm2o4x2mabgkjuxy15lukks6ojkilccobqtdr70zk4ovtgdwzkym5b6ygaanoolmgouuyis
+  - >-
+    bfzzdaktrh0u5wdwrrl47pwrlzgcmbuhywtjfo35oainbcephvwlgpnnyqgmg4lfotue7ndekll4rcmh
+  - ue9aq4nq0gnycrjupydclwdchtniu13t86u3y0qevkxvuvhwq8baa0pxeg
+  - >-
+    kjrfkn9k3nyb5bwew2gg9s4tvr50sdrdhdozuesbodpbqn1choayaqcgjyg1ub0cybigluztmu6vbwmktwp
+---
+# Iok1gFbxenjAqklYNNMgUUCUiXyTZApQ0MQYhUGsh5G49MF6h+OAUmNSILCK9ZPtaAcM2o4x2mABgKJU
+
+## Context
+From document: New Note — chunk 11729 (chunk 11729/21099)
+
+## Content
+Iok1gFbxenjAqklYNNMgUUCUiXyTZApQ0MQYhUGsh5G49MF6h+OAUmNSILCK9ZPtaAcM2o4x2mABgKJUXY15lukKS6ojKIlcCOBqTDr70zK4oVtGdwzKyM5B6YGaanooLmGouUYIs/bFZZDAKtrH0U5wdWRrL47pwrlzgCMBuhYwTjfO35OAinBCepHvwLGpNNYqGMg4lFOTUE7NdEKll4rCmH+uE9Aq4NQ0gNYcrjUPYDcLWDcHTnIU13T86u3y0QevkXvuvhwQ8BAA0pXeG+kJrfKN9K3NYB5bwEW2gG9s4tvr50sDRDhDoZUesBoDPBqN1CHOayAqCgjYg1UB0CYBigLUzTMu6VbwmKtwP+rxuWvH3AHdIt6JRJ0HqAYAitOCuFcEZsMQKKVFoIQcieIeQkE1DkA1moJ6Ku5lAPctjM9rorNVolCbDeWoWNvi+Xi+DTFvkxgA2RjqkvAdOH9nBrB6HtB6R0QKnBfg2Wy0TjKxOqiuAnovNMmG0bBsAug8APi9E7B3BxSJ8x3LsW6WQZF2KRRs8TnKLgM4XCd9/VBg7UeMoZYcg4JvEED5nDAA0hgCGCWACvKWFj1lEUrIEkiFbDIVWDOptZ7CagduSCbFDyxkf6nOyuMhM8v+QYKoUEkN8EMPaJWwaiS8GMAqxiGwiqCRsm8n5ArynlLRE3LRSz1gleqsAcCvVFlVWDWAm0lrA6za2kSZ6UWTRli1qX6mCqs1UFcltEpQVf00oFWCqt6xp/wEuDpLSNUGWqcNrRarrJ6vwOpbb73lC6vyQbADVh1UZkNlruzWhFsDbg2ciTVQbgOsFm26eXpufM0+/2dZDljdtm1bxQAQWCPc6mdDQ0Mlj+eG80033YS/ZktNOTYcDuPL6UYPzCw1wEc+8pGi4/h/KG7SffzjH5eenp6iNs7t2muvrQiuznZOOldu+N95551iApKcA8t8iMRNam5EmzHr7e3Vw6d4fmbuvvtufOFLFB2jY956662eOseUAytU8EGYOYdSed4nv8SHHPfddx/+cjLtO8727du9P4CqZqOxFmOZ8Was7OTXzocQfPgXiUSKroEKw/fff3/FNcNzEGIcHR3Fd8pQ0RiMZz6fl5MnT3oPTOz5sMyHR2bcd+zY4XXjH5lt2bKlqI0PSKabqH68c+fOonH0fMlk0ltXXF+lUqnP2Ve/+lVsxnVP
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

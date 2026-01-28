@@ -1,0 +1,26 @@
+{
+  "id": "fc9a52ac-f0e2-4e80-8ce2-052932a5dfd5",
+  "type": "insight",
+  "timestamp": "2025-07-02T06:34:40.000Z",
+  "title": "<li>Claude<br></li>",
+  "content": "<li>Claude<br></li>\n<li>‎Gemini - Fitness exploration and study<br></li>\n<li>Google Gemini<br></li>\n<li>Phone Link requirements and setup - Microsoft Support<br></li>\n<li>Phone Link requirements and setup - Microsoft Support<br></li>\n<li>Terms of Service - Consumer | xAI<br></li>\n<li>Privacy Policy | xAI<br></li>\n<li>Send bookmarks from Safari to Chrome. - Google Search<br></li>\n</ul>",
+  "context": "From document: zio - Google Search — chunk 12 (chunk 12/12)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "bbd041b1e00b1c077947834c8d496bfd",
+  "relatedUnits": [],
+  "keywords": [
+    "gemini",
+    "google",
+    "phone",
+    "link",
+    "requirements"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

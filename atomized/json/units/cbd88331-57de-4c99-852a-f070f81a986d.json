@@ -1,0 +1,26 @@
+{
+  "id": "cbd88331-57de-4c99-852a-f070f81a986d",
+  "type": "insight",
+  "timestamp": "2015-03-07T01:19:40.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Press note ‘C1’ on the Step Input Keyboard and drag-right along the keys (both white and black) to and including ‘B2’. Those are the 24 trigger notes for the drums hits in Ultrabeat.</div>\n<div><br></div>\n<div>19. Enable the ‘ON’ button and ‘voice mute mode’ on each of the 4 Ultrabeat instruments.</div>\n<div><br></div>\n<div>20. Make a 1-bar loop cycle around the MIDI region. </div>\n<div><br></div>\n<div>21. Press ‘Spacebar’ (PLAY).</div>\n<div><br></div>\n<div>*Here’s what’s happening:</div>\n<div><br></div>\n<div>The 24-note chord of MIDI is being fed to the 4 Arpeggiator objects via the Monitor object.</div>\n<div><br></div>\n<div>The Arpeggiators are turning the 24-note chord into single notes, sending out different lengths, resolutions, and directions. When those notes are received by Ultrabeat, rather than triggering the sample, it’s muting and unmuting the sample, because voice mute mode is turned on.</div>\n<div><br></div>\n<div>When you press play, all 4 Ultrabeat instruments are playing their individual patterns at the same time, and individual samples are being pulled out and dropped back in, creating an evolving beat that always sounds similar, but is almost never the same. Experiment with different Length and Resolution settings on the Arpeggiator objects, as well as more or less Ultrabeat instruments.</div>",
+  "context": "From document: CREATING EVOLVING DRUM PATTERNS IN ULTRABEAT USING THE MIDI ENVIRONMENT — chunk 3 (chunk 3/3)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "a93647ef799f58e17284be64aa2db01c",
+  "relatedUnits": [],
+  "keywords": [
+    "ultrabeat",
+    "press",
+    "note",
+    "notes",
+    "instruments"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

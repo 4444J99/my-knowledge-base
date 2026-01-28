@@ -1,0 +1,26 @@
+{
+  "id": "13f930bc-5619-443d-b998-9fe95064c192",
+  "type": "insight",
+  "timestamp": "2025-02-12T16:23:09.000Z",
+  "title": "<div>CONTRAST</div>",
+  "content": "<div>CONTRAST</div>\n<div>ORDER</div>\n<div>Undoubtedly</div>\n<div>Unquestionably</div>\n<div>Obviously</div>\n<div>Particularly/In particular</div>\n<div>Especially</div>\n<div>Clearly</div>\n<div>Importantly</div>\n<div>Absolutely</div>\n<div>Definitely</div>\n<div>Without a doubt</div>\n<div>Indeed</div>\n<div>It should be noted</div>\n<div><br></div>\n<div>Along with</div>\n<div>Apart from this</div>\n<div>Moreover</div>\n<div>Furthermore</div>\n<div>Also</div>\n<div>Too</div>\n<div>As well as that</div>\n<div>Besides</div>\n<div>In addition not only ... but also</div>\n<div>In addition to this</div>\n<div>Additionally/In additional  </div>\n<div>Unlike</div>\n<div>Nevertheless</div>\n<div>On the other hand</div>\n<div>Nonetheless</div>\n<div>Despite/In spite of</div>\n<div>In contrast (to)</div>\n<div>Contrary to</div>\n<div>Whereas</div>\n<div>Alternatively</div>\n<div>Conversely</div>\n<div>Even so</div>\n<div>Differing from</div>\n<div><br></div>\n<div>Following</div>\n<div>At this time</div>\n<div>Previously</div>\n<div>First/Firstly</div>\n<div>Second/Secondly</div>\n<div>Third/Thirdly</div>\n<div>Finally</div>\n<div>Subsequently</div>\n<div>Above all</div>\n<div>Before</div>\n<div>Last, but not least</div>\n<div>First and foremost</div>",
+  "context": "From document: Week 3 Canvas Data Dump: — chunk 12 (chunk 12/32)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a727fbfe745a37d5f1770e6775399db1",
+  "relatedUnits": [],
+  "keywords": [
+    "this",
+    "contrast",
+    "from",
+    "also",
+    "addition"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

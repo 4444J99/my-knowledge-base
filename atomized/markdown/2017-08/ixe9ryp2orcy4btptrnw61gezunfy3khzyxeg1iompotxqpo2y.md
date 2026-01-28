@@ -1,0 +1,32 @@
+---
+id: dfa88f89-7e6f-4943-b333-094a97ba3ca1
+type: insight
+created: '2017-09-01T01:01:20.000Z'
+document: c09dc023ec256edd51aef2e3615dd904
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    ixe9ryp2orcy4btptrnw61gezunfy3khzyxeg1iompotxqpo2yezrbngf27bmu0edxbrizwrunrhetq0xg
+  - vxvhxamrv0hgabjhtbhmzhiezd2rq6p7djt0v
+  - sw33pq5gigymvmhl4qbjcwjgqj0dmgsadqahle
+  - >-
+    4w0clwfhii9syzx7gjcgx4ssb8blhdklmlkey8nibokb33j2r9h8v83raj5medvpmmyps8jrkbug7xyxseyctim6zzfmwnvplxfciadqrmgm2hlephdsf3j
+  - ynk874yyudgkiv88tj
+---
+# iXE9rYp2OrCY4BTptRNw61gEZUnfY3KHZYxEg1iOMPotxQPo2YEZrBNgF27bMu0eDXBrIZWrUnrHETQ0
+
+## Context
+From document: Web Sitcom Ideas — chunk 234 (chunk 234/798)
+
+## Content
+iXE9rYp2OrCY4BTptRNw61gEZUnfY3KHZYxEg1iOMPotxQPo2YEZrBNgF27bMu0eDXBrIZWrUnrHETQ0xg+VxvhxAmRV0HGaBjhtBhMZhieZD2RQ6P7DJt0v+sw33pq5GIgYmvmHL4qBjCWjGqj0DMgsADQahlE/4W0ClWFHII9SYzx7gjcGx4ssb8BlHDKlMlkeY8nibOKb33J2R9h8V83Raj5mEDvpmMypS8jRkBUg7XYXSeYctIm6ZzfmwNVPlXFCIADQrmgM2HLEPHDSf3j+yNK874yYudGKiV88Tj+/M3GQVUPf2PZUzEIgwltnBJ14P5EPoU00IcyoHK8AnYN0RPeZ+NC/pz8yUaT3mvdZxwno8DMpaWyZZgIakT1xMArHoJX943+PTjbXJrC0G/M5FNR0/yNY0c5S3+OcgKGT153vuYfeN4Gqul/Gg3x3/U5wsGR+vmed6ufssUTBCzIH3K+4T7IeujW1a37SejNqpgIs3R6jZnvG/I0bN5ol+s53vnPGVgQFWGgAJPViTNjUn+mXhdrLuefjPuE5zSmA/xqfyQhz7Rac4qLRz3mfCubALhlESMlp7KI/M+47iEv2AAFSxhteM943AP9OrPxeAvhrrMrJhmNBS+r2AwqSEjDdpnnl6g1xIcw1UvCLuaexpgWaFpjzFoCoA9sTphQLIoAfwKG0YOr1AtFUhQzU73F6PX+zX9MCTQs0LTCwFhApKTykNZDWH/jjI8hkiLCTv+cks3Wtby3AMpIrtF5nbQfw7/WArkJr7UAmJ365JDO8ZsVfA9AbgCHfQ/YWbNZWBpHzs5/9bHbGGWdkZO+mApnsD9nz9NNP9+6/lrTUWx1sNr5j7WniyaQv2qlPOhvX0hxz7luAd6S0rpn7ixrAFYAZYihXqHYBQcN8yajwJZGAKY5bZVoDUjfAeABYlHCiWgMz0BqaOpNT+Ertxn1+wdoPSXCwH7DKorGuFMbrsbD4eZe/P//88/ZPIZWASxdZ/elQjH3IV1LfBFyCse2EE04wwJ+Iir+kMRpyIj4vx2QffFSyVZEcnkuyyvTVe7qrOfpJCi+LAiYGUibSRJEuhwakUYmwkAmQJIKIsLQ0RbGYFNEFBuQPk1rg+bojI1NQqV9BMjCdpvN4W+R/6OydmB42AKOZlIBxijjbmGgE5uarDo9yBoDjCdgrHpeXDmBWkX3S
+
+
+
+---
+*Source: Document c09dc023ec256edd51aef2e3615dd904*

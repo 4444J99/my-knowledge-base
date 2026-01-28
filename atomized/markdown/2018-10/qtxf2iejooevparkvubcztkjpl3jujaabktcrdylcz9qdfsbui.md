@@ -1,0 +1,31 @@
+---
+id: 5ca962b8-8c88-4032-af7b-232b2ff4c140
+type: insight
+created: '2018-10-05T22:17:31.000Z'
+document: 15981fe11fce83e658f6940d49a17e08
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - qtxf2iejooevparkvubcztkjpl3jujaabktcrdylcz9qdfsbuiu05xhdsxxwrfleio4i7yjuiu
+  - cgij7hji2nw417uor90kkqipt665adfjebyxd1sndfbv6dmgg2hgqcrdxl8z9qjew6asmwds
+  - >-
+    wqr3amradxu0et3jkk2tffui783exvr3apm2kxbvv4j7hji2nw417kkm7pni2rsl6kxctsazrwp5f3hxekbxtbhoyedexcrdgvcjxcckevdjiu1fspfwrc
+  - 7hqsfcicotdw18g
+  - bzbvxq1e
+---
+# QtxF2ieJoOeVparkvUbcZTKjPl3jujAABkTcRdylcZ9QDFSBuIu05xHdSXxWRfLeIO4i7yJuIu/CgIj7
+
+## Context
+From document: Mike’s Mom’s Spanish Rice — chunk 18 (chunk 18/565)
+
+## Content
+QtxF2ieJoOeVparkvUbcZTKjPl3jujAABkTcRdylcZ9QDFSBuIu05xHdSXxWRfLeIO4i7yJuIu/CgIj7hJI2NW417uoR90kkqipT665ADfJeBYxD1sNDfbv6dmGg2hgQcRdxl8Z9QjEw6aSmWds+WQR3amradXu0Et3Jkk2tfFUi783EXVr3apM2kXbVv4j7hJI2NW417kkm7pNI2rsl6kXCTSaZrwp5F3HXeKbxTBhoYEDEXcRdGvcJxcCkEvdJIu1FSPfWrc+7hQsfcIcOTdW18G+//bZbvXq1e+65LfV7ReIyP5ND5KtA3luJu7TuDRIjQidZVA0DIu4TStqqBmSVt7nzFmkfnXnIgQMH3Kmnnpoca9eubflyq5Hn8Lxnz556mC1bttbJ+IEDB90P//APu/e85z1u9uzZ9fvPPPNMcu/3fu/36vfC+Dq5Lj+JryZ5V5/X3OdJHpJHVTAg4i7iLo37BGJg8on76Ih5O6L71ltvJaQasv3xj388Ie7tiPSFF15YD/PQQw83kfFf+IVfcO9973vd4sWP1O/3k7jHeWtXvvF8XiPvk4r7cHGqXVeFpKicIuTCQDMGRNwnkLQJ5M0gr6I8JpHANExkxpe0Q2pD4v6+973P7d69u064Y5Js/3/2Z382hbhjGjPl0ODv2rWrKY5BEnfLk51jor766fVu7YZNLW8SYn/D/z/J5F3mMlXsx1VmjeVpGBBxF3GXxn0CMTBpxL0spD0m7mjdzz333CbSbYTYzg8/vLhO2vH/0EMPJYQd0p51NBN389f9TjSWl7wzZXt20xZ3zoVXuK/Put4tXblK5P3wYb9V4zAOEfc0AqN7IrZVxICI+wSStioCWWVu7sCHQyaGQVhqadSI+3hr2o30msb953/+5933f//3uw9+8CdziPuU+6M/+qOEuP/qr/5qco6J+/nnn+/+/M//fEZzXyPp6cS99uzhhx9O/H/+8593Bw8ebEp7xYoV7oQTTnC//du/7f7gD/7AfeELZ7jt27c3+bFypJ2ffGqdu/Dy692Xzp/lLrjsOrdkxXiS90nDv5nHxGf1e839nuQheVQBAyLuIu7SuE8gBiaJuIw7aY8JrhH3X/qlX3Kf+MQnEjJ+//33B+TYNORT7pVXXkns13/lV37F/eVf/mUqcf/1X//15P6WLewgk0/cIf3f+Z3f6X7oh37IQe7N
+
+
+
+---
+*Source: Document 15981fe11fce83e658f6940d49a17e08*

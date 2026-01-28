@@ -1,0 +1,26 @@
+{
+  "id": "68b43dc9-2e3d-4f26-8e4c-708ce73b64c6",
+  "type": "insight",
+  "timestamp": "2022-02-05T22:52:41.000Z",
+  "title": "<div>We don’t chose our circumstance, we merely suffer them. </div>",
+  "content": "<div>We don’t chose our circumstance, we merely suffer them. </div>",
+  "context": "From document: We don’t chose our circumstance, we merely suffer them.",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "2c284869dc346d9a6e54ac28b9afb475",
+  "relatedUnits": [],
+  "keywords": [
+    "chose",
+    "circumstance",
+    "merely",
+    "suffer",
+    "them"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

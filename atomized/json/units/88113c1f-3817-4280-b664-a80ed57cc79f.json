@@ -1,0 +1,26 @@
+{
+  "id": "88113c1f-3817-4280-b664-a80ed57cc79f",
+  "type": "insight",
+  "timestamp": "2025-11-05T21:42:26.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><b>1. Google APIs</b><b><font face=\".SFUI-Bold\"><span style=\"font-size: 22px\"><br></span></font></b></div>\n<div><b>Google Custom Search API</b></div>\n<ul>\n<li><b>Purpose:</b> Web scraping, searching UCC filings, finding business websites</li>\n<li><b>API Key Location:</b>YOUR_GOOGLE_API_KEY_HERE</li>\n<li><b>Docs:</b><br><u>https://developers.google.com/custom-search/v1/overview</u><br></li>\n</ul>\n<div><b>Google Maps / Places API</b></div>\n<ul>\n<li><b>Purpose:</b> Business lookup, phone numbers, location data</li>\n<li><b>API Key:</b>YOUR_GOOGLE_PLACES_API_KEY_HERE</li>\n<li><b>Docs:</b><br><u>https://developers.google.com/maps/documentation/places/web-service/overview</u><br></li>\n</ul>\n<div><br></div>\n<div><b>2. OpenCorporates API</b></div>\n<div><b><h2>Purpose: Business registration data, corporate officers</h2></b></div>\n<ul>\n<li><b>API Key:</b>YOUR_OPENCORPORATES_API_KEY_HERE</li>\n<li><b>Docs:</b><br><u>https://api.opencorporates.com/documentation/API-Reference</u><br></li>\n</ul>\n<div><br></div>\n<div><b>3. Clearbit API</b></div>\n<div><b><h2>Purpose: Company enrichment, emails, employees, domains</h2></b></div>\n<ul>\n<li><b>API Key:</b>YOUR_CLEARBIT_API_KEY_HERE</li>",
+  "context": "From document: data enrichment strategy for ucc-mca intelligence platform — chunk 19 (chunk 19/32)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "42efb0f415b2f324521d2959a50f91bf",
+  "relatedUnits": [],
+  "keywords": [
+    "google",
+    "purpose",
+    "font",
+    "business",
+    "docs"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

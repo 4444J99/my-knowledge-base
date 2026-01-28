@@ -1,0 +1,32 @@
+---
+id: c1c53c5e-19c6-41ee-b7fb-410d55787d25
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ksdhrm5fdp6iyxd4tvzrmb6t4rzkoy50e67bl2
+  - r54qw5kc1gfwywcpmzr04ucj4an6e3
+  - h53cv
+  - >-
+    ozo16nmioytewfb1jjytgnulbxd1f1h21enfdakecbi6cxxfl5i5devyp7basxibyefunajh967cfjxohs40slxkrwiiudyckbb3iis8gvfbxwxy3br0gdbgp2el389rszdgn8yikjp9kbo6pwl31k4dq4zcj92iudrxdvkq4xrb0xgmo8tnoukz1bijv
+  - >-
+    zimu7pyv7fccwc6jbyddcxfs3jvhz2pp5p2dc3bo3lmjxbj2x3ri6njjmgbl8fratdwsis43gmvjotvevd
+---
+# KSdHrM5fdP6iyxd4tvzRmb6t4rZKOy50e67bl2/+R54Qw5kC1gFWyWcPmzR04uCJ4An6E3+e+CH+h53C
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 8945 (chunk 8945/11629)
+
+## Content
+KSdHrM5fdP6iyxd4tvzRmb6t4rZKOy50e67bl2/+R54Qw5kC1gFWyWcPmzR04uCJ4An6E3+e+CH+h53Cv+oZO16nmiOytEWfB1JjYtgnULbXD1f1h21eNFdaKEcbi6cXXfL5I5Devyp7BaSXIBYeFuNajH967cfjxohs40SlXKRwIIUDyckBb3IiS8GVfBxwXY3bR0gDbGP2eL389RSZdgN8yIkJP9kbO6pWl31K4Dq4ZcJ92IUdrXdVkq4xRB0XGmO8tNOukZ1BiJv+ZimU7pYv7fCCWc6JByDdCXfS3jVHz2Pp5P2dc3bO3lmJXbJ2X3Ri6NJjmGBl8fratdwsIS43gMVjoTvEvD/Fz/rC3RTYdQHQXR8IteTEOjA3nq6XvPaBi5dYV3dLhLo8QVfttRQBa43S/EvhtfN75d8v7v757efxreR9ffC6yd4jvIqQ9HR0LE/Eo00eDaw8hN047jEXXj4lHKg9uqAcHESmdMgvr5Vw6tuMVQ28PhJJow4xNTLGqrmhZpaa68ltr84wtzErvufRHn3bvNem73i8WmMOurdIoRIW2WopWiJqBD74xeTql6tf0Aeu3HGXs0Elv6bXlKKB5MZV54lY/PDAlYZbGQvFV+KlzMrYUpSX0obcqER+xNmSdOA9KSqWDs5/epEmFrckXVjFocbF4APzDszbz+9472xQPkgZ5Lmxv++Epc2PShsU7TI2XvKsqdiEe4rnSKXEPNTw4Y8eWlXgQ0Ba4ZGli05P7zy9809dNI2rz4lQv+udXZV3zRFeelhrzP2XwPnDsCQSuKTeDadiqKyFl8pVTwgeb62i6bEyQnrVExebcH7HnJ3dd85RPrvxYqlc+UnU5WAspX1teBFxudLkrpMrjZtG9ETzJv1YaDkGuvnVMQKXo0R9/bVLb9zs0V97bzZvIun5JRk8f+Uq2h90QjXeIlfl2tasu9/5vfLui2+Neev37mNDC4bugV2SgNwOkDisJ3Y+xjer7oMxcdmaZmf3Xd13due1zJOH/FV2pVaV+ujhj0AByaBWIF5As6Uck4kD4hmEKzKV780ilp70gubSIQuxruG0ZZi+I/P+VXYq/UTxi6Zpz6X+Cpf59TgYDklXTKY+oFfUIL3bzu47Ku3oHlsiS9CeNFH8N3sjtlU6HhsLcZZxuip/tJTKTQBrNSZ4WPAwq5m8dnKwUgK+vsTe
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

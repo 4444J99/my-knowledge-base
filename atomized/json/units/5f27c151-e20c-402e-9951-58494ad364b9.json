@@ -1,0 +1,26 @@
+{
+  "id": "5f27c151-e20c-402e-9951-58494ad364b9",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>---</div>",
+  "content": "<div>---</div>\n<div><br></div>\n<div>## **PHASE 3: INTEGRATION &amp AUTOMATION (Create Last)**</div>\n<div><br></div>\n<div>### **7. graduation-pipeline-automator**</div>\n<div><br></div>\n<div>**Description:**</div>\n<div>```</div>\n<div>Automated workflow for personal→org repo migration. Evaluates graduation readiness using system-constitution criteria, generates migration checklists, creates PRs with lineage documentation, updates knowledge graph, triggers relevant workflows. Integrates with GitHub Actions for CI/CD. Reduces manual migration overhead.</div>\n<div>```</div>\n<div>**(318 characters)**</div>\n<div><br></div>\n<div>**Copilot Prompt:**</div>\n<div>```</div>\n<div>Build GitHub Actions workflow + Python scripts for repo graduation: (1) Monitor personal repos matching graduation criteria (commit count, activity, originality), (2) Generate migration checklist from system-constitution, (3) Create org repo via GitHub API, (4) Transfer code with full git history, (5) Update README with provenance, (6) Create PR for review, (7) Update knowledge graph in meta-synthesis-orchestrator, (8) Notify via GitHub notifications.</div>\n<div>```</div>\n<div>**(497 characters)**</div>\n<div><br></div>\n<div>---</div>",
+  "context": "From document: Contents_Table — chunk 110 (chunk 110/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "graduation",
+    "migration",
+    "with",
+    "github",
+    "create"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

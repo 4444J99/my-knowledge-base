@@ -1,0 +1,26 @@
+{
+  "id": "32ae302e-60bc-4f9f-a0e8-890ebf0709b6",
+  "type": "insight",
+  "timestamp": "2025-03-11T00:05:21.000Z",
+  "title": "<div>  •  Is the document well-structured with an <b>introduction, steps, and co",
+  "content": "<div>  •  Is the document well-structured with an <b>introduction, steps, and conclusion</b>?</div>\n<div>  •  Are the <b>steps logically ordered</b> and easy to follow?</div>\n<div>  3.  <b>Effectiveness of Steps (25 points)</b><br></div>\n<div>  •  Are the steps detailed <b>enough</b> to complete the task?</div>\n<div>  •  Are any <b>steps missing</b> or unclear?</div>\n<div>  •  Do the instructions include <b>warnings, tips, or troubleshooting</b> when relevant?</div>\n<div>  4.  <b>Formatting &amp Visual Appeal (15 points)</b><br></div>\n<div>  •  Are headings, lists, and formatting used effectively for readability?</div>\n<div>  •  If applicable, do <b>images, diagrams, or formatting</b> improve comprehension?</div>\n<div>  5.  <b>Grammar &amp Mechanics (15 points)</b><br></div>\n<div>  •  Are there any spelling, grammar, or punctuation errors?</div>\n<div>  •  Is the tone <b>professional and consistent</b>?</div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>Feedback Format</b><br></div>\n<div>  •  I will provide <b>workshop-style feedback letters</b> for each student, explaining what works well and what can be improved.</div>\n<div>  •  Each letter will be <b>structured</b> with strengths, areas for improvement, and suggestions for revision.</div>",
+  "context": "From document: I have reviewed the Directions for the Technical Instructions Assignment… — chunk 3 (chunk 3/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "dd803e7337f22569dbf88b1ec678862d",
+  "relatedUnits": [],
+  "keywords": [
+    "steps",
+    "points",
+    "formatting",
+    "well",
+    "structured"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

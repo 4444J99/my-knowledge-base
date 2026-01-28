@@ -1,0 +1,26 @@
+{
+  "id": "6f405729-c934-419d-8f4f-aa94510a28d6",
+  "type": "insight",
+  "timestamp": "2023-08-08T10:30:25.000Z",
+  "title": "<div>Everything I do I do religiously but have nothing but disdain for religion.",
+  "content": "<div>Everything I do I do religiously but have nothing but disdain for religion. </div>",
+  "context": "From document: Everything I do I do religiously but have nothing but disdain for…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "8c5bd3cc4dd900e5ee334b752029a1d8",
+  "relatedUnits": [],
+  "keywords": [
+    "everything",
+    "religiously",
+    "have",
+    "nothing",
+    "disdain"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

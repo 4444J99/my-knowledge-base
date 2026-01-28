@@ -1,0 +1,32 @@
+---
+id: 859fdda3-58bf-4e15-84a4-17c30368dfa8
+type: insight
+created: '2025-07-18T21:27:21.000Z'
+document: 19a1c8b920a7c59b9421bc142020b138
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    2rxeu0rvvyjzwvesucdx0vk6aslwuge4bm8gvdobngp0etghz5zpctso8d8ocjnbz47knr7oxhfqbbqbruaruascixdw4egmgdeczz77la4fvonpmiz0mh0iuaswhkskev4bq7p1somj4uskvbbvhoxseh4tzmph7rzsrr0
+  - gzbxzi
+  - >-
+    bbxlpmypycd3kxymvdoalp5c3ed1qlk4flfaranmahjzg3myqx46x9skhwb4agtp1yqhnepyd6swk1elv4l6zpvz1lgpwk0ll
+  - 9px5jxzdcesrldeda2zdcs
+  - lwz6pgthqgags8rvflst2
+---
+# 2Rxeu0RvVYjZWvESucdX0Vk6aSLwUGe4bm8GvDOBNGp0EtghZ5zpcTSo8d8OcJNbZ47knr7OXhFQBBQB
+
+## Context
+From document: New Note — chunk 99 (chunk 99/1486)
+
+## Content
+2Rxeu0RvVYjZWvESucdX0Vk6aSLwUGe4bm8GvDOBNGp0EtghZ5zpcTSo8d8OcJNbZ47knr7OXhFQBBQBRUARUASCIXDw4EGMGDECzz77LA4fVoNpMIz0mH0IuAsWhksKev4bQ7p1sOmJ4UsKVbbvHOxseh4TzmPh7rZSrr0+gzbXzI+Bbxlpmypycd3kXYmVDoAlP5C3eD1Qlk4flfARaNmahjZG3MYqx46x9sKHwB4agtp1yqhNePYD6SWk1eLv4L6zPVz1LgPWk0Ll/vYZ+9px5JxzDCesRLdeda2zdCs/LwZ6PGTHqgAGS8RVflsT2/DCP37lNXTc0ih84y2GLikKncgO85+WxLbmwN7ZadrKye8daSJu0o657qMTUEScAfUuN7av5vvyw+nGthX/f/rRCi3x11Gc35VWxH8anhlIJsKYUaSzfBlo2JDv2RZ0pibxd5IEgVWnkTUC6gDIGiNtoQgoAoqAIqAIJA0Cx2hMmDBhAvr27YudO2k4UFEE4oCAh8e7eg3gx6XWjz6BnNOVqwKXXmG97mTUKHRIVskkGg3EEBXI/7+PXNKjLKBksWqeVujp9zjvTxoUO3Vz1ohpxdzPKW+FFkOHRD+3psGwXDkWfeZPw1sSgA/dutVZp6kWqRvW0dB+6JCh84LaseuWmiYD+5FG51cgX17grg5AjoCf57+sDD7OR9PganUX++UHjv4bvI0dR5942sgOGsGI845d7RjBX+dh4k1nB37iZ8nsWf7nrNyLJYMg1nnspPNhL5+xschXs+Hu0t2fVkQinuMZ9ZzVeqwu0n17q8Reb1Z4RHjeJQ4PeWYEyuVXWusAWEHn0pF/yKGfJ3Ck5NqPU12bTEGSOi5SmF3+Gl3FAtY9ALtqaGU6ET2ZLghkS5eF6joVAUVAEVAEFIFUR+Djjz9G9erVcd9996nxP9UvdjKsz05qkQGkolm0gDXqSEtjytGj5lZ6vRYvYd16S5ZiVO91GQ3iL48ADjhQUFWMoO1ZY+DRxxiRToO03SJRkq1vMgpK2z2WlfqFfsZq2biRRXdp4M6e3WrN8dOXx0KDldBgNGturKVAfrjLV856XUJZI1HOC+YBYuw3RYxpr41hxD+dLWL8FznETL15Xxrbvv+XMkMjmEjE+sfTjDMbNwRrYc+xLz9jMcnTjWLRRYrYM4ap9eh/fH8yMrY3i45Pfc+g
+
+
+
+---
+*Source: Document 19a1c8b920a7c59b9421bc142020b138*

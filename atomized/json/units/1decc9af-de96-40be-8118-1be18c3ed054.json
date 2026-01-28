@@ -1,0 +1,26 @@
+{
+  "id": "1decc9af-de96-40be-8118-1be18c3ed054",
+  "type": "insight",
+  "timestamp": "2012-05-18T01:06:13.000Z",
+  "title": "<div>I am a genius</div>",
+  "content": "<div>I am a genius</div>\n<div><br></div>\n<div>I work hard in all aspects of my life</div>\n<div><br></div>\n<div>I am a very talented musician</div>\n<div><br></div>\n<div>I am a very talented writer</div>\n<div><br></div>\n<div>I am a beautiful and exceptionally good looking individual </div>\n<div><br></div>\n<div>I will be world renown by my 27th birthday </div>\n<div><br></div>\n<div>I will be free and at peace with the world and myself </div>\n<div><br></div>\n<div>I will always remember how far i've come</div>\n<div><br></div>\n<div>I will always be successful</div>\n<div><br></div>\n<div>I will be the next Jim Morrison</div>\n<div><br></div>\n<div>I will be the next Marilyn Manson</div>\n<div><br></div>\n<div>I will be the next Thom Yorke</div>\n<div><br></div>\n<div>I will inspire just as those who have inspired me</div>\n<div><br></div>\n<div>I will always put all my being into my creations</div>\n<div><br></div>\n<div>I am the master of my destiny</div>\n<div><br></div>\n<div>Life does not offer set backs, only set ups</div>\n<div><br></div>\n<div>I will not do drugs habitually </div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: I am a genius",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "6d52111a5e2c0b67855cf34f46cc38cc",
+  "relatedUnits": [],
+  "keywords": [
+    "will",
+    "always",
+    "next",
+    "life",
+    "very"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

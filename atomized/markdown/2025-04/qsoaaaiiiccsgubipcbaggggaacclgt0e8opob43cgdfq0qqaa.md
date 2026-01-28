@@ -1,0 +1,33 @@
+---
+id: 938dffa2-d259-4338-97cd-efd41cb92b7d
+type: insight
+created: '2025-04-05T17:52:11.000Z'
+document: 01be182f29c65fb8629d71dfdc1a81dc
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - qsoaaaiiiccsgubip
+  - cbaggggaacclgt0e8opob43cgdfq0qqaabbbcwr4aegd2xzcyiiiaaahesgcv
+  - >-
+    m47qhjkqaggggaaccnqsqdhgmgnpaaeeeeaagdajkaaixcgymaiiiiaaauoovoqq5mdnfjwkcccaaaiiigagumg5kumgagmxmikaaaiiibb
+  - >-
+    aria4y8hm0aaaqqqikbazjick2bkcccaaaiiifczwnhnbdx3qgciiiaaagggebybegbhirtjraabbbba4g2bzghmsht
+  - >-
+    5xxaaaeeeeaagsoeskn1egfzpunihgaccccaaakrecabeikwm0keeeaaazseukm2zya5iiaaaggggea9bzyyqzhgeojzlaqqqaabbbosqakgwqhg8agggaaccjgilioxyavy
+---
+# QSOAAAIIICCSGubiP+cBAggggAACCLgT0E8Opob43cGdFq0QQAABBBCwR4AEgD2xZCYIIIAAAhESGCv+
+
+## Context
+From document: New Note — chunk 69 (chunk 69/192)
+
+## Content
+QSOAAAIIICCSGubiP+cBAggggAACCLgT0E8Opob43cGdFq0QQAABBBCwR4AEgD2xZCYIIIAAAhESGCv+m47QhJkqAggggAACCNQsQDHgmgnpAAEEEEAAgdAJkAAIXcgYMAIIIIAAAuoOvoQq5MdNfJwKCCCAAAIIIGAgUMg5kuMGAgMxmiKAAAIIIBB+ARIA4Y8hM0AAAQQQiKBAZjiCk2bKCCCAAAIIIFCzwNhNBDX3QgcIIIAAAgggEBYBEgBhiRTjRAABBBBA4G2BzGhMShT/5XxAAAEEEEAAgSoEskn1EGFZPUnIhgACCCCAAAKRECABEIkwM0kEEEAAAZsEUkM2zYa5IIAAAggggEA9BZyyQzHgeoJzLAQQQAABBBosQAKgwQHg8AgggAACCJgIlIoxyaVY/N/EjLYIIIAAAgggcLFAeuTir/kKAQQQQAABBOwVIAFgb2yZGQIIIICAhQKphLr4z/V/CyPLlBBAAAEEEKifQCEjklcfbAgggAACCCBgvwAJAPtjzAwRQAABBCwSSA+zZq9F4WQqCCCAAAIINEwgNcTvFA3D58AIIIAAAgjUUYAEQB2xORQCCCCAAAK1CGSSqvhvgdv/azFkXwQQQAABBBA4J5BRywBRDJizAQEEEEAAAfsFSADYH2NmiAACCCBgiUA6YclEmAYCCCCAAAIINFxAFwNOD3FjQcMDwQAQQAABBBDwWYAEgM/AdI8AAggggIAXAuVSTLIU//WCkj4QQAABBBBA4G2B9CgUCCCAAAIIIGC7AAkA2yPM/BBAAAEErBBIUvzXijgyCQQQQAABBIIkkE+rYsDZII2IsSCAAAIIIICA1wIkALwWpT8EEEAAAQR8EMhQ/NcHVbpEAAEEEEAAgVSCYsCcBQgggAACCNgsQALA5ugyNwQQQAABKwSyqZgU86zRa0UwmQQCCCCAAAIBE8iqZYAcfs0IWFQYDgIIIIAAAt4JkADwzpKeEEAAAQQQ8EWA4r++sNIpAggggAACCCiBckkVAx7hKQBOBgQQQAABBGwVaLZ1YswLAQQQQAABGwTGiv8muS3Phlgyh/oK/PVbW+Wvd7005UHjsZj84AOfkuVds6ZsG9QGfaND8mc7Nrsa3pKubvl3193pqi2NEEDgcgFb/39Lq1pD07ovny+vIIAAAggggED4BUgAhD+GzAABBBBAwGKB1JDD
+
+
+
+---
+*Source: Document 01be182f29c65fb8629d71dfdc1a81dc*

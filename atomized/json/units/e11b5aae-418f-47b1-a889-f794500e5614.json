@@ -1,0 +1,26 @@
+{
+  "id": "e11b5aae-418f-47b1-a889-f794500e5614",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>&quot&quot&quot)</div>",
+  "content": "<div>&quot&quot&quot)</div>\n<div><br></div>\n<div>    # MYTH_AGENT.md</div>\n<div>    (folder / &quotMYTH_AGENT.md&quot).write_text(</div>\n<div>f&quot&quot&quot&lt!-- UID: {uid[:2]}-{uid[2:4]}_00-02 --&gt</div>\n<div><br></div>\n<div># Myth Agent Profile: {data['agent']}</div>\n<div><br></div>\n<div>## Symbol: {data['symbol']}</div>\n<div>## Invocation Chant: &quot{data['chant']}&quot</div>\n<div><br></div>\n<div>## Role:</div>\n<div>The {data['agent']} governs {data['system']} logic within the OS.</div>\n<div>This agent can be called via command line:</div>\n<div>&gt invoke-agent --uid {uid} --role &quot{data['agent']}&quot</div>\n<div><br></div>\n<div>Or invoked in system rituals via:</div>\n<div>GPT.invoke(&quot{data['agent']}&quot)</div>\n<div><br></div>\n<div>## Manifestation:</div>\n<div>- Animated GPT voice</div>\n<div>- Code generation assistant</div>\n<div>- Mythic validator</div>\n<div>&quot&quot&quot)</div>\n<div><br></div>\n<div># Add ritual scheduler and wave tracker</div>\n<div>(base_path / &quotSPELLBOOK_STUDY_SCHEDULER.md&quot).write_text(</div>\n<div>&quot&quot&quot# SPELLBOOK STUDY SCHEDULER</div>\n<div><br></div>\n<div>## Weekly Cycle: v1 Ritual Plan</div>\n<div>- Monday: Invoke Agent</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 346 (chunk 346/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "agent",
+    "data",
+    "invoke",
+    "write_text"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,31 @@
+---
+id: 62383eb0-d30e-4ffb-88de-131beca49e54
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 5rxxfyttqym2ptyvmahbeiaabcaaaqhaaal
+  - haj1l6bttmks2oojagxjnneybty4bk
+  - >-
+    6kqjacyyvsq72nafxlo4qj8y3kqja84itjfxzr5titqzybrvtltnmqqcdfo5z0kbbyfl4fd9jkyylx21difnii4987d098sgjc1ohpl20lnvtmjtvk3a1r3wldswkuncarhwm
+  - dhjj9nl8z6vre590qbd1vjqeyx9jrjtm
+  - cwj1ecmsv07qjdcn6ooeay0jqy04ufftllr9m1lirznlwzrmf9uqk7timzlrn2zjnnpe
+---
+# 5RXXfYttqYM2pTyvmAHbEIAABCAAAQhAAAL/HAJ1L6BtTmks2ooJaGXjNnEybty4Bk+6KQJacyYVSq72
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 10 (chunk 10/3262)
+
+## Content
+5RXXfYttqYM2pTyvmAHbEIAABCAAAQhAAAL/HAJ1L6BtTmks2ooJaGXjNnEybty4Bk+6KQJacyYVSq72NafXlo4qJ8y3KQJa84ItjFxzr5titqzYbrvtltnMQQcdFO5z0KBByfl4fd9JkyYlx21DIfNiI4987D098sgjc1oHPL20lNVTMjTVk3A1r3wldSwkuNCARhwm/dhjj9nl8z6VrE590QBD1vJQeYX9jrJTm+CWJ1eCMsv07qjdcn6OOeaY0JQy04ufftLLr9m1LIRZnlWZrmf9UqK7tImzLRN2zjnnpE+HfYlwWw+90LNryn1V+j6pc5rrbvkH9DehTNqlWKnPq5S2KAMBCEAAAhCAAAQg0PYI1I2A1jxMS4xkj0FiwUSA1i02Kyag4+V2tM5wbD/99FOSCEuCIzYTNoWSiFlZiRorq099ebcEXFam2GelAlrZty2xla57zz33FLtMo+eUOEztiG86S7OEo3lLzaOpBuPBiax5xOYFVRbs2DRnXNeSsM7y/FqGZ827Nqukjnk0FWKvZ502CUX1Qz/pJbpUVsc0T17nS/H+KuzaBlEUjpw1qBD3QaKv0I+SgVnflCRM5SROZfLm21x7DSyk7cEoY3i8bNamm24a2pSnOR7QUP3bb789uV6hZb20/rr6pHnjWbysH4XuSceL3Vel75O4DBkyJPRN75SiTEqxcp9XKW1SBgIQgAAEIAABCECgbRGouYBWmKs8VYV+TFyax/PAAw/MI2yiQZ+aY6w1a/VlX8mfLDxTIk/Js8yKCeh4+SMtZyUvtObV6su6rRFs14yTDdmxxgT0Sy+9lAgP1SmUUMv6mv4sRUCPGTMm8NQyXgq/lWc3XrJIQjFtmocqD6jusxRT+KvNm1WSNQt/lVCyuakSbbpfMz2XtdZaK9y/Qnoto7W8mQoDNoZaezs2ZUi2cwp71/xctSWBZUJZ588///ykWiV14hDyXXbZJU/0KUrAvPexVz25oN849dRTQz/1vhXy9Fr5OHGVBg6UUE6iPeunMWGtNmPveMzcrqcM3GIkwa65yBYiL8/r8ssvH85p4CB+p2ORrDnt4i1T+yqr9vQ3kmUaRLEwfyXbqtSK3Vel71Oc/Ouqq67KZG7PQdeQVft5VcqDehCAAAQgAAEIQAACrZtAO3XPVdm8x9J50VBSq34OpfPeIudFi/NfYp0X0s7P
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

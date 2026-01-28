@@ -1,0 +1,26 @@
+{
+  "id": "00699dae-c969-4d25-9555-23c549e35dd2",
+  "type": "insight",
+  "timestamp": "2017-10-19T23:15:11.000Z",
+  "title": "RCE0sUwPe2VjzDFgEl[REDACTED:PHONE NUMBER]+vQ7X8jwL62eNXyTIJIz3W9zXvZ5r1XQBExbHqu61GvF73RBkrh2NaHyBMw",
+  "content": "RCE0sUwPe2VjzDFgEl[REDACTED:PHONE NUMBER]+vQ7X8jwL62eNXyTIJIz3W9zXvZ5r1XQBExbHqu61GvF73RBkrh2NaHyBMwnWnicUwErDzNlx8bSa9GosZIgCsAzPW217PeSIcnAfvtj322fcosCfBLtEha+H2AAwl+bwHPNaJA8FtCoIN1AuDbOe3m8Oh848qMUJB4WTkbYgAPfeV6HngOXX4w4pUA/4Ltyv1spq7XAqa7Xg19CQqBeu3quElW7KVdevpLBhmxoOc+m3PVwLue7dadVxVRBpcS1aAH/0zG9pr2KvIcSLpURWTDZazTFkY3GK3h/HAsPI5zwrr9tFSOtXPQaICvIQe0DJz+NSsygsU5pMST8kDW49ibi+GUIggP+RbF69BJhR0953ISz3UC6EYGCJiXF7Ge/cciA9h+wkIjub6eDNDTsZMK23j+5El/T1pX+YPJhF2DTMwTDQvY58W2SrAaDZBHB/lpP7geh0yPUQt66EvYmSvAPniNCqKDbSUP7KdEpNu5r5JD/inz4/HDLm7DhPJ6rw0lCrQFI5/1NWuUnv8mIX/ooYciL5og/aFDhyIiwGg2369e9apXhQOWRMH69evjGuX9TllWSQOXu5/vhy5vb28PosB7psmBJTklEXxf8z1uMu/KucmKz8IChQUKC7wULFAQAC+FUSjaUFjgRbSAnhJf/vKXw0PLhx+lAF73utedAmpP1ETDJG+77bYADfSa8IHJhygfiswLcDowe6K6XuhlRiaokf/a1742HgiV3Ln22mujf5///OfTZz/72fTpT386PPUF/W23/Vm3bl36wAc+EIl1DSetLHqwqdnvQ6DkgvsIoqg7qb6ttpQA+cQnPhHyQ+9617uS8j91dTzYTlAMh3cf22qoqfYy+qJSz9/xkKD4u7/7u2iz4ad/9md/FkmbX0z7TtCdYlFhgcIChQUKC7zELaCMnd6Ol1xySQAcEtneZyQAvL9IRluGALp3HtmD5M1QgO8m5u0ExJkKOKN0jyC8gPJUgBgT3s6qm572I/MzHcBZD/8hwHqXu53e/4LNDQBAg3i2Khl0HDC7DLCce/273u8C/WrUSwwcIkGwYLXe9NbpMkkC5YKMILAd7lOiHadEAQiEdd8P0vg6ACPAqpCMAHg7dm94ovaiS93QdGmqBzw/iPd/K/UsaVqVvtPbgQTRjLQXoH1p6k+9/c+lTUgP",
+  "context": "From document: L-day IN A CHAR — chunk 369 (chunk 369/966)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "18dc3a996dd053a8e2f8b89fa16c3840",
+  "relatedUnits": [],
+  "keywords": [
+    "rce0suwpe2vjzdfgel",
+    "vq7x8jwl62enxytijiz3w9zxvz5r1xqbexbhqu61gvf73rbkrh2nahybmwnwnicuwerdznlx8bsa9goszigcsazpw217pesicnafvtj322fcoscfblteha",
+    "h2aawl",
+    "bwhpnaja8ftcoin1audboe3m8oh848qmujb4wtkbygapfev6hngoxx4w4pua",
+    "4ltyv1spq7xaqa7xg19cqqbeu3quelw7kvdevplbhmxooc"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

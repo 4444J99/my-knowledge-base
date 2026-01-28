@@ -1,0 +1,26 @@
+{
+  "id": "f39a745e-1eed-481c-b6d0-87db89f0785f",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Reworking the Fallen Angel archetype into a new mechanic.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Instead of being a static archetype, the Fallen Angel is now an unlockable path.</div>\n<div>  •  If a player betrays their faction and succeeds three times, they become a Fallen Angel.</div>\n<div>  •  Fallen Angels have unique abilities &amp items but suffer permanent social disadvantages.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Alternative Paths for “The Fallen”</div>\n<div>  •  If a player fails three major skill checks, they enter the Exiled State (similar to Ghost status).</div>\n<div>  •  If a player wins three Betrayal Trials, they become a factionless rogue.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Maintains the thematic weight of betrayal.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Ensures the Fallen Angel path is earned rather than chosen at the start.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Allows for multiple approaches to subversion.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 3. Renaming “Marty McFly Disappearance” to a Literary Reference</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 471 (chunk 471/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "fallen",
+    "zapfdingbatsitc",
+    "angel"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

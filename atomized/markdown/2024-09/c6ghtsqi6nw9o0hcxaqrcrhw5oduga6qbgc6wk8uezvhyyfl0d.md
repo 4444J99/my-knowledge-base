@@ -1,0 +1,31 @@
+---
+id: 08c5bbda-2f3b-4e38-b029-8c1c13eb65bd
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    c6ghtsqi6nw9o0hcxaqrcrhw5oduga6qbgc6wk8uezvhyyfl0ddpwbz4fk3hy1rgaok8htthyybptkhnlwplns6uekpksbjbzie3co77hl1m48baqbc2qmqansfb4wsynaspddzlaya1j3y46cmxs
+  - yeugpazph9idxf1x2bblye
+  - kvwnuyvv2nhnfs2pbnr1q6xpf1x2erbhmfc8jr8nuphyghu
+  - 0dguqndqdssqlwlmjwpxvya1n6plnfpnjb4xvyzezgcvdtagwjtaqr8mbbby5gwaz
+  - bblufsszks1h4vevn3htmotjm8jjcxw9g
+---
+# C6ghTSQI6NW9O0hCXAqRcrhW5Oduga6QBgC6wk8uEzvhYyFL0ddpwbz4fK3hy1RgaOk8hTtHyYbPtKhn
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 2305 (chunk 2305/11534)
+
+## Content
+C6ghTSQI6NW9O0hCXAqRcrhW5Oduga6QBgC6wk8uEzvhYyFL0ddpwbz4fK3hy1RgaOk8hTtHyYbPtKhnLwpLNs6UeKpKsbjBZIe3cO77HL1M48baqBc2qMQaNsfB4wsynAspDdZLaya1j3y46CmXS+yEuGPaZph9iDXf1X2BblYe+KvWNuyVv2nHnFs2PbNr1q6xpf1x2ErbHmFc8JR8NUphyghu/0dGUqNdqDsSQlwlMjWPXvYA1n6PlNfpNjB4xvyzeZGcvDTAGwjTaQr8Mbbby5gwaZ+BbLUfsszKs1H4VeVn3HtmOTjM8jJcXW9G/5qs6ro22Ax6AmhHuJzFiNGh8Zygdan5RI/Umze6IRvpRIEO/2CjZgPoLzx+uh9GQlkQo1R2sjdU8ukg7VXGmAyt5kqBQiTbzrkls03c8dRHjLGBsAwz3seZrlsDEjXT0KQNdyDH4h1gUny0sGeKzfRCNv2IVnt36Se3vsgcpNx5rYQNKe/jVAyIaO+bR9e3jpe+Cx6SQ3rLZUnKt0hZM+xjDDwOPbDDbuwkzbumq/6S6QsTZpo6U0H7naDxEYZp9+zXRz+KzuN/U3tX85fMlQGHoLJCfxcTSqtH/IbIe3YL+vbWOW0z3EdcOmF4yyuIocdPOaR3TWbcXgwJ/0lGP1SCYoBM57rjvPMQj5iaH9qi8I+7V/XxUVEsPfGBpRfwVW/JoWslX0X8JC37piP22tmx91ZqUrljW57sxIt8HOtpsCfU/WcZ5cMzqe+nglvOvPgFoxkkciOLVoiRntvo2WgVeYqcSkkHaSePNyYqofqXkvc4iUGgC0KmEA6kkOJDMAtfA9ja/rFAdcGVjb5Upiptm9jgxjOZ0kgFZucgiZA8YMJL5y1/FxDhszUPk4H3kiMrPXPrH3MwkG9q7wn8y0v5sAd/0pfmbvnQQwf9fymiU356cyoSvuHQYhd6At9nIguQjevf8Wh5D3wONM8IrzNjflBqwu78CI27/Fc6D3APViNOJr8txoxuu/MN2KlUPiVIXUxrtTOWr8rUWl4IqcBv/UeAhGRuqPIS5B/bvIGR36OaZEPz20O/SL6h/gcCPP4uV6WfWO9idUX2Sa4yP8DM/r5UQ05g3w59B7kS0SAbqWIhx37Ls85RSbHFKXcvCYVHSeASAWrwhY10vMa1IhOwGZ2M5j5rdoMZrPY/Vic6LB53
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

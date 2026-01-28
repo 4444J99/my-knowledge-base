@@ -1,0 +1,25 @@
+{
+  "id": "71071bec-ef97-4665-83d1-f46d9b8d8f86",
+  "type": "insight",
+  "timestamp": "2024-09-30T17:47:56.000Z",
+  "title": "<div><h1>Call with Jessica Tenenbaum</h1></div>",
+  "content": "<div><h1>Call with Jessica Tenenbaum</h1></div>\n<div><br><br></div>",
+  "context": "From document: Call with Jessica Tenenbaum",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "c70c6291255830cd3e1b24a133d64d01",
+  "relatedUnits": [],
+  "keywords": [
+    "call",
+    "with",
+    "jessica",
+    "tenenbaum"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

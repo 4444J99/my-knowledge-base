@@ -1,0 +1,23 @@
+{
+  "id": "27e9101a-9d21-40f8-9adc-c5585d55b243",
+  "type": "insight",
+  "timestamp": "2019-10-01T20:46:15.000Z",
+  "title": "<div><h1>Jason</h1></div>",
+  "content": "<div><h1>Jason</h1></div>\n<div><br></div>\n<div>[REDACTED:PHONE NUMBER]</div>",
+  "context": "From document: Jason",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "64dfa6a2dec061f216a7cfdefb36f540",
+  "relatedUnits": [],
+  "keywords": [
+    "jason",
+    "[REDACTED:PHONE NUMBER]"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

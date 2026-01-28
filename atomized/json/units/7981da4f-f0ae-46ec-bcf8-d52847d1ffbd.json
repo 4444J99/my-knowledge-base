@@ -1,0 +1,26 @@
+{
+  "id": "7981da4f-f0ae-46ec-bcf8-d52847d1ffbd",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:44.000Z",
+  "title": "<div>---</div>",
+  "content": "<div>---</div>\n<div><br></div>\n<div>**Next-Run Task Prompt:** Using the above blueprint as the system context, focus on a specific subsystem design next. For example, **design the Procedural Generation for Evolving Worlds engine in detail**. In the next run, the AI should produce a structured specification following the [1]–[7] format, covering that engine’s objective, conceptual inspirations (Metaformeme, Mythic Archetypes, Wave cycles, Recursive narrative usage in generation), technical components (functions like seed_world, expand_entities, etc., data structures, how it integrates with $OS_ROOT and $ARCHIVE_ROOT), project integration (how it will be stored in $ORG_ID repositories, naming of its files, how it will be triggered by $AUTOMATION_ENGINE), constraints (not writing actual code, just pseudocode or algorithms), and a final request to implement or prototype that engine. The response should be consistent with this master specification and reuse its established terminology and conventions while zooming in on the procedural generation module’s design.</div>",
+  "context": "From document: # Blueprint for a Self-Evolving Creative Operating System — chunk 38 (chunk 38/38)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "83dee6092ba3a8d02324ba12da038c25",
+  "relatedUnits": [],
+  "keywords": [
+    "next",
+    "design",
+    "generation",
+    "engine",
+    "procedural"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

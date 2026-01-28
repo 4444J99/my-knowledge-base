@@ -1,0 +1,34 @@
+---
+id: c59c5236-54a6-41ce-a682-243b67adac4e
+type: insight
+created: '2015-05-12T15:12:28.000Z'
+document: 14f8edf44eef7316b8f1ce7606862fe0
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - with
+  - that
+  - more
+  - land
+  - never
+---
+# <div><br></div>
+
+## Context
+From document: Mercury — chunk 5 (chunk 5/6)
+
+## Content
+<div><br></div>
+<div>These are my daughters, daughters of my land, the land I watch, the land where nothing goes unseen by my all seeing eye.  Mercury, son of Jupiter, son of the fool, and a greater fool himself for being spawned by such. But This place: it reminded me of all I wanted and never had. Every corner, every shadow was all that could've been--all that was just out of reach--all that is but never was for me.  Me, a god. To think 'couldn't' was a word that graced the depths of my vocabulary. </div>
+<div><br></div>
+<div><br></div>
+<div>Envy. Oh, foulest of all--That's what is said, at least. I say: without me there'd be no ambition! The greatest faculty of man.  Yet lobbed I am with the six others. Thou shalt not, shall one?  Want and wanting. Eternally. The more expensive computer. The newer mobile. Peaking at the mobile of a friend receiving the call hoped for from the person hoped for.  More likes, more shares, more coverage. The recognition of achievements afforded to one and not the other. The beautiful, sumptuous wife. The wife who spreads her ass apart. The strong, noble husband. The shiny new automobile.  The house with a bathroom in each bedroom. The house on the hill with a view of the entire city. The job that pays exceptionally.  The old man with the young girl. The old man with the young boy. The man with no children. The woman who never ages. The mother of a demi bastard. The son of a god. The daughter of a god.  A life of liberty, of celebrity, of luxury. The avalanche of envy burns white with the collective energy of all who breathe--god and man alike. </div>
+
+
+
+---
+*Source: Document 14f8edf44eef7316b8f1ce7606862fe0*

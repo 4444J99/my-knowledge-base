@@ -1,0 +1,32 @@
+---
+id: d2a2c165-8a9a-4455-b3ea-543ba9845693
+type: insight
+created: '2025-03-13T23:47:48.000Z'
+document: 3b2e4f3759d2535cf9a91dec728a8fbc
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - tjfk3zhpqsuqzbn6pnffimnlgyvutjjjyprmbsjjftiflv8ywirspvpmfpn8
+  - uwjv3l86djtcmsc6d
+  - >-
+    xusfbwyaxbcmengeeewycliummnszpgbqa3sefwrd3ctnz2tby9c7v5bzwa08d4amas6bay7cnkcffnjapasyzjgwsov
+  - mem7qcbsrba
+  - >-
+    toc75zehpl7jnat94mljolu0b07bol0rtwwbxoukxgvuavzkrjbbkqxdavq3xnngmgr7njv1oqgcymkynrb2zrh5mof4pygw7bjyew5zpqbkmjnvjoifzxy8bzlts09vuhzj6fail
+---
+# TjfK3ZHpqSUQZBn6PNFfimNLGYvUTJJjYPRMbsjJftIfLV8YWIRSPvpmfpn8+uWjV3L86djTcmSc6D/X
+
+## Context
+From document: Squarespace, ChatGPT, GoDaddy Expenses — chunk 720 (chunk 720/2268)
+
+## Content
+TjfK3ZHpqSUQZBn6PNFfimNLGYvUTJJjYPRMbsjJftIfLV8YWIRSPvpmfpn8+uWjV3L86djTcmSc6D/XUSFbwYAXBCMEnGeeeWYclIUmmNSzPGBqa3sEFwRD3CTnz2tby9c7v5bzwA08D4amaS6BAy7cnKcfFNJAPASYZJGwSoV+mem7QcBSrbA+TQ/ToC75ZehPl7JNaT94MLJoLU0b07bol0rTWwbxoUkxGVuaVZKRJbBKQXdavq3XNNgMgR7nJv1oQgCYmkynrB2ZRH5Mof4pyGW7BJYEW5zPQbkMJNvjOiFzxY8BZLtS09VUHzJ6FAIl/vIlDdLCNTe8gRvb4xgJ3Ahy8yUdH8ec9yITy7XOjx9kuWni2tF/s/Lb9b0CCiiggAIKjDiBkUbcrntuz/zqTBOo1IepvDljz9UkxD4o3Nhzo0WfIgIcHuRL/6vhDdy4+ePXc27A0o1zTx5T2hfNJSkMBEPQQKYzb51GOiQ4ymccCRgYfZOSmlXGibJ/0qiI9NFKfQZZhH2lh62zrdRXkHrQ3ysVPiMjRbYmjVKYBq9hwBhuzslSMWImhaCDG/RaS8q2pQCy1vW6cjmCTAI1romU5ck3yyX7RMaUQjO6lGFjOgXbBDP5IIXPUklD5XP+Ut86PiO4Icgl60RTy7QfDOlnxWsq9C8kAGNAjbYK2yYQTMEQmVyy1/kgpK1103zqyo81bCcNpc/xMipsGoCE5tQUgiwGqiHbmu/fh2EKrvJZQn50IWijfmRmUz3Tvnml6SVNNPN/qcnqPPPME+eTqe5MSeeW71QaJZTgmz6+FM5jCvhZhr54nAt+ZOH7atDWGX3XVUABBRRQoGcFem3GjRtybvK4UaO/TrpBZXCHEdk0iP3TB4yRDRkYIA0OQMDFM8YYCa7em6mUbas1M9RdlxjNz8hW0FSSwrPz8oWH/jJwCAEDv/YziALBEk0UuXHGBoO2yrrrrhtvrLkB5RlrBHkESwR9BK4MtkG/L5pnMhAKN+jcIDNYBDfdZDpptkafntRPjwE9WJ8+cgQu3OimAJqb7PLmcW3VjesrBW4j+jxwM8854Aae484PC89NPDfsjEyJD00FCToIamliSeE8tRV8cn5xJHBjpEi2TWBE80YCHALf1ESR4ICM531ZU1SCa5ouE4CxL67x8j52eVuarFJSQMR0ep9frr33fP8ZyIZH
+
+
+
+---
+*Source: Document 3b2e4f3759d2535cf9a91dec728a8fbc*

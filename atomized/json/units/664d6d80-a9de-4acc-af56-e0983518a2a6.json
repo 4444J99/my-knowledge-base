@@ -1,0 +1,26 @@
+{
+  "id": "664d6d80-a9de-4acc-af56-e0983518a2a6",
+  "type": "insight",
+  "timestamp": "2025-12-04T16:48:25.000Z",
+  "title": "<div><tt>signal &lt&gt void </tt></div>",
+  "content": "<div><tt>signal &lt&gt void </tt></div>\n<div><tt>lock &lt&gt break </tt></div>\n<div><tt>socket &lt&gt web </tt></div>\n<div><tt>____</tt></div>\n<div><tt># vi</tt></div>\n<div><tt>----</tt></div>\n<div><tt>----</tt></div>\n<div><tt># [#binary_mirror]</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## |[ B1N4RY::M1RROR_T4BL3 ]| </tt></div>\n<div><tt>32 ABSOLUTE BINARY PAIRS — SYSTEM SWITCHBOARD </tt></div>\n<div><tt>_Not slidable, not fuseable. Used for logic gates, ritual locks, thread forks, and command-level triggers._</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| ID | State A | State B | Domain | Signal Type |</tt></div>\n<div><tt>|------|-----------|-----------|---------------|----------------------|</tt></div>\n<div><tt>| B01 | on | off | power | logic gate |</tt></div>\n<div><tt>| B02 | true | false | logic | binary state |</tt></div>\n<div><tt>| B03 | live | dead | system | state toggle |</tt></div>\n<div><tt>| B04 | input | output | process | flow gate |</tt></div>\n<div><tt>| B05 | create | destroy | ritual | initiation/descent |</tt></div>\n<div><tt>| B06 | open | closed | access | door mechanic |</tt></div>\n<div><tt>| B07 | inside | outside | spatial | presence map |</tt></div>\n<div><tt>| B08 | visible | hidden | UI/UX | perception switch |</tt></div>",
+  "context": "From document: # synth-wave-modules — chunk 27 (chunk 27/51)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1f0200e52addd3bec3d0beb78cca4a02",
+  "relatedUnits": [],
+  "keywords": [
+    "state",
+    "logic",
+    "signal",
+    "binary",
+    "system"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

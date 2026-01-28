@@ -1,0 +1,26 @@
+{
+  "id": "c1b37324-58d5-4d1e-b25d-e46c6aabffe7",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants all generated files, folders, notes, or revisions to come with clear meta-context and implementation instructions (e.g., where to store, how to use, and next steps). They find external decision-making about organization difficult and want ChatGPT to handle those logistics.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Prefers multiple opinions and critical assessments. Before moving forward, they often want to run a full thread or idea through a more advanced reasoning model (like GPT-4 or a future version) to perform an exhaustive review. They want this review to include deep critique, complimentary insight, structural analysis, and a full audit for missing elements, optimization, and philosophical alignment.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_051425_MASTER — chunk 39 (chunk 39/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "5e4feb3febe2be13a91fd74e828ebc64",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

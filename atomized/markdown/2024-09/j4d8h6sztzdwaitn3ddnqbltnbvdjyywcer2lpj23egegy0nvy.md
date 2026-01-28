@@ -1,0 +1,31 @@
+---
+id: 7d3f0bde-d959-4282-a7f3-011190375267
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - j4d8
+  - h6sztzdwaitn3ddnqbltnbvdjyywcer2lpj
+  - >-
+    23egegy0nvylnjrsas9xwl0s2tikc56cy7w9l1npp3cqncv8emifieu0uldlhzfb1hv7dra7uawikw49y4ibqnbjlh3gj11z94rpjfggki9mpqjdmamdkxalavjq4ybyci2bxumxju9czp2air4nro9ka6egyqwz6j2buvy
+  - ivk2ltjch2q16gbnjibw1hevcd
+  - l5sgzyorbfyppksgh9smpmxcoyxhlidzt1jkj5oaoytninh
+---
+# J4d8+h6sztZdwAItN3ddnQBLTNBVdJYYwCEr2Lpj+23EgEGY0nVylnjrsAS9xwl0s2TIKc56cy7w9l1N
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 7428 (chunk 7428/11534)
+
+## Content
+J4d8+h6sztZdwAItN3ddnQBLTNBVdJYYwCEr2Lpj+23EgEGY0nVylnjrsAS9xwl0s2TIKc56cy7w9l1Npp3CqncV8eMifIEu0ULDLHzFb1Hv7DrA7uaWikw49Y4iBqNBJlh3gJ11Z94RpJFgGKi9mpQJdmaMdkXAlAVjQ4YbYCI2bxuMxJu9CZp2aIR4nrO9ka6EgyqwZ6j2bUVY+ivk2LTjCH2Q16gBnJIBw1hEVcD/g/l5SgzyOrbfyPpKsgh9SMPMxCoyxhLidZT1jKJ5oAOYTNinh+eqqL9GDMqEJseoGfco4fjDzKlXus6spA5QhWv5CH1cT51Zg+OqIo0ztJjheVLqAJHniWsBx1lFU6HS2Wbur5BQLWShg0ZDC58X1wLDPFZpt3qGZQ/DfTibdYs1kq01V2VoRUudMXJW47kE50zG670SsxQ1WmtwlkIEhnGWlWywca3TGKo1pHeYGXpFOD7OIn4HXjts17H9BoyMrDjGpHHWXUqvYk1mW4yB8YYcvrq9dZeZc/A+IEgDWX9Tyh4DTxEP7yTOulPOqEPmUNgSb6BKkV2nMrsOGM5GcUR5S8+beRM1EeN+i86OKdrkqB312DiOMwo+SHuEj2m0z9iEvFci47EYg8GCwmFczbP8yEzGUV7SPnSADXDPpkhBEZAZVbCxAjEjNZoSYoYxZlCLW5blfet4A48eC0KoVG7LsF/XZ/ARs15rqA8zGYvIK2zPDKhU0XPx3aI+Y3Q8aRLuwzP4PtiBNjzqtKUQJ2LV04GVMcdV0brUK1Z4jEqa4QDP4OfHWq/xSIGSOzPD2ExQImMdKwhNrMIOljZE2cYc6w1pEPPGs3nsWXxEpWLVmAx6UsTnHp/HPo9/C591mBlk/QaMP8P5b4cZtxJpfDbmnBImATV04C1WBMxZUI6SEioQu0hIsZYjd45x9nzDXNDB49GU5odVfJesA0wFyt6Np3X9qc+vPb/lzm5+5dflVSDCDLCl+M6C/WkPmXgVEVifzxjUZhtWGdgyhhH2p0kgE3fmLDOA3frW1QPvGF/FegF5r0F8qPmN65EpkbGOFYTSsB+/A9tfOT+u1DsJ9oy2T5h/nDJaGesnTpLprVsBGY8Pz6/oqOAxibbDxx+OBp9L2ZGx7ggh4/Hh80fRUcFjEm2Hzx84GofPn3FnhTsm1p0p8H+lcM6MU/7POn9+kf5E
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

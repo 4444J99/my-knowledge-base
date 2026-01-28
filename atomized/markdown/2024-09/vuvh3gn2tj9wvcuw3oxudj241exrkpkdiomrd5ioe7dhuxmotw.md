@@ -1,0 +1,32 @@
+---
+id: 1c11bc76-c6e2-406c-8abb-2fab306fa7d4
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - vuvh3gn2tj9wvcuw3oxudj241exrk
+  - >-
+    pkdiomrd5ioe7dhuxmotwypnfxr3c1und19zjvrlepuawsrbwpaaoar1fsrbbr2zwbq8c8gm06gxlmv9ylk7pij7p0uxd3fxsy9eixdcfduxrpkni9f6rlrf0sryend3uf1v14na3jtv1ci8kd9fw
+  - >-
+    nntkpzjzephpxzqaqq4tfxe9cfspv1xir1kt23sop6rwbuddqrk4klqa0vbf6kaha4quqjh2ylbbzpuu1dlnjcipzsrf6
+  - ybcra
+  - mwe4n9vetjrpqhxq0dnqv5ae
+---
+# vuVH3Gn2Tj9WvcUw3oXuDj241EXrk/pkdIOMrD5IoE7DHuXmOtWyPnfXR3c1und19ZjVRlePuawSRbWp
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 8273 (chunk 8273/11534)
+
+## Content
+vuVH3Gn2Tj9WvcUw3oXuDj241EXrk/pkdIOMrD5IoE7DHuXmOtWyPnfXR3c1und19ZjVRlePuawSRbWpaAOaR1fsrBBr2ZWbq8C8gm06GXlMv9YlK7piJ7p0UXd3fXSy9EixdcFdUXRpknI9f6RLRF0sRYenD3UF1V14Na3JTv1Ci8kD9fW/nNTkpZJzEphPxZQaqQ4tfxe9CFSpv1xIr1Kt23Sop6rwbUDdqRk4KLqa0vBf6KAha4quqJh2ylBBZpUU1dLNJcIpzsrF6/YbCRa+r+MWe4n9vETjRpqHxq0dnqv5Ae/NfFSYyT9AX+kPrRHePwyWB7J8SCzxaQ+qqzTi/QTSaBufcneHCc+P/37Ls7evQ61p6slB53u/HIquGiguoq5rK0SjS7Z54vtTdN6NN617cmaeR2dosKNz4Y4mKAq02ejq3ujqym4jmctn2Gg8Ks29yXjCpnOeyieUlpBF9kKYTEZRVmq5e1Px+43uzcZiV7rNJyOHjecTsUmUzSaTWJtPZNSl3Tybjy9mi0hbLmcpm8st56s4m62Xs81ytlvOrpVFDcKMUXSyMspx2yxvNkvZc1zZg8BZbW2TLR7K+pCR1pPrzDPqcrt8VJktTXT1dPXVCIs2s5pv9l2xQqZ9sGVNNQWpO03RlcpKOsGVyfDImrjKcSjqUVl04dLpqdltPVWF+w5UQGpV2tewcN8VEqJhAbKhoTTkvu43CtyPm6pO2YotstisUf5BQKqe1pkFtNus312Bzm5jR7wr/W1838/Y/mXkuhCIJVB7wlVTUL0OtR84xjez8jeO3G99o/W7bQ+Ly+2tsZWCVKawWny5K3otpu7ciz0lQ6+rzT8j/45ly5NYq0nH6Wij2dq1Y6dLVbrSS/zkaumylJVRrq5qXjWP5ml9SjRb9L8E1eTJ4rkFT668p6LknCQuFF0h5x6bFXZvPq7ZYnJls9FiMl6MJ4vxNMqsgyePRiatjBKr6BYtFF3Mkip9K7rrY+thXm8Wouh0603RJSwlEi2Z0jxdNrV2W9uDols26x9dvYaKCxyBqS+Ccgi75ZzIvHhFN6sk1kFfqR5wDgl3KDZ7aaqepws4+1juvlGtmxVYc6P7pRceWEJgMosEbYrSU8bsdWzdzxB4dySDAAQqAkaTUo1D1huWk4fbabajGm8/n/awWWVHMTVFp0s1jzzTk9XCI6cI
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

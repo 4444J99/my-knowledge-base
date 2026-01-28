@@ -1,0 +1,26 @@
+{
+  "id": "953755a9-8fbb-476c-b192-f39964abf606",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>500 XP</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Can bypass one required Skill Check per unit &amp gains the “Codex of Lost Knowledge” item (grants 1 free reroll per semester).</div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> How Students Track Their XP &amp Evolution</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Displayed weekly on a class leaderboard.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Players must manually report Skill Check completions to track their XP.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Final evolutions happen after Week 10—ensuring long-term investment.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">✅</font> Why This Works:</div>\n<div>  •  Adds RPG-like progression, ensuring engagement throughout the course.</div>\n<div>  •  Prevents overpowered characters early on.</div>\n<div>  •  Encourages students to strategize their path based on their archetype.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 198 (chunk 198/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "border",
+    "face",
+    "style",
+    "width"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

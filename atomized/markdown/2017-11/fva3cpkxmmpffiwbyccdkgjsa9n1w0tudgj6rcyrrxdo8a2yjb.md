@@ -1,0 +1,31 @@
+---
+id: cadf1ec4-a907-440f-adcd-3c58fcdb8b7b
+type: insight
+created: '2017-11-08T14:03:53.000Z'
+document: f47673d86e05016edf5cfc9824f2b752
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - fva3cpkxmmpffiwbyccdkgjsa9n1w0tu
+  - dgj6rcyrrxdo8a2yjbs0i6or6s3unqk8z1rhcjznfay1cifmno8iecftnj6v6mdpr
+  - g1s1nfjpqutwvnlijbqdcrrnpab5naemo6dhj8n3v55vmnmisrht
+  - qsngovgaxr65wtwzpsrkaewvxrlzyqd2i56hpvuw0x7f4k8qwakzr3nuyxwm9at6
+  - >-
+    2dn61gahlyt2ukw0mqqyojukjod1z75pgymumslxhaafoocqstgoo30r0nr9kmmvp7mdjbq2kqsjrnbdymoaexpc9ak8yti7aw9mt1kuhzwjsm7kapudusob6zr2hwpatw
+---
+# Fva3cPkxmMPFFIwByCCDkgjsa9N1W0TU/DGj6rcyRRXDo8a2yjBS0i6OR6s3UnqK8z1RhcJZNFAY1CiF
+
+## Context
+From document: use this photo as a reference to create my own cut out piece. also… — chunk 218 (chunk 218/242)
+
+## Content
+Fva3cPkxmMPFFIwByCCDkgjsa9N1W0TU/DGj6rcyRRXDo8a2yjBS0i6OR6s3UnqK8z1RhcJZNFAY1CiFMnO8IeCfTnj6V6MDpR+G1s1nFJPqUtwVnlIJBQDCRRnPAB5NAEmo6dHJ8N3v55VmnMiSRhT/qsnGOvGaxr65WTwzpsRkaeWVXRlZyQD2I56HpVuw0X7F4K8QwakzR3NuYXWM9AT6+2Dn61gahLYT2ukW0MqqYojuKjoD1z75pgYMUMslxHaAfOoCqSTgOO30r0nR9Kmmvp7mdjbQ2KqsjRnBdyMoAexPc9AK8ytI7aW9Mt1KUhZwjsM7kAPUDuSOB6Zr2HwpaTW+j6jPJiS3liJdnP+rDNhBnu5HU9hUyAn8PaveNqFxcaZENSuoQ7R+YMhiAQXbPBSIdAep6Vl+FrzWLbWJpbedrecN56tMdqQuD81y4H3ivO0e4wK0fC1udNtNRa1u1CMFjQqcefKxwIQT0RQSWPQ4rb0/SrY6dqvkyrqc1hKC4Qj/TJGG3y4/+mcYJLduM1AEl74msLrQ7ueHz7uaK6E0VwqlcSk5luZMYyzqR5ec4JzjrVq51HStV08iW2MS+dvw5yY0cAkBs/MzjLMfXiqclrbjSpLbRtTF1p07RLJKBtLFVUFsd1gJIUfxfhWzb3os79NGubKLNlbkQRyEEGUDILHpuYckds4oAo3+r2Wk6cYTdLMXdfKmRPv2w5UtjqV5AB6U2w8YibTotRTTp5YvmEkagKDFEdyxZGPlY5Zj6DGaqXSwyW0LxQ+UI98rIQDtD/wCtbb1IB4UfiK0zd6b/AMIWml6HI2LhGzJcZARS3Ftn+9KQQT2BHrQBkwa2msW1/wD2Y+8/u7giV8hbkZ8y5OeAqqSEXjgCu4t5b2RJbp2t9OnPkRweUoC4C5LAddxHzMRwSa4PSbS7v2t0lsIrWMma6lC4MdxFEAHJxzsi5VQfvGr1lqMAsLi7it1MDuI445G/exw/wsFPIJ7nsMCgDcs9M1drgX9vOuoxPchmVlDSIxHzEE9h1+tUIIIbC3v7pbQ3M1zI4YuAFQB+CCe5BqG1vLNr2C6sblrQLJtlKZCYIwdx7kdSa3Fg3WzR2s/9q2AVpJIl+8Tk4YHjjvigDC0NLeK6vb1bYJcISsKhT5c8RA8wFjxuHYcVbk1O4uDb3URFnPaSDy5iAAEH3VO
+
+
+
+---
+*Source: Document f47673d86e05016edf5cfc9824f2b752*

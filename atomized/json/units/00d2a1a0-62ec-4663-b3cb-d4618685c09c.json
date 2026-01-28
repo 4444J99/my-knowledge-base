@@ -1,0 +1,26 @@
+{
+  "id": "00d2a1a0-62ec-4663-b3cb-d4618685c09c",
+  "type": "insight",
+  "timestamp": "2017-12-05T17:36:26.000Z",
+  "title": "<div>2018 Schedule</div>",
+  "content": "<div>2018 Schedule</div>\n<div><br></div>\n<div>Wake Up @ 6:30AM</div>\n<div>Meditate</div>\n<div>Work</div>\n<div>Exercise</div>\n<div>Meditate</div>\n<div>Work</div>\n<div>Eat (only after having all of the days water)</div>\n<div>Relax</div>\n<div><br></div>\n<div>Sunday</div>\n<div>Cook and measure and portion all food</div>",
+  "context": "From document: 2018 Schedule",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "e33bcc138b0555caa7c8ffae200bc7a0",
+  "relatedUnits": [],
+  "keywords": [
+    "meditate",
+    "work",
+    "2018",
+    "schedule",
+    "wake"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

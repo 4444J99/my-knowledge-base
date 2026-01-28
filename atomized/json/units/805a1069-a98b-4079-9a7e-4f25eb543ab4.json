@@ -1,0 +1,26 @@
+{
+  "id": "805a1069-a98b-4079-9a7e-4f25eb543ab4",
+  "type": "insight",
+  "timestamp": "2025-12-12T15:31:08.000Z",
+  "title": "<div>   * Why it wins: Landlords are scrambling for a legal way to price units e",
+  "content": "<div>   * Why it wins: Landlords are scrambling for a legal way to price units effectively without breaking new antitrust laws.</div>\n<div>Opportunity C: The Client Transparency Portal (&quotDomino's Tracker for Homes&quot)</div>\n<div> * The Gap: Agents send clients emails, texts, and PDFs. Clients often feel in the dark about where they stand in the closing process.</div>\n<div> * The Solution: A branded &quotClient Dashboard.&quot</div>\n<div>   * Feature: A visual timeline showing exactly where the deal is (e.g., &quotInspection Passed,&quot &quotAppraisal Ordered,&quot &quotMortgage Commitment Received&quot).</div>\n<div>   * Why it wins: It reduces the &quotanxiety calls&quot agents receive from nervous clients and differentiates the agent as premium/modern.</div>\n<div>Opportunity D: The &quotAnti-Portal&quot Listing Hub</div>\n<div> * The Gap: Agents want to reduce reliance on StreetEasy/Zillow.</div>\n<div> * The Solution: A hyper-local &quotOff-Market&quot or &quotComing Soon&quot network for verified agents.</div>\n<div>   * Feature: A private, vetted slack-like or app-based network where NY/NJ agents can share inventory before it hits the MLS/StreetEasy.</div>\n<div>   * Why it wins: It helps agents double-end deals (represent buyer and seller) and keep commissions in-house, bypassing portal fees.</div>",
+  "context": "From document: The following research report outlines the current state of the NY… — chunk 5 (chunk 5/26)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "39281f48fc8bd56851da45e8b9b8a9c2",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "agents",
+    "wins",
+    "portal",
+    "clients"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

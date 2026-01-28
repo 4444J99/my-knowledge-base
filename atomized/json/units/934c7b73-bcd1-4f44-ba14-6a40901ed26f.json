@@ -1,0 +1,26 @@
+{
+  "id": "934c7b73-bcd1-4f44-ba14-6a40901ed26f",
+  "type": "insight",
+  "timestamp": "2023-06-12T15:21:13.000Z",
+  "title": "<div>PA Phone Line</div>",
+  "content": "<div>PA Phone Line</div>\n<div>[REDACTED:PHONE NUMBER] (phone)</div>\n<div>[REDACTED:PHONE NUMBER] (fax)</div>\n<div>Covermymeds.com</div>\n<div><br></div>\n<div>Authorization Dept</div>\n<div>[REDACTED:PHONE NUMBER]</div>\n<div><br></div>\n<div>Wegovy Dedicated Team</div>\n<div>[REDACTED:PHONE NUMBER]</div>\n<div><br></div>\n<div>Optimum RX</div>\n<div>[REDACTED:PHONE NUMBER]</div>\n<div><br></div>\n<div>Appeals Dept</div>\n<div>[REDACTED:PHONE NUMBER]</div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: PA Phone Line",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "49c540ee2d449b92fcbfe94d52918c5e",
+  "relatedUnits": [],
+  "keywords": [
+    "phone",
+    "dept",
+    "line",
+    "[REDACTED:PHONE NUMBER]",
+    "[REDACTED:PHONE NUMBER]"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

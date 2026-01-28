@@ -1,0 +1,26 @@
+{
+  "id": "3dead648-5675-44fa-9cc7-ebe6b8c6628f",
+  "type": "insight",
+  "timestamp": "2025-02-12T16:23:09.000Z",
+  "title": "<div>Spell-check your essay.</div>",
+  "content": "<div>Spell-check your essay.</div>\n<div>Save your work using the proper naming convention</div>\n<div>Estimated Time for Completion</div>\n<div>The estimated time to complete this activity is 3 - 4 hours.</div>\n<div><br></div>\n<div>Completion</div>\n<div>Use the proper naming convention when saving your assignment. The naming convention is ENG101_wk3_assn_firstintiallastname_date—for example, ENG101_wk3_assn_jsmith_mmddyyyy.</div>\n<div>Submit the Week 3 Assignment by the end of the week. See the video below to review the process.</div>\n<div><br></div>\n<div>Week 3 Assignment</div>\n<div>Week 3 Assignment</div>\n<div>Criteria  Ratings  Pts</div>\n<div>This criterion is linked to a Learning OutcomeFinal Draft:</div>\n<div>Organization</div>\n<div>30 to &gt27.0 pts</div>\n<div>Exemplary</div>\n<div>Strong topic sentence addresses assignment prompt in highly focused and inviting way. Reasons, details, facts relate to prompt in compelling, highly effective ways. Varied and subtle transitions enhance the flow of the piece. Strong conclusion revisits main idea with imagination. Thorough plan with useful detail (when required)</div>\n<div>27 to &gt22.0 pts</div>\n<div>Accomplished</div>\n<div>Topic sentence clearly focuses on prompt. Reasons, details, facts directly relate to prompt. Effective transitions; Interesting conclusion summarizes main idea. Clear, careful plan (when required)</div>",
+  "context": "From document: Week 3 Canvas Data Dump: — chunk 26 (chunk 26/32)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "a727fbfe745a37d5f1770e6775399db1",
+  "relatedUnits": [],
+  "keywords": [
+    "assignment",
+    "week",
+    "prompt",
+    "your",
+    "naming"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

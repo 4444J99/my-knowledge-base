@@ -1,0 +1,26 @@
+{
+  "id": "57ce8cc6-b97e-4b71-b7c8-09e3ea0c532a",
+  "type": "insight",
+  "timestamp": "2021-12-13T15:53:14.000Z",
+  "title": "<div>It's not a personality, it's a personality disorder. </div>",
+  "content": "<div>It's not a personality, it's a personality disorder. </div>\n<div><br></div>\n<div>Eighty milligrams adderral, six milligrams alprazolam, one bottle chardonnay, two grain selzters make the Anthony get DUI. </div>\n<div><br></div>\n<div>My police officer cop buddy told me, “all the cool ones have mugshots. “</div>\n<div><br></div>\n<div>Upon my second apprehension by the police, the first words out of my slurring mouth: “I’m not drunk. I’m just very nervous.”</div>\n<div><br></div>",
+  "context": "From document: It's not a personality, it's a personality disorder.",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "c5e16d9b09368c275fda291b6c006967",
+  "relatedUnits": [],
+  "keywords": [
+    "personality",
+    "milligrams",
+    "police",
+    "disorder",
+    "eighty"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

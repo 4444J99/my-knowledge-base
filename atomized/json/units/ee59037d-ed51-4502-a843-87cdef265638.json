@@ -1,0 +1,26 @@
+{
+  "id": "ee59037d-ed51-4502-a843-87cdef265638",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>- [ ] **Module 2:** AI Context Aggregator (chatgpt-exporter integration, co",
+  "content": "<div>- [ ] **Module 2:** AI Context Aggregator (chatgpt-exporter integration, conversation extraction)</div>\n<div>- [ ] **Module 3:** Personal Repo Analyzer (fork detection, modification tracking for 35 repos)</div>\n<div>- [ ] **Module 4:** Org Repo Analyzer (status checking, dependency analysis for 23 repos)</div>\n<div><br></div>\n<div>### **Integration &amp Output:**</div>\n<div>- [ ] Unified output system (JSON inventory, knowledge graph, triage reports, migration plans)</div>\n<div>- [ ] Main CLI interface to orchestrate all modules</div>\n<div>- [ ] Example configuration files</div>\n<div>- [ ] Documentation and usage examples</div>\n<div>- [ ] Manual testing</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **What This Means for Your Four-Layer System:**</div>\n<div><br></div>\n<div>This repository is now your **foundational archaeological tool** that will:</div>\n<div><br></div>\n<div>1. **Map Layer 0 (Archive):** Scan iCloud/Dropbox/hard drives → Generate file inventory</div>\n<div>2. **Map Layer 1 (AI Brains):** Extract and catalog all AI conversations → Topic analysis</div>\n<div>3. **Map Layer 2 (Personal):** Analyze all 35 repos → Classification and triage</div>\n<div>4. **Map Layer 3 (Org):** Analyze all 23 repos → Status and dependencies</div>",
+  "context": "From document: Contents_Table — chunk 102 (chunk 102/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "layer",
+    "repos",
+    "module",
+    "integration",
+    "personal"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

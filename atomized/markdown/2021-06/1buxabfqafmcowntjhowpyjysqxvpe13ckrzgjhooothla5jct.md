@@ -1,0 +1,31 @@
+---
+id: e51b4296-9452-4676-aa74-53c0bfea2bf4
+type: insight
+created: '2021-06-24T19:10:13.000Z'
+document: b5de64ea907b6e44ec94b342683f3041
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 1buxabfqafmcowntjh
+  - owpyjysqxvpe13ckrzg
+  - >-
+    jhooothla5jctb9ra5sjosjahgkw3zpfe5kltcaeoarcgf8zbep7xmyvubdpssvssq4smhztd6xw2dd5cxvftdzgo7xsnh8ehuo3ertjpp89jfkffnd3vzwv6xrizd4n5maodbvytrtmnfxtngkfgnj2pio3d9uyr7ed9b2zk9afrhkx3ssd3lcsw5l0yfiybydcl8ta9hafkykdapfkbmibrnwqsn4cxpaqwtckgp99nug6egw6tqlibkk0eogsomnta45uxylb7s8yjp85ne4yhnhez9lmle
+  - 38fl
+  - 5x8aimeqmu
+---
+# 1buxAbfQAfmcoWNTJH/oWpYjySQxVpE13cKRZG/JhOOoThlA5JCTB9rA5sJOSJahgkw3zpFE5KLtCAEO
+
+## Context
+From document: TODAY FEELS LIKE A REAL BAD GO — chunk 668 (chunk 668/940)
+
+## Content
+1buxAbfQAfmcoWNTJH/oWpYjySQxVpE13cKRZG/JhOOoThlA5JCTB9rA5sJOSJahgkw3zpFE5KLtCAEOarcgF8zbEp7xmyVUbDpSsVSSQ4sMHZtD6Xw2Dd5CXvftDZGO7XsnH8EHuo3eRTJpp89jfkFfnd3vzWV6xRizD4n5mAodbVyTrTmnfxTnGKfGNj2PIO3D9uyR7Ed9b2zk9afrHKX3ssd3lCSw5L0yFiYBYDcl8ta9HAfKYKdApFkbmIBRNwqSn4cxpAQwtckgp99NUg6EgW6TqlIBKk0eoGSomNTa45UXylB7S8YjP85nE4yhNHEZ9Lmle+38fL+5X8aIMeQMU+RIAhva5UWbyQwDDEyLKFEYIlIAxlA6YF7Pqj8zQBQWx2usP4aujUSyfACR5H44hpjsbmF4yI2iNH5yJ52hZ7AoyEX6yrUAIOlr6krG1zjJr9NtkzGC1AC6OMFDRduNbXUyAodaAH1gQPptKYuHEeREAqkiPtLjjJ8hgARwkNsUPeXa+iWRCFPlzIHm1BrPOdk09fxdO45eF4ECphM5Umqj+WQXbLpoTvRPZIdDa3kFXT7kqBr7+lq/WIq164Vu9lIQAsYUMK2IOFq7TF9LXxZhPd5DBNIdMocQ7/QDGafCfrKbnCIpvV0HJx2X3lN70v9975xE80S/T3WytUWKsHMVekoGD/3OKUPaqk8/0vuled3Xnu73SD27kXMuRSJlhyGEp7a1W9+c/8mQPSfzOQXm4LTQC2w059R4Ny60uxvZTnW7lqdHyFwjQ/jGnjSWm3T7GyHAjiDap/S18YikoE9LRKo2w2LaQM7dIh3Z0gDRUUtbktNmzNrYTj9JzeakcEo5mAjD5Lx061vkf/d8dliqQe+UMrfoMHLmmHKU6Gdzpc8RND698iJgwqbDBkiNvCD6lKnOaH7ulM9kyW7po7mkg77lUMJ/MFHJJrFZjnOdJD+fczJAO/UZPUb/jBEC9nNAelkaY3zIlCyNL/1ivMIyrtktfAMks/Fcypx0vrR5c2dK2r85oW/NJ3Uj6aYG6bptS/+zW+YicsFyGQTGKgpsI4tMW5F/2poXeoPOdU+wTcr4OisEVRE8bKRx47c+chBGFjyFnYaWFeTXPeTPlRBYsncNNJNVJKDkgJWqNyFNRgOdojCJgAeOs0dq5OvruuebAJxZhibtqNs9RlQFI2ag
+
+
+
+---
+*Source: Document b5de64ea907b6e44ec94b342683f3041*

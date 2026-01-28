@@ -1,0 +1,31 @@
+---
+id: 84891eca-2108-49d7-b724-56faa2d0b48c
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ul3yutwxwnsecd4xexepbmmddffamj6kaieqgoeurli1d6vwmfzgb7mkdiwhuy8vjzoomuxqmte
+  - wdxrar
+  - >-
+    yggb7nnfvwlex3db4lmu6nkckqi9jbadiuxdrlhit5h5ilogts3svqxlxu48qtxbaskp57w8wetzcgdgwwvr2revqio1f4m2oya7af81xqgwtf9jj09mygo1fzhktg8umxugs5gyaowi9ya8xumbbhkxrcqrufq4zi95efh3zvrcst65kavedemuqfnncahayybbsno9bfyszb6
+  - yqpsjkjqv
+  - dbsqz5yqe91qpsqy4o1fakei1qpxp3u5vvegwc4j3i14xy3vsshklk6
+---
+# ul3YutWxwNsEcD4XexepBmmDdffaMJ6KaIeqgOeuRli1D6VwMfZgb7MkDIwHUY8vJZoomuXqmtE+wdXR
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 16084 (chunk 16084/18928)
+
+## Content
+ul3YutWxwNsEcD4XexepBmmDdffaMJ6KaIeqgOeuRli1D6VwMfZgb7MkDIwHUY8vJZoomuXqmtE+wdXRAr+YgGB7NNFVWLEX3dB4lMU6nKcKqI9JbaDIuXdrlHiT5h5iLogTs3svqXlXU48qTxbAsKp57W8wETzcgDGwwVR2REvqIO1F4M2oya7af81xQgWtf9Jj09MYGO1fZHKtg8UMXugS5gYAOWi9YA8xUmBbHkXRCQRuFQ4ZI95eFH3ZvRcST65kAVeDEmuQFNnCahAyyBBsNo9BfYszB6+yqPsJkjQv+DBsQZ5yqE91QPsQY4O1FAKEi1QPXp3U5vVeGWC4J3I14xY3VSsHklK6+N+Y1oiYyjBiOHfQ8JIhTGJa3DJXWiNJ2gtIHPktyF3WJmmFN5e1O1mUeeK3RMoagqnvaTeapWQluGSb2YRTYngO23BLHVvQ5hqMLSu8IYYt4JmMAGZl6HdlpYqi3Tquu/cl1/lU/PD83pjl8YNh0icfKsg8vwlfaXia5BRSvud86sXSdfEIGReA/Fwy8V87/5e/TwkA6o2HTxH75J2fsb/kJs3PYidwpweBhzLoPStN+r9LQ7cgMjfQjiL8p8coUr0l0cNcVu5wsB/Ts4YeL6l2Te3EnEAcTE6Px1Uczn38gJKl3ayeQcxLdoISLJ013vSi7oVO4HaRWuJavzfJhUIC9Rq97c8TyVXnJn2dkLzzCLj/ZIIjQ4ZeUVnj7WaczNI6jmS8yEZrDi6ZEDxgu0uc3HPESeGB3DNNDNLuENZxTUM3kW6xNoPdH77OPLVbijo3fSB3B0pA+MJvUTdj7kHgCXfWW7CtJzkovfPjJZtlYoBqJ9a1e8fc/ePs6tJVZpmRj27Q2fnxhkuS+6uxHxurvlnprfP5AG+XeWejNczdHKoS57tjD3CxN6i7qoub1MSDD6OCVz37ROBRhP7pw0tczd9mf9kXoG7XeGOfwCuQvdb0GcTunS1y2LO28BuNC6Xr+dtvvsxyv6Du779+5hrv6I667B49snpqbUpVFleJRGVc9RElsnpqApMXpfkB2AwTcGzpx4AJPazCcJhEG64u3vvoymrM5b/q+NGh0cXDZ+OHv+Ip56jjy1+tF/oNHNkic+Vv3tzvAMnIasxzP8QJ9Fo1unwudTx5YwQrf+W8hL+zLcPD9rTqCVzEInbNYnBu/LQbeDL8
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

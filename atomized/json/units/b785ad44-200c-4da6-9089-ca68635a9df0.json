@@ -1,0 +1,26 @@
+{
+  "id": "b785ad44-200c-4da6-9089-ca68635a9df0",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Let me know which follow-up you prefer: profile JSONs or extension risk matrix?</div>\n<div><br></div>\n<div>User: look at the two new screenshots, these are all within minutes of one another, it is transparent, and that is what im trying to chaieve</div>\n<div><br></div>\n<div>GitHub Copilot: Created 12 todos</div>\n<div><br></div>\n<div>You want true window transparency (macOS vibrancy) retained while trimming overhead. Here’s how to achieve and stabilize it with the fewest moving parts.</div>\n<div><br></div>\n<div>**Transparency Fundamentals**</div>\n<div>- VS Code core does NOT expose a native toggle for macOS vibrancy; you need an Electron patch (extension) that sets `BrowserWindow` vibrancy / transparency.</div>\n<div>- Your current stack uses: `vscode-vibrancy` + Fake Mica (frosted-glass-theme) + APC Customize UI++ + animations.</div>\n<div>- Multiple overlapping style injectors increase repaint &amp memory churn.</div>\n<div><br></div>\n<div>**Minimal Transparency Stack (Recommended)**</div>\n<div>Keep only ONE transparency provider:</div>\n<div>- Retain: `vscode-vibrancy`</div>\n<div>- Remove/Disable: Fake Mica (`frosted-glass-theme.fakeMica.enabled`), APC Customize UI++ appearance tweaks, animations external script (`apc.imports`), Frosted Glass Theme extension (if separate), dynamic base16 (unless you really need palette cycling).</div>",
+  "context": "From document: User: fix — chunk 21 (chunk 21/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "transparency",
+    "vibrancy",
+    "extension",
+    "frosted",
+    "glass"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

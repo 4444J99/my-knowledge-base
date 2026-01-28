@@ -1,0 +1,26 @@
+{
+  "id": "6a048f73-2dbf-4a06-b7d7-d0d8b8b51f92",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt>│        ⮞ ArchiveOS           → (versioned memory of all texts)│</tt><",
+  "content": "<div><tt>│        ⮞ ArchiveOS           → (versioned memory of all texts)│</tt></div>\n<div><tt>│        ⮞ Symbol Tagger       → (emotion, identity, myth)      │</tt></div>\n<div><tt>│        ⮞ Ritual Composer     → (spell/prayer creation)        │</tt></div>\n<div><tt>│        ⮞ Generative Agent    → (LLM plug-in, optional)        │</tt></div>\n<div><tt>└──────────────────────────────────────────────────────────────┘</tt></div>\n<div><tt><br></tt></div>\n<div><tt>&gt ✅ Do you want this **visual rack rendered in code only**, or also in graphic format for the one-pager PDF?</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## ✅ 3. VERSION TRACKING INIT</tt></div>\n<div><tt><br></tt></div>\n<div><tt>You are now live in:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>MYTHOS_SYSTEM_OVERVIEW.v1.0</tt></div>\n<div><tt>↳ Registered Modules:</tt></div>\n<div><tt>   ✓ RGLE</tt></div>\n<div><tt>   ✓ SYMNUM4GRAM</tt></div>\n<div><tt>   ✓ ArchiveOS</tt></div>\n<div><tt>   ✓ Mirror Mode</tt></div>\n<div><tt>   ✓ Ritual Composer</tt></div>\n<div><tt>   ✓ Audio Hang Layer</tt></div>\n<div><tt>   ✓ Game Room</tt></div>\n<div><tt>↳ Registered Outputs:</tt></div>\n<div><tt>   ✓ Overview Diagram</tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 101 (chunk 101/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "archiveos",
+    "ritual",
+    "composer",
+    "registered",
+    "versioned"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "309db23d-d53d-4ca9-9c9c-44160f81d1ce",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 1. Final Decisions on Data Preservation &amp Visual Presentation</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Step 1: Preserve all data in markdown documents first.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Step 2: Organize markdown docs into structured folders (e.g., Macro Schedule, RPG System, Game Master Controls, Weekly Modules).</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Step 3: Later integrate these into Canvas, Google Sheets, and an interactive Game Hub.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Ensures ALL data is preserved in its rawest form first before formatting for usability.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Allows future adaptability—markdown docs can be converted to multiple platforms later.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Keeps structure clean, modular, and easy to reference.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 2. Locking in the Mid-Semester Chaos Event</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Event Will Be Triggered Automatically in Week 8</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 434 (chunk 434/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "zapfdingbatsitc",
+    "applecoloremojiui",
+    "data"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

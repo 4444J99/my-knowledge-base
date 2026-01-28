@@ -1,0 +1,26 @@
+{
+  "id": "2a381438-8226-4e91-b7cd-aec18b852fa2",
+  "type": "insight",
+  "timestamp": "2024-09-08T22:33:42.000Z",
+  "title": "<div><span style=\"font-size: 12px\"><img style=\"max-width: 100%; max-height: 100%",
+  "content": "<div><span style=\"font-size: 12px\"><img style=\"max-width: 100%; max-height: 100%;\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABQoAAArsEAIAAABH+o86AAABdWlDQ1BrQ0dDb2xvclNwYWNlRGlzcGxheVAzAAAokXWQvUvDUBTFT6tS0DqIDh0cMolD1NIKdnFoKxRFMFQFq1OafgltfCQpUnETVyn4H1jBWXCwiFRwcXAQRAcR3Zw6KbhoeN6XVNoi3sfl/Ticc7lcwBtQGSv2AijplpFMxKS11Lrke4OHnlOqZrKooiwK/v276/PR9d5PiFlNu3YQ2U9cl84ul3aeAlN//V3Vn8maGv3f1EGNGRbgkYmVbYsJ3iUeMWgp4qrgvMvHgtMunzuelWSc+JZY0gpqhrhJLKc79HwHl4plrbWD2N6f1VeXxRzqUcxhEyYYilBRgQQF4X/8044/ji1yV2BQLo8CLMpESRETssTz0KFhEjJxCEHqkLhz634PrfvJbW3vFZhtcM4v2tpCAzidoZPV29p4BBgaAG7qTDVUR+qh9uZywPsJMJgChu8os2HmwiF3e38M6Hvh/GMM8B0CdpXzryPO7RqFn4Er/QcXKWq8UwZBywAAAIJlWElmTU0AKgAAAAgAAgESAAMAAAABAAEAAIdpAAQAAAABAAAAJgAAAAAABJADAAIAAAAUAAAAXJKGAAcAAAASAAAAcKACAAQAAAABAAAFCqADAAQAAAABAAAK7AAAAAAyMDI0OjA1OjAxIDA4OjQ5OjE4AEFTQ0lJAAAAU2NyZWVuc2hvdIPt2lMAAAHvaVRYdFhNTDpjb20uYWRvYmUueG1wAAAAAAA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJYTVAgQ29yZSA2LjAuMCI+CiAgIDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+CiAgICAgIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiCiAgICAgICAgICAgIHhtbG5zOmV4aWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vZXhpZi8xLjAvIgogICAgIC",
+  "context": "From document: Apparently I'm not the first person who thought you were using them… — chunk 1 (chunk 1/11534)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "549d1e6fb5630f6ece8ceea4fe2287e8",
+  "relatedUnits": [],
+  "keywords": [
+    "style",
+    "span",
+    "font",
+    "size",
+    "12px"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

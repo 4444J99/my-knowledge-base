@@ -1,0 +1,32 @@
+---
+id: 7bf76057-1a20-4ebc-a36b-8a4ce371d077
+type: insight
+created: '2020-12-04T00:15:12.000Z'
+document: e44d7acfd42bc15a324166b827d0b603
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    8q1o1niignszugi6bsfdgsnmzarbgf8vdlonmsn68fyvlw7r0tyamiq5niapoqdjh5qai7qq5zyi7pccmyw7fwz5yhyuuhmdmtrccnvg0k5cxqaw5tn8
+  - elqgdcazb3werfulltiyjxpqpsmyzgm4n7tmosfnipzascu2yybktfclcme8754r
+  - tf0sisdoddix7eqlkeg7sypiul6caiqksjilmvaby84reqbispli6zeo
+  - rcowd70h
+  - >-
+    6fypiaitcmafzuyxjexgy2pkhgjw2mcbonio1xkvgrfwzpk9oiivhhpht9sylhyca6uiyigyfpav0avnexezuvu4xvkaq6slh4lt1ebbsp
+---
+# /8q1o1NIiGNSzUgi6bSFdGsnmZarbGf8VdLONmSn68FYVlW7R0tyAMiq5NIApoQDjH5qaI7qQ5Zyi7PC
+
+## Context
+From document: How Geniuses Spent Their Time — chunk 528 (chunk 528/812)
+
+## Content
+/8q1o1NIiGNSzUgi6bSFdGsnmZarbGf8VdLONmSn68FYVlW7R0tyAMiq5NIApoQDjH5qaI7qQ5Zyi7PCcMyw7fwZ5yhyuUhmDMtRCcNvg0k5cXQAW5tn8+ELqGDcaZB3WeRFUllTIYJxpQpSMYzgm4n7tMOsFNIPZascU2YYBktfclcmE8754r/TF0sISdodDIx7EqlKEg7SypIul6CAIqksjilMvABy84reqBIspLI6zEo+rcowd70h+6fYPIAItcmAFZuyxjExgy2pKhgJw2MCBonIO1XKVgrFWZpK9oIIVhhPht9SYlhyCa6UiyigYFPAv0AVnEXezUvu4XVkAQ6sLH4LT1EBbsP/kor1+hz1VlZZKOOcKoNccU6DWco/GBaohl94iur/cw0UgxdKcQYtIzdvO2mAEZW7jsiXRrhU6VaT+NWQEmzv9inmVAZetlLynkrtKujKmdzNp3InrCJEkesEkZGEZOlPhqZPmMkJC1klmimbSdnKo46DB2nR1pU1/AdAsDpSxkXZlUWIL87vJAA3EcCOPfjGNjMEaWD+daepnJeoY7rc8S5zMNupvqLtviZyWoEUzWIpilkYeZnIRaIAlsY5VRZJFyKAJIkstM0WeeibXwsysw7II7yfRMP7p4PRdH1VRSl7qR07cToCcBdiC5iHN3hce8CCZGwGiAf/yl514UUVnR2z5OayVZbZN/xi0sPIiuhI5PYxQ//I1+w4koIlT0RSSQVTtI1QgVWoSwid5LcTlq/yIkGu/WheFpTmUZilWWWC0KhCrtz/31kjtsUwyoti6L4qqyslV5aEpcoZ5ndJHoAn4s/F/96Efid5KS21vBhSQ84rrcANs4ShYF1YarI0AHUism1WBwyme0E+AOdMX2yLAiUqpZUuCSfKDG958VvYywEt5qKtrgBN9AkS0ld8jyyg0S+FnHHKdgBcL0OO+hv8yVP4CSC9D06Vy0GDJBf/TZ0miCoCsJIN4H9mq4ArAJJCHggvw6QlFQG4oXwFuWMMoE8xo3Lysg2PThW2Gdiw9Qz5GhgklbQJmBhh6R1tPHKazMOp8Bmnw7OrTKVxOoPi6baiLf4BUAB+tGAkwCK9C8apj8c2bJty4HsAWHZbcRaJuzNAOh1BovVcfOlvHoBqqWxJitzRIjTb8lVy+prjS58Bm21xItjVv1RJisIiVjKVEaiyQCRd
+
+
+
+---
+*Source: Document e44d7acfd42bc15a324166b827d0b603*

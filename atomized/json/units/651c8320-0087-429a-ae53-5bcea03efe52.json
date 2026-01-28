@@ -1,0 +1,26 @@
+{
+  "id": "651c8320-0087-429a-ae53-5bcea03efe52",
+  "type": "insight",
+  "timestamp": "2025-01-30T04:09:54.000Z",
+  "title": "<div>Week 1, Day 1 Class Schedule</div>",
+  "content": "<div>Week 1, Day 1 Class Schedule</div>\n<div><br></div>\n<div>I. Writing Warm-Up (15 minutes)</div>\n<div>Purpose</div>\n<div>    •  A daily exercise to ease into writing, develop fluency, and build confidence in expressing thoughts.</div>\n<div>  Prompt Options</div>\n<div>      •  Concrete: Describe a moment in your life when clear communication made a significant difference. What was the situation, and how did effective communication impact the outcome?</div>\n<div>      •  Abstract: What does “voice” mean to you beyond just speaking? How do you think your personal voice influences how others perceive you?</div>\n<div>      •  Connecting: Consider how your written voice differs from your spoken voice. In what ways do you think writing allows you to communicate differently or more effectively than speaking?</div>\n<div><br></div>\n<div>Discussion After Writing (5 minutes)</div>\n<div>    •  What challenges did you face in writing without stopping?</div>\n<div>    •  How does freewriting compare to your usual writing habits?</div>\n<div>    •  Did your thoughts flow easily, or did you struggle to get started?</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📌</font> Assignment for Day 1:</div>",
+  "context": "From document: Week 1, Day 1 Class Schedule — chunk 1 (chunk 1/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "9a98d9abc2fbc3e94527d2f179af56dd",
+  "relatedUnits": [],
+  "keywords": [
+    "writing",
+    "your",
+    "what",
+    "voice",
+    "minutes"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

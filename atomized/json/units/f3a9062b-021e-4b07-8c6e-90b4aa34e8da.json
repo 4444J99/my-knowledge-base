@@ -1,0 +1,26 @@
+{
+  "id": "f3a9062b-021e-4b07-8c6e-90b4aa34e8da",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> How This Works:</div>\n<div>  •  At the beginning of the semester, each class has one transformative path slot open.</div>\n<div>  •  If no player selects it voluntarily, the transformation infects a randomly chosen player at the midpoint of the course.</div>\n<div>  •  The “infection” is thematically tied to the week’s content.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Example Infection Scenarios:</div>\n<div>  •  The Faustian Bargain – The highest-ranking player is suddenly “offered a deal.”</div>\n<div>  •  Jekyll &amp Hyde Transformation – A player known for consistency suddenly begins failing key moments.</div>\n<div>  •  The Mark of Lucifer – A faction leader is cursed with a temptation they cannot refuse.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Ensures every class has at least one transformative narrative moment.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Adds an element of surprise and narrative intrigue.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Prevents stagnation—someone will always be affected.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 497 (chunk 497/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "zapfdingbatsitc",
+    "player",
+    "this"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

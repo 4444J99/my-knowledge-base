@@ -1,0 +1,32 @@
+---
+id: c4726e7f-d862-4668-801c-45ddb62540c5
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    aplsttom0b383zfgavrvmbqyayjknttlnlqoyh2xn0qldqzskzqjkglkj57zrpdaeqwwceo3t1xxpabavlrjr5mer
+  - >-
+    wdx96763rcdcffstnrxrk3ssksfkz4wuwvvtfkdddsdw5fyng5xofsuclwa4b96ameltawnwgne64mrxnkmpp08u4xawi4pvnuatknoa60km3yhucjrvwxuvkwbhckry1fjj
+  - wu6trnxbqvhdwhbihubmer1crtkfmkcqmvqluzyw
+  - yym80obo0ad6
+  - gv8a4kf
+---
+# AplsttOM0b383zFGAvrVmBQYAyjKntTLnLQOYh2xn0qlDqZSkZQJkglkJ57ZrpdAEqWWcEO3T1xXPabA
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 368 (chunk 368/2189)
+
+## Content
+AplsttOM0b383zFGAvrVmBQYAyjKntTLnLQOYh2xn0qlDqZSkZQJkglkJ57ZrpdAEqWWcEO3T1xXPabAVlRJR5meR/wDX96763RcdCFFStNRxRk3ssksfkZ4WuWvVTfkDDDsDW5fyNG5XOfSuclWa4b96AMelTawNWGNE64MRxnkmpp08u4XawI4pVnUAtKNoA60km3YHUcjrVwXUVkWBhcKRy1fjj/wU6trnxBqvhDwhbIhubmeR1crtKfMkcQMvQLuZyw+h9K/YYM80obO0Ad6/Gv8A4Kf+JptD8V+BbmCaWNQ1w9wkMnkvIkcsRXEgzg5J2kg4PODivu+Al/wpR80z43j9Xy6Xqj9GfhWGi+Eeg284BmWxgiO05w8aBGH0BBx+FdNIGWMJEMgdRXN/C+S2b4c6PeacsjQSWsbIJeGwV64579D3ro7yLaTLbHZnj5uuP8RXhZ0n9bm/N/mexkLth4LyRUjEj3SeW21ADuB7fStvS4lluCWkJReuKx7UIJCrKCSOfrVyxcRW7Ig2H2rxZxue7LuaxBWd+cr0HtWYoiZ93JBP86qXlzPD/DwcEkH+YqSzBK4b6iqpRaFK+6NWS5S0iHAweBRYqXmwnBPP4VnXYV445X4RT8w65rTgji81BHwDznNE6ehSXc6JbdWIVz83b8KvLJmNY85A9az8iOfY2S2OAOn51dhiMoLE4IourWNYWsbdoobHOSa3Y7WGMCVlAbpnvzWLpypEPNdt2RxW68z8BlrOcWtS1voaFpbpHOAowD16frV+aLbNhBhcYqglxK7KiDj+taW4xuFfpURauZ1pD44gn77oV9Kk8xpXVpBnFU/MIkLQcjuMVH5sgO3PfNOUrjTsiW7t4445Hdtq4z71+I37aGpSat8a/DWjwGSApMBJKihma2nniVCP7xBD4GM5r9r5yjwyZ5yOa/EH9sKW5s/2rvDl1bSExzPpojhOAQon5deuFD564z9K/SfCn/kYVFb7DPzvxHkvq0P8SP28sJZpAkjnaSMMvQBh/nmmNJI8r7uF61Fp3mPZCdyNzE9On4GopnuJH8pR8q9a+AxVZupL1f5n3OGilTVvL8i24hSMszEetSxrCsIVRyORWW4JHzn5T3qxHI0ce88gd6w1OhXLBkiMZVuo6CsTazbkYfK3GParEtxHOQ6jBHWo4tiRbpCcj8hVWHYWNYh
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

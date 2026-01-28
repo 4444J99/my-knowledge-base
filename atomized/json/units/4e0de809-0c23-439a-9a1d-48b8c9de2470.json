@@ -1,0 +1,26 @@
+{
+  "id": "4e0de809-0c23-439a-9a1d-48b8c9de2470",
+  "type": "insight",
+  "timestamp": "2016-08-03T20:01:26.000Z",
+  "title": "<div>my digital body</div>",
+  "content": "<div>my digital body</div>\n<div>the digital embodiment </div>\n<div>the preservation of my body of work</div>\n<div><br></div>\n<div><br></div>\n<div>we are broken into pieces</div>\n<div>fractions un dividable </div>",
+  "context": "From document: my digital body",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "c99aa86b0da9d0a4ba0c09e8e7e51e62",
+  "relatedUnits": [],
+  "keywords": [
+    "digital",
+    "body",
+    "embodiment",
+    "preservation",
+    "work"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

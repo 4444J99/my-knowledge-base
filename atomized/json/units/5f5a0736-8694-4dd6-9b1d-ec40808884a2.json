@@ -1,0 +1,26 @@
+{
+  "id": "5f5a0736-8694-4dd6-9b1d-ec40808884a2",
+  "type": "insight",
+  "timestamp": "2022-02-01T22:52:48.000Z",
+  "title": "<div>My father brings home dogs to his wife, despite hating their burden.</div>",
+  "content": "<div>My father brings home dogs to his wife, despite hating their burden.</div>",
+  "context": "From document: My father brings home dogs to his wife, despite hating their burden…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "54999c5da030ee99af4def15dbf39285",
+  "relatedUnits": [],
+  "keywords": [
+    "father",
+    "brings",
+    "home",
+    "dogs",
+    "wife"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

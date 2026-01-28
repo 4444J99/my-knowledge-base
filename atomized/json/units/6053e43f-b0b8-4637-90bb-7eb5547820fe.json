@@ -1,0 +1,26 @@
+{
+  "id": "6053e43f-b0b8-4637-90bb-7eb5547820fe",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Mini-bosses appear within sections.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Final boss at the end of the week requires teamwork or solo mastery.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Bosses are thematically tied to that week’s themes.</div>\n<div><br></div>\n<div>Example: Week 3 – The Power of Language &amp Rhetoric</div>\n<div><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Boss Type</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Boss Name</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Challenge Type</div>\n</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Mini-Boss 1</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 219 (chunk 219/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "font",
+    "boss"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

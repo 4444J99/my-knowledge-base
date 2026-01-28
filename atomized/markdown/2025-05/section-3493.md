@@ -1,0 +1,30 @@
+---
+id: 93240f9c-bf0b-457a-aa59-0438c92a0e0c
+type: insight
+created: '2025-05-15T00:57:38.000Z'
+document: 97ddee0de00a1fdb1a5da48c7c6bd4f2
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: design
+keywords:
+  - guid
+  - version
+  - file
+  - assets
+  - projects
+---
+# Section 3493
+
+## Context
+From document: Transforming a Fragmented Digital Life into a Unified Canonical Architecture — chunk 5 (chunk 5/37)
+
+## Content
+-generates a GUID for every asset and stores it in a sidecar .meta file . All references in scenes or prefabs use the GUID, not the filename, to link assets. This means you can rename or move a file without breaking connections, and it ensures uniqueness across projects. If two separate Unity projects are merged (as might happen when consolidating parallel game builds), identical assets might carry different GUIDs. Unity developers note that when the “same” asset appears in multiple projects under different GUIDs and then is unified in one project, you must reconcile them to one GUID to avoid conflicts . In practice, this might involve manual or tool-assisted remapping. The GUID approach highlights a general solution: use an abstract ID layer decoupled from the human file name to achieve canonical referencing. • Version Control Integration: Game studios treat naming conventions as part of their version control and CI/CD pipeline. A well-structured name can signal version updates (e.g. incrementing a version number in the filename upon significant changes) and facilitate scripts that auto-build or package assets. As one developer humorously illustrates, without conventions you end u
+
+
+
+---
+*Source: Document 97ddee0de00a1fdb1a5da48c7c6bd4f2*

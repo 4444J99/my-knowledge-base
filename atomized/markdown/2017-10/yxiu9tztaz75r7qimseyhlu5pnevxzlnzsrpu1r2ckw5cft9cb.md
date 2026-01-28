@@ -1,0 +1,32 @@
+---
+id: d49476d4-175d-44a9-9312-989e76259dac
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - yxiu9tztaz75r7qimseyhlu5pnevxzlnzsrpu1
+  - r2ckw5cft9cbdc053k
+  - 3h86tiijukpqdj1qjg7sfpimmji
+  - >-
+    wd1uxuhabu4zxyuern1cehj3a3mtkm96zmhyn5ijaonnbjqkmq3udnz0ysmc2aprrnxnywustdg3tszhgaeb
+  - >-
+    dosxzbhgcnz9kim6xx7nufq1xjmbzwupeqa0sk2tgcm77fhy5pzafwwymvesvmyzx5fsnusv6zprvcq2jsi65xagz71aslyiwenbhoe351hbi7qfc4yetxsrrisaj2
+---
+# yxIU9TztAz75r7QImSEyHlu5PNeVxzLnzSrPu1+R2cKw5cFT9CBDC053k+3H86tIiJukPQDj1qjG7SfP
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 2012 (chunk 2012/2189)
+
+## Content
+yxIU9TztAz75r7QImSEyHlu5PNeVxzLnzSrPu1+R2cKw5cFT9CBDC053k+3H86tIiJukPQDj1qjG7SfPImMjI/wD1UXUhABU4zXyUErn1Cehj3A3MTKM96zmhYN5ijaOnNbjqkmQ3UDNZ0ysmC2AprRNXNYwuStdG3TszHGAeB+dOSXzBhgcNz9KiM6xx7NufQ1XjmbZwuPeqa0sK2tgcM77FHy5pZAFwWyMVEsvmyZX5fSnuSV6ZPrVcq2JsI65Xagz71asLYIWEnBHOe351HbI7qFC4yeTXSRRIsAj2/NUKAcpWWOSeNSedv8quSJGyBjkY4+tLbLDt/dOc579KnlCY2uOexFOMO4k30KpiBh+UkD0p8SKY85yfU0zbJgDGBTCPJUK3U5P+FVJ2sHL3KlwdnzLzjrWO0qt/qzx/KtO5ypz0NY7R7Msg75rahPU4666I8H/aKF0vwq1s2V0bW4NrIscvGNxBAU7gQFboTjgHiviL/gmdewzaL4la3JVxeQGSLGEUiMhTG2fmBA5r7m+OkO74e6tPdLmFLOeR0JADBI245xkk9B1J4FfIP/BN/wAMta+DNUukjVXN6I3bHzELEu0ZPb5ifxNfo8lGnkVWN9ZPT8EfncW55xBdj9VtOuTKrl26dPrV1BIVMrdRWfbWn2f2Yc+1Xiz+WNnJPWvy5LWzP1SMdEiSGc5IYEAetESHPmnpzU0BaWNsrgjipcNbxZjO7nBrJpIUo3Lskyi33jlsd6qs+6PzCCfrUrO2zBXIIpbeKflEHA6ZrFPW44QQltvKnnp2qrM4Vgh5b+961baORIyZCVOeaxpbdpXyp5HqTWtk0KcR8txslKuc9qqKq535wD2qrcLch8H2+tSNDIhXPGOxpxj1RUdtQPlnIA5U96SY7og23AHWtCJC0R3iq0yRyEqPu1UXqRy+RhZYlQc8H9KL0jI8vP0NWcdVA78VHexOigk4z+Yok2DSM26eUoqspHaqF9u+zsi8Ef0rSmlSHasgLByMH0NVb6J9pWVvujitEm9hTa5TkI7uVcbBu284Pevyk/4KcS3dr8MtM1zlVj1ZY9m4hMzRufmTocbPlYjI6A8mv1ILEXxWF87evpX5Vf8ABSqfU73wxoemWVtb3Mc+qpI4uH2kPGu1FjU/KQ247i3AxjnNfc8BSazCDPhOOJXwjTPuH9ifT7XTf2Z
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

@@ -1,0 +1,26 @@
+{
+  "id": "a0dcb5cd-35d6-4b89-b6e5-c1718b4605a8",
+  "type": "insight",
+  "timestamp": "2025-02-07T02:33:53.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Next Steps: How to Finalize the Workbook Structure</div>\n<div>  1.  Use this pairing system for organizing the Story vs. Comics comparison documents.</div>\n<div>  2.  Format each section with:</div>\n<div>  •  McKee’s lesson</div>\n<div>  •  McCloud’s counterpoint</div>\n<div>  •  A side-by-side breakdown using Whiplash as the test case.</div>\n<div>  •  An activity for application.</div>\n<div>  3.  Do you want examples from real comics for each chapter to reinforce the lessons?</div>\n<div>  4.  Would you like each document formatted as a single PDF per section or multiple PDFs for easier reference?</div>\n<div><br></div>\n<div><br></div>\n<div>Optimal Structure: Distributing McCloud’s Understanding Comics and Making Comics Across 19 Modules</div>\n<div><br></div>\n<div>To ensure that McKee’s 19 chapters remain the master framework, while effectively integrating McCloud’s 9 chapters from Understanding Comics and 7 from Making Comics, we need a logical distribution where:</div>\n<div>  •  Each module contains one McKee chapter.</div>\n<div>  •  Each module contains one McCloud reference (either Understanding Comics or Making Comics).</div>\n<div>  •  Where necessary, McCloud chapters are split into logical sections to fit all 19 modules.</div>",
+  "context": "From document: Aligning McKee’s Story with McCloud’s Understanding Comics — chunk 23 (chunk 23/39)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "e328da2bd41627184291fdf2d8e5d909",
+  "relatedUnits": [],
+  "keywords": [
+    "comics",
+    "each",
+    "mccloud",
+    "mckee",
+    "from"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

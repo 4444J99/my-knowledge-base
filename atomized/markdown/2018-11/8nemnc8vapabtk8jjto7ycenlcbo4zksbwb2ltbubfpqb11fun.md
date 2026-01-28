@@ -1,0 +1,31 @@
+---
+id: ec2681ac-ea22-4508-a1ed-22f51937eda1
+type: insight
+created: '2018-11-06T20:47:41.000Z'
+document: 8c3ce8993066f857adca061d250e2c68
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 8nemnc8vapa
+  - btk8jjto7ycenlcbo4zksbwb2ltbubfpqb
+  - >-
+    11funk1xtdd0uz1vr7mo8snqhjuleejg0csmqh0dghbvliipcgr9abrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffah
+  - kkkkaciiigaooooa
+  - pf26vhz48
+---
+# 8NeMNC8VaPa+BtK8JjTo7yCeNLCBo4ZkSBWB2LtBUBfpQB+11FUNK1XTdd0uz1vR7mO8sNQhjuLeeJg0
+
+## Context
+From document: Octatrack Tips & Tricks — chunk 1823 (chunk 1823/2544)
+
+## Content
+8NeMNC8VaPa+BtK8JjTo7yCeNLCBo4ZkSBWB2LtBUBfpQB+11FUNK1XTdd0uz1vR7mO8sNQhjuLeeJg0csMqh0dGHBVlIIPcGr9ABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAH/9b9/KKKKACiiigAooooA+Pf26vhZ48+Mn7OuseBPhvpn9r65dXdjLHb+dDb7khnV3O+d44xhRnlsntXyH+1TD4h8c2v7P8A+w7ZlrXVtbg0y68QpGyu1taWEAjYEoWVgvlzycHBMSkEg1+v1cAnwt+HqfEJ/isuhW3/AAl0lv8AZDqRUm48jAXYCTgDAxwB39TQBc8QWmqeGvh5qVj8OdOSTUdK0qaPSLJSiI08EBFrCDIyooLBVyzBQOpA5r8XvgD8L/2/v2f9Q1/xHo/wW0bxD4m8SXMlxeazq2p2Ut8wkO5o1dNRQKjPl2wMsx+YnaoH7qUUAfGXwF8e/tqeJPHD6d8f/hpo/hPwwLSV1vLG8hnl+1KyeXGUS9uDtZS2Ts7DkdD9m0UUAflnH8Jf2k/2RPin4t8U/s9eF7X4i/DvxvdNf3GiNdJZ3en3JJYiJpCPlyxVSqyEoAGUFQx3fAXwi/aE+P8A+0F4c+P/AO0boVt4G0LwGjnQfD8Nwl1O9xJg+dM6FgMNhmJ2MSiKIwMsf0vooA8Q1b9mj9nnXtVvNc1v4beHr/UdRmkubm4n023klmmmYvJI7shLMzEkknJJzXxTqH7FGkv+2jpviy0+Gej/APCok0NoriMRWQs/7Q2SgE2W7eWyU+cRY9+K/UWigCjpmmadoum2mjaRbR2VhYQx29vBCoSOKGJQiIijhVVQAAOABV6iigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACi
+
+
+
+---
+*Source: Document 8c3ce8993066f857adca061d250e2c68*

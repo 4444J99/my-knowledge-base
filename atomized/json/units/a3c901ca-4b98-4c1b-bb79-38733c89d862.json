@@ -1,0 +1,26 @@
+{
+  "id": "a3c901ca-4b98-4c1b-bb79-38733c89d862",
+  "type": "insight",
+  "timestamp": "2025-02-12T19:07:35.000Z",
+  "title": "<div>Points</div>",
+  "content": "<div>Points</div>\n<div>100</div>\n<div>Submitting</div>\n<div>a text entry box or a file upload</div>\n<div><h2>Week 1 | Quiz</h2></div>\n<div>Week 1: Grammar Concepts</div>\n<div> Instructions</div>\n<div>Due by the end of the week.</div>\n<div><br></div>\n<div>This 20-question quiz covers the following from Introduction to Writing:</div>\n<div><br></div>\n<div>Chapter 11 Sections 1, 2, 3, 4, 5, &amp 6</div>\n<div>Chapter 12 Sections 1, 2, &amp 3</div>\n<div>Chapter 14 Sections 1 &amp 5</div>\n<div>Select the &quotTake the Quiz&quot button to complete this 20-question quiz on the grammar concepts covered in this module.</div>\n<div><br></div>\n<div>Please only attempt the quiz after completing the weekly readings, lectures, and assignments. TWO attempts are provided for the quiz, questions are randomized in each attempt, and the highest score will be awarded in the grade book. The exam is timed, you are allowed 2 minutes per question.</div>\n<div><br></div>\n<div>Time for Completion</div>\n<div>You have 40 minutes for each attempt of the quiz.  </div>\n<div><br></div>\n<div>Click Next to read the Week 1 Summary. Quiz Type</div>\n<div>Graded Quiz</div>\n<div>Points</div>\n<div>100</div>\n<div>Assignment Group</div>",
+  "context": "From document: Weeks 1 - 6 Canvas Data Dump — chunk 33 (chunk 33/188)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1b21c03b1f1909954adca118a79b0158",
+  "relatedUnits": [],
+  "keywords": [
+    "quiz",
+    "week",
+    "this",
+    "question",
+    "chapter"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

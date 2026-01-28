@@ -1,0 +1,26 @@
+{
+  "id": "a5d5c96e-a6a7-4a2a-aed2-d1c214d531f2",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>### **PHONOLOGY (8 functions)**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**PHON_001:** speech_to_text - Whisper-based transcription</tt></div>\n<div><tt>**PHON_002:** extract_prosody - F0, intensity, duration, rhythm</tt></div>\n<div><tt>**PHON_003:** detect_intonation - Declarative/interrogative/exclamatory</tt></div>\n<div><tt>**PHON_004:** stress_detection - Primary/secondary stress patterns</tt></div>\n<div><tt>**PHON_005:** tone_classification - For tonal languages (Mandarin, etc.)</tt></div>\n<div><tt>**PHON_006:** phonetic_alignment - Phone-level timestamps (MFA)</tt></div>\n<div><tt>**PHON_007:** voice_activity_detection - Speech/non-speech segmentation</tt></div>\n<div><tt>**PHON_008:** speaker_diarization - Multi-speaker labeling</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### **MORPHOLOGY (10 functions)**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**MORPH_001:** tokenize - Language-specific, emoji-aware</tt></div>\n<div><tt>**MORPH_002:** lemmatize - Base form extraction </tt></div>\n<div><tt>**MORPH_003:** morphological_parse - Morpheme segmentation (critical for agglutinative)</tt></div>\n<div><tt>**MORPH_004:** compound_decomposition - German compounds, etc.</tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 6 (chunk 6/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "functions",
+    "speech",
+    "segmentation",
+    "phonology",
+    "phon_001"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

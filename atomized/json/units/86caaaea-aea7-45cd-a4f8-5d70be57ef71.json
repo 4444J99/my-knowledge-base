@@ -1,0 +1,26 @@
+{
+  "id": "86caaaea-aea7-45cd-a4f8-5d70be57ef71",
+  "type": "insight",
+  "timestamp": "2025-11-23T04:21:32.000Z",
+  "title": "<div><b><tt>  ▼</tt></b></div>",
+  "content": "<div><b><tt>  ▼</tt></b></div>\n<div><b><tt>Define Purpose &amp Background (Step 1) ──▶ Thematic &amp Conceptual Inputs (Step 2)</tt></b></div>\n<div><b><tt>  │                                        │</tt></b></div>\n<div><b><tt>  ▼                                        ▼</tt></b></div>\n<div><b><tt>Technical &amp Procedural Components (Step 3) ──▶ Project Organization (Step 4)</tt></b></div>\n<div><b><tt>  │                                               │</tt></b></div>\n<div><b><tt>  ▼                                               ▼</tt></b></div>\n<div><b><tt>AI Handoff Context &amp Constraints (Step 5) ──▶ Output Ready for AI Execution</tt></b></div>\n<div><b><br></b></div>\n<div><b>---</b></div>\n<div><b><br></b></div>\n<div><b><h2>7. Quick Reference Appendix</h2></b></div>\n<div><b>Single-Page AI Handoff Workflow Guide with Color-Coded Legend</b></div>\n<div><b><br></b></div>\n<div><b><h3>Step-by-Step Workflow</h3></b></div>\n<ol>\n<li><b>Define Context and Objective </b><b><i>(Blue - Conceptual)</i></b><b><br></b></li>\n<ul class=\"Apple-dash-list\">\n<li><b>One clear sentence for AI purpose</b></li>\n<li><b>Document rationale, users, and format</b></li>\n</ul>\n<li><b>Provide Thematic Inputs </b><b><i>(Blue - Conceptual)</i></b><b><br></b></li>",
+  "context": "From document: ]||||/\\\\vvvv//\\.../\\/\\---/\\/\\.../\\\\vvvv//||||[ — chunk 11 (chunk 11/96)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "751d0ce44738c7033755a28c7169e646",
+  "relatedUnits": [],
+  "keywords": [
+    "step",
+    "conceptual",
+    "define",
+    "purpose",
+    "thematic"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

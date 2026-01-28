@@ -1,0 +1,32 @@
+---
+id: 8b928e43-26b1-4fc4-80b9-3e6277b8fa6b
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    j56xsb79inmegb4leuej6nkcc4ginmfspke8t9nuwktfesct0ou0eud5khynswqfa7nqywjfrmuynjcj9et0u3btwnbcd8j5cekbypwrfstmiwjsbvgnmud2vmusbvg6oa
+  - nmkmewj59bpjbbnhrsw
+  - >-
+    omgqtmt3t6in0jaixyb94nuewiorzx6r5ps5z3biin6um0z6jmigqpy9hgm3lpyzywstztkunoeffcltpglhmnylavkla9i
+  - qqv8ex5a8v2g4angewh40zkbzbqktzjdxnhp3aoifatypendjpyffyqyx
+  - yt2aepnfvoh
+---
+# J56XSB79InmegB4lEueJ6nkcc4ginmfSPKE8t9nuwktfEscT0ou0eUD5KHynSWQfa7NQyWJfrMUYnJcJ
+
+## Context
+From document: New Note — chunk 3010 (chunk 3010/8096)
+
+## Content
+J56XSB79InmegB4lEueJ6nkcc4ginmfSPKE8t9nuwktfEscT0ou0eUD5KHynSWQfa7NQyWJfrMUYnJcJ9ET0u3BtwnbCd8J5CekBypWRFsTmiwjSBVgnmud2vMUSBVG6OA/nMkmewJ59BPjBBnhRSW+OMgQtMT3T6In0JaIXYB94nuewiOrZx6R5ps5z3Biin6UM0Z6JmiGQPY9HGM3lPYzyWsTzTKUnoEffcLTpglHMNyLAvKlA9I+QQv8Ex5A8v2g4AngeWH40zkbzbqKtzjdxNhp3AOifAtYPENDjpYFfYqyX/YT2AepnFvoH+JlRigQrjW+jzRcpj9gvVmauwL2v0c399/6Nq8erV0C9AuoVUK+AegXUK6BeAfUKqFfgv9MKdDceWdjVlLW0uzljWVvdIa22pgNadWUpWlVlCVr1J5L16spTDCuPxxtUFsUbVBXHm9SdTLWoPplkUXcy2brmeIpN1YlEq7rS3cvbag56AY9vaq9L34RU9BCkqUcRdQNfxwCOxwCZxwB/7wMszyeg7+sU6fOlgOgnAO7R5lb0deRVAt5XEdADjdf3tec0AqE3n+3IbUWyfPuZjpxOpLp3AZ2fBvo/jWOncU4frncR7Tkm0AN+XwMsv15fnvYp4Pu3uZkhd3Mzg++eyIu6DSz/JaA6AP3eW/jMN3DeDaTUf95Sc+CzhvK0LwWiR/L88ZyIB8dzIx8UZ4c9yT20Y6QkN+Jxa036TVyzH8D9PFLg+/E5enC9DqS79+Fz9QHyd/W0HOkBlO/m/eIzNuIzNnU0ZLYCmrcC/Nfj/BqkwFdjfCUBPWD4yZ7mLCTQZx3D+hRjOx/J/Udx/hG8LJB1qiU781TLkYNI208/1QpA3zIO6Kv2pSHpP7mrITOe69uGBHq8EBDT3ZwZhjUKwtjtSMLfhhcMAi+cLvEgoO9qzApswb8NPkcgcL1Pf3f+BgL6xvI03/rSVO+GsjQPpOk7A+E7YW3WdDVmrga0X4V7Wwm8vqKxYvdynOuAbQfieSTY2zVXHrBtq8mw7WrALxSg+EsFuGfA+gzbavzvhL9WwPFIjF+BlyRWnUa6/ZmOgjUE9D3NOWt7WnLXEdAjbV4k0I8B+qMevc05XniRwgvHPPva83yYQI/13Yj0e6Tp5wRh/l3A8GG97fnhmDMS6fKxHY1ZE4C+qfqgAPSA3+kA5BmtdZmH
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

@@ -1,0 +1,26 @@
+{
+  "id": "dc35776a-e094-442e-9f0c-255639f65753",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>- DeepCode (agentic coding)</div>",
+  "content": "<div>- DeepCode (agentic coding)</div>\n<div>- awesome-ai-agents</div>\n<div>- codex (coding agent)</div>\n<div>- Intelligent-Agent-for-Microsoft-365-Automation</div>\n<div>- **Autonomous agents are a major interest**</div>\n<div><br></div>\n<div>#### **Pattern 5: Knowledge Management**</div>\n<div>- obsidian-help</div>\n<div>- schemorg (structured data)</div>\n<div>- Documentation cookbooks</div>\n<div>- **You're building knowledge systems**</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **THE COMPLETE SYNTHESIS ARCHITECTURE**</div>\n<div><br></div>\n<div>### **What You Need to Build: `primordial-synthesis-engine`**</div>\n<div><br></div>\n<div>A new org repo that orchestrates all four layers:</div>\n<div><br></div>\n<div>```</div>\n<div>primordial-synthesis-engine/</div>\n<div>├── 0-archive-intake/</div>\n<div>│   ├── scanners/</div>\n<div>│   │   ├── icloud-scanner.py</div>\n<div>│   │   ├── dropbox-scanner.py</div>\n<div>│   │   └── external-drive-scanner.py</div>\n<div>│   ├── processors/</div>\n<div>│   │   ├── writing-extractor.py     # Text from docs/PDFs</div>\n<div>│   │   ├── music-analyzer.py        # Use maxmsp_ai patterns</div>\n<div>│   │   └── video-processor.py       # Extract transcripts</div>",
+  "context": "From document: Contents_Table — chunk 65 (chunk 65/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "synthesis",
+    "scanner",
+    "coding",
+    "agents",
+    "agent"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

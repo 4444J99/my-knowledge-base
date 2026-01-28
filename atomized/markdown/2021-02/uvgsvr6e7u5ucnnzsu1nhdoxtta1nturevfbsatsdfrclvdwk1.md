@@ -1,0 +1,31 @@
+---
+id: fa690cf0-e810-4237-a038-7208ec097bd5
+type: insight
+created: '2021-02-15T19:54:52.000Z'
+document: 7cab5884ad37ebd0143542c422e3a7d4
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - uvgsvr6e7u5ucnnzsu1nhdo
+  - xtta1nturevfbsatsdfrclvdwk1wpe36i1x8555ui1j0ddsxx345ywfh7nq1i
+  - >-
+    lycubmmtmm5wfvvrwdg4pmmdhjjnfjasfxfbefqpc5ytrombmxx5awfo5097c1pzx64wgitcz6ha5arfzuxw2l0eg1gubgxzgvm56tls1saz12xpo5hectdofxs6fdtqfdzgvjiaszqzgypnniruqliirargxaipvdw
+  - zu6kdp6usv1paezuaeqvprazrudq5qptbiv8lip93onfhfgtog12i4jcufnxxmyyrqtzqcggj
+  - 8ytf8ic
+---
+# uvGsvr6e7u5ucnNzSU1NHdO/xtta1NTUREVFBSaTSdFrcLvdWK1Wpe36I1X8555ui1J0dDSXX345YWFh
+
+## Context
+From document: Week 1 Retention Tracking — chunk 60 (chunk 60/133)
+
+## Content
+uvGsvr6e7u5ucnNzSU1NHdO/xtta1NTUREVFBSaTSdFrcLvdWK1Wpe36I1X8555ui1J0dDSXX345YWFh7Nq1i/LycubMmTMm5WFVVRWDg4PMmDHjjNFjAsFXFbEFQPC5YtRomBMXx5aWFo5097C1pZX64WGiTCZ6HA5arFZUxw2l0eg1GubGxzGvM56tLS1saz12Xpo5hECtDofXS6fdTqfdzgVJiaSZQzGYPnnIrUqlIirARGxAIPVDw+zu6KDP6USv1pAeZuaeqVPRazRUDQ5QPTBIv8lIp93ONFHFgtOg12i4JCUFNXxmYYRqtZqCggJ+8Ytf8Ic//IGdO3fyi1/8goceeoicnBxFAMrhcNDR0YHX60Wn0ymTumnTpnHFFVfw/PPP88Ybb1BXV0d+fj4AhYWFzJs3T5l8X3vttTzzzDOsWrWKgoICZs2ahcfj4cMPP8Rut/ODH/yAlJQUVCoVhw4dYuPGjQQEBLB69WoiIyMxGo0YjUbCwsKYOnUqaWlpSviqzWbD6XTS1tbGyMiIEo7sT/9UVVXFm2++SUFBAevXr6eqqgqHw8HOnTvp6Ohg+fLlyiTPYrGwfft2zjvvPGJjY+nq6uL999/HZDKxbNkyoqOj8Xq9DA4OIkkSdrudkZERzGYzsixjtVoV48JvlEqSxPDwMF6vF6vVysjICFFRUSxdupQtW7ZQVlbGY489xo4dO4iNjaWiogK73c4jjzyCyWTC5XLx73//m9dff52YmBgefPBBFi5cOO7k2ul0sn79evbt20d+fr6SXaC+vp5XX32ViRMn8q1vfUsx5kZPmAcHB1m7di3//ve/ycjI4Pvf/z5z584doxhfVVXFk08+SVtbG9///ve57LLLThumbLFY8Hg82Gw2XC4XAQEBuFwu7HY7Ho8Hq9WK2+1WBP3UajX19fWsXbsWtVpNdHQ0iYmJ6PV62tra+OCDD5S89BdeeKHiMDhy5AjV1dXk5+fjdDrZunUrra2tfOMb32DatGlK3f7tb39j+/btXHfdddx2221UVVVhsViYOXPmmBBvh8NBcXExMTExYyIDRmMwGFiwYAGpqanKiueUKVPQ6/VcfPHFvPjiizQ1NXHRRRedciXUaDRy8cUX8/LLL6NSqbjmmmsUobArr7yS9957j7CwMC6++OJxHV/+81966SVkWeaqq65SHAVXXnkl77//
+
+
+
+---
+*Source: Document 7cab5884ad37ebd0143542c422e3a7d4*

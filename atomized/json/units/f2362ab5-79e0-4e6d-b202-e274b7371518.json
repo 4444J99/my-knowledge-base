@@ -1,0 +1,26 @@
+{
+  "id": "f2362ab5-79e0-4e6d-b202-e274b7371518",
+  "type": "insight",
+  "timestamp": "2014-10-27T23:47:36.000Z",
+  "title": "<div>Projector / Screen</div>",
+  "content": "<div>Projector / Screen</div>\n<div>Visual program</div>\n<div>PA</div>\n<div><br></div>\n<div>Venue</div>\n<div><br></div>\n<div>Publicist</div>\n<div>Advertising Social Media</div>\n<div>Tour manager</div>\n<div><br></div>\n<div>Cd / vinyl duplication</div>\n<div><br></div>\n<div>Contact developer who worked on rusties</div>\n<div>Approach video game developers</div>\n<div>Mix the #ogod into a concise album (fly lo)</div>",
+  "context": "From document: Projector / Screen",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "b1c7a53eb2fbb598090ee4402f96b2ab",
+  "relatedUnits": [],
+  "keywords": [
+    "projector",
+    "screen",
+    "visual",
+    "program",
+    "venue"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

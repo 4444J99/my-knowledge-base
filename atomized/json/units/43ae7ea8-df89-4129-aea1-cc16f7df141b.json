@@ -1,0 +1,26 @@
+{
+  "id": "43ae7ea8-df89-4129-aea1-cc16f7df141b",
+  "type": "insight",
+  "timestamp": "2025-12-21T14:37:57.000Z",
+  "title": "<div>  - Delete branches only after merging or tagging them.</div>",
+  "content": "<div>  - Delete branches only after merging or tagging them.</div>\n<div>  - Delete local branches:</div>\n<div>    - `git branch -d branch-name` (if merged).</div>\n<div>    - `git branch -D branch-name` (if not merged).</div>\n<div>  - Delete remote branches:</div>\n<div>    - `git push origin --delete branch-name`.</div>\n<div>- [ ] **Clean up tracking references**:</div>\n<div>  - Remove references to deleted remote branches:</div>\n<div>    - `git remote prune origin`.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **5. Enforce a Branching Strategy**</div>\n<div>To avoid branch sprawl in the future, implement a branching strategy:</div>\n<div>- **GitFlow**:</div>\n<div>  - Use branches like `main`, `develop`, `feature/*`, and `hotfix/*`.</div>\n<div>- **Trunk-Based Development**:</div>\n<div>  - Keep only `main` and short-lived feature branches.</div>\n<div>- **GitHub Flow**:</div>\n<div>  - Use `main` for production and feature branches for active development.</div>\n<div>- [ ] Document the branching strategy in a `CONTRIBUTING.md` file.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **6. Automate Maintenance**</div>\n<div>- [ ] Use GitHub Actions or scripts to clean up stale branches automatically:</div>",
+  "context": "From document: Cleaning up disparate branches in a GitHub repository while preserving… — chunk 3 (chunk 3/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "21b3da15b421224ca9d912d612ff13de",
+  "relatedUnits": [],
+  "keywords": [
+    "branches",
+    "branch",
+    "delete",
+    "name",
+    "remote"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a0e03249-97ca-47e7-b7ef-d9d41e43932c",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>   - Extract text from writing</div>",
+  "content": "<div>   - Extract text from writing</div>\n<div>   - Analyze music files (leverage **maxmsp_ai** patterns)</div>\n<div>   - Process video metadata</div>\n<div><br></div>\n<div>### **Phase 3: Generate Knowledge Graph (Week 3)**</div>\n<div><br></div>\n<div>6. **Map relationships:**</div>\n<div>   - Archive file → AI conversations that reference it</div>\n<div>   - AI conversations → Personal repos they influenced</div>\n<div>   - Personal repos → Org repos they graduated to</div>\n<div>7. **Build timeline:**</div>\n<div>   - Chronological evolution of concepts</div>\n<div>   - Multi-modal correlation (when you were writing X, you were also coding Y)</div>\n<div><br></div>\n<div>### **Phase 4: Synthesis &amp Output (Week 4)**</div>\n<div><br></div>\n<div>8. **Generate consolidated documentation:**</div>\n<div>   - Your complete creative history</div>\n<div>   - Concept genealogy maps</div>\n<div>   - Implementation queue</div>\n<div>9. **Create feedback loops:**</div>\n<div>   - Resurface archive material in AI conversations</div>\n<div>   - Suggest personal → org graduations</div>\n<div>   - Identify gaps for new development</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **YOUR SYSTEM ALREADY HAS THE PIECES**</div>",
+  "context": "From document: Contents_Table — chunk 69 (chunk 69/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "conversations",
+    "personal",
+    "repos",
+    "writing",
+    "phase"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

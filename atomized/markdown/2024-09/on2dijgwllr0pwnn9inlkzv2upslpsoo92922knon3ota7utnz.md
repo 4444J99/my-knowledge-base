@@ -1,0 +1,31 @@
+---
+id: 209550e5-db27-465a-8971-1520a076a11d
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - on2dijgwllr0pwnn9inlkzv2upslpsoo92922knon3o
+  - ta7utnzy0x51b9bv6dorcj2wnepfbqjlrz01duxxdzelxqkoq3vuqz7bb
+  - dzapolt7ekqavpvyr24drkyj69ta396na0c91fkupws19gb9udtjvvqejle
+  - >-
+    g6zqhtpkxbc3th41zy6n42nvzobzxtbvsltv39v1b96ymkdiscfylvdniite5w0c5iunssituutuyk
+  - kvj3f72j3hd2nxs
+---
+# oN2diJGWLlR0pwnn9Inlkzv2uPSlPsOo92922KnOn3O+ta7uTnzy0X51B9bV6dORcJ2wnEpfBqJLRZ01
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 3274 (chunk 3274/11534)
+
+## Content
+oN2diJGWLlR0pwnn9Inlkzv2uPSlPsOo92922KnOn3O+ta7uTnzy0X51B9bV6dORcJ2wnEpfBqJLRZ01duxXdzeLXqKoq3vUqZ7BB+dZAPOLt7ekqAvPvYR24DrKYJ69ta396na0C91FKupWS19Gb9udTjvVqejlE+G6zQHtpKXbC3TH41zY6N42nVZObZxTBvsltV39V1b96YmkdiscFylvdnIiTe5W0C5iUNssItUutUyk/q+SoM/kvj3F72J3Hd2NXs+g1EDggY0JAIi0vkdRCq+1K0dZ1FF5dGBDHKWBQIEK/QD2aANduCQgO+F1vBf+huKwFa+ygbL1g7rOaYL4f4sEyaSnxyhBAKopbaYYqsfxOYMRy+qo4lnEDEoT8HV3zNP84QG/Zev47+oM1c7Z9BU3gWIdRYnF1dn4vVqkYZLnbOfg2fBkq6/E+olzbmmC+CIN0pv5q3XDe/iJp+U3DbuhO+z6mzrSf52G/Wpvsf37/o/OP+Kf+1NefzSLRPK715lzhozX/zq6s33J9aPrVlcU10+5umpk4ufayyg8XNtc//UuUK9+xh3RSlwWD9jMMU9LJPf1d/ZEdLunjMqE6LQqtIK3VsI1aGf/wGxo43L1KPhNnkhBuhhv72XloQXFee2ZrFrDQwpzkUlS4vG5HSthR3fy97KWpFzxCJJ1aAdaW22fh9+IJKVbwRsp4OhtWA5cRzy99mRamd7hvzpSyUogd38va0liWn55lBBXwrrCOfUu/USyu2E5+kijY5NqXx4z/T/pcifBx9w6bh8ru44gPjwN3WFHwh89UJayNACr0A4kMGknWMI9E2xm+JHQYjJu+MAhebYjxiql1M+lSokxGa/Iju5sF6z1LCKlxgug9YzzKRgM8NXairXwVcw2UFyLX/0XXATmGb2o3BblrFrfwEsN3UVPs33Ecv4AvDpbm4d/I75hOTz/p59//f2AdtWDrVdbP7zmQydnqPY8vxBmj3/h12GnBs7XHGUnW0zCvDiWr6UX6tXo+Hb9Ls+j607oVD/M6iO22Mv/9Vnd/8uvf+v5jBI79n7O/evjcS9T1rLtTre8GkzXn9pbYV71a7Vp4O0FdHWGbbE2Ps+fQO7Kxp0XNjb2NozugHbZguWiTeVcrrSs4fQGWkMV19qB8ZqHeEcOONcf9cBvUJdgb+w2t0880C57A8W1/eSM5V78
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

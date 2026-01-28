@@ -1,0 +1,31 @@
+---
+id: 04f8feff-ae43-47e4-b29a-167e59722039
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - dzjpnijbcw3tlgogmhxdvljkcxpxsl38cb38lnfnfo84a
+  - >-
+    cf3w1h2yanmjabl7xdrq1sifi7dcfqlqvclbdlnzulnqafeluegfaucpqwhjpfdeigxm0nokexzjid14xmqcev7tequemoloipi5r56zgd2mnap5bluq70frwgtffjwtzov2wqipxysug7rxae9yvapiobhxcqtu1ac5tp6hzuse
+  - kplb6wa1tjr5dp3lrizqmha90jeacjeacp4ma7lylx8wdkq7fuc7j3sfcf2v
+  - dfgmqgikcbkbiqc23jgjhckzxk6
+  - t1hbxan3omfczzs27tttuv
+---
+# dzjpnijbcW3TlgOGMhxDvljKcXPxsl38cB38lnfnFO84A/cf3w1H2YaNMJaBl7xDrq1sifi7dCFqlqvc
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 9755 (chunk 9755/11629)
+
+## Content
+dzjpnijbcW3TlgOGMhxDvljKcXPxsl38cB38lnfnFO84A/cf3w1H2YaNMJaBl7xDrq1sifi7dCFqlqvcLBdlNZULnqaFEluegFAUCpqwHJPfdEIgxM0NOkEXzjId14XmQCeV7TEquEmoLOiPI5r56zgD2mnap5BluQ70FrWGtFFjwTzov2WqipxYSuG7rXAE9YvapiOBHxCQtu1Ac5Tp6HZuSe+KPlB6Wa1TJr5Dp3LRIzqmha90JEACJEACP4MA7lylX8WdKq7FuC7j3sFCf2v/DFGMQgIkcBKBiqc23JGjhckzXK6+t1HBXAN3OMFcZZs27tttuV/X9zwnxefPMyMAfo6+U1To0Wz97FwRMcQW94r4XcFZaoHuPxOwhKJ+Zsxy81zoK/QW4xvHn9rkuoHjth7hsPXT3X+Wx7MkQAIkQAIkQAIkQAIkQAIk8AsJeH9hfEY/UwKWgcdBHRgmRwwW6sc/fBHzTMhAo/CIiIfEYC4eC2UIUbxfDIUYYJSYctbSEk7xpo3blkjGo7oMQlZ4MRHK6/fmNDVbE/G3qtaq2uXPGI65xKhudHVHqVELfJ/fV+ArU2WqNKg5Skgw/71R+OnlqeDmMyxTgVvXy5fAED1KVTdGKZ+hFhxa4C/wl+WVuaWDtSExRMz66emcHAM6bQdlQARaLTqtNVoHMqHVHtsMeHyJIxPn1hmZtChpROKShNiEaxKuVddgEsN1a4vXxhRetsJZ0WL5J4jilDs6It9IQOl+zsbQMPo93cbtltUuG9W6q7nY+4wn4C4OdlXWF/ct9M+/pNQpyS2ziIwESIAESODnEcB9QyDC12pxy6dbVjcWGz5zSfEXxV2OBhepRR8t+HkiGYsESOB7AhbukXE/o3JN23Q8vmZPX9qlxeJ6NzTs3DBh5ZGVn654emlg8eFFh3QE5/to/PZTCGhDrOVaQTx9hJ7A9bu6tGqzp1subvBN/Rsa9lh51aq/rXx6ce7i+xceMgxDBX9KAmdZWP1MJyMZygi4fpkogHtyR564ZUIBvlsAYiGUExqNwIQDPo8DAR0JkAAJkAAJkAAJkAAJkED4CHjDJ5qSf0DA0vOf8eCH4QwHRj+nwYIGCxp2rnRljFl1qFvZXRj8wlhoPIXHw6skHub3V9YmxytVFfUUDnyBX0+pv/1A5gk/jMrGQvyEQdGtvC9q34y98zbZm51N
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

@@ -1,0 +1,32 @@
+---
+id: fc1ebfea-67d6-4e75-80d7-3662cda27452
+type: insight
+created: '2018-11-17T18:19:07.000Z'
+document: e329ec4e43d47fccabf1e22882189db8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    mtezsczcgdawaajaeipp86iszels7o34u7y1kzxg55oekqxkmu1mldahaqdvtb13eckvguurnpzdv6u2gpdffzkhodqbmsabjzkdn6vh
+  - 7dekzb7envu0gep7payo
+  - >-
+    eoaqfmporjmgbf8psjax449qnexcbmaj19aqbfj2eyhanrkfg0crni9jqbq26sjm9aknbjbhtnrufszocw4ahbqyugjc859qailq7goqkyp5iy
+  - ow4spx2lh7cy96agklc
+  - nfafl7pbmqjb1rln0xy5nq8zh8q6ny0lziwrufwbccazigkamaw6r8w9eoqu
+---
+# MtEzscZCgDAwaaJAEIPP86ISzEls7O34U7y1kzxg55OeKQxkMu1mLDAHAqdVTb13EckVGUUrnPzDv6U2
+
+## Context
+From document: Black Bean Salad — chunk 2263 (chunk 2263/2298)
+
+## Content
+MtEzscZCgDAwaaJAEIPP86ISzEls7O34U7y1kzxg55OeKQxkMu1mLDAHAqdVTb13EckVGUUrnPzDv6U2GPDffzkHODQBMsAbJzkDn6VH+7DEkZB7envU0geP7pAyO/eoAQfmPORjmgBF8pSJAx449qnExcBMAj19aqBFJ2EYHanRKFG0crnI9jQBq26sJM9AKnbJBHTnrUFszOCW4AHBqyuGJC859qAIlQ7gOqkYp5iY/Ow4SpX2lh7cY96AGKlc+nFAFL7PBMQJB1rLn0xY5Nq8ZH8q6NY0LZIwRUFwBccAZIGKAMAW6r8w9eoqU+WjqAMse4rSeNY12Lz3xWa25xtjAD9s0AWQoULjnnOady5Ibqp7dajhPAjYbn6H0p48yJ9yjcO/oKAFZB5bDktUTcxqBwQOatMdrAhdwPJqAqI3Plcg8jPagB9upGS/IH64q0pjkbO3GPyqCPcDk/e9KuAJkhep7etNqwiIIGLFMgHr+FLDggtH16HNTgdFOVNIylBu6YPSneyF1EcyL8gGcjlqgZHVgRjGPxqyJGYcLn2FQM4XkgnHAPai4WGnCneWwPTkioCGXcVBwOme9ToN3U5U89P5VVkky4CnK9DRcLBGjOpUjBB4xSpheGIBzj8qcPl5GQe2KQBgRuXnnrSuOwpwpAY7SOmT1zQFOf3uVGenc0kiEqVIycAqacEcqJWPKnHWi4WLcSR7cDjPFQSxqvLcjoBRG/OTwTzg0Nl+H6Y4IpDKw2/dzj+tN2bSMjPripliU4Vfuj1qDd859D1NACFeGYHJHSp+CwXJ7YpgCAbQc4q4ojRgSfxoAZ5UoDbs9eAe/vzUwTaoDdR09D+VSs+QecjpuqMKmwCNsj39aAIpCzBt3P0HSoiWfD9WXjParLldp2jOeP/11CIgWI24IGTjoaDnIZXYEL1/pSncUyrBWHX3FMnidX+U9e/pUYhO0MxwenHfFAEwcNgOM81YYlZgsfIIzk/yqvCPnIYE7f8irSox+VsK3U0FR3Iu7K2OvrxSNGxYH261MoA+RcEZpxVcgscEmg2Kro6HDAbR1x61RwWYheQOpP9KuXHmOWVeAuAM1UWMrhHOR1B9TQAFBIpDDP+e9WYUjVBGQB+HWmIoSNhjGT83vVm3UZ3NnAFAEwg53jhiM4z2+lGwoOeAB0p7eYQ2304JzUYcmMJKMnHJ7UAN
+
+
+
+---
+*Source: Document e329ec4e43d47fccabf1e22882189db8*

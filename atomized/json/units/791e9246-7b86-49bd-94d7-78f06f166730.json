@@ -1,0 +1,26 @@
+{
+  "id": "791e9246-7b86-49bd-94d7-78f06f166730",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:56.000Z",
+  "title": "<div>Prompts: canonical prompt templates live in $PROMPT_ROOT and may be copied ",
+  "content": "<div>Prompts: canonical prompt templates live in $PROMPT_ROOT and may be copied or referenced in $REPO_ROOT/$ORG_ID/tools or os-foundation for integration.</div>\n<div>Generated code and assets: live in $REPO_ROOT under appropriate repositories, with references back to corresponding archive IDs and prompt IDs in code comments or metadata.</div>\n<div><br></div>\n<div>A future AI working on a feature must:</div>\n<div><br></div>\n<div>Start from a WORKFLOW-PROCGEN-PROMPT or similar template in $PROMPT_ROOT.</div>\n<div>Fetch relevant background from $ARCHIVE_ROOT using manifest indices.</div>\n<div>Create or update files in a feature/{…} branch in $REPO_ROOT.</div>\n<div>Emit a SEAL for each major artifact and record changes in $ARCHIVE_ROOT/sessions and $ARCHIVE_ROOT/specs as needed.</div>\n<div><br></div>\n<div>────────────────────────</div>\n<div>6. Universal Naming Conventions</div>\n<div><br></div>\n<div>6.1 Grammar Definition</div>\n<div><br></div>\n<div>The standard naming pattern is:</div>\n<div><br></div>\n<div>LAYER-DOMAIN-TYPE-ID-VERSION</div>\n<div><br></div>\n<div>LAYER is one of: VISION, SYSTEM, WORLD, STORY, WORKFLOW, CONTINUITY, SEAL.</div>\n<div>DOMAIN indicates the conceptual organ: META, MYTH, WAVE, RECURSION, PROCGEN, ARCHIVE, OS, AGENT, or other clearly defined expansions.</div>",
+  "context": "From document: 0.\tPreamble and Scope — chunk 21 (chunk 21/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "b3360b527d494aeb150b316c90472eb0",
+  "relatedUnits": [],
+  "keywords": [
+    "prompt",
+    "repo_root",
+    "archive_root",
+    "live",
+    "prompt_root"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "d6254ed9-d1c1-4c51-bc68-a053206d6526",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>Create a universal tagging logic to classify all projects, artist IDs, outputs, and logic modes within the recursive 4</tt><i><tt>_bl00m ecosystem.</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>---</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>### II. | CORE FILTERS</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>#### A. Logic Mode</tt></i></div>\n<div><i><tt>- `REALITY` — grounded, nonfiction, observational (e.g., ::Q_</tt></i><tt>v33R, ::KONS0L)</tt></div>\n<div><tt>- `DREAM` — surreal, subconscious, speculative (e.g., ::GR1ND3R, ::DR34M.L0G1K)</tt></div>\n<div><tt>- `HYBRID` — both layered, leaning either direction (e.g., ::MET4morfoses)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>#### B. Format</tt></div>\n<div><tt>- `TEXT`</tt></div>\n<div><tt>- `AUDIO`</tt></div>\n<div><tt>- `VIDEO`</tt></div>\n<div><tt>- `INTERACTIVE`</tt></div>\n<div><tt>- `VISUAL`</tt></div>\n<div><tt>- `SOFTWARE`</tt></div>\n<div><tt>- `RITUAL`</tt></div>\n<div><tt>- `APP`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>#### C. Output Type</tt></div>\n<div><tt>- `TOOL` — functional, interactive, system-based</tt></div>\n<div><tt>- `ARTIFACT` — finished works (films, songs, essays)</tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 120 (chunk 120/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "logic",
+    "interactive",
+    "create",
+    "universal",
+    "tagging"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

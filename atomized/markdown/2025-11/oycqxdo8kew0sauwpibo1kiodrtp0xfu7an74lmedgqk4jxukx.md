@@ -1,0 +1,32 @@
+---
+id: 9172c134-df83-4407-a51a-e7b10dc0fae4
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - oycqxdo8kew0sauwpibo1kio
+  - drtp0xfu7an7
+  - 4lmedgqk4jxukx0kp6q
+  - >-
+    vtatsfod448ql642buf14fokgpylrrcyasmbgk3hpz6xtj7xhbf2z9u98au23s9nt2dagmt9rji5xz4yj3x4gzfo1edeifezjwz5t13sqwvwcb4v4xahltbpxha5eurlkyaek
+  - >-
+    dysd7dxab1q4htyfody51ujrmcyy7jvncea8ueoqs86frddsdwzbsijkasienincghgkkwhibcqceggjgeraiiarkahibcqceggjgeraiiarkahibcqcvwyb9cqikvj
+---
+# oyCQxDO8Kew0SauwpiBO1KiO/DRTP0XfU7an7+4lmEDgqk4jXUkX0Kp6q/VtAtsFod448qL642buF14F
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 2740 (chunk 2740/11629)
+
+## Content
+oyCQxDO8Kew0SauwpiBO1KiO/DRTP0XfU7an7+4lmEDgqk4jXUkX0Kp6q/VtAtsFod448qL642buF14FOkgpylrrcYASmBGk3hpz6xtj7xhbf2z9u98au23s9nt2dAgmT9rjI5xZ4yJ3X4gZfo1edeiFEZJWz5t13SqwVWCb4V4XahLtBPXHa5eurlKYaek/DYsd7dxab1q4hTyFoDY51ujrmCyy7Jvncea8UeOqS86FrddsdWZbsijkaSIeNINcGhGkkwhIBCQCEgGJgERAIiARkAhIBCQCEgGJgERAIiARkAhIBCQCVwYB9cqIkVJ+SgRgeLaGZ6maRbM4yVgMo7Iw6MNojNO6i1YV1RTWnJc/zNzwpkNMmJyRgvGG0xr4NR4yMGdAuC1y4Cv9X+ERDVY3GNLEn9YCCrpCgwHa9KYELogPkWMxaPXCVeflQnqQyVpTWXhmeBZIIHJEqH+b+3kJrsoPUV6TtDBPIqf15oaW/fT6m9Y8hdI5BDK6ogSqgRmBU/qN7v/KwFdIbxUIUXkJg+80xIPwjrDQetQeoTdt7BWGFMrZ+KgLT0HN9sXby7a5LzT9X5Xy/0IyKZ50pHJjz2LPsQFbF9NaU69YrV830XWtFbso/sjyvPEF1YcrN/dCCwEJiQkRWEF5ren5k+ujEW2Z584bv/mZs+MFyDlnp5GdNnQNIWpU1TpmdxrRdQONQqDXNBqBtvbOXbx5kYpdIlSMJrRJ+mXrCaKbaDXDhgkTkKDwG9a3G94huOWwFjNaz0QeRHAiJzEacIx/dTlNUH4gzS1KYmRi1JBoRNRUIu0cok0yRd9dtmvpzmd9AkimfqEw2u7cHX9owsH+2K6f4znkomzOLi91HnnjS52yO9H55cIhP3gaQy/W2kFkYtoHqEJqSxSDN/ZvPL3p0LvH3T3u/rfv2XH3W79rdM+Oe3b8dmerda0D2waZ0oj4hEdaQz+4/MCyA8vxC5NJCH9MfIJXnQlz4ufwWy26Nd1qx2p2jWIIlID+d+CPOOL9cq7UwJUrWmRWpDV69Y0bbtzYHTULupRRaRR7eVp5anlC/sozq/IHUr5YjY2OQX2DpFS6KnDC+r5lX/fdiyMAMC2AtEYLaDK9ydqm/l1e6rIB7QRl+I76MkGEXGp337o+OX1G9X8FOKOltX+xfVDnke2ybwjqNOvohGMvHH1BTCDgZmwV
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

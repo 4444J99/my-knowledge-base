@@ -1,0 +1,31 @@
+---
+id: 3fa84005-5b46-4875-909c-8e27f1393685
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - qpc45n9esrff9zxoyastftqqh9y3hxmmz8f8b1ey5bettdsznrpgu8stenrolpbopa
+  - n8aetxtyzzabsblpdmxw
+  - bdtiibvswxsi83npkt9vjppjmabhh
+  - >-
+    prsz7mg21ujlqnhopedphha7dmzorkzadqemn9ndkz8zlryw8vaems1riaog1ttzron0bj5atkaz2qavaojbmagc0otje7ci7kxnrcyb1kz8o5mpat7poszzdqlvv1oshlqgmztkwdiktmwqehcqtr3x4ofrevkhgi6209j
+  - vqgc0iwjklr6n5cobszjvg0ci0httvvcz7frttx0nmmeeki2wfgrbobnmcdiymh7
+---
+# qPc45n9esRff9ZXOYAStfTqQh9y3hxMmz8f8b1Ey5beTTdsZnrpgU8StenrolPbopa+n8aeTxTyzZAbS
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 11254 (chunk 11254/18928)
+
+## Content
+qPc45n9esRff9ZXOYAStfTqQh9y3hxMmz8f8b1Ey5beTTdsZnrpgU8StenrolPbopa+n8aeTxTyzZAbSBlPdMxW+bDtiIbvSwXSI83NpkT9vjPPJMabhh/PrSZ7Mg21uJLqnHOpEdphha7DmZOrKZADQEMn9nDKz8zlRyW8vaEms1riaoG1TtzROn0bJ5AtkAz2QAvAoJbmAGc0OtjE7ci7kXNrCyB1kz8O5mpat7pOSzzDQlvv1oShlQgmZtkwdiKtmwqEhCqtr3x4OfreVKhgI6209J+vqGC0iWjklr6N5CoBSzJvG0ci0hTTVvCZ7Frttx0nmmeEkI2WfgrbOBNMcdIYmH7/+m5jv/42+M4Cv1ixk0o6pW1glkM96qdt8lyj+fQ6yNZOz3Tc39DMSskpfv8ad/siq5Ps0ryZvAzecf4/J/+RneU2scIR/XSa0txaigdMxXgTPeSW/CbgihInb0zXz30VBTgL4tiz+SmN9Qxj+ORrAfrV761OrT65NvqqOwRv98nM6lfzkuaF7uh5fnJQYGK2Ubw1sWtEv+YnVybiWDbpX0+B76iaNaAJz7hBLPqc5+P1NGSlp3ZLfsBpOH1a407TJmUL8B9vnAJxCRt9D3i5y9+sp2Lyhdr+SF7871i2arxzIzk1eyK139Io1bbHQx2fHxlcHqi1997YLWR3OyWr6fybZPGpmyRulacvdyZ8M41uT3WXd46iE233eI5sk+DGgso2gAIa29Z7/+kxsBgIFldtFHzy69aJl/kmecYdKDZzemvDkFuHObEtJIWbu7bRdyoze53JM1CglLsnQr+rogW1vp6XtMj/QkUOvD6pLIxclQxRcYIaq9XF/xkkBxpFsz8x7+FcweDL8j/qn5mcgloUO1vGgybU9rT8fPw0+25fLmV2Ztqp5OVsjpfUjCJY8C5v02ALYeuZN++Tloam69hm83SXMTHTtyLZGLHegZmj1M0/7SlCFa5HL1CvCyXA7TIhSdm4Ijj7g7RuN4gM+TMWPSUoJNiFIo8QUqP6LwbLOYTXyyAIwzdkHCGUaZc1fx3p/I+m4pCF8O17jdJowhE0iGfxJ+7x7uFBRpvqusUg6/3Tpry/Rk45V57KdqeHcbvu89oziZaOu9JrLbqlO8tve0nQhEjpujV/IRKls9xKZoohFVpvb+OLeh3g6ALmZJbQ8k+Bi8SIHz0CD
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

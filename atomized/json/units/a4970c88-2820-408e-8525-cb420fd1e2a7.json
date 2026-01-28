@@ -1,0 +1,24 @@
+{
+  "id": "a4970c88-2820-408e-8525-cb420fd1e2a7",
+  "type": "insight",
+  "timestamp": "2015-05-08T21:19:39.000Z",
+  "title": "<div>History</div>",
+  "content": "<div>History</div>\n<div>Legend</div>\n<div>Myth </div>",
+  "context": "From document: History",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f549a7fd4c248f66caa113236246121b",
+  "relatedUnits": [],
+  "keywords": [
+    "history",
+    "legend",
+    "myth"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

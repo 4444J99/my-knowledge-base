@@ -1,0 +1,26 @@
+{
+  "id": "2e79fc74-2e1d-4794-ba8d-4a79d001f286",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt>    </tt></div>",
+  "content": "<div><tt>    </tt></div>\n<div><tt><br></tt></div>\n<div><tt>* * *</tt></div>\n<div><tt><br></tt></div>\n<div><tt>🧠 Forrest Character Arc v1.0</tt></div>\n<div><tt>-----------------------------</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Alias:** Rational Witness | Oddsman of the Underworld | Oracle of Controlled Chaos  </tt></div>\n<div><tt>**Keywords:** logic, privacy, tech ethicist, reluctant myth-believer  </tt></div>\n<div><tt>**Function in OS:** Acts as bridge between mythic recursion and practical, code-grounded systems. May challenge illusions, prevent spirals, reinforce plausible builds.  </tt></div>\n<div><tt>**Style Match:** Wry, non-romantic, dry wit—needs **tangible entry points** before engaging deeply.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>* * *</tt></div>\n<div><tt><br></tt></div>\n<div><tt>🧰 Deployment Strategy</tt></div>\n<div><tt>----------------------</tt></div>\n<div><tt><br></tt></div>\n<div><tt>&gt **Where it goes:**</tt></div>\n<div><tt>&gt </tt></div>\n<div><tt>&gt *   Text thread with Forrest</tt></div>\n<div><tt>&gt     </tt></div>\n<div><tt>&gt *   Forrest’s Character Index (`FORREST_BUFF.character.v1`)</tt></div>\n<div><tt>&gt     </tt></div>\n<div><tt>&gt *   MythOS Engine &gt &quotRational Companions&quot &gt Nodes of Resistance</tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 7 (chunk 7/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "forrest",
+    "character",
+    "alias",
+    "rational",
+    "witness"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

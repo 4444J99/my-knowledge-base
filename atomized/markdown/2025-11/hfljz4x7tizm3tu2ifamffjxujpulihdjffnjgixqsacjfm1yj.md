@@ -1,0 +1,33 @@
+---
+id: bc02390c-502f-453c-862b-f478cab12388
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - hfljz4x7tizm3tu2ifamffjxujpulihdjffnjgixqsacjfm1yj90wjnyd
+  - louflfly6auysq2kjwfjqel4voi0n5lloudk
+  - >-
+    kkmnuygyambljij3dwzafbvwwjmezcw4zsvjflrjlio6qzeyxjkbvzm0u0lhao3xruv3wte0lvy2y
+  - >-
+    ensebpd1hblgjarfvyichodlouxlueop7jgwgbmnqlbwdpkgoskuh2ehtjobgxwd8yi3umpwwfiuau6jvkptxujmrfvou3mij61xp
+  - >-
+    vkii3urreg8hq61knla92iq6uncopk6v8fhzt47kf20qt57lu1tdud6mgxhuw4rayzwohlxpomuk1kw
+---
+# hFLjZ4x7tiZm3TU2IFaMfFjXUJpUlihdjFFNjgixQsaCjfM1yj90wJNYD/loUflFLy6aUySQ2kjWfJQE
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 916 (chunk 916/11629)
+
+## Content
+hFLjZ4x7tiZm3TU2IFaMfFjXUJpUlihdjFFNjgixQsaCjfM1yj90wJNYD/loUflFLy6aUySQ2kjWfJQEl4VOi0N5LloUdk/KKmNUYGyAMbLjiJ3DwzAfBvWwJmEZCw4zSVJFLRjlio6QzeYxJkbvzM0u0LhAo3xruv3Wte0Lvy2Y/ensebPD1hbLGJaRfvYIchODlOuXlueOP7JGWGBMNqlBWdPKgOskUH2EhtJoBGXwd8Yi3UMpwWfiuAU6jVkPtXUJMRFvou3Mij61xP+VKII3URReg8hQ61knLa92IQ6UNcoPK6V8fHzT47kf20Qt57Lu1TdUD6mGXhUW4RAyZWOhLXPoMuK1KW/FMxa/v3iTJXO/PPLFYbpJsHsBektY1pUksy8cdQq+QAOtH/nGeIaO4QUbFQjIP2xsibHPvF1i3sF55eYdDFpBs1WvLjlc00mef1nTID3qBeeUifoii2DeUWhN7NHYSl8d7Veob/s+hTKvzIw3eVFbjhUMap/QQ2G1IZxbLGq90TIUalwYb1EZFgY7eVaX6Fkzu2RZhbfRDEJdshN5/7WOU4y0ToGjNlHoF0CQVqTRS0OL0EZRr2IT2VQaK5X9AtoNtFxIl9prsrolRIuAMXylbys+UGEUes8jiyt0LdC1bZdx2fhNP5QD0lFoFc50S+9JC5q5Vuf+OufXbz3zFtbrorvMip51ACtTAwMHgoPrUyaFgsaCJVpOIqpbLna1lBghIATuGALmHZNTyei1EUB3hN+Q5YHCNQVAF6IsPMO3ofqGT7p8Eh1dNndDLLk0QpdmY0Bj0RSNukRlHVwa9+qhpesXru/1bS9sis9bNp+XVl+Jd8/T7w46SC2idgssr7UY0WHk5OGTMOnHRBldMMnCBpKxbOSmXVJxRFg8fT4ELxD+empnLJrNzP519lU5VpH0RgS96ut8zLqF605+s+Cbk9/cvf4kXhl2ES9mtKmTRbqKBiugYtPSnX/U0A54LvzPSqNgH0AMfAVdse1Jy/T21N4Nu60mXqdX84+a28/+0XdfPFmasMCnzZ13JL7ZeB3xhcOvbnsFfukf/nE89zudLd5+9sy9vNits0osrW3ntp3ddnZXv92w2pkmWGZs7Y1kkxJLhk+Ezg9dKTa82PCw4YUyFsZLbpmp4/knvk54aHjW8AcpPVibc8eX+QyTPgyYKOd0hf3gNbZ4
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

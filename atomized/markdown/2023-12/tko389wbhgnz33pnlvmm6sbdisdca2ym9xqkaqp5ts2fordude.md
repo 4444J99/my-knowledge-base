@@ -1,0 +1,32 @@
+---
+id: 1e2891b6-d991-4ba2-a0a8-6b8fbd6da8a0
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - tko389wbhgn
+  - >-
+    z33pnlvmm6sbdisdca2ym9xqkaqp5ts2fordudeltea8rgw2gsshwdlaqnyanwsje6ibwjkfvrgbocy6ohewltdxk
+  - ntzmsdmepizp16hehguubmufyen5
+  - >-
+    cvsgizluwgbswpqfa5yhmpwkgpdegvsluw4xirz2qwuobhgxmiqbx4vky90hptxxhbtg80nbzailpft2cuqh1wpxumzwtipqjjeagymrslr0z3r2fqglagvbo9hqndeno1if
+  - uvpmqigy8djm5potw0ee8pibrhmha3mytthm0wunpzga9zbvs8m5cl4szoaaz1vcrat52qh7
+---
+# tkO389WBhgN+Z33PnLvMM6SBDiSdCA2yM9xqkaQp5ts2FORdudELtea8rgW2gssHwdlaQNyaNWsJE6iB
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 320 (chunk 320/3262)
+
+## Content
+tkO389WBhgN+Z33PnLvMM6SBDiSdCA2yM9xqkaQp5ts2FORdudELtea8rgW2gssHwdlaQNyaNWsJE6iBwJkfvrGBocY6oHEwLtDXK/NtzMsdmepIZP16HEhgUubMufyen5+CVsGIZluWgbSwPQfa5yHMpwKgpdeGVsluW4XIrZ2QwuobHgxmIqBX4vKy90HPtXXHBtG80nBzaiLpft2CUQH1WpxUmZwTIpqJjeAgYmRsLR0Z3R2fqglagvbO9HQNDeNO1iF++UvPMQigy8DJm5poTW0Ee8pibRHmhA3mytThm0wunPzgA9ZBvs8M5Cl4szoaaZ1vCRat52qH7+Jh9Q7bY2nFcPDgQbTOu/Je+bGDF2SrcdQqwTLajsM6wZg8tZ3wW49169aTj1GAzHXMJL+bcnU98cEDB6N5PnnyJPGpBdxOOodo9NXwaJarBUINNKWrDtse5CVsNh1ncTVbLO2022i99dbbkZXNeM3eAU02/sq9GpuSOUGNnYh1wEE4BYksIQVJQvoFZc4OK5NqfzzsbN0uzEGN67m3tubcerMUPDt8iIxUa5i/xhhSu5cG4EHo59fyMA2FKe0pL1w/txyAwCSLnDCw4DeJGAXfGhVsplzthG1xnRRxvTG6BegfolMkh8RPOL719Bu6XN5jhk0Y+eEz5TzhcsUDDjXzCrttvZMBGcCbLh8krB8mLzX49xsfkSVSqFhrkEIbQ7tgHLUkxTg5rUsMBRyQOyRwnXOmzVsalIHQRR1LPXcQZPtFPDxIHdZcNRMkKcfilawuwlo6pYez2gs+dGBDCKof9DBwoRlUy+oAPHxtGW3dUfuexilx+hH/87G0w8sMRrwyVX89BECWKwMSZMcBjvLmkbaXKPMFhefz2hrN3NZRua376kuJEV61TUe+rdQNr9zVl35hm5SnsrIjR9rof+oF5d3KkpqX1FfaXw/rrHMH3UDffMLWxG4K5tUJSL0pV5mRMs9kiBMbemrP4J1HFlEG+yFNXgigLU0JU5ZgeHcs09k9aH/bb4u38kwrCE2XLX+lGC50k52YWBal1inrKl85aLVYOCxn64na4TqKg5a39UXAY3k7mNQzuUCQh8gEqaUOyH/oZ+Dpc97wywdcW7RJJnG174lYeQvreW9Xq+ybnjVOtuWwkCqaRFuPSz59YBkoPxCVtKRROfV5+nPyY058Hau1RGz8
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

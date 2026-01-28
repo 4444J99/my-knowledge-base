@@ -1,0 +1,26 @@
+{
+  "id": "2bcf3946-2b14-41f2-b851-1ed3b387047a",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt>---</tt></div>",
+  "content": "<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### I. | PURPOSE</tt></div>\n<div><tt><br></tt></div>\n<div><tt>To define how your system can function as an **educational ecosystem**, capable of generating syllabi, courses, and cross-disciplinary pedagogy grounded in your modular mythos and recursive logic. This supports academic CV building, community teaching, and open-source learning environments.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### II. | EDUCATIONAL TIERS</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| TIER         | NAME          | OUTPUT TYPES                                      | DESCRIPTION |</tt></div>\n<div><tt>|--------------|---------------|--------------------------------------------------|-------------|</tt></div>\n<div><tt>| Foundation   | Core Logic    | Manifestos, Orientation Modules                  | Intro to recursion, modular myth, remix culture, symbolic thought |</tt></div>\n<div><tt>| Method       | Applied Systems| Syllabi, Toolkits, Protocol Templates            | Teaches specific systems (e.g., sonic layering, narrative recursion, archive theory) |</tt></div>\n<div><tt>| Application  | Case Practice | Workshops, Capstone Projects, Collaborative Labs | Experimental fieldwork, real-world prototyping, iterative creation |</tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 156 (chunk 156/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "your",
+    "educational",
+    "syllabi",
+    "modular",
+    "logic"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

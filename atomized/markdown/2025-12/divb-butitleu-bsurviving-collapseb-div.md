@@ -1,0 +1,38 @@
+---
+id: 17988c70-1d99-49d7-881d-ab63d5f31119
+type: insight
+created: '2025-12-07T13:44:51.000Z'
+document: 928d7b6b72c237703409a4f6e5ac992c
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: research
+keywords:
+  - with
+  - from
+  - life
+  - time
+  - surviving
+---
+# <div><b>  </b><u>Title:</u> <b>Surviving Collapse</b> </div>
+
+## Context
+From document: Title: Surviving Collapse — chunk 1 (chunk 1/4)
+
+## Content
+<div><b>  </b><u>Title:</u> <b>Surviving Collapse</b> </div>
+<div><b>  </b><u>Subtitle:</u> <b>A Journey Through Trauma, Survival, and Rebuilding Purpose</b><br></div>
+<div><b>  </b><u>Brief:</u> <i>A deeply personal account of near-death, family turmoil, and the pursuit of a   second act in life, driven by survival and an unrelenting quest for meaning.</i><br></div>
+<div><br></div>
+<div>About two summers ago, I had a severe reaction to Xanax withdrawal. I sat down to watch tv after eating ice cream, put on Band of Brothers, then woke up in an ambulance with a collapsed lung, broken back, and rib bones from jumping off the fourth-floor balcony (by all estimations, I should be dead). </div>
+<div><br></div>
+<div>At the time, I had a job, an apartment, and a car. Currently, in December 2025, I have neither of the three. Once the lease ended in August 2024, I moved back to Staten Island to stay with my mother after spending a few weeks with my father in West Palm Beach, about 45 mins from my Fort Lauderdale apartment. </div>
+<div><br></div>
+<div>At this point, I had a clarity of life's purpose. I was delaying my dreams, graduating in 2018 from FAU with an MFA, finding full-time professor work only in 2022, all the while unfulfilled and not living in my values. Now having almost died, the surviving One Direction singer who plummeted from a third-story balcony, I believed in my need to stop wasting time in work and life and distilled all my emotion and energy into building a very complicated operating system; </div>
+
+
+
+---
+*Source: Document 928d7b6b72c237703409a4f6e5ac992c*

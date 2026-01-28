@@ -1,0 +1,26 @@
+{
+  "id": "15777ab0-099f-4edb-884d-d2d06d28c7da",
+  "type": "insight",
+  "timestamp": "2025-02-12T23:46:07.000Z",
+  "title": "<div><font face=\".AppleColorEmojiUI\">🔹</font> Additional Assignments or Activit",
+  "content": "<div><font face=\".AppleColorEmojiUI\">🔹</font> Additional Assignments or Activities (Only included when assigned in Canvas.)</div>\n<div><font face=\".AppleColorEmojiUI\">🔹</font> Quiz (Only if a quiz is scheduled for the week.)</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📌</font> 2. Formatting Rules (Consistent for All Weeks)</div>\n<div><br></div>\n<div>Regardless of the number of sections, every week must follow this structure:</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📌</font> 2.1 Section Headers &amp Titles</div>\n<div><br></div>\n<div>Each section will be titled as follows:</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">✅</font> 📂 | [Week Number].[Section Number] | [Week Name] | [Section Name] | [Type]</div>\n<div><br></div>\n<div>Example:</div>\n<div><br></div>\n<div>### 📂 | 3.1 | Week 3 | Overview | Presentation</div>\n<div><br></div>\n<div>Type Markers:</div>\n<div>  •  📂 = General content section</div>\n<div>  •  🎯 = Learning Outcomes</div>\n<div>  •  📖 = Readings &amp Presentations</div>\n<div>  •  📝 = Assignments</div>\n<div>  •  💬 = Discussions</div>\n<div>  •  📊 = Quizzes</div>\n<div>  •  ✅ = Knowledge Check</div>\n<div>  •  🔹 = Key topics &amp instructions</div>",
+  "context": "From document: ENG 101 | Course Content Formatting & Protocols — chunk 3 (chunk 3/8)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "499cbdc66afc5c828775c69f3b17f7c2",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "applecoloremojiui",
+    "week",
+    "section"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

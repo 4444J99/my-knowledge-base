@@ -1,0 +1,26 @@
+{
+  "id": "b3b92def-a5db-4e7d-ba19-5de5ceefb161",
+  "type": "insight",
+  "timestamp": "2025-10-28T10:48:05.000Z",
+  "title": "<div><tt>+| **Lexical drift** | Language evolves; static lexicons will become ou",
+  "content": "<div><tt>+| **Lexical drift** | Language evolves; static lexicons will become outdated | Implement drift detection and periodic lexicon updates through community feedback【3†L165-L185】. |</tt></div>\n<div><tt>+| **Cognitive overload** | Overly dense visualizations or multi‑layer outputs may overwhelm users | Provide adaptive visualization filters and entropy caps; allow users to toggle layers. |</tt></div>\n<div><tt>+| **Semantic drift in generation** | Aggressive paraphrasing or rhetorical embellishment may alter truth | Enforce semantic similarity checks and NLI gates; limit rhetorical operations in sensitive domains. |</tt></div>\n<div><tt>+| **Low‑resource languages** | Morphological/syntactic models may underperform on under‑represented languages | Integrate unsupervised or few‑shot learning techniques; solicit community corpora and incorporate morphological analyzers. |</tt></div>\n<div><tt>+| **Ethical governance** | Decisions about harmful content may vary across cultures | Use participatory ethical councils; maintain audit logs for public gate decisions. |</tt></div>\n<div><tt>+| **Automation brittleness** | Copilot may misinterpret open‑ended instructions | Provide clear, atomic tasks; label each work step and expected outputs precisely. |</tt></div>",
+  "context": "From document: agent@chatgpt:/$ apply_patch <<'EOF' — chunk 22 (chunk 22/29)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f26b5db7dbbb97eefdf7225d3aa3e47b",
+  "relatedUnits": [],
+  "keywords": [
+    "drift",
+    "community",
+    "outputs",
+    "users",
+    "provide"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

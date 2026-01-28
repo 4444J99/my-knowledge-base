@@ -1,0 +1,26 @@
+{
+  "id": "82e53b79-7daa-476d-9016-089cb823b8d0",
+  "type": "insight",
+  "timestamp": "2018-10-08T11:51:45.000Z",
+  "title": "<div>Wedding</div>",
+  "content": "<div>Wedding</div>\n<div>Everyone checks their phone at the door</div>\n<div>Something bad happens</div>",
+  "context": "From document: Wedding",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "3a7ea27ef17d22abaa2270e902d50354",
+  "relatedUnits": [],
+  "keywords": [
+    "wedding",
+    "everyone",
+    "checks",
+    "their",
+    "phone"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

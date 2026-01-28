@@ -1,0 +1,31 @@
+---
+id: e3603bf4-f147-4506-a278-f9d5249292e9
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - pdv91fuvemggemjuoq3
+  - 4no78c7aa4agg9xoabujfai5cntfe6yubag0dgm0cbkk8vdbjtri2jxnsqb
+  - gky368o1lpupjkpn8j9
+  - >-
+    3n9ugkmsha6elwzhbm5maaoz1cfllfs1gt3zjycwffjbqdghoyaizb2epxtx8kjqu9qxk5r8f39uc4ylwyjbnja1v2psnsl8t78zql3p6e6wjs1mj22eizqhqb3i59mou4gxobamnvkbjao6npp8utotw3rj82s3xoalkjmord7petrpm1inxt
+  - hvifqo2oc3b
+---
+# PDv91FuVemgGEmjUoQ3+4nO78c7Aa4AGg9xoAbUjFaI5CntFe6Yubag0dGm0CBKK8vDBjtRI2JxNsqb/
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 6941 (chunk 6941/11629)
+
+## Content
+PDv91FuVemgGEmjUoQ3+4nO78c7Aa4AGg9xoAbUjFaI5CntFe6Yubag0dGm0CBKK8vDBjtRI2JxNsqb/06+GKY368O1LPuPJkPN8j9+3n9uGkmShA6ELWZHBM5maaOZ1CFLLfS1Gt3ZjycwFfJbQDgHOyaIzb2EpXtX8KjQU9QXk5R8F39UC4YlWyJBNJa1v2psnSL8t78ZQL3p6E6WJS1MJ22eIzqHQb3I59mOu4gXObAMNVkBJAo6npp8uTOtW3rJ82s3XoAlkJMORD7pETRpm1INxT+HvIFQO2oc3B+nk1pMHj29pkIx3hz7oHxKTm+0Fr3YLP9LcVEIb68sQD2SeU8b6GzsysBs3W4b3QJSoMzXb+9iiZu83Tmm0uunV8/rzynnNZSoRklzbK1yPKWifAAroOkM94C+fA44nkuaMB70k10iHmmwDyaLC6rPxbILt5T8/b9aveb+W/ZDPRaMbAzumn9l4aht2YFbLX8VACZQqmoiLFiM4LaE0tNSqo7Si6RfuWGSzmj7o5JLUkobDGrAGCtohqRhKhTyx0P6MNdWS39eRWhJ7y02OLJrGoLxcjkEVIc4Rk0CjgfQrXICok9NH6WT0RKKB+CmjPNvISDNBe8uV+op3y6MqnhZlFwPeA/AMEQx4j890MZVGlUqlEskCrlYPGPrALypchgQ1NvNyJga4cGR2kuaiAXacauRHCTJ9NBkTiW7JLGNDjajCsYWnCldhWEmCbzgolKHfImpiParc3bnbrlWvla4oKBVtwfA/uNnpTYrK5e5P+e4Z7naVl4G8PGrIAClrSgXlybdycWpBOQaOZL2Mve2z0SsVyxoR9Yq8dlCgxVtZgDv0HacSx/xa+bXzdvsl1Y2o1x9tlJjilwfNuu73t8/Lp2Us9y+LaDcy4x5pk9YnWru1+4CuqHuBm1GVMjZc3HChI7bPken/HfVIlE4fpLlFKW8FUFEoJzSMdEO+YSmS8nphE4l3sEaLQ60EtNokCs3eb/Zy871HS44oh1EG1fnIAmjQUARVvGysf9PueA6GyTBzLHgkAxOin2n0V68XKfGfuMxQZinZc677ue3nPu2odIoN9ADmUczYvHvz7i1vHGp76MUDjDQXWkrl4WMPdgTsCNgRsCNgR8COgB0BOwJ2BOwI2BGwI2BHgBAQ7TD8ZxGAySQKpigYBchEAdONAtMLGfcw
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

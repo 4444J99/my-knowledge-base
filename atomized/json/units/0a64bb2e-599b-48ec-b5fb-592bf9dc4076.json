@@ -1,0 +1,26 @@
+{
+  "id": "0a64bb2e-599b-48ec-b5fb-592bf9dc4076",
+  "type": "insight",
+  "timestamp": "2021-11-16T22:21:46.000Z",
+  "title": "<div>Classical music </div>",
+  "content": "<div>Classical music </div>\n<div>Midi</div>\n<div>Synths</div>\n<div>Film score</div>\n<div>Kubrick</div>",
+  "context": "From document: Classical music",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "d9faf8a3f5cdb92fa365d0529c292c5a",
+  "relatedUnits": [],
+  "keywords": [
+    "classical",
+    "music",
+    "midi",
+    "synths",
+    "film"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

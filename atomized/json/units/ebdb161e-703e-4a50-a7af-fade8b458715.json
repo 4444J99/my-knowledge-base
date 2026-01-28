@@ -1,0 +1,26 @@
+{
+  "id": "ebdb161e-703e-4a50-a7af-fade8b458715",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:15:38.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><br></div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>1. 4. Generative Capabilities• Existing Models &amp Outputs: Summary of current AI techniques.</div>\n<div>• Limitations: Issues with creativity, coherence, diversity.</div>\n<div>• Enhancements:1. Model swap or ensemble• Architecture sketch, training-data ideas.</div>\n<div><br></div>\n<div>2. Prompt-engineering templates• Example prompts &amp expected outputs.</div>\n<div><br></div>\n<div><br></div>\n<div>• Effort vs. Impact Table</div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>1. 5. Technical Feasibility &amp Scalability• Bottlenecks &amp Risks: Performance, security, integration.</div>\n<div>• Mitigations &amp Tools:1. Tool/Framework• How it addresses the risk.</div>\n<div>• Implementation notes.</div>\n<div><br></div>\n<div>2. …</div>\n<div><br></div>\n<div>• Roadmap &amp Prototypes:• Short bullets for next-step proofs-of-concept with timelines.</div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>1. Conclusion &amp Next Steps• Recap top 3 high-level priorities.</div>\n<div>• Suggested order of execution.</div>\n<div>• Metrics to measure success.</div>",
+  "context": "From document: AI Review & Expansion Prompt: — chunk 5 (chunk 5/25)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "f193a3a0a188e43c3f5b1686778be1f5",
+  "relatedUnits": [],
+  "keywords": [
+    "outputs",
+    "with",
+    "next",
+    "generative",
+    "capabilities"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

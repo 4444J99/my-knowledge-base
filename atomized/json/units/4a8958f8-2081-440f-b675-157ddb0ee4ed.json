@@ -1,0 +1,26 @@
+{
+  "id": "4a8958f8-2081-440f-b675-157ddb0ee4ed",
+  "type": "insight",
+  "timestamp": "2016-05-20T02:06:54.000Z",
+  "title": "<div>1) Thesis: Is it an argument?  How can it be complicated?  Are they missing",
+  "content": "<div>1) Thesis: Is it an argument?  How can it be complicated?  Are they missing/forgetting something?</div>\n<div><br></div>\n<div>2) Organization of paragraphs: is the pieces building to a logical conclusion, is everything in an order that makes the most sense?</div>\n<div><br></div>\n<div>3) Quotes: Do the quotes seem to be supporting the main idea of each paragraph?</div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: ENC 1101/1102 Notes & Ideas — chunk 2 (chunk 2/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "250e2aa02a6413e64e4678f2dcbd4a7f",
+  "relatedUnits": [],
+  "keywords": [
+    "quotes",
+    "thesis",
+    "argument",
+    "complicated",
+    "they"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

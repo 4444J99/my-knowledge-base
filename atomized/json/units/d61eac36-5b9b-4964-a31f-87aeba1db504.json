@@ -1,0 +1,26 @@
+{
+  "id": "d61eac36-5b9b-4964-a31f-87aeba1db504",
+  "type": "insight",
+  "timestamp": "2025-02-12T19:07:35.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Explore the Fortis Online Library (LIRN). There, you will find several databases that contain peer reviewed journal articles. You may also choose to do internet searches but be aware you will need to examine the websites closely. Government (.gov), organizational (.org), and education institutional (.edu) web sites will be the best sources of information and be the most credible. Never use a .com unless absolutely necessary. Sites such as Wikipedia, eHow, about.com, WebMD, and so forth are NOT to be used. The content for sites like these is not developed by experts, and often contains vague or inaccurate information. </div>\n<div><br></div>\n<div>You will be completing a table like the example below: </div>\n<div><br></div>\n<div>Completed Example</div>\n<div>Description  Example</div>\n<div>Web site link  https://owl.english.purdue.edu/owl/section/2/10/Links to an external site.</div>\n<div>Title of page:   APA Style</div>\n<div>Title of the website:  Purdue University’s Online Writing Lab</div>\n<div>In 1-3 sentences, please explain how and why this source is credible and how you can use it in your paper:   The site is owned by a university and is well known as a standard for writing. Information is written by credible professors and writing professionals. I will use quotes and paraphrases that support my argument that writing is a process.</div>",
+  "context": "From document: Weeks 1 - 6 Canvas Data Dump — chunk 154 (chunk 154/188)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1b21c03b1f1909954adca118a79b0158",
+  "relatedUnits": [],
+  "keywords": [
+    "will",
+    "writing",
+    "that",
+    "sites",
+    "information"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

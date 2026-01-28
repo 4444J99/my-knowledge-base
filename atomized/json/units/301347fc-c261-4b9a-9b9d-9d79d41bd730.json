@@ -1,0 +1,26 @@
+{
+  "id": "301347fc-c261-4b9a-9b9d-9d79d41bd730",
+  "type": "insight",
+  "timestamp": "2025-12-03T05:00:13.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>I</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>C</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>A/R</div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div><b>Legend:</b><br></div>\n<ul class=\"Apple-dash-list\">\n<li><b>R</b> = Responsible</li>\n<li><b>A</b> = Accountable</li>\n<li><b>C</b> = Consulted</li>\n<li><b>I</b> = Informed</li>\n</ul>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div><h2>6. Expected Outcomes</h2></div>\n<ul class=\"Apple-dash-list\">\n<li>A <b>secure, modular, and scalable live performance system</b> that captures the original vision of nightly-changing bands and audience-driven shows.</li>\n<li>A <b>functional prototype</b> where performers and audiences collaboratively shape unique performances.</li>\n<li>A validated architecture ready for future expansion into touring and streaming environments.</li>",
+  "context": "From document: Project Charter: Contextual Awareness and Audience-Interactive Live… — chunk 13 (chunk 13/15)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "6c79b8186fe335c5c6f24948326d3edf",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,43 @@
+---
+id: 225ee6ae-3208-4c47-819f-694f10a369ed
+type: insight
+created: '2013-05-27T20:16:46.000Z'
+document: 1e445630e8e60ef9e19190c4ff640893
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - waves
+  - some
+  - with
+  - like
+  - pitch
+---
+# <div>Synth Ideas</div>
+
+## Context
+From document: Synth Ideas — chunk 1 (chunk 1/2)
+
+## Content
+<div>Synth Ideas</div>
+<div><br></div>
+<div>Sine waves 2 octaves apart</div>
+<div><br></div>
+<div>raw analog waveforms (triangle/saw) lowpassed, with some vibrato (lfo &gt pitch)</div>
+<div><br></div>
+<div>The square sounding synths are literally just a couple of slightly detuned square waves (Blake one actually sounds more like a saw + square), maybe with a bit of saturation too. Short attack and release.</div>
+<div> </div>
+<div>_________________________________________________</div>
+<div>I think you can either use two sine waves with a tiny amount of FM (and I mean subtle!) the first osc leave it at 0, the second one octave up (12 semitones), sync both oscilators, and turn the Osc Balance to full right... </div>
+<div>You can also try the digital waves, as they can produce very good organ like sounds... </div>
+<div>Now use two Low Pass Filters in series, the first one like 9'o clock, the second more open, use resonance only on the first, no Env Amount on both of them. Filter Balance also 9'o clock. Add some KeyFollow, test some chords and it trully depends on the scale you're using, so...</div>
+<div><br></div>
+<div>Then, set LFO 1 to modulate Osc 1 pitch +5, triangle wave is ok, slow rate (you can try modulating with the waves as well, but make it slow and barely noticable, the idea here is to create some movement on pitch, like the drift on an analogue machine...). You can do the same for filter 1, a very short modulation amount, a very slow LFO rate, just to add some slight movement to it... </div>
+
+
+
+---
+*Source: Document 1e445630e8e60ef9e19190c4ff640893*

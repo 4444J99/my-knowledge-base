@@ -1,0 +1,26 @@
+{
+  "id": "ac07f34c-823c-4472-92b0-67c074a157a9",
+  "type": "insight",
+  "timestamp": "2025-02-10T16:22:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>🔹 Concrete Prompt:</div>\n<div><br></div>\n<div>Describe your favorite meal using all five senses, but do not name it. Let the reader guess what it is.</div>\n<div><br></div>\n<div>🔹 Abstract Prompt:</div>\n<div><br></div>\n<div>What role do vivid descriptions play in the way we remember moments in our lives?</div>\n<div><br></div>\n<div>🔹 Connecting Prompt:</div>\n<div><br></div>\n<div>Think about a scene from a book or movie that was especially vivid. How did the description make it feel real to you?</div>\n<div><br></div>\n<div>🔹 Exploratory Prompt:</div>\n<div><br></div>\n<div>If you had to describe yourself using only sensory details (without naming any personality traits), how would you do it?</div>\n<div><br></div>\n<div><br></div>\n<div>Day 7: Dialogue &amp Voice in Narrative</div>\n<div>📌 Instructions: Choose one of the prompts below to explore in depth.</div>\n<div><br></div>\n<div>🔹 Concrete Prompt:</div>\n<div><br></div>\n<div>Recall a memorable conversation you’ve had. Write a dialogue-heavy scene that captures the tone, rhythm, and personality of the exchange.</div>\n<div><br></div>\n<div>🔹 Abstract Prompt:</div>\n<div><br></div>\n<div>How does written dialogue differ from real-life speech? Should dialogue in stories mimic natural speech, or is it better to refine it?</div>",
+  "context": "From document: Daily Journal Prompts | Weeks 1 - 6 | ENG 101 — chunk 5 (chunk 5/19)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "e6eab879b76e49062d95c26643b9406a",
+  "relatedUnits": [],
+  "keywords": [
+    "prompt",
+    "dialogue",
+    "concrete",
+    "describe",
+    "using"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

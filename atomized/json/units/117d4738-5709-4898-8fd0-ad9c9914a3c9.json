@@ -1,0 +1,26 @@
+{
+  "id": "117d4738-5709-4898-8fd0-ad9c9914a3c9",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div>  &quotfrosted-glass-theme.fakeMica.enabled&quot: true,</div>",
+  "content": "<div>  &quotfrosted-glass-theme.fakeMica.enabled&quot: true,</div>\n<div>  &quotapc.imports&quot: [</div>\n<div>    &quotfile://${userHome}/.vscode-insiders/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js&quot</div>\n<div>  ]</div>\n<div>}</div>\n<div>```</div>\n<div>Activate these only after verifying no crashes or rendering lag.</div>\n<div><br></div>\n<div>**Rollback Procedure**</div>\n<div>- If instability appears: Switch profile (Command Palette → “Profiles: Switch Profile” → choose `Core Dev`).</div>\n<div>- Disable last-added cosmetic extension via Extensions sidebar.</div>\n<div>- Clear only extension state if necessary: remove specific extension directory under `~/.vscode-insiders/extensions/&ltname-version&gt`.</div>\n<div><br></div>\n<div>**Monitoring Stability**</div>\n<div>- Launch with `--disable-extensions` occasionally to confirm base app health.</div>\n<div>- Check log folder count growth; sudden spikes with renderer errors often correlate to animation/vibrancy layers.</div>\n<div><br></div>\n<div>**Maintaining Appearance Safely**</div>\n<div>- Version control cosmetic settings: create a `vscode-cosmetic-settings.json` in your dotfiles repo.</div>\n<div>- Monthly snapshot: `code-insiders --list-extensions | sort &gt cosmetic-extensions-snapshot.txt`</div>",
+  "context": "From document: User: fix — chunk 15 (chunk 15/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "extensions",
+    "vscode",
+    "cosmetic",
+    "quot",
+    "insiders"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

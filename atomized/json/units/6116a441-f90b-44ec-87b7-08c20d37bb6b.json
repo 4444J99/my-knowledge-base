@@ -1,0 +1,26 @@
+{
+  "id": "6116a441-f90b-44ec-87b7-08c20d37bb6b",
+  "type": "insight",
+  "timestamp": "2025-12-03T13:49:02.000Z",
+  "title": "<ul class=\"Apple-dash-list\">",
+  "content": "<ul class=\"Apple-dash-list\">\n<li>Blind Spot: Assumes all readers have prior knowledge</li>\n<li>Fix: Add a brief explanation or introductory context</li>\n</ul>\n<li><b>Recognition of Shatter Points</b><br></li>\n<ul class=\"Apple-dash-list\">\n<li><b>Prompt: </b><b><i>&quotAnalyze the content for potential vulnerabilities or weak points that could cause failure or serious criticism. Recommend preventive measures or reinforcements.&quot</i></b></li>\n<li><b>Example Output:</b><br></li>\n<ul class=\"Apple-dash-list\">\n<li><b>Vulnerability: Over-reliance on one source</b></li>\n<li><b>Fix: Include multiple references to diversify support</b></li>\n</ul>\n</ul>\n</ul>\n</ul>\n<div><br></div>\n<div>---</div>\n<div>---</div>\n<div><b><br></b></div>\n<div><b><h3>Growth Phase</h3></b></div>\n<div><b><br></b></div>\n<div><b>Bloom (Emergent Insights)</b></div>\n<ul class=\"Apple-dash-list\">\n<ul class=\"Apple-dash-list\">\n<li><b>Prompt: </b><i>&quotFrom the reviewed content, generate innovative ideas, new directions, or insights that could enhance or expand its impact.&quot</i></li>\n<li><b>Example Output:</b><br></li>\n<ul class=\"Apple-dash-list\">\n<li>Insight: Could expand into a visual infographic for broader reach</li>",
+  "context": "From document: From Evaluation to Growth — chunk 10 (chunk 10/12)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "6ce49238bcaa9925c055c40f902078cb",
+  "relatedUnits": [],
+  "keywords": [
+    "class",
+    "apple",
+    "dash",
+    "list",
+    "could"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

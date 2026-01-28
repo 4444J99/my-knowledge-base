@@ -1,0 +1,32 @@
+---
+id: c49cfc79-a424-4469-991a-d6d51c5678ac
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    tp7kykakkxu8ygeib6qhfoegnfjego72gh4lrbfgo0q3zwxquhw47ou8orehpvjavczdwm6wvp5tyg
+  - ul68pevydjvo5dcwfbbbubnfx6d48x
+  - s395
+  - >-
+    ipwefbkftadathsk8ori34lzzsob1l1pwpve2c65ylkoiu60v0qpkqlunwz6kwzmnsrll3os4wzrwj1cd2qvlw2kmm6dnmoofy52abhaocu02xufmsui706evbwwam4oifslcfqgv9rhaofmolfgdbk4tzmov2vcd05y3cc3qls22vfsvsfe4figdg3pyxxfjhmc5mywu
+  - bpaqgui6vlpemcmwo1zccba1sk
+---
+# tp7KykakKxu8ygEIB6QHFOegnfjEGo72gh4lrbFgO0q3ZWXQuHw47ou8OrehpVjavCZDWM6WvP5TYg+u
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 5089 (chunk 5089/11534)
+
+## Content
+tp7KykakKxu8ygEIB6QHFOegnfjEGo72gh4lrbFgO0q3ZWXQuHw47ou8OrehpVjavCZDWM6WvP5TYg+uL68pEVyDJvO5dCWFbbBUBNFx6d48x/bS/s395+iPweFBkFtAdAThSK8ori34LZZSoB1l1PWpVe2C65ylKoiu60v0QpkqluNWZ6kwZmNsRll3oS4Wzrwj1Cd2qvlW2KmM6dNmOOfy52ABhAOcU02XUFmsuI706EVbWWaM4oIfslcFqgV9rHAOFmolFGdbK4TZMoV2VCd05y3cc3qLS22VFsVsfe4FIGdg3pyxxFJHmc5mywU/BPaqgui6VLpemcmWo1ZCcba1sk/whr5TGgJs+DTn54DcCPgFCDc2EK4tduS9ac6ctopPwCFo2P6aYu5a1yM0B9WqjLuMT+TDAZu53Dj0AoLi0sG54I0zzW4jKIaSfUoW1HxD4nHwj/Wx4isLvWBHCTv8wD9ZgNx8X0Qikety86wH7436WiX62tFRhx25btAzMhlPR0sQjZT04V6S0+aRG/UiKMi9TIYc2bx/7aUwTBe7ZQHd+ERrrL3Yl8VyfyLex1I6DfxDKaO/GiCHAcNmi+/QBBiAPDaXLYd4Nh/XQiAHaUJ+m8JFgxxm9Yjf2rWOIyqAQIkfAMD4dGiHxiUcwtFab65VcMJMqwNI7Hk/bfVASEGO08BzUBY9B/tm8Ye+Ov+F+Dm2Elum4hekB9gjszH7vRfHMseuZ6N8axgLHgrjsv53nn/9XqSvepuOvwj2aGboIxobg/rBvEEDnzT/fttJWGwr9NaOb9Zq0IqoqPTQq/nqP331v2M+zWzL90hWGXe6FSDQxa/Ha8dC3Vp8/MiQA34jDzZmqk95th5EqfODo/B9y/vBzqX37zV6/uA7xdVgjo9Ifvd/SltRypUBkQQ/hZo7o/iKVgByolI4V+gRsoHlOkJXJ/y/5N5F/DdN2NByocG3XB6hdemm6pXguqYgvYHAs4Yt5SZP/lrKI8Bt9H67hrHr2+wwrtiRFaeYDd6gt62mPrR92U4ZclS6LS7lL7wE1y0qeBOLw3V020p29KI6gbpsS0YeYO87CEearoC6bZJvZ+2oS6vc3Dc1J4+VblxouBwWIBws3HcgfQWALWpplQG/IUNOH0I0046V7r107Mfnz/FDEbLcVgtYrrvIyK1K5apubgnLtH6oGrRyOZQH
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

@@ -1,0 +1,26 @@
+{
+  "id": "f92c5e15-52aa-4d0d-8e5d-d2ad991e82b3",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 1. Each Faction, Archetype, and Group Type Has Its Own Unique Fate Countering Ability</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Different groups and individuals have specialized methods for manipulating or reversing fate.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> How Fate Counters Work Across Groups:</div>\n<div>  •  Factions → Each faction counters fate in a unique way that fits its identity.</div>\n<div>  •  Archetypes → Each archetype has one unique fate-related ability (ex: delaying, twisting, absorbing).</div>\n<div>  •  Solo Players → Have a separate mechanic to intervene but must sacrifice more than faction-aligned players.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Examples of Unique Fate Countering Abilities:</div>\n<div>  •  The Scholars’ Override → Can rewrite the terms of a fate shift instead of reversing it.</div>\n<div>  •  The Warriors’ Wager → Can challenge fate via combat (debate, skill check, or randomized duel).</div>\n<div>  •  The Tricksters’ Distortion → Can swap two results on the Fate Wheel instead of undoing them.</div>\n<div>  •  The Devout’s Atonement → Can remove a fate shift only if another class-wide burden is added.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 542 (chunk 542/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "fate",
+    "font",
+    "face",
+    "unique",
+    "each"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

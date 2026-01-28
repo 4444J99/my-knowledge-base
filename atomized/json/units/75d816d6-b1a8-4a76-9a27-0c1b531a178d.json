@@ -1,0 +1,26 @@
+{
+  "id": "75d816d6-b1a8-4a76-9a27-0c1b531a178d",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt>- Creative filtering  </tt></div>",
+  "content": "<div><tt>- Creative filtering  </tt></div>\n<div><tt>- Educational scaffolding  </tt></div>\n<div><tt>- Commercial product sorting  </tt></div>\n<div><tt>- Interface logic design</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### III. EDUCATIONAL FIELDS (Pedagogical Branching)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Each module can be taught, cited, or studied under one of three scaffold tiers:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Tier | Focus | Output Formats |</tt></div>\n<div><tt>|------|-------|----------------|</tt></div>\n<div><tt>| **FOUNDATION** | Core concepts (recursion, remix, modularity) | Manifestos, onboarding docs |</tt></div>\n<div><tt>| **METHOD** | Applied techniques (audio layering, symbolic logic) | Lesson plans, syllabi |</tt></div>\n<div><tt>| **APPLICATION** | Live case studies (project deep dives) | Studio curriculum, workshops |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Example Cross-Domain Class:**</tt></div>\n<div><tt>- “Dream Mechanics: Horror, Myth, and Subconscious Design” (GR1ND3R + MET4 + DR34M.L0G1K)</tt></div>\n<div><tt>- “Queer Voice &amp Memory Systems” (Q_v33R + FLOAT1NG.P01NTS + ETCETER4)</tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 66 (chunk 66/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "educational",
+    "logic",
+    "design",
+    "creative",
+    "filtering"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

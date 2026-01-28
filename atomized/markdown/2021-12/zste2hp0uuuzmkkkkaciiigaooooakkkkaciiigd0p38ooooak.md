@@ -1,0 +1,32 @@
+---
+id: a890677a-0235-4080-bd36-b01f817889cd
+type: insight
+created: '2021-12-17T14:46:39.000Z'
+document: 37d960e30d45ec53cee7bbbc54f3efc3
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - zste2hp0uuuzmkkkkaciiigaooooakkkkaciiigd
+  - >-
+    0p38ooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakztw1ftnc06fvtzuo7kztllysyservhck1fd0irpjgcigjjjwab1jnfh
+  - 8atx
+  - >-
+    tfah8avfcngnwncnd4r0mvk3ksbeyqcgrsdubhyd8e9etngbqwdlnlq3sj7pgjgyvnwl9hs0itzs7l
+  - godepet
+---
+# ZSte2hp0UUUzMKKKKACiiigAooooAKKKKACiiigD/0P38ooooAKKKKACiiigAooooAKKKKACiiigAooo
+
+## Context
+From document: How lung until quit smoking? — chunk 81 (chunk 81/249)
+
+## Content
+ZSte2hp0UUUzMKKKKACiiigAooooAKKKKACiiigD/0P38ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKztW1fTNC06fVtZuo7KztlLySysERVHck1fd0iRpJGCIgJJJwAB1JNfh/8AtX/tFah8avFcngnwncND4R0mVk3KSBeyqcGRsdUBHyD8e9eTnGbQwdLnlq3sj7PgjgyvnWL9hS0itZS7L/N9F/ke1/Gv/goDePeT+G/gnaB1QlDqc67t3bMUfp6E/lXxZdan8ePixetc6pq2p6m8x5VXkKjP+ynAr6i+BX7NOii1t/Enj5SkEqh4rMHbLIDyGkP8KnsOpr7/ANF1Xw14XtEsfD9jBYQRgALEgXp6nqa+JjQxeO/eYipyx6L/AIH+ep+71cxybIP9myzC+1qLeT2v/is2/kkj8f7b9nf4sCMXbWOoqeu7bJn/ABre0jV/j58K7hZtE17ULIp/yyuC5jbHYrJkYr9fR8REH8f61k6xr/hvxHatZ67YwX0TjBEqA9fQ9a1fD0Ya0a7T/rsca8Tq1b93jsvjKD7P/NW/I+afg7+3NFfXsHhr4zWC6TdSEImoQg/Z2Y8fvF/gz6jiv0Rs7y01G1ivrCZLi3nUPHJGwZWU9CCOCK/K/wCLnwD0a6tp9V8CjzkUFnsZDucDqTE3fH908+lcP+zx+0pqXwY1mPwZ4vlkuvCVxJsG/JksXJxuUHnZn7y9uorsy7iGtQqrD47rtL+v67njcSeGuCzHCSzLh9NNfFTe/wAl0fls+jP2RoqpYX9lqllBqWnTJcWtyiyRSIdyujDIII7EV8pftP8A7TWm/BbSf7B0Ape+LtQT9xCeVtkb/ltKP/QV7n2r7LFYunRpurUdkj8PyjJMTjsTHCYaF5vp27t9kup3Pxs
+
+
+
+---
+*Source: Document 37d960e30d45ec53cee7bbbc54f3efc3*

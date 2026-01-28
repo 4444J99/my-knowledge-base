@@ -1,0 +1,26 @@
+{
+  "id": "1c0209d5-66ff-44eb-a11f-e3da22b8a45d",
+  "type": "insight",
+  "timestamp": "2022-03-23T20:07:59.000Z",
+  "title": "<div>Have you ever heard of a type writer that could type on its own (or whateve",
+  "content": "<div>Have you ever heard of a type writer that could type on its own (or whatever data it's fed?</div>",
+  "context": "From document: Have you ever heard of a type writer that could type on its own (or…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "62238d8377158afd643625c95b60c914",
+  "relatedUnits": [],
+  "keywords": [
+    "type",
+    "have",
+    "ever",
+    "heard",
+    "writer"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

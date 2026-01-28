@@ -1,0 +1,26 @@
+{
+  "id": "55e9faac-3494-4198-8d83-dfeca7a3a81d",
+  "type": "insight",
+  "timestamp": "2025-03-10T23:24:51.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Your <b>resume</b> is well-organized and easy to follow. You have listed your skills and experience effectively. However, there are some areas that could use improvement. The objective statement could be more tailored to the specific role you’re applying for, as it currently feels somewhat generic. Additionally, your bullet points under work experience could be stronger if they included <b>quantifiable achievements</b>—try to include numbers or specific outcomes to highlight your impact in each role.</div>\n<div><br></div>\n<div>Overall, you have a strong foundation, and with a few refinements, your materials will be even more compelling. Keep up the great work!</div>\n<div><br></div>\n<div>Best,</div>\n<div>Professor Padavano</div>\n<div><br></div>\n<div><b>Grades:</b><br></div>\n<div>  •  Cover Letter: <b>85/100</b><br></div>\n<div>  •  Resume: <b>88/100</b><br></div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>Letter for Niko Davis</b><br></div>\n<div><br></div>\n<div>Dear Niko,</div>\n<div><br></div>\n<div>Thank you for submitting your resume and cover letter. Your materials demonstrate a solid understanding of how to present yourself professionally, and I appreciate the effort you put into them. Below is my feedback.</div>",
+  "context": "From document: Feedback Letters for Resume & Cover Letters — chunk 7 (chunk 7/22)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "86dc5339604c58929fa5043c670c250d",
+  "relatedUnits": [],
+  "keywords": [
+    "your",
+    "resume",
+    "could",
+    "letter",
+    "have"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a6dbc0b8-c0c3-43ec-8a72-527a08a3286b",
+  "type": "insight",
+  "timestamp": "2025-12-04T16:48:25.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## TECHNICAL</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| ID | Left | Right | RNG | Tags |</tt></div>\n<div><tt>|-----|------------|------------|-------|------------------------|</tt></div>\n<div><tt>| 04 | chaos | order | d12 | [glitch, structure] |</tt></div>\n<div><tt>| 18 | fixed | wild | d8 | [stability, surge] |</tt></div>\n<div><tt>| 22 | code | voice | d6 | [text, language] |</tt></div>\n<div><tt>| 26 | call | echo | d6 | [signal, delay] |</tt></div>\n<div><tt>| 30 | compress | expand | d6 | [dynamics, breath] |</tt></div>\n<div><tt>| 52 | signal | void | d10 | [presence, absence] |</tt></div>\n<div><tt>| 59 | lock | break | d20 | [rules, rupture] |</tt></div>\n<div><tt>| 53 | socket | web | d12 | [place, connection] |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## ::OPTIONS::</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Ready to convert into a **Fusion Matrix Generator**?</tt></div>\n<div><tt>- Or generate **visual sigils** from opposing poles?</tt></div>\n<div><tt>- Would you like a **ritual or synth FX chain** for each domain?</tt></div>\n<div><tt><br></tt></div>",
+  "context": "From document: # synth-wave-modules — chunk 11 (chunk 11/51)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1f0200e52addd3bec3d0beb78cca4a02",
+  "relatedUnits": [],
+  "keywords": [
+    "signal",
+    "technical",
+    "left",
+    "right",
+    "tags"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

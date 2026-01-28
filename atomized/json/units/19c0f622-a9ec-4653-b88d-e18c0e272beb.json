@@ -1,0 +1,26 @@
+{
+  "id": "19c0f622-a9ec-4653-b88d-e18c0e272beb",
+  "type": "insight",
+  "timestamp": "2020-09-30T01:56:28.000Z",
+  "title": "<div>  $xx - Credit One</div>",
+  "content": "<div>  $xx - Credit One</div>\n<div>  $13 - Florida Combined Life</div>\n<div>  $xx - Premier (may)</div>\n<div>  $xx - Merrick (may)</div>\n<div>  $9 - Dropbox</div>\n<div>  $10 - Backblaze</div>\n<div>  $7 - Disney+</div>\n<div>  $30 - Adobe</div>\n<div><br></div>\n<div><br></div>\n<div>      5.06.20    </div>",
+  "context": "From document: 4.15.20 — chunk 2 (chunk 2/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "d416b7eb983cc1a2781f89d55d638876",
+  "relatedUnits": [],
+  "keywords": [
+    "credit",
+    "florida",
+    "combined",
+    "life",
+    "premier"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

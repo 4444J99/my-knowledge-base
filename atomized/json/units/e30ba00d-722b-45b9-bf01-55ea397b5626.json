@@ -1,0 +1,26 @@
+{
+  "id": "e30ba00d-722b-45b9-bf01-55ea397b5626",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:57:38.000Z",
+  "title": "p with files like &quotfinal_version_v2_actual-final_last-prod.png&quot lost amo",
+  "content": "p with files like &quotfinal_version_v2_actual-final_last-prod.png&quot lost among dozens of variants . A clear naming policy (plus source control for diffs) replaces that chaos with an orderly progression of versions. In fact, naming rules are considered an underrated but crucial aspect of workflow – aiding not just organization, but also automation, continuous integration, and preventing errors like duplicate imports or overwrites .</div>\n<div>In MythOS, adopting a game asset mindset could mean prefixing or tagging files by category (e.g. DOC_, IMG_, CODE_), and including version or variant markers in names until a more sophisticated ID system is in place. Also, leveraging a GUID or hash for each item (with a lookup database) could ensure that even if two old systems had a “File001” or “Draft.txt”, the unified system knows they are distinct or perhaps the same content referenced in two places.</div>\n<div>Academic and Archive Systems: Persistent IDs and Metadata</div>\n<div>Academic, library, and archival systems face the challenge of uniquely identifying a vast array of artifacts (papers, books, images, datasets), often across institutions and time. They have developed persistent naming schemes and metadata standards to ensure canonical references: • Persistent Identifier Schemes (DOI, ARK, etc.): Rather than descriptive filenames, scholarly objects are often assigned persistent identifiers that remain stable even if the object is moved or renamed. A Digital Object Identifier (DOI), for instance, is a standardized unique string for an object (e.g. 10.1000/182) that will always resolve to that object’s latest location . Archival Resource Keys (ARK) are another scheme widely used by libraries, museums, and data archives – an ARK is a URL that encodes a globally unique name for an object, independent of where it’s stored . These systems emphasize canonical naming at a global scale: no two objects get the same DOI, and a DOI/ARK will not be reassigned even if the object is deleted (retired identifiers typically just won’t resolve). The lesson for MythOS is the value of location-independent naming. By assigning each file or project a unique ID (which",
+  "context": "From document: Transforming a Fragmented Digital Life into a Unified Canonical Architecture — chunk 6 (chunk 6/37)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "97ddee0de00a1fdb1a5da48c7c6bd4f2",
+  "relatedUnits": [],
+  "keywords": [
+    "that",
+    "object",
+    "naming",
+    "systems",
+    "persistent"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

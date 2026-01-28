@@ -1,0 +1,24 @@
+{
+  "id": "1d92ff92-0748-4f46-b5a5-10b8a5d88bcf",
+  "type": "insight",
+  "timestamp": "2018-10-11T01:29:54.000Z",
+  "title": "<div>I don’t know what I know</div>",
+  "content": "<div>I don’t know what I know</div>\n<div>I know I know something </div>",
+  "context": "From document: I don’t know what I know",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "62b154ab857cc4030c22691840e265f5",
+  "relatedUnits": [],
+  "keywords": [
+    "know",
+    "what",
+    "something"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,31 @@
+---
+id: 3152f68d-fc14-452b-9b11-4f776fc3e301
+type: insight
+created: '2021-12-17T14:46:39.000Z'
+document: 37d960e30d45ec53cee7bbbc54f3efc3
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - o77vf8kfr
+  - wcz7438nehpdb8oekrhbs01qomjk5xgguorkzfw7lfgnagovirhfiv4e8medhzz
+  - e9vr8d40muhmbncq42ljhi
+  - >-
+    c564xpxlwrrkv1u8l9njzyylua5rc0dloysul18jlnm3phi4wpbplvyy1uru78n8wr3h4efehtfaniidncby9o1sirssyyi3u5rmabo3kg49c9q8oykmiu
+  - m8vp4uhpd1fhkv6
+---
+# o77vf8kfR/wCz7438NeHpdb8OeKrhbS01qOMJK5xGGUOrKzfw7lfgnAGOvIrhfiV4E8MeDhZz+G/E9vr
+
+## Context
+From document: How lung until quit smoking? — chunk 76 (chunk 76/249)
+
+## Content
+o77vf8kfR/wCz7438NeHpdb8OeKrhbS01qOMJK5xGGUOrKzfw7lfgnAGOvIrhfiV4E8MeDhZz+G/E9vr8d40mUhMbNCq42ljHI+c564XpXlWRRkV1U8l9njZYylUa5rc0dLOysul18jlnm3PhI4WpBPlvyy1uru78n8wr3H4EfEHTfAniidNcby9O1SIRSSYyI3U5RmABO3kg49c9q8OyKMiu/M8vp4uhPD1fhkv6+448vx1TDVo16e8T6o1n4L/DOS7m1my8e2dnpMhMgiJildFPOxGEo3egG3PbBNdFrXi34fy/AzWfDfhi8hgjtXEFrBNMgurhUmjZpjGdrfOSzfd6enQfGuRRkV89LhepU9m8TiJT5JKS0S272Wr82e5HiKFP2nsKEY86aere/a+y8kezfCbV/hxE19oHxEsI2h1AAQXpXLW7EFSCw5UHghgDtPXjkdmvwO8DNOb0fEPTzpQOd26Lzdv93Pm7d2O+P+A9q+ZsijIrvxeTVpVZVcPiJQ5t1ZSXqk9n6fccWGzWnGlGlXoRny7PVP523+Z9B/Gv4geHNdsdG8E+DmafStBRV89sjzGRBGgXIBIVQctjknjjk/PlGRRkV6GV5ZTwlBUKV7Lq923q2/U4syx9TFVnWqWu+2yS0SQqsyMHQkMpyCOoIr7d8c/Ebwrd/C6617Tr+2fxHr+n2llcQpMhmUZYyBowdygB5BnHce1fEORRkVx5vkNPGVKVSba5Hf11Ts/K6X3HVlec1MLCrCCT51b03V152bPR/hJ4lj8KfELR9VuJRDbGXyJ2Y4URTDYWYnoFyGP0r1L9oLxH4altdB8I+D7uC606yE1y/wBmlWaMPKx2ruQkZHznHXDCvmbIoyKMRkNOpjqeObd4q1uj3s35q7sFDOalPBzwaStJ3v1W1187I9h+DXxJh+H2uzrqsZm0fVEEV0oG4rtztcL3xkgjuCepwK9K1H4OfC/xBeSa14Z8c2Wn6bOTJ5EhRjCD2G+WNgPQMMgdzXypkUZFY43IZSrvFYas6c5JKVkmnba6a3Xc1wmcqNFYfEUlUindXbTV97NdH2PoL4gXXwo8MeFl8HeC4otb1V2Bn1RlDlBkE7Hxgk4wNuQFzyW5rU/Zp17Q9B1/WJtc1G206OW2RUa5mSEMQ+cAuRk1805FGRSrcORngp4OVST59XJ6u90/RbbLRDp
+
+
+
+---
+*Source: Document 37d960e30d45ec53cee7bbbc54f3efc3*

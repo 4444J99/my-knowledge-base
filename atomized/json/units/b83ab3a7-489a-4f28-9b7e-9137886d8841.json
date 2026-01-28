@@ -1,0 +1,26 @@
+{
+  "id": "b83ab3a7-489a-4f28-9b7e-9137886d8841",
+  "type": "insight",
+  "timestamp": "2025-11-23T22:21:12.000Z",
+  "title": "<div>Here is a reusable, parameterized algorithm you can use to recreate and mut",
+  "content": "<div>Here is a reusable, parameterized algorithm you can use to recreate and mutate the polyrhythmic pattern system you described.</div>\n<div><br></div>\n<div>I will write it as a clear procedure first, then as compact pseudocode you can drop into any language.</div>\n<div><br></div>\n<div>────────────────────</div>\n<div>  1.  Core parameters (treat as environment variables)</div>\n<div>────────────────────</div>\n<div><br></div>\n<div>Set the base glyph cycle:</div>\n<div>$GLYPH_CYCLE = [“4”, “j”, “P”]</div>\n<div><br></div>\n<div>Set the Fibonacci lengths that drive the “voice” of each glyph in sequence (extend as needed):</div>\n<div>$FIB_COUNTS = [1, 2, 3, 5, 8, 13, 21, 34, …]</div>\n<div><br></div>\n<div>Set the cluster-length pattern (the “character cluster amount pattern”), to be looped:</div>\n<div>$CLUSTER_PATTERN = [1, 2, 4, 8, 4, 2, 1, 2]</div>\n<div><br></div>\n<div>Set the dash-length pattern, also looped and synchronized to cluster indices:</div>\n<div>$DASH_PATTERN = [1, 2, 4, 8, 4, 2, 1, 2]</div>\n<div><br></div>\n<div>Set termination controls:</div>\n<div>$MAX_CLUSTERS = N_CLUSTERS_YOU_WANT</div>\n<div>$MAX_CHARS    = N_TOTAL_CHARACTERS_YOU_WANT   (optional hard cap)</div>\n<div><br></div>",
+  "context": "From document: Here is a reusable, parameterized algorithm you can use to recreate… — chunk 1 (chunk 1/8)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "f75193c56b19a08e9a1a9ea52ee44833",
+  "relatedUnits": [],
+  "keywords": [
+    "pattern",
+    "cluster",
+    "glyph",
+    "length",
+    "looped"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

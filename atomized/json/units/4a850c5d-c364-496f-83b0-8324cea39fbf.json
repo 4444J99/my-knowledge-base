@@ -1,0 +1,26 @@
+{
+  "id": "4a850c5d-c364-496f-83b0-8324cea39fbf",
+  "type": "insight",
+  "timestamp": "2025-12-24T04:20:32.000Z",
+  "title": "<div>For this chat posterity: draft unique title, table of contents, metadata, f",
+  "content": "<div>For this chat posterity: draft unique title, table of contents, metadata, front matter, unique ID, &amp so forth;</div>",
+  "context": "From document: For this chat posterity: draft unique title, table of contents, metadata…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "6f5c987906d375ca16c993d6ca054d96",
+  "relatedUnits": [],
+  "keywords": [
+    "unique",
+    "this",
+    "chat",
+    "posterity",
+    "draft"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "4d3b6d95-522d-4c60-8ff6-19e3e0c6473e",
+  "type": "insight",
+  "timestamp": "2021-12-16T13:32:34.000Z",
+  "title": "<div>The Beatles matured once their influence reverberated in the music of other",
+  "content": "<div>The Beatles matured once their influence reverberated in the music of others and fed back to them. </div>",
+  "context": "From document: The Beatles matured once their influence reverberated in the music…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "603c47094035bb84944b0f368556b7e6",
+  "relatedUnits": [],
+  "keywords": [
+    "beatles",
+    "matured",
+    "once",
+    "their",
+    "influence"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

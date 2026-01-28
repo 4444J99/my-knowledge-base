@@ -1,0 +1,31 @@
+---
+id: 1269e6ab-bd54-48b5-a06d-9aa5502a424a
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 0mbykmgdl4m3q8xiwabfdtpzyhmlytwmlcjfpjc
+  - >-
+    ioaaaggggaaccccaaaiiiiaaaggggaaccccaaai7jzdcqavycaeedquai1qdtf3w1qytiepyylo3l3ffuy5otmwh7nrsytlkabu1snvwxt0dbhqiwi3xfijwvsqdd9xtpstofujqoomtsihbo3oluyivrkmsraxxdwc4vusjws9rjnt5udqdu
+  - wraqtkk
+  - tppu
+  - nd4w1aictaqqqqaabbbbaaaeeeeaaaqqqqaabbbbaaaeeenhvaqlvxrx7jy8
+---
+# 0MbYKmGDl4m3Q8XiwaBfDTpzYHMLyTWmLCjfpjC+IoAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAI7
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 3360 (chunk 3360/11629)
+
+## Content
+0MbYKmGDl4m3Q8XiwaBfDTpzYHMLyTWmLCjfpjC+IoAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAI7JZDcqaVYCAEEdquAi1qDtf3W1qytiePYyLo3L3ffUy5oTMWh7NrSytLKabu1snvwxt0DBHqIwI3xfijWVsQdd9XtpsTOFuJqOoMTsIhbo3OLuyivrKmsraxxDwc4vUSJWs9rjNT5udqDu+WraqtKK/tpPU/nd4W1AIcTAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEENhVAQLvXRX7Jy8/pMXglwe3eLnXy70WPruoamHVS1WLey+6auGzi69aNH5h1fjOz3Z+ZqXej6sgSdFRyOH6J/PvScWFnvfqNa9e89qG0stLLy9brcDVU2tj1+Y4jmNrUrWpmtTvL/n9hw8dvSftWA7WVWG2xlDRtvsWFScspFVX5/pTfGvekQ05WPXdUyVzsj8XcMsnCl7d8Gr1qxvK1pQ/VdZdD2R4afdARlpyydALalJbNP7+L7//6H/+TesFnpfpFH33VJ+tIoAAAggggAACCCCAAAIIIIAAAggggAACCCCAwB4skL8H132vqHphUb2SwopWH7QqaHlzosAb4qW8fEVHYZQf6d/K/Mr8qk1JX+NCtZu04NvXbgf6Y9inBBStWqAYqhVscMn0S777b9MvW3HZQZce1LdX3xEnLlh52cquK7fc+5P7Pri/w8tXvzxs0TqdIzYyILBbBS7+7cXfveSgy2yc2Leq74i+V+lMPenTG36z/wP7/2b/hVe91GBhbz0+ECZ3ay3ZOAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCOzJAvl7cuX3irqrLaTaQz4SPeI9bJ0C67sFm4Hbt9C7ViH3pvSZUfO03nTrWp3Gc/aKXWcndlVAsbcee9hQtiHcENzh2agI/L30ERaFJ4s8xdzW4ts6lrZutxkQ2N0CG8s2jt2UtjP1zvdch+ff0bn6WvSg7mbPJoq8Zy3sdg/xxG3Dffd9d1ea7SOAAAIIIIAAAggggAACCCCAAAIIIIAAAggggMAeJUDgvbsPV+jeXfsTBUDvq1tf1SbpqT13RW2gMVQcNDlxXeJX6krZ1yy17nXvDw71nWHfEghdl8+BAm5fZ0kY+fa+46SvxyW8PBeDRwmdLfZbS7oQkfBw3zpDcnNv9YBGItSj
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

@@ -1,0 +1,31 @@
+---
+id: f04ee608-c6c5-4ca9-bb21-ddcd8f08c6e8
+type: insight
+created: '2017-11-08T14:03:53.000Z'
+document: f47673d86e05016edf5cfc9824f2b752
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - nehvpwtpdpu9j0fr9wwzjhamdkt79vst2o4zjukjby4ix09
+  - pxnvmpslybycxau4cim8
+  - wujtb67vkmu7cenkqawgoikep7v5dirox6zr3pmrxsbhxyx43hocfsslunr2xy2suu2tkmt8p
+  - ntvdbpzemkedsr5uhl475hjh6vy
+  - >-
+    txchmiktc0ocardjyh0pbhvv0y6xc6ucd4ra0ull3uo8krgsvxhfh4v5fnqetehnsw70o6p2eqyerod
+---
+# ge/NeHVpWTPdpu9j0fR9WWZjHaMDKT79vSt2O4zJukJBY4Ix09/pXnVmPslybyCXAU4CIM8/Wujtb67v
+
+## Context
+From document: use this photo as a reference to create my own cut out piece. also… — chunk 129 (chunk 129/242)
+
+## Content
+ge/NeHVpWTPdpu9j0fR9WWZjHaMDKT79vSt2O4zJukJBY4Ix09/pXnVmPslybyCXAU4CIM8/Wujtb67vkMu7CENkqAWGOikep7V5DirOx6Zr3PmRXSBHXYx43HOcfSsLUNR2xy2suU2tkMT8p+ntVdbpZEMkedsR5UHL475HJH6Vy+tXchmikTc0OCArDJYH0PbHvV0Y6XC6ucD4ra0uLl3uo8KRgsvXHfH4V5fNqeteHNSW70O6P2eQYEROD+NezahYS3ieZHFvYEfIeuPrXlet6K86BPLJRCdqKCXJPU46gCvWptbMcalWHvReiOz0D47taPHba0phkLD5xjafqa9s0X4zaTqMZhkcO4JwVYDj296+I7jR5348pWSMghSOR65rDOm3+nPLLaRmAk5xk4y3Qjmt5UIS2PZw+azj8a0P1H07x/p08URadVRACyk5IHoT6ntXf2XjbSZFkhWQIAquSSM4JAP4jrX47nxR40tJSmmzuXjA8xTyCR0IJ9Otb2mfG7xnZ7hexpPLtZSScHgE9M8158sBK94PQ73mtCX2T9Z7rxTarcusc4AkB28jBB6Y54rB1Txnp0XyiZWwCGUuCBjqc56mvzBi/aN8QSOHvLKMEgKGRiRxxz2H4Vl3XxO8SatI8kCRxIDgIoJB9STxQsvl9pnTHNMMuh+hOr/FnSZJ08u5EiYAAB6FeoJ715xrPxc3WUmy48orISMkA4zwK+NpfEGtzbPPfbjJUKMAA+45NXLGG6ufvRfaGIALOeBzz+OK61gopdyZ5yrWglY9w1L4s6nqMx+ysXGNgIPyk+3vWauoa1rUifb53RSuMg8j6/wD1q53StC8xcrbhIgdyrzxgcn1xXoumaJdXwiuokJBBBk9B0wR7/SspqEFdHkVMdVqapWR0PhyzsbKKa42CaYIAobnLZ6/jX0H4aSW6kJTMKOqkwnGFYDkgV5npXheW3h826UNGFUgjoCDxx1r1TRrO6YCdJDEQwwD1IxXj1a3Nojic59WemafLDuYsWYY2jGOCO5roWvUhgH/LRgPTIziuJhuY7VgFBZyACACc/Stlrg2oDXBClhlVI556V5bV2yItS3OhtdUvJYFV4yqsDgjrj05rZWaCaGGAgt8pJJ7AVxdrczymMTgoADj068Z9jW4j/Z493VpFICjqM5pWFJ62AxRwYlibaSc8H0rMvZr
+
+
+
+---
+*Source: Document f47673d86e05016edf5cfc9824f2b752*

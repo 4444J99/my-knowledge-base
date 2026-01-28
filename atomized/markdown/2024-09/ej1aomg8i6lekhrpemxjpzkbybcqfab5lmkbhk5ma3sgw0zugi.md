@@ -1,0 +1,32 @@
+---
+id: ab9afdc2-c5d2-4f4e-9ff5-5bff10ba0943
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ej1aomg8i6lekhrpemxjpz
+  - kbybcqfab5lmkbhk5ma3sgw0zu
+  - >-
+    gi1eivma8yiuiat4acrzgtifkdxypk5cmzet2fwa60d02kwmojgszqp5oggoo3qi1hkc43bhiazggoc8aexemuz7hpmumj1emefuaddoqa7dgo4wipgojngj
+  - >-
+    gneqjdpxcgndgmi8thxvggt3igm4nsyizlmpydmrzgamrxgjai6mzgoxwwezxcrwfuas4cnrdah649sl4gmkjwolrntccut7kmogcvbrmrvl8vkay40y0dldo5hc84zye3xjiht7ozdpkkxrpfa18ffu
+  - boqjik2ahj
+---
+# EJ1AOMg8I6lEkhRPEmxjPz+kBYBcQfAb5lMkBHK5Ma3sgw0zu/gI1eIVMA8yIUIAT4AcRzgTIFkdXYPk
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 3552 (chunk 3552/11534)
+
+## Content
+EJ1AOMg8I6lEkhRPEmxjPz+kBYBcQfAb5lMkBHK5Ma3sgw0zu/gI1eIVMA8yIUIAT4AcRzgTIFkdXYPk5CmzEt2FWA60d02kwMOjgszQP5OgGoO3QI1HKC43BHIAzgGoC8AexeMUz7HPmUMJ1EmEfUAdDOQA7DGo4wiPgoJNgJ/gNEQjDPxCgNdGMI8tHxVGgt3IGM4NSyiZlMPYDMrzgAMRxgjAi6mZgoXwWEZxcRwFUAS4CNRdAH649SL4GMkJWOLRNtCcUT7kMOgCvBRmRvl8VKAY40y0DLdo5hC84ZyE3xjIhT7OzDPkKxRpfA18FFu+BoqjIk2AHJ+LYFhwXlAkJScn+SdiaEdWMvks3eLBNfP8CboDdF4+VpkhXuHTlTCiY50cozjy6RoC/Rwq5OoOr6ILEV1dAY+tKwqWY0TnhkCugL9xgHMYT1FOEl8JZxTx9wuW4FyFj5EUxVOE6AKf4VwGWlwmRTPHEdp/bijEJ7msn4taXIJOjrGcS1gOfYMUdaSfY0QHFkbBMpzLkA+f5CoR3RCCdmgBzsEaCJo5xHVpBHUA59gSlhO/GUBdmhBd5qNXkseWreJ75mDXyN2pD8qOLKbSAufS+FUSeZ9iFV30/sXvYhnBcvjeR++G8N4HKrqvpw539gSq6JLY6BKUc2xZRYe2mlV0rJ8TFR1hOQJ1VYzo0A8RHeC6sc3c6FJs9VAXgFwbaOli/dkHRFebYxVdP9DP1dK+dLUxxnWI6MbkRD9XJv0cwzm2kYquBltcnphHXHdinrAcw7k4KucAy4EF5RxZhnME6kg/B1gOQF2gnyM/KYgOQN0JtQLqyBcgp8I5RnT1gX5OQJ2C6IYXEdoNbyMVXR0humKE6IanBNHVAqgzqNGlgViO4RxYanEpmrmwueWQEu1Fl0Z0N6RUieiokKQUsgNFSNc4w7ysFNzVUfbV4rgS4YJX97KXxKnspeZ096VsBw0Aj3qw27fRq5XWf1zomiGFtm4zS5xLWjQqETguAG98H7rNSQ0t4fzwc4luj89VjSq3nuVE28e455wnyrl/zvV3O4t6/3vP6l89tmNsk5V6zzzcEvDxxkv+2/6fHRWtTXUf8f5RqNYB/wX+S4Umb0Z2jv+Hf9LPQvfNw3s4Ls139RCvn796/+UofrL+569/LkzT61/AG82MZwGIiP50WQfodc5PR4VFfFVZ
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

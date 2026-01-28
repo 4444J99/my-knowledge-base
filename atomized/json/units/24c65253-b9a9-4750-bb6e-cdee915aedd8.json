@@ -1,0 +1,26 @@
+{
+  "id": "24c65253-b9a9-4750-bb6e-cdee915aedd8",
+  "type": "insight",
+  "timestamp": "2015-08-08T05:14:20.000Z",
+  "title": "<div>Orson Welles</div>",
+  "content": "<div>Orson Welles</div>\n<div>How to tame a wild tongue</div>",
+  "context": "From document: Orson Welles",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "cd9922a75038b33c935a7caf893f37a6",
+  "relatedUnits": [],
+  "keywords": [
+    "orson",
+    "welles",
+    "tame",
+    "wild",
+    "tongue"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

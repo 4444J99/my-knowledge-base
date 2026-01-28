@@ -1,0 +1,26 @@
+{
+  "id": "17d3e7b4-ed9f-4ea7-9a05-fe084ab4225a",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt>  - PITCH DECK  </tt></div>",
+  "content": "<div><tt>  - PITCH DECK  </tt></div>\n<div><tt>  - WIREFRAME DOC  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**To Archive In:** `/SYS_EXPAND_PHASE_2.5/`  </tt></div>\n<div><tt>**Filename:** `SYS_CASCADE_EXPANSION_MASTER.md`  </tt></div>\n<div><tt>**Tags:** #logicmapping #projectfiltering #modularbuild #glyphsystem  </tt></div>\n<div><tt>**Format:** Modular iOS &amp GitHub compatible export</tt></div>\n<div><tt><br></tt></div>\n<div><tt>::REF_ID = SYS_CASCADE.V2.5</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## ::ARCHIVE_ENTRY_017  </tt></div>\n<div><tt>**Title:** Phase 3A: Fusion Directive – Recursive Deep Build Protocol  </tt></div>\n<div><tt>**Ref ID:** ST4RT_3.0_OSFUSION  </tt></div>\n<div><tt>**Folder:** /GPT_ARCHIVE_CORE/SYS_MAP_OS_4BLOOM/  </tt></div>\n<div><tt>**Filename:** ST4RT_OSFUSION_DIRECTIVE.md  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### |[PHASE 3A: WHAT WE’LL DO (FUSION DIRECTIVE)]|</tt></div>\n<div><tt><br></tt></div>\n<div><tt>We are entering a fusion phase—taking all prior maps, IDs, threads, roles, formats, systems, and recursively organizing them into a master structure.</tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 87 (chunk 87/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "phase",
+    "fusion",
+    "filename",
+    "directive",
+    "pitch"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

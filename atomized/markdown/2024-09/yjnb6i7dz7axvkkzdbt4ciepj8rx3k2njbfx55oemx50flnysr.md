@@ -1,0 +1,31 @@
+---
+id: aa5c4adc-e9be-49a7-8525-5b7c03925e20
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - yjnb6i7dz7axvkkzdbt4ciepj8rx3k2njbfx55oemx50flnysrrho8ovptfn619dxxm9o7wl
+  - fawveq088wo
+  - khsxjosw77ufplwpmbwuog
+  - ldcacnp4cbzmhhmvw6j4qkkmezilabwv8wdkzyvvuvnfuthwm
+  - >-
+    zjo3pm3mcim24sqrusxurhxmtgmjkbxm0we1irjqm14ddk6miknmrz2c8fhzhkhyvvnbqjg6ooudkieylhgrfl1zibu5rj0c4zky4vehjg1wxmvvirkfujyhk
+---
+# YJnb6I7DZ7axVKkZDBt4ciePj8rx3K2njbfX55OeMx50FLnYsRrHO8OvpTfn619dxxm9O7wl/fawVeQ0
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 9398 (chunk 9398/11534)
+
+## Content
+YJnb6I7DZ7axVKkZDBt4ciePj8rx3K2njbfX55OeMx50FLnYsRrHO8OvpTfn619dxxm9O7wl/fawVeQ088Wo+kHsXjOSW77uFPLWpMbwuog/LDCacNp4cBzmHhmVw6j4qkkMeziLAbwV8WdKzYVvuVnFUThWm/ZjO3PM3MciM24SQRUsXuRHxmTGMJkBxm0we1iRjQm14DDK6MIkNmRz2C8fHzhKhYVVnBQJG6OoUdkiEYlhgRfl1ziBU5Rj0c4ZKy4veHjG1wxmvviRKFUjYhK+viiKjOTLSxr0nxyztG9KFj6qqrJwfK3DC0xrzOJHmS+iaFInVj4Q5g2BcsKLB0ZbhX7/cVZmcfwCNcxuiCnrSqkQ3ar9LD4XZu2KuYxylnmUuYQpvQXllBWm16mraHPhjW8qcxZV4DceGU79zvGzR7cnVZk6jFJbd0wQz6k5OYw6u63F84s+LhNe/tUqGY3SIfrvzChvSTxYrH/ipTJRS4W+luhq58rCTGs66XMZv78pUN/+WFPFHqAJjl9F6x84lQd5q2LRf91zKvT+fc/zfG3/bRa3imP3r7t32j924HT/T68f7sBfhedvWynvn7j+g/5+IT4ccVc/6v6z5Lf7IZT9KHOPjPJGuVmzSedFJ7j/g9NqmXN2X8ueqbDsn0wfwWy/axrOWVai659vr8ud3HOaTuu/dSv9Z9+/KVAT886Yo6wdtsFUV823+/0ONH7rvyGqZvpNGaPsajHarQLqV/uhv/UPRDrJndn64extFmOOrD2q/7mO7r9XyN1c7Dv2iey/79XD9d87F5OsWjV43Nuu1p1ZZQrf2T9jX+MDzBsChahMRs4yVuOwWVzGr6Zy60eYYzuXKXlVyMwRWYvIuVZ6bqONDwXJW//ZFIiv8K3/bD1Uzmgmca2VqiyadXb+h+/HeXW55LDW9pzK7IqzW+z9LxVOiugOzPpvs9f9l5Uin50tXlq2PAH88IauzmVWIvcQiO6hrNR21eaiplfmR1VHd/6YeYGpnKxKe2DP+thZ/21d+njplSAzjnYN4Cqtj+CMSY50OBp+susn9usH+p+06//B8r60Ea/Ev3PjN9z6zTef9Kq4Pp+aon9ZVqQ7M989W+nDPX/brsrOi8KFY9x/Zvd/nb1X1cdIEGrKlSbPF0NOdP9vCqhib4LIeqnGqB9T/9zr79hjO8rz4h9K+CZd
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

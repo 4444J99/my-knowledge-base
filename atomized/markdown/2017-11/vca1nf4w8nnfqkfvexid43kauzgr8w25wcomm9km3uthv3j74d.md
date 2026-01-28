@@ -1,0 +1,31 @@
+---
+id: dc44e3c5-4f55-482b-b1a4-6b815c6a18ec
+type: insight
+created: '2017-11-08T14:03:53.000Z'
+document: f47673d86e05016edf5cfc9824f2b752
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - vca1nf4w8nnfqkfvexid43kauzgr8w25wcomm9km3uthv3j74d61qc
+  - jfswfdkitwx4miudb8x6wpzevdxsaytpmxigyeaiggdzcdpzy
+  - >-
+    wb8u3xgd9kmlxsugx61fafes3uvtb2iy5t47pajag54axkgjjrzp9ndsfbnxq1zupaxxb8t6polzr1lkllvy70pebqvwleo5bi3rsenle5zwetzlabpvgxw1498dfewhv4vhpgu9sztoor0x2cjlyplrdg
+  - l8wihiixssxlm6
+  - cpj7ufe
+---
+# Vca1NF4w8NNFqkFvExid43kAuZgR8w25wCOmM9Km3UtHv3j74d61qc+jfsWfDkiTwx4Miudb8X6wpZEv
+
+## Context
+From document: use this photo as a reference to create my own cut out piece. also… — chunk 206 (chunk 206/242)
+
+## Content
+Vca1NF4w8NNFqkFvExid43kAuZgR8w25wCOmM9Km3UtHv3j74d61qc+jfsWfDkiTwx4Miudb8X6wpZEvdXSAyTPMxIGyEAIgGdzcDpzy/wb8U3XgD9kmLxsugx61FafES3uVtb2Iy5t47PaJAg54AxkgjJrzP9nDSfBnxQ1zUPAXxB8T6polzr1lKLLVY70pEbqVwLeO5BI3RSEnLE5zwetZLabpvgXw1498DfEWHV4vHPgu9Sztoor0x2cjlypLRDg/L8wIHIIxSsxlm6+CPj7UfE/hjUItPnW98eS6lqNrYnh4rI7seYMnbuzwPl4AODXXadq0Hxr+CN/4O8ZNHpvjz4K29y0EtwQJ9S0pyUNvluTJAQCMnlTVLxHoHh3Rf2c/DHx2S/wBZl13XdXudJkT+0ZAkUdsoIaNs7sHoV4FZnhL9nnT/ABJ8Wvhfdaze3mo+DPjCxjjvRMVvIjEjfaIZDnBKMAWz1XFUJk37O1tcj9iz9qHEXlG5g8OCIEEbwt+GcIDkkhcEgZwORXe/DnwhfL+xv4r8I6bZnUfFfxG1bTymlqR9ojtNOLM95GhJOxlJXJ5LZ+teGeHNH+GMH/Cf+C/EN3q+grZRanHoN5HdsLW6vtNBYRzxnCkOOhGcHgV7VY+G/h94a/Zg8AfFQ2+rzeIfFV1c2Vxd2926zRLbEArER0Vt2QPbHegg9g8OeHvD3xG/ZX8UfBjTbG+i1uWB9c01btMhZtMIjaFSejMoJABya4b9mvwvNpPwk+Jfwv1rSjquk6n4fuNYvZZGKxx6pZEPbRoOhZcYYDkmuZ/an8JXvwf1T4a+EdN8S3zwvZQXbXZleKYRXrhmEu0ghlDc5yDitP47+CZvBHijw/8ADjxBqd54L8J38M1xZ30MrGK5DQl1nmkHDebJgFc5UHJFAz4R+G/hjWvFPiLU/E09ncahZaHbSajfGAFigxgE54zg4xnOK+nPiLa23xW/Y98HeLNDimc/C3V7jR7hrkBpzp9+TPC5xgkLIdpAzjg5Fc8PhtaWf7MOlfE/wbc6m3izxL4mu9BuLa2mIgnitohIZBHHywIJySMDqa8g+JHijwHYGLw78Jp9UttOit40vjdXJkjuLoDEwSNPl8vdkqxHIHtQI8Bv/LN0fKj8oJjG45J5wcY7H0rs/DWvXNtaw6fcRiW0R3KxMdsYJHLzY+8F6gZ
+
+
+
+---
+*Source: Document f47673d86e05016edf5cfc9824f2b752*

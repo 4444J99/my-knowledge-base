@@ -1,0 +1,31 @@
+---
+id: 33cdfa4a-cf09-4cf5-9931-3d56866e88c6
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - dmjyspzvisbm3ev8hjgisppkecn9f2doguu6iss6ita6touitlbz1radiwbancrn8dsivr
+  - 16w1nxcc6zi93orpamltwdptedurrx0z3hvh0jolhipgi7vxdqeomj7bnt0de
+  - lrbpvuzszrmthal5cneae8wm1prqa
+  - gtwtss4epdybqpbrbo
+  - >-
+    frzdhlnan1xhjybwbz7s6j7rscqthr1nwkoaxbofoxrkpckeokjyuwdq0wfdcr0umdoefvcg0pydx6dhwiotmi2l0s1dldntxazfk8wxkedjmbwgeodl12deew2tczs7x7bp5o
+---
+# dmJySpzvIsBm3Ev8hjgisppKECN9F2dOguu6isS6ita6touITlBZ1RAdIwBanCRn8dSiVR/16W1NXcc6
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 6337 (chunk 6337/11534)
+
+## Content
+dmJySpzvIsBm3Ev8hjgisppKECN9F2dOguu6isS6ita6touITlBZ1RAdIwBanCRn8dSiVR/16W1NXcc6zI93oRpAmlTWdpTEdURrx0Z3hvH0JoLHiPGI7vxdqEOMJ7BNT0dE/LRBPvUZsZrMTHal5cnEAE8wm1PRqa/gTWtSS4epdYBqpbRBO/FrzDHlnAN1xHJYBWBz7S6J7rSCQThR1NWkoaXBOfoxrkPcKeokJyuwDQ0wFdcR0UmdOEfVcg0PyDX6dHWiotMI2l0S1DldnTXAzFk8wXKEdjmbWgeodl12deeW2tczS7x7bP5O+LPMUPu8xnuKopkzRJcT8BZr6cyn0s4p6tAMU3MEvBmuUwh3TZMoTlahnHO6OtPMEcgxpyCrV7U1v6BYbilcR3RHXAd/gX6OEUV0opkjooOiToBc20AdfAA8TqojqBO/xBxiOfEJ5zCjTlV0GikrzGufPD9Z6iwByXTCXEbyLy9bi0uo7uDLFDq8JdXWlzqRznCd+KmBydOql3YJ7UaWXVH+eOa0YjV8NVzi2/mFXdzGCu9rH8ioZq6mKrqa+JekTUWX6Oo0AkSHVWt66eE6KOeoqBMUp+gObTCB4hyuA4pzWjrBcs1kFp2BOsV1aHQJzZwhupzo5GJdHX1T0QmQa4rvtHQAcsByBHX0iegQAZArugaYhYVz6ZxyTgBeUXAdsRzQncC59hJNLxXOUVG3sNHl2zonlV2jS8VviAC/wYoGrmMqOgVv4qOJpcRLpqhbBOSSlpguhzBPdymi89ta0o/BW4Lfjn9S0Y7gsiX/UYhlSEwyDON5Ee7rixt4s1O0blIHmQLM/odBsgSexbsI2xZZO0fztVqfTo4R7zP4yM33f8NvfWl1eNZlwIa/qZEYsPlnSY6BRms1qYhL/a6eaxjv+ESTFyv2/p0UdScU9dz4Vnoub+LFP9iH4hxkpa4um+LntV1EdGiviNaX9BtDzbH2yFwp9/mlfrn/wl8f/9pfN/+d80eLpeaf17PVkZnTc6afE0RXVH/rQi0dmltilS0ugeuomUtsDOc0wul0CuEMzknrS4K65TGcU12doDhrdDlj7S6B9KCoI5zzER0yAe108pwCvJq0vhxM21w6xAd15txAM4Fz8UQ6iQwts4l0guKOU1w3lajoqKgbXqbKuWVscWltLYHirPVlv36OcG5i+baRaqKi
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

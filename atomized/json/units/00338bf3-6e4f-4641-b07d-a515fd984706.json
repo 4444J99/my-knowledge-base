@@ -1,0 +1,26 @@
+{
+  "id": "00338bf3-6e4f-4641-b07d-a515fd984706",
+  "type": "insight",
+  "timestamp": "2017-10-15T01:41:27.000Z",
+  "title": "<div>unrealistic expectations</div>",
+  "content": "<div>unrealistic expectations</div>\n<div>declarative statement </div>\n<div>realistic concern</div>\n<div>awkward comment</div>\n<div>shifty joke</div>\n<div><br></div>\n<div>consider the consideration considered </div>",
+  "context": "From document: unrealistic expectations",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "4add948e6d63bd39dad96ff45afb6139",
+  "relatedUnits": [],
+  "keywords": [
+    "unrealistic",
+    "expectations",
+    "declarative",
+    "statement",
+    "realistic"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

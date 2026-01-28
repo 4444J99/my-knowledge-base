@@ -1,0 +1,26 @@
+{
+  "id": "eeef2b9a-3080-42be-9db0-b5256457ae3f",
+  "type": "insight",
+  "timestamp": "2015-07-16T16:35:48.000Z",
+  "title": "<div>More than money, more than things</div>",
+  "content": "<div>More than money, more than things</div>\n<div><br></div>\n<div>RESPECT</div>",
+  "context": "From document: More than money, more than things",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "509739e487e82f0d45ba2184e45b0131",
+  "relatedUnits": [],
+  "keywords": [
+    "more",
+    "than",
+    "money",
+    "things",
+    "respect"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

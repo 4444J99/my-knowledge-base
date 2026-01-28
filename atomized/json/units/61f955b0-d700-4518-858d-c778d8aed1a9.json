@@ -1,0 +1,26 @@
+{
+  "id": "61f955b0-d700-4518-858d-c778d8aed1a9",
+  "type": "insight",
+  "timestamp": "2021-07-23T16:44:31.000Z",
+  "title": "<div>Camera Rigs &amp Purposes</div>",
+  "content": "<div>Camera Rigs &amp Purposes</div>\n<div><br></div>\n<div>Attach @ head: writing prose &amp music </div>\n<div>Overhead tripod </div>",
+  "context": "From document: Camera Rigs & Purposes",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "1f68eb428a8e2eb7c68b74be20298ea8",
+  "relatedUnits": [],
+  "keywords": [
+    "camera",
+    "rigs",
+    "purposes",
+    "attach",
+    "head"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

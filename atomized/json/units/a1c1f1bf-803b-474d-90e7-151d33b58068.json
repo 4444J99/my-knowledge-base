@@ -1,0 +1,26 @@
+{
+  "id": "a1c1f1bf-803b-474d-90e7-151d33b58068",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>### **23. Training Procedures**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Phase 1: Multimodal Pre-training (6-12 months)**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Contrastive learning on 400M+ image-text pairs</tt></div>\n<div><tt>- Speech pre-training on 100K hours audio</tt></div>\n<div><tt>- Multilingual text: 1TB corpus across 100+ languages</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Phase 2: Meta-Training (3-6 months)**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Task distribution: 1000+ tasks sampled</tt></div>\n<div><tt>- Outer loop iterations: 100K</tt></div>\n<div><tt>- Inner loop: 5 gradient steps</tt></div>\n<div><tt>- Validation: Hold-out task sets</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Phase 3: Safety Alignment (2-3 months)**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- RLHF on 100K human preference comparisons</tt></div>\n<div><tt>- Red-team adversarial training</tt></div>\n<div><tt>- Bias mitigation fine-tuning</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Phase 4: Continual Adaptation (Ongoing)**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Episodic memory updates (weekly)</tt></div>\n<div><tt>- Meta-parameter refinement (monthly)</tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 46 (chunk 46/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "training",
+    "phase",
+    "months",
+    "100k",
+    "text"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

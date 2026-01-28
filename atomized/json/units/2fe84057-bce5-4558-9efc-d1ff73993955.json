@@ -1,0 +1,26 @@
+{
+  "id": "2fe84057-bce5-4558-9efc-d1ff73993955",
+  "type": "insight",
+  "timestamp": "2025-07-06T01:33:11.000Z",
+  "title": "<div>  •  Use a single narrative manager to handle story triggers across eras.</",
+  "content": "<div>  •  Use a single narrative manager to handle story triggers across eras.</div>\n<div>Challenges to Mitigate:</div>\n<div>  •  Keep interludes brief to avoid disrupting gameplay.</div>\n<div>  •  Ensure narrative content is culturally sensitive and inclusive.</div>\n<div>8. Toolchain &amp Implementation Pipeline</div>\n<div>Approach:</div>\n<div>  •  Asset Creation: Use Blender for 3D models, Substance Painter for PBR textures, and FMOD for audio. Export to glTF for Unity compatibility.</div>\n<div>  •  CI/CD: Set up GitHub Actions for automated asset validation, build testing, and deployment to TestFlight (iOS) and Play Store (Android).</div>\n<div>  •  Analytics: Use Firebase Analytics to track tutorial completion, hint usage, and era popularity. Integrate PlaytestCloud for user testing.</div>\n<div>  •  Iterative Roadmap:</div>\n<div>  1  Month 1-2: Asset pipeline (Roman Villa), core 3D scaffold, touch UX.</div>\n<div>  2  Month 3-4: Physics, AR mode, audio integration.</div>\n<div>  3  Month 5-6: AI chaperone, tutorials, backend persistence.</div>\n<div>  4  Month 7-8: Multiplayer, accessibility, community toolkit.</div>\n<div>  5  Month 9-10: Polish, playtesting, analytics, launch.</div>",
+  "context": "From document: title: \"Backgammon Chaperone: Mobile Design Critique | Shared Grok… — chunk 18 (chunk 18/20)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "9fd27aa005603b4099800d554c6afb3d",
+  "relatedUnits": [],
+  "keywords": [
+    "month",
+    "asset",
+    "analytics",
+    "narrative",
+    "pipeline"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

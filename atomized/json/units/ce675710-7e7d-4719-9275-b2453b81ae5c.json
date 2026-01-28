@@ -1,0 +1,26 @@
+{
+  "id": "ce675710-7e7d-4719-9275-b2453b81ae5c",
+  "type": "insight",
+  "timestamp": "2019-01-02T16:00:15.000Z",
+  "title": "<div>Locreance Tags</div>",
+  "content": "<div>Locreance Tags</div>\n<div><br></div>\n<div>Beastie Boys, </div>\n<div>Eminem,</div>\n<div>Mac Miller,</div>\n<div>Flying Lotus,</div>\n<div>Kanye West,</div>\n<div>Kendrick Lamar,</div>\n<div>Nine Inch Nails,</div>\n<div>Marilyn Manson,</div>\n<div>The Rolling Stones,</div>\n<div>Johnny Cash,</div>\n<div>J. Cole, </div>\n<div>Mos Def,</div>\n<div>Muddy Waters,</div>\n<div>Howlin Wolf,</div>\n<div>Keb Mo,</div>\n<div>Sun House,</div>\n<div>Hozier,</div>\n<div>Red Hot Chili Peppers,</div>\n<div>Alternative,</div>\n<div>Hip-Hop,</div>\n<div>Rap,</div>\n<div>Experimental,</div>\n<div>Industrial,</div>\n<div>Blues,</div>\n<div>Punk,</div>\n<div>Pop,</div>\n<div>Rage Against the Machine,</div>",
+  "context": "From document: Locreance Tags",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "b01b4f9a1d1b31c1820b23caad4e69b3",
+  "relatedUnits": [],
+  "keywords": [
+    "locreance",
+    "tags",
+    "beastie",
+    "boys",
+    "eminem"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "e8567e05-b462-4b7c-8474-0ad8e9e133db",
+  "type": "insight",
+  "timestamp": "2025-12-11T19:52:56.000Z",
+  "title": "<div>- **Shared documentation** (Google Docs, Figma, GitHub—whatever feels natur",
+  "content": "<div>- **Shared documentation** (Google Docs, Figma, GitHub—whatever feels natural to you). I don’t care about system; I care about your thinking being preserved.</div>\n<div>- **Access to prototyping infrastructure**: You can test ideas in real time; see how parameter changes affect narrative feel. You need to *experience* the system, not just theorize about it.</div>\n<div>- **Audience feedback loops**: We test with small groups (10–20 people) regularly so you can observe how readers/viewers actually respond to different parameter configurations. The audience is a collaborator too.</div>\n<div>- **Flexibility on timeline**: If you need to step back for two weeks to let something simmer, that’s fine. This is exploratory work; it doesn’t follow a Gantt chart.</div>\n<div><br></div>\n<div>**What I don’t know—and genuinely want to figure out with you:**</div>\n<div><br></div>\n<div>- Do you prefer synchronous work (calls, collaborative writing sessions) or asynchronous (you work independently, we synthesize weekly)?</div>\n<div>- Do you want to be in the room during audience testing, or prefer to observe video later?</div>\n<div>- How do you want to engage with the technical architecture? Deep understanding of the algorithms and how they work, or trust the system and focus on dramaturgical output?</div>",
+  "context": "From document: Chris, — chunk 15 (chunk 15/25)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "95023b367d0cafd95246c623bb5c2f5c",
+  "relatedUnits": [],
+  "keywords": [
+    "work",
+    "about",
+    "system",
+    "audience",
+    "with"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

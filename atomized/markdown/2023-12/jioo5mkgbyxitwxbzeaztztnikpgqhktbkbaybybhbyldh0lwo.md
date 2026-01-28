@@ -1,0 +1,32 @@
+---
+id: d0ac91fc-75fd-4d3f-8c1f-174338b747a0
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - jioo5mkgbyxitwxbzeaztztnikpgqhktbkbaybybhbyldh0l
+  - >-
+    wo70eyape5brwcrdycq1law0qvsbthjhas5ttkkou6cb4ayogecfxih4cbcj7k44kcawidgskz1kpgdeyrdaqc7y0beju6yuposqaadvh2qqmxrvinqakag29gaor
+  - befl
+  - zfuwogvwnhqkrzmajcewgrqpqlfrle3kore
+  - >-
+    zefgqmc42q5pag095wxbahxnxlyzauaxtkehgdf1nfbisjcot5hfydzpstjf2yfrndfcczsydmmrda2ggzbuoodi2ugebcnuags4cugbrjgsimi4s2gtbwan
+---
+# jIoO5mKGbYxITwxBZEaZTzTNiKpgqhktBkBAYbYBhByldH0L+wo70EYApe5bRwCrDYCQ1LAw0qvsBThJ
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 2039 (chunk 2039/3262)
+
+## Content
+jIoO5mKGbYxITwxBZEaZTzTNiKpgqhktBkBAYbYBhByldH0L+wo70EYApe5bRwCrDYCQ1LAw0qvsBThJhAS5tTKkOU6CB4AYoGeCfXIH4cBCj7K44KcAWIDgSKz1kpgDEyRdaqc7Y0bejU6yUPosQAAdvH2qQMxRVInQAkaG29GaOR/BEfl+zFUWoGVwNHQKrZMAJCEWGrQpQLFrLE3kORe+ZEFGQMc42q5pAG095wXbAhXNXLyzAUAxTkEHGdF1NFbisJCOt5HfYdZpSTJF2YFRNDFcczsyDmmRDA2ggZBUOOdI2UgEBCNuags4CUgBrJGSIMi4S2GtbwAn+R2XMCF3WgEhCvAZY5R5EvNJzXiKNg5+AxHO9WcAwhWgMx37f0mcJkRAZ/F3OQaECqLVPgkorGdBcJpYQQa8UfDtKLhg2fyaP+srR8zF1oA+PxIO4fzg5EBqIdJsjnqm5aRGZgTNxsgUc5woniSggcVMXTS0rakNoKpGBpcM1EsdgLQJT2iGU/ajkBavu6mxEeiRmQSPNJKsqwbqShBr+HpGylGQAYp1Fq8s/aPsyHwKItRKedT6TUukqFPNncC8ZeN3ijjVYNHAkH3RynhZIuQmYTQ/pU3lKdKptkIodW4iCDMeSZL3SNYSpJKuZnMCbAc41HhI+gdG+sknQJr3VBsLXdYDtNUOwIqiHm2D7snzPs6rrdH0aYg1upynZMuR1LmekXFwyNw/2huCcA0y4+cRTdNIAf14Dqj43KlZIF88c1UdKxfzmfNIkCsS4BpRQmQmYPrKOk3eeP6Uq9JFTx1jkDVN/Rpoe9OjkzUixLsHpx0+sh2sbeV7Ra2rDkfGyEMjTgbGqachtCXS7SZk7jNlW6Wyk0TaLiXjDiBM8QxM8Q6cZL5cvhN5N1pWyYjPyhCTc8bRFrk+WEs9gwGsxyRhto1P8j7NRXKJr5VrqZHkXSFJasYBDcXMfR4P4rRkhRB5rHyVm/P0rGu9MnZAgrrQ/EiyRxjkOXnlDC7j0dJ096ClJoyDEuTZgSvXKZJU+75rVIPF+3wEBzQNxNlsmXm52QYdxKIwWZc+Cw58qUmW8FDMfAb5SW2poL4yoU1tMmGy7jnvYIZfrxvOQaEcLCAd3yNFW61GyPq7GptS8+vm0+S32maP3xURsnzITcsBdlMm80SokuX873uVwDwReq8Smw//riXw
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

@@ -1,0 +1,26 @@
+{
+  "id": "f52fdf9c-a88e-47b0-9694-e42d71c89523",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> The curse is drawn randomly at the start of class.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Players must find a way to lift the curse or suffer the effect for the entire session.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Some curses affect individual players, while others impact entire factions.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📖</font> Example Weekly Curses</div>\n<div><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Curse Name</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Effect</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>How to Remove It</div>\n</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>The Mark of the Minotaur</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 325 (chunk 325/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "font",
+    "width",
+    "face"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

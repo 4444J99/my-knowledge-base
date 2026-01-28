@@ -1,0 +1,32 @@
+---
+id: 9b930823-ba8a-4686-a4d9-ee1aa85e2aa4
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - olgrwfrgoypwlxcyec45mw1ahzakhzjsyr66cengaatryageuotub
+  - z9y1ojvvbpstokxgbnwnmycuylisk27dusbiwcilgb4tgjrl4it
+  - >-
+    xdohugybqk4wmwt5oglqgc3g4jpezzefbzhqzydqtoadpmzz1n8qaxl7whcrbfqhdhzo72bd9jhaahqjkakhzsobpwgnc5ycmgqzp9h9pww8
+  - pkake2
+  - >-
+    sejgopfixcshwaq5ncshsbzb4lxdbrjhsa7b3cjtdq7ubvcygq8wfyupktefld27nlj4hpp0qxgc2il
+---
+# OLgrwfrgoYPWlxCYEc45mw1AhZAKHZjsYR66ceNGAaTrYaGEUoTUb/Z9Y1oJVvbPSTOKxgbNwnMyCUyl
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 3022 (chunk 3022/3262)
+
+## Content
+OLgrwfrgoYPWlxCYEc45mw1AhZAKHZjsYR66ceNGAaTrYaGEUoTUb/Z9Y1oJVvbPSTOKxgbNwnMyCUylisK27dusbiwcILgB4tgjRl4IT+xdohugYbqk4wMwT5ogLQgC3g4JpezzefbZhQZYdqtOaDPmzZ1n8QAxl7WHCrBFQHDHzO72bd9jhAaHQJkAKhZsoBPwgnC5YcMGqzP9H9pwW8++PkAKe2/Q/sEjgOPFixcsHwAq5ncshsBzB4lXDBRjHsa7B3CjTDQ7UbvCYgq8wfyupKTEFlD27Nlj4HPp0qXGc2il/WjfWjnQAcxSPosj8IOxgrpVVFTqU2GfRYsWyRuoL5zgbMC8eqpuLeLNVo1HNwRaZkpQxmy3v+qDJ0ZAKB5JAYvwAUDEgg7gDjND7hEHYMh5amgyzkizwbgJ0Ka/cH4ewjmat/LySTa2AZReeeWVUFRUpJpA620vS7QyBgCcqBv12i+TPA6bBdij4aIeACXoZxxkvDxw4KD1W3helEoJYN4ykI1GZVQC0GkvwDvaffYXMnh7e+8U74dqcWJVuKoFCwAabcWYtVD9CUC1d99eA93QUKf60X6zZs4yWuFBX5yL9NFcoXrHfurAgJbKBI0arASFzvt3ws2Ll8MVHex7+sCx0CgPpT3bBWT0jvXsPyBMX7YkFMyYEqqvXwxb9+8Jf1r/sS3ucbRGT1k79NXBwEPbeoa3Xns9/I///J/DudPV4bz221642hhGl2iRYdVzykcm0Jq7+mhh7KQA14YNXwq4+lEZgFbeJWhluKK/YwrIe4LZLe82bdN42fcdMj5cFsDl3XtRRwe89NKPDEz1pwzyQQuldS6tNZJtJmT/yL62cY6xjgAwigtqbrWgnNT+ckohQPX7d/6kvoZnR8Arc64WVrT4AN18foiQA1Q/BNe/X5k5QPX9+JdL3Q0c6C5AxcjZIbtzBFQmMBc83XQAT3+4Up8xY2pYo0mRSXvihEITXBHEWA2LwzyDdPzY+K4/fAOuWmTTfu7cBQkuNWHTRt+fxARJhA6tQq6QB8EVK5aGlFb+hsudNyBF2SsImGkSQgCwqUGCDsAvlsk34AFNTVUlgOqIASr2R5Fm3vx5YdnSJbbqh6DbIOEBAW7dug9tosekh1VQBCY+Xn/2N9w34Wa2Vl1XrFgi86I5EsTOyjxlf/hk/Sdh/rx5MtH7pQRr
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

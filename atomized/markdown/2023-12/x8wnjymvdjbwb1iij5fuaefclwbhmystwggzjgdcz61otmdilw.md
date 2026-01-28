@@ -1,0 +1,31 @@
+---
+id: 7aa6658a-8417-44f0-9d09-44475c981b2a
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - x8wnjymvdjbwb1iij5fuae
+  - fclwbhmystwggzjg
+  - cz61otmdilwrjbuihzhbejbnz9qkfj5z6zpbcpcst
+  - ar9tqmhjluabqtgusgl81g4manondfe4
+  - >-
+    rb2nzmasu69yfcliw5vzhwenyhwjbews7ldq72wmyyxqz8ebcceapw69qcfcfxef6yqjkandbb8dgbiakbikmgt2rhek15apam7juvy8stq4fw92m9akmgdhdc8cavbgaouodga38eym8am2jdxphgudpcnrrvhntz8yzrcov9ebmne0nmkq1j4uvymqh5vq6cvg3k
+---
+# X8WnJymvdJbWb1iiJ5fuae/fclwBhMYsTwggZJG/D+cz61oTMDIlwrjBUIHzhbEjBnZ9qKFj5z6zpbcp
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 2173 (chunk 2173/3262)
+
+## Content
+X8WnJymvdJbWb1iiJ5fuae/fclwBhMYsTwggZJG/D+cz61oTMDIlwrjBUIHzhbEjBnZ9qKFj5z6zpbcpCSt+ar9tQMhjluABQtgUsgl81g4manONDfe4/rb2NzmaSU69yFcLiw5VZHwEnyHwJBews7ldQ72wMYyxQZ8eBccEaPW69QCfcFXef6YqJKANdbB8dGBIaKBikMgt2rhEK15apaM7juvy8Stq4Fw92m9AKMgDhDC8cAVbGaOuODGA38eYM8am2JdxpHGudpCNRRvHNtZ8YZRCOV9EBmne0nmKQ1J4uvyMqh5Vq6cVG3k+588kUu78bM1eDMO6fIHOwwjt+2Af208b0CV2XHhu9vu0Ie1nhXetLIFJRicXN07ciLKWtPHkGQOe1yc/xfiz9dkJiBFjB7b7N3Fvr3me2/uexZ67noGlm2KEbOTZ4s4i1nyeZQoITTTE1N2/ZQtMAaF/y9acWtc/aYFvFQhxLXJAiKTbVjTnzx98DYRCvEIJ7riIjhDoG73yPQJC/SM96h81u1q2HZcwK0jpEpjR5PsZ+8N+DxOEWNhpjm9mH+suwC5BnV3lAmL5FJYbYQGcvWcshAWR7triiezoN/sg6xshUDY5GP9HCIhiE2OVk5/DTHAqzEaQPv3sU92+c8uakDwBAg8C2sKiAhXNKVLxwmLdv/5AO/9xlwaR8NjMtTeuCN62XqfrZ9v4ZzOfwyR09wT0AkzMKczsmw0IGTCAMeKzo5ZjZOuPBgjlp6mwrIDghVlkk8btNCA0CAA0IGSMkM2uW+AKyCUYNyDkke9Z4jj76gISgjl+1xkHWO4Dsh8Xv7D/Tv5ibemClskhbJ9lH4xNsbbic66p3L39lue5obDJx7zi+SxBlEd6xP74e4DQq794SZkAoUuHb+gus+iPHzwkQDVQauBjgn2ymIjtHUfuY4n9WSXZeuMvXqEjfFXzsE67vvxCt25cc+5xgVhO+7LNI0HkX6RO17vvvKmRnjEd+Owoxgkt6uvpIXjwbIerh2M5UoBLHwto2XbHCDkwQzvAIpikyARIVjPGd4wikxOjxILMSXZnFHOKMXK5LFhzcjnArAUqtvggv3JFN3nsEvD5ngEtQxA2q24tQyxKQE4BTgL4QJiybKRxW3/+ArP2rbpE7lclLGcTsj4DzpavNmgz/nzPvm3j3JrH/k6OZ3vdQL0/N4cv
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

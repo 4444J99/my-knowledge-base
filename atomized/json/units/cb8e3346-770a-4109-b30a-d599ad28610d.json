@@ -1,0 +1,26 @@
+{
+  "id": "cb8e3346-770a-4109-b30a-d599ad28610d",
+  "type": "insight",
+  "timestamp": "2015-01-07T03:24:54.000Z",
+  "title": "<div>When using the same words and using them in different time periods use the ",
+  "content": "<div>When using the same words and using them in different time periods use the different appropriate spellings that would be used in the appropriate time. For instance night  and nite </div>",
+  "context": "From document: When using the same words and using them in different time periods…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "00b5392a406d3c17c3c7381bd276b271",
+  "relatedUnits": [],
+  "keywords": [
+    "using",
+    "different",
+    "time",
+    "appropriate",
+    "when"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

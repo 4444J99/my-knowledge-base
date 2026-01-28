@@ -1,0 +1,26 @@
+{
+  "id": "7ba9906c-a4c2-4435-bb63-9699c3fa4c94",
+  "type": "insight",
+  "timestamp": "2018-07-09T13:13:32.000Z",
+  "title": "<div>Bella Lugosi</div>",
+  "content": "<div>Bella Lugosi</div>\n<div>Dracula (is there an original Dracula myth?)</div>\n<div>Vlad </div>\n<div>Phony Vampire Goth</div>\n<div><br></div>\n<div><br></div>\n<div>Picking out beds</div>\n<div>Or coffins, what’s the difference?</div>",
+  "context": "From document: Bella Lugosi",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "285cb24c518bc7cf967f821613d9fa9e",
+  "relatedUnits": [],
+  "keywords": [
+    "dracula",
+    "bella",
+    "lugosi",
+    "there",
+    "original"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

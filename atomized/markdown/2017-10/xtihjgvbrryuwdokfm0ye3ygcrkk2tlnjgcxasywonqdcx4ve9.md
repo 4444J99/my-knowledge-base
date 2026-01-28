@@ -1,0 +1,32 @@
+---
+id: f4fff30b-2382-41a9-b483-7d532d43a8b4
+type: insight
+created: '2017-10-25T17:06:54.000Z'
+document: 2a2d2c8448c2f528bd655aa468b812aa
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    xtihjgvbrryuwdokfm0ye3ygcrkk2tlnjgcxasywonqdcx4ve9nlevmh7snnqpg0rpqjqjmfnrb3j8spb3nq2cfuhtw7
+  - if5yjgj0pzawt50ljrx0vfuzl1nzm4gv1zihxp0lrow6hivkq8fjcln
+  - pvfptcmgt8323k
+  - >-
+    9rgp9fmzld05jzth5awtuobkquiin7gwshkxg6dycnoxh5v7unf3orfxewzh6z70zq2gciufnn1d7lilb6h62wysdpy09
+  - zz0wcyvhzy7zp0jubthayyo0dnakjttirw8vpteazz7izz9b0g2i669fvnfauta
+---
+# XtIHjGvBRRyUWdoKfM0yE3yGcRkk2tLNjgCXAsywONqdCx4ve9nLevmH7sNnQpG0rPQjqJmFNRB3J8Sp
+
+## Context
+From document: EL — chunk 216 (chunk 216/1588)
+
+## Content
+XtIHjGvBRRyUWdoKfM0yE3yGcRkk2tLNjgCXAsywONqdCx4ve9nLevmH7sNnQpG0rPQjqJmFNRB3J8Spb3nQ2cFUHtW7+If5yjgJ0PzAWt50lJRX0vFuZl1nzM4gV1ziHxp0lrOw6hIvkQ8fJcln/pVfPtCmgT8323k+9rGP9fMZld05jZth5AWtuobKQUIIN7gwsHKxg6dycnOxh5V7unF3oRFxEWZh6Z70zQ2GcIUfnN1d7LiLb6H62wysDpY09+zZ0wcYVhZY7Zp0jUbTHAyYo0dnAKJttIRW8VptEAZZ7izz9B0G2i669fVnfAUta/MGe+LEK26I7WSve93rOu9Aw+g++c5qcZQnfM5dHqWxGqOM8mhwiAfrU+RRPkxieMdD08gn//pQeOF7MMLvVjOIFb+27Pryl7/cFbDi1U9YvQJHSllKSvgkr8h81H1jEFC/yePVh2e82oVWuOddHXpP43kp+k2//IhDnWb/4D40GVfGh87Qp/4arWtPwpdZGwKwgzGezlghPDRw1553797d6zTrix/8gBy1HYxykB9MbCkLusGX8fT9mWCFh0ke/NFFBoGpu/TwrKEhrxt7WGywFN2Kl0ypvaH35cx0mxLecT3Cise4QX7IvvoGfRtM7E75y7/8y/kPm/CPj5NFYbRWk2Uz8W888zu/8zvtjW98Y19VuZr+Ya3pHwrh1Dn6UL/ZLtMu+XTSEL6avJUfdZ+XsHlxc6Vhn3b8M97JK/jvauWMjHexuw+OWCVoC/Fj8fxYKAUp/PaGstAXiffeETsLHojjmE44us3uiv6jrxjkJ/7k3Z/8R1Y9t8ejPzk9vqb90ue22b+4ss1cG/zq9efFuYLjcvDC72g2xilRvrnD4+Xx8VeOR6eGYvD046KdPtR2ai/xd1goAl1dSRiKwMMmysHDZ2KXU2xH7m77KAopDMVJ9Zg8IHCX2LS5Lz5q8uefbO3II6Jc8cGSSCsqq59VOO213vcfgdVJxkukp5EZ/A4FpGFjwXAxVJ2AxlJm6yKgQzQbpzP3bCBE2TXd+ZpZZDBGCigd6rBukxkb/PFjYLM/Ham0OkOLO0Hlc5/7XB+QoSkDM1s83vSmN/WBubzZtkBIpqzjJ5m2eDbKSMOqFPlMfFaTFrytfiNQUmRacWfQpwyM+AlOr3zlK/sgUZszOJ02wlgtyKhHg8fhoHXoX16t
+
+
+
+---
+*Source: Document 2a2d2c8448c2f528bd655aa468b812aa*

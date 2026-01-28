@@ -1,0 +1,32 @@
+---
+id: 8e8737e1-b01e-4739-8f55-0d04123a3970
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    11ambnvxxpiik2jbezpkidh6d7pvd3mr9qjai6j7efj4utjy9pgtgnce12j0gbgayctnwwv7hfqjxgcjogvvl1l9rnjrwpdj444vpw4dt46vzuwcnhngakyactabjsaemaatyajm4litcf
+  - 2gdnc0wmqigdd4qizfz7whmobnlrgp59acm6zu
+  - k3wod6wmcw5fzjq0bvcluzlmzsk9uitjsm3nxt1t1us1lys
+  - a92ltqc0p7ay3cm0y2mwhhydzhmozxvccfys2a
+  - >-
+    ugzciu2il1duasqrsq0vevrvot865jx4j3rrahzfzkhknssbzlcoiljr0pssinrcls8ccmb2y9vlupktdc95
+---
+# 11ambnVXXPiiK2JbEZPkIDH6d7pvd3mr9qjaI6J7eFJ4Utjy9PgTGNce12j0gBGayCtNwWV7hfqJXgCj
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 4605 (chunk 4605/11629)
+
+## Content
+11ambnVXXPiiK2JbEZPkIDH6d7pvd3mr9qjaI6J7eFJ4Utjy9PgTGNce12j0gBGayCtNwWV7hfqJXgCjoGVVl1L9rNjrWPdj444vPW4dt46VZuwcNhNgAkyACTABJsAEmAATYAJM4LITcF/2GDnC0wmQIgDD4QIzFZ7whmoBnlRgp59acM6Zu+k3woD6wMCW5fzjq0BVClUZlMzSK9UItJsm3nXt1T1us1lYs++a92lTqc0P7aY3Cm0Y2mwHhYDzhmozxVCcFys2a/UgzciU2il1DuasqrSq0vevrvOt865Jx4J3RrahZFZKHKnssBzlCOIlJR0pSSInRcLs8cCmB2Y9vlUpKTDc95/wv9NsxqfTmoQvCY+ppPd+o9eb/X5sWeHaetc3FLW0e7T3KExb7H9z31v7O31ofvTILAuKDyjt8DSUgeeEKF2UXiEays9iP6TS25CHTboCqkUoTWyTVA/hSUNq3DNjRM3qQdWX1QyWz8kbe8bsGZOcOXfOnOs+uy5g+KP9tqPqsjQjgG2orH1YBhfhgBNkbBraLOya8I53d1jdZUiD5AbbG34khsBbgUR7o71Zq4nnFerbQ+33/B9urr6l+oZ2K3stD1mxYm/23uydWZDKQOgi/3kryvszHZkIdAPxmXQmnAHVZkywF7lWseOrbba2rdShMtSc91Z0aYPFYG0LlEQ+u24g2h8d+BDPDI3ZNTP+WPxNC2/an3jA2LOAnvzQhRiOcJAO5IYyemviQTFKNHLKH6XLpJyl6M7bQbHiPPkHWUkJh5i8LvP/hj/3QeyH9jZteF6ifa/4QN8RPDFoSTCtQoDnrykO27h/5gP2I+/J923b4gNtuHsk5VDAWrIqqXLiayueXdFqKS3zL7B4bSyOGBGTq3Wv5h51z4O1H68LZRriSo9P65ruf+eTGfunPRDWLSymwsQ+d/a5c+DbLba1WNkyXJ+l19PriBqihmbt/2nfj3siPvzX3655rwWVIr9JtUW3QEXoBmIw8iyYMQ3dav5y8z7XhLeq0eaHjpsa9W70XWNSTyeS8k4brAu7tl3HP0xDirS/onZ0PjRs9arVq1betvZ/a9NXt861c6Jz8ishkZS+qPyFQn1S9cmoHZv/+J7wQYFspPszotL97z70tjm9qVsEacHenpE93+hz+4333lixdQOXx11LH6q9Kzah7GwT7wa2H3kx
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

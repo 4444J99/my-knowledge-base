@@ -1,0 +1,26 @@
+{
+  "id": "1a5ad1ee-24aa-4cd0-b67a-c871377a7a73",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>Each project = a case study, method, or domain node  </tt></div>\n<div><tt>Each system = a field of study</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### IV. BUSINESS / MONETIZATION FORMATS</tt></div>\n<div><tt><br></tt></div>\n<div><tt>All projects map to real-world usable formats and tools:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Output Type | Format | Business Role |</tt></div>\n<div><tt>|-------------|--------|----------------|</tt></div>\n<div><tt>| **Narrative Projects** | Films, books, essays | Consumer media &amp IP |</tt></div>\n<div><tt>| **Apps / Tools** | Software, plugins | B2B, niche creator tools |</tt></div>\n<div><tt>| **Courses** | PDFs, classes | Ed-tech, Patreon, institutional use |</tt></div>\n<div><tt>| **Archives** | Research sites, zines | Academic/collector value |</tt></div>\n<div><tt>| **Templates** | Modular, remixable kits | Product shop &amp service assets |</tt></div>\n<div><tt>| **Studios** | Service decks, consulting | Freelance + agency operations |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Business Units:**  </tt></div>\n<div><tt>- `::ULTI.TOOL.MEDIA` → design, branding, client systems  </tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 67 (chunk 67/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "business",
+    "tools",
+    "each",
+    "study",
+    "formats"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

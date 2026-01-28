@@ -1,0 +1,32 @@
+---
+id: 20ea8b1d-b262-48ea-8050-46a7815f5792
+type: insight
+created: '2018-10-05T22:17:31.000Z'
+document: 15981fe11fce83e658f6940d49a17e08
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 6rzouro5ffaevdoghtadkmnb9fgiddqchupcruhotcn7j1944sxhnujlfrh2gjyq7
+  - hvgkaf11xzq
+  - >-
+    khg4stcjv0qdrqtb3oafamwgubmgiiumv6kgu8dea6ib2qdkghcqmdzxilhgubjkzaxf2ndwea62zadjsxlijsaemadkcyotdrreyffwjlebbxf3exczcosaeka9ib6ubhdkamb9fjiddrcii4q7eutgmt61cxrv
+  - >-
+    qf9wldea60ewd6ghwpsilgtiiililuiu4sweka9ib6yb0oda6uia36leq6ggernzvwbemsw6mrud5yyiohzaosaekqqmdzcpuecfqbgerdxf3exfpghraoiadka4urgfk8by9fgidjyciewwn9yknnuy23hjrd
+  - yxjxsmyetus1g71wufrelx
+---
+# 6rZouRo5FFaEVDogHTAdKMNb9FgIdDQCHUPcrUHotCN7j1944SXhnujlFrh2GjYq7/hvGKAf11xzQ+KH
+
+## Context
+From document: Mike’s Mom’s Spanish Rice — chunk 120 (chunk 120/565)
+
+## Content
+6rZouRo5FFaEVDogHTAdKMNb9FgIdDQCHUPcrUHotCN7j1944SXhnujlFrh2GjYq7/hvGKAf11xzQ+KHg4STCJV0QDrQTB3oaFamwguBMgiIuMv6Kgu8dEA6IB2QDkgHCqMDZXiLHguBjkZAxF2NdWEa62ZadJSXLIjSAemAdKCYOtDRrEyFFwJlEBBxF3EXcZcOSAekA9IB6UBhdKAMb9FjIdDRCIi4q7EuTGMt61cxrV+qF9WLdEA60Ewd6GhWpsILgTIIiLiLuIu4SwekA9IB6YB0oDA6UIa36LEQ6GgERNzVWBemsW6mRUd5yYIoHZAOSAeKqQMdzcpUeCFQBgERdxF3EXfpgHRAOiAdkA4URgfK8BY9FgIdjYCIewWN9Yknnuy23HJrd+yxJxSmYetUS1G71wUfRELX+Hv66eelbxW8n414F9qlHp544hm3xhprug022Mi9/PLr0qec9KkROtrOaXY0K1PhhUAZBETcK2jI1157XceXR1dbbXV1fBXg1cgOpd3r4oEHHg51DX27++57pW856Vu71MP22/cp6VO/fodLn3LSp0a2ie2YdhneosdCoKMREHGvoCFvF7JIx73jjju5iy++rJAd+L33PhjKh4zvvfdxrIztUhdJnW27EMak8hXlfrl3oV3qgRkqBoH8XX75VbHvVFHqRHI0z9+8krY2z/roaFamwguBMgiIuHcQcV900d+HHfguu+xWyA584MCLSyTjnXfej5VRxL15nXueHXej8y73LrQLcQfHm266xQ0Zcl/s+9RonJV+Md/XStraPOuuDG/RYyHQ0QiIuIu4F6ZDr6QzEXEvJhHIs5OvJe9OIu614KM47f2eVdLW5qkDHc3KVHghUAYBEXcRdxH3CnSgWZ1YO1l6m4VZLfmIuLc3Ma1FJzopjoh7GWakx0KgwAh0HHG/5prrw10W5ptvfvfLX/7SzT777G6ZZZZzhx9+hBs27KNYEhu18rJTw377HeiWX34FN+2007qePRd3W2yxlcNvsFzjj+/2oYf2D2T4l5t77nncNNNM6/70pz+Hu4jcfvtdifFZGEt+F110aWKY++57KAxDuOeffzkM9/DDj5fuTT31r0NXlDnmmKN0r3fvLRLTSyoLu1P07XuAW2KJP7oePXo40l1kkUVdr17rV4RBNN0999wnlOd3v1uk5Cqz7LLLlWS88cbB
+
+
+
+---
+*Source: Document 15981fe11fce83e658f6940d49a17e08*

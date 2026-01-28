@@ -1,0 +1,31 @@
+---
+id: 08757666-68e0-4bad-88fe-d66741e5f7f0
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    cjys1o9kuio17szy0jvqpqbcduzsnftwgvvjfub243fzm2cjyvp4wvxd92g3pedxvjo8teemajbgygyxsmzx40nshlmteteygdaqiqrzi58d6ytklvzdjwywcjliafqycbc9d5zfqdnzufttvmjizyl2fmestz79dmvtec3my4u19cjsh0gmth7rryqnpnelfxwc1nqt
+  - 3ht0o6mfnbfo7qm9n5hnd02
+  - vafagr37c7y7dh1ai2kr5qmjkatdktsjj2ko703omvte7g3azsb26aeq
+  - zqhvz6dv
+  - q2u2xquy2d2j7oc4ef3fso
+---
+# Qzw/CJYs1o9KUIO17Szy0jVqPQbCDUZSnfTwGvVjFUb243Fzm2cjyvp4Wvxd92G3PEDXvjo8TEeMAjBG
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 4910 (chunk 4910/11534)
+
+## Content
+Qzw/CJYs1o9KUIO17Szy0jVqPQbCDUZSnfTwGvVjFUb243Fzm2cjyvp4Wvxd92G3PEDXvjo8TEeMAjBGYgYxsmZX40NshlmTETEYgdAQiQrZI58d6YTKLvZDJWYWCjLiAfqyCBC9d5zFqDnZufttvMjIZyL2fmestz79dmVtec3My4U19Cjsh0GmtH7rryqnpnelfxWc1NqT+3Ht0O6mfNBfO7Qm9n5hND02+VafAGr37c7Y7Dh1aI2kR5qMjkaTDKtSjJ2Ko703OmvTE7G3azsb26aeq+zqHVz6dv+Q2U2xqUy2d2j7oc4ef3fsO+Tf3a34WycPbTwWZFt76q8UMqU9uUaweXqr1yxk5nY2P8vsqO+JfdbfXt9R/7R28OS28o8qByYPXvhJ4cDmofkfdbL+rupHnW91j26+Sm+5m+w9Qhm3xr7X2d09dOHN/uHezviPEofkt9ebhbGtaQdMjs0wBhsroU+Ogdy6uNgr2D8+J1hulj1rAfCmpa/OBx4LCJutzQHXoYuOr33jbKNDXYGtBzKZ6uF+vr6uvaW6pbVqRWrhwPrKxljxaHrsNjJ7a2Fscv3Ci4mx/Kb4DxLD1XVlxmwTK3gn16cY9W3KEuxsbqGOt5HW5jorr+vxDo/PMYQb8z4gLJpKsSe1grOPlRnRpfLsH+ODFpsT+UZ/ojkxvb+WnhpZuD9xaPqv8je1jo391ew18VNyw7kLskf5f3nvRd6xpf/+kceDa2Kp+gfBI8Fh5c8qT2d2pX9aqVV2xH+WqdUy8V9mnsvsqHK33OFJ6pDrH5X9svZc55j6LyrP1Y6q/jKzv3Jk82f973eO8L8Inisc670XPFI7qvtW8FDnhMZs8ERQoK6+6f5Z2e8Hd9eOr+6vTAVntx7rXNfK1/ktcRfH6p1bShfU91duoyNJX67ckbnCe61/c3dfen/iiuQFvacr52XPbLyYKdYvzL7ZvypWyjUzFf/m7GynHL+mGQS31W5KvlO5IX1l9pXKVf4luef7+5rn+88nruqd33otcWtiX/etwr2Z6xqNzr2Vawny3RlckXwuuLlRbDxTuLFxYZbehFct9h6vXNs9P/tA/4qm59+b2Vf30ndWLvfO9m/vXNI9K3d7cGH99OZ1jdOax8T2Vk+o72pcnTulsbtxfTZf2lO6vntCd0fv24Xt/kHd/bX12S0zrxfoc6TDWoeb
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

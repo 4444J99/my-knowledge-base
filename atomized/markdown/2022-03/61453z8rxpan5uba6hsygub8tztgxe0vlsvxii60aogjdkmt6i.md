@@ -1,0 +1,32 @@
+---
+id: b5d4ea68-8b8e-4792-b8ff-2cd9d255c472
+type: insight
+created: '2022-03-16T12:34:10.000Z'
+document: 7405c2da6b92da26b0b49297d3a4e664
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 61453z8rxp
+  - >-
+    uba6hsygub8tztgxe0vlsvxii60aogjdkmt6iqelqipsvqlgzgivafymokwqn5qe3kup8anxui27bdgp620y4ygmp5rpkkipjdudofxcbk1k0tzydx6u0io
+  - 9xryhcrpeupnk2kje8zczq6tcrgsmela
+  - >-
+    zaygkfktzftw2zpp8z5uk8ptnebunmeedxq2topsiamrjrxlrylfivc8guqlojnqcplljkfdqcjd5mfshp1ddhnri4ktuchfbmxkbpkxypkyqod6vyimd4ypgfssuxbmu1ui9qffeswsgdcffq5d5twetyj6e1j5qchfu1tk1pzcci7cuwxmzf8szzsuhchtqrw
+  - ai7x3iqxyhidw8sisl
+---
+# 61453Z8rXP/aN5+Uba6HSYGuB8tZTgXE0VLSvxII60AogjDKMt6iqElqIpsVqLGzgIvAFYmokWQN5qe3
+
+## Context
+From document: The battle of the blinds — chunk 495 (chunk 495/1787)
+
+## Content
+61453Z8rXP/aN5+Uba6HSYGuB8tZTgXE0VLSvxII60AogjDKMt6iqElqIpsVqLGzgIvAFYmokWQN5qe3kUP8ANxUi27bdgp620Y4Ygmp5RpkkipjdUDOFXcBk1K0TZyDx6U0Io+9xRyhcrPEUPnK2KjE8zcZq6TCRgsMelA+zAYGKfKTzFTW2zpp8z5uK8ptnEbuNmeeDXq2tOpsiAmRjrXlryLFIVC8GuqlojnqCPLLJkfdqCJD5mfShp1DDHNRi4KtuCHFbmXKbpkXYPkyQOD6VYimd4ypGfSsUXbMu1UI9qfFeSwsGdCFFQ5D5TWETYJ6e1J5Qchfu1Tk1PzCCi7cUwXMzf8szzSuhchtqrW+Ai7x3IqXYHIdW8sisL+0rqH5XB21Te/uWO5EYj2qeZFqmzoby7dNqEeZ71qWph+zrLIw6dPSvP5b66k24BAHapG1CcoqBSoHWjmRTp2O3+2HzPkbevoKe88YOSQlcYlxceX+4BU1nPc3jMfNb5qlNXBRO4e9VD13iqLXW+5i2D7zAH6VzK/b5FGwN+VMK6rBIpAYkH0pTaNIxPqfw7EfsaqGym37npWosAEh/hFea+HfEq2ekxG7PkzHg7uK05fF9mvzGZcfWvMqUm3od1OokrHaSJzlHGaimKSRhc5auBbxjY4zFIv4Gqv8Awm1lA2W+Y+maz9hLoi/bI9FPnCHy+1XdOTYhjfgV5x/wsKyJ+aPy19zU/wDwnti6boyBjtml7Ce1g9sj0eBvKkNacVxEvVcmvJG+IVi6bEj2N65qB/HsMIyPm+hqvq0iXWR6zFcNk+YueeKSZg4yDtryMfENXXhDUP8AwsiAcPGTj3o9hJdB+3R6gELZDtkVGtuEO4GvKX+JUGfktmrMuviDcyHbCjRA9qaoSF9YXQ9xEEUa7zICaqSEOfvAYrwz/hYFxboWmRmxVH/hZssz7I4XWn9XkR9ZPfGdDGytzis1yqr8vFeR2/xEMalbiBnzSN44LncoIX0prDyJeJTOz1mZYbSWRjworw241iyFyzF1TJ6V38+qnxBF/ZkKmJ5uA3pVQ/Bh5YhJNco7YrppNU9GQ48+xwNz4gt4Nvljzt3p2qi3ihOi816ZH8F5wOLlCvpipT8ILaMf65A1a/WYmf1c8vTxosYMWw0N4ygChTETXpy/CzTI+ZZI3NJJ8MNKfGxkHpUrGJB
+
+
+
+---
+*Source: Document 7405c2da6b92da26b0b49297d3a4e664*

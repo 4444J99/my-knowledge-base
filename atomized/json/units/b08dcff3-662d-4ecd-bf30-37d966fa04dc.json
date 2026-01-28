@@ -1,0 +1,26 @@
+{
+  "id": "b08dcff3-662d-4ecd-bf30-37d966fa04dc",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>- Writing files: 423 | Music files: 267 | Video files: 89</div>",
+  "content": "<div>- Writing files: 423 | Music files: 267 | Video files: 89</div>\n<div><br></div>\n<div>## Layer 1: AI Context Audit</div>\n<div>- ChatGPT conversations: 156</div>\n<div>- Claude conversations: 72</div>\n<div>- Topics identified: 34 distinct themes</div>\n<div>- Code snippets extracted: 248</div>\n<div><br></div>\n<div>## Layer 2: Personal Repos (4444JPP)</div>\n<div>- Total repos: 35</div>\n<div>- GRADUATE candidates: 5</div>\n<div>- MINE (study forks): 12</div>\n<div>- ARCHIVE: 8</div>\n<div>- DELETE: 10</div>\n<div><br></div>\n<div>## Layer 3: Org Repos (ivi374forivi)</div>\n<div>- Total repos: 23</div>\n<div>- PRODUCTION: 8</div>\n<div>- DEVELOPMENT: 10</div>\n<div>- EXPERIMENTAL: 3</div>\n<div>- CONSOLIDATE: 2</div>\n<div><br></div>\n<div>## Knowledge Graph</div>\n<div>- Total nodes: 2,287</div>\n<div>- Cross-layer connections: 456</div>\n<div>- Archive → AI conversations: 87 links</div>\n<div>- AI conversations → Personal repos: 34 links</div>\n<div>- Personal → Org repos: 12 migrations identified</div>\n<div><br></div>\n<div>## Top Recommendations</div>\n<div>1. Graduate 5 personal repos to org</div>\n<div>2. Extract concepts from 127 archive files</div>\n<div>3. Implement 12 AI conversation ideas</div>",
+  "context": "From document: Contents_Table — chunk 98 (chunk 98/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "repos",
+    "files",
+    "layer",
+    "conversations",
+    "personal"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

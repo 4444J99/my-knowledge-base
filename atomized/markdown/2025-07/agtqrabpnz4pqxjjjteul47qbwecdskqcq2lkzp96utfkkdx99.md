@@ -1,0 +1,32 @@
+---
+id: 15f3bf01-9017-45f6-b0af-06c84c10a5f8
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    agtqrabpnz4pqxjjjteul47qbwecdskqcq2lkzp96utfkkdx991336roeffdd5ejrmusiecgeagjdyfq9ifageczbuangpv0khnrz86cweb6fu
+  - aaig2czx88skpusveouigg9pwyn5bx5s3sfxedddd
+  - zvhkwiecjrfqojdfmm1ecbqnwk9evwkky1dunqpr
+  - dioomku8lyhzeil6nszrigqkbggu033tqlasvb3
+  - >-
+    jgnwoupgxh4447lqlet5qnuhmlaifkc0i8ky2upgieal9gnxxwuftssxctwhrnezvuugm5ortlllsmnurg
+---
+# AgTqRaBPnz4pQXjjjTeul47qBwECdSKQcq2lKZp96UtfKkdX991336Roeffdd5ejRmUSIECgEAGJdyFq
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 1379 (chunk 1379/18928)
+
+## Content
+AgTqRaBPnz4pQXjjjTeul47qBwECdSKQcq2lKZp96UtfKkdX991336Roeffdd5ejRmUSIECgEAGJdyFq9iFAgECZBUaNGpV0KhnrZ86cWeb6FU+AAIG2CZx88skpUSveOuigg9pWYn5bx5S3SfXedddd+ZVhKwIECJRfQOJdfmM1ECBQnwK9evWKKy1dunQpR/diOomkU8lYHzeil6NSZRIgQKBggU033TQlasVb3/jGNwouPGXH4447Lqlet5qnuHmLAIFKC0i8Ky2uPgIEal9gnXXWufTSSxctWhRnezvuuGM5OrTlllsmnUrG+q5du5ajUmUSIECgYIHevXsvW7YsJXBddtllBReesmOMoJZU6fe+972UHb1FgACBigpIvCvKrTICBGpZYODAgYcffvjvf//77JO8O++8sxx9mjt3bnYt2cvvvfdeOWpUJgECBIoUePzxx7ODVc7yc889V2T5Le4+b968nIoyL4855pgWd7GSAAEC7SAg8W4HdFUSIFBTAh06dIhbKK+77rqPPvoocz6XWVi+fHk8j13yDs2fPz9TRc7CggULSl6dAgkQIFC8wLnnnpsTr3Jejh8/vvhaskvo2LFj/BaZU0vmZTwNlL2xZQIECLSngMS7PfXVTYBALQj07dv3ww8/zJzJNV846aSTStuPbt26pdR4zTXXlLY6pREgQKAkArNmzWoeIbPXHHvssSWpKFPIjBkzssvPWV5//fUzW1ogQIBAOwtIvNv5AKieAIFaEIjL3Tnnc9kvX3zxxdI+dL3ffvtll5+zvMcee9SCmTYSINCIAvfff39OyMp++eabb/bs2bOELinX2P/xj3/E7OIlrEtRBAgQKEogRsL4Sjn/3XTTTdkBN3v5+eefT6pZoCzqoNqZAIFSC2y11VbZ4av58nnnnVeqOiMAPvvss82raFoTd7YPGjSoVHUphwABAqUV2H777ZPCV9P6o48+ulQ1DhgwYPHixUnVXX/99aWqSDkECBCoAYEjjjgiKSA+9NBDNdABTSRAgMB//Eckw2+88UZSNGtav8MOO5SE6oADDkipSOQsCbJCCBAok0A8dB2DqKUEsYULF5bqSe8zzzwzpSIPeJfpECuWAIEqFZB4V+mB0SwCBNookBLNms784mxy3LhxbSw1d/Pp06cvWbIk5VQyZqzN3cdrAgQIVJPA1772tZQgFm/9
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

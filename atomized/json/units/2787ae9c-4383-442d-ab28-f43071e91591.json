@@ -1,0 +1,26 @@
+{
+  "id": "2787ae9c-4383-442d-ab28-f43071e91591",
+  "type": "insight",
+  "timestamp": "2025-12-04T01:01:32.000Z",
+  "title": "<div>&gt Please identify:</div>",
+  "content": "<div>&gt Please identify:</div>\n<div>&gt  * Hidden Assumptions: What is the author taking for granted that the audience might not agree with?</div>\n<div>&gt  * Cultural/Contextual Blind Spots: Is the content biased toward a specific demographic or level of expertise?</div>\n<div>&gt  * The &quotCurse of Knowledge&quot: Are there unexplained concepts that will alienate a layperson?</div>\n<div>&gt  * Mitigation: Suggest a specific &quotfix&quot for each identified blind spot.</div>\n<div>&gt Content to Audit:</div>\n<div>&gt [INSERT CONTENT HERE]</div>\n<div>&gt </div>\n<div>Step 7: Recognition of Shatter Points</div>\n<div>Purpose: Pinpoint vulnerabilities or potential breaking points.</div>\n<div>&gt Prompt:</div>\n<div>&gt Act as a &quotRed Team&quot Stress Tester. Your task is to identify &quotShatter Points.&quot These are not minor errors; these are critical vulnerabilities that, if attacked, would cause the entire argument or plan to fail.</div>\n<div>&gt You must:</div>\n<div>&gt  * Identify the Achilles Heel: What is the single weakest link in this content?</div>\n<div>&gt  * Simulate an Attack: Write a short paragraph attacking this specific point as a harsh critic would.</div>\n<div>&gt  * Reinforcement Plan: Provide a specific counter-argument or structural change to &quotarmor&quot this shatter point so it cannot be broken.</div>",
+  "context": "From document: Here is a complete prompt chain designed for high-performance Large… — chunk 5 (chunk 5/7)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "fe775850073f3ec2cab0d229e4f63b69",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "content",
+    "specific",
+    "identify",
+    "that"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

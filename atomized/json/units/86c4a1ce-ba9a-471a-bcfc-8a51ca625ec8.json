@@ -1,0 +1,26 @@
+{
+  "id": "86c4a1ce-ba9a-471a-bcfc-8a51ca625ec8",
+  "type": "insight",
+  "timestamp": "2025-11-23T21:24:58.000Z",
+  "title": "<div>[(4|A)] [VLTI] --{versal-modal}-- (ROOT|STEMS) <strike>&ltGEN RECUR REFRACT",
+  "content": "<div>[(4|A)] [VLTI] --{versal-modal}-- (ROOT|STEMS) <strike>&ltGEN RECUR REFRACT&gt</strike> ::: { &amp&amp ?? @@ } :::</div>",
+  "context": "From document: [(4|A)] [VLTI] --{versal-modal}-- (ROOT|STEMS) <GEN RECUR REFRACT…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "db53303d6e25bd535ca40f8600e23627",
+  "relatedUnits": [],
+  "keywords": [
+    "strike",
+    "vlti",
+    "versal",
+    "modal",
+    "root"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

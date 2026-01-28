@@ -1,0 +1,31 @@
+---
+id: fe5a2e3c-4c2f-4e71-848e-35b1090c5117
+type: insight
+created: '2021-02-15T19:54:52.000Z'
+document: 7cab5884ad37ebd0143542c422e3a7d4
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - sdgcmk9gte64snz1
+  - >-
+    ordplomfgka8qkzna3myi2fjmxusthbcap1j5ryeah8nbchawmzmzhiehxzjnvyat4evry4ifc8jjyuh2
+  - 2oqalxaf3sh53ip8ufbqvx33xxo9fpvpeuyphvf0
+  - l04ss8ak6nk9lsuj755bmmtzr0lti03punvux8afffqdvq6bz9iddr8pt0
+  - nqjyld6bdvtdvly8ti6dsurv6
+---
+# sDgcmK9gtE64snZ1/L+OrdPlomFgkA8qKzna3Myi2FjmxUSTHBCAp1J5RYEAh8NBcHAwmZmZhIeHXzJN
+
+## Context
+From document: Week 1 Retention Tracking — chunk 110 (chunk 110/133)
+
+## Content
+sDgcmK9gtE64snZ1/L+OrdPlomFgkA8qKzna3Myi2FjmxUSTHBCAp1J5RYEAh8NBcHAwmZmZhIeHXzJNVyaT4evry4IFC8jJyUH2/2oQaLXaf3sH53IP8UFBQVx33XXo9fpvPeUYPhvF0+l04sS8Ak6nk9LSUj755BMmTZr0lTI03PUnvux8afffqdVq6bz9Iddr8PT0/Nqjyld6bdvtdvLy8ti6dSurV6++IDCwY8cOjh49yh133PHt3RfNZk6cOMGYMWOIjIyUfm6xWDhx4gSjR48mKirqO3WMtFot48aNEzcGQRBEAEAQhCt8mHa5ON3WxgcVld/Rh30H9SoVNl9fGgoL8fDQiIP2DXC4XJT39gz7mWVYRkADc6OjWBJ3ZRkBKpWKO++8k7CwsCvqMPv4+HDvvfcSGBgIfJZi7f47h8OBXq+nv78flUpFUFAQXl5ew97X5XJhMBjo7+9naGgIlUqFv78/fn5+VzQa+0Xb2NPTI83zVSqVOBwOBgcH6evrw9/fHy8vL3p6ejAYDHh5eREUFIRGo8HhcNDX1zcsrVylUuHn54dSqcRkMjE4OIjT6UQul+Pv749SqWRoaIju7m48PT0JDg5GLpfjcrkwm8309vbicrnQ6XT09/djMpkIDg7G19cXAKvVSl9fH0ajUZqX7u/vj0ajkfbT6XRiNBrp7e3F09MTPz8/9Ho9er0etVpNYGAgWq1WqoNgtVrp7e3FarUSGhqK3W6np6cHq9WKt7c3QUFB0nYPDAxgNBrRaDQEBgYO+1z3sRoaGkKv10vb6Ofnh7+/PyqVCpfLhc1mQ6/XMzQ0REBAAHK5nN7eXiwWCz4+Puh0OtRqNTabjaqqKl544QVOnDjBqFGj6OjoICAgAB8fHxQKxbD2sNvt0v5+Puhz/jn3ZYMA7v9+/j3cx6yvr4+hoSHkcjlarRY/Pz88PDyQyWQMDQ0xODiIy+VCLpfj4+ODp6cnZrMZvV4vzXP39vZGq9XicrmwWCz09vZis9kIDg6Wzvvg4GC8vLykKQ3u49Ld3Y3JZMLHx4fAwMBh89WdTicDAwPo9XrMZjNqtRpvb2/peJzvq7bRpd7D6XTS09NDf38/CoWCwMBAvL29sdvtFBQU8Nvf/pby8nL0ej3t7e1SZsf+/ft54YUXkMlkdHd309HRga+vLwqFgv7+fmw2G0FBQdI5DuDv
+
+
+
+---
+*Source: Document 7cab5884ad37ebd0143542c422e3a7d4*

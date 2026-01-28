@@ -1,0 +1,26 @@
+{
+  "id": "18555d84-9ba1-470f-9e9f-bf6ce836d2ea",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt>⸻</tt></div>",
+  "content": "<div><tt>⸻</tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>III. |[PRESERVATION OF DRAFTS + PROMPTS]|</tt></b><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt>To ensure nothing is ever lost:</tt></div>\n<div><tt>  •  I will generate SYS_EXPAND_PHASE_2.5_MASTER.txt</tt></div>\n<div><tt>  •  Full log of all input/output for that phase</tt></div>\n<div><tt>  •  Labelled per entry (e.g., P2.5A_ARTISTvsPROJECT)</tt></div>\n<div><tt>  •  iPhone compatible (Notes chunk size respected)</tt></div>\n<div><tt>  •  You will be able to copy each entry individually into:</tt></div>\n<div><tt>  •  Mobile Notes</tt></div>\n<div><tt>  •  GitHub repository</tt></div>\n<div><tt>  •  Notion or desktop .md reader</tt></div>\n<div><tt><br></tt></div>\n<div><tt>⸻</tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>NEXT ACTIONS</tt></b><tt><br></tt></div>\n<div><tt>  1.  Paste any peer questions or summaries into the system</tt></div>\n<div><tt>  2.  Confirm you’d like SYS_EXPAND_PHASE_2.5_MASTER.txt generated next</tt></div>\n<div><tt>  3.  Approve creation of standard </tt><b><tt>Index Card Template</tt></b><tt> per module:</tt></div>\n<div><tt>  •  Title</tt></div>\n<div><tt>  •  Ref ID</tt></div>\n<div><tt>  •  Logic mode</tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 79 (chunk 79/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "will",
+    "sys_expand_phase_2",
+    "5_master",
+    "entry",
+    "notes"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

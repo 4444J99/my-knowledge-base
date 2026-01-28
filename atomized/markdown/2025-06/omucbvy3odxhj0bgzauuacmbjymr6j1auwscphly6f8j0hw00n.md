@@ -1,0 +1,30 @@
+---
+id: ee34c055-2a8e-4377-ad1e-3febc7eecb8c
+type: insight
+created: '2025-06-27T06:10:52.000Z'
+document: 3daa4ef2da2c63b0f7b42279befdb3fc
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - omucbvy3odxhj0bgzauuacmbjymr6j1auwscphly6f8j0hw00ntvvx3vv
+  - iqb3xk5egaabagqiecbagaabal0kxh755fh000
+  - hrl274pzbbonm181n
+  - siqiaagysxuabcvkereginwkguac3bn
+  - fs2roxxnppr3zjy2mdpx6tbzcwvgisjmdpvlpxvx4i2lv
+---
+# oMUCbvy3ODxHJ0BgZAUUACMbjYMR6J1AUwScPHly6f8J0Hw00Ntvvx3vv/++IqB3xK5EgAABAgQIECBA
+
+## Context
+From document: 4320 Mariners Cove Dr 2.m4a — chunk 129 (chunk 129/225)
+
+## Content
+oMUCbvy3ODxHJ0BgZAUUACMbjYMR6J1AUwScPHly6f8J0Hw00Ntvvx3vv/++IqB3xK5EgAABAgQIECBAgAABAl0KXH755fH000/Hrl274pZbbonm181n//siQIAAgYsXUABcvKErEGiNwKgUAc3bN/fs2ROXXnppR3ZjY2MdPX6tBzcWvgisJmDPVlPxvX4I2LV+qLrm2QK93LPm2v79ebawXy8L9HLX7Nmyqr+uJmDXVlO5+O999dVXMTc3FydOnLj4i3VwBTf+O8DyUAIECHQpoADoEs7TCLRZYNhFwOTkZPz4448xNTXVZkZnJ0CAAAECBAgQIECAQAqB/fv3x969e+PPP//s+zxNiXPttdfGo48+6if++67tBQgQIBDh/VS2gEBBgeYPXBMTE0t/6Nq6dWvceeed8dxzzy19NNAHH3wQx48f76tK8/qXXXZZNEWALwIECBAgQIAAAQIECBAYrkDzLu1evrtitWmWb/zv2LEjZmZm4sYbb/RRP6tB+R4BAgR6LKAA6DGoyxFok8BqRcBLL70UBw4ciNnZ2b4XAW2yclYCBAgQIECAAAECBAgQ6Fzg7Bv/mzdvXvphsPXr13d+Mc8gQIAAgY4FFAAdk3kCgXwCK4uAq6++OrZs2bL0VkxFQL6sTUSAAAECBAgQIECAAIFBCLjxPwhlr0GAAIHzCygAzm/kEQTKCDR/QBsfH1/6bP67775bEVAmeYMSIECAAAECBAgQIECgNwJu/PfG0VUIECDQKwEFQK8kXYdAIgFFQKIwjUKAAAECBAgQIECAAIEBCLjxPwBkL0GAAIEuBBQAXaB5CoEqAoqAKkmbkwABAgQIECBAgAABAt0JuPHfnZtnESBAYFACCoBBSXsdAi0WUAS0ODxHJ0CAAAECBAgQIECAQB8E3PjvA6pLEiBAoA8CCoA+oLokgawCioCsyZqLAAECBAgQIECAAAECFybgxv+FOXkUAQIERkVAATAqSTgHgRYJKAJaFJajEiBAgAABAgQIECBAoAcC69ati2uuuSZ27NgRMzMzsXnz5picnIz169f34OouQYAAAQL9ElAA9EvWdQkUEFAEFAjZiAQIECBAgAABAgQIlBZobvzffvvtsXPnzpiennbjv/Q2GJ4AgTYKKADamJozExgxgXMVAe+88068++67MT8/P2IndhwCBAgQIECAAAECBAgQ
+
+
+
+---
+*Source: Document 3daa4ef2da2c63b0f7b42279befdb3fc*

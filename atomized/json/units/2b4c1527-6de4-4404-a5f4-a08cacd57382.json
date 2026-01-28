@@ -1,0 +1,26 @@
+{
+  "id": "2b4c1527-6de4-4404-a5f4-a08cacd57382",
+  "type": "insight",
+  "timestamp": "2025-03-05T14:18:11.000Z",
+  "title": "<div>CAUTION: This email originated from outside your organization. Exercise cau",
+  "content": "<div>CAUTION: This email originated from outside your organization. Exercise caution when opening attachments or clicking links, especially from unknown senders.</div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n</tbody>\n</table></object><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Your assignment Classroom Management has been graded. </div>\n<div>graded: Feb 20 at 6:57pm</div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n</tbody>",
+  "context": "From document: 1: — chunk 214 (chunk 214/630)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "d56851c0b64e6fc46a6205c88fb237ad",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "collapse",
+    "tbody",
+    "width"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

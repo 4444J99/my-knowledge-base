@@ -1,0 +1,31 @@
+---
+id: cb44012f-22ab-418b-b0e4-2bbf9875ff0a
+type: insight
+created: '2021-06-24T19:10:13.000Z'
+document: b5de64ea907b6e44ec94b342683f3041
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ckkhdupzdcku
+  - >-
+    ycyctw1l8kqvgt585vfpdeqn8m4l46r4ofgq1a7nn5avdb9tuirwvnt60ab4ea6pcp9xrs0nbtxk0vlkt8ppjzuzqnrrdozgr2k0vlr44k0t6ervpybiq9cmqcxykvmaaiozurpu6lp6c8ybdijat
+  - m79b1nvkspslabwyokxtd2xwll9iokxoqcsbkeexe9v7f37mvtzy
+  - iufhamq5mnl26xpzh95k3typbavrf5mfc2pe0uwunbldxovyi0qjhdpdzh6nvg4uijlafcz
+  - 1cgn9jzwua10o65
+---
+# CKkhdUpzDCKU+yCYCTW1L8kQVgt585vfPDeQN8M4L46R4oFGQ1a7nN5avDb9TUirWVNT60Ab4EA6pCP9
+
+## Context
+From document: TODAY FEELS LIKE A REAL BAD GO — chunk 571 (chunk 571/940)
+
+## Content
+CKkhdUpzDCKU+yCYCTW1L8kQVgt585vfPDeQN8M4L46R4oFGQ1a7nN5avDb9TUirWVNT60Ab4EA6pCP9xrs0NBtxK0VlKT8ppJzUZQNRRdozGr2k0Vlr44K0T6ERvPYBIQ9cmqcxYkVmAAIOZUrpu6lP6c8yBDiJaT+m79b1nVKSpslABwyokxtD2XWll9IoKXoQcsbKEEXe9V7F37mvtZY+iufHamQ5mnL26xpZh95k3TyPbavrf5mfc2pE0UWUnBlDxovYi0qJhDpDZh6nvG4uIjlAFcZ+1cGN9jZwua10o65/n9NH1nIsYJDjJCKE14cC7E3jrfpOiqvmnnXNuER82R4AgS4NTdKry++BrUoS8AugRpryPI5pl3tO6TccVYeMsje940u0cPApmdGlARnRjdPDOenT2LUpq6MNrKzrl8MkaGbdpJXTkeZFbwpi1WXd1fWXPud4OqyNPGYfdinPkfnCeTMWwATe1egu+p0t47HBCQRI9wI8s0eVrzpzBBCxrs25UJ7OgL/YO+jR1MhpWQJ0EqdXltfYjTwlA4HH3vs04Mab3vSmPHiLT7qWy3S5B19HVoox0VllHrR/8I1AEVBCyQIwfJ6Gh+kxvAsQ2EptsoCAlHiL3ZROt6iFwoQMU8qhaDTZuJAvG2AzUTpp2gSoTTBPTRGh7JAPqWXKISB73ouNEGeA9UG9i9ev4t+cbkIFINDVKFjEPBkZTvb1CB/rjOcYK1No+E9UhOOWlP484+KscCKU5DzmMY85lvMLqGIgAAfHdBLnGe+ir2XUkz0ypERVKERyaRnNfhc9ZlRK+WYcL6sBYjnt82adlMfL0WMYoyPjp6rhMXKfk8aQXtVmjlIoZTmJ/npclxRekftyWuqYc6SXGKzkgQOfABLFBtDk5HKc5slKoJM4HHTSGECVSBAwSKp8Xz3H0eFQ66NrS8Y3/dt0ZgEQR3aAQxS77sG+IAnn5N3vfne+J+gXj8Ij07dCkxnyxCc+MY9KO5+B8Q+ARwd6pitv6ceew/dD9BNQBig+JLuD8wIEIKutXXIuAW/227Y5zg+g34GHsmTt57agnH2pBMkjW4HI+DY1e17GBbuqDMqyaUR+ZRCwaTl18wCG6Z5TfAf6OKsDvwBuyI0uABy+ArCwR5XxKTcao+E9ILjIvkxA2YgCAXU6snxPICIwAO9a87HtZfzHJgQu
+
+
+
+---
+*Source: Document b5de64ea907b6e44ec94b342683f3041*

@@ -1,0 +1,32 @@
+---
+id: fe0d3846-1a51-4774-9ea8-3710dc8e5bf4
+type: insight
+created: '2021-05-26T23:26:41.000Z'
+document: d338c9f6bd92d1f92f8eaa091bec0082
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 7vpawoema
+  - p8aisbmmmdoddvl0vr
+  - >-
+    ahdlvlxnbz2trrrufczzjcdpbwjrs5tennrzcz5b7q99nnnjsphn4s8hemybftonqnsffcm5mjekza1ljqghavyvixkscdejcv6x8bpcfg6x17u
+  - fvjluj
+  - >-
+    o1gfy9otlwmlt8cqtfi7yxabnbkcdz0rwvwp8udb8m6nf4b0nynoimua9xexxgxlrejkfxzgc4p3scaivrpij8a7ifxdren6hpb634d1kffjjuysyrseuflxhwccg5wqrnngeanhydmxmsqqb5ls662vg65uxs
+---
+# 7vPAwOema/P8AIsBmMMdOddvl0vr/AHdLvlXNbZ2trrrufcZzjcDPBwjRS5tennrZcz5b7q99NNNjsPh
+
+## Context
+From document: Sausage & Peppers — chunk 82 (chunk 82/394)
+
+## Content
+7vPAwOema/P8AIsBmMMdOddvl0vr/AHdLvlXNbZ2trrrufcZzjcDPBwjRS5tennrZcz5b7q99NNNjsPhn4S8HeMYbfToNQnsfFcM5mjEkZa1ljQghAVyVIxkscdejcV6x8bPCfg6x17U/FvjLUJ/O1GFY9OtLWMlt8cQTfI7YXAbnbkcdz0rwvwp8Udb8M6NF4b0nyNOimuA9xexxgXLREjKFxzgc4P3scAivRPiJ8a7ifxDren6HPb634d1KFFjjuYSyRSeUFLxhwCCG5wQRnnGeanHYDMXmSqQb5LS662vG65uXS+jSd3ZPVX0eDxuAWXuE0ue8enW0rO3NrbZva7WjsfNf4UfhSZFGRX6IfCi/hR+FJkUZFAHbfDjV20Px5oOpqdoju4lc/wDTORtj/wDjrGv1Or8gIJjBPHOhw0bBh9Qc1+v9fi3ivQSq0KnVqS+5r/M/XPDOs3TrU+iaf33/AMgooor8kP1AKKKKACiiigAooooA/9T9/KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK/Lv4rWjWPxI8RwuMFr2WX8JT5g/Rq/USvgL9pfQn03x9HrCriLVrZH3eskP7th+ChD+NfpPhhilDHypv7UX96af5XPz/xGwzngo1F9mX4NNfnY+d80ZpPxo/Gv3yx+Ji5qa3iNxPHAGVDIwXcxwoycZJ9B3qD8aPxpNMaO78dfD3xF8PLy2s/ECxE3cZkjeFiyHacEZIXkcEj0Irm9H17WfD92t9ol7LYzqQd0Tlc47EDgj2PFfQnhj43eHtT8Ow+EvitpJ1a2twqR3KAO+F4UsCVIYDjerZI6jOSdSDxH+zLokw1Sw0e4vLhCHSJllkUEdBtmk2H8c18Ys5xdODoYzCynLvFJxl23enoz6x5ThpzVbCYmMI9pNqS+5a/I2PjJeP4i+CnhrxNrsKx6rLLAQdu0kyxvvwOwcKHx9KzrLTvCPwn+FukeM73RINd1nXPLZGuQGjj81DIuNwIUKo5
+
+
+
+---
+*Source: Document d338c9f6bd92d1f92f8eaa091bec0082*

@@ -1,0 +1,26 @@
+{
+  "id": "a37393bb-7980-4c56-b0a0-baf767737dfc",
+  "type": "insight",
+  "timestamp": "2015-04-18T19:44:09.000Z",
+  "title": "<div>Another death, another responsibility gone</div>",
+  "content": "<div>Another death, another responsibility gone</div>\n<div><br></div>\n<div>Burial is the final selfish act</div>",
+  "context": "From document: Another death, another responsibility gone",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "5312dd7c8d0e65143336bb24c0dc7c12",
+  "relatedUnits": [],
+  "keywords": [
+    "another",
+    "death",
+    "responsibility",
+    "gone",
+    "burial"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "17bfb661-5ad5-4514-b697-3485538fbf64",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>8prompt</div>\n<div>All personal repos:</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>🧠 AI, Machine Learning &amp Agents</div>\n<div><br></div>\n<div>• js-genai – SDK for Gemini and Vertex AI</div>\n<div>• terminal-ai – AI in the shell, supports multiple models</div>\n<div>• aionui – GUI app for Gemini CLI</div>\n<div>• maxmsp_ai – Deep ML models in MaxMSP</div>\n<div>• DeepCode – Open Agentic Coding (Paper2Code, Text2Web, etc.)</div>\n<div>• Intelligent-Agent-for-Microsoft-365-Automation – AI agent for Microsoft 365 automation</div>\n<div>• anthropic-cookbook – Recipes for Claude</div>\n<div>• xai-cookbook – Examples for XAI’s Grok APIs</div>\n<div>• awesome-ai-agents – Curated list of autonomous AI agents</div>\n<div>• stable-diffusion – Text‑to‑image diffusion model</div>\n<div><br></div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>📚 Cookbooks, Tutorials &amp Learning Resources</div>\n<div><br></div>\n<div>• openai-cookbook – Guides for OpenAI API</div>\n<div>• adaptiveDEVIearningHub – GitHub Desktop tutorial repo</div>\n<div>• desktop-tutorial – GitHub Desktop tutorial repo</div>\n<div>• rr-organization1 – Reproducible Science Curriculum lesson</div>\n<div>• obsidian-help – Help docs for Obsidian</div>",
+  "context": "From document: Contents_Table — chunk 53 (chunk 53/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "agents",
+    "cookbook",
+    "desktop",
+    "tutorial",
+    "learning"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

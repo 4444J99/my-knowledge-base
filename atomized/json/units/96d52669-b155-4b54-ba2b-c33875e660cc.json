@@ -1,0 +1,26 @@
+{
+  "id": "96d52669-b155-4b54-ba2b-c33875e660cc",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt>- `::CONTEXT + CONTENT`</tt></div>",
+  "content": "<div><tt>- `::CONTEXT + CONTENT`</tt></div>\n<div><tt>- `::NEXT STEPS`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### NEXT STEPS:</tt></div>\n<div><tt>1. Confirm FILTER TAG SYSTEM (Dream/Reality/Hybrid + Output)</tt></div>\n<div><tt>2. Define hierarchy: `::ET4L` (label) vs `::ETCETER4` (persona) vs `::4_bl00m` (root)</tt></div>\n<div><tt>3. Choose glyph style: Emoji, ASCII, or vector</tt></div>\n<div><tt>4. Confirm mobile-ready export format</tt></div>\n<div><tt>5. Greenlight:  </tt></div>\n<div><tt>  - MANIFESTO V1  </tt></div>\n<div><tt>  - README scaffold  </tt></div>\n<div><tt>  - EDU curriculum builder  </tt></div>\n<div><tt>  - PITCH DECK shell  </tt></div>\n<div><tt>  - APP WIREFRAME draft</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Let’s now split off into individual prompt windows for each of the above.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**To Archive In:** `/SYS_MAP_OS_4BLOOM/` and `/SYS_EXPAND_PHASE_2.5/`  </tt></div>\n<div><tt>**Filename:** `PROMPT_7_CLASSIFY_EDU_BIZ.md`  </tt></div>\n<div><tt>**Tags:** #classification #artistIDvsproject #dreamlogic #education #bizstructure</tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 69 (chunk 69/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "next",
+    "steps",
+    "confirm",
+    "context",
+    "content"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

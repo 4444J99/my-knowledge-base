@@ -1,0 +1,32 @@
+---
+id: f97f44e2-72a0-4ac6-aaf3-e303e4e34a92
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    bnjvgbrwq9zfxzwgkidwvhiqkpvwaajgg5rvbtivcuhvfvbpn0udqyfwnqswhkbuakohsnx2bfbhp
+  - nvv2ohj8d3w20pwsbqg6rpli
+  - gvdevg0xlngye
+  - y75xfvpiwsdpbrwq4bqceglreofda1
+  - >-
+    ipfddb1cdp7xsnbutztnyjby6dkgrm2smiwtqrakldww2nxpqp6sqqm5blitkc3rggvns8arqupqickocpawl2sojdfxsgnvqkskn0j1tbx0jifvqwcpvqpvab5mgttx5yl4mi9vvemnqapyfqzytagotdmxktjt2ghvux0tjq0qjrqkxtavny9r1nqyepwqwu1p0tywqrqxfco5p8yx712zwr6
+---
+# BnjVGBRWQ9ZfXZWgKiDWvhiQKpVWAaJGG5RVbTiVcUhVFVBpn0UDqyFwNQSwhkBUAKohSNX2BFbhP/nV
+
+## Context
+From document: New Note — chunk 2584 (chunk 2584/21099)
+
+## Content
+BnjVGBRWQ9ZfXZWgKiDWvhiQKpVWAaJGG5RVbTiVcUhVFVBpn0UDqyFwNQSwhkBUAKohSNX2BFbhP/nVV2ohj8d3w20PWsBqg6RPLI+GVdEvG0xlnGye/Y75XFvPIWsDPBRWQ4BqCEglrEofDa1+IPfddb1cdP7xsnButZTNyJby6dkGRm2smiwtqrAKldWW2nxpqp6sqqm5BlitKc3RGgVNS8arqUpqicKoCpaWl2SojdFxSGnVQKsKn0J1tbx0jIFVqwCpVqpVab5mgtTX5yl4mi9VVeMNqApYFQZYtagoTdmXkTJt2ghVUx0tjQ0qjrqkXtavny9r1nQYePWQWU1p0tYwQrqXFco5p8yX712zWR6+90LZvfN6ef5n31OA9Rp5+P4L5PvbT5Rt5y2XzeurZGXHWFnQPEJh1QxZMVeB0jnjDKzaO3eCrJ03SdYrrLp2dq70qEJqZ4vOtavC6pxJsm5uXjinsKmCpt1qvc3ZskYVUmFH6zmbOwqMQWF1fasqqDZmyWqFUbsVSu1R9dVure9Sv6ohQ5bXjpKl1UfKsuqRGqcNAFgdBKxK0DUMnhJATcUPuboqlVXhAarSx4VWJ4VqTQ3iaPPAqgdWE30ws+ehSknwb/Xq1f2AQbs2VowP+lQynTNnTtQaBxJYffjhhyOPBY8J6qfXXnutAM584IEHZNOmTZH5iooKeffdd6PuFY/PBiTdx4sNBcCyWBvQ4zPPPNPvfPecoDHUOdlzAI6PPPKI/PznPxeAOdddd52gh5zHn0zmGphnHoqlzNv+qquuitSgdteuXYF1UKDFvAu1PhQDWH3vvfeMwh1U7iorK825VVVVkRzyb7/9dtS1sPmBx8d7xnlQwcPjxf1DRbeuri4yDzU++7Eg5vMBGBXnQtUVQBHU8PC8oj9Qd+U1ADVjg8pdB2PAXqzDOgBTATnhz1zjOWlpaYnMr1q1KhCgJbCKa+L1hdf9woULBXAV4DJY0LV9zoOsyb4GuHGa+COurzgQHYgFPGLDFf/fA7qE8qkNn2IT9+677zZzp556qtmM5r1icwg5nHfvvfea347nHP7NvPTSS80c5l1gFZvEZ5xxRuSaNuiJ6+M+AF4SBE0WWIVaBs9xoVVsAFPZ9Yc//CFv1fhYwComX3zxRbMm/r2G0iw2RXFg0xCKHFAMxzXxfhB0UNUVvQL8io1f+8C/
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

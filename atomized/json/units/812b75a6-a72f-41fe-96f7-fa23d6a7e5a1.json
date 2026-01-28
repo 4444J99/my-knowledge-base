@@ -1,0 +1,26 @@
+{
+  "id": "812b75a6-a72f-41fe-96f7-fa23d6a7e5a1",
+  "type": "insight",
+  "timestamp": "2015-05-09T22:00:53.000Z",
+  "title": "<div>Cars that I made it to advertisements and companies pay</div>",
+  "content": "<div>Cars that I made it to advertisements and companies pay</div>\n<div>Companies pay people to drive the car people but they just pay the gift card</div>",
+  "context": "From document: Cars that I made it to advertisements and companies pay",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "b2338f01e00e0bac94e9a300e84b5bd7",
+  "relatedUnits": [],
+  "keywords": [
+    "companies",
+    "people",
+    "cars",
+    "that",
+    "made"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

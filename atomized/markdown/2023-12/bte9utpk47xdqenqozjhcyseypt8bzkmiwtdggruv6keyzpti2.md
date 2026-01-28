@@ -1,0 +1,31 @@
+---
+id: 97f7b5b0-19c4-4159-a260-7c5340ddf8a9
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - bte9utpk47xdqenqozjhcyseypt8bzkmiwtdggruv6keyzpti2vfsy
+  - >-
+    9zlfainnyfyrkgub0dwt869z7tpnz7cj9ey6ouiyhln3g1m49pyraairaaitqkqqoqdqsfiv3jeqvukferbxevljtmtsuvij9q4fiqiwupohsxqm
+  - tgjm6sw9n1tdzrs0gfswzgspekhcqla8fnocwizirjle6pwqhw8c4ec8kzcimk16
+  - ytndxilvgucgfofqojhuwukvtcpopawzwswgyf3ezff0cyv2tulzi67tsg8heb6twum379
+  - 3ww2
+---
+# BTE9UtPK47xDQENQozjhCyseYpT8BZkMIWTdGGRuv6keYzptI2vfSy+9ZLFaiNnyFyRkgUB0DwT869z7
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 2506 (chunk 2506/3262)
+
+## Content
+BTE9UtPK47xDQENQozjhCyseYpT8BZkMIWTdGGRuv6keYzptI2vfSy+9ZLFaiNnyFyRkgUB0DwT869z7TPNz7cJ9Ey6OuIYhlN3g1m49pyRAAiRAAiTQkQQoqDqSfiv3jeQVuKFErBXEVljTmtsUVij9Q4FIQiwUpoHsxqm+h/tgJm6sW9n1tDZrS0GFsWzgspeKhcqlA8fNOCwizirjLE6pWqhw8C4eC8kzcIMK16/YtNDxILVGUCGFOfqOjHuwUKVTcPOPawzWSwgyf3EZFf0CyV2TuLZi67tsg8heB6tWum379/3WW2/Je++9F3dcJljBkOzBb331b+t/n2jQ41QFAUQ2hCVEsj8mzr8P/3scM+rCXQ4JMmDJHOzLpIcxv/744w8bwwpjWfmLS8l+yimnWOxduseYatsQKUgxjzTscKmDW6e/uDT1qIe+xCttwQ+fEYhKFMQw+rNqxusDl5EACZAACZBAexOgoGpv4txfygQyJagQC4KYEH9xN5nOjSqRhQpCFdnwMHXxLq4dlxEtHUHlYl/groSbcogPuMRBuCQr6Qoq3MDD9Q2Z80aqRQRWmXTKc889J5MmTbJ4KKQl95cXXnjBxm7Cje3RRx9tq5zFD4PBxlo2XOwYBrFFbFm6bbt9w7IHEQPh5JI5uHWYwiIH60q8gkQcSIAAixayw0EUxMbVYbtUBQFEHcRdPOERb/9uGUQqrj0MUAt2Thy4JBs777yz7LTTTq66HROsmjifSC4BQZbuMabaNlwSwQnWWLhtxl6XTswms8hlmh8sfMiwCTEaLxYyCopvSIAESIAESKADCVBQdSB87jo5gUwJqtLSUrPQII4FZfLkyQI3NIgZpNxGIopEggr1kSgAN/EY3wqWJRTceOJGD25/fktDshgqbAdhBlGA+CmUZDenVqHxJVVBhfZxEwrRgkxo6BsSIsC90xX0HZZLpDRPVD755BN58cUXzZqJxA7OtQ4udxBqOG4MQIuBaFHg0oZxodAuBtl12Q0h6JCsAhYsN15Uum27Pk6YMMFSzyNF/VlnneUWpzTNZAwVjgXnELFR6ST7wDUGdz2cH2R5hGXLlW+++caSVfTq1ctSgbtMf8hMiL6nYmVMdIzpto3zC8HnF3dwd8U1iOvWH5vm+u+mqQiqVPkh+cidd95p11rsmGduf5ySAAmQAAmQQGcgQEHVGc4C
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

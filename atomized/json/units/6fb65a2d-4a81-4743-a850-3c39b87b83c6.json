@@ -1,0 +1,26 @@
+{
+  "id": "6fb65a2d-4a81-4743-a850-3c39b87b83c6",
+  "type": "insight",
+  "timestamp": "2019-06-04T17:25:50.000Z",
+  "title": "<div>I’ve been sitting on this thank you for awhile now</div>",
+  "content": "<div>I’ve been sitting on this thank you for awhile now</div>",
+  "context": "From document: I’ve been sitting on this thank you for awhile now",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a388f279337509d365759c522d082370",
+  "relatedUnits": [],
+  "keywords": [
+    "been",
+    "sitting",
+    "this",
+    "thank",
+    "awhile"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: 3f9dd9b5-1eab-4615-bdca-baf4fcb3cd9c
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 47ljfa5kkaxdbvqvzd4fyi2nn4gsmyktldelgus2xhgkuc1d6c
+  - f4ezlrxidbafbu2nuzq0qjiyniuo
+  - qpso4jlvhfd5fgks5tuodnpfh67
+  - >-
+    phjkylweegvqrkb6zxuhrcmekkhzbmfursgdygktxi2k6qsotxlmi2c8hcwpreo4l0aiz4l1qcwzjlmwizcxicannpgjosovqxkiinj4ajws
+  - >-
+    usypu0owvgdxr7o6i2wun4t1rzbztjqt8ncuxrkmhumgmyks3bsnw5ydvxokrxfi7rmiitprpw7vwollpejctx1elrs9p46gwvluynoie8n1q8e6dvtweaymmjojytuhwhlyqqnz0xtlwn0dre
+---
+# 47LjFA5kkaXdBVqVZd4FYI2nN4GsMYKtLDELguS2xHgkuC1D6C/f4EZLRxidBAfbu2NUZQ0QjiynIuo+
+
+## Context
+From document: New Note — chunk 14859 (chunk 14859/21099)
+
+## Content
+47LjFA5kkaXdBVqVZd4FYI2nN4GsMYKtLDELguS2xHgkuC1D6C/f4EZLRxidBAfbu2NUZQ0QjiynIuo+qPSO4jLvhFD5fgKs5tuodNpfh67+PHJkyLwEEgVQrKB6ZxUhRCmeKKHZBMFUrsgdYgkTXI2K6qSoTxLmi2c8hCWprEo4L0AIz4L1qCwZJlMWIzCXICAnNpgJoSoVQXkiiNJ4AJWs++uSyPU0oWVGDxr7O6i2WUN4T1RZBZTjqt8NcUxrKMHUmgmYkS3Bsnw5YdVxOKRxFI7rmIiTprpw7vwoLlpejctX1eLrS9P46gwvluYnoie8N1q8e6DVtweaYmMJoJYTUHWhlYqQnZ0xtLWn0dRE/xBOzNdTvbKeK4/XhilCE6JITQIdHTm0tBJKpBLlrDk9OOErx+C6m6/G/3vyN3j2hafx/EvP4Jmn/wu/eeQB3PCD7+C4Nfujtz6HHn6mrlwcXTUxqzQKQ5flcve8PnHCqglCxgKpZghqpggYp6n8WidKt21xLlGftKDVLM8zliHgKsAqYds4P3uQwGqAKqt+fhYv1U29vEY+Xp8g50EkNZEwahnBV7cFqzZ3Ri1gVUDVWHUpwUcqvBJUDXNcmMq6ISq9ik1QZbapM4EZC1oxZ3EH50GOIGIZSipHYHzZ7phUtSfhyb0JMIq6K6FVKtFKcRGuFlhVoFUBnAVadSc4H6lW2j2r1gJWVxw2Cz1z84jXE9BMjqbKKtVlWQ/WcLn7OKHo4EhMDIyiJfTKee/h+QUTYwhejyVkORENjZXon5LE0YfNxfU/OB9/feIebHjlj1j/1tN4Z8PzeGf9c9iwntDq+peosPoSnv/bH3DnL27GaSd9AatWzMSaA+bhhC8eYpXVq/vRxyXs+/oyBFabCbB2Unm1gBbOeVHZTXCOC7AqJZN1oa6ewG9DhHODwp45qpNyrovaaNhSEN4Irsq94AkSMCWkOrF8DMFVAr1shwlcx9Jeq0g9Gq1EjGBqnAB3hFCqj1CpmwqsHlqBVgXQ9sRcqCQwWuYvpcJx6SZYlTB1IYlaCobWElSty6d4TtVo7yhgCtWJuyc3oLW91gJSgzyuHFOA1XBUFGF9FqRaw3svSyg1QyXVeJr3IyFWKXEqu6Y4r1PcFmXdy30q+L6TCMtW+Et4bXmOBFZ9cYLEaaoAkzFtFf/NakD7lBzSBKy9UX6G
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

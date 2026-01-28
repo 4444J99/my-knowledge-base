@@ -1,0 +1,26 @@
+{
+  "id": "d4d8f62f-d0c8-4963-adf8-fb9c61ce68ed",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>14. **muse-shrine-etcetera** (HTML)</div>\n<div>    - Home of etceter4.com</div>\n<div>    - **Role:** Public-facing website</div>\n<div><br></div>\n<div>15. **petasum-super-petasum**</div>\n<div>    - &quotHat on a hat, galerum super galerum&quot</div>\n<div>    - **Role:** Meta-layering abstractions</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **📊 Data Intelligence &amp Analysis**</div>\n<div><br></div>\n<div>16. **tab-bookmark-manager** (JavaScript)</div>\n<div>    - AI-powered content analysis</div>\n<div>    - Smart suggestions, automated archival</div>\n<div>    - ML services: summarization/classification</div>\n<div>    - Semantic search, duplicate detection</div>\n<div>    - **Role:** Content intelligence and organization</div>\n<div><br></div>\n<div>17. **public-record-data-scrapper** (TypeScript)</div>\n<div>    - Public data ingestion</div>\n<div>    - **Role:** External data acquisition</div>\n<div><br></div>\n<div>18. **jvpiter-inquiry-labors** (Jupyter Notebook)</div>\n<div>    - Jupyter metapackage</div>\n<div>    - **Role:** Research and data analysis</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **🚀 Application Layer**</div>\n<div><br></div>",
+  "context": "From document: Contents_Table — chunk 45 (chunk 45/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "role",
+    "data",
+    "public",
+    "analysis",
+    "petasum"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "fe149386-b26d-450b-a754-2d4f79cc4700",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>│   └── edges/</div>",
+  "content": "<div>│   └── edges/</div>\n<div>│       ├── inspired-by/</div>\n<div>│       ├── implemented-in/</div>\n<div>│       ├── superseded-by/</div>\n<div>│       └── integrated-with/</div>\n<div>│</div>\n<div>├── outputs/</div>\n<div>│   ├── system-map.json           # Complete graph</div>\n<div>│   ├── triage-report.md          # What to do with each repo</div>\n<div>│   ├── consolidation-plan.md     # Merge/reorganize strategy</div>\n<div>│   └── implementation-queue.json # Prioritized work items</div>\n<div>│</div>\n<div>└── orchestration/</div>\n<div>    └── connects-to: auto-revision-epistemic-engine</div>\n<div>```</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **THE ACTUAL WORKFLOW YOU NEED**</div>\n<div><br></div>\n<div>### **Phase 1: Audit (Week 1)**</div>\n<div>```bash</div>\n<div># Run the archaeology suite</div>\n<div>1. Scan archive → Generate inventory</div>\n<div>2. Export AI conversations → Catalog topics</div>\n<div>3. Analyze all 35 personal repos → Classify by value</div>\n<div>4. Analyze all 23 org repos → Assess status</div>\n<div>5. Generate complete system snapshot</div>\n<div>```</div>\n<div><br></div>\n<div>### **Phase 2: Triage (Week 2)**</div>\n<div>```bash</div>\n<div># Make decisions on each item</div>",
+  "context": "From document: Contents_Table — chunk 83 (chunk 83/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "with",
+    "system",
+    "json",
+    "complete",
+    "triage"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

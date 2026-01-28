@@ -1,0 +1,26 @@
+{
+  "id": "5d4f707f-6a3b-4703-af9d-b0095ea66b0b",
+  "type": "insight",
+  "timestamp": "2025-11-05T21:42:26.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><b><h3>🆓 Free Tier (Public Data Only)</h3></b><font face=\".AppleSystemUIFont\"><h3><br></h3></font></div>\n<div>Access basic UCC and public records at no cost.</div>\n<div><br></div>\n<div><b>Data Sources:</b><br></div>\n<ol>\n<li><b>State Secretary of State UCC Search Portals</b> (50 states)</li>\n<ul class=\"Apple-dash-list\">\n<li>Free public UCC-1 filing searches</li>\n<li>Scraping via Playwright/Puppeteer</li>\n<li>Rate-limited to ~100 searches/day per state</li>\n<li><b>Fields:</b> Debtor name, secured party, filing date, collateral type, status</li>\n</ul>\n</ol>\n<div><br></div>\n<ol>\n<li><b>SEC EDGAR API</b> (Free)</li>\n<ul class=\"Apple-dash-list\">\n<li>Public company filings, 10-Ks, 10-Qs</li>\n<li>Business descriptions, risk factors</li>\n<li><b>Endpoint:</b> <font color=\"#CB30E0\">https://data.sec.gov/submissions/CIK{number}.json</font><br></li>\n</ul>\n</ol>\n<div><br></div>\n<ol>\n<li><b>OSHA Violations API</b> (Free)</li>\n<ul class=\"Apple-dash-list\">\n<li>Workplace safety violations</li>\n<li><b>Endpoint:</b> <font color=\"#CB30E0\">https://data.dol.gov/get/inspection</font><br></li>\n</ul>\n</ol>\n<div><br></div>\n<ol>\n<li><b>USPTO Trademark API</b> (Free)</li>\n<ul class=\"Apple-dash-list\">",
+  "context": "From document: data enrichment strategy for ucc-mca intelligence platform — chunk 2 (chunk 2/32)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "42efb0f415b2f324521d2959a50f91bf",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "free",
+    "public",
+    "data",
+    "class"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "e853722e-08d3-4bd2-8a82-49c7788e552e",
+  "type": "insight",
+  "timestamp": "2025-11-02T03:42:33.000Z",
+  "title": "<div><img style=\"max-width: 100%; max-height: 100%;\" src=\"data:image/png;base64,",
+  "content": "<div><img style=\"max-width: 100%; max-height: 100%;\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABSgAAAs0EAYAAADbKl52AAABY2lDQ1BrQ0dDb2xvclNwYWNlRGlzcGxheVAzAAAokX2QsUvDUBDGv1aloHUQHRwcMolDlJIKuji0FURxCFXB6pS+pqmQxkeSIgU3/4GC/4EKzm4Whzo6OAiik+jm5KTgouV5L4mkInqP435877vjOCA5bnBu9wOoO75bXMorm6UtJfWMBL0gDObxnK6vSv6uP+P9PvTeTstZv///jcGK6TGqn5QZxl0fSKjE+p7PJe8Tj7m0FHFLshXyieRyyOeBZ71YIL4mVljNqBC/EKvlHt3q4brdYNEOcvu06WysyTmUE1jEDjxw2DDQhAId2T/8s4G/gF1yN+FSn4UafOrJkSInmMTLcMAwA5VYQ4ZSk3eO7ncX3U+NtYMnYKEjhLiItZUOcDZHJ2vH2tQ8MDIEXLW54RqB1EeZrFaB11NguASM3lDPtlfNauH26Tww8CjE2ySQOgS6LSE+joToHlPzA3DpfAEDp2ITpJYOWwAAAARjSUNQDA0AAW4D4+8AAAB4ZVhJZk1NACoAAAAIAAUBEgADAAAAAQABAAABGgAFAAAAAQAAAEoBGwAFAAAAAQAAAFIBKAADAAAAAQACAACHaQAEAAAAAQAAAFoAAAAAAAAASAAAAAEAAABIAAAAAQACoAIABAAAAAEAAAUooAMABAAAAAEAAAs0AAAAAO05aLoAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAcaURPVAAAAAIAAAAAAAAFmgAAACgAAAWaAAAFmgAInfRCw2UyAABAAElEQVR4Aey9e5RcVZn338v5482ayfpNv+/CpJN0UkUgpAMBCgFpblYDIQQVLEIUVKBaRUS80AygPcxIFSNiGxFb37wzcUBOOWYUb2N7GYmXsVoFbUdmpr3MTLxN9cygtvcer5GL+/c8p/ZzqnI6la6+VHd11afOWr37nDp1zj57P/tz9uW7n93RMcfPU/71Kb/5g6sSyT+c+KP+ld9/7UDnT/73yFGdnywedeCpj3Ttf7S06qHVj6zr+J1bnenqX7fPEZIO2AHlAA7AATgAB+AAHIADcAAOwAE4AAfgAByAA3AA",
+  "context": "From document: New Note — chunk 1 (chunk 1/1345)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "6cb0cd0514b9cb159b39c520e5a20bc8",
+  "relatedUnits": [],
+  "keywords": [
+    "style",
+    "width",
+    "height",
+    "data",
+    "image"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

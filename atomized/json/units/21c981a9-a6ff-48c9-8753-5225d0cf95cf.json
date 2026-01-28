@@ -1,0 +1,25 @@
+{
+  "id": "21c981a9-a6ff-48c9-8753-5225d0cf95cf",
+  "type": "insight",
+  "timestamp": "2022-06-25T14:37:07.000Z",
+  "title": "<div>A police officer undermines law non violently</div>",
+  "content": "<div>A police officer undermines law non violently</div>",
+  "context": "From document: A police officer undermines law non violently",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "58a9766cf2a7ab1f090414bffcf7d53a",
+  "relatedUnits": [],
+  "keywords": [
+    "police",
+    "officer",
+    "undermines",
+    "violently"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

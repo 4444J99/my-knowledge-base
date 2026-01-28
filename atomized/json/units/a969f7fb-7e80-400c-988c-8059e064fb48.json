@@ -1,0 +1,26 @@
+{
+  "id": "a969f7fb-7e80-400c-988c-8059e064fb48",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:15:38.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>**Three-Phase Architecture**:</div>\n<div><br></div>\n<div>```</div>\n<div>Phase 1: Geometric Primitives</div>\n<div>├── Shape Library</div>\n<div>│   ├── Circles (nurturing/soft)</div>\n<div>│   ├── Squares (stable/structured)</div>\n<div>│   └── Triangles (dynamic/challenging)</div>\n<div>├── Kinetic Properties</div>\n<div>│   ├── Velocity mapping (conversation pace)</div>\n<div>│   ├── Deformation (emotional volatility)</div>\n<div>│   └── Opacity (presence/withdrawal)</div>\n<div>└── Color Psychology</div>\n<div>    ├── Hue (emotional temperature)</div>\n<div>    ├── Saturation (intensity)</div>\n<div>    └── Luminance (energy level)</div>\n<div><br></div>\n<div>Phase 2: Transitional Morphing</div>\n<div>├── Feature Emergence</div>\n<div>│   ├── Selective detail magnification</div>\n<div>│   ├── Progressive mesh refinement</div>\n<div>│   └── Texture overlay blending</div>\n<div>└── Identity Anchors</div>\n<div>    ├── Consistent color signature</div>\n<div>    ├── Movement patterns</div>\n<div>    └── Geometric preferences</div>\n<div><br></div>\n<div>Phase 3: Photorealistic Resolution</div>\n<div>├── Character Model</div>\n<div>│   ├── Parametric face generation</div>\n<div>│   ├── Expression library</div>",
+  "context": "From document: AI Review & Expansion Prompt: — chunk 12 (chunk 12/25)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f193a3a0a188e43c3f5b1686778be1f5",
+  "relatedUnits": [],
+  "keywords": [
+    "phase",
+    "geometric",
+    "library",
+    "emotional",
+    "color"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

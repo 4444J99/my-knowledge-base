@@ -1,0 +1,24 @@
+{
+  "id": "8d858158-6f39-47ec-a7f8-e467e6a562c0",
+  "type": "insight",
+  "timestamp": "2023-11-14T17:58:12.000Z",
+  "title": "<div>I'm disgusted by most people and the people I'm not disgusted by are disgus",
+  "content": "<div>I'm disgusted by most people and the people I'm not disgusted by are disgusted by me</div>",
+  "context": "From document: I'm disgusted by most people and the people I'm not disgusted by are…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "6c57cc9b4a25b03ff9c706e5b09f7623",
+  "relatedUnits": [],
+  "keywords": [
+    "disgusted",
+    "people",
+    "most"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

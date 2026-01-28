@@ -1,0 +1,32 @@
+---
+id: 9bdb37d7-74e4-4b1d-86d0-cf5fe86a4c00
+type: insight
+created: '2021-06-24T19:10:13.000Z'
+document: b5de64ea907b6e44ec94b342683f3041
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - spisufnoo4
+  - >-
+    efk8ui4dek9hak1fxez1yniandot73j4xugx6gfv1fviaeyaeyhwrrwqao6gwwbgjcjukq8jl0pqoef8stkmjlzy32wstyioqf5jzveivr6i1gk
+  - sbjp
+  - >-
+    iqsavxhlsd3coba9hrkg6f8qdb5qfc3dijsa6mkcaivjrn8x1cw93xrrrtlzheonrxtxjza7qufz1dckvz3rwgbkzocjnwyod8sxs2bnfvkmkxfepffck7epcxdgfnv6lvfomt7jyc8wmhb1mtvrmd8u3xw
+  - evhia
+---
+# spiSUfnoo4+eFK8uI4dEk9HAk1fXez1YNIandot73j4xugx6Gfv1FVIAEYAEYHwrrWQAo6gwwBgJcJUk
+
+## Context
+From document: TODAY FEELS LIKE A REAL BAD GO — chunk 284 (chunk 284/940)
+
+## Content
+spiSUfnoo4+eFK8uI4dEk9HAk1fXez1YNIandot73j4xugx6Gfv1FVIAEYAEYHwrrWQAo6gwwBgJcJUkq8jL0PQOef8stkmJLZY32WSTyioQF5JzveIVr6i1GK+sbJp/iQSAvXhlsd3COBA9hRKg6F8qDB5Qfc3DijSa6mKcaivjrN8x1cW93XrrrTlZHEONRxtxJZa7qUFZ1DcKvz3rwgBkzOcJNwYod8SxS2bnfVkmKXfePffck7EpCxdgFNv6lVFOmt7JyC8wMhb1MTVRMd8U3xW/EVhIA+8V9VYVBjZD244FdfrP/GeNIK4ekUGJIHwBGYIIoIro1K72diAwhT9sscUWpXMWgvWqq67K9VmT2AWnlWhpr69f/9dn1kPmVPMusiRKIBAIBAKBQDUCQQhU4zO031q8eqlL/GOBZ3Eroc+ee+6ZZY5D2/ARb5jFGoNcwq377rsv78dMIl5nMdaPW2fkWuzwZHZK4GRBNN0Kw5/XD0lDKWMhbZEsFt/i20KUkfVv//ZvOTbaIpghyDAofhiFjAJGuaRufpxXd4HcirlFKE8kI1+GbnJZcbadCo81Y4G6h6cxSm8IIALgzVgRoz3//POnFVZYIXtbiz71Wx/7viAEPL8+m4qCqOBJNTYlszN2bd82kTmFkWieMpaWWWaZfFs+M28hL70/eIPtb18Voz4VePTzmrBFDgoR4DH2PMLZs7nRRhvl57LqeoxKGerNIWXGvrnYe8Dz7j3QzeA1T5lvzAedivpc1zxGYn/CCSfkc8qORxwoVcoO/U7BYAcUzwf1AdLU2JfrhNEsiWkTAso7Rl2MfmRS2RyJmLM2QWxsvfXWOQxlImO67P7LPvOORgZSV1AIRAkEAoFAIBDojkAQAt0xqjzC4s3LkIExGcXL/YYbbkhnnnlm4uGxuMHs8xaLPa6K+ZuM9g3qGhZ2ZK6yGYvZJHdEgsw333zZuzNoLwCvDmPzs5/9bM4Ez9A49NBDsxxxjjnmGNRtP6tebeDxlnisKinVs04csQ8K6T5jpZsKwuLv4IMPzv1i0W6BSwK8wAILZGOHka8OC16L8ckqpP8MDwmtPvKRj+RYWuOmrEi4RSpMSjzO/Vp27/36jMEjdwOv7fbbb5+fTV5de70je4a1IAEQuQgjBJa5zrzWrTBwvQuMr3YSiedYuEqRpd7zJHRFJniECCNzgw02
+
+
+
+---
+*Source: Document b5de64ea907b6e44ec94b342683f3041*

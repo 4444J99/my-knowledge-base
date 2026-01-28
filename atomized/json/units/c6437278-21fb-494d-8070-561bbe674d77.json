@@ -1,0 +1,26 @@
+{
+  "id": "c6437278-21fb-494d-8070-561bbe674d77",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><font face=\"ZapfDingbatsITC\">✔</font> Evolution occurs ONLY when XP milesto",
+  "content": "<div><font face=\"ZapfDingbatsITC\">✔</font> Evolution occurs ONLY when XP milestones are met.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Each evolution grants a new skill or ability.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Final evolution unlocks a unique “Archetype Signature Item.”</div>\n<div><br></div>\n<div>Example: The Archivist’s Evolution Path</div>\n<div><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Evolution Level</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>XP Required</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Unlocked Ability</div>\n</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Stage 1 – The Apprentice</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 196 (chunk 196/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "font",
+    "evolution"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

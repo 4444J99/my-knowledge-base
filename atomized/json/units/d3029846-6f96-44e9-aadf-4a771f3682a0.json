@@ -1,0 +1,26 @@
+{
+  "id": "d3029846-6f96-44e9-aadf-4a771f3682a0",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:44.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>All files in the archive carry timestamps or version numbers in their names as per the naming convention (detailed in the next section), which makes them immutable records – once written, a file isn’t edited but rather a new version file is created for changes. Cross-linking is done explicitly in text: for example, a session log might end with “(see World Alpha archive entry WAVE-STORY-LOG-ALPHA-v0_2)” or we might use a simple reference syntax to point to IDs of related artifacts. By keeping these references human-readable (and machine-parsable), any AI agent can follow the chain: it can open the session index to find something, then jump to a world file, from there follow a reference to a character file, and so on – essentially traversing a graph of knowledge that lives in plain files. We avoid opaque identifiers; everything is part of the **narrative graph**.</div>\n<div><br></div>\n<div>To help navigation, each archive subdirectory has a manifest (index) that is itself a simple text table or list. We might format manifest lines as CSV or Markdown table rows, e.g.:</div>\n<div><br></div>\n<div>```</div>\n<div>ID, Title, Date, Tags, Path  </div>\n<div>WORLD-ALPHA, &quotWorld Alpha Genesis&quot, 2025-11-23, myth, worlds/World-Alpha/World-Alpha-genesis.md  </div>",
+  "context": "From document: # Blueprint for a Self-Evolving Creative Operating System — chunk 24 (chunk 24/38)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "83dee6092ba3a8d02324ba12da038c25",
+  "relatedUnits": [],
+  "keywords": [
+    "alpha",
+    "world",
+    "file",
+    "archive",
+    "might"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

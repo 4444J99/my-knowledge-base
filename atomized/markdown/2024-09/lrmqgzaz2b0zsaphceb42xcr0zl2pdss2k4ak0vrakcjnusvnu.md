@@ -1,0 +1,32 @@
+---
+id: db0509e0-42f9-469f-95fa-1fe3598c42e8
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    lrmqgzaz2b0zsaphceb42xcr0zl2pdss2k4ak0vrakcjnusvnuvhos8rhb8jxqb1rav6kdaxrhr6z7exx0c61k9ujx7uubs7rpkwhna1asvizdw1k750v66
+  - ubeqwjfw0v2ubk7
+  - b4bzbkt3r9x
+  - gplf4fvsbt9fm4fudbaxkioodnz96c5b9qxjml6gdfo6e9nlbts1d
+  - >-
+    dsjid6wz7nrqpke96napz4ikjj3qkewdc1dnqac6h7o6mmykjtwrxceusfmc2lno7txgdztmm8n4ufcbm3dsqmm7ulxz7we5u9tk9
+---
+# lRmQGZAZ2B0ZsAPhcEb42xcR0Zl2pDsS2K4AK0vraKcjnUsVnUVHOs8RHb8jXQB1rav6kdaXrhr6z7Ex
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 5537 (chunk 5537/11534)
+
+## Content
+lRmQGZAZ2B0ZsAPhcEb42xcR0Zl2pDsS2K4AK0vraKcjnUsVnUVHOs8RHb8jXQB1rav6kdaXrhr6z7ExX0c61K9ujx7UubS7rPkWhna1ASVizdw1k750v66+UBeqwJFW0V2ubK7+B4BzBkT3R9X/GPlF4fvSBT9fM4FUdBAxkIOOdNZ96c5b9qXjml6GDFo6E9NLBtS1D+N+dSjid6WZ7nRQpkE96nApZ4iKJj3qKEWdC1DnQac6h7o6MMYkJTwRXCeusfMC2lno7TxGdzTMM8N4uFCbm3dsqmm7uLxZ7WE5u9TK9/J8ZAZkBvzLQHHvNgX6dHf4zQLL5YVwVijOmTbODyB3RWd8bRPLVV+KjnbPx4cHl0dmHht5PPXM+tjQU6nPTD8x+czqb62P3jqz+vxacuzI2OmN+lfalweu2jW0hNeV/Oo25xjOEf0cZedoZmspAueQqqx1hYVzgOggRmc6zieIlg4huvuH1kaX+7b2T6K+dJMty31pKzinmltiIKeHc2gGIU9/O8/lzC3B6tOonxslKjqefs5p5zlT/VxOOUchuvNljOj8w3Jw5LrrkcrI3G6BcxLI2UKJRO0X6Y5ci2xTmI5Gdm+Rb5E4hHO/ZUlgvGgiOh99RMO5zqV4OC71czl4Vpj/tSrC7o6StbxKmQGZAZmB3ZIBPnLDGbCztlwRnZ2OdPkRndOOdHkRnWd2lz8yIrqqH2NcZwLq3CO6WEV+LR3BcgDnTBBdrQmi0+wuWVCnt7tE0C5yqRIjujcsEZ11X7qPK98LTzZQsfFLlT8N32l8jcQPtRi9iN9gjb5CxQ84iM4a1Alr6axNL01A3S2M5UBFZ6KlcwrqNuvHrK0vY9dJKQpUdHTMaelU60suqOMYYFrYYOJ+dRFcngMVHRv1/ep0hTzSzY7tWMOZAUMts4gBW04BgMfONAS5bnasURitWjAde6a9owGe9TiH8WikByo9iB4itwIVwT3FhPKcZQZkBmQGDBngoTKf5hF+Q0c2RNMniArq2KePNuPsuUY/GXNj8x5y9LOVa1xJ6eT0WA5605rCOb5aLjbav3xk9unUC6tfnPrM6hdSX1vjxOnPZF9e+9rUC9mX1r46dSR2anViuvp/Rm93w18s+oj+zolHaBcBBs7lrCwxZIqFkCqus1WLsQwem8SEZ8o5f+HcMg3ngtdrV1rHsJaubaX7
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

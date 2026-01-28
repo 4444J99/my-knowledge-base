@@ -1,0 +1,26 @@
+{
+  "id": "679bf414-cbde-443b-a94c-d1d441185bea",
+  "type": "insight",
+  "timestamp": "2024-02-29T18:42:04.000Z",
+  "title": "<div>  - Estimated Hours: 3 hours at $80/hour.</div>",
+  "content": "<div>  - Estimated Hours: 3 hours at $80/hour.</div>\n<div><br></div>\n<div>Additional Services:</div>\n<div><br></div>\n<div>- Adaptive Marketing Strategy and Client Collaboration: Adapting strategies based on market shifts and maintaining alignment with the Client's vision.</div>\n<div>  - Estimated Hours: Consultation and strategy, 5 hours at $75/hour.</div>\n<div><br></div>\n<div>- Web Hosting and Maintenance: Assuming responsibility for website performance. Tools: Included in Marketing Tools Fee.</div>\n<div>  - Estimated Hours: 2 hours at $50/hour (maintenance checks and updates).</div>\n<div><br></div>\n<div>3D Scanning and Drone Footage: Engaging local contractors for specialized services at an additional fee.</div>\n<div><br></div>\n<div>3. Costs and Fees</div>\n<div><br></div>\n<div>- Service Provider Fee: $2,500/month for the provision of marketing services detailed above.</div>\n<div>  </div>\n<div>- Marketing Tools Fee: $1,000/month, detailed as follows and requested in Week 1 alongside the Service Fee and Ad Spend Allocation:</div>\n<div>  - Graphic Design, Social Media Management, SEO Tools, Email Marketing, CRM, Miscellaneous Tools, and Landing Page Builder.</div>\n<div>Ad Spend: Additionally, the Client will allocate $4,000 per month for ad spend, directly managed by the Service Provider for paid advertising efforts.</div>",
+  "context": "From document: Statement of Work (SOW) for Marketing Services for Florida Luxury… — chunk 3 (chunk 3/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "06939a5ef86dfd2551bc8549e488274a",
+  "relatedUnits": [],
+  "keywords": [
+    "hours",
+    "marketing",
+    "tools",
+    "estimated",
+    "hour"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

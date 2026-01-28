@@ -1,0 +1,26 @@
+{
+  "id": "2c582468-44f2-46cb-8d92-26fe9028abbe",
+  "type": "insight",
+  "timestamp": "2023-03-16T12:16:03.000Z",
+  "title": "<div>Write a five-paragraph cover letter using information from the resume and a",
+  "content": "<div>Write a five-paragraph cover letter using information from the resume and attached job posting. Highlight my extensive education and how it informs and helps my standing. Also, highlight how my previous experience translates to the job I am applying for. </div>\n<div><br></div>\n<div>Job Posting: “</div>\n<div><br></div>\n<div>“</div>\n<div><br></div>\n<div>Resume: “</div>\n<div><br></div>\n<div>“</div>\n<div><br></div>\n<div>Revise the cover letter;  Incorporate (when logical) the following vocabulary:</div>\n<div><br></div>\n<div><br></div>\n<div>“ </div>\n<div><br></div>\n<div>”</div>",
+  "context": "From document: Write a five-paragraph cover letter using information from the resume…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "3525c3508a7482e356b5d52911768e03",
+  "relatedUnits": [],
+  "keywords": [
+    "cover",
+    "letter",
+    "resume",
+    "posting",
+    "highlight"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

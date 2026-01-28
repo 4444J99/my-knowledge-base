@@ -1,0 +1,26 @@
+{
+  "id": "f7ea28a1-dbb2-431e-b093-16989bb34c70",
+  "type": "insight",
+  "timestamp": "2019-05-16T17:37:19.000Z",
+  "title": "<div><span style=\"font-size: 21px\"><br></span></div>",
+  "content": "<div><span style=\"font-size: 21px\"><br></span></div>\n<div><span style=\"font-size: 21px\">This example, which falls far afield from the work that students will produce in their classes, nonetheless might help them under-stand that facts can be arguable. They may, however, find it difficult to come up with topics of their own that are manageable in the pa-pers they’ll be writing for class. Research will play a crucial role in developing good factual arguments, and the brainstorming exercises included below should help them sort out which arguments would be particularly viable for a paper.</span></div>\n<div><span style=\"font-size: 21px\"><br></span></div>\n<div><span style=\"font-size: 21px\">Ch 9</span></div>\n<div><span style=\"font-size: 21px\">A traditional legal example of stasis theory’s practical application concerns a missing urn. This example works well in the classroom as an introduction to arguments of definition: an urn is discovered to be missing from a house and is found in the house of another per-son. At the level of fact, there is agreement: the defendant has the urn that belongs to the plaintiff. But there is considerable disagree-ment about definition: the plaintiff argues that the urn was stolen, whereas the defendant argues that it was merely borrowed. The case can go no further until the parties settle the question of definition. Only after the parties have defined “theft” and “borrowing” and only after they have determined which term best applies can the case move forward.</span></div>",
+  "context": "From document: EAA Chapter INTROS — chunk 7 (chunk 7/18)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "96eb322624e76b9b2f5ac7aabacd881c",
+  "relatedUnits": [],
+  "keywords": [
+    "span",
+    "that",
+    "style",
+    "font",
+    "size"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

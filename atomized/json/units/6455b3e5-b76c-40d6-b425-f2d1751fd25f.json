@@ -1,0 +1,26 @@
+{
+  "id": "6455b3e5-b76c-40d6-b425-f2d1751fd25f",
+  "type": "insight",
+  "timestamp": "2025-10-13T19:10:40.000Z",
+  "title": "<li><b>Project Idea:</b> Create a website and Twitter account for a live stream ",
+  "content": "<li><b>Project Idea:</b> Create a website and Twitter account for a live stream project.</li>\n<li><b>Next Steps:</b> The You should create the website and Twitter account first.</li>\n<li><b>Coin Launch:</b> John Monforte will launch the coin and help with the live stream after the website and Twitter are ready.</li>\n</ul>\n<div><br></div>\n<div>---</div>\n<div>Call2</div>\n<div>___</div>",
+  "context": "From document: Call1 — chunk 3 (chunk 3/3)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "df92bf906f3ff014f9b28a160fe3fad6",
+  "relatedUnits": [],
+  "keywords": [
+    "website",
+    "twitter",
+    "project",
+    "create",
+    "account"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

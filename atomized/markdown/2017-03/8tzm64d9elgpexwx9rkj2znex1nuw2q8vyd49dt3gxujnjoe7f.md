@@ -1,0 +1,32 @@
+---
+id: 967ee98b-5ee4-4368-b3ae-4bbdc0d0404a
+type: insight
+created: '2017-03-03T03:57:06.000Z'
+document: 0f5a61a6fb83412f6aa40e5b9176bdd3
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    8tzm64d9elgpexwx9rkj2znex1nuw2q8vyd49dt3gxujnjoe7flgi6mg9ex9fjvovi3peut7f4ax78xyuqd64jvyplh7nr0awxjala3ecdennqnwbr36wtktanj3j18eyfekoizlz7s0ib423kzb21qqmtow3vhc6kgaiqk1sh7fz8ww538gecepdhnxd4hzmunohzke2kw2zlizfisxxaos7zufkxsrg28dfupbrw
+  - k7dh7
+  - xsj8s
+  - fnbrfn
+  - >-
+    bwzbpj7k309cc9tfvy9tzl0eoh33sb7bcywurjdb3acoiodeurex6d33bmg6sdnnljb2j8gn5wc9l4phoe9xwzuo9thrhbpzidpnpsklt8lp1yposqpx
+---
+# 8Tzm64D9ElgPexwX9RKJ2znex1nuW2q8VYd49Dt3GxuJNjOe7fLgI6mG9EX9FjVOVI3PeUt7f4ax78xY
+
+## Context
+From document: New Note — chunk 884 (chunk 884/1653)
+
+## Content
+8Tzm64D9ElgPexwX9RKJ2znex1nuW2q8VYd49Dt3GxuJNjOe7fLgI6mG9EX9FjVOVI3PeUt7f4ax78xYUQd64jvYpLH7Nr0AwXJALA3EcdEnNQnwBR36WtKTANJ3J18EyFekOizLZ7S0ib423kZB21QQmTow3Vhc6kgaIQk1Sh7FZ8wW538gecEpDhnxD4HzMuNOHZkE2KW2zLiZfISxXAoS7zUFKXSrG28dfuPBRw+P/K7Dh7/Xsj8s/fNBrfN/+Y6u/BwZbPJ7K309cC9tFvy9tzl0eOh33sB7BcywurJdB3ACoIodeUREX6d33Bmg6SDNNlJb2J8gn5wc9l4PHoe9XwZUO9thrHbPZIDpnPsKlt8Lp1yPoSQPx//o9Mfxz7gK2NuexsBXQh7Xg7zIQTfe6EY+cR3xRYGbV2TazXEBtwm8hA4TdRrkCb2wgibbDE4RCWQn3osdT7ixnDAKhlZI1tf1Q4aEoM+oW2esNHipo8elPQ/XnvPIFwrJ6eQVX3DsNuMb4jqFJojPjfsYPh/adNAeACz5s0Vr/2/WJJUmhZZpI8laLp+uUCTXjdWXju0q7eWiCVVRnt2XAGr11K/zW3eqZf3IvxKqn5d04vHRwkX54ZnSfU2LJ3TrqnNrXjkrJa4NTK2xPkOMHe3TCNXhTwMkngaEv+YFr3HSKy84R+TASzyh4qGl4SMXnuDwEK/5ggOTFz7KzEwS8XUf7PDVKcdNgpsBEwF84rft0Nax4IbN1cwnQdywbWbdpH2RK0K8f8IoDkX7DSntUW8+eXj4oYHTn7K4CQnfqo6D80ggNLVpi7ei9NviFEKAd4qnTCuCYgTB0OfipDfOxl4iNV9hGVHrgJ7YTlRmw7Ehk2Cbe2dmp2xlG4iPT9nIg/kIli+a/sdAvQkGXZfYAtbxXKdM0nVw84ydwckLJBiKh7I44uCv0PpzDigd29sgEgKdABx1sGKNfiB+0TE2sm6T+IHQaVHm+rOAThuHXBdEcr77/OJi69cwHVjjXBMt2+J3fVuA5X9udCO9sVYCzgOcHUwO7E34xje+MbOEEHl4K3HbNjrSi7CwwPq2AP3cM88803tgsDnw3/7t3459bmrGm8B8KcBEwBOe8ITFly/ru7kX2i8sMPBVwGn6qufUU08dPvWpT/lrgLe+9a3DOeecM3z6058ephsHs1kwjvcf+7Ef8/4A
+
+
+
+---
+*Source: Document 0f5a61a6fb83412f6aa40e5b9176bdd3*

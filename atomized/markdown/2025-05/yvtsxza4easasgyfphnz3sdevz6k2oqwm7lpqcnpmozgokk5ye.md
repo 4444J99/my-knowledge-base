@@ -1,0 +1,32 @@
+---
+id: 77d67d7e-e344-48cf-96f0-9fb0e3cc82d6
+type: insight
+created: '2025-05-15T00:56:03.000Z'
+document: 084f9bc77d1d8854a07a52206c286278
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    yvtsxza4easasgyfphnz3sdevz6k2oqwm7lpqcnpmozgokk5yegbap5vaszb20mjaos3t05eiinngd65ydi9evvvpzm8fs85555q
+  - >-
+    zyoax6dsdyt9aalyu4r5bngnren1fwsbm0wyc3ygezzj1j9kf4sew3luvojepcfubhjjgfz61lzakhuxgrf0gedxnhxirn2hrmnzkwvf4jk
+  - lgjoqrwsapwzwvwiniscprsxz
+  - oiqgwvpnlvba7wdpg7h99mkh9qfypnvt1uzkutkygrrudlkadgvxw
+  - gu9bai
+---
+# YVtSXZa4EasAsgyFPHNZ3sdEVz6k2oQWM7LPqCNPMozGokK5YegBAP5VasZb20mjaOS3t05EiiNnGD65
+
+## Context
+From document: Grokking Algorithms for OS — chunk 166 (chunk 166/402)
+
+## Content
+YVtSXZa4EasAsgyFPHNZ3sdEVz6k2oQWM7LPqCNPMozGokK5YegBAP5VasZb20mjaOS3t05EiiNnGD65YDI9evvVPzM8Fs85555q/ZyoAx6DsDyT9aalYU4R5bNGnrEN1fWsbM0WYC3ygEZzj1J9Kf4SeW3luvOjePcFUbhjJGfz61lzakHuxGrF0GeDxnHXirn2hrmNzKWVF4jK/LgjoQRWsapwzwvWIniScPrsxz/An/oIqGwvpNLvba7wdpG7H99MkH9QfypNVt1uZkuTKyGRRuDLkADgVXW/gu9BaI/u5tPOcs6/vAxPQA57ceuOM1sppnM6UlrY3PF1wk2o28kbbke3VgR3BJrU8ITbdHk5/5bt/IVxUa31+kKxwuyxpsR2GxcZJxk9eT2resJ7nQtKka4SFlWTexWRuhwOyn+VLnitLk8kux2omzWB4yucWdtD/AH5C5/4CP/r1LHqbq6i4gEO44y8y8ds47isPxTdCbU4kVgRFEP15/liqUk9hOLW5Xe0x4dhuscvcuufbAx+qn866HwXPusbiD/nnJuH0I/xBqGa0A8BwqR8yKs3Hu2T+jGqng6fy9WliJwJYsj6qR/QmmIpeIHMmvXZPZwPyUCuu8MqF8PWmB95S35kn+tchr6lNdvARyXB/MCuv8NMG8P2nspH5EigRqU1/9W30NOpr/wCrb6GgZ5dH1T6j+dep15ZH1T6j+dep0CRxHi//AJDQ/wCuK/zNW9IbZ4KvyPWQfoBVTxf/AMhof9cV/mataSC3gm/A/vSH+VMDE0gZ1mxHbzlP9a9IrzjR+Nasif8Ansv+f1r0ekM801RManeL285x/wCPGui8QMX8K6cx6kxn/wAcNc9qhB1W9YHjz5P/AEI10GvKV8J6cp6jywf++DTEcuImkjkZQdqAbz6ZPBrpbnUhqXg5y7ZmiZEk9zuGD+I/WqnhW3S7ub63lGUktwrD8azZxPp0l1ZSHGSFkGPvYOVP+fX3oAv+E/8AkYI/+uT/ANK7uuE8J/8AIwR/9cn/AKV3dIYUUUUAFFFFAHyVRRRVHKFFFFABRRRQAUUUmaAA1NaTGESELubHAqBiAMnpWjBawW0v72QNLw6oOcD1JFRNpI3w8HKV0WoYt1srNwzAZ56Vnyh4ZjvHU8EHtWkJFdS6MGFVbqI3KcffHKn+lc0HrqerKPu6GcpC3ZA
+
+
+
+---
+*Source: Document 084f9bc77d1d8854a07a52206c286278*

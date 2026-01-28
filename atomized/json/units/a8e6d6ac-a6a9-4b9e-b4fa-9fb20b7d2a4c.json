@@ -1,0 +1,25 @@
+{
+  "id": "a8e6d6ac-a6a9-4b9e-b4fa-9fb20b7d2a4c",
+  "type": "insight",
+  "timestamp": "2021-12-24T03:15:46.000Z",
+  "title": "<div>Christmas Vacation</div>",
+  "content": "<div>Christmas Vacation</div>\n<div>The Thing</div>\n<div>Covid</div>",
+  "context": "From document: Christmas Vacation",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "648f06fd49aae5862adf77ead061133c",
+  "relatedUnits": [],
+  "keywords": [
+    "christmas",
+    "vacation",
+    "thing",
+    "covid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

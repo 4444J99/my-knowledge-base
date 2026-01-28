@@ -1,0 +1,33 @@
+---
+id: 392ee088-0212-4e31-8183-20ce0a2c3d1a
+type: insight
+created: '2019-04-16T14:05:00.000Z'
+document: 0c34a8b78e60a6c1ecbdc7504f7c4c39
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    xnrkwodbtv9osvqhwjqq5hyq0uqrg6pi6dxcakox2emusfy3vjhtnhpdrizozclvgwnhwooostsqh9opsx3caugydxlz1mn4znotuphkmsjbitxkb
+  - >-
+    aaevw0uqauk5idwvvzbyvpustsu9wg6mixhm5bhwnpsjzjvw0pc0hsvc4g6dqlxidueql7lo6p1oconyx0fq8mpkfwq0l9ttoin3ocxf0o3qdu
+  - >-
+    k3jqngmzx1jvuhmlmbygzgukuu7vidygfcbkkgbhov3rnooxrnbdqc4usld3fe6xel2e246dk0koj6
+  - giyejuoo5ivsrunprf6tzrantnkkeov70ii3aitxknthgc9c7
+  - qljsmkvsl6zc9bpdtaqhtacupg8ku26hljahcpkhedwunlob
+---
+# xnrKwoDbTv9oSVqHWJqQ5HYQ0uQrG6pI6dXCakOx2EMuSFY3VJHTnhPdrIzozclvgWNHWoOostsqH9op
+
+## Context
+From document: Reverb Cheatsheet — chunk 369 (chunk 369/770)
+
+## Content
+xnrKwoDbTv9oSVqHWJqQ5HYQ0uQrG6pI6dXCakOx2EMuSFY3VJHTnhPdrIzozclvgWNHWoOostsqH9opSx3CauGYDXLz1mN4znOTUpHkmsjBitxkb+Aaevw0UqAUk5iDWVVZbYVpuStSU9wG6mIxhM5BhWNpsJzJVw0pC0hSVC4g6DQlxIDUeQL7lo6p1Oconyx0Fq8mPKFWQ0l9tToiN3oCxf0o3qDU+K3JQNGMZx1jvUHmLMbygzguKUu7vidYGfCbkKGbHoV3RnoOxrNbDqc4Usld3fE6xel2e246dK0koJ6+GiYEJuOo5ivSrunPrF6TZranTnKkEov70ii3AitxknThGc9c7/QLjSmkvsL6ZC9BpDTaQhtACUpG8KU26hLjahcpKheDWUNloB/hcWkdwGshDjtxmvmtpupTEphEhlWlDibxWUFloxcCnFkdy+kttIS22kXJSkXAVkJkduS181wX0Hm7Lbxj+0UpY7hN1YnVoaRovUbhWqRba0uILSLlJN40J1lJUL0qFxFZCGwiOzffgQM1PbFjoYyqsa8A6Y8NOMupDjTiShSToINIjxmkssI6VCdArITGESGb8WBYzX0sf95FR9nwm5Cg2AF6Fd0Z6ykGA2y7/AGhvUrumnGXkBxpxJSpB0EUG2kojRWhmGhKRVl6nYbqJCnnw7IU2cWTbHn9d+koSMKUi4Ab2sQdBrIQ2ER2b78CBmpT8mzW1OqzlSFKRf3pFLYhQ2mG19MAL8XXO/UhhiCyyzIFzqEJuCxx0iPHbSyyjMlCdApua1F2UyHQl7P0ieGkzUxYM8Lz5UtJUe3Vk6mLOwLWZAW6lnpWkDrdcntaxekWa2XVZypBUi/vSKKYENuNi0lPTHt6ajuSY6Hlx1Y2iodIeEa0Z+Qwh12OcTS1DOg8XcFFKgFJOYg0XF2W2FfwLUgdwG6shCjtxmvmti6+ixMjtyWvmuJvrKCy0E/xOLUO4TSW2kJbbSLkoQLgKyk6A285/aZ0q7ooOw7ObbdGhar1qHWJ/ZFt9jeZrqt/km+arU5VHMeq9U/L/AH19QsCe2peRvwYVlN191/NSxAjBpS+mWTiUe2eoo3J/0ldUBu0IqJAHSk5lJ6x00FGK44BoQt5V1IZYbSy0gXJQgXAfu7qc5RPljoHIspvKsOC5SDv1smDCSw/dhxhSjm7Z6p2NNZD7F+L
+
+
+
+---
+*Source: Document 0c34a8b78e60a6c1ecbdc7504f7c4c39*

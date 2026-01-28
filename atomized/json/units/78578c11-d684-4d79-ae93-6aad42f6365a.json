@@ -1,0 +1,26 @@
+{
+  "id": "78578c11-d684-4d79-ae93-6aad42f6365a",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div># Backup current settings + extensions</div>\n<div>./scripts/manage-vscode-transparency.sh backup_settings</div>\n<div><br></div>\n<div># Apply minimal transparency stack (uninstall heavy cosmetic extensions)</div>\n<div>./scripts/manage-vscode-transparency.sh apply_minimal</div>\n<div><br></div>\n<div># Preview actions only</div>\n<div>DRY_RUN=1 ./scripts/manage-vscode-transparency.sh apply_minimal</div>\n<div><br></div>\n<div># Restore everything from latest backup</div>\n<div>./scripts/manage-vscode-transparency.sh revert_backup</div>\n<div><br></div>\n<div># Ensure backed-up extensions are installed</div>\n<div>./scripts/manage-vscode-transparency.sh sync_extensions</div>\n<div>```</div>\n<div><br></div>\n<div>**Next Optional**</div>\n<div>- Add a profile auto-switch wrapper.</div>\n<div>- Include logging to a timestamped run file.</div>\n<div>- Extend merge logic for selective key removal (if you want to purge old vibrancy keys cleanly).</div>\n<div><br></div>\n<div>Want any of those enhancements? Just say the word and I’ll add them.</div>\n<div><br></div>\n<div>Made changes.</div>\n<div><br></div>\n<div>User: i dont even understand what is wrong with vs code that this is necessary; do all you can inside the softwatre</div>",
+  "context": "From document: User: fix — chunk 27 (chunk 27/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "transparency",
+    "scripts",
+    "manage",
+    "vscode",
+    "extensions"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

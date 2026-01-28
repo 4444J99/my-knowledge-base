@@ -1,0 +1,25 @@
+{
+  "id": "d13a05f3-891c-403a-a57f-9cac06b7e745",
+  "type": "insight",
+  "timestamp": "2020-10-09T16:17:09.000Z",
+  "title": "<div>I ain’t right or left</div>",
+  "content": "<div>I ain’t right or left</div>\n<div>I’m better of two evils</div>",
+  "context": "From document: I ain’t right or left",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "7e0948c4fb2582e7278aa1c52df0d8d8",
+  "relatedUnits": [],
+  "keywords": [
+    "right",
+    "left",
+    "better",
+    "evils"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

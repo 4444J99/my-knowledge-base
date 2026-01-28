@@ -1,0 +1,32 @@
+---
+id: 8e3ae004-8327-4784-afd4-337d93d6e0e8
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ddxv1b8armo9tccqbr9
+  - 9u2wvs
+  - o9texj6c90n29pydtgo2a7ydtgo2a7ydtgo2a7ydtgo2a7ydtgo2a7ydtgo
+  - >-
+    kidsmdqbwtyfwdvvoztrzsdvsmlicbvcxfxzde3ymaqw6naadunwdvhvtdolsfvcyfutcozv1ebvuufvnwqqvu3wnunwgw3vyfv2uvv5
+  - >-
+    k0kpcqvgfvtrvivdsevgwsyvxjnasqcxnwdeswyscqhlxnxebvrsaoao41rbomvov5bljfbu41vb734lrkxuogqkqn4vm3sfwgvfm1lgrmdjiatvcbvqfvbvivfqa1fgwqvnazuyzmw5mzgkrxy1iauz4zazlxecpgpt5hxqw65zv6lpo
+---
+# qlX+ddXV1b8arMo9tcCqBR9/C/9u2Wvs/O9TeXj6C90n29PYDtgO2A7YDtgO2A7YDtgO2A7YDtgO2A7Y
+
+## Context
+From document: New Note — chunk 20124 (chunk 20124/21099)
+
+## Content
+qlX+ddXV1b8arMo9tcCqBR9/C/9u2Wvs/O9TeXj6C90n29PYDtgO2A7YDtgO2A7YDtgO2A7YDtgO2A7YDtgO2A7YDtgO/KIdsMDqbwtYFWdVVoZTRZsdVsmlicBVCXFXZde3YMAqw6naadUNWDVhVTdolSFVCYFUtcozV1EBVUUFVNWqQVU3WNUNWGW3VYFV2UVV5+K0KpCqVgFVTRVIVdSEVGWsYVXJNaSqcxNWDeSwysCqhlXNXEBVrSaoao41rBoMVOV5BlJFBU41Vb734LrkXuoGqkqN4VM3SFWgVFM1lGrmDJiatVCBVQFVBVIVFQA1FGWQVNaZuYZMW5MzGKrXy1iAUZ4zazLXEcpgpt5Hxqw65zV6LPO/pPKHqtv55MOW52SN1NzGek5yOVbGol51mbf663WAIVWOGA5yV43Inoq8hYeb3VUJWGVn1QJHBVRlbYJVWwCrDK6ecqJo+WmMfeIMpj5/Dg9tuYBHX77kxENbLmHq+vM0x5CqGeyySkGQaktQ1Qes8jUk1L6M/mGFBPuZkKo5JviyCQYNrm7AqlvN2NMBPFXNgE795w11nXm9dJwPUmWQ1Jf79mwD8OiHGHkvDaGaYz3XhlxATFF9rnZAly2vuQ3Xpa8jaC5wqqh5Pl3XublOjf2vPcT15jX6j1d7mms8xpdP7wG7p4qDqs4FYmVQVWLThgVYt3oWli6qwtTGHIwrj3fcVWfOLCf+6WFs27oWO17eiOfWrSKX1cXYsmUDvvz6OC58d9UBVr8nIPUaQ6vXyGmVwnFapf9Pv06wKscPNH/x0lUcOvwVvvzqG5w4ddaJ/Qe+wDtvv4fXXnkd75H76kcf/Q3vv/s+3nr9TWzasBGLFy5CdUUZirJSkJ1KsGpcFOKjRyCRgNWM1CHISBuCpMT+uCs9ux84kglATUztQS6q3QhOvRfh0X/A6Mjfkd6NyLhu/ohK4DXdwc6qDKzGkzNrbEIXZBJsOqEyFpMnZWIiaXHOMIzJIGA1exgYXC1L6YfyZB+sWk7A6ljaZ2zMPSiP64IJST0JWu2HSZn9MTVnUJO76gDUpRHQmnI3qilqCUitT++ORrrOxszemELXPC13ACbn9EV9Vk/UpHdtBbDagQ6rbQRXGVD1uaqyw6rPZfXXd1i1wOqRI0fAwc6qEl988QU4Dh8+3CIOHTqEgwcPtogDBw5g//79
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

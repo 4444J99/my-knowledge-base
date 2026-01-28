@@ -1,0 +1,24 @@
+{
+  "id": "6f8abc7e-7a8c-43e7-ad3e-af039f03d98c",
+  "type": "insight",
+  "timestamp": "2025-07-15T01:11:49.000Z",
+  "title": "<div><h1>Call with Rocco</h1></div>",
+  "content": "<div><h1>Call with Rocco</h1></div>\n<div><br><br></div>",
+  "context": "From document: Call with Rocco",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "976948b5357d75373f4f4943a3c90dea",
+  "relatedUnits": [],
+  "keywords": [
+    "call",
+    "with",
+    "rocco"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

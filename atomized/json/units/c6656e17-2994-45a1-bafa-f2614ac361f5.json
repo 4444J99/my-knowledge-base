@@ -1,0 +1,26 @@
+{
+  "id": "c6656e17-2994-45a1-bafa-f2614ac361f5",
+  "type": "insight",
+  "timestamp": "2025-11-23T04:21:32.000Z",
+  "title": "<ul class=\"Apple-dash-list\">",
+  "content": "<ul class=\"Apple-dash-list\">\n<li><b>2.1 High-Level Themes</b><b><br></b></li>\n<li><b>2.2 Role of Conceptual Inputs</b><b><br></b></li>\n</ul>\n<li><b>Technical and Procedural Components</b><b><br></b></li>\n<ul class=\"Apple-dash-list\">\n<li><b>3.1 Operational Elements</b><b><br></b></li>\n<li><b>3.2 Purpose of Procedural Layer</b><b><br></b></li>\n</ul>\n<li><b>Project Organization and Implementation</b><b><br></b></li>\n<ul class=\"Apple-dash-list\">\n<li><b>4.1 Organizational Elements</b><b><br></b></li>\n<li><b>4.2 Importance</b><b><br></b></li>\n</ul>\n<li><b>AI Handoff Context and Constraints</b><b><br></b></li>\n<ul class=\"Apple-dash-list\">\n<li><b>5.1 Essential Context</b><b><br></b></li>\n<li><b>5.2 Recommended Prompt Flow</b><b><br></b></li>\n</ul>\n<li><b>Summary Flowchart</b><b><br></b></li>\n<li><b>Quick Reference Appendix</b><b><br></b></li>\n</ol>\n<div><b><br></b></div>\n<div><b>---</b></div>\n<div><b><br></b></div>\n<div><b><h2>1. Context and Objective</h2></b></div>\n<div><b><br></b></div>\n<div><b><h3>1.1 Purpose</h3></b></div>\n<div><b>Instructions:</b></div>\n<ol>\n<li><b>Write a single sentence stating the AI’s main goal.</b></li>\n<li><b>Ensure the statement is clear, specific, and actionable.</b></li>",
+  "context": "From document: ]||||/\\\\vvvv//\\.../\\/\\---/\\/\\.../\\\\vvvv//||||[ — chunk 5 (chunk 5/96)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "751d0ce44738c7033755a28c7169e646",
+  "relatedUnits": [],
+  "keywords": [
+    "class",
+    "apple",
+    "dash",
+    "list",
+    "context"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

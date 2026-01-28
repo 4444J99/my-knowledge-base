@@ -1,0 +1,31 @@
+---
+id: d6383a77-4eac-4ce0-8358-12a97a1b302a
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - osh5xxzbqt
+  - zlwjf9gvmcdihisn9o4iz9qg4ege96xjmozw1v5wu
+  - atzmzb0zqr9npvrxibadpwmyrvvywms3mwlqhxmt6dizrnemltyf58fgtr4flng
+  - mt55whrgksvyzfa6wtx5kdwvkwshtnenwpdhiw0zmdaj0am2zbb0rlzyy5x5ks7jgw
+  - >-
+    bfsoo3padgnvlgjl0eidterko2ouzhymuz826myss5rysgbxkpgxezkvyrpfsqjzktoyu9itzf3zuec2uxglvnrmrduf7gcm5dsj4x4aorw65nqkftqckhtni6xmqoxqulrtbvndm4lchjyf
+---
+# OSh5XXZbQt/Ln/6/ZlwjF9gVmcDIhiSn9O4iz9qg4egE96xjmOzW1v5Wu++aTZmzb0zQr9nPVrXibadp
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 6551 (chunk 6551/11629)
+
+## Content
+OSh5XXZbQt/Ln/6/ZlwjF9gVmcDIhiSn9O4iz9qg4egE96xjmOzW1v5Wu++aTZmzb0zQr9nPVrXibadpwmYRVVyWmS3MWlqhxmT6DiZrNEmltyf58fGtR4fLNG+mT55WHrGKSvYzfa6WtX5KdWVKwSHTNenWpDHIW0zmDaJ0am2zBB0rLzyy5X5kS7JGw/bFSoo3PAdGNVlgjl0eIdterKo2oUZhyMUZ826Myss5rysgbxkPgxeZkvYRPfSQjZktoyU9itzF3ZueC2UxGLVnRmrduf7gCM5dsJ4X4AoRw65nqkFtQcKHTNi6xMqoXqUlrtBvndm4LCHJYf/CHq3xDIyYnbV60Jm60AebTvbaGPvqbHJFWHZz+8pwkhA/UW6vix6cY3aQR2GF5gVmH3umv4OaGMIHS6acksGk69ogbUbdK7rO+4h8DlVuZXNkGTML9pzflKNKu+03ih8AoW+sbEnzMVYgogmvTZ95AyOOBs5ZjgoxjXOR4cbOqqLUKq/jLh7+YpVtAZxZsefNXriWWr/YirZOnVe2KfZZcgeWtdFP5fVG9jNNRwyqSLapeYO+sk31bUFb0VuebPQqHPwDPrzPijm/GLHffubkmaNnz7/1v/zlC//jb/7il3/xqT//5f2L+xf3Xsd/6n7z/Tfxhb9v/+t/vmDc+AuVy7iknsKPTNgKtDjvka+wUNYmOyXBUtxjAa/RVutgHgmYLKZ7dMbdTKljUGZ8j9n0OEKrN3DBh4zp8R6CV++qCK2xQh180VpFa8eKX14rCwXtu0VdoS+zx3tjNh2juWDWCoyWaDj0dMy+ecaX3lzdcuc/Av7g1t0H7756980LfNTioUYcfijicr6Y2XvRnxn98VAd16I7JNptVK+l4hNFfIi/yWBWPTLF+G+tEgf053KXpCg9m3j3gZyIBpSQftEeRZe2KLqE+Q/woAgotTH55WkPyWMaFdciiNOf6IldOjmnyukbN77x/Dd+/aV//tJzX3qeP9vx3usY6G/dfw2vuv/P3/4fEnCmruslMLqwJISWomDrrE4srSimsiDjdd484GfMXjhkdmjaQSroNfSsTKCDHYzSwZujZnJyjpoW5i6/4rTRavyIbjZttB6M2h+Hrhjnzs1eFndJr25wtMMSPJDChyhQdgMHe+zPvX3j7efOPnvrs8NnX3/37N3zd19D3UwY8v2giv8N
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

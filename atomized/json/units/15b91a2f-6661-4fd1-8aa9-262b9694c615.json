@@ -1,0 +1,26 @@
+{
+  "id": "15b91a2f-6661-4fd1-8aa9-262b9694c615",
+  "type": "insight",
+  "timestamp": "2023-09-11T14:36:12.000Z",
+  "title": "<div>Aetna Medica ID</div>",
+  "content": "<div>Aetna Medica ID</div>\n<div>W281289976</div>\n<div><br></div>\n<div>Benefit Coordinator</div>\n<div>[REDACTED:PHONE NUMBER]</div>",
+  "context": "From document: Aetna Medica ID",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "11ff4c90ec9a67d5bbcef5b2bdfe2f1e",
+  "relatedUnits": [],
+  "keywords": [
+    "aetna",
+    "medica",
+    "w281289976",
+    "benefit",
+    "coordinator"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

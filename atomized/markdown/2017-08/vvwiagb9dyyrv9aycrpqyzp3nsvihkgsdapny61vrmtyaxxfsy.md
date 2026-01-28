@@ -1,0 +1,31 @@
+---
+id: e04bbd9f-fde3-4d52-96f0-367e6e678923
+type: insight
+created: '2017-09-01T01:01:20.000Z'
+document: c09dc023ec256edd51aef2e3615dd904
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - vvwiagb9dyy
+  - rv9aycrpqyzp3nsvihkgsdapny61vrm
+  - tyaxxfsyju2xvxpaohstv
+  - rf3xuwolfnbsuje
+  - >-
+    povt3rlvkukchyoqaial9d4cf1jyswqx0qyrstvhly7lgtjfcvjxqi0xzzhmhn9u3yzw8izzfqlbh2rka86qqdf153ver
+---
+# VVWiAgb9dYY/rV9AYCRPQYzP3NSVihkGSDaPNy61Vrm+TYAXXfsyJu2XvxpAOhsTv+RF3XUWOLfNBsuj
+
+## Context
+From document: Web Sitcom Ideas — chunk 405 (chunk 405/798)
+
+## Content
+VVWiAgb9dYY/rV9AYCRPQYzP3NSVihkGSDaPNy61Vrm+TYAXXfsyJu2XvxpAOhsTv+RF3XUWOLfNBsuje+/POvt3RlVKUkCHyOqAIal9D4Cf1JYsWQx0QYrstVhlY7LGtjfcVjXqi0xzzhmHn9u3Yzw8izzfqlbh2RKA86QqDf153VEr+2+V/RT8EKRIQKuwxvSt7tc1BZz6vo1f1f0D5mWPIBObzwNMscm+CO1HPjnauOT8bjyHc3a8rUl/s4HMdX1gv2Dlu943DuXvBKx+/MldIOtH0t/BdSc1Nfcz9yoIkOdvk+P2gx/r3gEljRbNJJl7kSfmgAcffHD0+c9/vuxb4L6gqVKWbFmEdZlS8GpZUX4ivahuQ39O0q2T7kLWgHO0OykgO+mcRT/bdxkAIs92P34saWVu1gJj8C6//PKKNCvz4++nP/3p9Z2oiDpMAgTYRF/+8pfrOM4Fx8OCNpVVZGKmdn69XHY4f/Sb3QIDJM/D25qcjM4+QpfoYnv9jRWJrtQeL1BSmqRqNQf+fheZ3ukLs+jTm3Fce8c93eIjRSi1zqpmWl7wmZuuzGivvqLEEskVAGm/8tWMQRSqRfSridKfeKBSh0YifKl9V8rlj781apMOV+lp+bzGVGRbKaE815Hd5EVx1QuzSK5lPQLrEViPwIIjYDEFNHE8iAUVsPTe97630ptf+9rXHgE8Ldj0+rD1CKxuBGJnNGyIBKzKjmB4c8JsvLWW3R+BOBlVEzakg42feX0c9Nh9a9nVEUDQueGGG0Y/9VM/VXb6ONhEb3//+98vux2Liq1/5ZUh0eyFcJbZ/jsV4Ew2xGb7rsH/nQ7mnPPpTL6D2s/AkKMcOJhzt+uv1yOw8hFAmIGR0LXK/0wq1cN+/qM/+qMKALCrJ2VuaQMuA1tRrcF+Wwg3SjTbDHMlQVzvtwAAkBiL+IdTqgVhQmlj+AGWO+xA5lXA0No0lz31YIBqOEf61ioHEyypwH3nDoU+gemof64sCcDVXo7K5CQzDABf+xJaJ7CXc3yV8XnKk4etHPk77Ee7KiQAVBMsAKwqFdkKRORnI7tBf6atQT53nPtPORbAfuE2s47Pd7WiAbnv+kICpLl2sieqvBF7B2k1ey1W1pty0UDpae2N3xUw/dFvjZT+aYOXVRmb8WP6vwHL1lf3CkzG9E7mw2FMfdfVF32W4WA8xqQ2
+
+
+
+---
+*Source: Document c09dc023ec256edd51aef2e3615dd904*

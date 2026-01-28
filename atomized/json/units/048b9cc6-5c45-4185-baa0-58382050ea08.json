@@ -1,0 +1,26 @@
+{
+  "id": "048b9cc6-5c45-4185-baa0-58382050ea08",
+  "type": "insight",
+  "timestamp": "2025-12-04T16:48:25.000Z",
+  "title": "<div><tt>| B26 | stable | broken | integrity | recursion guard |</tt></div>",
+  "content": "<div><tt>| B26 | stable | broken | integrity | recursion guard |</tt></div>\n<div><tt>| B27 | rising | falling | time | signal edge |</tt></div>\n<div><tt>| B28 | forward | backward | motion | directional logic |</tt></div>\n<div><tt>| B29 | bound | free | ritual | constraint status |</tt></div>\n<div><tt>| B30 | granted | denied | access | ritual verdict |</tt></div>\n<div><tt>| B31 | start | stop | control | execution flag |</tt></div>\n<div><tt>| B32 | known | erased | memory | data presence |</tt></div>\n<div><tt>____</tt></div>\n<div><tt># vii</tt></div>\n<div><tt>----</tt></div>\n<div><tt>----</tt></div>\n<div><tt># [#hybrid_toggle]</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## |[ HYBRID::T0GGL3_T4BL3 ]| </tt></div>\n<div><tt>15 HYBRID TOGGLES — RITUAL THRESHOLD CONDITIONS </tt></div>\n<div><tt>_Not binary, not spectral—emotional/mystical conditionals triggered by system, character, narrative, or fusion._</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Toggle ID | Conditioned Pair | Hybrid Mode | Function Description |</tt></div>\n<div><tt>|-----------|--------------------------|------------------|----------------------------------------------|</tt></div>\n<div><tt>| H01 | veil lifted/lowered | concealment | mystery and knowledge thresholds |</tt></div>",
+  "context": "From document: # synth-wave-modules — chunk 29 (chunk 29/51)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1f0200e52addd3bec3d0beb78cca4a02",
+  "relatedUnits": [],
+  "keywords": [
+    "ritual",
+    "hybrid",
+    "stable",
+    "broken",
+    "integrity"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

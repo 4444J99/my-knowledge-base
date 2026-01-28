@@ -1,0 +1,22 @@
+{
+  "id": "6c58a3c0-2078-4caa-b26b-fb8672ed3d9a",
+  "type": "insight",
+  "timestamp": "2017-05-15T14:34:50.000Z",
+  "title": "<div><b><h2><br></h2></b></div>",
+  "content": "<div><b><h2><br></h2></b></div>\n<div><b><h2>CODE 8:</h2></b></div>\n<div><b><h2>164 747 546</h2></b></div>",
+  "context": "From document: KEEPER — chunk 5 (chunk 5/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "4fedc87691347f45d4055d6de41d7d33",
+  "relatedUnits": [],
+  "keywords": [
+    "code"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

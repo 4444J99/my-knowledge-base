@@ -1,0 +1,31 @@
+---
+id: 4f822578-96e9-4314-9d53-9a1376cfb3de
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - muggwaxllzj5dbvl2jns1hvysp7qphmohr8qpcbfhvwxtsmdwviabx3va6rdo3npya8sfjrf
+  - bmhjbdshbqvwyz
+  - wpitrdzxs3kbtg87fhmaipi9k1wcu
+  - >-
+    fy7ivv6egel4zmlq08siuxdrwknlhvinhrpsd1ap96aoxhxrnq269p0brph1o5al1jitzvsantabrsxxgppucfjruub7czpkfvleibjgyipxihx7cjfekj1hdixawvmwlkulwhc6dn40qhmtcf36k1cy5c1
+  - cywkh85xdvbn4gpooje
+---
+# kk+MUggWAXlLzj5DbVL2jns1hvYsP7qphMOHr8QPCBfHvwxtSmdWViABx3Va6rdO3Npya8sFjRf+bmHj
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 7404 (chunk 7404/11629)
+
+## Content
+kk+MUggWAXlLzj5DbVL2jns1hvYsP7qphMOHr8QPCBfHvwxtSmdWViABx3Va6rdO3Npya8sFjRf+bmHjbDshbQvWyz/WpItrdzXs3KBTg87FHmAIPI9K1WcU/FY7ivV6eGel4Zmlq08siuXdrWkNlHvInhRpSd1aP96aoXHxrnQ269p0brPH1O5AL1JItzvsaNtAbRSxXGppucfjruuB7CZpKfVlEIBJgYIPXiHX7CjfEKJ1hDiXAwvmWlkulWhC6DN40qHmTCf36K1CY5C1+cYWkh85xDvBN4gPOOJe+XxEyC/y4Gyja6tEtYnm6yRCx2jHmgxlKebxHMsxbjJEl+XX5ju6VvQdHfFKZJGaYzC5jii0GF+/65n0gAbJ4Aee1dN4vtk61mbSDCG0cuWN2CDphM7pVb9ifE3rZ8IZLZm+oKm5xfFKn/WNvD3aURZ95tKvSq2UOrTiAPGCpQk2NMe32NqXbvZ7nKVi2IaBm8f7PN5n0HeidWBA/timwLUUoraM6HKcc/J1EG5YesPS65eeMe2MqcWmSa4xq3mlag/MuovmX/Rk2+LaMhw5dTQ2sNHq/fh/7c7cnYkNJC75wKOY5iq2RUJiBu+50io6f9jH4fDfeyucPZKfuaYlQDNYmygaSM+FlALHo1wC0kUOrIBGnqF+C89kTxo/MynB4KO1egxN363TO3IJ+8eisx657+a+olvKCehIYH+sPH701YMthzIfrUcHpDypZVbdQLf4xzLLW3Oiq6RyNQKxqRdcDRELuBHnx2m1QOenmh+g9YHTbYmDj94S32xpwQSeCWPrjd069uZ7z+l3Tb/ebXq0efKiHq2eaP1E0hOv//n1jW/+P0kLLCnvjjb7+8uu/PKKZzjDvkjDzrJTGhzHhuhgjMA/SS7jIyaeNjkCmOoDq0JZFypUHK4j4mzIEfH1IaJdueEsjPaxpDeY3aBQ/UfROeGVQE7XMq7xVCKHQR1RZjWUddes6nW66rSUXS6n5E+POHw4ZW5uznzwzAeLT3MpVD/cApvUSJ9yA+r4cVVG0SulcuNBeoRaqMVLUz6wsAqakn9iO1/hR9zWbFzpU/7C4TguOl09PpYnLTTKLx7eT8tXdNqPwEj9lRYP0kk/PiRb31Q/hZ9+xp1L7sy4U9uQqcIHNEe0N7XuI3UfqfdoPJ5RH8WP9p87jVWpWcmDr/tHGz7S
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

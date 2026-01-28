@@ -1,0 +1,26 @@
+{
+  "id": "c053559d-63f6-4146-b477-b8e92407e8f0",
+  "type": "insight",
+  "timestamp": "2025-04-12T18:58:44.000Z",
+  "title": "<div><tt>↓</tt></div>",
+  "content": "<div><tt>↓</tt></div>\n<div><tt>Translated → Packaged → Looped</tt></div>\n<div><tt>```</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Naming moves with function and recursion.  </tt></div>\n<div><tt>Every name can *loop, nest, or bloom*.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## ALIAS LOGIC</tt></div>\n<div><tt><br></tt></div>\n<div><tt>To evolve names without breaking the system, we log:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Canonical ID  </tt></div>\n<div><tt>- Styled Form  </tt></div>\n<div><tt>- Last modified  </tt></div>\n<div><tt>- Reason for mutation  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>&gt Stored in: `SYS_ID_ALIAS_MAP.json` + `SYS_ALIAS_CHANGELOG.md`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>This ensures we track **every recursion of the system's evolving identity.**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## FUTURE GUIDELINES</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- You may change names.  </tt></div>\n<div><tt>- But never change names **without recording their evolution**.</tt></div>\n<div><tt>- Every project, object, file, and persona is a version of you.  </tt></div>",
+  "context": "From document: SYS_N4M1NG_PROTOCOL_0412_DROP.md — chunk 4 (chunk 4/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "c57ec483a541c905f1df73ec2e37102e",
+  "relatedUnits": [],
+  "keywords": [
+    "every",
+    "names",
+    "recursion",
+    "without",
+    "system"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

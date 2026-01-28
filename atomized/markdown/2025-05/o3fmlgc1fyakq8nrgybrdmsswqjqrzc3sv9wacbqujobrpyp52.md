@@ -1,0 +1,32 @@
+---
+id: 2c651349-8df7-4ea1-a795-6099ace4d60c
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    o3fmlgc1fyakq8nrgybrdmsswqjqrzc3sv9wacbqujobrpyp52hflahajmxaligrvfvnaa6jdqbdatasqatasei1ts1imvbbo
+  - mwsqi4bqrj
+  - >-
+    ggobmqy4zduaczdofuwpw7aqoobycofdelglvbvhjcglwec2gxqus0ple1pzfhaaawysoaqccdsqjpg5gdhlabwzcmymgumyg7lvikxwvebviwwssnqimxaoqw7k48brs9ocsbvnkbzwkqpmfttmkas3ozbigobq6m1eonttqtalnbu3zdtqjhanegph1w10ihjjpwkoyoju6gb6awim4hr3jncpaszxozqhgcomcdrflf
+  - wqqevmmqbwoc3jrbjivcttqcdn2
+  - vvfontws
+---
+# O3fmLGC1fyAkQ8NRGYbRdmSswQJQRzc3Sv9wAcBqUjoBrPYP52HfLAHaJMxalIGRvFVnAa6jDQBdATAS
+
+## Context
+From document: New Note — chunk 4610 (chunk 4610/21099)
+
+## Content
+O3fmLGC1fyAkQ8NRGYbRdmSswQJQRzc3Sv9wAcBqUjoBrPYP52HfLAHaJMxalIGRvFVnAa6jDQBdATASqATASEi1tS1imVbbO+MwsQI4bQrj+gGOBMQY4ZDuACzDofUwpW7AqOobYcoFDElglVbVhjCGlwec2gxQuS0pLe1pZFhAAawySoAQCcDSqJpG5GDhLABwzCMyMGumYG7lviKxWvEBViWwSsNqIMxAOQw7K48BRs9oCsbVNKBZwKQpmFTTMKAS3ozBiGoBq6m1EoNttQTAlNBu3zDtqjHAnEGph1W10IhjJpwKoyojU6gB6AwIM4HR3jncPaSZXozqHgComcDrFLF/wqqEVmmqbWoC3JrbJIVCtTQCdN2+vVFOntws+/d3wSbrQt9aBvvsJuntz8Ji2yL9g3mA2lVSWwczsHs57L4AV/1rLUjVz3MDrGoBq2jbWtR7wrCX0kiK9koAGiWw2gALKmFVnmcEkG4Q7GYAPCVzNIPjz8F2mwcsCsstjaqxpAfvNbRJkjBp0LKrDm3FsYw1SQvg1yzMrYksQF/ApRnAxClchwgA2UAMElNcbwKn0TTaHqwo7aoEVl3IPshOCbFGUlXYd7VEk8i4HnHYYGOIRBbXA/tjEFglrEpoNVkfAayalCL6Rn1nRortSUkBZA7B1EtYldAqLasRHj+MvHHYWWOwtsaxjwUJHEQ6hptIBCZTwKdhHAitpe66JVJThTd51UJAq4ssaJVm05ClTgYVj3Vj2CaJhkrjoNOgbAmsxgipwqBKUNUMmlZD0N8yYqCqE1F0pAhuWoBRI4RRQcsTWPUiaE8NoJNYkCqW+XlzAVXPm4oFrKLzhBEshyxYFQArgNiZAatvBlXHbaxuKJH75aUvf1V+/4c/yu/OxR/kt7//g7z2m9/K3/+XV+WnP/uFfP75F9ARd4GYDs4IVh0HVdWqqnncijonwOq0YVUaVsftqhezYfW+++6DjnmwLKhqB1jvueeeeTOs7t+/H5R9jxUsf+tb37LiL//yL4X2Vw3aXhlf+9rXrGHZODQb//f+Sy+9JF/60pfki1/8ovCLy2Rfimaz/P97+v8RBx6rDI857eO0j9MHnD5wvvoA78mzuadPZVt9gPr2/Wp+aZ8ZH4opdDkTYJUPgX/+85/Lpz/9aXnuueesMh8gV5r4YPPll1+Wz372s9aPE5///Oct
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

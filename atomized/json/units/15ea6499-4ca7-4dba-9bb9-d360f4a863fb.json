@@ -1,0 +1,26 @@
+{
+  "id": "15ea6499-4ca7-4dba-9bb9-d360f4a863fb",
+  "type": "insight",
+  "timestamp": "2025-03-19T08:54:53.000Z",
+  "title": "<div>When reviewing a peer’s draft, please use the following checklist:</div>",
+  "content": "<div>When reviewing a peer’s draft, please use the following checklist:</div>\n<div>  1.  <b>Thesis &amp Organization:</b><br></div>\n<div>  •  Is the thesis statement clear and well-defined?</div>\n<div>  •  Does the essay follow a logical structure?</div>\n<div>  •  Are the main points supported by details?</div>\n<div>  2.  <b>Content &amp Clarity:</b><br></div>\n<div>  •  Is the essay engaging and does it address the prompt effectively?</div>\n<div>  •  Are transitions smooth between paragraphs?</div>\n<div>  •  Is there sufficient evidence and explanation for key ideas?</div>\n<div>  3.  <b>Grammar &amp Style:</b><br></div>\n<div>  •  Are there issues with grammar, punctuation, or spelling?</div>\n<div>  •  Is the tone appropriate for the audience?</div>\n<div>  •  Does the sentence structure vary appropriately?</div>\n<div>  4.  <b>APA/Formatting (if applicable):</b><br></div>\n<div>  •  Are in-text citations and the reference page formatted correctly?</div>\n<div>  •  Is there consistent use of APA style?</div>\n<div>  5.  <b>Overall Feedback:</b><br></div>\n<div>  •  What is one strength of this draft?</div>\n<div>  •  What is one area for improvement?</div>\n<div>  •  Any additional suggestions or questions?</div>",
+  "context": "From document: Below is a sample “Module Navigation & Weekly Overview” document that… — chunk 6 (chunk 6/46)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "bd2f2280cc167423e582fae6fad9d700",
+  "relatedUnits": [],
+  "keywords": [
+    "does",
+    "there",
+    "draft",
+    "thesis",
+    "essay"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

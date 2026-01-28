@@ -1,0 +1,26 @@
+{
+  "id": "f8231d96-7cb3-4976-92ef-456fcb9380f6",
+  "type": "insight",
+  "timestamp": "2023-09-11T13:46:13.000Z",
+  "title": "<div>   </div>",
+  "content": "<div>   </div>\n<div>9. **Content Management Systems (CMS)**:</div>\n<div>   - Using platforms like WordPress or Drupal to publish and manage digital content.</div>\n<div>   </div>\n<div>10. **Copywriting**:</div>\n<div>    - Writing compelling headlines, captions, and body text for various media.</div>\n<div>    </div>\n<div>11. **Illustration**:</div>\n<div>    - Creating custom illustrations for various media using tools like Adobe Illustrator or traditional methods.</div>\n<div>    </div>\n<div>12. **3D Modeling**:</div>\n<div>    - Creating 3D models and environments using software like Blender or Autodesk Maya.</div>\n<div>    </div>\n<div>13. **Color Theory**:</div>\n<div>    - Understanding how to use color to enhance visual storytelling and audience engagement.</div>\n<div>    </div>\n<div>14. **Typography**:</div>\n<div>    - Choosing and utilizing fonts effectively to convey messages and enhance aesthetics.</div>\n<div>    </div>\n<div>15. **Scriptwriting**:</div>\n<div>    - Crafting scripts for videos, podcasts, or other multimedia presentations.</div>\n<div>    </div>\n<div>16. **Interactive Design**:</div>\n<div>    - Designing interactive elements for websites or digital publications.</div>",
+  "context": "From document: Content Creator — chunk 3 (chunk 3/7)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1f33ef350089aaa7d596588dd916b49a",
+  "relatedUnits": [],
+  "keywords": [
+    "using",
+    "like",
+    "content",
+    "digital",
+    "various"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

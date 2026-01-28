@@ -1,0 +1,26 @@
+{
+  "id": "0b527567-9537-48f4-9d08-5b380d1d5c71",
+  "type": "insight",
+  "timestamp": "2025-03-10T23:24:51.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Your <b>resume</b> is well-organized, with a strong skills section. However, your <b>objective statement</b> could be a bit more focused—right now, it’s broad and could be more tailored to the specific job you’re applying for. Additionally, your <b>work experience section</b> would benefit from more <b>detailed bullet points</b> that emphasize <b>achievements rather than just responsibilities</b>. Including measurable results, such as improvements you contributed to in past roles, would make your resume stand out more.</div>\n<div><br></div>\n<div>With these small adjustments, your application will be even stronger. Keep up the great work!</div>\n<div><br></div>\n<div>Best,</div>\n<div>Professor Padavano</div>\n<div><br></div>\n<div><b>Grades:</b><br></div>\n<div>  •  Cover Letter: <b>80/100</b><br></div>\n<div>  •  Resume: <b>85/100</b><br></div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>Letter for Allanys Velez</b><br></div>\n<div><br></div>\n<div>Dear Allanys,</div>\n<div><br></div>\n<div>Thank you for submitting your resume and cover letter. You’ve put together a strong application, and I appreciate the effort you’ve put into your materials. Below is my feedback.</div>",
+  "context": "From document: Feedback Letters for Resume & Cover Letters — chunk 15 (chunk 15/22)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "86dc5339604c58929fa5043c670c250d",
+  "relatedUnits": [],
+  "keywords": [
+    "your",
+    "resume",
+    "more",
+    "letter",
+    "with"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

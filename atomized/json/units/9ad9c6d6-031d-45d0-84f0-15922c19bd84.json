@@ -1,0 +1,26 @@
+{
+  "id": "9ad9c6d6-031d-45d0-84f0-15922c19bd84",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>```</div>",
+  "content": "<div>```</div>\n<div>**(488 characters)**</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **6. repo-lineage-tracker**</div>\n<div><br></div>\n<div>**Description:**</div>\n<div>```</div>\n<div>Provenance and genealogy system mapping idea evolution across all layers. Tracks: archive file→AI conversation→personal repo→org repo chains. Documents decision rationale, timestamps, concept mutations. Visualizes knowledge graph with interactive timeline. Answers: &quotWhere did this code come from?&quot and &quotWhat happened to that old idea?&quot</div>\n<div>```</div>\n<div>**(343 characters)**</div>\n<div><br></div>\n<div>**Copilot Prompt:**</div>\n<div>```</div>\n<div>Create lineage tracking system: (1) Accepts input from cognitive-archaelogy-tribunal and ai-context-compiler, (2) Builds directed graph of relationships (archive→AI→personal→org), (3) Stores metadata (timestamps, decision rationale, concept evolution), (4) Generates interactive visualizations (D3.js timeline, network graph), (5) Provides query API: &quottrace origin of repo X&quot or &quotfind descendants of archive file Y&quot, (6) Export genealogy reports.</div>\n<div>```</div>\n<div>**(498 characters)**</div>\n<div><br></div>",
+  "context": "From document: Contents_Table — chunk 109 (chunk 109/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "repo",
+    "quot",
+    "characters",
+    "archive",
+    "graph"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

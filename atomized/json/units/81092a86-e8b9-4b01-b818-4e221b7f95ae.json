@@ -1,0 +1,26 @@
+{
+  "id": "81092a86-e8b9-4b01-b818-4e221b7f95ae",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:17:05.000Z",
+  "title": "<div><tt>- Converts readable text to target language  </tt></div>",
+  "content": "<div><tt>- Converts readable text to target language  </tt></div>\n<div><tt>- Works via GPT + style guides</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### 2. Functional  </tt></div>\n<div><tt>- Turns creative logic into **outputs**  </tt></div>\n<div><tt>- e.g. from command → UI, or ritual → tutorial</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### 3. Symbolic  </tt></div>\n<div><tt>- Retains mythic structure, adjusts delivery  </tt></div>\n<div><tt>- e.g. `GR1ND3R` = dream engine (reframed as ARG, film script, or found footage UI)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## EXAMPLE TRANSLATION SCENARIOS</tt></div>\n<div><tt><br></tt></div>\n<div><tt>&gt **INPUT:** GPT session with Jessica  </tt></div>\n<div><tt>&gt **OUTPUT OPTIONS:**</tt></div>\n<div><tt>- Blog post → PDF lead magnet  </tt></div>\n<div><tt>- Notes → swipe file template  </tt></div>\n<div><tt>- Ritual → onboarding funnel  </tt></div>\n<div><tt>- Story → visual explainer  </tt></div>\n<div><tt>- Academic mapping → portfolio asset</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## FUTURE WORK</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Build a **translation engine folder** that supports:</tt></div>",
+  "context": "From document: TranslationModels.md — chunk 3 (chunk 3/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "e68bf774e88f8cdd1f281a874840b193",
+  "relatedUnits": [],
+  "keywords": [
+    "ritual",
+    "engine",
+    "translation",
+    "converts",
+    "readable"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

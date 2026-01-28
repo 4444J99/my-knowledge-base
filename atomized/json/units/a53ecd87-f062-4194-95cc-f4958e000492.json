@@ -1,0 +1,26 @@
+{
+  "id": "a53ecd87-f062-4194-95cc-f4958e000492",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Each archetype receives 1-3 special duties or powers that reinforce their narrative function.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Some archetypes are passive observers, while others have direct influence on class events.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> These roles are distinct from skill-based advantages—they introduce a game mechanic.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📖</font> Archetypes &amp Their In-Class Roles</div>\n<div><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Archetype</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Special Roles &amp Duties</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>How It Works</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 396 (chunk 396/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "font",
+    "style",
+    "width",
+    "face"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

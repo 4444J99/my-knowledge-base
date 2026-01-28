@@ -1,0 +1,24 @@
+{
+  "id": "e8492dbd-ea30-4a47-b6f2-5310f7348ac0",
+  "type": "insight",
+  "timestamp": "2025-03-11T19:17:46.000Z",
+  "title": "</tbody>",
+  "content": "</tbody>\n</table></object><b><br></b></div>\n<div><b><br></b></div>\n<div><b><br></b></div>\n<div><b><br></b></div>",
+  "context": "From document: |[ burp :: [racket&allskipshullaballoo,ittybittyteenytiny,u.u|: — chunk 13 (chunk 13/13)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "be7a8d2f3c0664bd4c9ddb1ea1d5c2d6",
+  "relatedUnits": [],
+  "keywords": [
+    "tbody",
+    "table",
+    "object"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

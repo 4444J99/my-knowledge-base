@@ -1,0 +1,34 @@
+---
+id: 8136730c-9d76-4fd2-a50e-005c28d018e2
+type: insight
+created: '2021-06-24T19:10:13.000Z'
+document: b5de64ea907b6e44ec94b342683f3041
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    gkaqcajbiagegscwnaieefjofkutg0aqcajbiagegsaqbijaeagcqsaiziracigz4mvfqsaibiegeascqbaiakegcasbibaelhobeall2w
+  - >-
+    pdraiakegcasbibaegkaqcajbiagegzkqccewe3y5oagegsaqbijaeagcqsaibiegeascwhiieejgofsttq4cqsaibiegeascqbaiakegcasbidataieezoivfwebibaegkaqcajbiagegsaqbijaefhobeiilge
+  - >-
+    pdzbiagegsaqbijaeagcqsaibiegearmqicewezw5eigeascqbaiakegcasbibaegkaqcalliuaigexst9q6casbibaegkaqcajbiagegsaqbilataieejgjvlwcbijaeagcqsaibiegeascqbaiakfgoreiibcc
+  - >-
+    zzab4egeascqbaiakegcasbibaegkaqmambeaizwzelg0aqcajbiagegsaqbijaeagcqsailcccv1joaqfwqsaibiegeatwa4f
+  - bf7yl
+---
+# gkAQCAJBIAgEgSCwnAiEEFjOfkutg0AQCAJBIAgEgSAQBIJAEAgCQSAIzIRACIGZ4MvFQSAIBIEgEASC
+
+## Context
+From document: TODAY FEELS LIKE A REAL BAD GO — chunk 211 (chunk 211/940)
+
+## Content
+gkAQCAJBIAgEgSCwnAiEEFjOfkutg0AQCAJBIAgEgSAQBIJAEAgCQSAIzIRACIGZ4MvFQSAIBIEgEASCQBAIAkEgCASBIBAElhOBEALL2W+pdRAIAkEgCASBIBAEgkAQCAJBIAgEgZkQCCEwE3y5OAgEgSAQBIJAEAgCQSAIBIEgEASCwHIiEEJgOfsttQ4CQSAIBIEgEASCQBAIAkEgCASBIDATAiEEZoIvFweBIBAEgkAQCAJBIAgEgSAQBIJAEFhOBEIILGe/pdZBIAgEgSAQBIJAEAgCQSAIBIEgEARmQiCEwEzw5eIgEASCQBAIAkEgCASBIBAEgkAQCALLiUAIgeXst9Q6CASBIBAEgkAQCAJBIAgEgSAQBILATAiEEJgJvlwcBIJAEAgCQSAIBIEgEASCQBAIAkFgOREIIbCc/ZZaB4EgEASCQBAIAkEgCASBIBAEgkAQmAmBEAIzwZeLg0AQCAJBIAgEgSAQBIJAEAgCQSAILCcCV1jOaqfWQSAIBIEgEATWA4F//dd/bf7yL/+yud71rtf8+q//+rZt9He/+91GXf/hH/6h+d///d9m5513bq5ylats2/qmYkFgXRD4j//4j9LUq13taq2bbA5f7nKXay5/+dgOW4OWHwaBJUUghMCSdlyqHQSCQBAIAquNwN/+7d82b37zm5u3ve1tzWc+85lmv/32a57znOcUIX27tBwJ8OlPf7p53/veV15///d/33zta19rbnCDGzRnnnlm80u/9EvbpaqpRxBYSwT+8R//sTniiCOan/3Zny3rxxWveMWpOHz2s59tTjjhhOamN71pc8ABBzRXuELUhamg5QdBYIkRyAxf4s5L1YNAEAgCQWD1EPjGN77R/PEf/3Fz2mmnNV/96lebm93sZs2Tn/zk5n73u9+2IAO+//3vFy+A97znPc073vGO4r3wX//1X821r33t5ja3uU1zy1vesvmN3/iN5ud//udXr3PSoiCwRAhYS57xjGc0b3nLW8oa0kax5+Xz9Kc/vTn77LObe97zns0jH/nIEAJL1OepahDog0AIgT6o5ZogEASCQBAIAgtAgDXvaU97WhHg73CHOzTPfOYzi+v9z/3czy3gae1v+aMf/aiQAB/84Aeb8847r/noRz9aPAF22mmnZo899iiKg3CG6173ulEe2sOaXwaBhSFgzr7iFa9o3vSm
+
+
+
+---
+*Source: Document b5de64ea907b6e44ec94b342683f3041*

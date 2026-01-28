@@ -1,0 +1,32 @@
+---
+id: 75d74fff-ab0c-4635-a3b9-450c1f7b506e
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    aqhaaaiqgaaeibcrami7ity2dkwqkaqgaaeiqaaceiaabcaaaqh0fagen8ibahcaaaqgaaeiqaaceiaabcaqkqdcoylcjhpiitmqgaaeiaabceaaahcaaaqg0byccg
+  - >-
+    enwqgaaeiqaaceiaabcaaaqhaicibhhdeug0zsifrceaaahcaaaqgaaeiqaaceogoaghvhdceiaabceaaahcaaaqgaaeiqcaiayr3rlgdncrcziaaaqhaaaiqgecvenj4tawfffgoxi0d5yiabhqaamib4q0bceaaahcaaaqg0n0e9p26
+  - yybr9cdxxokaaei9cobhhd3f2y6ql1ec
+  - 9h77hssv7ufpbijsoymamlafvcf0ni6sic1uw
+  - 89wfpbp91z8vd6
+---
+# AQhAAAIQgAAEIBCRAMI7Ity2DKWQKAQgAAEIQAACEIAABCAAAQh0FAGEN8IbAhCAAAQgAAEIQAACEIAA
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 6579 (chunk 6579/18928)
+
+## Content
+AQhAAAIQgAAEIBCRAMI7Ity2DKWQKAQgAAEIQAACEIAABCAAAQh0FAGEN8IbAhCAAAQgAAEIQAACEIAABCAQkQDCOyLcjhpiITMQgAAEIAABCEAAAhCAAAQg0BYCCG+ENwQgAAEIQAACEIAABCAAAQhAICIBhHdEuG0ZSiFRCEAAAhCAAAQgAAEIQAACEOgoAghvhDcEIAABCEAAAhCAAAQgAAEIQCAiAYR3RLgdNcRCZiAAAQhAAAIQgECvEnj4taWfffGoXi0d5YIABHqAAMIb4Q0BCEAAAhCAAAQg0N0E9p26/YYbr9cDXXOKAAEI9CoBhHd3f2Y6ql1ec/9h77hssv7ufPbIjsoYmamLAFVcF0ni6SIC1uw/89WFpbP91Z8vd6/HC66eUjoSbux2AjSDqDXY28LbXkR0saK2IiKHQFQCCO81wvvrvzn5+ocP19/Nj82PSryHI595xM5v+b9/q98zoYeLuTYXjSqOXfvf/8/T3YtI/7/yp9XJ5OxNZcECx21PLVTn/gf/c0by3iI+X/nrE1yEt39tUZHwa0MYa/YnvmOv0uX91FeOcK/HLQZsWDoSbux2AjSD2mvwiZ+ecNlnZi4/e6/9pg/dcKN1+/V7y8ELhr/90skaJnv1z6c3ldxLf1jl3n4PfvfYpm5sTWB7EdHFag1wUoFADAII7zXC+4YvzXO9ov6bbxAD9NoQJ1+Fnq9lqjh2FT/3q5Pci0j/q0OZTM7eVBYs1bHe+uvsMGKL0y7c91v/vCoZSY7PzIVrhs8Uw4u/X5kTcu25ZM0e4b32VHqkkiK8awT7zX9addxbx62zbr/Ud6A89Q78xBcOK5jiFXfMGrDtxi6qhSfuXvCuVgazFxHCu5XYSQsC9RJAeCO8a1tsz1eh3oezA2OjimNXSl3C23qim2+14blXHlAw25rwWX+Ddeze9103reCNvR3Mmj3Cu7crugWlQ3jXBfmery82nWyvrFTH9HnDX/vvvBVAj//o+Ekzhvr3IrzrqibigQAEAgIIb4Q3wrs2AsHT1Xs/TYEw4h6pcosL73XX6zfn6JHB3+yjdjngkB13GTNgo03W8/uRF33yoCIZfv+N0/279pq8XZG7ej6MNXuEd8/XdewCIrxrIazFOIOG9reX1T4HDD77Q5OvfWDuzrtvtelm67/32mmHHDli403ffAcuPWNsarra2nPm
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

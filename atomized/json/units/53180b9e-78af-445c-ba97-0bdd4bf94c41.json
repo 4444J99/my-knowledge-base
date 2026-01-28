@@ -1,0 +1,26 @@
+{
+  "id": "53180b9e-78af-445c-ba97-0bdd4bf94c41",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>1. Should some settings be “locked” unless a student unlocks a specific achievement?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Example: Certain students can only enter Freud’s office if they’ve done a psychoanalytic reading in a past week.</div>\n<div><br></div>\n<div>2. Should different weeks have different “difficulty ratings”?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Example: Some weeks marked as “Boss Levels” where skill checks are harder, XP penalties increase, but rewards are higher.</div>\n<div><br></div>\n<div>3. Should students be able to “sabotage” each other’s XP under certain conditions?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Example: If a student correctly identifies another’s misinterpretation of a text in discussion, they can steal a small amount of XP.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🚀</font> Version 5.4 now finalizes power scaling, settings with character boosts, narrative framing devices, and three-tiered item unlocks.</div>\n<div><font face=\".AppleColorEmojiUI\">🔥</font> Are we locking this in? 🎮📖</div>\n<div><br></div>\n<div><h1>📌 Version 5.5 – FINAL EXPANSION: Debuffs &amp Buffs, Streak System, Psychological Archetypes, Realm Rerolls, Prerequisites, &amp Difficulty Ratings</h1></div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 175 (chunk 175/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "should",
+    "zapfdingbatsitc",
+    "example"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

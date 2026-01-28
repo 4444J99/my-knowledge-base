@@ -1,0 +1,26 @@
+{
+  "id": "1fb9a3a4-2651-4a1d-984e-6b994ebc3cec",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Recursive Storytelling: every VISION document is both a charter and a story chapter; it includes a narrative of where the OS has been, where it is going, and what this particular wave is meant to resolve or open for future narrators.</div>\n<div><br></div>\n<div>Example name within this layer:</div>\n<div>VISION-META-SPEC-CANON-0001-v0_1</div>\n<div><br></div>\n<div>1.3 SYSTEM Layer</div>\n<div><br></div>\n<div>Function: defines the architecture, directories, naming conventions, and agent roles.</div>\n<div><br></div>\n<div>Metaformeme: SYSTEM articulates the grammar that all other layers follow. It describes the allowed values for LAYER, DOMAIN, TYPE, and how IDs are composed. It defines how words like “world,” “agent,” “session,” and “archive” must be used consistently across the OS.</div>\n<div><br></div>\n<div>Myth Fusion: modules and agents are seen as mythic orders or guilds. For example, an “Archivist” agent order with duties over $ARCHIVE_ROOT, a “Cartographer” order for world maps, and a “Herald” order for cross-system announcements. These metaphors are stable and reused.</div>\n<div><br></div>\n<div>Wave Theory: SYSTEM evolves in measured waves. Changes to naming conventions or directory structures must be explicitly associated with a wave and recorded as deltas, not ad hoc edits. This allows later agents to reconstruct when and why systemic changes occurred.</div>",
+  "context": "From document: 0.\tPreamble and Scope — chunk 3 (chunk 3/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "b3360b527d494aeb150b316c90472eb0",
+  "relatedUnits": [],
+  "keywords": [
+    "system",
+    "this",
+    "wave",
+    "layer",
+    "agent"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

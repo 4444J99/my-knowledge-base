@@ -1,0 +1,26 @@
+{
+  "id": "5ff5d990-1784-43b4-99ed-9a7d9108f577",
+  "type": "insight",
+  "timestamp": "2015-03-11T23:06:49.000Z",
+  "title": "<div>I am grateful for...</div>",
+  "content": "<div>I am grateful for...</div>\n<div><br></div>\n<div>Stage I want to occupy </div>\n<div>I want to be on xl recordings </div>\n<div><br></div>",
+  "context": "From document: I am grateful for...",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "585c1f2cdb8b71de2c78a3293e731637",
+  "relatedUnits": [],
+  "keywords": [
+    "want",
+    "grateful",
+    "stage",
+    "occupy",
+    "recordings"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

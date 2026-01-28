@@ -1,0 +1,26 @@
+{
+  "id": "c1883a7a-c2bc-49be-acc6-c79eb3cacdec",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>Dino Distefano – Separation Logic and Symbolic ExecutionSymbolic logic + pr",
+  "content": "<div>Dino Distefano – Separation Logic and Symbolic ExecutionSymbolic logic + program verification; relevant to your recursive OS architecture</div>\n<div>Robert Sedgewick’s Algorithms (with Kevin Wayne)</div>\n<div>A more elegant but rigorous alternative to CLRS; Java-based, clear diagrams</div>\n<div>Hennessy &amp Patterson – Computer Architecture: A Quantitative ApproachCanon for hardware-level systems and OS interface logic</div>\n<div>⚙️ 3. Production-Grade / Systems-Level Thinking</div>\n<div>Resource</div>\n<div>Use Case</div>\n<div>Brendan Gregg – Systems PerformanceDeep Linux &amp Unix performance tuning; highly relevant for building efficient OSes</div>\n<div>Linux From ScratchBuild your own Linux-based OS from the ground up — real-world application of OS theory</div>\n<div>The Art of Unix Programming (Raymond)Philosophy and patterns behind elegant systems design</div>\n<div>MIT 6.828 – Operating Systems EngineeringAdvanced OS course: x86 kernel building, process/thread management</div>\n<div>🌀 4. Recursive, Symbolic, and AI-Integrated Systems (Aligned with your OS goals)</div>\n<div>Resource</div>\n<div>How It Supports You</div>\n<div>SICP again</div>\n<div>Teaches recursion as metaphysics, not just technique</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 272 (chunk 272/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "systems",
+    "logic",
+    "your",
+    "linux",
+    "symbolic"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

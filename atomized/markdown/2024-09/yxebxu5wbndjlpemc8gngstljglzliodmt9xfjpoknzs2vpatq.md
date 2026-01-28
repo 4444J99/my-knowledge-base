@@ -1,0 +1,32 @@
+---
+id: 0b56cca9-a868-4a08-8164-aeae7cf545cd
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - yxebxu5wbndjlpem
+  - c8gngstljglzliodmt9xfjpoknzs2vpatqn8
+  - >-
+    foyqkdcl1v0o7a4rigofsyis2zurid3fdtt4dqgomyieytl3kxxf0b0vtez0cec0dgucetq6jjwpuccqf1o6acfs5bu7umo6kiow1tlr3tn
+  - >-
+    xpvwj9n5rznz433211ifh3irt9hfpfnzbpq0rndjzpbfmt5o2rmatr11mwz1effhxzaosm6wze3lm1aooo6icredwpodvpngpf0ut1nquwe8acfc4tl4dq3tuqkqege5kzedghx2ezgcag4kdgddxkhprn
+  - m6j7
+---
+# yxEbXU5WbndJLPem/C8GnGstLjGLzliOdmT9XFjPokNzS2vpAtQN8/w5+fOYQkdcl1V0O7a4rIgOfsyi
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 6648 (chunk 6648/11534)
+
+## Content
+yxEbXU5WbndJLPem/C8GnGstLjGLzliOdmT9XFjPokNzS2vpAtQN8/w5+fOYQkdcl1V0O7a4rIgOfsyis2ZuRiD3Fdtt4DqgOMyieyTl3KXXF0B0VtEZ0cEC0dGuCeTQ6JJWPuCcQF1o6aCfs5bu7Umo6KioW1tLR3Tn+XPVWj9n5Rznz433211iFh3iRT9HFPfNZbPQ0rndJZpbfmt5o2rmAtR11MwZ1EFFhxzAOSM6Wze3lM1aOoO6iCREdwPoDvPnGPF0ut1NquWE8aCfc4tL4Dq3tUQkqegE5KZEdGhx2ezGcaG4KdGddXKhpRN+M6j7/oQwD6DutlpcNmtEp7jbWgLXrQTqYOFTOTehTg4WqyqWs6LOajlcRZy+W18WC2gHFd2U7S6j0eX6i7N3lwnXAY9jOt0qGl0C7M0W4SM+kypuppzZkjDvjppSIgIgZwudHDOtpVuEls7ozhaZdxwXugOQQxwWcVhr6Ryhr8wfCbkZ0WHOHNpdWksHC5xWlHP2heWGxGbAb8zcKdKFdVz4LVAcIgBy2eIqcB0jtoOE65wZcVXYRSZrzgm6sIq+48UCB/64C5AG3wq5DOEA7c6lqGOFneEZIWIgMVXu6ep2qraNTKyKq9qx+o7js0QTS9fZCcjNWcFgDKhMUC1QnH2uLXH7OGEBaazw08BjPDnOSbykCPbCCyNkYl+8AKpxRBQPkMa4567l+Daucq/sR+V01WBvo0jsHpBMa8NPuwQqy1eNeWgDgMUJ8Urdu+OFV8vZ9ny/RndmzUG+dgzc4rg/S9ol6rgC4nUVqgFloYL3dfwifV7N8S5+ZWnfdbAvXjXWeM6H77gzbX0SV8h+PU/gqHJP/ELZmfVu4Pz5c2WfO27analn8En8UhU+duErUd+Hcn7nJOvXf5GZ4tw94z1U8xlcuWb+dKsK67gPNQenOvT9GXnCcv5ap36Ki85f4zVTa2N3f9JWbZN2L5+9ngefpWVO0/k3cTd41RW81vHyGX1+59g64hO2q9OYWod96+vsdjVeW8fueb6XcuIkLd/3s3yWtvvh+X3O3vl1N8pa1+R3EZ8uvV6Pl/Vxf/xKHc8tzs8dp7Jllc4Q53dmO9VF97+coWX2zp/Oeez8+89P7yRxwnzH/lU6Pz/Xh37/49v0t8Ofl7jDKZ6fkHL/fc99wnz//VS357+sbflq6/feujff
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

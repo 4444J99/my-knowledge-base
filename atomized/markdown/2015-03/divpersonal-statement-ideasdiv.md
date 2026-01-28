@@ -1,0 +1,36 @@
+---
+id: a89ad5c6-4ae7-4224-b77a-9f6c5678a962
+type: insight
+created: '2015-03-06T23:02:25.000Z'
+document: ca1977d3278c88d768dbb436e9505eb4
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: programming
+keywords:
+  - school
+  - longer
+  - artist
+  - work
+  - from
+---
+# <div>Personal statement ideAs</div>
+
+## Context
+From document: Personal statement ideAs — chunk 1 (chunk 1/2)
+
+## Content
+<div>Personal statement ideAs</div>
+<div><br></div>
+<div>No longer must an artist trust his work in the hands of suits. I believe the future of art lies closely next to the artist himself. We control our profits and losses. No longer a percentage for our blood. I will produce and distribute my art through the 1000 fan theory. </div>
+<div><br></div>
+<div>Met4 and work in progress</div>
+<div><br></div>
+<div>I was raised in upper-middle-class excess. By the time I was 17 I weighed 350 pounds and my parents were separated. Quickly, the silver spoon fell from my entitled mouth.  BUT I AM NOT A CONSEQUENCE OF MY PAST. I Am not my mistakes. I went from getting everything I wanted, and in abundance, to living on my friends hard wood floor for a month because I exclaimed &quotJesus Christ&quot to one of my mothers over bearing remarks and that was just something we wouldn't do in &quotour house&quot (mind you, my family has never been to church outside of a wedding or communion).  Three and half years into high school And my father could no longer afford catholic private school. Switching to public school found me further dissolved amongst those I couldn't understand. My catholic school refused to release my transcripts so according to official records I've never attended high school. I wasn't addicted to drugs, or alcohol, or sex. I was addicted to everything, especially food. I saw no hope on anything, I had no goals, no vision, no dreams. But that wasn't true: in fact I had all of those things but who was I (an obese teenager) to think I could accomplish any of these things. I had no
+
+
+
+---
+*Source: Document ca1977d3278c88d768dbb436e9505eb4*

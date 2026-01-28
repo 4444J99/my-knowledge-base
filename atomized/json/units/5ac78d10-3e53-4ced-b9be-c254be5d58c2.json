@@ -1,0 +1,26 @@
+{
+  "id": "5ac78d10-3e53-4ced-b9be-c254be5d58c2",
+  "type": "insight",
+  "timestamp": "2025-12-12T15:31:08.000Z",
+  "title": "<div>---</div>",
+  "content": "<div>---</div>\n<div>Based on the comprehensive data available in the current research material, additional broad market research would likely yield diminishing returns. You have reached the point of &quotsaturation&quot regarding the problem space.</div>\n<div>The current research material (including your uploaded report and the external data on regulatory changes) already provides the specific &quothard requirements&quot needed to build the software solutions suggested.</div>\n<div>Here is why you likely have enough to proceed to the Product Definition phase, and where the only remaining &quotresearch&quot gaps might be:</div>\n<div>1. You already have the &quotRegulatory Logic&quot (The Code)</div>\n<div>You do not need more research to know how the software must work. The specific legal formulas are already in the available data:</div>\n<div> * Good Cause Eviction (NY): We know the exact &quotunreasonable rent increase&quot formula is the lower of 10% or 5% + CPI (currently 3.79% for NYC, making the cap 8.79%). We also know the specific exemptions (small landlords with fewer than 10 units, owner-occupied buildings).</div>\n<div> * Algorithmic Pricing Ban (NY): We know exactly what is prohibited: using software that &quotpools&quot non-public data from multiple landlords to recommend rents. We know the safe harbor is using &quotpublicly available&quot data or internal portfolio data only.</div>",
+  "context": "From document: The following research report outlines the current state of the NY… — chunk 11 (chunk 11/26)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "39281f48fc8bd56851da45e8b9b8a9c2",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "data",
+    "know",
+    "research",
+    "available"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

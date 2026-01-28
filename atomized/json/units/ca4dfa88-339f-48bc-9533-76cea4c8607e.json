@@ -1,0 +1,26 @@
+{
+  "id": "ca4dfa88-339f-48bc-9533-76cea4c8607e",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:15:38.000Z",
+  "title": "<div>**Purpose**: Communication tools and feedback mechanisms</div>",
+  "content": "<div>**Purpose**: Communication tools and feedback mechanisms</div>\n<div><br></div>\n<div>**Core UI Modules**:</div>\n<div><br></div>\n<div>```</div>\n<div>1. Conversation Interface</div>\n<div>   - Message composition area</div>\n<div>   - Response options (guided/free-form toggle)</div>\n<div>   - Emotion indicators (avatar state)</div>\n<div>   - Typing indicators with personality</div>\n<div><br></div>\n<div>2. RTM Dashboard (Collapsible Overlay)</div>\n<div>   - Real-time metrics visualization</div>\n<div>   - Skill progression indicators</div>\n<div>   - Session history graph</div>\n<div>   - Achievement notifications</div>\n<div><br></div>\n<div>3. Consent Negotiation UI</div>\n<div>   - Progressive disclosure dialogs</div>\n<div>   - Boundary setting interface</div>\n<div>   - Confirmation mechanisms</div>\n<div>   - Rollback/pause controls</div>\n<div><br></div>\n<div>4. Perspective Mode Toggle</div>\n<div>   - First-person view (user)</div>\n<div>   - Avatar perspective replay</div>\n<div>   - Third-person analysis</div>\n<div>   - Split-screen comparison</div>\n<div>```</div>\n<div><br></div>\n<div>### 3. Responsive State Management</div>\n<div><br></div>\n<div>**Universal State Machine**:</div>\n<div><br></div>",
+  "context": "From document: AI Review & Expansion Prompt: — chunk 19 (chunk 19/25)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "f193a3a0a188e43c3f5b1686778be1f5",
+  "relatedUnits": [],
+  "keywords": [
+    "indicators",
+    "state",
+    "mechanisms",
+    "interface",
+    "toggle"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

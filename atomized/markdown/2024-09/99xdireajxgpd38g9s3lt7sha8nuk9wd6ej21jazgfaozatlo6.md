@@ -1,0 +1,31 @@
+---
+id: 61c14662-2b7d-4b5b-b286-9a3a3f11010e
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    99xdireajxgpd38g9s3lt7sha8nuk9wd6ej21jazgfaozatlo6mlmmtcmn0qn51nshsgfpqc7c5r7ezd4shsxpdroun4ophawbse8ornpmnl8at0fsrxpc67oei
+  - 5qcn1pmc3enh6b1c
+  - w0crmexeumkskaee6rirkrvloqqbnm38j0ytoaqopz
+  - 2bxz1shmvhiejfpseary7uokmcocb1cz1s9yvywtsvhbphducecrjocqqzjjglwzr
+  - ki0fnfhe7jamjh17gm7qhqm8tifwpcmp
+---
+# 99XDiReajxgPD38g9s3lt7sHa8nUk9WD6eJ21jazGfaoZatLO6MlmMtcMn0qn51nSHSGfpqc7c5r7EZD
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 2296 (chunk 2296/11534)
+
+## Content
+99XDiReajxgPD38g9s3lt7sHa8nUk9WD6eJ21jazGfaoZatLO6MlmMtcMn0qn51nSHSGfpqc7c5r7EZD4shSXPDrOUn4OPhaWbSE8ORnPMnL8AT0fSRxPc67oEi/5QCn1pmc3enh6b1c+w0cRmexEuMkSkaEe6RIrKRvLOQqBNM38J0YTOAQOPz+2Bxz1SHmvhIEJfpSearY7uokMCOcB1CZ1S9yVYwTsvhBPhDUcEcRjOcqQZjjgLwZr/ki0fNFHe7jaMjh17Gm7QhQm8TIfWPcmp+kjFl0yV49XQJfhCRWTspEI1ts+6BEP1UJWDx5PFcES+MFmPVLwpeLM5m3eDx+PlaNabSfWmm7H6vvK+SEKe7e4TEyLqw0mN8WoiO10YjUyKs13CA9ozvVgCuABl5xao45+OE4hIYQqEDARWphpJaSSLfPpAOz6IV30d1N+xC2cISx97JfPbUApangDwY72J6BDzTfi0GU/5ScVuegtOXcYBvAHELMylbafikdGEXJjMTSSCu/uq+4iyBWvZWBE+GYQr0F8zVMbfzn8bgGJod7I+LYy0kcsbPo7nRSiNQJzAhbEK1U+cTCRSkR4EP94+9UE27bQSI3eZJXRvpMsWWbem/phdoDCgX8Fa15zwr9jWLc+O1imWLxlP+E2e9FgiYPJQnySo9S74SraBpeaRradMPsub4pbucemcccVwDJnK/hWojcXmXgwZeStqg1xTyMOMtOS9pPWoBJUgbGAHpDJw2Bikf/Vb0BlriqDPqv8LE738EnfrxLFQx15SWFH/pPbHhTXs1wx9zBXuq+ONJCiqvYm8b3U0PdHxnpvs7GtHEsAXPN3RlamW3GPgcZkdO0crU1nPAr7qZqNraywz0/KlxvKzGb+T3BM2AwIbCxOJfSsRKZabyvo7WPO4yImFTMJ3Ac+HkoyuVMETx2cCjSCs5RbW99bu6eyvHq0cHMxVjqYOrO8Tj/cPRRZ66CcvNu9tHJIOVI5KB0sHSoixi+Scp21166PuW+6KI8/2qmUQLzyXXRe8XUcKmcfGEFxC/RUW9yOByhBfRzSqfOYu8Pg6eUjl1I/ALj5awE/wnsaa0KGF1t9bh1ei9YTntEeSVgFkDt0X3ggmXVJKnsqSzniF7OJZZ3ssMh+Z6sci872pckyGXGpM2i9NVePlxQKRhETMmQQe1yeasRJI59Ei0x
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

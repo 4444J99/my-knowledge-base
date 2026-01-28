@@ -1,0 +1,33 @@
+---
+id: 269a77c8-5c13-4a9c-8bc5-b04d5c5f1320
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - gljtdbaaxe6wdibwz09xd
+  - >-
+    cqcf9wcys2j68hjwptjcgbmsvlq1fxrfvxgagyxolghmqrhkzinuwgdqxidgj6mgbgdo3bvhgxc2x6j
+  - wbp6l2bswpc3b6snqamxbrnd87vzh7m2xk
+  - >-
+    8awcip5casjdauvxzth4aejaaqbkambeatwrlxq0eggauvs64wwgjhfea2aimjbgaacwaq2oayqkausga3yaa
+  - >-
+    wglbkqiw0oaepugc57d0qmqqdgaoa8akqecs1chrqvjhy55rtcrjxszqxmqm7obdylxalm7kqmwrxjrk
+---
+# GljTDbaAXe6wDIBwZ09XD+cQCF9wCYS2J68hjWpTjcgBmsvlQ1FxRFvXgaGyXOLgHMqRHKziNuwgDqxi
+
+## Context
+From document: Strike one — chunk 849 (chunk 849/4795)
+
+## Content
+GljTDbaAXe6wDIBwZ09XD+cQCF9wCYS2J68hjWpTjcgBmsvlQ1FxRFvXgaGyXOLgHMqRHKziNuwgDqxiDGj6mgBgDO3bvhGxC2x6j+wbp6l2bsWpC3b6snqamxBRnD87vzH7m2xK/8AwCIP5CAsJDAuvxzth4AeJAAqbkAmbEAtWRLXQ0EggaUVS64WwgJHfEA2aIMJbgAaCwAq2oAyQkAusgA3YAA/vAA/wgLbkQIW0oAePugc57D0QMQqDgAoA8AkQEcS1ChRqVjHy55RTCRJXsZQXMQM7oBDylxaLm7kqMwRXJrk+kIlSQiUcChQpUKHj+kvRGhFkDBHVoxAsEAMHAAAwwALtKgAhIAZI0IqHcZeHAbtxsAELAAD72q8uUAnmUA8W9AwVW4AGiDbAiDUY5AuBQAjqoAyAAAjP8EI0dA6X4LwFKBqucaX3sA3icA8MVUTe2IEW0YEaeDfdWHZrlw0AIP8OTdREvSAOAICOtRwrk2ALlqDLU/W+CsGm8WsM8WsR+aibmgoAvamn57YLqWY8WFiz8KgQ52Z3eTd3yeC+BOzMH6kLJsUFLVAAEOAHjoAQmRALsSAMUiu1wVCesAAN6IwO5/BFwvANVAgJZPAIDuACj/AMy6AM5oANy3Cq2EAOL4y270AOsoANcYAFeaAIObwHUpAFER00cKYGAGAGFgGsQIEVADesECGsGPHREGEYOKIGWBkVT+GIk6sykpvSPjBYNpBx1Ge5gxUEEeEDkyW6F4EAWvI/EikBKNByoXWjRaMGd7AYjrFzL/AEU2BrgqxBs3A1oREaqaEofYIZD3j/Dr7wBbZQD8/gvLx7GZHSC1/gCzR0pVOdsd7AT1/H1p5pyiBRUFxXXEYkDpeAjr6gpLYQzL4QzFM1CdpVPKsgwppwj2l6Eb98j0ArzQDQCnv6zGpKpxgxVUALd8A5jwV8zcHszKvA2WPQAAkQBp4gCacACo4gU6fQONAADV9kkt+AzpZaDNBQDJsgCIVghrDwBS5gCV2tDM8AD+ZADspAC8qAtgRNDgZNDqBAC3Gw3HlQBXXZukGDGBGRxBfhBHwIcBwdFcL3VnPw0VGw0RHRB4erFiEaWSGqxVQWoiKqlSMaflfsWACwZQCwAS4NEqa7lgGAADBAx7AoY2eSGGpw/wVsrHM9gFpPcLuCbA8KS7EPSA9RA3XnRBoZRA/n
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

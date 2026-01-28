@@ -1,0 +1,24 @@
+{
+  "id": "735a5682-8767-4cc4-80ce-fd4e399ec0e5",
+  "type": "insight",
+  "timestamp": "2025-06-30T14:52:05.000Z",
+  "title": "<div>Pay to Honda to remove Default:</div>",
+  "content": "<div>Pay to Honda to remove Default:</div>\n<div>$719.02</div>",
+  "context": "From document: Pay to Honda to remove Default:",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "95a0328a2e97ff4dc61be9f42f5adcd9",
+  "relatedUnits": [],
+  "keywords": [
+    "honda",
+    "remove",
+    "default"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

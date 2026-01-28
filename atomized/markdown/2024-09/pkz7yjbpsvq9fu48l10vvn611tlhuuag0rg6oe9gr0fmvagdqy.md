@@ -1,0 +1,31 @@
+---
+id: b5cf3779-8775-4e59-8f6f-5c415cd1f091
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - pkz7yjbpsvq9fu48l10vvn611tlhuuag
+  - 0rg6oe9gr0fmvagdqyy
+  - >-
+    utkox89dvwix1rruuds70sds6gfwtksq6vdq6ho8wlox2r5ufc3kimrcre6ot4cx8qse72plkimslofwtg8wkvyxxffhxo005qgljo1ntt2wjyxfnv8ebz2gqmnhmhzf9mlptcouq32dnuh
+  - hqm0tcnq2zgnp5byz
+  - reb5oo8tqy8tqmrapnbjjpzxvoijwbfnlcjuwmjen1ystiygbmzpb3somis9wf0ob07zwdmmq42u
+---
+# pkZ7yjbPSvq9fU48L10VVN611TLhUuaG/0rg6Oe9gR0fMVagDqYy+kaW+UTkoX89dVwiX1rrUuDS70sD
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 1522 (chunk 1522/11534)
+
+## Content
+pkZ7yjbPSvq9fU48L10VVN611TLhUuaG/0rg6Oe9gR0fMVagDqYy+kaW+UTkoX89dVwiX1rrUuDS70sDs6GFwtkSQ6vDQ6HO8WLox2R5uFC3kIMRcre6Ot4cX8QSE72plkimslOFWTg8wkVYxxFFhxo005qgLJO1nTt2wjyxfnv8EbZ2GqmNHMHzF9mlptCOuq32dNuh/HQM0tcNQ2ZGNP5byz+REB5Oo8tQy8tqMRaPnbjjpzxVoijWBfnlCjUWmjen1ySTiYgBmzPb3SOmiS9WF0ob07ZWDMMq42u+PrCrnpK3y91jvobNfRy7hTv16gV8qAUu7UISRnJRxWtxpXa4fyduO6dFHO1dFWu19/Y3SpdijkB5qwV79aOhJ2KaNP/cpCfkJ/WgMIa084VvYmW2RfzI4IZkhWlXADgOugGh4hkaxMA6qjhx2XfIj7hTsfKhHguhBrxBq+W9E2SydPYmRyi2A1QU72NFkuORLORSdyG2Yp72MkiZdzSBj72pCE5ce87fhcPK6lKsF7eE1ARsJ4uY675LKBrVW0/IYrDBhYXRWSk8CYNyLjGcq8kni8XEQvoNJP0mtXaGe/Wl9+gs+47wnuwr5DGq531si6lBtsaEw8zkGsXYsfqZlOsoPcUlJFnun/X7VMMZnX2IoygkT/qJHREv3DFllVtHPxuEaSc5z3fR5WKLvcwCCbShDKBLVugFqxLuEuQPeCConH0nGD6BEVZNfUKhzrm2WOdMP9aGOMQQPhJPurxeBDIEB12z7FE7GZWPK4stvJyeoo29ipbRR2JvvVrfxGN1te15BsSBVTlcwoPkUCKVxTKH/jbWN/67zJ+6rjueQ0IGFEFXCg7ZugbTQ+s1e9BV/N9iT4YkWQazBzxPL7k/14VruiXe5cVN5o5bXL6hvKlYLWOR4clHfyh0p2vFE8UnbG6vighSIRAMBTpVQlNljJJwUqCsnj3h0rHo7oc1fBkX59ulvKlJI1+gSOUtNciYDhVf4MJLdkja3SblcdJxp7UqaSrKPZKyFtF1K1mLCjphoxEajbmJytJ2WqzhETzXCNnzsY96jKzxE4xykTtUiEJIGV6dxhJxH+TCVVo1HRNCEG/PJprEnJgzE4TK5bVANTd5zx7Glg4qpKYzQiWz6CpkZr33vT8ab1BCBN05chSi1+BbbLxSNWMPEG0jyL+/YH5p74Re
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

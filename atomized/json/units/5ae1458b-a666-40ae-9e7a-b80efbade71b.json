@@ -1,0 +1,26 @@
+{
+  "id": "5ae1458b-a666-40ae-9e7a-b80efbade71b",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Wants to track thread health and progress in a visible, data-driven way. This includes displaying key raw data (backend/task/thread stats) at the top and bottom of responses, showing how many questions have been asked vs. answered, how many objectives are open or closed, and how many referenced items have been completed.</div>\n<div><br></div>\n<div>Attempted to sort and organize their past ChatGPT threads but found the interface didn’t allow full access to earlier sessions. They want clarity on whether ChatGPT has access to the earliest threads they created.</div>\n<div><br></div>\n<div>Often alternates between two modes: (1) analytical and organized, and (2) impulsive and fast-paced, seeking immediate results without concern for continuity. They want the system to support both behaviors. They are considering implementing a set of “intro questions” when opening new threads to guide focus and structure, but want to revisit this after completing the current system-wide cleanup.</div>\n<div><br></div>\n<div>Is concerned that valuable iterations (e.g., naming structures in “floating_points”) get lost in the revision process and want a system that locks and stores all versions for future reference.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_041225_MASTER — chunk 19 (chunk 19/35)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "a6c8d7ecac270c27cc9e416b39cd8866",
+  "relatedUnits": [],
+  "keywords": [
+    "they",
+    "want",
+    "many",
+    "threads",
+    "system"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

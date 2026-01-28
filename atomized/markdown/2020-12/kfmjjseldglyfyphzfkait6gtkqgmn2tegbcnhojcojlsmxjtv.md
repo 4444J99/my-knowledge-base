@@ -1,0 +1,31 @@
+---
+id: cd8b3bfe-6274-415f-8982-eb4d286785c3
+type: insight
+created: '2020-12-04T00:15:12.000Z'
+document: e44d7acfd42bc15a324166b827d0b603
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - kfmjjseldg
+  - >-
+    lyfyphzfkait6gtkqgmn2tegbcnhojcojlsmxjtvafmhricoesxjbkaqwqlixrjozqwoqv2lnmrxsxthevpb6lezbjlb3besoj2t9vnvhs87v2dkdr5nnjrazdkwqimyeaikkcwcfx8eof46bmpgehvcyuwcdin3urdnzwddfthgzj
+  - p63tubrpazfugtwiqm89
+  - m3pnwalacgmofwqr5ayigzctydacacrmmom16pmslfgdm48zn7k
+  - gdax7wxgbepwqoaif1xapvaplxqplkis
+---
+# KfmJJSeldg/lYfYPhZFKaIT6GTkqGmN2TEgBCNhoJCojLSmXJtVaFmhRicoESXJBkAQWQlIxRJOzqwoQ
+
+## Context
+From document: How Geniuses Spent Their Time — chunk 196 (chunk 196/812)
+
+## Content
+KfmJJSeldg/lYfYPhZFKaIT6GTkqGmN2TEgBCNhoJCojLSmXJtVaFmhRicoESXJBkAQWQlIxRJOzqwoQv2LNmrXsXtHeVPb6LezbJlb3BeSoj2T9VNVHs87v2DKdr5NNjRAzDKwQIMYEAiKKCWcfX8eOF46bMPGeHvcyuWcDIN3urDnzWddftHgZJ/p63tubrpaZfUgTwIQM89/m3PNwALAcgMOfwQR5AYigzCtyDACaCRMmoM16pMSlfgdm48ZN7K+GDAx7WxgBePWqOaIF1XApVAPlxqpLKis/6JFWI8pbSqmpBdV2kbWAiGYdqFG2aPS6tf/AZ0B6pQLU/K6caYXMClPzo8rCOEuid/np9wacM02/i2hRXTU/Fscg3n5sPCZ/5LLJDywYL1gDguQA8FSNA66843oZVFlfGV2FxbTbjDErq0cfcyz7SZnxM63nsAl3SmLpuWBqxKixmH8MP0dJuXWKF4BrprhvqvvdPdFP3FTXXX8j61NNmpxx8MF/dR9AOeAIWFbfonrD/JeA4KARwKXuoZZSPEUD1j0/UldmVA8/vCK3lBqRsGogtUjGiMBS85vq3wkSV7RRAJk4Sa6VKdYksJYlCcz0xu4EYf4lsCSTHJGpM7RU3ixZxBIldktSqoR7LjW8kpBDIy60rk5+KgDYTJ9yIcoUdkqPtjYvWtiRQQC7/X2O5J6AtBgqV3/0kzZN+vjxISzrfPXV119t//rL7dsZBHArw3XXXcetYob5aruSvrIki1q+X3713vvvM0TgrD+3+mDpcV2efc45XAjYvEXz008//cILL+zSpcv06dM3bd786tatb7+zjf0EL23ZcsUVV2DRuReIVQP2A3IlMM4AvAh7c7UA6rX3XqwygMGjgEy2B6a7BH6Vhgg2IPj5zxk0/PJXv+TmAMKTTjqJXf11Ghjdo5SQkIk+6/nCM4gZOIifXLWO16TVp5opR4VJFa4WAVXSBBJ8cAUyA9HWqVmdWPRWhlKgJ6kYRpCTEnEWWMpR8dJvaWj+LRkpzplykhSJzhlEThLkxTBGSU/sYDO9EbhY/k9ZGCrllQD+i1zKTMVSMmaxkWMU2zYMj+tz3fy+57LPny/6cNKP837Zc2W7V7QiQJgcWZyontfhug7pM32y+qW5Feakk+pPAegooFKZ9+NxZdbOSf0xY8cvWfowG/o4v8dBPvb8T5sx
+
+
+
+---
+*Source: Document e44d7acfd42bc15a324166b827d0b603*

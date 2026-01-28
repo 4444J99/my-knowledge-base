@@ -1,0 +1,32 @@
+---
+id: 9effc430-13b5-40e3-a1d5-1840e6a3978c
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ao54telclemv6zpor99opthy6pvsddcrnjbky
+  - >-
+    lky3kx3sdsrdr6jjklffqjt8imheutxuciazwzdszd3jkyxypdxpidokmtoiq7vu606iz8qrpk43n6wtafz7gj9oey3bdohymzr
+  - >-
+    zt5ump67q3xwvaompbtrqcreic7pg8cibqbqhx5g2ree6kxjj9wi4xio0u2ko4qckgusgs7gvibeeeusckn4vcvnzhevfsoiv4bby1ddblj6lwrbdfwghpmpjfthdodnast
+  - lzmup
+  - r593jfxz0yxpgovbjvldymlc7jl
+---
+# ao54teLClemV6zPOr99Opthy6PVSddCRnJBky/lky3kx3sDsrDr6JjklfFQjT8ImHEUtXUCIAzwZdSZd
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 7589 (chunk 7589/11534)
+
+## Content
+ao54teLClemV6zPOr99Opthy6PVSddCRnJBky/lky3kx3sDsrDr6JjklfFQjT8ImHEUtXUCIAzwZdSZd3JKYxYpDXpidOkmTOIQ7Vu606Iz8QRPk43N6WtAfZ7GJ9Oey3BdOhYMzr+Zt5uMP67q3XWvaomPbTrqcrEIc7pG8cIBQBQhx5g2rEe6kxjj9Wi4xio0U2ko4qCKGuSgs7gViBEEEUscKn4vCVNzHeVFSoiV4bbY1DDBLj6lWRBdFwghPmpjfthdodnAsT/LzMup+r593jFXz0yxpGovbjvlDYmLC7jl/ivmTjslrte039WOxrd4V/0a37SsGt/h5fe3Yn/3c/0+NNX03j56y6wc+RC9JrPWtsMvSGQ90VmN6buAny0j97KJnrDzrwGwi90VichV5TGqMM8aoKznf48PJawZ4KJ2ZzwwrPO7nLFQRXRzzhLF6HaEKPuGp13KG12lCsiY4TpjI616b3xOoTnlhnXF+0m966c2G7rvmvM2b1F2vJStypfQuqIqm5d4fMz9VqW7KfHIf92SKch8cma1gubfMwBWb39eaKuZs3vHyiml+6DmeMq1ici/PXh2E0z1UCad7SiI4qEou/XImuZ7ucUWVf3hXOuBgHaxYeqCJSGuJAik2MxBSV5ETr4vDnZlJnLzKP3d+UZXVoJjPxk8xvzwW0lHVhGXapBrTOnh0iOCgq/A75gnQzI9Wal3nP/HzDKRDKzr6GalqnpBY9VpYkSu5d2GV5nzG+RsdZHXkKZr7QXKercE4YzzPQPd/zPw/vld16ZLygvl5vXzUaqGgucq35+a38trMZ6c+YzhPXMk/O7XgHJ47//U54XNl5bXJt80RKM/nkNB/38//Ufcb2944wPvGVp9mo+6qATar+gc5rtool7LcwrbWqm24rCXsOjbDaP+c7FoT02sr51eM8J68y9d+Ky45b8ku3uW2fPPd9qqxG/pv8zeMvWhsY+vazTeO//LwleuvGlnXv3R4+aY/2XHd5tUbPxb06TU7vu70Fj3wVfdfe24c/0rYuO5Vo59Rt9tb1IfMR+L71MfDPWqLusffGd8ZPxF+q3/9wD3q+jWrd3ze9vcu3Xm/Wzq4ZKcPfT3LRnaEvoElG9kgXLaGzbmlp3napZvZolu2i+PyPpiLiHKJy1GOK8WqXLYd/G/qJWtW9HzWX7bjsk238865Httz
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

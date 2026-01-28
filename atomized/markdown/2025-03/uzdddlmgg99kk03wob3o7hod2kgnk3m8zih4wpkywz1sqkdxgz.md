@@ -1,0 +1,32 @@
+---
+id: b62c5229-fad1-4751-b1ef-59aa5b2078ed
+type: insight
+created: '2025-03-13T23:47:48.000Z'
+document: 3b2e4f3759d2535cf9a91dec728a8fbc
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - uzdddlmgg99kk03wob3o7hod2kgnk3m8zih4wpkywz1sqkdxgzx4cmxc5b
+  - >-
+    godxdjzrkq0noaqibgqyckasi9e8hkysqps6uttlrcfbkljz76aju7xd8869hlya211op1cvkppfby8ostt4ypp
+  - wwtd311iu2urc3ycklfjavvkgb5bfhhfewqobrevqsck6wwgrhd7
+  - 7xfyi
+  - >-
+    wwaohncdlmqdxqhulrx0kq3n66aexnxhjjtegw265jfyuwbo9oj11vst23aukkkcaagoo0o0cbqtdthzif9otttiikeuhycnyo
+---
+# uZdddlmgG99kk03Wob3o7Hod2kgnK3M8ZIH4wpkywZ1sqkdXGzx4cMxC5b/g9+gOdXDjzRKQ0nOAQIbg
+
+## Context
+From document: Squarespace, ChatGPT, GoDaddy Expenses — chunk 415 (chunk 415/2268)
+
+## Content
+uZdddlmgG99kk03Wob3o7Hod2kgnK3M8ZIH4wpkywZ1sqkdXGzx4cMxC5b/g9+gOdXDjzRKQ0nOAQIbgqycKASi9E8hkYsqPS6uttlrcFbKljz76aJu7xd8869HLYa211op1CVKPPfbY8OSTT4YPP/wwTD311IU2UrC3yCKLFJaVvkgB5BFHHFEWQObrEvQSCK6wwgrhd7/7XfyI/5fI/j/wwAOhNCDlmqdXQHulrX0kq3n66aeXNXHjjTeGW265JfYUwbO9Oj11vst23AUKKKCAAgoo0O0CBqTdThziF9otttiikEUhYCNYO//882M33O233z5+aax2VyqtR5fX1157Lfz5z38Ot912W/zyR9e6BRZYIGZkU1YnbePiiy8OV155ZXj99dfDbLPNFrvw8QWV7sODBg2KQXOq25HnH374IVYvzbR0pI1U94UXXoj7Q9dRujfSje+RRx4JE088cdh0003DXnvtFTNCp5xySqBrIl/iWZYvf/jDH8K3334bdt5559hNks+GDRsWvxA///zzgQz2PPPME7bddtuw3nrrFVYlaKC7KN2tzzzzzMJyXvBFn2XPPvtsoJsrPzzQpXP55ZcvqnffffeFM844Iwa2dNNk/3bfffew2GKLFdWj+yUBChl0Ah/OA8ELgURnCvtEEEcwXSkT1dE2Cao++uijsOaaa4bnnnsuPj777LMwwwwzxACG7NsXX3wRryfaJqjJ/8jCecScYGXLLbeMm8edrtmvvPJK7AJL/VlmmSWss846RV0177333rjt5ZZbrvADDw28/PLL4a677gpc43RPnmaaacIaa6wR5pxzzth++ocfSP7973/H7dCFmX2lDsfCOWmtMNaTfXzzzTfjsdCtlW0R4JFJxIMsJtcHhawnx5Iv/BBFN3uCK7rJpkK33n322Se+zXdLffvtt+M4T3oW0O2WYJj1qZ+6T3OsdIvl76u9vzH+ZlZdddWigDdlevM/tKQAN3/O0r6WPlezj6XrkAm+++6742L2p1Kppk6l9VymgAIKKKCAAr1foPVvZL3/2BrmCAgOrr766rg/yyyzTOGL8MMPPxzHi6688sod2tdK65GpYRwbAWb6Ekwgds8998QvpQRP6csz48wISCl8+eUzMiZXXHFFeOmll8KCCy7Yof1JlfmyTgBAl7xadNflizJBC0EEXQ/pHkkQQbDAuD4C
+
+
+
+---
+*Source: Document 3b2e4f3759d2535cf9a91dec728a8fbc*

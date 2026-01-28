@@ -1,0 +1,26 @@
+{
+  "id": "fecc19ab-bcaf-4c72-a612-819a9becfd58",
+  "type": "insight",
+  "timestamp": "2011-08-31T15:44:57.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Login Info</div>\n<div><br></div>\n<div>[REDACTED:EMAIL ADDRESS]</div>\n<div>merlin11</div>\n<div><br></div>\n<div>E8002109EE</div>\n<div><br></div>\n<div>Dad social</div>\n<div>118 60 8651</div>\n<div><br></div>\n<div>Mom social</div>\n<div>[REDACTED:SSN]</div>\n<div><br></div>\n<div>Liquor Security</div>\n<div>0428 606</div>\n<div>0428 2</div>\n<div><br></div>",
+  "context": "From document: Login Info",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "012a77f662b48e61bf97524e4e533800",
+  "relatedUnits": [],
+  "keywords": [
+    "social",
+    "0428",
+    "login",
+    "info",
+    "compupat"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

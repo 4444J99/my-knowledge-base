@@ -1,0 +1,26 @@
+{
+  "id": "c16083ee-f0b0-4428-a5a1-e84a49cc8752",
+  "type": "insight",
+  "timestamp": "2025-03-05T14:18:11.000Z",
+  "title": "</tbody>",
+  "content": "</tbody>\n</table></object><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Your assignment Classroom Observation has been graded. </div>\n<div>graded: Mar 3 at 11:10am</div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n</tbody>\n</table></object><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><u>You can review the assignment here </u> |  <u>Update your notification settings</u></div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div> </div>",
+  "context": "From document: 1: — chunk 216 (chunk 216/630)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "d56851c0b64e6fc46a6205c88fb237ad",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "tbody",
+    "table",
+    "object"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

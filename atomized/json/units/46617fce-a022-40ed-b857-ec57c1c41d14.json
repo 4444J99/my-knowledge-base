@@ -1,0 +1,26 @@
+{
+  "id": "46617fce-a022-40ed-b857-ec57c1c41d14",
+  "type": "insight",
+  "timestamp": "2025-12-12T15:31:08.000Z",
+  "title": "<div>   * Input: Current rent, lease start date, property address (to check &quo",
+  "content": "<div>   * Input: Current rent, lease start date, property address (to check &quotSmall Landlord&quot exemptions via public tax records).</div>\n<div>   * Feature: Auto-calculates the maximum &quotreasonable&quot rent increase using the live HCR inflation rate (e.g., 3.79% + 5% = 8.79% for 2025).</div>\n<div>   * Output: Generates the legally required PDF notice (State Form) ready for e-signature.</div>\n<div>   * Why it wins: It automates a legal requirement that carries high liability if messed up.</div>\n<div>B. The &quotLead-Safe&quot Lifecycle Manager (NJ Focus)</div>\n<div> * The Problem: NJ law requires lead paint inspections for rentals every tenant turnover or every three years. Agents managing rentals often miss these deadlines, blocking the Certificate of Occupancy.</div>\n<div> * The MVP Solution: An automated &quotInspection Watchdog.&quot</div>\n<div>   * Feature: Tracks the &quotLead-Safe Certificate&quot expiration date for every unit in an agent's portfolio.</div>\n<div>   * Feature: Auto-schedules inspections with approved vendors (e.g., Lew Environmental integration) 60 days before expiration.</div>\n<div>   * Feature: Digital storage for the specific &quotLead-Safe&quot certificate required for municipal filings.</div>",
+  "context": "From document: The following research report outlines the current state of the NY… — chunk 9 (chunk 9/26)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "39281f48fc8bd56851da45e8b9b8a9c2",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "feature",
+    "quotlead",
+    "safe",
+    "every"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6ee43c13-0573-4959-b349-81b373df0ce0",
+  "type": "insight",
+  "timestamp": "2025-12-11T19:52:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>-----</div>\n<div><br></div>\n<div>**PHASE 2: Prototype Development (Weeks 4–8)**</div>\n<div><br></div>\n<div>You choose a direction—or we choose together:</div>\n<div><br></div>\n<div>**Option A: Adapt a Classical Text**</div>\n<div><br></div>\n<div>Pick something you’ve always wanted to unpack: Greek tragedy, Shakespeare, a contemporary classic that matters to you. We redesign it so audience input reshapes *which* themes dominate, *how* characters are perceived, *what* emotional valence the piece carries overall. The classical structure becomes the skeleton; audience agency becomes living tissue. Example: Sophocles’ *Antigone*. Audience votes collectively influence how much emphasis falls on state authority vs. individual conscience. Creon’s intransigence isn’t predetermined; it’s shaped by what the audience collectively finds most dramatically compelling. The play’s outcome (tragedy or redemption) shifts based on distributed input, but the narrative coherence remains intact because the parameter space is carefully bounded.</div>\n<div><br></div>\n<div>**Option B: Create Something Entirely New**</div>\n<div><br></div>\n<div>A short theatrical work (25–40 minutes) conceived from scratch as participatory narrative. You write the core material; we iterate on parameter mapping in real time. The system becomes a collaborator in your creative process, not a constraint imposed after the fact. You’d be inventing new dramaturgical territory—work that couldn’t exist without real-time audience input.</div>",
+  "context": "From document: Chris, — chunk 10 (chunk 10/25)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "95023b367d0cafd95246c623bb5c2f5c",
+  "relatedUnits": [],
+  "keywords": [
+    "audience",
+    "input",
+    "becomes",
+    "choose",
+    "option"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

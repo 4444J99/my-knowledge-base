@@ -1,0 +1,31 @@
+---
+id: 18cf2f73-535d-4570-b2a4-780e4f8b1b06
+type: insight
+created: '2025-05-18T23:05:52.000Z'
+document: 955e78dcca103e5ba9c46535a5ea6110
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    ulxvynfbxygkkjmjacmco1vodvg8ik8owrafaycycpks8iqkaeahhe37ztw1q1alvavnx5sdh5deilsryr7i9z1z2vd44strt3767h7rzopa677rr0oq99kl3yla980xmeahybabocaxwie0iaqgsjxfs4qp1f7ej7k3wipmju4
+  - 9rqyubmhr06bqxnvr3ajgzi2ocdpdyizel
+  - bdiivjnn99cjkto6l3ji1jut2zvfkh9sabesasutldu3vqmpokpp1rjcbxp356d
+  - cnu74s3zs
+  - r5fb3jb9gohnmnqbeavlj
+---
+# z+ULxvynfBxygkkjMJACMco1vodVG8iK8oWRAFAycyCPks8iQKAeAhHE37ZtW1q1alVavnx5sdh5DEiL
+
+## Context
+From document: ][ . E . A . R . T . ][ — chunk 28 (chunk 28/117)
+
+## Content
+z+ULxvynfBxygkkjMJACMco1vodVG8iK8oWRAFAycyCPks8iQKAeAhHE37ZtW1q1alVavnx5sdh5DEiLsrYR7I9Z1z2VD44Strt3767H7rzoPa677rr0oQ99KL3yla980XMeaHyBAbocaXwIe0iAQGsJxFS4qP1f7ej7k3WipmjU4+9rqyUBMHr06BQXNVr3AjGzI2ocdpdYiZEL/+2//bdiivjNN99cjKTo6l3ji1jUT2zVFkH9SABESaSuTLdu3VqMPokpp1rjCBxp356D/3+cNu74s3zs+r5fB3JB9gOHnmnqBEAvlj/oO1z+tj253gHxbvYqBndXZgP8eQ7WDtjaAHtTen8G/rc8K+AvchLi7OadKNKNbvM/1ZbXbEg5AZBOkQDIE3zS0PzVZngu/5MnDp1oRRLgH/Kv+fiOeV1OAuSZGRqBgRCIQNcDDzyQnnjiiao/LmbLqv1fNZcNCRAYJIEo5ROB+lhPLYL98f+5xx9/vAj6RwIgZjxFqZ9Gaa997WuLkf8ve9nLGmWX7EeNAhIANYLZnACB5hd47LHH0qc+9akii97b3px55plFfb3evr7yupiyV22LBMC4ceOq3bwlt4tg/Re+8IUiAdAVwIgRI9JVV12VwvPGG28sjuNHPvKRIsB9qtdU6iie6rlWeSwSAHHudTWaJEbnxYgUCYDGOSOOtG8tyv5sqFPwP3rWkZMIBw4/kyal6xqnozXsSQz+PzhIMwDGDmACoEISswFibYDrcxLgVVvzo7E2QA7s9ms7ktK/5Nnm5+Tr1X/Ki/K+If/JUqmnX8VrfvOheRzBsJwEONxFXvvw0ylN+n/yqP+/y0mATpUDohzQrlwO6OievCbAW59bZLnmD/cCAjUKREAsav9Xu3BlLES5YMGCFKU6NQIECDSSQIzMr5TyiQFrEeyP/8dF8D+SADHgrNr/1w1kv+L/q29605vSTTfdlC6+OOoyas0qIAHQrEfOfhMg0CuBqKH313/9170u/RMfGgHkSy+9tKgh36udOP6i+ANfSwJg/PjxKW5a1wLf/e5306233trt1MiFCxemmAEQLUa3/8Iv/EIaNWpU+vCHP3zKdQOuv/76dOWVV3b9oS3wTJQBijUvukoAxEyWmAUQF93a4AtEmZ6o+b9xx5/XZeR/pUdHc/B838GH8q8xnWAQItqVHenD/f5BSAC8enj+
+
+
+
+---
+*Source: Document 955e78dcca103e5ba9c46535a5ea6110*

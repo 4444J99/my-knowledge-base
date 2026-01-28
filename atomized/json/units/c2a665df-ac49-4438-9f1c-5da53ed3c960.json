@@ -1,0 +1,26 @@
+{
+  "id": "c2a665df-ac49-4438-9f1c-5da53ed3c960",
+  "type": "insight",
+  "timestamp": "2025-02-12T16:21:40.000Z",
+  "title": "<div>0 pts</div>",
+  "content": "<div>0 pts</div>\n<div>No Credit</div>\n<div>Offered fewer than 2 distinct, relevant, and well-articulated supporting points or arguments that substantiate and reinforce the main thesis or idea presented.</div>\n<div>10 pts</div>\n<div>This criterion is linked to a Learning OutcomeRough Draft : Body Paragraphs, Topic Sentence</div>\n<div>20 pts</div>\n<div>Full Credit</div>\n<div>Body of the text is structured using paragraphs. Each starts with a clear and focused topic sentence.</div>\n<div>10 pts</div>\n<div>Partial Credit</div>\n<div>At least half of the essay body of the text is structured using paragraphs. Most start with a clear and focused topic sentence, while others need some work.</div>\n<div>5 pts</div>\n<div>No Credit</div>\n<div>Body paragraphs are not fully developed, and the topic sentences need to be reworked.</div>\n<div>20 pts</div>\n<div>This criterion is linked to a Learning OutcomeRough Draft: Body Paragraphs, Dialogue</div>\n<div>10 pts</div>\n<div>Full Credit</div>\n<div>Integrated dialogue effectively within the narrative, using conversations between characters or individuals to provide context, advance the plot, reveal character insights, and enhance the overall storytelling.</div>",
+  "context": "From document: Week 2 Canvas Data Dump:  Week 2 | Overview: — chunk 19 (chunk 19/24)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "0d4efdf09cb66aedfded39b9a4c3edf4",
+  "relatedUnits": [],
+  "keywords": [
+    "credit",
+    "body",
+    "paragraphs",
+    "topic",
+    "sentence"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

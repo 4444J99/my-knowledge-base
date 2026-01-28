@@ -1,0 +1,26 @@
+{
+  "id": "a09edd1e-3c0a-45fb-b298-f89ee555c1b2",
+  "type": "insight",
+  "timestamp": "2025-12-21T14:32:14.000Z",
+  "title": "<div>Create (if logical) Project, Issue(s), PR(s); assign agents (@Gemini, @Copi",
+  "content": "<div>Create (if logical) Project, Issue(s), PR(s); assign agents (@Gemini, @Copilot, @Codex, + OS-Agents) swarm to round the tasks thru critique , complication, etc.;</div>\n<div><br></div>",
+  "context": "From document: Create (if logical) Project, Issue(s), PR(s); assign agents (@Gemini…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "8f7f85530b93af9c5308c1424e13d3db",
+  "relatedUnits": [],
+  "keywords": [
+    "agents",
+    "create",
+    "logical",
+    "project",
+    "issue"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

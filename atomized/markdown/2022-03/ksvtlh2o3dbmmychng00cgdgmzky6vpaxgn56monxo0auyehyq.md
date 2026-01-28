@@ -1,0 +1,32 @@
+---
+id: a5f66a02-04ea-49a9-9ecd-9ee631f396f0
+type: insight
+created: '2022-03-16T12:34:10.000Z'
+document: 7405c2da6b92da26b0b49297d3a4e664
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ksvtlh2o3dbmmychng00cgdgmzky6vpa
+  - xgn56monxo0auyehyqulaise43vsttsiygk
+  - >-
+    1sqfdjyckvvva0rlqhqnssmhaoleobikdkgelym1jhifhqkazoblrnkdvweucglmg8vzr0pi3l4wwgkash6wkpso5sphyglstj9qry
+  - e9qare
+  - >-
+    0o0f7oypskghvhvc4nvttcccu12l24ha9qcy5iqxvthipzfjsldniqsymox5frrxpljjpfbginayrsqe9hxusldmv5xstgfjmy4qnp3czzqmkisoqehinsngg2r9aiqbygxtucqyo8dqahrzog56crigfzk71xhiddjrs8odx
+---
+# kSvtLH2o3DbmmycHng00CgdgMzkY6VPa+XGN56monXO0AUyeHYqulAiSe43vsTtSIygk+1SQfdJYckVV
+
+## Context
+From document: The battle of the blinds — chunk 437 (chunk 437/1787)
+
+## Content
+kSvtLH2o3DbmmycHng00CgdgMzkY6VPa+XGN56monXO0AUyeHYqulAiSe43vsTtSIygk+1SQfdJYckVVVA0rLQHQnSSMHaOlEoBIKdKgeLYM1JHIFHqKAZoblRNkdVWeUcGlMg8vzR0pi3L4wwGKAsh6wkpSO5SPHYGlSTJ9qry/e9qARe+0o0f7oYPSkghVhvc4NVTtCccU12l24HA9qCy5IqxvtHIpZFjSLdniqSyMOX5FRRxPLJjPFBGiNAyRSQE9hxUSldmV5xStGFjMY4qNP3cZzQMkiSOQEHinSNGg2R9aiQbyGXtUcqYO8dqAHRzOG56CrIGFZk71XhIdDjrS8odx/AUFBFI6Pj1qUS5Ynpiox87bulOc0AJuy25u3SpUYSbmPAHWq4IArQjQNDtHBIoApxyDeSPujpT3kaU5P8PSoo/3BeNhz0FOiIHy9zxQAjzHAPemLNmnFcPsqORQriMUATYPD/wANPndXVfL7GgAEiPsKeYkL7DwBQAODOi5xuXmmSBbj/VjBFNkHzZXpT4doXPegBUJf923QdKRiZH+cc1WBKGrYZydygZxQIZG2yXngYqz8m7efpVcvGxy/B9qbMTuDr0FAIJo/LO5Keq+ZIEm447U3e0zAL2qYFHPuOKBkbbLeYKv3adu3yAp0qEQvI+ZOAKstgYRKAIpVEvzr/DwaGIlhLd04FOWP5tp71E0TRncPu0ASMz+Uu704pI4d6En8KXLzAbB92iGUiQR/nQA8AFCidelMjcQ8S1ExaGYkdzUtwU2Kx+8RxQBcjMknzPxGOlN/1Uw3fdf7tVRcvtUNwB6Uhcyuvt0oA1mKREDOd3SlUFCWbpWXu+ctnO2rC3Szrs6GgCwJIVkyOrVYkKv93tVFYAPvnFM+0m3faORQBeIXAPamtOgO1e1VJrsuNkfBqHdsjAfrQBqbwy7h0pvmBF81+h44rKjneNivrxTXuJFPk9RQBqx3KgZFHnpu3d6yXTy/uVOqhlMnQ4oAvfbdkm3Hy47VCLzdNthHyY71UtXwxDcjFONwm07RigC39pglbK/eFN+2Jt2Hg+1Y4fDZHSnKwzQBqGaRvkbGPao11Dy22D7tUo2McoeTpio3ki88N/DQBpyXbpjy+9H2p/JJj696rtIj4TGBQGSJdqc5oAas8o608TzUweV1oLNHz69KAHpdHeA/Snm/nRv
+
+
+
+---
+*Source: Document 7405c2da6b92da26b0b49297d3a4e664*

@@ -1,0 +1,30 @@
+---
+id: 3cab669e-70b6-4a82-93a9-0e1e1dc75d4f
+type: insight
+created: '2025-05-15T00:56:03.000Z'
+document: 084f9bc77d1d8854a07a52206c286278
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - lwa8gigs2u5ee8quzt0grxnf7nhpvilu2jsg40
+  - xlhln6o8scnyfchpggzsaeilxofjsqajaefnjtn
+  - 1cehgscykxpb6jgivl9v
+  - x3xijwramlxtjygcf6ywsextyz6lyikhvz60aanj9n0
+  - x7p0evwtu0djjmsywr
+---
+# LWa8gigS2U5Ee8quzt0GRXnF7NHpviLU2jSG40+xlhln6O8scNyFCHPGGZsAeiLXofjsQajaeFNJtn/0
+
+## Context
+From document: Grokking Algorithms for OS — chunk 110 (chunk 110/402)
+
+## Content
+LWa8gigS2U5Ee8quzt0GRXnF7NHpviLU2jSG40+xlhln6O8scNyFCHPGGZsAeiLXofjsQajaeFNJtn/0W+1CEhgSCYkXPB6jgivL9V+x3XijWRaMLXTJYgCF6yWsextyZ6lyikHvz60AaNj9n0/x7p0evWtu0djJMsywR+Y1xOWLbiMZOGmUD/c46V694b15/ElzeXluSumxiOKFWXDF9u5ye4xuVceqmvm+612W61GC/WIrcRR/vZC5YyyHO6Uk9CSQcdOK9R+GuqS3NvpekxXNwZGuTeSALhViWP5snqxaR+/p7UAevYpaxtI16HU1+YpFIyvNHHk58gOVWRsjjdgn/APVWujrIqujBlYZBHIIoAdSN0paD0oA8t8dQ+KRrN5NG2pnR9q+WLKTCBNg3blX5+u4njpiuGEW5LO1sSim8uEgRlw2Q5xkA/ePP58mvZvE3i+HQWFnawtf6xMMW9jB8znPRnx91fevODpzeH9H16XUIbeXXZJw4lt0+e3Cqk0siHoqr5gAwBk4z7ZSp3adz0KGP9jSlBRV2rX6kUDXjQ2ke9ILR7GW1leLBeGwtsCV1I6NNJuGcH+Hmt64mk1bwMq3l/aR6sIU1fTbSFNotI49uxRxx1K/N1J4rmdNuLO1l0trgzyra2SXV7sxk2+6P7PbqP9/yyw7lmqaYrB4Vu4oYFN/b3G/XZlTdIjC4CxW8ZPbIUgDjCcda1PPPZtJ1GHV9Ktr+2YGG5iWRe+Mjp+FYes+J/sfihNLEqwW0Ni93e3LbSsA3AIST34YYxzuBxxWJ4I1j/hHNI1yz8RGKzOlXHntEhLCKOYB1UHv8zMBj1xXFaxqV5q99eG3h33Oq30DzxuwCosa5ihPYgYYuenyZoA9e1DxFHZ63pemR28txNqAdv3f/ACyRcfOwPRctj+VWtV1SOwtZxG6G7WMNHEeclm2JkehYgVxPw/kB/wCEh8V3909xbSv5cdzKDueKIHcyg/dVmJwo6Yx2rI0DWb261WPWr6KSSLWLsmzsVOGlZOUJJ/hUFeegwx+oB2PxLgluPhvq8YUvIIldto7K6sxx7AE/hXgegJt03VZEeMSyW5Qb22/u1IkkA9ztRR/vmvpe7vbOaeXS7hfN327Pcr/CkRBGWPbOCAOvB9K+Y9Vja2s7aeL91BfeaY4wekYkwOT2yD+QoA6tJo7/AEiSyi+
+
+
+
+---
+*Source: Document 084f9bc77d1d8854a07a52206c286278*

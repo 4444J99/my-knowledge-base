@@ -1,0 +1,31 @@
+---
+id: dd447a68-0d5f-4478-a2fd-108c71d0854d
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - f7feer7brzunbeh
+  - 4esqfvcijhrepay4lfe
+  - >-
+    00geua0pnwsbmcbftcu4ti3g5j6o6xyi9jx3k2rxyp6wgwdvm8khncapbdmioh0vawzf2cbakjngoiytcz7hplip7uybtp4eped2i2kopugciitghjksnkwtxnzx7y99imzmsomtag075dilqpx1z2gzwsv87se30mdwoqrwnvgggdicre1vay
+  - glokk57yv
+  - vmk9cc0gh9qiwqo9fgsipaodis1z
+---
+# F7feer7BrzUnbeH/4EsqFVCijhRepAy4Lfe+00GEUA0PNwSbMCbftCu4tI3g5J6O6xYi9Jx3K2rXyp6W
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 4207 (chunk 4207/11629)
+
+## Content
+F7feer7BrzUnbeH/4EsqFVCijhRepAy4Lfe+00GEUA0PNwSbMCbftCu4tI3g5J6O6xYi9Jx3K2rXyp6WgWdvm8KhNCApBdMiOh0VAwzF2cBAkJNgoIYtcz7HPlIp7UYbtp4ePed2i2koPUGCIiTgHJKSNKWtxNZx7y99iMZMsoMtaG075diLQpx1z2gzwSv87se30mDwOQRWnvgggdiCre1VAy/GLOKk57yv+vMK9cC0GH9QiWqo9FgSipaOdIs1z/dYR5LRQC+lAEWLxBZnk9OPSkCVaBFcad/ammsvtKRLkWXGx/xNuk7flrFUPHEGDsMfOD8pThglyeNUGFJf8x7g7mMbx24+foJnu6H55y/489f82avcf4dcOonIjbwxbGRSWj1hgqSSFVCSjzSaUpsA/03aiUlxm6GwgP6MnBnf0gWyzCojskoe96VFnefTaLQnDRmi5iZFnbBXip2rR48R7UZJPS9HzSLxRl1WCh19IRH0tlcUgzA0eZG22nRezkit5Jm3olIskaTRvqgWS9r5qMT0TnpnI5kNgItNdGjrXoN7tXBdxXI9ywRw1jHCZCxBL3ANpPELe/Mm64knfFSQ0DK+as/tOaJAQ/YmYqRdt8Lm2jMvC3AutOzgpQdhhqegAfZEZDIKkcyEglLPbfZiLZzIdytA1bpVLb11BqlYzsbfGm0tGEnTYyuSrNLNEP+P3J7ah07EpzVhbahN6M2Waf0pm8lqDbpnfEEH0NAYiyzycKgLlA7Wq5D57/BzpVl5vrxvmXph1YpB/OFlpEWlIQrqcakacrq2yFu9TCLNLqDiYgmRUsB+giJqYpPn0gfcM3yqZ5P3okMXc6a+9LAUsjfbwJE25AqLcITeqmb1Q4Q6GtAXVHpqbvX/YIS4+nPwY0oaeYGwAhTQjr0KPyUeuIowZoHTID30tVevEbvt9HMOvcq3NT/4mK5FmsoK8DRpAkzjPl6ElPJopDemwByepohEQ9aU+oiDjrjEhhKY+Ej8JMI/MDEnwr4MO9IzeEO7tQYta4HHkdSb1n4faBYQpa42IZ6rr+zpE7w5khb64Qub7Uijwiba4p+N3tp2i8Y1AdoQsGDFTzvw+R5v6/T2Cv4bOe6PhKWZoc8Fi1R6JbL9Wj6PXRytXiDN7q9xUcrhxx0k9sEJZEF9KwbxKA1IH7q+aROsIsi8isWqc+kfHeiI
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

@@ -1,0 +1,26 @@
+{
+  "id": "a2d61ce3-79fb-4c81-9fde-58c8a6cbc7a5",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Each week now has:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Skill Checks Specific to Weekly Content (Updated Actions List).</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Three Unlockable Thematic Items (With Caps).</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Prerequisites Before Unlocking (Ensures Progression-Based Gameplay).</div>\n<div><br></div>\n<div>Example: Week 1 – Classical Hero’s Journey</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Skill Check Actions</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> “Test of Strength” – Deliver a 1-minute impromptu speech arguing an unpopular opinion.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> “Oracle’s Vision” – Successfully predict the thematic outcome of a literary passage before reading it.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> “The Hero’s Gambit” – Engage in a live debate with a classmate and let the class determine the winner.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Unlockable Items (3-Tiered &amp Capped)</div>\n<div><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 179 (chunk 179/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "zapfdingbatsitc",
+    "applecoloremojiui",
+    "week"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

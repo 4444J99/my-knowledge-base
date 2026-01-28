@@ -1,0 +1,26 @@
+{
+  "id": "b8adcc89-b9d6-42c2-9f6d-f5b0dbb84395",
+  "type": "insight",
+  "timestamp": "2021-04-14T01:39:39.000Z",
+  "title": "<div>Woman possess the power to change will</div>",
+  "content": "<div>Woman possess the power to change will</div>\n<div><br></div>\n<div>Men possess the power to distort reality</div>\n<div><br></div>\n<div>Death offers a reroll of physical and mental attributes, reborn into a different situation </div>",
+  "context": "From document: Woman possess the power to change will",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "775f953df5c6f4b3abbbab5458859052",
+  "relatedUnits": [],
+  "keywords": [
+    "possess",
+    "power",
+    "woman",
+    "change",
+    "will"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

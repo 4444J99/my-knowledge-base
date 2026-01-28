@@ -1,0 +1,26 @@
+{
+  "id": "c258f271-8d8d-4f72-95bf-b6aa5dac44c4",
+  "type": "insight",
+  "timestamp": "2025-12-03T13:49:02.000Z",
+  "title": "</ul>",
+  "content": "</ul>\n<li><b>Logic Check</b></li>\n<ul class=\"Apple-dash-list\">\n<li><b>Prompt: </b><i>&quotExamine the content for logical consistency. Identify contradictions, gaps in reasoning, or unsupported claims, and suggest how to strengthen coherence.&quot</i></li>\n<li><b>Example Output:</b><br></li>\n<ul class=\"Apple-dash-list\">\n<li>Logical Gap: Claim in paragraph 2 lacks data support</li>\n<li>Fix: Add a citation or example to justify the result</li>\n</ul>\n<li><b>Logos Review</b></li>\n<ul class=\"Apple-dash-list\">\n<li><b>Prompt: </b><i>&quotAssess the rational and factual appeal of this content. Are the arguments clear, well-supported, and persuasive? Suggest ways to enhance the logical impact.&quot</i></li>\n<li><b>Example Output:</b><br></li>\n<ul class=\"Apple-dash-list\">\n<li>Observation: Arguments are clear but need more statistical evidence</li>\n<li>Recommendation<b>: Include a recent study to reinforce claims</b></li>\n</ul>\n<li><b>Pathos Review</b></li>\n<ul class=\"Apple-dash-list\">\n<li><b>Prompt: </b><i>&quotAnalyze the emotional tone and resonance of this content. Does it create an emotional connection with its intended audience? Recommend adjustments to increase engagement.&quot</i></li>",
+  "context": "From document: From Evaluation to Growth — chunk 8 (chunk 8/12)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "6ce49238bcaa9925c055c40f902078cb",
+  "relatedUnits": [],
+  "keywords": [
+    "class",
+    "apple",
+    "dash",
+    "list",
+    "prompt"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

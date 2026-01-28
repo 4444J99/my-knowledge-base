@@ -1,0 +1,31 @@
+---
+id: 671e8455-addc-4975-84b1-72a8a3b2b570
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ssmpnezsl3myzjkjg8em440pt
+  - yqasnb0436lcpvj66xsymgsbzmpdnses0zl9gz7krj5r55vnwjp
+  - vpzaycfa5p22n
+  - ppbgltck4xqk9cyeg4sfktjrvqvvetczmeh3pi
+  - >-
+    rxjoyjm18ykqjliv90b6rj8rwuxauv8qks9f81ro1ob1c5dikpzthka7ffpjrp8ff0mpugscjt4czhp4aztyqxkvwvnj1sekzkdkdv5gjrz6r4loquicra1mwfm
+---
+# SsmPnEZsL3MyZjkjg8EM440pT+yQAsNB0436LcpVJ66XSyMGSbzmPDnseS0ZL9GZ7krj5R55vNwjP+VP
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 4100 (chunk 4100/11629)
+
+## Content
+SsmPnEZsL3MyZjkjg8EM440pT+yQAsNB0436LcpVJ66XSyMGSbzmPDnseS0ZL9GZ7krj5R55vNwjP+VPZaYCFa5P22n/pPbGltCk4xqK9cYeg4SFktJrvqVVETcZMeh3pi+RxjOyJM18YKqjLIV90B6RJ8rWuxaUv8qKS9F81RO1oB1C5DikpZTHKA7FfpJrP8Ff0mPUGScjT4czHp4AZTyQXKVwvNJ1SekZkdKDV5gjRz6R4LOquiCRA1mwFm+SgPNf8qUWkzhHm08qCBqaZTBUV7dYV9InlUgt07RSIiehx6H+UdsNN82yaml/1Wx7JJpa5KbUvuEW/yPtZWsrfATnGcQycxoHc6Go0AM1RywVDmb/ruGmCFiaG4lmp7NUtmk0XZCChF0XaZwZSSP9zaR5hKC9QpFRTFSW5AdC4hnptF0lhZov9J7U9a0clRWyt6DHMfYLt1B6e2h0K3ZEw1+lmzZSOcpUdzzLIw4qUfTRL7KbByiEc0DOhccLyCEKSOsoQClTnszVvrFLZekva/RwXJBOejP7hEdKjh6JpFHc1DptO/R4UOh7FAKRIvSRm99oKFJIaUZqIMw889EBjl+OMB/lkA6ZHKUi3egqrvTIshIaSzfDs9Kf2iltDrXXEhvtqi7tEKgbgdr7W92sXQWHgEPAIeAQcAg4BBwCDgGHgENgkSHg7iIXWYM4dWwEdO3FrH2hr2JXd0hn97Ik4voTsLf7xGvatrStbx0e2bx/aH/f3uze1XvXjAyODO5by126+W1cIMTqZYD1Hglcl5P1NVuMlZb1oNDKcMlDDgF1e2MjF9/tiL3c9Hm1oE+0JRhXtDBmM9mebAJ+kHAqA4CwlshemvSRZsCaJdYp5xMOvpWZRWBR63xapJa6OlXptFULvVnsXpSnYWvyFVO4pM9nPyTf0xeYS4H1UyjFYMCiPAYBBhHTfNk5nXacjL2iS4C5dAAIC99M1jjA9ycCvpRj1YXHd626r2sr4rX7cvtyI/2c3EcG927cs2n3FHTAQBNXt8jK94M7ZDQgsLPSnY1Id1X0n7tsMbglwK4AlpAGWmC6YIqRQX/5lzGUKAWz/IASOKMOUROOrEAXYgY8Cvs7kaeUSIBKgraLpo1Ela6/qoP8CiXdi+SpocANh5ompXFACjdOc56cOplvBcMNCESaG0r+CfmDYOtg5YiNHh0xQgPE
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

@@ -1,0 +1,32 @@
+---
+id: ea652491-95ec-4f6d-82ca-fb14144bbf5a
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - flwoelb6shfhzqvseww0l
+  - xy8vplnyvwlt5
+  - >-
+    2f4tdr08nyiofulfztcst7doqe8zxxbattjydshczeybcocqcsqv5zjapiqgwehrwtkkymrryrbetl4ysnqxqlaw34dmjhb5v7e7nprk7ogngf7p2ytcxx4ehhiesd9lzbc
+  - >-
+    1pt1og6vr6wgplkiqt7z5dix9c9z6qvz2t9efjz49aqzbofs1935jikpohq1piqu5ojpeyrce1ng1vwsemi2efvo2tdk2s56sn4gkj5ofpmyrrsdcm5fsfgxnojvd1v6jj1wx76
+  - izqffup2gqwbds2p6vmeye4jpkbp4b1b2
+---
+# fLWOElB6SHFhzQVsewW0l+xY8vPlNYvWLt5/Yx+2f4tdR08NYioFUlfZTcST7DOQE8ZxXBaTtJydSHCz
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 5797 (chunk 5797/11629)
+
+## Content
+fLWOElB6SHFhzQVsewW0l+xY8vPlNYvWLt5/Yx+2f4tdR08NYioFUlfZTcST7DOQE8ZxXBaTtJydSHCzEYBcoCQCSQv5ZJApIQGweHRwTkkYmrRYrbETL4ySnqXqlaw34dMJhb5v7e7nprk7oGngF7P2ytcxX4eHhIesD9lzbc/1PT1oG6vr6wgpLKIQT7z5Dix9c9Z6qVZ2t9Efjz49aqZboFs1935JikPOHQ1pIQU5oJpeYRce1Ng1vwSemi2efVO2Tdk2S56sn4GkJ5ofpmyrRsdCm5fsfGXNojVd1v6JJ1WX76+IzQffuP2GQwBDs2p6vMeye4jPkBP4B1B2/ok7/keZc5S1LGvcPiYp4hNd0NGy/LA15Ktn+hy9eRRP6B754kjloyvP3CEijcK/B7OOyfPoqheqXnjtaOWj2GLqSKUj9IhLpaM3j9364wtsFX8Tw6y+t9ayHuiQ1qChHUv9sGisP9LKYf+BTVlT/Tjnx7Mzi2YZgM2tsdEU2mr4nfg7Vqy1tfvW7ts/276EtPRS7KW7l+7aGgh9hnSElYknzf1SrR8YBMpfpn6ZEWWHJ4mVlIdzl0Kl25AWyxnB84LPz2tfu5H/mNp7SfO5nRlwoWlgYUTHoqXEbrsKK30VVunKhpePVz6x8kQVdpJJj01osoFBUGABD/wtwxDY6ODFwYW2YTuJbaw35sMA/LsxaLtMpF9UR9Sy6Hxu+7nt57TrMrkrFlJpvwtMkaAeuV1R+0VJHeEnVsF63f65CyzGol8///XzPUsvv3bp7uXXeDpBdxikuWhdOv51lW3XcJoQn4FWY9JwP/GAN+pWnVl9ZMXhXkdvHsH2zccqn3n1DLbpIz7AFhx58IchtvwXZ6l72F6s0mFbD0n/jty8GXcz/lZfWAlBdpY+UhNI0ywDf0oBmoea/ulcLeqR92BKW8cVqnHBJTWx90JVWMUl2z/b8Rmemg7ZGHICT62fuI3pCmgcczUgjaHpWHbw8BmCpeboRR2xZd62wqmhiwa4CKIHLORDhaZeOH1/TG2A3hv/3r7m75D1wIfQNrDguvbGui3dt2CvhGlFpxf9oei4WXibbvbC+YvmL17w52uX7/55F1JTCVF78WbZ+mXrl6q38uLKiysultxBT9AjQ+BNpaczIrTxVVGrD1cCuoTYzSO9zvQ58+q5PowtcpbcUC4BhNdc/BIt
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

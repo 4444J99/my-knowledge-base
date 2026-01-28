@@ -1,0 +1,32 @@
+---
+id: 0fd4ba81-3618-4c36-817d-1d3d9a9a45cc
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - gwi5eihyo10vuosesj83dun2jhjfiipunddknkirl6jlczyqf3btrf
+  - >-
+    imxzuxuxxus1z0i55wose37tvsmtnbpeq1k4qhnhambuegxiy8vxjlwrxzvqkxvmf192hnueliuxmwlxzvkhe9qdbit3rxsfkjqaywbrurrryn8dhs
+  - az7xymwdwhm5d
+  - >-
+    irj2iyazealyiabnminl4r5s47nxw5cfa7tz275seifj07lgcbgh0a2oqit2gx2biap5c586iobamdosgzyrol3tc4toiaat4douolf
+  - awsi6y
+---
+# gwI5EIhYO10VUosESj83DuN2jhJfiIPunDdKNKIRl6jLcZYQf3bTRf+iMxZUXuxXuS1z0I55WosE37Tv
+
+## Context
+From document: Strike one — chunk 2697 (chunk 2697/4795)
+
+## Content
+gwI5EIhYO10VUosESj83DuN2jhJfiIPunDdKNKIRl6jLcZYQf3bTRf+iMxZUXuxXuS1z0I55WosE37TvSmTNBPEQ1K4qhNhAmbUegXIY8vXJLwrXzVQKXVMF192HnueLIuxMWlXzVKhE9QDBIt3rXsfkjQAYwBrurRRyN8dHS+aZ7xYMwDWhm5D/irj2iYAZEAlYiABNMInL4r5S47nxW5Cfa7tZ275SEIfJ07LGCbGH0A2oqIT2Gx2biaP5c586ioBAMDOsgzyrOL3Tc4tOiAAt4DOuOLf/awsI6y+UG8Dc0LETXLSTMD+usLNzMIPrgsC6wwq4cxwNQwk1S4uRQglkmwBc2IjDi7862kIVJIFXu7pTmZsSIATm6gquQ7kcfAvWSz3j6L3/3KACfNs+vyMKOTy5NOyKvMsVpGA2aclCFFS0FyMoUSuJfsIlC9mZOzQYKjiwA6OktjM5ZnCqWtmsFqC0tMgHeziNopAebmC4INCBl3I6E1wtHaMyokCkLHnCNktEUykj1jsa0jG5ARMJSDqJDfG/BeEEW/iA4kOJnVkytMCHkuidk8iyExOFA3AAK6gAEvCTFom/dVKnW+iBywNDqojB3nCRlnpCVlQONNSy2bOV1LlD6pLEChk+q5iBpasK7fIvH6CuCbwy+vCDVOCBF2kpw0uAFQgEsDJFK/OuKMOnW+qNFUABzTogrOtG4/A+kxCy9CsYg2Q7NKlD3YCTpQC4/wphg4TcCm68ingcNJC0J+OxAD1ogbMZLy5MhHizPHKzASNApFwqCmzsCm2MuCRLgSLoNYXMirsrNgnjhXA0FQSIyDQ8MQZbpqrKkiZIATbwAt7AqKtoBgdohlAABv4QAQtAoRbwk4aAJcTYARLAhKCxPI2TSWIayAqpr53MCuhiw63ghQApBR8Uyqq4KsmiSJNwS7fwA6c0qgP5xjm0PXybBCMwAA6ogBfYABdQAinQgcQADzSQgScDuZOYSXnZwLW8ijwMtJIgOkWhy1UUmqIAKsvqDbycEB16gijMCp08CSAAAvRDCyMYAzkwAA/4A90yEhdIhd20hBnQgyeAr/9Pe4IUWIILwEa0JL6g4A2Wy0xlOom5HE0MSMKrGJrrKjOs6BRK+qyDeouICTIhEy0oOs0sKcQYi4AFdAu7KYIiyIAJKCe/ooEO6ILHQ6xFYgEWaIIMiEniqxD5
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

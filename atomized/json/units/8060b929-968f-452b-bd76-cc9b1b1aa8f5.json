@@ -1,0 +1,26 @@
+{
+  "id": "8060b929-968f-452b-bd76-cc9b1b1aa8f5",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt>- Cut-up logic (letter &gt word &gt sentence &gt idea)</tt></div>",
+  "content": "<div><tt>- Cut-up logic (letter &gt word &gt sentence &gt idea)</tt></div>\n<div><tt>- Ritual language / evolving syntax</tt></div>\n<div><tt>- Language remixes across:</tt></div>\n<div><tt>  - Human languages (ENG, SPN, FRA, JAP, GAE, LAT…)</tt></div>\n<div><tt>  - Codebases (Python, JavaScript, Swift…)</tt></div>\n<div><tt>  - Aesthetic dialects (dream logic, sacred scripts)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Each project has a **procedural mode**:</tt></div>\n<div><tt>- Auto-generated mutations</tt></div>\n<div><tt>- Scriptable remix engines</tt></div>\n<div><tt>- Exportable templates + public docs</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### GitHub + Consumer Layers</tt></div>\n<div><tt><br></tt></div>\n<div><tt>You are producing **parallel output layers**:</tt></div>\n<div><tt>- **GitHub:** public documentation, version logs, open-source scripts</tt></div>\n<div><tt>- **Consumer:** zines, apps, essays, museum formats, online classes</tt></div>\n<div><tt>- **Business-facing:** product kits, licensing modules, creative tools</tt></div>\n<div><tt>- **Academic:** archive of myth/religion/history/pop culture for citation and pedagogy (CV-builder without needing academia’s approval)</tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 49 (chunk 49/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "logic",
+    "language",
+    "scripts",
+    "public",
+    "github"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

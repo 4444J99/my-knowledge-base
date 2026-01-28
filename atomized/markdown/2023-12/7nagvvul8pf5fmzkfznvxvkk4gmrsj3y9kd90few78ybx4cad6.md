@@ -1,0 +1,32 @@
+---
+id: 6a0c9131-6056-4c3e-8625-ba5a54ae6f7a
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 7nagvvul8pf5fmz
+  - kfznvxvk
+  - >-
+    k4gmrsj3y9kd90few78ybx4cad6lwbohdd4nlvwzrapyprpojbusaoc4d8lyjxknkfcp6cefeibejslco1fndepomornarqfka9zyihv3pjmvsomksmkpmmgi6yyclagvicqrf
+  - p8kgnxxqvtboa0bvog
+  - >-
+    w2xyk81rnt3xkvapounpmprhqixxobrycm4vypwxlygvrcsfjmzrmcoi1yd30jhom92vwq7fagre6uxfv8c1e0zzbb5v1zmqaqeoq1bgb1dzmfarholpcbx6b5a7ejhfyt1daobzmjkz1dewe3ytodv2luz6pit0
+---
+# 7nAGvvul8Pf5fmZ/KfzNvXvk/K4GmrsJ3Y9Kd90few78yBx4cAD6lwBohdd4nlVwZRApYPrPoJBuSAoC
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 352 (chunk 352/3262)
+
+## Content
+7nAGvvul8Pf5fmZ/KfzNvXvk/K4GmrsJ3Y9Kd90few78yBx4cAD6lwBohdd4nlVwZRApYPrPoJBuSAoC4D8LyJxkNKfCp6ceFeIBEJSlcO1FNDEpoMoRnArQFKa9ZyihV3PjMvsOMKSMKpMMgI6YYCLAGvIcQrf+p8kGnXxQVtBoA0bVOg/W2XYK81RNt3XKvApoUNPmPrhqixXoBRYCM4VyPWxLygVrcsfjMZrMcoI1YD30Jhom92vWQ7FAGRE6UXFV8C1E0Zzbb5v1zmQAQEOq1Bgb1dZmfaRHolpcBX6B5A7ejHfYt1dAoBZMjkz1DEwe3yTodV2lUZ6piT0/m4RXes9Wm1WOyuBNECz1hRY9DKst3ECwHxztNaMnO4BOtt9CG2bcpE6u3MTgmopo2y4I5v3Q6+dZU9RqFwFJAVDXfc4Bstdo3vRArMlu1r2T/1xNd/gqv6FcXtg4Mpa2uoH2a/Jbh/lUb+GeywMnDARbgBYmK747Hjd//DMeuWkL94wWYDvxcMOa7fEJ9PKsYNxJHdfQb+9sAU528VyulnSIGbhOxs7Td7QikD9qVKVzjrpb83WB4IAyIYGyAHGUJ68EVrWkgQq1gWYg5E+XVNf5MZM2acdcF5DlHso0e/qK632jGbYd05a+lzYilpF/Ou5tmbyixkO9yx6aMdnxkJyeUpg96/a55Rlp3idc048SZR5jx3+0YjSo9swtJlmeP91rfvrmdfPsKVuB7WpG7f7ZTnRc0D7vAqYFkWfsfTxhjfkV/W6Mx/QVHLodPHmCDwHALDyU565FdyLDeibwftdS+32ZMH4E144L26Ab8/Hyzn35ds4e1JpBvyOenHxP+01In6Xvum7YqGY6EdNyHRBantUVpMd83MYktCwIszr+BTzTThn39tHwtPilo7ksWQDQa1Ey4npEX55dAfIvKq7Qrn55BvQbrTPs92ureIan387pl0PW7DdYw9BdWarAZABfhQ1A9dT+7uTjNi0A4zfg+ycffdQ8AUhv724FlAf8w7cBgNpvhBx0/NFyCV4bfb91s+3tQX4paqR2dwHwt7XnvA89B3oO9BzoOdBzoOdAz4H/XQ68XwAaeU2RLX9zXgBawb4DCgr/amdNi4l4pNoSbW8wKdU0sgPQlqVAK0hzna3OxaKxErT5pkiSgl4k0CoCQVwQoVCLV1zyBHYCkkvrjGm2
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

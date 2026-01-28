@@ -1,0 +1,45 @@
+---
+id: 2c31fae7-f985-46c3-a841-6f13880cfb2c
+type: insight
+created: '2025-12-03T00:14:02.000Z'
+document: 317f4b8d44af6685ebbc2ce26563e1d3
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: research
+keywords:
+  - text
+  - ownership
+  - days
+  - agency
+  - from
+---
+# <div><tt>  - Read or skim core NY text units on property ownership, estates, and
+
+## Context
+From document: Since she has prior experience and is coming back after a lapse, this… — chunk 2 (chunk 2/8)
+
+## Content
+<div><tt>  - Read or skim core NY text units on property ownership, estates, and basic contract law (roughly first 3–4 chapters of a NY text).[13][14][1]</tt></div>
+<div><tt>  - Listen daily to 30–40 minutes of matching audio (AudioLearn or Modern RE Practice key‑point MP3s) while commuting/walking.[4][5][3]</tt></div>
+<div><tt>- Days 4–6:  </tt></div>
+<div><tt>  - Cover agency, brokerage relationships, and fiduciary duties in NY.  </tt></div>
+<div><tt>  - Do 25–40 mixed questions per day on these topics from Barron’s or your chosen app, reviewing every explanation carefully.[7][8][12][6]</tt></div>
+<div><tt>- End‑of‑week target:  </tt></div>
+<div><tt>  - Score at least 70% on short quizzes for ownership + agency; note any weak subtopics in a notebook.</tt></div>
+<div><tt><br></tt></div>
+<div><tt>***</tt></div>
+<div><tt><br></tt></div>
+<div><tt>## Week 2 – NY law, finance, and math</tt></div>
+<div><tt><br></tt></div>
+<div><tt>Goal: Refresh NY‑specific law, financing, and calculations.</tt></div>
+<div><tt><br></tt></div>
+<div><tt>- Days 1–3:  </tt></div>
+<div><tt>  - Study NY license law, prohibited practices, fair housing (especially state‑level details), and disclosure rules from the NY text or course.[14][15][1][13]</tt></div>
+
+
+
+---
+*Source: Document 317f4b8d44af6685ebbc2ce26563e1d3*

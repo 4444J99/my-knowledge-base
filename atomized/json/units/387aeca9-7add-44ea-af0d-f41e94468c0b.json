@@ -1,0 +1,24 @@
+{
+  "id": "387aeca9-7add-44ea-af0d-f41e94468c0b",
+  "type": "insight",
+  "timestamp": "2022-08-05T15:00:20.000Z",
+  "title": "<div>On a scale of appropriate to appropriation...</div>",
+  "content": "<div>On a scale of appropriate to appropriation...</div>",
+  "context": "From document: On a scale of appropriate to appropriation...",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "271c0ce22ceb2113da326c518eb8dbde",
+  "relatedUnits": [],
+  "keywords": [
+    "scale",
+    "appropriate",
+    "appropriation"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

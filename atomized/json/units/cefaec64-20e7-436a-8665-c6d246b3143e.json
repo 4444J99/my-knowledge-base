@@ -1,0 +1,26 @@
+{
+  "id": "cefaec64-20e7-436a-8665-c6d246b3143e",
+  "type": "insight",
+  "timestamp": "2022-04-27T11:25:37.000Z",
+  "title": "<div>Death pool</div>",
+  "content": "<div>Death pool</div>\n<div>Depp pool</div>\n<div>Depth pool</div>\n<div>Shallow pool </div>",
+  "context": "From document: Death pool",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f5ac2eed54e8b621a7751eab2389de7a",
+  "relatedUnits": [],
+  "keywords": [
+    "pool",
+    "death",
+    "depp",
+    "depth",
+    "shallow"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

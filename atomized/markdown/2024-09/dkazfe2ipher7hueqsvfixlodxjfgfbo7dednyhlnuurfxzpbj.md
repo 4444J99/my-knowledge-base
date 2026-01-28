@@ -1,0 +1,31 @@
+---
+id: 56380850-f5be-4337-b528-4efcf3b7ea1d
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    dkazfe2ipher7hueqsvfixlodxjfgfbo7dednyhlnuurfxzpbjrsnhasulot2wgyxrlw8n2aw2frhyrfvkgi9ackpm2wu0niuarfjd7ah9lljcryyaszw
+  - jntcwk2fpxavymogx74ry7fuk8sdlzn1rdajeqisqatoirjdfvuzyl4rl9se7em7uezgddwx36zf
+  - 2qogoxa9o94r5rtz6hdgzqcnmbgdaetexpxgiytx0y2ky27amlqurcnbltogjkkrpcu9peea6g
+  - eocaz6yp6tlacfwxegmzrm
+  - jx3zecpxdoeewr2i
+---
+# DKAzFe2ipHer7HuEqsVFiXLODxJfgfBO7DeDnYhlNUurFXzpbJrSNHasuLot2wGyxrLW8n2Aw2fRHYrf
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 1896 (chunk 1896/11534)
+
+## Content
+DKAzFe2ipHer7HuEqsVFiXLODxJfgfBO7DeDnYhlNUurFXzpbJrSNHasuLot2wGyxrLW8n2Aw2fRHYrfvkgI9AckPM2WU0NiUarFJd7aH9LlJcrYYasZw+JnTcWK2FpXAVymOGx74ry7fUK8sdLzn1rDajeqiSqaToirJDFvuZyl4rl9se7Em7uezgdDWX36Zf+2qOGoxa9O94r5rtZ6hdgZqCNMbGdAeteXPxgiYtX0y2KY27AMlQurCnbLToGjKkrPcu9PeeA6G+eoCaZ6yP6tlaCfWxeGmzRM/DA+jX3ZeCPXdOeewr2i/MvSdSWOq4WxCfBE6gitP7oj2iiPpbeoBYw40Szvx0CQrUjX7qmO48JbVi/3HyZPqm5c8Nv7D4aJ68sla65D8z9BaUm3NXYf8+N/BlHcr8FzzHinXuBEhm7hgSqWWqyoYr/m6w4x0s3kUyN7XK4q4Xct1XOnOfhXJ9QQ9QsvVii67jxz5rXI0UqLWxuXLsVfC/Dquac+0rjVA5kF2+Ebi5klRbmL/bP+4auFz2m0t3VNmp4Hl7ehpOpbN+NJ/5biO+hFTPNH9x3sF1myLGfN6y+zqu2xo5V25XUkfbBKq2uv6r4T4ZtI98lymehzxmnI9cPrWslBcrnuHCY65KGR6ZfkR6RWjsHts+YLPO3EAbutWwaF20LjSgUVbvrBTprtpBU52aw/M2aauH3orjilNafGy7hndfULAn9o/jzkI64h61Iebwvgsd983lSwsRHhduLl2af3Xe4ejNWK2foXHW/vXFkzlyZfNcnH/DHVkuKpQXv1J26tz4i3AN79jX0obqVbT1OAaT/SefKsdVqJOVK4hpcD1Ri576wmPPwONauOaVlw6VAWk8C5HKhaPnRrkGJB/bLXitpZRzaWINLfZZZF8ErgYz9GU8DK9Q8mPLbxL9EAi5xjj5+eJmb338vLSVT0mMYBnKsk6XXz8DVuuoLn7P0pn/l/+WASoD4wlSFdvk9Xl8dssMfRm1MpRlcJtpUOPajeCh88QWY4UooCyh6ColGdf5vZ7dK4bEvJzxLSuGeU94yVtjuskweLKfDK1rsOzm7YgtK/zZn/1EvD6PqF1vXm3XvQAAQABJREFUSjw+q1pmaM2fXTQk1QU2rp2BE4YkNK81xsYCZ9aBcvUmiwZxZ/keA+KGJ3YqZaaQJ8Cc4gCFgTCjLv
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

@@ -1,0 +1,26 @@
+{
+  "id": "2b7517d4-49b6-43f7-9146-ba125f4b8779",
+  "type": "insight",
+  "timestamp": "2025-11-17T22:51:07.000Z",
+  "title": "<div><tt>defaults write com.microsoft.VSCodeInsiders ApplePressAndHoldEnabled -b",
+  "content": "<div><tt>defaults write com.microsoft.VSCodeInsiders ApplePressAndHoldEnabled -bool false      </tt></div>\n<div><tt>defaults write com.vscodium ApplePressAndHoldEnabled -bool false</tt></div>",
+  "context": "From document: defaults write com.microsoft.VSCodeInsiders ApplePressAndHoldEnabled…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "a032bb92476306caabd8d66d03c8e7ca",
+  "relatedUnits": [],
+  "keywords": [
+    "defaults",
+    "write",
+    "applepressandholdenabled",
+    "bool",
+    "false"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

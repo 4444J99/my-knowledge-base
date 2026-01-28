@@ -1,0 +1,32 @@
+---
+id: 728557f5-d848-40b5-9741-cc32e09314d4
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - hfrzsltehipo4siwnj9f540u59zuyxtpzs05i
+  - >-
+    7ydvk5fovswxsncpzbp5fwrm6idlgokjrcoea6kucqaesurj5wrewplqsilruyh9hd9krxz0axfzs
+  - ai0dls6pnxo1xelwnrldtk1lt3jb5qs6nouowm7poopdjzrzguvgbuqnk
+  - >-
+    eaozyzkxrnbxvdrro4vp2cadnaufmlyl45rxwdxkho58zism5wdvvrqqkcwyy6ppyj51rfn8jjddwzxys3xavkuwvudh0fctug9gzr5xcuqixnfpcrll1xfs
+  - crsdadnbu3s
+---
+# HfRzsLtEhIpO4siwnJ9F540u59ZUYXTpzS05i+7ydVK5fOvSWXSnCpZbp5Fwrm6IDlgOKjrCOeA6KucQ
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 6454 (chunk 6454/11534)
+
+## Content
+HfRzsLtEhIpO4siwnJ9F540u59ZUYXTpzS05i+7ydVK5fOvSWXSnCpZbp5Fwrm6IDlgOKjrCOeA6KucQAeSurJ5WRewplqsIlruyH9hd9kRXZ0aXFZs/Vz2/Ai0dLS6pnxO1XElwnRldtk1Lt3jB5qs6NoUOWM7PooPdJZRzguvGBUQnk+eaOZyzKXRNBXVDRrO4VP2cADnAufmLyl45RxWdxKHo58zism5wDvVrqqKcwyy6PPYJ51RFN8jjddWZxYs3XavKuWVUdH0FctUg9gzR5XCuQixnFpcrLl1xfS+cRSdADnBu3s+fa6t+rizv4CuUAABAAElEQVRADuaW0M8hchYdbS2J5ZiLcq50pkaDc6KoG+tEOhcXoKsbK6gbF1R00NIBzgGwEcuF5pY+J5yjxSVzj+v8FDqxtWwKkLtlmGM55KgbkGtMg7rb6mJi6VV01M+tVzgnuG5goA4VAjmP6wTO1RXX9c3iEoCNKjqP6FiR2Dc4B9g2lWOVWM6AXFUQHfIcy1UDi8uergagrtlZoqIjlmNPzwAegBygHTRwiALbKqqH006bRafY7A6uupygjhHYDKvMieKI5VABlluaS0XPMV2dojjrVHjGVSjqAMasU/vNxLKs4K0Y8SD7zg6hmuCiu/S6Dr9ppU1cx1zgE1VxXhsn2Kxk2EzhmXQaQiN+K6nKjT0tRV+uHuzVXW09R4GTO0H724zWI7vazBW2lWwVD8QN4PEqAe7CYxdZHQenjQnttMK6RT3ZVoNduooHRnrOdN2dL+8VHgmxR94HB/wI2/jYy9f9aagwR+QJYWUq55lTAI89QXxT9eLOrfVf1s7aMlt5qXtuaW1la3rW5nM2P9mtbjqv8k/d8zprV36ne9nMpfMb0zcOL134494bWxdU7xu/q3dV7/uTz6VzrR9OOtmD1b+NNk3e1/jb5NO1DcN+9+H4fY0t6aOTDw1+Mvlcdm//H5LPxB8Y/GiyKX7/8IeTh7P3jcTc8kPNn8SPJvdXf552Jh9t/UP6SG2u/Njkg+VbO8nots7V4890N4xuanxp8qHmHaXPRhtG69uf675/dPPwy+m9pbjxxei+/q2tv8++ET0c76tti3+S7s9eTHrdo9m27HPR4fS57JHajuyZ+JvJq+mhdBjv7e5OXo4PTQ5N9mcC54Chuq9NflN7NXs1+VV6sHYgzmp7o4Vs
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

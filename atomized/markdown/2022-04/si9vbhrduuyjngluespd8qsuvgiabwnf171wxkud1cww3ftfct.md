@@ -1,0 +1,31 @@
+---
+id: 5c6d77a0-75a9-46d6-80da-18ce5ecb7a49
+type: insight
+created: '2022-04-03T19:08:35.000Z'
+document: 06491227457788266c42ac1c8bad8c66
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - si9vbhrduuyjngluespd8qsuvgiabwnf17
+  - kud1cww3ftfctxw935quoi5pehura
+  - ailyjn5mhlxeyrew
+  - >-
+    waybscsfkfaf3t9s1hslydudkv73tnqtml219p91pzxlu5buvbc20ku8tfwklo3u4jhqnaavzzzjpjjpphllld5zzzxasswsrizysoxlo7sszuxlmxjjjjnadvzkzwrirkqyspizwbygujbbbgqqcg8jgkall9qwo6pmlnu7
+  - 91g4clej766nu5hemdkylnerwizo1aqq5oammgcxpeva5on2salroq6ql
+---
+# Si9vbHRdUuYjNGluEspd8qsUVgiabWnf17/1/wx+KUd1cww3FtFcTxW935QuoI5pEhuRA/mQ/aIlYJN5
+
+## Context
+From document: Project File Naming — chunk 142 (chunk 142/406)
+
+## Content
+Si9vbHRdUuYjNGluEspd8qsUVgiabWnf17/1/wx+KUd1cww3FtFcTxW935QuoI5pEhuRA/mQ/aIlYJN5MhLxeYreW/wAybScsFkFAF3T9S1HSLyDUdKv73TNQtmL219p91PZXlu5BUvBc20kU8TFWKlo3U4JHQnaAVZZZJpJJppHllld5ZZZXaSSWSRizySOxLO7sSzuxLMxJJJJNADVZkZWRirKQyspIZWByGUjBBBGQQcg8jGKALl9qWo6pMLnU7+91G4CLEJ766nu5hEmdkYlneRwiZO1AQq5OAMmgCxpeva5on2saLrOq6QL+D7LfDS9Ru7D7bbbt32e7+yzRfaYN3zeTNvj3c7c80AZVABQAUAFAF6+1PUtTaJ9S1C+1B4Ilgge+u7i7aGBfuwxNcSSGOJf4Y0IQdgKP6/r+vyAo0AWZb28mt7a0mu7mW0szKbS1lnlkt7UzsGnNtCzmKAzMqtL5SL5jKC+SBR/X9f1+QFagAoAKALP228+yHT/tdz9gM4ujZefL9kNyEMYuDbb/ACfPEZMYm2eYEJQEKTQBWoAKACgAoAtS317NbW9lNeXUtnZmVrS0luJpLa1aZt8xt7dnMUBlc75TEq+Y3zNkkmgCrQAUAFABQAUAPjkkhkSWGR4pYnWSOWNmSSN0O5HR1IZHVgCrKQQeQRgGgCxe399qVw93qN7d6hdyBQ9ze3M13cOEGFDzTu8jBRwoLHA4FAFqw17XNKtr6z0vWdV02z1SNYdStLDUbyzttRhXO2K+gt5ooruNSTtS4SRRk4AyaAMqgAoAKANW717XL+wsdJvtZ1W90vTAV03TbvUbu4sNPB3ZFjZzTPb2gO98i3jjHztnO40AZVAGrda7rd9Y2ml3us6reaZY/wDHjp11qF3cWNnxt/0S0mleC3+UAfuY04GOR90AyqALzanqTWK6W2oXzaYkpnTTmu7g2KTHrKtoZDbrKcnMixhueSc5oAo0AFABQB+9v7O/x/8A2JP2kP8Agmn4O/4J2/tH/HbxN+xn42+Ffxt8QfGHwt8WrP4b638Svhn8U7rXB4oa2tviHo/hKWDWo9Y0qz8UXeg295qM2m2enWOjeGby01bUSLvQ4j+v6/pfm5Q003JK91tt+N3/AOk6dne5y3gX9jX/AIJtfBPxp4X+KPxC/wCCvHhjxHofgnXdH8W2fhz9nj4HfFS
+
+
+
+---
+*Source: Document 06491227457788266c42ac1c8bad8c66*

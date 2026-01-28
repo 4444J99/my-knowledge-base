@@ -1,0 +1,33 @@
+---
+id: d4396704-c370-4724-8bab-6647c16367d8
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    v7mfbxxbb2n5yxbsnfzcdihcggczx6uypme1wbsjviysvzkjgobomiioohfrg4z2dcb6bmln1yef6ip6a8ulplgpycruzn45whedz687mhlqeh9ic2pceb1ftdefhtw
+  - >-
+    hougojgrugfalerssrbgp5jzq14p4fjkny6ikogctmjosqfxjjvpernxpmk4ywicadtpmwjmgvjmmpim2lvxum2nuy11dknnpxerljyhlkrilem5msiiooeipgqag4ioajoin4gmb
+  - >-
+    y7rca3m6scao2n6llhlz9vtfmptwc1eizsbhvglokijjx1dm4x7xmuocybqmddac1dvgpgdejpidqqfog0dyeeeenyu9fu8jqiwhpsgj7z7fd5ijkmyrjmlwpiceke1kjwie4rof5v0m0tc
+  - u7ufnrvo1p8lc
+  - vzj32u7auu36w0
+---
+# v7mfbxxBb2N5yxbSnfZCdIhCgGCZx6UYPmE1WBSJViYSvZKJGobomiIoOhfrG4z2Dcb6BMlN1yeF6Ip6
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 8615 (chunk 8615/11534)
+
+## Content
+v7mfbxxBb2N5yxbSnfZCdIhCgGCZx6UYPmE1WBSJViYSvZKJGobomiIoOhfrG4z2Dcb6BMlN1yeF6Ip6A8ulpLgpyCRUzN45WhEdz687MhLqeH9ic2PCEB1FTDEfHTw/hOUgOJGRUgfaLERSSRBgP5jZQ14p4FJkNy6IKogCTMjOSqfxJJvpErNxpMk4yWicadTPMWjmGvJmmPIm2LVXuM2nuy11DkNnpxErLJYhLKRIlEM5MSiIoOEipgQAG4IoAJOiN4gMB/y7rCA3M6sCAO2N6LLHLz9vtfMPtwc1EIZSbhvGlOKIjjx1DM4x7xMuocyBQMDDaC1dVGpGdeJPIDqqFog0dyEeEeNYu9Fu8JQiWhPsgj7Z7fd5IjKMyrjMLwpICEkE1KJwIE4ROF5v0m0tc+u7ufNrvO1P8Lc/vzj32u7aUU36W0+1zDjXseBCx5KLLY9ealh+hWHl1eZnBtlWD7Y9O8QOeW6o47khDhzXDHVCcL56kO3payzLrzQ/epnn7vP9s86OTD5VHdtHuqHGfUUX+5mwjCqarp78creuVHSWUGpgWJVispiUpE6yvxS1fAm5AojCcEDDDMG72KsxFqjmHioxxCUPSqvHJZHzx7B0SkJ0rH3YEYOG4/y9jtlIj0YLpPW9cFMYBh5QMKB4QQi5/zLC24j+Epl06FDKgokC0UHbFlHgGSmXASUWkov8njKPsatTW+XRNMmFp0eNF1fYrq92T+grTDnFu+B85d4LfA9cLCy73PvoVd7Hr3E/Ocj11GDnqqH2NUMta4YY1ww2PT/IsmaQ9blrHc9c7Vp5pWf5ZcJjF4tLB4qLzvLMPsU1qY91TLX++sq8y8vyTikqqA4XVPjyikVtkWRJ+LwRJFCTKSeMqGGq9gurAVWTCwKMQvNH/fcQbOdUkCCqEoklzWg4geCyA2AAnGc+uhD56ECrG0R6DNhTXAimas2IDuTvyK3yqGGvCpIequKFycnUYGjKtCQSOiAzDBlkQCzCLF3oQbjuYOnSJxDNJdvjGOMwiUGFDsVBIC9FA4GIPxrylalybdh3RlK4qNw5pNY17kTHjNMM952Z/9A5BY9cZHnsannZ0MTSwbHlQ9Vnh4i/H+J6ebDz90M8zw8V1wwRnxssrB7iWTHE/sQg+6NX25ddYV98sX3eedZpp5tu628cWaO9vLzDuckO/dX2PcT2
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

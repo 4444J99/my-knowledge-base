@@ -1,0 +1,31 @@
+---
+id: 7bdfaa4f-0ec0-440b-a759-ee0f5fdd131d
+type: insight
+created: '2018-11-06T20:47:41.000Z'
+document: 8c3ce8993066f857adca061d250e2c68
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - k3a6nygckesmpkckjcrk8jigdqkk5nxb418h
+  - adhfxd441uy0dti2ctc31xhbrbm6lvkkjcew6ntxl
+  - afjt8jpinncw3w58x6x4iulrd80nldryyxpng5owd4xjxuixnvqb6drxeah8tfhxpoq6noeq
+  - ktkstr0s2f7f2099bhnawp2gtzozho4zvx52ax5hzykz
+  - >-
+    aal8ypht480vudb8gemnj1qw0gfr2e1vyzy7vqgo6yq37tcksgbaibiooaapr6k8z8efgf4sferulzsfh94x0nxfe2a3tw2f5fcsiucb9qmsuzxugvz3ryu
+---
+# K3a6nYgCKESMpkckjCrk8jigDqKK5nxb418H+AdHfxD441uy0DTI2Ctc31xHbRBm6LvkKjcew6ntXL+A
+
+## Context
+From document: Octatrack Tips & Tricks — chunk 1530 (chunk 1530/2544)
+
+## Content
+K3a6nYgCKESMpkckjCrk8jigDqKK5nxb418H+AdHfxD441uy0DTI2Ctc31xHbRBm6LvkKjcew6ntXL+AfjT8JPinNcW3w58X6X4iuLRd80NldRyyxpnG5owd4XJxuIxnvQB6dRXEah8TfhxpOq6noeq+KtKstR0S2F7f2099BHNaWp2gTzozho4zvX52AX5hzyKz/AAl8YPhT480vUdb8GeMNJ1qw0gFr2e1vYZY7VQGO6Yq37tcKSGbAIBIOOaAPR6K8z8EfGf4SfErULzSfh94x0nxFe2A3Tw2F5FcSIucb9qMSUzxuGVz3rYu/iP8ADzT9Y1Pw/f8AifS7bVNFtft1/ay3sKT2lp8v7+eNnDRxfMvzsAvI55FAHaUV5n4H+NHwj+Jl7c6d8PfGWkeIry0BaWCwvYbiVEU7S5RGLbMkDdjaexr5V1vxz4yh/wCCiugfD+LW7xPDM/gp7yTTRO4tHuRPcL5phzsL4UDdjPAoA+9qK4bxz8Tfh18MbGLUviJ4m07w3bTlhE1/dR2/msvLCMOwLkA8hQTVzwb498EfETSjrngLX7DxFp4by2n0+5juY1cAEozRswVgCMqcEelAHW0UVnavrGk+H9Lu9c169h03TrCJpri5uZFhhhiQZZ5JHIVVUckkgAUAaNFeeP8AFz4VRyaFE3jHR/M8UGMaSov4C2oec22M2wD5lDNwCmQTxS+PPiz8MPhdDBN8RvFemeGxdAmFb+7igeULgN5aOwZ8ZGdoOO9AHoVFc34U8Y+EvHWjp4g8E61Za/pkjFVurC4juYSy9V3xMy7hnkZyO9YXjz4s/DH4XQwz/EbxVpnhtbkMYRf3cUDyhcbvLR2DPjIztBxQB6DRXK+DvHXgv4haQNf8Ca7Y+INNLFPtFhcR3MQcdVLRkgMO4PIrn/Hnxk+E/wAL5IYPiJ4w0rw5NcrviivryKCWRM7dyRswdlzwWAwO9AHpVFc/4Y8WeFvG2jxeIfBusWeu6XOSI7qxnjuYGK8ECSMspIPUZ471gTfFf4XW6a5JceMNHiTwxIsOql7+3UafK5YKl0S/7lmKsAHwTg46GgDv6K42f4i+ALXwfH8QrvxHp1v4XmiSZNUluoo7Jo5OEYTswTDE4HPJ4FfEP7Yv7Q3h7Vf2U/F/i/4CfEC3uNT0u401WutD1BTc2wmvI0IYwtvjDruHONwzjIo
+
+
+
+---
+*Source: Document 8c3ce8993066f857adca061d250e2c68*

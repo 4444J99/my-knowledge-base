@@ -1,0 +1,32 @@
+---
+id: 9babf33a-87ea-4027-a837-51863fbf18e0
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - your
+  - move
+  - after
+  - since
+  - moved
+---
+# rqvoMupIl1bRyatr89prvg53bp9Wr/dmb9HWbbNHqfP2bCk6FF2j5upblpwTXdfVc+r7rpwTXZeFojt6
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 7071 (chunk 7071/11534)
+
+## Content
+rqvoMupIl1bRyatr89prvg53bp9Wr/dmb9HWbbNHqfP2bCk6FF2j5upblpwTXdfVc+r7rpwTXZeFojt6XY0Pela3xo+ZFZ2RnCstRafO+VF0M3zy4SEhAAEIQAACEIAABCAAAQhAAAJZEdiEonN2oZMCWVrLKR23e+BWdI2ck1vOQpebU3TXQUvAlaJbpgsd+bmQHl3SzatvzkbRTZNzLh3FdheBlGUwI/RbyP9vPkU3oi9dEYpuMEvXpOikW6e33GVHyN1dMHG3HUVHL7rXVae5j7rbnD2r+7pjci86LeVQdHU5yrRf1ecEU86RosvqkxMHAwEIQAACEIAABCAAAQhAAAIQSEpggqK71D/bN1/dHxo3eo/WfKqW2Oxxqbf1zXUPmqtTp6Iz5Ny6is5Z4lJ6/Bi96EIKXQ6k6CLyc2phd05FZ2TjQrN0ayu6Cfm5dllLEQnJi1u6S1yGyJKZ90HLzZ+Zcyk6c3saXbegqAvR0p19uqJumXKXQeneoCzdgopOvyOcOvNz03vRSTlnVfjZ1Zl1R6HLOkGnvpKia2XuSNHZek+d56Pokn7a4cEgAAEIQAACEIAABCAAAQhAAAK5Evj/NflgrPamGBAAAAAASUVORK5CYII="/><br></div>
+<div>When we made the second deal for you move in after I bought you the engagement ring, since you didn't move in after the bracelet. You never moved in, and these texts are from ten months ago. Since then, you were gonna move in at the behest of your mom’s illness. Mind you, you moved out of your mom’s apartment, 25-30 mins away, to Key Biscayne with your Dad while maintaining your noble “I need to take care of my mom! How dare you question that!”</div>
+<div><img style="max-width: 100%; max-height: 100%;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABJsAAAn8EAIAAACaI6srAAABdWlDQ1BrQ0dDb2xvclNwYWNlRGlzcGxheVAzAAAokXWQvUvDUBTFT6tS0DqIDh0cMolD1NIKdnFoKxRFMFQFq1OafgltfCQpUnETVyn4H1jBWXCwiFRwcXAQRAcR3Zw6KbhoeN6XVNoi3sfl/Ticc7lcwBtQGSv2AijplpFMxKS11Lrke4OHnlOqZrKooiwK/v276/PR9d5PiFlNu3YQ2U9cl84ul3aeAlN//V3Vn8maGv3f1EGNGRbgkYmVbYsJ3iUeMWgp4qrgvMvHgtMunzuelWSc+JZY0gpqhrhJLKc79HwHl4plrbWD2N6f1VeXxRzqUcxhEyYYilBRgQQF4X/8044/ji1yV2BQLo8CLMpESRETssTz0KFhEjJxCEHqkLhz634PrfvJbW3vFZhtcM4v2tpCAzidoZPV29p4BBgaAG7qTDVUR+qh9uZywPsJMJgChu8os2HmwiF3e38M6Hvh/GMM8B0CdpXzryPO7RqFn4Er/QcXKWq8UwZBywAAAIJlWElmTU0AKgAAAAgAAgESAAMAAAABAAEAAIdpAAQAAAABAAAAJgAAAAAABJADAAIAAAAUAAAAXJKGAAcAAAASAAAAcKACAAQAAAABAAAEm6ADAAQAAAABAAAJ/AAAAAAyMDI0OjAzOjA4IDE2OjI1OjEzAEFTQ0lJAAAAU2NyZWVuc2hvdCclbHQAAAHvaVRYdFhNTDpjb20uYWRvYmUueG1wAAAAAAA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJYTVAgQ29yZSA2LjAuMCI+CiAgIDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+CiAgICAgIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiCiAgICAgICAgICAgIHhtbG5zOmV4aWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vZXhpZi8xLjAvIgogICAgICAgICAgICB4bWxuczpwaG90b3Nob3A9
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

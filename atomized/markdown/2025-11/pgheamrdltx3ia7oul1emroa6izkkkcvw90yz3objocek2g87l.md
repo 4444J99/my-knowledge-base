@@ -1,0 +1,32 @@
+---
+id: efb27c71-73d5-4728-835f-f9f1b4416320
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - pgheamrdltx3ia7oul1emroa6iz
+  - >-
+    kkkcvw90yz3objocek2g87l005q2hk2qmvjvwhojw8owjzqvq5srum5ttiskxwsqj6qvuvkuvn0ixiqbatgpu8uxdfyyau35kq8qfm4ouc1go2
+  - wsusjotgkj8
+  - vdiglagcihuxe8xn9sum8hkki
+  - >-
+    oarfe1ycjwheqihr0ewhbdsz7pt2d87i7lxsmtrjlrj5b7sg6tzt04gs5yjfiwczqxc3re7w2h4lqxkk8tccsgthnghafiewcspeh8jz2n5o1mix
+---
+# PgHeAMrDltx3ia7oUl1EMrOA6IZ/kKkcvw90yZ3objoCEk2G87l005Q2hK2QmVJVWHojW8owjZqVq5Sr
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 3855 (chunk 3855/11629)
+
+## Content
+PgHeAMrDltx3ia7oUl1EMrOA6IZ/kKkcvw90yZ3objoCEk2G87l005Q2hK2QmVJVWHojW8owjZqVq5SrUM5TTiskxWSqJ6QvuvKUvn0IxIqbaTGPU8UXdFYyAU35KQ8qfM4oUC1gO2/WSusjoTgKJ8+vDIgLaGcIHUxe8xn9SUM8HkKI+OarfE1yCjwheQihR0eWhBdsz7pt2D87i7LxSmTRjlrJ5B7Sg6TZt04GS5yjFIWcZqxC3rE7w2H4lQXkk8tCcsGThnghAFIewCSPEh8jz2n5o1mIX+qEZOtTEE+Wl5d4GlMkxRYS0Y1LxJdoOG8SL7UNEtpPPEBuUJKwSEcdo5u+oe5ZRcgDA+mBTH8gNQ61zwOdScK5xl4jdAS0RUAYHswe9A/20Esiu0tP/OHx3BPq9Xvf8PAbHn5v53s731NqUk1tTS69XIEXHij36ton0cYXvvAfL2z9/bZ+1ef1edKmOM7X7svE/NhpwaWpozdTNN1rSZ3DYmne3RA50Ppw8hHIH3EbRtmhgpPbsT1Y89JX0Mq/Sr0tPhl6Lzb85/C/Ui9FB7c4ZdZGcT+lvs3SjGZMrlYv5Vr8SMy1+6zZv/QYtMVFMeVi2S9X6Zd1cGuNG+tB7OL68ZOyHGkkQL3kEfYOBQnpUBhL6OUkRX+cvyU/WDnjR+4gv8oWLT/rUkaA8eTRKpA6wyOgxwhnZVzRLV18lsOdKL/QivRTu7E6Bt8L0T0G9ZX2sAicxgigDTiePC9QH1jCekwkdNeH1s5tWXpRafWMFLY8IAmvIsE9b45eZFV5PLWFJHIfghdjL0rcRC8s8x3KkRB7RzrwY31Q0Sqhh22hEZysg0XAImARsAhYBCwCFoHJISBzCJMLcxL7XnHbig0rG+Y9OPfW+bcMdwx3D3WMFIdbhzr61vZ/uu8BzI7SfDBWBMUHM6O428R9LbIrd7+K56Mt7X0Sl7+hujxN6JI13PmUGQc89XDJH3mxtv/0rOLBazCR98NPVUgjeqRBrnqa9iaGxWf/aRje+a5Tr+qDetW8iWSwZUANro1GUN1FZtornq3MADGYmF50izj1nsjMHKH0x2nsisxH/lBJp7WrlDuFDSL+FLtO5C5ey3UG/6QGRmOI1klxob4JYaKHmaPI1WTERUUTiFMlGla7RDMvLkb2YsOaFyhUmQwTdxNo7YIJhZQZ6CjnUd2O
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

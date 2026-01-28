@@ -1,0 +1,32 @@
+---
+id: 6b307c4a-8a9b-4bed-b141-f7db3cd1a942
+type: insight
+created: '2025-03-13T23:47:48.000Z'
+document: 3b2e4f3759d2535cf9a91dec728a8fbc
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - xbhninj8zdhhra8d
+  - >-
+    zyflbfcmibp4fnjidqkiaejseacepcabcrqk4gmsk6sbp15a8kdd94zxnvttzb5scjtt90we0pkxo
+  - >-
+    wwamphmzdfbck2cgkcclbytavx78ogrh2eiwkjigkeozqt0ceesqmrsazshjv3imqqcidi7b00ksxd6pqjlejlnmnyrutkmqhjeuhzjikkbhhlyjqbi5yfhaicgrq5mmkgqrashhgn0rmbcj7hxjr27dvfff0g
+  - sqfrn88svhnjmpw8g8aifkmdyfmm1kx375zdwdmmrilndow9myuwatrdpiuqnjlrc5pmfflwjoj
+  - mebsjt
+---
+# XBHnInJ8zDHHRA8d+zyfLbfcMibP4fnjidQkIAEJSEACEpCABCRQK4GmSk6SBp15a8Kdd94ZXnvttZB5
+
+## Context
+From document: Squarespace, ChatGPT, GoDaddy Expenses — chunk 773 (chunk 773/2268)
+
+## Content
+XBHnInJ8zDHHRA8d+zyfLbfcMibP4fnjidQkIAEJSEACEpCABCRQK4GmSk6SBp15a8Kdd94ZXnvttZB5ScJtt90WE0pkXo/wwAMPhMzDFbck2CgKCcLbytavX78ogrh2eIwkJIgkEozQt0ceeSQmrSAZShJV3IMQQcIdi7b00ksXD6PQJLEJlnmnYrutKmQHJEUhZJIkKBhhlYjQbI5YFHaICgRQ5mmKgqRashHGn0RmbCj7hXjr27dvFFf0g/sQfrn88svHNjMPW8g8aIFkMdyfMM1kX375ZdwdMmRILnDoW9myuWatRDPiuqNjLrc5PMfFLwJoJ/MEBsJT+VLg008/zZsmJBQjYQ18y1YUqOVzHktAAhKQgAQkIAEJSKAagaYUbmmwWcha2HPPPeMPi3Hjwbn33nvjy3aWbCJkIX/5XCPmxiE+yoZImXTSSeM15XMdPcZzxTy25EHiejI7ZslEclFSqc2yqMI7lgyhkMRCKitu8eJhZI/EG4S3h4yPzDW79tpr40+WfCTws9dee8W6xV+Ik0pWLIctcwIRoVtvvfVQ/YEf88EQjcnIHpmsUkbNdC5th2XM6drO2FbKHkk2ToRb0dK4GHNZ8BbruS8BCUhAAhKQgAQkIIGOEGgq4YZXhhdpBAIp64uWZQCMiS6WXHLJWJzCJdOSAKR9R8yUX9ARWXi1ypZCE/E2lQ2RUrZs7l3497//HYsJfWQhcNL6I6iyDJAhmx9WviQ/Li83kEIrqbDbbrvF8NC8cmmn6L3Dc0dyjFdeeSXcfvvt4dZbb43H8EJU4uUiWUjRit6yYjliDUOckO4/i8kNG264YUC44O0jMQxeOUItETEkfEnXcB3XJCuLn1Re3A7rmIttDM9+Wgai2Eb6DBTL0rjwrJLspVKdYn33JSABCUhAAhKQgAQkUAuBUWqp1Ch19ttvv5Cloo/ZDrPU80N1+6mnnsrL0hwsPEXJmO9Wtizde1yvrVyePE6IuhT+l+pkSU3Sbr7NliqI+wgp7pMtVxBFDR69G2+8Ma9Xy86EE04Ys1FS95ZbboneLtYHSz+IQdZQY55bGudjjz0WPW6EaXIebyOZIRFw1MPIwFk2vHLMwysaQo8QVAzhi7cyS0YSRRtlZFokVJI5hYi2bEmFVqKNOoQaJk8bWRgRfkVD+DAf8NRTT41tD8uYi+2NrH3W0cMQ/My1
+
+
+
+---
+*Source: Document 3b2e4f3759d2535cf9a91dec728a8fbc*

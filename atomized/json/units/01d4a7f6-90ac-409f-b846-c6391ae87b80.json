@@ -1,0 +1,26 @@
+{
+  "id": "01d4a7f6-90ac-409f-b846-c6391ae87b80",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:45:42.000Z",
+  "title": "<div><h1>REVIVE_0412_INDEX</h1></div>",
+  "content": "<div><h1>REVIVE_0412_INDEX</h1></div>\n<div><tt># REVIVE_0412_INDEX.md  </tt></div>\n<div><tt>**THREAD ID:** REVIVE_0412_A1  </tt></div>\n<div><tt>**CAPTURE_DATE:** 2025-04-12  </tt></div>\n<div><tt>**SEGMENT SIZE:** ~20 entries per file  </tt></div>\n<div><tt>**STRUCTURE:** Chronological, Annotated, Cross-Linked  </tt></div>\n<div><tt>**STATUS:** IN PROGRESS  </tt></div>\n<div><tt>**DESTINATION:** 4_bl00m.4_0S_core/THREAD_REVIVALS/REVIVE_0412_A1/</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## SEGMENT LISTING:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Segment | Range | File | Tags | Notes |</tt></div>\n<div><tt>|--------|-------|------|------|-------|</tt></div>\n<div><tt>| 001 | Msg 001–020 | `REVIVE_0412_SEGMENT_001.md` | Naming Protocols, Folder Architecture, UX Tags | CORE NAMING MANIFESTO LINKED |</tt></div>\n<div><tt>| 002 | Msg 021–040 | `REVIVE_0412_SEGMENT_002.md` | Identity Collapse, Multi-ID Logic, Thread Structure | Deep philosophy layer |</tt></div>\n<div><tt>| 003 | Msg 041–060 | Pending | — | — |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## THREAD META:</tt></div>\n<div><tt><br></tt></div>",
+  "context": "From document: REVIVE_0412_INDEX — chunk 1 (chunk 1/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "41dcc777a032887ddd54a45bf92fe39d",
+  "relatedUnits": [],
+  "keywords": [
+    "thread",
+    "segment",
+    "revive_0412_index",
+    "revive_0412_a1",
+    "file"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

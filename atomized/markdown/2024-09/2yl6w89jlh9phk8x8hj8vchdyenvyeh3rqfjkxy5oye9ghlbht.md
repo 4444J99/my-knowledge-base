@@ -1,0 +1,33 @@
+---
+id: b6287dea-309a-42ca-8908-f9fbb6f3800e
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    2yl6w89jlh9phk8x8hj8vchdyenvyeh3rqfjkxy5oye9ghlbhtpnpurgwkv5qcevldqklvydsecjalmu2xt9buqq5g9ics0ntovo81wyfkanqszmizpcs52ye52maxm2lc1gm6dplql7nrm8cpnrjeg
+  - >-
+    mcsnwtstzznkrbqqxsdksobu8hy1lpfy2qchejniz2ssh2o0k6kdxtkprfjaj9lkhyxnnldwbvcx4r7p9i7ku8mvfz8y
+  - fxop
+  - yvltibfefsprbbh16yqfhfr937
+  - >-
+    gbswfxdwuk0y78dm4vtvj2ksj97xdukwrgiq21wtgvaumqtfjm8fjol1bedwlztqcjckjdmt0qfhtt
+---
+# 2YL6w89jLH9PHk8X8hj8VchDyeNVYeh3RQFJkxY5OyE9ghlbHtpnPUrGwkv5qCevLDqKlVydSECjaLMu
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 2354 (chunk 2354/11534)
+
+## Content
+2YL6w89jLH9PHk8X8hj8VchDyeNVYeh3RQFJkxY5OyE9ghlbHtpnPUrGwkv5qCevLDqKlVydSECjaLMu2XT9bUQQ5g9ICs0NtoVO81WyFkanQSzmIzpcs52YE52maXM2lc1GM6DplqL7NrM8cpnrjeg+mCsNwTsTZznKrbqQxSdKsoBU8hy1LpFy2qCHeJNiz2ssh2O0k6kdxtKpRfjaj9lKHyxNNLdwbvCX4r7p9i7ku8MvFz8Y/FXOP/yvLTibfEfSPrBbh16YqFHfR937/GbsWfxdwUk0Y78dm4VtVj2kSj97xdukWRGIQ21WtGVAuMqTFjM8fjol1bedwlZtQcjckjdMT0qFHTT+WmDDP1fiihXboOS80uWavs6LLI9bLEJEGNKRQvqV6qE5mk1ZisWZHH+TIEHTL/3MhjsIlkJ4/71H7c6en8EdWr3Cdn/V8hPpIJMAEmwASYABNgAkyACTABJsAEmAATYAJMgAkwASbABJgAE2AC55+ABltODz8Za+vRdZc7PlfactdZz/znwVaytLX+e7kj3R3dbNd/x/XMio85uwQuWnm8ZGxN4ajoUkdkDypxDAaxWGoahBKhccBLwB7RAxAuj8vRtq0uB9e82ratLpPz2CdLITx5PAvdshCnRLcp08OeUFWe6G2BPLFIHSpXH1OdJotOAIksvaAaTboIqmJ6CUpgBzwcasYAvGAG1V7aQcNyr96CY3K/3qbGdZ3ahZPCa7ZsQtiMWTiGDZglh6DG29Ot9mKKWmlSbTqoHFJ1h6iAdGoX5ZCuWqFcppEdU7TVxn7dSiWQQnYV4RSo0cokeyq2UKTIelUk00SbKsE0TKUnA3dF3xv33eUv/Nn9Nd+J+1xzQuLV8TGXPxt1dewXFzZTXKzcgP4fxFy7lKmT8QUKygHTq1pk0AyodtUtxmSH6jchaMFxL9vdLibUhLHjFFl5vIjDdFgd1aM0Z6axEiohX1l57FdOHrvxgCoxu4RNHu+AOl3sta3upCqR7JLHYkXJr4x5Hu2znzwexpV21mhbWw+oGtxFo9gv2tF9cs7u14yvxgSYABNgAkyACTABJsAEmAATYAJMgAkwASbABJgAE2ACTIAJMIEzJ7CMtsrA1unq27WPd1rXXT98nm6P08xrX+F0X3VPEXnH8Lvz9vkncNHK46PaVggGZJv3iwlvtWNj5XGp+CPy2C
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

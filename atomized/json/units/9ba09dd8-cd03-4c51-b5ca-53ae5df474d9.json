@@ -1,0 +1,26 @@
+{
+  "id": "9ba09dd8-cd03-4c51-b5ca-53ae5df474d9",
+  "type": "insight",
+  "timestamp": "2025-02-12T19:07:35.000Z",
+  "title": "<div>Quizzes</div>",
+  "content": "<div>Quizzes</div>\n<div>Shuffle Answers</div>\n<div>No</div>\n<div>Time Limit</div>\n<div>40 Minutes</div>\n<div>Multiple Attempts</div>\n<div>Yes</div>\n<div>Score to Keep</div>\n<div>Highest</div>\n<div>Attempts</div>\n<div>5</div>\n<div>View Responses</div>\n<div>Always</div>\n<div>Show Correct Answers</div>\n<div>No</div>\n<div>One Question at a Time</div>\n<div>Yes</div>\n<div>Lock Questions After Answering</div>\n<div>Yes</div>\n<div><br></div>\n<div><h2>Week 1 | Summary</h2></div>\n<div>Summary</div>\n<div>This week, we learned about the writing process, which is a helpful map for becoming a better academic writer. It involves taking step-by-step approaches, starting with the prewriting phase. This part is crucial because it helps you stay organized and focused on what you want to say in your writing.</div>\n<div><br></div>\n<div>During our discussions, we covered some essential things to remember while writing. One of them is understanding your audience - the people who will read your work communicate effectively with them; it's critical to think about how they will react to what you're saying.</div>\n<div><br></div>\n<div>We also discussed diction, which means choosing the right words and phrases in your writing. Picking the appropriate words can make your writing more precise and more transparent. Additionally, we highlighted the importance of knowing the purpose of papering and understanding different writing genres, like essays or reports.</div>",
+  "context": "From document: Weeks 1 - 6 Canvas Data Dump — chunk 34 (chunk 34/188)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1b21c03b1f1909954adca118a79b0158",
+  "relatedUnits": [],
+  "keywords": [
+    "writing",
+    "your",
+    "answers",
+    "time",
+    "attempts"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "79116881-25f3-4d72-98fb-46eca1acc3d5",
+  "type": "insight",
+  "timestamp": "2025-01-30T17:46:15.000Z",
+  "title": "<div>- Strong writing is **clear, concise, and well-structured**.  </div>",
+  "content": "<div>- Strong writing is **clear, concise, and well-structured**.  </div>\n<div>- Editing is an essential step in the writing process—good writers **revise multiple times**.  </div>\n<div><br></div>\n<div>📌 **Key Topics Covered**  </div>\n<div>1. **Clarity &amp Conciseness in Writing**  </div>\n<div>   - Eliminating wordiness and writing with precision.  </div>\n<div>   - How to recognize weak or unclear sentences.  </div>\n<div>   - Techniques for **rewriting sentences to improve clarity**.  </div>\n<div><br></div>\n<div>   **Discussion Questions:**  </div>\n<div>   - **Concrete:** Can you identify a sentence in your writing that could be clearer? How would you revise it?  </div>\n<div>   - **Abstract:** Is clarity in writing more important than style? Can a balance be struck between the two?  </div>\n<div>   - **Connecting:** Have you ever misunderstood something because of unclear writing? How did it affect your perception of the writer?  </div>\n<div><br></div>\n<div>2. **Paragraph Structure &amp Cohesion**  </div>\n<div>   - How to structure paragraphs for logical flow.  </div>\n<div>   - The role of **topic sentences, supporting details, and transitions**.  </div>\n<div><br></div>\n<div>   **Discussion Questions:**  </div>",
+  "context": "From document: **ENG 101 - Week 1 Class Schedules (Days 1, 2, 3, & 4)** — chunk 22 (chunk 22/26)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "0558c8acb8ffe012f2a911121c66ba2a",
+  "relatedUnits": [],
+  "keywords": [
+    "writing",
+    "clarity",
+    "sentences",
+    "revise",
+    "unclear"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

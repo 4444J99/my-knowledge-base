@@ -1,0 +1,26 @@
+{
+  "id": "abd6ef87-8c3a-4d15-9fa0-f50218c4d3ee",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><font face=\"ZapfDingbatsITC\">✔</font> Once unlocked, the student must decid",
+  "content": "<div><font face=\"ZapfDingbatsITC\">✔</font> Once unlocked, the student must decide immediately, still unaware of the full consequences.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> A Counter-Faust option exists—another student can attempt to cancel the bargain (but at a cost).</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📖</font> How to Unlock the Faustian Bargain</div>\n<div><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Trigger Condition</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>How the Bargain Appears</div>\n</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>A student reaches a certain XP threshold.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>The Bargain manifests as a whispered offer.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 392 (chunk 392/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "font",
+    "bargain"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

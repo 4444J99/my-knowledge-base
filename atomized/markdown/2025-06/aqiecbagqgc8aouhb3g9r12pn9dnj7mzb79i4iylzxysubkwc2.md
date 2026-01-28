@@ -1,0 +1,32 @@
+---
+id: 347396ae-195a-4208-b284-fb283591cbcd
+type: insight
+created: '2025-06-19T23:23:52.000Z'
+document: c0d4fbcbae75c9060ede6ca48028b0a9
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - aqiecbagqgc8aouhb
+  - 3g9r12
+  - >-
+    pn9dnj7mzb79i4iylzxysubkwc2wu6beibagaabagqiecbagaabagqiecawbohfqf9zaa7m7ejwvtb
+  - >-
+    6ntfwbhct7sjaibrgeyhqiaaaqiecbagqiaaaqiecbagqkcowofro3rwsbfqnn6saykasizjlgiecbagqiaaaqiecbagqiaaaqie6gm8qaj4q
+  - 8zavpfflhwvci3uzecyjv6vjcbagqiecbagaabagqiecbagaabaumuof4e3op
+---
+# AQIECBAgQGC8AouHB+3g9r12+Pn9dnj7mzb79I4iYLzXYSubKwC2wu6bEiBAgAABAgQIECBAgAABAgQI
+
+## Context
+From document: OK, I have been taken in to my father‘s company, Majestic design. It’s… — chunk 5 (chunk 5/22)
+
+## Content
+AQIECBAgQGC8AouHB+3g9r12+Pn9dnj7mzb79I4iYLzXYSubKwC2wu6bEiBAgAABAgQIECBAgAABAgQIECAwBoHFQf9zAA7m7ejWvTb/6ntFwBhCT7SjAiBRGEYhQIAAAQIECBAgQIAAAQIECBAgQKCowOFRO3rwSBFQNN6saykAsiZjLgIECBAgQIAAAQIECBAgQIAAAQIE6gm8qAj4Q/8zAvpfflhwvci3uZECYJv6vjcBAgQIECBAgAABAgQIECBAgAABAuMUOF4E3Op/RsDf+p8RoAgY531Y09YKgDXBelkCBAgQIECAAAECBAgQIECAAAECBAi8UuBZEdD/sOD5nf5nBCgCXknmC5YXUAAsb+UrCRAgQIAAAQIECBAgQIAAAQIECBAgsB4BRcB6XEf+qgqAkV8A6xMgQIAAAQIECBAgQIAAAQIECBAgkEhAEZAojOGPogAYfoY2IECAAAECBAgQIECAAAECBAgQIECgmsBLioDpR5fa5Npu66aTalvbZ8UCCoAVg3o5AgQIECBAgAABAgQIECBAgAABAgQIrEzglCJgen237dy82mZ/vKYIWBl0zRdSANTM1VYECBAgQIAAAQIECBAgQIAAAQIECFQS+FkRcPjld+3w9t02+8fXioBKGa9hFwXAGlC9JAECBAgQIECAAAECBAgQIECAAAECBNYi0BcBi/7X4Y/ftfk3D58vAj7p/0RA/6cD/NVAa5Ef5IsqAAYZm6EJECBAgAABAgQIECBAgAABAgQIEBi1wHzRFg8Pni8C/t7/iYDf9X81kCJg1Ffj58srAH6u4Z8JECBAgAABAgQIECBAgAABAgQIECAwJIHjRcC/+78aSBEwpATXOqsCYK28XpwAAQIECBAgQIAAAQIECBAgQIAAAQIbEFAEbAB5eN9CATC8zExMgAABAgQIECBAgAABAgQIECBAgACB0wUUAae7jPSzCoCRBm9tAgQIECBAgAABAgQIECBAgAABAgQKCygCCoe7/GoKgOWtfCUBAgQIECBAgAABAgQIECBAgAABAgSGJfBcEbDf5l8/aGfu/dBm/Q8Lnv76YuvePte66WRYO5l2aQEFwNJURb5w0f908Ac/PvlVZCNrtG7LBostf3/fnsDYBbwHjP0G2H/sAt4Dxn4D7D92Ae8BY78B9h+7gPeAIdyAxf5Ba/3zuBQfj4uA/Udt
+
+
+
+---
+*Source: Document c0d4fbcbae75c9060ede6ca48028b0a9*

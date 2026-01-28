@@ -1,0 +1,32 @@
+---
+id: 7c472627-4a01-41b9-bedc-e3101d9db65d
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    hmbojtgbos64zko7ymbqr7pq0z15dzojohr10tkfog4vhbvw7rro2fphvbr70uubohr1glqvvqxzl9ryw0z3kn151hhdvv3syldfc2baxtcpdxko7n3vzidfnewo50jdlx4qhunr6d5y4wv6egcbpss1nbamve5tztelfouu94ujr0ycnr
+  - gneyafjethyikhivufwd16u1qg8y6qq8eydbbv0thzabkip
+  - >-
+    dwexbrw4wep5s6pklw4l6hcfewb8vs4eiok0t4famcyyqcfaisokfjkb4p2nvwhaip39rpofn4pzawevza3vaho3vkccfqa
+  - rwj4bfvbz
+  - agfgoornjmeygmkpebxurlsytsgvvzouypldasxxtwomzrw5dkdovv
+---
+# hMbOJTGbos64zko7ymBqR7pQ0Z15dzojOhR10tKFog4VHbvW7RrO2fPhvbR70UuBOhR1gLqvVQxzL9Ry
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 3279 (chunk 3279/11534)
+
+## Content
+hMbOJTGbos64zko7ymBqR7pQ0Z15dzojOhR10tKFog4VHbvW7RrO2fPhvbR70UuBOhR1gLqvVQxzL9RyW0Z3Kn151hHdvv3sYLdfC2BaXTcpdxko7n3vZidFnewO50Jdlx4QHUnr6d5y4Wv6EgCbPSS1nbamVE5TztELfouU94Ujr0YCnR+gneyafJetHyIKhIvUfwd16u1qG8Y6QQ8eYDbbV0thzAbkiP+dwEXbrw4wEP5S6PKlw4L6HCFEwb8Vs4Eiok0t4FAmCYYQCfAISOKfjkb4P2NVWhAIp39rpOFN4pZAWevZa3vAHo3VKCCfQA+RwJ4Bfvbz+AGfGoorNjMEyGmKPebxURLsYTsGVVzOUyPLDAsXxtwoMzRw5dKdOVv/vXT+A561vdZ8hmWGUgTyZVR0sxwVkYtiJ1bMsTGzC2YKZRKpL9gN6eV5cvR6RIPPcvT/0fl77PLr317tf93rL9hW/spxDh3U9b91Q3oR+WeuH8fn35crtrzmeZXGtd0KV3Ld4hn26vV/kFe75yzIjXtttRQt9w8I7X7eob7vYqzSdNi+u2MF0PrgFSDt8Nx3YrHtZ0lMXYvk0U/1YNf1JzwbmaAM/wx7ILdcpyq083rYQZ0Q2oteJ9lnDlwnxQJRJFvBbIA3bI/K5OySX+AucNpiAvCGZzNHhedqlrIk7UtS2HZArFbE0nEtklGlzUSzPIJzpK0NwBgVHv2Q+gaM9VaAr/qxaUmOM5b4kVI3flOKnAQ9vXUso1bS7onlamQ9VtgbqeAxYMhzi+M2FId/tAcFGMzS9lkl5GCs4yv2cOQDsEoCvIofPKpij+cdBX+dGTvGNuAXno5w7KeX+RPt4Afz0AKHGEtvBWmgnWhL0UvhIsYaAn2vYjP8q0fBX1uOEiUrb+bvUnuXZ2iKumX/oQtdZrnF/H3/Tz//+jrwCuPhd8dT2+gtGK/uYgjYm3rqtZTXj++4cXUpgit/XKsPsnfZ770SNf+l139ezQZ1DTbnfUc8x9XvpR88HHHlKAnso7cBdY/N8xx3d9PGLa0VWkOI737wm+58/HX9YTY8ailoKWDnlTDXPfs3AHKKn2K8SyJZaWPU/gTOsboC2Dxbrtis/KzVxmxZ6JL3CDyMCpj3YGA5ATj7E79ZLTc8CfDaPnNGbvkIXYVzvLsFlqOg5XoCNjwVyDkSZVuBcAfxjqwf
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

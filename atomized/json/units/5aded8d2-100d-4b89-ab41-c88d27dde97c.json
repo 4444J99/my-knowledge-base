@@ -1,0 +1,26 @@
+{
+  "id": "5aded8d2-100d-4b89-ab41-c88d27dde97c",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Archivist can read and write $ARCHIVE_ROOT, but may only append or supersede artifacts, never silently delete. They also maintain $ARCHIVE_ROOT/meta indices.</div>\n<div><br></div>\n<div>Prompt-Smith can read all roots and write to $PROMPT_ROOT; they are responsible for ensuring that prompt templates are aligned with the latest metaformemes and naming conventions.</div>\n<div><br></div>\n<div>Builder can read from $PROMPT_ROOT, $ARCHIVE_ROOT, and $OS_ROOT and write to $REPO_ROOT under feature branches, following WORKFLOW specs.</div>\n<div><br></div>\n<div>Conductor configures $AUTOMATION_ENGINE, reading from $OS_ROOT/workflows and $PROMPT_ROOT/workflow templates, and ensuring events are wired to the correct procedures.</div>\n<div><br></div>\n<div>Each role is itself a mythic character type in the OS’s internal mythology; they may also appear as characters in narrative worlds, making the meta-structure legible through story.</div>\n<div><br></div>\n<div>────────────────────────</div>\n<div>4. Digital Memory Archive Design</div>\n<div><br></div>\n<div>4.1 Directory Semantics</div>\n<div><br></div>\n<div>$ARCHIVE_ROOT/sessions stores session logs. Each session is a folder or file set named according to the grammar, with TYPE set to LOG and DOMAIN generally ARCHIVE or WAVE, depending on context. Within each session, store:</div>",
+  "context": "From document: 0.\tPreamble and Scope — chunk 16 (chunk 16/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "b3360b527d494aeb150b316c90472eb0",
+  "relatedUnits": [],
+  "keywords": [
+    "archive_root",
+    "read",
+    "write",
+    "they",
+    "prompt_root"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,31 @@
+---
+id: 5f3af9f2-e72e-4c01-96ec-5ffa8f7dddbb
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ipryxec9iwfpyswt9zmc
+  - my6focblspmdwfjcypo8hql3wbshokosd4sb
+  - >-
+    3pffylm3aayv12ochajozzfjotxg9tedlnalmczmuxcyb6wxaxodjk1exnmhfkfmcmastn9tifc9gzxr0nc8btc0e82djwuegbdsb8tpq
+  - qdtmbwzbocs8fkqwwqshzreakez0mfcdyyvqc4kzke9ntm7z
+  - rotmowwjdhndinz6lgehqtof3yqht0op
+---
+# ipryxEc9iWFPYswt9zMc/My6FoCBLsPMDwfjcYPo8Hql3wBshOKoSd4sB+3PFFYlm3aaYV12ochAjOZZ
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 8852 (chunk 8852/11534)
+
+## Content
+ipryxEc9iWFPYswt9zMc/My6FoCBLsPMDwfjcYPo8Hql3wBshOKoSd4sB+3PFFYlm3aaYV12ochAjOZZFJotxg9TedlNaLMCzmUxCYb6wxaXoDjK1ExnmhfkFMCMAstn9tIFC9GZXR0NC8btC0E82djwUeGBDSB8Tpq/QDtmbwzbOcs8fkqwWQsHzREaKEz0MfcdYyvQc4kzKe9Ntm7Z/RotmOWwJDhnDiNZ6LGEhQTof3YqHT0op+R8K8IZCpGAiszMyAwJbHwJKp+1ZWf354r7suX9mXlyfGNCSQ0GsWAYTGhE+E/yc3BGABHNuQYkMNy4UeRZexpdx2mCF3fRxRRS1gFWWYkF2N2/2E1ClOg4KQf52xmZZUkaHCs9hRh4mbrA+oLQeDUZFsIzQ+fWER09BqgD0bGJQQbKBSBbcuIIpwhnsMfYEsNqolPgL8aKlokHukWr4HyIHf4cZDVuyah7wv2VTq3T6qGT1aPPV4+crPbgn8mgCNFhSIJ6AuUpJpdYfU/5GZTYtLpLXCXGz4I99K05iTBeWEItq/g6q+cL1CJYFAUQU5QRpM0UqQlYlRi6y/YeNRNhmUqOxHJLcqUFJwupxubIPImlADopEB2HskPJkLhL9wqZp1l0xh1UMcMUdIRpaRUtZKPr1FEixG4QHcovYmWbgiLMw9y24LGOBhX2B17E0qnxOmby7OBvc4jO2f7BnWA5C+ltDOfAeI8QXfNSehOAobmHNfGgJm7Zs7bt2YOa6ARuaa55u3jX2xPRsfFZtn9I83zgkJM/g3ZeYwgB1KHAdYhOEWVkhFpwBbQAuWuk9eR0QYq1/BOMsGsUZlJ6wc4pkCZqxSVYCzy18GsiigNPwaWHsAQY7cgIE/xAhgM5zMy0Zook1cEkjMPb2qwRXNhw2d8NokM6wWBswZNA2sOaXzjHYBKxcxLLUji1S8DCvk6eMHBZxg7THJOc4iY7nAJC4C3GOY30CRXAjTrSAKV4AXFmh7Ack3EjpykGJESAGA8mxsIxgmrgtj7fFcWnzoSypJfkBAWKIxxiyQ01l5E+G2czaf3lKUEPWA5+Qll0hSlGMWxoMQO9sLQh2h7iKSCNgOwIdvIToIDQJAaJoOMtMHTh2ONexGIQoACDldoB7GeBukZER51U6DGiPOQn3BSivAFdxsINsSO6SGhNihHNBTDEX6lLFR+FkACe
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

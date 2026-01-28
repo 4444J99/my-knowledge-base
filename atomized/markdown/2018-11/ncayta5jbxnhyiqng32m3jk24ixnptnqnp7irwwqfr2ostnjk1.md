@@ -1,0 +1,32 @@
+---
+id: 870331b0-f844-49be-a411-c01946ad98ab
+type: insight
+created: '2018-11-17T18:19:07.000Z'
+document: e329ec4e43d47fccabf1e22882189db8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    ncayta5jbxnhyiqng32m3jk24ixnptnqnp7irwwqfr2ostnjk1tw0cqoyimxgkcemonaojekeqrefce9d1
+  - sqkimcmr8yd73tp4vnghky
+  - 7kqxcj2hvu5jzg7k5bgcetagtlmyluybd7jiiorj1zxv3tmmhinj3bl
+  - >-
+    xjwmh196zlgimjikunyjga9advsssmya8qeij9oaalmsjyzfgad1b5h0zvbp5znkcksysfzuahi9cgtzfl2bbtix0aoc981tuiogvrsv8wbtvqaj3poap
+  - bwnisbpagc7loemfamjgygc5j
+---
+# NCAyTA5JBxnHYiqNg32m3jk24IxnPTNQNp7iRWWQFR2OSTnjk1tW0CQoyiMxgKCemOnaoJEkeQREFcE9
+
+## Context
+From document: Black Bean Salad — chunk 1456 (chunk 1456/2298)
+
+## Content
+NCAyTA5JBxnHYiqNg32m3jk24IxnPTNQNp7iRWWQFR2OSTnjk1tW0CQoyiMxgKCemOnaoJEkeQREFcE9D1/SqkiMcMR8yD73TP4VNGHky+7KqxCj2HvU5jzG7k5BGcetAGTLMYlUyBd7jIIORj1zxV3TmmhInJ3bl+XJwMH196zlgimjIkUnyjgA9ADVsSsmyA8qeij9OaALMsjyZfGAD1B5H0zVBp5ZnkCKSYSFzuAHI9cGtZfL2bBtIx0AOc981TuIogVRSV8wbtvQAj3poaP/W+bwNiSbpAGC7lOemfamJGYgC5J+XJAOOtSNEFj3SAgMMnHP4UuFeIlPm+Xk/yrwz1BAzh+MhSMbT0qWKEMjE4JJOR2NNG1kXkjGOW45pZI4tjE5JBHQ45oAnO3jewHHCjvjtTdrsuFOVJ49qMxb8uMMnTI6etRbFIYoTuzlewBzQBIw3DDscqMjj17USRxNbgo7DPvjBFNSR5XPopwaRzH91mYkt0C5FAEKgoDJknnpUzYByoJDgZGOtSMuV2bs45yf6CmKk43crtPy5A6UANV15K5yPl6YAzUgJTc8XyseG3DcvtgCkUtHGqqc89T2oQNysY5A596AJVVTGTI3B6/Lxn6Uh8mMYjcuOBuPGPbFOQbl2qNg5ySMkH6VXmebbhFMxLAcDBHvxQBak2xqyx54HRTk/WquGO3GQHOeO/wCFSJtVmBLAsNvPcd+aaRtjCxMNqtgHPb60ALtOeOB2/DrTBhAQi5JOc050k2DDLuHTb6dyakLZbcTnC4x6j1oARXkkI3centTRGPMUlR6HJ6mnKM5XcCvp6Y9aQq5UgjcD2x+tAC7kAZFUsVIIP/16ViNpGT/vDqfal3EArjaQMZH8qTcAV2DI6A9/zoAcgJP7s4DD5gTQQTJuJJUDA9RSRl/NKptYdOe1AG0eXn5jnHsKAEddxDkEFfUfeFGwHGAykdCegpI5gzna7HC8ZHFRkOX3hmIcfd7ZoAsAAsA/GR6daYrbyBuAG7GMZ4qLEkbLzubpz2qeEI0zY+8Ox4oATzEUllOV9hwaG3spVflxyaVQYyytgZbgen0qMlmjLcgjofWgCWMqF2sO/T1px+VmYEfJyc9aFbbwD19aYxUqm3jB5J5yKAHq/wDEADu4I9aAh2HKgZPFI3QYOFBySOtO24cscsGOQOuBQA7bIQCQAQM
+
+
+
+---
+*Source: Document e329ec4e43d47fccabf1e22882189db8*

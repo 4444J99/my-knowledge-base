@@ -1,0 +1,32 @@
+---
+id: c3a02655-c503-45a7-bf53-fc961cc12ca7
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - xzqjry
+  - mgrok8majs8blgkbbjfi3lsdbt9ksndbicvptusah5qdvp8qhuvfgjcqtgbgsmvc0cm4ho3ad
+  - >-
+    p1pyuu7y3g0evrujtmkyhvugjp0pbbc91iyqybmmdvhwo0qob5fpukxuzg15tb6gcu5ecqomyqkeurlxjcojotkc0klxtbky8dpvz5xstz1fk6iy1bpjntz62fya2lduaznpinx1h8shpdvghcmojwk1gn
+  - vywn1qlhculww6bbeemixnp
+  - >-
+    9eooszhwfqailkk80ph91e1tjdsjoma2jzao5p76h42f8frny1a1vpdwirpttp31xjbfvw7qyioqngkybzsobzx6sfa
+---
+# XzqjrY+mgrok8maJS8blgKbBJFI3lSDBT9KsndbICvPtUsah5QdvP8qHuVFGjCqtGBGSMVC0cm4HO3aD
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 1768 (chunk 1768/2189)
+
+## Content
+XzqjrY+mgrok8maJS8blgKbBJFI3lSDBT9KsndbICvPtUsah5QdvP8qHuVFGjCqtGBGSMVC0cm4HO3aD+P1pyuu7y3G0evrUjTMkyhvugjP0pbbC91iyQybMMdvHWo0QoB5fPuKXUZg15tB6gcU5eCqoMYqkEUrlxJCoJOTkc0klxtBkY8DpVZ5XSTZ1FK6IY1BPJNTz62Fya2LduAznPINX1h8shpDVGHCMoJwK1Gn+VYwN1QlHcuLWw6bbEEMIxnp/9eooSZHwfqailkk80PH91e1TjDsJOma2jZao5p76H42f8FRNY1a1vPDWirPttP31xJbFVw7qyiOQNgkYBZSOBzX6sfA/UZvEXw40TX51UNd2EEoCgKBuQHAA4AHtX5df8FO01CSTQII/sZLzeUjyYRwkp27Hds/KGBbcNoXPPJzX6k/BvSh4e8A6XpcBxHb2cMSqTuCqqAAA8E8etfsmeu/DmFq21vb8D8uyO/wDbeIj8/wAT2GG3UyF26Ad6kkg3Ky9DUMYjWPec8/lUh3qoYHGexr8am7u5+u0YXRnRxyW8hjA6961RGDGF/Oq8BRic8Y9atJtDkKeQKxT6GzM64dYCvkjcN2Wz2HtVktu+fopHSqtw0UkisuCvfFTzLN5e0fd7VDWuhnKzM9rdidpHHXmqMjeXJvzxW0QVtv3xxjpWDKdydOBzVKAo6EUk42/P17mq21498jtnPQVYKJIm3H4VFskjtmKjLClyNyQpu5kKdiM5+9n1qtdyMY2YdferkYCOC3RutQXTI/yp0zirVNoz16GK1xIhTd+lT3JE0e11BOPyqud/mmMDpTJWkRS2cfWuhS6EuJlxxmF84+7+FeDftD6wmj+Ata1q4k8u1gsbguT2BjZcAd2OQAO5Ne9EqykO3evnz9oWy0a9+GmrweIQz2X2WV5VB2glELJn6Phh7gdRwfcyBN42l6r8z5niOVsJP0Pzx/4JY28lx4N8S36OQpvraNEz12wknj8RzX63tCA/mLkYGdo6V+VX/BL4adD8NL+7CBLi51JizE5PyRqnBPYjB+p+lfqvOwOSeNvp3r2uP43zSqo7K1jj4D5ll1Nz31v95TR3glaRBt44J60QwxzW4z8zR4J3dyO5/nVS9uDtV0B+U9KfFeuwyi5BH5V8HVunqfcyatoWHabzQ7KMCprd9rswBwTwBVazjd4
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

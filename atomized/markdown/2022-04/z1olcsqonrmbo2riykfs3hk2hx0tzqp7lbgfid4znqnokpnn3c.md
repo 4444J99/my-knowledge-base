@@ -1,0 +1,31 @@
+---
+id: ac7c11bf-a2f3-48ef-8971-4aab6906a21c
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - z1olcsqonrmbo2riykfs3hk2hx0tzqp7lbgfid4znqnokpnn3cttchf
+  - lhkjjh
+  - jte4pkyazgjswmv
+  - i18l2t82gfoctavfmd1pfhicftvz0wv4vt8ccfhjaxchky6weiekuic
+  - >-
+    mg0gauqbqgpqboaoatomrpgmdiaxqdpxigugwn5m00kxloakafqbp0kkopvr5ssgziqnehfhaiiekjvfexrzsccrifanase66lzyzrkrkkod6wbkegdypb0lrqhvezhccaoggy0oiwytkluaf0zrgzetw6dqwpiyewwk5d7jmwrad
+---
+# Z1OlCSQonrMBo2RIYkfS3hK2hx0tzqp7LBGfid4ZnQnoKpNn3CTtChf/LHkJJH+jTE4PkyAzgjSwmv/i
+
+## Context
+From document: Strike one — chunk 1794 (chunk 1794/4795)
+
+## Content
+Z1OlCSQonrMBo2RIYkfS3hK2hx0tzqp7LBGfid4ZnQnoKpNn3CTtChf/LHkJJH+jTE4PkyAzgjSwmv/i18l2t82GFoctavFmd1pFhIcFTVz0wV4Vt8cCFhjAXCHky6wEIEkUiC+MG0GAuQBQgPQBoAOaTOMRPGmDIaxqDpxiGUGWN5m00KxLoAKAFqbp0KKOpVr5SsgZiqNEhFhAIIEkjVFexRzSccRifAnASE66lzyZrkRkKoD6WBKEgdyPB0lRQhVEZhCCAoGgy0OIWyTKlUAF0ZRGzetw6DqWpiYEWwK5D7jMWRAD/OQhBWHnQMaIRRkcZDCwMRH2WgqACKxvI4ML3BDKOiGBECEKAApoi3oII56eDS0EzZmxAlRQveLlbJB5UBFS6xi+/ybPtbEik8Ryy04GYOBITmENFkMkkDxVIU97U9piC+AAmLqgAi7giKU6NtOZ+kgiLEidTgHQQ+4qB65CoG1SDbqzf33FtWKpJXEeJF6b/HSBfuWIAmZlzIoIZKVPwViKQjISuhTgafnsgAhel5AcHMHANRiC4VZFBIGIFmZuNe9Ouhtby1QrerT0FFHRO7Oedme2IG6vVyRq2xyxYDR9kOoSD2IfoWSMJZKM8TtD4q4AiHUgNOgAGl/qq9nFTyBHkF+CC+IUIAR0oF3prhaU9dbmiffCvPPusgS4u6By+GU8E4hb1DtiLbc1vR0p8Y0swoI87EERekGAURBAkftsT/82Ehiucos75xCNhFJZsfFA8im4gdAPIQk+woWaM8rckJbJyVnyi+Iq4Z5hpodlQwgrc1bKK9/kB2h5kIUdQ1AxW7oldllUFbw1EAU0MTrHzNhH8IvSx84GIR+h4a4GouMOkOB1JIAh7QgiaKnZ1DAk+gE0uSsqgi1VILQV4HjP5iCFnkctVv40TZJw7CwnYbbp8fTMGropG2DLIqMBEAICUKY1feTcMAiKYgsyK9BVUs4iGYCKIHZjgeSYBioENACC8EkFC3oIUtNIEuoQXisgJ9nFIqihIjfb9yTKch42aCkrwxYRSxsnWc7ZGSwuFptpmyU5ka1MKrSo+L6FBUv/0K4gDbJOh6ybzk7TiKTykgGV7xmNHSCwQeQ3kCNs9j+5KS+yvyRU8lIm5BM2yXH+VQRoVZnhXjPvxRNCbczsKLXVHkt74ZraTHO8yzKJz0AAm9vIuPszE/wj
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

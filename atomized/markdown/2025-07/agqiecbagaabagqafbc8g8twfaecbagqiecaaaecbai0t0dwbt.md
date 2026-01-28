@@ -1,0 +1,31 @@
+---
+id: 69e5b4b2-f330-4f05-a783-25f6ed0c419e
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    agqiecbagaabagqafbc8g8twfaecbagqiecaaaecbai0t0dwbt85d8qecbagqiaaaqiecbag0kca4n1xninkaabaaeleqvqgtqyiecbagaabagqiecbaoh0cgnf7zrkjjkcaaaecbagqiecaaiegbqtvbre1ryaaaqiecbagqiaaaqltexc823fohtebagqiecbagaabagqincggedeirskcbagqiecaaaecbagqaj
+  - a4n2
+  - 6icragqiaaaqiecbbyeohbb
+  - 78alvn44rohlm7a4
+  - pxpmlzuwhds77queyz3cuo3quwti0syz
+---
+# AgQIECBAgAABAgQaFBC8G8TWFAECBAgQIECAAAECBAi0T0Dwbt85d8QECBAgQIAAAQIECBAg0KCA4N1X
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 18730 (chunk 18730/18928)
+
+## Content
+AgQIECBAgAABAgQaFBC8G8TWFAECBAgQIECAAAECBAi0T0Dwbt85d8QECBAgQIAAAQIECBAg0KCA4N1XnInkAABAAElEQVQgtqYIECBAgAABAgQIECBAoH0Cgnf7zrkjJkCAAAECBAgQIECAAIEGBQTvBrE1RYAAAQIECBAgQIAAAQLtExC823fOHTEBAgQIECBAgAABAgQINCggeDeIrSkCBAgQIECAAAECBAgQaJ+A4N2+c+6ICRAgQIAAAQIECBBYEoHbb+78alVn44rOhlM7a4/pXPmlzuWHdS77Queyz3cuO3QuWTi0syZ+D0l/P9e59KDOpQemvwcnay4/orP2q52N53Vu+F7n9puW5Ag0Op6A4D2em60IECBAgAABAgQIECCwkEDE7GtWdNYe27niiCQ2X3F058qjOlccmT48vHP5F+N3LrL3fPz+fC94f66zJgvevey9+oDOpZ/tXPLZzur9O6v3S/5esm9n9WeTSq4+rXPzLxbaFc8vpYDgvZT62iZAgAABAgQIECBAYHMTuPHHnQ2nda44qnNlxOyvdK78cvRsz0XndvLwqLkkdSfBe+7ybvBOUncveM9Fj/dleXd39HIfnHV6z116QJKxk99I3fvPJak7WUjjd5LD5+JhksP376w7rnP9BZsb6fI/HsF7+Z9DR0CAAAECBAgQIECAwNIKxBjyjeck48Ajaa87JhlGHstrv9JZm6Tu7m9E8V7q7iSpOwve2VDz7mjzTbu7I3j3uruT4B2/hbyddXon2Tt6v9MO8O5C+vCSfZLyG07p3HrF0sJoPRMQvL0SCBAgQIAAAQIECBAgMJZA5O0Npyd92tHPvO5rnXXHJqPKe6l7Lunrzn6jrzsbZH5U5/L5ceZzyVDzCN7zl3mnwTsdZJ70dXe7u9PIPd/dnXZ0J+l67pJq5I5kngXvQoFYI4GPdXonuJHgPUFMVREgQIAAAQIECBAg0A6BG36c5u1jO+uPT36T1J0E77m1x8wlfd3pbzLOPOnuTsaZx9Xd3R7vuNI7rveudnen86utOWQumVmtkLqTydWycebJwPIYZD6X93Uno833i6SdjjxPFnq9372FWJP9psWSJB/zuvlZCgHBeynUtUmAAAECBAgQIECAwHIUuP1Xnau+kfRvrz+xs/6ENHJHX/dxc9HXHcE7urtjnPm6ZJD5XPfq7myoeSF1
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

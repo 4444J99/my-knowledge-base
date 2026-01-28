@@ -1,0 +1,32 @@
+---
+id: 26c43cde-512a-4ae9-b05a-58fdcc8e1af3
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - rkomg
+  - >-
+    kd57vruaxczx5jdkoij9kp1qkbnqxeb0anfg1oikskshid2r06qnlcs4oi3kyf8fi4ftuwlirigmeaa0ckn5ziamszifvm1kijpevngmdzxorzijgkmtrgrrcziinnyrgngyzbw63jdifhmzwbevzfylxzog3hua27xyaocrzargvzipltjldknioy0mzjl1nwl11t0lmiimdoaujpgdhf1f
+  - fkcznrvsfofgqtmu8sz2yrrd0jdjpoqq5oildbmx
+  - >-
+    ipvyr4wxhulk0e4vfkpfoextt8wml6pj8trggzczdvricuht66oo7zlqkxfedpr4m2pxtmqraq9qjlr2aivzxkttkcjvyin46gtt3s7crf
+  - mldrm54joaehndr6vz06cq2u
+---
+# rKOMg+KD57vRUaxcZx5jdkOIj9KP1QKBnQxEb0ANfG1oiKsKsHiD2r06qnlcS4oI3kYF8fi4FtUwliri
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 9377 (chunk 9377/11534)
+
+## Content
+rKOMg+KD57vRUaxcZx5jdkOIj9KP1QKBnQxEb0ANfG1oiKsKsHiD2r06qnlcS4oI3kYF8fi4FtUwliriGmEAA0ckn5ziamszifVm1KIJpEVnGMdZXoRzijGKmtrGRRCziiNNYrGNgYzbw63JdiFHMZWbeVzFylXzOG3Hua27XYAoCrzArgVzipLtjLDKNIOY0MzJl1nwl11t0lmIIMdoaUjPgdhf1f/fKcZNrVSFoFGQtMU8SZ2YrrD0JDJPOqq5oILDbMX/iPvYR4WXhUlk0e4VFKPFOEXtT8WML6PJ8tRGgZCZdVRicUhT66Oo7zlqkXfEdPR4M2PXTMqraq9qjlr2AIVZXkTTkCJVyIn46Gtt3s7crf+mLDrM54joAEHndR6Vz06Cq2U+xSR9bkczjJH3Wcih8gD9outQ2izKJI4IBdYyRwTf5Rtjm6XNtVFgvkbRhCWMWZHHuZ3M0XZjajOPVYe1G8htdJwQGs+tynCco8AjTNlo1rLqXHnj4w7/+KUXfiG/6sonXfqkw84kHs0qrlAbNwY1kjP0gSOWi9h5nNptq7HDOIjauSQmrsZhvWpOXKNHmK9nNX1H3WGsfEFgEhP3+dDwPkokOSN5UJ0WRQec+a2tnYWcZ7ZxQm04O0Dtos1jtYorb3lteXbmMfPQkaycQNuYRnK8/HHX/sSFH8YDTzjypEt+6tBkG8M8HtRCHsXoNQsZSNuLLL95/Dt7eju7mmAe4+UEtfFUcoYxeu57jiVPahVbNJO4TkYyPgrkmZ1cyMeLYug7j9HhLfGxB3/02h87eDsH/HkyfNm133Tom0+sjvKGABFvODQOZh4Tjzo6qGE85dmM4Yq3YkH5g74tC4bnzUR7+NZBDGPuMO4IRruRPGzWTw8nskXBOUqFoEwiQSzeyUK231HOE4I3iOS7eHwUBXcjayiIjuL5eMRotVHmwifOGJSzjNRuA1e8dU7y1tPUqCMx0/ol7ncna54Mr9KDs5ytyhvMS7X1WNIqRHxcKWoeM/f4Qg7mDNnAm3v78IP1R85Inar6QfWJMO9RjGS1eAetTaoGBDg5Mto+VhHx+kQkQkdrmXt8MTflo6NU0Ug+WuSDJT/gWaROktnJnIxkVLFWInvDB1FVYJVEw72m6ciRsgerklozpxXBx1dVI245Z+w491WzSvjuX0yrGqv4uByNqo958WU9dKiP
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

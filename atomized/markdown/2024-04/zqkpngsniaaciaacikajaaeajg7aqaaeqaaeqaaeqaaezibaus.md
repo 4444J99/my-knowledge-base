@@ -1,0 +1,33 @@
+---
+id: 9956f170-66ca-4b31-9e99-dcf643fd6f96
+type: insight
+created: '2024-04-20T16:33:33.000Z'
+document: 76328720d4028da2ce535c4b9f89942a
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    zqkpngsniaaciaacikajaaeajg7aqaaeqaaeqaaeqaaezibausblprpttmrn4wbnadi9enq8gx62gaaigaaiwj1a
+  - pu8ltyd0q6z
+  - >-
+    2s9nhphlzmcjk8cabg3uh8tx3v3zmtioxpaaaraaaraqecab2u6omgdaraaaraaaraaara4i0cr1uicwpjchipqda77zjoog0aabeaabeda6gsupn7sw6ukmuukc4dcnhl3p4wn
+  - >-
+    vu7upj38eha2p1a1tyvzursavfaniaaciaaciaae4adalcbciaaciaaciaacidargg011tu5hoakrlz
+  - ic4caeaxafbqqaeqaaeretg
+---
+# ZqkpngsNIAACIAACIKAjAAeAjg7aQAAEQAAEQAAEQAAEzibAUsblpRpttmRN4wBnADi9eNQ8Gx62gAAI
+
+## Context
+From document: New Note — chunk 56 (chunk 56/161)
+
+## Content
+ZqkpngsNIAACIAACIKAjAAeAjg7aQAAEQAAEQAAEQAAEzibAUsblpRpttmRN4wBnADi9eNQ8Gx62gAAIgAAIWJ1A+pU8LTyd0Q6z/2s9NHpHLzmcjk8cABG3uH8tx3V3ZmtiOxpAAARAAARAQEcAb2U6OmgDARAAARAAARAAARA4i0Cr1uICwPJChIpqDA77zjoOG0AABEAABEDA6gSUPN7sw6ukMuUkc4dcNHl3P4Wn/Vu7uPj38EhA2p1a1TYVZuRsAvFANIAACIAACIAAE4ADALcBCIAACIAACIAACIDArgg011tU5hoAkrlZ+ic4CAeAxAfbQQAEQAAErEtg+bkcLb2Y0w5w8IYYDd+S+Gwf5TiPTLEDQLNCs3GywoWAUQfgM2j4AQRAAARAYMcENF8vOz4HdgQBEAABEAABEAABELARgfpGi6pZWYvYm/CQP4kCwDa6JTBUEDAFgTbLlql/MBDoFIHSfI1mH0pTPS9/R/r6PDTF0f/+Qe8XuhGZ9JG3R5YByn9couKc7Hz/wsnwCwiAAAiAAAicRkD+djltJ/wIAiAAAiAAAiAAAiAAAp8SqK03qcH/JPPH3eTjfzAQAAEQ6DaBwvEK5d8rUWmxxtJlVdpsE8UuCNLQNxIUGkOmUrfnx1LXZ9/SwpNrlHp9Qzus0VsTNHBj/Kx9QmN+dp57RefBxvEqZf9UoCjfvzAQAAEQAAEQ2A0BvJnthhb2BQEQAAEQAAEQAAEQoEauQc2yLEPgj3vIHcJjJm4VEACB7hFoFFu0+MQaHf/JMmXZAdAq88r/X8zpddDoa3m66D8ZpcRfRT7djP+CwL4IKEfTzCNpatc+v9fOPGF43E8T3+knT4/rzKat2jnxC0O08XH5rDa1QZ139Y0NGr+nj1z+s48/50HYCAIgAAIgAAJMABJAuA1AAARAAARAAARAAAR2RaDKDoDTF9POPNjHEkAuv+PMzfgdBEAABA6FQOFEhd7732bprf/lFC+YFs76e9Wub9Lc42v05381S+lX1w+lT7iItQm0622ae3SVsm8XtQMdu7OX+r4WPec+qn5O8qs95HDJ35+rfyyQymqBgQAIgAAIgMBuCCA0aze0sC8IgAAIgAAIgAAIgABnALSo3ZR1tH29bnJ6EGeCWwUEQODwCRRnqvTev5mnU6zDTnIg9lbHUi/lycmLrUp6JTQOOaDD
+
+
+
+---
+*Source: Document 76328720d4028da2ce535c4b9f89942a*

@@ -1,0 +1,32 @@
+---
+id: 5945a544-a41a-458e-96d3-e8db70607050
+type: insight
+created: '2025-05-15T00:56:03.000Z'
+document: 084f9bc77d1d8854a07a52206c286278
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    eedx4n1oy8jacnh3w547g6tnby052jckzkh1y8hoenrmsj4p3rwwnzxkcws4mkthiyaovbalvw6j5seg9a9pntoblclxdhkhgnrqgh60acx4eupdb0o5n8teils6v53minmowiumdpfotgeuoao
+  - >-
+    efbghyajhfxuiw5ulsvkuui9xrgylfweme210nv4s0c1urcqalp8cwoq4t1yd1444ryoa8yvvcmnzepbhw6wuidew0n
+  - lhzwakauorgak4agob
+  - wusfvyy9zu9cudkmwlwwpng4ihksnrl2
+  - q1a1rw9a635ekjzw93bmxt7q3bbjet1we4pdtkgs9vd
+---
+# EEdX4N1Oy8Jacnh3W547G6tnbY052JcKzkh1Y8HOenrmsj4P3rwwNZXkcwS4MkthIyAoVBAlVW6j5sEg
+
+## Context
+From document: Grokking Algorithms for OS — chunk 28 (chunk 28/402)
+
+## Content
+EEdX4N1Oy8Jacnh3W547G6tnbY052JcKzkh1Y8HOenrmsj4P3rwwNZXkcwS4MkthIyAoVBAlVW6j5sEg9a9PntoblClxDHKhGNrqGH60Acx4eupdB0O5n8TeILS6V53minMowIuMDPfoTgeuOao+EfBGhyaJHfXuiW5uLsvKUuI9xRGYlFwemE210Nv4S0C1uRcQaLp8cwOQ4t1yD1444rYoA8yvvCmnzePbHw6WuIdEW0N+LHzWaKaUORgAk4AGOB/WusfVYY9Zu9CudKMWlwWPnG4IHksnRl2+gB/Q1a1rw9a635EkjzW93bMXt7q3bbJET1we4PdTkGs9vD+vTttuPEx8lhtcw2MccrL3AfJ2n6DigDyC8eIWEI00K1va3lyEmGT9pfcCnJwfljKD2GaveDNWvNDsNU1C1WFnitYma4nUskKGRtsYUYJZ2OevQE9etufRJIvFlh4S8ry7LTp7i7afP3rV9rHJ65wNmfU1j+FrmUaheCJEW1gifUJIX+6DCG8pTkjgPIpx7CgD1LwM72+qa/p5R40E8d5HFINrRiZdzDbk4G4Hgepqlb36ef4k8Vv5e4SjTtNeTkKEOzIP91pGJOOwrjdK8XX9jLrevX04e6n0zbECApLhxHHwOp5LECt68tzpum6B4UtmYXcVuJ5MYyLiX5FJ+heVz6bQaAOntfFGkaF4cDkTx2Vu3kW8zrn7YQMl0wTkE5O44B5Peq/gqHUNRkXWNUmy1wrXKW/RYfMOFwOudi9Tzhq4rxNPZ6p4rXSl3Lo+kRiGQp1WOP/WAD1ZsJ7kCu18GeJYdQstRvZoPJEQ8+YoB5cKAEJGPUhEDHj+L8KAOe+LWtedfQaVFJ8lsvnTAHjefug/Qf+hV5wjr9gmUMDJJNGgQdWUBv6kfnU+s3k+p3t1f3Jy877zz0z2/DpVOALs3IFMkTeaSfRccdfUg9PSgDr/h9q0OiePL17yJlilSSN5FUlYPnByfRcjGfp0rufiPpt7daU91A4ltUjO5CoPlZGC/uuMc9VPzDjdXlHhvWrzSNZlurC3S4vbiGSFBIcKpbBLN0yAASfzr2f4fz3E/h2e2vbxdQNpdSW63IbcJk4IOT14bH4UAeaaD4DfUJYZrrfd2l9BJClzAW/0O4PTzF68EEf3eQc0/xJBpv2LT9I0fRVg1uYn7XbpuZhIuQBjJ4PLZ9MG
+
+
+
+---
+*Source: Document 084f9bc77d1d8854a07a52206c286278*

@@ -1,0 +1,26 @@
+{
+  "id": "9acbd402-8230-4174-9c4b-3c9bd9206e9c",
+  "type": "insight",
+  "timestamp": "2013-10-07T14:12:29.000Z",
+  "title": "<div>David Bowie's Top 100 Must Read Books:</div>",
+  "content": "<div>David Bowie's Top 100 Must Read Books:</div>\n<div><br></div>\n<div>The Age of American Unreason, Susan Jacoby, 2008</div>\n<div><br></div>\n<div>The Brief Wondrous Life of Oscar Wao, Junot Diaz, 2007</div>\n<div><br></div>\n<div>The Coast of Utopia (trilogy), Tom Stoppard, 2007</div>\n<div><br></div>\n<div>Teenage: The Creation of Youth 1875-1945, Jon Savage, 2007</div>\n<div><br></div>\n<div>Fingersmith, Sarah Waters, 2002</div>\n<div><br></div>\n<div>The Trial of Henry Kissinger, Christopher Hitchens, 2001</div>\n<div><br></div>\n<div>Mr. Wilson’s Cabinet of Wonder, Lawrence Weschler, 1997</div>\n<div><br></div>\n<div>A People’s Tragedy: The Russian Revolution 1890-1924, Orlando Figes, 1997</div>\n<div><br></div>\n<div>The Insult, Rupert Thomson, 1996</div>\n<div><br></div>\n<div>Wonder Boys, Michael Chabon, 1995</div>\n<div><br></div>\n<div>The Bird Artist, Howard Norman, 1994</div>\n<div><br></div>\n<div>Kafka Was The Rage: A Greenwich Village Memoir, Anatole Broyard, 1993</div>\n<div><br></div>\n<div>Beyond the Brillo Box: The Visual Arts in Post-Historical Perspective, Arthur C. Danto, 1992</div>\n<div><br></div>\n<div>Sexual Personae: Art and Decadence from Nefertiti to Emily Dickinson, Camille Paglia, 1990</div>",
+  "context": "From document: David Bowie's Top 100 Must Read Books: — chunk 1 (chunk 1/7)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "74cd6f9b69cb8411e78ef77faed8d20f",
+  "relatedUnits": [],
+  "keywords": [
+    "2007",
+    "wonder",
+    "1997",
+    "david",
+    "bowie"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

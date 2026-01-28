@@ -1,0 +1,26 @@
+{
+  "id": "510b1ccb-ddde-4f04-923b-8b97daca75d5",
+  "type": "insight",
+  "timestamp": "2024-06-25T15:50:51.000Z",
+  "title": "<div>$13,949 owed to irs</div>",
+  "content": "<div>$13,949 owed to irs</div>\n<div><br></div>\n<div>$24,400 </div>\n<div><br></div>\n<div>First payment to IRS 6-8 months from today</div>\n<div>$50 x 72 payments (total amount i owe)</div>\n<div><br></div>\n<div>$2,500</div>\n<div>$2,000</div>\n<div><br></div>\n<div>Taxrise</div>",
+  "context": "From document: $13,949 owed to irs",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "6a290d7c5ff7a1bd746c48597cc12446",
+  "relatedUnits": [],
+  "keywords": [
+    "owed",
+    "first",
+    "payment",
+    "months",
+    "from"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

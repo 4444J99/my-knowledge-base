@@ -1,0 +1,26 @@
+{
+  "id": "55542555-f0fa-4a28-910f-de54d6fc35a4",
+  "type": "insight",
+  "timestamp": "2025-02-12T19:07:35.000Z",
+  "title": "<div>20 to &gt18.0 pts</div>",
+  "content": "<div>20 to &gt18.0 pts</div>\n<div>Exemplary</div>\n<div>Accurate spelling, grammar, and punctuation (0 errors). Accurate Use of APA formatting consistently throughout the paper, title and reference page, with attention to in-text citations and reference entry page (no to very few errors). Manipulates conventions for stylistic effect—and it works!</div>\n<div>18 to &gt15.0 pts</div>\n<div>Accomplished</div>\n<div>Grammatical, spelling &amp punctuation errors are rare (2 errors per page avg.). Exhibits APA formatting throughout the paper, however, layout contains a few minor errors that do not detract from the overall paper.</div>\n<div>15 to &gt12.0 pts</div>\n<div>Developing</div>\n<div>Grammatical, spelling &amp punctuation errors are common (3 errors per page avg.). Exhibits a basic knowledge of APA formatting throughout the paper, but does not meet many APA requirements. Several APA errors and In-text citations OR reference entry are missing which detracts from the overall paper.</div>\n<div>12 to &gt0 pts</div>\n<div>Beginning</div>\n<div>Grammatical, spelling &amp punctuation errors significantly detract from meaning of paper (4+ errors per page avg.). Fails to exhibit basic knowledge of APA style; no reference entry or in-text citations.</div>",
+  "context": "From document: Weeks 1 - 6 Canvas Data Dump — chunk 96 (chunk 96/188)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "1b21c03b1f1909954adca118a79b0158",
+  "relatedUnits": [],
+  "keywords": [
+    "errors",
+    "paper",
+    "page",
+    "spelling",
+    "punctuation"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

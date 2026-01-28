@@ -1,0 +1,26 @@
+{
+  "id": "a0fc41d5-b105-451f-a114-749a5307c849",
+  "type": "insight",
+  "timestamp": "2021-12-09T03:33:27.000Z",
+  "title": "<div>It is not necessarily a hill I am willing to die on. But it is a hill I am ",
+  "content": "<div>It is not necessarily a hill I am willing to die on. But it is a hill I am willing to consider walking on. </div>",
+  "context": "From document: It is not necessarily a hill I am willing to die on. But it is a hill…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "dc1e7abe2a1735d46f669c8a15cef21d",
+  "relatedUnits": [],
+  "keywords": [
+    "hill",
+    "willing",
+    "necessarily",
+    "consider",
+    "walking"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

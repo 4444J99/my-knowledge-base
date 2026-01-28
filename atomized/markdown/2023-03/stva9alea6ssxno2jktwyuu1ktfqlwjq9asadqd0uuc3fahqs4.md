@@ -1,0 +1,32 @@
+---
+id: b46f5edc-0e9e-45eb-a875-c7b27a58ac34
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    stva9alea6ssxno2jktwyuu1ktfqlwjq9asadqd0uuc3fahqs4ueen4aekhlgrnxowgejwgoc0phrd3b84dowo5a8xo3ph0pobgdkb0yhqoar5keeb6jjto7bgzpoob3yhbmymw9jo
+  - mbyjnhg1
+  - mj69amcdv2omy26tctwfym32vzy
+  - 3snqe8p
+  - >-
+    pm7v4pkpaf4xbjyndvap1a48d9huhkdegpolfqdddhc9ahbtf6sd5yhnaezzj25ybbtthtggmj3xwpna98xnbqd0qnaf27daavnlqxtwzvhsnsr6w9dfe1vwlvdwr5jt6hnbkkpyyaobaoho849vdoykvcd8b
+---
+# STVA9ALEa6SsXnO2JKtWyuu1Ktfqlwjq9AsAdQD0uUc3fAHQS4UeeN4AekHlgrnXOWgejwGoC0pHrd3B
+
+## Context
+From document: New Note — chunk 3534 (chunk 3534/8096)
+
+## Content
+STVA9ALEa6SsXnO2JKtWyuu1Ktfqlwjq9AsAdQD0uUc3fAHQS4UeeN4AekHlgrnXOWgejwGoC0pHrd3B84DowO5A8Xo3PH0POBgdKB0YHQOaR5keEB6jjto7BgzPOOB3YHbmYmw9JO/mBYJnHG1+mJ69AMcDv2OMY26tCTwfYm32VZy/3SnQE8P+pM7v4pkPaF4XBJynDvAP1A48D9huHkDegPoLFQddDHC9AHbtf6sD5YHnAeZzj25ybbTThtGGmj3xwPNA98xnbQD0qNAf27daavNLQxtWzvHSNsR6W9dFe1vWLvDWr5jt6hnbkkPYyaObaoHo849vdoYKvcD8B/ZdHfggA0EGggwEGQgyEGQgyECQgSADQQaCDPzRZODUng0RCeNf3vt6r7YfjXmxqfd6xHPezAGdbgqa/3TesJc+WTC8+6dSkr8uUP4z+ZvynwuW/yDx1ahPBcRfQ31e9pnab8cAzwvYBqBHiT5hWM9Q0iu9HiSOjKyV1SUIjDdTvUFpPkGq81iS1OgV7wwF+pThkQK7opylqpwqkB6IHngekB54fvHwXt6iYZEeAD1AO8rxAPP0LRosNXuB9NSxcBn1+K4NZYPjTXWe8QbUGxBPm8H1lA2gN7gegB4jxtTpUZoHnscDz+MTB7H2i4oTsN9X6rlSmJ8vhX/KQPSoxptyPAC9qdMTB0wPFG/K8/QDzxtsT5l+1OnNwvFhgB6o3SnDywO+Y8DzBtMDv1O2NrwfkKfvq8YZQO/AeZujHqAHbjfVeYD55eP7OHtzXJSA3ijByNqHQHuD6P3APIA8Y1Gwtznoxwy2Z5yNJQb1eQdPSsEb2NjgZoODAYQBhgGH/WZx1gckjVm7xfrrfqCc8pcB9AYo23ib39qZjzbGGiTPHs2Amek3+NnW989ja9scBs3T7jfGMN72whoGZNt6jee1McyJ2frMS9nGU7ZYyzt7N6Cb+enHaEdNHZV1Yunzx1LG6MNsjsaxX9ZPm41lXvbln59+O4P1277sPKzH3jDKNh/e8mlz+uen3+ak3fJhZRtj+be92rqMp2zrsTZ5svPj7czmiTWjzWJsDdZkDvpo4xnavuzcVmftL0x7ETTvN4PpAegBZU11Gg80C2SMJQyRIrLaiDGAPgzVCq4VMA88j1EGkDeA3g/OW4zB9gmD29ePCSvR+9Xn/QA98Hz8IIHu8n54
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

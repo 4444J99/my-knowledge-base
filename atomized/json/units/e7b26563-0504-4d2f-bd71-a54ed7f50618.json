@@ -1,0 +1,26 @@
+{
+  "id": "e7b26563-0504-4d2f-bd71-a54ed7f50618",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:44.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Pull requests (PRs) are similarly enriched with context. An AI raising a PR (or a human) should begin the PR description with a summary of changes and a bullet list of references: e.g. “This PR implements the **Seed World** function as per  [oai_citation:10‡autodesk.com](https://www.autodesk.com/solutions/media-entertainment/procedural-generation#:~:text=Procedural%20generation%20is%20a%20technique,content%2C%20including%20landscapes%20and%20characters) in the Procedural Generation spec, and addresses the requirements in ARCHIVE `VISION-META-SPEC-OS-0001-v1_0` section 4.2. Closes #issue (if using issue trackers).” By referencing archive IDs, we ensure the discussion around the PR can be informed by looking at the original design rationale. Once a PR is merged, we might even automate adding an entry to a changelog in $ARCHIVE_ROOT/meta or updating a status in the corresponding spec (like marking it as implemented).</div>\n<div><br></div>\n<div>Finally, the GitHub organization being neutral and long-term oriented means we avoid naming things after ephemeral team names or brands – it’s all generic (like using OS, tools, worlds, etc., rather than a codename that might lose meaning). $ORG_ID itself is a placeholder; we assume something simple like “CreativeOS” or similar. The idea is that this OS could be open-source or at least structured in a way that multiple people/agents can collaborate asynchronously, with Git providing the concurrency control and history.</div>",
+  "context": "From document: # Blueprint for a Self-Evolving Creative Operating System — chunk 30 (chunk 30/38)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "83dee6092ba3a8d02324ba12da038c25",
+  "relatedUnits": [],
+  "keywords": [
+    "with",
+    "procedural",
+    "spec",
+    "like",
+    "that"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

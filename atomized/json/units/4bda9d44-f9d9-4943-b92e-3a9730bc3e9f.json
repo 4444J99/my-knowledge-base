@@ -1,0 +1,26 @@
+{
+  "id": "4bda9d44-f9d9-4943-b92e-3a9730bc3e9f",
+  "type": "insight",
+  "timestamp": "2025-06-27T06:10:52.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>I trying to take the credit? , do your thing.</div>\n<div><br></div>\n<div>I'm gonna sit on my couch for 10 minutes and cook.</div>\n<div><br></div>\n<div>I eat the cookiesell </div>\n<div><br></div>\n<div><img style=\"max-width: 100%; max-height: 100%;\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABgAAAAECCAYAAAA4gRzuAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAGAKADAAQAAAABAAABAgAAAADfzGF3AAAkl0lEQVR4Ae3dT4ydcxcH8DPtdKRiFCMskFBREhErREQyTRBREiI0TUY00RUWot1aSm2waa1qIzazqUX9jQ6RoCQSIbWxtdAVQqbSaWvePpN33oy+02nv7f33nPOZDZ3e+9zf+XxPqOc79xpbPPMVvggQIDAAgdOnT8eRI0di3759sX///piamhrAq3oJAgQIECBAgAABAgQIEFhLYHZ2Nn7++efYvn17bNmyZa2H+j0CBAgQaJnAupad13EJEGihQHPj/8svv4xt27bF/fffHx9//HHoHlsYpCMTIECAAAECBAgQIJBS4Ndff43XX389pqenY8+ePUtlQMpBDUWAAIGCAgqAgqEbmcCgBM6+8f/JJ58M6qW9DgECBAgQIECAAAECBAh0KKAI6BDMwwkQINACAQVAC0JyRAJtE1hYWIjDhw//7yf+3fhvW4LOS4AAAQIECBAgQIBAZYGVRcDu3bu9I6DyMpidAIHWCygAWh+hAQiMjsCJEyfi008/jUceeSQefPDBcON/dLJxEgIECBAgQIAAAQIECHQq0BQBb7zxxtJHAzVFwNdff93pJTyeAAECBIYsoAAYcgBenkAGgeUb/81n/D/00EMxNzeXYSwzECBAgAABAgQIECBAgMAZgeUi4OGHH44nn3xSEWArCBAg0CIBBUCLwnJUAqMm4Mb/qCXiPAQIECBAgAABAgQIEOifwF9//RUHDx4MRUD/jF2ZAAECvRZQAPRa1PUIFBBw479AyEYkQIAAAQIECBAgQIDAOQQUAeeA8W0CBAiMoIACYARDcSQCoyrQ3Pj//PPP46mnnoonnngivvjii66Ouri42NXzPIkAAQIECBAgQIAAAQIEei/Q7X+jNUXAoUOHlj4W6Jlnnolvv/2294dzRQIECBC4KAEFwEXxeTKBGgIrb/w/9thj8dFHH8X8/HycOnWqBoApCRAgQIAAAQIECBAg",
+  "context": "From document: 4320 Mariners Cove Dr 2.m4a — chunk 127 (chunk 127/225)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "3daa4ef2da2c63b0f7b42279befdb3fc",
+  "relatedUnits": [],
+  "keywords": [
+    "trying",
+    "take",
+    "credit",
+    "your",
+    "thing"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

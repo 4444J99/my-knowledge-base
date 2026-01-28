@@ -1,0 +1,33 @@
+---
+id: 185e2c3e-1203-4ee8-aad9-f15736ae6d4f
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    7nvzd6aavolok4rkzgjarboqrxnr2oprk10vnacetbaqschrksv2gbh7apqftczavgjke5bpmndifeqemlbdwx0gkgffuwcasyppsfpdbnzzsjsqncbt3quafugva2vw5dzwbzvqaedbnl01d84
+  - l9zpz6imabfot0i9xfvwxu
+  - >-
+    vyrrvpjtatnwqsmrqaknpiygvaluuoy97goc13tsboff8d3lynysslgorhkvffuh0p8jxjleimtvg1rxsbtbilvi1trfqjaawbtd7smnvpkp2575
+  - kqebqkoeqskobq6wwkibook4tond06wsmrixzbddka8votibe7t2y2
+  - >-
+    np98tnv78mwcvqzs1a1qsycr147fdaqsf6a2tyyg5zngiqc8e75dpzq2gco9ejc1oajjrzkodo9cl1v4zkmcvumdq01hhfpzpdh2vq5lacu985nvins5qeetlingwkqx6fbjklqrzzurx6ck7tvkfbzezr68xou8cqs8c65orti
+---
+# 7nVzd6AAVolOk4rkzgJaRboqrxNr2oprK10vnAcETbAqsChRKSv2gBH7ApQFTCzAVgJKe5bPMNdifEqE
+
+## Context
+From document: New Note — chunk 9327 (chunk 9327/21099)
+
+## Content
+7nVzd6AAVolOk4rkzgJaRboqrxNr2oprK10vnAcETbAqsChRKSv2gBH7ApQFTCzAVgJKe5bPMNdifEqEmlbDWX0GKgffUwCaSYppSFpdBnZzsJSQNcBT3QuAFUgVA2vW5DzwbzVQaEDBNl01d84+L9zPZ6ImabfoT0i9xfVwXu/VyrRVpJTatNWQsmrQakNPIYGVaLUuOy97Goc13TSboFF8D3LYNySsLgOrhKvFFUh0p8JXJLEiMTVg1RxSbTBIlVi1TrFqjaawbtd7SmNVpKp2575+gF+kqebQKoEqsKoBq6WwKiBoOk4toND06wSmrIXzBdDKa8VotIBe7T2Y2/Np98TnV78mWCVQZS1A1QSycr147FDAqsf6a2TyyG5ZnGiQc8e75dpzQ2GcO9Ejc1OajjrZKOdO9cl1V4zKmcVumdQ01HHFpZPDh2Vq5LAcU985NVInS5qEetliNgwkqx6fbJKlqRZZUrx6ck7TVKfbZEZR68xoU8CqS8c65OrTI/KZG5bktk+ckJuumZZrzgyFcb0i2RuvGZdbbpjRRNfj8oVbT2k9J5+68YR8+qZTYVzS2q5IFImmbTtyQ5GoItUEqG5XPKpwtHmrrjHfGuZtbZdKe8dW6ezUlFSt7W1bpENHRuFqb1eVDAGsaqwrxtDAPhk4omi1f4/09dVIt8JV3NPS8hFpavqwPu9SfT3FqwpY2zU1tbVVsWzTVmls3CINDVu06msqXG0JgFVfp/Ej0q6js+kjClYvlX593f7WS6WvRZ+zKrDKdFXWNcDVdSSsAqsStl40uJqHqASp5Srhqiesvvnmm/LGG2/kx+uvvy4Yr732WtF49dVX5ZVXXikaL7/8srz00kvy4osvygsvvJAfzz//vHA899xzgvHss8/KM888I/yFCn4QcQC2+QGYf4/8e+SfAf8MfFA+A/yl6eb+8drfnXfAO+Ad8A54B7wD3gHvgHfAO+Ad8A54B7wD3gHvgHdgbR3gv688/fTTwoG9Un9uv/12ueOOO+TOO+8M46677hKMu+++Oz/uuece4bj33nuF47777hM77r//fonHAw88IBgPPvhgfjz00ENSajz88MOC8cgjj6SORx99VNLGY48th6rce/zxx6XUeOKJJ2Q948knn5Ry46mnnhKOX/7yl1IOrAKn/r0OC1aBVDlirLoSWCVQZbVQlXMiVVTg
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

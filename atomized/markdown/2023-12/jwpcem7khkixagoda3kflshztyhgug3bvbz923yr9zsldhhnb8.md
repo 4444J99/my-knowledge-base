@@ -1,0 +1,32 @@
+---
+id: 40469493-b70c-443c-bba6-6613e4115f7e
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    jwpcem7khkixagoda3kflshztyhgug3bvbz923yr9zsldhhnb8e9og51ujhxihrc9dbr48waosvtjrrrfhgij4aijs
+  - hyfsno6gywa4widclrtikikc0r
+  - rchut28oah279vnx04endf
+  - >-
+    gb6bwr4oq28vedgacdwjr2oty0aemp3qgaxaanybwyottaweuuwkoohh3zavvtnfyalkn0ujhpkksi3wiprqescul6rz
+  - hdwzsqceinhqwtkqnghc19fwuox375fxt
+---
+# jwpCem7kHkIxAgODA3KflshZtyHGuG3bvbZ923YR9ZslDhhnb8E9oG51ujhXiHRc9DBr48WaOsvtjrrR
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 2943 (chunk 2943/3262)
+
+## Content
+jwpCem7kHkIxAgODA3KflshZtyHGuG3bvbZ923YR9ZslDhhnb8E9oG51ujhXiHRc9DBr48WaOsvtjrrRFhgIJ4AiJs/hyfsnO6GyWA4WiDclrtIkikC0R+rChUt28OAh279vnx04eNDF+gb6BwR4oq28veDgaCDwJR2OTY0AeMp3QgAXAANYbWyottaWeuuWkooHH3zAvvtnfyalKN0ujhpKKSi3wipRQEsCul6Rz/hDWZSQCEiNhqwTKQNgHc19FwUOX375FXt/1y7XSMixAuwJqxYorGRvF2VgrDpHgDErwK2G8vFGpZUmrqQPxyBxqTwvovHnHyx0zw+izI/qRFhSKRt/ysKHPdIqh0j9lXcp7Hd2C9CTuQ8DGpy8l5wbJS/Git6mClOev4wNHwbc9VcyAkY+LnHQOGRMEi1iRigNO3fEDav7MWZzZpab8vDxy8vcx30u4BxrriTho/f9pzEFoPo0rRRhCkD16dvqTglZAKo7pSeKcizaAgWgyjeNlsC0JvpKm/fL7GkxTHecWQF9FUzcn0kHU9UieqGAZzLxPwjFtBDXSR35RnF1Hrh/pz0lRRWrV6+Skodl2q8E4azElD8Er6KIgNaFG2XzxRVCAT8uiILyRUGIgykTBbLLEVCFWGJ//6Bd1cGqr776e3vrrbel8OC0gNFgKa1EqKd0I7XyL8QHpDD/ExNjbm/SHiv2WTU01DvXqrOzS3Xq1p6rNbZ+3ToR+N3WKW4We7KIi4ZA6ggmoW7eLt6G5XzuRBvtiKFtEqDKt1P0SdQJu4MnRYEkAhQAKNj7dFIifMeOH7dTUs7A/rWLFy9J/HJIAGtUSk3GXGED4IS2du4N44H04GB6WqH0hL5ycES5vGio7Z+0lpYW3/P20EMP2uNf+Yo98eTj8qffvNn164GzsaPHa5oIOzeIZ6mKUX8fnwrAXr2x0Ql755137Y0/vWFHPvnEzql+AwLevo9POWAaIwAAQABJREFUZaA+gKg0hjQr5BagDPvc3PArgSm1R/yXxzz541Y2tFqY8Iun5BaeWRh3zNsVLyvA3HKU0y9sd14L0JH5fqb3GGHRiy5eh90f+VFYgjOI5egioxqTPl4yZ96/gCmC+AjxKJEH6bpNYy/dFc0D+zsg2d0xsiJtLs8yCpL55m5z0iNtRLz5vZ4pANX1WqjsXwCqclssFVsBqJZKT93F
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

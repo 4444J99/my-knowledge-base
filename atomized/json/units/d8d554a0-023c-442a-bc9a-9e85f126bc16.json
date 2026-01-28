@@ -1,0 +1,26 @@
+{
+  "id": "d8d554a0-023c-442a-bc9a-9e85f126bc16",
+  "type": "insight",
+  "timestamp": "2025-05-16T00:53:36.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>If your OS opened in your phone, or behind your eyelids, or through a scent, what would the </tt><b><tt>first screen</tt></b><tt> feel like?</tt></div>\n<div><tt>You don’t need to make sense—just describe what feels true.”</tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>Optional follow-up:</tt></b><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt>“You’re not </tt><i><tt>using</tt></i><tt> the OS—you </tt><i><tt>are</tt></i><tt> the emotional weather system the OS is syncing to.”</tt></div>",
+  "context": "From document: ^           - -- -- -- - — chunk 7 (chunk 7/7)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "eb5e9b115c091bfa41741d707a210aed",
+  "relatedUnits": [],
+  "keywords": [
+    "your",
+    "what",
+    "opened",
+    "phone",
+    "behind"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

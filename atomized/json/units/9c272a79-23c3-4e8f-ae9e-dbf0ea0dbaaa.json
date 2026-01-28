@@ -1,0 +1,26 @@
+{
+  "id": "9c272a79-23c3-4e8f-ae9e-dbf0ea0dbaaa",
+  "type": "insight",
+  "timestamp": "2025-03-05T14:18:11.000Z",
+  "title": "<tbody>",
+  "content": "<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n</tbody>\n</table></object><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><b>New Learning Task Assigned</b></div>\n<div>Hello Anthony James,   You have been assigned a new learning task that is due on 05/06/2025. To complete this task, please take the following training: <b>Course name:</b> Sexual Harassment Prevention Training for Employees (English)   For the best experience we recommend using a PC with Google Chrome or Mozilla Firefox as the browser. Users with mobile devices, tablets, or using Apple iOS please <u>see our guide for additional information</u>.   If you have any questions or need assistance, please contact your Zywave Learning administrator or check out our <u>resource page</u> page for more information.</div>\n</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><u>Take training</u></div>",
+  "context": "From document: 1: — chunk 7 (chunk 7/630)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "d56851c0b64e6fc46a6205c88fb237ad",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "tbody",
+    "valign"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

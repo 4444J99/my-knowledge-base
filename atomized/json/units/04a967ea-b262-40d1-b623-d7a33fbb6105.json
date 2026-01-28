@@ -1,0 +1,25 @@
+{
+  "id": "04a967ea-b262-40d1-b623-d7a33fbb6105",
+  "type": "insight",
+  "timestamp": "2022-02-17T19:25:29.000Z",
+  "title": "<div>Danse</div>",
+  "content": "<div>Danse</div>\n<div>Macabre </div>\n<div>Flicker</div>\n<div>Dis-</div>\n<div>Appear</div>",
+  "context": "From document: Danse",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "fb7044b13d35442288edfd289d77b4f9",
+  "relatedUnits": [],
+  "keywords": [
+    "danse",
+    "macabre",
+    "flicker",
+    "appear"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

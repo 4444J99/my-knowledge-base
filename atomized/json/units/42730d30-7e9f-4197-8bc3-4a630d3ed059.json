@@ -1,0 +1,25 @@
+{
+  "id": "42730d30-7e9f-4197-8bc3-4a630d3ed059",
+  "type": "insight",
+  "timestamp": "2020-02-12T14:12:34.000Z",
+  "title": "<div><h1>Peloton Wifi</h1></div>",
+  "content": "<div><h1>Peloton Wifi</h1></div>\n<div><br></div>\n<div>MiznerPark</div>\n<div>apartments</div>",
+  "context": "From document: Peloton Wifi",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "86f786b842b3240016410ba6c4156d4a",
+  "relatedUnits": [],
+  "keywords": [
+    "peloton",
+    "wifi",
+    "miznerpark",
+    "apartments"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

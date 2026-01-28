@@ -1,0 +1,33 @@
+---
+id: a0378d5d-e163-4861-8bc0-623ac03055b6
+type: insight
+created: '2022-03-16T12:34:10.000Z'
+document: 7405c2da6b92da26b0b49297d3a4e664
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 5hlnpwg7tezj1pau1dy
+  - >-
+    fqy7qwvzvmqzhei5vkjno4mczyvdtyvwuebolbohikqcyqhoqw2gcd0fnmctcypnavxx2regkhcayxnpwwqrltyda1o7aigtd
+  - >-
+    ukljgpfphkmykmrcqtswmmilezc4ht1qnwckyetidjlnhmxejdahkmu41dhbb4gk2gl8xhxhqvugmh8skw5wmbbbyt3beu3yhofsp7in8fl9ke3myhzocko
+  - >-
+    biq011ifujpserswlyvxvnmisoofbt5nnfzk3ymp4yguwhjx3oahzlmqk3bfr3m8rqrkmec01vkupzxtwpptzlybhiq2bdludwczjjpxwjdtibn7lr3eg
+  - ijgolqmgt7lx1bpaaov1
+---
+# 5hLnpWG7tEzJ1Pau1DY+X+Fqy7qwVZVmQZHei5Vkjno4mcZYVdtyvWUEbOlbohiKqcYqhOQW2gcD0FNM
+
+## Context
+From document: The battle of the blinds — chunk 134 (chunk 134/1787)
+
+## Content
+5hLnpWG7tEzJ1Pau1DY+X+Fqy7qwVZVmQZHei5Vkjno4mcZYVdtyvWUEbOlbohiKqcYqhOQW2gcD0FNMCtCYPNaVxx2regkhcAYxnpWWqRLtYda1o7aIgTd+uKljGPFPHKMYKmrcqtswmMilEzc4HT1qNWckyetIdjLnhmXEjdahkmu41DHBB4GK2Gl8xHXHQVUgmh8sKw5WmBBbyT3beU3yhOfSp7iN8fL9Ke3myHzocKO/biq011IfujpSERSwlYVXvnmiSOOFBt5NNFzK3ymp4YguWHJx3oAhZlmQK3BFR3M8RQRKMEc01VkupzxtwPpTZLYBhiq2BDludwCzjjpxWjDtibn7lR3EG+IJGOlQmGT7Lx1BpAaoV1+cfdqeNYZBvi4IqnZXCyR+TN96kYTQ5aP7tS0BoxAp80h4q8ETyiOMHmsIzEwGR+MUkc7zjZGaXKB0SRhoii4zQsvymNuo4rFgnmXIXtxUryyQcNyX5p8o/Qiu0j8tx3NUILfyULtjPapHMkx5GBUM0ezBU5AoSEXEfI2t0NZk1p5ku2PjNaKYcJirH2fMqFccdaY7DItMigRWl5NaUFnCBuUcNUzxxBd0x+VfSs1Lt/O2x/wCrJ4oA1BLDCCoFVRfpkhxwOmKjMEty7CPjFPi07B/e9qAZZSQMu9KhZlwxk6npU+yNWCpxip3jgfDPgbOaSVg0MhHZAVA68VNZ2zvIynpj9K0hJasNwppv7WJv3dUh2SGrZRRNjtRMY8eUvGKglufPbC5FQAMzbKQehMqIPnqF3hbtx0pbhEhjXnqcUkkdtDFkmgROqrbw4A3Uxbg5+YcfSoIrmIQ+d1PTHtT/ALbb7cigNBJLkxrhR839KFmklX91xSb4pug5qNpltjsTpQIsSu0a5HWsp7eWVTKvBFW1vh3GRTBdhUIAO7PHFAyC3tLkHIwF70j6fPMcqelSR3c7NjtQ97MpxGKAKRsrmBgjN1qzBayZ+Y8VZlklZBMP4RVX7c+OnSgNC8Y/PXb0K8DFZf7qBmR+TVyK6C/M/HpUVxawE+YM5fmgQ6Bo2GR2qB5CsmTyopYQFzs6DrUqxKzbxQPoJLcl/LaLjb61KkRbNxL9eKtG3haLc3y8VUFxEcQJ06GgRkzQR3NxujGMH5qu7o0AQY2irwhhTIU9aoS2iNu8s5IpktDVjZZDMuNh6VnX6+Y
+
+
+
+---
+*Source: Document 7405c2da6b92da26b0b49297d3a4e664*

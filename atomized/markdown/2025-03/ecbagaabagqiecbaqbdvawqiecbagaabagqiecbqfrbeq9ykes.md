@@ -1,0 +1,42 @@
+---
+id: 50a006d8-eb2b-4e34-a8d3-c8affe9c28e6
+type: insight
+created: '2025-03-13T23:47:48.000Z'
+document: 3b2e4f3759d2535cf9a91dec728a8fbc
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - jessica
+  - >-
+    ecbagaabagqiecbaqbdvawqiecbagaabagqiecbqfrbeq9ykesbagaabagqiecbagiagqgciecbagaabagqiecbaocogifa5fsnagaabagqiecbagaabqvqpecbagaabagqiecbagebvqbctcitggaabagqiecbagaabaokohibagaabagqiecbagacbqoagwuvwjaabagqiecbagaabagqeut1agaabagqiecbagaabalubqbtkrrgbagqiecbagaabagqickj6gaabagqiecbagaabagsqaojolvsxagqiecbagaabagqiebbe9qabagqiecbagaabagqivaue0sq3ygqiecbagaabagqiecagioobagqiecbagaabagqiekgkckjvbsuiecbagaabagqiecbaqbdvawqiecbagaabagqiecbqfrbeq9ykesbagaabagqiecbagiagqgciecbagaabagqiecbaocogifa5fsnagaabagqiecbagaabqvqpecbagaabagqiecbagebvqbctcitggaabagqiecbagaabaokohibagaabagqiecbagacbqoagwuvwjaabagqiecbagaabagqeut1agaabagqiecbagaabalubqbtkrrgbagqiecbagaabagqickj6gaabagqiecbagaabagsqaojolvsxagqiecbagaabagqiebbe9qabagqiecbagaabagqivaue0sq3ygqiecbagaabagqiecagioobagqiecbagaabagqiekgkckjvbsuiecbagaabagqiecba4acehwd9phfbdaaaaabjru5erkjggg
+  - chatgpt
+  - cost
+  - owed
+---
+# ECBAgAABAgQIECBAQBDVAwQIECBAgAABAgQIECBQFRBEq9yKESBAgAABAgQIECBAgIAgqgcIECBAgAAB
+
+## Context
+From document: Squarespace, ChatGPT, GoDaddy Expenses — chunk 1141 (chunk 1141/2268)
+
+## Content
+ECBAgAABAgQIECBAQBDVAwQIECBAgAABAgQIECBQFRBEq9yKESBAgAABAgQIECBAgIAgqgcIECBAgAABAgQIECBAoCogiFa5FSNAgAABAgQIECBAgAABQVQPECBAgAABAgQIECBAgEBVQBCtcitGgAABAgQIECBAgAABAoKoHiBAgAABAgQIECBAgACBqoAgWuVWjAABAgQIECBAgAABAgQEUT1AgAABAgQIECBAgAABAlUBQbTKrRgBAgQIECBAgAABAgQICKJ6gAABAgQIECBAgAABAgSqAoJolVsxAgQIECBAgAABAgQIEBBE9QABAgQIECBAgAABAgQIVAUE0Sq3YgQIECBAgAABAgQIECAgiOoBAgQIECBAgAABAgQIEKgKCKJVbsUIECBAgAABAgQIECBAQBDVAwQIECBAgAABAgQIECBQFRBEq9yKESBAgAABAgQIECBAgIAgqgcIECBAgAABAgQIECBAoCogiFa5FSNAgAABAgQIECBAgAABQVQPECBAgAABAgQIECBAgEBVQBCtcitGgAABAgQIECBAgAABAoKoHiBAgAABAgQIECBAgACBqoAgWuVWjAABAgQIECBAgAABAgQEUT1AgAABAgQIECBAgAABAlUBQbTKrRgBAgQIECBAgAABAgQICKJ6gAABAgQIECBAgAABAgSqAoJolVsxAgQIECBAgAABAgQIEBBE9QABAgQIECBAgAABAgQIVAUE0Sq3YgQIECBAgAABAgQIECAgiOoBAgQIECBAgAABAgQIEKgKCKJVbsUIECBAgAABAgQIECBA4AcEhwd9pHFBDAAAAABJRU5ErkJggg=="/><br></div>
+<div><br></div>
+<div><br></div>
+<div><br><br><br></div>
+<div>-----</div>
+<div>-----</div>
+<div><br></div>
+<div><h1>ChatGPT </h1></div>
+<div><br></div>
+<div>Jessica's Cost: $40 Jessica's Amt Owed: $20Anthony Paid Bacl: Feb 11,  needs to pay March 11;</div>
+<div><h2>Chat GPT Invoice Overview</h2></div>
+<div><img style="max-width: 100%; max-height: 100%;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABtQAAAakCAYAAABkmf+gAAAMS2lDQ1BJQ0MgUHJvZmlsZQAASImVVwdYU1cbPndkQggQiICMsJcgIiOAjBBW2BtBVEISIIwYE4KKGylWsG4RwVHRKkNxVUCKC7VqpSjuXRyoKLVYi1v5Twigpf94/u95zr3vfc933vN93z13HADoXXypNBfVBCBPki+LDfZnTU5OYZF6AArosCGAxRfIpZzo6HAAbfj8d3t9DfpBu+yg1Ppn/381LaFILgAAiYY4XSgX5EH8IwB4q0AqyweAKIW8+ax8qRKvg1hHBgOEuEaJM1W4VYnTVfjioE98LBfiRwCQ1fl8WSYAGn2QZxUIMqEOHWYLnCRCsQRiP4h98vJmCCFeBLEN9IFz0pX67PSvdDL/ppk+osnnZ45gVS6DRg4Qy6W5/Dn/Zzn+t+XlKobnsIZNPUsWEqvMGdbtUc6MMCVWh/itJD0yCmJtAFBcLBz0V2JmliIkQeWP2gjkXFgzwIR4kjw3jjfExwr5AWEQG0KcIcmNDB/yKcoQByl9YP3QCnE+Lx5iPYhrRPLAuCGf47IZscPzXsuQcTlD/FO+bDAGpf5nRU4CR6WPaWeJeEP6mGNhVnwSxFSIAwrEiZEQa0AcKc+JCxvySS3M4kYO+8gUscpcLCCWiSTB/ip9rDxDFhQ75F+XJx/OHTueJeZFDuFL+VnxIapaYY8E/MH4YS5Yn0jCSRjWEcknhw/nIhQFBKpyx8kiSUKcisf1pPn+saqxuJ00N3rIH/cX5QYreTOI4+UFccNjC/Lh4lTp4yXS/Oh4VZx4ZTY/NFoVD74PhAMuCAAsoIAtHcwA2UDc0dvUC69UPUGAD2QgE4iAwxAzPCJpsEcCj3GgEPwOkQjIR8b5D/aKQAHkP41ilZx4hFMdHUDGUJ9SJQc8hjgPhIFceK0YVJKMRJAIHkFG/I+I+LAJYA65sCn7/z0/zH5hOJAJH2IUwzOy6MOexEBiADGEGES0xQ1wH9wLD4dHP9iccTbuMZzHF3/CY0In4QHhKqGLcHO6uEg2KsoI0AX1g4bqk/51fXArqOmK++PeUB0q40zcADjgLnAeDu4LZ3aFLHcobmVV
+
+
+
+---
+*Source: Document 3b2e4f3759d2535cf9a91dec728a8fbc*

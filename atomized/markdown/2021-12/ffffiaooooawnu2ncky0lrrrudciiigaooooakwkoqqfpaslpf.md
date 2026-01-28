@@ -1,0 +1,32 @@
+---
+id: b6534a9a-7273-433b-814f-2efe88670f16
+type: insight
+created: '2021-12-17T14:46:39.000Z'
+document: 37d960e30d45ec53cee7bbbc54f3efc3
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    ffffiaooooawnu2ncky0lrrrudciiigaooooakwkoqqfpaslpfiwlpkwkuffffmaooopaffffabrrrqauuuuaffffabr
+  - fffah
+  - >-
+    dciiigbkkkkybsuulugckpashgffffqauuuuaflsuvaawkoooybtts0ljahwlptltaadrsdawpakslpkqbsuzpkoaoopkayc0lfffwciiii4brrrsuauuuujglrsuvqc0uulac0lffabrrrsuauuuuxakkkklgffffk4brrrrcaooop3akkkklgfffffwciiii4brrrsbakkkkvwciiilcd50
+  - at9nvxn8s4zvi1kxs2g07odnuloig2
+  - ecyohyf3vbtxyj
+---
+# FFFFIAooooAWnU2nCky0LRRRUDCiiigAooooAKWkoqQFpaSlpFIWlpKWkUFFFFMAooopAFFFFABRRRQA
+
+## Context
+From document: How lung until quit smoking? — chunk 28 (chunk 28/249)
+
+## Content
+FFFFIAooooAWnU2nCky0LRRRUDCiiigAooooAKWkoqQFpaSlpFIWlpKWkUFFFFMAooopAFFFFABRRRQAUUUUAFFFFABR+FFFAH//T/dCiiigBKKKKYBSUUlUgCkpaShgFFFFQAUUUUAFLSUVaAWkoooYBTTS0lJAHWlptLTaAdRSdaWpAKSlpKQBSUZpKoAoopKaYC0lFFFwCiiii4BRRRSuAUUUUJgLRSUVQC0UUlAC0lFFABRRRSuAUUUUXAKKKKLgFFFFK4BRRRRcAooop3AKKKKLgFFFFFwCiiii4BRRRSbAKKKKVwCiiilcD50/ay+Mq/AT9nvxn8S4ZVi1Kxs2g07ODnULoiG2+U/eCyOHYf3VbtXyj/wAE6vj18X/HP/Cc/B/9oq7nn8f+FZrXUk+1rEk7adqUKSIu2EBcRkq3TIEyr2wOf/bXvYPjh+058E/2SUlV9IS8/wCEp8RozDyza2ofyonPQF4451we8kZx0zH+0pqNn8Af24/hF+0VYTxx6D47ifwh4haNxsBYgW80pHYbo3/3bemB+rtc3q3jLwhoF5Dp+u65Y6bdXJAihubmKGSQnoFV2BP4CrfiOy1jUvD+p6f4f1BdJ1S6tporW8eH7QttO6FY5jDvTzAjENs3ruxjI61+Slr+yB+wT8PLa/t/2ofiPpnjfx/qEs0moarrWvtpt48jNxttUvdylQACXaRic8gHaAD9glZXUOhDKwyCOQQe4rOTWtGkuLq0jv7dp7IbriMSoXhHXMi5yo+uK/Kn/gmV42t4/E3xo+B3hfxHL4p8B+BtVhfwzdSS+eq2N1JcqUR8DKHykYbfkLFmUANz4X4Y+A0H7Q/7ff7QXgXxVq15ZeB45LO61iyspBC+pPEIvstvJIPnWFXLSMF6si9DhgJgfuNoniHQPEto1/4c1K21W1SRomltJknjEifeQtGSAw7jORWXf+PfA2lasugap4i06z1NyAtpNdwxzknGMRswY5yMcV+cH7XN1oP7B/7JE/hD9muwl8N3fi7WY9OszHcT3M1vPexM9xPHJPJJIHMVvsUhvkdgygEVpeDf+CVX7NNv4Cg0v4j2N74k8X3cKvqGtnULmKY3bjMrwxrJ5QXcTt8xHJGCxJ5p3A/Tis6LWNInubmygvoJLizGZ41lUvEPV1Byv44r8w/+CfnjHx14I+IvxV/Y88fazN4
+
+
+
+---
+*Source: Document 37d960e30d45ec53cee7bbbc54f3efc3*

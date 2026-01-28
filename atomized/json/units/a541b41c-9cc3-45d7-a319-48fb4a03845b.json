@@ -1,0 +1,26 @@
+{
+  "id": "a541b41c-9cc3-45d7-a319-48fb4a03845b",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>Software Foundations (Coq)</div>",
+  "content": "<div>Software Foundations (Coq)</div>\n<div>Cybernetics &amp Systems TheoryBig‑picture recursion, feedback</div>\n<div>An Introduction to Cybernetics (Ashby)</div>\n<div>Human‑Computer InteractionRitual UX, mythic interfaces</div>\n<div>Designing Interfaces (Tidwell)</div>\n<div>Security &amp DevSecOpsSecure the ritual engine</div>\n<div>The Web Application Hacker’s HandbookData VisualizationShow waves &amp loops</div>\n<div>Information Dashboard Design (Few)</div>\n<div>Ethics &amp Philosophy of AIMyth + responsibility</div>\n<div>Weapons of Math Destruction (O’Neil)</div>\n<div>AR/VR / Spatial ComputingEmbody mythic agents</div>\n<div>Learning Three.jsWhen creating any new project, append an “Inspired By / Further Study” block with at least one of these fields + a reading.🧰 MINIMUM TOOL STACK</div>\n<div>  •  Obsidian (vault &amp backlink graph)</div>\n<div>  •  Python + OpenAI GPT‑4 (invocation &amp code gen)</div>\n<div>  •  Docker / k3s (modular deployment)</div>\n<div>  •  Git + GitHub Actions (version &amp CI rituals)</div>\n<div>  •  VS Code + Vim‑mode (recursive editing)</div>\n<div>  •  Jupyter Lab (interactive demos)</div>\n<div>  •  Graphviz (show UID tree &amp recursion)</div>\n<div>🗓 RITUAL CHECKPOINT SCHEDULE (Example)</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 379 (chunk 379/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "cybernetics",
+    "recursion",
+    "mythic",
+    "interfaces",
+    "ritual"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

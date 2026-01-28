@@ -1,0 +1,31 @@
+---
+id: 67f9681c-d867-44a1-a63a-95e9118f15a8
+type: insight
+created: '2018-11-06T20:47:41.000Z'
+document: 8c3ce8993066f857adca061d250e2c68
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - qkkxmszsnhj2jhlddea
+  - >-
+    oqkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkap
+  - fyiiigaooooakkkkapz9
+  - 8ajo
+  - 9kvrxp8aa08caxn
+---
+# QkkxMszsNhJ2jHLDDEA+oqKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigA
+
+## Context
+From document: Octatrack Tips & Tricks — chunk 1830 (chunk 1830/2544)
+
+## Content
+QkkxMszsNhJ2jHLDDEA+oqKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP/V/fyiiigAooooAKKKKAPz9/4Kc/8AJo/iD/r/ANM/9KVrxP8Aa08caxN+y78Gv2efBbb/ABL8WLXRLBUU8izihty5YjlQ0rRKSeCm/sDX63V82av+zZoXiH9pLSf2j9f1i5vb3w/p5sdN0xkT7LbFldTKD95nzLIeehI/uigD2D4d+B9H+GngTQPh/wCH126f4fsoLKE4wWEKBS7Y/icgsx7kk1+cf/BRH/krn7Mv/Y1n/wBKtPr9T6KAPzF/bc8C+LvBXxj+Gn7YHhDQZvE1t4F/0TW7K2XfOtgryOsyKAchRNMGboh2Mfl3FeV+O/7fPwk+L/wg1j4V/A+z1Txd408e2Uuk2+mpp8qPb/bEMcrSFhtZkQsR5RcbgCSFyw/WSs610fSbG5mvbKygt7i4/wBbJHGqO/8AvMACfxoA8a/Zk+GWq/Bz4CeC/hvrsiyalo1iBdbG3qtxM7Tyord1R5CoPQgccV8Yf8FA/B/jbRfiB8I/2j/DugT+KtG+HV+ZdVsbdTJJHEs0U6ShAGIUhHDSYwhCE8Hj9RaKAPzV8Uf8FOv2a7nwVdSeFl1LxBr99btFbaK1hIkkk8q7Uilc5i2ljh9jucZ2hjgHsP8Agm98JfG3wj/ZzWw8e2cumajr+q3GrR2VwpSa3glhhhjWRDyjN5JcqcEBgCA2RX3JBoGhW182p22m20V4/wB6ZIUWU/VwMn861qACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoo
+
+
+
+---
+*Source: Document 8c3ce8993066f857adca061d250e2c68*

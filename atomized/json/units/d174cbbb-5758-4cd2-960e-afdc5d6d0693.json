@@ -1,0 +1,26 @@
+{
+  "id": "d174cbbb-5758-4cd2-960e-afdc5d6d0693",
+  "type": "insight",
+  "timestamp": "2025-12-11T19:52:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>&gt hey—before you head to the carolinas: i’ve built a performance system (70+ pgs docs, working prototype, full infrastructure) but haven’t released anything. i need a narrative co-architect for 4–6 months to validate, shape, and create the dramaturgical framework that will guide all future writers. compensation $16–20K once we land funding ($75–115K likely). bootstrap now, retroactive payment + equity in what we create. 45-min call when you’re back?</div>\n<div>That’s exactly what this system demands, and that’s exactly what I can’t do alone.</div>\n<div><br></div>\n<div>**THE SYSTEM: Core Concept**</div>\n<div><br></div>\n<div>The Omni-Dromenon-Engine is a real-time, audience-input platform that transforms spectators into computational agents while preserving performer authority and artistic coherence. Rather than passive consumption, audiences collectively influence performance parameters—narrative trajectory, emotional tone, dramatic emphasis, thematic focus—through smartphone interfaces. Performers maintain override controls and weighted consensus algorithms ensure that audience input strengthens rather than fragments artistic intent.</div>\n<div><br></div>\n<div>The system works across disciplines: theater, music, dance, opera, visual art, sound design. For a theatrical context, this means:</div>",
+  "context": "From document: Chris, — chunk 6 (chunk 6/25)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "95023b367d0cafd95246c623bb5c2f5c",
+  "relatedUnits": [],
+  "keywords": [
+    "that",
+    "system",
+    "what",
+    "performance",
+    "narrative"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

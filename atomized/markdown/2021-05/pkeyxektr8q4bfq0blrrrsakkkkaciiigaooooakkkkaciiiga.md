@@ -1,0 +1,31 @@
+---
+id: 59e18613-c91f-4ec4-863c-0bc50201f0f5
+type: insight
+created: '2021-05-26T23:26:41.000Z'
+document: d338c9f6bd92d1f92f8eaa091bec0082
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    pkeyxektr8q4bfq0blrrrsakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkap
+  - kkkkaciiigaooooako6lcfzbkwyhdayh1paq9xoejzntphep43z
+  - vtqhfuuuvybrrrqb8yfta
+  - 9mfuda034pt3tu
+  - inzntntby3cktuylizmmcmeyogjpnfrul6np2t6zaazpfzhewf
+---
+# pkEyXEKTR8q4BFQ0BLRRRSAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
+
+## Context
+From document: Sausage & Peppers — chunk 269 (chunk 269/394)
+
+## Content
+pkEyXEKTR8q4BFQ0BLRRRSAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP/9H9/KKKKACiiigAooooAKo6lcfZbKWYHDAYH1PAq9XOeJZNtpHEP43z+Q/+vTQHFUUUVYBRRRQB8yftA/tb/B/9mfUdA034pT3tu/iNZntntbY3CKtuyLIZMMCMeYOgJPNfRul6np2t6ZaazpFzHeWF/FHPbzxMHjlilUMjow4KspBBHUV+IP8AwVy0FvFXxN+CPhhZvsx1dr6zEpXeIzcXFpHu25Gdu7OMjPrXoH7APxr8W/B/x7q37DPx5f7LrWgzSjw/PIxKSpjzTbI7YLRyIfOtiRypZOPkWlcD9gr27hsLO4v7jPlW0bSPgZO1AScD6CvCf2ff2lvhn+0xoOqeI/hk949npFytpP8AbIPIbzGQSDaNzZGD1r2PxT/yLGr/APXncf8Aotq/JD/gjZ/ySTx9/wBhyH/0mSmB+xlFfMH7Rf7XvwW/Zis7f/hYmoyz6vfIZLXSrBFnvpYwSN5QsiRoSCA0jKCQQuSCB8haH/wVw+CVxqtva+LvCHiLw5p94f3V7LBFNGE/vsiSb9vr5Yc+xoA/VyuS8Q+PvAvhG+sdM8V+I9N0W81Q7bSC9vIbaW4bIXESSMpc5YD5QeSB3q34S8W+GfHnhvT/ABf4O1KDWNG1WITW11buHjlQ8ZBHQgghgcFSCCAQRX84f7a37Xngb43/ABh+GPifw7oOs6bb+Ab2Q3cd/DDHJPtuoJP9HEczhuIiPmK8kUNgf0vUV8kfszftieA/2pL7X7DwboGtaK/h6O3lmOrQQxLILkuqiPyppckbDnOOo619b0Acn478ceGfhr4O1fx54yvBYaLodu9zdTEFtsaeiqCWYnAVQMkkAcmvz9+DX/B
+
+
+
+---
+*Source: Document d338c9f6bd92d1f92f8eaa091bec0082*

@@ -1,0 +1,26 @@
+{
+  "id": "77953bde-dbf6-49ca-b2b7-adb27565ea2c",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>- **Applications:** 4 production apps + frameworks</div>",
+  "content": "<div>- **Applications:** 4 production apps + frameworks</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **KEY DISCOVERIES &amp INTEGRATION POINTS**</div>\n<div><br></div>\n<div>### **✅ You Already Have Critical Tools:**</div>\n<div><br></div>\n<div>1. **`chatgpt-exporter`** (Personal) </div>\n<div>   - **Can bridge Layer 1 → Layer 2**</div>\n<div>   - Extracts AI conversations with timestamps</div>\n<div>   - Processes conversation structure</div>\n<div><br></div>\n<div>2. **`tab-bookmark-manager`** (Org)</div>\n<div>   - AI-powered content analysis</div>\n<div>   - ML summarization/classification</div>\n<div>   - **Could process archive files (Layer 0)**</div>\n<div><br></div>\n<div>3. **`public-record-data-scrapper`** (Org)</div>\n<div>   - **Could be adapted for archive ingestion**</div>\n<div><br></div>\n<div>4. **`auto-revision-epistemic-engine`** (Org)</div>\n<div>   - **Can orchestrate all four layers**</div>\n<div><br></div>\n<div>### **🔗 Proposed Integration:**</div>\n<div><br></div>\n<div>```</div>\n<div>Layer 0 (Archive)</div>\n<div>    ↓ [NEW: archive-scanner]</div>\n<div>    ↓ [USE: public-record-data-scrapper - adapted]</div>\n<div>    ↓ [USE: tab-bookmark-manager - AI analysis]</div>",
+  "context": "From document: Contents_Table — chunk 50 (chunk 50/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "layer",
+    "archive",
+    "integration",
+    "bookmark",
+    "manager"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

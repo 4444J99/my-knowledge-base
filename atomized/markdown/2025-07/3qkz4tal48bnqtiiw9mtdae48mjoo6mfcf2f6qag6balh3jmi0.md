@@ -1,0 +1,33 @@
+---
+id: f6b44e17-15de-4816-9cd6-eb2e5211034d
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    3qkz4tal48bnqtiiw9mtdae48mjoo6mfcf2f6qag6balh3jmi0pjige0gcatzvrgb8y7hglb6jxc2p5h063
+  - >-
+    d4dtv4b6adhwbxsnapsizhtrnzgkynagzmifzcqtbgfutg3baq0ys4ya3qkz4tal48bnqtiiw9mtdae48mjoo6mfcf2f6qag6balh3jmi3vslsfrdkan
+  - mk0v3hd8ganbrqyb5wogdfbpvbrei
+  - gqmasywfy
+  - >-
+    ycthb5hruwxy5dmdhf190yfojcdjlchbzs7jhdb8bc0sfdqrlzdr1taxhw7bzpgahrw5qheedd8ekbd6d5e01c95paigcxg9mfcpo
+---
+# 3qKZ4tal48BNQTIiW9MtdAe48mjOo6mfCF2F6QaG6baLh3JMI0PJiGE0gCatZVRGB8y7hGLB6jxC2p5H
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 10270 (chunk 10270/18928)
+
+## Content
+3qKZ4tal48BNQTIiW9MtdAe48mjOo6mfCF2F6QaG6baLh3JMI0PJiGE0gCatZVRGB8y7hGLB6jxC2p5H063+d4dtV4B6AdHWBxsNAPsIZHTrNzGkynaGzMiFzCqtBGfUtg3bAQ0ys4YA3qKZ4tal48BNQTIiW9MtdAe48mjOo6mfCF2F6QaG6baLh3JMI3vSLsFRDKan+MK0V3hD8gANBRqyb5wOgdFbPvBrei/GqMAsywFY/yCThb5HrUwxy5DMdhf190YFOjcDJlcHBZS7jhdb8BC0SfDQrLZDr1tAxHw7bZPGaHRw5QHeeDD8eKBd6D5e01c95paIgCxG9MFcpo+pWfEBC5i2myZoMqUzXSVYUr0mKJu/H0KvphPFA6T6qIJA0qeprWBYMe0Oh4lYh6G3LRgOWUhzwYwPVZa3JoJRoqft/8hqfy4RywM0FGi43qahAKO3fOBN0T+L7HUqAJilHkDKIJOCvkcNTTHLkMx2F0uTx0rMkg/QwSjlruN5ND3+MxG7xT1jA7uNwVy2dEzN4pElKiAUxlwBmkx7P6DcHPZfkavXJECcaE8bG4LsFDxXxlqpPqxMIYvlUcKQ6SvoDpOlwxDbllEIGauyOUxRRrBVWd4ao6MQ014GbvKG5AEaCnReb9NQgNFbPvCm6J+VuBijArPUA0gZZLLQ96iVKWYZkjlsMjI8TRGQq4M85a7jeTSdR9PegXWr9J453GaSbKfoNRFo0sC3EjJiHVoWHKWabbqvVtLcAC+ih29NNEQPx/bH7WpVpeVHudV5vc0uavSWj4XI0j+L7HW2Z7BZ6gGkDFI9WYwammKWIZnDJiMbbiNXB/gnY+5N4tJRGYCr7AKEwhgNw1ozqmwsqb8MJplqu7ntHxeCCWUMiQZnMAKiGRWDZVosNlfQWWL0TgOacf3wfIlVg3L4b726LNUbQZ9xXBbSQdApvYbm260Tb2l6PeTibO512bXOhMZlUXinAt3SK38rLKkMsJqsymYa4zCaE1JNAFimo8EsTw36FlPCEUGmdlImpIkCEwHNiwO8kPUdEWofEocmApmAaHqjmq6mC6Eca0DQ1amrVUCntLNZArMiQ9m5XUtembmGwhgNub1ujz9J83RMHP7ymGSKM6CdYTKGRHP43Nsn4r5ccwBuMsjgO6Ux4luMdSOIsp+4VYb/1qjzaLq8+Lz7tK47LD5s
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

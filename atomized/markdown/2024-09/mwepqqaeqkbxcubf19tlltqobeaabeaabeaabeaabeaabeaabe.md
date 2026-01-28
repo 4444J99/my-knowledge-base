@@ -1,0 +1,33 @@
+---
+id: e4b4db9f-beea-4c3e-836c-a21804c209aa
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - mwepqqaeqkbxcubf19tlltqobeaabeaabeaabeaabeaabeaabeaabeaabfqcungl3
+  - >-
+    mfig4qohaaaraagqijqewnllaqbgeqaaeqaaeqaaeqaaeqaaeqaaeqaaeqaihejgavhvr0bw43p4ellcaaaiaaaljf1
+  - >-
+    tx4mpffeoiaiaaaiaaaiaaaiaaaiaaaiaaaiaaaiaaaicww0gv3w6bfde0bgbfb2ueciaacibagqrgrdfbp6jqoxaaaraaaraaaraaaraaaraaaraaaraaarbqcccklo1yjtjarvfgxnt6zkbkeaabeohvarcikwsunj8caraaaraaaraaaraaaraaaraaaraaaraagcvbafz06xd6oakdig4eqaaeqkbaarciu88qivwcgf2
+  - ccivo18bozux
+  - >-
+    elegpxbaaraaaraaaraaaraaaraaaraaasial7eiqkmagmda4dkir2aajgnhiquwi3pxsxyqdsigaaieigbhwunssi0yfds
+---
+# mwEpQQAEQKBXCUBF19tLLtQOBEAABEAABEAABEAABEAABEAABEAABEAABFQCUNGl3+mFig4qOhAAARAA
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 8102 (chunk 8102/11534)
+
+## Content
+mwEpQQAEQKBXCUBF19tLLtQOBEAABEAABEAABEAABEAABEAABEAABEAABFQCUNGl3+mFig4qOhAAARAAgQIJQEWnLlAQBgEQAAEQAAEQAAEQAAEQAAEQAAEQAAEQAIHeJgAVHVR0BW43p4eLlCAAAiAAAlJF1+tX4MpFFeoIAiAAAiAAAiAAAiAAAiAAAiAAAiAAAiAAAiCwW0gV3W6BfdE0BGBFB2UeCIAACIBAgQRgRdfbp6JQOxAAARAAARAAARAAARAAARAAARAAARAAARBQCcCKLo1yjtJARVfgxnT6ZkBKEAABEOhVArCikwsUnJ8CARAAARAAARAAARAAARAAARAAARAAARAAgcVBAFZ06Xd6oaKDig4EQAAEQKBAArCiU88QIVwcgf2/cCIvO18bOZuX/eLegpxBAARAAARAAARAAARAAARAAARAAASIAL7EIQkmAgMDa4dKIr2aajGnhIquwI3pxSxYqDsIgAAIEIGBHWunSsI0YfdS/NqZW5yK+6Y34zSE+newbwMvs16qqW118cZvjch/5oR8NiCp2ykCv+7tNzAaKe1sKy3KAwIg0EsEMPL3UmvaWZejlm5hIVPXFRQ+cuJiFmKOC+xsNZQKBEAABLqXAOad7m27zpccX+KdZ95db4SKLv3OMFR0UNGBAAiAAAgUSGDxqOhOdf/CKlyfgA8c38jKbnctpLqltPvuHB0sOzOizGZ9nfyqmZtEBduX2L4EARAokABG/m6ZL7q3nD9fcnkQxqzT3InL3JB1b71QchAAARAAATsJYN6xs11sKxW+xG1rETvLAxWdvk9lioGKLuaDxwQL8SAAAiAAAq0SGBhaG93E9sXnT+j5v5uCHbzCdD4H9p/CS+5iIND5Oh48tImXvIY/6wlXJ38e46zid75UeCMIgMDiIYCRf/G09ULV9GdDl7tloc9xR81s4WW+UKXCe0EABEAABHqVAOadXm3ZfOuFL/F8efZqbsvG1kQ7gfo6FjE6AajoPB0KYkAABEAABPIiMLBz3WDk6HJo9VAp6O2/m4TBim6oaUW3CAgsVPveIZ7mNV+V2FrQcAU7ZMnpvOwtVKm6970rJy7iofM83xVRVP/+ZvRaL+TdWy+UHASKIICRvwiqyFMl8LMRgxVdf9OKDqsLEAABELCSANaT6kjeXWHMO93VXgtbWnyJLyx/+98+8F+4
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

@@ -1,0 +1,32 @@
+---
+id: df79ff02-5f3f-46ae-9382-f62998fdef6b
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - j13i
+  - >-
+    8ddkw87fnq8wz4wv4a2hwimdma995qhjqypomausuvwzgw0g2pw2xzngaxizsfbvhl0zcqxpgw1oemfz7av7xjpmgrn8f7rgivhznl
+  - sujf9jy3p2rgchvtcxto
+  - rfnywp8kpsxhjjyglmvaw7go7bkzon7ehju5dhe
+  - >-
+    kzc7wcvapysjrvdrp969kzkhy6kphzzksxf5rsuoouz3xpth73tqt1ecyeeiconxxiotaisuz3ntabu33qkcyjpmlqemcsfg22kldseilpow5wketwpvvannn02ctkca1qvx7nszd
+---
+# j13i+8ddKW87fnQ8wz4WV4a2HWiMDMA995QhJqyPomAusUVwzgw0G2pw2XZngaxiZSfBVHl0zcQxPGW1
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 769 (chunk 769/3262)
+
+## Content
+j13i+8ddKW87fnQ8wz4WV4a2HWiMDMA995QhJqyPomAusUVwzgw0G2pw2XZngaxiZSfBVHl0zcQxPGW1OEMFZ7aV7xJpmgRn8F7rGivHZNL/SUjf9jy3P2RgcHvtcxtO+rFnYWP8KpsXHjJYGLMvAw7Go7BKzoN7EhJU5dHe+kzC7WcVaPYsJrVDrp969kZkhY6kphzZksXF5RSuoouz3xpTh73TQT1eCYEEIcoNxXIOtAISUZ3NTAbU33qKCyjPmlQeMCSfG22KldSEiLpoW5wKEtwpVvAnnn02Ctkca1QvX7nSzd+9143DzCLkUr8azEgkvMjLuzWu+tZ3hb4Iuw6g1DPvPOveFlqC8ZVBxgEOhkn8VfJRgZbGIlgZHwZrPqE7GbxMlbSGffSyDrmsWnvw3n+IMQTYUEzfBunXvlaBCliZJWVnxVGEWgdwGbqwTH8HXiq9DgpiLYN28ifD4BZ4B/iF2+ILBfeMeJQjnLXIKhQlT3jILlwChaDVLMusCOQHLlN1HgtnFgYbxr1ad6e74EVBVoVUniUcTaDrr01SMBXuDQAxFPR5VmkWUfUTrrcZvD1LcQr3QcZ0rr7uPklX1F0aUGiQZ9Uu41qrCxZa6V955ZW06xbKuOFuhnP2zFnW+17EMLGSjXHkm7pUL8zfYubVYy0ORIEeZdA9wJo+z271DNcHDxYRYKcod2fOxJya5gxJZnmkp534QapA27aaeSgaF2fiqDa7gb47lPU0ReFJK76KM0p0jsbQMq3AJw0KL10+XQuPsLrILBIz0SrQF6/eZKZQ2oUehJ/4Dw2YMXTy0MGxrhi1qBPRKFes1S8KNM/OoHie7nUUaGfUx9DQ3HxqPwqcx2GoQEuDMzOHgAXnaoOXTWfAUdTbJS7aNXgmbDvUtoATIlXb61vFFaeFz5aH91Kgi38ktnGGcmx9PnRKxuY7KHs4oz6d37Z/iUwbrNF2vubV+ER4S75bh6pHYpJfxsDk1/otKRM3hSVP0ycMF+6qo3H60mywvI7xa9mZPGc9EVg9rsbz7XdBXzPA+jibSB09PNWtMpPiTs3TuHA7Mz3Jzxnn3fTZTWY6bl26jLBEetKNgzvYA7SBAQe6hnHgcDTC2tzT3Qk2Hjt+6hQ0Q0uQGfYy+7KDvl9nuMsXpV7pSQW4+LX8WAV66yGuwPA/22DfjmCpEkYf/43f+G73
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

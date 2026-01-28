@@ -1,0 +1,25 @@
+{
+  "id": "fcacf2e0-6ad4-46e5-bbb6-7a21ffa513e5",
+  "type": "insight",
+  "timestamp": "2022-04-11T13:15:31.000Z",
+  "title": "<div>It’s ten pm; do you know where your children are?</div>",
+  "content": "<div>It’s ten pm; do you know where your children are?</div>",
+  "context": "From document: It’s ten pm; do you know where your children are?",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "3e181902120fd8121108ca5433522a4e",
+  "relatedUnits": [],
+  "keywords": [
+    "know",
+    "where",
+    "your",
+    "children"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

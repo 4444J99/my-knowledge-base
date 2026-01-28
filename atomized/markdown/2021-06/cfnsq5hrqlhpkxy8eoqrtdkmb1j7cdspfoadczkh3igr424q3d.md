@@ -1,0 +1,32 @@
+---
+id: bae242c3-08f8-42c1-8ea4-d424ea982999
+type: insight
+created: '2021-06-24T19:10:13.000Z'
+document: b5de64ea907b6e44ec94b342683f3041
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    cfnsq5hrqlhpkxy8eoqrtdkmb1j7cdspfoadczkh3igr424q3d4jzpjrceecrqhqmuhkw4nvqg0htfou9cc0ivddz511vklsxdrhar7sol3vf
+  - >-
+    7y9i8y13ucspjvbupleohcmmxlf5dmvcvb4hjlrtcx2dbuikshvel5jwumrbje1oztbsjzpzyepgusjdt3nwebnyrav5nvg4kg5xvxfhnde7i1boo7921zdul77of
+  - ewnvv3xohczqi4o
+  - bwuhidr
+  - hhbci87hestrpnt5g53ueor
+---
+# cfNsq5hRqlhpKXY8EoQrtDkmb1J7CDsPfOADCzkh3IGr424q3D4JzpJrceecRQhQMuHKw4NVqG0htFOu
+
+## Context
+From document: TODAY FEELS LIKE A REAL BAD GO — chunk 59 (chunk 59/940)
+
+## Content
+cfNsq5hRqlhpKXY8EoQrtDkmb1J7CDsPfOADCzkh3IGr424q3D4JzpJrceecRQhQMuHKw4NVqG0htFOu9cc0IVDdZ511VklSxdrHar7sol3vf//7y9i8y13ucsPjvBuPleohcMMXLf5DmVcvb4hJLrTCX2DBUikshveL5JWUmrbje1oztBsJZpzyepgUsjDt3nweBNYRAV5nvG4kg5Xvxfhnde7i1bOO7921zdUL77Of/ewNVv3xOhCZQi4o+bwuhIdR+hHBCi87hEstrpNT5g53uEOr/UC/3OMe92jkWXGiS5c9pD4zv4NAEAgCQSAIrBqBEAIDIG7zJziwTnDb7OLKTBmnfMqATzlr615YlTIWW+exO1t6kUKI4WFAeURSzLJyL/Kc7biXUObkh3e84x0lbGBU4BtvD0W29kMXYQ5BQ0lGCEzrf0d/nX/++c197nOfYuEbf/Yy/nbkmEzjBNrR0y+8Ww1h6WOtN+6MkUkYOdryx3/8x4vbrMSVQlre+ta3NgcccMANOS8WIQaM94svvri59NJLi6eFJJ0pQWC3IiAZ6re+9a2yxktYmzIZAYQ8MpI3FPLV2mRftgYiCezTSES5FuR7sc6PeitZ0xD6j3nMY254AAIZaYDYbEPA8F7SBgQDz42UIBAEgkAQCALrgEAIgQF6ac/W0WtcollgpymD0x7DmkyxIkB0Ucyq6zYhhVCzaOFdQLEiLIn93k2EAGwow/AlFDpKalohJPph+aYwty3q1g8U3XHB0Xeve93rmuc85zkljt+51txJV1GEJ0gCKDxllGwy7vwYd8ZSn4L8mIQRDxNeMi9+8YsLASKx4Cc/+cnmkksuKaSJMIMautDnuQiBBzzgAeVsdfkJTj755DJ2+9SVe4LAkAiwJl977bXldJmqmPJOEj7Td00VEmZtWdWaMSQeq6zL+oYUkGhRHD/PCuufv3l9VcLAcaWs97e4xS1K2JP7rGP2bnlWRou10xo5KVfK6HX1/9Z6x7LKrzLvWFTXdpUX6nPyOwgEgSAQBILAkAi013iGfOouq4s1lNW3T6GM9VXI+t43qZ2UO4IRMmA3xmbf9ra3LVYeyR+93zS3foIjQoBA10VYq/04iQygCMsVIc6XxdyRk6soBFm5LbjSjocneH8WtK5E1Gi7CdGTLP0+c2b3t7/97eZVr3pVCdUwRyhKnukc9EWO
+
+
+
+---
+*Source: Document b5de64ea907b6e44ec94b342683f3041*

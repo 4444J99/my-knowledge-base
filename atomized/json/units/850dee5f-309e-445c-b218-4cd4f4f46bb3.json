@@ -1,0 +1,26 @@
+{
+  "id": "850dee5f-309e-445c-b218-4cd4f4f46bb3",
+  "type": "insight",
+  "timestamp": "2018-01-10T18:05:30.000Z",
+  "title": "<div>We don’t get what we want, we get what we deserve. </div>",
+  "content": "<div>We don’t get what we want, we get what we deserve. </div>\n<div>You decide to let the world happen to you, or you decide to let you happen to the world. </div>",
+  "context": "From document: We don’t get what we want, we get what we deserve.",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "c2ac7b0cf9ae09f8661c425eb46e6def",
+  "relatedUnits": [],
+  "keywords": [
+    "what",
+    "decide",
+    "world",
+    "happen",
+    "want"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

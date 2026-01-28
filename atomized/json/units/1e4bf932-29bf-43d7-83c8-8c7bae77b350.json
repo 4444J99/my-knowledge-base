@@ -1,0 +1,26 @@
+{
+  "id": "1e4bf932-29bf-43d7-83c8-8c7bae77b350",
+  "type": "insight",
+  "timestamp": "2025-03-05T14:18:11.000Z",
+  "title": "<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px",
+  "content": "<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><b>Course duration:</b></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>10 minutes</div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div>For any questions regarding this event, contact a course or catalog admin.</div>\n<div><br></div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div><br></div>\n<div> </div>\n<div> </div>\n<div><b>From: </b>Training Enrollment &[REDACTED:EMAIL ADDRESS]&gt<b>Date: </b>Tuesday, February 18, 2025 at 10:26 AM<b>To: </b>AnthonyJames Padavano &[REDACTED:EMAIL ADDRESS]&gt<b>Subject: </b>You have completed course 'Phishing: its methods, dangers, and prevention techniques'</div>\n<div>Dear AnthonyJames Padavano,</div>\n<div>Congratulations! You have successfully completed the following training course:</div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><b>Learner:</b></div>",
+  "context": "From document: 1: — chunk 11 (chunk 11/630)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "d56851c0b64e6fc46a6205c88fb237ad",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "course",
+    "valign"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

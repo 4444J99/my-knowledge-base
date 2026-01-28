@@ -1,0 +1,26 @@
+{
+  "id": "c203ada4-2f9d-4f89-9de3-bb669f2ce95d",
+  "type": "insight",
+  "timestamp": "2021-07-07T15:53:01.000Z",
+  "title": "<div>Schedule for July:</div>",
+  "content": "<div>Schedule for July:</div>\n<div>-Mon: 9am-11am, 6:30pm-8:30pm</div>\n<div>-Tues: 9am-11am, 6:30pm-8:30pm</div>\n<div>-Thurs: 9am-11am</div>\n<div><br></div>\n<div> Schedule for August:</div>\n<div>-Mon: 11:30am-1:30pm (tentative), 6:30pm-8:30pm</div>\n<div>-Tues: 11:30am-1:30pm (tentative), 6:30pm-8:30pm</div>",
+  "context": "From document: Schedule for July:",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "ff25ef7211b95a773e1dcc63cf257179",
+  "relatedUnits": [],
+  "keywords": [
+    "30pm",
+    "11am",
+    "schedule",
+    "tues",
+    "30am"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

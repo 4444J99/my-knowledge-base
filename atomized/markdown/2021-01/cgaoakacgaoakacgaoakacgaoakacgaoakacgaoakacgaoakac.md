@@ -1,0 +1,33 @@
+---
+id: 3a91c723-78e6-4363-bbc0-fad64700239a
+type: insight
+created: '2021-01-09T17:16:44.000Z'
+document: b08f3427975696d1616a6633df09ddd6
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    cgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgd
+  - >-
+    0v4j66acgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakap
+  - >-
+    iproakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoa
+  - ugaoakacgd7w
+  - 4j0ftq
+---
+# CgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgA
+
+## Context
+From document: Structure — chunk 51 (chunk 51/206)
+
+## Content
+CgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgD//0v4j66ACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKAP//T/iProAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoA//9T+I+ugAoAKACgD7W/Z1/4J0ftq/taeBr/4lfs7fALxP8UPA2l+Jr/wbf8AiHRtW8I2FrbeJtM03SNXv9JeHXvEOlXjT22m6/pF08iWzW5S9iVJWkSVFBOSW7/C/wDW39WPe/8AhyT/AMFTv+jO/Hv/AIUnw3/+bOgXPHv+B+dfxQ+GHjz4L/EHxZ8K/ih4cu/CPxB8C6xcaB4s8M381lcXmi6xahDcWNxPp11eWMskYkQl7a6niO75XPIoKTvqcFQAUAFABQAUAFAHf6/8KPil4U8HeE/iL4p+Gvj/AMN/D7x6btfAvjrX/B3iLR/B3jQ2DMt8PCfifUdOttE8RmyZWW7Gj314bZlYTbCCGAuvn6nAUAFABQAUAFABQAUAFABQAUAdr8P/AIa/Eb4s+JbbwX8K/AHjX4meMb23u7uz8J/D/wAK674z8S3dpp8DXN/dW2heHLDUtUnt7K2Rri7mitXjtoFaWZkjUsoF0t/8v6/rucne2V5pt5d6dqNpc2GoWFzPZX1jewS2t5ZXlrK0FzaXdrOqT21zbTxvDPBMiSwyo0ciq6kUAem/FD4F/GX4Jf8ACJf8Lf8Ahf45+Gn/AAnvh238XeCv+E18N6n4d/4Srwvd7Ps
+
+
+
+---
+*Source: Document b08f3427975696d1616a6633df09ddd6*

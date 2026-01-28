@@ -1,0 +1,33 @@
+---
+id: 1469e4c2-da65-431f-acc9-da7e568c4944
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - fffdaxtbybvo9vz8n
+  - 70pzntk7uoz3y7z0bz
+  - >-
+    c6jb1z17bg33xzb1vp6rrcbwm3arjazoha6edoqoha6edoqoha6edoqoha6edoqopc1awfyht1g1xdy9yfvc6uepg2nvx0dhg
+  - >-
+    cj2igdqsauwgtwmcvowfvkefvqivumrnuhb6vtqpu5azec7vkynuqivuoqvuo4fqqxvyjqfofoiqxhvbxh
+  - >-
+    a2rkuqnxnsjbrksjvkqnvxc6wyt7aqc7qpzljcqldcu6raqnxmflrfdlcvohbolqdrqebvqqr9gar2prbfudufz4jufuavyx9izwvmaduxjbq6efcvucrbvp9ygqadvqchpjy5ovlu
+---
+# fffdaXtbYBVO9vZ8n/70pzNtk7UOZ3y7z0Bz/C6JB1z17bG33XZb1vP6rrcBWM3arjAZOhA6EDoQOhA6
+
+## Context
+From document: New Note — chunk 2382 (chunk 2382/21099)
+
+## Content
+fffdaXtbYBVO9vZ8n/70pzNtk7UOZ3y7z0Bz/C6JB1z17bG33XZb1vP6rrcBWM3arjAZOhA6EDoQOhA6EDoQOhA6EDoQOhA6EDoQOpC1AwFYHT1g1XdY9YFVC6uePg2nVX0DHG+CJ2IgDqsAUwGtWmCVOWFVKEFVqIVUmRNUhb6vTqpU5Azec7VKYNUqIVUoQVUo4FQqXVYJqFoFoIqxhVbxh+A2rKuqnxNSJbRKSJVKQNVXC6wyt7Aqc7qpZlJCqlDcU6RaQNXmFlRFDlCVOhBolQDrQEBVQqr9gar2PRbfUdUfZ4JUfUAVYx9IzWVMADUXJbQ6EFCVUCrBVP9YgqaDVQChPJY5oVLU/RrnBqMAMnkcc6if+zUcw9pwK35QcU+bx9UyzbNO5bFQ1lyi/7DGcdAPbgcuPLAK8JQQKtXAqAuzzWO9zlvYM+lWSnC1OAGrFsj0xZWysGidQqkJSJXOqmYMWHXGkmqZBGfVOUUydV4KLo3AVQKpPoRqxzzG1OaZHK6qGsmvG9fPSPRiytySyEkzCaomgFXnjKq505SjKmFTv04g069jPWs89sIqwU0LbBpIM2dX0dyOZ1/Yh9TXvsD1JTUmOGqvL1Nu1zLn1xB3DOdGVumwGg+setDq/7wuqwryZEX+JKkonSMdrYUKrJbJps4K6Vtf5sDVrvYi6V5TIn3rymXzhip1Vq2R3jWrpKu1QDauK5GPX79e7vr6F+TRRx6U19Sk8uiRI/L2kcPy9vHjclydVY/hD9D0D8rgsHoSf1iGPyRT2NT9vv7OWXnn5Gl568235c/bd+r7n4+rceQLcuzYSXVXfVd/L38v+UdlcGQ9cuRteemFl+XpA8/Iodded6ZAl3TUTJfWyinSqLAqwNW6ossVVr1MqhVWhdYVK0i6emIErFboOoCrpeq4WqTuqYBVVyrcqu6otQqgwk0V7qoAVwmsol6zXOFUhVThskqn1crlY6RymZ5nuZ4P7qrq0gpgdUPNTOew2tMwV7pqpjlYtbt2mlzVMleu7VgsW9csUmh1bgSsqsuqA1Zrp0pv5eQBAKsJ0BSw6ewhgquDdFalIyvB1QhaHUZYlS6tObutpoOqcFcNDqsH5MCBAKzaF2Ah//ABb+F7Hr7n4TnwwX0O8KbpB/el99/flePGEJw5LbCIvKSk5Lzw19x6663nNaSwsDBtL9wgzvb4
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

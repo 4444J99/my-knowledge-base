@@ -1,0 +1,26 @@
+{
+  "id": "f1acd2ff-2d00-4b65-80c2-9a77fb65c70b",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>### **31. Linguistic Justice**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Commitments:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- **Multilingual equity**: 100+ languages, not English-centric</tt></div>\n<div><tt>- **Low-resource support**: Few-shot adaptation for underserved languages</tt></div>\n<div><tt>- **Dialect respect**: No “standard language” bias</tt></div>\n<div><tt>- **Cultural sensitivity**: Context-aware connotations</tt></div>\n<div><tt>- **Accessibility**: Interface for users with disabilities</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Anti-Patterns to Avoid:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Linguistic imperialism (English dominance)</tt></div>\n<div><tt>- Erasure of non-standard varieties</tt></div>\n<div><tt>- Cultural homogenization</tt></div>\n<div><tt>- Algorithmic discrimination</tt></div>\n<div><tt><br></tt></div>\n<div><tt>-----</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## **PART XII: FUTURE DIRECTIONS**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### **32. Research Frontiers**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Theoretical:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- True unlimited semiosis (infinite interpretant chains)</tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 52 (chunk 52/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "linguistic",
+    "languages",
+    "english",
+    "standard",
+    "cultural"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

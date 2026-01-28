@@ -1,0 +1,36 @@
+---
+id: 2a482dd2-4c30-450a-b565-b18bb5396365
+type: insight
+created: '2019-02-01T14:18:38.000Z'
+document: 215912b24fec1480ad281ec9b1c4578e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: research
+keywords:
+  - author
+  - what
+  - quot
+  - objections
+  - questions
+---
+# pful.</div>
+
+## Context
+From document: Her argues that students can blend formal, Academic language with… — chunk 2 (chunk 2/5)
+
+## Content
+pful.</div>
+<div><br></div>
+<div>Read Michael Pollan’s “Escape from the Western Diet” (624). and identify the places where the author includes naysayers by anticipating, entertaining, and answering objections. Then answer the following questions: Does the author represent the objections he or she raises fairly? Is the author’s response to the objections convincing? How do the naysayers strengthen the author’s arguments? Are there any likely objections that the author doesn’t include?</div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div>This chapter explains the importance of addressing the &quotso what?&quot and “who cares?&quot questions when making an argument and offers specific strategies and templates for doing so. Student’s papers will become stronger once they begin to address these questions, as doing so shows that their arguments are part of the larger conversation and that what they are saying matters. The authors urge students to consider who has a stake in an argument (&quotwho cares?”), as well as what the larger consequences of the argument are (“so what?&quot). Although &quotwho cares?&quot or &quotso what?&quot statements work in many different parts of the paper, Students who struggle with introductions or conclusions might find it helpful to address these questions there.</div>
+
+
+
+---
+*Source: Document 215912b24fec1480ad281ec9b1c4578e*

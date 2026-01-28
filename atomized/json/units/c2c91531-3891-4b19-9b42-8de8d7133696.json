@@ -1,0 +1,26 @@
+{
+  "id": "c2c91531-3891-4b19-9b42-8de8d7133696",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Ensures betrayal is a big deal with major consequences.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Prevents people from switching factions randomly.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Encourages long-term strategic thinking.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📌</font> FINAL LOCK-IN QUESTIONS BEFORE EXECUTING VERSION 7.8</div>\n<div><br></div>\n<div>1. Should There Be a Redemption Mechanic for Betrayers?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Example: If a betrayer regrets their decision, should they be able to earn back their old faction’s trust through a quest?</div>\n<div><br></div>\n<div>2. Should Certain Skill Checks Be Influenceable by Others?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Example: If someone is running away, should another player be able to trip them and cause an automatic fail?</div>\n<div><br></div>\n<div>3. Should Factions Have a Limited Number of Spots?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Example: To prevent stacking, should each faction have a max number of members at a given time?</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 460 (chunk 460/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "zapfdingbatsitc",
+    "should",
+    "example"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "c2c57237-bcaf-4975-a8aa-5f6f8d08484e",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>**Example for `system-constitution`:**</div>\n<div>```markdown</div>\n<div>Title: Implement system-constitution based on master plan</div>\n<div><br></div>\n<div>Body:</div>\n<div>Context: This repo is part of the cognitive OS architecture defined in 2025-11-02 planning conversation.</div>\n<div><br></div>\n<div>Master Plan: [Link to cognitive-os-master-plan repo]</div>\n<div>Conversation Export: [Link to preserved conversation]</div>\n<div><br></div>\n<div>Specifications:</div>\n<div>- [Paste the description and prompt]</div>\n<div><br></div>\n<div>Dependencies:</div>\n<div>- Requires: cognitive-archaelogy-tribunal audit data</div>\n<div>- Feeds into: meta-synthesis-orchestrator</div>\n<div><br></div>\n<div>Implementation Notes:</div>\n<div>- [Add as you build]</div>\n<div>```</div>\n<div><br></div>\n<div>This creates a **traceable lineage** from conversation → specification → implementation.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **Option 4: Use GitHub Discussions (Conversational Archive)**</div>\n<div><br></div>\n<div>Create a Discussion in `ivi374forivi/.github` (org-level discussions):</div>\n<div><br></div>\n<div>**Category:** Architecture &amp Planning  </div>",
+  "context": "From document: Contents_Table — chunk 115 (chunk 115/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "conversation",
+    "master",
+    "plan",
+    "cognitive",
+    "system"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

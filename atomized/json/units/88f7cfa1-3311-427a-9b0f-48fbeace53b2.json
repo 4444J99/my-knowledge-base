@@ -1,0 +1,26 @@
+{
+  "id": "88f7cfa1-3311-427a-9b0f-48fbeace53b2",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> What Can Be Sacrificed?</div>\n<div>  •  Permanent Item Loss → A student must give up a rare item forever.</div>\n<div>  •  Status Infliction → A student permanently gains a minor debuff.</div>\n<div>  •  Class-Wide Burden → The reversal introduces a different consequence (ex: everyone loses a privilege).</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Ensures that no fate manipulation happens without major consequences.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Makes players consider if reversing a bad fate is actually worth it.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Adds a social dilemma—who is willing to suffer for the greater good?</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 2. Fate Can Only Be Countered Once Per Class (or Three Times Total)</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Every class session, only one fate reversal can occur.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Fate Reversal Limits:</div>\n<div>  •  Once per class → Only one fate counter can happen in any given session.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 532 (chunk 532/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "fate",
+    "zapfdingbatsitc",
+    "class"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "7be20023-a77f-4361-9f97-0ec9cbc4a44e",
+  "type": "insight",
+  "timestamp": "2023-06-03T12:20:07.000Z",
+  "title": "<div>Staten Island train + milk chugging + pop song from high school</div>",
+  "content": "<div>Staten Island train + milk chugging + pop song from high school</div>\n<div>Tottenville</div>\n<div>Staten island railway </div>\n<div>Oakland tran station</div>\n<div>Monsignor farrell</div>\n<div>Catholic boys</div>\n<div>Homoerotic undertones</div>\n<div>Father paddick kicked sex abuse scandal</div>",
+  "context": "From document: Staten Island train + milk chugging + pop song from high school",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "2fa2df85ce66120c88cadc2df622a670",
+  "relatedUnits": [],
+  "keywords": [
+    "staten",
+    "island",
+    "train",
+    "milk",
+    "chugging"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "0318864d-f74d-4464-9dbb-afc3d2d1119c",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>)</div>",
+  "content": "<div>)</div>\n<div><br></div>\n<div>(base_path / &quotWAVE_TRACKER.md&quot).write_text(</div>\n<div>&quot&quot&quot# KNOWLEDGE WAVE TRACKER</div>\n<div><br></div>\n<div>| Wave | UID       | Title                  | Status        | Integration         | Agent             |</div>\n<div>|------|-----------|------------------------|----------------|----------------------|-------------------|</div>\n<div>| W1   | KNST0000  | SICP                   | ✅ Active     | RECURSION_ENGINE    | The Oracle        |</div>\n<div>| W2   | KNNO0001  | Norvig – AI            | ✅ Assigned   | SYMBOLIC_VOCODER    | The Language Smith|</div>\n<div>| W3   | KNNC0002  | Nature of Code Fusion  | ✅ Assigned   | W4V3_FUSION_DEVICE  | W4V3L0RD           |</div>\n<div>&quot&quot&quot)</div>\n<div><br></div>\n<div>&quotREPOPULATE_ALL_MD_FILES_COMPLETE&quot</div>\n<div>undefined</div>\n<div>⚠️ Write Error Detected:   The KN-LR_01-00_learning-recursions/KNST0000_sicp_symbolic_recursion/ folder and others expected inside the extracted archive are not present at the time of repopulation.</div>\n<div>This suggests one of two issues:</div>\n<div>🧾 WHAT PROBABLY HAPPENED:</div>\n<div>  •  The archive KN-LR_01-00_learning-recursions.zipdid not contain subfolders like KNST0000_* (despite expectations).</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 340 (chunk 340/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "wave",
+    "assigned",
+    "lr_01",
+    "00_learning"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

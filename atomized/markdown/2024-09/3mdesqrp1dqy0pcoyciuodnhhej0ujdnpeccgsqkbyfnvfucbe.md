@@ -1,0 +1,33 @@
+---
+id: 23898866-b8aa-47a1-aad8-beb376ea51ce
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 3mdesqrp1dqy0pcoyciuodnhhej0ujd
+  - >-
+    npeccgsqkbyfnvfucbebnyj9gqaojhslnkwwtugxabsaiqwarqryezymspfhmx7leulrxjkbgc2ccemlsgtwenlffx0frx2otxsm6jzgazub5
+  - >-
+    anzqbgpylca7dchn8a6jhur5pc17ck6a7ooy4l1cunb7fcb0dcdlgjdrioxhtadfqtnxedeeb43pd96kinnbs6z8hxx3mfouoy3axultckwi7u1cvjmkofrsfcv06g3ekwuujot4mqxzf45zimgouy2switjxzoy6jrkypo45
+  - oxelbm6vgdorrmnol9yowi7ftrb0j7huaf2lq0pgwl
+  - >-
+    meqxlzttiqutv212zwf1zs10c6vatcjzr52cqpqez15npyhq76vapkjyj5zvhow53mzip4oxtfzngu8u0wrl
+---
+# 3mDEsqRp1DQY0pCOyCiuoDnhHEJ0UJD/npEccgSQKBYFNVFUCBeBNyj9gqAojhslNKWwTUGXAbSaiqwA
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 3692 (chunk 3692/11534)
+
+## Content
+3mDEsqRp1DQY0pCOyCiuoDnhHEJ0UJD/npEccgSQKBYFNVFUCBeBNyj9gqAojhslNKWwTUGXAbSaiqwArqRyezymSpFhmx7LeUlRXJKbgC2CcEMLSgTwENlFFx0FRx2OTXSM6jzGazUB5+anZQbgPYlcA7dchN8A6jhur5PC17Ck6A7OOY4l1cUnB7fcB0dCdLGjDriOXHTAdfQTNxEdeeb43pD96kinnBS6Z8hXx3mfOuoY3aXULTckWI7u1cVjMkofrSFcV06g3eKWuujot4MQXZf45zimgOUY2sWITjxzOY6jRkypo45+oxelBM6VGdoRrmNol9YoWI7ftRb0J7huAf2lQ0pGWl+mEQXLZTTiqUTv212ZWf1zS10C6vatCJzr52cQPQEZ15nPyhQ76vapKJyj5zVhOW53mZIP4oxtFzNGu8u0wrl+wXUM6iL/HMG52D/XL7nAOWl9mWFcN7eCyFhuTlU9c9LiMskV1HWIi65foF2H+ueK4qIzEd0owblBBnUxostzi0v10sX5rEE46hjUEa4DqCtSu8tOzgnRAdQNCZYrdsYuOnHOocUlvHSdAu062T8Xe+akxaXR7lJAHXahI1BHTS8pz+9ZmgZfnSI6BnXU4lKcc5/MfqqP/HNodEmeuamd6qWL885u3ZFOHHWyh0oMvbBchSVULLMmUd1XH0mU5Uae0SUn89hkFxzM+wGRF65oFoxgZiyEIU+OiPAbz79NF9EwyotuEbSDYp6DMYO81go9Z+jJq0xsO39znmSGD8j+H58/zghXIF46jBcZk/N9H/AsWSY0M6A79dj16yKjuZSJJUtEvIrkyRxRQ0so6jAwZ+Azab9/cG5/7Nd/x/nv+P3l+/xP9f1nx/2/4/7/473/5VnGzyx83GTnaPe45KM2+KtDIj0XBXHJ3yom/NPnGgAb/orQ52D8RB638xy9YvxFeIyezfLf+Ksmef62uduXxUd8kDduohwVeen4PMu6Xx0aYBptLVWPsZw653ZPkNvOVzOKIxgX15DTbju3XOKcixtgoiYBb2azy8hRB58ceel2SRlArkM8c8sVy6HRJUBdjO52SaGtJR9Fx8JXJ1FwXATkAOoY2i03AN7yNkcdml7CIUeR2mDCUQddgBwU8dJNMBx1fXDOCagbQ2Qgt2ulDdHxHnWRl46dc4B2fQLelut+dckedcug6y50
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

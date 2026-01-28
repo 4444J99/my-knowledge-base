@@ -1,0 +1,26 @@
+{
+  "id": "95048a6c-d9d9-43f7-a3ee-119c1236eff0",
+  "type": "insight",
+  "timestamp": "2025-02-07T02:33:53.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>The Six Steps</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>—</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>How to refine and develop your work</div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div><br></div>\n<div>Why This Works</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">✅</font> Maintains McKee as the master framework → Story remains the central organizing principle.</div>\n<div><font face=\".AppleColorEmojiUI\">✅</font> Distributes McCloud’s two books logically → Ensures all key chapters are covered in a meaningful way.</div>\n<div><font face=\".AppleColorEmojiUI\">✅</font> No module is overloaded → Each section has one McKee lesson, one McCloud lesson, a comparison, and two activities.</div>\n<div><font face=\".AppleColorEmojiUI\">✅</font> McCloud chapters are strategically split → Larger chapters (like The Six Steps and Blood in the Gutter) are reused in sections where relevant.</div>",
+  "context": "From document: Aligning McKee’s Story with McCloud’s Understanding Comics — chunk 38 (chunk 38/39)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "e328da2bd41627184291fdf2d8e5d909",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "font",
+    "style",
+    "width",
+    "face"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

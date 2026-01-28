@@ -1,0 +1,32 @@
+---
+id: 487c8937-4de6-4210-ade0-73ad5007dad9
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - b5jkyekwiatutidd71dt
+  - dbyanxisqy
+  - >-
+    ow0zjicbjx9akqhb5oqjsxfsfx10skzotvlb892gzo3o0koi6ozhpvirzqqqfgjjdizfs9jjv47u0iiols7iwi63izghdncqogoce4wjsvxiiy
+  - ibx5t2cyh7yrz9lgatlgdcn8dg
+  - >-
+    nd5er0miwymh61z2jeuecwiascrawsvrxap9eel67bmxyusrdm6qclx8phlkthph7wgzdorcdssadusxojkslxgezed5skgqwtqhin4uqnnhuiy8rgqiicl1wp8ithim7gidnsahzzvbiqejsvdq9lf
+---
+# b5JKYEkWIAtUtIDD71Dt+dbyAnXISQy+Ow0ZJicBjx9aKQHb5OqjSxfsFX10sKzOTVlB892gzo3o0KOI
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 8283 (chunk 8283/11534)
+
+## Content
+b5JKYEkWIAtUtIDD71Dt+dbyAnXISQy+Ow0ZJicBjx9aKQHb5OqjSxfsFX10sKzOTVlB892gzo3o0KOI6OzhpvIRZQqqfGjjdizfS9Jjv47u0IiOlS7IWI63izgHdNcqogOce4wJSVXiIY+Ibx5T2cyh7YRz9lGatlGdcn8Dg/nd5ER0MIWymh61Z2JEUEcWIAscrAWsvrXAp9eeL67BMxyusrDM6QClX8PhLkTHPH7WgZdORCdSsADUsXoJKsLxgEzeD5sKgqwtqHIn4UQnnHUiY8rGqiiCl1wp8iThiM7giDNsahzZVBiQejsVdq9lF+9jqEp0GeDla4vnChhA9QJdoktjpyHqMr9JrVAXJDNKF+qJQ/U5RnEqzonq4cPeSmwqEx3mjitUCc/ltBxsxoNrrYxF58ARh/rckk35HF98gbg+BAVbLAfONAkbh9J4tRi9ttU8fhVGs+HLMJpGL+yFevYMtGl/FYeB0SFkAbIAWUBrARRmsF+12HJl+4CIYF90k8HzMBr3n2FCB9B/auBAbNOo99hWDtwIHsK4e2ervLOuQvEDFqiJx2qeo444yW/lxv/UqX8D27XgTs0nVc1Y86XQ03sfAxEdVB6PelONXIhujeEc9KNEh+McMB5OdBVwDniPiE7jXiOiY9DoNP8gotNOGamTLEAWaKwFiOgcCRDDOehvKdEZnIEY6RHRqdyhb6PI4nWD/to+er0Os3iyigMsHub0nohuG9Gtht111F2Bhr01SKyRS9rpW9GZrJrrb0Y6jU3kdjMe6MWLzmkLiFcjOg51wHVCM1aHQJ+4MrewTV3kFkNko3VmyGYf0laimw9fVVDi4hPANoteoB6/6OXMVkM4G56KE9tkexXanyxAFiAL+LIA9r00BM7J4hLVNmQcwdx3hn4UckK51LwPIBjRYb47Y791bCf46PZPdF00erPsmpM9/6tIBfvazYk+rA+q7+6sh2JzQMVh25wS3dee6M46nXNEBxl1qSe6uHeRiOVBuWQsJ5Og6HAOGM9AdDwnyu0k0shYRnxbyKUSk8kKiOM4B5hnXO1GRPc6TMglu8rwpV7xq0UFAfIJhEuIDjubY2wnSnSG0g4oUjqOIVBUKg2bLEAWOAgLoD9CqRSntonoEjgEX5xeBqdfpXV9qrWhbSQ3rLhCIKLjvrvbWFe13Oi+Q8kNW48n+a3c+F9F
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

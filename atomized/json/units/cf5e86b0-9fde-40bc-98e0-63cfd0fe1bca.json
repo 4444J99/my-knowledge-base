@@ -1,0 +1,26 @@
+{
+  "id": "cf5e86b0-9fde-40bc-98e0-63cfd0fe1bca",
+  "type": "insight",
+  "timestamp": "2021-09-08T15:37:09.000Z",
+  "title": "<div>After the 10 day period, can I drive to and from work?</div>",
+  "content": "<div>After the 10 day period, can I drive to and from work?</div>\n<div><br></div>\n<div>What do I need to do to help my insurance?</div>\n<div><br></div>\n<div>Can all my classes be done in Palm Beach?</div>\n<div><br></div>\n<div>Will 3,500 be the maximum?</div>\n<div><br></div>\n<div>I have a psychiatrist and have recently been prescribed new medications</div>\n<div><br></div>\n<div>[REDACTED:PHONE NUMBER]</div>\n<div>I need to enroll in the dui level one class</div>\n<div>Apply online and then come in person to complete enrollment </div>\n<div><br></div>\n<div><br></div>\n<div>Let my attorney know I am in drug counseling with a certified addiction professional and she is willing to provide any documentation that will be helpful for my case.</div>\n<div><br></div>\n<div>Medicine prescribed by a psychiatrist which alters my ability to function at times.</div>\n<div><br></div>\n<div>I give permission to Kimberlee Trinkofsky, LMHC, PA[REDACTED:PHONE NUMBER]) to speak with Dr. Moskowitz.</div>\n<div><br></div>\n<div>Sincerely,</div>\n<div>Anthony Padavano</div>\n<div><br></div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: After the 10 day period, can I drive to and from work?",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "92e6fd11af7add1aff69dad46fb0538b",
+  "relatedUnits": [],
+  "keywords": [
+    "need",
+    "will",
+    "have",
+    "psychiatrist",
+    "prescribed"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

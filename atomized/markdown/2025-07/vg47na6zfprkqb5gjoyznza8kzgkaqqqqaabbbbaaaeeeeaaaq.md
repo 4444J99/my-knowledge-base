@@ -1,0 +1,32 @@
+---
+id: eccc620b-c59d-4627-a362-6ba6b138c786
+type: insight
+created: '2025-07-18T21:27:21.000Z'
+document: 19a1c8b920a7c59b9421bc142020b138
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - vg47na6zfprkqb5gjoyznza8kzgkaqqqqaabbbbaaaeeeeaaaqrccjabejkgfxbaaaeeeihe4k9
+  - atcddvv8vjjj0tfx1
+  - 0fwxbmd4cj8z42kyzde4cya
+  - >-
+    kz4ie00ueeeaaaqqqqaabbbbaaaeeeipabebinlkkaggggeawchr0dmjixyutgf9ly5zlqy9j62lx5gkzff5cmfrvael28idjbjqcjqaccccaaaiiiiaaaggggmceavxve08tnkeaaqqqqcaigy0bn8q1114rn954o
+  - >-
+    zyssoic7puyifihmmmyuwl5sr4a8dnxffpmaiiiiaaaggggaaccccaaakjfgacijhaxasbbbbaikme3nzztwu1
+---
+# vG47nA6ZfPRkqb5gjoyZNza8kzgKAQQQQAABBBBAAAEEEEAAAQRCCjABEJKGFxBAAAEEEIhe4K9//atc
+
+## Context
+From document: New Note — chunk 363 (chunk 363/1486)
+
+## Content
+vG47nA6ZfPRkqb5gjoyZNza8kzgKAQQQQAABBBBAAAEEEEAAAQRCCjABEJKGFxBAAAEEEIhe4K9//atcddVV8vjjj0tfX1/0FWXBmd4Cj8z42kyZde4cya/Kz4Ie00UEEEAAAQQQQAABBBBAAAEEEiPABEBinLkKAggggEAWCHR0dMjixYutgf9ly5ZlQY9j62Lx5GKZff5cmfrVaeL28idJbJqcjQACCCCAAAIIIIAAAggggMCeAvxve08TnkEAAQQQQCAigY0bN8q1114rN954o+zYsSOic7PuYIfIhMMmyuwL5sr4A8dnXffpMAIIIIAAAggggAACCCCAAAKJFGACIJHaXAsBBBBAIKME3nzzTWu1/4MPPig9PT0Z1Te7O5Pj98j006bLrPNmS9H4Irurpz4EEEAAAQQQQAABBBBAAAEEEAgiwARAEBSeQgABBBBAIJRAV1eX3HfffdbA/7vvvhvqMJ7fJVA4vlCqddB/2mkzxKOTABQEEEAAAQQQQAABBBBAAAEEEEicABMAibPO6Cv19vVKbSdhL0a7yd29/SL9OaMdZvvrfk2qWdDjtL1eKhxdwFGSL7VJuOfOnk5xtdeM3kCOCFugtma73H7z7XL7TbdLzTZsR4Mbf9B4je8/R/Y6bII4HLz/jObF6wgggAACCCCAAAIIIIAAAgjEQ4AJgHioZmGdZvD/F+//Kgt7Hk2Xx0VzUkznHPCncXJATDVwciwCv+6I5ewoz936mchWfiaj1BtyWu2ntbLqgWWy5vm10tvdO+Q1HgwVcGki3+ma0HfW+bOlZHLp0Bd5hAACCCCAAAIIIIAAAggggAACCRdgAiDh5FwQAQQQQCDVBfp7+2TDq+tlxb3LZeuyrane3KS3L193Gc06Z7bMOGOGeAt8SW8PDUAAAQQQQAABBBBAAAEEEEAAgZ0CTADwnYAAAggggMAugc6mDvn08U9l1UMrpGVbCy6jCFTtWyVzzp8rk46aLA4XYX5G4eJlBBBAAAEEEEAAAQQQQAABBBIuwARAwsm5IAIIIIBAqgk0rKuTFfcvl8+e+Vx6O3tSrXkp1R5XjkumnLCPVOvAf9n08pRqG41BAAEEEEAAAQQQQAABBBBAAIGhAizXG+rBIwQQQACBLBMw4X62fLBFP7Yy+B/GvS8YWyBj5o+X4snFYRzNIQgggAACCCCAAAIIIIAA
+
+
+
+---
+*Source: Document 19a1c8b920a7c59b9421bc142020b138*

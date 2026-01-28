@@ -1,0 +1,34 @@
+---
+id: b91e6fc9-cf97-46d4-8b06-9057330fa5c9
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    whzdptjpqj1pyd4yey2c96sx0atptiop51aimrccgbaajjpqlxbrddjhsyd15brkcbqhqdpwp7g5fb6d653ulqyiy4ubqrpgudw1lcrk
+  - >-
+    iheuvsyzd5etwpocfmkjalisocplqbt3q3mqfrecjxa0akk9kwrm12ybkgtmt2g1jklnjfrxwtncfn
+  - >-
+    72q3qriurfw3hkktlggfyqnfxfeebifdjvsm4xghisnuyjgkrepwe9tn6wia6lnqriezgbbbfdffhhngubccm
+  - >-
+    nwuw02zntd7wbnbz6fwuiiatozipbvio2relggemmn3v61zamugfggzvwlz1jdqmlrmr7yxqgzwzkvewrmuu5r
+  - zm7fgvnzl7cmo0kjzcnbh41ubir
+---
+# WhzDPtJPQj1pYd4YeY2c96sX0aTptiOP51AImRCcgbaajJPQlxbRDdJHsYD15BrKcbQHQdPWp7g5fb6d
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 1169 (chunk 1169/2189)
+
+## Content
+WhzDPtJPQj1pYd4YeY2c96sX0aTptiOP51AImRCcgbaajJPQlxbRDdJHsYD15BrKcbQHQdPWp7g5fb6d653ULqYIY4uBQrpgUdW1LcrK/IHeuVSYzD5etWpoCfmkJalisoCplQbT3q3MqFrEcJXa0akk9Kwrm12yBkGTmt2G1JkLnjFRxWTNcFn+72q3qriurFW3hkkTLggfyqnfxFeEbIFdJvSM4xgHisnUYJGKrEpwe9TN6WIa6lnQriEZgbBbFdFFHHNGUBCCM+nWuW02zNtd7wBnBz6fWuiIaTOzipbVio2RelggeMMn3v61ZAMUGFGGzVWLz1jDqMlRmr7yxqgZWzkVEWrmUu5R+zM7FgvNZl7cmO0kjZcnBH41ubiR+6b61WKQTExyDAPWtow5hxTP5Wf8AgsF8NPE8XxZ8OfETUAjaPO00KPGCoilYR/LKc8vIUJX1Cnnjj9Pf2RvEdpqX7HPhmBVMWLO4iXe7SN8k8qhst0BIyFHCjCjgCu2/4KOfsf6h+0l8Dr6x8Jw7/EemTQ3dgoIUybWxIoJO0MFOVJBzjb3489+A/wAJvF/wg/Zn07wx4udft9rbmRkUEDnL4+YAnOfQemK+jyq8q1OC3uvzPneIa8Y4CpG9tDjv2HYtH1L4x3Gp30Km5W2k8kAHcH3KWb/ZUAYOepOK/ceMYiUr6DgV+JX7A+sX+ufHzVri2gAhEM325WABRs70AyN33yDgYzjmv2xaRvKDYxnjivsPEf8A3mKt9lfmfMeHa/2O62uxkjBU3HkD1qo08jDpgfzqxPGiw+pIrNJaeLKngV+XTTufpEfIktp3iVlxgHpUe9t5DHinPGFTfuOAOlUg8jr5rD61m5WNYplm+8uSDdnIFc8q4dpR0/lVmaZUOzGF9qxrq7hhB2HAaqTuYzg09SLULyRHWCM7iDnPqPSqoxO+89+3pUaxrMVXJJPStiO0ESjPbvUzQU4a3GxwiKPy1Uc9f8aoX9pC6cbhjrW7OwSMNHWRIxabC854rOEjR6amTNbq0B8nqOKy0jaCMqxyDXWYiiRtnDL1rNMKyxbmTB9aaW47aGIqee3mqeF4x0rorWTMIOcZHSsGzsZGm46ZroWiYS7DkHr09KFHS4tkICkzsoOAKLG2BmE+MbT0z1q0i7pMAbVA61MuwSqBwOtUk7GfOzReTd8wG0449qtGYpG
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

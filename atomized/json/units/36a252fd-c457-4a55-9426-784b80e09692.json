@@ -1,0 +1,26 @@
+{
+  "id": "36a252fd-c457-4a55-9426-784b80e09692",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>M4.3 – DSL / Language Workbench3. Holden – Build Your Own Programming Langu",
+  "content": "<div>M4.3 – DSL / Language Workbench3. Holden – Build Your Own Programming LanguagePrototype a tiny DSL for ritual chants.</div>\n<div>• ANTLR / Tree‑sitter</div>\n<div>M4.4 – Data‑Intensive Fusion4. Kleppmann – Designing Data‑Intensive ApplicationsCreate DATA_FUSION_LAYER/—append‑only event log for rituals.</div>\n<div>• PostgreSQL / Kafka</div>\n<div>M4.5 – Functional Metaphysics5. Functional Programming in Scala (Red Book)</div>\n<div>Translate a recursion ritual into pure FP; add tests.</div>\n<div>• Scala CLI</div>\n<div>🌕 CAPSTONE – LIVE OS BLOOM</div>\n<div>  •  Deliverable: Bootable, containerized, AI‑talking, myth‑infused OS prototype.</div>\n<div>  •  Demo Ritual: Speak invocation chant → system spawns agent → agent compiles/executes unit test.</div>\n<div>  •  Peer Review: Share Git repo + README with your CS friend for critique.</div>\n<div>📚 CONTINUOUS EDUCATION LOOPS</div>\n<div>Whenever you spin a new thread/project, cross‑reference these keeper disciplines:</div>\n<div>Field</div>\n<div>Why It Expands You</div>\n<div>Quick‑Start Source</div>\n<div>Functional ProgrammingEnhances immutability &amp recursion thinking</div>\n<div>Elixir School, Structure &amp Interpretation of Computer ProgramsFormal VerificationGuarantees correctness; symbolic resonance</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 378 (chunk 378/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "ritual",
+    "functional",
+    "your",
+    "programming",
+    "data"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "74a6d890-eb5a-438b-9e57-a2b88d01994b",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>13. **desktop-tutorial** – GitHub Desktop tutorial</div>",
+  "content": "<div>13. **desktop-tutorial** – GitHub Desktop tutorial</div>\n<div>14. **rr-organization1** – Reproducible Science curriculum</div>\n<div>15. **obsidian-help** – Obsidian help documentation</div>\n<div>16. **Help documentation for anthropic** – Fork of obsidianmd/help</div>\n<div>17. **project-based-learning** – Curated project tutorials</div>\n<div><br></div>\n<div>**Purpose:** Learning resources, documentation systems, knowledge management</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **⚙️ Developer Tools &amp Automation (7 repos)**</div>\n<div><br></div>\n<div>18. **cli** – Netlify CLI</div>\n<div>19. **codex** – Lightweight terminal coding agent</div>\n<div>20. **kimi-cli** – MoonshotAI CLI agent</div>\n<div>21. **renovate** – Dependency automation</div>\n<div>22. **git-auto-commit-action** – Auto commit/push GitHub Action</div>\n<div>23. **commitzien** – Commit rules, version bumping, changelogs</div>\n<div>24. **chatgpt-exporter** – **Export &amp share ChatGPT history** ⭐</div>\n<div><br></div>\n<div>**Purpose:** Workflow automation, version control, AI-assisted development</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **🖥️ Operating Systems &amp System Architecture (2 repos)**</div>",
+  "context": "From document: Contents_Table — chunk 58 (chunk 58/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "help",
+    "documentation",
+    "automation",
+    "commit",
+    "desktop"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

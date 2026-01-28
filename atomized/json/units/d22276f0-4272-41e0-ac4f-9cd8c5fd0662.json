@@ -1,0 +1,26 @@
+{
+  "id": "d22276f0-4272-41e0-ac4f-9cd8c5fd0662",
+  "type": "insight",
+  "timestamp": "2025-04-19T03:30:47.000Z",
+  "title": "<div><tt>call &lt&gt echo  </tt></div>",
+  "content": "<div><tt>call &lt&gt echo  </tt></div>\n<div><tt>compress &lt&gt expand  </tt></div>\n<div><tt>signal &lt&gt void  </tt></div>\n<div><tt>lock &lt&gt break  </tt></div>\n<div><tt>socket &lt&gt web  </tt></div>",
+  "context": "From document: # [#dualcore_master] — chunk 4 (chunk 4/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "d1ff5886b1a4d77894cfc549853b24ff",
+  "relatedUnits": [],
+  "keywords": [
+    "call",
+    "echo",
+    "compress",
+    "expand",
+    "signal"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

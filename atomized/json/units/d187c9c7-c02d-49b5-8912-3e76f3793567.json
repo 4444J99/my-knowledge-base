@@ -1,0 +1,26 @@
+{
+  "id": "d187c9c7-c02d-49b5-8912-3e76f3793567",
+  "type": "insight",
+  "timestamp": "2025-10-28T10:48:05.000Z",
+  "title": "<div><tt>+</tt></div>",
+  "content": "<div><tt>+</tt></div>\n<div><tt>+Beyond structural analysis, RLOS incorporates **rhetorical intelligence**.  It applies an *Aristotelian Plus* framework: *ethos* evaluates credibility, *pathos* detects emotional resonance, *logos* identifies logical structure through discourse relations, and *kairos* assesses timing and appropriateness【3†L97-L123】.  Cognitive modelling combines **System 1** fast pattern recognition with **System 2** deliberate, symbolic reasoning【3†L97-L123】.  The system also monitors its own interpretations and quantifies uncertainty, enabling transparent reasoning.</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+## Ethical Framework: RAW vs PUBLIC</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+Ethics are central to RLOS.  The system distinguishes between:</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+* **RAW mode** – unrestricted analysis for research with full access to sensitive patterns, ideological content and bias reporting【3†L123-L145】.</tt></div>\n<div><tt>+* **PUBLIC mode** – outputs filtered through safety gates; harmful content is mitigated, cultural sensitivity enforced and privacy preserved【3†L123-L145】.  A *linguistic justice protocol* emphasises respect for all language varieties and challenges Western‑centric assumptions【3†L123-L145】.</tt></div>",
+  "context": "From document: agent@chatgpt:/$ apply_patch <<'EOF' — chunk 6 (chunk 6/29)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "f26b5db7dbbb97eefdf7225d3aa3e47b",
+  "relatedUnits": [],
+  "keywords": [
+    "l123",
+    "system",
+    "l145",
+    "analysis",
+    "rlos"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

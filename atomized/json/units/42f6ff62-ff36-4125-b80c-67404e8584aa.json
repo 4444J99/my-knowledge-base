@@ -1,0 +1,26 @@
+{
+  "id": "42f6ff62-ff36-4125-b80c-67404e8584aa",
+  "type": "insight",
+  "timestamp": "2025-01-30T02:31:06.000Z",
+  "title": "<div>5. Unique ID (Object Identifier)</div>",
+  "content": "<div>5. Unique ID (Object Identifier)</div>\n<div><br></div>\n<div>Each object gets a numerical identifier that follows a centralized or decentralized (UUID) approach.</div>\n<div><br></div>\n<div>Example:</div>\n<div>  •  000001 (first object in category)</div>\n<div>  •  003476 (movie 3,476 in system)</div>\n<div>  •  100984 (photo 100,984 in system)</div>\n<div><br></div>\n<div>Alternatively:</div>\n<div>  •  UUID: 550e8400-e29b-41d4-a716-446655440000 for full decentralization.</div>\n<div><br></div>\n<div>6. Versioning (Tracking Updates)</div>\n<div><br></div>\n<div>Each file has a version number for tracking updates or modifications.</div>\n<div><br></div>\n<div>Examples:</div>\n<div>  •  01 (original version)</div>\n<div>  •  02 (second revision)</div>\n<div>  •  RC1 (release candidate 1)</div>\n<div><br></div>\n<div>7. Metadata Hash (Integrity Check &amp Searchability)</div>\n<div><br></div>\n<div>A hash (SHA-256 or MD5) of the metadata (title, creator, timestamp, etc.) ensures uniqueness.</div>\n<div><br></div>\n<div>Example:</div>\n<div>  •  AE3F2D (hash portion of metadata)</div>\n<div>  •  B12C7A (different media object)</div>\n<div><br></div>\n<div>8. Example Object Entries</div>\n<div><br></div>\n<div>Here’s how various media could be classified:</div>",
+  "context": "From document: M-O-R-S_REFERENCE-SYSTEM — chunk 3 (chunk 3/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "29750b183483782697d81e3f0ac721ea",
+  "relatedUnits": [],
+  "keywords": [
+    "object",
+    "example",
+    "metadata",
+    "hash",
+    "identifier"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

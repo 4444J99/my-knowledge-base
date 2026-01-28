@@ -1,0 +1,32 @@
+---
+id: 2ede7c79-213e-4922-ae86-89a434c8b3c3
+type: insight
+created: '2018-11-06T20:47:41.000Z'
+document: 8c3ce8993066f857adca061d250e2c68
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    iigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigd
+  - >-
+    38ooooakkkkaciiigcre31lptrje6jcr2tvfgvjk4rfboblmia5oknjkjmjwafg8bgmrkcgg8ggjqdx4r
+  - apbrbxp2u7
+  - i7pxfo2k6h8klxveje9nciw91caxglmzqzsvbisqoqlhhysbiv1e
+  - jgvax
+---
+# iigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACi
+
+## Context
+From document: Octatrack Tips & Tricks — chunk 1824 (chunk 1824/2544)
+
+## Content
+iigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD/1/38ooooAKKKKACiiigCre31lptrJe6jcR2tvFgvJK4RFBOBlmIA5OKnjkjmjWaFg8bgMrKcgg8ggjqDX4r/APBRbXP2u7/4f+I7PxFo2k6H8KLXVEjE9nciW91CAXGLMzqzsVBISQoqLhhySBiv1e+Cn/JGvAX/AGANL/8ASWOgDN+IPx1+G3wx8XeE/AnizUJItd8bXH2bS7WCCW4eV96R5by1YRrukHzPgdTnCnHrxIAJJwBX5WfBb/jJX9vHxx8bJv8ASfC3wng/sHRWPMbXZ8yJpEPRhzcSZHIDxHsK6z9sj41eLPGevn9kj4Ezk+JtXtZLjxLqUWSmkaQqb5VZl+7JIh+bkHayoPmlUqAfotpesaRrlr9u0S+g1C23FfNt5VlTcOo3ISMj0rSr83P+CVv/ACayv/Yc1D/0GKvvT4gXXi2x8C+IbvwFZrqPiaHT7ptLt2ZEWW9ETfZ0ZpWRApk25LMBjqaAJ9d8ceC/C80dt4m1/T9ImmxsS8u4rdnzwNokZSc+1dDa3Vte28d3ZzJcQTKHSSNgyOp5BVhkEH1FfmB8B/2AvBep+CJ/HP7XelT+JPiN4gluLjUmv9SkYWa+Yyoqy2k4jYlArl9zbc7V2heeZ/YPuU8H/tJfGH4LfDPWp/EHwo0JEubCZpftEFteNJGDFFIPl53TISD+88kNyeaAP1U1rxDoHhu0+3+ItTtdLtunm3UyQR/99SECpdJ1rRtfs11HQr+31K0c4Wa2lSaMn2ZCR39a/KnwJ+zF4g/ah+O3xD+Jn7Wmi6r/AGBpV4bPwzo9zJPZ2zWe9wsieW6OFVEjJ2Mod3Zmz0rjbbwRpn7IH7e3gPwF8Fb+5h8K/EW1/wCJloT3D3CQhzMiv+8YsQhjEiO5Lja67irEUAfs3RRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRR
+
+
+
+---
+*Source: Document 8c3ce8993066f857adca061d250e2c68*

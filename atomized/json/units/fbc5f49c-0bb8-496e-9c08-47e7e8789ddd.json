@@ -1,0 +1,26 @@
+{
+  "id": "fbc5f49c-0bb8-496e-9c08-47e7e8789ddd",
+  "type": "insight",
+  "timestamp": "2025-02-06T02:31:49.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>4. Consumables:</div>\n<div>  •  Health Potions: Restore a character’s health points.</div>\n<div>  •  Mana Potions: Replenish magical energy, allowing for continued spellcasting.</div>\n<div>  •  Buff Items: Temporarily enhance attributes like strength, speed, or defense.</div>\n<div><br></div>\n<div>5. Accessories:</div>\n<div>  •  Rings and Amulets: Often provide passive bonuses, such as increased resistance to certain damage types or improved skill performance.</div>\n<div>  •  Belts and Cloaks: Can offer additional inventory space or concealment benefits.</div>\n<div><br></div>\n<div>6. Quest Items:</div>\n<div>  •  Key Items: Essential for progressing the storyline or unlocking new areas.</div>\n<div>  •  Collectibles: Gathered to complete quests or achieve special rewards.</div>\n<div><br></div>\n<div>7. Tools and Kits:</div>\n<div>  •  Lockpicks: Enable characters to open locked doors or chests.</div>\n<div>  •  Crafting Kits: Allow for the creation or enhancement of other items.</div>\n<div><br></div>\n<div>8. Magical Artifacts:</div>\n<div>  •  Relics: Possess unique powers that can significantly impact gameplay, such as time manipulation or summoning allies.</div>\n<div>  •  Scrolls: Contain spells that can be cast a limited number of times.</div>",
+  "context": "From document: In role-playing games (RPGs), items play a crucial role in enhancing… — chunk 2 (chunk 2/3)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "ee2566eac80a6f87af45ebc9eb8405a8",
+  "relatedUnits": [],
+  "keywords": [
+    "items",
+    "health",
+    "potions",
+    "magical",
+    "such"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,31 @@
+---
+id: 517132fa-4b1f-4bdf-8de3-a86bd3a1641a
+type: insight
+created: '2021-06-24T19:10:13.000Z'
+document: b5de64ea907b6e44ec94b342683f3041
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - sggeitbzvevfjxju0va6cc3ebttsqsjvcameaaopsuo9ojwi3wceiczs0oyiqs115ers
+  - c1ynspbio7nebvu
+  - bkvusnufcumniofugmj2bdl11jugaxhdo4jxiinmub5kfnjigrserw35krvnd1jwugrpodztkawy
+  - zzw83gzppfy0dp0xgmkeu8cogcm9yaa67z1i1buq7lbc5yl1wsh9wmnc
+  - >-
+    wwj7yfeqcgwldw5vg39pkmfpmgzg8fegayghjs8bn1l28j2tg1bdw2lroy9x72gcum7puef5fhg2ak5rg486gedvb3tbqwfdmmbln7so
+---
+# sggEITBZvEvfjXJu0VA6Cc3eBTTsQsJvCAmEAAOpSuO9oJwI3WcEICZs0oyiqs115ERS+C1ynspBio7N
+
+## Context
+From document: TODAY FEELS LIKE A REAL BAD GO — chunk 15 (chunk 15/940)
+
+## Content
+sggEITBZvEvfjXJu0VA6Cc3eBTTsQsJvCAmEAAOpSuO9oJwI3WcEICZs0oyiqs115ERS+C1ynspBio7NEbvu/bKVuSnuFCuMNiOFUGmj2bDl11JUGAXHdo4jXIiNMub5KfnjIgRsErw35krVnD1jwugRpodZtkawy+ZZW83GzpPFy0dp0XgmkEU8CogCm9yaa67Z1i1buQ7lBC5yl1WSH9WMNc+Wwj7YfEQCGWLdW5vG39pkMFPmGZg8FEgAyghjs8Bn1L28j2Tg1bDW2lRoy9x72GcUM7Puef5FHg2ak5RG486gedvb3tbqWfDmMblN7sO+MCCG9bt4D66MHt9FVCCUyVVRPkKy/W2dddapvC8U1x/2u4qBwwgwz+w303Z03rBn7Pce0tBRwfZMxgDs1eTwjIw2NVfsg3C3fvq1InQeIUAmDton+313mv5GjtiTizlbRNd195FHl7IvTYDM4YQgU2EGJ8Y72cW4k1LRtCFYEHwwHkVW1L1X0X/7waj5XOyl9tUmjbyFs/lWEHFNrsc7jxBWb8S4MKzty+NsBblMdxOuL4+8TEQCWWNfJq/NFzKPrspLT38UGVelcVpxLImcEsnjucvuZ3BDAJK1ou08hzU87mb/tHeS6dPaYIkMoKfR0egjBZHV22d7HrnAVhDVJoLKfhZtcggE2pPDutKdCEUKN0KAoCrLABJOcnVsfnVClijAQvFtcBQdQtaitKHWaZQgRgOBu/322w8MpSPUKAQEfNmwW4TASh0mmPFCubQp2FDaIgYoKhqvmjZIkOU359k/FA2bIqOQYjsuT4FNHaHj+lXD3qwLXnCFD80x9QcoZG02RqHNjJGoFSkCohqcMazWBON4mppwxYMPPjgb7nL0q6wHypQf40JZ8+yUTTLADyXJxk3xb7JZW++UN2uqaUHQNrH3TEgRealnd7wU/Ypb6bvCb1KrKDgKITXBorf/xgspYAzqeIvNR0aC9VHU1CCHeV1FD7QVydDbb0r6IFKAguwoOPOH543XCNEqMmWUAdV7n2n7v9xj640xb9wYwcZOdB1SXkrJqHQo+zUZKEKOvK3inZw2PIocbHPB/O1t1rzUJM9J+VdMEFaINSkDohsVv4QbuQvDJs1aQGwWGDe51qDvim7goRaNNUrekp3216ZEKDmMXDDXzLmm+gl5Jn+bzFMUb9xkACz1HQ6wIyOM
+
+
+
+---
+*Source: Document b5de64ea907b6e44ec94b342683f3041*

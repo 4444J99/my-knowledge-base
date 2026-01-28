@@ -1,0 +1,26 @@
+{
+  "id": "4ea347c9-49f5-4e83-b709-7c67465f7cb5",
+  "type": "insight",
+  "timestamp": "2025-07-05T16:03:41.000Z",
+  "title": "<div>[AA01] REQUIRED INFO</div>",
+  "content": "<div>[AA01] REQUIRED INFO</div>\n<div>To begin, I need the following:</div>\n<div>  1  Exact birth time (HH:MM AM/PM)</div>\n<div>  2  Birth date (MM/DD/YYYY)</div>\n<div>  3  Birth location (City + Country)</div>\n<div>Once I have that, I will:</div>\n<div>🧪 [BB01] PROCESS OVERVIEW</div>\n<div>1. Calculate Your Human Design Chart</div>\n<div>  •  Use data to determine your Type, Authority, Strategy, Profile, and defined/undefined centers  •  Track key energy flows across the day (when you're more magnetic vs when you're more focused)</div>\n<div>2. Map Chronobiological Windows</div>\n<div>  •  Identify biological rhythms: ultradian cycles, circadian peak, and any planetary timing alignments</div>\n<div>  •  Analyze the alignment between your astrological chart (esp. Moon and Mars) and daily energy availability3. Design Working Rhythm Blocks</div>\n<div>  •  Propose daily schedule structure (e.g., align → create → execute → rest)</div>\n<div>  •  Match key activities to your birth rhythm and energy type🔁 [CC01] SAMPLE FORMAT (OUTPUT)</div>\n<div>Once you give me your birth data, I’ll return something like this:</div>\n<div>🧰 [DD01] HOW TO USE THIS</div>\n<div>  •  Implement a 2-week experiment to test alignment with your flow schedule</div>",
+  "context": "From document: title: \"a\" source: \"https://chatgpt.com/c/68689da6-a4a8-8003-bccf… — chunk 2 (chunk 2/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "ab581997282985721c551fd81b021e5b",
+  "relatedUnits": [],
+  "keywords": [
+    "your",
+    "birth",
+    "energy",
+    "once",
+    "design"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

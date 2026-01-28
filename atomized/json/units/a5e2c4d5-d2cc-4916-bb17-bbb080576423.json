@@ -1,0 +1,26 @@
+{
+  "id": "a5e2c4d5-d2cc-4916-bb17-bbb080576423",
+  "type": "insight",
+  "timestamp": "2025-04-19T03:28:40.000Z",
+  "title": "<div><tt>| 48  | stable     | shifting   | d12   | [self, disguise]       |</tt>",
+  "content": "<div><tt>| 48  | stable     | shifting   | d12   | [self, disguise]       |</tt></div>\n<div><tt>| 61  | peace      | tension    | d20   | [aura, conflict]       |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## TEMPORAL</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| ID  | Left       | Right      | RNG   | Tags                  |</tt></div>\n<div><tt>|-----|------------|------------|-------|------------------------|</tt></div>\n<div><tt>| 12  | future     | now        | d100  | [vision, presence]     |</tt></div>\n<div><tt>| 44  | sync       | drift      | d10   | [time, delay]          |</tt></div>\n<div><tt>| 47  | scarce     | plenty     | d12   | [value, abundance]     |</tt></div>\n<div><tt>| 48  | vertical   | cyclical   | d20   | [history, loop]        |</tt></div>\n<div><tt>| 60  | clock      | spiral     | d1000 | [rhythm, infinity]     |</tt></div>\n<div><tt>| 56  | rise       | fall       | d20   | [initiation, decay]    |</tt></div>\n<div><tt>| 42  | auto       | improv     | d20   | [machine, instinct]    |</tt></div>\n<div><tt>| 24  | memory     | moment     | d20   | [past, now]            |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>",
+  "context": "From document: # |[ DUALCORE::V3.0_SORTED_BY_DOMAIN ]| — chunk 5 (chunk 5/7)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "46153e4e921024e07e0947e72df4c6c2",
+  "relatedUnits": [],
+  "keywords": [
+    "stable",
+    "shifting",
+    "self",
+    "disguise",
+    "peace"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

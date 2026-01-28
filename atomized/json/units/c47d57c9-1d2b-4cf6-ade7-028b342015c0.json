@@ -1,0 +1,26 @@
+{
+  "id": "c47d57c9-1d2b-4cf6-ade7-028b342015c0",
+  "type": "insight",
+  "timestamp": "2025-03-10T23:24:51.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Your <b>resume</b> is clear and professional. The <b>skills section is strong</b>, but your <b>work experience section</b> could be improved by adding <b>more detailed bullet points</b> that show specific accomplishments or contributions in each role. Employers like to see <b>results</b>, so including measurable details will make your resume stand out even more. Additionally, check for <b>consistent formatting</b> in spacing and punctuation.</div>\n<div><br></div>\n<div>With a few small refinements, your materials will be even stronger. Keep up the great work!</div>\n<div><br></div>\n<div>Best,</div>\n<div>Professor Padavano</div>\n<div><br></div>\n<div><b>Grades:</b><br></div>\n<div>  •  Cover Letter: <b>80/100</b><br></div>\n<div>  •  Resume: <b>85/100</b><br></div>\n<div><br></div>\n<div>⸻</div>",
+  "context": "From document: Feedback Letters for Resume & Cover Letters — chunk 22 (chunk 22/22)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "86dc5339604c58929fa5043c670c250d",
+  "relatedUnits": [],
+  "keywords": [
+    "your",
+    "resume",
+    "section",
+    "work",
+    "more"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

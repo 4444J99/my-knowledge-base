@@ -1,0 +1,32 @@
+---
+id: 9ce9e978-7959-427d-81f5-858e697b9072
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    zq1ijer38lkqtis5yxxbb6m9g3fjrafwnlyzlcerhqfyhhzqycmie9ggdfdxfnewczck7toslytyg2yoplr0ziff5kiv0zfbeoekjjzrzvxvane1es
+  - d4trk4c465ew2c
+  - q5sizbbumudxwqqdcuqcq5gii6auykqqjlvfexzpo54dqo4odlnlvlj
+  - >-
+    66ryjraeu550adil5fp5o5gjq1pyfz0m8xrr6gudmnzzlev9k76kife0s3a1o66uci6tqk6gax7pjaovwl6fno2dlkku6ia667uojws2rm1md
+  - p1iuffoq6kw
+---
+# zq1IJER38Lkqtis5YxXBb6M9G3FJRAfwNlYzLCeRHQFyhHZQyCmiE9gGdFdXFNeWcZcK7ToSLytyg2YO
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 6104 (chunk 6104/11534)
+
+## Content
+zq1IJER38Lkqtis5YxXBb6M9G3FJRAfwNlYzLCeRHQFyhHZQyCmiE9gGdFdXFNeWcZcK7ToSLytyg2YOPlR0zIFF5KiV0ZfbEoeKjjZRzVxvANe1eS+d4Trk4C465Ew2c/q5SIZbBuMudXWqqdCuqcq5giI6auYKqqJLVFeXZPo54Dqo4oDlNlVLJ/66RYjraEU550AdIl5Fp5o5gjq1PYFz0M8xrr6guDmNzzlEV9K76KifE0S3a1o66ucI6tqK6GAx7pJaOvwL6fnO2dLkKu6iA667UOJwS2rm1Md/qEQ/p1iuFFoq6kw/V1Q4J3ZTdHU21nIo8JvqN8O76MS3QZdN6ucCLMdIQv3c2c3ZKkBdQ2+hi2D37S66qirnEtXSiX6ur1q6fR102Vd7M7CM9ANE17C76ADt/C10RVXOCbRTLZ2NuOyOSbwrEI4WiC4GtOsYohMghz9Eqn4uQHQSeaY01pwvXe2acq6MQZdt82WsZam8Lco51c8pqLvWtlGWoqJrmYoO0M78VoDoihxxaco5oLtnIwNyOuJScN1KxFGWoZ9hOY/oAOoA57qqnwN48yo6RADnVqqiq+v7QZd9jrjUsZaNiQbgXEP1cz3FdT0bZVkKxlqKz3jeYoglFHVUzhHOUTMncK5uKjqCOqwC11FFp3COQC5Q0XWJ5RTR9TIVXb1mEQI5WtHM1RW81Sahh6N+7sWKRQDhXuwalgOKg08gN+DncJ2Dc6qZU9hWElxnIy7b9BXIVQzRAeC9pFDNK+QUyyl+KxmiUwhnEYVzhuXELylmK4kejtAOEA5xIjqP5QDPePOcATm3S+It1dW1ZBdGWSJimjmNw2ekraCOPlBZLkexGXGd6d4ieQXsfUFrGiG083FCOLGJKeoaHsIl+tJcIVkexRHIhVaQm6E4zXeqlAzXmTYuDvGb1ne4TsAYT4wVjOV91LcX5VxNdS8xW5IBNgfkDK0RGhG5wSfuuqP1WM4DsLLiLsQNXDX4Wj+zqCM52g8sz2JE/H5uVesopmJmX+s4nCYwLLUKAska5gvicvGwPk8JLVe5l/GwZpbpusoi7N91InH6fcNyTX1Gsf2pfYV86uvT9aelw1gzXZ9ZhVhXGXeZshov7lxufKET92aql5MfrI0ls8kPbp3dnd379vJ4cq7679qjjYloAyNhJos/OJwqLnbeX5vavLTy/jD+
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

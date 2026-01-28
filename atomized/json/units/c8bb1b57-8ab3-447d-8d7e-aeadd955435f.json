@@ -1,0 +1,26 @@
+{
+  "id": "c8bb1b57-8ab3-447d-8d7e-aeadd955435f",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>  ```</div>",
+  "content": "<div>  ```</div>\n<div>  AI Brains → Extract concepts</div>\n<div>       ↓</div>\n<div>  Personal Repos → Test &amp prototype</div>\n<div>       ↓</div>\n<div>  Org Repos → Refine &amp deploy</div>\n<div>       ↓</div>\n<div>  AI Brains → Learn &amp iterate (closes the loop)</div>\n<div>  ```</div>\n<div><br></div>\n<div>- **`recursive-refinement-orchestrator`** - Uses your existing frameworks:</div>\n<div>  - `auto-revision-epistemic-engine` for governance</div>\n<div>  - `solve-et-coagula` for transformation</div>\n<div>  - `a-recursive-root` for recursive processing</div>\n<div>  - `a-context7` for AI documentation</div>\n<div><br></div>\n<div>### **Phase 4: Create the Meta-Repository**</div>\n<div><br></div>\n<div>**The Kernel of Your OS:**</div>\n<div><br></div>\n<div>**`meta-cognition-hub`** - A new org repo that:</div>\n<div>- **Ingests** from all three layers</div>\n<div>- **Analyzes** patterns, connections, evolution</div>\n<div>- **Synthesizes** consolidated documentation</div>\n<div>- **Generates** production-ready code</div>\n<div>- **Feeds back** insights to AI layer</div>\n<div><br></div>\n<div>**Structure:**</div>\n<div>```</div>\n<div>meta-cognition-hub/</div>\n<div>├── intake/</div>\n<div>│   ├── ai-contexts/          # Exported conversations</div>",
+  "context": "From document: Contents_Table — chunk 25 (chunk 25/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "recursive",
+    "meta",
+    "brains",
+    "repos",
+    "your"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

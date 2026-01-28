@@ -1,0 +1,32 @@
+---
+id: 44b59761-9d61-428e-92c2-ec1dd3624488
+type: insight
+created: '2025-02-14T06:30:51.000Z'
+document: aa5afafaa5b4a9e35e1fe8ae7ee501fe
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - t7dryp7r7qwkks
+  - ft9xzbkif7ixe6afo64de0emvajwzhy7yobd0koex1i
+  - >-
+    bh8szvolyvscp0rw68e2n7ij8xrt9bmq93bp3jgighgwbbpyhz3rdxzjydn6ip6cxaldi0cc0jwmcjpa
+  - >-
+    euckjsgcq3uomupmcaueyqghksbxpikhczimdpwzftwerg7zvaag8emsjbu8slqfe7dab08gmpzdhhcdapo5al9faodqtygfzsku5y2ao2guoi1x4gg8hgj55je
+  - utaaaqpljsbv8tus4vcbrxgibatbqebr4cqacfcsauhtbqtpvuftckyof
+---
+# T7DRyP7R7QWKks+FT9xzBkIf7IXe6AFO64de0EmvajwZhy7yoBd0koex1i+bh8szvOlYvscP0RW68E2n
+
+## Context
+From document: ETCETER4 — chunk 1244 (chunk 1244/2399)
+
+## Content
+T7DRyP7R7QWKks+FT9xzBkIf7IXe6AFO64de0EmvajwZhy7yoBd0koex1i+bh8szvOlYvscP0RW68E2n7IJ8xRt9bMQ93bp3jgIGHGwbbPyhz3rDXzJYDN6iP6cXALdI0Cc0JwmcJPA/EuCkJSGcq3uOmUPmCAUEyQGHKSBxpIKHcZIMDpWzFTwERg7ZvaAg8EmSjBU8SlQFe7DAB08gMpZDhhcdApo5Al9FAODQtYGFZsku5y2AO2gUoI1x4Gg8HGj55je/uTaaAqPLJsbv8tus4VcBRxGIBAtBQEBR4CqACFCSAUHTBqtPvuFTckYOf/zjH1cgx5cAKDiiRVDtp2HwCqegA76Nm+CF3kceeWTBsUGWtJSU2TS9uH2iA49kjT4BUptEBo3kmXyiHS/oFjQFXHjQRr/m6Y//eF6Mb38866sm82h68sknF38+EYAfui+pM59OPWs332Uc+nxtz+Y0uORWYQPmSBx8Sh7td99993pJ8swzzywYJQTk5uc1yCH+6XDaNHuKPwEfz/hX2DZY5koCyIRdszO06kMru2UrbBZtZIY3Fx4UOKwXCWH0sEs6pTN2r4bDPLqA3ydF2AGYTzzxxML1t7/9bdkXfYLPvhS8eEY/fOCwK23W5mFLarTj31zryJx0zA4lqpIrc9vs+IqwFxTGxx+YZOmTO+5LJsGGk3zoirzAV4wrgTO3JN6cSrow1qVoc5EzXaChgk42c10BBz2zhEdb9+FTa6s2ZvZ1r/26Akaw0emeTNgAG6qvOlie0yn5TXy1G7ufp22O9XysmNdcNZqOzWsMndlQNDZ9Brtx+7r+YNevHU5F37F+fXP8vNd3rBjjIiM+I7jq5u9rcGrb3x/DAXY6sD6tafLgh7Szs/CSGzvHK39lrVUmTr7Fxp3vbe6kObombm3m4RP+7KuxntHiBbxi44YWcF1gpcdwgscfGWez6Rs6/DCf1NgF7Mgf8IKjO/7ytbOv6Y3pedazz1y+SRs+xBk08XP8rvYuG3AxiE+wzhwW2CjzGeBMuBPfvOdj4peO83naK9Yv3sR4fpGc+Se+HW36yHGWcOMFfM8PP/zw8mloPmz+GW/ilpf7PrQADj2qbaB96yufnj73OMB3+EMG8OAbTdP+juljtqEN7zbQ4oGfb2Tj4iO87Esxh+6Nn231kZnYIydRjNtf2tmdQyo0++e4Dq58
+
+
+
+---
+*Source: Document aa5afafaa5b4a9e35e1fe8ae7ee501fe*

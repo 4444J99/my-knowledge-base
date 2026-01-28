@@ -1,0 +1,25 @@
+{
+  "id": "7333eac3-3405-4c5b-8db0-1bffa51338c9",
+  "type": "insight",
+  "timestamp": "2025-10-25T15:04:06.000Z",
+  "title": "<div><h1>Call with John Ferrara</h1></div>",
+  "content": "<div><h1>Call with John Ferrara</h1></div>\n<div><br><br></div>",
+  "context": "From document: Call with John Ferrara",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "edd651beb56f294b41ea9f8faf04ddeb",
+  "relatedUnits": [],
+  "keywords": [
+    "call",
+    "with",
+    "john",
+    "ferrara"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

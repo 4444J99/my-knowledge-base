@@ -1,0 +1,31 @@
+---
+id: 6a89b397-e94b-4d9f-b358-f0425cce8442
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    vfkjh3zdccmtyjaekggkeo2dbjc02oy9eedm3sxv4narbsb7r38qckfp3qyhtnolhjprx3o1hhjz5amnnphcxhxi6okzaja
+  - dx8bsronsorr7zpyillzfoegcmmhoxdgietg2kgsreigh0fg4gficgryth0a39pdg
+  - mcyypiun6njfxy8qfdkc9xwlvbjemibccfmzfkhv
+  - 85evdnbgmezivm7llt200vqzhu4ifd8v4p
+  - d5r7vff3qlleiouy8kgajkaajkmbceqaqam0hwyeftwi56
+---
+# VfKjH3zDCCmtYjaEkGGKeo2DBjC02Oy9eeDM3SXv4nARbSB7R38qCKFP3QYhtNOLHJPrX3O1hHJz5amn
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 2439 (chunk 2439/3262)
+
+## Content
+VfKjH3zDCCmtYjaEkGGKeo2DBjC02Oy9eeDM3SXv4nARbSB7R38qCKFP3QYhtNOLHJPrX3O1hHJz5amnnpHcXHxI6OkzAjA/Dx8bsrONSOrr7ZPyilLZfOEGCMMhOXDgiETg2KGsrEiGh0fg4GFICgryTH0a39Pdg/MCyYPIUn6NjfXy8qFDKC9XWlvbjEMIbcCFmzfKHV/4e+85evdnbgMEzIvm7llT200vqzHu4IFD8v4P/g/D5r7vfF3qllEIOUY8kgAJkAAJkMBcEqAQAm0HwYEfTwi56/a7v3Z40BFFx8Z0ZLUHjE4pvtVjUUntmIfQLceKQxgeZ9ZXwTA6ZJCiJYUy3DUi+mEas4ZkFJ3F7AA68OiERdHZDUuO5ONLdTSoX7lND9lVu0CPsyeEPvihT8ixpiZ0NhO3rsLz6NEjJkI7nGWweGy57GJpamqW5/e+qCMU8UCQwXRGEVZLgW8OhhZl+6k2jYZz84LoLBdLGYYovbDvJXSq8+RV115jOr47YOHTMmJIaMQL0mtnP4Ayde6NX9zo0KtLt1yM9h1D3lbTRq8yHDR/QOrrl8m5566Vxx57TLJzcqSxoUH27TuIdqPMgMo4fU+Q1Tx6DWiL9Y3LlQYI8Lu/+Tnp+P0+aX/sUaQLQQyFpez6a+SxfRDlqxqkr79XKirLZRBWhyuvvBzzzwIQ7E3ynvd8BEKoAkLoW7MihLSlUcxz24e2ldWWybJzl0nT3uNyeN8RecXrL5bOri4pKymW4uIipExs3T290nWyW6qrK0W9qIn5ndKHqAD03t2WLISy8HtzySUXyeDggBRCuFRUVkpb20nZu+d5efWrt0GwDMjQ8LC0t7fD4loCDtlS31AvJ1pb5OWXj6C+aiOACgsLpKy0RI4cbcLQw1LZteuPsvmC86W1rU1Wrmw0+cvxXnRBIP3h90+jMbZNmy/YIF+642Zz7lqp74iK6v37j0jT8RNwi50tsdEo/r4UyMDQoFRVlcsmCNODEGPv+9Dfmsf8PQoh94B5JAESIAESIIE5J+A0AC1CPvSTCSFfUgbRnZst99n3fOdfpKXlhGGsX/h78XX/nHPWynF0MnUb6B+QdevOk18/8ktZu2aNrF27VpbX1SJdr3R2diBFltTW1prJ9VEITe3D6lAnVRr9ff2Sn58vxeic9yC9TsA/fqIF5Zwj9933Pfmbv/kA
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

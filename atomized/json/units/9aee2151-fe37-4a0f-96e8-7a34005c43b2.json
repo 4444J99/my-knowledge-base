@@ -1,0 +1,26 @@
+{
+  "id": "9aee2151-fe37-4a0f-96e8-7a34005c43b2",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "</td></tr>",
+  "content": "</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Daytime Setting (Real-World)</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>A dimly lit psychologist’s office, lined with case files, inkblot tests, and old leather-bound volumes.</div>\n</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Nighttime Setting (Fictional)</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>The labyrinthine halls of the House of Usher (The Fall of the House of Usher, Edgar Allan Poe) – “During the whole of a dull, dark, and soundless day… I had been passing alone, on horseback, through a singularly dreary tract of country.”</div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div><br></div>\n<div>Why This Works</div>\n<div><br></div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 140 (chunk 140/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

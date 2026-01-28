@@ -1,0 +1,26 @@
+{
+  "id": "a5dcc206-a5f1-40b6-8c4c-b8df7e8b31a3",
+  "type": "insight",
+  "timestamp": "2020-05-21T13:50:59.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Him</div>\n<div>Get in the car. </div>\n<div><br></div>\n<div><i>She gets in the car. </i></div>\n<div><i><br></i></div>\n<div>Him</div>\n<div>I love you. </div>\n<div><br></div>\n<div>Friend</div>\n<div>You told me. </div>\n<div><br></div>\n<div>Him</div>\n<div>Yeah, but I mean it. </div>\n<div><br></div>\n<div>Friend</div>\n<div>I thought you did. </div>\n<div><br></div>\n<div><i>He starts driving. She turns around to an empty backseat. </i></div>\n<div><i><br></i></div>\n<div>Friend</div>\n<div>None of your stuff is packed.<i> </i></div>\n<div><i><br></i></div>\n<div>Him</div>\n<div>Do you need anything?</div>\n<div><br></div>\n<div><br><br></div>\n<div><br></div>\n<div><br></div>\n<div><i><br></i></div>\n<div><i><br></i></div>\n<div><br></div>",
+  "context": "From document: Regret (Not an Apology) — chunk 2 (chunk 2/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "7f1694fb74fad31bdef1e7829f56ed17",
+  "relatedUnits": [],
+  "keywords": [
+    "friend",
+    "gets",
+    "love",
+    "told",
+    "yeah"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

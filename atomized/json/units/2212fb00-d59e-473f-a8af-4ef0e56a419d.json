@@ -1,0 +1,26 @@
+{
+  "id": "2212fb00-d59e-473f-a8af-4ef0e56a419d",
+  "type": "insight",
+  "timestamp": "2025-07-06T01:33:11.000Z",
+  "title": "<div>  •  Haptics: Leverage Core Haptics (iOS) and Vibration API (Android) for s",
+  "content": "<div>  •  Haptics: Leverage Core Haptics (iOS) and Vibration API (Android) for subtle feedback on dice rolls and piece placement. Ensure toggles for haptic intensity in settings.</div>\n<div>  •  AR Mode: Use AR Foundation for optional AR board projection. Provide a fallback 3D mode with identical mechanics to ensure accessibility on non-AR-capable devices.</div>\n<div>  •  Accessibility: Integrate VoiceOver (iOS) and TalkBack (Android) for voice commands. Use high-contrast textures and color-blind-friendly palettes (e.g., blue/orange over red/green). Test with axe-core for ARIA compliance.</div>\n<div>Optimization:</div>\n<div>  •  Use low-poly models and baked lighting for mid-tier devices (e.g., iPhone SE, mid-range Androids).</div>\n<div>  •  Implement LOD (Level of Detail) for 3D assets to reduce rendering load.</div>\n<div>  •  Cap frame rate at 60 FPS and optimize shaders for mobile GPUs (e.g., Adreno, Mali).</div>\n<div>Challenges to Mitigate:</div>\n<div>  •  Ensure gesture controls are intuitive by playtesting with diverse users (novices to experts).</div>\n<div>  •  Provide an optional 2D board view for users with low-end devices or accessibility needs.</div>\n<div>2. Thematic Environments &amp Historical Immersion</div>",
+  "context": "From document: title: \"Backgammon Chaperone: Mobile Design Critique | Shared Grok… — chunk 11 (chunk 11/20)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "9fd27aa005603b4099800d554c6afb3d",
+  "relatedUnits": [],
+  "keywords": [
+    "with",
+    "ensure",
+    "accessibility",
+    "devices",
+    "haptics"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,30 @@
+---
+id: ec4d0aaa-b649-4834-8339-5ea3d3cb88e2
+type: insight
+created: '2019-04-16T14:05:00.000Z'
+document: 0c34a8b78e60a6c1ecbdc7504f7c4c39
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ng8psgvhsye7gukzj5xj9gmkfbyiipoarygfeu7m9knj64vgnqtr
+  - gahfjd8x
+  - b6ay7y7keyt4
+  - y1kqid1d5iy88good0h2xfnrszuwu
+  - 6z6t
+---
+# Ng8PsgvHsYE7gUKzJ5xj9GMKFByIiPoarYGFEU7M9knJ64VgNQTr+gaHfJd8X/b6AY7y7keYt4+y1Kqi
+
+## Context
+From document: Reverb Cheatsheet — chunk 638 (chunk 638/770)
+
+## Content
+Ng8PsgvHsYE7gUKzJ5xj9GMKFByIiPoarYGFEU7M9knJ64VgNQTr+gaHfJd8X/b6AY7y7keYt4+y1KqiD1d5Iy88gOoD0h2XfNrsZuwU+6Z6t/O4LvkR4l9aw5dXE/wBkz2ykBEBbefS18noiPxF5SS4wwykFVPB//fTeqr5JATBoslDqY9c0keTEgIAJh009NO2/45qKxjSxAjWJGOuIdFdT60hYObJNLuoFAgFMG54bYSDoaMSoJ4A3nexYRRAlobNXQ+YJ7AqdU3kEHfIGf9J5x87hzSUVSYVb3wDT/ZQHf3adO16TW1SCKAVIADrnT3GFKIQTZTYj6FBKohrefbZ8YtD2kUj6kh2R65/73/5l/TSBIqgBSXr6AfCh6jv9P3Hu9D/7h6awrxj2wnGElNKsCwiwMEXuaI9W0V4z7j2evZO5Y6Bj7gX2xpFwQJUewC4wUHCHNnoh4TkF56IlCTQA46iVMqmDbTRpxhiManxrz712yn4Mcsy0cN9TYdg8OhijafJi6ZAb4w795heQgRBxzf6GN1cdllE6jvhc1Y3ZEGmFHoRSlDIkb+3QAo5NwucxPoAq5KEU4tDfAbTKsdNCdp+d/cOz8lBbSSaBDf2epUTr1DAfPrI+IjA1CjQDCBy924qM+PvkF8BNq1ppI1W1UoIavNyJEK+RcECRZlXMRHb0wRpF7HoMEKKPRzYPMQogV0bc1owuqY6hi3XGzNujXBgGqIADwBUePWop1AmfZwEuwvxR4NKRFJCZfJCIDgAEmb7NfmWNKjA5NNy8MClPciGfdyRNzHJWjm1RwpbcXeCRxRokJWpbGoAqI3gwsZgz8KjXeTnWA9OKfyiw7inoFoMqYhTo4zjyeprNnXhEhANHoiC4fsw+41T7OHICCkaRdnU9wVHl0XGQVKJwGBpGKMIgsr4MU/T0FhB/OHgKaQS6YfznNYxevPBCZobWkgbQpOFWO/HkHsvAdqGFEB8i2CFVpee+URq2JK0aAbkJA3Rz4asgl/8A3gB4BD6EogULKylbiexwDdkmykOingA+hAqqm1V6lan2xedgoUKVJtAYlhtTSAR0gnkty4BqxayRCkKxbCDBkqRnlPUEM5n6HjOdy+EjQFDABUAgUQXUpUKPRLR6IPTF3VWuIdJVPWh59HqJF2wV7AwNa49bqCdHKfM3oO7ZT6PFpKnwu+Kdc4r
+
+
+
+---
+*Source: Document 0c34a8b78e60a6c1ecbdc7504f7c4c39*

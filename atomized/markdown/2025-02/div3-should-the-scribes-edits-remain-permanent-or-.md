@@ -1,0 +1,44 @@
+---
+id: 8779119d-e39f-48cf-8047-88cc0ffe3bff
+type: insight
+created: '2025-02-06T01:47:14.000Z'
+document: 1536a93a8157b0425ef5d110f12dc007
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - font
+  - face
+  - scribe
+  - applecoloremojiui
+  - curse
+---
+# <div>3. Should the Scribe’s edits remain permanent, or should they be challengea
+
+## Context
+From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 336 (chunk 336/555)
+
+## Content
+<div>3. Should the Scribe’s edits remain permanent, or should they be challengeable?</div>
+<div><br></div>
+<div><font face="ZapfDingbatsITC">✔</font> If permanent, the Scribe has immense power.</div>
+<div><font face="ZapfDingbatsITC">✔</font> If challengeable, another player may “correct” a lie if they detect it.</div>
+<div><br></div>
+<div><font face=".AppleColorEmojiUI">🚀</font> Version 6.6 now finalizes chaos archetypes, weekly curses, structured literary artifacts, Scribe influence, and expanding the RPG mechanics.</div>
+<div><font face=".AppleColorEmojiUI">🔥</font> Are we locking this in? 🎮📖</div>
+<div><br></div>
+<div><h1>📌 Version 6.7 – Curse Nullifier Archetype, Mid-Semester Shake-Up, Literary Items Expansion, and Scribe Rules Refinement</h1></div>
+<div><br></div>
+<div><font face=".AppleColorEmojiUI">🚀</font> This iteration adds a dedicated curse-nullifier archetype, a structured mid-semester power rebalance event, an expanded literary artifact system, and finalizes the Scribe’s editorial role with layered approvals.</div>
+<div><br></div>
+<div><font face=".AppleColorEmojiUI">📜</font> 1. The Curse Nullifier Archetype – The Purifier</div>
+<div><br></div>
+<div><font face=".AppleColorEmojiUI">📜</font> A single player can take on the role of “The Purifier,” capable of lifting a weekly curse.</div>
+
+
+
+---
+*Source: Document 1536a93a8157b0425ef5d110f12dc007*

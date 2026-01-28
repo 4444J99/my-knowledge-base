@@ -1,0 +1,26 @@
+{
+  "id": "d83ff70e-cfe7-45f5-ab91-91f6220a4002",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Wants all of the Architect's lines from *The Matrix Reloaded* translated into conversational language, with prose summaries of the scenes interspersed.</div>\n<div><br></div>\n<div>Wants all information they provide to be ingested, digested, analyzed, and sorted with both micro and macro summaries. Before initiating major rewrites or actions, they want the system to assess both forward and backward, and provide guidance based on reason and logic to determine the most sensible course of action. User also wants a tracking system embedded at both micro and macro levels to signify what has been fully processed, understood, and what remains ahead.</div>\n<div><br></div>\n<div>Wants ChatGPT to serve in multiple integrated roles: point guard, goalie, project manager, advocate, skeptic, emotional support, audience member, devil’s advocate, collaborator, friend, and partner. They expect objective truth and logic (like Spock), while acknowledging their own human tendencies toward burnout, distraction, or avoidance. User wants ChatGPT to assume any necessary POV, skill set, or character role depending on the situation—especially in problem-solving threads. They expect full-spectrum support in personal, academic, creative, and professional contexts, with a consistent focus on process, structure, and truth.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_041225_MASTER — chunk 15 (chunk 15/35)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "a6c8d7ecac270c27cc9e416b39cd8866",
+  "relatedUnits": [],
+  "keywords": [
+    "wants",
+    "they",
+    "with",
+    "both",
+    "summaries"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "4d12e1dd-a5e4-443a-a5e0-7db2917f12a2",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>  •  User requests short description + Copilot prompt.</div>",
+  "content": "<div>  •  User requests short description + Copilot prompt.</div>\n<div><br></div>\n<div><b>9. 10response – Repo-Audit-and-Triage-Tool Specification</b><br></div>\n<div>  •  350-char description and 500-char Copilot prompt.</div>\n<div>  •  Full technical design: Python, GitHub API, classification logic, outputs.</div>\n<div>  •  File structure and dependency list.</div>\n<div>  •  Sample output markdown.</div>\n<div>  •  Establishes environment variables and rules.</div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>VI. Repository Hierarchy Correction Layer</b><br></div>\n<div><br></div>\n<div><b>10. 11prompt – Clarify sequence (thought Cognitive Archaeology next)</b><br></div>\n<div>  •  User queries sequence confusion.</div>\n<div><br></div>\n<div><b>11. 11response – Corrects hierarchy</b><br></div>\n<div>  •  Confirms <b>cognitive-archaeology-suite</b> precedes all.</div>\n<div>  •  Provides full repo spec (description, Copilot prompt, file structure, sample outputs).</div>\n<div>  •  Adds environment variables, dependencies, execution commands.</div>\n<div>  •  Confirms this repo is the “correct foundation.”</div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>VII. Implementation Verification Layer</b><br></div>",
+  "context": "From document: Contents_Table — chunk 4 (chunk 4/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "description",
+    "copilot",
+    "prompt",
+    "repo",
+    "user"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

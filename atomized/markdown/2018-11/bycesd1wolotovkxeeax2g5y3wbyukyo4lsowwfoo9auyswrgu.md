@@ -1,0 +1,31 @@
+---
+id: b05d8af8-e9a5-4b17-b5b9-11c10b0ef125
+type: insight
+created: '2018-11-17T18:19:07.000Z'
+document: e329ec4e43d47fccabf1e22882189db8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - bycesd1wolotovkxeeax2g5y3
+  - wbyukyo4lsowwfoo9auyswrgubvzzjgcugsolmfbxkstgmmygadjbwtzitknhi
+  - l7wg0bcezxzuavozt4dflb5xniptmplmnmjuomdhjwwz1zxpm2rkievzmqe5xoghj6
+  - lxo08yaobjafxxyfukvnrnihkqwwaed2ohvobedwveba6hkc5bsbj1rdqwdbdhtkoig7
+  - >-
+    acncc4x39bwmgcmwyygckc8k9pesadubrfdzjcgcek7c8noauwzhvmjygyv6ce2ad7gbrrxugxczer4
+---
+# BycEsD1wOlOtoVkXeeAx2g5y3/wBYUkYO4lsOwwfoO9aUYSWRGUbVzzjgCuGSOlMfbxkStGMMygADJBw
+
+## Context
+From document: Black Bean Salad — chunk 61 (chunk 61/2298)
+
+## Content
+BycEsD1wOlOtoVkXeeAx2g5y3/wBYUkYO4lsOwwfoO9aUYSWRGUbVzzjgCuGSOlMfbxkStGMMygADJBwTzitKNhI/l7WG0bcEZxzUAVoZt4dflB5xnIPTmplMnmJuOMDhjwWz1zXPM2RKieVZmQE5XOGHJ6+lXo08yAOBjaFxxyfUkVnrNIhKqwwAeD2ohvobedWvEba6Hkc5bsBj1rDqWdBDHtKoIg7/ACncc4x39BWmGCMWYYGcKc8k9PesaDUbRFDZJcgcEk7c8nOauWzhvmJyGyV6ce2ad7GbRrxuGxCzER4/hbBznjkY4qy6+XCtrGGIfBZg5GQM5HOf51mxFlKt1Qde+MnjirbXV3PJHaQlVDEENj+EZyD9azISucH4x1GP+xL7R4ohJOV2FJMhGTbnccdSc1+f2ueGbiC+nNpBthiLeYQdqIeMAbjnGK/RzV9KaWWRxFgSMRJuw4RQOQCOAPevAPilY20egSWESbMI+ZcbVaMKSCAR82Dxmvr8pqKD5O55GOp2ifE8mCxC84qM9OOfWo+QR60A4znvX3SR8uyTApCPSmj3p230pkjqKKKkAooHejtigAooooAAh60uTQQTyDigDNMBQc9aTGfpTtnvTtgI4NID/9TsULs+egwcAYJpkl1LuCquEXO5vcdiDTd7qNgBDEdMetNXcIthALHk5P51+Bn6YEoLgiIqMjJ96UosgQ9O/PY1VjVd5TaSpB4HUelSAKAoXPHc/XmgCM7+N6YOTnv+VOG2FSDkAkA8Z+Y9KknMhQJuA5z7k01BNNja2NvVW9qaAayMqFXIx16VDLBJtKLkIwyPXmrcaxuDk4CcYJ5z6VHIq7g4kZixHyjoPcVYFcK0EIDYJDDbxjHFSfMsQ3jlsggd/SmzETSBA3yjOc9dwNOBJde5TGR9KAFVQV3K3pnnr7UsQT7xIQMec9j0qOR4t2xcFc5bB53A0rBnGAASQcjsecigaHNAVkOAME9+pqwY1KbYwVA6H3piNtkWNuW6+2OlKC4B8s5XPzA9vpWc9gQjMqsY27DHtmoWkcrhcAMTnHtxUzL8wZuKjaNpF2IO/JPBxUx2NkRT/IBsQdOuOtNQgRkMSB1yOtNbzGxFvxjsPWkRW2DzCC2Oe3FUMerMMFWOD07mkIaNt2ASo4x/M0m5Ax4C/T0FPIxEpGQD/WgBfN2gEnKtyT2
+
+
+
+---
+*Source: Document e329ec4e43d47fccabf1e22882189db8*

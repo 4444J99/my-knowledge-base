@@ -1,0 +1,26 @@
+{
+  "id": "db47927d-7f34-4b36-9e3a-9c18ba2bfdf0",
+  "type": "insight",
+  "timestamp": "2015-05-01T11:36:02.000Z",
+  "title": "<div>Disease</div>",
+  "content": "<div>Disease</div>\n<div>Banned books</div>\n<div>Porno gifs</div>\n<div><br></div>\n<div>Moving text</div>\n<div>Main page with array of text</div>\n<div>Pulling text from users recent searches </div>",
+  "context": "From document: Disease",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "e39022a52df2e232dfa2bd100481e4ee",
+  "relatedUnits": [],
+  "keywords": [
+    "text",
+    "disease",
+    "banned",
+    "books",
+    "porno"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

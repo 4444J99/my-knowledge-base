@@ -1,0 +1,26 @@
+{
+  "id": "60c5a68b-37b5-4fe5-b038-3291522d9378",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:44.000Z",
+  "title": "<div>  </div>",
+  "content": "<div>  </div>\n<div>- **VERSION:** A version string that tracks iteration or release status of the artifact. We can use a `vX_Y` format where X is major, Y is minor (e.g., `v1_0` for initial release, `v1_1` for a minor update, etc.). For archives which are immutable records, the version might correlate with time or sequence (like an increment or a date). For living documents like prompts or code, semantic versioning can indicate backward compatibility or major overhauls. In some cases, if using dates is easier (like `2025-11-23`), that could be embedded, but a consistent `v#_#` is preferable for uniformity and parsing.</div>\n<div>  </div>\n<div>**Examples:**  </div>\n<div>The prompt gave a couple of examples, which we interpret with this schema:</div>\n<div>- `VISION-META-SPEC-LANG-0001-v0_1` could be a Vision layer, Meta domain, Spec type document, with an ID “LANG-0001” (perhaps the first language/naming spec), version 0.1 (draft). This suggests it's likely a document about language or terminology in the vision of the system.</div>\n<div>- `WORLD-MYTH-INDEX-CHAR-0420-v1_0` would translate to: World layer (so related to a specific world’s content), Myth domain (character mythology), Index type, ID “CHAR-0420” (perhaps this is an index of character 0420’s data or a character index entry), version 1.0. It might actually be a file that is an index entry for a character with ID 0420, version 1.0 indicating it's the first full version of that character’s profile.</div>",
+  "context": "From document: # Blueprint for a Self-Evolving Creative Operating System — chunk 35 (chunk 35/38)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "83dee6092ba3a8d02324ba12da038c25",
+  "relatedUnits": [],
+  "keywords": [
+    "version",
+    "index",
+    "character",
+    "that",
+    "with"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,31 @@
+---
+id: ce9fd0e7-aab3-4fa9-9f4e-c1fd1d5c725b
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - vlywqpsepabr19uprorcq7ogypuvuflobkizejqb2jqdd8o9hb9yfxcq7
+  - xkjr9pnz4hydx0gvrvrzeafhyru
+  - 73ohypx72y8kaas1
+  - >-
+    zt9y7cpaau3f1g1vvxzlrbadkswg6ubynwywopvygcralmfrbraqsufqfpb1udaakwwqvyyfl8jyfv7sc60kkdvd67qfthvglqnvdwvvqsza1rdb6cqerdu9cddafx7ikobrgreifxxg6tq935qvwmdvf2vptilxwbveyhk
+  - 0fvf071x4obqgapqtzigbzavl8jqru8p6hq6yp
+---
+# Yxc+VlywqpSEpaBr19UPrOrcq7oGypuvUFloBkIzEJqB2jQDd8o9hB9YFXCq7/XKjr9Pnz4hYDX0GvRv
+
+## Context
+From document: New Note — chunk 1636 (chunk 1636/21099)
+
+## Content
+Yxc+VlywqpSEpaBr19UPrOrcq7oGypuvUFloBkIzEJqB2jQDd8o9hB9YFXCq7/XKjr9Pnz4hYDX0GvRvrZeafhYru/6+73ohYPX72y8KAas1/ZT9Y7cPAau3F1g1VVXzLrBaDKsWg6uBYNWywOpvygCrAlMFrbrAqsUFqfpB1UDAakWwqvYYfl8JYFV7sC60KkDVD67qfthvglQNVDWvvQszA1Rdb6CqeRdU9cddaFX7ikobrGreIFXXG6Tq935QVWmDVF2vPTilXWBVeyhK+0FVF071x4OBqgapqtzigbzAVL8JQrU8P6hq6Yp+XxiQqnoWD+SDgaluvkGoyrN4Rd7g1KoAq35QVX0YgFoV7wKmBq+6eVWNGzCqdhb/Lr32Gd3+lbY8i1fWq5/K1r1V9dxvb/Wp4Ho3bnXLy7M6IX9nzUC7Rn5YNQOtcwStEv7KyS6GVrOptOoBq6xLhVUBqx60asBqOhVW06imWmKt6FsRYDXzgFWvLBVNqZ7alDBqU6qnepYSh2ayUoiV6qsEVpuwTkMDVgmrNigxA1dvpqOpWEpgVUqmHqgqWPUmsJpVAqq6vhRkJaCqfDdd3LZEFdUDVovjHrDqqayWKK2WqKymeQqrjsqqqa3SZ3iKqze9VFLTogWo1kFSOEUewx5EUhjfTE411QwCqtlUUG2YHI2mBFRbN0hD+yaZ6NKiIXq1a45Hu7XDsL5dMXZQH0waPhAzxg5F7vjhWDljBHbMHYUDiyfj6bV5eG3HIry1Zzne2bsCb+xajFc3z8cLVEw9vnIanls5lSqjU/HKGkKb66iOumEW4dSZOLGW6VVT8OrKiZ69s246Ptyciw835eLkxtk0Aqys+y6B1ZOb8vDBlnn4cPsCnNpZiNM8xkf7VuLykxsImG7FtaPbcOnQJsKrK/DC6rk4mD8RO2YMw7qJvbBhag8UzRuIoyvH4ZUtM/H27nk4uZ/9HCjAuUOFuPTUElwmpHrt2BJcObII154qYL/zceXQPB5jFj7cMRkn+Ir744v64dCcrtg2riU2jmyBA7N64sVlIzxo9fjioTgwuzd2Te6MPdO6ETrt56mwHqeK6WtUaX1v20y8vyOXqrFT8DoVWd/aNBXv78zFmb35+LBoLk5yXG+tmYz3NkzFe4RbP9g6E+9tmYG3N03jvI3HcytGE8Idgt2z+1BptREWD2qMnTN6
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

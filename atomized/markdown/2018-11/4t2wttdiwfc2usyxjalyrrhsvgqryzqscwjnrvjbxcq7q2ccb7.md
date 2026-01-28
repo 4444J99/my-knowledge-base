@@ -1,0 +1,32 @@
+---
+id: f171eedb-f44f-4da7-86d5-5843fc6131c9
+type: insight
+created: '2018-11-06T20:47:41.000Z'
+document: 8c3ce8993066f857adca061d250e2c68
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 4t2wtt
+  - fc2usyxjalyrrhsvgqryzqscwjnrvjbxcq7q2ccb71jpems3qallaqvdxjakzrqzfhohiyb
+  - >-
+    nx6aciiigaooooakkkkaciiigaooooa2kkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkap
+  - >-
+    kkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkacut8uf8u3
+  - anlrrk5pxr
+---
+# 4T2WtT/Diw+Fc2uSyXjaLYRrHsVgqRyzqscWJnRVJBXcq7Q2CCB71JpemS3qalLaQvdxjakzRqZFHoHI
+
+## Context
+From document: Octatrack Tips & Tricks — chunk 1668 (chunk 1668/2544)
+
+## Content
+4T2WtT/Diw+Fc2uSyXjaLYRrHsVgqRyzqscWJnRVJBXcq7Q2CCB71JpemS3qalLaQvdxjakzRqZFHoHIyB+NX6ACiiigAooooAKKKKACiiigAooooA2KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP/9H9/KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACuT8Uf8u3/AAP/ANlrrK5PxR/y7f8AA/8A2WgDD0v/AI/4v+Bf+gmuwrj9L/4/4v8AgX/oJrsKACiiigAorzDxv8a/hB8Nb2LTPH/jPSPD97MFZLe9vYYZijHAfy2YPsyPvYx713Gg+INB8U6Tb694Y1K21fTLsFobqzmS4gkAOCUkjLKwyMcGgDXoryq++OnwW07w7J4tvPHehx6LFcPZtef2jbmH7VGoZ4A4cgyqpBMY+YAg4ra0P4ofDfxL4UufHWgeKNM1Dw7ZJI9xqEN3E9rAsQ3SGWUNtj2Ly24jA5NAHd0V+ff7OH7WWm+P/i78VPCPjTx1os2n2mvQ2PhKL7RaQteW8skyKtsylWut2IwCN5JIx15+1/GPj7wP8PNMGtePPEFh4esXbYs1/cx2yO+M7FMjLubA+6Mn2oA62iuG8D/E74dfEyzlv/h54m07xHBb7RKbC6juDEWztEioxKE4OAwBruaACivz48eftb6T4c/a/wDCXw4g8e6JbeAW0u9/txpLm08u21OD7SqxTXLHMMgZIwYyynPBHNfaifEf4ey6lpWjx+JtMa/120+36fbi8hMt5Z7DJ9ogTduki2KW3oCuATnAoA7OiuQ8M/EDwJ40t7+88IeItP1u30uQw3ctldRXEcEgUMVkeNmVSFOSCeK4Gw/aU/Z91TxAnhbTviNoNzqssgiSCPUYGLyE4CIQ+1mJ4Cgk54xQB7bRQSAMngCvF4v2jvgDP4hXwrD8RdAk1Z3ES266lbljITt8sEPgvnjbndnjFAHtFFfCH7dnjfxj4J0j4WS+D9avNFfU/GenWd01nM8JntpFkLxSbCNyNgZU8GvsnxX408HeA9LGueONdsfD2nGRYhc6hcx
+
+
+
+---
+*Source: Document 8c3ce8993066f857adca061d250e2c68*

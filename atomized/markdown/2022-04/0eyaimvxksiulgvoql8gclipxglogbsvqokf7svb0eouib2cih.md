@@ -1,0 +1,32 @@
+---
+id: 6703421a-8550-4f32-b40f-88bf1b7e931f
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 0eyaimvxksiulgvoql8gclipxglogbsvqokf7svb0eouib2cihpr7gu
+  - >-
+    kto8qvtejcmc7yjdrwqweylqbmfkgl9ysbvojkdwdmpeqwdeiilwiq99rawrhakyjonoco5o5rxc0r8ywo3o6q1iqo3tik7lytjlhxjwwslvad7fgvpjhnjilv1fmlkoaz4irf45er55adjdco
+  - >-
+    uvxtqfat8fmlyjaylzliohnebvruwyj0gqzysemmxokukwlhgkaugk7hswhesmioxy1fbawlmg1yseteadk5zl3z
+  - 9uzvecfjdbehuzdrmeundfcha4gbaerh0et98fchzg7flet11vfkejo4mm0daql
+  - 0aqqa8
+---
+# 0eyaIMVxkSIULgVOQl8gCLIpxglOGbSVQokF7sVB0eOuIB2cihPR7gU+kTO8QvTeJcMC7yJdrwqWEYLQ
+
+## Context
+From document: Strike one — chunk 3305 (chunk 3305/4795)
+
+## Content
+0eyaIMVxkSIULgVOQl8gCLIpxglOGbSVQokF7sVB0eOuIB2cihPR7gU+kTO8QvTeJcMC7yJdrwqWEYLQbmFkgL9ySbvOJkdwDmpEQWdeiIlwiQ99RAWRhAKYJonOCO5o5rxC0r8YwO3o6Q1IQO3tiK7lYTJlHxjwWSlVAd7FgVpJhNjilV1FMLkoAz4IRF45ER55AdJdcO/+UVxtQfAt8FmlYJAyLZLiohnEBVRUwYJ0gQZYSemmxOkukWlhgkaugK7hSwhEsMIoxy1FBAWLMG1ySETEAdK5zl3Z/9UZVEcfJDBeHUZDRMEUNDFChA4gbAERH0ET98FchZG7FLET11VfKEjo4MM0DAQL/0aQqa8/WLAYa1OobAGTBIECvzEUFAAJ8O9qRsFz0XFdkcuxAEEfR1NomUz84gSJou9ruC9PrWsj52//5oD/roBAflI8aotE1HHo/HEXRIH7+bGFoHHiBNBbsC9ehbIXbA5uVMH6ajILO1oUoAsqv3G0vmlzci5y7gGxPkiekYt0wPC+DvAQoICpGsZW9BQCZGkd+/IdAUEvn3Iqq0AmtzIad7I0j4vouPIW/EANoHErozI3SzEVVMgyS4S4XHA1K/A+oXFegbMChwA2azMah/+zM8+yLyNCEfSL1QBQOrMwN2OHL2/KK8uKlviUohbW2trUk4roSLwIjNirlEho4FCf4E10Rb/QFvbKJkNzKK/zRm80IPOzPYcyEFgAKMcfKv/QSdvz8zortBLpLXrhLpMLSDMAMAdzbEILKAEC9ahrS0mEOycZEGjKSG+z0tSzPHvyuHSyG5N0CfgyOrtxSQvRR88zBzyIK4eyNQ9EO3f1HycZR0s1E5j0Sv8xELQBCgiP/kE1C4tzWqi0QMuOhSo0IuefIfOUMHYMwJRm3kjy3DQN3zAP4QA23aJS0GhB0WQyMwsRP9H0njH2KoN04rzyUCO1VgNyhp10QItxwwr/RbCCK/oFCOftaXzU1VL/Mk6vqJXkGuy2FFNs9FJ3BFuXc13BNTubtgLThh+f9A+oMyjTMUlPRFwPtx9fszjPc3GftmJHUyprymkj90AYN1Yjtxn46QwNIlVDSKGAQD4VckEnKkq8r+E9apTEsL7ICIsWHoiCqEVPn/MRAQfuyZ0ktjSec2U/xA94gGzTc9coWWVTdmZvDqbsdwwUeGXzn4GXduJsUy28
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

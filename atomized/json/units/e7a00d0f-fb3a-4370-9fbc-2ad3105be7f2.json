@@ -1,0 +1,26 @@
+{
+  "id": "e7a00d0f-fb3a-4370-9fbc-2ad3105be7f2",
+  "type": "insight",
+  "timestamp": "2023-09-11T13:46:13.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>1. **Video Production**:</div>\n<div>   - Shooting, directing, and editing videos using software like Adobe Premiere Pro or Final Cut Pro.</div>\n<div>   </div>\n<div>2. **Photography**:</div>\n<div>   - Capturing, editing, and retouching photos using tools like Adobe Photoshop and Lightroom.</div>\n<div>   </div>\n<div>3. **Graphic Design**:</div>\n<div>   - Creating visual content using software like Adobe Illustrator and Sketch.</div>\n<div>   </div>\n<div>4. **Animation**:</div>\n<div>   - Designing and creating animations using tools like Adobe After Effects or Blender.</div>\n<div>   </div>\n<div>5. **Audio Production**:</div>\n<div>   - Recording, editing, and mixing audio using software like Adobe Audition or Audacity.</div>\n<div>   </div>\n<div>6. **Web Design**:</div>\n<div>   - Designing and developing websites using HTML, CSS, and JavaScript, as well as platforms like WordPress.</div>\n<div>   </div>\n<div>7. **Social Media Management**:</div>\n<div>   - Creating and scheduling posts, analyzing performance metrics, and running advertising campaigns on platforms like Facebook, Instagram, and Twitter.</div>\n<div>   </div>\n<div>8. **SEO and SEM**:</div>\n<div>   - Optimizing content for search engines and managing online advertising campaigns.</div>",
+  "context": "From document: Content Creator — chunk 2 (chunk 2/7)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1f33ef350089aaa7d596588dd916b49a",
+  "relatedUnits": [],
+  "keywords": [
+    "like",
+    "using",
+    "adobe",
+    "editing",
+    "software"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

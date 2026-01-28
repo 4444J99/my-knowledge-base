@@ -1,0 +1,31 @@
+---
+id: a153b25e-31ea-4b70-bd35-3b3ce2e202fb
+type: insight
+created: '2018-11-17T18:19:07.000Z'
+document: e329ec4e43d47fccabf1e22882189db8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - kg4vc8jpr5xdvmjbplja9duayh4uzyat3hpruzjljgplqnorxuwye6u74gmp3a
+  - wqrvilbwmjccssch600mu8zywxgn2
+  - mvj8wbbbpoc5zn2osbtzlbaqk2wjj75x7vgfdnfp0h3vhb8kt7czdy59v61g6nacqodgn
+  - >-
+    vwbx3o6hkboqecdb6yqg1ujsqoy5oat7vddiaqrkdefx61blhgrjhi21tkqdwfrqbtvh8xxzsr7wyd3iohtqznmlcpeegu9
+  - pu8ilz8owp5ct1a69aeszbbhwbpi9cdutncvbabmczbl8y6dnp2fqaxavp
+---
+# KG4Vc8jpR5xdvMjBPljA9DUaYh4UZyAT3HPrUZJLJGPlQnORxUWYE6u74GMP3A/wqRViLBwmJccsScH6
+
+## Context
+From document: Black Bean Salad — chunk 103 (chunk 103/2298)
+
+## Content
+KG4Vc8jpR5xdvMjBPljA9DUaYh4UZyAT3HPrUZJLJGPlQnORxUWYE6u74GMP3A/wqRViLBwmJccsScH600Mu8ZywXgN2/MVJ8wbBBPoc5zn2osBTZlbaqK2WJJ75x7VGFDnfP0H3VHb8Kt7cZDY59v61G6nACqODgn+VWBX3o6hkBOQecdB6Yqg1uJSQoy5OAT7VddiAqRkdefX61BLHgrJHI21TkqDwfrQBTVH8xXZsR7WyD3IohtQZnmlcpEegU9/pU8ilz8owp5Ct1A69aesZbbhWBPI9CDUTNCvBabmcZBL8Y6Dnp2FQaxavp+hT6rdAQiL90zPjgsONo5z1NdDZW8eC3zHqoDdieBjg5xXM+PI2Tw/FBKyMVYs4bJPQgELjtkVi0B8nXwUXTlCU8xm425AOajfLBSq4YfeIGFz64qe8OLhkkkBkYbmzj16n0qom1iNjB1zn72ef8KSVhJAcIAokZjxlWJwfpmrKMIgruoiJwBkE59sU3e8K5Kqc5564x25pv+rAkVjgjlmyQR7E8CrSBsvqHRwUBBf7uMcDv1qiPLMo2gOCc557dalZyQAmQCMqw55B6cUQB48iQEAg4IwAM1okQTLPDJ8iOpjTgAZyp96S3HyhGB+bnLZK/hU0artZwoXIGSfamrlAq7icnIAPQYqGikNWOFQdqiTYSp5OR/wDWpxZoY9xBO7PbkikVoi3lR9/vEZzkdqeXlL7eoXK9s81JRWLEJ+7QgdfYCpg20He4IZeOoIJ+lIquxlVyAF+6AP50qRHH79idwByABjHYVjLcCZAw2gEgYyRnGcVK5KguQT24/XigSAOuQTx+VSuE8xCZDjOcAcUgHHacAHIAyfx9qCUVQU+RQencmnBoxIHK7lPHApoDtjHUNnPpTAcVQoAoyxPAHv6ipGU70YqCU4IwRn6UszbgPLA39yTyPYU0M6KM7ic4P+7+NMB0a/viqOBvOVOe+OlTs7nY0gVGPykL0B9z71V3K+UVfKOcls5yB6Cp9okXByVAGCemR3qkA6QSRuGD52k/L3HvU8Ucx8zL58wcc8g+oNR7VVNjHzJFyScdvwpw2qmAwX5gM8nGfWkAsZZXHzDcpHzeoH8jVy1JaUuoBfJHPAA/xNUSh3bTgE+mMfWpEKwIsz8bGAyeckjrgUFrY6COV45AG/d5IJ5xnit+x+cy4IAIDbe
+
+
+
+---
+*Source: Document e329ec4e43d47fccabf1e22882189db8*

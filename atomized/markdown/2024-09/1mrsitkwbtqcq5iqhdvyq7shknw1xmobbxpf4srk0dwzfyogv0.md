@@ -1,0 +1,32 @@
+---
+id: 3a2705ce-8e03-49ce-bcf6-5cf72da69b70
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 1mrs
+  - itkwbtqcq5iqhdvyq7shknw1xmobbxpf4srk0dwzfyogv09u
+  - ewt3ra0vopgnkzwmixnjnxo0zu1bp1c7pu3zmbjasa0hrexyze9xoeeelm
+  - >-
+    ix3qmnyyxq9gqocnrch9sddcsyoxgva5vj8tt6horetruc56w6m15km22adbddaa0toalne0x7nagga4kuir0xo3ukr4tktz
+  - >-
+    u65ungnzlilmulsnwluwhqorqiowvwbyxdd8fflrrpoajlte1sfwwkupf4cmrnepfqrsoz2lyfkaoogdpw2aiygqzjitema4pf
+---
+# /1MrS/iTKwbtQCQ5iQhDVYQ7shkNw1xMoBBXPf4SrK0DWZfyOgv09U+eWT3ra0VoPGNKZwMIxnjNXO0z
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 336 (chunk 336/11534)
+
+## Content
+/1MrS/iTKwbtQCQ5iQhDVYQ7shkNw1xMoBBXPf4SrK0DWZfyOgv09U+eWT3ra0VoPGNKZwMIxnjNXO0zu1BP1C7pU3ZMBjAsA0hReXYZe9XoEeelM+IX3qmnyYXq9GqocNrCh9SDdcSyoxGVA5Vj8Tt6hoREtRUc56W6m15Km22aDbdDaa0ToalNE0X7naGGA4kuIr0xO3uKr4TKTZ+u65uNGNZlIlmulsnwlUwHQORQIOWVwbyXDd8FFlrRPoAjlTe1SFwwKUPf4CmrnePFqrsoZ2LYFkaoOGDPw2aIyGqZJItEMa4PF/TUpGU5WUx6UkYRSk3dCcPjU+5Axm99xZ5OF5mRkX5YlJlP+iQxUx3/enAqJdkBvB/KoQzih5N2FupU9WwqRFlvrIP3bl2dplt9GQhUwqZDXUlwoOMgdbLLLGnAA9x2zZZSBNRl82BISVJx4DaZqfwEJtNR8SghUHQayw7Kph0M2lwNLNXUK7wVGgLL4HosY9JCZfGX5BeI+5YbxhUNcy3oqzyaYm2ycCDb208BeJZ3nzGlu4NeFMSzYTbcxabpQxs7ldwPgO5drTOTnWDVS9qru1Ii27rQraMaNf5L9TTIeXxHlD/6PcaBTnh0mJ2fbuY4Ot/wsOj7FV1m0zk1UB55+x9898Q3xqnJ5Nz12lbzqpbcZfZOq6UWxKh77HbLgm9NcNbwyvzt1feDz1QbkQ0pwygKiz6yzKWTKdVn3txSfMPnrXesOZEnV8lRQ5RTlkLbc6+4QjZI8cTllp6MufMndwrbkOM14bbXCweqphip9gULmGWy5X+crBMIfKTiWQWrJx8OyuhprL8mrN1zTvApgtFx2i3LJcJZCWXmWgemUXukypDjtfci4BPM5zbMwQcmejuEu6yURxOxdpssTi1NS359qENNAmHkGQwYyFQU2jVKYM46LH4tckg9wKd90FhpML0VaiGyyGW2tdfxFo2UeGhGsdfx9o2Z8HCJQ1fyvS9WbdLX/XkfMksbrKvp69j9aPVYMqyJoBSLal0ABdVqWGo7icRG1J5nVkpTvnhqJrVvVpjpbtAnKbpFyk7enTKF6ZVBd1hRTQtiZDyBfjJW/S3mTgRNxtEoQUdkgt4svDLj5aZKvlsLHWDlt2WqSTr27S385Ri6dcnRUVNtSW55WMI7PUiTfcWdvDWMrRsV6Cqthy5c1s46VHsa
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

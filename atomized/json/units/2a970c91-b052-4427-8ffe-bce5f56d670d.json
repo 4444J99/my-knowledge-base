@@ -1,0 +1,26 @@
+{
+  "id": "2a970c91-b052-4427-8ffe-bce5f56d670d",
+  "type": "insight",
+  "timestamp": "2020-09-30T01:53:11.000Z",
+  "title": "<div><b><u>School Information</u></b></div>",
+  "content": "<div><b><u>School Information</u></b></div>\n<div><br></div>\n<div><h2>Palm Beach State College</h2></div>\n<div>PBSc)$!890</div>\n<div><br></div>\n<div><h2>Broward College</h2></div>\n<div>BCOLlege)$1890</div>\n<div>bCoLlEgE041*()</div>\n<div>BcOllEGE041*()</div>\n<div>bROWARDCOLLEGEe41*()</div>\n<div>BrOwArDcollege$!890</div>\n<div>BROw4rdC0!!ege</div>\n<div><br></div>\n<div><h2>Miami Dade College</h2></div>\n<div>MIAMIdadeC)$!890</div>\n<div><br></div>\n<div><h2>St Paul’s</h2></div>\n<div>XSTatenISland41890@</div>\n<div><br></div>\n<div>NSUnsu!890</div>\n<div><br></div>\n<div>aetNANA41*((</div>\n<div><br></div>\n<div><br></div>\n<div>I.RCST.1111.4RK1V_ST0N3</div>\n<div><br></div>\n<div>0210</div>\n<div><br></div>\n<div>abloom00!84b!0om</div>\n<div>4_BL00M</div>\n<div>4_S0VRC3</div>\n<div>M3T4M0RF0515</div>",
+  "context": "From document: School Information",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "ac98666ae56ce87eb84448b300e7350e",
+  "relatedUnits": [],
+  "keywords": [
+    "college",
+    "bcollege041",
+    "school",
+    "information",
+    "palm"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

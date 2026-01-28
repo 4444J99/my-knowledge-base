@@ -1,0 +1,32 @@
+---
+id: a654cc6b-7aef-429d-a53b-7fe63aa3f6d1
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - eivewdp8eam6dyewfuvqgmdhbuhzptff37wi9uven7b2ydxqxias4pdc215cvm2oer59khby
+  - >-
+    rstwh1tghqxk2chdsgsvqabe22b5tgucmttmaquipfdbqe4bqqnmcpepqldao5y4mqkwogwhv1ur0p5lalz1tpa1zrzuqrfbhdeaqy8rmdibrpmfvb7a2pqc8yrs2ak7z
+  - >-
+    ikowg2fgiqvwknumqmf6qdvzqirtqz4tlmawm7fpvyd2dobewzdexuuwg3l7i8bez4evhoskterb64mm7advhcsqvbuvkwqki
+  - l1qravukrzzquvucbkt2fyolemk
+  - 0mhdajaa6cqrgwgpoxzwfui0vvmmqrzh
+---
+# f+eivewDP8eam6dYewfUVQGmDhBUHZptff37Wi9UVen7B2YDXqXias4PDc215cvm2oEr59khBy+0ww+r
+
+## Context
+From document: New Note — chunk 19012 (chunk 19012/21099)
+
+## Content
+f+eivewDP8eam6dYewfUVQGmDhBUHZptff37Wi9UVen7B2YDXqXias4PDc215cvm2oEr59khBy+0ww+rstWH1tghqxK2ChDsgSvqAbE22B5tGUCmTTMAqUIpFdBqe4bqqNMcpEpQldaO5Y4mqKwOGwHV1uR0p5LalZ1tPa1zrZuqrFBhdeAqy8rMdiBrpmFvB7a2pQC8Yrs2AK7Z+ikOWG2FgiqVWKnUmqmf6qDVZqirtqZ4TLMAwM7FPvYD2DobeWZDeXUUWG3L7I8bez4evHOsKTErB64mm7aDVhcsqvbUVKWqKi+l1QrAVUKrZZqUVucBKt2fYOlEmK+0mhdaJaA6CqrGwGpOXZWfuI0VVmMQrZh/UuM8cTuJ20DcBiZbG9Cg6eT913r3OjJ/Upf/xIaFcidnOXgrEIAD+WFBSmj5gNVy1EW1rw8++MAdAyckGKgiwmMKOx4ORnDd2WefPTKApnJ8f+WVV7p8PsTD+0znyoGFsCDIjJP1xQZOLLBcQiYcBI0KHMDmoDcHMxk04U+1lbAgCIBl/ycDq9/+9rdHTp9fJeD5Us2L0GOpodC9Ukn7KeZYBKxG3Q/l3qfct0AxQjOlhkIA1HgDqzujbXMikW2n0LOBys3MVwmw6tc/J9ekVLcFsL0CJya5H8I6pYZKrnW+fRW6P7jt7tJGea5RIFUl4B7LjQq6rjsCWNW+ynleRB0/01VuqeegMvkO1POGAMFVV13l7pOoHynoWvBe4mRtVKD6JvP473zmFRDop1f6Hij0POV+VU/l1H8x5XMfYaGSPp3qmsceFaKAVYL5rP+o68jyOD7GPDS2g2IDgQL9mCXsh0w6bv5ogEAE24n6gPxKgB8q6QdGAavl9gF5XGqf+sEW64VfN2AdsW+Yr0/pn5fiLIfXgjBqoSBVYv5YLRh0nQnuqF9DaERB0Dm/HCUAPOraRz1nC72PKqnXyfoeU/3FPq6BuAYmXw3EwOrkBVYJe/jAKpdpglXpBarScwxJXqCqPPueNMGq8oJW5fl/pYyQqg+sSmVVsCq9D6zyf0AtM85+pzzjMo250vOdJ884jZCqPOOCVf14EFbNp64qwCYftOoDq/zBjw+tCqZhuuLyfKeHWT5QNQxaFbwqYFWefRCBqoJYteyDqn68GGCV/S72M+mDJnA1TFU1DFL1YVU/HjXWz/4qjesVD/OEUJku
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

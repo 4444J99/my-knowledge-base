@@ -1,0 +1,26 @@
+{
+  "id": "fab4736c-79f9-4ef0-9ea0-0556951e492d",
+  "type": "insight",
+  "timestamp": "2015-12-20T01:26:30.000Z",
+  "title": "<div>What is $10 worth to you?</div>",
+  "content": "<div>What is $10 worth to you?</div>\n<div><br></div>\n<div>Zip file of entire catalog and rarities and bsides demoes</div>\n<div><br></div>\n<div>Plus new music monthly </div>",
+  "context": "From document: What is $10 worth to you?",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f11d7ccae10d86403fc38677e87c4584",
+  "relatedUnits": [],
+  "keywords": [
+    "what",
+    "worth",
+    "file",
+    "entire",
+    "catalog"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

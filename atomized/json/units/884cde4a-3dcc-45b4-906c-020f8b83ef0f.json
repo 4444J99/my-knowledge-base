@@ -1,0 +1,26 @@
+{
+  "id": "884cde4a-3dcc-45b4-906c-020f8b83ef0f",
+  "type": "insight",
+  "timestamp": "2025-12-03T05:00:13.000Z",
+  "title": "<ul>",
+  "content": "<ul>\n<li><b>Project Charter: Contextual Awareness </b>and Audience-Interactive Live Performance System</li>\n<li><br></li>\n<li>1. Project Overview</li>\n</ul>\n<div>This project seeks to realize a <b>dynamic, ever-changing live performance environment</b> inspired by the vision:</div>\n<div><br></div>\n<div><i>Imagine the band changing nightly, like a residency in NY where you could play piano a few nights, or pop into a show in whatever town you travel to. Local musicians can join in, creating a completely unique experience every time. The main performer controls the core elements of the show, rotating band members handle melodic parts and solos, and the audience collectively influences mood, tempo, and tone in real time.</i><br></div>\n<div><i><br></i></div>\n<div><b><h3>Key Vision Features</h3></b></div>\n<ul class=\"Apple-dash-list\">\n<li><b>Dynamic Band Rotation:</b> Nightly lineup changes enable local or traveling talent to join seamlessly.</li>\n<li><b>Audience Interactivity:</b> Hundreds or thousands of audience members can influence mood, tempo, and tone via weighted inputs based on location and consensus.</li>\n<li><b>Performer Hierarchy of Control:</b></li>\n<ul class=\"Apple-dash-list\">",
+  "context": "From document: Project Charter: Contextual Awareness and Audience-Interactive Live… — chunk 1 (chunk 1/15)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "6c79b8186fe335c5c6f24948326d3edf",
+  "relatedUnits": [],
+  "keywords": [
+    "audience",
+    "project",
+    "band",
+    "live",
+    "performance"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

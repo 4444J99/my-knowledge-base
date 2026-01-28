@@ -1,0 +1,26 @@
+{
+  "id": "af0da195-c751-4823-a48a-e65da8627413",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "|</tt></div>",
+  "content": "|</tt></div>\n<div><tt>|**Transparency**   |AI-generated labels, watermarks [![](claude-citation:/icon.png?validation=618B94B6-42B8-43A2-A1C1-E75931CB3A8D&ampcitation=eyJlbmRJbmRleCI6MTY4MjcsIm1ldGFkYXRhIjp7Imljb25VcmwiOiJodHRwczpcL1wvd3d3Lmdvb2dsZS5jb21cL3MyXC9mYXZpY29ucz9zej02NCZkb21haW49aWJtLmNvbSIsInByZXZpZXdUaXRsZSI6IldoYXQgSXMgQUkgVHJhbnNwYXJlbmN5PyB8IElCTSIsInNvdXJjZSI6IklCTSIsInR5cGUiOiJnZW5lcmljX21ldGFkYXRhIn0sInNvdXJjZXMiOlt7Imljb25VcmwiOiJodHRwczpcL1wvd3d3Lmdvb2dsZS5jb21cL3MyXC9mYXZpY29ucz9zej02NCZkb21haW49aWJtLmNvbSIsInNvdXJjZSI6IklCTSIsInRpdGxlIjoiV2hhdCBJcyBBSSBUcmFuc3BhcmVuY3k/IHwgSUJNIiwidXJsIjoiaHR0cHM6XC9cL3d3dy5pYm0uY29tXC90aGlua1wvdG9waWNzXC9haS10cmFuc3BhcmVuY3kifV0sInN0YXJ0SW5kZXgiOjE2Nzk2LCJ0aXRsZSI6IklCTSIsInVybCI6Imh0dHBzOlwvXC93d3cuaWJtLmNvbVwvdGhpbmtcL3RvcGljc1wvYWktdHJhbnNwYXJlbmN5IiwidXVpZCI6IjE1ZmJhZmI1LTc1MTEtNGFjMi04NmYwLTQ1MzEyZTRiOWI5OSJ9 “What Is AI Transparency?",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 33 (chunk 33/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "transparency",
+    "generated",
+    "labels",
+    "watermarks",
+    "claude"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

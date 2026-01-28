@@ -1,0 +1,26 @@
+{
+  "id": "89855e1e-fb7a-445e-9395-7fa0eb7f9d7f",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>3. **AI context integration** - Conversation extraction (Layer 1)</div>",
+  "content": "<div>3. **AI context integration** - Conversation extraction (Layer 1)</div>\n<div>4. **Complete synthesis** - Knowledge graph spanning all layers</div>\n<div>5. **Foundation for next phase** - Feeds into `meta-synthesis-orchestrator`</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **Execution Order:**</div>\n<div><br></div>\n<div>```bash</div>\n<div># Full audit (all 4 layers)</div>\n<div>python scripts/run_full_audit.py</div>\n<div><br></div>\n<div># Or run modules individually:</div>\n<div>python scripts/run_module.py --module 0  # Archive only</div>\n<div>python scripts/run_module.py --module 2  # Personal repos only</div>\n<div>python scripts/run_module.py --module 3  # Org repos only</div>\n<div><br></div>\n<div># Quick stats</div>\n<div>python scripts/quick_dashboard.py</div>\n<div>```</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **Sample Output:**</div>\n<div><br></div>\n<div>```markdown</div>\n<div># Cognitive Archaeology Report</div>\n<div>Generated: 2025-11-02 04:09:45 UTC</div>\n<div><br></div>\n<div>## Layer 0: Archive Audit</div>\n<div>- iCloud files scanned: 1,247</div>\n<div>- Dropbox files scanned: 892</div>\n<div>- External drives scanned: 3</div>\n<div>- Total unique files: 1,956 (183 duplicates removed)</div>",
+  "context": "From document: Contents_Table — chunk 97 (chunk 97/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "python",
+    "scripts",
+    "run_module",
+    "module",
+    "only"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

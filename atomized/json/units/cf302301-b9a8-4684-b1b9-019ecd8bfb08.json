@@ -1,0 +1,26 @@
+{
+  "id": "cf302301-b9a8-4684-b1b9-019ecd8bfb08",
+  "type": "insight",
+  "timestamp": "2025-07-07T20:42:13.000Z",
+  "title": "<div>What are the strengths and weaknesses of the following AL_CHAT: ChatGPT, Cl",
+  "content": "<div>What are the strengths and weaknesses of the following AL_CHAT: ChatGPT, Claude, Gemini, M365, Grok, Copilot, M365 Copilot, NotebookLM, Meta Al, Perplexity ? Only use academic sources and studies not from the horses mouth; have I left any valuable contensders out?</div>\n<div><br></div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div>Here’s a tighter, more precise version of your prompt—followed by a few extra contenders you might consider:</div>\n<div><br></div>\n<div>— — —</div>\n<div>Revised Prompt</div>\n<div><br></div>\n<div>“Perform a comparative, academically grounded review of the following AI-chat systems:</div>\n<div><br></div>\n<div>• ChatGPT (OpenAI)</div>\n<div>• Claude (Anthropic)</div>\n<div>• Gemini (Google DeepMind)</div>\n<div>• Grok (xAI/Elon Musk)</div>\n<div>• Copilot (GitHub/Microsoft)</div>\n<div>• Microsoft 365 Copilot</div>\n<div>• NotebookLM (Google)</div>\n<div>• Meta AI (Meta/Facebook)</div>\n<div>• Perplexity AI</div>\n<div><br></div>\n<div><br></div>\n<div>For each system, summarize its documented strengths and weaknesses — drawing exclusively on peer-reviewed papers, independent benchmark studies, and other academic analyses — not vendor white papers or marketing materials. Present your findings in a table or matrix. Finally, recommend any additional chat-based models or frameworks that should be included in this survey.”</div>",
+  "context": "From document: What are the strengths and weaknesses of the following AL_CHAT: ChatGPT… — chunk 1 (chunk 1/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "f4d6d5c0545ac2a744401bf7946be1a4",
+  "relatedUnits": [],
+  "keywords": [
+    "copilot",
+    "meta",
+    "strengths",
+    "weaknesses",
+    "following"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

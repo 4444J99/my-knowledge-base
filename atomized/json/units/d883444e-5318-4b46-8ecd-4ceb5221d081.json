@@ -1,0 +1,22 @@
+{
+  "id": "d883444e-5318-4b46-8ecd-4ceb5221d081",
+  "type": "insight",
+  "timestamp": "2025-10-01T19:45:48.000Z",
+  "title": "<div>[REDACTED:CREDIT CARD]</div>",
+  "content": "<div>[REDACTED:CREDIT CARD]</div>\n<div>09/29</div>\n<div>584</div>",
+  "context": "From document: [REDACTED:CREDIT CARD]",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "6662bdde83232d25206d586d902c4c5c",
+  "relatedUnits": [],
+  "keywords": [
+    "[REDACTED:CREDIT CARD]"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

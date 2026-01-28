@@ -1,0 +1,26 @@
+{
+  "id": "80480993-4798-488c-832e-b666db9e3d45",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px",
+  "content": "<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants all outputs to include suggested workflows tailored to different contexts, such as: standard industry use, experimental use, business-facing, educational, private, peer-to-peer (fellow creatives), and theoretical/archaeological (objective analysis of the system within cultural context). They want the relevance and importance of each output to be clearly stated, not left to interpretation. Their guiding philosophy: “our word is our wand.”.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants to develop a system of POVs or personas—different voices, tones, and identities (e.g., business owner, musician, visual artist)—that reflect their layered roles and can be invoked as needed for specific types of work, audiences, or contexts. They want these personas to help clarify how content should be framed, commodified, documented, and shared. They also want a way to periodically review all ongoing projects and be prompted to cross-apply ideas or workflows across them when appropriate.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_051425_MASTER — chunk 49 (chunk 49/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "5e4feb3febe2be13a91fd74e828ebc64",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

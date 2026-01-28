@@ -1,0 +1,26 @@
+{
+  "id": "108e2517-6e6c-40fb-ad20-5210e89e1d53",
+  "type": "insight",
+  "timestamp": "2025-12-04T16:48:25.000Z",
+  "title": "<div><tt>| B21 | accept | reject | decision | conditional fork |</tt></div>",
+  "content": "<div><tt>| B21 | accept | reject | decision | conditional fork |</tt></div>\n<div><tt>| B22 | sync | desync | timing | LFO clock match |</tt></div>\n<div><tt>| B23 | active | inactive | process | system heartbeat |</tt></div>\n<div><tt>| B24 | logged | out | identity | session state |</tt></div>\n<div><tt>| B25 | allowed | blocked | permission | firewall rule |</tt></div>\n<div><tt>| B26 | stable | broken | integrity | recursion guard |</tt></div>\n<div><tt>| B27 | rising | falling | time | signal edge |</tt></div>\n<div><tt>| B28 | forward | backward | motion | directional logic |</tt></div>\n<div><tt>| B29 | bound | free | ritual | constraint status |</tt></div>\n<div><tt>| B30 | granted | denied | access | ritual verdict |</tt></div>\n<div><tt>| B31 | start | stop | control | execution flag |</tt></div>\n<div><tt>| B32 | known | erased | memory | data presence |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## | PROTOCOL NOTE |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>These binary pairs form the **hard backbone** of the narrative operating system. </tt></div>\n<div><tt>While DUALCORE and HYBRID tables **breathe**, this M1RROR table **cuts**. </tt></div>",
+  "context": "From document: # synth-wave-modules — chunk 22 (chunk 22/51)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1f0200e52addd3bec3d0beb78cca4a02",
+  "relatedUnits": [],
+  "keywords": [
+    "system",
+    "ritual",
+    "accept",
+    "reject",
+    "decision"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

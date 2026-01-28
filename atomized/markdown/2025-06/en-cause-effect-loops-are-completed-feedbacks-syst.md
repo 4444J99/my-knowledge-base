@@ -1,0 +1,31 @@
+---
+id: 1cd08cfb-dd1d-4137-9d6d-a30de7115b52
+type: insight
+created: '2025-06-26T17:15:56.000Z'
+document: 87215f26527a3ddd27752e0848e7ba23
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: programming
+keywords:
+  - self
+  - patterns
+  - recursion
+  - often
+  - similarity
+---
+# en cause-effect loops are completed (feedbacks), systems self-regulate; when bro
+
+## Context
+From document: 🧵 Meta-Laws of Reality — chunk 74 (chunk 74/79)
+
+## Content
+en cause-effect loops are completed (feedbacks), systems self-regulate; when broken, disorder reigns.</div>
+<div>  •  Recursion and Self-Similarity: Patterns repeating at different scales appear often. “As above, so below”【50†L120-L127】 explicitly states recursion between macrocosm and microcosm. Fractals in math show self-similarity in nature’s shapes (broccoli florets or coastlines repeat patterns at smaller scales). Narratively, the hero’s journey can recur in subplots (a story within a story often echoes the main arc). In social science, “history repeats itself” and cycles of boom-bust are recursive time patterns. Inductive proof is a form of recursion in logic. Even Maslow’s hierarchy has been noted to have mini-hierarchies at each level (one might need some esteem even to pursue love, etc.). This meta-pattern suggests nature often builds complexity by repeating simple rules. An atom’s structure (electrons orbit nucleus) loosely mirrors a solar system – not perfectly, but conceptually a repetition of center-orbit organization. Recursive algorithms in computing solve big problems by solving smaller instances (like the factorial function). Psychologically, archetypes are recurrences of the same character types in individual minds. So a broad meta-law: Self-similar patterns manifest ac
+
+
+
+---
+*Source: Document 87215f26527a3ddd27752e0848e7ba23*

@@ -1,0 +1,26 @@
+{
+  "id": "9e7f70cb-2f3d-4bd8-a96a-31d2a9844727",
+  "type": "insight",
+  "timestamp": "2025-11-20T10:15:17.000Z",
+  "title": "<div>Repositories showing results:</div>",
+  "content": "<div>Repositories showing results:</div>\n<div><br></div>\n<div>- github / <b>gh-projects</b><b><br></b></div>\n<div>- github / combine-prs</div>\n<div>- github / annotated-logger</div>\n<div>- github / gitignore</div>\n<div>- github / emergency-pull-request-probot-app</div>\n<div>- github / issue-parser</div>\n<div>- npm / node-semver</div>\n<div><br></div>\n<div>Go 90 5, updated on Jun 21, 2023</div>\n<div>JavaScript 139 7, updated on Mar 18</div>\n<div>Python 94 4, updated last week</div>\n<div><br></div>\n<div>A collection of useful .gitignore templates (170,791 stars, 83,002 forks, updated 3 days ago<b>)</b><b><br></b></div>\n<div><br></div>\n<div>Bypass approval and checks in order to merge an emergency change to the main branch with audit controls (JavaScript, updated 19 hours ago<b>)</b><b><br></b></div>\n<div><br></div>\n<div>Convert issue form responses to JSON (TypeScript, updated 17 hours ago<b>)</b><b><br></b></div>\n<div><br></div>\n<div>The semver parser for node (the one npm uses) (JavaScript, updated 5,351 stars, 550 forks) </div>",
+  "context": "From document: Repositories showing results:",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "aabd1cea78c36d67ff49567c1605a7aa",
+  "relatedUnits": [],
+  "keywords": [
+    "updated",
+    "github",
+    "javascript",
+    "gitignore",
+    "emergency"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

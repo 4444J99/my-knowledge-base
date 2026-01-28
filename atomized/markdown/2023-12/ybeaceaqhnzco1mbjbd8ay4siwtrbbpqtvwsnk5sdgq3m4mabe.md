@@ -1,0 +1,32 @@
+---
+id: a63f5bda-3cd4-4429-a219-3325477bd738
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ybeaceaqhnzco1mbjbd8ay4siw
+  - >-
+    trbbpqtvwsnk5sdgq3m4mabeycnq5ijtp7eqa0mjicrpoptd1hnwnbnhb56thuym15fuuf28htnwykfj8ym3wcwm77fayl1iye8vtcdekzxvmq23gcw
+  - bgrgpm3lpvupcfg2zjqts4a7cgbgunkqtz
+  - xhrukpkgjx
+  - >-
+    8pn9u78fopzx3peynb92hfilfxgszt45maf29d6rwkeltniz0czftbs23cm0ddfppyaqa35xkpf0dw8fkzcuzgrxb2e6tlkonjjkfscatz7mfbgoeqbybvnnm1lbbqdyjbiydmomtemqpunz
+---
+# YbeAceAqhnZcO1MbJbD8AY4siW/trBbpqtvwSnK5Sdgq3m4MaBeycNQ5ijtp7EQa0MJicRpopTD1HnWN
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 549 (chunk 549/3262)
+
+## Content
+YbeAceAqhnZcO1MbJbD8AY4siW/trBbpqtvwSnK5Sdgq3m4MaBeycNQ5ijtp7EQa0MJicRpopTD1HnWNBnHb56tHUyM15fuuf28HtNwyKFJ8ym3wCWM77fAyl1Iye8VtCDeKZxVMQ23GCW+bgrGPM3LpvUpCFg2zjqTS4A7cgbGUNKqTZ/XHRukPkgJx/8Pn9U78FOpzx3PEynB92hfiLfXgSzT45MAf29D6RwkELtNIz0cZFTBs23Cm0DdfpPyAQA35xkPF0Dw8fKZCuZGRxb2E6TlKonJjKFScAtz7mfBGoeQbYbVNNm1lBBqDyjbIyDMoMteMQPuNz/1tfcU3QmEVHnPLdLQkIeKEDVIYoy5rMJ5d9ZJ9IQmT1YgWFo/CEjALRHL0wtOeYd/AEHc026v7Ak9NrWHBN8LLHc1G4FynbAW3go7bwKrQcjRxug9Ncw6UCqkcXqNZQbEYugG3fOOKpY40azAvLRlW5bQE3oFHR//qHe8TkmyY3FLmQ1++Mk80wAVGD48jDDW6FWCqxgolw3RV/G2XwqlXm2YVXoXVKivgwVV6HYEOvZPSNJ5iI/iwTnmSB7kPTfq2EqUN/ca2bMeKMWVfav3J8suYqAgE4CMT+10Eq4rRG45b822vpb3wBmAow2cFHvu8dCSFhsb5yN8eXkK3trG1Ac+hn+C6N6ZRrOzP1zGgry8cwzCZSPj2zAyKGQpWFrozzI+wWldH3b3rHvbs3cXqrbszYmHIq+UIX4w2DWiKiiJEu8sTwvcwuKx749ei0zSupGw4t6HhtUXc5RjmA7kCKQ2h2moNHeZy6zFGrOQYsPpG2nMrsQMHDnbPv/hK9+zzLzAVgO2H5vHU008ETxqpa9Ggyot49Ggj6ulnAuFzCd+jAdWnrYfi3DZsp8CTkE/SAqQt/K+kCy2ahiMyRZ5OGeEx5sPzlfysF//IJw5IgM+9MJi3ac2ofRceX7w1edBGlZfp+IeD1u/teyq/4jyn+XJaRoA3T46Cr2ALz+wVy7R7n3el5C8wmLcGhTLDe8M9m/wRXleS1QE8gbLrPL2f/eD7u499/CPdIxjRN5B33/vOt7qnv/m17vlnn83czAtEEVxiQUdlnaN2toWy1ZExDRtHwrYw2rKTraTugz73P/BARsIIB4rx4sjbhYvnoFX7oe1LXSIXcYJRlzXAbK/EB5O8XMVfx2Lo
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

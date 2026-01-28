@@ -1,0 +1,30 @@
+---
+id: d247a906-84ac-4aa8-801c-31a26747bb65
+type: insight
+created: '2021-05-26T23:27:15.000Z'
+document: 2ae38fea492495437073a93dd029fb49
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 4w78j
+  - 8gvt
+  - cjn1o59ap
+  - gytv
+  - odde
+---
+# wf/QTL7kH/ET6/wDz5X3s/df/AIW78J/+h10T/wAGVt/8co/4W78J/wDoddE/8GVt/wDHK/Cjn1o59aP
+
+## Context
+From document: Stuffed Mushrooms — chunk 389 (chunk 389/489)
+
+## Content
+wf/QTL7kH/ET6/wDz5X3s/df/AIW78J/+h10T/wAGVt/8co/4W78J/wDoddE/8GVt/wDHK/Cjn1o59aP+IB4P/oJl9yD/AIifX/58r72fuv8A8Ld+E/8A0Ouif+DK2/8AjlH/AAt34T/9Dron/gytv/jlfhRz60c+tH/EA8H/ANBMvuQf8RPr/wDPlfez91/+Fu/Cf/oddE/8GVt/8co/4W78J/8AoddE/wDBlbf/AByvwo59aOfWj/iAeD/6CZfcg/4ifX/58r72fuv/AMLd+E//AEOuif8Agytv/jlH/C3fhP8A9Dron/gytv8A45X4Uc+tHPrR/wAQDwf/AEEy+5B/xE+v/wA+V97P3X/4W78J/wDoddE/8GVt/wDHKP8Ahbvwn/6HXRP/AAZW3/xyvwo59aOfWj/iAeD/AOgmX3IP+In1/wDnyvvZ+6//AAt34T/9Dron/gytv/jlH/C3fhP/ANDron/gytv/AI5X4Uc+tHPrR/xAPB/9BMvuQf8AET6//Plfez91/wDhbvwn/wCh10T/AMGVt/8AHKP+Fu/Cf/oddE/8GVt/8cr8KOfWjn1o/wCIB4P/AKCZfcg/4ifX/wCfK+9n7r/8Ld+E/wD0Ouif+DK2/wDjlH/C3fhP/wBDron/AIMrb/45X4Uc+tHPrR/xAPB/9BMvuQf8RPr/APPlfez91/8Ahbvwn/6HXRP/AAZW3/xyj/hbvwn/AOh10T/wZW3/AMcr8KOfWjn1o/4gHg/+gmX3IP8AiJ9f/nyvvZ+6/wDwt34T/wDQ66J/4Mrb/wCOUf8AC3fhP/0Ouif+DK2/+OV+FHPrRz60f8QDwf8A0Ey+5B/xE+v/AM+V97P3X/4W78J/+h10T/wZW3/xyj/hbvwn/wCh10T/AMGVt/8AHK/Cjn1o59aP+IB4P/oJl9yD/iJ9f/nyvvZ+6/8Awt34T/8AQ66J/wCDK2/+OUf8Ld+E/wD0Ouif+DK2/wDjlfhRz60c+tH/ABAPB/8AQTL7kH/ET6//AD5X3s/df/hbvwn/AOh10T/wZW3/AMco/wCFu/Cf/oddE/8ABlbf/HK/Cjn1o59aP+IB4P8A6CZfcg/4ifX/AOfK+9n7r/8AC3fhP/0Ouif+DK2/+OUf8Ld+E/8A0Ouif+DK2/8AjlfhRz60c+tH/EA8H/0Ey+5B/wARPr/8+V97P3X/AOF
+
+
+
+---
+*Source: Document 2ae38fea492495437073a93dd029fb49*

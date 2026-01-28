@@ -1,0 +1,31 @@
+---
+id: 138b54d7-9b20-47e1-bad4-0f28309c4bc4
+type: insight
+created: '2017-11-08T14:03:53.000Z'
+document: f47673d86e05016edf5cfc9824f2b752
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - kw74ihor3xxx6f4
+  - n8hkzt
+  - wxjoapfffckhiavjqgmknjgknh4gursphdrkr7w5ddkk
+  - >-
+    neugwcjc9kojd9z7xg8vsxejln5ow43ak4hfj1xw1y6jlcfpbsbh0csckj1jnfhdv8qhcthyhubtvk5xkgcd862ifindwcjbchphkhsabjspsugec8jpeit6n2vdqvta4ayjeeox2p02prxvywgytkyom
+  - jxyfb8u5pml3dl4tgycmnn3rthxct7ekkngfe3chocb2jrl
+---
+# kw74IHoR3xXX6f4+n8hkZt+WxjOAPfFfCkHiaVJQGmKNjgknH4GursPHDRKr7w5DDKk+neuGWCjc9KOJ
+
+## Context
+From document: use this photo as a reference to create my own cut out piece. also… — chunk 145 (chunk 145/242)
+
+## Content
+kw74IHoR3xXX6f4+n8hkZt+WxjOAPfFfCkHiaVJQGmKNjgknH4GursPHDRKr7w5DDKk+neuGWCjc9KOJd9z7Xg8VSXEJLN5Ow43Ak4Hfj1xW1Y6jLcfPbSbh0Csckj1JNfHdv8QhcTHyHUBTvK5xkgcD862IfindWcjBchphkhSABjsPSuGeC8jpeIT6n2VDqVta4aYjeeox2p02pRXvywgYTkYOM/jXyfB8U5PML3Dl4tgyCMnn3rTHxct7eKKNgFE3CHOCB2Jrl+oNstYhWPp/S72WNi7mMYb7pxz7Z71WtfFMcepXEKS4eM8oTuGPYnpXyLf8AxPmllZUmYQxMCzA9cemKZD8QuJbxpBHPndtzhiCOCfap+oSJ9un1PuP/AISuK6hRX5fkHacYH+NULzxSbOItBJweNzEAj6DvXxRa/ESeRwXmKFxxg56n/PNEnj68klkgimMgiI3FzyM9ge4qlgdNjWNWO/U+tP8AhNYhMrRnc55ZnGAR3wfWq/iT4gW1vZMEbLjBBHAH1Ar5OvPiREkL21wTIM5BPIU4GMY/nXFat8RmvJWXeRBGoLEnJI962hgVLdWMp4y3U+j7/wAfWkKyzPmOTbncTksce/Qe1eNav8UYmR5Y5mS6BO0kAAEdgPU14PrniqfV7kPbyN5Iwu7OMEfzrBnnad3imj+0EdGDYOcdcCvYoYGnDdHmyxrldM9N1PxgdS0ttRkRoCSUbJBJA5zjrnJ615ZfX13dReXGxjtf4lUYMuTn5yMEg++cVP8AZLiQRmVS5XGAucD1JGTnA9a6C00wMwk2hgSApPQ+oI6A+gr0YJR0XQ8qo2+uhz9hZqyBlIVpDghRgInpu6mvV/hn8KfGfxh8YWngTwJaCXULkgySkEpaxE4eSU4+UBeQc5JxipfAHw/8S/FDxTaeBvB9gbjUrt1XaAdkUWeZJCBgADOM1/Rj+zb+zp4V+AXg9NJ0yOO61u5RTqF8V/eTP1256hV6AZ96irVsYmr+z/8AAPwb8BPAkPhHwpATOwV767dt8t3OFwzOx7A5AXoAMV7qNsC8feIySSTkAgEj8+KmjgWHdgck8AZwOwx74614z8ffi3oHwP8AhlrvxG8STrBBpluzRKxAMs5BEUajqSzEDH415rlfcR+KP/BXX9o+XVPE+i/AzwxfKbbSMXmqCMg/6QT+6jYjjgfMR09
+
+
+
+---
+*Source: Document f47673d86e05016edf5cfc9824f2b752*

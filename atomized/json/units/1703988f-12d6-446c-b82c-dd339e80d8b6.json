@@ -1,0 +1,26 @@
+{
+  "id": "1703988f-12d6-446c-b82c-dd339e80d8b6",
+  "type": "insight",
+  "timestamp": "2015-11-12T23:19:01.000Z",
+  "title": "<div>--tiers of subscription levels</div>",
+  "content": "<div>--tiers of subscription levels</div>\n<div>----website &amp pdf </div>\n<div>----website and limited edition artwork automatically</div>\n<div>----website artwork and monthly personalized written correspondence </div>\n<div>    </div>",
+  "context": "From document: Identity kit — chunk 2 (chunk 2/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "7d30f52bcca04679d5cc7ade4126a472",
+  "relatedUnits": [],
+  "keywords": [
+    "website",
+    "artwork",
+    "tiers",
+    "subscription",
+    "levels"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

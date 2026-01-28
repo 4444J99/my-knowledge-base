@@ -1,0 +1,32 @@
+---
+id: 07c36d90-f0ce-44a9-bde0-120ea378f515
+type: insight
+created: '2025-07-18T21:27:21.000Z'
+document: 19a1c8b920a7c59b9421bc142020b138
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    ykvaxcp8ebljgdbl8mg9zzavnw1dkopaiiegvcjwyaeao1vciycunfalgbwf7g2mhefdiy3qo7ybq570h0wiwronkkymzqydoh5dy75nwwgslej9bzn6mvfky2yai4zao5tv6fu5ego8cxpcrqfp7c9phuqajanv0zn3plxstllkucdop
+  - >-
+    na470rqlxcbvpqbhjxlwrkmkng6giuocevwuskake6los1gt7gcnqewmu7tjqwmgvrqt72uzh97kwdwopauq5jejoafi3
+  - uxmztsmmlujdfxuofyrmz
+  - 2xcdplxhx8gj0
+  - dewzxwmt4syorwt9c
+---
+# YkVaXcp8ebLjgdbl8Mg9ZZAvNw1dKopAIiEgVCJWyAEao1VCIyCUNFaLGBWf7g2MHEfDIY3qO7YBQ570
+
+## Context
+From document: New Note — chunk 114 (chunk 114/1486)
+
+## Content
+YkVaXcp8ebLjgdbl8Mg9ZZAvNw1dKopAIiEgVCJWyAEao1VCIyCUNFaLGBWf7g2MHEfDIY3qO7YBQ570H0WiWRONKkYMZqYDoH5DY75nWWgsLEj9bzN6MVFky2YaI4ZaO5tV6fU5ego8cXpcRQfP7C9PHUqajanv0zn3PlxStLLKucDOP+nA470RQlxCbVPqbHJXlwRKMkNG6giUocEvWUSKAKe6lOS1GT7GcNqEWmu7TjQwMgvrqT72UZH97KwDwOPAuq5JejoAfI3/uXMZTsmmLUJdfXuOFyrMz/2xcDPLxHX8GJ0/dewZxwmt4syORWT9C+b7a5BacsOGsGD2FP/jvns33wJMn8oC4mybCMZ/mVuLlsnt9PXFV7djQkAdADHBp50VAUVAEVAE4onA0qVL0bNnT3z1FSNT00iyZ3ehbbOz0ff+CiheiD8SVBSBRERgv1UOgJPRYIm4xkSYk3DA76DBT0QMe1nxVRsts/4v3LmPMkVfqCZeHgH8ddC/T82a/vuJsHcmDfRSKJXZbacKCR7nj3CrZDwdIokiG9cBD3dhwdKd1s5o+U+emkCnIsmt1Z7Y2rrT6SXc52uSNPpY3qOLw6C9kGeEOAhMJ0GZsv4OgP8Y7bpsqcEXXbmacc3E2fQH/9jWXbK0N9Mg2BWdOB54z4cqy68N348D6LSqVdvvaEQ7TlEARTQpCxuXr8BioaPDc7DWaQC8+rZBFWN+Dlg4FU+tASv1haOrdJlwWqVuG4n678aMpHCLy1qNRO2LjUjxbDmBokUiL4pt1Xx2bAckG0AK+EYqm5gZafVnozkH+Yz4iAb+UCLG/0SSXPydeEPzRJqRziWOCKgDII7g69CKgCKgCCgC0SGwadMm9OnTB5MmTUq54sVZIXLD5cUxhAV+K5XJl1VTPa8IxBcBM4071lmwaLlKJggUoQPAlHqXWpuyLyn0ne4xtfu/Vqvhv58Ie9fdANS5BGh0jZG5IHOSKL5UlCcescfAQSOyS+ifyhpUgakIXcg1SY2HYaR36HYvsGFDyGYpd2IcI81305F0Ng2vQrn2Po33ZnHr6Z+TQ7IwcLvXgOQSqq2Kldn+bOO9JrVCTBk7itGxE8y94K/LGFUeiwNAMhckQtqk5TBHKVcOaNzMKM4t9Uo+mm5voVxzXCtfxbH67MjIinWWKs1MoFeABzpk5FSPdW5CMSf3
+
+
+
+---
+*Source: Document 19a1c8b920a7c59b9421bc142020b138*

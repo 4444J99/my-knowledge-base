@@ -1,0 +1,32 @@
+---
+id: 793c78d1-bc0e-4ed4-80f5-8b731e7ccd7b
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - nxi8mmyvypxzmofmqkfhipx6e9acy2zw6xpksg7hla4hxg
+  - >-
+    8a16mkbv0umremgdkfudtrqexhsecb2qgsaasbvuk44nw7uzymzjblvgkrk0e00yqij44llixjzhnpp3
+  - >-
+    hfabr7jya2vigpyrlssa4dotjhb09aulforl5lbsep5xsag00xogvzjobuyrmsra3xj9ducftvgwy4a5afwozgb1cgy4rf3e9tsvxivatinkre43hbqsamwblabvhhvvsas1mrqwik
+  - op62svsehhm8etcviq3qhtwiois1nww
+  - b3nukhjlyiwyg4hhsrm8skzwgzwohszjwnbc
+---
+# nxI8MmYVypxzmoFMqKFHIPX6e9aCy2zW6xPKsG7HLA4HXg/8A16mKbV0UmrEMgDkFuDTrqExhSeCB2qG
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 655 (chunk 655/2189)
+
+## Content
+nxI8MmYVypxzmoFMqKFHIPX6e9aCy2zW6xPKsG7HLA4HXg/8A16mKbV0UmrEMgDkFuDTrqExhSeCB2qGSaASBVUk44NW7UzyMZJBlVGKrk0E00yqIJ44lliXJZhnPp3/HFabR7JyA2VIGPyrLSSa4doTJhB09auLFOrL5LBsep5xSaG00XogVzjoBUyrMsRa3XJ9DUcFtvGWY4A5AFWoZGb1CgY4rF3E9tSVxIVATinKRE43HBqSAmWbLAbVHHvVSaS1MrqwIK+op62sVSehHM8ETCViQ3QHtWioiS1NwW+b3NUkhjlYIwyG4HHSrM8SKzwgZWOhSZjWnbc/Jr/goVNDqul6G/lzZt9R8vdAd0hhmG2YlCCNiYVuep7jrX6f/AAwsrDRfDNnoOkweVZafAlvboMkLHGNqgEkkjHck1+YP7cGt6Rouv2VzHs89Iz5sJzmSOeQKXwOyhMHHtmv1C+HtgND8H2Glwps+yW8UJUEn7iBf6V+tcQv/AISKC9PyZ+fZcr46pbz/ADPUllWSQBRxirMaFlYSjgdDWREFRhKOfYVuPOUiMi4IA5FflU33PvqTfLYzYTu3QJxg1DMVjJjlPT2rQ3qsW4D7xz9Kxb6MO5Y53gZrNHQpNIhcRyyFbf5cdaqxRSwy7Zf/AK1Pt1niYyFCQRyKdbRRW1s5dj83PzEnr9en0rSNRLqbaW1KTxGQNdgA4J4FQSxYPmKMZFWorjy2MEQyH5b2+lMlDlyXX5QKOa6MpysYzpBK6pMOV6MOtTG3Fudj8gcg+lWYtPV5AynaCSR7VNeQoo2Enj1pRa1KvoYKvIm5t2QOlNsozhpX6Hgj9ak8s2q+VI24HrVOMrE5QLxnr2pxsHs9LluQiM4iGfTiqE0YkKjj2q7cCAbhESxXGcdBn36GsVmVXJA5PrXTQkrswqRurM+eP2rporP4Y39qrhN0YLFs7SuRwSOmT29cCvG/2EprqP4e3ELRtG63sinoNykKwdgPXOAT/dr1f9rfUF034Q31uV82bUYmt0BYrjOOQcEZ3ADB6jOM4NeffsMeGLyw+Ho1CWCWFtUCXDtJnDspZDtz2G3t3r7rFx5cr9f8z88w8b5v6f5H3VEJGk4fZt+8OlAuo7e9RSQI5CBz2btn61du1SNVVQGdR244zWPcRyRuhthiQn8Pxr82qK73P1JRskdIzsrtu6K
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

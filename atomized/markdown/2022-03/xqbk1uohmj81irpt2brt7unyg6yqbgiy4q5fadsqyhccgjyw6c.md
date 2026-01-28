@@ -1,0 +1,32 @@
+---
+id: c89c3327-d2f5-4a20-942b-c7a532bfc72f
+type: insight
+created: '2022-03-16T12:34:10.000Z'
+document: 7405c2da6b92da26b0b49297d3a4e664
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    xqbk1uohmj81irpt2brt7unyg6yqbgiy4q5fadsqyhccgjyw6cuadzshjinowzheladpkg7ankw3dhekqhfmzk9mu4438u7agpm5hgkt5vo4c0jblo7tqannpficsjscgovvjjgjb71lhjgfsoxkjgmyoanktcqc9okiyq
+  - d5qnn2qmc8uqxkmp9aahsx
+  - 7jgazgplewp7fz8ukm
+  - >-
+    vgetadzr6cvjgfafso3g4jbzts7u2ng9qagjay3cu92r0bzgihaqaz5ztiyh5sofmcmbltkcnqxciavxvuxk7np7vwyko45zsaesbyd9azktin3qu
+  - ldx6un8sntanae88ihbs6gqqqw68u
+---
+# xQBK1uoHmJ81Irpt2bRT7UNyG6YqBgiy4Q5FADsqyhCcGjYw6cUADzsHjinOWzhelADPKG7ANKW3DHek
+
+## Context
+From document: The battle of the blinds — chunk 1652 (chunk 1652/1787)
+
+## Content
+xQBK1uoHmJ81Irpt2bRT7UNyG6YqBgiy4Q5FADsqyhCcGjYw6cUADzsHjinOWzhelADPKG7ANKW3DHekQhfmzk9MU4438U7AGPm5HGKT5VO4c0jblO7tQANnPFICSJscGoVVjJgjb71LHjGfSoXkJGMYoAnkTcQc9OKIyq/d5qNn2qMc8UqxkMp9aAHsX+7jGaZGpLewp7Fz8uKM+VgetADZR6cVJgFAfSo3G4jbzTs7U2ng9qAGjAy3cU92R0BzgihAqAZ5zTiyH5SoFMCMblTkcNQXCIAvXvUxK7Np7VWYKo45zSAesbYD9aZktIN3QU+Ldx6UN8snTANAE88ihBs6GqqqW68U/uVUbgKQHy/m7+lAEkaN0YcUwhfur2oy8hyOBS7dp4oAYqMzYXipSI4+/NM3hXyvOafKmVDCgBDKAMgCkZldOPvUoA2AU0qUO7FACgbvlJpyjbSoABu6Uzd/DQApJD5PAp6SjbuPFRs29MAVOYkwCeBQBH5EbfMxx7URgxoQOvao23yH5BgDin7jwV5xQAzy5e3elj5yrfe7U9ZNg+b8KQgMRInagBx/uEYqMsV4qVyvDelRffIJ4AoAaI9/J4FSpK0Xy44p7Y246VG4+UAU7AJuYtkd6aMCQE8YpXyoWjqRu49KLAEsu48DiiEk5z0qX92vBqIOoc46GkAhPlnK9DT1csDxilfYPpQnPQZFAAApXP3aBuCelMYENjoKm5xt60AOt2YrhhgetQlN0hPalDOg24pm04AFAD8Ar14qSJQ8WDTSNj8/dIxUZRlX5TxTsA7IjbaeanwCdo9KjiCvHzy1MRmC8daQD43Afyz0o3fvMJyKjiZGmy/yjFWz5LLlO1AFR0K89qexZwPLGQKImJba4+WlMgi+WL5hQA6NEPzDnHWmPOEf5AMVHFvDdMA06SElxjpQBPI6LHuXhqjUxsykHBx0pGULj+L2pvlKAXzigBXiQZPeiMlflPQ0mw8N1pxfA5GKAHnYpB6AVCWV5R6UE7xzx6UsaBT83FAFg+WwIHIFQKcnYBwKbIjA/u+c07G1V7E0AK2VIppVutPXj7/4U1m3MAOlAEgwEy3GahhCM5HUCp5V+X09KrB1CqB8pHWgCTlJD6VC42nip5SCoYVEkZc7m4AoAlVcRgNSLkH2pXXd8yn8KjUF/k6YoAeGAf2pHXacLSiIAZNC
+
+
+
+---
+*Source: Document 7405c2da6b92da26b0b49297d3a4e664*

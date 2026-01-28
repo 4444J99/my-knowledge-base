@@ -1,0 +1,30 @@
+---
+id: 5613c7d1-4918-4ca3-9fc4-b1fdc253feda
+type: insight
+created: '2019-06-25T23:31:23.000Z'
+document: 452917b57ed44138a16cfffd958a3841
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 4vff3qwoczzlmwuxskgkxuztrfn
+  - hx4f8vejfhzqwpwximfsfs7i6ezs1hy7l3mzsbvvfd217d4v
+  - jg88e3xxe8xmz024
+  - wswudrylmv2dlbzjg2p83y
+  - 4fal4n8e3vhnup45p7qw5yfpujzqyr
+---
+# 4vFF3qWoCzZLmwuxskgkxuZtrfN/CV/GvK/hX4F8VeJfhzqWpWXimfSFs7i6ezS1Hy7l3MzSbvvfd217
+
+## Context
+From document: Vocal EQ Guide — chunk 135 (chunk 135/152)
+
+## Content
+4vFF3qWoCzZLmwuxskgkxuZtrfN/CV/GvK/hX4F8VeJfhzqWpWXimfSFs7i6ezS1Hy7l3MzSbvvfd217D4V+F/jG88e3XxE8Xmz024+wSWUdrYlmV2dlbzJG2p83y/rXa/C/4fal4N8E3vhnUp45p7qW5YFPujzQyr/6FWWJzuhQhWVCpGUpSjL7MuX4uaMf/AJIipVjGMoxl/KeBeKfin40vf2ftH8XWN4LfWhqFvavIBtWRvOVWLL/detbxZb+N/hZeeHvGbeJZ9VXUr23tb22nCrEVuGVW8vb93Zuq/N8B/FEvwesvh615bm+tdShu3ky3lNGkyysv3d27av8Adr1H4ufD/UvHWg6VpekSpFJp97b3TmT5VZYWVm2sv+7WzzXAwrqnDl9nKUub3fsy+EuNanCXLHl5eaR5L8R/iLHefE248DahrF1o2laTbq8gs4mklnkdd33lV9q/8BrO8J+PPH8mheNNF8Nvc6x/ZMfm6XdXULRyvG67mVldU3Mn/j1ek+L/AIe+LbPxsfiD4ANrNdXUaw3lpdjbHMqfdZW2vtZa6zSR8Um8P39xfWWmWursd1rHG7NCq/8ATRtvzNWFTMMF9Xp+x5ZR5Y/FJfF9r3fiFKrBUoxjyyPOfgxqWl6tay6lp/iW9v8AXY7fbdadffu2S6RdzbV2/Ku7+7uWuR+FetXGt+J5n8deI9Q0vxTDdyZ02VfKgeHc21Yd3ysu3b827dXdeFvh345uPH7fEbxQtlp15b2jW0UFmWaORtzNumban8VUNR+HfxM8deJdHvPGUenWFro1z9pE9qzNPN/dVflTavT7zUpYnC+0rR9pH3ox5pc0eaP92P8ANEmVWDlLmkfT/wDepu2n7qN1flvWR4ahGPwjNvpTd3vTt3pUNIRJu96N3vUdFAEm73pO1Mp/agAX5t1Squ3dSp900lXCABQvy0UVrCAD9wo3CmUUAP3CjcKZRQAVHUlI3SgCpJ8orPZvvVoT9qot1qeUDPlblqhqR/vNUdHKHIKvyVJ5g9Kioo5Q5D//0v24oqOivPAlH3qSo6ev3Wo5DJTsWY9vzc1KrL83zVVT+Kpo+rVjymsJ+6T0U1adRylwlzBUlR1JRyjCiiijlAKKKKOUApR96kpR96jlAfRRRRyhyBRRRRyhyBRRRRyhyBRRRRyhyBRRRUmYUUUUAFSrUVFAElF
+
+
+
+---
+*Source: Document 452917b57ed44138a16cfffd958a3841*

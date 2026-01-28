@@ -1,0 +1,26 @@
+{
+  "id": "d7c9b7ae-1c85-415a-a3d7-d4ec8e923dc5",
+  "type": "insight",
+  "timestamp": "2025-12-03T13:49:02.000Z",
+  "title": "<li><b>Example Output:</b><br></li>",
+  "content": "<li><b>Example Output:</b><br></li>\n<ul class=\"Apple-dash-list\">\n<li>Observation: Tone is informative but lacks emotional pull</li>\n<li>Recommendation: Add a brief personal anecdote to connect with readers</li>\n</ul>\n<li><b>Ethos Review</b></li>\n<ul class=\"Apple-dash-list\">\n<li><b>Prompt: </b><i>&quotEvaluate the credibility and authority of this content. Does it reflect expertise and trustworthiness? Suggest ways to reinforce its reliability and professional tone.&quot</i><br></li>\n<li><b>Example Output:</b><br></li>\n<ul class=\"Apple-dash-list\">\n<li>Observation: Author sounds knowledgeable but lacks cited credentials</li>\n<li>Recommendation: Reference an authoritative source or include author background</li>\n</ul>\n</ul>\n</ul>\n</ul>\n</ul>\n</ul>\n</ul>\n<div>---</div>\n<div>---</div>\n<div><br></div>\n<div><b><h3>Risk Analysis Phase</h3></b></div>\n<div><b><br></b></div>\n<div><b>Identification of Blind Spots</b></div>\n<ul class=\"Apple-dash-list\">\n<ul class=\"Apple-dash-list\">\n<li><b>Prompt: </b><i>&quotIdentify any areas in this content that may be overlooked, biased, or based on hidden assumptions. Provide suggestions to address these gaps or risks.&quot</i></li>\n<li><b>Example Output:</b><br></li>",
+  "context": "From document: From Evaluation to Growth — chunk 9 (chunk 9/12)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "6ce49238bcaa9925c055c40f902078cb",
+  "relatedUnits": [],
+  "keywords": [
+    "class",
+    "apple",
+    "dash",
+    "list",
+    "example"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "f0c9320b-3dad-490e-a912-81b488d622d2",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><i><tt><br></tt></i></div>",
+  "content": "<div><i><tt><br></tt></i></div>\n<div><i><tt>Each module includes:</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>- </tt></i><b><tt>**Header**</tt></b><i><tt> (e.g., `::GR1ND3R [PROJECT PROFILE]`)</tt></i></div>\n<div><i><tt>- </tt></i><b><tt>**Context Framing**</tt></b><i><tt> (short summary, placement in system)</tt></i></div>\n<div><i><tt>- </tt></i><b><tt>**Main Content**</tt></b><i><tt> (tagged, editable, with subheadings)</tt></i></div>\n<div><i><tt>- </tt></i><b><tt>**Next Steps / Metadata**</tt></b><i><tt> (integration options, status, REF_</tt></i><tt>ID)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### III. | EXAMPLE MODULE STRUCTURE</tt></div>\n<div><tt><br></tt></div>\n<div><tt>```md</tt></div>\n<div><tt>::GR1ND3R [PROJECT PROFILE + LOGIC MODE + OUTPUTS]</tt></div>\n<div><tt><br></tt></div>\n<div><tt>&gt DOMAIN: Horror, Fiction, Found Footage  </tt></div>\n<div><tt>&gt LOGIC: Dream/Surreal  </tt></div>\n<div><tt>&gt OUTPUTS: Video, ARG, Fiction, Education  </tt></div>\n<div><tt>&gt STATUS: Active | Version: V1.0  </tt></div>\n<div><tt>&gt GLYPH: ⛓️  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>CONTENT:  </tt></div>\n<div><tt>A dream-inflected fiction project rooted in ambiguity, dread, and unreliable memory. Feeds into education, fiction publishing, video experiments, and AI ritual logic.</tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 143 (chunk 143/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "fiction",
+    "project",
+    "logic",
+    "module",
+    "gr1nd3r"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

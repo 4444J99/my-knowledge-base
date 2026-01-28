@@ -1,0 +1,32 @@
+---
+id: 416a221c-0bbc-4f9a-92e6-bf21301d06da
+type: insight
+created: '2021-02-15T19:54:52.000Z'
+document: 7cab5884ad37ebd0143542c422e3a7d4
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - txx8plt37
+  - bvv1
+  - >-
+    loaebq9wkwwbqcskhbwcr2rtkyso4epcgkrnk4osvvvrozp07eegff2hububssy8lls2n8pbwqkndqauro7a2lvlycg4epmjiyajf
+  - 973uoyyy9dr9zjnzizonkgo3ldwvtly2mhbb71fc3mz3
+  - >-
+    ve91iyzakej4cngzyo49riyaharzbq0fakcwt54yuxqkqqwu1243q6mzvnndq08pzzz3pkybgcticjiynonbreeustrr76ambmmdhgodjq0mbll73erx99hnvqxw63exgyshp6otu3b
+---
+# TXx8PLt37+bVV1+loaEBq9WKwWBQcskHBwcr2RTKyso4ePCgkrnk4osvVvrozp07eeGFF2hububSSy8l
+
+## Context
+From document: Week 1 Retention Tracking — chunk 63 (chunk 63/133)
+
+## Content
+TXx8PLt37+bVV1+loaEBq9WKwWBQcskHBwcr2RTKyso4ePCgkrnk4osvVvrozp07eeGFF2hububSSy8lLS2N8PBwQkNDqauro7a2lvLycg4ePMjIyAjf+973uOyyy9Dr9ZjNZiZOnKgo3ldWVtLY2Mhbb71Fc3Mz3/ve91iyZAkej4cNGzYo49rIyAharZbQ0FAKCwt54YUXqKqqwu1243Q6MZvNNDQ08Pzzz3PkyBGcTicjIyNoNBreeustrr76ambMmDHGOdjQ0MBLL73ERx99hNVqxW63ExgYSHp6Otu3b+ell16ipKQEq9WKVqslKiqKqKgorFYrDQ0NHDhwgKqqKiorK1m9ejVDQ0PcddddXHLJJUrGg5UrV1JVVYXVasVqtRIVFaVsa9LpdNTU1FBRUUFpaSl79+4lKCiIlJQUqqur6e/vJz09HZ/PxzvvvKOk+PNfJzY29qRxwGQyMTw8zJEjR7juuuu45JJLlHG5vb2dN998k2nTpp3SYSv4+mG1WikuLiYgIID8/Pz/CseQSv6i8qAJvjL0OBzs6+xkxOtlVmwsqSEhyEDD8DBFPT0E6HTMiYsj3GhUhPd8skzd0BAlPb0YtRpmxsYSN0rp1u3z0WSxUD04SKvVitvnIzEomPzoKIL1egq7uvDKMrNiY4kddZ4kywy6XFQNDNBus9FlP7b3PkivIyYggFSzmdSQEEIMBlQc26Nf1NNDm83GRHMoeVGRGEan8fJ4ONLdQ4fdRnpoKLkRERhHDfA2j4eyvj4qBwawuT0E6LRMjYoiLzKS6sFBHtmzl5rBQRYlJvKLObNJ+C8xlJ1OJytWrGB4eJjbb7/9pLBVwZcTf2h3RUUFFRUVdHd343A40Ol0yv7XnJwccnJylFRRcCwUs7W1ld27d1NZWYnX6yU7O5vFixePUbP2h7YfOHCAiooKhoaGlNX82bNnExoaqojn1dbWct9995GUlERmZqayyu5wOBgaGuLo0aPo9Xp+/etfK6tw/hUZs9mshGH6w1F37tyJx+MhOzub2bNn093drQgKLliwgPDwcGW1uKKigttvv52oqCiGh4eVnNEFBQWYzWYcDgf79+9XUgn6DbjMzEz6+/vp7e1VtjgYDAYmT55Me3s7vb29yopWYGAgBQUFxMfH43A4KCoq4sCBA3R1dREbG8vcuXPJz89XIjD8e3337NnD
+
+
+
+---
+*Source: Document 7cab5884ad37ebd0143542c422e3a7d4*

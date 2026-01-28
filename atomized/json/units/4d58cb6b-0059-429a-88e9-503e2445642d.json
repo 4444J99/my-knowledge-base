@@ -1,0 +1,26 @@
+{
+  "id": "4d58cb6b-0059-429a-88e9-503e2445642d",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">✅</font> Why This Works:</div>\n<div>  •  Encourages deeper investment in the role-playing mechanics.</div>\n<div>  •  Prevents students from “gaming the system” by switching strategies late.</div>\n<div>  •  Adds hidden consequences and rewards based on playstyle.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 3. Ensuring XP Caps Apply to All Unlocks</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Now, all XP-based rewards, items, and rerolls follow strict cap rules.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Each item tier has a hard limit (1 Gold, 2 Silver, 3 Bronze per week).</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Only a set number of rerolls are available per semester.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Final challenge paths are limited based on prior engagement.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> New Rule: Weekly “Rush for the Prize”</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Every Friday at noon, all students see the XP store’s weekly unlocks.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> The first to claim items get them—once gone, they’re gone.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 249 (chunk 249/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "zapfdingbatsitc",
+    "applecoloremojiui",
+    "based"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

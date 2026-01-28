@@ -1,0 +1,33 @@
+---
+id: b28e60a5-afa6-400c-9940-c45431be21ea
+type: insight
+created: '2018-10-05T22:17:31.000Z'
+document: 15981fe11fce83e658f6940d49a17e08
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    0fkzejepytpebpmygfacgncp3kuambpvjpnv414lul9z3qxf2aunu9djbxe0qgmw0x1yj8o3pcqr0jcjq
+  - >-
+    jths6mbsjudkazg4ko3lrfkgmqayod1ckay5osrsq4v3fvmtas28e5ne7r4b5e6evmtm0ykbvqm5kyto3lafe8hjca1usf6leaz
+  - v8ec
+  - >-
+    x4uune23qndyem8wnrhrponrqlpk8pt3b859mdaam77o1xrrevazubnpfbhjlgnmy2xjj6uyn3yb0somug3uxianthmschmbsatyzepmpq9veczhrh
+  - bmwhocymu97ecveo
+---
+# 0FkZEJePYtPeBPMYgfacGncP3KuamBpvJpNV414luL9z3QXF2aunu9dJbXE0qGMW0x1Yj8o3PcQr0Jcj
+
+## Context
+From document: Mike’s Mom’s Spanish Rice — chunk 172 (chunk 172/565)
+
+## Content
+0FkZEJePYtPeBPMYgfacGncP3KuamBpvJpNV414luL9z3QXF2aunu9dJbXE0qGMW0x1Yj8o3PcQr0JcjQ+Jths6MBSjUdKazg4kO3lrfKgMqAyoD1ckAY5osrsQ4V3fvMTas28e5Ne7R4B5e6eVMTM0yKbVqM5kytO3lAFe8hjca1usF6lEAz/V8EC/x4uunE23QnDyem8WnrhrPOnRqLPk8PT3b859MdaAM77O1XrReVAZUBnpFBhjLGNMY2xjj6uyn3Yb0sOMug3uxiantHmSCHmbSatyzepMpQ9veCZhrh/bmwHocyMu97ECvEO+XO+/lRuqztR8fn/rcwfU5d+8OOvNm9n+vdOD6HAojKgMqAyoDq0MGGLsYwzxg73P4stw005ggvNcO3Jth315U2+6Hp2pgsgXtvQXrLbiMfq4UQG+82VRT7/VMV74+RNdZe72+NP7txU0WnR6LU0xNzagJjU5c05c4lQGVAZWB2soAJjGMVbKgEuPX0NCI6z48CMFNPFdwX37v+m5PPzG1qLa9E2DnQXsWSFsdYSOAvocgvgXo8qztQJ61rZ8bH/gPjK970ViwxxPN7Oy8u36Baq5Wh+ZK21nbWWVAZaCuMsCcQsYk8ZIm4xUeYwD5Xvo1CNyz2Le3TGRwBxm/8FJ2M5l0k07DtfLVa3kV2tODqcDt570B+DcNgXjK6W4++//ikB5Xd2jgJyZaJjTSMaLVYMLP9PSMO9lncXHRfRlmonldO3ktlwKIyoDKgMpAs2SAMQUlK2MME0sZcxh7bM26jEuYxGDB0Yu/joB75yem1hPcFdqrBcs46Ex/zw/x3QT5FTjvAqQn1RdaeCC+v/+OTxMvnWZrz0RX3bQOVAZUBlQGVAaKygATS8O3mzfvuvbraNebbsOe9LKREdyTfLiHv72Fg3v7xNT627eHa9HTaeCrNpFpAhQ3sYyfQd6n2e70tXrX2+vXbxy80czMzDmPH0+4dvEA/bVrdNLhnaxe13pRGVAZUBlQGcgiA4wpADr26tiwo3UH1D99+pTEuj11Pxe4l+MKMgu4+81k4ldMza5tz2Lfng7S2wG/Wm17vcEuSXvbW/eToF7bqrfaW9uzvT3b/wPV9n9VKkXemUnsrS1v/++Pl3WhPy98vMmn3yTUWzE86GUt5PyDjK2skRK9tRZI/MsJV8R511umJx+NmVz09vHj
+
+
+
+---
+*Source: Document 15981fe11fce83e658f6940d49a17e08*

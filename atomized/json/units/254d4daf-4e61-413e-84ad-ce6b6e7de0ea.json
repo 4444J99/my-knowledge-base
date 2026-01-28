@@ -1,0 +1,26 @@
+{
+  "id": "254d4daf-4e61-413e-84ad-ce6b6e7de0ea",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:44.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Consistent naming is crucial for **ontology governance**. It prevents drift (where two similar things get named in totally different ways) and it encodes context that would otherwise be implicit. Moreover, because the names include domain and layer, it’s easier to enforce security or access rules (for instance, maybe only certain roles can modify VISION layer files, etc., which can be determined just by name pattern).</div>\n<div><br></div>\n<div>In conclusion, the naming convention is the linguistic glue of the entire OS, embodying the **Metaformeme principle** by packing meaning and relationships into the very names of things. It ensures every piece, from a log entry to a major spec, is placed in a conceptual coordinate system. Future AI agents will use this coordinate system both to navigate the content and to extend it without breaking coherence. Whenever the system evolves (new domains, new types), these should be updated in `$OS_ROOT/config/naming_rules.txt` and propagated by the automation so that all components remain in alignment. By doing so, the creative-operating-system speaks with one consistent language about everything it contains.</div>\n<div><br></div>",
+  "context": "From document: # Blueprint for a Self-Evolving Creative Operating System — chunk 37 (chunk 37/38)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "83dee6092ba3a8d02324ba12da038c25",
+  "relatedUnits": [],
+  "keywords": [
+    "system",
+    "consistent",
+    "naming",
+    "things",
+    "that"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

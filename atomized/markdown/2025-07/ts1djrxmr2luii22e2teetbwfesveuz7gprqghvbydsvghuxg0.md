@@ -1,0 +1,33 @@
+---
+id: 08effb98-f0e1-4a4e-9da5-15d45d3c2afc
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ts1d
+  - >-
+    jrxmr2luii22e2teetbwfesveuz7gprqghvbydsvghuxg0amrjy1wyr223pmsgw0zmdwonyp2ycnmlgiz1ys75q1cj8xzfzwrolvs
+  - ymu6qavlc2ufgyo0xkuk
+  - >-
+    xvjddyz7nvrz1zq0v7c2cvirquilkfb9tmf3oe6nbr25fbnmlccxn8klohdcgswua3qbl6r0aolaiknzvpkrozjakhnwjapiluym8vakwmxnixoiga
+  - >-
+    s5jjh8yf1lhqtzqgkou0lyclaec7jgkoo4snbgx0slcbljlu0u80ygr0u92g4xjyjc0dpohaw7fnow4asfguzl9fhetwd3wxfko9vagtvkim
+---
+# ts1d+JrxMR2luIi22e2tEeTBwFEsVEuz7gPrQGHVByDSvGhUxg0aMrjY1wyr223pMSGw0ZmDWONyp2Yc
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 12773 (chunk 12773/18928)
+
+## Content
+ts1d+JrxMR2luIi22e2tEeTBwFEsVEuz7gPrQGHVByDSvGhUxg0aMrjY1wyr223pMSGw0ZmDWONyp2YcNMlgiZ1YS75Q1Cj8XZFZwroLvs+ymU6QAVlc2UFgYo0xkuK+xvJddyZ7nvRz1zQ0v7c2cViRQuilKFB9tMf3OE6nbR25FbNmLcCxN8kloHDcGswUa3Qbl6r0aOlaIKnZVpkROZJakHnWJAPiLuYM8vAKwmxNIXOIga/s5JJH8yf1LhqTZqgKoU0LYCLaeC7jGKoO4SNbGX0SlcblJLu0U80yGR0u92g4xjYjC0dPoHAw7FNow4aSfGuzl9fHetwd3wXfKo9vagTVkim+24BYaRs7Ci2JmMA+a8p8N4fVs/leOSbB6znnlPtxPhEnL3SYRPAl7pUFWk1pksjseNOl0DZhC6Vj3Wc8846IF30SYStyWCHIheCmzaWRI5R5JiI1peKVbvDtsolfk8NnGNpG49I7d+1SqoFKXYbJyW5sYnx1PgwLnljylT7Mk53jJhEGAVesiwPcZqZLg60jjxe3e/MNoIWaBANICvP4EkAbjLCXcSeXkhKErc/eqUbtg18DLHMmhewqMQvayeuX6dpAj7XvZeIR3maVQDGO//CmM8htpDxl68wY0/cyPptdwatC7EOXSkzoldLbxGqRRnQWMrP0d9yt0CRvKAzIbsb4bmq2kQubQnjCFvwJ7US2DDK4wF2ba3dGsRpUXlNCMRsPAaeQrJPgCAKyzUq4tV/CupXDygCFIHFMt42BQc44lLhEq4aAfzff2Jfqk9pLAGK6XPL2gj8bKD3GUytH9CLEfTiHvOtyZAFQmJZ6eGpSLjaz/tXE6StES2Y1Nk34Lwjzexfd/LEb/6/bPA+TySuAR1tfLjczOWQojVOIFII69S2H4SwOFxm76EBhxmuf+WOMYhGhxLDPeflvk+AY/Ei0dQnziXhEpojtDUehdksvg4m1nNtmywqDS+fCar6TNAawmXReHNZhaaccDeosJoQzPWhUwWa2T3SPm+xw5taIvMh0VxgiUZYzIHZJV/Sy/Gd1nPqaT/AjXTgk0FHGl29IpGzlex32cnZ1mWSv1GiwTRD7kLzWS8IpqA/jd2nXeJbVVoQcHRfHVmH0TCcQAvFtCc8Lv2hG2FqcSkEj583OlgNFpsfeIEsm/DflMBmVop7+jNDT6+29/Lkf
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

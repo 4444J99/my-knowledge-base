@@ -1,0 +1,26 @@
+{
+  "id": "1893b382-86b1-49e3-92c4-139dc8394262",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:56.000Z",
+  "title": "<div>$OS_ROOT/specs: master specifications such as this document, plus layer-spe",
+  "content": "<div>$OS_ROOT/specs: master specifications such as this document, plus layer-specific specs (for example, VISION-META-SPEC-CANON-0001-v0_1 stored as a file here).</div>\n<div><br></div>\n<div>$OS_ROOT/worlds: high-level world registries and linking files referencing detailed assets in $ARCHIVE_ROOT and $REPO_ROOT.</div>\n<div><br></div>\n<div>$OS_ROOT/agents: descriptions of agent roles, their powers, and their interfaces to $AUTOMATION_ENGINE.</div>\n<div><br></div>\n<div>$OS_ROOT/meta: OS-level indices and summaries, including cross-layer maps.</div>\n<div><br></div>\n<div>SYSTEM-layer artifacts that alter structure must update $OS_ROOT/specs and, if necessary, include migration instructions that describe how existing archives and repos should be interpreted.</div>\n<div><br></div>\n<div>2.3 $ARCHIVE_ROOT Structure</div>\n<div><br></div>\n<div>$ARCHIVE_ROOT is an append-only memory substrate with structured directories:</div>\n<div><br></div>\n<div>$ARCHIVE_ROOT/sessions</div>\n<div>$ARCHIVE_ROOT/worlds</div>\n<div>$ARCHIVE_ROOT/characters</div>\n<div>$ARCHIVE_ROOT/specs</div>\n<div>$ARCHIVE_ROOT/meta</div>\n<div><br></div>\n<div>Sessions: logs of interactive runs with AIs or humans.</div>\n<div>Worlds: consolidated world states across time.</div>",
+  "context": "From document: 0.\tPreamble and Scope — chunk 10 (chunk 10/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "b3360b527d494aeb150b316c90472eb0",
+  "relatedUnits": [],
+  "keywords": [
+    "archive_root",
+    "os_root",
+    "specs",
+    "layer",
+    "meta"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

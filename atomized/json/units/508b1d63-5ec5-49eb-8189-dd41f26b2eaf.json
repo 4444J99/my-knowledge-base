@@ -1,0 +1,26 @@
+{
+  "id": "508b1d63-5ec5-49eb-8189-dd41f26b2eaf",
+  "type": "insight",
+  "timestamp": "2025-02-07T02:31:00.000Z",
+  "title": "<div>Scene Start  Action  Scene End</div>",
+  "content": "<div>Scene Start  Action  Scene End</div>\n<div>Hopeful  Protagonist receives bad news  Desperate</div>\n<div>Angry  Argument turns into reconciliation  Relieved</div>\n<div>Confused  Discovers a clue  Determined</div>\n<div><br></div>\n<div>Activity: Scene Pulse Mapping</div>\n<div>  1.  Write a scene where a character enters a room in one emotional state and leaves in another.</div>\n<div>  2.  Identify the shift (positive → negative, or vice versa).</div>\n<div>  3.  Rewrite the scene but reverse the emotional change (e.g., if the scene went positive → negative, try negative → positive).</div>\n<div><br></div>\n<div>5. The Story Wave (Macro &amp Micro Structure)</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📈</font> Stories follow a wave pattern—ups and downs in tension and resolution.</div>\n<div><font face=\".AppleColorEmojiUI\">📉</font> Each scene also has mini-waves—little rises and falls in intensity.</div>\n<div><br></div>\n<div>Activity: Graph Your Story</div>\n<div>  1.  Sketch a waveform and mark the high and low points of your story.</div>\n<div>  2.  Do the same for a single scene—where does the energy peak and dip?</div>\n<div>  3.  Find flat spots and adjust them to add more tension or contrast.</div>",
+  "context": "From document: I’ve taken all of this into account and structured it into a logical… — chunk 6 (chunk 6/8)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "14df6f345894368c19967809c1dd8b91",
+  "relatedUnits": [],
+  "keywords": [
+    "scene",
+    "font",
+    "positive",
+    "negative",
+    "story"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

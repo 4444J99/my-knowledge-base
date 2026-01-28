@@ -1,0 +1,32 @@
+---
+id: 300a684e-80ad-4790-a0c4-e92356c2ed4a
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    5atq9gnqsh8kodno1yawvomlnhyjxsegem4wxktny9morj8lnmebczqow6a6bpmwba9ia7alnzz3mkf4bbduy
+  - geofonnt3bclvcd9tu7rltmrkravv0rfbfv93k0ij5jlxcderrhha
+  - cunxi0k7nw
+  - f34dnsh1lrheabpkmatmo6oaxhanic4xcwonfmpblge1qosg6vgulxt5vlntuzs0c
+  - >-
+    mm4xyqix0jbvonbgekvbhtq16z3zstcfeksomesosc1hiw0dwmeztaxnhbx2biyaqsa655zv0ahdcfbbd1n
+---
+# 5ATq9gnqsh8KOdno1YaWvomlNHYJxSEGEM4wXktny9morJ8LNmEbczqoW6a6bpmwba9iA7AlnZz3mkf4
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 4470 (chunk 4470/11534)
+
+## Content
+5ATq9gnqsh8KOdno1YaWvomlNHYJxSEGEM4wXktny9morJ8LNmEbczqoW6a6bpmwba9iA7AlnZz3mkf4bbdUy+GEOfoNnt3bclVcD9tU7rltmrkRAVv0rFBFV93K0iJ5JlxCdERrhHa+ieX+CUNxI0K7NW+F34DNsH1lRHEAbPKMATmo6OAXhANIc4XcWonfMpbLgE1qOSG6vGUlxt5VlNtUZs0c/mm4xyQIx0jBvONbGekVBHtq16z3zstCfeksOmESoSC1hiW0DWMEZtaXNHBX2bIyAqSA655zv0aHDCFbBd1N+h2SEaJE/MZIaZv8jDf26oy6SrUemWv4wg/EPJVRvHbN6H67P8wPdBcyuM2qgh3vm1+X1y94owy6w2qj33qlWUxAznoFlqoezaux0c4wDFXLX0KslEFXpLGTGaJftuKVuZyrirvG88Tel7h+h2ppC01UIhiWQZ3e4ah/MjLHlPW/IJ+1MQ/+G3kyhLP7wEjPmWzNokjFCNcp/1jO+tT3zOO1efRtJH9vyV4/u2Ov+GU2aQtKEXEZLsPLtWWyrc4V+l0/J1vtE4O3Nd7Wm8w56fmFJXvFsRO2TpXrSOt2onuie3Lqv+38t53h0mS26NE9eU3/kfoj9QqiIz7kLPuO0+yKkk3Adqx5fOp45zeX8LrOXert9HZ+bIl5Vg5rCQJX6uvY6LITY94weKzx2HXu0quHr+k+UhABdlyB18x5RvSz8uMtR2voPb5skceXbS74Da21Q+9usJetKmxxaaN2HdRFm6DOdXXb0M8tW0xCd2/Yfaz3pZ14zyft17Qe6b62U9fYNhV42JTyRJue3bI9uViH/+Qlb9eOr7g9NOR2cjv4h7iqSu8pjj21YJGwAd5ODWhvqXXPGhR1jMFZdBHX5fPn0rl0UtdJM6fT6dS6Z9EUdeY5kza9pH7O4Rx6ZxvS0o1jOSjtaif3oKVjjOvnhtjictZtQThDdJcrQG7a4JyBN2G5mwjhfNPLy/S7rk64ziDcTT2q6NYc2sEDXLeBk+pcURdBHe0Vwjkhuo60dPQIy8Vz6YToagJ1x7HFZd7uMiO6MRWddHV73O7SYnYDomu5fs7Q3XYF1PFEOgd1OqMOiA6KOto6ly60A4dzVNT5dpdz2Nay6biutAfuEa5Dmze9jCo6ITq1wHh3zJ6EQg5Yzjw9A3K+GaaA3Cyx3CxB
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

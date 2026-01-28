@@ -1,0 +1,26 @@
+{
+  "id": "6768c576-1ae1-409d-b340-65eb199a031f",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>• Help documentation for anthropic – Forked from obsidianmd/help</div>",
+  "content": "<div>• Help documentation for anthropic – Forked from obsidianmd/help</div>\n<div>• project-based-learning – Curated project tutorials</div>\n<div><br></div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>⚙️ Developer Tools &amp Automation</div>\n<div><br></div>\n<div>• cli – Netlify CLI</div>\n<div>• codex – Lightweight coding agent for terminal</div>\n<div>• kimi-cli – CLI agent from MoonshotAI</div>\n<div>• renovate – Dependency automation CLI</div>\n<div>• git-auto-commit-action – Auto commit/push GitHub Action</div>\n<div>• commitzien – Commit rules, version bumping, changelog generation</div>\n<div>• chatgpt-exporter – Export &amp share ChatGPT history</div>\n<div><br></div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>🖥️ Operating Systems &amp System Design</div>\n<div><br></div>\n<div>• os01 – Book on writing an OS from scratch</div>\n<div>• TempleOS – Final snapshot of TempleOS</div>\n<div><br></div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>🎨 Creative Coding, Audio &amp Interactive Media</div>\n<div><br></div>\n<div>• p5.js – Creative coding JS platform</div>\n<div>• maxmsp – RunwayML + Max/MSP</div>\n<div>• SoundJS – JavaScript audio library</div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: Contents_Table — chunk 54 (chunk 54/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "from",
+    "coding",
+    "commit",
+    "help",
+    "project"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

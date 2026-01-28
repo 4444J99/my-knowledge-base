@@ -1,0 +1,31 @@
+---
+id: 497868ec-a434-4aed-b3e8-2c4ddd2d0eee
+type: insight
+created: '2018-11-17T18:19:07.000Z'
+document: e329ec4e43d47fccabf1e22882189db8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - m054hspwu7gngp1ph5z2aokag45xsdnooculgegjr3ox0iphegawrj
+  - >-
+    lko5iz1pbgcktx605mjgbk0aoxt4pipq8n2pelh3jgcelscz2igbcvuzzjps7plxjmlvstgnp3pwbvsnigbnowb0pekaqk7ealwv
+  - ydcaqljjgcaagmir8macr
+  - noubvaa
+  - yjazsjplvpnhnoafgr270anxw2f5j60hxjda
+---
+# m054HSpwu7gnGP1ph5z2AOKAG45xSDnOOcULgEgjr3ox0IPHegAwRj+lKo5Iz1pBgcKTx605MjGBk0AO
+
+## Context
+From document: Black Bean Salad — chunk 1377 (chunk 1377/2298)
+
+## Content
+m054HSpwu7gnGP1ph5z2AOKAG45xSDnOOcULgEgjr3ox0IPHegAwRj+lKo5Iz1pBgcKTx605MjGBk0AOxt4PIpq8n2PelH3jgcelScZ2igBCvUZzjpS7PlxjmlVSTgnp3pwBVsnigBNowB0PekAQk7ealwV+YDcaQLjjGCaAGMir8mACR+NOUbVAA+YjAzSjplvpnHNOAfGR270ANxw2F5J60hXjDA/hUhz1I5HGfWmlRncpJJ6/WgBBgHI7UwEnJPJPpS5L57duabk8BsfL09KAJlYEFMEY5FA5CliN2egpgzjngnn2qWJwAQQOfXrQAjckggnFMxkA9xTt20bVyc8H60wqo4z8w6j3oAYN+CSBzxQQwyFwT/SnkAqS2SPSlyuGA4OM0ANUMPm6Z60oBH3T8p5/GlPUD1Gc0H7+0EN6UANwRkdR6U1lzyOuPyqRcqxJNIp5z0zQBGAMZB5pGwT8469KnI5xUbDp/Ew7+lAERUb8DnA5obAHGNp9KCDuJAw2OTUfVcDigAHCkY69Kj5AGRn3qUHsTk0DBGMYHegBHA6/3aCeMDkUdwCMijAGOc0AKVKjO7j0oG7Oc/hRwzA9B3zSc7Sd3Q9BQAmcEnOCOKaWJG4kE9KVyuAFHOOc0mwsAmcA88UAGMgJ3FABOcAgj1pQMZYfQ+tCqcZHBPY0AMK5I4PSnHkbCcY7YpyttyueelIRhic0AJxn7xIHGMU49Pm6Z4FKhJJycL24oBAPPagBhwhwc4PYdKRgOvQAU8lsEDBHWomyF4GMnmgBYz8vT71Ck5OcjHamHbuyMgilyvUjBNADAdzY9R3poUKdxyKXeGyG59KTq2ccDigBW4bg/QUgdfz/nTjtHI7etKWxkYB9KAGqVByvU8YNG0AkEdOc0gO7k8evrSrs6kE+uaAFDA8g7uxquMqu3AIHNWWCkheAPamNtYcYBXgUAMA2qTtzmmksyDt0pzHao55NM3ZCx57/yoAcygjnsf5U5Qv3zwT2+lRh+Tkg85pWKu+OmOaAIpQ27Od3t6U6DJXLHHp601gSMFgcH8anUAcdgO9ADz8jFjzkUPg4fdjHtTlYgbWOfT2pBgjJ4xQAwKzMdp6c/WhhhPKI+6d2RUoBxluRT1wfnwoA4p2HYhaNVKyE/hTc7TlSAc0/A3lmyc9vSosnOR0ouFxkoH3D6V+d/7dWheJf
+
+
+
+---
+*Source: Document e329ec4e43d47fccabf1e22882189db8*

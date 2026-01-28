@@ -1,0 +1,26 @@
+{
+  "id": "17722cbb-3ee9-4d68-b2ed-99ac9fd227bb",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><font face=\"ZapfDingbatsITC\">✔</font> If yes, should there be a weekly cap?",
+  "content": "<div><font face=\"ZapfDingbatsITC\">✔</font> If yes, should there be a weekly cap?</div>\n<div><br></div>\n<div>2. Should students be able to “trade” XP in specific situations (e.g., gifting XP to help a struggling classmate)?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> If so, should this be limited to once per semester?</div>\n<div><br></div>\n<div>3. Should the “Whole Class Ending” require every student to participate, or just a majority?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Would requiring full participation make it too difficult?</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🚀</font> Version 6.1 now finalizes XP tracking, alignment management, and multi-tiered True Endings.</div>\n<div><font face=\".AppleColorEmojiUI\">🔥</font> Are we locking this in? 🎮📖</div>\n<div><br></div>\n<div><h1>📌 Version 6.2 – XP Redemption System, Sacrificial Trades, Whole Class Jury System for True Ending</h1></div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🚀</font> This iteration finalizes XP as a currency for in-class perks, introduces risk/reward sacrificial XP trades, and ensures the True Ending functions as a full-class jury system.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 260 (chunk 260/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "should",
+    "class",
+    "zapfdingbatsitc"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

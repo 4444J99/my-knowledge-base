@@ -1,0 +1,32 @@
+---
+id: 3db8c362-8a8e-4f5b-b1d5-c2fa84c7db2b
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    p2lfcgtad4eml1vsxs3usi7scpjwooarwaptofqv9rcqqoe5y9t4felnxkfb9d9biiscng5bhh1q1
+  - amnq32w7jbjoocelx49nakuue3az0nz1xbljdlnqsr39cv8dn3k0feq
+  - bmqs3qtzva
+  - 6upacedwpeqmrzxyq0ic84y
+  - >-
+    7p4d6kubc2k3ngdatjk4warpszng4zpeqt0lg7shveiwjeuedmpn8ouyp1xss4tlmcmtnlcoonf1qmqiem4ehi6yj9f61jzxojlsjckl2lts4x7yqo4mmwqrxt44p0beyv8aaang5h
+---
+# P2LfCGtad4eml1VsxS3Usi7SCpJwOOARwAPTOfQV9rCqqOE5Y9T4fELnxKfb9D9BIIsCNG5BHH1q1/aM
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 2123 (chunk 2123/2189)
+
+## Content
+P2LfCGtad4eml1VsxS3Usi7SCpJwOOARwAPTOfQV9rCqqOE5Y9T4fELnxKfb9D9BIIsCNG5BHH1q1/aMNq32W7JBJOOCelX49NAkUue3Az0NZ1xbLJdlnQsR39cV8dN3k0feQ+BMqS3qTzva/6uPACEdWPeqMrzxyq0IC84Y/7P4d6kubc2k3ngDaTjk4waRPsznG4ZPeqt0Lg7SHvEIwJEUEDmpN8oUyp1xSS4tlMcmTnlCOOnf1qmqiEm4EhI6YJ9f61jZXOjlSjckl2lts4x7YqO4MMwQrxt44p0bEyv8AaANg5H/66z5ibcNJBl1HOPTtVwi73IlI0YyJCIdv3epH86Vo0jyARgVzS/MwmRyCOo9Kqak8k2VV2G7pgkVnIbloW5Lm1uro210BtHU46Y9KYxiOVtmGwE4yeaomwliISTkYBBPX8apO6hjHGNv0qqcXJ2OOrPW6LLXMjofI4xwPevlr49OYvDs85cm5jUFM4BYFsFee2OTjnivpm/ii0+wa/siXKfMwyeR9OfyFfGHxx1uy1J7SJHXzGkAw2cjnHyj36f8A6693DUWk9DycRV95HT/s0WkV1o5vLchgCwO5cEEHkZPXGe1fT7KhciMZUcYHTmvFvhHANJ0dItoSNFLYxgBmJOT78mvXZboxzARjAJ/EkVjXk+ZJmtDa5fuUEEkKNgq2WXn5sjg5HpVyOESBmYdPbiiaCxeZLqZcn+VRvdQJJkyYj9M45HSvNrRbZ6FKeljOecCQ4TC/TmphOkMTY+8RkKafc3MTAXSJy5Cnjpk4qlqURGBJ1YfeUlW46cjBHtWGvRHdTR//0/6mYorrySkfBI4zxzT4YzPGY7tipXnryDWv9mUxfvcgD/PSsucESqyIWGcHH8/pX5HGSbP0KN0rMJ4n8klvu9v8a4TXsrlnHyjNdhqRuGR4+dvYVw2p+dJEY2Pb+Vexl8WqkTyMxmlBo+P/AIn38fmvaxkAvwCemcivoL9nzy49LW6lYgPwE6YI9f8AOK+d/iNYW/2ySOU/OxyO3PfivpT4LWqzaJbzuuxl28g/eGMDPb8q+mxE207vofN0o++mj6SE/mKZMYwfrgVVjFxIWnfG3OMd6vIijJANZ7pLHclkb5COg6V8Bib9D7rDptGlEpgU/Ly3ekVJAOeahhG4rwRnrVloyWKxclfX0rmSudkYaaliPAQ
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

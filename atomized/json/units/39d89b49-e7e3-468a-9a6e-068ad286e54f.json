@@ -1,0 +1,26 @@
+{
+  "id": "39d89b49-e7e3-468a-9a6e-068ad286e54f",
+  "type": "insight",
+  "timestamp": "2020-05-05T03:13:51.000Z",
+  "title": "<div>Dan</div>",
+  "content": "<div>Dan</div>\n<div>Well?!</div>\n<div><br></div>\n<div>Hunter</div>\n<div>Antonio was puking up furballs at my dad’s place last night. </div>\n<div><br></div>\n<div>Dan</div>\n<div>And?</div>\n<div><br></div>\n<div>Hunter</div>\n<div>My dad asked me to clean it up. </div>\n<div><br></div>\n<div>Enrique</div>\n<div>And?!</div>\n<div><br></div>\n<div>Hunter</div>\n<div>There were piles all over my sister’s bedroom floor. </div>\n<div><br></div>\n<div>Mark </div>\n<div>And?</div>\n<div><br></div>\n<div>Hunter </div>\n<div>When I was in the bathroom—</div>\n<div><br></div>\n<div>Dan</div>\n<div>Wrap it up!</div>\n<div><br></div>\n<div>Hunter</div>\n<div>I think my dad is sick. </div>\n<div><br></div>\n<div>Dan</div>\n<div>Great. So now I think you are sick. </div>\n<div><br></div>\n<div>Enrique</div>\n<div>Well, I think you’re sick! (To Mark)</div>\n<div><br></div>\n<div>Hunter</div>\n<div>(to himself really)</div>\n<div>I don’t think I’m sick. I don’t feel sick. </div>\n<div><br></div>\n<div>Dan</div>\n<div>It doesn’t matter if you <u>feel</u> sick or not. You can show no signs and still, STILL—</div>\n<div><br></div>\n<div><i>Dan coughs loudly. </i></div>\n<div><i><br></i></div>\n<div><i>Everyone flips sides, Dan is now the odd man out all alone on his own side. </i></div>",
+  "context": "From document: Confession (First Draft) — chunk 4 (chunk 4/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "4cb8b9b108b0448c30a795b9f98be791",
+  "relatedUnits": [],
+  "keywords": [
+    "hunter",
+    "sick",
+    "think",
+    "well",
+    "enrique"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ab8365ba-6ecd-4c89-9385-70e3e86b519d",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Intends to develop generic, Mad Lib–style templates and instructional structures for duplicating these systems elsewhere. This includes both academic and creative use cases, reflecting their dual personality modes (analytical/director and creative/producer), which should always be considered in system design.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants access to all the backend information, data, protocols, and references created through this system. They want outputs to be organized and sorted, with regular prompts to copy/save/paste sections into their own notes or archive systems. They prefer to receive print-ready sections or chunks to manually archive. User considers this structural work to be the most integral part of their process and believes it unlocks their full creative and professional potential across all areas—art, business, applications, language creation, and audience building.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_051425_MASTER — chunk 37 (chunk 37/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "5e4feb3febe2be13a91fd74e828ebc64",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

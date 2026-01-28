@@ -1,0 +1,31 @@
+---
+id: a4e0eee3-1bca-411f-a29d-c9ed64f7d554
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - wlagu6eaupynyjneq1ujmwt9
+  - 23r6hoxmghh3xw7k7vjsj7uewwo
+  - 3007ldowhvrf188cxrrrtuzleu
+  - lvofhv11vejrmdp7gcfnwswrnllfskbcuhaahkqgaqkiaejseacgyeg8o7mfmuvv2tvn
+  - >-
+    i2q70xllzi3d2slw9dsz6b9gbhnzz8zyv6wnhtcubmmsxlj1oa2c90d26chthp4wqcbbb1oexxkjpadznkehzu3dflseacepcabcqgaqliqaisked9bbteprhzfdfhcbpeo05lo3k5s5pjurfddltublzxmzv94403xmpa2z6numussuzsks28oeibxdnipm5szn722wczsx2r0xb
+---
+# WLAgu6EaUpyNyjnEq1UJMwt9++23R6HOXmgHH3xw7k7vjsJ7ueWWO/3007lDOwhvrF188cXrrrtuzleU
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 356 (chunk 356/18928)
+
+## Content
+WLAgu6EaUpyNyjnEq1UJMwt9++23R6HOXmgHH3xw7k7vjsJ7ueWWO/3007lDOwhvrF188cXrrrtuzleU/1e/+lVOFHv11VejRMdP7gCfNWsWRnLlfSkBCUhAAhKQgAQkIAEJSEACgyeg8O7MfMUVV2TVN+I2q70XLlzI3d2sLW9dSZ6b9GbHNZZ8ZyV6WnhTcubMmSxlj1oa2c90d26CHTHP4WQcbBb1OeXxkJPADznkEHzu3DFLSEACEpCABCQgAQlIQAISkED9BBTepRhzfDfHcbPeO05lo3K5s5pjurfddltUblZXMzV94403xmPA2Z6NumussUZsKS28OeibXdnipm5sZn722Wczsx2r0xb+7Lrrrkytx2L4w73oL7zwAlPxK6+8cizshQQkIAEJSEACEpCABCQgAQkMl4DCuyx/1DVT2Wxant1rjQO0H3nkkcMPPxyxvcwyy0RbBxxwwLPPPhtnyFHszEKvsMIKoUBCeK+yyiqodBaoh+luLLC7G9o+WmYBOdutB0+yp3mj85966qk5c+bEVmIVLyQgAQlIQAISkIAEJCABCUhgiAQU3l3AZ3X3kUceyb5l2XlmFDKbnDNHzRT01KlTw8pz1C/T1O+8807Qzzw//vjj3/72t5dffnnaaye8mak+6qijOC081mKftsMOOyxoaVpfZ511uHn7jjvuyG1jzpnhDzzwwJ577pm7mbyLvllUAhKQgAQkIAEJSEACEpCABOohoPDujivLvNktnJO63n///eyEM1KZm8AvuuiinXfemUO/EMAbbLDBddddl1XIDz744L777sucNneG//a3v43qeu7cuSjq1VdfHVXPtm0xHT3PaWGsPEd4M6OObr/mmmuyYp6S+PD222+TzsneuZvAu+uYpSUgAQlIQAISkIAEJCABCUigHgIK7164stibXc1YQB5v5I5qmVXi3Pi9zz77sPMZs9McPPbpp5/G3Oeee+7YY4/dbbfdSI+Jl156KWL+jDPOyG5OjmKfP38+Mp5zxVimftNNN7333nuxSrjg9m+mx9nVHHHeSzesIwEJSEACEpCABCQgAQlIQAL1E1B498h4pZVWOvTQQzlq+9133433ckdhjCRmW3K09CWXXPLaa6/FdC5Ypk5W9qxvTv/i1nGqZIuxTRrT3RdccAEXrfKePd7efPPNW265ZY899vCm7h5DaDUJ
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

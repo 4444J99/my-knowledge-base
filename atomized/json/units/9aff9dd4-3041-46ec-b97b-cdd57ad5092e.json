@@ -1,0 +1,26 @@
+{
+  "id": "9aff9dd4-3041-46ec-b97b-cdd57ad5092e",
+  "type": "insight",
+  "timestamp": "2025-03-07T14:28:30.000Z",
+  "title": "<div> </div>",
+  "content": "<div> </div>\n<ol>\n<li><b>Adjunct Compensation &amp Workload Expectations</b><br></li>\n</ol>\n<div>Unlike most colleges, where adjuncts are paid a set amount per course, St. Paul’s requires hourly time-tracking, meaning work outside of classroom hours isn’t automatically factored in. Traditionally, adjunct pay accounts for <b>grading, student engagement, course development, and prep work</b> as part of the contract. The hourly model here suggests that only in-class time is compensated, which raises some questions about workload expectations:</div>\n<div> </div>\n<div>·         Should time spent grading and providing feedback be <b>logged for compensation</b>, or is it considered unpaid work?</div>\n<div>·         Should course design, student correspondence, and required curriculum work only be completed <b>on clocked-in hours</b>, or is there a different standard for adjuncts?</div>\n<div> </div>\n<ol>\n<li><b>Breakdown of Additional Hours Logged Beyond Classroom Instruction</b><br></li>\n<li><b>Canvas Course Redesign, Grading &amp Administrative Work</b><br></li>\n</ol>\n<div><b>ENG 101 (Composition, 6-week Module)</b><br></div>\n<div>·         <b>Total Canvas Hours Logged:</b> 66 hrs</div>",
+  "context": "From document: Dear Dr. Guirguis, — chunk 2 (chunk 2/16)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "b4c61b2dbd708162fc165133493d86ad",
+  "relatedUnits": [],
+  "keywords": [
+    "work",
+    "course",
+    "hours",
+    "time",
+    "grading"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

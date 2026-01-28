@@ -1,0 +1,31 @@
+---
+id: a8302069-f945-498e-8cbc-b4f21aa0bb46
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - x9npvar4n1fx0j
+  - ftglji0
+  - >-
+    8adpeuwn3rnilg9tdonf0apyhy9cdvfrcconuzh5zfw68cwrqbnkbfwilkhlbjkux183bvyxxwtyvivct8dcpwtk8sfn3kcbuzbxp6imzaqovyunly0rcdfcpddyucvlc2j6hjunf9vxau78xweysr4ylrpodv1uypymmv3fvnoanaabbfsy1otbtkjuwuuqaycn3v5k5qa6t9clwlylvhabfdcoztljud9tiqb7qqila5ybqa1pw0fki6clklrc
+  - ejqq0yahmnat0yjecq2mevwk8jadvaaagmzo4oq7uqgy5bg2q6i6snrj63nvvqq8cuoelc
+  - gwss6ri3vyhs9gde
+---
+# x9NPvaR4n1fx0j/ftGLjI0+ht+8adPeuwn3rNilg9TDOnf0aPyhY9cdvfrCCoNUzH5zFW68cwrqbnkBF
+
+## Context
+From document: New Note — chunk 20377 (chunk 20377/21099)
+
+## Content
+x9NPvaR4n1fx0j/ftGLjI0+ht+8adPeuwn3rNilg9TDOnf0aPyhY9cdvfrCCoNUzH5zFW68cwrqbnkBFwiLkhLbjkuX183BVYxxWtyViVct8DCpwtK8sFN3KcbUzbxp6imZaQOvyunlY0RCDFcpddYUCVlc2J6hjUnF9Vxau78xWeySr4yLRpoDV1uypymmV3FVnoaNAAbBFsy1otbtkjuWuuqAyCn3V5K5qA6t9ClwlYLVHAbFdCoztLJuD9tIQb7QqiLa5YBqa1PW0FKi6clklrc+ejqq0yahMnaT0yjECq2MEVwk8JadVAaAGmzO4Oq7uqgy5Bg2q6i6sNrj63nvvQQ8CUoeLC+GwSs6rI3VYHS9gde/evYoofxv0K+wpdu/ereyUd+Gtt96y4s033wQHQYcE5L322msWhLl9+3bQQxX6D2P+j+Xfoo4EWKUPnnfeeacXYGTY0Uk3btzo2LcLBazSe//ee+8NeO1JSUkgKNrpPgcCVumD91133RVw7+rqatD/Xcu9cgNW6cFOQkKCdx2vp77L6xqPe0EPV1auXDnkXOyoyucmCJn+Xsjzm/y3D1Wae3z+7jE/QP3lPzKbM5oOmA6YDpgOmA6YDpgOmA6YDpgOmA6YDpgOmA6YDpgOmA6c/w4YYPX8A6uBYNXRAKvkrCqBVcrdYFUGVyW0yq6qrBJWlaAqgasUOrDqBK06uaxKcJWes/5Hc1llSJVVwqrsrMrK4KoOq+rQqpvLqu6uOhqHVQJYGVJ1Uumw+l//9V+gMakeTpCqDquSuyo5qLJKh1UnZ1UGVUkZVJU5A6tO0CqBqDTPQKqbMqDqpoG+pyDAkecZdtSVvuOlWiBAVc4RKMljhibdlCBKnpNgZaCcAFOGL1mHg1Td5gne5DmGSseqBILKPSQYynN6bSRjAi/leuoB30f9PlFvZS/118r70J7jFfTT0Wkvp7qs6TmN+Q/tJ//oYznHudsatzofZ/TCdcAGQXUQlceknPugUYZHR6O2uyrtxUApw6dDQVWGVglYnUChnFatc1pjGxxl4JWBUu+Y97cAUBtoHTLHa4RaazwQqhc29YNSAwGrPMewoE9tKNIJRtVrPGZloNLeiwFLAkCDyeU6Xk9qA6TuezjNc21sGgy8Stdnr5sUmqYgVB+wes+Gp/Hh6a/x6dkfVfyAM1/+qOInSzds/RumROb6
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

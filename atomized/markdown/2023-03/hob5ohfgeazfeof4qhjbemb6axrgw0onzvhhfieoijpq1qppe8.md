@@ -1,0 +1,31 @@
+---
+id: cbd2b861-fa33-49ca-b70b-f48891a69f5f
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - hob5ohfgeazfeof4qhjbemb6axrgw0o
+  - nzvhhfieoijpq1qppe8eavoq0appa8dggr7atmc3ar3ebxija
+  - >-
+    4ohor3igrhac9jtihoad8fxvgqsgoia7kdq5odcj0gpg8ckj05au2a6s4hpgdyx5nndnwpj0spt6f58sg3h5ruek4hzhd0b3zhybgsj09yxpv5axxtbggvcsgdrfz8f9agt11rcy7ma82joi93pm3qakgdoqouc74lxxmddhegv2heugrz5dmgpi
+  - rj394s65ylwtppnrod22v5ohpqex61ieomq9aj
+  - k8cvxmgeixgxjv5okbzack9csynxxavnc9qlyq8irqa85jqvqc9hjibfhzzazzxrbu3pks
+---
+# HOB5oHfgeAzFeOF4QHjBemB6AXrGW0o+NZVHHFieOijPq1QPPE8eavOq0APPa8DGgr7AtMC3Ar3EBXiJ
+
+## Context
+From document: New Note — chunk 6770 (chunk 6770/8096)
+
+## Content
+HOB5oHfgeAzFeOF4QHjBemB6AXrGW0o+NZVHHFieOijPq1QPPE8eavOq0APPa8DGgr7AtMC3Ar3EBXiJA/4OhOr3IGrhAc9jtIHoAd8FxvGqsgOiA7kDq5ODCj0GPG8cKJ05Au2A6s4HPgdYx5NnDnWpJ0SPT6F58sg3h5rUEK4Hzhd0B3zHyBGSJ09YXpV5axxtBGgvCSgdRfZ8f9agT11rcy7mA82jOI93Pm3qAKgDoQOuC74LxxMDdheGV2HeuGrz5DMGPI+Rj394S65YLwTPPNrOd22V5oHpqeX61ieOmQ9Aj/K8cVXmgeIxgXjV5okBzacK9cSYNxxAvnC9QLyq8irQA85jQvQC9HjibfHZZAzzxRBU3Pks/yZoXpAdz2c9g8njZyBtp+C5PyeA8yjPa/sXxUstoT4PQL9v0Q1ZnfRnh/r+HFnP8fRnzXX9GWSecDxtAHpeYFFxHp+OA9RTX2ie2tTyZ5dx1rC+650LoDcGWE8b5XmBeZTnbaM0T5uYcP1/D6BHUR4IXkX5FKwHoEd9Hohe1XqBe0B6oHhU5oHgMRTmgeJzdXmA+bwuPleu/1WIHsX5mlkfm6i+4bzMgOjvv/HjGUCPB5gHlscKIXoAeqz2epTmUUw/q0AvQF997UcziB74G9gbnwLgKRQuCI43J/W/CZSnRgaPh/I66utA6NSouea8XwHoVYlXYZ6+gL1AfdovhOqdl3qAe+F86+HZN3tIz+dZPGc65pmJORdvjmfHG/c+nesd4FGgF6Bf+PFcgV4VeuD5s8rzfxjQ/P8xaX+cqc8vjt+HsAXx76sq0APOawL2S+N3JVTugfUxQXYBeYH2FIinDfiOCdHjiWuO23fcvxCQvthgbjrm8wFCBUoVgBUUTQFYY+YAMQPJowaeKoLbF4JmXuHctE89TTjYddO+OY4BWAteM0ab/Qhes4Z7cG7hXogbS/dkXeFf55uPd0yVeQD68svjDuN3XeB4QXkBer1QPR7InjOeq266B9dyXcFj+sbwnp1xnyexwlreoZ657MN1znUn5BinbZ/aviyRgu3GXJu5tM3RF467xn/LW4cczpl+fq3HWdIzuWe9Z8/mx3fT2jAgegB4PAA9bcD4tC8UD0yf5qYAvi8vCNpbN40L03uP3gdnco+0OU96Jp9R4fk4K2cRNNcTcw45adw5zsPb9k6dy55ck3ka
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

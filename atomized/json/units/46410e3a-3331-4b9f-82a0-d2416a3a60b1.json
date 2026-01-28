@@ -1,0 +1,26 @@
+{
+  "id": "46410e3a-3331-4b9f-82a0-d2416a3a60b1",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div>- Profile `AI Focus`: only your primary inline assistant + one chat assista",
+  "content": "<div>- Profile `AI Focus`: only your primary inline assistant + one chat assistant.</div>\n<div>- Profile `Transparent`: adds vibrancy; keep same AI subset as `AI Focus`.</div>\n<div>Switch via Command Palette: “Profiles: Switch Profile”.</div>\n<div><br></div>\n<div>**Session Usage Pattern**</div>\n<div>- Daily coding: `AI Focus` → minimal latency.</div>\n<div>- Comparative testing: switch to `AI Full`.</div>\n<div>- Presentation / transparent aesthetic: `Transparent` profile.</div>\n<div><br></div>\n<div>**Extension Host Monitoring (Inside VS Code)**</div>\n<div>1. Command Palette: “Developer: Show Running Extensions” → note activation time &amp CPU for each AI extension.</div>\n<div>2. “Developer: Open Process Explorer” to watch CPU spikes; look for sustained &gt15% CPU in extension-host [1].</div>\n<div>3. For memory: open Activity Monitor; renderer process memory growth &gt1.2GB while idle indicates too many active watchers.</div>\n<div><br></div>\n<div>**Inline Suggestion Rotation Shortcut**</div>\n<div>Bind a key to toggle providers:</div>\n<div>```jsonc</div>\n<div>{</div>\n<div>  &quotkey&quot: &quotctrl+alt+i&quot,</div>\n<div>  &quotcommand&quot: &quotworkbench.action.toggleInlineSuggestion&quot</div>",
+  "context": "From document: User: fix — chunk 35 (chunk 35/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "profile",
+    "quot",
+    "focus",
+    "transparent",
+    "switch"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

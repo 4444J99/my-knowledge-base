@@ -1,0 +1,32 @@
+---
+id: baec2ddc-af36-4fd2-92d1-d1af8b54d756
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - kpuqghaoe
+  - iqfeceojcjany8ilooar3bze8
+  - >-
+    vfzeeam4h59omyusihrr9opgrutlelbzz1ccdr6cpbnlx6wegmagxcy2jueg8zbw9qkzvbiulm67deibcbk
+  - >-
+    nff1dpkxuw2ixcj7i8xkgiyiqozrlzolp8awccoorqpqe1ymzkpzztdxvnqziye9kcyrgdku9zgagqpickkaii5fergccii6kyhjg1qx3u8ir0uiugaadzgbwdyakg6siin
+  - o4jhwleqtqsqsmcjag3gmighdakohikinic5010tjxr9f
+---
+# kPUQghAoE+IQfECEOJCjaNY8IlOOAr3bZE8/VfzEEam4H59oMYusIhrR9oPGrUTlelBZZ1Ccdr6CpBNL
+
+## Context
+From document: Strike one — chunk 259 (chunk 259/4795)
+
+## Content
+kPUQghAoE+IQfECEOJCjaNY8IlOOAr3bZE8/VfzEEam4H59oMYusIhrR9oPGrUTlelBZZ1Ccdr6CpBNLX6wegmaGxCY2JUEG8ZBW9qkZvBiuLm67DEIBcBk//nFF1dpkXuw2IxcJ7i8xKgiyIqoZRLzoLp8AwCcoORqpQE1YmzkpZzTDxVNqziYe9KCYRGDKU9ZgAgQpiCKKaII5FeRgCCiI6kyHJg1Qx3U8iR0UiugAADzgBWDYAkg6siiN+O4jHwlEQTQSqSmcJAg3GMIGHDaKOhikinIc5010tjxR9f+EU5yaSTqxCb1uJkVYPNniTfDaE2J8yidJ+1RS/IMq6NXTcTnpQz3tapBUmBGLaD3fEVVzxSZiyJ9AWdJgiaTQzSoUbhhVKGH8l6O+AFKPKKqLZvgiJL1RNHA8qgyL9re/gRYkk0+5C4qEooWFslQonuvJLc0001MqgE02WUDCHFYQCUhAAEtAAgAcNgFW3pIHHThqQX55ggK8YAsdqYTIeNiRQJyHEVUVCQCEh5KvrqAlssALYj1akI8OBRhufUfOmjFZvo6CZ+FMCtFAJZR6sqog/AWAzJohNJkQiFSDxeIXESu3wkpxpVJUZ1KQQd+osSVDBe4JVjhUC/pCFAD/iGBk2zZ7UIb+pEUAlFFEiYUj3qYYL3rhKCJmy1meDGIQHE2o3DqLW44aRI+G661tuDRKg2hAhAD7bQk5QBD8xKGIyjlAcwqCEIatbiEiSBMASjAfg6ggcwCgwgngVIAEgAEN4BUvRsp7Cd+VN1JfoEEPbmAf5BFDszbpAypwS0+ebNiI23wKfSU8Xyyata9lxaZjUTUWey7oratq7KGRnFZ+XlZBv6jKp7XWuA45w3wAIAUpUnobyeTtb39DqB4TCphB6M+hdjiRAU076yJvkrSa9MkA96LAI+9N07cBs0uJA8ooW8AgtGCBQtrEEwRIJ4QL8JMKmh1mANQgBza5/65NElAAAiSAvD3cnaM4cl5GCAIMR8DzEFawgkYc+C6jGESgszgIogl632jdpoCsaMVGM1jCiAUaKoQFaIMA2qx4ta9oRqEIm4yimhR+yj1/wsU1SkVdAa7NErlilO6J+iceyso/f8LIH+NxtDk6Mt4IujbTknahy2p1Z1V+4yML2tcGerGxkaNknvCLAmau13Cy8wERYgGFS7AJA5RgOufyZGIF
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

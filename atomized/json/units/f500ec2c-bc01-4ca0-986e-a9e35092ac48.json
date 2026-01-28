@@ -1,0 +1,26 @@
+{
+  "id": "f500ec2c-bc01-4ca0-986e-a9e35092ac48",
+  "type": "insight",
+  "timestamp": "2015-05-29T15:48:57.000Z",
+  "title": "<div>You're a verb </div>",
+  "content": "<div>You're a verb </div>\n<div>Who do you serve?</div>\n<div>Love yours mistakes</div>\n<div>If you're not embarrassing yourself once a day you aren't growing </div>\n<div>How  you treat somebody is you how you treat everybody </div>\n<div>Love is not a slice of the pie, it's the whole pie. So practice loving</div>\n<div>Don't be defended</div>",
+  "context": "From document: You're a verb",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "2363def324133c81666f2c13d53f5bbc",
+  "relatedUnits": [],
+  "keywords": [
+    "love",
+    "treat",
+    "verb",
+    "serve",
+    "yours"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,33 @@
+---
+id: 59013230-f653-4698-b875-25a8fbb14ff9
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    opcjaqh3ilumoy3jyehlv86yft1oqtxgzol1qeh1kpp6ozkrcmwiyvgyzuumgw9rw5izichmncaaa
+  - 7lzpbbely4sg5psdk
+  - 4rjexut8yil0i514i3yijtgvc3yyeoabhyrhj1dwdgdmt0mmjsdxxae
+  - >-
+    vo0y8vf87xfjubr6wkldtv52adkvy2qgqz8qzxzaa9or1rtv7pc7woepj6qwsjjydyjityhhd69oeczxztgixzii7dckfyppsldbekiosj4cn4hsuyaak0bit7wpo8njqzekfytcu43bj2srzceyluzbhmzem05ri5ndetcoeylajlsv4will4qrn2qrjaook4lh5bgeqolliam
+  - >-
+    cmnlfq8lnki5pwf5wpdqjpovxogi5hbuvdzmtjhjwxr1tbzzmwcnef5udjcb0ofr1b0cjwo9girkcru0m3eqawkwret9h5ojdocjdxa04shmrelmtz6qaaqevumecyyo68l0i6kmjaghcz
+---
+# OPCJaQh3ILUmOy3JyehLv86YfT1oQTxGZoL1Qeh1KPp6OZkrCMwiYVgyzuuMgw9Rw5IzicHMNCAAA+7l
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 9814 (chunk 9814/11534)
+
+## Content
+OPCJaQh3ILUmOy3JyehLv86YfT1oQTxGZoL1Qeh1KPp6OZkrCMwiYVgyzuuMgw9Rw5IzicHMNCAAA+7lZPBBElY4Sg5PsDK+4RjEXUt8YIL0i514i3yIJtgVc3YYEoaBHyRhj1DWdgdMt0MMJsDXxAE/vO0Y8VF87XFJUbR6wKLdTv52AdKvY2QgQZ8QzXZAA9OR1RTV7Pc7woEPj6qWsJJYDyjItYhHD69OEcZxzTGIxzii7dckFYPPSLDbEkIoSj4cN4hsUyAAK0bIT7wPo8NjqzEKfyTCu43BJ2SrZcEYLUZBHmZEM05ri5NdEtcoEyLAJlsV4Will4qRn2QrjAOOK4lh5bGEqOlLiAM+CMNlfq8lnKI5PwF5WPdqjPoVxogI5hBuvDzMTJHJwxR1tBZZMwcnEF5UdjCB0OFR1b0CJwo9giRkCRU0M3EqAwKwRet9h5OJDOcJDXA04shMReLMtz6qaaqEVuMECyyO68L0i6KMJAGHCZ+jlcQOozSBQ8QFSdgjwAcE+gcrialQSO6yJPqWWeR4MTiJfOYnXQqFXsr1PsvAHucoWrjFTkKvI77apVhCZpGYxWOwNsJN4APOfE3iMdlOB5cicrPAapsZB5+RETaLemZnkjIT8g3WCf9eNUYYJys7bRB64XIIRzfMRMurjeESy0Q47FVAKJrhKSLDJRnXCZdnHTZcwvFFF/PfNB6nahknXCjypR3jkTWM+6ijGz1cn0b3TDiT+NFxFOjZ4ybjR7jvpEMBU3dQLvEN+bEVHqERy/wQxQpcM84NPuaGEbmfwM9GDwgzQ/+mI+vfULdhRK45Vv+C+sGaMT/vIycgGd+U7YGwXTzi6P2HrLCluF0xn33sJ2yRo88l6990MMKcuJ9sD4RumSmpQjk/HoX90BXuW64W44ywDcz/1/uPu437d+nRHvYnRxmP98xYCPMl1WGfrQNE+L2HvumQaJ82v5YvucOnz9s45cET25dtmr9+RWFl6cy6g5Yc9H8qduObYie3zVxeNe6QMyZePWn7frtQPB7/3Lt6D3qlogdXdo6vnrm6au+Ec2e+MLv/kOsm/GLKxgP7UQaedOXMLyxYWznuuNplrUe2Hj3huPZZLxyzqa59zhfmfu7ITdOWzN+0qB1WIBcrN75rENYwtx004YBvTb12xhfObVQNf19EgXZQoyTZqa6XPxUdtOp3
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

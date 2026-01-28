@@ -1,0 +1,32 @@
+---
+id: 95bd9230-f1ff-4f1e-8164-61851efc9932
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 3zgfnxrkjndc9pns9o9cxktvvvw2dtqwtdr6m5ujjywyexhxqhdt
+  - ltgynhtd0he8uaf99tghauume3npl
+  - >-
+    7g0lusblovw8gefk8gkuieeoprwwbenvmm2nbnlmi89ombkc39czyu0ahfl8nx94ko0ffnlabvmyk2sp6obghbh5ze36kygeokquukv1nnoioz5myvbivhfegk2pfexhviqoyerpbe6zs4mybfhazz7eb4fmo
+  - >-
+    tx5jlnubhhejax4ujsf7hlqvvpyiped5djbp9u8iyzoyeht251ibxcm5mvnnwf4rniaei8oe4urzh3ce2qvrxvouhhifweeotjo3jxc7bxwzk7bxhws3b5i5o9rtlpwmn5
+  - xvwmfrxusd49duqckomwptfmgdtvwikxoxpayfhryhg
+---
+# 3ZgfnXRKjNDc9PNs9o9cxKtvvvW2DTqwTDr6m5ujJYwYExHxqhdT/lTGYNHtD0he8UaF99TGhAUumE3n
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 4928 (chunk 4928/18928)
+
+## Content
+3ZgfnXRKjNDc9PNs9o9cxKtvvvW2DTqwTDr6m5ujJYwYExHxqhdT/lTGYNHtD0he8UaF99TGhAUumE3nPl/7g0luSbLOvw8gEfK8GKUieeoPRWwBEnvMM2nBNlMi89oMBKc39CzYU0ahFL8nx94Ko0FfNlabvmYk2sP6oBghbh5zE36kyGeokquUkV1NnoiOZ5mYvbIVhfeGK2pfEXhViQOyERpbe6zs4mYBFhaZZ7Eb4FMO+Tx5jLnubhHejAX4Ujsf7hlqvvpyipEd5djBp9u8IYzOYeht251iBxCM5MVNnWF4rniaEi8Oe4URZh3Ce2qvrxvOUHHIfwEEotJO3JXc7bXwZk7bXhWs3B5i5O9RTlPwMN5+xVWmfrXusD49DUqcKOMWptfMGDtVwiKxoXpayfhRyhg/b3drmzhIJvpvXnh/6/s/jAa4m5FLyxcK3D0rDmebd/EtnqTb6q1h0m2KSfgG9SHh7W/oeBduX6fHyXbJJa8YxQ5WEth/dlc5YugT3qzuM24JT+SBrZVlcGEW8/p6zF7cHY+Sd/399FrPiDlYh2J5ZIrGJ2d8MItDg5Lw/tMrVbLD31MkgAeODuvz8TAWBwJ4tKmBcTfpKvXBjckXUZtJvt8yrnlGWmMDDQubiqPl5ubTX1ZbmIONV72YkloUwyRuf0A6hPfUxgQC7G1h5XBig/1k44llimmZGKAPIDHYWAlqbahZ9vqTiMBiC7aZEpnXZiA4veKzwJIuy2zl3coQM2HYtRHnVPuakWhPsRPv2yiKh4naACtKO1aPqc+y3evVvvhe2GRF7S4Ck+uMEjIkFIFEt4VhJ4t70ghbiXNArHu6gyaIpoNFhR98+KF7TnWMCm8G2X1ZBytcfKHTUPPVl1PM7ijHDj7d5g2BdQ5Db9vuFDuA8AKyCnNKWHCXWM7iPguzDuE9tdfXDSfJlH4uiUAituPPSjb3WniztMye6qRDFnnRa7QwbBp0f2+/6NK5Z6ODlVoWoR+5aTey8w1/Noj62wJ/24qTdIKThOyAH2bm4xa1zQtvhjwTw+wnL1rLbyKYi4HxdLZ5F78Yjx9ZV1y9b6nwvrd7h4R3sZPEvRzybDfGoX2Ls97BsjD53+4qR1R9wpsb2QdOLlhWzeEubpK/9uJy31XM6+sxe3F3PEre9Y/C0jNoDo5TthJ0ucu+a/Mpng/kt9s2aU62
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

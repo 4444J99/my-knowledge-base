@@ -1,0 +1,26 @@
+{
+  "id": "797eb53a-b44f-4329-9db0-93aa65ad3795",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "</td></tr>",
+  "content": "</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Final Failure (True Death)</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Permanent removal from Mastery Exam streak.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>No path back—student must complete the final paper.</div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div><br></div>\n<div>✅ Why This Works:</div>\n<div>  •  Creates risk and reward.</div>\n<div>  •  Ties literary themes into game structure.</div>\n<div>  •  Forces students to analyze their failures.</div>\n<div><br></div>\n<div>📜 5. Final Class Event: The Olympian Games of Literature</div>\n<div><br></div>\n<div>📜 Final class competition structured like an ancient literary showdown.</div>\n<div>✔ XP can be spent on “power-ups” to give competitive advantages.</div>\n<div>✔ Mastery Exam Champions are the “Judges” of the event.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 121 (chunk 121/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "final",
+    "valign"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

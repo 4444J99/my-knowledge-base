@@ -1,0 +1,26 @@
+{
+  "id": "18c2d80c-748f-453e-8b40-1f2f49a0c14d",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>   - Count total commits by user</div>",
+  "content": "<div>   - Count total commits by user</div>\n<div>   - Extract languages used</div>\n<div>   - Check for README existence</div>\n<div>   - Get repo creation date</div>\n<div><br></div>\n<div>3. Classification Logic</div>\n<div>   Personal Repos:</div>\n<div>   - GRADUATE: Not a fork OR fork with 10+ commits by user</div>\n<div>   - MINE: Fork with 0-3 commits, last activity &lt 90 days</div>\n<div>   - ARCHIVE: Original repo, no activity &gt 180 days</div>\n<div>   - DELETE: Fork with 0 commits, no activity &gt 180 days</div>\n<div><br></div>\n<div>   Org Repos:</div>\n<div>   - PRODUCTION: Has releases OR commits in last 30 days</div>\n<div>   - DEVELOPMENT: Commits in last 90 days</div>\n<div>   - EXPERIMENTAL: Commits 90-180 days ago</div>\n<div>   - CONSOLIDATE: Similar names/purposes detected</div>\n<div><br></div>\n<div>4. Report Generation</div>\n<div>   - Markdown summary with tables</div>\n<div>   - JSON export for programmatic use</div>\n<div>   - Visual stats (repo counts by category)</div>\n<div>   - Actionable recommendations</div>\n<div>```</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **File Structure:**</div>\n<div><br></div>\n<div>```</div>\n<div>repo-audit-and-triage-tool/</div>",
+  "context": "From document: Contents_Table — chunk 88 (chunk 88/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "commits",
+    "days",
+    "repo",
+    "fork",
+    "with"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

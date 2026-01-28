@@ -1,0 +1,26 @@
+{
+  "id": "27434b68-3bda-47b2-a684-4dd7f372a85a",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><font face=\"ZapfDingbatsITC\">✔</font> The Scribe gains a unique bonus—they ",
+  "content": "<div><font face=\"ZapfDingbatsITC\">✔</font> The Scribe gains a unique bonus—they may record and “rewrite” one event in the class that week.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Scribe Perks:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> If standing neutral, they receive a minor XP bonus but cannot intervene.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> If joining the chaos, they gain access to secret knowledge but must accept one random buff/debuff.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> The Scribe must document the week’s major decisions.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">✅</font> Why This Works:</div>\n<div>  •  Adds an evolving narrative layer—each week’s story is recorded by the players.</div>\n<div>  •  Creates an extra layer of agency—students decide whether to influence the game or stay safe.</div>\n<div>  •  Mirrors the role of scribes in historical and literary contexts.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 3. Skill Check Complexity – Factoring in Character, Setting, and Buffs</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Skill checks will now factor in multiple real-time elements:</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 315 (chunk 315/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "zapfdingbatsitc",
+    "applecoloremojiui",
+    "scribe"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

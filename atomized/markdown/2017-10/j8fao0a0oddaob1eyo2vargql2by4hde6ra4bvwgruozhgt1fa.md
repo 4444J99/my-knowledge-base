@@ -1,0 +1,33 @@
+---
+id: b800bf08-7009-4152-95ed-ec6f855d19b9
+type: insight
+created: '2017-10-19T23:15:11.000Z'
+document: 18dc3a996dd053a8e2f8b89fa16c3840
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    j8fao0a0oddaob1eyo2vargql2by4hde6ra4bvwgruozhgt1fagdsounaaxc8fujag4clrde3hndlcaje0ubp9kqoj9vdsgixgouhwkaostgfqjgili
+  - >-
+    aykxpqzfnt6g8tlgwlvjfgozysmmxtlam02cgeaczb558njmpfwuxcylghrc7hz6rqkgaeb3pii5ceadmscqswd4tbxunehlraza5gd7
+  - s2kl5ijsx7avmvo5vapddv35trjatwallsbiwkx1twi70es69xnk
+  - qh0nnz4fc0sjyxsvv9cjru121xt
+  - >-
+    iqs2xwrlsfv5yi9rmddeuncrnffvm3fcmd0s6fpqxnqwkhvverm26xzc61h5iihqf3de6yv4w11xyr
+---
+# j8FaO0A0oDDAOb1Eyo2VArGql2By4hde6RA4BvwGRuOzHgt1FAGDSouNaaXc8FUJAG4Clrde3hNDLcAj
+
+## Context
+From document: L-day IN A CHAR — chunk 407 (chunk 407/966)
+
+## Content
+j8FaO0A0oDDAOb1Eyo2VArGql2By4hde6RA4BvwGRuOzHgt1FAGDSouNaaXc8FUJAG4Clrde3hNDLcAje0UBP9kQOJ9vdsgIXGOuhwKAOStgFqjGilI+AyKxpqZfnt6g8tLGWLvjFgoZYSmMxTlAm02CgeACzb558njmpfWUXCYLgHRc7hz6RqKgAeB3Pii5CeADMScqSwD4tBXunehLrAZA5gD7/s2KL5iJSx7aVmVO5VapDdV35TrJATwAlLSBiwKx1tWi70eS69xNk+qh0NnZ4fc0sJYXsvV9Cjru121xt/Xt/Iqs2xWRlSFV5yi9rMdDEUNcrnFFVM3Fcmd0s6fpqxNQWKhvVeRm26xZc61h5iIHqf3de6yv4w11xyR/ADhQe7SY1v0ukJ9erHtqudXUz3UwDWgmH1zPJHtZCGYXZb3etc86dv1EZR+SpX7iwielDZLLRuT2R/uDdPcOWn/vYbmwkXV+5TnauLfKKkZ22bzGAYfiWP2j0KQfAcLpV6xUzlSqLbQaZKDvoPYJkEsu9dHFixdbx8AcrRqo970DqDPPIKwiaB85X/uazLP6Be+xto4BGxqucDc3nAcGkzbwnTpQT/oxzzME4Dx9neO4nSEe8J9AfMZW+n8Yc0kLpSvxKD9l49qpQnjO4TxlIYQy8J10qQuukXiRbsiLd2QfAp+JSxzAN3U/UWDVNm677r77bnfTyupt6tus5zHKPb3A/ag+zn0Qxj8uBNoHpZTfE5OkRr8nnzAOutIuxNNxxnDSHFMgDKfqfcX4lVde6c+LGJ2x6p0+QV/nRbmRG3uWEPjdQyGAi1wM0FBa0m74+kdePV2HrEJ7PLS2bvcV58gAOdPntu7Q7wjB3RNNVx7JJfF/lECUQJTA/6QE9CsZQ5RAlMDZJAEmkzxYMXH53ve+5xOdk5UfP/7XXnutw3usOFiy7ZP+k12o80yCP/GJT8jf4fXudodVBJs36+HlFAMTdfwzYvlF+UPAYgYfnlhhTGYJhmUGSgg2cmppafHLmMCiiGByjFIihiiBKIEogSiBKIEogeMlAPTgtxJ3CACp0t9ZwC3AgwCQCisC+B5c9vA5LeC8RO5NcPUDxOwUrMZnf682JGVTX9wDAfY3AVgVmgQ/22WxjBIAxQDntsuSmBUC7CNwUICZa5bLUninNqslLRQOa6tWaBPgRe5exxPiH4AS
+
+
+
+---
+*Source: Document 18dc3a996dd053a8e2f8b89fa16c3840*

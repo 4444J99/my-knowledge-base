@@ -1,0 +1,32 @@
+---
+id: d35382c4-add7-4f25-861b-059e7ffd3fa4
+type: insight
+created: '2025-07-18T21:27:21.000Z'
+document: 19a1c8b920a7c59b9421bc142020b138
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - rdul2lwn
+  - 4ahp3qcdixnn2hegz8haae03ohod8pvs0xf4vixc52l7akoodrg9p44
+  - 9gfz4770z4ygiu9cbapzvycatfzzetqkl4oaagzcv6l2eex7rj1tgjiunxcfjhqb20uiepadpu5
+  - >-
+    rof2h78apaecnvnee5j9all3bchrtkz32yxwgmt3sbudfhzwrt8m6pndwinrs6jtxy2nwgmoeygmuwpykkyvmonmohzv17t8egvaw3hrg7794xeee0kkx3dwgkjayeouzn9mbc
+  - >-
+    zndvbgt7xmoslih2wpmpm0ch8h2ypl1usszst8uajvafhcqvuhoxneudv3khan97a77hiymw7tl6irrijcugublybtzc2vwzhmqy7j
+---
+# RduL2LwN/4ahP3qCdixNN2hEGZ8HAaE03oHOd8PVs0XF4VixC52L7aKOOdRg9P44/dn/9GfZ4770Z4yG
+
+## Context
+From document: New Note — chunk 326 (chunk 326/1486)
+
+## Content
+RduL2LwN/4ahP3qCdixNN2hEGZ8HAaE03oHOd8PVs0XF4VixC52L7aKOOdRg9P44/dn/9GfZ4770Z4yGiu9cBAPzvYcaTfzzetQKL4oAAGZCV6L2eex7Rj1tGJiunxcFjhqB20UIepADpu5/rof2H78apaEcNVnEE5J9aLl3BchRtkZ32YxwgMt3sBUDFHZwrT8M6pnDwINrs6JTxY2NWgMoeyGmUWPYkKyVmONmOhZV17T8eGVaw3hRg7794XeEe0kKx3DWGKjAYEouzN9mBc++ZnDvbgT7xmOSLIH2WPmpM0CH8h2yPl1usSZST8UAJVaFhCqVUhoXneUdv3kHan97A77HiyMw7tl6IrriJCUgublYbtZC2VWzhMqY7j+9D/ZNx3oXgp876oZy/KzqiXLWBp1e8FJT1oWjgSo4VCMroOORNQP06RVVBlDVmcC1tzk3GyuSIIxnT6PweZ8JRGW1AWrvvwoUw8yZDJPxvVQ5VP7FxVCG//d6tp8Cx+Zj2MvlMJbH+jMeu9gH4ABAsb/CvD8mwASYABNgAkyACTCBnBFQY9YvetyGbKI41AL93U5ovvNp8J7sDl9KlQCqcRwACAMR4QGVllOzWvUkfN1EMH9jN3Q+sUWEkdIYIkZihxzuCmwAWP6l3DRcjdyBBoMRNXddCHJ07thX7wfb25lnJkaOn63HlZ87EwxXzEpqugBWA4ghe0QNxRWYUV/786ug41erINSYUdUQXxTM8vRWwTGimzcy7PynBdsxe5KM5C4s76E0hOja8cLwwj9arI4oFiOJnZrvXQz2t/aB9R1kiA5oknjTn9kr0ZatfVLVkvPdA2DBDPjIZppSzG9YPB7KPn+2ZBJptGZy8qYVAMB7af8dP1kJZnRAk0MZsKqgkM2SYbPTbO2dnP70ulHTeh1W9cg0vQGYcszslz/6gRAoMl4/N1ztQxWM/tM92AunC3yNFlCMrAwvVXfeRKhFrf1IOS45Jj7UPXi1IM/XfPeL4Wuz+SCAwXR5/zKzObWoczkyzP6nPkk1WCGZa+d/JBR6v1HjcfoyXTMHmr/7kvBZHHlN5GMKnpe6cQCg1N8BvH8mwASYABNgAkyACTAByQgox1ZDw59vAee6w9D12KaM5ol0/tNATtRzFRqjZTQq3xxFAJ1qHQ+tgrqHr89I25rGDPj80PHrtwHQYZsvZkVnr+nm
+
+
+
+---
+*Source: Document 19a1c8b920a7c59b9421bc142020b138*

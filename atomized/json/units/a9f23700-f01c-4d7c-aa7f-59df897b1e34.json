@@ -1,0 +1,26 @@
+{
+  "id": "a9f23700-f01c-4d7c-aa7f-59df897b1e34",
+  "type": "insight",
+  "timestamp": "2025-05-16T19:33:27.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt># Lead Strategy Recovery Plan – May 2025</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## 1. Quick Context</tt></div>\n<div><tt>We paused Facebook ads too frequently, which prevented Meta from completing its learning phase.  </tt></div>\n<div><tt>Performance dropped due to lack of optimization and rising cost-per-lead.  </tt></div>\n<div><tt>Current budget is $25/week, which is too low to allow meaningful learning or lead generation.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## 2. Current Facebook Status</tt></div>\n<div><tt>- Facebook ad is drafted and pending approval.  </tt></div>\n<div><tt>- At $25/week (~$3.50/day), we expect only 1–2 leads/week.  </tt></div>\n<div><tt>- Meta requires ~50 leads/week to stabilize and exit the learning phase.  </tt></div>\n<div><tt>- **Action:** Pause Facebook campaigns for now. Do not delete past ad sets; they may be reused later for lookalike targeting.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## 3. Google Search Campaign – MCA_Search_Intent_01</tt></div>\n<div><tt>**Objective:** Drive low-volume, high-intent leads efficiently.</tt></div>",
+  "context": "From document: # Lead Strategy Recovery Plan – May 2025 — chunk 1 (chunk 1/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "65b698e18393dc444767c76b5c321163",
+  "relatedUnits": [],
+  "keywords": [
+    "facebook",
+    "week",
+    "lead",
+    "learning",
+    "leads"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

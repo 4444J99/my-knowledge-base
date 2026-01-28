@@ -1,0 +1,26 @@
+{
+  "id": "fbfdd1bf-dc4c-4306-b57a-c524972fc6a1",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:15:38.000Z",
+  "title": "<div>          Metrics: [Stability, Intensity, Complexity]</div>",
+  "content": "<div>          Metrics: [Stability, Intensity, Complexity]</div>\n<div>    </div>\n<div>  InteractionStates:</div>\n<div>    Hover: Card elevation + 4px, shape animation speed +20%</div>\n<div>    Selected: Border glow effect, shape solidifies</div>\n<div>    Disabled: 50% opacity, grayscale filter</div>\n<div>```</div>\n<div><br></div>\n<div>**Visual Mockup Description**:</div>\n<div><br></div>\n<div>- Six cards arranged in responsive grid</div>\n<div>- Each card features a unique animated geometric form</div>\n<div>- Color coding: Warm (nurturing) → Cool (challenging)</div>\n<div>- Subtle parallax on scroll/swipe</div>\n<div>- Selection triggers immediate shape transformation preview</div>\n<div><br></div>\n<div>#### **Screen 2: Main Conversation Interface**</div>\n<div><br></div>\n<div>```yaml</div>\n<div>Layout:</div>\n<div>  Type: Vertical Stack with Floating Elements</div>\n<div>  </div>\n<div>Zones:</div>\n<div>  TopZone (15% height):</div>\n<div>    - Avatar State Indicator (morphing shape/face)</div>\n<div>    - Emotional Climate Bar (gradient visualization)</div>\n<div>    - Active Metrics Toggle (3-dot menu)</div>\n<div>    </div>\n<div>  MiddleZone (60% height):</div>\n<div>    - Message History (scrollable)</div>",
+  "context": "From document: AI Review & Expansion Prompt: — chunk 23 (chunk 23/25)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f193a3a0a188e43c3f5b1686778be1f5",
+  "relatedUnits": [],
+  "keywords": [
+    "shape",
+    "metrics",
+    "card",
+    "height",
+    "stability"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "44eec445-5020-43c7-b6d8-ee70e30bc1ed",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:44.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>### Automated Workflows and Triggers ($AUTOMATION_ENGINE)</div>\n<div>To tie everything together and ensure efficiency, the creative OS relies on an automation layer that reacts to events and orchestrates routine tasks. We refer to this abstractly as the **$AUTOMATION_ENGINE**, a scheduler or event-driven system that is not tied to a specific technology (it could be implemented with cron jobs, a CI/CD pipeline, an agent loop, or any event framework), but which we describe functionally. The goal of automation is to reduce manual overhead and ensure consistency, so that whenever a key event happens in the OS, the necessary follow-up tasks happen reliably.</div>\n<div><br></div>\n<div>Key automations include:</div>\n<div><br></div>\n<div>- **New World Initialization:** When a user or agent declares a new world or project (for example, by creating a new entry in `$OS_ROOT/worlds` or issuing a special prompt), the $AUTOMATION_ENGINE detects this event. It then **auto-generates a minimal repository structure** for that world in the version control system under $REPO_ROOT. For example, if a world with ID `WORLD-ALPHA` is created, the engine might create a new directory in the `$ORG_ID/worlds` repository, populate it with a README (seed description), an empty index file for characters, a placeholder storyline file, etc., all following the naming conventions. It could also create a corresponding feature branch (e.g., `feature/WORLD-ALPHA-initial`) in Git if the workflow dictates. This ensures that from the moment of creation, every world is tracked in the long-term project space and not just in memory or a single session.</div>",
+  "context": "From document: # Blueprint for a Self-Evolving Creative Operating System — chunk 17 (chunk 17/38)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "83dee6092ba3a8d02324ba12da038c25",
+  "relatedUnits": [],
+  "keywords": [
+    "world",
+    "that",
+    "event",
+    "automation_engine",
+    "this"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

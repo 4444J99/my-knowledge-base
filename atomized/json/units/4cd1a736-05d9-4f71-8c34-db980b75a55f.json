@@ -1,0 +1,26 @@
+{
+  "id": "4cd1a736-05d9-4f71-8c34-db980b75a55f",
+  "type": "insight",
+  "timestamp": "2025-04-08T01:46:00.000Z",
+  "title": "<div><tt>   - Include metadata block:  </tt></div>",
+  "content": "<div><tt>   - Include metadata block:  </tt></div>\n<div><tt>     ```</tt></div>\n<div><tt>     ---</tt></div>\n<div><tt>     title: [Thread Title or Function]</tt></div>\n<div><tt>     first_date: [Earliest message date]</tt></div>\n<div><tt>     version: v1.0</tt></div>\n<div><tt>     status: [active, archived, deprecated, etc.]</tt></div>\n<div><tt>     tags: [creative, education, systems, etc.]</tt></div>\n<div><tt>     symbolic_weight: [seed, mutation, echo, fossil, myth-core]</tt></div>\n<div><tt>     ---</tt></div>\n<div><tt>     ```</tt></div>\n<div><tt><br></tt></div>\n<div><tt>8. 🔥 BURIAL RIGHTS  </tt></div>\n<div><tt>   - If this thread is deemed obsolete or fully absorbed into a larger idea, record it as:  </tt></div>\n<div><tt>     `THREAD_FOSSIL__NAME_v1.txt`  </tt></div>\n<div><tt>   - Place it in: `/cold_storage/thread_fossils/`  </tt></div>\n<div><tt>   - Include a final eulogy: what this thread offered, and why it is now released</tt></div>\n<div><tt><br></tt></div>\n<div><tt>9. ⚠️ UNRESOLVED ELEMENTS  </tt></div>\n<div><tt>   - Highlight any ghosts: ideas introduced but not completed  </tt></div>\n<div><tt>   - Recommend if a new thread should be opened from this one</tt></div>\n<div><tt><br></tt></div>",
+  "context": "From document: 🧠 YES. You're calling for full ceremonial protocol exports — no shortcuts… — chunk 7 (chunk 7/11)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "ff90fb954430d83d39f46a351d5af791",
+  "relatedUnits": [],
+  "keywords": [
+    "thread",
+    "this",
+    "include",
+    "title",
+    "metadata"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

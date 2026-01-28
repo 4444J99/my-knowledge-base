@@ -1,0 +1,32 @@
+---
+id: 13439d68-9652-43a9-bb4e-0a6fe3b385f6
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - mijgkyst5ocpfvjwtqrd
+  - >-
+    zjtkmbaizsyfirxg68jjbycisjwdmu5k1degpcti2oydm5exudzkigfm5a4lv7oeqkljofx20hcbudyphokczbrgnvhba8jsgqwngbajqrkkmef51icieuuhgwshnlmjkti
+  - poblr2kqvy4ulvnellsvpswzg5arp8v1upg0mw9tfpsuhkksyoqnss9c3vjgbc9ki9
+  - 9oktufbwspy9oagermn62qbydhs0oioljhuw6j4hpwylqslweodhmgtzaccpwtu
+  - >-
+    swx7hjxabtopjgebo2wzmc5ltzf0ulstgfrfqfhknkxnpfi6pkdsbb4atbkqpqegi10auobyb5u0dx
+---
+# mIJgkySt5oCpFVJWtQrD/ZJtkMBaIZSyfIrXg68JJBycisjwDMu5K1DeGpCti2Oydm5ExudzkiGFM5A4
+
+## Context
+From document: New Note — chunk 18313 (chunk 18313/21099)
+
+## Content
+mIJgkySt5oCpFVJWtQrD/ZJtkMBaIZSyfIrXg68JJBycisjwDMu5K1DeGpCti2Oydm5ExudzkiGFM5A4Lv7oEQkljoFX20hcBUDyPHOkcZbrgNVhBa8JsGqWngbAJqRKKmeF51IciEuuHgWshnlMJKti/PoBlr2kqvY4ULVNellSvpswzG5Arp8V1uPg0mw9TFpsUHKksyoqnSS9c3VjGBC9KI9+fFM+9oktufbwspy9OAGErMn62QbYdhS0OioLJHuW6j4HpWYLQSlWEoDHmGTzAcCpwtU+SWX7HJxaBTOPjGeBo2WZmC5LtZF0UlSTgFRFqfHkNkxNpFi6PkdSbB4ATbKqpqEGI10AUoByb5u0dx+VU11HpJ3q6D3iQNWeQJt0+48DjU8wZ92S5GtnSwHmKyFzS0OydmaaxOMxMHPF+brpXMC5XwWrilTjqX6nNHXVJKz6uS+Fq1HAb0Lvk0okgKta7IvhJBMYSlMxjGQkelyiJNYmAMdZoHFBoTFJqyVe2yLjAhA1C3LNgoTTnJPcwa0lQKtiVa1iqVdyhS4pFIG+jPMFkmvBsDlAsV6zs7NFWV4qy+JCSeZI2Z0CaI+NR0GvimN7uA8/13Nerl6bAqtuyu9+/pI8+ZmzcvnChIyCYjOk4AZ5nD0EoPbgQ/0YVAetgnITvIeTvF5pEnoLZRJWFaymOUFLx3HSUaMOVD3q9O3xEQes+v33iZZC1fAuVr0foEr6KmDVVISxwlRFq3EHrGrCKgiWN56WItYcF24Z9VzJUpluxqhwJjxDwmuCr69gNcETyIBRi7xp67keGeFNP1xC/xIfW0MQV5jkBuq7zjfCGi/ODWDVSldVqLqLVW9IV/1Hed1KWtWxDVcVqOq2A1XdWNUFVV8DqGo5UNWFVW9IWbWwqsLVl8Gqilb1g5D7g5P9ocqMzYcv0990fUgz2/aHOjM2H/i0P//CK2+pG9DqT16WHz3/ktwpWH07sKri1KtXr+6CVR3fLbBqklVNf3EfCavPP/+8s/yNSVm9ePHiLlZVuNoMrGq6qgdWPYS2nw/Q3jnedeJdA941cLvXgPl/hffnx3LvWXkz4M2ANwPeDHgz4M2ANwPeDHgz4M2ANwPeDHgz4M2ANwPeDHgzcGsz8F4CqwpZDVp9JxJVm32NO0lZNQmrClObgVX7d5Y61t9lmm5+r6nd/N7T7ubn
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

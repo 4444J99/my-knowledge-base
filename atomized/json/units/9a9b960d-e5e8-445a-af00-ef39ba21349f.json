@@ -1,0 +1,26 @@
+{
+  "id": "9a9b960d-e5e8-445a-af00-ef39ba21349f",
+  "type": "insight",
+  "timestamp": "2025-11-05T21:42:26.000Z",
+  "title": "<div><tt>      tradeExperiences: experian.tradePaymentExperiences</tt></div>",
+  "content": "<div><tt>      tradeExperiences: experian.tradePaymentExperiences</tt></div>\n<div><tt>    };</tt></div>\n<div><tt>  }</tt></div>\n<div><tt>  </tt></div>\n<div><tt>  async monitorNewsAndSentiment(companyName: string) {</tt></div>\n<div><tt>    const articles = await this.newsAPI.search({ q: companyName, from: '7daysAgo' });</tt></div>\n<div><tt>    const sentiment = await this.sentimentAnalyzer.analyze(articles);</tt></div>\n<div><tt>    return { sentiment, signals: this.extractGrowthSignals(articles) };</tt></div>\n<div><tt>  }</tt></div>\n<div><tt>}</tt></div>\n<div><br></div>\n<div><br></div>\n<div><b><h3>🌟 Enterprise Tier (Custom Pricing)</h3></b><font face=\".AppleSystemUIFont\"><h3><br></h3></font></div>\n<div>White-glove data, custom scraping, and proprietary ML models.</div>\n<div><br></div>\n<div><b>Data Sources:</b><br></div>\n<ol>\n<li><b>Custom UCC Monitoring Service</b><br></li>\n<ul class=\"Apple-dash-list\">\n<li>Real-time UCC filing alerts across all 50 states</li>\n<li>Automated daily scraping with change detection</li>\n<li>Historical filing archives</li>\n</ul>\n</ol>\n<div><br></div>\n<ol>\n<li><b>Court Records / PACER Integration</b><br></li>\n<ul class=\"Apple-dash-list\">\n<li>Bankruptcy filings, litigation history</li>",
+  "context": "From document: data enrichment strategy for ucc-mca intelligence platform — chunk 8 (chunk 8/32)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "42efb0f415b2f324521d2959a50f91bf",
+  "relatedUnits": [],
+  "keywords": [
+    "articles",
+    "this",
+    "custom",
+    "companyname",
+    "const"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: a573f5dc-96e8-4a00-b566-db6a28fd568c
+type: insight
+created: '2018-10-05T22:17:31.000Z'
+document: 15981fe11fce83e658f6940d49a17e08
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - g19ypjik4qo6kzoo8j4ubzczeffgty1kwqgiasegbira4ra4
+  - zfz24tgecvpcqcta58oltvdxl1wtaoeegjcqagiashqgar
+  - gim1xbviaccd6uclordprcmd701rfilurakjyseehiaqeajcomeixbh47gpbqhbksgeq04frni
+  - >-
+    o1v3evcgnpjixakjacagbivaebmyfrsptrtromikt1zfw4tu83igj96cipxh3itsczbacqkaicaeh0gae2jdavttf9avw3rs7bl75rbj7uou4n7ihvpjcqagiasegbiqawlmpdqabzckpjhsdxxnt
+  - >-
+    vsgx4mvtdkw2paknxzbgt731hj36htj3nfdhi9he3dkuxcrfiluragfysaehiaqeajcomei9gncb5doun
+---
+# G19YPJIk4qo6KZoO8J4UbZcZEffGtY1KWQgIASEgBIRA4RA4/zFZ24tGECVPcQctA58oltVdxL1wTaoE
+
+## Context
+From document: Mike’s Mom’s Spanish Rice — chunk 100 (chunk 100/565)
+
+## Content
+G19YPJIk4qo6KZoO8J4UbZcZEffGtY1KWQgIASEgBIRA4RA4/zFZ24tGECVPcQctA58oltVdxL1wTaoEEgJCQAgIASHQGAR+GIm1XbvIaCcd6UClOrDpRcMd701RfiLuRakJySEEhIAQEAJCoMEIXBH47GpBqhbkSgeq04Frni+O1V3EvcGNpJIXAkJACAgBIVAEBMYFRsPtrtROMiKt1ZFW4TU83IGJ96cIPxH3ItSCZBACQkAICAEh0GAE2JdavtTF9aVW3RS7bl75rBj7uou4N7ihVPJCQAgIASEgBIqAwLmPdqabzCkPjHSDXxnt/vsgX4mVtdkw2PaKnxzbgt731hj36Htj3NFDhI9hE3dkUXcRfiLuRagFySAEhIAQEAJCoMEI9GnCB5dOun+ke+qDMe6hd8dUTJL3uXFEGId4W15af1ee+wNiyu/hKmSKI27tdO+Q20e4kcFHuPzftYEfdzuVsd5l2fnaET5cuZ2LuOcGvTIWAkJACAgBIdAcBNi7vd5EJi69K58db5X8PtiFI+553L3+d40sgbD9VQ0g7m9PIO7DKh9MxMnZLvfWP3+4++yHn0PM//fTODfoxdEOIt/nmvpjXytmzA5d+8Jo1++OERXrUa15VRoPV6Yi7Oku4l5qLnQiBISAEBACQqA9ERjaJGuziHvxXXF2DGZe7FdU96G3vhzvT371c8WaBcClKO+fiHveNaD8hYAQEAJCQAg0GIFmbQNJPvyqsbgffudEi/u/G7DrjVxlug4m/nPbRJePrS4rjpXdt3wXlbhfPkG/G/y6piYv4p4Kjx4KASEgBISAEGh9BE68rzkLD2Vx70qSfTJalHN/oLThgGLKW1Tifuw9EweZebUKIu55Ia98hYAQEAJCQAg0CYG9gwWg6wQ7qjT6z7e4V5qXTySxuMfFY9Hq9YHP84ufjA2/YvlqsDXfVYEbxe43jC9Xv8BH+5mPxrrbXx3dLb5vcSdtFhkywGB7zOGjxrm3vxrrbgl2nel9cXzecfL4925+eXSYN7763N8hcEW59KlRJVmRGdkpgx8v7nyPoDzsgEP5kG3Y12PdPW+OcYcFsxJx4bnn54//+qnBLjoPBH79/xsxzn3x48+leMgARu8E5bXfc8E19/g7NPAnj+ZRizx+GrtcNyKUD6x/DMrzeeBbT15nPTzK9Qpk9cNS9ybLT6PHL5z9
+
+
+
+---
+*Source: Document 15981fe11fce83e658f6940d49a17e08*

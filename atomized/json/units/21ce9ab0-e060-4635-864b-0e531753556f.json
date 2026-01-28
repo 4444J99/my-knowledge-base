@@ -1,0 +1,26 @@
+{
+  "id": "21ce9ab0-e060-4635-864b-0e531753556f",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>[Brief description of what this module does.]</tt></div>\n<div><tt><br></tt></div>\n<div><tt>⸻</tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>II. | CONTEXT</tt></b><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt>[What it relates to in the larger system: e.g. project, logic mode, format.]</tt></div>\n<div><tt><br></tt></div>\n<div><tt>⸻</tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>III. | CONTENT</tt></b><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt>[Full content block: prose, concept, syllabus, tool, engine, etc.]</tt></div>\n<div><tt><br></tt></div>\n<div><tt>⸻</tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>IV. | NEXT STEPS</tt></b><tt><br></tt></div>\n<div><tt>  •  [ ]</tt></div>\n<div><tt>  •  [ ]</tt></div>\n<div><tt>  •  [ ]</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### III. | EXPORT LOGIC</tt></div>\n<div><tt><br></tt></div>\n<div><tt>All modules will be exported with:</tt></div>\n<div><tt>- Clean Markdown (portable to Notion, iOS Notes, GitHub)</tt></div>\n<div><tt>- Flat naming structure for filenames and folders</tt></div>\n<div><tt>- Unique reference ID per module</tt></div>\n<div><tt>- Slot-in instructions per archive zone</tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 164 (chunk 164/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "what",
+    "module",
+    "logic",
+    "content",
+    "brief"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

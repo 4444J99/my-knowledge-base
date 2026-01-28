@@ -1,0 +1,26 @@
+{
+  "id": "0f9bc4bd-5273-441a-9558-7a9ee158df36",
+  "type": "insight",
+  "timestamp": "2025-08-20T01:08:51.000Z",
+  "title": "<div>Module 6: UI, Sound &amp Video Ecosystem</div>",
+  "content": "<div>Module 6: UI, Sound &amp Video Ecosystem</div>\n<div>Objective:   Evolve your shell into a 2D web terminal with audio, then a React Native mobile demo.</div>\n<div>Reading List  •  Designing Interfaces (Tidwell)</div>\n<div>  •  Web Audio API &amp React Native docs</div>\n<div>Further Studies  •  Unity 2D basics</div>\n<div>  •  Psychoacoustics in interface design</div>\n<div>Examples  •  src/ui/web/terminal.html + sound effects</div>\n<div>  •  src/ui/mobile/App.js playing media</div>\n<div>Templates  •  modules/module-6/project-template.md  •  Audio/video assets folder structure</div>\n<div>Tie-ins  •  Arts: audiovisual installations</div>\n<div>  •  Sciences: human perception studies</div>\n<div>  •  Philosophy: phenomenology of UI</div>\n<div>  •  Math: 2D coordinate transforms</div>\n<div>Wings Artifacts  •  Academic: UI pattern analysis</div>\n<div>  •  SOP: Building a React Native Prototype</div>\n<div>  •  Business: multi-modal OS deck</div>\n<div>  •  Social: demo video teaser</div>\n<div>  •  Community: livestream script</div>\n<div>  •  Wiki: UI Architecture</div>\n<div>  •  Web/Blog: From Shell to App</div>\n<div>  •  Grants: multimedia research section</div>\n<div>Module 7: AR/VR &amp Neural-Symbolic Extension</div>",
+  "context": "From document: Prompt for AI: Multi-Archetype Syllabus Critique — chunk 8 (chunk 8/10)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "735011ec826ae272226ee00d2196dfe0",
+  "relatedUnits": [],
+  "keywords": [
+    "module",
+    "video",
+    "audio",
+    "react",
+    "native"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: 8fcfe189-72de-45d8-bcbd-d277a5de8edf
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    zl1ncjwa6tmvh3hkyp28ojxq6hl0dhpf2ph8ynvebce5nddtq7ekri4ghdhylyvogdkew3unnmnpqv0ijjntvvxcavr0shedrf5nd0kcdcwt18ydivgnbngzhtz7t7ytzsk8qr1xa1vev
+  - njm11ho8fjvdwxdzxkqnce835hb0pulzrvqzm
+  - 5wkmoibqqipgqnas2jd0vdpoyvvko2263rmhvulufzsqtgcwvqvitkonq
+  - pj2m8lslrqkszq4vubqs11tli1ulsb0kpsw6mqlzv2e159
+  - >-
+    2xmw9ihiqt7uojpn8qndsxmjd9kskvu01ndmgfqz0pb7yhh4zph8jiohewtgjheaqtjj3ck2nor46d0pqkk1ildmwl6n0xl6evqtt8b1qgylhiayql9qq
+---
+# Zl1NcJWA6tmVh3hKYp28OJXQ6hL0DhpF2PH8YNVeBCe5nDDTq7EkrI4ghDhYlYVoGdKeW3UnnMnpqv0i
+
+## Context
+From document: New Note — chunk 8829 (chunk 8829/21099)
+
+## Content
+Zl1NcJWA6tmVh3hKYp28OJXQ6hL0DhpF2PH8YNVeBCe5nDDTq7EkrI4ghDhYlYVoGdKeW3UnnMnpqv0iJjnTVVXCavR0ShedrF5nd0KcDCWt18ydivGnBngZhTZ7T7ytzSk8qr1Xa1veV/Njm11HO8fjvDwXdZXkqnce835Hb0pUlZRVqzM+5WKMOiBqqipGqnas2jd0vDpOYVVKO2263rmhVUlUFZSqtgcwVqVitKonq+pj2m8lsLrqksZq4VUBqS11Tli1UlSb0KpsW6mqLzv2E159/2XMW9IHiQt7UOJpN8QndsXMJD9KSKVU01ndMGFqZ0pb7Yhh4zph8JiOhEWtGjHeAqtjJ3ck2NoR46d0pqKk1ildMWl6N0xL6EVQtT8B1QGYlhiAyQl9qQ+gBNY+GD6eoOpIH0RQSmpoRHsEhbdDKKHV8ChKcR1GSHasD8ZPYqjaGxMn90AcJa3OTgpC0oIwxBNcHTGBglFjOyMgpD2hVQKrgSGdCal2JqTahVJLOVm1G42tYrTKaaqMVgODfSmxk3Aq9eBQAqvhDFa7IzDQh6orggithoRQ6ikdy51TTyMFrMb0QDRh1GjCqFEEUSMYp0ZRNCzNxcT4Kayq8CptRyqwShiVsSolsYYoPEvX5s6pqiq9lTArJa2GMVh1JKyGEa6Njh16Vikw6kxTlVRV6Zy0eo5FaJXTSNeu34hDh4/gkUcfw9OUcnXvfT9AcWkZ5s5fRO8lxgu0SkmoA9pWkTFDUF5ZjV/Qn9Lg552VkOR1sqqVujpIwdptaemEC97AAQNWYcCqwWne/mBqjjOfFfMZMJ+BS/UzYMDqpXUjoTWvhm+i8i9QJBmVO98Q1h/eAtDzBVYff/xxjBw5stlr0l+fffyvAlZ5zfkm7p49ezBr1iyX73/ixIkqKZdvvLt6eAtWz8dzuXp+M2dWwKyAWQGzAmYFzAqYFTArYFbArIBZAU8r8Pff/h1/3PUHvFf6N3xS8TE+9Ziq6gVUdSSk2lHqNwRVva+vFWplsPoFpbd+effn+MffLp1kVft6fvvXb/Dp6U/wUQUlC5Z/iL+V/lWtKa+teVxaK2DA6oUFq2+++SYkZdWerirbesKqJ7Rqh6r2hFU7VpVtRqo6VBWwKt0OVxmqSr1DiapSfK9VH8u915bSVb0Bq96gVTtU5W17sqpAVYGreheoau92uCo4
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

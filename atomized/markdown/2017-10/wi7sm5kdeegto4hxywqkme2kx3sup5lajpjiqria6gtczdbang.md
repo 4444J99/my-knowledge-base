@@ -1,0 +1,31 @@
+---
+id: 678a277e-63fd-47c3-b118-109c6f8dc09a
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - wi7sm5kdeegto4hxywqkme2kx3sup5lajpjiq
+  - ria6gtczdbangqt1pwqworec2igenwpnjeuaocfp6u6belbeh
+  - >-
+    cd6lp3cd1szl2hhykdg100aakabxkenf61shjstehbjtqatdzdnv6fyqnsakothrqiu8ajfaltgsvyjgd9aiqf5dq8d0rtsyljlyacdotsmqrdslheqek3wppjhmkvgvynhg0yptvulkoqp1ygpnusioxqqiq8drupmb4ptvlajw6ehvwiyk3zfd9qzg0cfm4xlye38q3psrhup9tlfe0wj0wxrqgi6z9frx5e
+  - s7tazn
+  - 23qvtulpbpflv53k4g0a57hqpxtx61
+---
+# WI7SM5kDEEGtO4hXYwQkMe2Kx3SUp5LAjPJIq+Ria6GtCZDbANgqT1PWqWoRec2IgenWpnjEUaoCfp6U
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 1278 (chunk 1278/2189)
+
+## Content
+WI7SM5kDEEGtO4hXYwQkMe2Kx3SUp5LAjPJIq+Ria6GtCZDbANgqT1PWqWoRec2IgenWpnjEUaoCfp6U6beLbeh+cd6lp3CD1sZL2hhYKDg100AaKABxkenf61ShjSTEhBJTqatDzDNv6fyqnsaKOthrQiU8AjFaltGSvyjgD9aiQF5dq8D0rTsYLjLYACdOtSmQrdSlHEqEK3WpPJHmkvgVYnhG0YPTvULKoQP1YGpnUsiOXqQIQ8DRuPmB4PtVLaJW6EHvWiyK3zfd9qZG0cFm4xlye38q3pSRhUp9TlfE0wj0wxRqGI6Z9frX5E/s7TaZN+23qVtuLPBPflV53K4G0A57HqPXtX61+OrkWmgSPApZ2Q57Y4PSvyG/Zy0hdW/bd1HVdKJgZLi9ll25UlETlWJHJZsZHfJwa/afDqN8BjE/5V+p+YcXO2Nwy7M/cyJxJB90jb1rMe5VGK4NX0aZY8P8ALx+tUZYyQXfHHFfi0nzI/U6SsiEXKSMI1456kU4MI2HoeKqrBsUySEAdAO5/Cq9vCzSFiSQOR7UknY2UuhsBFRvnGCTTZMLINozimli4+ccDvSgv5gz0p6ozb6CYZ2wBjvU8U4SIo4yQeKkfa3zEf/rpIoSH+fqamW2ozE1O23XK3Dd6Zbsjb42XG4YrWv2yjRHoP51mwRqqBFAAAxx2qdNkXFXPEPHPwC+Hfj29ttU8a2A1JrWYXKQTnfCJF+6xiPytjrhgRmvcNItrLR7GKwso0gjiAWOOJQiIPRVAAA9gKhd1LYQ5K0zUNSsvD2jza1rciQWsKNJJLIwVUVBlmYnoAKnfcXKram4+oMi7mOR71matr2nabCLi9crFsaRpT9yNVGcuewPY9OK/nz/bJ/4LWaR4bun8B/sgpba1dKSt5rl7G4toGBxst4vlMpPXeSFHGA3OPx+0rTf28f20vEB1GU+KPHWkSXH2KZIZZBbQ3E/zIGB2wrEuQSeiA87RtrpjZaAon9In7QP/AAV4/ZB+CtxLo2mapJ4s1OFQWg0cLMmWB+UyllQFSAHG7Iz0JBFfmn4p/wCC8XxDuZDe+CPBOkx2bN8q3tzcGRe20lfLDE+wFcD8Pf8Agg78d765spvGfiTRdK0+WRDcpH50lzFDkb1UhdpkA6c7e+49/wBAv+HA37Hl3PAV1vxMyIjKwkuoz5jk5DtiNenQKoU
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

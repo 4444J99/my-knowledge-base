@@ -1,0 +1,26 @@
+{
+  "id": "fc3b5808-9800-4ad5-895d-61bfd7fefd5b",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>GitHub Copilot: Added 8 todos</div>\n<div><br></div>\n<div>**Issues Identified (No Solutions)**</div>\n<div><br></div>\n<div>1. **Neovim Extension Error**: `nvim_execute_lua: Error executing lua: [string &quot&ltnvim&gt&quot]1:1: module 'vscode' not found` — Lua script trying to load VSCode API outside proper context.</div>\n<div><br></div>\n<div>2. **Python Debugger Package Missing**: Log showed `Error: Unable to read file '/Users/4jp/.vscode-insiders/extensions/ms-python.debugpy-2025.15[REDACTED:PHONE NUMBER]-darwin-arm64/package.json'` — stale extension directory reference.</div>\n<div><br></div>\n<div>3. **Multiple AI Extensions Overlap**: OpenAI ChatGPT (~316MB), Gemini (~258MB), Windows AI Studio (~167MB), plus Copilot all active simultaneously — potential inline suggestion conflicts, high memory usage, competing activation.</div>\n<div><br></div>\n<div>4. **Duplicate Extension Versions**: Multiple Pylance directories (2025.9.1, 2025.9.101) and debugpy versions present — wasting disk space, possible activation race.</div>\n<div><br></div>\n<div>5. **Heavy Extension Load**: 4+ AI assistants + large language toolchains + vibrancy/transparency stack + Neovim — cumulative activation time and renderer memory pressure.</div>",
+  "context": "From document: User: fix — chunk 42 (chunk 42/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "extension",
+    "error",
+    "vscode",
+    "2025",
+    "activation"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

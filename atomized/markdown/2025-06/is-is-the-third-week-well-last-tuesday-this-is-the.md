@@ -1,0 +1,30 @@
+---
+id: 9eb5444a-557d-4386-b9f9-af173a46d6b7
+type: insight
+created: '2025-06-26T22:20:27.000Z'
+document: 3064a729ccc4b131077d7f0fa180d5e3
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - this
+  - okay
+  - that
+  - week
+  - second
+---
+# is is the third week? Well, last Tuesday. This is the third fucking week? Second
+
+## Context
+From document: . So, these are all different things getting your attention. So we… — chunk 8 (chunk 8/12)
+
+## Content
+is is the third week? Well, last Tuesday. This is the third fucking week? Second. This is the second week or the third week? The second.Cause last Monday we went to Miami. Wait a second. Okay. Oh, here it is, with this. We sned ocean sound. On 66. We had 10 days. Yes, like I said, last week. So this is just Oh, this is the second week? Yeah. Okay, so I'm thinking it third. Okay. I got a lot of fucking days, a lot of main travel man. Oh, my God. So that's that's part of one of the questions that's gonna be how. Book even better look is Gemini is attached right to it.. Okay, same thing. I is Fred. worked.... I checked the ocean celllcer. So, look.. click this. See that that little diamond? Yeah. That's that's this AI for this program.. This is all Google's programs. try it out. It literally will talk to your sheet, okay? So.'s more money a month. It's. Okay. But you'll. What? Now? It's just it It's super hell useful. I mean, it's fine. Whatever you want to do, but it'll literally talks to your sheets. It makes it very simple. Okay, what's learn how to use my sheets, right? my she will it fill out my sheets for me? Basically, almost, yeah. Really?. Let's try not free for a month then.
+
+
+
+---
+*Source: Document 3064a729ccc4b131077d7f0fa180d5e3*

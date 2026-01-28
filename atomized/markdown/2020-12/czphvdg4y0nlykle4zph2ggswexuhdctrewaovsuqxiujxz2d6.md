@@ -1,0 +1,32 @@
+---
+id: 5d2c3c4b-6c70-4268-b89d-83b412e8627f
+type: insight
+created: '2020-12-04T00:15:12.000Z'
+document: e44d7acfd42bc15a324166b827d0b603
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    czphvdg4y0nlykle4zph2ggswexuhdctrewaovsuqxiujxz2d6u6tk8tdcejo2zpcqnmanan1yz2mcpkl8
+  - fplmzraityhnz025tllhfkbasjdig787s5ia
+  - quv4tcvfyhwxaszwkcqz4qs
+  - ixcsh9iqtuobcduracturantkuh66husnkvbu
+  - >-
+    ipdwpwuz226rr4iw9kaeaixu5hqx1gihkeca3svrmzhohxvgau4mklc5mwtswy3em7xdrmip4z3xnvamegfkkrf9kubrsjakpo
+---
+# cZPhvdg4Y0nLYkle4ZPh2GGswExUhDCTreWaOVsuqXIUjXz2D6u6TK8TdCejo2zPCqnmanaN1yz2mCpk
+
+## Context
+From document: How Geniuses Spent Their Time — chunk 29 (chunk 29/812)
+
+## Content
+cZPhvdg4Y0nLYkle4ZPh2GGswExUhDCTreWaOVsuqXIUjXz2D6u6TK8TdCejo2zPCqnmanaN1yz2mCpkL8/FpLMzRAiTyhnZ025TLLhFkbASjdiG787s5ia+quv4tCvFyHWxAszWkCqZ4qs/Ixcsh9iQTuOBCDuRActurAntkUH66husNkvbU+IPDwPWUz226RR4IW9KAeaIxU5HQX1giHkECA3sVRMzhoHxVGaU4MKLc5MWTswy3Em7XdrMIP4Z3xNVamEGfkkrf9KuBRSJAKpO+yF4StqGo59RHUhGrMqMvZ1pGBZUdDo8DOMH4SopBU/l9FyenQpUImuD4U1ICSgARrhBT8LKoFNTtSdASYWHHRjFzrZzCYNp4Zf8JCyA0nkII+2OafYAhJ4EBxv7JlrjYTTbpSUsGNJZsWq+ABO5h12Dky4SOamESdXaNix0ZlIokZhwZtKGpOBSO3fSsJAowo6hu2K7PWEy0IIjhAUWv0kWYnpS24oFVctrm0YBkrOGxmzmCvo8yWFLsOUhNgHFZgwFdzGqaAVbYMyv2DZcLf9CVJukw3s1i9TT1kQII8AQAYA3xHb+kp41FxW71mAjo53BA0xOFV6JJCOlOgSG7GkvksmpGh1i2fI4xMYEwNUxn/jE+R//xHkw8EYaLi6LQKtVc6gH1/chFlcCfuUrX6sqsnYNHQhDWd7xznfJxlgCYCCLATDiaqPEI6rNqmljCtZSPEWC4cILL6ovPJllBwBXOH/p3HP/FRc6qYQlyWh1qOKwDAoIOw/T+9//gerPFEVYNSFDKjCH55zzUXQDPzfcq5ASIcWAq8xwtVfYWax5ANbmWYdH1Lmf+tRnzj//k6gUFxvHFFJnixwSBp24VquuUrRgGtgwi4sl3/e+D5hfTs/K6ORAFpgGLu/60IfODo/JyRwtAiBtGfh1Wk0VA9wC4H/T0lZeXNH55je/FR9AxVBO/CekDUy1AnMWTnymDi3COKj4689OUfzKknk9q1wODDAxEI/zqudd2xVLfJ3tbIXIg1N2Ojs+EgFCQPd/+zvffdOb3ozf7dTU2Wefc9FFX33Pe94bZ/iMRyCu/MCGI96u0RsCzP+Od/gPFrPkiaRJGLCuPBlKmPCmRaxJ0hBD23e/AjPXlNcpyiDY/J2wAPvO/deP4Q8B3yiKi/gEAP7f/u0T+MaOhkc63Zwdw2Ej
+
+
+
+---
+*Source: Document e44d7acfd42bc15a324166b827d0b603*

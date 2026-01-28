@@ -1,0 +1,26 @@
+{
+  "id": "c7af4d2d-d146-4da1-8b8b-8fa6d758edfe",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>```</div>\n<div>cognitive-archaeology-suite/</div>\n<div>├── 0-archive-audit/</div>\n<div>│   ├── inventory-scanner/</div>\n<div>│   │   ├── scan-icloud.py</div>\n<div>│   │   ├── scan-dropbox.py</div>\n<div>│   │   └── scan-drives.py</div>\n<div>│   ├── content-classifier/</div>\n<div>│   │   ├── identify-file-types.py</div>\n<div>│   │   ├── extract-creation-dates.py</div>\n<div>│   │   └── detect-duplicates.py</div>\n<div>│   └── outputs/</div>\n<div>│       ├── archive-inventory.json</div>\n<div>│       └── archive-timeline.json</div>\n<div>│</div>\n<div>├── 1-ai-context-audit/</div>\n<div>│   ├── conversation-exporter/</div>\n<div>│   │   └── uses-chatgpt-exporter/</div>\n<div>│   ├── topic-extractor/</div>\n<div>│   │   └── what-were-you-discussing.py</div>\n<div>│   └── outputs/</div>\n<div>│       ├── all-conversations-by-date.json</div>\n<div>│       └── topics-discussed.json</div>\n<div>│</div>\n<div>├── 2-personal-repos-audit/</div>\n<div>│   ├── repo-classifier/</div>\n<div>│   │   ├── identify-fork-vs-original.py</div>\n<div>│   │   ├── extract-purpose-from-readme.py</div>\n<div>│   │   ├── analyze-commit-history.py</div>\n<div>│   │   └── detect-actual-modifications.py</div>",
+  "context": "From document: Contents_Table — chunk 76 (chunk 76/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "json",
+    "archive",
+    "audit",
+    "scan",
+    "inventory"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

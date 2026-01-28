@@ -1,0 +1,26 @@
+{
+  "id": "ccab0a8a-edd1-4244-bf19-8864bef1f4ab",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## 🧠 CORE STRUCTURE</tt></div>\n<div><tt><br></tt></div>\n<div><tt>At the center of MYTHOS is a recursive parsing system called **SYMNUM4GRAM**, a symbolic grammar that breaks text into three cascading levels of structure: sentence, word, and letter. Each element becomes modular, symbolic, and reconfigurable. This allows the system to perform operations on meaning the way a modular synth processes sound: with rerouting, looping, blending, filtering, and layering. All symbols—whether linguistic, emotional, historical, or imagined—can be split, tagged, remixed, and reassembled.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Wrapped around this is the **Recursive Generative Language Engine (RGLE)**, the living heart of the system. Unlike static AI models, RGLE is designed to mutate, to reflect, and to grow in dialogue with its user. It is memory-aware, identity-sensitive, and philosophically recursive. It references back not just to prior outputs, but to prior emotional states, symbolic threads, and mythic positions held by the user within the system.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 47 (chunk 47/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "system",
+    "recursive",
+    "symbolic",
+    "structure",
+    "modular"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

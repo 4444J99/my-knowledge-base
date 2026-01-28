@@ -1,0 +1,32 @@
+---
+id: ab04fc1b-84ec-44c5-897a-63d442d9ff08
+type: insight
+created: '2022-06-17T15:20:35.000Z'
+document: 2d7d1e6f59883c10a0a4726de839f883
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ashley
+  - anthony
+  - hand
+  - other
+  - this
+---
+# <div>Amelia Be. combs her hand along her neck searching for stray hairs; her oth
+
+## Context
+From document: Amelia Be. combs her hand along her neck searching for stray hairs… — chunk 1 (chunk 1/4)
+
+## Content
+<div>Amelia Be. combs her hand along her neck searching for stray hairs; her other hand clenches a tweezer, it’s pincers agitating the raised flesh. She does not thank folks who hold the door open for her. </div>
+<div><br></div>
+<div>Ashley No. arrives at the Retreat early one morning. This isn’t her first go around, nor is it the first stop on this go around; having become manic out in Atlanta, her parents Baker Acted her (she said). JFK or as she and others called it, Jail For Kids, couldn’t quite manage her. Being unmanageable and shipped from one location to the next is a common occurrence at rehabilitation centers, particularly cases where the patient mainly suffers from mental health issues. When she walked into the Dayroom somewhere between four and five am, she stumbled upon Anthony Pa. (who woke up and propelled himself out of bed thinking it was later than it really was) reading a book. Despite having a hectic few weeks prior, Ashley No. was chipper and all smiles and all legs, knuckles, and knees. Her hair had tight curls, and coalesced in the back of her head into one tight dreadlock. She would spend the next few weeks teezing out a few new strands each day. Ashley chatted Anthony Pa. up; he was all ears, and her smile brought him some warmth (after all, all the other women found him invisible, and the men were too interested in the woman to befriend him). Anthony Pa. became engrossed in her ma
+
+
+
+---
+*Source: Document 2d7d1e6f59883c10a0a4726de839f883*

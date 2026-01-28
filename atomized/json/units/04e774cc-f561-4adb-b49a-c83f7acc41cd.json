@@ -1,0 +1,26 @@
+{
+  "id": "04e774cc-f561-4adb-b49a-c83f7acc41cd",
+  "type": "insight",
+  "timestamp": "2025-07-05T15:06:03.000Z",
+  "title": "2,%22COMMAND%22,%22EMBED%22,%22HR%22,%22IMG%22,%22INPUT%22,%22KEYGEN%22,%22LINK%",
+  "content": "2,%22COMMAND%22,%22EMBED%22,%22HR%22,%22IMG%22,%22INPUT%22,%22KEYGEN%22,%22LINK%22,%22META%22,%22PARAM%22,%22SOURCE%22,%22TRACK%22,%22WBR%22%5D;function%20B(e)%7Breturn%20k(e,x)%7Dfunction%20J(e)%7Breturn%20L(e,x)%7Dvar%20D=%5B%22A%22,%22TABLE%22,%22THEAD%22,%22TBODY%22,%22TFOOT%22,%22TH%22,%22TD%22,%22IFRAME%22,%22SCRIPT%22,%22AUDIO%22,%22VIDEO%22%5D;function%20Z(e)%7Breturn%20k(e,D)%7Dfunction%20ee(e)%7Breturn%20L(e,D)%7Dfunction%20k(e,t)%7Breturn%20t.indexOf(e.nodeName)%3E=0%7Dfunction%20L(e,t)%7Breturn%20e.getElementsByTagName&amp&ampt.some(function(r)%7Breturn%20e.getElementsByTagName(r).length%7D)%7Dvar%20s=%7B%7D;s.paragraph=%7Bfilter:%22p%22,replacement:function(e)%7Breturn%22%5Cn%5Cn%22+e+%22%5Cn%5Cn%22%7D%7D;s.lineBreak=%7Bfilter:%22br%22,replacement:function(e,t,r)%7Breturn%20r.br+%22%5Cn%22%7D%7D;s.heading=%7Bfilter:%5B%22h1%22,%22h2%22,%22h3%22,%22h4%22,%22h5%22,%22h6%22%5D,replacement:function(e,t,r)%7Bvar%20n=Number(t.nodeName.charAt(1));if(r.headingStyle===%22setext%22&amp&ampn%3C3)%7Bvar%20i=E(n===1?%22=%22:%22-%22,e.length);return%22%5Cn%5Cn%22+e+%22%5Cn%22+i+%22%5Cn%5Cn%22%7Delse%20return%22%5Cn%5Cn%22+E(%22#%22,n)+%22%20%22+e+%22%5Cn%5Cn%22%7D%7D;s.blockquote=%7",
+  "context": "From document: javascript:void%20(()=%3E%7Bvar%20S=(e,t)=%3E()=%3E(t%7C%7Ce((t=%7Bexports… — chunk 2 (chunk 2/16)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "af0c0eec9b95a645ff4159ded0dae6bd",
+  "relatedUnits": [],
+  "keywords": [
+    "7breturn",
+    "function",
+    "7dfunction",
+    "7bfilter",
+    "replacement"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

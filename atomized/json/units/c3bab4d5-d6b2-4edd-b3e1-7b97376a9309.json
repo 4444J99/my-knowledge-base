@@ -1,0 +1,26 @@
+{
+  "id": "c3bab4d5-d6b2-4edd-b3e1-7b97376a9309",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>6. **Transparency Stack Complexity**: Previously had vscode-vibrancy + fake Mica + APC Customize UI++ + animations + dynamic base16 + Frosted Glass Theme — multiple compositing layers competing.</div>\n<div><br></div>\n<div>7. **Settings Verbosity**: `geminicodeassist.verboseLogging: true`, `chatgpt.openOnStartup: true`, `editor.aiStats.enabled: true`, `workbench.experimental.share.enabled: true` — background churn.</div>\n<div><br></div>\n<div>8. **Extension Affinity Override**: `extensions.experimental.affinity: { &quotasvetliakov.vscode-neovim&quot: 1 }` — may isolate Neovim but doesn't fix root Lua config issue.</div>\n<div><br></div>\n<div>9. **No Profile Isolation**: All extensions active in single profile — no way to quickly switch to minimal stable environment.</div>\n<div><br></div>\n<div>10. **Automation Script Permissions**: chmod exit code 1 — scripts not executable, LaunchAgent won't run without proper permissions.</div>\n<div><br></div>\n<div>11. **Log Analysis Gap**: Only CLI log captured, not actual GUI session logs (main.log, renderer*.log) where extension activation errors appear.</div>\n<div><br></div>\n<div>12. **Rollback Strategy Missing**: No documented quick revert if changes break workflow — backup exists but restoration steps unclear.</div>",
+  "context": "From document: User: fix — chunk 43 (chunk 43/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "true",
+    "vscode",
+    "enabled",
+    "experimental",
+    "extension"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

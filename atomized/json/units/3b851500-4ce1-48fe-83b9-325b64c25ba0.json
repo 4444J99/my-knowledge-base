@@ -1,0 +1,26 @@
+{
+  "id": "3b851500-4ce1-48fe-83b9-325b64c25ba0",
+  "type": "insight",
+  "timestamp": "2025-11-05T21:42:26.000Z",
+  "title": "<div><tt>    };</tt></div>",
+  "content": "<div><tt>    };</tt></div>\n<div><tt>  }</tt></div>\n<div><tt>}</tt></div>\n<div><br></div>\n<div><br></div>\n<div><b><h3>🏆 Professional Tier ($499-999/month)</h3></b><font face=\".AppleSystemUIFont\"><h3><br></h3></font></div>\n<div>Premium data with real-time monitoring and proprietary signals.</div>\n<div><br></div>\n<div><b>Data Sources:</b><br></div>\n<ol>\n<li><b>Experian Business Credit API</b><br></li>\n<ul class=\"Apple-dash-list\">\n<li>Comprehensive credit reports, bankruptcy alerts</li>\n<li>Real-time credit monitoring</li>\n<li><b>Cost:</b> ~$2-5 per report</li>\n</ul>\n</ol>\n<div><br></div>\n<ol>\n<li><b>ZoomInfo/Apollo.io</b><br></li>\n<ul class=\"Apple-dash-list\">\n<li>Technographic data, contact databases</li>\n<li>Hiring velocity, funding rounds</li>\n<li><b>Cost:</b> Annual contract ($10k+/year)</li>\n</ul>\n</ol>\n<div><br></div>\n<ol>\n<li><b>S&ampP Capital IQ</b><br></li>\n<ul class=\"Apple-dash-list\">\n<li>Financial statements, M&ampA activity</li>\n<li>Industry benchmarks</li>\n<li><b>Cost:</b> Enterprise licensing</li>\n</ul>\n</ol>\n<div><br></div>\n<ol>\n<li><b>Preqin/PitchBook</b><br></li>\n<ul class=\"Apple-dash-list\">\n<li>Private equity funding, valuations</li>\n<li>Investor relationships</li>\n<li><b>Cost:</b> Annual contract ($15k+/year)</li>",
+  "context": "From document: data enrichment strategy for ucc-mca intelligence platform — chunk 6 (chunk 6/32)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "42efb0f415b2f324521d2959a50f91bf",
+  "relatedUnits": [],
+  "keywords": [
+    "class",
+    "apple",
+    "dash",
+    "list",
+    "cost"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

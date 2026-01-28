@@ -1,0 +1,31 @@
+---
+id: fc62ccb5-039e-4831-a31a-d5bf6cb0f129
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    juljddve8wdqmx2249olcgqqqacbbbrqfyrdhtzpuffbp0hn1ae71n7prbwsaqqsuidgtfbgaae3abwju982tbjlwosqnhkbbbbaaie2bdtfsmodaeapbawsbdicchgxihi7rq7vjrwsgaak6eri0lqndvxr5puhl0aaaqqqqcabbtquugy90x3qof4jsf0iibatayi3wrsbbnwengzm8y2
+  - o7t2swvcbat3t9qz08gbtugiiiaaagkuya
+  - 6zrc21ylsy45qtpoyxjqzeaqqckoawdstcgt1u2e7epau4ixnrolmdvwho
+  - r7vz9gh
+  - 8eroewyqgggaaceqipamqtdfbwc3nn961atyb
+---
+# jUljddVe8WDQmx2249oLCgQQQACBBBRQFyrdhtZpUfFbp0hN1aE71N7PrbwSAQQSUIDgTfBGAAE3AbWj
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 1033 (chunk 1033/18928)
+
+## Content
+jUljddVe8WDQmx2249oLCgQQQACBBBRQFyrdhtZpUfFbp0hN1aE71N7PrbwSAQQSUIDgTfBGAAE3AbWjU982tbJLwOsqNhkBBBBAAIE2BdTfSmOdaEaPBAwSbDICCHgXIHi7RQ7vjrwSgaAK6Eri0LqndVXR5pUHL0AAAQQQQCABBTQuugY90X3qoF4JsF0IIBATAYI3wRsBBNwENGzM8Y2/O7T2SWvCbat3t9qZ08GbtugIIIAAAgkuYA+6Zrc21ylSY45qtPOYXJqzEAQQCKoAwdstcgT1U2e7EPAu4IxnrolMdVWhO/r7Vz9GH+8ErOewyQgggAACEQIPaMQTdfBWC3NN961atyb+0OnS+7mVVyKAQAIKELwJ3ggg0LaAJu7WhYUGj1H1+0iDNZHYwbWaSOyiLjvU/dsacY0y+PIEL/6w+QgggEAwBXS7ec/KX6s9uU55OvHp9KeToE6Fuh+tKTaZTiwB4xObjEDHBAjebUeOjsnyVwgETODCrrcv3NT4cOb01m3+o+uf09BrmspbFyVk74hiSDCvPtlABBBAINEEnNHLNXS5its65Vn17a2vaL4Pzd2tErdOi7fv0oOLSQQQQKBtAYJ320YcTxFAIEpAlxqqgWvmUpXBT2956eTm35/Y9LyK4br9r1lVDjc8ow5vukyxS+KPOZ3DQ/3DSaQIIIAAAgjEj8ADe1Y8pDPUvtWPqC+VTls6eWn6TMVszdGtk5pObSc2vaAGX+pypVOeTnw6/Z1vjNxcQyKAAALtECB4twMrKnvwTwQQiBSwS+Jv2cXwV09vuWRFcTuHO+3SD9Q/oUZ6apTe+Fjx0J4VD6r9XuNj+QN2wVzDtjFyW/xcj7ImCCCAgH8FnBOKdXKxHqHTjU49Strhk5FuDavRlpW0G57RjWOdtnTyUsy+devLKmtbNW0K2tTzEUAgRgIEb4I3AgjETMBui/6WGuCd2/GGur1piNez215ViUBXMHqoNq6rGbXTO7Hxeac2fkS18XVP64onVB5/1CqP253GSeCJ1p6T7UUAAQRiJGCNfKZTie72RhaxdbrRSUfpWicgnYZ0MrLq2Fsu6dykM5TmzrTOWdtf08lLpzCVtUMtyWN2ioy8Vc1zBBBIQAGCN8dTBBDoSoG31UJPVXFd2egqR9c6dhR/4XhEFFcDv3BLdRUidNlkXzw9qnaA1sNO5moW
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

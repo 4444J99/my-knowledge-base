@@ -1,0 +1,26 @@
+{
+  "id": "c1f298fd-db28-4e16-bd81-e54b9a3f2e7d",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:57:38.000Z",
+  "title": "could rename them budget_finance.xlsx and budget_personal.xlsx, or better yet fi",
+  "content": "could rename them budget_finance.xlsx and budget_personal.xlsx, or better yet finance_budget.xlsx vs personal_budget.xlsx to group by context. Some migrators append an origin ID or date to every file to guarantee uniqueness (e.g. 1234_budget.xlsx where 1234 might refer to old system ID). • Folder Templates and Media Buckets: Some large media migrations use a bucket strategy: rather than many small folders, they create large buckets that rely on metadata for differentiation. For instance, dumping 10,000 images into one folder is not ideal for manual browsing, so a bucket approach might be to have folders “Images_A”, “Images_B”, etc. or split by year or alphabet. On the other hand, for documents, one might adopt a template-driven structure: e.g., every project folder in MythOS has standardized subfolders like /Outputs, /Sources, /Notes, etc. When consolidating, you can then merge contents into these standard bins (all legacy notes go into the appropriate /Notes of the new structure). A template ensures that no matter which project, the filing is consistent. It helps avoid the situation where one old project had a folder “docs” and another “Documents” and a third “Doc” – in the new s",
+  "context": "From document: Transforming a Fragmented Digital Life into a Unified Canonical Architecture — chunk 29 (chunk 29/37)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "97ddee0de00a1fdb1a5da48c7c6bd4f2",
+  "relatedUnits": [],
+  "keywords": [
+    "xlsx",
+    "folder",
+    "might",
+    "into",
+    "project"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

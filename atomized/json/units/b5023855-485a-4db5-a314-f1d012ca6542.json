@@ -1,0 +1,26 @@
+{
+  "id": "b5023855-485a-4db5-a314-f1d012ca6542",
+  "type": "insight",
+  "timestamp": "2025-03-05T14:18:11.000Z",
+  "title": "CCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIBDoAgQhAv0O0n8EEEAAAQQQQAABBBBA",
+  "content": "CCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIBDoAgQhAv0O0n8EEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQsAQIQlgULCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIBAoAsQhAj0O0j/EUAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQMASIAhhUbCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAoEuQBAi0O8g/UcAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABS4AghEXBAgIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggEugBBiEC/g/QfAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBCwBghAWBQsIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAgggEOgCBCEC/Q7SfwQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBCwBAhCWBQsIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggECgCxCECPQ7SP8RQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAwBIgCGFRsIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACgS5AECLQ7yD9RwABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAFLgCCERcECAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCAS6AEGIQL+D9B8BBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEELAGCEBYFCwgggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCAQ6AIEIQL9DtJ/BBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEELAECEJYFCwggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAQKALEIQI9DtI/xFAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBA",
+  "context": "From document: 1: — chunk 235 (chunk 235/630)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "d56851c0b64e6fc46a6205c88fb237ad",
+  "relatedUnits": [],
+  "keywords": [
+    "cccaaaiiiiaaaggggaaccccaaaiiiiaaaggggaaccccaaaiiibdoagqhav0o0n8eeeaaaqqqqaabbbbaaaeeeeaaaqqqqaabbbbaaaeeeeaaaqqqsaqiqlgulccaaaiiiiaaaggggaaccccaaaiiiiaaaggggaaccccaaaiiiibaoasqhaj0o0j",
+    "euaaaqqqqaabbbbaaaeeeeaaaqqqqaabbbbaaaeeeeaaaqqqqmasiahhubcaaaiiiiaaaggggaaccccaaaiiiiaaaggggaaccccaaaiiiiaaaoeuqbai0o8g",
+    "ucaaqqqqaabbbbaaaeeeeaaaqqqqaabbbbaaaeeeeaaaqqqqaabs4aghexbagiiiiaaaggggaaccccaaaiiiiaaaggggaaccccaaaiiiiaaaggeugbbiec",
+    "qfaqqqqaabbbbaaaeeeeaaaqqqqaabbbbaaaeeeeaaaqqqqaabbcwbghawbqsiiiaaaggggaaccccaaaiiiiaaaggggaaccccaaaiiiiaaagggeogcbcec",
+    "q7sfwqqqaabbbbaaaeeeeaaaqqqqaabbbbaaaeeeeaaaqqqqaabbbcwbahcwbqsiiaaaggggaaccccaaaiiiiaaaggggaaccccaaaiiiiaaaggggecgcxcecpq7sp8rqaabbbbaaaeeeeaaaqqqqaabbbbaaaeeeeaaaqqqqaabbbbawbigcgfrsiaaaggggaaccccaaaiiiiaaaggggaaccccaaaiiiiaaaggggaacgs5aeclq7yd9rwabbbbaaaeeeeaaaqqqqaabbbbaaaeeeeaaaqqqqaabbbbaaaflgccercecaggggaaccccaaaiiiiaaaggggaaccccaaaiiiiaaaggggaaccas6aegiql"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

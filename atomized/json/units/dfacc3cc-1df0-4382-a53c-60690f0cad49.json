@@ -1,0 +1,26 @@
+{
+  "id": "dfacc3cc-1df0-4382-a53c-60690f0cad49",
+  "type": "insight",
+  "timestamp": "2025-11-25T07:22:05.000Z",
+  "title": "<div> and not installed on request.</div>",
+  "content": "<div> and not installed on request.</div>\n<div> --bottle-arch Optimise bottles for the specified</div>\n<div> architecture rather than the oldest</div>\n<div> architecture supported by the version of</div>\n<div> macOS the bottles are built on.</div>\n<div> -i, --interactive Download and patch formula, then open a</div>\n<div> shell. This allows the user to run</div>\n<div> ./configure --help and otherwise determine</div>\n<div> how to turn the software package into a</div>\n<div> Homebrew package.</div>\n<div> -g, --git Create a Git repository, useful for creating</div>\n<div> patches to the software.</div>\n<div> --debug-symbols Generate debug symbols on build. Source will</div>\n<div> be retained in a cache directory.</div>\n<div> --include-test Install testing dependencies required to run</div>\n<div> brew test formula.</div>\n<div> --HEAD If formula defines it, install the HEAD</div>\n<div> version, aka. main, trunk, unstable, master.</div>\n<div> --fetch-HEAD Fetch the upstream repository to detect if</div>\n<div> the HEAD installation of the formula is</div>\n<div> outdated. Otherwise, the repository's HEAD</div>\n<div> will only be checked for updates when a new</div>\n<div> stable or development version has been</div>",
+  "context": "From document: -d, --debug If brewing fails, open an interactive — chunk 2 (chunk 2/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "18ce0710d28389561889f6efd8d041c2",
+  "relatedUnits": [],
+  "keywords": [
+    "head",
+    "formula",
+    "version",
+    "repository",
+    "bottles"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

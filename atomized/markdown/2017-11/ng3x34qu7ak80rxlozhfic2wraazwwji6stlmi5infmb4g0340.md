@@ -1,0 +1,31 @@
+---
+id: 569cc39f-f180-404d-a630-ba458ae92e65
+type: insight
+created: '2017-11-08T14:03:53.000Z'
+document: f47673d86e05016edf5cfc9824f2b752
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    ng3x34qu7ak80rxlozhfic2wraazwwji6stlmi5infmb4g0340xhwi8fffzreyv8a4fz3nlzanaxehqplbn9w0sqat5zwbjk55omz1
+  - 8ayy06b4wfdn4sftmasrqwmiannponmy4d3d6chkk45xg1oarr
+  - a39gok1audx
+  - jjq091dpneo063ayb3azgco3jqr8v
+  - fu3hp8ayp8acpg24cafqnxj1etvbyosbhp8b2rsaeqgbod3xanfgnxe
+---
+# ng3x34Qu7aK80rxLoZhFiC2wraAzWwjI6sTlmI5INfmb4G0340XHwI8ffFZreyv8A4fz3NlZanaXEhQP
+
+## Context
+From document: use this photo as a reference to create my own cut out piece. also… — chunk 183 (chunk 183/242)
+
+## Content
+ng3x34Qu7aK80rxLoZhFiC2wraAzWwjI6sTlmI5INfmb4G0340XHwI8ffFZreyv8A4fz3NlZanaXEhQPLbn9w0SqAT5ZwBjk55oMz1/8AYY06b4WfDn4sftMasrQWmiaNNpOnMy4D3d6ChKk45Xg1oarr+q/A39gOK1aUDX/jjq091dPnEo063AyB3AZgCO3Jqr8V/FU3hP8AYP8ACPg24CafqnxJ1eTVBYoSBHp8B2RsAeQGbOd3XANfGnxe+OPjP4r6V4T8OeKFt4rTwRYDTbKO2GFEQJLOw7sQeT3oA+2/EXiC1+FP/BP/AMDfB+xAbxB8Z9Sm1nUdgBlTTbaUBScYyGKLtBOODjg17X+134y+HugeF/gp8K9H0j/hIYND0CPUbW0hkMVi7SqMSSKuA3zBiefvbvWvy9uviv4s17wfo/h7V4IZU8LWZ0231FQWntLKViwh2jjhicHqM4zivQNJ+J11F8PU0nxxoy6yfDkHkaGJwyzw28zbyGdMZj3HKg9MnFBofZH7JEviP4sfGzw98R/i5eibSPDVve6hb2UhxFAlguUSKMAKscfG3Hf1NXv2YNJ/4aZ/bl8SftB+LbZotE8LzXutyBvuKbY7bePJwDtA3n6AGvDPA8/xesPhjqf7R+n6cJ/DcVvPod7GsuyJbe5GwxpEOQAeS2ck17P8OvFeo/D39lLxZ41tIotAufiEsHhjQIIt4BByb+4JPJO3qxJ5wB1oA+CvGnjw/Eb4s+MvHHiC4Jttb1a5vbiWMbi6wOfIQDnAbcF9MAVwlrY+Xfz6TqpeGe5CuEUEGMSnzHjJ4A7HArE0uOGw1TU9LjkLrKxtlIOVkKOcEH0IAORW14hu72W7j1aMSTXd7GxkkJwAT8iHI4OAOtAGBdQrpeoyae2TI64UsBmIA5GeucjvTIhI8MDJIRCC4ZpOgBJLFTjOQKknn1QTC9vGDTTKArHBXAGDknvgVWigZpYrFSzu7EKD/qjuxuwfccUAWgkUcR8y4YXEsSSIOrEyseCepIAzg+taMs13pl9b69bXETz3QLHaB8m/5AH9DjJ4qaW1u7q1N5FarFEjmUxg5YPIRHHHnqAAM+mKZPZSS2rJPCPKiG9o4x9+UfKoJ64PNAHK62rkTSOHXJAJboQDwF9R3zWBGISj7s7gcgiuq8UzXa21raXL8ouQpAGFPQe4A4rlbeC
+
+
+
+---
+*Source: Document f47673d86e05016edf5cfc9824f2b752*

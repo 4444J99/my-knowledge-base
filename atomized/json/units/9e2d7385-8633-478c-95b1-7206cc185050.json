@@ -1,0 +1,26 @@
+{
+  "id": "9e2d7385-8633-478c-95b1-7206cc185050",
+  "type": "insight",
+  "timestamp": "2025-02-12T19:07:35.000Z",
+  "title": "<div>Estimated Time for Completion</div>",
+  "content": "<div>Estimated Time for Completion</div>\n<div>The estimated time to complete this activity is 3 - 4 hours.</div>\n<div><br></div>\n<div>rubric for rough draft narrative essay:</div>\n<div><br></div>\n<div><h3>Week 2 Assignment Rubric</h3></div>\n<div>Week 2 Assignment</div>\n<div>Criteria  Ratings  Pts</div>\n<div>This criterion is linked to a Learning OutcomeRough Draft : Introduction</div>\n<div>5 pts</div>\n<div>Full Credit</div>\n<div>Successfully adhered to the instructions and guidelines provided in the prewriting exercise.</div>\n<div>0 pts</div>\n<div>No Credit</div>\n<div>Did not adhere to the instructions and guidelines provided in the prewriting exercise.</div>\n<div>5 pts</div>\n<div>This criterion is linked to a Learning OutcomeRough Draft: Thesis Statement</div>\n<div>5 pts</div>\n<div>Full Credit</div>\n<div>Generated a clear, concise, arguable, and focused statement that outlines the main argument or central purpose of the work.</div>\n<div>3 pts</div>\n<div>Partial Credit</div>\n<div>Thesis statement somewhat communicates the main argument or central purpose of the work. It needs to refocus on the central theme.</div>\n<div>0 pts</div>\n<div>No Credit</div>\n<div>Thesis is not clear, concise, arguable, or focused and weakly conveys the main argument or central purpose of the work.</div>",
+  "context": "From document: Weeks 1 - 6 Canvas Data Dump — chunk 59 (chunk 59/188)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "1b21c03b1f1909954adca118a79b0158",
+  "relatedUnits": [],
+  "keywords": [
+    "credit",
+    "central",
+    "this",
+    "draft",
+    "thesis"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: 718662f1-c6a1-42e0-ba2b-3b4d59174cc1
+type: insight
+created: '2025-04-08T10:17:01.000Z'
+document: 7704478edec58fe98c8158d649dbd34b
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - luqlhtysj0t0orcqopnlhcldjsrhm831bgjkziebjg1zmbc08adqrl7deq
+  - g08dy5izw
+  - >-
+    ibevvamsr3xorbwcqq53vop1heogypwxbjzrb6hjvpbohvlkkiubvvcnd9nube2t95qnfliz86bqiojn8
+  - hlgy2hkgpzj7hki18ozgqgnum6mo82wf0bipvtl5yxmluekvfvrqnwqt1qmk8cng
+  - >-
+    52t4oregjrsnn62uac8fnb75cgsnucm2jeemevgfdr7rt8lqiq0zoq05gefeqfsjuwtvplkeoin50g1d5kfuvl8tt6rjoschj8syelyerhf0yalomjmo4zxg
+---
+# lUqLhtySJ0T0oRCQOpNLHCLdJsRHM831BGJkZIEBjg1zMBC08aDqRL7Deq/g08DY5IZW/iBeVvAMSR3x
+
+## Context
+From document: New Note — chunk 973 (chunk 973/3044)
+
+## Content
+lUqLhtySJ0T0oRCQOpNLHCLdJsRHM831BGJkZIEBjg1zMBC08aDqRL7Deq/g08DY5IZW/iBeVvAMSR3xorbWCQq53VOP1HeoGYpWXBjzRB6hjVPBoHVLkkIubvvcnD9nUbe2T95qnFLiz86bqIoJn8+HLgY2HKGpZJ7HKi18oZGQgnUM6mo82wf0bipVtl5yxMlUEkvfVRqNwQt1QMK8CNG/52T4oREgjRSNN62UAC8Fnb75CGsNUcM2JEEmeVGfdR7Rt8LQIQ0ZoQ05gefEQfSJUwtVPlkeoiN50g1d5KfuvL8TT6RjosChj8syeLyERHf0yALOMjMo4ZXG/DXNKj/SDFizvoOc/NEHq2znFXHqZ9bL6QlAvwNuvcATbjnjiDeBFnJ/ghLo8Qkf4WrcGrv8eXUbBqof2HBQZcZcAAwDJfqH+RS3Lz58aJBDGGcYcUd0S7gBiktvaCgH+Fwe8EFf85RjT+JAZnZdPimrxUOwIVKQsRNnTzf8lJd+jpOKNyMUuExOvnuzx33KRRfjh154cnopn2nVkVWKy8eAy0aE8j2+qJxstMw+lvY9PL7EWJNzhdfswoEfLHyc9Eiiujyuh9o+8VagcBXnuG741jnCoX7k1ySg9Uc+8M1g0shnyAx6h01SOQmbJ6icDglUF21YcZOTRqhC2Wf79rOsWaRBh1X9IfohbR9nw7CabNaTm6fwTd1AR3sSzHyNmshoCxed+URAf84mSJIWKo92DVelCz1Eq3jOmc5DUEV64PQfruaRiNIIfaSp86V0oZW2YSCpMPUPM21Jng3+0CXHEMsWosbPnTm3vHLWPEVbvKSlqJ3oyb5PrkQOBnjbtL6DvspwuREWLWzxjAQefWGOOiDi+Q5e4DjxId80EAuXxoPQxKebkRPy3R/gB8mYvF39QmP14G16XtHYv2ewypt0IBHczyvoNnRImTfhsDJExbJLayY+L7vhiTVl9Nixlr1HtDxD2XAd+dh+SN6mrVvKww895PJEh6Pnzo0+qDQG6b2152ORr9bpdLPnziEnkkPiDliXNWvWODp8+HDb9dA2pk+bpsw55+W0004rb9NnbO2SN2I/lTsnDGJAuGzZssIBZ3lSXRoQLpQhIXncrrJ/+OGHG9ucefPmqdhYDw/garH0YgcA95I5HiWWqO5YQvv6dUzYX/IuAR2maaoz3rfifvmXf7mM
+
+
+
+---
+*Source: Document 7704478edec58fe98c8158d649dbd34b*

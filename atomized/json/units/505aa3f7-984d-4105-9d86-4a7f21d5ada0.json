@@ -1,0 +1,26 @@
+{
+  "id": "505aa3f7-984d-4105-9d86-4a7f21d5ada0",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>::REF_ID = SYMB0LS_GLYPH_NET.001</tt></div>\n<div><tt><br></tt></div>\n<div><tt>—-</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## ::ARCHIVE</tt><i><tt>_ENTRY_</tt></i><tt>031  </tt></div>\n<div><b><tt>**Title:**</tt></b><tt> Modular Export System for Mobile Notes  </tt></div>\n<div><b><tt>**Ref ID:**</tt></b><tt> MODULAR</tt><i><tt>_EXPORT_</tt></i><tt>NOTES.v1  </tt></div>\n<div><b><tt>**Folder:**</tt></b><tt> /GPT</tt><i><tt>_ARCHIVE_</tt></i><tt>CORE/SYS</tt><i><tt>_PRODUCT_</tt></i><tt>EXPORTS/  </tt></div>\n<div><b><tt>**Filename:**</tt></b><tt> EXPORT</tt><i><tt>_MODULES_</tt></i><tt>NOTES</tt><i><tt>_FORMAT.md  </tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>---</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>### I. | GOAL</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>To ensure all outputs from this system are usable on-the-go, every module will be exported in a format that works seamlessly in iPhone Notes (and optionally Notion or GitHub).</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>---</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>### II. | EXPORT FORMAT STRUCTURE</tt></i></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 142 (chunk 142/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "notes",
+    "export",
+    "modular",
+    "system",
+    "format"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

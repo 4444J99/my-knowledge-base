@@ -1,0 +1,31 @@
+---
+id: db581906-a24e-4e6b-93b9-b7fae8e0d1a0
+type: insight
+created: '2017-10-25T17:06:54.000Z'
+document: 2a2d2c8448c2f528bd655aa468b812aa
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - qc8qjlrfrgf0ssas4fh6e
+  - >-
+    r4swoccvcqpceag9dee63roexesd84kz6fjjyfzokbfatm6ivqjelxd4vbgnrooshpndogglam6mjzfwelozqsmlcwua5q6lbswe5lfegjmctcpd9qvnilhiuopsz5qtwsjylhuxzgydzlrwgay0efleiadcsgsav6opawi0seabuxjksbykky71gkaqhjxhmk3yifiguibryabzcldpxyetjgz
+  - 8rjl6qs0ety9db3d3tv2g5qwgluniaa
+  - mz6gcyeafrkt7rhwgmadxwe39h
+  - o7ez3qplkrgt3apan
+---
+# qc8QJLrFRgF0SSaS4FH6E+R4sWOCCVCQpcEAg9dee63roExesd84kz6FjjYFZoKBFatm6IvQjelXD4Vb
+
+## Context
+From document: EL — chunk 994 (chunk 994/1588)
+
+## Content
+qc8QJLrFRgF0SSaS4FH6E+R4sWOCCVCQpcEAg9dee63roExesd84kz6FjjYFZoKBFatm6IvQjelXD4VbGNrooShpndOgglAm6MjZfweloZQSMlcWUA5Q6lBSWE5LfEGJmCtcpd9QVNiLhiUOpSz5QtwsJYLhUXZgYDZLRwGay0EflEIaDcsgSAv6oPAwi0seABuxjkSBYkky71GKaqHjXHmK3yIFIgUiBRYaBZCldPxYETJgZ/8RJl6Qs0eTY9Db3d3tV2G5qwGlUNIAA+mz6GcYeAfrKt7RHwGmADxWE39h/o7EZ3QPlkRGt3ApAN+iz2FVxmAEkLtc3SmbzXq7mM/JBywiSIftcNAfAd8Bwi644AJviwx8sJbGOhp5x1Wro51DE5ZnfepTnyoZHXoosgK9G9lDPgEC0VPRdZHHONoDumzxwAzLRyz6mGxn2TP6LO/wC5gIfdGfeUYOIeepJ0A/BnykwaCSb+i/AIjUJeX40Y9+5H3Bxz/+cbv44otdTy5ZoOjhMFBACNW4gLbhX2lPPgFqjVrl5KCg3lfgXtk7ZgeGtL3E8Rn70pPH210vT9nFm6bsj88ctZOXTNodL8miXPGdsERWbhOAeg0C7wQwTY3bTw922t9oCfHalhEtId5qm5qGBOhpeM938bc7bmkBXmPa/258n4wb+2x321X2t2+st0GdRvwfVj9jG9Jv2NPDy2zb2HF2QnuLndjUJ+xQqSoaBxJ5SMnCzvcHVPySQR6t/o5pyXJGPxLoQg+km/9uU/jKO97RloAS8aPDTIJfPciTflNQOT9wRPfQR4dY/HcoF371QdG+3emdx0Zetew6pzwAVLK8mOXGNiGgDpCQC6CwRYDgqCwHtbzYrQgbAQgB9shPceRvT6rkr7TiMl3cOQU6N6Q4ZdE58JSsBnXATJNW1TVq4iHuPViSlAvNAzyMTom+OdthgvRJrKDk0DbAQGQ//SH9zamnnvpr/QplpO9AJ35UE2hgTcV9z3zSIQKDVVKXSgLQwsIPpYCLQUZQJCqJFqXgnnvucWCQOEGTUaDmAxiE2cg7+zaBQM+WBozMDC5+n3zySS9r2NSaMpfjGIgx2GUWltliFB9mPYkbBJ08wPAM0IgzzoiWQ9XoJ1IgUmAhU4BBIbINZYHBMbKtVKdeODBmA3tk5tEGDAblvx51i7JGH8NkG8/USbCqYtAP
+
+
+
+---
+*Source: Document 2a2d2c8448c2f528bd655aa468b812aa*

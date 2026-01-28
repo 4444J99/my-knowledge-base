@@ -1,0 +1,26 @@
+{
+  "id": "2bed24a5-a3c3-4a72-8687-a93a454791af",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>**Copilot Prompt:**</div>\n<div>```</div>\n<div>Create a comprehensive governance framework as markdown documentation defining: (1) Personal repo rules (intake, evaluation, graduation criteria), (2) Org repo standards (status labels, documentation requirements), (3) Migration checklist (personal→org process), (4) Archive intake protocols (file cataloging, metadata standards), (5) AI context capture rules (conversation export, extraction, integration). Include decision trees, templates, and workflows.</div>\n<div>```</div>\n<div>**(475 characters)**</div>\n<div><br></div>\n<div>**Why Now:** Establishes the rules before you start moving things around. The tribunal will reference these rules for its recommendations.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **3. meta-synthesis-orchestrator**</div>\n<div><br></div>\n<div>**Description:**</div>\n<div>```</div>\n<div>Master orchestration engine connecting all four cognitive layers. Ingests data from cognitive-archaelogy-tribunal, applies system-constitution rules, generates knowledge graphs, identifies cross-layer patterns, and produces actionable synthesis. Integrates with auto-revision-epistemic-engine and solve-et-coagula for automated transformation workflows.</div>",
+  "context": "From document: Contents_Table — chunk 105 (chunk 105/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "rules",
+    "documentation",
+    "personal",
+    "repo",
+    "intake"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

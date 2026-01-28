@@ -1,0 +1,26 @@
+{
+  "id": "7dec940c-989d-4788-ac13-c9b4169fdb4d",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt>- `PROOF` — research-backed output, citation-ready</tt></div>",
+  "content": "<div><tt>- `PROOF` — research-backed output, citation-ready</tt></div>\n<div><tt>- `PITCH` — public or business-facing doc</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### III. | EXAMPLES (Tagged Entities)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>```yaml</tt></div>\n<div><tt>::Q_v33R:</tt></div>\n<div><tt>  logic: REALITY</tt></div>\n<div><tt>  format: VIDEO, ESSAY</tt></div>\n<div><tt>  output: ARTIFACT, PROOF</tt></div>\n<div><tt><br></tt></div>\n<div><tt>::GR1ND3R:</tt></div>\n<div><tt>  logic: DREAM</tt></div>\n<div><tt>  format: FILM, INTERACTIVE</tt></div>\n<div><tt>  output: ARTIFACT</tt></div>\n<div><tt><br></tt></div>\n<div><tt>::MET4morfoses:</tt></div>\n<div><tt>  logic: HYBRID</tt></div>\n<div><tt>  format: TEXT, VIDEO, VR</tt></div>\n<div><tt>  output: ARTIFACT, TOOL, PROOF</tt></div>\n<div><tt><br></tt></div>\n<div><tt>::KONS0L:</tt></div>\n<div><tt>  logic: REALITY</tt></div>\n<div><tt>  format: TEXT, ARCHIVE</tt></div>\n<div><tt>  output: TOOL, PROOF</tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt>⸻</tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>IV. | IMPLEMENTATION</tt></b><tt><br></tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 121 (chunk 121/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "output",
+    "proof",
+    "logic",
+    "format",
+    "artifact"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "0e520c06-52c0-41c9-90a8-c81bb11ff590",
+  "type": "insight",
+  "timestamp": "2025-12-21T14:37:34.000Z",
+  "title": "<div>### Checklist for Setting Up a GitHub Organization and Repository</div>",
+  "content": "<div>### Checklist for Setting Up a GitHub Organization and Repository</div>\n<div><br></div>\n<div>Below is a complete checklist to set up your GitHub organization, repositories, projects, issues, actions, and more. This checklist assumes you're creating an organization from scratch and setting up repositories within it.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **1. Create and Configure the Organization**</div>\n<div>- [ ] Create a new organization:</div>\n<div>  - Go to **GitHub** &gt **Your Profile** &gt **Organizations** &gt **New Organization**.</div>\n<div>  - Choose a plan (Free, Team, Enterprise).</div>\n<div>  - Provide organization name and billing email.</div>\n<div>- [ ] Add members to the organization:</div>\n<div>  - Invite team members with appropriate roles (Owner, Member).</div>\n<div>  - Set up teams for better access management.</div>\n<div>- [ ] Configure organization settings:</div>\n<div>  - Set up a **profile picture** and **description**.</div>\n<div>  - Add a **website link** if applicable.</div>\n<div>  - Configure **audit log** and **security settings**.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **2. Create Repositories**</div>",
+  "context": "From document: ### Checklist for Setting Up a GitHub Organization and Repository — chunk 1 (chunk 1/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "c892741ac5f41b94a9d7b4216d45f7c9",
+  "relatedUnits": [],
+  "keywords": [
+    "organization",
+    "checklist",
+    "github",
+    "repositories",
+    "create"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

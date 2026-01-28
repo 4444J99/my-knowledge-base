@@ -1,0 +1,20 @@
+{
+  "id": "e6d9f937-2af3-40a8-a612-bd3c19def508",
+  "type": "insight",
+  "timestamp": "2017-06-12T17:34:38.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: Reading List — chunk 4 (chunk 4/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "0ea8984a43cbfbca496dfd5444a8b5ae",
+  "relatedUnits": [],
+  "keywords": [],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

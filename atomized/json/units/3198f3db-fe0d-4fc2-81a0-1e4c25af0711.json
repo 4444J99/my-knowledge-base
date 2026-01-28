@@ -1,0 +1,26 @@
+{
+  "id": "3198f3db-fe0d-4fc2-81a0-1e4c25af0711",
+  "type": "insight",
+  "timestamp": "2025-09-24T12:01:25.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>]|[iv]\\\\repository-structure+file-organization </tt></div>\n<div><tt>---</tt></div>\n<div><tt>conventional commit message format pre-commit validation requirements topic-specific context (security, governance, community, ci/cd) best practices for changes, dependencies, documentation</tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt>——-</tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt>OK, so I've been all Mark Zuckerberg-ing since last fall 🥁</tt></div>\n<div><tt>building…..  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>|[ OS , me ]|</tt></div>\n<div><tt><br></tt></div>\n<div><tt>(ie iOS, windows) an application suite personalized to each user,</tt></div>\n<div><tt>every instance entirely unique. </tt></div>\n<div><tt><br></tt></div>\n<div><tt>Anyway, there’s a lot to this</tt></div>\n<div><tt><br></tt></div>\n<div><tt> </tt></div>\n<div><br></div>\n<div>OK, so I've been all Mark Zuckerberg-ing since last fall 🥁</div>\n<div>building…..  </div>\n<div><br></div>\n<div>|[ OS , me ]|</div>\n<div><br></div>\n<div>(ie iOS, windows) an application suite personalized to each user,</div>\n<div>every instance entirely unique. </div>",
+  "context": "From document: __A-System-Operates-__@4-B100M-@4-B100M@4B100--- — chunk 5 (chunk 5/1114)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "9e5f6b008d737451ce9d5c855d79cde5",
+  "relatedUnits": [],
+  "keywords": [
+    "commit",
+    "been",
+    "mark",
+    "zuckerberg",
+    "since"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

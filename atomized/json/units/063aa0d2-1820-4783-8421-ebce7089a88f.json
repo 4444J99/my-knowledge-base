@@ -1,0 +1,26 @@
+{
+  "id": "063aa0d2-1820-4783-8421-ebce7089a88f",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Wants to develop the `|[ST4RT.io::` and `::S4VE.io]|` text and MDT templates later, after completing foundational work on the *floating_points* project. They consider *floating_points* the test project and standard bearer for all future systems, naming conventions, and workflows. They want to begin by ingesting and boiling down all existing *floating_points* threads (which are long and complex) before moving forward with clean, structured development.</div>\n<div><br></div>\n<div>Wants every name suggestion, idea, and revision to be tracked version-by-version, like a time machine. They want to be able to review all past naming conventions or structural suggestions in sequence, compare them, and combine or choose from among them. This applies not only to naming but to every idea or concept pitched throughout threads, ensuring no loss of iteration history.</div>\n<div><br></div>\n<div>Assignment sequence follows a structured weekly progression: 1. Warm-up activity to explore themes and generate ideas. 2. Class discussion to develop ideas with peer input. 3. Pre-writing/outline assignment requiring three distinct takes on the topic. 4. First rough draft + peer review focused on rhetorical effectiveness (e.g., pathos/logos). 5. Second draft + self-assessment + peer review, emphasizing revision using peer feedback and rubrics, along with detailed revision notes.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_041225_MASTER — chunk 27 (chunk 27/35)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a6c8d7ecac270c27cc9e416b39cd8866",
+  "relatedUnits": [],
+  "keywords": [
+    "peer",
+    "floating_points",
+    "they",
+    "naming",
+    "with"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

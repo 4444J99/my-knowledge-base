@@ -1,0 +1,31 @@
+---
+id: 8f621e0b-3971-4b6e-8d9e-f3a9ea1d32bd
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - cuezeinxcrjrnguq27
+  - city
+  - i2ehwxn1wfqjlwjcohi1wdzko
+  - >-
+    7qwoa3yjucxaydxeivjpcdwfebhdxqea29mj5rbjczmzk20kmkimjd6bidwqpasabtadahnyz7ny28kzivgdedr7aaonvockvz1suvwwmvxs3idvtoqyvct92i3ihuxjg4h4shwoz0nw5iyt7qkkby7vgjogxd8prxxq7dbka6bvjfn2bbqhwjatwi6snmutrposa6ad06mxxyzz2
+  - ohektknig9wytcja2f1hsdmtv05dgkbw0u6rwbuz3jzvoxdch4stqwv9rezdsunq0
+---
+# CUEZeinXCRjrNGUQ27+City+i2ehwXn1wfQJLWjcOHi1wDzko/E/7QWOA3yjUcXAyDXEivJPCdwfebhD
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 17901 (chunk 17901/18928)
+
+## Content
+CUEZeinXCRjrNGUQ27+City+i2ehwXn1wfQJLWjcOHi1wDzko/E/7QWOA3yjUcXAyDXEivJPCdwfebhDxqEA29mj5rbjCzMzk20kmkIMJD6BIdwQPAsabTaDahnyz7nY28KZIvGDEDr7AaoNVoCKVZ1sUVWWMVXS3IDvtOQyvCt92I3ihUxjg4H4sHWoZ0Nw5IyT7Qkkby7VGjOgxd8PrxxQ7dBka6bvjFN2bBqHWjatWi6SnmUtRpOSa6ad06mXxYzZ2/oheKtknIg9WYTcja2F1HsDmTV05DGKBw0u6RwbUZ3JzVOxDCH4StqwV9reZDsUnQ0/Pt5p4nIBRMN7o6vNlNXD2lpqX5/577tAAkF/+o1/8ZBBFBKYMWrf372G3YeRuPV64of4rGEnPgYVJHSfYYI4XmSPkjwEzhpID3RmSHJuzPZaj4+ur/zsrA8AaORwRBqzT2h5Fdm68r96CdD553zxqnIs0eSjyZoNpZZzYyAf+XfQkkL6cVuNRzIsy8ASeRMDnZ9h+jZGwbKdHPT2afWJi4NYYqYNM1qU8Shl7yTNiGqpJ3zArlFHySUfVXhMZCPEDtfts/fE/wpulQdLKsZaYhfTkNU7GTlco5h80M4uGXRgrBfcJp0tmzitcVy6wBHIlFSb09TkGpQIRnZbbbaY/1oA/zKSRv/7q9QT/3uqFc+eou01SMoXAXNVbFH9hhwfYHKjMsJgO9+ZToCd9mV0TER8FZkabeKmjOqFcdA2dn0kauu1TX+OhM2yrNEPEO1vXqzXlpXHjvYnDcTZJ0JxgUANMoEPR6V1VPRsC8vTTanHkLa4W9QyDdl5LiZ2DOLv4TEV33eVzk9wArcJxDZJUfIhWvaEnTczzlxzxtlAHrgFTi5SKWgAuYHvLpKl0m2ahQmNnuu73HJXFBBkpllDl6bM7bb8FC7AXA8925qJI0J2QLg2he+YA2NiG1CylVqGaqABz+xs+MueDE9/Ycg0hrxWXsysoNjCQKVeDdawtk8tucgpRMywfeTH5ij7q84JP28CwV467MjAGG1+27znkNVWwTn75t4kxhqIk68oGLQzIFq0qdQK4fT1+seCmQ6j0EB64OiZ/wIxCp7m7BUKHwZ7cyXCbCEzsnGoAhRojbH+cyNs4TBK+JPbtKmo1u7HHMaq/ikEm0cBJ4FcbPIP5NihDj00bdGys55Ge/sc
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

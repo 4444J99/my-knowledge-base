@@ -1,0 +1,26 @@
+{
+  "id": "69cc3d20-d30f-4b09-99c1-b235a54d1efb",
+  "type": "insight",
+  "timestamp": "2025-02-09T19:57:30.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>📌<b> LEVEL 1 (ENTRIES &amp DRAFTS)</b><br></div>\n<div><br></div>\n<div>✅ <b>Letter 1 = Same as first letter from the last snapshot.</b><br></div>\n<div>✅ <b>Letter 2 = Same as second letter from the last snapshot.</b><br></div>\n<div>✅ <b>Letter 3 = Same as third letter from the last snapshot.</b><br></div>\n<div>✅ <b>Adds -01, -02, -03, etc., for iterations.</b><br></div>\n<div>✅ <b>Level 1 does NOT affect the universal numbering system.</b><br></div>\n<div><br></div>\n<div>📌 <b>Examples:</b><br></div>\n<div><br></div>\n<div>ZCD.203-01 → ZCD.203-02</div>\n<div>PQS.113-01 → PQS.113-02</div>\n<div>FGI.049-01 → FGI.049-02</div>\n<div>BCE.019-01 → BCE.019-02</div>\n<div><br></div>\n<div>📌<b> SNAPSHOT SYSTEM</b><br></div>\n<div><br></div>\n<div>✅ <b>Each module maintains its own snapshot, storing the latest assigned letter values.</b><br></div>\n<div>✅ <b>A snapshot records:</b><br></div>\n<div>  •  <b>Letter 1, 2, and 3 of the most recent entry.</b><br></div>\n<div>  •  <b>The universal number at the most recent entry.</b><br></div>\n<div>✅ <b>When moving from one level to another, it uses the latest snapshot to assign letters.</b><br></div>\n<div><br></div>\n<div>📌 <b>Example Snapshot:</b><br></div>",
+  "context": "From document: 📜 FINALIZED RULES FOR THE NAMING STRUCTURE & UNIVERSAL SYSTEM — chunk 4 (chunk 4/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "0007ef4c0342a73c2192c138949b0a39",
+  "relatedUnits": [],
+  "keywords": [
+    "letter",
+    "snapshot",
+    "from",
+    "level",
+    "same"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

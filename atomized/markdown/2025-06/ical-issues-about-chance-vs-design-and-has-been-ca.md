@@ -1,0 +1,31 @@
+---
+id: 973868b9-1dae-4276-a644-47486d6b76d9
+type: insight
+created: '2025-06-26T17:15:56.000Z'
+document: 87215f26527a3ddd27752e0848e7ba23
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: research
+keywords:
+  - each
+  - genes
+  - mendel
+  - allele
+  - laws
+---
+# ical issues about chance vs. design and has been called a “universal acid” for i
+
+## Context
+From document: 🧵 Meta-Laws of Reality — chunk 15 (chunk 15/79)
+
+## Content
+ical issues about chance vs. design and has been called a “universal acid” for its tendency to seep into other fields of thought【17†L41-L47】.</div>
+<div>  •  Mendel’s Laws of Inheritance (Domain: Biology/Genetics) – Gregor Mendel’s experiments with pea plants revealed two key principles of heredity. The Law of Segregation says each organism carries two “factors” (alleles) for each trait which segregate during gamete formation, so each gamete gets one allele. The Law of Independent Assortment states that alleles of different genes are passed to offspring independently of each other (provided the genes are unlinked)【20†L37-L44】. Examples: Segregation – a pea plant has two alleles for flower color (say, purple and white); when it produces gametes (pollen/ovules), the pair splits so each gamete carries only one allele. Independent assortment – a pea’s seed color (yellow/green) is inherited independently of flower color; having a purple-flower allele doesn’t affect the chance of getting a yellow or green seed allele, assuming those genes aren’t on the same chromosome. (Modern genetics nuances this with linkage, but Mendel’s laws hold in most cases or when considering unlinked genes.) Implications: Mendel’s laws introduced the idea of unit factors (genes) and statistical patterns in inheritance, laying groundwork for genetics. They
+
+
+
+---
+*Source: Document 87215f26527a3ddd27752e0848e7ba23*

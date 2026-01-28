@@ -1,0 +1,26 @@
+{
+  "id": "db88dd65-ee02-4960-b877-a946d3e2fdcd",
+  "type": "insight",
+  "timestamp": "2019-01-12T17:27:58.000Z",
+  "title": "<div>Life is a video game where you chose your alignment. Ala Red Dead or GTA or",
+  "content": "<div>Life is a video game where you chose your alignment. Ala Red Dead or GTA or KoTOR</div>\n<div><br></div>\n<div>I’m sick of dying and losing money</div>",
+  "context": "From document: Life is a video game where you chose your alignment. Ala Red Dead…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "78dcb3cb15340231824f04bb2de83466",
+  "relatedUnits": [],
+  "keywords": [
+    "life",
+    "video",
+    "game",
+    "where",
+    "chose"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

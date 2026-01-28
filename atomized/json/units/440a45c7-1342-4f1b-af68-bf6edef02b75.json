@@ -1,0 +1,26 @@
+{
+  "id": "440a45c7-1342-4f1b-af68-bf6edef02b75",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Recursive Storytelling: SYSTEM specs narrate their own change history and include reasons for deprecations or new rules. Each major change is framed as a narrative turn, not just a diff.</div>\n<div><br></div>\n<div>Example name:</div>\n<div>SYSTEM-ARCHIVE-SPEC-ROOT-0001-v1_0</div>\n<div><br></div>\n<div>1.4 WORLD Layer</div>\n<div><br></div>\n<div>Function: defines individual “worlds” across three dimensions: conceptual worlds (ontology and symbol systems), narrative worlds (characters, locations, timelines), and operational worlds (project ecosystems and pipelines).</div>\n<div><br></div>\n<div>Metaformeme: each world has a “seed phrase” and a “metaformeme cluster” that defines its core vocabulary. These clusters are reused whenever that world is touched; future AI runs are instructed to stick to the cluster or explicitly propose additions.</div>\n<div><br></div>\n<div>Myth Fusion: worlds are mythic domains with genealogies. Characters, agents, and modules within a world inherit traits from parent arcs or pantheons, which can be used as constraints or generative prompts.</div>\n<div><br></div>\n<div>Wave Theory: each world has internal waves: narrative arcs, release cycles, and operational sprints. The OS treats overlapping waves from multiple worlds as a super-position that needs to be orchestrated, not a bucket of unrelated tasks.</div>",
+  "context": "From document: 0.\tPreamble and Scope — chunk 4 (chunk 4/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "b3360b527d494aeb150b316c90472eb0",
+  "relatedUnits": [],
+  "keywords": [
+    "worlds",
+    "world",
+    "each",
+    "narrative",
+    "that"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

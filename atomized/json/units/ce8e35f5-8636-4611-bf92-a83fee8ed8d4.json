@@ -1,0 +1,26 @@
+{
+  "id": "ce8e35f5-8636-4611-bf92-a83fee8ed8d4",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants each toolkit page to include a dense, structured front page where students fill in 1–2 sentence responses per prompt, followed by a clean, mostly empty second page with generous white space and light guiding prompts ('food for thought') to support deeper reflection or drafting. This structure should repeat consistently throughout the documents.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants every page, worksheet, and section in the toolkit to include layered titling. Each should have a functional title (e.g., 'Worksheet 1: Topic Brainstorm') and a secondary, creative or poetic title (e.g., 'Three Roads Diverged; Now Choose'). The subtitle should elaborate or contextualize the task in a reflective or interpretive tone. Each section of the educational toolkits should follow a consistent structure that includes: (1) a functional title, (2) a poetic or creative secondary title, (3) a subtitle that elaborates the task, (4) a framing paragraph that ties the activity to the specific discipline, course, and student audience (e.g., literature students, nursing students, etc.), and (5) a concluding exploratory or reflective question that invites students to connect the task to their broader life, thinking, or personal development. This structure should be repeated for every section—emphasizing artistic design, layered meaning, and not just generic labeling.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_051425_MASTER — chunk 19 (chunk 19/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "5e4feb3febe2be13a91fd74e828ebc64",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "should",
+    "valign"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

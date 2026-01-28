@@ -1,0 +1,26 @@
+{
+  "id": "9a96eeef-9ede-4461-9704-ff6e6cdb2ee2",
+  "type": "insight",
+  "timestamp": "2018-10-02T13:17:18.000Z",
+  "title": "<div>Skit Ideas</div>",
+  "content": "<div>Skit Ideas</div>\n<div><br></div>\n<div>Train Conductor Announcement Training </div>",
+  "context": "From document: Skit Ideas",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "dc3ca037bf6cf0c92f14c2c8cec554b5",
+  "relatedUnits": [],
+  "keywords": [
+    "skit",
+    "ideas",
+    "train",
+    "conductor",
+    "announcement"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

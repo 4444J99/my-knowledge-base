@@ -1,0 +1,30 @@
+---
+id: 9f946d02-f23b-4854-bb28-24e9a212340f
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ppavkzsdeflmkbdabhboepgogr9mtnld7zhtiah6mv1jxax
+  - wybl
+  - kfnpaaticw3
+  - mjvcbmsuch8apxecsoc45qttm8tnk5j9
+  - 5jcriposepavyh02fqcu7fsqrrwli8kr61duvr7qm4q4fl27fqfrvibchnwujogb0hpj
+---
+# PPavKZSDEflMkbDABHbOepGOgr9mtNld7ZhtIAH6mv1jxAX+wYBL+V/kfnPAaticW3/MjVCBMsucH8ap
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 1101 (chunk 1101/2189)
+
+## Content
+PPavKZSDEflMkbDABHbOepGOgr9mtNld7ZhtIAH6mv1jxAX+wYBL+V/kfnPAaticW3/MjVCBMsucH8apXECsoC45qTTm8tNk5J9+/40+5jCriPOSePavyh02fqcU7FSQRRwlI8kr61DuVR7qM4q4Fl27fQfrVIbChNwuJOgb0Hpj+VNR7mlmlqU7m5kjhxyN54PemxvHGga8fGB345qO7mEc+zqFGMHnpX5tft6WH7UkeiSfET4E682lW+jafJut7eMSSPId25nRgVYYwEbDMjE4HORHO07BzpI/RqL7NqBLFw6g5XH9auKjr8uOBwK/H3/gm/wD8FC9K/aD0h/hZ8Tp47Lx3oisJtwKLfwIVX7QvARZNzBWQHJPzAYzj9cRqQuFYxkg9vaqqQcXqQpcxdtZkiJA456HnFWorgWyu+75W5JFYdpND9o2uNw7mrxbM21QDERz657cenWoTfYpXWxf8yOVS0J5bjNbWnJ5cHY44zWFBZrEoY5APNbdg0YXAHTp60czRnJ6nU2U0dpHvzjvzX8dn/BbvxPd/ET9tez+HZhSMaNY2tpG7Yy8l64kO5goYKFZBtJIBBI6mv7AJoftIHzFeDx2J7DPbPev4i/E3i7xV+2X/AMFP4b9dL2m/8WQQyW7HzkSCxmVQHfG0qEi+c429e1aw3IcXZtn9vXwQ8Lv4L+FHh/wi/wB7SdNtbQgEEZiiVTyOD+FfmH/wVM1XTtItPCT6qjHe96V25yDiMD1zz2+lfr54fggismtrSUyIjMEz2X0H096/GP8A4KjRS6jrnh23hnkdIkniNu0Zx5rMp3IccjbgMc4HHfivvPDjXOKT82fnfiA/+E6XyP01/ZgFrc/s/wDg7UIc5m0m1yDkdEx0PIBxXusjCOMqfyrzP4CQQ2PwZ8J2KReUtto9lEQM4ykCKevPJBNeuSWuYzKQCO1fOcTSbxlRr+Z/mfW8NQthKf8AhRgIvnErg4pY41jbIUnFanl7YBIflHvWZvdWOOnrXzkY9D3Wu5DczKn3MksfwH1qpHBm4BJ9xSSuVzsG6qyJJKwR84PXnFWrDUtbGvEBGpY8iobmeNUDHhqaIyseeSvbNVsI84LjIA6Ux8qMa7unH+pByxwcVDdDBjDnBUc+9aM1sqtmPisie2WZ/Mkbheg7jFK6Rg0rlacs0v8Asisx7mGJ2UrknvQ7FnI
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

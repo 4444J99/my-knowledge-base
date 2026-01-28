@@ -1,0 +1,30 @@
+---
+id: 7b3b1e81-f303-4d76-b322-929598181f6e
+type: insight
+created: '2025-12-21T14:28:51.000Z'
+document: 487f0c5ba1f503a929c286723fb1294b
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: design
+keywords:
+  - universal
+  - name
+  - referenced
+  - domain
+  - discipline
+---
+# <div>Universal name of referenced domain/discipline &amp process(es) developed; 
+
+## Context
+From document: Universal name of referenced domain/discipline & process(es) developed…
+
+## Content
+<div>Universal name of referenced domain/discipline &amp process(es) developed; tenets &amp pillars; study &amp application;</div>
+
+
+
+---
+*Source: Document 487f0c5ba1f503a929c286723fb1294b*

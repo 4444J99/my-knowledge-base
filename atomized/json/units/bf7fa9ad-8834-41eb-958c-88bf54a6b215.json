@@ -1,0 +1,26 @@
+{
+  "id": "bf7fa9ad-8834-41eb-958c-88bf54a6b215",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Wants all thread headers and subheaders to use fully unique identifiers derived from the entire context or card (not just generic 1, 2, 3, A, B, C). Sub-identifiers should reflect the parent title in their structure. User prefers dashboards like ASC-style visual layouts for tracking thread components and status.</div>\n<div><br></div>\n<div>Wants every object, header, section, and reference to have a unique identifier composed of a double or triple-letter and number combination (e.g., `AA01`, `BB03`, `CC002`). This eliminates the need to type full names when referencing parts of a system. Identifiers must be concise, non-repeating, and universally applied across all systems and threads.</div>\n<div><br></div>\n<div>User’s system will rely heavily on automation, generative movement, and self-producing elements. Most components will not be static or manually created but will evolve, move, and generate new content through automated processes.</div>\n<div><br></div>\n<div>Wants all questions compiled with empty response windows for later filling, and all modules, components, headers, and prompts to have unique names, numbers, letters, and identifiers. User also wants windows to be visibly “coded” or framed, and every system component tracked as either static or generative (with a `GEN+` flag for auto-generated objects).</div>",
+  "context": "From document: MEMORY_DUMP_RAW_041225_MASTER — chunk 3 (chunk 3/35)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a6c8d7ecac270c27cc9e416b39cd8866",
+  "relatedUnits": [],
+  "keywords": [
+    "wants",
+    "identifiers",
+    "unique",
+    "user",
+    "components"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": "b63bac40-18f5-4e74-abc2-df849b0e006c",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>*   `::4D Myth Kernel::` – a symbolic time engine that tracks origin &gt transformation &gt future states</tt></div>\n<div><tt>    </tt></div>\n<div><tt>    &gt Could be logged like: `( [a][l][t][e][r] ) :: ([a][r][c][h]) :: ([f][u][t][u][r][e] )`</tt></div>\n<div><tt>    </tt></div>\n<div><tt><br></tt></div>\n<div><tt>* * *</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Would you like to:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>1.  Break this into **modular components** for code/LLM prototyping?</tt></div>\n<div><tt>    </tt></div>\n<div><tt>2.  Add **example runs** of the SYMNUM4GRAM in action (e.g., parse a sacred text)?</tt></div>\n<div><tt>    </tt></div>\n<div><tt>3.  Begin scaffolding a **terminal prompt interface** for interacting with this system?</tt></div>\n<div><tt>    </tt></div>\n<div><tt><br></tt></div>\n<div><tt>::Ref ID: RGLE\\_MAP\\_CORE\\_V1::  </tt></div>\n<div><tt>::ARCH.save.ready|awaiting.branch.order::</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## Prompt:</tt></div>\n<div><tt>![Uploaded image](https://files.oaiusercontent.com/file-4h64bPy6KbGbS9LQpdyJTm?se=2025-05-17T02%3A53%3A59Z&ampsp=r&ampsv=2024-08-04&ampsr=b&amprscc=max-age%3D299%2C%20immutable%2C%20private&amprscd=attachment%3B%20filename%3DScreenshot%25202025-04-17%2520at%25202.22.32%25E2%2580%25AFPM.png&ampsig=lljV1SUMBTbHc576IPxUTOxqDb0DyXZxlX2TvbdPmHU%3D)</tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 23 (chunk 23/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "has-image",
+    "image",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "like",
+    "this",
+    "prompt",
+    "myth",
+    "kernel",
+    "uploaded",
+    "image"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

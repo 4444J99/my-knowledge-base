@@ -1,0 +1,31 @@
+---
+id: 3418ea55-3c45-402c-9b54-2002db28d929
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - rlfpcggl0zkhlle9wxszrh555kw1djfffhnguuqmrwuxsaoxoog
+  - pktetkk5ys0o0kqtak3tck7hpciii3z55zdgjhrqdyyvxbv6de9llrmkrnq1qbtou128fm3de
+  - >-
+    cpawnim6jxqtvu56tbmiolnlz7od6bdnmrgxvdl91vemv3zkbhjg1v1oekov1zle8amuaaavkeutnw1mbskc2rsurafsk0wzywvulluvwyuvtttjklvwbnqwmzfvymwhfqzugvfioyvfkrr7xszsl7xyz3
+  - 3qqpcufujbxz6k1fhuyfb9kzwisn8vaasfpleopp35um3qjdtttt6yifs
+  - pdoh59fwyotxce
+---
+# rLFpCGGl0ZKHLLe9WXsZRh555Kw1DjfffHNguUqmrWUxsaOXOog+PKteTKk5YS0o0KqTaK3tcK7hPcII
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 3459 (chunk 3459/18928)
+
+## Content
+rLFpCGGl0ZKHLLe9WXsZRh555Kw1DjfffHNguUqmrWUxsaOXOog+PKteTKk5YS0o0KqTaK3tcK7hPcIII3z55ZdGJhrqdYyVXbV6De9LLrmkrnq1qbtoU128fm3De/vtt/cpawnIM6jxQtVu56tbMIoLNLz7od6bdnmrGXVDL91veMv3ZKBHJG1v1Oekov1zLe8amUAAAvkEutnw1mbskC2RsUrafsK0wzyWvulLuVwyuvtTTjklVwBNqWmzfVYmWhFQZUGvfIoYvfkrr7xSZSl7XYZ3+3QqpcuFuJbxZ6k1fHuYfB9kZWIsn8vaASFPLeOPP35um3QJdtttt6yiFS/PDoH59FwyOTXce++9s753GExyDW9j14CylXbUn3QMVycN77POOquuerWpu2hTXbx+O2x4Dxo0yHglaze89YtpFBdoePdDvRfy9+7bUnhAn/YMvXS/4a2aXnDBBUYVYrfkF+mWW27ZcsstdZR9OCVSQgACjRPoTsP7vffeK71fZa211op1QNHL6vPDJVSiefuoDNFwoP/q2JmK0RwUlvOYElK5Rw477LBYbtHLisvw6jK8W6lT8R82bFiUdjQsTzCa/AxR6+mnnx590IflrUoz21k5LLPMMj5lLBC+mFnLg2PPRi/lnSur9B6Nn2aaaTRMf/DBB41vVVECyXCu4W03dW1T7CS6Thre8u9YV9Vshr31E9Cmunj9Ynh7FFmBfqj3pg3vrG/NrpfuCcN7zDHHlC+M5M+KHaNtUPqOr1+ucp7bs5oo8RCAQEkC3WZ4axJJByMV9fAUrbzMBqMbqt1jarTorPDLL7+cJdL999+f9VQ03l6v/vTTT0cTh4e1KE7fOLJk01x64PltWSXWZXi3UqeCZjuT11l0WWB9vHZZZ62G0DjDJ0sGZNXLd3qq6gNXhWhiJ6toZasj6JKF9mLMgAEDVl55ZWlKqz9ScRWKzDW87aZ+7rnndpJhJw3vGofdNsPe+gloU11808Xw9iiyAv1Q7zX2AKlU5b7e6Kt7wvBWvXQgpT2sMuqoWxqLHnvssXIMZHyUT6VHJAQgUBuBLjG89U1Om0t1+FDgLJ9Rf/vcBdmoF3b8z7BPtBvHqEv0lr0Tu9xBjlqKbHTT1aeG7F8IHVQXraARbqtObbd2Icc1G27Scr3uZZ1Up5cx5Hz4WWaZxWg8559/vqHQLr+l5dyi
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

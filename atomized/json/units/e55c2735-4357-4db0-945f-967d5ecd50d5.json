@@ -1,0 +1,26 @@
+{
+  "id": "e55c2735-4357-4db0-945f-967d5ecd50d5",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>- Lineage tracking (which archive → which AI chat → which repo)</div>",
+  "content": "<div>- Lineage tracking (which archive → which AI chat → which repo)</div>\n<div>- Provenance documentation (evolution timeline)</div>\n<div>- Unified knowledge graph</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **NEXT RECOMMENDED REPOSITORY:**</div>\n<div><br></div>\n<div>### **Create in Organization: `primordial-synthesis-engine`**</div>\n<div><br></div>\n<div>**Purpose:** Master integration point for all four layers</div>\n<div><br></div>\n<div>**What it does:**</div>\n<div>- Scans your archive (Layer 0)</div>\n<div>- Processes AI contexts via chatgpt-exporter (Layer 1)</div>\n<div>- Analyzes all 39 personal repos (Layer 2)</div>\n<div>- Integrates with 23 org repos (Layer 3)</div>\n<div>- Orchestrated by auto-revision-epistemic-engine</div>\n<div>- Transformed by solve-et-coagula</div>\n<div><br></div>\n<div>**Output:**</div>\n<div>- Unified knowledge graph</div>\n<div>- Consolidated documentation</div>\n<div>- Implementation queue</div>\n<div>- Lineage/provenance maps</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>**This map represents your current state. Your architecture is more complete than you might realize - you already have many of the core components. The primary need is integration and the archive layer connection.**</div>",
+  "context": "From document: Contents_Table — chunk 52 (chunk 52/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "layer",
+    "which",
+    "archive",
+    "your",
+    "lineage"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

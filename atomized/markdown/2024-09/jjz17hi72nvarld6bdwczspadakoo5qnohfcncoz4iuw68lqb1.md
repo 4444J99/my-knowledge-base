@@ -1,0 +1,31 @@
+---
+id: 3246a6d8-caa8-4a2a-905e-b77dab3ade08
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - jjz17hi72nvarld6bdwczspadakoo5qnohf
+  - >-
+    cncoz4iuw68lqb1rcflqsy46h3jygkut0xvrd51wuyktbh74pnq3upqeyz6x6lsut5soqlesqfnetxamh8cug3nki087rvkh4qy9ah6bbheg1xha8pr1a9iglfil3sebosqgal
+  - sfqln8kqrg2ksjaglgzwmssjraze5mox6qyxfjusyvisvapm
+  - ykenqqgpadkqnahalml1a740qalgsmrhasvaim
+  - 7vvd7vzde30ifi5687w1v
+---
+# JJZ17hI72nvarLd6BDwCzSPADAKoO5QnOHf/cncoz4iuW68LQB1rcfLqSy46h3JYgkut0XVrd51WUYkt
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 8413 (chunk 8413/11534)
+
+## Content
+JJZ17hI72nvarLd6BDwCzSPADAKoO5QnOHf/cncoz4iuW68LQB1rcfLqSy46h3JYgkut0XVrd51WUYktBh74PNQ3UPQeyz6x6Lsut5sOqlEsqFNEtxaMh8Cug3NkI087rvkh4QY9Ah6BBhEg1xHA8Pr1a9IgLFIl3SEBosqGAL+SFQlN8kQrG2KSjaGlGZWmSsJRAZE5mOx6QYxfJUSYVisvApm/YkENQqgpadKqNahalml1A740qalgsMRHAsVAiM/7vu/7vvd7vzdE30ifI5687W1v+8AP/EBasSyKEnx+hYkYOyimTqvEUD1USXFVekEGV6Hx9q1vfSu7nl/pTvpVO1TFgiiKDzCp4gajE2/ho65Oaqd9AhmxKQalIziyWXkVgCk0umzQVqyCpi+Gz6+YxYL0Lpb79kVMhbVHtJRWGcsRWowLrWJK9GXUgiVk4H0fkJGBHGLzeJAIJxC2ParnlindwcEUOzcItUpCWMcsHYzU+mzVlRY3RAxajsmEfduXGhGm9qVuY40Ns0hyhEPThDCEteO0R8AjMHMEhhCdviulu/fyqbBk91qL3FcpsEqA0wFcvT6F6CI3ZMZu1Ny+mUR0z19TOBKLfybhghGdrNF1kO+wOueIbubzxLvzCGRGoEt2DukOSTnZPHkPSQ/b+7zP+7BYBwdoIb+CSRCgCQ4bivQCh19NkjQPgy9NtErWJcLCRJ5NhOX3IP6oIvLCR6toE11RUQeoWmvalxXQXpAU9ySdVX5AJDoC1QjcQuYjPuIjvvALv/ALvuALIIQZ2JGqWiOqRPjTP/3Tv+RLvuSjPuqj2BfSNPgrA1GDKiP+U6VJZahKzOHIvqOKAEtzLK99/Md/PE7S7/u///vjJ8LIqEEhtCNLcJx8zMd8DGP85E/+ZI4WjCPMr5UJaOxjnKHBB0yyoQJN3NRbVVEf4AhtR6didYR0p12I21TpAielIyzjLb4JX4UhbKeB51pVMeWgZY1YAWswQau6yIhlfuGrz1SlIxsu9UEGqF0EBlVRg4B8X0bUB/nK1N6VYwla2fvYEeelOxVQ9wJCRyGS4pvIQNPKL4c0v+w19h0EluEjczjcuvVz+MIJjHvVI+ARmCcCJxDd/uX2sbzach9mVw647oDBnnBU/hrdLIiOhTtZNuz9LhzRDdx1qTdbdsQTnDvcbOlrdPOcIN6LR6AsAqRE
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

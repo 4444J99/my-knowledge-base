@@ -1,0 +1,26 @@
+{
+  "id": "e4130d18-b60a-412a-8b01-3e0ffc69141f",
+  "type": "insight",
+  "timestamp": "2025-10-13T19:01:19.000Z",
+  "title": "<div>I, uh, I think you should get to work.</div>",
+  "content": "<div>I, uh, I think you should get to work.</div>\n<div><br></div>\n<div>You</div>\n<div>am, trust me, I </div>\n<div><br></div>\n<div>John Monforte</div>\n<div>I’m </div>\n<div><br></div>\n<div>You</div>\n<div>am.</div>\n<div><br></div>\n<div>John Monforte</div>\n<div>going to </div>\n<div><br></div>\n<div>You</div>\n<div>I’m </div>\n<div><br></div>\n<div>John Monforte</div>\n<div>go eat </div>\n<div><br></div>\n<div>You</div>\n<div>on </div>\n<div><br></div>\n<div>John Monforte</div>\n<div>my </div>\n<div><br></div>\n<div>You</div>\n<div>it.</div>\n<div><br></div>\n<div>John Monforte</div>\n<div>pizza.</div>\n<div><br></div>\n<div>You</div>\n<div>Bye.</div>\n<div><br></div>\n<div>John Monforte</div>\n<div>Goodbye. </div>",
+  "context": "From document: Contact John Monforte — chunk 6 (chunk 6/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "3646dc9f889c20b7c47575dd2b32ff48",
+  "relatedUnits": [],
+  "keywords": [
+    "john",
+    "monforte",
+    "think",
+    "should",
+    "work"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

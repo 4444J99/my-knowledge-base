@@ -1,0 +1,26 @@
+{
+  "id": "ec6d71e6-cb0a-4c57-ade1-c7a1b39f084c",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt>⸻</tt></div>",
+  "content": "<div><tt>⸻</tt></div>\n<div><tt><br></tt></div>\n<div><tt>::REF_ID = MODULAR_EXPORT_NOTES.v1</tt></div>\n<div><tt><br></tt></div>\n<div><tt>—-</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## ::ARCHIVE</tt><i><tt>_ENTRY_</tt></i><tt>032  </tt></div>\n<div><b><tt>**Title:**</tt></b><tt> Phase 2.5: Artist ID vs Project Taxonomy  </tt></div>\n<div><b><tt>**Ref ID:**</tt></b><tt> TAXONOMY</tt><i><tt>_ID_</tt></i><tt>PROJECT.v1  </tt></div>\n<div><b><tt>**Folder:**</tt></b><tt> /GPT</tt><i><tt>_ARCHIVE_</tt></i><tt>CORE/SYS</tt><i><tt>_MAP_</tt></i><tt>OS</tt><i><tt>_4BLOOM/  </tt></i></div>\n<div><b><tt>**Filename:**</tt></b><i><tt> TAXONOMY_</tt></i><tt>ARTIST</tt><i><tt>_PROJECT.md  </tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>---</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>### I. | PURPOSE</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>To distinguish clearly between </tt></i><b><tt>**Artist IDs**</tt></b><i><tt> (creative personas or filters) and </tt></i><b><tt>**Projects**</tt></b><i><tt> (works created through those personas), and to define their recursive relationships.</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>---</tt></i></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 149 (chunk 149/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "artist",
+    "project",
+    "taxonomy",
+    "personas",
+    "ref_id"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

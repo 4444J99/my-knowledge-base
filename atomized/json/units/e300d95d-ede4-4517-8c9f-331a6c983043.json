@@ -1,0 +1,25 @@
+{
+  "id": "e300d95d-ede4-4517-8c9f-331a6c983043",
+  "type": "insight",
+  "timestamp": "2025-03-10T11:47:34.000Z",
+  "title": "<div><br><br></div>",
+  "content": "<div><br><br></div>\n<div>Professor Nieves coverage 3/6 attendance </div>",
+  "context": "From document: Ittendance. 3/6",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f3a47d0001e1d48d665c9397e5bfd7df",
+  "relatedUnits": [],
+  "keywords": [
+    "professor",
+    "nieves",
+    "coverage",
+    "attendance"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

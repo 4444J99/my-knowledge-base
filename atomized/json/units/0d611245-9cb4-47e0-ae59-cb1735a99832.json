@@ -1,0 +1,26 @@
+{
+  "id": "0d611245-9cb4-47e0-ae59-cb1735a99832",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>**Primary Goal:** Convert raw creative mass into a filterable, recursive operating system by separating and clarifying the relationships between:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- ARTIST IDs vs PROJECTS  </tt></div>\n<div><tt>- REALITY vs SURREAL/DREAM domains  </tt></div>\n<div><tt>- EDUCATION, RESEARCH, BUSINESS, and PRODUCT layers  </tt></div>\n<div><tt>- GLYPHS, SYMBOLS, and FILTERABLE TAGS  </tt></div>\n<div><tt>- Modular Export Formatting (mobile and GitHub-ready)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### I. | ARTIST ID vs PROJECT: Taxonomy Definition</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| CATEGORY     | DEFINITION                                                                 | EXAMPLES                          |</tt></div>\n<div><tt>|--------------|-----------------------------------------------------------------------------|-----------------------------------|</tt></div>\n<div><tt>| ARTIST ID    | A role or creative voice used to generate and filter work                  | ::4_bl00m, ::ETCETER4             |</tt></div>\n<div><tt>| PROJECT      | A self-contained system or world produced through one or more artist IDs   | ::MET4morfoses, ::GR1ND3R, ::Q_v33R |</tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 81 (chunk 81/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "artist",
+    "creative",
+    "filterable",
+    "system",
+    "project"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

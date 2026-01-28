@@ -1,0 +1,26 @@
+{
+  "id": "00b0e072-56c1-4bcd-9900-225d5107114d",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt>- Operates faster than human perception (like all media)</tt></div>",
+  "content": "<div><tt>- Operates faster than human perception (like all media)</tt></div>\n<div><tt>- Processes “Real” (audio, video) not just “Symbolic” (text)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Implications:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- System architecture = epistemological framework</tt></div>\n<div><tt>- Interface design = rhetorical argument about language</tt></div>\n<div><tt>- Visualization choices = political acts (what’s foregrounded)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### **30. Systems Theory (Open Systems)**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**RLOS as Open System:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Deeply embedded in cultural/political environment</tt></div>\n<div><tt>- Inputs: Training data reflecting cultural values/biases</tt></div>\n<div><tt>- Outputs: Analyses influencing discourse/culture</tt></div>\n<div><tt>- Feedback: Continuous adaptation via user interactions</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Stakeholder Ecosystem:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Developers, researchers, users, policymakers, civil society</tt></div>\n<div><tt>- Multi-directional influence</tt></div>\n<div><tt>- Co-evolution of system and society</tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 51 (chunk 51/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "system",
+    "political",
+    "systems",
+    "open",
+    "cultural"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

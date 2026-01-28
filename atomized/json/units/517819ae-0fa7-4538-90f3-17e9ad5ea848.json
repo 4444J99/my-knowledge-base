@@ -1,0 +1,23 @@
+{
+  "id": "517819ae-0fa7-4538-90f3-17e9ad5ea848",
+  "type": "insight",
+  "timestamp": "2021-12-17T16:51:47.000Z",
+  "title": "<div>Community Service<br></div>",
+  "content": "<div>Community Service<br></div>\n<div><br><br></div>\n<div><br><br></div>",
+  "context": "From document: Community Service",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a84de392e15b82c4b6ce8263261189f2",
+  "relatedUnits": [],
+  "keywords": [
+    "community",
+    "service"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

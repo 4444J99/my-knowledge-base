@@ -1,0 +1,30 @@
+---
+id: ec93828c-0065-4892-83e4-3505f813ee19
+type: insight
+created: '2025-05-15T00:57:38.000Z'
+document: 97ddee0de00a1fdb1a5da48c7c6bd4f2
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: programming
+keywords:
+  - each
+  - version
+  - this
+  - that
+  - into
+---
+# as the base and map others onto it, expanding it where needed to accommodate con
+
+## Context
+From document: Transforming a Fragmented Digital Life into a Unified Canonical Architecture — chunk 23 (chunk 23/37)
+
+## Content
+as the base and map others onto it, expanding it where needed to accommodate concepts it lacked. This results in a master taxonomy that is richer than any single predecessor. In MythOS, this could manifest as a consistent set of tags or folders that everything is categorized by, where each old tag is either merged into one of these or deprecated. • Thread Collapsing vs. Preservation: When converging threads, decide what to do with parallel versions of the same content. Options include collapsing them into one (choosing one canonical version and archiving the others, or merging their content), or versioning them (keeping each as a version record of a unified item). For example, if you have 5 drafts of a screenplay across 5 different project folders, MythOS could create a single “Screenplay X” entry and attach the 5 files as its version history. This way, nothing is lost, but in the new system you treat it as one logical item. Modern version control (Git, etc.) can assist: you might import each variant as a commit in a Git repository for that document, essentially replaying each thread into one timeline. Techniques from software merging – diffing texts, three-way merges – might help
+
+
+
+---
+*Source: Document 97ddee0de00a1fdb1a5da48c7c6bd4f2*

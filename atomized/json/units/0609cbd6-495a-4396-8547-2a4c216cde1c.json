@@ -1,0 +1,24 @@
+{
+  "id": "0609cbd6-495a-4396-8547-2a4c216cde1c",
+  "type": "insight",
+  "timestamp": "2025-06-02T23:47:41.000Z",
+  "title": "<div><h1>Call with Maddie</h1></div>",
+  "content": "<div><h1>Call with Maddie</h1></div>\n<div><br></div>",
+  "context": "From document: Call with Maddie",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "c2de7ac38306a259d32d759196ff5c1f",
+  "relatedUnits": [],
+  "keywords": [
+    "call",
+    "with",
+    "maddie"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

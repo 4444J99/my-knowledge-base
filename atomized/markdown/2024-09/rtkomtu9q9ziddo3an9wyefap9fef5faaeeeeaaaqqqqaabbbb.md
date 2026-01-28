@@ -1,0 +1,32 @@
+---
+id: 4b01289c-0b33-4dd3-bf2f-7dae08ffbcdd
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - omtu9q
+  - 9ziddo3an9wyefap9f
+  - >-
+    ef5faaeeeeaaaqqqqaabbbbaaaeeefgi0rkjnegursiqel2rsitexsqci9eyicz8o1ldhaiiiiaaaggggectcay5em766its9pa6e9ed2nenj4mk2rbaaaeeeeaaaqqqqaabbbbaaaee6isgurqj2ej0rii5traeojkiiiaaaggggedzc3xojez0
+  - o8ja
+  - >-
+    ff2mpt8b76pmiydwqqqaabbbbaaaeeeeaaaqqqqacbygukqimrhon2nh9uixyigaaccccaaainjldgarnp4xoyu3
+---
+# +/rtk/omtU9q/9ziDdo3aN9wyefaP9f+ef5FAAEEEEAAAQQQQAABBBBAAAEEEFgi0RKJnEgURSIqEl2R
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 4033 (chunk 4033/11534)
+
+## Content
++/rtk/omtU9q/9ziDdo3aN9wyefaP9f+ef5FAAEEEEAAAQQQQAABBBBAAAEEEFgi0RKJnEgURSIqEl2RSItEXSQCI9EYicz8O1LDHAIIIIAAAggggECTCay5em766ITs9Pa6E9ed2NEnj4mk2RBAAAEEEEAAAQQQQAABBBBAAAEE6isgURqJ2Ej0RiI5TRaeojkIIIAAAggggEDzC3xojez0+n9P+O8Ja/fF2mPt8b76PmiydwQQQAABBBBAAAEEEEAAAQQQQACBYgUkqiMRHon2NH9UixYigAACCCCAAAINJLDGarnp4xOyU3/u0W29xcU+8LE+AggggAACCCCAAAIIIIAAAggggED0BSTyI1EgiQg1UAiLqiKAAAIIIIAAAs0gIL+c6piYnd7lzXDRf4CmhggggAACCCCAAAIIIIAAAggggEBlBSQiJNEh+tg1Q7yPNiCAAAIIIIBAZAU+vGZ2ev1TEz818dMvVfaRjtIQQAABBBBAAAEEEEAAAQQQQAABBBpdQKJGEkGKbICLiiGAAAIIIIAAAo0hsNYauekTEz8x8ZO8T25Joz8oU38EEEAAAQQQQAABBBBAAAEEEECgNgISTZLIUmNEwaglAggggAACCCBQd4HV2nLT2hPXnrhOH4NY1uaxlb0ggAACCCCAAAIIIIAAAggggAACzScgkSWJMknEqe6BLyqAAAIIIIAAAghEUeA/PpSd+tdrX6/9f+kzR585BBBAAAEEEEAAAQQQQAABBBBAAIGKCUjESaJPUYyLUScEEEAAAQQQQKDGAvILpnUmrjPxf0jLVeyhs/l+9UaLEEAAAQQQQAABBBBAAAEEEEAAgUoJSCSKfnU1DgOyOwQQQAABBBCIioCMBv7Z9s+2x16q1AMW5SCAAAIIIIAAAggggAACCCCAAAIIIBBGQKJSvK8uKrFC6oEAAggggAACNRCY+KHs1L9++/rtGywO88DEOggggAACCCCAAAIIIIAAAggggAACCFRDQCJUEq2qQViMXSCAAAIIIIAAAvUR+PiEj0/4rz9X43GKMhFAAAEEEEAAAQQQQAABBBBAAAEEEChHQCJX9YmasVcEEEAAAQQQQKBKArxtrpwHRLZFAAEEEEAAAQQQQAABBBBAAAEEEKiNgESxqhQio1gEEEAAAQQQQKAWAvLS3Y6JHRM/0VebRyj2ggACCCCAAAII
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

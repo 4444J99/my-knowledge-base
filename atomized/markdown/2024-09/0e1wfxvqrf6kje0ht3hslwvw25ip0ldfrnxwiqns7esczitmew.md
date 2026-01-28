@@ -1,0 +1,32 @@
+---
+id: 27d7e675-1d79-4f0b-9c12-665394697a50
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 0e1wfxvqrf6kj
+  - >-
+    e0ht3hslwvw25ip0ldfrnxwiqns7esczitmewqrgcqvjqlteyskuhmrrahpoiyvhl4h0d9mo8oz6702de7
+  - dbj9psnt9v7rafz33i
+  - ubeh145cqhknftfmmfr8fos
+  - >-
+    0mgv1oznkvxzaf4bid3toxdp9cjzaorzmpisfh0gpotxynmeh3kihx1jhvrycdu0dhvgu3zmb3dgxoc7uznpb0wbcvsjrqmtkequh0kuh2ffgqxqgrviquvecyfnvizlyzfmutlnyxqknd8ay3u55ybacomfx2szz
+---
+# 0e1wfXvQrf6kj+E0HT3HslwVW25IP0LdfRnxWIqnS7EsCZItMeWQRGcqVJqLteYSkuhMRRAhpoIYvHL4
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 8520 (chunk 8520/11534)
+
+## Content
+0e1wfXvQrf6kj+E0HT3HslwVW25IP0LdfRnxWIqnS7EsCZItMeWQRGcqVJqLteYSkuhMRRAhpoIYvHL4h0d9Mo8oz6702De7/dbJ9psnt9v7Rafz33i+uBeH145CqhKNFTFmMFR8FoS+0mGv1OZnKvxZAF4biD3ToxDP9cjzAORZMPIsFH0GpotxyNMeH3KiHx1jHVrYcdu0dhvGU3ZMb3dgXoc7uznPb0WbCvsjRQmtkEqUH0KUh2FFGqxQgRVIQUvEcyFNVIZlyZFMuTlNYXqkND8Ay3u55YbAcomFX2SZz/u3nPFpOOH+fq/zs2/dc1dyTkwWTAzz0rNcoD+1VEjjcKC09ZPNuuRC6ycdz7WfosPmIR65q4HovOq3OUP/iZaj3q1nQLwSojek+G0JCkR3X4SkykwZSmOmhsiPMqcFodnBphwNaK3mEqGhmGkqZxNPZVixGsmNNOUOvLSCuiDe/ptB7baP6rh3vOvBZPqesbStIxxXD7TbOLZTwTkpNI1EqsNMtVrkhQZ9qUZewC0VDfZchz/TEzUBRHUgVh0Md15aKqKIV0MLzmvWjXFYMaDdttHue8ex9iVxIfZPYK0b0GF5ot35ld6momFocR9DfiR8nfBKLVquMuTLDDkKND8AzwtGM4KIzFAiNdjyOJh4qCfuqfA7Uuw2H7nBMl6hG85TW075GI/41H3r8HKjR+469vZx3v30rgouDfpBWh0m/l6ig9888sYxgCWk00M2no3owBuJARdaInCh9Y1kdJwi6XKiOzNvqOD5MP+3QHTj3N5Pdmuc7t0yyxeieQ6NlOm+BJnOBnWslkXslsWcliWcVuC65fz6ldqMWdozI6X7E/x3xnpvCnZZIes8n9NhOq3dJE/KRA/KHCZlnbbLD/2YOXOC6zYlorsHYDt7ITu6Ivu6mg9GI0eCsaN6Mo4EYYeh/UAsfqir+UCMCdohHAttPRJUvz+g+VBUy+GE59/1TJkdcHwIb21wl9k8u89plM99KdP97Ocy2y8VddoT4Xws3u10L7erA73zporerYxo2RD9fqm6biEYurAMi+lNi0Cd8yNjAb3pS1/DHG9kpic2zdOY7N44xv3dGO+aUbTSkYy0ocx9cdQezPY6jpeCB1oraHSQxmjLmCXvzf/dGh1kDgLOsSB9nUsGG6AOHgqE0BXGTyoEh1VXFbdzsKD9oHCP
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

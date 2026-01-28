@@ -1,0 +1,32 @@
+---
+id: 3aa9a21f-2554-4bf6-bc76-0bf35bcfadc4
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 7brakdorhzfg4joaq7bkbyksjt
+  - 7cuq3mdqvjmsxnwy9hgquym13pigcgzt0oqyfbargldotvt2pifw5lzgms6ut5uqp7msui2m
+  - >-
+    hwqz9almnq7zed1c8sukn8an4igfzgrm1yr6tmx5y4laspuw49hcphmjaq7ky3ldhyd4fmnkrgbq0rgdizpn72j54adadplrqewixhxq4xznp
+  - be7u8xgfy93etsnpidj6mvsncqozxhia6imezusdzmfgffxkg2e9pvwcqz0mqybsfp3jldgj
+  - >-
+    cbxyyq7gyjnrjks5ftgsc3bccxxbiswtex8kdlnnnjeh47k67mpkuy8ttfynxis5yyrcxvjn07oka5lf
+---
+# 7BraKdoRHZfG4Joaq7bKBYKsJT/7cUQ3mDQvJMsXNwY9HGQuym13pigCgzt0OqYFbArGLDOTVt2pifw5
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 8398 (chunk 8398/11534)
+
+## Content
+7BraKdoRHZfG4Joaq7bKBYKsJT/7cUQ3mDQvJMsXNwY9HGQuym13pigCgzt0OqYFbArGLDOTVt2pifw5LZgMS6ut5uQp7MSuI2m+hWqZ9AlMNq7ZEd1C8sUKN8an4IGFzGrM1YR6TMX5y4lAsPuW49hCPHmjaq7ky3LDHyd4fmNKRGBQ0RGdIzpN72J54aDAdPlrqeWiXHxq4Xznp/bE7U8Xgfy93ETSnpiDJ6MVSNCqOzXhiA6ImEZusdZMFGfFxkG2E9pVWcqz0mqybSFp3JLdGJ+CBxYyq7GYJNRjKs5fTgSC3bccxxbiSWtEx8KdLNNNjeh47k67mPKuy8TTfYNXIS5yyrcXvJN07OKa5lf/Wzf4P3R+9uNrdIP5sU3cBwWEacWmoxMOBE3WB9tk+eNpaxl6vEG3QASCqE5dtSBNwZhlZtKqOzWRP6cFk2FpNTEJJ2bvhFbDpoQDiaaTV6u+gF71+sQztOpRfeFBTk+vmJHAdLFULKGiTTFd52sE8lPwQHJkVR2AyDRlVZw+YwQy9xdiZ3RymV03RnTPKEvhVgZRsUY3m0p8RI9fLwiubVwmA05QTVxHK5qqr/1B1pKf/TiiG0ydFWMMtipTxSYltLtBItZ1IBwTq+BPZ7nCmatRCaI6ddUCNgVjlllKq5GJiKI5LSYczJNFVSbnxJRePXUXKSYcyG8KLmGl1QT8GsRv+cyE5cwmsFksM1PYliBius7XCATZufIDIhCrqwY2tZppTeWdOG8EMvcXYuf1c4G9O6Ib+/WC4PLGZTLgBNX862iOZNHV3QoHqUksoRnkT5SBidlYXqidWoGps9h8+4oT0ioqNilR50Og1dDD6Sw3dPLiTAVRnbpqz7vBk9EK5NBqZCJicO4qZQbzZFHVzrfnonMuIidlgktYaTUfoZVKZsK2hJgjuqmz0iA7j3UXiNVVRxqPqTt/5gjk7/2ZHVt+d47oHNF1WUpRojNRBiZmY7mgdmoFps5i8+0rHkirqNikRJ0PgVZDD6ez3NDJizMVRHXqqj3vBk9GK5BDq5GJiKI5LSZcBOEC4XOhONvvSbSWI1AK4QL5UpyWL5+AaplNifW3nKblZ3hn9zDIzmP+BGJ11ZHGY+rOnzkC+Xt/ZseW350jOkd0jugaJMOKB9K2VGxSos6HQKuhh9NZbujkxZkKojp11YI0xWCWWUqrkYmI
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

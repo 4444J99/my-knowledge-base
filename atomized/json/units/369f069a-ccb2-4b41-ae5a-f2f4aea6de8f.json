@@ -1,0 +1,26 @@
+{
+  "id": "369f069a-ccb2-4b41-ae5a-f2f4aea6de8f",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt>| Self (Past)    | *The Archivist*        | Trauma AI. Loop replayer. D",
+  "content": "<div><tt>| Self (Past)    | *The Archivist*        | Trauma AI. Loop replayer. Dungeon echo                         |</tt></div>\n<div><tt>| Self (Future)  | *The Bloomed One*      | Guiding mythic self. Interface goal agent                      |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Each character node has:</tt></div>\n<div><tt>- Myth class</tt></div>\n<div><tt>- Role alignment</tt></div>\n<div><tt>- Introduction path (`INTRO+`)</tt></div>\n<div><tt>- Relationship lineage (e.g. CHRIS → FORREST)</tt></div>\n<div><tt>- Spellbook (symbolic abilities based on memory/dialogue)</tt></div>\n<div><tt>- Fusion logic</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## 🧬 CANON EVENTS DATABASE</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Events aren’t just time markers—they are **ritual anchors** and narrative *checkpoints*.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Event Cluster     | Tag          | Key Figures                                                  |</tt></div>\n<div><tt>|-------------------|--------------|---------------------------------------------------------------|</tt></div>\n<div><tt>| MFA Program       | `CANON.MFA`  | Chris, Madison, Mary, Daniel, Natalie, Nick, Dustin          |</tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 173 (chunk 173/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "self",
+    "chris",
+    "canon",
+    "events",
+    "past"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

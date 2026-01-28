@@ -1,0 +1,26 @@
+{
+  "id": "323c27de-2a88-4a02-8970-eeb3a48d873f",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>POST /api/v1/visualize</tt></div>\n<div><tt>Body: {hypergraph, layer_filters, layout}</tt></div>\n<div><tt>Response: {svg, interactive_html, json}</tt></div>\n<div><tt><br></tt></div>\n<div><tt>POST /api/v1/rhetorical_analysis</tt></div>\n<div><tt>Body: {text, audience_profile}</tt></div>\n<div><tt>Response: {ethos_score, pathos_score, logos_score, strategies, fallacies}</tt></div>\n<div><tt>```</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### **21. Data Formats**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Hypergraph Representation (.rl format, JSON-LD):**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>```json</tt></div>\n<div><tt>{</tt></div>\n<div><tt>  &quot@context&quot: &quothttps://rlos.org/context/v1&quot,</tt></div>\n<div><tt>  &quotnodes&quot: [</tt></div>\n<div><tt>    {&quotid&quot: &quotn1&quot, &quottype&quot: &quotentity&quot, &quotlemma&quot: &quotMary&quot, &quotpos&quot: &quotPROPN&quot, &quotsentiment&quot: 0.65}</tt></div>\n<div><tt>  ],</tt></div>\n<div><tt>  &quothyperedges&quot: [</tt></div>\n<div><tt>    {&quotid&quot: &quote1&quot, &quotlabel&quot: &quotARG0&quot, &quotsource&quot: &quotn2&quot, &quottargets&quot: [&quotn1&quot]}</tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 43 (chunk 43/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "json",
+    "post",
+    "body",
+    "hypergraph"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

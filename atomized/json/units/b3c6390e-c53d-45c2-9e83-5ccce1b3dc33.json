@@ -1,0 +1,26 @@
+{
+  "id": "b3c6390e-c53d-45c2-9e83-5ccce1b3dc33",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div>  •  Weekly assignments</div>",
+  "content": "<div>  •  Weekly assignments</div>\n<div>  •  Participation in class &amp discussions</div>\n<div>  •  Optional challenges (Mastery Exam, Creative Work, etc.)</div>\n<div>  •  Leveling up unlocks:</div>\n<div>  •  Alternate paths for assignments</div>\n<div>  •  Bonus points applied to lowest assignment grades</div>\n<div>  •  Title upgrades (e.g., “The Seeker” → “The Archivist” → “The Master Scribe”)</div>\n<div>  •  Special in-class privileges (like leading discussions)</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🔍</font> Section Naming Structure</div>\n<div><br></div>\n<div>Every section title will now have two parts:</div>\n<div>  1.  A Meta Title that aligns with the overarching course themes and literary evolution.</div>\n<div>  2.  A Week-Specific Title that reflects the current art/literary movement, themes, and discussion topics.</div>\n<div><br></div>\n<div>Example:</div>\n<div><font face=\".AppleColorEmojiUI\">📖</font> The Medium Shapes the Message: Literature, Technology, and the Evolution of Storytelling</div>\n<div><font face=\".AppleColorEmojiUI\">💡</font> (Week 4: The Gothic Mind – Fear, Obsession, and Perception in the 19th Century)</div>\n<div><br></div>\n<div>This ensures every week feels distinct but also fits into the larger picture.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 2 (chunk 2/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "title",
+    "face",
+    "applecoloremojiui",
+    "week"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

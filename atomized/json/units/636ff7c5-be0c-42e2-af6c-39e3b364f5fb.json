@@ -1,0 +1,26 @@
+{
+  "id": "636ff7c5-be0c-42e2-af6c-39e3b364f5fb",
+  "type": "insight",
+  "timestamp": "2022-04-02T23:47:31.000Z",
+  "title": "<div>[REDACTED:PHONE NUMBER], [REDACTED:PHONE NUMBER], [REDACTED:PHONE NUMBER], [REDACTED:PHONE NUMBER], [REDACTED:PHONE NUMBER], [REDACTED:PHONE NUMBER], 561",
+  "content": "<div>[REDACTED:PHONE NUMBER], [REDACTED:PHONE NUMBER], [REDACTED:PHONE NUMBER], [REDACTED:PHONE NUMBER], [REDACTED:PHONE NUMBER], [REDACTED:PHONE NUMBER], [REDACTED:PHONE NUMBER], [REDACTED:PHONE NUMBER],</div>",
+  "context": "From document: [REDACTED:PHONE NUMBER], [REDACTED:PHONE NUMBER], [REDACTED:PHONE NUMBER], [REDACTED:PHONE NUMBER], [REDACTED:PHONE NUMBER], [REDACTED:PHONE NUMBER]…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "d2b16f0a7f4e8d08813a78c850ce0f62",
+  "relatedUnits": [],
+  "keywords": [
+    "[REDACTED:PHONE NUMBER]",
+    "[REDACTED:PHONE NUMBER]",
+    "[REDACTED:PHONE NUMBER]",
+    "[REDACTED:PHONE NUMBER]",
+    "[REDACTED:PHONE NUMBER]"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

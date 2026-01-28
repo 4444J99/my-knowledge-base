@@ -1,0 +1,45 @@
+---
+id: 1aacf61d-78c9-4b5e-b80a-deff41b56c5d
+type: insight
+created: '2025-11-20T00:27:19.000Z'
+document: 657aecac6f7fd18489e5adc55f9e6f82
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: design
+keywords:
+  - text
+  - sem_011
+  - emotion_classification
+  - emotions
+  - sem_012
+---
+# <div><tt>**SEM_011:** emotion_classification - 8 emotions (F1 ~65-75%)</tt></div
+
+## Context
+From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 9 (chunk 9/57)
+
+## Content
+<div><tt>**SEM_011:** emotion_classification - 8 emotions (F1 ~65-75%)</tt></div>
+<div><tt>**SEM_012:** semantic_graph_construction - AMR parsing (Smatch ~84%)</tt></div>
+<div><tt>**SEM_013:** entity_linking - Wikipedia/Wikidata IDs</tt></div>
+<div><tt>**SEM_014:** multimodal_grounding - Text-image alignment</tt></div>
+<div><tt><br></tt></div>
+<div><tt>### **PRAGMATICS (11 functions)**</tt></div>
+<div><tt><br></tt></div>
+<div><tt>**PRAG_001:** speech_act_classification - 5 categories (assertive, directive, commissive, expressive, declarative)</tt></div>
+<div><tt>**PRAG_002:** coreference_resolution - Mention clustering</tt></div>
+<div><tt>**PRAG_003:** implicature_detection - Gricean maxim violations</tt></div>
+<div><tt>**PRAG_004:** presupposition_identification - Implicit assumptions</tt></div>
+<div><tt>**PRAG_005:** irony_sarcasm_detection - Multimodal (text+prosody+emoji) </tt></div>
+<div><tt>**PRAG_006:** politeness_analysis - Brown &amp Levinson framework</tt></div>
+<div><tt>**PRAG_007:** hedging_detection - Uncertainty markers</tt></div>
+<div><tt>**PRAG_008:** deictic_resolution - This/that/here/there + gesture</tt></div>
+<div><tt>**PRAG_009:** ellipsis_resolution - Recover elided material</tt></div>
+
+
+
+---
+*Source: Document 657aecac6f7fd18489e5adc55f9e6f82*

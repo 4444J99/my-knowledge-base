@@ -1,0 +1,32 @@
+---
+id: 3dc59d24-b859-4753-9e03-ecb2f69f1e90
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ktj75ntp752knfuem
+  - >-
+    zhya0ontvaga3eotzlwcvuztfhtzybgsvhsiolejvgtzdgywzusuleqlpmvg1ffqfmc0snkvgsdh8q2cgyg1bzmwbupk16ybvxr9njbq0yvtwfggssvpmymge
+  - tee8flnwdxzfnzmqmk1mxdckjktyg49drljrat2nhnuywgosiawz7ns1skrpqtp3a6
+  - >-
+    uqciqsari1s8mrg5avawpq3wfq4prqmjv9qgwkvcnh1w5vxpu1blawjxztbaq5x1ydzds7xgsuefs7lt3d7h74iu
+  - 37x2v37lgc
+---
+# KTJ75nTp752KNFUEm+ZHYa0ONtVaGA3EOtZLWCVUZTFhtZybgsVHSioLeJVgtZDGyWZusulEqlpMVG1F
+
+## Context
+From document: New Note — chunk 11972 (chunk 11972/21099)
+
+## Content
+KTJ75nTp752KNFUEm+ZHYa0ONtVaGA3EOtZLWCVUZTFhtZybgsVHSioLeJVgtZDGyWZusulEqlpMVG1FFQFMc0SnkVGSDh8q2cgYg1bzMWBUpK16YBVxr9nJBq0yVTWfGGsSVpmymgE+TeE8FlNWDXzFNZmqmk1MxDcKJKtyG49dRLJrAT2NhNUYwGoSiawZ7Ns1sKrpqtp3A6/uQcIqsari1S8Mrg5AVAWpQ3WFq4PRqmJV9qGwKvcNh1W5vxpU1blaWJXztbAq5x1YdZDs7xGSuefs7lt3D7h74Iu+B/RN0/37x2v37LgC//0f/4f8X79eJ/96zDlVoeo/z10l/7L8TPnXky82xTHnqsJVXIPX4jX35p977713EFa95ppr5Nprrx1x8Xh/MqtDq3vzM+gey62AWwG3Am4F3Aq4FXAr4FbArYBbAbcCbgXcCvzjr4ADq3sPrBKoDgVWiVM/QNlglUhVy49VhwOrClS121BVx36oym0FqzZS5Zj4hGWPua3vudpdsap2xao2VFWwWi1dtVrCqh+r2smqNlblWNNVtStW1e7Hqnaiqo6JZ+yxDVeJU4fCNQpUFdsoqtFuw1QdE6TaYxus2ljVHmvSajWwqlB1d7Eq36sfCVrlcSMBq8SnPM5GqfZYgarOcXukRWCqYFW7gtRqnehUUap2G6Tu6nhP4aoiURu6ck63db/O2d3et6tjwkyew65jvYa9rft1zu72vj0Z89XWPn+47WrH2udwzD88Tv/Y46HmdF+1Xu0a1Y5zc3tvBbIAqVnA1Fwa6Z2obDILJ5WRdCINT0UsmkTXAlQF4DN4E7gvzUI6JfcTdxrgifO8DuAK3GnOZ8e12pBEetlXL/HSzD/9xPxmPH2N/eD9D+Sun//CQFGDRYEzcwpGK2CVyaIpQMJkJIqEUeBIwNUjD18sj+A3EPtfW/n6+gqC784580yDUluZUmqAqodRDQLFY+xIZq08b/OYFahqnj8/Bq/48TD1lQmuvBYTVUuAqsSqHBO/8mM3uLaSsBoFSiVSJVoNNbWYMbcVrnL/JRdfbLCq/Y9BOP7D738PFFvw1pzrjjJrjnUnWu3p6JT7f/1r8w8+qr2m6j8EIVhdsWKFQaOnnXaa+f8OfT3VTh+1bNkycwyR6XCwlPt5HHGpAtdYDOm3wJ0solUCVh5nA1Q9nuf4H4c4lnPEqS0t
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

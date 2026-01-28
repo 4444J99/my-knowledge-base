@@ -1,0 +1,26 @@
+{
+  "id": "eb615e87-25a2-4c60-b89c-4ea7f60cf695",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "</td></tr>",
+  "content": "</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Save</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>A student may “protect” another by taking on their challenge instead.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>If the saving student fails, they take double the penalty.</div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">✅</font> Why This Works:</div>\n<div>  •  Creates a competitive but engaging atmosphere.</div>\n<div>  •  Encourages students to pay attention to details.</div>\n<div>  •  Ties literature into social strategy &amp risk assessment.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📌</font> Final Lock-In Questions for Version 5.5</div>\n<div><br></div>\n<div>1. Should students be allowed only one “reroll” per semester, or should rerolls be limited per unit?</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 190 (chunk 190/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "font",
+    "valign"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

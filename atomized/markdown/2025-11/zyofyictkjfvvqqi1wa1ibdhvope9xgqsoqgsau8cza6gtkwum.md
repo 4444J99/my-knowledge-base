@@ -1,0 +1,31 @@
+---
+id: 2eaed422-c2fd-49b1-a776-fcd5f63919ff
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - zyofyictkjfvvqqi1wa1ibdhvope9xgqsoqgsau8cza
+  - >-
+    6gtkwumtauob8wv1qfk76o5tfc3tfq2luvmwhstjqrpfsomgrpnure7s6gvoehrcmojvwcp7cstqhs1vcfllre35tprsogizsqun4nlsqeqyyugm9zhgsom46j73bhsvjvs4phb0xo6mlti8jb0x5v6cpt5fvj9zvys
+  - rf684h
+  - kh3eedr8qencs6gtpgaxdno0wytf67ttagmhkeswsfwnigwji5
+  - zu9fulepngyg47frj7pbqq1rly
+---
+# ZYOFyICtkjFVvqqi1WA1iBDHVOpe9XGQSOQgsaU8cZa+6gtKWUmtaUob8wv1qfk76o5tfC3tFq2LUvMw
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 4630 (chunk 4630/11629)
+
+## Content
+ZYOFyICtkjFVvqqi1WA1iBDHVOpe9XGQSOQgsaU8cZa+6gtKWUmtaUob8wv1qfk76o5tfC3tFq2LUvMwHStjqrpfSomgRPnurE7s6GvoEhRcMoJVWCP7CsTqHS1VcFLLrE35tpRsOgIzsQUn4NLSqEQyyUgM9ZhgsOM46j73bhSvjvs4PHB0Xo6mltI8JB0x5V6cpT5FVj9zvyS+Rf684H++kh3eedr8QEnCS6GTpgaxdNo0wyTF67TTAgmhkEsWSfwNiGwJI5+zu9fULepNgYg47Frj7pBqQ1RLY++lsShfStZe51X97dnz/VdDNSRIPBDUHSD+yqSh113/Z6hhKVWeUuYvWfpJ7iet3/+43F+WXtGHZXS29CBCceqA1BHuND6YY+GS5hwhKq55jf41J9MiZEA/DHBB6yp19dfXO1e9rr4mj9fdHe5t1KOA0UK9rnaq2/Q1Q+P8pqTH3aLeoKfbwd136ln1XIgmUppy/fH949Nq9Vcd1VGW0mgsJMkJh+HWrxc12GoY7YJjZJQvKw+W+4N73RFVfxN+aorLr4b+RLrTf8HQMe3gluBmdSM4X+5eDq/lJIT2bh7moEdVMRRwkHkgkLjshXdcq+6KpJX1VnZM6PiLS/7oDmEpGGc2UEOvVAnqfzS9pJj1uixH1VA1dbjsnBSXgDGSmG5CMHXPyt1R+1bu7rZHfTdHaC3nq1DDxdDxY50D3EIDFWHE7ozLSoiAc/QTJtJsBnLa5NydvR+qjVPjRPp13Tl7iRb4WEJP/h3o4hyjFTumSpqWvFa6k/22VixjDVpQJyGnxkcJ9+YszJFypdbgpf9KiEjIqjmZ8VQa4ylimk7OPdmW/1kyAABAAElEQVR3Zx9Q3d1yTFSK3HXJvMOFahblUJoOkVDtBBLWGRVW0W++Vjqx3OWkICteYKd9ln6zRkTewtyF2TbjIsu0pC2Ea+Js/n/gDm9gkbpuC9blVvnEEuu9Ve+uem3VsM3DXhqxNNaOy6gxGXljvMjnf65on95WtYnv4EPa6wVvzd6afVP2X3eV7X78uy83PbJp1cZ5fL3b2mdROliK9NCuSm/lhSggx0NXQsDVkSfpfVqsaf5sq1tUBOd70KbysRJr3517y/aOMF3TMnrIeJV+lhQRlrRrfPBBmQEzwPjEjG8BNTHBkXPACGSPzzl4sBwe815A0HTQN6degOB7
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

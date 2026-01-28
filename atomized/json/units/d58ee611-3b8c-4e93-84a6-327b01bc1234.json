@@ -1,0 +1,26 @@
+{
+  "id": "d58ee611-3b8c-4e93-84a6-327b01bc1234",
+  "type": "insight",
+  "timestamp": "2021-06-24T19:10:13.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><img style=\"max-width: 100%; max-height: 100%;\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAQAAAwCCAYAAAAI0WSVAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAEBKADAAQAAAABAAAMAgAAAAAVjj7lAABAAElEQVR4AezdCbzt1fw//pUhQ5kyZkyJyjxlKm5K5kgylBIaJZIhTRooKSUqlaFJo8iUoUxFlEiKMkSSBkIoY/I9//1cv//n2nfbw2fa++59zns9Hueefc/e+/NZn9da673e79d7WMvMdVqKFggEAoFAIBAIBAKBQCAQCAQCgUAgEAgEAgsKgVstqKeNhw0EAoFAIBAIBAKBQCAQCAQCgUAgEAgEAoGMQBACMRECgUAgEAgEAoFAIBAIBAKBQCAQCAQCgQWIQBACC3DQ45EDgUAgEAgEAoFAIBAIBAKBQCAQCAQCgSAEYg4EAoFAIBAIBAKBQCAQCAQCgUAgEAgEAgsQgSAEFuCgxyMHAoFAIBAIBAKBQCAQCAQCgUAgEAgEAkEIxBwIBAKBQCAQCAQCgUAgEAgEAoFAIBAIBBYgAkEILMBBj0cOBAKBQCAQCAQCgUAgEAgEAoFAIBAIBIIQiDkQCAQCgUAgEAgEAoFAIBAIBAKBQCAQCCxABIIQWICDHo8cCAQCgUAgEAgEAoFAIBAIBAKBQCAQCNwmIJg+BG655ZZ0xRVXpG984xvpxhtvTNtss026853vPH0djR4FAoFAIBAIBAKBQCAQCAQCgUAgEAjMLAJBCEzR0P35z39O5513Xjr99NPTd77znXTdddelxz3ucWnTTTcNQmCKxim6EggEAoFAIBAIBAKBQCAQCAQCgcB8QCAIgSkYxZtuuimdddZZ6WMf+1i68MIL013vetf09Kc/Pa2//vppzTXXTPe5z32moJfRhUAgEAgEAoFAIBAIBAKBQCAQCAQCgfmEwDJznTafHmiWnuVf//pXjgT40Ic+lM4555xs+G+00UbJz+qrr55ufetbz9LjRF8DgUAgEAgEAoFAIBAIBAKBQCAQCARmCIEgBJbSYP3kJz9Jhx56aPrsZz+bll9++fSKV7wibb755mmVVVZZSj2K2wYC",
+  "context": "From document: TODAY FEELS LIKE A REAL BAD GO — chunk 1 (chunk 1/940)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "b5de64ea907b6e44ec94b342683f3041",
+  "relatedUnits": [],
+  "keywords": [
+    "style",
+    "width",
+    "height",
+    "data",
+    "image"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

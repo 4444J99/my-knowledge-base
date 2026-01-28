@@ -1,0 +1,34 @@
+---
+id: 7ec5b5aa-68d7-4350-a98a-014625c7e079
+type: insight
+created: '2018-12-27T16:07:27.000Z'
+document: c2eee9ae30e415c5895f6b1a81146fac
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - that
+  - when
+  - learned
+  - much
+  - from
+---
+# <div><br></div>
+
+## Context
+From document: DIVERSITY STATEMENT — chunk 3 (chunk 3/3)
+
+## Content
+<div><br></div>
+<div>I’ve learned so much from the rich Hispanic and African American community that populates my current job at PBSC.</div>
+<div>  </div>
+<div>I will not pretend to dislike the canon of Classics—however, now when I see someone’s syllabus that is all male, or all white it makes me wonder why that choice was made, be it intentionally or unintentionally. I am proud to be part of a generation that is in such a state of tantamount change. When we realize that J.K. Rowling is only J.K. because it was thought that boys won’t buy a female’s author’s book that I realized I most certainly had problematic personal biases. </div>
+<div><br></div>
+
+
+
+---
+*Source: Document c2eee9ae30e415c5895f6b1a81146fac*

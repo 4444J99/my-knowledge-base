@@ -1,0 +1,26 @@
+{
+  "id": "49585683-4193-46f3-9cce-679d5635c20c",
+  "type": "insight",
+  "timestamp": "2022-08-05T13:48:04.000Z",
+  "title": "<div>I will only support a restaurant when they actually mean ‘no dogs allowed.’",
+  "content": "<div>I will only support a restaurant when they actually mean ‘no dogs allowed.’</div>\n<div><br></div>\n<div>Then, of course, they might not allow me in.</div>",
+  "context": "From document: I will only support a restaurant when they actually mean ‘no dogs…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "c1c49c6fc6acd87cf357ed797c8431a1",
+  "relatedUnits": [],
+  "keywords": [
+    "they",
+    "will",
+    "only",
+    "support",
+    "restaurant"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

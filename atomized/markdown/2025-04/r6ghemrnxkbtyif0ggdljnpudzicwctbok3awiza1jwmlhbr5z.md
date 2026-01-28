@@ -1,0 +1,31 @@
+---
+id: 63230607-b5cf-4caf-b530-a81cc89d0211
+type: insight
+created: '2025-04-08T10:17:01.000Z'
+document: 7704478edec58fe98c8158d649dbd34b
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - r6ghemrnxkbtyif0ggdljnpudzicwctbok3awiza1jwmlhbr5ziwm248zkm
+  - >-
+    jyi9ywdgad5sba9itiymgz8lepojbvralkppuraex0nekrxiknbwwduplwp3qv4vfhfqctvhuthqnsf5qmldvihxwmplvv5znrbjzt9yowq5vik
+  - elaq39abgqcdgonobkh6colbwcwac6c
+  - xi2gjreeuryywjh7zil6vaqolelftu5zxwq8ph8yx0fxe
+  - bm0diyfimlffvewfiff10ti9k122vmpprfjvkgy5jmwhjkgbrnahsfjjsc8
+---
+# r6gHEMrnXKBTyIF0gGDLJnpUDzIcWCTBoK3aWiZa1jWMLHBr5ziWm248ZKM+JYI9ywDGAd5sBA9iTiYm
+
+## Context
+From document: New Note — chunk 1321 (chunk 1321/3044)
+
+## Content
+r6gHEMrnXKBTyIF0gGDLJnpUDzIcWCTBoK3aWiZa1jWMLHBr5ziWm248ZKM+JYI9ywDGAd5sBA9iTiYmGZ8LEPOJBVrAlkPPurAEx0NEkRXiknbWwDUPLWP3QV4vFhFqcTvHUthqNsF5qMlDVIHxWmPlVV5zNRBJzT9YowQ5viK+Rp+Elaq39abgqcdgoNOBKH6coLBWcWac6C+xI2GjReEURyywJh7ZiL6VAqoLELFTU5zXwq8ph8yx0fxE+BM0DIYfIMlFFVewFifF10TI9k122VMPPRfJvKGY5jmwHjKGbRNahsFJjsc8+6zcybflJhT5EDHaPRMTbH4/TyIB9m1YHqZhcgp10Dl2dhQOXanjh0/G7YM888BJmWa9yqnf8O+mt3YN0O79ds54ht/aNfHWK91Q21LK/eg+F9D2hm+0dvo+bdf9y/zs0zx8G3a+SDyWte2s06f18Sw7D+bU7ZRh08hNJ+eUarzv03TrWNan4axvWeeWtS55poH3U/BtXEzXV19uELdjmMnGlGwOIMNZKBeqb6tv17JZfwju62WZHEcuQ5ZZALaqzc1zuZ8524ofwMQuc3XMGAMzxrOMGxnz0kDqNDH2FFyfg2rgrPF9/fEdC//kTV8jFs9pQFHH1Lox32XBIExuBkKoyvHUkoEHOo0ei+5i0Z/GvozT9amvVq4/hGFhIGsDY0zMAJ6xseKhPwPHmBZf0OvjUtnQPJPQ+mMdAdgNeeXt+Wzc9CPUFirGGziRQbAtlIz45TvKrgkFFjCGHdkLv7FgQfIxiaCcSQdsmq75hPojVgW2xYYzbQHhUOenmty5W93XQkJPyWVNpLkg8UxWZupGhsoMIzVjwV1MxIgGuUvoBaE2lWOr/EZLxFjZmfRpYqdcNhdSXnGgv4kc8rGwsSnWBYoNWTjDcrWp5p7c0opEcabKOMMm8TqqXXWY7d2btyPYDJdBPv/6D5RvvvwL5ZXL7yuvXXmn6oYSOBFRjgx61KwFlI8Kuw3ed/wvyoOnPlsePPnFcnzjWVFp9Dc3vXZsXP7wA9fLl5/cLu98cbm863vL5e0vL5eHXl1aeDHhd5Ye1OLBX4pXdW7HoovDl2lZa92WTy+XlaOq11zNhzd5B2q6l5fyonYQ/Lpe3fwjV185UDn0ssy6gFC7y420E9p0l3SfPZDJ2174d07/ePna0feUn33tc+Xn
+
+
+
+---
+*Source: Document 7704478edec58fe98c8158d649dbd34b*

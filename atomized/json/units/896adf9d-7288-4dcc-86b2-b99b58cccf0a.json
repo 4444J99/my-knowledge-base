@@ -1,0 +1,26 @@
+{
+  "id": "896adf9d-7288-4dcc-86b2-b99b58cccf0a",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:18:05.000Z",
+  "title": "<div>   * Orchestrator: LangGraph (or similar graph-based framework).</div>",
+  "content": "<div>   * Orchestrator: LangGraph (or similar graph-based framework).</div>\n<div>   * Swarm Framework: CrewAI or AutoGen.</div>\n<div>   * Core Libs: GitPython (for Git ops), Prometheus (for monitoring).</div>\n<div>   * Fallback Audit Tools: (e.g., pylint, Bandit, eslint).</div>\n<div>   * Model Version Pinning: Declare specific model versions (e.g., gemini-1.5-pro-05-13, gpt-4o-2024-05-13) to be used by all agents to ensure logical consistency and prevent &quotadaptability&quot blindspots.</div>\n<div>➡️ Human Review Gate 1 (HRG-1): Merge &amp Tooling Approval [HRG-1]</div>\n<div> * STOP EXECUTION.</div>\n<div> * Present: &quotMerge Candidate Report&quot [P1-B], &quotBaseline Test Report&quot [P2-A], &quotTooling &amp Agent Manifest&quot [P2-B].</div>\n<div> * **[NEW v4.0]** Governance Protocol [HRG-1A]: (Per Grok's B4)</div>\n<div>   * Establish HRG Timeout: [e.g., 12 hours].</div>\n<div>   * Establish Default Action: [e.g., 'Pause &amp Escalate Alert'].</div>\n<div> * Request: &quotDo you approve this Merge Strategy &amp Toolchain? [Yes/No/Modify]&quot</div>\n<div>Phase 3: Validated Amalgamation [P3]</div>\n<div> * Execute Approved Merge [P3-A]: (Unchanged) Execute merge, log new conflicts to CONFLICTS.md.</div>",
+  "context": "From document: full best practices house keeping; — chunk 9 (chunk 9/24)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "3e83484e9c334693cb3ed7e0779f00e5",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "merge",
+    "framework",
+    "model",
+    "report"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: 158d7bbd-b158-4a53-bd39-cbd426ccb5c6
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - nrvpjy4a3xvjrbvglbxwvmwjta5dis7axrjdy9prpandknrzy
+  - bhmfai6f7mhlimaupjmrefrmobsmza3xo7vacfgdm5b98
+  - >-
+    1x7nb12s7wzpbg4cm2j1titauvdxkm2pzmnupju1mnnx4ersdaelupfgr052hs6kx5w4tzi3eeh67pd5qtpjx5fszzndyxsnjmplxu7o9jbyicmwqu1doydfvzfgdmmlvhjjjj5urwjvs3a0nxy74bd80bkz4sf1jejdpdny52uvd5
+  - >-
+    fvic2sidilxvwqawfd6uz3tlwzcklc9pj55sp7gtrb9uaj0tquqd5vwrly5rgwcjy1g2nyabmouwu6bkz6ndb3utt1gmhpp4raxxvx75hhev7
+  - prukf
+---
+# NRvpjY4a3xVJRBvGlbXwVmwJta5DiS7axRJdy9PRPaNDKNRZy/BhmFai6f7mhlimaUPjmrEFrMObsMZa
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 7237 (chunk 7237/11534)
+
+## Content
+NRvpjY4a3xVJRBvGlbXwVmwJta5DiS7axRJdy9PRPaNDKNRZy/BhmFai6f7mhlimaUPjmrEFrMObsMZa3xo7vAcfgDm5B98/1x7nB12S7WzpbG4cM2j1tiTauvDxkm2pZMnuPju1MnNx4ersdaELUpfGr052hS6KX5w4tzi3eEH67PD5qTPjx5fsZZNDYxsnJmPlxu7o9JbyIcmWqU1DoydFVzfGDmmLvhjJjJ5urWjvs3a0Nxy74bD80bkz4sf1JeJdpdNy52UvD5+fviC2siDilxVWqaWFD6Uz3tLwZckLc9Pj55SP7Gtrb9uAj0tquqd5VWRly5rGwcjy1g2NyabMoUWU6BKZ6NDB3UtT1gMHPP4RaXXvX75HhEv7/PrUkf+pwe52SdXnU1+B+grUV6C+AvUVqK9AfQV2+xWIbm+ZNKZnQWZm9uL4gvTM8NIECnVLEizUYV3dhaX5cXwAJkp0VmykEzo+fFT6xL6uxPT4wowW6rJnFRaEsJZufui4wSMzx/eN1LeO167AGvcL3he9P9pULeeiIAdVcZb/FjrEuXIOrPKr6AJE+FEQ5LCvazz60mWEpDhdOUeCnPZJkLNfsEBs86Pou1py8zCb9h0S3iyygLNQB1YOWeRjL4hWHnEJMhjJddWWq+i4cs7gaybJctWPvnRJYPPAOoYg52xRJLOhlYB7ftQX6qiXJIuz8rCiTktxckuAgyDnUR6OOujrajnwWa4LrE2IoMdaYlSZQp3hqwFlyHUK5bSN4mX1J+9r4rveehmLje0elx5xl4n+OTVzvup9V62XJfmy2q60COeQOOfBNrQgxN0sQXijzW4Q6mzE9aY5+YZo57KPm+ywpQ5R2CJHjqvlOtf3ebOepTvwAectfl9s441+FOEAVyj7oQAAlhHwCecoWglyiG+trW7AZFxsBUlPqbL6i3tD6Tb1Ue/AwYNWHry89h75d0O0YCa+AVIZi22MVPmVB11qWY4ENsXWYNaKdiaHfeZo/PvyJ+5Tzv+Isv26U1UtB99gILnhN+hHFfmCpDsbroFqnHvV9mW+Q3zOgNePo6voGJHGKORvFMM5GjEysKSnLfGZo62LGTay5ahGcCwt4xHSbwPTHbGvS3wFcpfLTLCmD311hko2u9/BnJpPZ6QFueG4z0ScfVszPcqAVuN4V4JP+CYL5TfybcLpDjURvLuRv0nQ
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

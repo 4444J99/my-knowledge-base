@@ -1,0 +1,26 @@
+{
+  "id": "3365454d-15bc-4ad5-a55b-ffccdf77abbd",
+  "type": "insight",
+  "timestamp": "2025-12-21T15:18:27.000Z",
+  "title": "<div>Instead of a random &quotbanger word,&quot this button becomes a tool for r",
+  "content": "<div>Instead of a random &quotbanger word,&quot this button becomes a tool for rediscovering your own forgotten ideas. It would intelligently surface old notes that are sparsely linked or haven't been viewed in a long time, helping you combat knowledge decay and spark new connections.</div>\n<div>Generative Art Becomes a &quotMind Map&quot</div>\n<div>The ASCII art generator would be re-purposed to create a visual representation of the current note's place within your knowledge graph. It wouldn't be an image of the topic itself, but a conceptual &quotconstellation&quot or a minimalist mind map showing the direct and indirect links to other notes, helping you visualize the context of your ideas.</div>\n<div>New User Experience &amp Interface</div>\n<div>Split View: The interface would likely be a two-pane view. On the left, your primary note editor. On the right, the AI's &quotSynapse Panel,&quot which would offer suggested links, show the visual &quotconstellation&quot map, and display the dynamic synthesis pages when you explore new terms.</div>\n<div>Proactive Assistant: As you type a new note, the AI would proactively and non-intrusively highlight words or phrases that could be linked to existing notes, allowing you to build your knowledge web in real-time.</div>",
+  "context": "From document: This application, \"Infinite Wiki,\" is a dynamic, AI-powered hypertext… — chunk 6 (chunk 6/11)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "5aac1d5f80c3f292367e97b95697efe9",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "your",
+    "would",
+    "notes",
+    "knowledge"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

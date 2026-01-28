@@ -1,0 +1,26 @@
+{
+  "id": "3a58e38c-425c-404d-997e-85076a13a8e4",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt>(Continued next: system modules, RPG engine, name clusters, conlang, au",
+  "content": "<div><tt>(Continued next: system modules, RPG engine, name clusters, conlang, automation rituals, and all live character nodes...)  </tt></div>\n<div><tt>::CONTINUING→|</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## Prompt:</tt></div>\n<div><tt>next</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## Response:</tt></div>\n<div><tt>|\\[RE:GE\\_4NTHOLOGY\\_FULLPRINT.v1.0.continued\\]|  </tt></div>\n<div><tt>**SECTION II: MODULE TREE, GAME LOGIC, FRIEND-NODES, NAMECORE, RITUALS**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>```markdown</tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## 🔀 MODULAR PATCHBAY STRUCTURE</tt></div>\n<div><tt><br></tt></div>\n<div><tt>RE:GE functions like a **symbolic modular synth**. Each module (or patch) can be added, routed, modulated, automated, or absorbed.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Module ID        | Name                 | Description                                                                 | Tags               |</tt></div>\n<div><tt>|------------------|----------------------|-----------------------------------------------------------------------------|--------------------|</tt></div>\n<div><tt>| `ARC01`          | Story Forge          | Procedural myth generator. Loops through monomyth, tragedy, wave logic.     | `GEN+`, `RIT+`     |</tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 170 (chunk 170/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "module",
+    "continued",
+    "next",
+    "name",
+    "rituals"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

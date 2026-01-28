@@ -1,0 +1,26 @@
+{
+  "id": "0f421cc3-4969-41b6-99ba-6c04323ba062",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants all thread headers and subheaders to use fully unique identifiers derived from the entire context or card (not just generic 1, 2, 3, A, B, C). Sub-identifiers should reflect the parent title in their structure. User prefers dashboards like ASC-style visual layouts for tracking thread components and status.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants every object, header, section, and reference to have a unique identifier composed of a double or triple-letter and number combination (e.g., `AA01`, `BB03`, `CC002`). This eliminates the need to type full names when referencing parts of a system. Identifiers must be concise, non-repeating, and universally applied across all systems and threads.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_051425_MASTER — chunk 11 (chunk 11/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "5e4feb3febe2be13a91fd74e828ebc64",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

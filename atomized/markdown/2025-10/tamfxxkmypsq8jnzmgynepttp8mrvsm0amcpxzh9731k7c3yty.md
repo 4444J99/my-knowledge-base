@@ -1,0 +1,32 @@
+---
+id: 0f370a0f-c6a5-4a36-a032-76a8ea22de11
+type: insight
+created: '2025-10-17T16:00:19.000Z'
+document: d53c84c30924bcaa907f04ac0472f363
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - amfxxkmypsq8jnzm
+  - >-
+    gynepttp8mrvsm0amcpxzh9731k7c3ytydio5zspyduztogcuwbooe24x3pmigchbgvjewcevzxawei8jlscvvwuam4yxjl91zgatbsew0iuj
+  - pfgzkowvg9sb0jomqvrrcbpfbr605t8huolx12vcb8s
+  - gkh7swdopcgc8znyoofi8ffbahtadkul2eglh
+  - >-
+    qpoeebkwlmcq3d2o4rp9wzakyhpk30xgpb7j3aaod4gbqudcat5yjmekiz7sdb72ormjzpavi4g08r4wpby9fb
+---
+# t+aMfxXKmyPSQ8jNzM/GyNepTTP8mRVsM0amcPXzh9731k7c3yTydIO5ZSpYDUztogcuWBoOe24X3PMi
+
+## Context
+From document: Saved Photo — chunk 3539 (chunk 3539/7321)
+
+## Content
+t+aMfxXKmyPSQ8jNzM/GyNepTTP8mRVsM0amcPXzh9731k7c3yTydIO5ZSpYDUztogcuWBoOe24X3PMigcHbGvJewCEvzXAwei8JLSCvvwuAm4yxJl91ZGaTbSeW0iuj/pFgzKowvG9Sb0JOMqvRRCBPFBr605T8hUolx12VCB8S+gKH7sWdOPcgc8znyoOfi8FFBaHtAdKuL2egLH/QPoeebkwLmCQ3d2O4rP9wZakyHPK30xGpB7j3aAOD4GBqudCaT5yJMEkiZ7SDB72OrmJzPaVi4G08r4wpbY9fB+hJggq5f72it8+g2T74SIiC2OA0dGtAz0amWTwIyE8yoAa8uANBANVuuUAilEJ0tNj/wn5XBJBYB97eOHKNizNBr6LkffCQ15lUlTpnQXeOK4w+akxb3OwHrD5n9vHiiwiRm8RqsM2xN69+bHWONQxbeZ1CaWJgKo5P+Xyx6UCEwKjhhu7QrpnwALgzuDTsD/Nq1WCmqbWDmAigR97NQa37bIwJgdnTgL6lmy+3xy2pMC2AiUoJRubEHWpnPl1jY+i1LBGhf9nMXDZSYDQfwO5D17dOmibQU8GABRw1Z4c00NrHU1xZv9vUGWWZJOPADrNndrksunvzejTy7KNAp26zXShsSpc+a/4w4CD2ecX6EBDBTVj9CZQ1PK5Bjhnjy4FwpfY65HSoAZhlXbZ+z+dtat3F15QmUnE0hfpgiVflUEnwdHJYlQi1tsz6/q7eOW56Z6PGgNIE2qfmK3uSTiNkoWaDKgi/la4/u30Y7MNdn/3howBx7jMku2ksbLhri44fT6LYrMH2/pw5L2tnUWvxOdWH+OV0e7tGmX/7lZZmFVIf9ONX07juSDlUtRZDHbs2C2D4m4NLKSjSrJr/FM7NAdF3nG3zWUoyRdhSGXWitDJGSOtfcE4trmtnwC25AEE6vLeQzagVVqqRDNNWHPpRFDbk4wXQ8cPMlPcUwsq3vSHoh5yQQwryjiPK+Cco64GfD5J3zCfJbxnLjRQY5ZNfPtnGWJ0IsY7MZcxLS2RhESILv0fBZB/86d+k2jZZLOb+rtefbJV3EzBA1QsTk2wGh9qgDzq4KLSfRRXS2kp7LFzf5jHO42PVc0939BVjJUXRnRUInMrkOj0MlKzr1OXxTehkVjMcK2s+nJCaKVYJfXhvJ31z2IY1uz7ByEKMvtL16vdD
+
+
+
+---
+*Source: Document d53c84c30924bcaa907f04ac0472f363*

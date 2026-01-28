@@ -1,0 +1,26 @@
+{
+  "id": "a16bfa0d-bab5-43b5-96a1-b898be84096a",
+  "type": "insight",
+  "timestamp": "2025-02-09T19:57:30.000Z",
+  "title": "<div>✅ <b>Letter 2 = Third letter from the last snapshot, +1.</b><br></div>",
+  "content": "<div>✅ <b>Letter 2 = Third letter from the last snapshot, +1.</b><br></div>\n<div>✅ <b>Letter 3 = Third letter from the last snapshot, +2.</b><br></div>\n<div>✅ <b>If sequential Level 3s appear, only Letter 3 increments by +1.</b><br></div>\n<div><br></div>\n<div>📌 <b>Examples:</b><br></div>\n<div><br></div>\n<div>ZAA.201 → ZBC.202</div>\n<div>PQQ.111 → PRS.112</div>\n<div>FGG.047 → FHI.048</div>\n<div>BCC.017 → BDE.018</div>\n<div><br></div>\n<div>📌 <b>Sequential Entries:</b><br></div>\n<div><br></div>\n<div>ZBC.202 → ZBD.203</div>\n<div>PRS.112 → PRT.113</div>\n<div><br></div>\n<div>📌<b> LEVEL 2 (CONTAINERS FOR DRAFTS &amp ENTRIES)</b><br></div>\n<div><br></div>\n<div>✅ <b>Letter 1 = Same as first letter from the last snapshot.</b><br></div>\n<div>✅ <b>Letter 2 = Third letter from the last snapshot, +1.</b><br></div>\n<div>✅ <b>Letter 3 = Third letter from the last snapshot, +2.</b><br></div>\n<div><br></div>\n<div>📌 <b>Examples:</b><br></div>\n<div><br></div>\n<div>ZBC.202 → ZCD.203</div>\n<div>PRS.112 → PRT.113</div>\n<div>FGH.048 → FHI.049</div>\n<div>BCD.018 → BDE.019</div>\n<div><br></div>\n<div>📌 <b>Sequential Entries:</b><br></div>\n<div><br></div>\n<div>ZCD.203 → ZCE.204</div>\n<div>PRT.113 → PRU.114</div>",
+  "context": "From document: 📜 FINALIZED RULES FOR THE NAMING STRUCTURE & UNIVERSAL SYSTEM — chunk 3 (chunk 3/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "0007ef4c0342a73c2192c138949b0a39",
+  "relatedUnits": [],
+  "keywords": [
+    "letter",
+    "from",
+    "last",
+    "snapshot",
+    "third"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

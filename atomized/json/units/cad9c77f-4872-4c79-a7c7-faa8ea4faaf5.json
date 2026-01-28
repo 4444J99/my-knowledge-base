@@ -1,0 +1,26 @@
+{
+  "id": "cad9c77f-4872-4c79-a7c7-faa8ea4faaf5",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div>Starting: *Gather status* (1/5)</div>",
+  "content": "<div>Starting: *Gather status* (1/5)</div>\n<div><br></div>\n<div>Ran terminal command: code-insiders --status | sed -n '1,160p'</div>\n<div><br></div>\n<div>Starting: *Analyze AI coexistence* (2/5)</div>\n<div><br></div>\n<div>Starting: *Recommend settings* (3/5)</div>\n<div><br></div>\n<div>Starting: *Monitoring steps* (4/5)</div>\n<div><br></div>\n<div>Starting: *Profile strategy* (5/5)</div>\n<div><br></div>\n<div>Completed: *Profile strategy* (5/5)</div>\n<div><br></div>\n<div>**Keep All Three AI Extensions (OpenAI ChatGPT, Codex Agent, Gemini) Safely**</div>\n<div><br></div>\n<div>**Coexistence Reality**</div>\n<div>- Each runs background processes (seen in `--status`: separate agent/server processes).</div>\n<div>- Primary overlap risks: competing inline suggestions, chat panels listening, telemetry/log verbosity, and shared keybindings.</div>\n<div>- Performance spikes usually come from simultaneous model requests, not pure install size. You can keep all three if you gate when they’re active.</div>\n<div><br></div>\n<div>**Recommended Settings Adjustments**</div>\n<div>Add or adjust in your `settings.json` to reduce contention:</div>\n<div>```jsonc</div>\n<div>{</div>\n<div>  // Inline suggestion coordination</div>",
+  "context": "From document: User: fix — chunk 33 (chunk 33/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "starting",
+    "status",
+    "settings",
+    "coexistence",
+    "profile"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

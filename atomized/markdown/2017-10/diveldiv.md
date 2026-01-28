@@ -1,0 +1,32 @@
+---
+id: 1eb28139-c7ed-4f5d-8100-f268bf0ca6a8
+type: insight
+created: '2017-10-25T17:06:54.000Z'
+document: 2a2d2c8448c2f528bd655aa468b812aa
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - young
+  - girl
+  - with
+  - time
+  - missing
+---
+# <div>EL</div>
+
+## Context
+From document: EL — chunk 1 (chunk 1/1588)
+
+## Content
+<div>EL</div>
+<div><br></div>
+<div>Young girl (mute?), parents were drug abusers, doesn’t know where her father is, her mother died, adopted. She lives in an apartment complex, one where everyone knows each other’s business. <strike>She has emotional issues and she was forced to leave school after fighting back against her bullies.</strike> (Thinking the troubled adopted kid is too cliche). The family she lives with says she needs to pull her own weight or she is out by the time she 18, though she is still too young to have a legal job. So she starts walking and caring for the local dogs of the apartment complex. Some give her a hard time, and one takes to her, always escaping from its owner to come and spend time with the young girl. Each of the apartments in her building needs to hold a character that is an oddball. One of them goes missing, and she finds their body when walking the dogs. She then takes it on herself to try and solve the mystery as local law enforcement thinks its a clear case overdose and doesn’t really care to investigate any further. She is friendly with the person who has gone missing, and though the woman gone missing was definitely a drug user, the young girl confided in her and they ha
+
+
+
+---
+*Source: Document 2a2d2c8448c2f528bd655aa468b812aa*

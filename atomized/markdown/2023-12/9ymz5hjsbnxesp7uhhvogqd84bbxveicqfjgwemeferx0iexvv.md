@@ -1,0 +1,32 @@
+---
+id: 352488d5-10f7-4ff0-8bc3-0da05ac0c44c
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    9ymz5hjsbnxesp7uhhvogqd84bbxveicqfjgwemeferx0iexvvhuhoykxbgpiweitwd3mhrefo5uh9qithavc0zk55fdpzn7vk7vecakmxnndi9lgygc9avvidfx6gphspvh
+  - lmlqmpj3etdlxqq
+  - pr62ap1gjdtlqj
+  - >-
+    zjxrqfnjqjswsci0lki9jednubjnr5hbybul62z91rw2cklqtcmck8anvhwjcmykwpzox27w2oubdvq983blblvduhonltino2jz5srqndj6anekhxdke5fggezsqs0hfwqwzxhtjreznmlvvbqjggeswjdxydapp
+  - toejxj
+---
+# 9ymz5HjSbnXesp7uHhvoGQD84BbXVeICqFJgWEmEFERX0ieXVvHuHOyKxBgpiwEITWd3mhRefo5UH9qi
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 1926 (chunk 1926/3262)
+
+## Content
+9ymz5HjSbnXesp7uHhvoGQD84BbXVeICqFJgWEmEFERX0ieXVvHuHOyKxBgpiwEITWd3mhRefo5UH9qithaVc0ZK55fDPZn7vK7veCakMXNndi9LgYgC9AVvidFx6GPhSPvh+LMlQmpj3EtDlXqq+pr62aP1GjdTlqj/zJxRqfnjQjSWSCI0lkI9jeDNubjNr5hbYbUL62z91rW2CklQTcMcK8aNvhwjCMykWPzox27w2oUbdvq983blbLvduHoNlTiNo2jZ5SrQNdJ6ANEkHXdKE5fGGEZsqS0HFWQWZxhTJrEZnMLvvbQJgGEswjDXydaPP+TOeJxj/GGwUP7HAGkIoaeB0DfNRmhaAkf7yLrPpkKz2wNRIAuEHohs2YfuhwKPFAidvWFv/uoNO/8QnCWIOZw9CQZaaPLWZ/Z297lZ1z2BmeNocp39dNh3eQa70b0+5TqTMD356lomAZ2buTdMdp5bJs/pP3HAzgVnzuhxlYgJ1FhNFDsj5jgKzim0KCAU5+OSISbRaSCERMiBEO8XI85/Bghh/0JeZKCviVoMQgBCkYSLFUpWJ/29PPNpW1QapavP7GM9o+Pomo4/sen9nAyQTb/8iYnwM4GW7iJbTIz+/DekEpgMnnZ6ATQEkCmvgpryuL9b3ge1ozQlvckBsIgOTl4aShJGCMU4W7h4gTU0zYMZmot6DI4UZCskBob7S0pLcJ09gBpMm10+32rX269bfkwsC+mRdgxwJQmT3iWmiUz4eb1YUjXlU3Tw9876DaXwrPodqgeydsem55RXJav9aNN9+tzZ1kXF7JalwKdR4F6tKLo3alHqK94Lowve53Sg/hdaIb+0cTXyrwcQIi+eNZUhbDN7mR6RGT+CSpzGQkCIXGTTzUsqiun7DbZszXJbtXm5Na1qxFiQdBhMJY1JscCRwHHK2fNn7MKRS9b+4TUb6h6y5Ng4gEVAiB7OooiW6xTqJyzKkQPGhDBGCSJ5cnRk6oB3K20sGBl/UOFFLU+01ajHEg0yJSTMmWyPc6+k+kEiFMaXb4SzBC9RNF5DxywQCg0z+/1AFMgCoQciW/ah+6HA1xYIwbBKrUhrjeL2Pq9qnECAPndumlnuYgQyk+P0feJq9c57bH7pnucVS0azZnhWE1pYefQ9HWUYibBy6klEWcu8SmwHs+Y0A+JsiJgRffyaeA6Y3FzsWHLx
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

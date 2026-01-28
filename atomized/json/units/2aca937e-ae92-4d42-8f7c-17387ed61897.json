@@ -1,0 +1,26 @@
+{
+  "id": "2aca937e-ae92-4d42-8f7c-17387ed61897",
+  "type": "insight",
+  "timestamp": "2025-12-21T14:36:59.000Z",
+  "title": "<div>   * 1. Best Practices Audit: Linting, style, etc.</div>",
+  "content": "<div>   * 1. Best Practices Audit: Linting, style, etc.</div>\n<div>   * 2. Security Audit: Scan for vulnerabilities.</div>\n<div>   * 3. Ethical &amp Bias Audit: Scan all user-facing text and documentation for biased language, exclusionary terms, or ethical red flags.</div>\n<div> * **[NEW v4.0]** Scalability &amp Risk Analysis (P4-D): (Per Grok's B1, S4)</div>\n<div>   * 1. Risk Scoring: Assign Risk and Impact to all tasks.</div>\n<div> </div>",
+  "context": "From document: [prompt_evolution_v4_20251028] — chunk 5 (chunk 5/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "e8d5f3c8090d38b5419cdae2c331b231",
+  "relatedUnits": [],
+  "keywords": [
+    "audit",
+    "risk",
+    "scan",
+    "ethical",
+    "best"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6d311c3c-e72c-47b2-8721-417dc9e8f812",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Wants every line, heading, title, and question in ChatGPT outputs to include a unique identifying element (e.g., numeric ID or alpha-numeric code). This system is meant to improve skimmability, indexing, and referencing. Questions posed by ChatGPT should also receive distinct numeric or alphanumeric identifiers.</div>\n<div><br></div>\n<div>Wants ChatGPT to monitor and evaluate conversational transitions—tracking how prompts and responses shift over time. The system should analyze transitions between user prompts and responses for coherence, logic, or abrupt shifts, and flag when the flow becomes disjointed, unexpected, or requires clarification.</div>\n<div><br></div>\n<div>Wants transition awareness to be always visible to help with context, understanding, and the evolving of ideas. They also want a dedicated 'helpdesk' or Q&ampA-style thread where they can ask questions about what to do next. They are unsure if each new idea should spawn a new thread, and want guidance on when to thread-split or continue.</div>\n<div><br></div>\n<div>Wants a hierarchical system of rule and protocol settings: a master set of global rules, with nested genre/project-specific rules that can be toggled based on the nature of the thread. For example, simpler threads like student feedback might not need full meta-structure unless the context demands it.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_041225_MASTER — chunk 18 (chunk 18/35)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a6c8d7ecac270c27cc9e416b39cd8866",
+  "relatedUnits": [],
+  "keywords": [
+    "wants",
+    "thread",
+    "chatgpt",
+    "numeric",
+    "system"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

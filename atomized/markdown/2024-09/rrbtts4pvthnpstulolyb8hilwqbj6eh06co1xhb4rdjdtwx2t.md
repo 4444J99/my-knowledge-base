@@ -1,0 +1,32 @@
+---
+id: 47e0f476-48d7-43ac-849c-c1dbbaa7f699
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - rrbtts4
+  - >-
+    pvthnpstulolyb8hilwqbj6eh06co1xhb4rdjdtwx2tf5i40w309hqndpcfvhorzr4ms25zmo6vwfm1vx2zos
+  - zkp6gvuctm7mltnztxpd1c5ibyrk1riztr7y9ce
+  - m8quno5kko
+  - >-
+    0n9onso8uzny2khwqrspyesig7qppxmfrnsshc2c6mtrsczbqgj8xgshxxmwcbf5sactprteybjq54il6rlec5ndx8ntsewpt2zcy4tvhs8gu62bmsbzjirpitjjfqpunlmf9rj1g5ofozlysknbnvcoohonto36k5
+---
+# RrbTTS4/PVTHNpstUlOLYB8HilwQBj6eH06cO1xhb4rdJDtWx2tf5I40w309hqnDpcFVHorzR4Ms25zm
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 2274 (chunk 2274/11534)
+
+## Content
+RrbTTS4/PVTHNpstUlOLYB8HilwQBj6eH06cO1xhb4rdJDtWx2tf5I40w309hqnDpcFVHorzR4Ms25zmo6VWfm1VX2zOS+zkp6gVuCTM7mltNztXPd1c5iBYrk1RIztR7y9cE+M8QunO5kKo/0N9OnSo8UznY2KhwqRspyesIg7QpPxMFrNsSHC2c6mTrScZbqgJ8XGshXXmwCbF5SACTPRtEYBJQ54iL6rlEC5NDX8NTseWPT2Zcy4tvhS8GU62BmSBzJirPitJjfQPunlmF9rJ1G5oFOZlYSKnBnVCoOHoNTo36K5/vyFYQJ9TsAnrWfOFmJ/a25CM2uZgqjLnWVAcY/iSNH99fITtD9VwYe/2dmQZ9n4HEfGi/N+8H+1h7Jo+AF791lcXVMx7ewMKaSltqD6RxGPBGyag/vuQ9wVbgEjPMcDQBjts+gpbccMD3ix1yCm2wucD/a82izndegJ3Zf9u/7JU8FgznXwPZN6+csjyK5QfdV42XD53WPiPf0v6z9GowshP+HMZJWeTqC6XP6Vc0f2RXKZ8jjOHSMFCHej9Q3KunBknD/eJMY9fnog4XzrQei5w/PdFKDhXYyzZOTcJybM9gBrJu40003+IDP5LJ8VPdFWHhpvsANq1FmGQ4tX7FdEM9xzbGZwGODwh+z57+CO11/kxem3BgHijTTMWAG0xuwGTS8yuy/zjEV8m+zTK/vuC65LlneZorMO2D5aR/AEas9C2tfYx8ZWo7biT41MzdSzdnedIsNeZsYVYdlcDMNf8JVyLAy0zxHw4k9d3o1SmP07FKLFFp5GF1OdxfKZNuVZxByb6k4U40WU9i3GXgcKHPwGGwp9+4M5Xt4yzzzLD7w3XMdwULTtUe+ChPnXmRM8MaIr8HLrjvWu4GmczR1N6R13bU96W86Rpa7ZPBUtn4U42/zvu8yWUA+KSvSsfnbPH0WSSGWD3q2bQPTLQ4nk1LvlnU1cNGz7YhCb0pgKZnkTIn097+m/0HDq9qr6t/jf3GW4NXh6wm8lBR+UfhZnorKGW2qFwW7YOSaRQYeFw1dfUP7ACxTNN9A1oX6FZaKfePE6oTp7WB5rXoZejvh99npwOxbVTEkgqu/AfKE9quIRXBdQ4JRvKcM50XKNKJWLTLgCo/kmJRDFQyeZCF4ISy4ifbgO5AuY+xru+wJyvvWDlsfgAvF1E130L
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

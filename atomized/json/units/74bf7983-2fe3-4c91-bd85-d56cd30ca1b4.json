@@ -1,0 +1,26 @@
+{
+  "id": "74bf7983-2fe3-4c91-bd85-d56cd30ca1b4",
+  "type": "insight",
+  "timestamp": "2025-04-19T03:37:41.000Z",
+  "title": "<div><tt># [#dual_binary_bridge]</tt></div>",
+  "content": "<div><tt># [#dual_binary_bridge]</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## |[ DUAL::BINARY_PAIRS.v1.0 ]|  </tt></div>\n<div><tt>64 DUALITIES → 32 BINARY STATES (2:1 Mapping Table)  </tt></div>\n<div><tt>_Each duality pair must pass through its logic lock (binary gate) to execute action._</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Format:</tt></div>\n<div><tt>- 2 dualities per logic switch</tt></div>\n<div><tt>- Used for ritual entry, fusion logic, recursion limits</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Pair ID | Dualcore A &lt&gt B                            | Binary Pair        | Lock Type           |</tt></div>\n<div><tt>|---------|---------------------------------------------|--------------------|----------------------|</tt></div>\n<div><tt>| P01     | abstract &lt&gt concrete &amp complex &lt&gt simple    | on/off             | logic gate           |</tt></div>\n<div><tt>| P02     | foreign &lt&gt local &amp chaos &lt&gt order           | true/false         | system integrity     |</tt></div>\n<div><tt>| P03     | machine &lt&gt organic &amp sacred &lt&gt mundane      | live/dead          | form gate            |</tt></div>\n<div><tt>| P04     | glitch &lt&gt clean &amp silent &lt&gt loud            | input/output       | signal pass          |</tt></div>",
+  "context": "From document: # [#dual_binary_bridge] — chunk 1 (chunk 1/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "7853b8eb2fa550c0c55724ac3bd0cfbe",
+  "relatedUnits": [],
+  "keywords": [
+    "logic",
+    "binary",
+    "pair",
+    "gate",
+    "dualities"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,31 @@
+---
+id: 46c1eb20-fe1a-4482-b72b-7c488df3d422
+type: insight
+created: '2018-11-06T20:47:41.000Z'
+document: 8c3ce8993066f857adca061d250e2c68
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - he3wb
+  - aohy0z
+  - dwqr1fahquuvzxi3xl4t8bajl4l8baxaafpmdisl3ezjbajsmfqf3iufiqbzyaaolrwl4w
+  - jv4t
+  - >-
+    h3jhxlf39nefdjuxqlglo8sxztcwcxboji3jtmcjcftgnnpj3oxvrpu7k31ltp0ubs7jsagwngysryamrqw4iyeeedrvqgaooooakkkjmsqkercb25c5gsppqbjrxha38qvavhvxdpxhlxb4gsdo1vxsvslk4ui47i6iomqxsqz88fkdxy0affffabrrrqavyxj3wfafedwvrfgi
+---
+# DwQR1FAHQUUVzXi3xl4T8BaJL4l8baxaaFpMDIsl3ezJBAjSMFQF3IUFiQBzyaAOlrwL4w/s7+D/jV4t
+
+## Context
+From document: Octatrack Tips & Tricks — chunk 2117 (chunk 2117/2544)
+
+## Content
+DwQR1FAHQUUVzXi3xl4T8BaJL4l8baxaaFpMDIsl3ezJBAjSMFQF3IUFiQBzyaAOlrwL4w/s7+D/jV4t+H3jHxLf39nefDjUxqlglo8SxzTCWCXbOJI3JTMCjCFTgnnpj3OxvrPU7K31LTp0ubS7jSaGWNgySRyAMrqw4IYEEEdRVqgAooooAKKKjMsQkERcB25C5GSPpQBJRXHa38QvAvhvxDpXhLxB4gsdO1vXSVsLK4uI47i6IOMQxsQz88fKDXY0AFFFFABRRRQAVyXj3wfafEDwVrfgi/vLnT7fXbSazkuLNxHcwrMpUvE7BgrrnIJB57V1tFAHyl+z7+x78L/2eNb1TxdoF3qXiDxNrEXkXGqaxcLcXPlbgzIhREADFVLEgsdo5xxX1bRWdq+r6XoOm3Gsa1dR2VlarvlmlYKiLnGST05NOMW3ZbilJJXexo0V5Qvx0+DjMFHjLS8k45uUA/MmvQ9I1zRfEFoL/AEHULfUrUnHm20qTR5643ISM810VsHWpq9SDXqmjCjjKVR2pzT9GmalFFFcx0BRXOv4u8Mx+I4/CD6nAutyx+atmXHnNHgncF64wD+VdFVzpyjbmVrkQqRlfld7BRRRUFhRRRQAUV5x4k+L3wy8IaoNE8SeJLOxv+MwvJl03cjeFzsyOfmxxXf2l5aahaxX1hMlzbTqHjljYOjowyGVhkEEdCK3qYapCKnOLSeza39DGniac5OEJJtbq+3qWKKjmlit4nnmYJHGpZmPACgZJP0ryv/he3wb/AOhy0z/wIT/GnRwlWpf2cG7dlcVbFUqdvaSS9XY9Yoryf/he3wb/AOhy0z/wIT/GvUbW6t761hvbORZoLhFkjdTlWRxlWB9CDkUVsJVp2dSDXqmhUcXSqaU5p+jTJ6KKK5zoCiiigAooooAKKKKACiiuG8WfEvwD4FdIvFuvWmmSyDcsUsg80r6iNctj3xitaNGdSXLTi2+y1M6taFOPNUaS7vQ7miuF8J/E3wB46d4fCWvWmpzRruaKOQeaF9TG2Hx74ruqK1CdOXLUi0+z0FRrQqR5qck13WoUUUVkahRRRQAUUV5R8PPjX8PPihrvinwx4S1B5dX8G3hsdUtJ4ZLeaCUFlB2SqpZGKsFdcqccHpQB6vRRUU00NtDJcXDiOKJS7sxwFVRkknsAKAJaK+f/APhq79mX/oqfhr/
+
+
+
+---
+*Source: Document 8c3ce8993066f857adca061d250e2c68*

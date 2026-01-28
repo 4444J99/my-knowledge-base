@@ -1,0 +1,32 @@
+---
+id: 115b7cb2-c61c-4861-ae20-a7d2b47a5408
+type: insight
+created: '2021-06-24T19:10:13.000Z'
+document: b5de64ea907b6e44ec94b342683f3041
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - qjfnbmzyoczva
+  - >-
+    7emz4pyps8uzfyms9k2wrryadjfg3oysmel14d4x55ubuatxbvoex1ltkoljnl2xfzhydjtzn1bwzxf68ap
+  - >-
+    shsfokier4chqns2bb0ideliefvj1haafivmykiea2ezezsdgfeduhjc0byh1tbjxxvvcyaqzlfo3hkizzavaghpkaqvdg7whmjb05ydy8p70rkta
+  - zmuvqc4tnavjnpcn3rupcg06jtrehmgb0v3ou7kjfpm7qnxczwvb9f
+  - avrlkvkmmcdb7
+---
+# QJFnBMzyoCzva/7eMZ4PYPS8UzfYMs9k2wRryADjFg3oYSMEL14d4x55ubUATxbVOEX1lTkOLJNl2XfZ
+
+## Context
+From document: TODAY FEELS LIKE A REAL BAD GO — chunk 744 (chunk 744/940)
+
+## Content
+QJFnBMzyoCzva/7eMZ4PYPS8UzfYMs9k2wRryADjFg3oYSMEL14d4x55ubUATxbVOEX1lTkOLJNl2XfZHyDJTzn1BWZxf68AP/shSFokiER4ChqNs2BB0IDElIEFvj1HaafivmykIEa2ezezsdGfeDUHjC0bYh1tBJXxvVcyAqZlFo3HkIzZavaGHPKAQVDg7whMjb05Ydy8P70rKTa+ZMuvqC4TnAVJnPcn3ruPCg06jTRehmgB0v3Ou7kJfPM7qnxCZwVb9F+AVRLkvkMmCDb7+inIVCWjf0gH1STuiXwJ+yVQ5SdVxFhiQ8e1sEfkjmyskYnGjj1yDTJ3jvmAZDEHyyUCruv67Kif9FPpstuEgL6yC+QrMEf+qLjIgyE2AalqjpnnfWQA0l923zVk+Pk9+kWGQUqSQd7MTQEYP4foYs8PdZnVRWxDfr1l3sMnfJrxM2Z9BFh+bTIgI/oUjW2Dz+hk3/PGsfFKJ1WFWn7h+UMv4/v8Vf/01X3z+Z0fU75XHcRXkmk5h8pjV/03G6GCiE9iT9ble80p8ih9U/48dJP8zNOajNkyJLgKJb62JivPA7u4F+KGfqukca4xYT+RiIgPSbZymRX/RUd8N9TXvN/t/f6SQCMENjCeU43jBrqSbsFwMNwm/ZS+YXA15WIChpoxSgd0/8nkMIAciePtcCx4BBSVKTJI1mrJ3A01jsy5HFHJiMviCtYEDK4NCOQNC64B4mPPx3GSBbC6XxtH09eMFVDLEfUBqfxc15KtAjQB4xyY5cdt+j3AD9gJFAUSY+Pe1z+BHOfMMZbNvHHdoWsrxUNi0VkAfmh5jeuTv+BBULtbsgQcAAmk0NQqEX0378gdIJ/aBCQndxl9QZBAx/kAITAi0+xa7I0qJJ/79QeZ4GiIRWXQspyIgtO7YBFAFjCawzmQ8ZngBhASNE2RryBYkCAAngK8o1+CPzqj4skvdZClOTXW3M/PcSkHla3dpqZvdFnWChlc03ufI2jYjrGgW0UXfReg5tdyD+cKrBFTltXwHzJq5rSlBH4eUNm/Mfd56AxfULuva7IDMurLZv78AoRqD8GCKgOEgL5EM28FE/Sr9InsAN081AU6teBL5YUqA/2zFwIylk3li7zn/xBTns/eDYiIAOzskPvyfX5KU9UC2QH/eTOvHZcTOWw2G6dqqWxsOyJAf8j76NGjg1nN
+
+
+
+---
+*Source: Document b5de64ea907b6e44ec94b342683f3041*

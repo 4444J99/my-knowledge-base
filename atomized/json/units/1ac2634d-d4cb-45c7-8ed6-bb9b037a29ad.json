@@ -1,0 +1,26 @@
+{
+  "id": "1ac2634d-d4cb-45c7-8ed6-bb9b037a29ad",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Identifies with the metaphor of being 'big brushstrokes' and needing a counterpart (like a collaborator or AI assistant) to 'tinker, refine, and codify' their work. They want to preserve the emotional, philosophical, and human narrative in everything they build—not just efficiency.</div>\n<div><br></div>\n<div>Views themselves as a multi-oscillator signal generator—producing multiple creative, emotional, and intellectual “voices” or waves simultaneously—and wants ChatGPT to act as a structured processing chain, organizing and refining those outputs. They want a comprehensive system for collecting, categorizing, and archiving all metaphors, literary terms, symbols, jokes, lines, and ideas generated in conversation. They also want to build databases, lists, and content libraries from this material, treating their output as both creative and academic legacy content.</div>\n<div><br></div>\n<div>Wants a structured revision protocol: before redrafting content, ChatGPT should present a “revision powwow” summarizing requested changes. Revised outputs should avoid full reprints unless necessary—instead using labeled, localized edits with contextual snippets (e.g., before/after lines, ellipses, placement instructions).</div>",
+  "context": "From document: MEMORY_DUMP_RAW_041225_MASTER — chunk 24 (chunk 24/35)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "a6c8d7ecac270c27cc9e416b39cd8866",
+  "relatedUnits": [],
+  "keywords": [
+    "they",
+    "want",
+    "content",
+    "with",
+    "their"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

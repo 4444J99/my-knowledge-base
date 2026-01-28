@@ -1,0 +1,26 @@
+{
+  "id": "6fdaa785-d3a3-4923-88fd-2c638bcbe4bf",
+  "type": "insight",
+  "timestamp": "2025-08-20T01:08:51.000Z",
+  "title": "<div>  •  Social: Twitter thread draft on ChainBlockARK</div>",
+  "content": "<div>  •  Social: Twitter thread draft on ChainBlockARK</div>\n<div>  •  Community: Discord #chainblockark guidelines</div>\n<div>  •  Wiki: ChainBlockARK Architecture</div>\n<div>  •  Web/Blog: landing page blurb</div>\n<div>  •  Grants: NSF Data Management Plan alignment matrix</div>\n<div>Module 1: Repo &amp AI Workflow Setup</div>\n<div>Objective:   Create your core-os-syllabus repo, define metadata/tagging conventions, and configure VS Code + Copilot.</div>\n<div>Reading List  •  Pro Git (Ch. 14)</div>\n<div>  •  Docs as Code (Ch. 24)</div>\n<div>  •  GitHub Copilot User Guide (prompt patterns)</div>\n<div>Further Studies  •  Git Internals (official docs)</div>\n<div>  •  Metadata design patterns (Sarah Maddox)</div>\n<div>Examples  •  docs/sources/pro-git.md  •  Sample .vscode/settings.jsonTemplates  •  docs/_templates/knowledge-source.md  •  .github/ISSUE_TEMPLATE/critique-template.mdTie-ins  •  Arts &amp Humanities: versioning digital editions</div>\n<div>  •  Math/Sciences: graph theory of commit DAGs</div>\n<div>  •  Philosophy: ontology versioning</div>\n<div>Wings Artifacts  •  Academic: annotated bibliography on Git</div>\n<div>  •  SOP: Initializing a Module Repo</div>\n<div>  •  Business: one-pager on AI-augmented docs</div>",
+  "context": "From document: Prompt for AI: Multi-Archetype Syllabus Critique — chunk 3 (chunk 3/10)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "735011ec826ae272226ee00d2196dfe0",
+  "relatedUnits": [],
+  "keywords": [
+    "docs",
+    "chainblockark",
+    "repo",
+    "module",
+    "metadata"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

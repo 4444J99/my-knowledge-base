@@ -1,0 +1,32 @@
+---
+id: b05d4626-b71f-4bb9-bfbe-7575129a9c5d
+type: insight
+created: '2017-10-10T23:16:34.000Z'
+document: 64a95cd2950865cc023eedad1ff9b65d
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - oz3t5gd144re4gf93qc5icmeamgy
+  - >-
+    gt5omeygyi5vkk1iaswqicaje1elteeipiuvvpqtyghziee9e7d21t7pbmdmnja18wfeuvkpoiqkagpnsj4l156ye
+  - rtn7y4loqyev0dmqbszxaxkkqu3iyqf7ufiuogpgyhkoj6e50pkpzt27vr19xkgsqvpde
+  - 0et7u5odrcgov47d4bwsiqkspdoiisrwdarwzwogpkjoc0it5d9ceotutgfpq6zlvkwdxk
+  - >-
+    xyckjyxbgjgxhimpglfec9zmfyrvcbhkmrcyqg2mupgphdrt4qkksizemebvucvr34giqgyiyw7hkoqeri
+---
+# Oz3T5Gd144RE4GF93Qc5iCMEAMgy/Gt5OMeygyi5VKK1IaSwqICAJe1eLTEEIPiuvvpqTyghZiEe9e7d
+
+## Context
+From document: sign -- signifies t signified ___________ iz'ag — chunk 15 (chunk 15/273)
+
+## Content
+Oz3T5Gd144RE4GF93Qc5iCMEAMgy/Gt5OMeygyi5VKK1IaSwqICAJe1eLTEEIPiuvvpqTyghZiEe9e7d21t7pBMdmNja18wFeUvkPoIQkaGpNsj4l156ye/3f/rTn7y4lOqyEv0dmQbszxAXkKQU3iYqF7uFIUOGpGyHkOj6E50PkpZt27Vr19XkGSQVpDe+0ET7U5ODrCGOV47D4BWSiQkSPdOiIsRWdaRWZWOGPKJOC0It5D9CEoTUTGfPQ6ZLvKwdxk+xYCKjyXBgjGxHiMPglfec9zmfYrVCBHKmrcYqG2MuPgPHdRt4QKKSIZEMebvucvR34giQgYIYw7HKOQeRi+KoWK8k07BwIpBh2LBh/ngJrGCCZXDe5zrKNZmMJq6t2A2FXQeAbBLENNbDeRsiOZEW3FME4mR1v+FcQjYQZDXWbJzfEIazYWVGRhA2WVjaQMJz3gDbdBvnau7xEEGqEjPYxhDrBEhwbj/33HPTJv/pO+dZsOQek8AN6utQX4JrSzIN8RAhihoCLIdMgssuu8xbEyWzHM2bPQT2aB8xpocHlftI9F6dI3Zrr5rWpO4aojogrXmFqA6IbPenb/zN++DVE/CQ8G5ytyT+lfdMEMp8xjy8un/+Nbak4v4/GLfTK6poIBKvrfkOrL2AgGiwSjD4xWUVIAAgBDAhFix2IsEiJw4gFjDNW2o2eZ772wsJa0QD91gXyzQgw4DJiQT+1YkGCAPBZ7H37jP3vc9KQKBZJdIEwg6CDFkbWEYF+wJjVxMCQkAICIHCRUACQOFuO/W8CgR69OjhySZIIgpO3njjjZ4042Eo1QYRigBApB7p2qk0SFwerMrKyhJOOYd0Y72QZaTJB1F2wcM2D808rFdl98A6yV5g/ZC5CBG8h5hHGIGwCBrzQR6xPLzSITUgArAgSdY25ZdffvEev/SVB9BU0s+DfpXaKwTCSSed5MnRO++800fgQRrs47yB2Y95hezLdAv2Pfb5VLcf+yyR/0S3MiYKEWa6EQkJQQaZhCAIKcVxAm4IAFgvQNClImplou89e/Y0pooNIonirtQ3IRsHsjxXrX///saEVUnF80V1/SF7hMwPSNI//vGPnvyH+ELUgrgksyhelDqEP1kveNoTlcxxgAiVL9usurHn4nvEEI5VMiw4dsl+UMsMAlzXBg0a5COuKZKOKEcAAoQux2sq
+
+
+
+---
+*Source: Document 64a95cd2950865cc023eedad1ff9b65d*

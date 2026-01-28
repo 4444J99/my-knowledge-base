@@ -1,0 +1,31 @@
+---
+id: 5c988d4f-7909-465a-9221-3055960dcdca
+type: insight
+created: '2019-02-22T12:18:39.000Z'
+document: 28f283ae0c72332a99d7478ac2e9c9c7
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    afz7edyhf9ohdewu6mqnghmggvpvw38hpbvh34ownwldjtv8l22knrxs8dwmntgimtcr4ljg5ljyvvfuypwa4b9ncakf9k34avc4dr4n0psvoruswjvh9qqqfevmn
+  - glxf
+  - g7n9lcys9gap7faatqc6mq43i4dw0zcdcmaxae9hjtgfrpwi
+  - zc8l
+  - alptprgj
+---
+# aFZ7eDyhF9ohDEwu6MqNghMgGvpvw38HPBvh34OWnwLdJtV8L22knRXS8dWmntGiMTCR4ljG5lJyVVfU
+
+## Context
+From document: Grandpa Pepe’s Lasagna — chunk 56 (chunk 56/205)
+
+## Content
+aFZ7eDyhF9ohDEwu6MqNghMgGvpvw38HPBvh34OWnwLdJtV8L22knRXS8dWmntGiMTCR4ljG5lJyVVfUYpWA4b9nCaKf9k34avC4dR4N0pSVORuSwjVh9QQQfevmn/glXf+G7n9lCys9GaP7faatqC6mq43i4dw0ZcdcmAxAE9hjtgfRPwI/Zc8L/ALPtprGj+E/FfiTVdE1SIQw6Zq1+t1Z6euWLfZIhEgjLbsMTkkAZzXkmlf8ABPX4U+E/CumeH/h14t8W+DNQ0+Ga3l1fRtUWyv8AUIZZ5Jwl6YYUim8oyMsbeWrKuBuO0UAee6Lr2k6X/wAFGvip4t0geZpnhz4fxtrzQLvzeRSW8qISMAy+QgABOcKR240vhP46/bQ/ad8F2vxb8IeJPC/w58K63Jcf2ba/2fLqt95EEzwFrh5HWPfvRvugcdQOlfVnwP8A2cPhj8AfDepeHvBltPeS67KZ9Vv9SlF1e6jId3zXMhVQ2AzAKFC8scZZifB9O/4J9/DHQ9Qvrbwz408ZaH4Q1KVprjwxYa09vpEm85eIxogl8pxkMvmbiD97GBRYDyn/AIJ3z3lx4W+Pct/q0WvXEnjTVnk1C3jWGC8kaMFriONSVRJT86qCQAQAcCvDfAP/ACh51v8A64ah/wCng1+oHwc/Z0+H3wLsvF2l+AvtMFh4x1OfVJraQwiG0edQnk2qRRRhIUUAIrbyAOWNcnpH7I/w30X9m26/ZctdS1Z/Cl2kyPcvNAdQAnuftTYkEAi4fgfufu8cnmiwHnfjv4T/AA9+NP7Lfwv8D+N/FK+D7/7HoV5oWoCeKGeLVYbNVhMKSMnmsQ7Dy1IY5yCGAI8m8e/Fj9sH9jvSbHxf8YtR0P4rfDyO7gs7y9toG03W4FmbYkhjXEDH2+cseCy53V9k/EH9m/4YfFH4SaX8GfGtrPfaNosNpHZXAlEd7byWUXkxTxyooCyhcgkLtOSCuDivFtF/YR8CjXNK1b4k+O/GHxLs9BmS4sNM8Sat9s0+KWI5jd4VjTzGX/aO0j5WUjim0B9tG7tlaGN5VR7jPlqx2s+BuOFOCSByR2qxXgvxG/Z18B/E/wCKPgX4t+IrjUIta+H0rzWEdtcCO2kZyGxMhViQGUH5GTcPlfcvFe9UwCvzl/4Jwf8AIq/GP/so2t/+i7ev0arxX4J/Anwj8B9P8S6b4Qu
+
+
+
+---
+*Source: Document 28f283ae0c72332a99d7478ac2e9c9c7*

@@ -1,0 +1,26 @@
+{
+  "id": "87b32242-e7c4-4e9a-8ea2-1189b5dc66f6",
+  "type": "insight",
+  "timestamp": "2022-01-16T20:23:57.000Z",
+  "title": "<div>Micro function </div>",
+  "content": "<div>Micro function </div>\n<div>One word/phrase x page</div>",
+  "context": "From document: Micro function",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "929add4f7eff22f0bd37b0daf38c8011",
+  "relatedUnits": [],
+  "keywords": [
+    "micro",
+    "function",
+    "word",
+    "phrase",
+    "page"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

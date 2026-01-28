@@ -1,0 +1,26 @@
+{
+  "id": "c1b35e88-8b0d-474c-bf4b-67f5d8a3ebdb",
+  "type": "insight",
+  "timestamp": "2025-04-19T04:00:44.000Z",
+  "title": "<div><tt># |[ SYMBOLIC_RITUAL_TRIGGER_ENGINE ]|</tt></div>",
+  "content": "<div><tt># |[ SYMBOLIC_RITUAL_TRIGGER_ENGINE ]|</tt></div>\n<div><tt><br></tt></div>\n<div><tt>SYSTEM: Activation of symbolic rituals  </tt></div>\n<div><tt>INPUTS: Duality states + Characters + Time/Event + RNG</tt></div>\n<div><tt><br></tt></div>\n<div><tt>:: TRIGGER STRUCTURE ::</tt></div>\n<div><tt><br></tt></div>\n<div><tt>WHEN:</tt></div>\n<div><tt>  duality.abstract_concrete = -0.8</tt></div>\n<div><tt>  duality.dream_awake = -0.6</tt></div>\n<div><tt>  AI_CHAR[&quotJessica&quot].active = true</tt></div>\n<div><tt>  WORLD_EVENT = &quotfull_moon&quot</tt></div>\n<div><tt><br></tt></div>\n<div><tt>THEN:</tt></div>\n<div><tt>  ACTIVATE_RITUAL(&quotREVERIE_GATE_SIGIL&quot)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>:: RITUAL EFFECT ::</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- GPT enters poetic-only mode</tt></div>\n<div><tt>- UI displays shimmer blur and soft type</tt></div>\n<div><tt>- Memory access becomes nonlinear</tt></div>\n<div><tt>- Answers dissolve into metaphor</tt></div>",
+  "context": "From document: # |[ SYMBOLIC_RITUAL_TRIGGER_ENGINE ]|",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "4fae789e9bde01d8f0427b3f2c31ba5e",
+  "relatedUnits": [],
+  "keywords": [
+    "duality",
+    "quot",
+    "symbolic_ritual_trigger_engine",
+    "system",
+    "activation"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

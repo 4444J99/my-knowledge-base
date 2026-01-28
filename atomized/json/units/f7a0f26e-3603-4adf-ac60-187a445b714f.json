@@ -1,0 +1,26 @@
+{
+  "id": "f7a0f26e-3603-4adf-ac60-187a445b714f",
+  "type": "insight",
+  "timestamp": "2015-12-30T20:03:53.000Z",
+  "title": "<div>Vivaldi</div>",
+  "content": "<div>Vivaldi</div>\n<div>Bach</div>\n<div>Haydn - symphony no 88</div>\n<div>Chopin</div>\n<div>Stamitz</div>\n<div>Beethoven</div>\n<div>Mozart</div>\n<div>Berlioz </div>\n<div>Verdi</div>\n<div>Liszt</div>\n<div>Wagner</div>\n<div>Tchaikovsky </div>\n<div>Debussy</div>\n<div>Dvorak </div>\n<div>Brahms</div>\n<div>Bach</div>\n<div>Faure</div>\n<div>Mahler</div>\n<div>Webern</div>\n<div>Strauss</div>\n<div>Glinka</div>\n<div>Mussorgsky </div>\n<div>Rimsky-Korsakov</div>\n<div>Stravinsky</div>\n<div>Elgar</div>\n<div><br></div>\n<div>Gershwin</div>\n<div>Armstrong </div>\n<div>Schoenberg </div>\n<div>Glass </div>\n<div>Messiaen </div>\n<div>Bartok </div>\n<div>Copeland </div>\n<div>Babbitt</div>\n<div><br></div>\n<div>reich</div>\n<div>riley</div>\n<div>louis</div>\n<div>david lang</div>\n<div>american minimalists</div>\n<div>john cage</div>\n<div>frank zappa</div>\n<div><br></div>",
+  "context": "From document: Vivaldi",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "cfa3596bb3f857f1137278a766b381d4",
+  "relatedUnits": [],
+  "keywords": [
+    "bach",
+    "vivaldi",
+    "haydn",
+    "symphony",
+    "chopin"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

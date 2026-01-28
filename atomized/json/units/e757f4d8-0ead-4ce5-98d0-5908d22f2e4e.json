@@ -1,0 +1,26 @@
+{
+  "id": "e757f4d8-0ead-4ce5-98d0-5908d22f2e4e",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>   - README quality check</div>",
+  "content": "<div>   - README quality check</div>\n<div><br></div>\n<div>3. **Smart Classification**</div>\n<div>   - Configurable rules in YAML</div>\n<div>   - Explains reasoning for each classification</div>\n<div>   - Flags edge cases for manual review</div>\n<div><br></div>\n<div>4. **Rich Reports**</div>\n<div>   - Markdown tables with sortable data</div>\n<div>   - JSON for automation/integration</div>\n<div>   - Summary statistics dashboard</div>\n<div>   - Top recommendations section</div>\n<div><br></div>\n<div>5. **Actionable Outputs**</div>\n<div>   - &quotTop 10 repos to graduate to org&quot</div>\n<div>   - &quotUnused forks to delete (safe to remove)&quot</div>\n<div>   - &quotOrg repos needing documentation&quot</div>\n<div>   - &quotPotential consolidation candidates&quot</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **Sample Output Structure:**</div>\n<div><br></div>\n<div>```markdown</div>\n<div># Repository Audit Report</div>\n<div>Generated: 2025-11-02 04:03:47 UTC</div>\n<div><br></div>\n<div>## Executive Summary</div>\n<div>- Total Personal Repos: 35</div>\n<div>- Total Org Repos: 23</div>\n<div>- Recommendations: 12 actions identified</div>\n<div><br></div>\n<div>## Personal Repos (4444JPP)</div>",
+  "context": "From document: Contents_Table — chunk 90 (chunk 90/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "repos",
+    "quot",
+    "classification",
+    "markdown",
+    "summary"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

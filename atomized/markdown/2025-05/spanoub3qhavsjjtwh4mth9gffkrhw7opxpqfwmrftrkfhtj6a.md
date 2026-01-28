@@ -1,0 +1,32 @@
+---
+id: c463c052-1417-4813-8dda-40b1b927f1b5
+type: insight
+created: '2025-05-15T00:56:03.000Z'
+document: 084f9bc77d1d8854a07a52206c286278
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - spanoub3qhavsjjtwh4mth9gffkrh
+  - w7opxpqfwmrftrkfhtj6a9xvxudtw6s0tjlmsz9g
+  - >-
+    qp6vmu7g1ozojqq396hadzishqhghj6fyrodoirjaxxag6giuyguftxgucth4jhkd7pzkd8otdxm32wjs2thrirq3umtg3kcl4ht1ilnjhacha2vhjrlw2pxelzoqk6isihoxhufujh5vy
+  - vxhmuw
+  - >-
+    8fp8aepwqfh27e28tac6cmlqpgpdgp5guqlexy1nz6ftjnwfx15fznpwcd1rwxpxqyc0uuuaffffabrrrqauuuuafi9fffbgffffabxzfdz7mpf70f8mrja7l4e8jqx
+---
+# spanoUB3qHAVsjjtWH4mth9gffkRH/W7OpXPQfWmrfTRkFhtJ6A9xVXUdTW6s0tjLmSZ9g/Dn+QP6VMU
+
+## Context
+From document: Grokking Algorithms for OS — chunk 223 (chunk 223/402)
+
+## Content
+spanoUB3qHAVsjjtWH4mth9gffkRH/W7OpXPQfWmrfTRkFhtJ6A9xVXUdTW6s0tjLmSZ9g/Dn+QP6VMU7g1oZOjqq396hADzIshQHgHJ6fyrodOiRJAXXaG6giuYguFTxGUCth4jHkD7pzkD8OtdXM32WJS2ThRirq3umTG3Kcl4ht1ilnJHAcha2vhJrLW2pXelzOQk6iSIHoXHUfUjH5Vy+vXhmuW+8FP8AePWqfh27e28Tac6cMLqPGPdgP5Guqlexy1Nz6ftJNwFX15FZNpwcD1rWXpXQYC0UUUAFFFFABRRRQAUUUUAfI9FFFBgFFFFABXZfDz7mpf70f8mrja7L4e8JqX+9H/Jq5cb/AAWdGG/iItePv+QLaf8AXyf/AEGuC4rvPH3/ACBrT/r4P/oJrhKnAv8AcqwYr+KxM5PNJuUHBIB+tbfhnw+Ncu3aZnWzgx5hU8u3UKD/ADP0rsp4vD+i+Rb3FvZwNPxGph3EjOMknJAz3q6uKVOXIldip4dyXM3ZHmY/n0oJxXeeIvCdpJYzXenwiC4iUu0aH5ZQOox2Pfj0rn/Ckulw3lzJq/2fy/KHlGaPf82ewwacMSp03OK26ClRcZcrZhB1OMEZ+tOPHtXpNpJ4d1ZmhtYrKVwNxQ2+0kdyMgZFc94s8MwabFHfWIKW7SKksRJIXPQg+nFRDFpy5GrMuWGajzJlzwho+nX+hedd2cM8nnyLvcZOB0FYvi+ztrDXzBawpBH5MZ2JwMkda9A09rB7YnS/I+zbzzbrhN3Gaq6gdBS7H9q/YBOVB/0hMsV7dq4oYiSrtu7XY6ZUU6aSdvM8tOCOoq5oZYa/YmNgr+aACT07V1/hqw068Oqu1rbToL1hEzRhhsxwBntVbXLK2s/E+hLa28EAd/mCKEBJbAJxXd9YUpunY5lQtFTuc7rkXkzyqwKtuGR6VmKcYIYjHQg4wa6m4jR/Fca3CrLG8qgqwyG7dPxFOuLG1Xx/aWwtoRbsEzDsGw/uz26U41VHQqrTcne47w98QNc0/NjNqSyWk4Mfm3waX7NkYLqR8wwOw4qhFeJbTRLZzedBCpiWTG3eCc5I7ZJ6V2dz4c0y5gaJbK3iL4G+KMK4AOcA449PpWPr1noem6TdwQJYxXqphIxgyZyOO5zWMcVCq+VJlqlKnq2XrfUEezdYpVznGFYEn1PXioI2LzT
+
+
+
+---
+*Source: Document 084f9bc77d1d8854a07a52206c286278*

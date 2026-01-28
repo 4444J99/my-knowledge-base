@@ -1,0 +1,26 @@
+{
+  "id": "8db074c7-4081-4fa0-8691-bb32c9470402",
+  "type": "insight",
+  "timestamp": "2018-09-04T13:09:28.000Z",
+  "title": "<div>Finish Reading:</div>",
+  "content": "<div>Finish Reading:</div>\n<ul>\n<li>Animators toolbox</li>\n<li>Jung</li>\n<li>Morphology of fantasy</li>\n<li>New gods (https://www.comicbookherald.com/darkseid-orion-new-gods-reading-order-jack-kirbys-complete-4th-world-saga/)</li>\n<li>Ableton manual </li>\n<li>The fire next time</li>\n<li>The theory and technique of electronic music</li>\n<li>Ody-c</li>\n<li>Descender</li>\n<li>The incal</li>\n<li>This is Orson Welles, Bogdanovich</li>\n<li>Hitchock, Truffaut</li>\n<li>Young Frankenstein</li>\n<li>Princess bride</li>\n<li>Mckee</li>\n<li>Heroes journey for screenwriting</li>\n<li>Dustin’s thesis </li>\n<li>Sick in the head</li>\n<li>Live from New York</li>\n<li>Chris’s flash pieces</li>\n<li>Dr strangelove</li>\n<li>Jackie brown</li>\n<li>OT MERLIN</li>\n<li>OT PDF</li>\n<li>At worlds end</li>\n</ul>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: Finish Reading:",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "c21114cbb7616a27485c2701e8801b1f",
+  "relatedUnits": [],
+  "keywords": [
+    "reading",
+    "gods",
+    "finish",
+    "animators",
+    "toolbox"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

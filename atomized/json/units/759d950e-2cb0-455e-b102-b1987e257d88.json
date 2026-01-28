@@ -1,0 +1,26 @@
+{
+  "id": "759d950e-2cb0-455e-b102-b1987e257d88",
+  "type": "insight",
+  "timestamp": "2025-02-12T16:23:09.000Z",
+  "title": "<div>Introduction Paragraph</div>",
+  "content": "<div>Introduction Paragraph</div>\n<div>Provide an overview of 3 sub points you will discuss in your essay: </div>\n<div>      1. </div>\n<div>      2. </div>\n<div>      3. </div>\n<div>Your thesis statement is the main point, located as the last sentence of your Introductory paragraph. </div>\n<div>Thesis: ______________________________________________________________________________________________________</div>\n<div><br></div>\n<div>Body Paragraph 1:</div>\n<div>Using sub point 1 (listed above), write your Topic Sentence for Body Paragraph 1: _________________________</div>\n<div>_______________________________________________________________________.</div>\n<div>Now, elaborate with three supporting details:</div>\n<div>      1.</div>\n<div>      2.</div>\n<div>      3.</div>\n<div><br></div>\n<div>Body Paragraph 2:</div>\n<div>Using sub point 2 (listed above), write your Topic Sentence for Body Paragraph 2: ________________________</div>\n<div>_________________________________________________________________________. </div>\n<div>Now, elaborate with three supporting details:</div>\n<div>      1.</div>\n<div>      2.</div>\n<div>      3.</div>\n<div><br></div>\n<div><br></div>\n<div>Body Paragraph 3:</div>",
+  "context": "From document: Week 4 Canvas Data Dump: — chunk 24 (chunk 24/29)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "d23737d0f113a71804bbfe76a4d190ca",
+  "relatedUnits": [],
+  "keywords": [
+    "paragraph",
+    "your",
+    "body",
+    "point",
+    "sentence"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

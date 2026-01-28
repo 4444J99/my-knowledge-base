@@ -1,0 +1,30 @@
+---
+id: 8517fb84-4fab-46d7-b553-224d359a81be
+type: insight
+created: '2025-06-26T17:15:56.000Z'
+document: 87215f26527a3ddd27752e0848e7ba23
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: design
+keywords:
+  - natural
+  - selection
+  - with
+  - more
+  - over
+---
+# <div>  •  Natural Selection (Domain: Biology) – The foundational principle of ev
+
+## Context
+From document: 🧵 Meta-Laws of Reality — chunk 14 (chunk 14/79)
+
+## Content
+<div>  •  Natural Selection (Domain: Biology) – The foundational principle of evolutionary biology stating that organisms with traits better suited to their environment tend to survive and reproduce more than others, causing those advantageous traits to become more common in a population over generations. In short, “natural selection is the differential survival and reproduction of individuals due to differences in phenotype”【17†L1-L4】. Over time, this process leads to adaptation of species to their environments. Examples: Giraffes with slightly longer necks could reach food more easily during droughts, so they survived and passed on genes for long necks – over many generations this yielded the giraffe’s long neck. In modern times, bacteria develop antibiotic resistance: those with random mutations that confer drug resistance survive treatment and multiply. Implications: Natural selection illustrates cause and effect on a grand timescale, and embodies concepts of competition and adaptation. It has been metaphorically extended to ideas (memes) and social systems (“survival of the fittest” in economics or culture), though such extensions can be controversial. It also raises philosoph
+
+
+
+---
+*Source: Document 87215f26527a3ddd27752e0848e7ba23*

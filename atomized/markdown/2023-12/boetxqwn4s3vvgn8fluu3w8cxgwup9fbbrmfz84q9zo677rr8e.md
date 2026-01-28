@@ -1,0 +1,30 @@
+---
+id: c46c2d57-b1e6-4bc6-a205-1046f3beec57
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - boetx
+  - qwn4s3vvgn8fluu
+  - 3w8cxgwup9
+  - fbbr
+  - 84q9zo6
+---
+# boetx+qwn4s3vvGN8fluu+3W8cxGWuP9/fbbr+M+Fz/84Q9zO6+77rr8eVu3cguSk36WmYm1tU5JO/2q
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 2550 (chunk 2550/3262)
+
+## Content
+boetx+qwn4s3vvGN8fluu+3W8cxGWuP9/fbbr+M+Fz/84Q9zO6+77rr8eVu3cguSk36WmYm1tU5JO/2q66iXbBSylrtuqGnaberfpubx16D95GHvVpcQJ54fUoWqKWPb1KJnXd7NH+7X4rEqzTbNu3X8V3S7yXWdtlIT+0abWSlUfYoRH32yNSdRA62yloqNjLn55pvnRtLMYJtYZLbwP7P55dEcvZD77rtvVlVh3nnnndkHPvCB7MUvfnE0/9KXvjSjgiJTlgkZ5txzz81sKlaGWfyy8cYbZ0ceeWT2wAMPdLxSpVDRAPjYxz6WbbHFFvFHxV4lNg8+milWmm6esGOPTfHIUBxcUD4Jl/dw2qLr7C1veUt2zjnnuJH8SAPR/UKFWxQaBzy3KUZ5GCkg/Z3vfve7mU3DzBiJg8dll11WtKL02qbJRDtplPDbcsstMxomZcpVmUJ11VVXRT/Q21pkj4O2AUAM8wte8IJoP3bYGpbse9/7XnyPhrRLlV1p2mKU6B3veEce76RV4r1Mqd5rr72iG5///OfdiY4GXDpCVXT7jDPOiO96wwimm2yySbxH2rP1N/Ec/mVp57777suff+1rX8vdT096uZGabZKW/D2UKDo98Df+J228+93vzuit55pfsVefd3/yk59ksHvlK18ZzZBubcpVjEu3m2PbfOF2UDF5+sUN/GNTt+I92yijowwiv9IIIP14A5q4p4Fu6+Tcyp5Hwoub2F+UNm6UpTFGUXBj7733zigL8eOrX/3qGL5eZWHRT35dN/4ZlXGm6ciI28ORcgwztvYnvZ3VLYdHUu7cYSPZaRlZR6GivMSvP/7xjzv86xdeLhWVF1urE5lTr7QVm34a7YBXmdhUwPj8Fa94Rf6YxrPnL8rlolB/UR5ihrLEpY1b/m7x2KbMbFMHubuUy6R3r4/pdCVeqF/onEilWNbyjLzHyB2cbbOg+B5lDvaQ32lrfPvb306t6Tivm3b9pSb+5Z2m5nln0H7CDZc6dUlRoSJudthhh4xR1F6MUWpIn9tvv300bxuyxDLtox/9aGbTW90bWR1/5IYLJ2mabdqGrOs//Esaow1RJpRHPOdXnMXQpK1UZvdYuTfWFKpJDIvZ9j/59EsukXjbj9GIGXsSo0/9HrF1TMgK05aPx37+s0og3/nLGl3h4IMPrrSe3dGYd45YJRZ3ZvL5
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

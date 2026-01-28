@@ -1,0 +1,26 @@
+{
+  "id": "a6afb4a5-4a62-42d7-85bf-200c7dab5ef6",
+  "type": "insight",
+  "timestamp": "2025-02-06T21:36:55.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><b>The Panel as a Unit of Time</b><br></div>\n<div>  •  In <b>film</b>, time is controlled by <b>editing and pacing</b>.</div>\n<div>  •  In <b>prose</b>, time is controlled by <b>sentence structure and paragraph breaks</b>.</div>\n<div>  •  In <b>comics</b>, time is controlled by <b>the size, shape, and placement of panels on a page</b>.</div>\n<div><br></div>\n<div>🔥 <b>Example from Understanding Comics</b><br></div>\n<div>McCloud shows <b>a single moment stretched across multiple panels</b> to slow time down. A character reaching for a glass <b>can take five panels</b>, making it feel <b>painfully slow and suspenseful</b> .</div>\n<div><br></div>\n<div>🔥 <b>Example from Maus (Art Spiegelman)</b><br></div>\n<div>  •  When <b>Vladek tells his Holocaust survival story</b>, the panels <b>shift in size and layout</b> to reflect his fragmented memories.</div>\n<div>  •  McCloud argues that <b>panel design influences how we perceive narrative time</b>—a technique film and prose cannot replicate in the same way.</div>\n<div><br></div>\n<div>📌 <b>For Your Graphic Novel:</b><br></div>\n<div>  •  A <b>wide, cinematic panel</b> feels like <b>a long, slow moment</b>.</div>\n<div>  •  <b>Tight, small panels</b> create <b>rapid, intense pacing</b>.</div>",
+  "context": "From document: 1.1.2. | Between the Frames | How Storytelling Transcends Mediums — chunk 2 (chunk 2/9)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "f240a4c32684da3798baf46370f9adbd",
+  "relatedUnits": [],
+  "keywords": [
+    "time",
+    "panels",
+    "panel",
+    "controlled",
+    "slow"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

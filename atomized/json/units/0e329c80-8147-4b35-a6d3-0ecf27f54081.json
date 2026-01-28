@@ -1,0 +1,26 @@
+{
+  "id": "0e329c80-8147-4b35-a6d3-0ecf27f54081",
+  "type": "insight",
+  "timestamp": "2025-11-23T04:21:32.000Z",
+  "title": "<li><b>[ ] Digital Memory Archive Creation defined</b></li>",
+  "content": "<li><b>[ ] Digital Memory Archive Creation defined</b></li>\n<li><b>[ ] GitHub Organization for Long-Term Projects defined</b></li>\n<li><b>[ ] Naming Conventions for Structured Projects defined</b></li>\n</ul>\n<div><b><br></b></div>\n<div><b><h3>4.2 Importance</h3></b></div>\n<div><b>Instructions:</b></div>\n<ol>\n<li><b>Explain how organization supports project continuity.</b></li>\n<li><b>Highlight why structured outputs enable future iterations.</b></li>\n</ol>\n<div><b><br></b></div>\n<div><b>Checklist:</b></div>\n<ul class=\"Apple-dash-list\">\n<li><b>[ ] Continuity benefits explained</b></li>\n<li><b>[ ] Iterative work benefits noted</b></li>\n</ul>\n<div><b><br></b></div>\n<div><b>---</b></div>\n<div><b><br></b></div>\n<div><b><h2>5. AI Handoff Context and Constraints</h2></b></div>\n<div><b><br></b></div>\n<div><b><h3>5.1 Essential Context</h3></b></div>\n<div><b>Instructions:</b></div>\n<ol>\n<li><b>Define the purpose of the AI’s output (e.g., draft, documentation, code).</b></li>\n<li><b>List all constraints including scope, style, format, and tech limits.</b></li>\n<li><b>Specify dependencies such as tools, frameworks, or datasets.</b></li>\n<li><b>Include continuity notes for iterative handoffs.</b></li>",
+  "context": "From document: ]||||/\\\\vvvv//\\.../\\/\\---/\\/\\.../\\\\vvvv//||||[ — chunk 9 (chunk 9/96)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "751d0ce44738c7033755a28c7169e646",
+  "relatedUnits": [],
+  "keywords": [
+    "defined",
+    "continuity",
+    "organization",
+    "projects",
+    "structured"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

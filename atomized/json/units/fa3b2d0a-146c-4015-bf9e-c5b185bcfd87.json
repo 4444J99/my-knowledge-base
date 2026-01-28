@@ -1,0 +1,26 @@
+{
+  "id": "fa3b2d0a-146c-4015-bf9e-c5b185bcfd87",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Wants to build a relationship chart for their Premiere Pro project, mapping clips, sequences, and shared elements. They are using 'mise en scène' as a key column but want to explore what the technical equivalent would be in a similar project. They are also considering how to implement color coding in Premiere Pro for the first time.</div>\n<div><br></div>\n<div>Is building a multimedia project involving a custom-styled spreadsheet using Apple Numbers. The spreadsheet uses gradients, color-coded visual systems, and custom typography as a structured visual canvas. The project involves developing a color system, naming convention, spatial rhythm, and visual language for eventual scaling, reuse, and integration across multimedia formats.</div>\n<div><br></div>\n<div>Is teaching English 101 to multilingual students training to become medical assistants. Some students are second-language learners with limited to no verbal English comprehension. User created a written translation-based communication tool to help these students engage, ask questions, and complete assignments. User encourages students to use translation tools, review Canvas modules independently, and email questions in writing. Extra credit is awarded for consistent participation in this process. User is considering making this a class-wide universal practice to support all learners without singling anyone out.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_041225_MASTER — chunk 35 (chunk 35/35)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a6c8d7ecac270c27cc9e416b39cd8866",
+  "relatedUnits": [],
+  "keywords": [
+    "project",
+    "students",
+    "color",
+    "visual",
+    "user"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

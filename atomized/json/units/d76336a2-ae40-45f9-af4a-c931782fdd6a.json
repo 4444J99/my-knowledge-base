@@ -1,0 +1,26 @@
+{
+  "id": "d76336a2-ae40-45f9-af4a-c931782fdd6a",
+  "type": "insight",
+  "timestamp": "2015-02-07T03:51:38.000Z",
+  "title": "<div>She stepped over bounds:</div>",
+  "content": "<div>She stepped over bounds:</div>\n<div>And with the flick </div>\n<div>Of her wrist, </div>\n<div>And with the twirl</div>\n<div>Of her hair:</div>\n<div>She braided a collar </div>\n<div>So very thick--</div>\n<div>So very</div>\n<div>Nonchalant--</div>\n<div>With such little care.</div>\n<div>Slipped on yesterday, </div>\n<div>Right o'er his neck--</div>\n<div>Immediate </div>\n<div>And tightly wound-- </div>\n<div>Simply not fair. </div>\n<div>It tore at his flesh,</div>\n<div>Each strand caused prick</div>\n<div>Looking right</div>\n<div>Or looking left</div>\n<div>As his gaze followed </div>\n<div>Her every subtle trick,</div>\n<div>Her coming--</div>\n<div>Even more so, her going--</div>\n<div>With a bloody stare. </div>",
+  "context": "From document: She stepped over bounds:",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "4ed75798e88b51598837329f6f74271d",
+  "relatedUnits": [],
+  "keywords": [
+    "with",
+    "very",
+    "right",
+    "looking",
+    "stepped"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

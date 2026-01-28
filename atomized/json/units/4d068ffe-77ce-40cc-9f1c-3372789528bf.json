@@ -1,0 +1,26 @@
+{
+  "id": "4d068ffe-77ce-40cc-9f1c-3372789528bf",
+  "type": "insight",
+  "timestamp": "2025-12-16T15:08:05.000Z",
+  "title": "<div><h1>Call Recording</h1></div>",
+  "content": "<div><h1>Call Recording</h1></div>\n<div><br><br></div>\n<div><h1>Call Recording</h1></div>\n<div><br><br></div>\n<div><br></div>\n<div><br></div>\n<div>You</div>\n<div>All right. </div>\n<div><br></div>\n<div>Participant</div>\n<div>Okay, I </div>\n<div><br></div>\n<div>You</div>\n<div>Exactly, </div>\n<div><br></div>\n<div>Participant</div>\n<div>mean, we'll talk about taxes later on, but uh, you know, I, we'll be here forever, so, </div>\n<div><br></div>\n<div>You</div>\n<div>right? Like, 0 my god, </div>\n<div><br></div>\n<div>Participant</div>\n<div>like. </div>\n<div><br></div>\n<div>You</div>\n<div>the bane of our existence. </div>\n<div><br></div>\n<div>Participant</div>\n<div>All right, number 3 So prior employment history, so what they're looking for is, is any documents that you have that identify your employers, dates of employment, supervisor's name, essential job functions, reasons for leaving each position and documents identifying your rate of pay? So, so from 2020 to now or actually from 2018 to now. I think it's Broward College, St. Paul's Nursing School, </div>\n<div><br></div>\n<div>You</div>\n<div>There's </div>\n<div><br></div>\n<div>Participant</div>\n<div>and your AJ Media, right? I don't think there's any </div>",
+  "context": "From document: Call Recording — chunk 1 (chunk 1/56)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f23b27b67df62bb6e308d8b80e9f8344",
+  "relatedUnits": [],
+  "keywords": [
+    "participant",
+    "right",
+    "your",
+    "call",
+    "recording"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

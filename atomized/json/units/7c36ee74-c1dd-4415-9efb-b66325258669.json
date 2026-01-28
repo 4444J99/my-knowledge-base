@@ -1,0 +1,26 @@
+{
+  "id": "7c36ee74-c1dd-4415-9efb-b66325258669",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Balances power dynamics between archetypes.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Introduces long-term strategic identity for each player.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Adds depth through elemental and environmental interactions.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 2. Elemental System – Character, Item, &amp Environment Charges</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Each character, item, and environment now has an elemental charge similar to Pokémon-type matchups.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Character Elemental Charges (Assigned at Start)</div>\n<div>  •  Fire, Water, Earth, Air, Shadow, Light, etc.</div>\n<div>  •  Some archetypes will naturally resist or be weak to certain settings or artifacts.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Item Charges Affect Player Interactions</div>\n<div>  •  Example: A Fire-Based Weapon gets a bonus in a Dry, Hot Environment but weakens in a Water-Based Setting.</div>\n<div>  •  Example: A Holy Artifact might be unusable by a Shadow-Aligned Character.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 449 (chunk 449/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "zapfdingbatsitc",
+    "elemental",
+    "character"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "7c6b1f0c-de8f-42f1-9fe7-50061cc74841",
+  "type": "insight",
+  "timestamp": "2017-08-21T01:01:08.000Z",
+  "title": "<div>Judging a book by its cover (and not just books)</div>",
+  "content": "<div>Judging a book by its cover (and not just books)</div>",
+  "context": "From document: Judging a book by its cover (and not just books)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a24ec5fec726da7a603fc21be96044dd",
+  "relatedUnits": [],
+  "keywords": [
+    "judging",
+    "book",
+    "cover",
+    "just",
+    "books"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

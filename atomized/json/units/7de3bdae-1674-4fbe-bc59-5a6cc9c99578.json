@@ -1,0 +1,26 @@
+{
+  "id": "7de3bdae-1674-4fbe-bc59-5a6cc9c99578",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>### **7. Emoji Semantics Case Study**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**💀 Skull Emoji:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- **Denotative**: Death, danger, poison</tt></div>\n<div><tt>- **Connotative** (Internet slang): “I’m dying of laughter”</tt></div>\n<div><tt>- **Context Disambiguation**: Co-occurrence analysis (💀 + 😂 → laughter sense)  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Implementation:** EmojiNet sense inventory, contextual BERT embeddings, semantic shift detection via longitudinal analysis </tt></div>\n<div><tt><br></tt></div>\n<div><tt>-----</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## **PART V: RHETORICAL STRATEGY ENGINE**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### **8. Aristotelian Triad**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Ethos Detection (F1 ~0.75-0.80):**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Source citations, expertise markers, trust signals</tt></div>\n<div><tt>- Support vs. attack (ad hominem) classification </tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Pathos Detection (F1 ~0.80-0.85, highest):**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Emotion lexicons (NRC, VAD), affective language </tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 14 (chunk 14/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "detection",
+    "emoji",
+    "laughter",
+    "analysis",
+    "sense"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

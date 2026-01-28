@@ -1,0 +1,32 @@
+---
+id: d17d8a21-4e06-4b15-a19a-80e39989f5cf
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - vxsmru9bu1unhdonvpvsvbullinvjwkv
+  - uutd6xqgiq7jv
+  - >-
+    pwbvi1a7p04iybwi1vw0iboyjugukwhlawiqsvgnrwfqkreatsfc1hwtvboyssesfwi3vm12vwbwpqosqzamkjutuwcpwa6vgm4dlohwgtr1mfhivaauboqasdpvwa
+  - >-
+    brawjl60djdrbsfrjwfatoca2tuodzeqdvcuhtzqtwgvynhkbikajstmnaoqwiwcgtsynaoigkmqactdjlciotvt2wgmayktapaakfrbktzguinqgowlchsaqmqmcvwdvqy5ruqfy8tsgqhlj8bdw3hmlramr6htrxpqji
+  - xgoffnrl2xvofxgwb4fjq
+---
+# vXSMru9BU1UnhDoNVPVSVbulLINVJwKv/uUtD6xqgiq7jv+PWBVI1a7p04IyBWi1vW0ibOYJUgukWhlA
+
+## Context
+From document: New Note — chunk 19347 (chunk 19347/21099)
+
+## Content
+vXSMru9BU1UnhDoNVPVSVbulLINVJwKv/uUtD6xqgiq7jv+PWBVI1a7p04IyBWi1vW0ibOYJUgukWhlAwiqSVgNRwFQkrEaTSFc1hWTVBOYSSEsFWI3VM12VWBWpqoSqzaMkjuTUWCPWA6VGm4dLohWgtR1mFHiVaauBOqasDpVwA+BrAwJL60dJDRBsFRJWFatOCA2TUoDZEqDVCUhTzQtWgVYnhkbIkAjSTMNAoqwIwCgTSyNAoiGkmQaCTDJlCioTVT2wGmayKTApAakfrBKtZguINQGoWlcHsAqMqmCVWDVQy5RUqFy8tsGqhLJ8bdw3HMLrAMR6hTRXpqji/XgoFfNRL2XVoFXgWb4fJq+yvpWEVU1kHSBcJVL1UlUJVQePVQlcs2D1IySsPtpHwup6gtUP5bYVKyWVbrTAKhNWvWpsaZf1GzYekwmrBKv9QasOrDqMVugHTDfvng33DLhn4N/lGdAPTb+9H53dK7sdcDvgdsDtgNsBtwNuB9wOuB1wO+B2wO2A2wG3A24H3A64Hfj6dsCB1aMbrGqqqnYbrHpY1YOrdrKqJqzmgtXPc8AqYWq+hFU/WNVUVe02WO0LqxKtfvXVV4eUfuZqdxutEqj64aqdrKpjIlWFqtqJVLUUqNpdoap2O1nVP/Zj1f4mrCpS9Xc/VO1vwirhKnGqdhuq2jjVP7Zhqj1WoMo5HefrfqyqUFXn82HVgSBV/huC4tR8vRBMtecVoXJOx311BagDAavEpjZUtccKUfvTbWDK9fbxYMYKRhWn6vHX1Ykw7XvzWOd03N/O+/R37ZFaZ/9Nynvyj93tsa4tNqdrXD+2duDsS26Tny/5ray563HZsv1F2b//zaJgVaEqsepT21+Si3+xztSOna/IO0Cr23bskrV3Pym/XvY7+d7Vq31otRerMmGVYHXKmb+S+qkXGFDoYdRcnMg5D4B6vT9gleuJT0uBK6sSU3xglcmqHlqtjE8GMm0xa8cCKeaDpgpWtY+rSpv1RJt6Hw+uThcmXOp9uJ7IUq8rRTqpjm18aa/Lma9pxnsrAFbxdTFBliCSr6lQNV8/UniViaREkhOQRMtEVYWq7ES/hKyEnkSc9tcx+LHeR3vuc2Hum5O0inUWYDVgVaGq9QzZCav8fptjBavsmBsLEDq6PIF9bc3Bqh5e7TGQmM8X96NvtKoIVbtiVD1m
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

@@ -1,0 +1,32 @@
+---
+id: 77a562da-c1ca-4f12-bf0c-6ad9955f4992
+type: insight
+created: '2026-01-17T22:01:57.000Z'
+document: 1e7f774965e1eb562e09169dee48e356
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    k40prxk2ynyl1eydprj3ww20utmoj1wvdgfhtdqajlc5u8hfx92au1xdzriatqgfpgh8u2fcpcormwerzkjikqenvno6u2xpdx0ckwuimjqlrao7srtjkkbemnqiz4bh7
+  - 3nfsyuwkswk
+  - sw5kjuetrv7soufbowhlokxam4mle4ewwwjosxjj
+  - vwxp
+  - >-
+    ff3mdalorxxrkq77yxvxu6ijhnyxu5ypbajule8f7meal0fvsbxzzmwsbpyvrsqrsgetqlkvjjg8qz8rljsjomodcn53uyqptgfw3bsw0s01f7e11aqsbdyxszdxa2l56tvge
+---
+# k40pRxk2ynyL1EyDpRJ3Ww20UtmOj1WVdgfhTdQaJLc5U8Hfx92aU1xDzRIAtqgfPGh8U2FCpCOrmWER
+
+## Context
+From document: New Note — chunk 87 (chunk 87/552)
+
+## Content
+k40pRxk2ynyL1EyDpRJ3Ww20UtmOj1WVdgfhTdQaJLc5U8Hfx92aU1xDzRIAtqgfPGh8U2FCpCOrmWERZKjiKqEnVNO6U2XPDx0ckwuIMjqlrao7SrTJkKbEmnqiZ4bh7+3nFSyUwkswk/SW5KjUETrv7sOUfbOwhlOkXAm4mlE4eWWwjOSXJj/VWXP/ff3mdalORxXrKq77YxvxU6IJhnyxU5ypBAJulE8F7meAl0fvsbXzzmwSbPyvRsQRsgetQLkVjjG8QZ8rLjSjOmOdCn53UYQpTGFW3BSW0S01f7e11AqSBDYxsZdXa2l56TVGE/GA509eFa4w9J/D7GOdj6gM9zHg/5kNjcks7p2iGan4vPwk4urcJf11JdPFCMkxnf1nYTXVPh/ybu2+bu6YixKCMt5/Km7Ga7YxyuUx938OHVyQpogC//8XKoYl42QTEc1BxpIFBKL9g1FteD9DD+z2fcveu4phIx5NeJqfT0wVL/uFdlVlSs2CC/ywttWE0OY84fFxVWqY73xFAfycxykhVxMRYAER2iLzoKnjuNlxtYE6iEHNaXOG9e60q+Ew4yTXlGZqRSZSe8boEkjZi5wvTl0qvBR975fPqgngKr1kxcATKoDlp+vd9KxtFunmCOBgdDyn1CDMV3duyQpP2XMEQwWvtsQTPkx2nb+HgIGHPu6czhULQX5/qZTE9i5qamSBjWComNbEbJwKLpsMycvfsFOEVR4sN2S+IZqHXLPest1zwqV4REr3tq0J5Olerz9qKKafFagbEMa2I0j8I0aWHVhaF3U9PWkIxMg223+FazJPER+QGAA268NdjKThDR4rEcYrJZPr8kidgz0wkbw82hnjnI0cgfpKnPbbJYCNPSg8RmNcSdR7zx8WuIgRqf1K+k9y8nP0p0GyQRWnh60/mlyROdQnU3/pbpllR3L94V14vdoJSd3/u8Ai4G3YTJAMWVl7RlNy4TR46B6pENwFsJSWVIT5TRTZe3qP3Dnhenp3oorlMQwxonVSqdnpDtlWe96rQ4HmFB95nz7z3WCqmsrSW02De2XPglBmeDnFg4+wmr3fsvTmNwGbidgqMVBh/pJJffYBJzvKBMYKIW2QCzgZs7m+QjtnpMbTnSZhtTKf96WOLqpNXCKUwnyC/OaDvxE3sjwFkhSfnpFW2Ymm4vnYJSI5unIwfhA2lu2WP5jI
+
+
+
+---
+*Source: Document 1e7f774965e1eb562e09169dee48e356*

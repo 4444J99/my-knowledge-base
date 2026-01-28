@@ -1,0 +1,26 @@
+{
+  "id": "6bf01e24-a1c6-4312-b129-ab393aaac383",
+  "type": "insight",
+  "timestamp": "2025-12-04T16:48:25.000Z",
+  "title": "<div><tt>**Entries:** Visualized as two orbiting rings: DUALCORE and BINARY </tt",
+  "content": "<div><tt>**Entries:** Visualized as two orbiting rings: DUALCORE and BINARY </tt></div>\n<div><tt>**Function:** Structural representation of the full modulation+control system </tt></div>\n<div><tt>**Used In:** </tt></div>\n<div><tt>- UI/UX modeling </tt></div>\n<div><tt>- Terminal visualization </tt></div>\n<div><tt>- Teaching the system to collaborators </tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Tag for notes:** `#synthesis_ring`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## 6. |[ RITUAL_ENGINE::FUSE_LOCK.v1.0 ]| </tt></div>\n<div><tt>**Name:** Ritual Logic Controller </tt></div>\n<div><tt>**Entries:** N/A (generative from dual+binary) </tt></div>\n<div><tt>**Type:** Dynamic ritual system combining wave modulation and binary test </tt></div>\n<div><tt>**Function:** Narrative triggers, spell structure, emotional logic layers </tt></div>\n<div><tt>**Used In:** </tt></div>\n<div><tt>- AI invocation </tt></div>\n<div><tt>- Thread transformation </tt></div>\n<div><tt>- Recursion breaks or amplifications </tt></div>\n<div><tt>- Fusion ritual gating </tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Tag for notes:** `#ritual_engine`</tt></div>\n<div><tt><br></tt></div>",
+  "context": "From document: # synth-wave-modules — chunk 4 (chunk 4/51)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1f0200e52addd3bec3d0beb78cca4a02",
+  "relatedUnits": [],
+  "keywords": [
+    "binary",
+    "system",
+    "ritual",
+    "entries",
+    "function"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

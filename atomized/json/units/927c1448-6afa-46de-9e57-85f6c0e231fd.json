@@ -1,0 +1,26 @@
+{
+  "id": "927c1448-6afa-46de-9e57-85f6c0e231fd",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "</td></tr>",
+  "content": "</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Artifact 3</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Dr. Frankenstein’s Notebook (Frankenstein)</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Allows the player to “resurrect” another, but they take on that person’s failed challenge.</div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Ensures literary immersion—all items reinforce the themes of the week.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Forces decision-making—players must weigh risks and rewards.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Adds scarcity and competition—only one of each item exists per week.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 4. Scribe Enhancements – Rewriting Reality</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 332 (chunk 332/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "border",
+    "style",
+    "width",
+    "face"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

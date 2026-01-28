@@ -1,0 +1,26 @@
+{
+  "id": "9a14e047-57e8-4839-ae61-dc68c7be72d0",
+  "type": "insight",
+  "timestamp": "2025-11-23T22:21:12.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>If you tell me your preferred language ($LANG_ENV) I can turn this into directly runnable code using these exact steps.</div>",
+  "context": "From document: Here is a reusable, parameterized algorithm you can use to recreate… — chunk 8 (chunk 8/8)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "f75193c56b19a08e9a1a9ea52ee44833",
+  "relatedUnits": [],
+  "keywords": [
+    "tell",
+    "your",
+    "preferred",
+    "language",
+    "lang_env"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

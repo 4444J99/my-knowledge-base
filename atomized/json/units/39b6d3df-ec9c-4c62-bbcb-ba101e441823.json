@@ -1,0 +1,26 @@
+{
+  "id": "39b6d3df-ec9c-4c62-bbcb-ba101e441823",
+  "type": "insight",
+  "timestamp": "2024-06-04T14:32:48.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Months 1-3 about 5 booked meetings a month per channel, 20% close rate</div>\n<div>Months 3 and on 8-10 meetings per channel, 20% close rate</div>\n<div>This service cost 2000 month for cold calling and linkedin (so two channels) and $45 per qualified appointment</div>\n<div><br></div>\n<div><br></div>\n<div>To determine how much a client's service or product needs to cost for our PPC service to be valuable and how much they need to be making monthly to afford this service, we'll perform the following calculations:</div>\n<div><br></div>\n<div>### Assumptions and Parameters:</div>\n<div><br></div>\n<div>1. **PPC Service Fee:** $6,299 per month</div>\n<div>2. **Recommended Ad Spend:** $6,299 per month</div>\n<div>3. **Total Monthly Cost to Client:** $12,598 (service fee + ad spend)</div>\n<div>4. **Cost Per Lead (CPL):** $100 - $150</div>\n<div>5. **Close Rate:** 15%</div>\n<div>6. **Target Niches:** Luxury real estate, health and wellness, cosmetic and plastic surgery, yacht and private jet charters, high-end retail</div>\n<div><br></div>\n<div>### Calculations:</div>\n<div><br></div>\n<div>#### 1. Number of Leads Generated:</div>\n<div>Using the CPL range:</div>\n<div>- **Minimum Leads:** $6,299 / $150 ≈ 42 leads</div>",
+  "context": "From document: DWV Media — chunk 11 (chunk 11/20)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "aecf5ea345ca08ade51033542abc0b80",
+  "relatedUnits": [],
+  "keywords": [
+    "service",
+    "month",
+    "cost",
+    "close",
+    "rate"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

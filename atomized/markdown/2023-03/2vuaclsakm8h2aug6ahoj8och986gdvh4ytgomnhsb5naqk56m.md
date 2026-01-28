@@ -1,0 +1,32 @@
+---
+id: e80dcc54-d8f5-4f05-b1a0-f59ed36f546d
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 2vuaclsa
+  - km8h2aug6ahoj8och986gdvh4ytgomnhsb5naqk56mn
+  - >-
+    7p0z5rfewdnu58bod8luh4ggpy0fwdps1jdwwhhlzheyjwqvdsl2stj00jvjs8ib5uy2ad9febvdva6cyr
+  - >-
+    buzjcgaaqabjrefueyn9g1b7g2vawnnorghoh8t73gbsnmmdjhvwrqecmrpa63d4voo9vnnkcuadnu9y1l3mjywevu2f9fdkowfwv0fupqh0d0b6a8mtbyz0ahxcy1jqytppauxz14d2agljgedobqbndubzoc46a84lrmc
+  - a70dvqo7b
+---
+# 2vUAcLsA+kM8H2auG6AHoj8OCH986GDvH4YTgOMnhsb5nAQK56MN/7P0z5RFewDNu58BOD8LuH4GgPy0
+
+## Context
+From document: New Note — chunk 493 (chunk 493/8096)
+
+## Content
+2vUAcLsA+kM8H2auG6AHoj8OCH986GDvH4YTgOMnhsb5nAQK56MN/7P0z5RFewDNu58BOD8LuH4GgPy0fWDPs1jdWwHHLzHeyjwQvdsl2stj00Jvjs8Ib5uY2ad9fEbvdva6CYR+bUZjCgAAQABJREFUEyN9G1B7G2vaWNNOrgHoh8T73GbsNmMdjHVwRqeCMRPA63d4voO9vnNkcuAdnu9y1l3mjYWevU2f9fdkowfWv0fuPQH0D0B6A8mTbyz0ahXcy1jqyTPPAuXZ14D2agljgedOBqbnDubZOc46A84Lrmc/A70DVQO7B/yoFkDdhPoA1j8CiJvQvIB2tYDYxhavVvlqFQDcAPEC6HuZtcrVHoLjNadwngPELTie84H+Gdd67a/z1CqAxbWfgeTZw4Dy3MvA8+x7X9C8xtnD9IHAjYWeOSdAL+j+HmcaCz173dMzZxu4nvUGnud8A86rZW138HyH/e+oZdzA9GpLsdNzj84RKSF3RqeH3xnJRxLcoYP9b7P3bc64zbrb9oFdwTm3eJ923lHwfDvv2Ebd2tjXAPSM3eSON8i7AcTeDdGz53X2ukbeNc69xvNVcq6y9lp5nN/VgkGulzhH4Hwrc2oF019gP1npu0305JwFgj/L3U5zh5OOQe6nuOsp+t8Dzx8Hmj/miPY8Rnu0NN7nCGOHHFEehwDmD+YO6AFE77q/INJtrz3CbTcA/U7mthfGeG5zRHt8lfPUo9sB6LcCvX+Z/aueX+b8qufGwgif1RjsV2KYX+WI8F5WFOn9cUm074dF0d4fMrakYIDrh5jt38ZM/x7xTv5At7ccgzznF0R4zMNkPxv7/OysJ3q+lv6Lni8OfOyhvy/M+kXJtMrimP+sfy9b51oVsCpgVcCqgFUBqwJWBawKWBWwKmBVwKqAVQGrAlYFrApYFbAqYFXAqoBVAasCVgWsClgVsCpgVcCqgFUBqwJWBawK/DsqMKPQ799A0wLnG7Pc0uuy3LLVtth9DHT9bFlwd+6ssqCo5hyvVIWAeR1tzPHAzQLi//wqGnvugWneWOWB7acDxs90BCcoZqlPjvotRX5J3CvZ2W/O80qXiX0aEP2M0jDs8l128RlFoamKaUUBGbK9CzhvKQzIFBQvWF6A/DND+yYrnh3WN+kZYPoZJb3TBa3L+C4g/emy3hm/GfZ4UgPQuszwAuMF0ddm
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

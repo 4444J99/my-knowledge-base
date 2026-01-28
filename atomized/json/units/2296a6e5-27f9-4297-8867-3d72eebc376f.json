@@ -1,0 +1,23 @@
+{
+  "id": "2296a6e5-27f9-4297-8867-3d72eebc376f",
+  "type": "insight",
+  "timestamp": "2017-06-12T01:02:21.000Z",
+  "title": "<div>offer up</div>",
+  "content": "<div>offer up</div>\n<div>craigslist</div>\n<div>let go</div>",
+  "context": "From document: offer up",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "db99809f084237362a7c3018222f4720",
+  "relatedUnits": [],
+  "keywords": [
+    "offer",
+    "craigslist"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

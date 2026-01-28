@@ -1,0 +1,26 @@
+{
+  "id": "abf3ffbe-e423-42ac-b7a6-73c312e7a734",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>| Category        | Glyph Type Options            | Examples (proposed)                        |</tt></div>\n<div><tt>|----------------|-------------------------------|--------------------------------------------|</tt></div>\n<div><tt>| Artist IDs      | Custom Symbol / Emoji / ASCII | ::4_bl00m = “∞” or “⚙️”                     |</tt></div>\n<div><tt>| Projects        | Project-Specific Glyphs       | ::GR1ND3R = “⛓️”, ::MET4 = “♾️”, etc.       |</tt></div>\n<div><tt>| Logic Modes     | Emoji / Tag                   | Dream = “☁️” / Reality = “⚒️” / Hybrid = “⚖️” |</tt></div>\n<div><tt>| Media Domains   | Domain Glyphs                 | Audio = “🎵” / Myth = “⚱️” / Visual = “🖼️”   |</tt></div>\n<div><tt>| Output Types    | Output Glyphs                 | Ritual = “✝️” / Product = “📦” / Archive = “🗂️” |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### III. | SYMBOL ENGINE V1</tt></div>\n<div><tt><br></tt></div>\n<div><tt>We will begin with:</tt></div>\n<div><tt>- Emoji-based starter system (for prototyping)</tt></div>\n<div><tt>- Add ASCII symbol logic for plaintext and markdown compatibility</tt></div>\n<div><tt>- Reserve space for custom SVG icon development (if desired later)</tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 140 (chunk 140/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "symbol",
+    "emoji",
+    "glyphs",
+    "custom",
+    "ascii"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

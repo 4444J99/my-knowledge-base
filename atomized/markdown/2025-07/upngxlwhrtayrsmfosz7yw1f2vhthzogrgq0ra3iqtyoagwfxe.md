@@ -1,0 +1,32 @@
+---
+id: 5dc0bd92-1ca0-401c-9728-c06b41d7f511
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    upngxlwhrtayrsmfosz7yw1f2vhthzogrgq0ra3iqtyoagwfxeet3ehenuawgn4dtcfrtjsmdgbnvi6mbceaqk
+  - >-
+    cuf1kl1qjmaroptjxcqidglljgiuxwzrssziuzudnh84ysplox6ufe8yuze4d1bskui4mu9g9aoxgnfw6mo5t1k0tb4azxkdtthanosfuqh6ls6orgai0h
+  - xrodeojawxjzklle1y0psop
+  - g1hobxvtyoi0abbcy6fcfrhu
+  - vyhm7jzspfwyekbus3owggnxoaf9gq4iwdlcutocosybjijruarjzo5t4u
+---
+# uPngXlWHRtaYRsmFoSZ7Yw1F2VHThzOGrGQ0ra3IQtYOagwFXEeT3eheNUawGn4dTcfrtJsmDgBnvI6m
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 10354 (chunk 10354/18928)
+
+## Content
+uPngXlWHRtaYRsmFoSZ7Yw1F2VHThzOGrGQ0ra3IQtYOagwFXEeT3eheNUawGn4dTcfrtJsmDgBnvI6mbCEaQk/cUf1Kl1QjMARoPtjXcqIdGlljGiUXWZrsSzIUZUdNH84YspLoX6Ufe8YUZE4D1BsKuI4mu9G9aoxgNfw6mo5t1k0TB4AzXkdTthANoSfuqH6lS6oRGAI0H+xrOdEOjawxjZKLLE1Y0psOP/G1HoBxvTyOI0aBBcY6fCFRhU/vYHM7JZspFwyekbUS3OWGgNxOaf9gQ4IWDLcutOcOsYbJIjRuARJZO5t4u/31KWJf0sjKdMhIecT7IMxSGWB0mPQiR6hXaGgANdZqQZPgjBEwjlxa6v5JtNdsyljwbhjGyxIUfTE5/gFAgB7sYafYaJcO6TbuKjsePk6j1NASnc7tNzNwBHHQJFF9AOcNvGW1FeKMTZ5iNFQM7hViQha4xYMf4ie1EsLn7la3DBNBd6Ctxu27tbp662+vzetoerUN6NW9+fWOweZ3Ax811gdhlsoAo1gZ2h+roS5q1gBqRlamCTUJljdRWVaSqPsnfK+ZxEUe/cFhNwzjhUbli8l1NFUbT9vVrRPTQB5BMA9ob28b9vOSB5iof4NoWsA0FWPoAhB0iXYY+8et1dVbfx1Ntsi20Kt7848986iBj3gfBD4xVxlglKKG9sdqyOUJEjJdUsZoGHBbgeU7nVBWEtDN6TWTmKyx4N0QN8a9CkycMWfa4utdUzdtYLrNIwh+1EP62eLuc0fDIxuFmkdwd7uOpqNjtNG+2UZeR5n6mAihB/eLCCY+t5P55QPd+lFzrvVqueFOS8hMlZIW2zXNNNYkVUyHdKoeplNYW3hfwCyGFD1N2YEOVonmlJQXsB4Swe0fE3zUE0XJYaQAE5W7m4JoGusJcIwmPemoD1RNQL+YezGWQJApl7lMSVGcKPi2q16qI2ZsB/WACDTER/EOuB090TM1t0lLaNViU4wG7Pdui1oWjBVkFxXvmq74lnfdYqvsJFUU9IuiQwp0yALGrRFi7E0Sxqt5PHvUED0LCIYfayORUDSZ8nzJWtPjXOpQkyoD+sKNNTB2dGQhHoJUMZ2QU/UwJiaFtYXvO1Wmpyk70MEq0ZyS8gIKkWhRS8QEH/WEUK7OH4d/eExU7m4KWozhIyY9QUBulzMx5As+nmlXRwAz1pCp
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

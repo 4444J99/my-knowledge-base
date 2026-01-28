@@ -1,0 +1,32 @@
+---
+id: 7ad3f310-df4c-4e23-bedd-5263c498e4ce
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - mk7sbgeduoyzh
+  - >-
+    pxwofwztmhjxcvjxjuzyonjo1o3tjcnjckwyiqfoucbfwh86loaqgrwk5cyzj83af2na1qbhok0xkfjmory2zgnf4fc6q2aglehmjwyspxquo
+  - nsezc5azliavctdo274msco2yllhwjahkctwpz
+  - zjapxjiqk6nvos0vu
+  - >-
+    wkdlqjzhuhcwqegfixmcbonp2n8dqn0emo5txwktpvhsddqyqui6ffdzfkagh0cygtvauauzlzwpel5vkdfephmczhxsd2qc3
+---
+# mk7SbgEduOyzH+/PxWOFWZtMHjXCvJxjUZyONjO1o3tJCnJCkwYiqfOuCbFWh86loaQGrWk5cyZJ83aF
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 10801 (chunk 10801/18928)
+
+## Content
+mk7SbgEduOyzH+/PxWOFWZtMHjXCvJxjUZyONjO1o3tJCnJCkwYiqfOuCbFWh86loaQGrWk5cyZJ83aF2NA1qbhoK0xkFJMORy2zgNF4Fc6Q2agLEhmjwYSpXQUO+NSEZC5AzLiAvcTdo274msCo2YlLhwjahKCTwpZ+ZJAPXJiqK6NVOS0vU/WkDlqJzhUHcwqEGFIxMcBOnP2n8dqN0EMo5txWktpVhSdDqyqUI6FFDZFkagh0cyGTVAUauZlzWPEl5vKdFEPhMCzhXSD2Qc3/kJrD2T+ca9og0MHpUCYvMp1y4p6m7Y864pGXfeaiRm73wp9/8WXey7e3Q+r01tm0GfLnHJrytCfv+wIQL5i95hXPoxMnSQeShYTxhL6ANXnWjhY337bd0LGev7S0jQZv5OZPzaD6ILzq7ceNrEX+HvJdZTEhwMHt/oMXFj4CvBx1ULthj3/Lfu8CeFsFbbJYbhPtKzJmTZWWgZYfScIITPsm7tonW1zxxoRW5taTql0EmGM67nUvpaiHh1QLX2LacbBaVAzI3ErDxrRlmChb0DnwjGVPJzjmHoYTE9Da4vGXrw/s2IfPHNO7T3l73l0cfOuoyAEnpAT4eJjZTKvGECfbkZpMtRbMXA0rU2JHatDmAnAsw8jMz8XVzxA8ofo2e1RwQKJbLEzd5qBydlgMUEZ5mGak8c937nckkuqdQZa2eAm2nyMFGbqm8Dm5gLdDGyo0oRnXSTOiPAQ927BB49hnsS70ObWQySVnQJaPGJ+DYnP44uFMZoRR/c03XN1aoTsEimjs0sfytgUrqztuqNVa1ueipXsS4Qfwoo+cvW3g3SWcd7zbJWmtDDejAjt2m1sIIbLVPIrJbLsqYAizIz8qRiEuvpAvjS286T3YXQ2893vHW7tBCzL3PrNU25Y9waSiz33fKTyqorVYGnMPg89RkTSDeGWx8476xReeq0ryS/Sqyz7NiZhDFg4qmq3mk5ObCzqGCONSUv/vf/j1fPS7zRYHquFwoAQZiLmVCMC3QvWB/f/D1HbOvY+AUBIxPU307PwwOK/XcUdHay/uaY4HvPxBWEddFLwy8PMf37wIG8eGpF7xbpw5zYo3B0/GDUvJ9mABBp+5j90n7Qef3oPjJPP5AxCmlrD98UP/Y6vDeBXT03zH46Zz7Oya+ONjg0bkI9lQQ16SpHAwE4ZJ6G0l
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

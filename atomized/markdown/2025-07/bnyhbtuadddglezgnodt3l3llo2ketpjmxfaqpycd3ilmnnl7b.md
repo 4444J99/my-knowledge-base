@@ -1,0 +1,32 @@
+---
+id: 682ef87a-5176-4eb8-b004-5ac04e09fa23
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - bnyh
+  - btuadddglezgnodt3l3llo2ketpjmxfaqpycd3ilmnnl7b1kdd973hh7bz6pstml
+  - >-
+    kz5pdveeovuvc2jeysdkelhyy2ykes7asszpmtjvrbcsbdkuhx1gturmaxemrhhkzdf18x6bzst4dpfjnshtj0gkpfkm2
+  - >-
+    z7no6fa9cty9ohg6o7dowki5bjp2gus9lmocigzbqursy4jwk6h2wrrh1gevjvhegckcbfqpcxsfnnrxnaigt
+  - ejo6yiwnwmadn52gwcfisoqyvhqgs3ggezrvolyykrzh
+---
+# bnYh/bTuadDdglEzgNOdt3l3LlO2kETPjmxfAQpYCd3IlmNNl7b1KDd973Hh7bz6PSTMl+Kz5pDveeov
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 17761 (chunk 17761/18928)
+
+## Content
+bnYh/bTuadDdglEzgNOdt3l3LlO2kETPjmxfAQpYCd3IlmNNl7b1KDd973Hh7bz6PSTMl+Kz5pDveeovuvC2JEySDKELhYY2yKEs7assZpMTJVRBCsbdKUHX1gTURMAXEmRhhkZDF18x6bZst4dPFJNsHtj0gkpfkM2/z7NO6fA9cTy9ohG6o7DoWKI5BJp2gUS9LmoCiGzbQuRsy4jWk6H2wrrH1GEVjVHEGCKCbFqPCxSfNNrXnaIgT+eJo6YIWnWMADN52gWcFiSOQyvhQGs3gGEzrvolyYKRzH/U0kR0c0MwQ6wZ3aBnvML21hrUQJiuJINpKB1dwM2PhjYMXUAJ8aUbWQx6fOUUHBibPAv/ehS0MjIkg5JAzSOMKMZSGKjEw0zXVFF2ks1jMngNviBRNs9CXmMEFoD6waWjnC1NXTr2/lK6af5b1S5sV5Ii67js4vpcsBuXRkI7tGBULhF3+aAxaAvGVbns/RoFyZwtTdTnVG2rUNEHQBuhC2hhey9EFoMeX4svODA2eRb+OmxbD0lrFvBubzaPMKIYSyFeYgbZrqlGk62TbB6sekGrL8iOtc/zbGk6sIut5yDs9/Kubj090AesoGPvpmWPnI6oVccIYNhfdkOoBhnfbgd9utCCSXfejKtpSbKQJHO2NFEfq51uF+pcDFFZaLpd/dYszrsSo8QxrdsefHpPANt0ibI39x/KmRYq9QgNjgymleKx6vWj7371PC+M/x1gf//drzl8hmDa6s2f0dHVihdKAI5UKoSeAXFfunVWIdgoCpoMqmk40qIPGBgYfNHTyjYIg1X3DtpskcXg63DQax0C0e1qQJXWWJsuRNE0dNFvKjHN5GY4C3EZqMDMJENcvTgd12oImO3Oe5AQAtKdg6IMxih6GVEhMORuUaZdqOpjRr1CvCSPEj2aNkV+77vefNnLn/+al7/gYx98N7H24J+TpYmc077vr96cUSwDufzdjh3re9/1FxnjZTuT1YgJORWIVwCvfcULVeJoS03StYaYTvTr7mhA4sqsXhei09UaWvQtIBPRtg/GuC/ds6Vp/YSdq2rdFMAc6qIfMIIj9C4TDD7tIAQwUIGZSaQaBBcNqAwxdH/el6YcxTlOL7v05GCkDl2NnvnqLa9CV2aodlcPWNrNw0eSCCJx70BtneXey8jtqwyt7q2flWjSCusop/RbS5Ne
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

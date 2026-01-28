@@ -1,0 +1,26 @@
+{
+  "id": "439a7559-d03d-48f4-a1b0-ccc2d6f5f9b8",
+  "type": "insight",
+  "timestamp": "2025-10-31T05:18:03.000Z",
+  "title": "<div>- Makes it easier for teams to understand which commandments guide specific",
+  "content": "<div>- Makes it easier for teams to understand which commandments guide specific decisions</div>\n<div><br></div>\n<div>### Include Metrics or Observability</div>\n<div>- Add a principle around observability: &quotTrack and communicate the health and adoption of org-wide processes&quot</div>\n<div>- Ensure feedback loops exist so teams can report what's working and what isn't</div>\n<div><br></div>\n<div>### Strengthen the &quotRegular Review&quot Process</div>\n<div>- Define &quotregularly&quot more specifically (e.g., quarterly reviews, annual deep-dive)</div>\n<div>- Establish who owns this review process (maintainers, steering committee, etc.)</div>\n<div>- Create a template for &quotLessons Learned&quot documentation</div>\n<div><br></div>\n<div>### Link to Enforcement</div>\n<div>- Reference how these principles will be enforced in issue templates, PR reviews, and automation</div>\n<div>- Add a note: &quotWhen decisions conflict with these commandments, reference the specific principle in discussions&quot</div>\n<div><br></div>\n<div>These additions would make the commandments not just aspirational, but operational—with clear mechanisms for versioning, deprecation, and evolution.</div>\n<div><br></div>",
+  "context": "From document: :Based on the pull request at https://github.com/ivi374forivi/petasum… — chunk 18 (chunk 18/19)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "340e0116e55214c41c8027f95c1fba8f",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "commandments",
+    "these",
+    "teams",
+    "specific"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,37 @@
+---
+id: 02decfe7-4ad0-4eeb-9286-d01588e18d20
+type: insight
+created: '2017-05-15T14:34:50.000Z'
+document: 4fedc87691347f45d4055d6de41d7d33
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: programming
+keywords:
+  - style
+  - border
+  - width
+  - span
+  - valign
+---
+# <tr><td valign="top" style="border-style: solid; border-width: 1.0px 1.0px 1.0px
+
+## Context
+From document: KEEPER — chunk 2 (chunk 2/5)
+
+## Content
+<tr><td valign="top" style="border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px"><div><span style="font-size: 16px">CODE 2</span></div>
+</td><td valign="top" style="border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px"><div><span style="font-size: 16px">819 059 772</span></div>
+</td></tr>
+<tr><td valign="top" style="border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px"><div><span style="font-size: 16px">CODE 3</span></div>
+</td><td valign="top" style="border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px"><div><span style="font-size: 16px">753 509 851</span></div>
+</td></tr>
+<tr><td valign="top" style="border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px"><div><span style="font-size: 16px">CODE 4</span></div>
+</td><td valign="top" style="border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px"><div><span style="font-size: 16px">674 104 724</span></div>
+
+
+
+---
+*Source: Document 4fedc87691347f45d4055d6de41d7d33*

@@ -1,0 +1,26 @@
+{
+  "id": "50ae9791-88db-4972-a7a3-7e172a5c9515",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>8.2 Example Event: Session End</div>\n<div><br></div>\n<div>Trigger: a creative or technical session completes.</div>\n<div><br></div>\n<div>$AUTOMATION_ENGINE should:</div>\n<div><br></div>\n<div>Bundle the raw conversation or notes into a session log under $ARCHIVE_ROOT/sessions.</div>\n<div>Call a summarization prompt under $PROMPT_ROOT/analysis to produce a CONTINUITY-ARCHIVE-LOG artifact.</div>\n<div>Update $ARCHIVE_ROOT/meta/index_sessions.tsv.</div>\n<div>If new worlds, characters, or specs were created, ensure their indices are updated and cross-links recorded in SEALs.</div>\n<div><br></div>\n<div>8.3 Example Event: Naming Pattern Update</div>\n<div><br></div>\n<div>Trigger: a SYSTEM-layer decision modifies the naming grammar.</div>\n<div><br></div>\n<div>$AUTOMATION_ENGINE should:</div>\n<div><br></div>\n<div>Ensure the change is captured as a new SYSTEM-META-SPEC artifact in $ARCHIVE_ROOT/specs and mirrored in $OS_ROOT/specs.</div>\n<div>Run a check across $PROMPT_ROOT to patch prompt templates that reference outdated naming rules, via an automated refactor workflow implemented in os-foundation.</div>\n<div>Emit a continuity log explaining the change and its wave association.</div>",
+  "context": "From document: 0.\tPreamble and Scope — chunk 26 (chunk 26/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "b3360b527d494aeb150b316c90472eb0",
+  "relatedUnits": [],
+  "keywords": [
+    "session",
+    "archive_root",
+    "specs",
+    "naming",
+    "example"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

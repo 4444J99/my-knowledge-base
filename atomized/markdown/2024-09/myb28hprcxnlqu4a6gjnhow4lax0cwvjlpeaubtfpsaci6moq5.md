@@ -1,0 +1,31 @@
+---
+id: b0de1105-dcad-41ce-a522-591599dc3112
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    myb28hprcxnlqu4a6gjnhow4lax0cwvjlpeaubtfpsaci6moq5xot3imea5aoga5ylk52b1vpai7fhovn0gnofciuo6neq7lie5wbkhqz1q69ngzdwnhwo7oqkgzchd297jz3sqjbs2dfq4lm23lqr01drqhopfogbywnag8lw9nj7fgwjpp5odipkvdczh3
+  - xyxhu2m6aza9r3x4vcf6ooa7rzurqvumu7ovxrbpwctnennzg3f4xq6gddhuwzda1v6oqa8nvene
+  - ma60w
+  - 1c0j0d
+  - n0unquhefcozzaumnhentsuaio
+---
+# MYB28hPRcXNLqu4A6gjnhOW4laX0cwVjLpeaubTFpSAcI6moq5xOt3IMEA5aOgA5YLk52B1vpai7fHov
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 4478 (chunk 4478/11534)
+
+## Content
+MYB28hPRcXNLqu4A6gjnhOW4laX0cwVjLpeaubTFpSAcI6moq5xOt3IMEA5aOgA5YLk52B1vpai7fHovn0gnOFciuo6NEq7LiE5wbkhQZ1q69nGzdwnhWo7oqKgzCHd297jZ3sqjbS2Dfq4lm23LQR01drQHOpfOgBywnAG8LW9NJ7fgWjpp5oDipKVDCzh3+xYxHu2M6Aza9R3X4Vcf6OoA7RzUrQvUmU7OVXRBPwctnennZg3F4XQ6gDdhuWzDA1v6OQA8nVenE+mA60w/Vy/1c0J0d/N0unQuHeFcoZZaumnHeNTSuaIO+A1aOujqfOvLwnV10s8Jzk3j377VCOE6DuTMs+Key1TUzeHXemI5qOvMpooONnphZ6UdtrsEeAO0MyDXNiDnurplevZ8G0ziuqClaxlgy1o6wjl6iOWqoE6bYUZQZ3/OAcJJUQc7n0vXph8tgJz5B1TLJXUd/hCF0s56B94K18HvQC5BO/mF6ITuaJdauubAQBpaxaDNWM7sPjFeLwC8RgXUYew5ojuAOixJJFxnMVDaLcDTJ6jr0W7IVqTFXKgzkr0X6gRv9TMAaY7l6oRwdYNqF3o8xy7aPferF3Mhm4G3FGMLIoVlQAsbGdS7lWIcv2lUQnE2Sna9AufWCOpmuQglWyjOcjI+QTuCtIL4LbXrXNor0V1xRvgNeRzCVSMVz2U1x3jBdlCHsVj4UyRa2LYsi+ulHf25Ny8vstdxXa4BS5PM4AvZGpXHYpl+KmXOC9nyaN4Q6ZVwmZijUmbG+/K3xcuf4Fy5rC9PWIIHosi9vgTvvcpvORN+c2UVPKhZLceWeAz+tYTBKvgh5eQoXkUFNHo2jFXmVJVmlxLOR+V5M1wJ9TNP4TXYPWGdOds6VXTKkPMAkOR5b9Q/dsdwl3T3Mp7J9+3G/ce90vtf92Syze/MBMP0Pp94/+vTET6V+PwSs3m8kNuWfTr0BCg/sx5ZKKe1UBKzEocZGmUZCo5SZGrlt3j3hArxLE0YD883y5NGCdvouRRsjo3gTfH+LPLnZ5kn+eVZSE8tV0Lzn1noOZyvWnVqXrUcG5+fvOoEsXLm+HxGTpsLkJLPedkxp3k6AX3J7vgoxdtVy5MiNQot5lpnhtmcP8XkenIN4e6V3y9jvcpp+b1yR2LMXyIxnzddnTJrFG0fpWzRA1toTWBM37aYC/kF0mBP
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

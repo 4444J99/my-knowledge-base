@@ -1,0 +1,32 @@
+---
+id: b9d24f7c-44f2-4d19-aa79-aa72a50eb1f3
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ia4gqsfzitt0v2ivlew25f
+  - >-
+    yqrdkwyltwjhszo9gbletfgeqdtcjpaprjfobscfi0hwczj1bs0itlzjidd7kwbgj61jcxfgtokkkzxb7ferb65szbqdkhhfe1oqepw0kygabrp2wz4y
+  - >-
+    hvfs9kwvo6zg9bdfvdyhvsdxxvsqrp9joc2arez7at3om6bmafcyujzjhgkn9avka6hebsdpvcru66xptjsc07xf1ylpwrrqdgsgustoqyoy6rh8obedrwfijkjrx4i
+  - k2vbusqm8hdim7carqpenu8dk4easzoy11hy6bmhpq6qayfjagwr545kd8icpihizzkg
+  - pe9rkzz3b
+---
+# Ia4GQSfZItt0V2IvlEW25F/YqRdKwYLTWJHSZo9GBlETfgEqDtcJpAPrJFObScFi0hWczj1bS0ItlzJi
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 6133 (chunk 6133/18928)
+
+## Content
+Ia4GQSfZItt0V2IvlEW25F/YqRdKwYLTWJHSZo9GBlETfgEqDtcJpAPrJFObScFi0hWczj1bS0ItlzJiDD7kwBgJ61jCXfgtoKkkzxB7ferb65sZBQDkhHFe1oqEPw0KYGabrp2wz4y/+HvfS9KwVo6Zg9BdFvDYHvsDXXvSqRp9joc2Arez7aT3om6bMAFcYUjZJHGKN9aVKa6heBsdpvCru66XptJSc07Xf1YLPWrrqDGsgUstOQYOy6rh8OBeDrwFIJKJRX4I+K2VBuSQm8HDim7CArqpeNu8dK4EAszOy11Hy6bMHpQ6qAYFjAgwr545kd8ICPiHIZZkg/pE9RkzZ3b/CzsLtpNfCxT+bw68eY+YyZC1uRqsBOhSc/HFHkYI8MTI633NpsV0YUVzP8c03di6XOY5uKVzYdhl7d6LkQ2/uXwjH+JAX90/MQIoeu211/L+utw83MwxppvQufH1zpLiSRLlF9FICvxJ8iZVTE2TnaRieiElAW+ilrYv1lFAsoYJNQT/8R//EerCJZU27vd1q8eYxgK1HbmVNfHYoRjND6evn+zf6z1D1qT+w6unvZ+ghKlptmKpDGdqTONVEWvhB012K3PdK/y+fuWQjkbc5KKsCxu6eMDEIdgQszB4m5gUCybgGdDeaEUop6PxrgknFr5aSlLxaKL2AiW0TNcUOFRk14F3aVsPpS2+DWzvN7LfxaMTE683zWOkXLezTkw8pANRIJ0S1i7Z7oXc9Xus2qqhiAXQgJi6lmy39a5y3ZTE77YXD8sTKKJ5aSaxdlmBEjZ6ubbVOFsPItkgC1NaPN1i2TRxWsKsUsWvu+inL9yIxdwFSnIjJBNMw6kF/hYssKCsYfmjqzes3fz5Zy3r9dVvvfIt63289rOf6X39vKXlX7/x8ivf+27z6k2Vc+qfePxzW7du0ccmdGkWICuBFzrCPP1APRydf2q2Hriv2FVMpKd909WhUQFFYi9KB+dg21GYasOHdlJuUSLXKi4zWNrtbAuiN7qG1h7KdF2HPI90R6nfRoHBtk8bTduQMcrA8OJ4EGiv9PnDBoD1vmzImQDO4118Dw6EHOR0fScdzhAHeBPDQb5W0U7xBRxqQ++/J+mDbTXVVvOforqjbpSr12cJHoML0D0kBdGdou4y0pDiIO0nW3EDDOu9A2l79KLZEA8HP/PwaRa3FhW22Axe
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

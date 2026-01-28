@@ -1,0 +1,26 @@
+{
+  "id": "8868c38f-b44a-4267-b165-ba54e2a6125f",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div>}</div>",
+  "content": "<div>}</div>\n<div>```</div>\n<div>Then disable one provider’s inline suggestions at a time (settings or extension command palette).</div>\n<div><br></div>\n<div>**Reduce Background Churn**</div>\n<div>- Disable auto-refresh/telemetry where possible:</div>\n<div>  - `&quoteditor.aiStats.enabled&quot: false`</div>\n<div>  - Turn off any experimental share features not needed: `&quotworkbench.experimental.share.enabled&quot: false`</div>\n<div>- Remove duplicate old versions of Pylance / debugpy folders (safe cleanup already outlined).</div>\n<div><br></div>\n<div>**Neovim Stability While Keeping AI**</div>\n<div>In `init.lua` (outside workspace):</div>\n<div>```lua</div>\n<div>if vim.g.vscode then</div>\n<div>  -- Keep only lightweight VSCode-specific mappings</div>\n<div>end</div>\n<div>```</div>\n<div>Disable heavy Neovim plugins that duplicate AI (e.g., cmp copilot) to avoid double suggestion overlay.</div>\n<div><br></div>\n<div>**Quick Commands To Toggle AI Without Uninstall**</div>\n<div>```bash</div>\n<div># Disable (instead of uninstall) one extension temporarily</div>\n<div>code-insiders --disable-extension openai.chatgpt</div>\n<div>code-insiders --enable-extension openai.chatgpt</div>\n<div>```</div>",
+  "context": "From document: User: fix — chunk 36 (chunk 36/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "disable",
+    "extension",
+    "then",
+    "enabled",
+    "quot"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

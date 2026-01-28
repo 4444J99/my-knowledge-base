@@ -1,0 +1,25 @@
+{
+  "id": "7e13ec72-3857-4c0b-90ab-8ce94dd65788",
+  "type": "insight",
+  "timestamp": "2019-08-09T13:42:04.000Z",
+  "title": "<div>Weekend at Artie’s</div>",
+  "content": "<div>Weekend at Artie’s</div>\n<div>Weekend with Harvey</div>",
+  "context": "From document: Weekend at Artie’s",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f9299b3f8f2cac06a80a265793067c2e",
+  "relatedUnits": [],
+  "keywords": [
+    "weekend",
+    "artie",
+    "with",
+    "harvey"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

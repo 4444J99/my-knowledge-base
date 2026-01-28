@@ -1,0 +1,26 @@
+{
+  "id": "25e4f8e1-36d9-4ce6-a8f5-c4e37c512e35",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>    │   ├── priority-1-archive-resurrections.json</div>",
+  "content": "<div>    │   ├── priority-1-archive-resurrections.json</div>\n<div>    │   ├── priority-2-ai-context-implementations.json</div>\n<div>    │   └── priority-3-personal-graduations.json</div>\n<div>    └── feedback-loops/</div>\n<div>        ├── insights-for-ai-layer/</div>\n<div>        └── archive-resurface-queue/</div>\n<div>```</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **IMMEDIATE ACTION ITEMS**</div>\n<div><br></div>\n<div>### **Phase 1: Create Foundation (Week 1)**</div>\n<div><br></div>\n<div>1. **Create `primordial-synthesis-engine` in ivi374forivi org**</div>\n<div>2. **Build personal repo analyzer:**</div>\n<div>   - Scan all 35 repos</div>\n<div>   - Extract READMEs, code patterns</div>\n<div>   - Generate cluster analysis</div>\n<div>3. **Aggregate existing AI contexts:**</div>\n<div>   - Use `chatgpt-exporter` to pull conversations</div>\n<div>   - Create unified context database</div>\n<div><br></div>\n<div>### **Phase 2: Connect Archive (Week 2)**</div>\n<div><br></div>\n<div>4. **Build archive intake system:**</div>\n<div>   - iCloud/Dropbox scanner</div>\n<div>   - File cataloging with checksums</div>\n<div>   - Metadata extraction</div>\n<div>5. **Process archive content:**</div>",
+  "context": "From document: Contents_Table — chunk 68 (chunk 68/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "archive",
+    "priority",
+    "json",
+    "create",
+    "context"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: f3cfea2d-4ee4-43d1-b1d3-b8409b24e128
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - gssueztwvz
+  - iwy7xzvu3jqbdew0grclbir1hkpmrp9gkvpksj2eavk40eepmyxq2pozphub
+  - >-
+    mplkejkrzjaelznfhlfllsqgx5oycwqp7h1hbgmhlvznkzikysok0nozdxcphbf8r6qhr5pzejyaoswcnb
+  - >-
+    ed44ynek1rxe387emla5hpk5kxtxdr0qhqkgxc2zbukrnqjlt2pk9kovrwqazlyoamr0tp1ynozhtlysy3i1u5goai0qq0l1kyktssaeids9rawaqcqo2ywpyysenutpopmlwkrnarv3ypsjhuwhghbfojofsuynpqjmlucyk6xc1e1o7zpjt
+  - k5aajlmyqdo
+---
+# gssueZtWvZ+iwY7xzvu3jqbdew0GrClBIr1HKpmrp9GKVpksj2EAVk40EEpmYXQ2pozPhUb+MplkEjKr
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 17853 (chunk 17853/18928)
+
+## Content
+gssueZtWvZ+iwY7xzvu3jqbdew0GrClBIr1HKpmrp9GKVpksj2EAVk40EEpmYXQ2pozPhUb+MplkEjKrzjAeLznfhLfLLsQgx5oYcwqP7H1hBgmHLvZNKzIkysok0nOZDXcpHbF8R6qHR5PZEJyAOSWcNb/ed44yNEk1RXE387eMla5HpK5kxtXdR0QHQkgXc2ZBUKrNQJLt2Pk9kOVRWQAzlyOAMR0TP1YnOZHTlYsy3I1u5GOAI0qQ0l1kYKtssAEIds9RAwaQCQO2ywpYySeNutPopMlwKRNarV3ypsJHUwHGHBFOJOFSuyNPqjmlUcYk6Xc1e1o7ZpJT/k5AAjlMyQDo/GPt7UjGUUMUZ7UFHUcT3yWUvl11J+MLJV0cU2OYBPidqk27UgezkEfg3XHkE4agJADz5DsBElm5tViuQDIgG+/5Rd+RY3RdGdUegP76lV6TTIalHPNiANFJzzDXBxeDVwGXdBSG7gX9T50sFnIhxrcdwMCrJMrTe2m8moIp01jlhY9C5ELfYdqUZ+mTBGQPnQsiNh5R7FWZR1x81fY53r/q63lYX1bcXTe/gb6yiOb1r3yx2SZ+usUZS5ZYu+jjexeve+WLd1H2QZWG+c0Mm2edTLASwi4gj9u2h5k1T4FJtrnOeo4CJj8RyYFAZR0rZBc6VhT8/pBqB4u66Qgwlf5Qk0LpQYugvcJtaZFST6bf/nLs9ucrT0dhyGQXiCNseyVmRNBKlvv97n0HEuATb5um5FOP/LN//Ievf+GKq6/6wcQpa/nSRjIQJo9+nl3f7fzK5z7+L1d+n9J13/ByodYoUInhm1/6pD73g1+tflyNEenvpcEkLfLWtjprLF/7whX1c/HjzttsZwtjpf1U31D9RkuDiPL69Mc+4DRq4+z/1r3TtiptyVxz1be/+hm81Nav6HH+xDmjiH/4+78NRg9g97zLrZH1vkmmqsXPq4X+chUAT2gcZUQET8JqFe4rn/3YT7//jVzAzg0YLkwWue0mWnm2ucMLgOWOHy8e1KQRbi9yMMtFyejn5X783a/hbv3EKWtd47hrbO3V+uorf/mzH2lSvtpW16aPpeVXUwnMo57QejHHkyTRca8cfIsQM8IPTxQm1nw6SoYfpVrPjmRWeJ4DogJpoXfNf/WV+ksEUtWbL0Uy8pGLYuma8qGAnlnzF6xd+gOWr33hEyra
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

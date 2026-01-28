@@ -1,0 +1,26 @@
+{
+  "id": "5d0f16ac-ac4a-4308-8e89-9d35fbe471d0",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>**Output:** Complete knowledge graph showing connections across all layers, plus actionable triage recommendations.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **The Name: &quotTribunal&quot**</div>\n<div><br></div>\n<div>Brilliant choice - it's not just archaeology, it's **judgment**. The tribunal will:</div>\n<div>- **Investigate** what you have (archaeology)</div>\n<div>- **Judge** what's valuable (triage)</div>\n<div>- **Sentence** each item (graduate/mine/archive/delete)</div>\n<div>- **Execute** the plan (migration recommendations)</div>\n<div><br></div>\n<div>This is your `solve-et-coagula` in action - dissolving the chaos to reveal what deserves to coagulate into your organized system.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **Current State:**</div>\n<div><br></div>\n<div>The Copilot coding agent has initialized the work and created a comprehensive implementation plan. The PR is in **draft state**, meaning it's a work-in-progress that you can review and guide as the implementation proceeds.</div>\n<div><br></div>\n<div>**The foundation is laid. The archaeological dig has officially begun.**</div>\n<div><br></div>\n<div>Your cognitive ecosystem mapping project now has its first systematic tool - the one that will tell you what treasures lie buried in your four-layer chaos.</div>",
+  "context": "From document: Contents_Table — chunk 103 (chunk 103/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "what",
+    "your",
+    "triage",
+    "recommendations",
+    "archaeology"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: fa3a46c5-4a2b-480b-8e7d-2fcfc2bceae6
+type: insight
+created: '2017-10-19T23:15:11.000Z'
+document: 18dc3a996dd053a8e2f8b89fa16c3840
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - sywny2l
+  - >-
+    4wofawyhuqotg8sdneyjstfadj7pn3zavpoxw8iqwhyk8gkjabire6brcyhulystfxgoqchlk7ftavppknuhqfzb8zlnw0tzegoyfuoridvrfv5xqihq1n9g6qmjrrjk2ns0ktp
+  - gtapa791qlrapqbnrfsiwpvgmohnf
+  - >-
+    drtbbex25wma8kyrakqpmjrkbdefisoyy3rgtjd3uqtc3nzfht1apvrg0mgdqialidyqzaepafd06vdyd6lqwawlt0tgq7kzvg21ysk7q88p4gzarqpngqtiko1wgiaufrz7dj4x2twmfhdmkxg5e61pcibwcuj04lcshi3z57ndn7fttoelq3av9a6lqb0hi3pwq8bxzejqzx
+  - v0azqdyfodftuzdex2af
+---
+# sYWNY2L/4wofawyHuqotG8sdNeYJSTFadj7Pn3zavpoxW8iqwHyK8gKjAbIrE6BRcyhULYSTfXGOQChL
+
+## Context
+From document: L-day IN A CHAR — chunk 348 (chunk 348/966)
+
+## Content
+sYWNY2L/4wofawyHuqotG8sdNeYJSTFadj7Pn3zavpoxW8iqwHyK8gKjAbIrE6BRcyhULYSTfXGOQChLK7FTAvpPKNuhQfZB8zLnW0TZEgOyFUoRIDVRfv5xqiHQ1N9g6QmjRRjk2NS0KTp/GTapa791qlrApqbnrFSIWpvGmoHnf+dRTbBEx25WMA8KYRaKqPMjRkBDEfIsOyY3rgTJd3uqtC3nZfht1apVRg0mgDQIALIdyQzAepAfd06VDYD6lqwAwLT0tGQ7KZvG21Ysk7Q88P4GzARQpNgqtiKo1wGIAUFRZ7dJ4X2TwMfHdmKXg5e61PciBwCuJ04LCsHi3z57nDn7FtToeLq3aV9A6lqB0Hi3pwq8BXzEJqZX/v0AzQDYFOdFtUzDEx2AF/AX4BX1OAVTg4KkEadiR5EOUA1Y394TsSsUPjz+AXWfKo/ZPQt1kDMaAD5zAVRP1LEAbskkAHQGzMb/HOC9u4/3AqrrgABYdzg4PmAxoCnjZx/U2IwRu5mhjVhCWDA+wHKU5mFj/9BihXmzDc8RI0gCAHjenxybMUAYAOC3Kw2FOBCv0rHsQ22GYBz0B4Adtv0Cf7ECAnymXwrgcs6YP5kVzIO4AcjjUc9jCJRlBfKIlxqf84ByndgnxgdZAdRIwC6GYzI/CBL+5jzsUuwgPF6rDOZxAgspveUoCL2hSlkEWkvMFS9/QOr7tw3aFUUo2gHLZemlcw3JtFf+/ONEhtSdClTzzAeVP5keHCs7bdDuKIO4UKaDjrGsKOr2h/yAzAHk5j/Gz7ypBYFKn7oDn5LaflN1QMYQB4gjrJ8gtpgb4z/SxPkOCAfWEmRLsmyDGDvj4P0Rp2NhbQRpQN2CIJaQOEGNBdbu7Lyo/UrZCGQCcO4oAPzk7phdWyKyScdeNEEFzXWOIGWIw1GRAWRrOEJKMXtD44Qcu1axYp3dLkLjqXKsssjeCF5jfIz5M7ODgr5v1QbZO5AhWC6xdhxJdXpZxL+zPMJl8qH+5noE6cj3Lq5LNARie/fudd+l+K7E35DbM2fOtC1btjhyIC8zqgLfwfbsx/MUMy8rK7NbF+baumizpTcM2KyCVFdXgXPvm4+Aj4CPwOUUAX38+OYj4CPgIzD8CGAZ8OSTT9r1119vy5bpS9xH3FB1oPLgho2bPorS1Smtkxu7D9oA8vkSGxICF9ofhAEg
+
+
+
+---
+*Source: Document 18dc3a996dd053a8e2f8b89fa16c3840*

@@ -1,0 +1,32 @@
+---
+id: 0d75ba85-8e86-46a9-a8f5-ecba801d31b9
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 2vfo3
+  - >-
+    s3zv2qfbr934v6o9dq5unvucrgfybrqjabbqkabxqkqbvqkuavggtaloftapofdaqofvaq4bwaa0cwgw0cmgv0cqgvucrgfybrqjabbqkabxqkqbv4p
+  - >-
+    3fahi9f6r0ezswulnj5euekmfb84jjgkgokv6faeagnqd12idknbgceobj6ed21prc3szddk6gwd6zmtijha8pxbkzfzsz8nyjh2efow6m3oc88dxo0jxhglah9lg0i8hqx1czapnmbskfe8f6ktspcsa9jwa8
+  - ymy0ahoh58y07wr6szvbpr03vt1rm6dvb9e3wqj6a8abkp9q
+  - qxl5akucbjihpg
+---
+# jI/2vfO3/L/S3zv2qfbR934V6O9dQ5unVUCrgFYBrQJaBbQKaBXQKqBVQKuAVgGtAloFtApoFdAqoFVA
+
+## Context
+From document: New Note — chunk 849 (chunk 849/8096)
+
+## Content
+jI/2vfO3/L/S3zv2qfbR934V6O9dQ5unVUCrgFYBrQJaBbQKaBXQKqBVQKuAVgGtAloFtApoFdAqoFVAq4BWAa0CWgW0CmgV0CqgVUCrgFYBrQJaBbQKaBXQKqBV4P/3FahI9f6r0EZSwUlNj5EUekmfb84JjGkGOkv6fAeAGnQd12IdkNBgCEoBj6eD21Prc3SZddk6gwD6ZmtIJhA8pxbkzFzSz8NyJH2efoW6m3OC88Dxo0jxHglaH9lg0I8hqX1cZapnmbSKFE8F6KtSPCsA9jWA8/YmY0AHOH58Y07wr6szvBpr03Vt1Rm6DvB9e3WqJ6A8aBKp9q+QxL5AkucbjIHPg+tJEtdP5RmfB9Gvkkb6PcDdb84Ex6CN0gDtr4Dd5ynYnhO0XNLgmbeIxPvld/G7SpwXQM+4ldJYey3j1ziv5QiSX1GV7r1MmoB6Sannc6+T9HqQ/uIGg99SSbiXtYH4C6vSfBbWZevnN1uDZwHhpzTlBMyQNHpeVJgC3H+i2Rz+65oM/xm1Wf5TqNO/16T7TaxO0/FZAp8g+fwxAfSSQN9qGTi60RBcTYp5NddlJOFXt+UONitAD6IXQA/itgLizU28xACQNzRZwwwC6CcoQP9gWptjYGqTNTRVfkWAsUkC2KXJvzFz7uF5oH6UJMg3kyb/t/yRyAsY0n46R9aQ71ZNtj5avm+C8wXpC9YXvF+f458Egk8RQF+Z4Z0BRs8EwmdXZvkagfWmslQfK+nzNkmgb7aGFrTbB41qsz8wpskS+lhZilcxae+PSQI9L3BUNphC6mqyAmor0kjmzwDQ830iYX4CCfZPNFnDn6rK9P8V0P4prv8dLP57XhB4hl9MmAion8z55KoM3bPA9j9VZ/JdMoXMJMF/Ji+AzKw2BMypyNDN4dnmA/cXU9fFTeYQfm0gjCR6/2VVWX7LSaJfWZbivXZckut6SaAnPX/T2Ph+b49Nct0qgL4yU7elJMn93dJUz20lyR7vlaV6vDcuxeMDkPoH5Rm698vSfD8kpf0j2seqJXkqPC+AnnR4BejB7J/SPitJ0+0EwH8OtJcEekH0fyYV/itA/TdgeGnfgtN3K0BvDCaJPnwv98DzQXvB8fukMed72n7WEDAPpA+WpPlDXB9k7cNAd0mdP0Jq/WH6DjPmMGOO8CzHxiZ5nADK/0AS/jHB88w7XhTncqoQ
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

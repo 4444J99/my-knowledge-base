@@ -1,0 +1,30 @@
+---
+id: 378017ea-0dab-4f23-9d2b-5a718dd55309
+type: insight
+created: '2021-12-24T02:37:43.000Z'
+document: 8c92f15912082fa7b1c83f8694d6f48f
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - y2t6rpkethcy20otolt41j3xsrbciurnnaota
+  - zj9sp8azy
+  - l3xs
+  - bvwi8h
+  - drw3de634ytyo9ujfza2
+---
+# zw9/Y2t6rpkEthcy20otoLt41j3xsrbcIuRnnAoTA/Zj9sP8AZY+L3xS+Bvwi8H/Drw3De634YtYo9Uj
+
+## Context
+From document: Daniel’s Christmas Booze Drink — chunk 164 (chunk 164/376)
+
+## Content
+zw9/Y2t6rpkEthcy20otoLt41j3xsrbcIuRnnAoTA/Zj9sP8AZY+L3xS+Bvwi8H/Drw3De634YtYo9UjFza2/lutnDER5ksiK/wA6sPlLevSvwg8YeEte8B+KdV8F+KbcWmr6JcyWl3CHSQRzRNtdd8ZZWwR1Ukehr9nv29PiL8QfC/7OPwL1fwz4n1TSL/U7OFru4s72e3muGNhAxMrxurOSxJ+Ynkk9a/P/APY0+G0f7Qf7T+haZ48lk1izEk+r6o11I0sl0tspk2ys5LP5spRXyclS3OaI7AZ/wq/Yi/aT+MOhQeKfCnhRoNGulDwXd/NFZpMh5DRLKwkdD2dVKnsa4b4x/szfG34CGCX4neGZtNsrptkN7G6XNo7kEhPOhZlVyASEYhiATjHNffP7ZnxF/bF8cfFvWvC3w30Dxfo3gnw3cNY2KaPYX8EV19n+R7hpbdF81XcEx8lAm0qMksfbv2MLz44fGDwp41/Z0/an8O6/eeHdQ0tpbLUddsrmOWMh1jaH7TcIC8il0lhyxdCjEHAAUu9wPxr+E/wf+IPxv8VHwV8NNNXVdYFvJdeS08NuPKiKh23zuicFhxnNe1fDv9h39pP4m3OrQ+HfC4ig0S9udOubq7uYYLf7VaSGKaOJyx87Y6spaMMmQRuzX0N/wTT0O68M/thav4bviGudJ0zVrSUr0LwTxRtjPbK1yv7XP7X/AMY734y+LPA/gDxJeeD/AAv4Z1O80+3tdHlewMskE7ieeWSEq7vLNvc5OMEcZySN6gfBfinw5qng7xPq/hHXEWPUdDvLixuVRg6rPbSNFIAw4IDKcEda1fh98P8AxX8UvGOm+AfA9mNQ1zV3dLaAyxwh2RGkYb5WVBhVJ5I/OuZ1LUtQ1nUbrV9Xupb2+vpXnuJ53Mks0srFnkd2JZmZiSxJyScmp9F1zW/DeqQa34d1C40rUbUkw3NpK8E8ZIKkpJGQykgkHB6EiqA/e/x9+yx8Xta/YF8IfBbSfDcMnjvS7qGS6tftNqhVFuJ3Y/aDIIm+V16OeuO1fh58T/hf42+DnjG78A/EOwGma5ZJE8sCzRThVmQSId8LOhyrA8Nx35r9gvib8RfiDZf8Ex/AvjOz8T6pB4guryBZdRjvZ1vJFNzcqQ84fzGBCgct0A9K/LP4R+Htc/aG+PfhLwp4z1e81afxHqNtb3l3d3E
+
+
+
+---
+*Source: Document 8c92f15912082fa7b1c83f8694d6f48f*

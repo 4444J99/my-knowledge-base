@@ -1,0 +1,31 @@
+---
+id: bce1bb98-0edd-4932-85b9-140ac4f88da6
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    1hwed6wtfxpb7r0fuwnbd6tfmv3adbrga0hzzv4kefa6tabqtsbu1okdfc2qoywo0vcs9khvxyljreun0wpqbzv7gfkdzqd0vmqxcnoa6ttwlfzyilza9pkpffup4wr5angr7lhgeorpxod5yalv4xb9qphktgmfhwhyt25trxcy4nlkqbtjxwwd65zofocblbvqqfuc6uuxkvlll3zy6z1sstkputqv
+  - 0jljwxdpu5qo9jjlnxlpfgmp
+  - r7ved4uwhhzzc1sen
+  - rgd6bglh65dlvzxuqb4bitd
+  - pcryo8pwaubxoolqu33xuhwkpl8uwo4a61pplgivngg4b7kndni
+---
+# 2n+UA+g/1hwed6wtFXpB7R0FuwNbd6tfMV3Adbrga0HzZV4KeFa6TAbQtsBu1OkDfC2QOyWo0Vcs9KhV
+
+## Context
+From document: New Note — chunk 4914 (chunk 4914/8096)
+
+## Content
+2n+UA+g/1hwed6wtFXpB7R0FuwNbd6tfMV3Adbrga0HzZV4KeFa6TAbQtsBu1OkDfC2QOyWo0Vcs9KhVxYLJreUN0wPQBzV7gfkdZQD0VmqXcnoA6ttWLfZYILzA9pKPFfup4Wr5ANGr7LHGeoRpXOD5YALv4xB9QpHktgmFHwhyT25TrXCy4NlkQbTJXWWd65ZOFoCbLBVqQfUC6uUxKVLLl3zY6Z1SstKPutQv+0jljwXdPu5Qo9jjLnXLPFGMp+r7VED4UwHhzzC1Sen+rgD6BgLh65dLVZxUQb4Bitd+pcrYO8PwAUbXOoLqu33XuhWkPl8uwO4A61pPLgivNgG4B7KnDni+VeVCGdqfdIHnLwHqZcFr34PX9QkgfNd6FZ93q1/pOZC8QXnAeaVfal4vNS+uYQDolQ9tNAaAPgA9cw3QPWWaU7i2KgvQvq7bc13HNKn+p+GxdlWLpL5XpXBqG8HzgPNtqxUWbF88TfsUTPuWpvvguYDj56jx63pz6CI3rtq+0OGH9NZVCqZLyT5dv5aQzjp1j7+UGv3zNjnWqrpAdinDN6pUJFcZvkGloun1pRRft3LJ9BplCr8WGJ9ZtXTBzGqlC7+pIjAekLyC4POKgsqtOA88D1xevvD/lP0vKa//IwY8n1Ai7quXfCubdO2yBTMbVynxsllCaanOl3rRNKHUC8H0L/GNKpdIB5xvVKVohmD6V/XKFXoj9fpX9SoXfV23alx1vnq5AtmA84D0UsXPRmUe+DyhfJEsPAr0AUov/XaA6EurHigeUB4oHisloJ4ylN9RnAewL1HgP4K5vkTBv8ZKRQB6FOhZn9T4pTxfLLtu5eJZ71YtkdWweunMhtVLZUkhP0uQf3a9qtQVzQXogd/J165YKFat1Fsx4Hng+AqC6VHvR4m+8h8A+rgSvdYW2idoHRhq9jrYEKtfuXCssUB67VFMhw9ibeuWy+74bqXs9xtUzn6/YZXsjlKp17s0WAep1pPGf1C3bLbuy2zdp9k91BZ4XvdQAOEB4lGeR+39Q6m39xOM/lHTKrGeAs8B6gHoUZ7H6Ed7AHo9r7kQPir0VqDH06dPk6rBejYQgC+AHlAeD0CPyrwOzQTl+RxFfI1fKpTF4fqCsTaV31Z7xdWcAOh7SAkJBfrBbWrFUJ3vpzkCzmPA9OStQA9A/+G7KMwLtJahOA84D0iP
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

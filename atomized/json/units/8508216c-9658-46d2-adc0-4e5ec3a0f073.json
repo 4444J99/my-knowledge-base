@@ -1,0 +1,26 @@
+{
+  "id": "8508216c-9658-46d2-adc0-4e5ec3a0f073",
+  "type": "insight",
+  "timestamp": "2025-05-17T08:23:01.000Z",
+  "title": "<div><tt>Chrome &gt Settings &gt Sync &gt Open Tabs = ON</tt></div>",
+  "content": "<div><tt>Chrome &gt Settings &gt Sync &gt Open Tabs = ON</tt></div>\n<div><tt>  2.  On </tt><b><tt>desktop</tt></b><tt> Chrome:</tt></div>\n<div><tt>Go to chrome://history/syncedTabs</tt></div>\n<div><tt>View open tabs from iOS and manually export.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Chrome does </tt><b><tt>not</tt></b><tt> support batch export of open tabs directly. Use extensions like </tt><b><tt>OneTab</tt></b><tt> or copy-paste URLs manually.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>⸻</tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>[AA03] COMBINED AUTOMATION (Optional)</tt></b><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>iOS Shortcuts (Manual Build Needed)</tt></b><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt>You can use </tt><b><tt>Shortcuts</tt></b><tt> app to:</tt></div>\n<div><tt>  •  Loop through Safari tab URLs</tt></div>\n<div><tt>  •  Append them to a note or export as text</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Example logic:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Repeat with each Safari tab:</tt></div>\n<div><tt>  Get Tab URL</tt></div>\n<div><tt>  Add to text block</tt></div>\n<div><tt>Save as file or share</tt></div>\n<div><tt><br></tt></div>",
+  "context": "From document: SAFARI-CHROME_BOOKMARK-TAB_EXPORT — chunk 3 (chunk 3/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "337637d06af18a42ef605b725d4702be",
+  "relatedUnits": [],
+  "keywords": [
+    "chrome",
+    "open",
+    "tabs",
+    "export",
+    "manually"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

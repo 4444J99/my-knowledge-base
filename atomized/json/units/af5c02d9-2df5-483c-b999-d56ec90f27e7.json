@@ -1,0 +1,26 @@
+{
+  "id": "af5c02d9-2df5-483c-b999-d56ec90f27e7",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><h1>📌 Version 7.8 – Finalizing Absentee Consequences, Running from Skill Checks, Faction &amp Party Bonuses, and Betrayal Mechanics</h1></div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🚀</font> This iteration locks in mechanics for absences affecting the class, running from skill checks, faction/party buffs, and the legendary betrayal system.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 1. Absentee Mechanic – How an Absence Affects the Entire Class</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Now, when an absent student is selected at random, the rest of the class suffers a consequence or shift.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Absentee Effect Rolls (Triggered When an Absent Student Is Selected):</div>\n<div>  •  1-3 (Mild Effect): A small inconvenience—debuff to XP gain for that day.</div>\n<div>  •  4-6 (Moderate Effect): An environmental shift—a different setting is forced into play.</div>\n<div>  •  7-9 (Major Effect): A class-wide debuff, power-up disruption, or major rule shift.</div>\n<div>  •  10 (Severe Effect): A global game change—a curse is inflicted on the entire class.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 455 (chunk 455/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "class",
+    "effect",
+    "face",
+    "absentee"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

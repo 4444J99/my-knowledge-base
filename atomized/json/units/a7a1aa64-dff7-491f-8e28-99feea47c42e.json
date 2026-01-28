@@ -1,0 +1,26 @@
+{
+  "id": "a7a1aa64-dff7-491f-8e28-99feea47c42e",
+  "type": "insight",
+  "timestamp": "2025-05-17T08:23:01.000Z",
+  "title": "<div><b><tt>B. Backup Automation (Advanced Users)</tt></b><tt><br></tt></div>",
+  "content": "<div><b><tt>B. Backup Automation (Advanced Users)</tt></b><tt><br></tt></div>\n<div><tt>  •  </tt><b><tt>Shortcuts + iCloud Drive</tt></b><tt> for daily tab snapshots</tt></div>\n<div><tt>  •  Schedule exports via Mac + Automator</tt></div>\n<div><tt><br></tt></div>\n<div><tt>⸻</tt></div>\n<div><tt><br></tt></div>",
+  "context": "From document: SAFARI-CHROME_BOOKMARK-TAB_EXPORT — chunk 5 (chunk 5/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "337637d06af18a42ef605b725d4702be",
+  "relatedUnits": [],
+  "keywords": [
+    "backup",
+    "automation",
+    "advanced",
+    "users",
+    "shortcuts"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

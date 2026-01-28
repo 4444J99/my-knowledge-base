@@ -1,0 +1,30 @@
+---
+id: 36368dd5-491d-43f9-8165-08e7e19df876
+type: insight
+created: '2025-07-05T15:06:03.000Z'
+document: af0c0eec9b95a645ff4159ded0dae6bd
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: programming
+keywords:
+  - this
+  - function
+  - 7breturn
+  - rules
+  - 20this
+---
+# 22inlined%22,linkReferenceStyle:%22full%22,br:%22%20%20%22,preformattedCode:!1,b
+
+## Context
+From document: javascript:void%20(()=%3E%7Bvar%20S=(e,t)=%3E()=%3E(t%7C%7Ce((t=%7Bexports… — chunk 11 (chunk 11/16)
+
+## Content
+22inlined%22,linkReferenceStyle:%22full%22,br:%22%20%20%22,preformattedCode:!1,blankReplacement:function(r,n)%7Breturn%20n.isBlock?%22%5Cn%5Cn%22:%22%22%7D,keepReplacement:function(r,n)%7Breturn%20n.isBlock?%22%5Cn%5Cn%22+n.outerHTML+%22%5Cn%5Cn%22:n.outerHTML%7D,defaultReplacement:function(r,n)%7Breturn%20n.isBlock?%22%5Cn%5Cn%22+r+%22%5Cn%5Cn%22:r%7D%7D;this.options=Y(%7B%7D,t,e),this.rules=new%20P(this.options)%7Dv.prototype=%7Bturndown:function(e)%7Bif(!Ne(e))throw%20new%20TypeError(e+%22%20is%20not%20a%20string,%20or%20an%20element/document/fragment%20node.%22);if(e===%22%22)return%22%22;var%20t=M.call(this,new%20oe(e,this.options));return%20ge.call(this,t)%7D,use:function(e)%7Bif(Array.isArray(e))for(var%20t=0;t%3Ce.length;t++)this.use(e%5Bt%5D);else%20if(typeof%20e==%22function%22)e(this);else%20throw%20new%20TypeError(%22plugin%20must%20be%20a%20Function%20or%20an%20Array%20of%20Functions%22);return%20this%7D,addRule:function(e,t)%7Breturn%20this.rules.add(e,t),this%7D,keep:function(e)%7Breturn%20this.rules.keep(e),this%7D,remove:function(e)%7Breturn%20this.rules.remove(e),this%7D,escape:function(e)%7Breturn%20pe.reduce(function(t,r)%7Breturn%20t.replace(r%5B0%5D,r%5B1%5D)%
+
+
+
+---
+*Source: Document af0c0eec9b95a645ff4159ded0dae6bd*

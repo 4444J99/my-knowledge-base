@@ -1,0 +1,26 @@
+{
+  "id": "25acc5a3-f548-44d6-8e61-c0f297e18ad6",
+  "type": "insight",
+  "timestamp": "2022-09-03T19:18:47.000Z",
+  "title": "<div><h1>In a new soul</h1></div>",
+  "content": "<div><h1>In a new soul</h1></div>\n<div><br></div>\n<div>2022-09-04</div>\n<div>https://www.dropbox.com/s/rr0lxt22hte6669/in%20a%20new%20soul%20%282022-09-04%29.mp3?dl=0</div>\n<div><br></div>\n<div><br></div>\n<div>==== other ideas</div>\n<div>Fig A</div>\n<div>C | B | A | A</div>\n<div>C | B | A | A</div>\n<div>C | B | A | A</div>\n<div>C | B | G | A</div>\n<div><br></div>\n<div>Fig A. Octave higher</div>\n<div>Fig A. Octave Lower</div>\n<div>Fig A Octave Higher</div>\n<div><br></div>\n<div>Fig B</div>\n<div><br></div>\n<div>F G E E</div>\n<div>F G E E</div>\n<div><br></div>\n<div><br></div>\n<div>/////////</div>\n<div>C B A A</div>\n<div>C B G A</div>\n<div>F G E E</div>\n<div>F G DE C</div>\n<div><br></div>\n<div>A C E E</div>\n<div>A C E E</div>\n<div>D F A A</div>\n<div>D F A (B C A)</div>",
+  "context": "From document: In a new soul",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "7bc1e62d6f4bc844decf742f12ae8695",
+  "relatedUnits": [],
+  "keywords": [
+    "octave",
+    "higher",
+    "soul",
+    "2022",
+    "https"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

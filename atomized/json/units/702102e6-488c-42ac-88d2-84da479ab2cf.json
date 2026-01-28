@@ -1,0 +1,26 @@
+{
+  "id": "702102e6-488c-42ac-88d2-84da479ab2cf",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>- **Function implementation studies** - Testing what works</div>",
+  "content": "<div>- **Function implementation studies** - Testing what works</div>\n<div>- **Staging area** - Some seeds grow, some don't, all documented</div>\n<div><br></div>\n<div>### **Layer 3: Organization (ivi374forivi) - The Harvest/OS**</div>\n<div>- **23 production repositories** - The cultivated, intentional assemblies</div>\n<div>- **Your operating system** - Pieced together from successful experiments</div>\n<div>- **Multiple applications** - Each repo is a component of the whole</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **The Real Challenge: Seeds → Staging → Production Pipeline**</div>\n<div><br></div>\n<div>You have a **multi-generational, multi-platform knowledge ecosystem** that needs:</div>\n<div><br></div>\n<div>### **1. AI Context Consolidation (The Missing Layer)**</div>\n<div>Your knowledge bases contain:</div>\n<div>- Brainstorms that never made it to code</div>\n<div>- Refined ideas across different AI conversations</div>\n<div>- Evolution of concepts through multiple LLM sessions</div>\n<div>- Context that exists ONLY in conversational memory</div>\n<div><br></div>\n<div>**The Problem:** This layer has no version control, no git history, no persistence beyond chat logs.</div>",
+  "context": "From document: Contents_Table — chunk 22 (chunk 22/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "layer",
+    "that",
+    "staging",
+    "some",
+    "seeds"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

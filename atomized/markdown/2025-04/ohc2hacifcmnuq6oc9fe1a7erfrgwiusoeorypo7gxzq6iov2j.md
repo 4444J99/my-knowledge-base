@@ -1,0 +1,32 @@
+---
+id: 9a063231-afe0-4400-8234-ab6abe50d992
+type: insight
+created: '2025-04-08T10:17:01.000Z'
+document: 7704478edec58fe98c8158d649dbd34b
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    ohc2hacifcmnuq6oc9fe1a7erfrgwiusoeorypo7gxzq6iov2jyjoympnvm7zenpcmiebolguikeryoqipzujyijq2msqkhruvfubmfmgxpkogp77lt05je6zoq
+  - obtuulqw
+  - >-
+    tadjionqwgrsk0du1gjaxxracbj6kg7dqodc7q9fnubzn7agly92j3sy1gnbnybrr0a58u4fr6vy2goeusagisw4cnntchyevzu6pazoxdehlvcddd8obdld
+  - ngrekhk2mfcbar9pknvhkoxhrszkenqnvam
+  - phbpios1ret7yuctvbiya00y
+---
+# ohc2HaCifCMNuQ6oC9Fe1a7ERfrgwIUSOEORYpo7gXZq6Iov2JyjOYMPNvM7ZENPCMIEbOlgUiKERYoQ
+
+## Context
+From document: New Note — chunk 2420 (chunk 2420/3044)
+
+## Content
+ohc2HaCifCMNuQ6oC9Fe1a7ERfrgwIUSOEORYpo7gXZq6Iov2JyjOYMPNvM7ZENPCMIEbOlgUiKERYoQIpZuJYIjq2mSQkhRuVfUBMFmgxPKOgp77Lt05je6ZOq+oBTUuLqW+tAdJiONQwGrsK0du1GJaxxRaCBJ6Kg7DqODc7q9fNUbZn7AgLy92J3Sy1gNbnybRr0A58U4fR6Vy2GOEusaGisW4cNnTChYEvZu6PAZOXDEHLVcDdd8obdLD/ngrekhk2MfcbaR9PkNvhKOxhrsZkenqNvAm/PhBPIOs1reT7yUCTVBIya00y/UpLXnf8N8uv3e5bSoCc7IxcRB52/OZ2ly2w8+d4O9/35AK+exdTHP2ts2a4VJTX6aJOc2Xc/13zKfrv8WTWY+wYGV2X7nv2xbk5Xf/ClNcl1j+I/XH3mSEpMsOZp8awUyfS9+zYtUdir+Bx5eSbv3sfJgSls2Dmyy9oJWI2xCu44afM3TYCdCUeXRLIIx0sRHqTJUrMcqOuuYiFXTRyhHK/Koj57CixoPkvFHoi/u2lP6iDJ9eo4nbpX89ZqpHa5hmGtd0Ah1IdWwU0/AuXYqnAgz3XTtcPDk2O5n4heL3z/V4zPML7dSG/mL2XkGTLjnPgkmZE0VNp3HkgUXKdFgsdDnj2kMhuMX3/9AGu7XD2RW0Tjapj6WCWR9rVR5HNqEGwqEQQPloVEHH3pt8phiRBkfMM6wC04Irj/7ct01bMwZSYEobeUoMOKWSC40o1W8xpPlo2AtmfWbWIfe0hv24M8BG+XebgqCUsV9+IwLUjcfuS8KN01ZnhDgA6isPviKNflGORP4aB7BfuyU/eaDd4QYw7bsu3z0h409teFcVGlRq4yzspAQvJcHHVlxWCkuisPEeu7V+3HbUtAmN1Jt1L2KTpH9GBef8JsbKnh1wNi3HwOjHaWy4GMrhEgbEkBgtp75KhGn6wyH6Sx1VkgOwBB6OqSWrTEaYtl+TcPtHvxacbUq4FIfFaFlVbbsUjLmzFQVUSUmEIJluI0uKX9K8PIuyDHA6RONGP8rt25Jr9zCpPgqhAguZDeu37wpXa/V/LyiKt5JYCvzmSnretN2rWRX0yO7YnuV/OGom0/XxAs0Ye8FsXVsJRs6F1TWL5W/v7F7d3qHVtdjW924lCI/6HyhtlV/4eaNabcmDt6vSSa71M5ZrfA0
+
+
+
+---
+*Source: Document 7704478edec58fe98c8158d649dbd34b*

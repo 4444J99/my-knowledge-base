@@ -1,0 +1,31 @@
+---
+id: 811e6cf4-6365-44d6-82b5-276421df212a
+type: insight
+created: '2017-09-01T01:01:20.000Z'
+document: c09dc023ec256edd51aef2e3615dd904
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - pgyajy47iz6lpk9yosylk6bysobnkchwlgls
+  - >-
+    pnz84epsb4hp0jtne5pvbbcu98rahwbikbfypffwajh3d6kadjqvfxww3wrw2tweagivaqwmql0c4dkiu1tw6atty6yshhlwkzcvddw8pedvb04bhhowweddbixblnpdukcfhfzterhldgxway6t4h75m25ifi0fbgluepfocjqevhucbifhenmkvrgqhavxs4t
+  - jhyyphbxk98s7slqpe2cwl
+  - qcaku8pkt2splaoudhi2co0l7y9j6793dakpbld
+  - fbj9
+---
+# pgYAJy47iZ6lpK9YoSYlk6BYSoBnKChWlgLs/Pnz84EPSB4HP0jTNe5pvbbcU98rAhWBikBFYPFFwAJH
+
+## Context
+From document: Web Sitcom Ideas — chunk 633 (chunk 633/798)
+
+## Content
+pgYAJy47iZ6lpK9YoSYlk6BYSoBnKChWlgLs/Pnz84EPSB4HP0jTNe5pvbbcU98rAhWBikBFYPFFwAJH3D6KADJqvfXWW3wrW2tWEagIVAQWMQL0c4dKIu1tw6aTty6YShHLwkzcVddw8PEdvb04BHHoWWeddbIXbLnPdUKCFhFzteRhLdGXWAy6t4h75M25iFi0FbGLuEpFoCJQEVhUCBifhEnmkVrGqHaVxS4t+jHyyphbxk98S7slqpE2CWL+/qcakU8PKT2SPLaOUDhi2CO0L7y9J6793DAKPBLD+FBJ9+Idj+i+87FGcjbBr+Z1p+lR3g1XS+ldEapozZZDfvsqO5IdaX7KvAgZs0pfVw3t+6fCuCHNB8IoMdSWgZFQRMqCcH84yGztMFiBzZk3NTKmtz0y2LsGvk4fmL56inp1pGlBrNvhMJ5EvbWhMxdWC4OJ8D+j8FiMpyovdmURVv6WW27J56hwMh+MbLbZZnlMZDzgeEKMh3ZKGX85EjKUCktZhJ5rlyqHF2cNuv60007LTug//OEPM/88kYwAS3wppFRutN8p+cCleAOut4YyUQHQTgAxmnj3O/C3WTSARYdDgn1m3Rb3ybY51py+jAvNadTPFYGKQEWgIrD4IGDcR/CYMxgBbAesUhGoCFQEJgICiJmh7GAt3vZ0aYLU8Z2t0LYpGw/pxRYxc+bMyQZR4+N//dd/pRkzZmTSvhx+RifnWIN8/9GPfpTjUNOnpUlnt0gqu23vv//+/NkBaRdccEH65S9/mT2hLr744qyT28ErHXn/4he/yGPy2muvnf7+7/8+7bzzznnx5PtpEeuafO9738sEP8efo48+Ojv0TJ8+PdfhqKOOStL1m7xOPPHE9IY3vCFdc801iUPR5z73uXxmgHWAcf8jH/lIeuCBB/L47z7pMBIcdthhGRsesOeee26+BlbFgPHXf/3XGQ/zhjUIRyJrDJ8tLn0+5phj0k477ZTvtejj8WWhKGRH8arlPcagURaUsIdb8bjlMQbPOjflpq//VQQqAq8gYBwXWgKRhf8QMrmdYj4QtqKrq2uhY6U5x1jUTs4kqpEuu7ORngxC9eaIZ7//jM5e4+cPtm5LBmF8a5zDed+TjXTF3RGnPgjyHdfvTE+Hoy+jwFBE2YQkuvHBlHjb//LaRvp4ePzz/hcuZ4WIvOSawcizESt/yvId
+
+
+
+---
+*Source: Document c09dc023ec256edd51aef2e3615dd904*

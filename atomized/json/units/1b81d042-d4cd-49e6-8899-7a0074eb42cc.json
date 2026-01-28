@@ -1,0 +1,26 @@
+{
+  "id": "1b81d042-d4cd-49e6-8899-7a0074eb42cc",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>│   ├── archive-lineage/</div>",
+  "content": "<div>│   ├── archive-lineage/</div>\n<div>│   │   └── which-repos-came-from-which-archive-files.json</div>\n<div>│   ├── ai-lineage/</div>\n<div>│   │   └── which-repos-came-from-which-ai-conversations.json</div>\n<div>│   └── graduation-candidates/</div>\n<div>│       └── ready-for-org-promotion.json</div>\n<div>│</div>\n<div>├── 3-org-repos-layer/</div>\n<div>│   ├── current-repos.json         # All 23 org repos</div>\n<div>│   ├── integrated-systems/</div>\n<div>│   │   ├── how-repos-connect.json</div>\n<div>│   │   └── dependency-graph.json</div>\n<div>│   └── production-status/</div>\n<div>│       └── deployment-states.json</div>\n<div>│</div>\n<div>├── synthesis-engine/</div>\n<div>│   ├── orchestration/</div>\n<div>│   │   └── connects-to-auto-revision-epistemic-engine/</div>\n<div>│   ├── transformation/</div>\n<div>│   │   └── connects-to-solve-et-coagula/</div>\n<div>│   ├── pattern-matching/</div>\n<div>│   │   ├── finds-themes-across-all-4-layers/</div>\n<div>│   │   ├── identifies-recurring-concepts/</div>\n<div>│   │   └── suggests-connections/</div>\n<div>│   └── gap-analysis/</div>\n<div>│       ├── archive-ideas-not-yet-coded/</div>\n<div>│       ├── ai-concepts-not-yet-implemented/</div>\n<div>│       └── personal-experiments-ready-for-production/</div>",
+  "context": "From document: Contents_Table — chunk 36 (chunk 36/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "json",
+    "repos",
+    "which",
+    "archive",
+    "lineage"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

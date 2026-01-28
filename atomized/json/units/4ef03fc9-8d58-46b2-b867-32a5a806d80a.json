@@ -1,0 +1,26 @@
+{
+  "id": "4ef03fc9-8d58-46b2-b867-32a5a806d80a",
+  "type": "insight",
+  "timestamp": "2025-02-12T19:07:35.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Academic writing can take a lot of work. Many students get frustrated and quit before they finish their first paper (Smith, 2020). Writing takes determination.</div>\n<div><br></div>\n<div>You can see in this example that the author learned information from the author (Smith) with the year of publication (2020). The information is not in quotation marks because it is paraphrased. Paraphrasing means you rewrite the author's words into your own, but you must give that person credit for their ideas.</div>\n<div><br></div>\n<div>Exact Quotes</div>\n<div>This changes if you are giving an exact quote from an author. When you have an exact quotation, you must provide the reference page number. You give the paragraph number instead if there is no page number, such as on a website. </div>\n<div><br></div>\n<div>Academic writing can take a lot of work. &quotUnfortunately, many students get frustrated by the writing process and quit before they finish their first writing assignment before they can even receive feedback&quot (Smith, 2020, p. 232). Writing takes determination.</div>\n<div><br></div>\n<div>References</div>\n<div>References for books generally follow this format:</div>",
+  "context": "From document: Weeks 1 - 6 Canvas Data Dump — chunk 145 (chunk 145/188)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1b21c03b1f1909954adca118a79b0158",
+  "relatedUnits": [],
+  "keywords": [
+    "writing",
+    "author",
+    "before",
+    "they",
+    "their"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

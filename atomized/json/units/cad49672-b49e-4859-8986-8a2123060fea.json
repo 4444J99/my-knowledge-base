@@ -1,0 +1,26 @@
+{
+  "id": "cad49672-b49e-4859-8986-8a2123060fea",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>MIRROR_CHAMBER/Python + Graphviz</div>",
+  "content": "<div>MIRROR_CHAMBER/Python + Graphviz</div>\n<div>CONTAINER_HARBOUR/Docker, k3s</div>\n<div>SYMBOLIC_VOCODER/GPT Function‑calling, Python</div>\n<div>DATA_FUSION_LAYER/PostgreSQL, Kafka</div>\n<div>BOOTSTRAP_ISO/GNU tool‑chain, QEMU</div>\n<div>DIAGNOSTIC_DAEMON/eBPF, perf</div>\n<div>DSL_FORGE/ANTLR, Tree‑sitter</div>\n<div>🗓 12‑WEEK RITUAL CALENDAR (Example)</div>\n<div>Week</div>\n<div>Monday</div>\n<div>Tuesday</div>\n<div>Wednesday</div>\n<div>Thursday</div>\n<div>Friday</div>\n<div>1</div>\n<div>Invoke Oracle</div>\n<div>Read Grokking §1</div>\n<div>Code visual sort</div>\n<div>UID commit</div>\n<div>Reflect / log</div>\n<div>…</div>\n<div>…</div>\n<div>…</div>\n<div>…</div>\n<div>…</div>\n<div>…</div>\n<div>12</div>\n<div>Container demo</div>\n<div>Performance test</div>\n<div>Create ISO</div>\n<div>Peer review</div>\n<div>Archive &amp tag</div>\n<div>(Store full calendar variants in SPELLBOOK_STUDY_SCHEDULER.md.)🚚 EXPORT INSTRUCTIONS</div>\n<div>  •  Share with a friend: zip the OS_SYLLABUS/ folder or send this single .md.</div>\n<div>  •  Self‑study: place each reading PDF/link inside its UID folder (KNST0000/refs/ etc.)</div>\n<div>  •  Collaboration: each collaborator forks the TEMPLATES/ mini‑vault, retains UID law, merges via Git.</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 385 (chunk 385/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "python",
+    "week",
+    "calendar",
+    "folder",
+    "each"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

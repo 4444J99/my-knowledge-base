@@ -1,0 +1,26 @@
+{
+  "id": "c270c0bd-c203-4a41-987a-a9614bf35339",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>    </div>",
+  "content": "<div>    </div>\n<div>Layer 1 (AI Brains)</div>\n<div>    ↓ [USE: chatgpt-exporter - extract conversations]</div>\n<div>    ↓ [NEW: ai-context-processor]</div>\n<div>    </div>\n<div>Layer 2 (Personal Repos - 4444JPP)</div>\n<div>    ↓ [NEW: repo-analyzer - scan all 39]</div>\n<div>    ↓ [NEW: graduation-pipeline]</div>\n<div>    </div>\n<div>Layer 3 (Org Repos - ivi374forivi)</div>\n<div>    ↓ [USE: auto-revision-epistemic-engine - orchestrate]</div>\n<div>    ↓ [USE: solve-et-coagula - transform]</div>\n<div>    ↓ [USE: a-recursive-root - recursive processing]</div>\n<div>    </div>\n<div>    ↺ Feedback loop back to all layers</div>\n<div>```</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **GAPS IDENTIFIED:**</div>\n<div><br></div>\n<div>### **Missing from Personal Profile:**</div>\n<div>- Full visibility into all 39 repos (only saw 8)</div>\n<div>- Archive intake tools</div>\n<div>- Unified context extraction system</div>\n<div><br></div>\n<div>### **Missing from Organization:**</div>\n<div>- Archive layer connector (Layer 0 → Layer 1)</div>\n<div>- Personal repo aggregator (Layer 2 analysis)</div>\n<div>- Meta-orchestrator above auto-revision-epistemic-engine</div>\n<div><br></div>\n<div>### **Missing Cross-Layer:**</div>",
+  "context": "From document: Contents_Table — chunk 51 (chunk 51/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "layer",
+    "personal",
+    "repos",
+    "missing",
+    "context"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

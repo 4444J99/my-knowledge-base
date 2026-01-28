@@ -1,0 +1,32 @@
+---
+id: 6de4711a-9a08-4bfa-b009-2becb24b2f64
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ickqb8qlqgnqqadatckcbqogop1ktarvqscmcrahz526r2dd0htltqzzs
+  - 6rd562t20hv3yaas7eu3bt48
+  - 42vwxi
+  - >-
+    8fqriceiyteidx9rrdix48emizegtlmy5cuym2nug3jvkhexii70onpjsnivca6j0vfkyncidx7cclthqo1raacxwarkzpprjgzxyfk3cemsbmhi4ruohaeenug5cekq1ovwe2jfnh2rireduoodj7b82vnq4czvv76v
+  - >-
+    48uf741q3x4ynpwzuqqc5cuabnjyf5jnzqbmccaooikctbgkgydimjjdrzlk4wkqpuyqdrrvrfuftmkw4ocggbtgolcksamnvzth23essbafcmqvb
+---
+# iCkQB8QLQGnQqADAtCkCBQOgOp1KtarVqScMcRAhz526r2DD0htLtqzZs/vS/6rd562t20hv3yaaS7eu
+
+## Context
+From document: Strike one — chunk 2885 (chunk 2885/4795)
+
+## Content
+iCkQB8QLQGnQqADAtCkCBQOgOp1KtarVqScMcRAhz526r2DD0htLtqzZs/vS/6rd562t20hv3yaaS7eu3bt48+rd+42vWxI+8FQRIceIYTeIDx9RrDix48eMIzeGTLmy5cuYM2Nug3jVKhExIi70ONpjSNIVCa6J0VFkyNciDx7cCLthQo1raACxwARKzppRjgzxyfK3ceMsBMhI4RuohaEENug5ceKq1OvWE2jfnh2rIREduoodj7b82vNq4cZVv76v+/d+48uf741Q3x4yNPwZUQQc5cUABnjYf5JNZqBmCCaooIKctbGKGyDIMJJDrzlk4WkQpUYQDRRVRFuFtMkW4ocggbTGOLCkSAMnVzTh23EssbAFCMQVB+ONLiWXgU/OeRDHGy8goQMK3RNhx92RSBbZVFZewEDek+ZFiV5AACH5BAUHAF8ALFIAFABjAfoAAAj/AL8IHEiwoMGDCBMqXMiQIT5/DSNKnEixosWLGDNq3Mixo8ePG+19AQQRpMmTKFOqXMmypcuI9+75K/myps2bOHPq3Mmzp8+fQIMKbZgK1heaQ5MqXcq0aUKRTqNKnUq1qtWrWLNqHdhvq9evYKciDUu2rNmaXQXiGwirhNGzcOPK1SiKiq+CEEAdWHBgb4MqE+YKHkz4S4MIiB0QZBChsOOgsd48NskY7+TLOsWQQ0Xu1R/MoEN77fxK4AbRdPGgXg3yTWfWJjEU/EYbtu2JpG+r9Fbww2ndwAm+4UwaVfCK3mhHGkhkhkEfx6MvJE1OOkYc1rMPpP5aO0IJ3rNz/+8ucHz4LxUMDhowcM/AQoNWoABw3jb5L7m9k1lQ8AZ7gUgMpMN8CNSHWnXlISiceQYK5IVA/ikQQIOsjUedaxhKB0peDlBRwQsIzUfhatwppKB0OVRhxkITjqida9adUUEFlSSEgovRnYhjQTfuKJ2OPhZWQJASvWIkkZNNgeSSTDbp5JNQRinllEHGQQCVWGap5ZYaEeDllwZwKeZVVoJ55ZhoSnVmmmxGVWaZX7Ypp1Bm1hnmnHj2tGaefOYExxRewglmn4S2NAKgZhaqqEuq2JnoopB+dOihg0ZqKUiHXqrpppxqlEACBKEh6qegchRHGHF0miepBQ4kIQKtqv8q66y01morYUdMcuuuCxUhkBtt8CqsQBwM1MYkwA6rrEAFGOGGs24sK+20t1pB
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

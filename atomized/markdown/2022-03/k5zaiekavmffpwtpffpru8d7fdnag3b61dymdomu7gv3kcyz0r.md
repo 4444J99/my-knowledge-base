@@ -1,0 +1,31 @@
+---
+id: 29418790-ff2a-465c-935d-318662e03150
+type: insight
+created: '2022-03-16T12:34:10.000Z'
+document: 7405c2da6b92da26b0b49297d3a4e664
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - k5zaiekavmffpwtpffpru8d7fdnag3b61dymdomu7gv
+  - >-
+    3kcyz0rinmysak3pq5qmcnty3lxmrs9kgbvixyh5metacll1lnriordb9o1t7fqbyenekma1u872ip4bjyvsrarii5hwqof33pvxasiluw44qsyinaqce1syqknj8kz5ehfzjcg
+  - llmagvmpyfdqoyliblcitjovmg5ekqto23z1njgvplz
+  - sg7ijkc1j5gxd0nnqumthbxshyhmydgkuism9arisnlrmxhowddqpyztecmega1sykov
+  - vi6vvgzc
+---
+# K5ZaiEkAVMffpWtpFfPrU8d7FdnAG3b61dyMDoMU7gV/3kcYz0rInmySAK3pQ5QMCNtY3lxmRs9KGBVi
+
+## Context
+From document: The battle of the blinds — chunk 220 (chunk 220/1787)
+
+## Content
+K5ZaiEkAVMffpWtpFfPrU8d7FdnAG3b61dyMDoMU7gV/3kcYz0rInmySAK3pQ5QMCNtY3lxmRs9KGBViXyh5metacLl1LnrioRDb9O1T7FQBYenekmA1U872Ip4bjyvSraRIi5HWqOf33pVXASILuw44qSYiNAqce1SyQknj8KZ5EhfzJCG+lLmAgVmPyfdqoYlibLcitJovMG5eKqTo23Z1NJgVPlZ/Sg7Ijkc1J5Gxd0nNQuMthBxSHYHmYDGKUISM9aRiSNlRMXhOwdDQPYZtEcmEGa1syKoV+VI6VVgZc/wC1VoXC4wwIoGhyHcpBH0q6IoFTcOGFUop1wQ34U4qrj5eBQMuG5EybRwo4NSxbrWMsDkHtWUCwGxeBV6NnmiIHBXipsBatboS7lk79KRwmSD0FVI4HznI96l2BXAbpUgXBdFVWJeh4qm0ypIc8YoEiRsQ3TtWTqs8Ih81fvKOKtRIkzndWuJJLsAfdzzWVcXsSMIxwRVhrqJl82TrXPXAgnkLjgCuuETknM43VVk1jWF0RGwb1vKHpzX9PX7AnwlX4a/BXSpWC+ZcwfNj2r+av4baR/wAJR8XdF0mEb83qLj0zX9fnwl0FvDXw+0nRWAU28IHFelRirHj46rayR3iL8mR3psBIbYTVio40Uyk1oeZHV2PzD/4KYeJZ7bwBpGmWjGM/bDvPYgjGK/FjTCnmOPUc1+jv/BSzxs+q+IE8GWUyh9OmWV1z2NfmlpsgWATnktwa8vE/FY+mwMbQR2mnwLD+9B+U1cnkRjkkEVg2szGHy04WlU+X+7bk1xSR3xRZeeGX5cYFVjanZlGFWzbw/exVSaKeI4jPFQaLQhkaNPlxn37U5YSse7INNgX5vs833Tz+NT+WLaI+bzzxig0LdupnIb+EcYq9cOqEKRxis+wkVDz8x7YrRT/SEMb8ntQZyRVMbRRl4+V9KrRwsT7mrMDSJL5R4X0q1D8znJFAnoYUuwZjJrJbCtha17m3R5W/hqo1jMg8wkbBTGUiV3rtqeeURhRjqKieMB1MaketWZkj2KHGWxxikBJEbZ1HHNX4NgyMgAVjQRhHGO9Wnj3NjuafQDSdBuCjnd0xTCZowUPIWqaGWJgBWhBc+WWNypcdsClcEVopgmSUOT0qWKSPzMuME1fjvLKQ42lfrVj7NYSnJwPxqLlXKrxrIflI96R
+
+
+
+---
+*Source: Document 7405c2da6b92da26b0b49297d3a4e664*

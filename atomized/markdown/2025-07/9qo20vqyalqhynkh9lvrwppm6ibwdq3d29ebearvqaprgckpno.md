@@ -1,0 +1,32 @@
+---
+id: a90b8778-426f-4cf6-9926-29aafc525820
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 9qo20vqyalqhynkh9lvrwppm6ibwdq3d29ebearvqaprg
+  - >-
+    ckpno8ko46xrkjxayn8rsg1cfeuuqyqwyzhaahxqeokwnxs4ucbt26igoktdv4vmtq2educizxvqrjdokduuxuxgsdvrw4zokrew9qhfncubnoamghd
+  - nunllflaliwcwegplm4q4
+  - >-
+    osl69nv0kfl23sjy51jlehuzcpdpbutn0r7g0ayxowk159ye6659bunqoywteo2ihywirzbxs2qibsgw3rth7gktwx4znmedf71wlustitmbnegrijsd9sbr1ab2ci04x
+  - i2u1fitwlw9
+---
+# 9QO20VQYaLqHYNkh9LVrWppm6IBWDq3d29EBEaRVQapRg+CKpNo8kO46xrKjXAyN8rSG1CFEUuqyQwyZ
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 10972 (chunk 10972/18928)
+
+## Content
+9QO20VQYaLqHYNkh9LVrWppm6IBWDq3d29EBEaRVQapRg+CKpNo8kO46xrKjXAyN8rSG1CFEUuqyQwyZhAahxQeOKWnXS4ucBt26iGOktDV4vmtq2eDucizxVQrjdOKduuxuXgsdvrW4zOKrew9QHFNCUBNOAmGhD/NuNLlFlALIWcwEgplM4Q4/oSL69Nv0KFL23SjY51jleHUZcpdpbUtn0r7g0AYXOWk159YE6659bunQoYWTEO2IhYWiRZBxs2qIBsGW3RTH7gKtwx4znMEdF71WLusTITMBNEGRiJsD9sbr1aB2Ci04x/i2u1Fitwlw9+3f4mWt/qu8DQ8nxlNPN2umox39zodbkbyGyvntNlntLzz+qV+77jPJLToOJlUHzb40IAGq8YrCV6759D6vCjuVUeds9DYGc8f7jLe+wZwDPBUUYJ9mNV/NedsiQy9STcIJCtlRbcdgORNtxQRg/DfdNR3wjvfJv7n30DvenXDj5J/kY7fEyIdtmO+XKdaGcV6sckLOkeJHLntP6zfuKGB+LoVPfGSvuc2f8ZTH8OBG+6KfKmXwYsTFXdN3vnH9K17y3MW+tJEZnjKfeSsb1y7kxHu6XV8fdWudYO54X/OZj+mFjn/L7AigCbGvmNP1tYTmZRMe+JzrD5a/O+HlPLbaymKltAAwTne833zioLNYXb3jPT0IEMfWCaYXbkTDrulAJ94qZ1gyAsl/CrFJIEByaFQDsms6yHe8pzveg0iL0zREpJUT7/OWHjV3rRBkcjX1VR407V06Yl8GGq2773hPa+af/rssx+nEezWrOWrzBMyEpv/+D7/kqZDFPYAdiebLpgcEru1s0clCN9WEy4LoKOYQAk18m/q4pz++17qEG4IyMyKn6PB1VDZBuT7LJcjoDL4tDl7N/H+zmZizggEStM8t+K5OmxeeRhly4CGvn2we8lIQwBDxHNCelwxI/qQTXuZmbj7dBYxHPGqaTrwP/5yYK8wwVs5q7pj87zpqctDoID+6nF4PfZcmmJh7HDVF1lIXdQSJCBNL+FOIg+yajKKmIDpUJ806xAohQSUbXUsDyYZrC8zoA7Trbhqx2LuQw98xRImorx35Nz1qOhRusyzWlj/ME7rpxNtxX1xCtoZpNaO/XkirsYBAlU138fAow5QyvuG33UUoIeGaA3aVGu3VhOOclmwnhc1GNSjs
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

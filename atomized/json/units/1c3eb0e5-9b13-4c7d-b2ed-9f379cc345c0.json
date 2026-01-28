@@ -1,0 +1,26 @@
+{
+  "id": "1c3eb0e5-9b13-4c7d-b2ed-9f379cc345c0",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>**Audit Frequency:** Semi-annual intersectional analysis (race × gender, etc.)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### **19. Governance Framework**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Alignment:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- **NIST AI RMF 1.0**: Govern, Map, Measure, Manage functions </tt></div>\n<div><tt>- **EU AI Act**: High-risk system requirements (conformity assessment, human oversight, documentation)  </tt></div>\n<div><tt>- **ISO/IEC 42001**: AI Management System certification  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Multi-Stakeholder Council:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Technical experts, ethicists, legal scholars, civil society representatives </tt></div>\n<div><tt>- Oversees RAW mode access, adjudicates disputes, reviews policies</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Red-Teaming:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Quarterly internal evaluation</tt></div>\n<div><tt>- Annual third-party assessment</tt></div>\n<div><tt>- Techniques: Prompt injection, jailbreaking, CBRN/cyber risk probes, bias stress-testing </tt></div>\n<div><tt><br></tt></div>\n<div><tt>-----</tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 41 (chunk 41/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "annual",
+    "risk",
+    "system",
+    "assessment",
+    "audit"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

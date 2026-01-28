@@ -1,0 +1,31 @@
+---
+id: 88b1a801-9dfd-4da5-9015-e957826069a9
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - t4c6hpc0vkvqm1taxsbdx3njuzt2xmaumkdebyat
+  - sfwt1yfans9fviflef5urxkbk3lvunkfmt3ipwv0bmabhkl1tjr56n5nl7c89ldql
+  - h9jsmyjpccoonc1hyre53ykso4rzvyo0hiygkbzmuctnjo2fsa8v
+  - >-
+    boc2p1nw2rcjln3lx6c4qtcwmnmbl79altlj1jjkyssep9ajka4bzhkdnbj7clfuyuwnykisa1bc7yx27c1akdjkg75s
+  - 9esfnsrdgdwhes64kuybxykactke4zyon0703g1rnqpaaghbwttc7gxsa4p
+---
+# T4C6hpc0vkvqM1taxSBdx3NJuZT2XMauMkdeByat/sFWt1YfAnS9FvIfLeF5URxkbk3lvunkfMT3IPWv
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 469 (chunk 469/2189)
+
+## Content
+T4C6hpc0vkvqM1taxSBdx3NJuZT2XMauMkdeByat/sFWt1YfAnS9FvIfLeF5URxkbk3lvunkfMT3IPWv0bMabhkl1tJr56n5nl7c89lDql+h9jsmyJpccoOnc1HYrE53yKSO4rZvYo0hIYgKBzmuctnJO2FsA8V+bOC2P1Nw2Rcjln3lX6c4qtcWMnmBl79altLJ1jJkYsSep9ajka4bZHkDnBJ7ClfUyUWnYkiSa1bc7Yx27c1akdJkG75s+9EsfnSrDGdwHes64kuYbxYkACtkE4zyOn0703G1rnQpaaGhbwTtc7GxsA4P+NR3jTx7kCkEcj3qSzPl7mc5AGfxqCNXnn8x1ODSlJKVhOnroOsTcTANIANorYNzeSoV3Zx29vaqVnbbUkmkkOMcD0xRARPs2fLjgkelOMb6krTQ0LWUrJsl6mtozKnzKMjGKyRHZxy7I33n1I6/hmkkkeScx3Bwo6Y/SqlCz0JqbaFxJUDESdTyAPWqjTM8u5R0qD7QtzE0cDkKCQT6kGp7eLb909P8AOawkkENTTcO0O5/lVV79RX4o/wDBT6HUJtE0iK0ZhG18W3q2NpQZ5QHcd2MAj5R0PJAP7UwkSxv5ufbNfhP/AMFJBMfi74OsILor8r/KOG8z7RGUIHqO3tX6B4cQ58w16Jv7j4HxHbWC06tH6x/CzSLXQvAmm6PGpihitIVijyT5abFIT5vmOOmSc+tdWYEHzvnCngVn+GotQGmIL8gygc46YH4n+daMrKp8xjjy8nHvXzmcVoyrzmu7/M+kyVcmGhB9El+BVnup4ozG4xn1rOhFub0LkZYdO9R3krzyBWPTn1qiEHnKduGByP8AGvCdW+h7SetkdBcfLLtXOAcCr0UJd0mhO3YOV/vZ7+lUopd7KJjuI6VuWaTZ3RjkAnn0H+elYznrYEm2R3Ky7x/CeKaE8iMyldze1T3Evl3AkbuMY96W4nJTaq4yDx6j1qlYJKxyFxdvcTATcEdBWhbyuykMOgxUEduJpS6jNaMQC5Eo+7+FXN2diFzMgt0zIfMGOwzTvsrKolI8vBxgDjmrIWI/vSDwM1AjyXCM0ilVj5BNF23oPVbkhiy/mj5uOAaq4QONyENTZZXHT+LpTyZZ/nY5IH5VSVmFR+6Xk3NatMnGz35/Cvyl/wCCgOualaS+FNKsnZfttxK77P4WheHYx/7
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

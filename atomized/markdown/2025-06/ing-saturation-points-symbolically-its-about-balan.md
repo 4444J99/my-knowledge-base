@@ -1,0 +1,31 @@
+---
+id: 6849e464-f949-440a-b748-0aa225de04b5
+type: insight
+created: '2025-06-26T17:15:56.000Z'
+document: 87215f26527a3ddd27752e0848e7ba23
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: design
+keywords:
+  - needs
+  - dose
+  - they
+  - maslow
+  - hierarchy
+---
+# ing saturation points. Symbolically, it’s about balance and moderation – extreme
+
+## Context
+From document: 🧵 Meta-Laws of Reality — chunk 44 (chunk 44/79)
+
+## Content
+ing saturation points. Symbolically, it’s about balance and moderation – extremes eventually yield less benefit. In other domains, we see similar patterns: medicine (too low a dose does nothing, optimal dose heals, too high a dose causes side effects), or even social programs (there can be an optimal scale, after which bureaucracy grows faster than service output). It’s a specific case of nonlinear response – not all inputs produce proportional outputs indefinitely. Understanding this shapes strategy: invest resources where they have highest marginal gain first.</div>
+<div>  •  Maslow’s Hierarchy of Needs (Domain: Psychology) – A theory proposed by Abraham Maslow that human needs are arranged in a pyramid hierarchy: physiological needs (food, water, sleep) at the base must be largely satisfied before safety needs (security, shelter), which in turn come before love/belonging (social relationships), then esteem (achievement, recognition), and finally self-actualization at the top (fulfilling one’s potential, creativity). Examples: A person who is starving or in imminent danger will focus on survival, not on socializing or career ambition. Once basic needs are met consistently, they seek friendship and community; once that’s secure, they seek esteem through accomplishment; and ultimately strive for personal growth and meaning. Implications: While not a rigid law, Maslow’s hierarchy provides a rule-of-thumb for motivation – indicating priority of needs. It has informed fields like marketing (advertise safety features to those with basics met, but appeal to luxury/self-esteem for those at higher needs) and development (address poverty and safety before expecting educational or creative flourishing). It symbolizes staged growth – you build higher need
+
+
+
+---
+*Source: Document 87215f26527a3ddd27752e0848e7ba23*

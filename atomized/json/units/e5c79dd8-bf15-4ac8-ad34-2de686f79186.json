@@ -1,0 +1,26 @@
+{
+  "id": "e5c79dd8-bf15-4ac8-ad34-2de686f79186",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div># Create the folder structure</div>\n<div>for uid, title in mini_uids_titles:</div>\n<div>    folder = fork_template_path / f&quot{uid}_{title}&quot</div>\n<div>    folder.mkdir(parents=True, exist_ok=True)</div>\n<div>    (folder / &quotUID_MAP.md&quot).touch()</div>\n<div>    (folder / &quotREADME.md&quot).touch()</div>\n<div>    (folder / &quotREVISION_HISTORY.md&quot).touch()</div>\n<div><br></div>\n<div># Add base-level tracker files</div>\n<div>(fork_template_path / &quotWAVE_TRACKER.md&quot).touch()</div>\n<div>(fork_template_path / &quotSPELLBOOK_STUDY_SCHEDULER.md&quot).touch()</div>\n<div>(fork_template_path / &quotMYTH_AGENT_MASTER_INDEX.md&quot).touch()</div>\n<div><br></div>\n<div># Zip it</div>\n<div>fork_zip_path = Path(&quot/mnt/data/REGE_OS_MINI_FORK_TEMPLATE_v1a.zip&quot)</div>\n<div>shutil.make_archive(str(fork_zip_path).replace(&quot.zip&quot, &quot&quot), 'zip', fork_template_path.parent)</div>\n<div><br></div>\n<div>fork_zip_path.name</div>\n<div>Result</div>\n<div>undefined</div>\n<div>✅ Mini Fork Template created.   This is a UID-compliant seed kit designed for quick deployment in new projects, courses, or collaborations.</div>\n<div>📦 Download: REGE_OS_MINI_FORK_TEMPLATE_v1a.zip</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 311 (chunk 311/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "folder",
+    "touch",
+    "fork_template_path",
+    "fork_zip_path"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

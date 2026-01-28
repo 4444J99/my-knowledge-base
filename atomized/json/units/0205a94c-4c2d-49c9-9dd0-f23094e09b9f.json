@@ -1,0 +1,26 @@
+{
+  "id": "0205a94c-4c2d-49c9-9dd0-f23094e09b9f",
+  "type": "insight",
+  "timestamp": "2025-03-10T23:25:50.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>Jessie Birdsong-Pedigo</b><br></div>\n<div>  •  <b>Cover Letter:</b> <b>85/100</b><br></div>\n<div>  •  <b>Resume:</b> <b>90/100</b><br></div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>Alvin Gonzalez Naranjo</b><br></div>\n<div>  •  <b>Cover Letter:</b> <b>50/100</b> (File appears empty; needs resubmission)</div>\n<div>  •  <b>Resume:</b> <b>45/100</b> (Missing key sections such as objective, work experience, and skills)</div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>Matheus Santana Olivieri</b><br></div>\n<div>  •  <b>Cover Letter:</b> <b>88/100</b><br></div>\n<div>  •  <b>Resume:</b> <b>92/100</b><br></div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>Alexandre Boulet</b><br></div>\n<div>  •  <b>Cover Letter:</b> <b>83/100</b><br></div>\n<div>  •  <b>Resume:</b> <b>80/100</b><br></div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>Karla Guerrero</b><br></div>\n<div>  •  <b>Cover Letter:</b> <b>78/100</b><br></div>\n<div>  •  <b>Resume:</b> <b>82/100</b><br></div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>Final Grades for This Round</b><br></div>\n<div><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">",
+  "context": "From document: ⸻ — chunk 1 (chunk 1/10)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "670fc08024355f1c2cd6ca2cd7f53ef0",
+  "relatedUnits": [],
+  "keywords": [
+    "cover",
+    "letter",
+    "resume",
+    "collapse",
+    "jessie"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

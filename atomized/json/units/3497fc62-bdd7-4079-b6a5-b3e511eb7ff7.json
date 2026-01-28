@@ -1,0 +1,26 @@
+{
+  "id": "3497fc62-bdd7-4079-b6a5-b3e511eb7ff7",
+  "type": "insight",
+  "timestamp": "2025-12-21T15:21:30.000Z",
+  "title": "<div>--- --- ---</div>",
+  "content": "<div>--- --- ---</div>\n<div>--- --- ---</div>\n<div>--- --- ---</div>\n<div>@copilot complete markdown below w draft above;</div>\n<div>--- --- ---</div>\n<div>--- --- ---</div>\n<div>--- --- ---</div>",
+  "context": "From document: --- --- ---",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "997009c12ea009d1648465c770b99f5b",
+  "relatedUnits": [],
+  "keywords": [
+    "copilot",
+    "complete",
+    "markdown",
+    "below",
+    "draft"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

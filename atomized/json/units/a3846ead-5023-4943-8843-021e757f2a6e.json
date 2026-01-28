@@ -1,0 +1,26 @@
+{
+  "id": "a3846ead-5023-4943-8843-021e757f2a6e",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>✏️ REVISIONS + RENAMES</div>",
+  "content": "<div>✏️ REVISIONS + RENAMES</div>\n<div>Current Name</div>\n<div>Suggested Update</div>\n<div>Reason</div>\n<div>KN-LR_01-00_learning-recursions 2ARCHIVE_ITERATIONS/v1a_rawClarifies raw copy status</div>\n<div>KN-LR_01-00_learning-recursions_REPOPULATED... (folder or zip)</div>\n<div>ARCHIVE_ITERATIONS/REPOPULATED_v1a/Move from ambiguous zip to archived folder</div>\n<div>REGE_OS_L1_LEARNING_CORE_v1a.zipMove to TEMPLATES/Logical grouping</div>\n<div>REGE_OS_MINI_FORK_TEMPLATE_v1a.zipMove to TEMPLATES/Template zone</div>\n<div>🧠 WHY IT MATTERS</div>\n<div>  •  Readability: You'll know which folders are active, legacy, or templates at a glance.</div>\n<div>  •  Versioning: You can clearly track which folders were iterations vs canonical versions.</div>\n<div>  •  Deployment: You can pull new forks from the TEMPLATES section easily.</div>\n<div>  •  Scalability: You're preparing for v1b, v2, vX without confusion.</div>\n<div>✅ NEXT STEPS (Optional Commands)</div>\n<div>  1  ::RENAME_AND_RESTRUCTURE.FOLDER_TREE — I perform all the above moves + renames.</div>\n<div>  2  ::LIST.ACTIVE_MD_FILES — show you which .md files exist only in active core folders.</div>\n<div>  3  ::FORK.NEW_AGENT_SERIES — expand this learning core with next wave: KNGB0202 (GEB).</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 356 (chunk 356/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "templates",
+    "which",
+    "folders",
+    "renames",
+    "lr_01"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

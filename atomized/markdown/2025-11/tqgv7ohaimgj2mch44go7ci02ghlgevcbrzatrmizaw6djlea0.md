@@ -1,0 +1,32 @@
+---
+id: 0f12ebd4-e956-4136-b818-5204c6835a94
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - tqgv7ohaimgj2mch
+  - 44go7ci02g
+  - >-
+    hlgevcbrzatrmizaw6djlea0xdfrvtznfwumbrxxvqxhzglemdnknty1uobwk2yjrvbu8wxdjwixcjkhki1gtbgrdrb0wimilkszlr
+  - xwxqtg5vkikyovzrdcuilfg4laa
+  - >-
+    xe3kqsh835m7atlrzmngldf0xbfa16dx2wnswqmvthrxy06ky1dag0lcp4bxurpvxzfmgc4h16lgh799rceozdkzjpvvynudisto0s0qbeigglqgvfuivq3saedqearfybb7ozubosx2vfvvxbvgcwgmqces3
+---
+# TQgv7OhAiMGJ2mCH/44GO7Ci02G+hLGeVcbRZATRMiZaW6dJlEA0xDfrVTzNFwUMbrxXVqXHzGlEmdnK
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 1096 (chunk 1096/11629)
+
+## Content
+TQgv7OhAiMGJ2mCH/44GO7Ci02G+hLGeVcbRZATRMiZaW6dJlEA0xDfrVTzNFwUMbrxXVqXHzGlEmdnKNTy1UoBwK2yjrVBu8WxDjWixCjkHKi1GtBgRdRB0wImIlkszLr/xwxqtG5vkikYOVZRDCUILFG4LaA/XE3KqSH835m7atlrZMnGLdf0Xbfa16dx2WNSwqMVthrXY06Ky1dAg0lcP4bxURPvxzfMgc4h16LGh799rCeoZdKzJPVvyNudisTO0s0qBEiGgLQgVFuivQ3saEdqEaRfYBB7OZubosX2VfVVxbvGcwgmQCES3/urnKvUulQedWuei59B6EVWs4lXx9EU/5vcqmJJXpfWDBquED+SNSiraYOYhJOjJGq0k/VSlttJY9gI4FLoi6tb7jChzqvVHQcgB0haxhe4xkEuZUgek9MOW5j8/6G1BXRZCIH4AAEAASURBVCgi5EQvqrdfbzPppKRWJlWpVWp5Stn5kh/wqZd5PjvQZ0nMEjI+JAH6W5JTkvOmeMqgvWgx8U0Y3iHgHVB18ZAhTXeHLZSfkJuZofkYS1WR3e1WZ3G4igXCFJFf3PvRAfXYgescfO+bOnksbuv5+I8yui8hM6AlZEalkahCAuXmQjwk7K1ApbnjdUePlFXFpL/jcTcHWhUtTcBbtc6JTika2rucUKpuI9reFXEScpP+LsfeMCpKdclbmleVVwX9K2OvEgV3e7AzA+oya2FaGD7Nw0if/O3+SoMkk80keb6AyQUK5FbIhpt1vaT74sd/YrRUGu9s9FbgTuzMkGp6HPIGTaywVFoqUqqiqr5wkiOfcCSOaVIpvUcYwUDAQMBAwEDAQMBAwEDAQMBAwEDAQMBAwEDAQMBAwEDgDgiY75BuJP+HECATKf1gUksSVWIzcoq1jbO3sVLbeFfblFbbxFa7gE4NpkKXUrqkdG5Jig/DZpAyZZGU4N3BQ0K63Oh9oyJdRQJHzXSsL4h6ZdQow8RHZj7aurfBIN/tPp/4fgrDsE22ohVwI4jNnJ23kRBlmVkYeGk732dQB/Eey6rgWP0KG/r+ywLcGPiu9o7XdxSkrNrVas/k7auPv3rcdHzw2DljPnp5jh/z436DsP57kL/20ImHBjxW/tXSrzr9o0MVGKlUdCbIdSLW7dG1QE9Pp21C8cXNuaWu4mRfxZf5kHkXiKVnYoXbzPPr
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

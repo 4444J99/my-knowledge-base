@@ -1,0 +1,31 @@
+---
+id: cfd5097f-57d4-4b4b-a285-55b1fd6c15d6
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - r1dass3rkelfovbvjbsbyj8nchpk96
+  - pd9g7tbs7
+  - gs3ghxjnuroyzxlcijbrgk38qk4iyczjhjffoo9lmjoiecyz6vx8uv8a2mum92dxc8x9vjh
+  - txlzkqqm8fmazj1nriskbljwwpgp84qsolzlhvn29ksu1xkhatac9oa
+  - >-
+    ycu59hoxkhzifs0ydf3ccg9qiwqbc8via4hfmoy7i4aelzj0htuawgrvdsgkc80ue2txrlyikims4croqac5harv4jnmqrhauerjrvi1z7evppigvhgl6fq1nnhe6
+---
+# r1DAsS3rkelfovbvJbSBYj8ncHpk96/PD9g7TbS7+GS3GhXJnuROyzxlcIjBRgK38QK4IYcZJHJFfoo9
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 542 (chunk 542/2189)
+
+## Content
+r1DAsS3rkelfovbvJbSBYj8ncHpk96/PD9g7TbS7+GS3GhXJnuROyzxlcIjBRgK38QK4IYcZJHJFfoo9lmJoiecYz6Vx8Uv8A2mUm92dXC8X9VjH+txlzKQQm8fMazJ1nRisKblJwWPGP84qSOLZLhvn29Ksu1xKhaTAC9Oa+Ycu59HOXKhZIfs0YdF3ccg9qiWQBC8vIA4HfmoY7i4aElzj0HtUawGRVdsgKc80ue2txRlYikimS4CRoQAc5HarV4JnmQRHaueRjrVi1Z7eVppiGVhgL6fQ1NNHE6+Y3HvirTuwqTKB3QrmM4xWhbPPKpJPPfd14qMWykBsZq9HGI/vjgj8amSbdi1NESvGr+W/PWq8UkKM6SZAfgZ7dqjyouN0gwo/WnM8EjPMo2ohPB96TZnOBDeXpi2xg7jGcD3qo0hdAWYbmycfU1kOUM7XDEhR930qxbssh89hyvSumEWtgtpoW4Wcyi0wNvUt7fWvjL9trUNQsPhXcHSYoyWntvOYuFdYfNGXQfxnfsUjI4JPavsuxtLaNTbliu/JY+5/zivhb9tWCKx8BCeSXFqtzDFKCcAqxbAI/3wv0Ga+u4Rkvrab6XPkOL5JYdr0Pc/2S7GO0+DOheZBHb3L2azusRyv74s4PPcqQSB0JNfUAAfcxADDg18zfs1i5sfhVohufNNwbVQ5mG1upCrtwMBVAUccgA19FM0Hkt9oypJ3GvFz6F68/VnocPyUcND0RozyGO23RDkcZ9Dn/AOtSpIJLcKDh26nvmsnI8oRo25W5FXldWaIkY8vP/wCs140U0fR+1NEBWj8uQliP4jWVdBhlIG2g1alW7N3wuYHXIYeo65H8qozKXkZlAVE/Mmnz23OjmuiGCDMnzkYzk+tdQynYqRHnjpWHYyRvIs0g2oeDW7L5cV00cR+XjB9qUpMiKuiO0lZrxre6B8pQMEdc1V2+XOfs2cHjn0qeeYrKGZec4zVsI6TDdwCMj6U5uzFLRalMwMn7xhwKpw2MrXLLGNxYnnsPTn0rWtyWuPLnkJBzkt6VXnaCKZlR2RM9qTtvcmKtqj//1v6eIb2QuyNhdvKjuR9adI73Tjd16j2oa0jI3MAAO4PNGzzBugxgevavxejsj9SrN7iqk4bCDGeKn+wymB2l5K847/WpYhOsWzqD0qGbzBcFXbgDnn+dNbnLJqxXRAU
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

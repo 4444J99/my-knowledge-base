@@ -1,0 +1,26 @@
+{
+  "id": "c277bedf-6919-4889-a26e-bf11581c63e5",
+  "type": "insight",
+  "timestamp": "2021-12-16T13:31:38.000Z",
+  "title": "<div>Do you have to get high all the time?</div>",
+  "content": "<div>Do you have to get high all the time?</div>\n<div><br></div>\n<div>It’s either that or the noose. </div>",
+  "context": "From document: Do you have to get high all the time?",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "7ddb6d5de3d069fe559bc66440997049",
+  "relatedUnits": [],
+  "keywords": [
+    "have",
+    "high",
+    "time",
+    "either",
+    "that"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

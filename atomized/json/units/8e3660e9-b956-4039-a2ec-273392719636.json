@@ -1,0 +1,26 @@
+{
+  "id": "8e3660e9-b956-4039-a2ec-273392719636",
+  "type": "insight",
+  "timestamp": "2012-07-11T00:30:13.000Z",
+  "title": "<div>D 8</div>",
+  "content": "<div>D 8</div>\n<div>G 7</div>\n<div>B 6</div>\n<div>E 8</div>\n<div><br></div>\n<div>Show me Love - robin s. </div>\n<div>Here comes the hot stepper </div>",
+  "context": "From document: D 8",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1d3beb90e15f9ea1e11c207b359c8bd0",
+  "relatedUnits": [],
+  "keywords": [
+    "show",
+    "love",
+    "robin",
+    "here",
+    "comes"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

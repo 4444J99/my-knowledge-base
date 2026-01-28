@@ -1,0 +1,32 @@
+---
+id: 48091b64-4f82-478d-9626-6775da96e520
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - qjxqr4
+  - >-
+    oifcewcboa3k4fwexlxvtb5vsukcbsbvfwjpilnz3yo9no2m08ng3xjmwakzxt73jvfxkqrqjh8so1riduzy3xloylfpetsjmn8ixc9dafgyrx5fngrkusxgovcxnhl2bsjgmdbw6udcx5bdoto6w7msmqxat4itc6c
+  - ksz0letm7l2vhtrhzz7ccu8jvllfil7miffz5d6afqhzquv5w
+  - yc7pjucgiz
+  - >-
+    nrbhaumj4jhjm2zt3bh6b2oxdrcycx8oydzyodv0i1ndo8b5naoe1zxxa6s0nar1ca1hnhalfirhko6smqj028q7vcdp3d6yk1fj1etjkdkoouf6dit
+---
+# qJXQR4/OIfcEwcBoA3k4FweXLXvTB5vSUkcBsbvFWJPILnz3yo9no2M08NG3XjmwaKzxT73jVFxKqRQJ
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 4343 (chunk 4343/11629)
+
+## Content
+qJXQR4/OIfcEwcBoA3k4FweXLXvTB5vSUkcBsbvFWJPILnz3yo9no2M08NG3XjmwaKzxT73jVFxKqRQJh8sO1riduzY3xLOYlfpeTsJMn8IxC9daFGyRx5fnGrkUSXgOVCxNHL2bSjGMdbW6udCx5bdOtO6w7mSMqxAT4itC6C/Hmn+ZZ/ksZ0Letm7l2VHtrHZZ7cCU8jVlLFIL7MIfFZ5d6AfqhZQUv5W/YC7pJUcGIz+NrBhaumJ4JhJm2Zt3bh6b2oXDrcYCX8oYDzyoDv0i1NDo8B5naoe1ZXXa6s0Nar1ca1HNhaLfiRHko6SmQJ028q7VCdp3D6Yk1fJ1eTjkDkooUf6DIT+kFmVqpr3VrJqqjeqllspu77LPUbJBn+3T6GxNC2xbTvhub1m6BwjKOtJqSD+i8Uulisa1rPg8E9u29J84jUrEyfYFI1gG7/OzvWTqpp70I7ol76MfwRtpc4kBv4Xr5HaKXxL853LgjtwMsFpYA6xk3yzqQbIbpOffw8JDipYW4y93zhzQRhq86NQxpOO3uXA45w4hPNXvyf3cc/wr5p+LA6a3F0JZrIG/3KXjgJmQPt/ssZv06Wm81uj0sNAvxuEjz/ji8g0MV2HhWF4wdcbutkSmc8Q7JsOm4cZTOAq/7Vk6BBeyopmuj2COaXkhXNqxzT1TG2xpuGXU5gfjdCldZjD0iNlDR86yaz3KrT+tp/x7iv7a3KWHMWnjA/FFaq+sfQu/HhCczGQmnSorsPgruUOWe0ybHZ1JJ96hubSBBbQQ9yX6LzuJ7XA7Xqm0hur4maMajjuhdya+90zXDUqq65q61stg6ceotBmqcPLPzm/nV9bVmJdXSkdOhiowB/UVLQpGF4y27qejMYpwYkM1r6A/0VXsCh9Wzamuq6vqmIKyItYqZq2FnmIMHqyxXsPg1+4aVQwuGKm2Xmc8pL37Gp0Ihs/oYmrTEXC8DgHDGGMLtnDH80tiM7hDbibHEB3yTyTJCft96R7BAjv5HKa9pbSUUzKqZMsy8xrkbzi1xVS3tZtyZGbcyriV5ZjqhiYkhnXidLEMZw2N2VPdc7s6+5gO15lJlJVmsMy4C12nvFwuzjcdGtuHNFgR1rOY3sEsv5rMQJcMe10a58mqpiwcgwAd3qykTOmqJyD9Ula2yqAEGMT/habn0uB+EXIVrni6AOrhlaml/Oce
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

@@ -1,0 +1,34 @@
+---
+id: 1ec76397-6943-473b-81a6-2a4a89909ab7
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    4nfponfsv70ynirry6m4et7jprsagzscrfjl9djapcyfcd3fertjorjko90xh2scsl4flhedibjzl4cn
+  - >-
+    krodibjonvexbpv1cnafaksgiaw6wabt9ehxzrsqba6diycl2oo4hldquzv7mp5yj04f3ypzoncanfuzrrnrrfs4omdgbpa1ijzpy8kriybqizc
+  - ypijjzzjsdsdnqi2noooglt
+  - >-
+    dkbpjdycqtuz22x9geby4ceub0s3mmbqlrnhzjxxbnb0jc0vmdr5ajwkkqmcffuvqmstmssr5umjbdaihwqtrkgbuhai8dovlf63sf2m0cmg3dmygouhliovh1uvqwi6j1gntniqfgcq
+  - >-
+    5ajoqds5ayshixwxyhfttiuvhdhpx9y1easx5vp7bigjbjxotk7qron1qlxqr86wrapw1ixh8fwn3kgvujrlbeb1yjq3ak7o
+---
+# 4nFpONFSV70ynIRrY6m4eT7jPrSagZsCrFJl9dJAPCYFcD3feRTjorJKO90Xh2sCsl4flHEDibjZl4Cn
+
+## Context
+From document: New Note — chunk 10066 (chunk 10066/21099)
+
+## Content
+4nFpONFSV70ynIRrY6m4eT7jPrSagZsCrFJl9dJAPCYFcD3feRTjorJKO90Xh2sCsl4flHEDibjZl4Cn+kROdiBJoNVEXBPV1cnafaKsGiaw6WaBT9ehXZRSqbA6diYcl2oO4HLdQUzV7MP5yj04f3YPzonCanfuZrRnrrfs4OmdGBPA1IJZpY8KrIybqIzC+YpIjJzZJSDsdnQI2NoooGlt/DKBPJdYCqtUZ22X9gEBY4cEUB0s3mmBqlRnHZJxXbnb0JC0VmDR5aJwKkqmCffUVQmstmSsR5uMJbDaIHWqtRKGbUhaI8DoVlF63SF2m0CmG3DmyGoUHliOvH1UVqWi6j1gNTNiqfgCq+5ajOQdS5AYshixWxYhfttiUVhdhPx9y1Easx5Vp7bIGjbJXOtk7QRoN1qlXqR86wRapW1IXH8fWN3kgVUJrLbeB1YJq3aK7O+LU23zAqw+DJXVTyu0SpDVG4Q6m/b5AlcfBby6kAFWBVlpXVBgYYMC7v1x74+bA24OuDng5oCbA24OuDng5sCjyIGDBw/Kt5v/DA9RCY9tLGNjY16hEAJSHR0d1qvbCRMqiEQ/NjYWnIeqe97AkNbWVs91Lly4YMXxVdGpqanYvXu3NR/niomJkdcGdXmdx9v8s2l/9tlncebMGZw6dQo7d+601kB74sQJq/25555zXIfTXvgKeyqE8o/vejaRkZHyGqTyB87b1zqvXbuGgoICz3lwnu3bt8sv+45aZx8opBaMeZgjXDvVr3Q/3Bv3ePnyZetcgg2s8mz27dvnuZ43cI15Vl1djbi4OM9Z8RXkVH4kJDsyMuJ43zi/071raGhAfHw8NK+joqJQWVn5QD4TTquoqHhgfdHR0cjNzcWNGzccr+d0rWDkia8c8tVnXw/Pkftk/jPPeJ+dPnvByCeCgRkZGQ+8Vp6vmOfnf3R01PH8zL3M9fnjC0x86qmnPM+ms2fP+lwLnxn6vOSzQ9fIfNT2bdu2WWdJq2209rlPnjxp9fMMdB4nOz09LeoUhVAQVj+PfL5wDd7yj3PZ7znbZvPcLSoq8nwuqbbqtE57Gz+/V69etYqvZxfzi/Ob++PPhMTEROszZ/68sl+D9bk8D3zlhXktXoM///gs1s8K7wPXyWc292nGu/7CBUxnc28eNWg62+s/LhBqIOucLZTqbVywYVVVL13IVqHS+bQK
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

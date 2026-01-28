@@ -1,0 +1,32 @@
+---
+id: 9038fb04-901b-4869-82ac-64f74e97d26e
+type: insight
+created: '2019-04-16T14:05:00.000Z'
+document: 0c34a8b78e60a6c1ecbdc7504f7c4c39
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - y31pg
+  - vey8y9
+  - >-
+    ta4gt03lgalwbkah4f4jnzgcsekadwk9avooy5kdvotyv6zwghlht1k4nrugasqonsx4beab1y2avi7hy8yjidq0glpbohxs2mm0gly3i1qgc8cujrzr6ehatwfi24tumjvyeskjepa0i4irjif5io9mhrgvgi60vhgj2jcniqib3tbntgoeli
+  - >-
+    ekrewqq86cp7iibectyllqtjymegrggrk5ciedtwasngsgi4uelxnoirayld2yf4jkaoebea7zgzviaicnxerkyopjtnvgfgff8t9ayp8ad
+  - vr78j7erq7wuh
+---
+# Ta4gt03LGALwbKah4F4JNzgCSekADwk9aVOoy5kDVOTyv6ZWGHlHT1k4NRuGaSQOnsx4BeAB1Y2AvI7H
+
+## Context
+From document: Reverb Cheatsheet — chunk 121 (chunk 121/770)
+
+## Content
+Ta4gt03LGALwbKah4F4JNzgCSekADwk9aVOoy5kDVOTyv6ZWGHlHT1k4NRuGaSQOnsx4BeAB1Y2AvI7Hy8YJiDq0glpBOHxS2MM0gLy3I1QgC8CujrZR6EhAtwFi24TUMJvyEskjePA0I4IrJIF5Io9MhrgvGI60VHgJ2JcnIqIb3tBNTGOEli/EkreWqQ86CP7IiBeCTyllqtjYMegrggrK5ciEDtwAsnGSgI4uelxNOIRayLD2YF4jkaoEBeA7ZGzVIAIcNXERkYOPJTnvGfGff8t9aYP8AD/VR78j7eRQ7wuh/ZfXTS7QeyOY9VISCSSBtFwCcZCe9mfGff8t9aYP8P9VHvyP7xGfGff8ALfWmD/D/AFUe/I/vEY8Y9/y31pg/w/1Ue/I/vEY8Y9/y31pg/wAP9VHvyPRzsw+TeG4i8i4sAU30F2R5wrfkv+5Jjxj3/LfWmD/D/VR78j7GSVCDIGNfJkx84JO1C02k6oBuhj128TalSkKPTYeTdDIpLW8jCR8iQmkj2ZKFdoE8QkMnsx7FIYx2RzzQlEw1HOIyHejGq78nOzjyCkRKQgypNYjjs6qbj04N6gIyQLPIdAGcDdFWgd4Ti0s/t+Y8Y9/y31pg/wAP9VH/AMj7D1om/aYxcqN2MU04gmZT/Uy7WYbbeFEtbtUp79BCTgbWNgatdfhpHmfMYjKAy8TIj5ipIJpscLl9MjRy2/Hstca3WoY8Vk6cf7VPKgQEmFWbacL5Lk+nEU2OhW8gFtxEyjCQWeKLFv7fmPGPf8t9aYP8P9VH/wAj7M8dLQ6RQ0LuCNzwE8cKMspAlkFVVsmm53KVAzaLw9uCBBXCmOpFX86AluWjslkwZqkJYkcYvUVrHKNRzzQlkaQlIeASVZ5YxeX4xMEcohUG8DDvRorJQxRyBxxYoUqfi3xICNykFXbviFuQZRMzysaj8cKXmgX9vTHjHv8AlvrTB/h/qo/+R9xZg2cX6afDTuqJ2LWN2bdp37rdL7UGDZrdUrmzaQMxQ5MSNpdg2dXWWWp2/wBvzHjHv+W+tMH+H+qj/wCR66xBNLX+4Zjxgv2zdv8A+gV/+gUdm0pjykYdu34H3rLfWmD/AA/1Uf8AyP7xGPF6kU2FRm36srnFR2CCo375lvrTB/h/qo/+R/eIv4ucZLkRINPTHb4WXZGm3vmW+tMH+H+qAfkf3iL
+
+
+
+---
+*Source: Document 0c34a8b78e60a6c1ecbdc7504f7c4c39*

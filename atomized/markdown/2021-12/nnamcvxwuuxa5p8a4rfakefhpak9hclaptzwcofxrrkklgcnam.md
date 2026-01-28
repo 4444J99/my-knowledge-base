@@ -1,0 +1,30 @@
+---
+id: 762e6531-ce19-4a25-bcb1-a76ebeb925e3
+type: insight
+created: '2021-12-17T14:46:39.000Z'
+document: 37d960e30d45ec53cee7bbbc54f3efc3
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 0o2h
+  - odtd
+  - xrrkklgcn
+  - wdp5
+  - wdjlh
+---
+# /+nn/AMc/+vXWUUXA5P8A4Rf/AKef/HP/AK9H/CL/APTz/wCOf/XrrKKLgcn/AMIv/wBPP/jn/wBej/h
+
+## Context
+From document: How lung until quit smoking? — chunk 221 (chunk 221/249)
+
+## Content
+/+nn/AMc/+vXWUUXA5P8A4Rf/AKef/HP/AK9H/CL/APTz/wCOf/XrrKKLgcn/AMIv/wBPP/jn/wBej/hF/wDp5/8AHP8A69dZRRcDk/8AhF/+nn/xz/69H/CL/wDTz/45/wDXrrKKLgcn/wAIv/08/wDjn/16P+EX/wCnn/xz/wCvXWUUXA5P/hF/+nn/AMc/+vR/wi//AE8/+Of/AF66yii4HJ/8Iv8A9PP/AI5/9ej/AIRf/p5/8c/+vXWUUXA5P/hF/wDp5/8AHP8A69H/AAi//Tz/AOOf/XrrKKLgcn/wi/8A08/+Of8A16UeGB3uf/HP/r11dFFwObj8NWo/1krt9MD+hrTg0nT7fBSEEju3zH9a0aKLgFFFFIAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD/0f38ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiuY1Txt4M0RzFrWvafYOvVbi6iiI+odhWEfi/8JQcHxtog/7iVt/8crupZZiZrmhSk15JnNPGUYu0ppfNHolFedf8Lf8AhL/0O2h/+DK2/wDjlH/C3/hL/wBDtof/AIMrb/45Wn9jYz/nzL/wF/5E/X6H/Pxfej0WivOv+Fv/AAl/6HbQ/wDwZW3/AMco/wCFv/CX/odtD/8ABlbf/HKP7Gxn/PmX/gL/AMg+v0P+fi+9HotFedf8Lf8AhL/0O2h/+DK2/wDjlH/C3/hL/wBDtof/AIMrb/45R/Y2M/58y/8AAX/kH1+h/wA/F96PRaK86/4W/wDCX/odtD/8GVt/8co/4W/8Jf8AodtD/wDBlbf/AByj+xsZ/wA+Zf8AgL/yD6/Q/wCfi+9HotFedf8AC3/hL/0O2h/+DK2/+OUf8Lf+Ev8A0O2h/wDgytv/AI5R/Y2M/wCfMv8AwF/5B9fof8/F96PRaK86/wCFv/CX/odtD/8ABlbf/HKP+Fv/AAl/6HbQ/wDwZW3/AMco/sb
+
+
+
+---
+*Source: Document 37d960e30d45ec53cee7bbbc54f3efc3*

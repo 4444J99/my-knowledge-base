@@ -1,0 +1,32 @@
+---
+id: e340dc3b-fd59-44d2-9fa7-80179f0fffd3
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    ipcqcawnjwrf2caq0aokrurqajzb6qzz07bs6xwsexee5syzgtfpywhuexetzwormuxajutg2iorixeeu1yfrcblofvjw2xsak4jxi2issat
+  - zoivvnnyfusvsfao0k3vk7dcbvr1uofmnvqtpo3ytfwr3wp
+  - ho24bvnqe3gvpocq2vb1dqpnfjenlcnuvyd1vcmkesv28bq8sr
+  - >-
+    alm4dt3p4ye1yymizifeqexmtp5z8efw7efvyqvy7tiyaajxgkqi90rxxgqypwblki4ptyojyyzzxumk1xnf8g555msuoqq9swmp75krpogu0w3leagweqld0ogay8tr98vhuwpmbb6yvfc
+  - 4od0j8vg
+---
+# ipCQcAwNjWRF2cAq0aokrUrqajzB6qzZ07Bs6XwseXEe5syZgTFpYwhUExETZwOrMUxajUtg2iorIXEE
+
+## Context
+From document: New Note — chunk 1916 (chunk 1916/21099)
+
+## Content
+ipCQcAwNjWRF2cAq0aokrUrqajzB6qzZ07Bs6XwseXEe5syZgTFpYwhUExETZwOrMUxajUtg2iorIXEEU1YFrCbloFVJW2XSak4JXI2ISsAT/ZOIVVNNYFUSVsfAo0k3VK7dCBVr1UOFmnVQtpo3ytfwR3WP++Ho24bVNqe3gVPOcQ2vB1DqPnfjenlcnuVYD1VcmkESV28Bq8Sr/aLm4dT3p4yE1YyMizifeQEXMtP5z8Efw7efvYqVY7tiYaAjXgkqi90RxXGQYPWblKI4PtYOJyYzZXUmk1XnF8G555msuoQQ9SWmp75KrPoGU0W3lEAGweqld0ogay8TR98vhuwPmbb6YVFc+JD/xP1+pqt+4oD0j8vg/MdVcfFjQtX9FZFxsBouHvHE2SMdsf3VTggd6EPs6EgoaktY9XOzJaz6ejSAr0dd1PHyRiM/JwT0a4qDn6YhKzONYDWa36eH4vrVUFYYv2+H4grXUlelX2Pa6rUc0HqVWPWKXEvQmh2Py5mTsWl9BLo/6oP6njXQ0IcJrt71UM+zAfy9+D659vf2454r2jWtgQVj2+H68XBc/roJoWp1ZH5ZHplHCVW/cOLn544Ln/rx86uNrAPlceVACVw7UBxXCXWvfeyAH/n5/0iwenUfMetOe2RvYX+DCauvsAtYXcJk1oV2ELCaMa0Y0scWx/cjiuFgTAnsCCuH9dHu2L1oAM599QZ+/fk0v89dZ90Eq4JWf/vtVya9X8XE5940gdXppnUOYh1k6ys37MXxkzcTVuXvbGfOphtgVZJVVam0VZWqaktdJVY10lY/QOvmtdCCiaZNmXTatF4FNKnL1FPfMmhcpyITV6sTrtbCA0w7lWrVrJZRD7V0QRNCYV/C04a0ot0610c8AfwEpjGnJPZD8OBH8cSjjQlRnZiseh/caDHdXErCw43FZFYv99L8+pQxElclWVUSVRszZbVRfUlbtZWgVX+CVU+3YnBxKkq0WgItm1dFl0e90bWTDx5oUR3165SFna9/ZQJUpqAK/nQuZaSWujAV1YVYVcpVElbdb4JVd6/qhKtVCVQrw5nnnHMSVg2wmoNWa/PxUk4Ep0YJNGWyqqtbRWJVprgSuwpY9fTkJ8c9V17ryvMefE53nnclcHWuXY5QtQyrFJycShpd8Kp8nC7EqpKw6uxKzMpEV0lalSo8WFVJqn8PWpU0
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

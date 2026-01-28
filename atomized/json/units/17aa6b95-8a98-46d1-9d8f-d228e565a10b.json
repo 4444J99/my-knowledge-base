@@ -1,0 +1,26 @@
+{
+  "id": "17aa6b95-8a98-46d1-9d8f-d228e565a10b",
+  "type": "insight",
+  "timestamp": "2025-03-19T08:54:53.000Z",
+  "title": "<div><font color=\"#111111\"><span style=\"font-size: 16px\">  •  </span></font><fon",
+  "content": "<div><font color=\"#111111\"><span style=\"font-size: 16px\">  •  </span></font><font face=\".AppleColorEmojiUI\" color=\"#111111\"><span style=\"font-size: 16px\">✅</span></font><font color=\"#111111\"><span style=\"font-size: 16px\"> </span></font><i><font color=\"#111111\"><span style=\"font-size: 16px\">Grammar, Punctuation, Spelling Basics</span></font></i><font color=\"#111111\"><span style=\"font-size: 16px\"><br></span></font></div>\n<div><font color=\"#111111\"><span style=\"font-size: 16px\">  •  </span></font><font face=\".AppleColorEmojiUI\" color=\"#111111\"><span style=\"font-size: 16px\">✅</span></font><font color=\"#111111\"><span style=\"font-size: 16px\"> </span></font><b><font face=\"HelveticaNeue-Bold\" color=\"#111111\"><span style=\"font-size: 16px\">Assignments</span></font></b><font color=\"#111111\"><span style=\"font-size: 16px\"><br></span></font></div>\n<div><font color=\"#111111\"><span style=\"font-size: 16px\">  •  </span></font><i><font color=\"#111111\"><span style=\"font-size: 16px\">Peer Review: Narrative Essay</span></font></i><font color=\"#111111\"><span style=\"font-size: 16px\"><br></span></font></div>\n<div><font color=\"#111111\"><span style=\"font-size: 16px\">  •  </span></font><i><font color=\"#111111\"><span style=\"font-size: 16px\">Knowledge Check: Spot the Errors</span></font></i><font color=\"#111111\"><span style=\"font-size: 16px\"><br></span></font></div>",
+  "context": "From document: Below is a sample “Module Navigation & Weekly Overview” document that… — chunk 27 (chunk 27/46)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "bd2f2280cc167423e582fae6fad9d700",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "span",
+    "color",
+    "111111",
+    "style"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

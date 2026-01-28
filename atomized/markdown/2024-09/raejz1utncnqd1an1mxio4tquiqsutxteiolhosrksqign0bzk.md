@@ -1,0 +1,31 @@
+---
+id: 87ff754b-4677-474c-a92b-9cf66ac0f138
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - raejz1utncnqd1an1m
+  - xio4tquiqsutxteiolhosrksqign0bzka57drzylllcwgdgaek
+  - paevaexykp68bx9xolpqvrzak1duxvrcywqlgvlrca5capsfwn7uvhfiacwlka4igkjingo
+  - >-
+    ia5ubrb0db00tgdjitqyvcaorqz7ckjuizceeaquuxis1drck6enpfencbtaocvpu5yr1swygofmz4eicigl2gasacohmxw4domicirjkdhypfkhxedat
+  - ppyuztme2dim6khfl2aap
+---
+# RAejZ1UTnCNQd1aN1M+xio4tquiqSUtXTeiOlHOsrksQigN0BzkA57DRZYLLlCWgDgAeK+pAeVAEXYKP
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 3509 (chunk 3509/11534)
+
+## Content
+RAejZ1UTnCNQd1aN1M+xio4tquiqSUtXTeiOlHOsrksQigN0BzkA57DRZYLLlCWgDgAeK+pAeVAEXYKP68BX9XOlPqvrZAk1DUXVrCywQlGVlRCA5cAPsFwN7UvHFiAcwLkA4IGKjiNgO/iA5UBRB0dB00tGdJiTQYVcAOrQz7CKjuIZCeeaQUUXIS1dRCK6ENpFENcBtAOcVpU5yR1SwYgOfMZ4EIcIgL2gASaCOhMxW4DoMIcirJkDHyPFkhxEdAT/pPYuzTmE2dIM6khFl2aAp/hun3pU1zGQU0FdiOUA9QFggxxGd+wzwFNBHUM4gFsA6kyy7IcAr4joC0bDSFpGOI4zuBSRYA9xF8O8II6ZPE+RwRsq3i5MYWagujMpB6yv5ONRynRlJswDRwEGkzCPzhsAPJyNIBlYnJ98wGyUH0aCHI7DUZwTgD0T0Q4eBbazz3gvH6A4P4cz2bqEcyKIdnA3MgntZCahr3RHCAcQiPIZjCHgARSEEVfGE0FEhWdpynQl2MOjXIm+MF/GJcpC1ESzAR7Lk89ITMVpfEbM9EEXZEI+5vgAj4/iTLYMyUJblNCLMzkO88g5eWbfpmglOMqrZcjHKzyST3P2j51eAflugPd8CIez0bGA02hUZkIcIngWf2bOZIuZERwNchC8UT5YhnAcCf20jCOcc/sxogN7AedH+uaqcjeaQwm8Ha2mWll7R+EDu3/15e7jXt/UWfBtsW/2tMYLIv0iZHG2aN/W0youSGP8/EzfevAjJX7FaRXnmzKCOVHMgUhNZeN5lA8R9tmWQTzal2yf1sr4eVF8koBlv2ZIriqDPlj2YbQqRn60T/OQ3LlZfC5VRWG/sopzM2zxCXluDO1vsvhEBQtP19/EZaQRntIcj6Gy+Tcx/kFDn/jvonelBhdviWwWR7s+HO+fF/nnvN71g3Pw2YFYLtEJzuUkomM4Bz8NgZ+SwCcXfGZhhHTh4NNnGcM5pbFz4sT6IWXnF05q+A9zite/WuQbRb/y4QVLr8icnbs2ij92gUaXCOeSEsuxz6CuGneeQ0UdNKBGXyI61M8FcA4RXQpVdKCfQ1uDoI7hHOxCByjujGqGc6yZI7+mhwn3I+1LB1gO/KEuWV9LlwIcXKOAurTUzDGcQ1BnUsTs3ty3Sja6lHAOQR3sQscqOsByQ3h3OgJ1Jfq5CLW7JHtKfaii
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

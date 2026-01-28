@@ -1,0 +1,32 @@
+---
+id: 691be3d6-c83d-4425-a870-d6d35f782313
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - tj6pgxocd
+  - ffslly6jck6fm2bzo
+  - >-
+    75zcfylcf1gutgcvmqgghnemf2zusrogocqxyzmuyuouqe6gjxlqtxswydc0vubsleooqpunflh7a7leqls4qzbwdngoves9chshzyri12kweuq51zahwixc7wze6bc4lrzgx
+  - qouwxjwhxdtieo0u9xjaqzqjmzs9jhedo7vcdnauhxaxsaplqtxx0nuqomnc1wu4j4o46sg
+  - >-
+    0uaue6hnjpxfgnlitetqive54h3x6vjzu76flwb1dgc17mypm5eaadfxlyuy2qs14rbrj30j3tovep
+---
+# n/tj6pgXOCd/FfSLly6jcK6fm2BzO+75ZcFyLcF1GUTGcvMqGgHnemf2zUsrogOcQxyZMUYuOuQE6gjX
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 3687 (chunk 3687/11534)
+
+## Content
+n/tj6pgXOCd/FfSLly6jcK6fm2BzO+75ZcFyLcF1GUTGcvMqGgHnemf2zUsrogOcQxyZMUYuOuQE6gjXlQTXSWyDc0VubsleOoqpuNFlh7a7LEqLS4qzBwDngOvES9chShZYri12kWeuQ51zAHWIxc7WzE6Bc4LrZgx+qouwXJWhXdTiEo0u9xjaqzQjmzS9jHEdo7vcdnAuhxaXSaPLqTXx0nUqomNc1wU4J4o46sg/R+0uaUe6hnjpxFGnLiteTqIvE54h3x6VJZU76fLWB1dGC17mYpm5EAadfXLYUy2qS14RbRJ30j3tovEP/jc5q8jV98FnFbVS5NH/Hufffp2xICvLhcBsutRIOoExvnbbATY0vYwWBQHb5L/ET0B3BT7Lj8VHc368ShypEj8bc1FYXlF1jCY/qf8e1z9yxSX3Lb7P9p8LtO2vxo77f/xd8af2+7vj/tnx/m8+lXbc///Z75/J86j9PTl+csV+OPzNAJ1zfBhIPXaK3ASV6QeGzBnkvR1PUanURpd6VILuzAaY2j46evbyv3hq4/kr/73CcNctM3LAvLIgvQjIyasonOMc9cvbcB1AHUAgoThqhhkhPP7XaG5peubMPAF75KwT4JdgvDYlamiZuOvKE9EAEyjOjAByUCgnLMd51O4SiuxRt4t45gzXnTa6VIAHXMdxzNiLbrnZ9FJbXBK6i5xz8M+ZUVtcAtSZXjrehW45oJ3Elra1jHeh2xVeuglt7S7hpRNcZ/jn4KtrGTvSjSVNLztK0tZygnrpsDsd47qWtrhM2l2i6WVbbNuRTppbAs5NShpdbhN33TZtcclYLqWITrCcQLtlAuqiFpfsq3vf8M9FLrrs5D2mLJXWl8s+ntm9Z9Loblv+8vAPf37Str8e+ustk4cylYlvzaxPHd6n49Plz2aOzh9YP7RwRuqQ6inNfu+Y6kW5+53DMsXm96w963v1LxzIla0J1tLZmY+lskOzUtamj3dP69i952ODnUNThrLFvalpyLzM3N6p5TkZhnCfGvlEdcrJH13eWc6WPlma3z+jNSs7rz6tn5DeyB5j2aGjSodUe1rXulf4y7rvsFf63/ZvD1b6N7o32te513jnt0qFcxq7bNu5c+er/+aQ/9FIZ3ea8ReH/GVuWsenemaOPhystZ5yav694WaXUI+12n/cvtur2xvdh5xN1ir/8vAG
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

@@ -1,0 +1,32 @@
+---
+id: 32c28709-40f9-4349-9fc8-ebf12441aef1
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - i2ulmes02xic71j4jcfy34n1f5kxrnwwmyz2tqcltzft5
+  - >-
+    eyrtntcdkrb09bawuqkpaypeulztbbtf50xtiv9i071eyrc4vjldugjmkun0cbapdbzlpnxeo5tk8gv3x2d3vew
+  - >-
+    7kstcqdiezptezqsitsyfrtey7uxzc1kwujwnhgfuimdogqucg2cqvjsqvhfjf2u28jxgppsl21lyqsxccmy0ekpqozgpkeqbhy8yfcohzbifa4tepihrzrbmuqbzpz926ytm7jwqlzlcwjugh8ct0vzbwlhtbxmwe2hpkmsvstc4yjgibot0q568htypdxibrq9p4boxjdftlwno
+  - jtlzlfo1t7mcn9zdugm
+  - zgqoaqbavafstjrryzpsn33
+---
+# i2uLMEs02Xic71j4jCfY34N1F5KXrNwWmyz2TqCLTZFT5/eyRTNtCdkRB09bAWuQkpAyPeULzTBbtF50
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 4466 (chunk 4466/11629)
+
+## Content
+i2uLMEs02Xic71j4jCfY34N1F5KXrNwWmyz2TqCLTZFT5/eyRTNtCdkRB09bAWuQkpAyPeULzTBbtF50XTiv9i071EYrC4VjLdUGJmKun0CbaPDbzLpnxeo5tK8Gv3X2D3vEW/T/7KstcQdIEzpteZQSITSyFRtey7uxZc1KwuJWNhGfUIMDOGqUCG2CQvjsQvHfjf2u28JxGpPSL21LyqsXCcmy0EKpqozgpkEqBhy8YfcOHzbifA4tePiHRzRBmuQbZPz926Ytm7JWQLzlcwjuGH8cT0vZBWLhtbXmWe2hpKmsVStc4YJgIboT0q568HtyPDxiBRq9P4boXJDFtLWNo+/jtLZLFo1T7MCN9ZduGM+zGqoaqBavAFstJRryZPsn33+yPc9CyX6X0eRk/Ev7A351Z/XzV4E8wgljRsu0sxFBgJQ84VUE6MjAt/yxZSRWN2zJscBSsORlG9X4umaJGs0VWwYYxaMldOtwNMbOBbvCbDXcwrQlNwz3wxz4tSH27bBhtOXWc7DBZz98RrhH+RMOZP39JdGU368nNo8Dr1ZesiFpyb6Xz7k86fK5+bQM8jOQGfnKKZKD1jGVhq3ZJSZp0VDhUAzmVl5Wd5VS20aVNfG7ZOU630nWLikVrrVLVWadzYr/A3GRJ8tDOd+1bKNL5lzy9SVf68QpWy947OBVbdLHtMQemLld5aV42FIDZtah34qpPIFtiLFrX7J6Zd2QdaM3jN7I2rMRrK0cwSqlC8Z0SoqjQzsOWbsMGeCQhEvLyZcWC/9YVLzYDIYxVSMsZAVq7aF9a0tcmK++DS+WS6qNfA2xta+0GfIL6jvoMFnSNkhpZONbTYvVFouDct+1cWyrcD2DZhsu1901znn7HL5G17DmiS/SH2SfpMs3VQ8vAABAAElEQVTC3P/yH06ipxTBP994aSUTI07aPTelTE/qE2RE0kxW8Tjayi5IwWW+u5z8gHC+uFgXziTx3FTDl1gO0y+jqZsm5mflZeyKyiFjG+vmm9yMhWPzMuKdSFqxuOSEiF+iT1laU46DFWZKLL0AJj7NYaJv4pSIy7FPvRPSiscVjytcv0yjkpy9VC6x5LTi9Uv1K9GgUO+4bM7tdtisPH93vcmj/vNZjatmPTh3x8q9uRlbe347Viad7Y0yCNxr+0Q5H35TrpwTv7Xupgkb625iRfemy9mtoy4n
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

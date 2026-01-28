@@ -1,0 +1,26 @@
+{
+  "id": "1ca18a0f-ec93-485d-8069-6197c5e89b02",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>#### **For Org Repos (23 items):**</div>\n<div><br></div>\n<div>**Category A: PRODUCTION** (Actively maintained)</div>\n<div>- Core infrastructure (auto-revision-epistemic-engine, etc.)</div>\n<div>- Working applications</div>\n<div>- Dependencies for other projects</div>\n<div><br></div>\n<div>**Category B: DEVELOPMENT** (Still building)</div>\n<div>- Good concept, needs more work</div>\n<div>- Partially implemented</div>\n<div>- Clear next steps</div>\n<div><br></div>\n<div>**Category C: EXPERIMENTAL** (Keep but mark)</div>\n<div>- Interesting direction but uncertain</div>\n<div>- May integrate later</div>\n<div>- Document intent and leave dormant</div>\n<div><br></div>\n<div>**Category D: CONSOLIDATE**</div>\n<div>- Merge with other repos</div>\n<div>- Extract to a component of larger system</div>\n<div>- Fold into another project</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **Step 3: ESTABLISH DECISION FRAMEWORK (The Rules Going Forward)**</div>\n<div><br></div>\n<div>Create: **`system-constitution.md`** in org</div>\n<div><br></div>\n<div>```markdown</div>\n<div># The ivi374forivi System Constitution</div>\n<div><br></div>\n<div>## Personal Profile Rules (4444JPP)</div>",
+  "context": "From document: Contents_Table — chunk 79 (chunk 79/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "category",
+    "system",
+    "repos",
+    "other",
+    "rules"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

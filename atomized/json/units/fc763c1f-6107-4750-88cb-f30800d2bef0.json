@@ -1,0 +1,26 @@
+{
+  "id": "fc763c1f-6107-4750-88cb-f30800d2bef0",
+  "type": "insight",
+  "timestamp": "2025-04-05T17:52:11.000Z",
+  "title": "IECAAIFeCrSarWiM97JFbREgQIBAUQUkAIoaOf0mQIDAKQLzc62Yqbv6/xQWTwkQIECAAAECBAhUUqDh",
+  "content": "IECAAIFeCrSarWiM97JFbREgQIBAUQUkAIoaOf0mQIDAKQLzc62Yqbv6/xQWTwkQIECAAAECBAhUUqDh4qBKxt2gCRAgcKqABMCpIp4TIECgoALTiv8WNHK6TYAAAQIECBAgQKD3AvMzrZhTDLj3sFokQIBAwQQkAAoWMN0lQIDAUgJZ8V/T/ywlYx0BAgQIECBAgACB6grUs4uELAQIECBQaQEJgEqH3+AJECiLwMxUxILiv2UJp3EQIECAAAECBAgQ6InATKoD0Gz2pCmNECBAgEBBBSQACho43SZAgMCJAvWxE595TIAAAQIECBAgQIAAgYisGPDMuLsAvBcIECBQZQEJgCpH39gJECiFQHM+YmayFEMxCAIECBAgQIAAAQIEeixQH03zhVoIECBAoLICEgCVDb2BEyBQFoFGdvW/z/RlCadxECBAgAABAgQIEOipwPx0RPZjIUCAAIFqCkgAVDPuRk2AQIkE6qNu6S1ROA2FAAECBAgQIECAQM8FFAPuOakGCRAgUBgBCYDChEpHCRAg8FqBrPhvc87l/6+VsYYAAQIECBAgQIAAgVcEZtJdwy3FgF/h8C8BAgQqJSABUKlwGywBAmUTmB5z9X/ZYmo8BAgQIECAAAECBHot0MyKAU/47tBrV+0RIECgCAISAEWIkj4SIEBgCYHWQsT0hKv/l6CxigABAgQIECBAgACBUwQUAz4FxFMCBAhUREACoCKBNkwCBMonoPhv+WJqRAQIECBAgAABAgT6JTDXSMWAZ11A1C9f7RIgQCCvAhIAeY2MfhEgQGAVAcV/VwHyMgECBAgQIECAAAECJwk0Rk0DdBKIJwQIEKiAgARABYJsiAQIlE9gth6x4Oqd8gXWiAgQIECAAAECBAj0UWA6KwbsJoA+CmuaAAEC+ROQAMhfTPSIAAECqwrUFf9d1cgGBAgQIECAAAECBAicLNBcrCPmLoCTVTwjQIBAuQUkAModX6MjQKCEAlnx39mJEg7MkAgQIECAAAECBAgQ6LvA9JhbAPqO7AAECBDIkYAEQI6CoSsECBBoR6Axnm7bbfrQ3o6VbQgQIECAAAECBAgQOFlgdsp0oieLeEaAAIFyC0gAlDu+RkeAQAkFFO4qYVANiQABAgQIECBAgMAABUwpOkBshyJAgMCQBSQAhhwAhydAgEAnAnONiPkZV/93YmZbAgQI",
+  "context": "From document: New Note — chunk 101 (chunk 101/192)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "01be182f29c65fb8629d71dfdc1a81dc",
+  "relatedUnits": [],
+  "keywords": [
+    "iecaaifecrsarwim97jfbregqibauqukaioaof0mqidakqlzc62yqbv6",
+    "xqwtwkqiecaaaecbahuuqdh4qbkxt2gcragckqabmcpip4tiecgoaltiv8wnhk6tyaaaqiecbagqkd3avmzrzhtdlj3sfokqibawqqkaaowmn0lqidaugjz8v",
+    "ywlyx0bagqiecbagacb6grus4uelaqiecbqaqejgeqh3",
+    "ajecilwmxuxiliv2ujp3eqiecaaaecbagq6inatkod0gz2pcmnecbagebbbsqacho43szagmcjavwxe595tiaaaqiecbagqiaagyisgpdmulsavbciecbqzqejgcph39gjecifqhm",
+    "ymayfemxcaiecbagqiaaaqieeixqh03zhvoiecbaolicegcvdb2beybqfofgdvw"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

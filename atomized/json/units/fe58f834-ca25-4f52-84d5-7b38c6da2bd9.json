@@ -1,0 +1,26 @@
+{
+  "id": "fe58f834-ca25-4f52-84d5-7b38c6da2bd9",
+  "type": "insight",
+  "timestamp": "2025-02-09T19:57:30.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Current Snapshot:</div>\n<div>- Last Entry: ZBC.202</div>\n<div>- Letter 1: Z</div>\n<div>- Letter 2: B</div>\n<div>- Letter 3: C</div>\n<div>- Universal Number: 202</div>\n<div><br></div>\n<div>📌 <b>Using the Snapshot to Create a New Entry:</b><br></div>\n<div><br></div>\n<div>ZBC.202 → ZCD.203</div>\n<div><br></div>\n<div>  •  <b>Letter 1 = Z (Unchanged)</b><br></div>\n<div>  •  <b>Letter 2 = C (Letter 3 from previous)</b><br></div>\n<div>  •  <b>Letter 3 = D (Letter 3 +2)</b><br></div>\n<div>  •  <b>Universal Number = 203</b><br></div>\n<div>  •  <b>Snapshot updates to: ZCD.203</b><br></div>\n<div><br></div>\n<div>📌<b> MOVEMENT RULES BETWEEN LEVELS</b><br></div>\n<div><br></div>\n<div>✅ <b>ALL levels inherit from the last snapshot, no exceptions.</b><br></div>\n<div><br></div>\n<div>🔹 <b>Level 5 → Level 4:</b><br></div>\n<div>  •  <b>Letter 1 = Stays the same.</b><br></div>\n<div>  •  <b>Letter 2 = Third letter from snapshot +1.</b><br></div>\n<div>  •  <b>Letter 3 = Third letter from snapshot +1.</b><br></div>\n<div><br></div>\n<div>🔹 <b>Level 4 → Level 3:</b><br></div>\n<div>  •  <b>Letter 1 = Stays the same.</b><br></div>\n<div>  •  <b>Letter 2 = Third letter from snapshot +1.</b><br></div>",
+  "context": "From document: 📜 FINALIZED RULES FOR THE NAMING STRUCTURE & UNIVERSAL SYSTEM — chunk 5 (chunk 5/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "0007ef4c0342a73c2192c138949b0a39",
+  "relatedUnits": [],
+  "keywords": [
+    "letter",
+    "snapshot",
+    "from",
+    "level",
+    "third"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

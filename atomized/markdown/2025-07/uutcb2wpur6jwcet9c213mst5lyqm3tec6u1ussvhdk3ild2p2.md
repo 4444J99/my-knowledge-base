@@ -1,0 +1,31 @@
+---
+id: a567e892-2962-4e82-a4e2-c41235a38250
+type: insight
+created: '2025-07-18T21:27:21.000Z'
+document: 19a1c8b920a7c59b9421bc142020b138
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - uutcb2wpur6jwcet9c213m
+  - st5lyqm3te
+  - c6u1ussvhdk3ild2p2yhkdwoebthfx11z5o6yljprlx3yvqh25m05cw43mo
+  - 0qa8ldauw71z5ds1tzvcvybbcyr8crmg2e92391sang6s6vg0bnpgj5ct031hvrzq98
+  - >-
+    bnt8vyvztq4ejmp4sdgqg58s4vyq7zsemagyufcp4vbmqacccaaaiiiiaaaggsria2mchhp6cnm3x3tovnygvzno9phkyrw129belsapfekck73vs9oeuvckh7k46zrnwpbn4pkrehstl11r5azjxelnz4enhu6ath8bggdh3lvgmwcl4am1b
+---
+# uUTcB2WpUR6JWcet9c213M+St5lyQM3TE+C6u1usSVHdK3IlD2p2yHkdWOebThFx11Z5o6YLjpRlX3yV
+
+## Context
+From document: New Note — chunk 255 (chunk 255/1486)
+
+## Content
+uUTcB2WpUR6JWcet9c213M+St5lyQM3TE+C6u1usSVHdK3IlD2p2yHkdWOebThFx11Z5o6YLjpRlX3yVqH25m05cW43mO/0Qa8Ldauw71z5dS1tzvcVyBBCYR8CRMG2e92391saNG6s6vg0bNpgJ5Ct031hVRzq98/BNT8vYVZtq4EjmP4SdgQG58s4vyQ7zSEMAgYUFCP4vbMQaCCCAAAIIIIAAAggsRiA2MCHhp6cnm3X3tovnyGVzNo9PhKyrw129beLsapFEKCK73vS9OeuVckH7K46zrnwPbN4pkReHStl11r5azjxElnz4EnHU6ATH8bGgDH3lVgmWcl4AM1b/ul4JPbNfxO+WVd97q0n2+LL6lHuh1tzf9+HfSiIYKfeu8uq/+73nVWVS5LwOjpUQqGEBEgBVPDmNlgBQapIAVfzAsWsEyiBA8L8MqHSJAAIIIIAAAggggECBAoNf/pME7t5a4Nbzb9bx6hPMRMRnplbSJMXoVXfL5H3bU8tK9cTZ7pfO158kzZcfa4L/1bkCPt+xJOJxGfnvO2Tijufz3WTB9ZaYCZ/9p6yxEjvO1uoE/5MHOfXQDun7t5tEqnz9sN5tsexrr5dqeyRdeESgngRq+7doPUlyrHkJUA4oLyZWQqAuBAj+18Vp4iARQAABBBBAAAEEGkhgyfsvlOYzDi7LiJsvPSajX1d3q3S+5yUZy4p9ocHdzr88TVZ8+y+k5RXH13zwX8erCYrO955fUvfhH26SsV8+XBPBbp9JRHS9fSbxU8w59hzcVdjmpnpG9wcvqgmPwgbAVghUV4AEQHX9G3LvJAEa8rQzaJsJEPy32QllOAgggAACCCCAAAK2EHCaWvlLP3SxtJ53REnH4+pqzloPPrKtdGWAnGay32VfeJW0vfZka06Dkg6gzJ05XE7p+sBF4j8+ywTNBe578s9bJGxKLdVCa7nieOl45XFFH8qiy0aZya21dbzuRPEctbzo/dMBAo0qQAKgUc98lcdNEqDKJ4DdI1CEAMH/IvDYFAEEEEAAAQQQQACBcguYJEDn+y4Qz5olJduTe+ncyW4TsbiMX/tIyfbRaYK87tWlO+aSHVieHekEzUs/eqk4Wrx5brHwarHhwMIrVWiN9r89W6wJmUu4v5YNa6XdlHnSppMdN520KtW799Cl4lneJm4zx0XbG8xE0DQEEChYwF3w
+
+
+
+---
+*Source: Document 19a1c8b920a7c59b9421bc142020b138*

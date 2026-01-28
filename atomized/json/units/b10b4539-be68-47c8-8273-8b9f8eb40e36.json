@@ -1,0 +1,26 @@
+{
+  "id": "b10b4539-be68-47c8-8273-8b9f8eb40e36",
+  "type": "insight",
+  "timestamp": "2025-05-17T06:50:25.000Z",
+  "title": "<div><h3>  •  </h3><b><h3>For collaboration</h3></b><h3>: Give others only the f",
+  "content": "<div><h3>  •  </h3><b><h3>For collaboration</h3></b><h3>: Give others only the fused output + commentary.</h3></div>\n<div><h3>  •  </h3><b><h3>For publication</h3></b><h3>: Extract only GEN+ and USER_ORIG flags to build external-facing documents.</h3></div>\n<div><h3>  •  </h3><b><h3>For personal research</h3></b><h3>: Keep the AVT (annotated version trail) to track your evolving thought.</h3></div>\n<div><h3><br></h3></div>\n<div><h3>⸻</h3></div>\n<div><h3><br></h3></div>\n<div><b><h3>[PRC03] — WORKFLOW MODES</h3></b><h3><br></h3></div>\n<div><h3>  •  </h3><b><h3>EXPERIMENTAL</h3></b><h3>: Leave high variation and cross-links intact.</h3></div>\n<div><h3>  •  </h3><b><h3>INDUSTRY-STANDARD</h3></b><h3>: Remove fluff, preserve only finalized changes.</h3></div>\n<div><h3>  •  </h3><b><h3>ARCHIVAL</h3></b><h3>: Retain every version with diffs.</h3></div>\n<div><h3>  •  </h3><b><h3>BUSINESS-FACING</h3></b><h3>: Generate clean PDFs and Obsidian/Notion folders from FID layer only.</h3></div>\n<div><h3><br></h3></div>\n<div><h3>⸻</h3></div>\n<div><h3><br></h3></div>\n<div><b><h3>Ready-to-Use Commands / Prompts</h3></b><h3><br></h3></div>\n<div><h3><br></h3></div>\n<div><h3>Prompt:</h3></div>\n<div><h3>“Please compile all responses from this thread, remove redundancies, assign unique identifiers, and return a deduplicated, fused markdown doc with each unique section in its own code block.”</h3></div>",
+  "context": "From document: DATA-PRESERVATION_DEDUPLICATE-COMPILE_ — chunk 5 (chunk 5/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "785bcc0d4cb2d60a50a4a0777364b9ad",
+  "relatedUnits": [],
+  "keywords": [
+    "only",
+    "fused",
+    "facing",
+    "version",
+    "remove"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

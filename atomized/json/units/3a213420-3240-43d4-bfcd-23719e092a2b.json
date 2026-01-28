@@ -1,0 +1,26 @@
+{
+  "id": "3a213420-3240-43d4-bfcd-23719e092a2b",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>3. **ORGANIZE** into a coherent system</div>",
+  "content": "<div>3. **ORGANIZE** into a coherent system</div>\n<div>4. **SYNTHESIZE** into production-ready outputs</div>\n<div>5. **ESTABLISH** a decision framework for future additions</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **REFRAMED ARCHITECTURE: From Chaos to Order**</div>\n<div><br></div>\n<div>### **Current State (What You Have):**</div>\n<div><br></div>\n<div>```</div>\n<div>┌─────────────────────────────────────────────┐</div>\n<div>│ LAYER 0: ARCHIVE                            │</div>\n<div>│ - iCloud (unmapped)                         │</div>\n<div>│ - Dropbox (unmapped)                        │</div>\n<div>│ - Hard drives (unmapped)                    │</div>\n<div>│ Writing / Video / Music                     │</div>\n<div>└─────────────────────────────────────────────┘</div>\n<div>                    ↓ [NO BRIDGE]</div>\n<div>┌─────────────────────────────────────────────┐</div>\n<div>│ LAYER 1: AI CONVERSATIONS                   │</div>\n<div>│ - ChatGPT (scattered)                       │</div>\n<div>│ - Claude (scattered)                        │</div>\n<div>│ - Gemini, Grok, etc. (scattered)            │</div>\n<div>└─────────────────────────────────────────────┘</div>\n<div>                    ↓ [NO BRIDGE]</div>",
+  "context": "From document: Contents_Table — chunk 74 (chunk 74/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "unmapped",
+    "scattered",
+    "into",
+    "layer",
+    "bridge"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a6be14e7-4ed1-4f7c-af8e-dd6bc0083c9e",
+  "type": "insight",
+  "timestamp": "2025-12-21T14:29:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>```</div>\n<div>- Dynamic Background System</div>\n<div>  * Sky layer (gradient/particle effects)</div>\n<div>  * Mid-ground elements (animated scenery)</div>\n<div>  * Foreground accents (interactive elements)</div>\n<div>  * Time-of-day transitions</div>\n<div>  </div>\n<div>- State-Reactive Filters</div>\n<div>  * Warm tones → positive interaction</div>\n<div>  * Cool/chaotic → conflict states</div>\n<div>  * Blur/clarity → communication quality</div>\n<div>```</div>\n<div><br></div>\n<div>**Implementation Options**:</div>\n<div><br></div>\n<div>|Rendering Approach|Pros                             |Cons                     |</div>\n<div>|------------------|---------------------------------|-------------------------|</div>\n<div>|WebGL/Three.js    |Cross-platform, browser-based    |Performance overhead     |</div>\n<div>|Unity/Unreal      |High fidelity, native performance|Platform-specific builds |</div>\n<div>|Canvas/SVG        |Lightweight, accessible          |Limited visual complexity|</div>\n<div><br></div>\n<div>**Recommendation**: WebGL for investor demos (instant access), with Unity pipeline for production.</div>\n<div><br></div>\n<div>#### Layer 2: Avatar Evolution System</div>",
+  "context": "From document: # Platform-Agnostic UI Architecture: Project Evolve — chunk 2 (chunk 2/10)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "05b5ebf7576dd7636e989ca708836977",
+  "relatedUnits": [],
+  "keywords": [
+    "system",
+    "layer",
+    "elements",
+    "webgl",
+    "platform"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

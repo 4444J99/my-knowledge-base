@@ -1,0 +1,26 @@
+{
+  "id": "aac84eba-2ab3-42b9-9b16-ab1f0c32eb32",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🚀</font> This iteration integrates a structured decision economy, automatic consequences for repeated mistakes, multifaceted hidden skill checks, and a resurrection system tied to literary “exile” instead of character death.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 1. Decision Economy – Structuring Player Choices Without Overload</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> To prevent decision fatigue, each player has a limited number of actions per week.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Every player may take ONE major decision per week.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Players must wait their turn before making another move unless they spend XP to act again.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Some decisions lock other choices out (e.g., committing to one faction prevents betraying another).</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Spending XP to Buy More Actions</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Players may spend XP to “buy” a second move, but it becomes progressively more expensive each time.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 287 (chunk 287/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "applecoloremojiui",
+    "decision",
+    "zapfdingbatsitc"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

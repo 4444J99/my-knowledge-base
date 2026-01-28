@@ -1,0 +1,26 @@
+{
+  "id": "3ac3e5c6-88bb-4474-ab51-a1464e9e5235",
+  "type": "insight",
+  "timestamp": "2025-02-03T14:34:12.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>##### **Examples:**  </div>\n<div><br></div>\n<div>1. **Telling:** &quotShe was sad when she lost her book.&quot</div>\n<div>   - **Showing:** &quotTears welled up in her eyes as she frantically searched under her bed, her fingers trembling as she flipped through the scattered pages of her notebooks.&quot</div>\n<div><br></div>\n<div>2. **Telling:** &quotIt was a hot day.&quot</div>\n<div>   - **Showing:** &quotThe scorching sun blazed overhead, beads of sweat trickling down my back as the pavement radiated waves of heat.&quot</div>\n<div><br></div>\n<div>3. **Telling:** &quotHe was angry at his friend.&quot</div>\n<div>   - **Showing:** &quotHis fists clenched, and his jaw tightened as he glared at his friend, his breath coming out in sharp, short bursts.&quot</div>\n<div><br></div>\n<div>4. **Telling:** &quotShe walked into the room nervously.&quot</div>\n<div>   - **Showing:** &quotShe hesitated at the doorway, gripping the strap of her bag so tightly her knuckles turned white. Her eyes darted around the room, searching for a familiar face.&quot</div>\n<div><br></div>\n<div>5. **Telling:** &quotThe cake was delicious.&quot</div>\n<div>   - **Showing:** &quotThe first bite melted on my tongue, the rich chocolate ganache blending perfectly with the moist, fluffy layers of cake, leaving a lingering sweetness.&quot</div>",
+  "context": "From document: **ENG 101 - Week 2 Class Schedules (Days 5, 6, 7, & 8)** — chunk 8 (chunk 8/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "003e4c0df761645311fa808da7e81233",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "telling",
+    "showing",
+    "quotshe",
+    "quotthe"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

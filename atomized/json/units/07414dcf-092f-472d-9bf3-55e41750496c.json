@@ -1,0 +1,26 @@
+{
+  "id": "07414dcf-092f-472d-9bf3-55e41750496c",
+  "type": "insight",
+  "timestamp": "2025-02-12T23:46:07.000Z",
+  "title": "<div>ENG 101 | Course Content Formatting &amp Protocols</div>",
+  "content": "<div>ENG 101 | Course Content Formatting &amp Protocols</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📌</font> 1. Adaptive Structure Per Week</div>\n<div><br></div>\n<div>Each week/module will follow the same format but will have an adjusted number of slides, knowledge checks, and assignments based on Canvas.</div>\n<div><br></div>\n<div>Instead of a fixed 17-section model, each week will be structured as follows:</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📌</font> 1.1 Required Core Sections (Always Included)</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">✅</font> 1️⃣ Overview (Introduction to the week’s topics, themes, and objectives)</div>\n<div><font face=\".AppleColorEmojiUI\">✅</font> 2️⃣ Learning Outcomes (Course-level &amp weekly objectives with assessment mapping)</div>\n<div><font face=\".AppleColorEmojiUI\">✅</font> 3️⃣ Expectations &amp Readings (Assigned readings, Canvas presentations, and activities for the week)</div>\n<div><font face=\".AppleColorEmojiUI\">✅</font> 4️⃣ Major Lecture (Foundations of the Week’s Topic) (The primary instructional content for the week)</div>\n<div><font face=\".AppleColorEmojiUI\">✅</font> 5️⃣ Weekly Writing Warm-Up (Assignment with prompt, rubric, and submission details)</div>",
+  "context": "From document: ENG 101 | Course Content Formatting & Protocols — chunk 1 (chunk 1/8)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "499cbdc66afc5c828775c69f3b17f7c2",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "applecoloremojiui",
+    "week",
+    "will"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

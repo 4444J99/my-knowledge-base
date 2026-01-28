@@ -1,0 +1,26 @@
+{
+  "id": "2ae5802c-f816-4013-b8c5-1ac0651be470",
+  "type": "insight",
+  "timestamp": "2025-02-12T19:07:35.000Z",
+  "title": "<div>5 pts</div>",
+  "content": "<div>5 pts</div>\n<div>Full Credit</div>\n<div>Expressed the central thesis or moral of the work in a fresh and new way.</div>\n<div>0 pts</div>\n<div>No Credit</div>\n<div>The central thesis or moral of the work is not apparent or is not thoughtfully presented.</div>\n<div>5 pts</div>\n<div>This criterion is linked to a Learning OutcomeRough Draft: Grammar and Spelling (Run-on sentences will receive special attention.)</div>\n<div>Ensured that sentences are appropriately structured, and avoids run-on sentences.</div>\n<div>5 pts</div>\n<div>Full Credit</div>\n<div>No more than 2 sentence errors</div>\n<div>0 pts</div>\n<div>No Credit</div>\n<div>More than 3 sentence errors</div>\n<div>5 pts</div>\n<div>This criterion is linked to a Learning OutcomeRough Draft: Grammar and Spelling (Verb tenses will receive special attention.)</div>\n<div>Demonstrates the appropriate and consistent use of verb tenses (past, present, future, etc.) within paragraphs.</div>\n<div>5 pts</div>\n<div>Full Credit</div>\n<div>No more than 2 verb tense errors</div>\n<div>0 pts</div>\n<div>No Credit</div>\n<div>More than 2 verb tense errors</div>\n<div>5 pts</div>\n<div>This criterion is linked to a Learning OutcomeRough Draft: Grammar and Spelling (Punctuation will receive special attention.)</div>",
+  "context": "From document: Weeks 1 - 6 Canvas Data Dump — chunk 63 (chunk 63/188)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1b21c03b1f1909954adca118a79b0158",
+  "relatedUnits": [],
+  "keywords": [
+    "credit",
+    "more",
+    "than",
+    "errors",
+    "verb"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

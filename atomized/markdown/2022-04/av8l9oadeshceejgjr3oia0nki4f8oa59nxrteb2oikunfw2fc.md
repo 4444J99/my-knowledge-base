@@ -1,0 +1,32 @@
+---
+id: d454d5c8-a015-42cf-bfd6-5b86fa558267
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    av8l9oadeshceejgjr3oia0nki4f8oa59nxrteb2oikunfw2fcnvgzohkteq5qk3jeynwrn2vf1guwsanqud0vx9mleorxq
+  - zrblly45gqquws10zj9lvmte37njzeh9gj1xnrnihzcuwkhabftzxqxwyuvwjcs9h
+  - >-
+    ywsjawzokusrsxwhxgougle8w2itfeweovktecdphg7gxfsrqpkiazavaa3eg7fsklvaiig0yc611b5ine6senzoxafkwaer
+  - aqxcmsyqmloesmxab0u
+  - wawzhj1gsklk0uu7cjvrks
+---
+# Av8l9OADeshCEEjgjR3oIA0nKI4f8oA59nxRtEb2oiKUnFW2fCnVGZOhKTeq5QK3jEYNwRn2vF1gUWSA
+
+## Context
+From document: Strike one — chunk 2268 (chunk 2268/4795)
+
+## Content
+Av8l9OADeshCEEjgjR3oIA0nKI4f8oA59nxRtEb2oiKUnFW2fCnVGZOhKTeq5QK3jEYNwRn2vF1gUWSAnQuD0Vx9mLEorXq+ZrbllY45gQqUws10zJ9LvMTe37nJzeh9gJ1XNrNIhzcUwKhAbFTZXqxwyUvwJCS9h/YWsjAWZoKUsrsxwhXGouglE8w2ItFEwEovktECdPhG7GXfsrQPKiazAvAa3eG7fsklVAiiG0YC611B5InE6sENZoxaFKwAER/AQxcmsYQmLOESMXAB0U+wAWZhJ1gSKLK0uU7cjVrkS+2rMllGXO5QN0RdX8pZls3OPdq4+kUugYlP7fhV2DD/xOYcr25X8pWjEA3pJWmibEkronJVu6m+ytCSTPK+kbF4EWXFDW/EudE/heTAu4IUB8FjxmGBjZLtyYD0V6FKZZaEMvQJ93OkUdRKWY1b1WS3MFdBbNgql1LncId1R4A+nivQ4AWFuAEKvBEJXwNCByi4QQ9owALnsyAKLFiCDzSxY3yy+IsYiEEU97CIEHguo+1Gk+FJ7tSjzL7tjB7xytMPPT8uLgO88N/G/R4KqCC6fI0HSlwuOW6bo3eUvid/zsq7RAmoGK3fXMLgxG54Lk3tGLDKjgRf+o99Fo1LCiLj3u1IuitJFg/LOG5evqQU5q/DGEnjAjD1BoIBYwnz/zjGN1rivtIkZpwqLUZN8KyrwMRt53oOnmStcy4gCGSgCZRAGGgAC2JAAwIh+W4gFYTABqIACp8gBVggBDzB+l7rOzjgOcSDBIhuB35A2hhCIdDE4MgtAo+k/b6NudIwkd7PVqzAf2Ik1OIMKTKQ3gZCAY1kK1YuGUzuzoSiQPJlIPiwKNLEhDwOzgDMS95L0DrMSOYPRUJkA7MkKFLGDMLslAaMS6igAvSvR3yhp/JOZhCoqt4MfEyoVZ6JDN7L//SIqMggD1DwYN6nTLRCcXhOs3qw9yYACDegBjQgCVjABpLAB3hgBVDAEFqgA6LABl4HCqBgDEKABwxBB6wOdP/yAASSI3UmgARu4bRGIdrwAANqcMP0x9Mqwn/Y8MLWMA3NwbkWB57YR8v6sLvgiK3+7OEGUewmLQBtyQ/PS/CoYkFopNMITxy+6SFQxhMJjUEAkal6ZME6TRngqALIDOwuMdtmUarI4AI6MdM0ssQeolxO6bBWzsFK0e/+RdSSgtBO
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

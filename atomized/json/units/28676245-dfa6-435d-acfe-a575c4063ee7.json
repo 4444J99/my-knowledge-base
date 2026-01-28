@@ -1,0 +1,26 @@
+{
+  "id": "28676245-dfa6-435d-acfe-a575c4063ee7",
+  "type": "insight",
+  "timestamp": "2025-12-21T15:18:27.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Columnar Layout: Instead of replacing the current topic, clicking a word presents an option: &quotExplore Here&quot (replaces content in the current column) or &quotBranch to New Instance&quot. The latter creates a new, side-by-side column. A user could have the &quotOracle&quot definition of &quotLove&quot next to the &quotPoet&quot and &quotContrarian&quot definitions, allowing for direct, simultaneous comparison.</div>\n<div>The Prism Selector: Each column would have a dropdown menu at the top, allowing the user to change the Prism for that entire instance on the fly. You could get a factual definition, then instantly see how a 17th-century alchemist would have defined the same series of concepts.</div>\n<div>Visual Threads: When you branch from a word in one column to create another, a subtle, glowing line could connect them. This creates a visual &quotweb&quot on the canvas, showing the lineage of your thought process. If the same word appears in two different Prisms, these threads could also appear, highlighting unexpected conceptual overlaps between, say, a technical definition and a poetic one.</div>\n<div>The Exploration Graph (Minimap): A small, persistent minimap in the corner would visualize your entire session as a node-based graph. Each node is a topic, and each edge is a click. Different colors could represent different Prisms. This allows you to see the entire shape of your journey, zoom out, and instantly jump back to any previous point in your exploration across any instance.</div>",
+  "context": "From document: This application, \"Infinite Wiki,\" is a dynamic, AI-powered hypertext… — chunk 10 (chunk 10/11)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "5aac1d5f80c3f292367e97b95697efe9",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "could",
+    "column",
+    "your",
+    "word"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: d2a020dd-497a-4cf7-b612-75938b31e23d
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    pqk1uxxfi5b7bqdovs6prp8e0g3oa64bklenay7xwro6jwdnf6xpsgxfmymru2pcinvzi8ezfivra6kbodewdoxua0dhmgodwxi8wxmvb2qnbridsri2b2y3ii
+  - paxoaeein27m3fdfa3pytvoxbm32a52ngn5ze0
+  - vr576ofzgeeb0pwb4bywdvnuycy5ynmyp3buotgk
+  - >-
+    fdeqghgie2oa9aymwfwrvsulzbuib5vgvr8mehm6dzz0afwnl2lb77bqhtpp1q31hs4icperzhbxpq23vg4ya6aw4d3zkir4domd6d2ul7wawkpxav12gafr
+  - 9uqnaadx
+---
+# pQK1UXxfI5B7bQDovS6pRp8E0g3OA64bkleNAY7XWRO6jwDNF6XPSGxfMymRu2pCInvZI8EzFivRA6kb
+
+## Context
+From document: New Note — chunk 6554 (chunk 6554/8096)
+
+## Content
+pQK1UXxfI5B7bQDovS6pRp8E0g3OA64bkleNAY7XWRO6jwDNF6XPSGxfMymRu2pCInvZI8EzFivRA6kboDewDoxuA0DHmGOdwXi8wXmvB2QnBridsRi2B2Y3II+PAXoAeeIN27M3fdfA3pyTvOxBm32A52Ngn5ze0/vR576oFzgeeB0PwB4bYwDvNuYcy5yNMYP3BuOtGk+fdeQgHgie2Oa9aYmWfWrvSULzBuiB5VGvR8meHM6DZz0AfWNl2lB77bqhtpp1Q31Hs4ICPerzHbXpQ23VG4YA6AW4D3ZKiR4DoMd6D2Ul7WAWkPxAV12GAfr+9uqNAaDX/v2C7vu1f7/qHrDqfHU+L0HwssTyweaqtdcE4b+FtdVlvCVA/lJzzYZLguLfEPT9qqD6VwWCv4YCfavg+fqqtLcA6DX/iiD4/+wVRA9A3314i5ToM/9T/mca/4nU1V881ZT3b2daC/5FwPg/S5X+n0825v2zwPQfnW3b+Q9nmvP/QSD9PwiU/0cAeuX5OwH5UqLfIoB+yw9QoD9en/vXWvcdQecC6Hd8C4Beeb+pmv5U9icC7L+h/gsC81843bzj3Om2HWfOdRf19TXnne5t3HbqVGt+79muwo5z3bvaBNJLIT0faz3Zlt+MEr3geYHhuU2dx7IbpUBff7p9x9Fn2gqPnBVEf7Jx+6FTTfkHVceB9v2baw+Xp+3dW7C4sq5oacXh3asrAOiPla8vO7R7bdlhAfSC2ksPCaA/IjtasboEiF53Wdy+P7NEgH/JqabtpVKdL1G9JQGWFxyvc5U+g6l9tnVn2Zl2+Y5dlSebd5adai+qEKxdfb6ntEYAepVU3UvbD2QVANBjgsW3dx3KKe08klPWfXRbhaD0KoDw7vptewHGBbbXCg6vAZ6XsvqB3sb8gwLljzTt33ys7WBWvWB8vTiQ2yAovUngfWtz3eb21rqs9t4jAtUPZbe3HcjqPH+85Oi57uL6k20FzX26NxThz7YWtjzbUdx0vr24WZB426lW7nVHgOel8N8leLzztAB6geddGPA81teU3326vbBLCvBdAta7VVcXSvVdR3KCoUAv4F0AfUH76ZbCNpTtAeif7drdfE77aX1z19FtAfYHnj9ckdbeIIBeZ2puO5itFwI2N3Udyz2qGg9I6X6fFOD3aP/a7iM5B3QndSdbduxFfR6AXrkquS+9
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

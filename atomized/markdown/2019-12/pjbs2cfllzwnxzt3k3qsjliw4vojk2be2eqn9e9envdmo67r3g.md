@@ -1,0 +1,30 @@
+---
+id: ecb2473a-3178-4f9f-9585-5efe1d67f6ba
+type: insight
+created: '2019-12-20T21:14:28.000Z'
+document: 7705aae2652374fb773de1dcdbba223d
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - pjbs2cfllzwnxzt3k3qsjliw4voj
+  - k2be2eqn9e9envdmo67r3gi8si1ki0xwvtlywp3bf
+  - zr2hcv97550wjzndiu
+  - jb8pde8p6xr3inxppdnfquf7urbndhi8bpdl5lffzvlbz9z
+  - frptw
+---
+# pJbS2cFlLZWNxZT3K3qsJLiW4VoJ/K2bE2eQN9e9eNvDmo67r3gi8sI1ki0XWvtlyWP3bf+zr2Hcv975
+
+## Context
+From document: 23 Emotions People Feel, but can’t explain — chunk 121 (chunk 121/193)
+
+## Content
+pJbS2cFlLZWNxZT3K3qsJLiW4VoJ/K2bE2eQN9e9eNvDmo67r3gi8sI1ki0XWvtlyWP3bf+zr2Hcv97550WjzNDIu/jB8PdE8P6Xr3inxPpdnFqUf7uRbndHI8bpDL5LffZVlbZ9z/frptW+I/gbRPEdn4P1jX7Ky1zUPLa2s5JVWabc38K/7VeOeBfhRreleNtC8Ra1Y26R6R/wm7K+5WeNvEGt299bMv+9bxvu/74esjWPhprA+IPiv7Z4eu9a0Txnqum6k89vfWsUEJtYbS3/0iOb97uha281fK3/8s9nlyVelybfEfYNM2p/dFczo15qV416ur6cdOWC5lgg3SrJ9ogG3ZL8v3fM/uv8APXU1BIUvlr6UlFABRRRQAUUUUAFFFFADdnzb8DdRt/2adRQA7aKbRRQAUUUUAFFFFABRRRQAUUUUAf/R/fis20/199/18J/6KirSrNtP9fff9fCf+ioqANI8da878beJLnwroN1qtrp13rU6hY4bKxXfPNNI4jjVRjaq7j87P8iJvd/3cZr0Q89a5HxBeapp+j3F5pGmS6xdoMLa27xQySfN/C0zxov/AAJ6n3gj8RxOkfFXQD8ItN+M3iM/2JpV3o9vrFyszq32WO4gWbb/ALTfNs+X7z11XgzX77xP4X03xFf2D6PPqESzNaPIsjQeZ/yzZo/l3f3v7rV8nD4deMdb/Z7+H3hTxZ4Ia9vfBD6ONQ8OXF3ZFdYXTYVjVVkSX7OV+0BLhFldEZ4UR69L+Fmh+MfCemeINWt/CP8AYceu69BLa+HxdQsdPspVtbO5m3xvJbq37qS68iJ9n/bWQ1XuA/I+nC/zbK+EPAv7Snxa+I/xG1zQ/CvwtivvDXhvxTe+G7zVpNbtYZV/s+by57hbWT522xNv2J/tpX3Zs+Za/KX4R/BT4s/DX9oPxL4zvvgymtpq/jbWNRs/Eq+JI4vsulapPt3f2d9o2O0cLO+3y9//AG0oj8RX2T9CofjL8KXtxdxeK9OeD+120FW89f8AkKxt5bWf/Xbf/DV3/hZ/w38ozDxJY+WNW/sEt9pX/kK7tv2P/r4/2Pv1+fVl+zx8YLP9quP9piTw5YvaX/iSW1fw2s8f+j6b9l+y/wDCRb/N8lrz5U3Kib/KfZ/rK57VP2fP2hYPF974KsPC1rdeFn+L1r8QP7aXUYI2ewknhmlhW2Z
+
+
+
+---
+*Source: Document 7705aae2652374fb773de1dcdbba223d*

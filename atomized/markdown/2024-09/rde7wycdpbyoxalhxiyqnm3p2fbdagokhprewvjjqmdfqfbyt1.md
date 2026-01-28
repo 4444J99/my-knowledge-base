@@ -1,0 +1,31 @@
+---
+id: 804b981e-afb7-4a77-b3a7-5af0aae42009
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - rde7wycdpbyoxa
+  - lhxiyqnm3p2fbdagokhprewvjjqmdfqfbyt1qzy7tjd107
+  - d55rpk7myeweos7uiwsvpmy9dfhcy1ueglotttd5brmca
+  - mukyikztwdagwtx4yd33f7mb9uczwreu0okmqqkhiyloxwq7zt2rymbnt
+  - >-
+    ela7qvpihnfnvfsf5frsskxvzqnguldotfr8t2dw99bduvcut46ryseupcf3jqorodw3rgbfinkxehz6am4xkycucwedcrftdk602ulvzto
+---
+# RDE7wyCDpbyoXa/lhXIYqnm3p2fbDagokhpREWvJjQMDFQFbyT1QZy7TJD107/d55rpK7myEweos7UIw
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 1450 (chunk 1450/11534)
+
+## Content
+RDE7wyCDpbyoXa/lhXIYqnm3p2fbDagokhpREWvJjQMDFQFbyT1QZy7TJD107/d55rpK7myEweos7UIwsVPMy9Dfhcy1ueglOTTtD5bRMcA+muKYikztwdAGwtX4Yd33F7Mb9UCZWReU0OkmqqkhiyLOxwq7ZT2RymBnT+Ela7qVpihNFnVFSF5frSSKXvZqnGULdOTFR8t2DW99bDUvCuT46RySeUpCF3JqoRODW3rGBFInKXEhz6aM4XKYcucwEDcRFtdK602UlVztO/UEpG/jhVP8pt9bTquUa6vSayCWQZskS8hHVp7i3r54yfmT4L29Dcl5wkAFquw0JtO4Fg7CjBYO2U0Elsu4U8MQ1GcT0Cu8t+DwwV6QjPtN0DDtd2B59LxRwPvU+lOk8t21uukqkGG6jxvcaHljdnXkfbsflN0NesX4I4betDHpa7oLN4s8gmKtloTx0vtiJtWkU0JIzpfp+LlZTGArFq/Md+qmjxithzBuidppT9VZgOvSMGHr+OPe0CRSzo91/G3iAhJDLJMZUWFOkkXWPga4lJ1A1YML13YV50ZzDGNT1ETtT0bszNpGeISXjIgpbKxqRkZTkXUnAKM79IFJfLsy4IIbYTnOgDDLnvzC0qvif2S7IsXZv9dZRDzbggJJu2NzMJcUk606EynRr4Liu1dDlZjo5BflocUXVTQRkhS+cVvLr9iumH7Dljf7oLdsXsJZ5IZtTAMSRkrwmvllBgtb5aj9S2x5SB1Lc7u5VUB33P0S72hLQrEiiQksdOOHQZ9Bpvf+F2eOh6yqVfBq++DsMlCck6gawN7HERu1n5eLG9XPCdsETydX5lArMBOWP3zdNnklFSPuFfjcvPLHP8lF/Z1zmB4dI5ZuIx/2oGXyBItSmQjX0iT0uDkxTogEpi3Ya8OvE7oLtNx5wDMswHLJqpPveuOfus1/Aat4jNnJ2WJn9z9u0zN6fejszlxBskU/iFLyITPPUNVG+4nMxaEYEt0nMP99Dpn8G9fnbafH/u3vSPodFz/sPOh7Y07VsI0yp+gxLE9630ugh2/SeoHrA/BeFj9nvAC5l8jCzy5H9lkYwyLyYDL21X1OtENavudamFtLKap3m4yKuaeOQDYokhJ27QKnJhZn3mb6iPlorPZv4hJJmpbwD3SmVJlBCd+gAk5On/l5Wg/THb1XyFzUnquzJZPS
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

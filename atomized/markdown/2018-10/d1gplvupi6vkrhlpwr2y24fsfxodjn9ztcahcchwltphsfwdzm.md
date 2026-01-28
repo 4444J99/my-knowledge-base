@@ -1,0 +1,31 @@
+---
+id: 22cd27d6-0eb2-4bf0-ad40-0564cb116a7c
+type: insight
+created: '2018-10-05T22:17:31.000Z'
+document: 15981fe11fce83e658f6940d49a17e08
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 1gplvupi6vkrhlpwr2y24fsfxodjn9z
+  - tcahcchwltphsfwdzmp3ucuivjj6w6j6ywlpsrocbdjkrk5drctuvgrpfu46wyubngz
+  - pltceloyzxnu4bvncey
+  - suzj3td9o8xw1fubu9bg33zg53mxg2z6fz
+  - >-
+    glvhcbd1xc648jmwlyrpoa7w1he6b6qu3w8szjszqdtplyyva8j3b14j4bwmqfhgxan8e56stqh8dgvfjov4ngpxx0ripcvh5ljhgiexdxy6png6sdddlcrhdexkna968unbtzfbsdngpuscm8d7ateo4f2lyd0c6xcs0vjgiby149t3lwha
+---
+# d/1gPLvUpI6VkrHlpWR2y24fSfXOdjN9Z/tcAHccHwLtpHsFwDzmp3UCuIvJj6W6j6YWlpSROcBdjkrK
+
+## Context
+From document: Mike’s Mom’s Spanish Rice — chunk 555 (chunk 555/565)
+
+## Content
+d/1gPLvUpI6VkrHlpWR2y24fSfXOdjN9Z/tcAHccHwLtpHsFwDzmp3UCuIvJj6W6j6YWlpSROcBdjkrK5DrcTUvgrpfU46wYuBNgz+plTcElOYzXnU4bvNcEy+suzj3td9O8XW1fUbu9bg33zg53mXG2Z6fZ+gLvhcBd1XC648JMwLyrpoA7W1He6b6qU3W8SzjsZQDtpLYYvA8J3B14j4BwMQFhGXAn8E56STQH8DGvFjOv4nGPxx0RiPcVh5ljHGIexDxY6PNg6sDdDlCrHdexKnA968unBtZFBsDngPUscM8D7ATeO4F2lYD0c6xcS0vJGIBy149T3lwHA+28ArSrHNCuAehtAthJuwJ372w3wwD30xb9YryFqqxt5HBnaA9wfTqlaYf7mJOdZZztbpoDoKtinXC4u/Y2AeykhaBdLEkP3jVUrB1wvxUGz8JSMhLO9wjcg2PddNShwXvX8cX12TJOxFWALs7o802m1xq4ywrQnl3O2oP3Ezw41PtW3dz57oC7KznTGrzjAuhrvjtVHQA8B+DH+gDvhdoIvKOfCee7RP8C88tUBuBOyuB0d+2d2kmNwD2CiyHATRPgTuCd9JKoBvD+qCGvo/oIxDhE8LTQ4CleB+J1ABGI18F4HVyo6+DUgHsE7bmO9nUJ2nEZ9SBelagsdrSfY1gvtTwXuJv+QLsD9a2c7bRenqoK4G5zgLsYAfc80D5WSgb7X1lCxgTQTor+PYDPaGEpGYv22I8zMkcx/kLQ7tZzy9VsAHcP2lVOSRm+OMDdO9rNZO12crpHhzuA2bIAQMyq7bnUTLb/OJ0f95pxaQzcHWjHcSYHe5VOONhdPuBEKpyvKmq4y4agPdueNQfvJ/hAwJ361fXBexq4twLvIgXcsf3GTneeAPZDQcuA+4pKgPyg4F1mgDtNF4D3p/hZ7pzoQ4H3CEIWE4R0Ae4E3kkviUkAH/NqMfMqHvd43BGBCFYjWF0osBqve/G6l3fdGxy4R9AeQTveD1cBvARod9NOWT0dA+4mBdpdP26a19e0o51AO+kzuiF4x3Y9qE+rqgDtWO5LytgcFTMG3GUOaMf4PYDH+AuBu2oI3Nmks52c7s7h/jT6K1UeljsFWM863ecKuJuSUjK2pHa7Ds53p2yypEwE7qYAqNedbzuC97rbie0aAfhK4J4G7CKAdlJTDd4LwbrLB6w/
+
+
+
+---
+*Source: Document 15981fe11fce83e658f6940d49a17e08*

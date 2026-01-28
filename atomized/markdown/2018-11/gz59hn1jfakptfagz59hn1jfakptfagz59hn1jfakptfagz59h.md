@@ -1,0 +1,31 @@
+---
+id: 6007248b-a96d-400f-a015-a1874b1a004e
+type: insight
+created: '2018-11-06T20:47:41.000Z'
+document: 8c3ce8993066f857adca061d250e2c68
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    gz59hn1jfakptfagz59hn1jfakptfagz59hn1jfakptfagz59hn1jfakptfagz59hn1jfakptfagz59hn1jfakptfagz59hn1jfakptfagz59hn1jfakptfagz59hn1jfakptfagz59hn1jfakptfagz59hn1jfakptfagz59hn1jfakptfagz59hn1jfakptfagz59hn1jfakptfagz59hn1jfakptfagz59hn1jfakptfagz59hn1jfakptfagz59hn1jfakptfagz59hn1jfakptfagz59hn1jfakptfagz59hn1jfak
+  - ev2wvi58vta06p4b
+  - bvd95zs
+  - klmys9p120v1gma6eqobegnajfztuwvvawxz1pn2glc
+  - qbz6ppr82fgd8vvjb42
+---
+# Gz59Hn1jfaKPtFAGz59Hn1jfaKPtFAGz59Hn1jfaKPtFAGz59Hn1jfaKPtFAGz59Hn1jfaKPtFAGz59H
+
+## Context
+From document: Octatrack Tips & Tricks — chunk 2316 (chunk 2316/2544)
+
+## Content
+Gz59Hn1jfaKPtFAGz59Hn1jfaKPtFAGz59Hn1jfaKPtFAGz59Hn1jfaKPtFAGz59Hn1jfaKPtFAGz59Hn1jfaKPtFAGz59Hn1jfaKPtFAGz59Hn1jfaKPtFAGz59Hn1jfaKPtFAGz59Hn1jfaKPtFAGz59Hn1jfaKPtFAGz59Hn1jfaKPtFAGz59Hn1jfaKPtFAGz59Hn1jfaKPtFAGz59Hn1jfaKPtFAGz59Hn1jfaKPtFAGz59Hn1jfaKPtFAGz59Hn1jfaKPtFAGz59Hn1jfaKPtFAGz59Hn1jfaKPtFAGz59Hn1jfaK+Ev2wvi58VtA06P4b+BvD95ZS+KLmys9P120v1gma6eQObeGNAJFZtuwvvAwxz1pN2Glc/Qbz6PPr82fgD8VvjB42+OviS/wBR8N6mvhqAxaHLDLqontdHuLKL98zoflnmkkQbnRQRuOSa80/aQ+H/AMWPhJ4Vu/i3d/GbV31eTUgLbTkuJ4oNk0hKww/vsHy0G5h5YUgEY9VzaXHyn64+fR59fk78Vvi18X/Gz/BP4S2uuXHhbVPG2n2N5q93ZkwXDfam8sN8m1lAVHcoCoYsFOAKu/Cbx38Yvh78Tfin8Ao9fuvGF5o+kXd5oUuoOZpheRxRvAgMhY4dZVyhbbuXgAMaXOHKfqr59Hn1/PdYfFTx9d6VY63pPxL8SP8AFOfWltW0maaVbVoH3BSC7eVxJtVo3wo3Y2bRmvsb4o+Jvip8Xf2j9E/Z+t/Fd34QsrDTIptUk0uRo2kumtftMpyjIWXLIiqzbRy2CTihTHyH6l+fR59flt+z1rnxP+Kfhn4mfADxH451Gz1fwxfQx2mvQySNfRxxXLrKgkDpIQxhwMyE7XK5IAFeO+M9B+Lvh749eHfgn4H+MHibxLql08UmoPLfXUUVojHzCHAuH3bYQZHHHBUDJOKObqLlP2r8+jz6/LH9urxZ+0F4Qig1bRvEUeieC576CCzGmTzW2pvObZmfz5EC5j3LJhVfB+UkEgEfpDol5JLounyysXd7eIszHJJKDJJ7k1SYmjrfPo8+sb7RR9opiPoaiiiugD//0f2E+JMmz+zvfzv/AGSvL/PPrXonxUfZ/Zfv5/8A7JXkfnGqnuBseefWjzz61j+caPONSBseefWjzz61j+caPONAGx559aPPPrWP5xo840AbHnn1o88+tY/nGjz
+
+
+
+---
+*Source: Document 8c3ce8993066f857adca061d250e2c68*

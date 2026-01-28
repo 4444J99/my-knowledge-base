@@ -1,0 +1,26 @@
+{
+  "id": "f8e53a8a-c428-4f07-a2c5-c3337f6f8c03",
+  "type": "insight",
+  "timestamp": "2025-02-07T02:31:00.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Would you like this formatted into a PDF workbook for easy reference?</div>",
+  "context": "From document: I’ve taken all of this into account and structured it into a logical… — chunk 8 (chunk 8/8)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "14df6f345894368c19967809c1dd8b91",
+  "relatedUnits": [],
+  "keywords": [
+    "would",
+    "like",
+    "this",
+    "formatted",
+    "into"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

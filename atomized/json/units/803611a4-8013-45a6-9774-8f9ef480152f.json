@@ -1,0 +1,26 @@
+{
+  "id": "803611a4-8013-45a6-9774-8f9ef480152f",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### IV. | META-NOTES</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Projects may shift modes depending on:</tt></div>\n<div><tt>- Format (e.g., audio vs text)  </tt></div>\n<div><tt>- Entry point (e.g., GitHub vs ARG vs podcast)  </tt></div>\n<div><tt>- Narrative layer (e.g., surface explanation vs embedded recursion)  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>We will eventually generate tags and filters for:</tt></div>\n<div><tt>- `[LOGIC:REALITY]`, `[LOGIC:DREAM]`, `[LOGIC:HYBRID]`, `[LOGIC:META]`  </tt></div>\n<div><tt>- For use in docs, GitHub, Notion, mobile exports</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>::REF_ID = LOGIC_MODES.DREAM_REALITY.v1</tt></div>\n<div><tt><br></tt></div>\n<div><tt>—-</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## ::ARCHIVE_ENTRY_034  </tt></div>\n<div><tt>**Title:** Phase 2.5: Educational Frameworks &amp Pedagogy  </tt></div>\n<div><tt>**Ref ID:** EDU_FRAMEWORKS_4BLOOM.v1  </tt></div>\n<div><tt>**Folder:** /GPT_ARCHIVE_CORE/SYS_EDU_PEDS/  </tt></div>\n<div><tt>**Filename:** EDU_STRUCTURE_MAP.md  </tt></div>\n<div><tt><br></tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 155 (chunk 155/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "logic",
+    "meta",
+    "github",
+    "notes",
+    "projects"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

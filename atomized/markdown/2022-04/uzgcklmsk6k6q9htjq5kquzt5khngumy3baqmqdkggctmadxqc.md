@@ -1,0 +1,32 @@
+---
+id: ac99f9f4-976b-442e-8d77-047cc8fc6e18
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - uzgcklmsk6k6q
+  - 9htjq5k
+  - quzt5khngumy3baqmqdkggctmadx
+  - >-
+    qcsggb6kyai5qbw9occdaznbhcspgbeewdkmwc0fjlvwaeoy1iie4hgfyaopyjivee5fspuqyvxopv3bevcbsis4dv7ikb0vhl3flwnnuhbgjqgmhuprigykswxodvfefd6ptty4zkt2xofaabdz5k66hirjha1
+  - >-
+    gayzpj0rap1hkmctne5gpflg2lbsobzwpkgzabne1avizcbkwdheww1swdjtgia8ra8eqcwpoa5mgcmjib2ogcksqj7hzbesymz
+---
+# uZgCKLmSK6k6Q/9HTjq5k+QUZt5khNgUMy3BAqMQDKGgCtMADX/QCsggB6kYaI5QBW9oCcDAZnbHCsPg
+
+## Context
+From document: Strike one — chunk 3964 (chunk 3964/4795)
+
+## Content
+uZgCKLmSK6k6Q/9HTjq5k+QUZt5khNgUMy3BAqMQDKGgCtMADX/QCsggB6kYaI5QBW9oCcDAZnbHCsPgBEEwDKMwC0fJlVWAEOY1iIe4HgfyaopYJIvEe5FSPuQyVxOpV3BEVCbSIs4DV7Ikb0VHL3FlWnNUhBgJQgMhUPrIGykSWXODVfeFd6pTTy4ZkT2xOFaABDZ5k66HiRjHA1+gayzpj0rAP1hkmctne5gpflg2LbsobzwpkGzABNE1AViZCbkwDHEwW1swDJTgIa8RA8EQCWpoA5mgCmjIB2OgCKsQj7hZBesYmz/QUdC0ZEcQXYd3BF+QBmyABlxwndHZXBLYlllwMFNmHjD/ZgTOxZbBVkUndjLQ2QWGp164IUFE52/BN3zI8gLfWY+p8z71VWXthotC+T34CU5JmIsKyXBFYAWVuT/hGWwIGZosuT+hGaFiAHuYOYKv9U1eMpdnUZE7GR8ZhQRsUBUSFAS9CR3fEH8E8AZNKQL0CASU4AhxAAs7gAm2cAmswARZEAuhYAvAMAi5wJSlQJTf8AYH8D3mwXpxgSC5lnDOlV8I93ydJkQw8J3feXoLSXeNRp5QqDyXcURoUxA7wAXXeE4PxSi7MmQWcJEeQJ/kRX0FgQJd+HAcJJH2OQOxE1ICqqUHpTQtmQJdKIwJGkwXI3pnIAUQikU3sJISCpov/6AWEJFiwmMyH1kWW8qhlTooRiKK4VhDwbAFn7eiPxEGaMANkhALh+ADAqg1hqAGoxAKsxAJw9AHfQAMMLpJJ0cFMTACOhAdr6M2mVplPACgUHQzjap8PoWeAmUoIZOfcXqERPY1F5dpSnQnSQdfeQkTyjqQdOcB/UY/g1mdwgqhBCqRbUqeCdcVaFesG3gU1iSMRVAGfao/q+NloZUFZQCaEQqhiopFYoBFQlEXlTpTRBiIpnV8gKmFehUihvQFvPoqQAAJ3TAr3ICifQCqNGAIXYCbpioCx/ANQXAdU/AKyACO5piiwxAJnfpJW+CNVBAH7nQjWoAk7Okpu6QZI/8iQeZkekBZeKhZOgKUpdSCib+jrGnigmRHSOn5pWPTAkZQLT6QcKS4prYBY0BxqE2Ak+2pXQl7O+VhdffVq/jIn356Bisgr6I5d6Jhr/xzRYvatlBaAhJkegnbS3TbFjCwFLXGKXeim2xzelrIUtnZsNlDm3+Qsia7
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

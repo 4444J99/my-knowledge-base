@@ -1,0 +1,25 @@
+{
+  "id": "8dba65be-471f-40e8-96c8-cf371ecb6490",
+  "type": "insight",
+  "timestamp": "2025-06-29T18:11:56.000Z",
+  "title": "<div><h1>Call with John Monforte</h1></div>",
+  "content": "<div><h1>Call with John Monforte</h1></div>\n<div><br></div>",
+  "context": "From document: Call with John Monforte",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1af0f86908bde4210056f7be24efff7f",
+  "relatedUnits": [],
+  "keywords": [
+    "call",
+    "with",
+    "john",
+    "monforte"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

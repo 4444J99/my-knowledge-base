@@ -1,0 +1,24 @@
+{
+  "id": "3abc0ff4-fdc6-4e74-bce4-9b07a4b913b0",
+  "type": "insight",
+  "timestamp": "2022-02-22T15:16:01.000Z",
+  "title": "<div>22WB - Midterm Advisement</div>",
+  "content": "<div>22WB - Midterm Advisement</div>\n<div><br><br></div>",
+  "context": "From document: 22WB - Midterm Advisement",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1e95e3aa187cbb3f93666147c4bafdb5",
+  "relatedUnits": [],
+  "keywords": [
+    "22wb",
+    "midterm",
+    "advisement"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

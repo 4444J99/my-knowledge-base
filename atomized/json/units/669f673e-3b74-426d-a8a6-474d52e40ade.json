@@ -1,0 +1,26 @@
+{
+  "id": "669f673e-3b74-426d-a8a6-474d52e40ade",
+  "type": "insight",
+  "timestamp": "2025-12-21T14:37:57.000Z",
+  "title": "<div>Cleaning up disparate branches in a GitHub repository while preserving all ",
+  "content": "<div>Cleaning up disparate branches in a GitHub repository while preserving all the information involves careful planning and execution. Here's a comprehensive approach:</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **1. Assess the Current State of Branches**</div>\n<div>- [ ] **List all branches**:</div>\n<div>  - Use the command: `git branch -a` to see all local and remote branches.</div>\n<div>  - Alternatively, view the branches on the GitHub UI under the **Branches** tab.</div>\n<div>- [ ] **Identify active/inactive branches**:</div>\n<div>  - Look for branches that have recent commits or are linked to open pull requests.</div>\n<div>  - Identify stale branches with no recent activity (e.g., last updated &gt 6 months ago).</div>\n<div>- [ ] **Analyze branch purpose**:</div>\n<div>  - Determine the purpose of each branch (e.g., feature, bugfix, experimental, etc.).</div>\n<div>- [ ] **Check for unmerged changes**:</div>\n<div>  - Use `git log --cherry` or compare branches on GitHub to see if there are unmerged commits.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **2. Backup All Branches**</div>\n<div>- [ ] **Clone the repository**:</div>\n<div>  - Run `git clone --mirror &ltrepository-url&gt` to create a full backup of all branches.</div>",
+  "context": "From document: Cleaning up disparate branches in a GitHub repository while preserving… — chunk 1 (chunk 1/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "21b3da15b421224ca9d912d612ff13de",
+  "relatedUnits": [],
+  "keywords": [
+    "branches",
+    "github",
+    "branch",
+    "repository",
+    "identify"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

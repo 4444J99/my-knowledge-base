@@ -1,0 +1,26 @@
+{
+  "id": "0e0f1d5e-27fe-4ef2-b517-fca8aadc7581",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>📜 4. Some Rituals Require Group Participation</div>\n<div><br></div>\n<div>📜 Certain rituals (fate manipulation, purges, legendary item activations) now require a collective decision.</div>\n<div><br></div>\n<div>✔ How Group Rituals Work:</div>\n<div>  •  Some rituals require the entire class to vote on whether they succeed.</div>\n<div>  •  Some rituals require a certain number of participants (ex: three players minimum).</div>\n<div>  •  Some rituals may be sabotaged by a hidden countermeasure (ex: an unknown player works against the ritual).</div>\n<div><br></div>\n<div>✔ Examples of Group Rituals:</div>\n<div>  •  The Trial of Ascension → Requires majority vote to allow a player to transform into a unique archetype.</div>\n<div>  •  The Fate Rewriting Ceremony → Requires at least three players to activate a fate reversal.</div>\n<div>  •  The Summoning of a Lost Relic → Requires a faction-wide agreement to bring back a vanished item.</div>\n<div><br></div>\n<div>📜 Why This Works:</div>\n<div>✔ Encourages strategic player alliances and betrayals.</div>\n<div>✔ Prevents rituals from being isolated actions—forces the class to engage.</div>\n<div>✔ Makes group-based play more dynamic and unpredictable.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 540 (chunk 540/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "rituals",
+    "some",
+    "require",
+    "group",
+    "fate"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

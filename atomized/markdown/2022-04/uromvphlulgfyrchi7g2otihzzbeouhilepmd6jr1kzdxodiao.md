@@ -1,0 +1,33 @@
+---
+id: 5b352eed-2378-46a3-9e45-28c8614dcdb4
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - uromvp
+  - >-
+    hlulgfyrchi7g2otihzzbeouhilepmd6jr1kzdxodiaogklkebcdhnfffl0bgtywibssybwhjjwnbjbjghqahrtefaxbhjtfh
+  - >-
+    ywy6thwj92gvbztknyj2qbfnecdpt4e73uerzvvhbzd3avzq02pixhggklgkeqelv5bvsrkhppd9gnehcbfwhhjav7rmqjv2ugglxfk502krrwaesfeutyf6xfefixdbtzgbahgvczyasyus8pzhnubowwgn23w
+  - >-
+    gvsow6io1bsorzgae4idp7kdjku7nvctnqlsllfxzmg70hb6hjfsqaciusggzqp0hiv8urdfaxjxuh
+  - qldeai7eai
+---
+# uRomvP/hLULGFYrcHI7g2oTiHZZbeOUhIlEPMD6JR1kZDxodIAogKLkebCDhnFFFL0bGtyWibSSYbWhj
+
+## Context
+From document: Strike one — chunk 591 (chunk 591/4795)
+
+## Content
+uRomvP/hLULGFYrcHI7g2oTiHZZbeOUhIlEPMD6JR1kZDxodIAogKLkebCDhnFFFL0bGtyWibSSYbWhjJwnbJbJghQAhRtEfaxBhJTFh/fVZ/ywY6THWJ92gVbzTKnYj2qBFNECDPT4E73UErZVVhbzd3AVZq02PIXhgGkLGKeQeLv5bVSRkHPpd9gneHCbFWhHjAV7RMqJV2ugglXFk502kRRWaesFeutyF6XFefiXdbtzgbahGvCzYasyUS8pZhNUboWWGn23W/GVSOW6iO1bSOrZGAE4iDP7kDjKU7nVctnQLsllFxzmG70HB6hjfSQACIUSGGzqP0HiV8uRdFaXJxuH/QlDEAi7EAi+U5UJa30NOJJvhoJGxU7kMWbwI20eBBhCe1wwuWLihZILlDzZiYlzFlSQ6Rr2dBG7U22G6xiNu1mKGngHZZejxmSUyy/z5oGSC1JPwV5YRIxlpVENVy1vMDS/QWl2MJlVAw/Whg1OEzEXABwBQwkO8ZlZ1hCFoVVcRJFZaxSnonW7GQiyIgm4CAFpKD+AFxShJpNhVT5WVm1mkjRhtZCn6Ig5WEfuIW9FVhWMhFE5O1jA04tXJJFEWZSVdFCg5FmHaX2d0BmWy32T+DSGyI2WCp7yVIyDiZbnJ2Vkcg/ucYtNUSDBAQzAAgDkAwFvwQjEAaEcUH1Vs/wEhgAGDAgIY/IEcfEGEuiHQgNWI/FtClhMvnIJvAmeHjiUA4IIojGiJPoQniIInWIVZOqRwkpJTXN86sdNz6iV0utP1aZ8wMFT9aJ617KH09JdE2WfogcY1cBY6HhZC7Rk2WthtHGZMPmmUWuZ5DqZgEglLWlkUUlKBPWMMmiMz6p96Qt5OMhK2dM9EIhkDiqjJHehDPAMumAMuhOU+msM30NozUIUgEMIWVAJVBIJzgdUT4SZkgEIsfKhY/eZJiIKLnsScAgBwSgYuQCpajdL1WWpaDp5Gqk3JTVj9oFdGCplhweQ3dlKRahZozKdTaONtcGeWWViWQmmsEuaTRv+JYTnFeyqi4RgQljyh/SUYZx0G1r3Ln3mpZLGjJh3iZcYTj0JGyZlDaQpoacIpLnQDAAQDLvjnswYoNJgDf0JCbk3lQ5TKQzxoR3yBhA7NvxXqkIlCUvjmQ7TrmsorVTCqU/BmcHZEHP4djFZjUOCeDg6plaFFc4qVqC7SerUb
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

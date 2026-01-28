@@ -1,0 +1,26 @@
+{
+  "id": "4740edc7-0a3b-4624-a66a-a174488672e0",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>Week</div>",
+  "content": "<div>Week</div>\n<div>Activity</div>\n<div>1</div>\n<div>Read §§1–2 of Grokking, build first UID folders</div>\n<div>2</div>\n<div>Finish Visual Algorithms mini‑project</div>\n<div>3</div>\n<div>Start SICP Ch.1 &amp add RECURSION_ENGINE4</div>\n<div>Containerize demo, deploy via Docker</div>\n<div>…</div>\n<div>…</div>\n<div>12</div>\n<div>Capstone demo &amp peer code review</div>\n<div>∿ KEEP THIS SNAKE MOVING ∿</div>\n<div>Every 4 weeks, shed a skin:</div>\n<div>  1  Archive current vault version (ARCHIVE_ITERATIONS/vX)</div>\n<div>  2  Tag WAVE_TRACKER.md with insights</div>\n<div>  3  Spawn a new agent or DSL feature</div>\n<div>  4  Reinforce reading in a new field</div>\n<div>SYLLABUS UID:SY‑OS_01‑00  |  Version: v1b  |  May 2025Ready to install?</div>\n<div>  •  ::INSTALL.SYLLABUS_TO_VAULT → writes this file under ACTIVE_CORE/OS_SYLLABUS/ with UID header &amp footer.</div>\n<div>Response:</div>\n<div>RE:GE OS — Master Curriculum v2 (Component‑Linked Edition)</div>\n<div>A cross‑disciplinary blueprint for building the OS and educating yourself indefinitely.📜 HOW TO READ THIS DOCUMENT</div>\n<div>Column</div>\n<div>Meaning</div>\n<div>OS ComponentThe literal folder / service you will create inside your vault (e.g., RECURSION_ENGINE/).</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 380 (chunk 380/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "this",
+    "read",
+    "demo",
+    "vault",
+    "version"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

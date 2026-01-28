@@ -1,0 +1,26 @@
+{
+  "id": "2bf9b167-049b-4cc3-81f8-8d41d5af7d2b",
+  "type": "insight",
+  "timestamp": "2025-02-12T16:23:09.000Z",
+  "title": "<div>27 to &gt22.0 pts</div>",
+  "content": "<div>27 to &gt22.0 pts</div>\n<div>Accomplished</div>\n<div>Topic sentence clearly focuses on prompt. Reasons, details, facts directly relate to prompt. Effective transitions; Interesting conclusion summarizes main idea. Clear, careful plan (when required)</div>\n<div>22 to &gt18.0 pts</div>\n<div>Developing</div>\n<div>Attempts a topic sentence. Reasons, details, facts mostly relate to prompt. Ineffective transitions. Weak, repetitive conclusion. Sketchy, inaccurate plan (when required)</div>\n<div>18 to &gt0 pts</div>\n<div>Beginning</div>\n<div>Absent/unclear topic sentence. Reasons, details, facts do not relate to prompt. No transitions. No or inappropriate conclusion. Little/ no plan (when required)</div>\n<div>30 pts</div>\n<div>This criterion is linked to a Learning OutcomeContent</div>\n<div>30 to &gt27.0 pts</div>\n<div>Exemplary</div>\n<div>High quality information focuses on the prompt in engaging ways. Intriguing and/or compelling examples, evidence and explanations bring topic to life. Prompt/task fully developed</div>\n<div>27 to &gt22.0 pts</div>\n<div>Accomplished</div>\n<div>All information is accurate and focused on task/topic. Examples/explanations support topic. Prompt/task developed consistently</div>",
+  "context": "From document: Week 6 Canvas Data Dump: — chunk 20 (chunk 20/25)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "4df809ce4a40f6ef965c1ad700e9ab52",
+  "relatedUnits": [],
+  "keywords": [
+    "prompt",
+    "topic",
+    "sentence",
+    "reasons",
+    "details"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

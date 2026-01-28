@@ -1,0 +1,32 @@
+---
+id: 7fb788cd-6e2c-45be-941e-5603693eda27
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - phutbk0yewg8cln4
+  - >-
+    k8aqan25i2ewlptlxdmz2ldl8l3y6m8fdqknpdexcrtfpozrfywvfjypljpmofie2afrq16yv8ryj4ji7rrl0nb7fewru0wcniphmttdm2giw6bag4edl2lvusgopqgfwcvwdbrdxucmstihrmsa9hscx9t57elvnq99dadw
+  - >-
+    skzr8xqo3mefoec79y4udzsidqc3zwetmahrgwrtmsb9e8mka7rkgr9dz0jb1s68tle28mkppvztu
+  - loy2xxx22qtmhzvtb65jgtvupar70
+  - 90oxtxgsqwov1ktdlsp148c
+---
+# pHuTbk0YEwG8cln4+po/K8AqAN25i2eWlPtlXdMZ2ldL8L3y6M8fdqkNPDExCRTfpOzRfYwvFJYpljPm
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 9332 (chunk 9332/11629)
+
+## Content
+pHuTbk0YEwG8cln4+po/K8AqAN25i2eWlPtlXdMZ2ldL8L3y6M8fdqkNPDExCRTfpOzRfYwvFJYpljPmoFie2AfRq16yV8ryJ4JI7rRl0Nb7feWrU0WCNIpHmttDM2GiW6bAG4Edl2LvUsgOpQGfwCvwDBrDXucMsTihrmsa9HscX9t57eLVnQ99daDw/sKzr8xqO3MeFoEc79y4UDzsiDQc3zWeTmAhRGwRtMSB9e8MkA7rkgR9Dz0JB1s68tLe28mkpPVzTU/Loy2xxX22qtmHZvtB65JGtvUPAr70+90oxTxgsQWoV1KTdLSP148c+MiBjxz4H+GA83+knP+zxWSjbbsqpv6EeBxGeLge5y1tCH/DRjRFBUDFSBglLqbeiLXUyFI1S9aSju9gPaA7N+dcfBKeeXK2xLkS4e5m5C6+jVkaXTojDvUAs7sfhmG277zp/tKEu6Qx9si0LWPljLHRgFfNKqcqIi5SodGGI4APVdDqMBd0WNBhYW75bT+PvTH2xlibsNpr32djlB/jYN04hlR1Yx9JueRR9cTVk1RPwg84gLgCOLe437W+G7vx1CXJyyAG5CSUR+DDXjp2Tk/9meefcx5Wbpztc67Pua/D6ZSPF1DM0r4enCwJMCMHzHN/EPZg4PS2gCtCR5COjTN6q2Tchrn2OJ/39fT/6W/tKmnOpP4u9e+pYnDFGDb8kaBXcqxatOrmqlsHeu4vsr+wdvhst09HAme1DCK7YuIruLiwAycMnP7tNLa3lY8WbL6N50FYSZ646o82TjiVWprQvghBaylxA4RLWq+W3sT54jcw4LPy0Cp5h7d8rx1TfY2ARvEdYkRwW7HVHQB6a8Kt5ju6w8ph6vX9/PRBrv9ZgIYAZ1SBlHjql3qSgeQd/GveX+F2RzXU/SYyakx4edkxvL6LxOEm1tBO4FQOy30bHPvKOq398UDttaHInqK7i+xOFp2g32r7MK+9f4f513HGfLdN3aSLwtQY3rxq6UR0mqmxYRY2/jrVe7qMXq3TvAAvyV/QFl72N7H9XU+0VqePmb5y+u+zDwVgcyfWV13G1bdW512dDwNZK/Ys17pn64a8ZycfV7GITr1JkIVHJjaIzDQiM1amup75vhnllSfAA3zgN/4kfLKZpwuXSlAqQcmE8sDUFmNewLxr867JkQE4n5s805Zap7IptH9E+GeRrxya
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

@@ -1,0 +1,30 @@
+---
+id: b6c0b09a-81c8-459a-a0cd-de2078a74c53
+type: insight
+created: '2025-06-26T22:20:27.000Z'
+document: 3064a729ccc4b131077d7f0fa180d5e3
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: design
+keywords:
+  - what
+  - that
+  - today
+  - blah
+  - fucking
+---
+# t. It does, I don't want to sit here and waste my fucking. You know what I mean?
+
+## Context
+From document: . So, these are all different things getting your attention. So we… — chunk 12 (chunk 12/12)
+
+## Content
+t. It does, I don't want to sit here and waste my fucking. You know what I mean? I got shit to do. If it could benefit something, if this becomes a daily, good questions, that alone couldn't fucking save time. So, look at the morning startup, though. Look at the questions there. What's on fire today and energy issues, blah, blah, blah. What jobs I'm moving forward today? Where's everyone going? Okay. Where is each crew going? And he staffing is cash. small materials do we need to. We do we need to call today?ivers send any permits to pull it? Yeah, that's great. Right. And then if we just did it every morning, and at the end of every day, you start creating a process. And who made this clo?? Well, yes. Well, so fucker made it. Why trying to take the credit. Do your thing. I'm gonna sit on my couch for 10 minutes and for us. I eat the cookies that I yell at</div>
+
+
+
+---
+*Source: Document 3064a729ccc4b131077d7f0fa180d5e3*

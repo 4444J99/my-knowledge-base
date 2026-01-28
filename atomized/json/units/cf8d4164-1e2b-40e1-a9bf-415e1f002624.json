@@ -1,0 +1,26 @@
+{
+  "id": "cf8d4164-1e2b-40e1-a9bf-415e1f002624",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Finalizing mechanics for running from checks and betrayal caps.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Running from Skill Checks (Finalized Version)</div>\n<div>  •  Players can attempt to flee but must roll for it.</div>\n<div>  •  Roll of 7+ → Escape successful.</div>\n<div>  •  Roll of 4-6 → Escape with debuff.</div>\n<div>  •  Roll of 1-3 → Escape failed + forced penalty.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Betrayal Limits &amp Cooldowns</div>\n<div>  •  Players can only betray twice per semester before suffering faction exile.</div>\n<div>  •  Betrayers must wait three weeks before attempting another defection.</div>\n<div>  •  One-Time Betrayals Exist for Key Moments (e.g., a major endgame decision).</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Prevents spammed betrayal mechanics.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Ensures betrayal remains a strategic event, not casual.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Adds cooldowns so players don’t abuse the system.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 473 (chunk 473/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "zapfdingbatsitc",
+    "betrayal",
+    "roll"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

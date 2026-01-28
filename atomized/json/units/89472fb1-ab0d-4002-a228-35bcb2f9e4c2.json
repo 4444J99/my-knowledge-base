@@ -1,0 +1,26 @@
+{
+  "id": "89472fb1-ab0d-4002-a228-35bcb2f9e4c2",
+  "type": "insight",
+  "timestamp": "2025-05-11T12:30:52.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>4_S0VRC3/</tt></div>\n<div><tt>├── 4rchive/                     # Archived, zipped, or deprecated files</tt></div>\n<div><tt>│   ├── old_exports/</tt></div>\n<div><tt>│   ├── zip_fossils/</tt></div>\n<div><tt>│   └── legacy_systems/</tt></div>\n<div><tt><br></tt></div>\n<div><tt>├── backend_core/                # Logic, naming systems, engines</tt></div>\n<div><tt>│   ├── os_engines/</tt></div>\n<div><tt>│   │   ├── symbolic_logic_core/</tt></div>\n<div><tt>│   │   ├── naming_functions/</tt></div>\n<div><tt>│   │   └── ai_routing_protocols/</tt></div>\n<div><tt>│   ├── re4dme_map/</tt></div>\n<div><tt>│   └── system_docs/</tt></div>\n<div><tt><br></tt></div>\n<div><tt>├── creative_systems/           # Narrative, art, sound modules</tt></div>\n<div><tt>│   ├── mythos_engine/</tt></div>\n<div><tt>│   │   ├── ch4mbers/</tt></div>\n<div><tt>│   │   ├── bl00m_core/</tt></div>\n<div><tt>│   │   └── d34th_l0ve_project/</tt></div>\n<div><tt>│   ├── sound_machines/</tt></div>\n<div><tt>│   │   ├── synthw4v3/</tt></div>\n<div><tt>│   │   ├── midi_logs/</tt></div>\n<div><tt>│   │   └── daw_exports/</tt></div>\n<div><tt>│   └── world_renders/</tt></div>\n<div><tt><br></tt></div>\n<div><tt>├── documents_public/           # For site, pitch, portfolio</tt></div>",
+  "context": "From document: 4_S0VRC3/ — chunk 1 (chunk 1/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "f9893577568308f9ddc4c44fa77b59fa",
+  "relatedUnits": [],
+  "keywords": [
+    "4_s0vrc3",
+    "4rchive",
+    "archived",
+    "zipped",
+    "deprecated"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

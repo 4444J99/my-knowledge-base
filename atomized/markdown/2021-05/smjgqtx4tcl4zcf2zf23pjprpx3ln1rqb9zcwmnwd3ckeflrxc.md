@@ -1,0 +1,31 @@
+---
+id: ef3b0233-cd65-4a7e-8d5e-ff8c4506b2b5
+type: insight
+created: '2021-05-26T23:27:15.000Z'
+document: 2ae38fea492495437073a93dd029fb49
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - smjgqtx4t
+  - cl4z
+  - cf2zf23pjprpx3ln1rq
+  - >-
+    b9zcwmnwd3ckeflrxclvbpvidhwnejztimoltujpo79wfaxgnwn8ofcgmecpatkunadpmxlwlusjyrhgwlydym7tysewnahxuvj6r4h0dq9n9t6nbaf5pwn2izitxphg8jnace8nzelxbsllfimq6emra9wrwaajakjlmigxfm6xr0yxah61n6nrmi6lac
+  - wbz1c3slziajbivioytymm5aoa1kkignguoi7q1kwagzq6ohdkysmhli4ii5bfs0affffabvzt
+---
+# sMjGQTX4T/CL4Z+Cf2zf23PjPrPx3ln1rQ/B9zcWmnWD3ckEflRXclvbpvidHWNEjZtiMoLtuJPO79wf
+
+## Context
+From document: Stuffed Mushrooms — chunk 359 (chunk 359/489)
+
+## Content
+sMjGQTX4T/CL4Z+Cf2zf23PjPrPx3ln1rQ/B9zcWmnWD3ckEflRXclvbpvidHWNEjZtiMoLtuJPO79wfAXgnwn8OfCGmeCPAtkunaDpMXlWlusjyrHGWLYDyM7tySeWNAHXUVj6r4h0DQ9n9t6nbaf5pwn2iZItxPHG8jNacE8NzElxbSLLFIMq6EMrA9wRwaAJaKjlmigXfM6xr0yxAH61n6nrmi6LaC/wBZ1C3sLZiAJbiVIoyTyMM5AoA1KKignguoI7q1kWaGZQ6OhDKysMhlI4II5BFS0AFFFFABVzT/APj/ALf/AK6J/MVTq5p//H/b/wDXRP5igD0yiiiswCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA/9T9/KKKKACiiigAooooAK5TxR0tv+B/0rq65TxR0tv+B/0poDkqKKKsAooooA/D79tC3T4nf8FHPgr8L9XP2jRbGLTJZLZuUZpLyae4BB7SRwxq3sK/cGvw9/4KFSzfBn9tD4KftE3sZ/sJVtILllUkj+zbxnuenc29yu0dyp681+3FjfWep2VvqWnTpc2l3Gk0MsbBkkjkAZXVhwVYEEEdRSAdeWlrqFpPYX0KXFtco0UsUihkdHG1lZTwQQcEHqK878C/C74V/BbR9Ri+H+gWPhXTZz9quxaxiGJjEuDI/b5VHJ9BXaeIdf0fwpoOo+J/EN0ljpek28t3dTyHCRQQIXkdvZVBNfNWjfHTwB+1F8D/AIhah8FLy51KOHT9Q00SvaTW5+2S2bMqIJVUsRvQnHqPWmB+XvgXw349/wCCo/xb8V+JfG/ia/8ADvwg8J3KwWWmWThWk3ljEoVgY/OKL5k00iOVLKiDbjb6N8cP+CbOm/BTwZqHxl/Zd8Xa7onivwhbyagYZ7pG+0QWy+ZKsUkUcTI+1S21t6PjZtGc12H/AARy1TS5vgb400WFQNRtPERnnOfmMM9pAsOR6bopMfjX6j/EXVNL0P4feJ9a1xQ+nWGl3txcqxwDDFA7SAn0Kg0gPkH9mD4q2X7b/wCydqFl49SM6lewXfh3XRGoAacwgfaEQYCl45ElGAAr5C8KK+ef+CVnizWPDFl8S/2Y/GDeXrXgHV5Zo42P/LORzb3Kp/sJNEGz383Pes7
+
+
+
+---
+*Source: Document 2ae38fea492495437073a93dd029fb49*

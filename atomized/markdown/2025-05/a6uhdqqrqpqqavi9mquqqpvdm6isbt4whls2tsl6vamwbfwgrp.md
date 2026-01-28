@@ -1,0 +1,33 @@
+---
+id: 1fce0212-b1b5-4240-bf15-5df484d68321
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    a6uhdqqrqpqqavi9mquqqpvdm6isbt4whls2tsl6vamwbfwgrpzvjbyn7qhyjvc4gz0gr3zosyao2dotpngpjtc6tfng5
+  - 6nzbf52e8sftblqybnq4fnwe1ivrua8ychn
+  - >-
+    ei4eq7l3ci9lyqovcvjlunvgwass2jdeac0bu6fvmw8cvv0o7opmdqlyrwepuqtiw4ca19o1k6mmqbl6
+  - >-
+    5shn3czbaauq0iwlvq39edrfu54wsvhfh4eh3qq0ip7n1zmzthxhhdvg4bst4jp2bmcqkef1rb3jqdvhar4xd0renbkccurrxlaagbfwb3vaja65acr1wksojotqepqrqkquhau60zaranj
+  - tk06kx13alg9fksah
+---
+# A6uHDQqrqpqqAVI9mquqqpVdM6isbt4wHls2TsL6VaMwbfwgRPZvjBYN7QhYJVC4gZ0Gr3ZoSYAo2dOt
+
+## Context
+From document: New Note — chunk 1941 (chunk 1941/21099)
+
+## Content
+A6uHDQqrqpqqAVI9mquqqpVdM6isbt4wHls2TsL6VaMwbfwgRPZvjBYN7QhYJVC4gZ0Gr3ZoSYAo2dOtPNGpjTc6tfNG5/Z+6NzBF52e8sFTBLQybNq4fnWE1iVRUa8ycHN+Ei4Eq7L3ci9LyqoVCVJlUNVgwaSs2jDEAc0bu6FVMw8CVV0o7opmDQlYrWePuqTIW4cA19o1K6MmqbL6+5SHn3cZBAaUQ0iwLVq39EDrFu54wsvHFh4Eh3qQ0ip7N1ZMzTHXHHDVg4BST4JP2bMCqkEF1RB3JQDVhaR4Xd0rENBKcCurrxLAagBfWb3VAJa65ACr1WkSOjoTqEpqrQKquhAU60zArANJ+TK06kx13AlG9fKsAh/vamRVNfMnaJWBVVZZ9SDa2pUoahdqy5UmP4Orvv6B95mjszvsCei83xg2LQawylArQ6viBWAthDcoqxraKY7KqgCrnxCw+uaut/B0x84KfEoQKqmw1gkO1QDWkwSsniJwNWPESHh4+eat53APVGV1VYvCqkVhtaAfZcbKzQFWZTv+Ydu+fftcxVV+RaGUlURvAVYfDERXEj9bS58sn+0/cQ7IomnJ/nn97+6dAGZbtmwxOhC8KCswAi8imwq8wMeAGtflxXYJDwNY5cVkc/rEi9RSTwVW19GrzDlfD6JKn8WzqibXmzVrlmRpviAw5O8KrDIAJ8fGx81xhlUZWmV1RxlLPbDKc4Q/+zj6j2NeOObADwQYTGW4jueGBPWz4/ZZrdOY8b5SUlIwf/582bRAX9T+59cwA7PcF1aPLE7guaiOIbfJoCoDq6JQy3lFAVaL2nZ+wCof6/r167VjZ8BbwqZNm7Q8U6+V5s//2LFj2jmjziU+Np5H/J2gDwVBWvr6+rQpkNAYAGTu9Uy/j+LOWxkLUzBZQdcMfhDI/1SQlpaWex7ymHK7DASrC/nF7av+2M1N/x3OFT6Wol4nTM0zbvNRnSvmgG/cH1PBFLDK9Qszx0y1L/lFvSbJ9npv7nlr6j6kqMBqcc4l/qymTp2arzE0oIaCroXGrmmyfUHXmKIAq/I6er7WGPueljwpN6XuKn1kr45pfveUpu7fHtdc4L4X9dphznlr7LN9nMfKx1vig8B2Fm8BLy1zoHhzoMSf7P/sDlqA1UcLrAqsqnpVZZUBVRVcFVhV9QKssv/qK7Z74KoeVi1IYVUP
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

@@ -1,0 +1,26 @@
+{
+  "id": "9dd1d059-3117-42c9-aa4d-2201a35c5888",
+  "type": "insight",
+  "timestamp": "2025-06-27T06:10:52.000Z",
+  "title": "<div>First of all, my car is not going to your shop.</div>",
+  "content": "<div>First of all, my car is not going to your shop.</div>\n<div><br></div>\n<div>My car is going to Mercedes.</div>\n<div><br></div>\n<div>It is a Mercedes, it will go to Mercedes to get there.</div>\n<div><br></div>\n<div>And secondly, I am not going to spend one single dollar, I'm not laying a penny out.</div>\n<div><br></div>\n<div>You are going to pay for everything up front.</div>\n<div><br></div>\n<div>I'm not paying for anything.</div>\n<div><br></div>\n<div>He's like, &quotWell, let me see if I can quote corporate and I can ask him.&quot</div>\n<div><br></div>\n<div>I was like, &quotWell, it's really not an asking question , okay?</div>\n<div><br></div>\n<div>Is a Marriott?</div>\n<div><br></div>\n<div>What was it?</div>\n<div><br></div>\n<div>Yeah, it was a Marriot.</div>\n<div><br></div>\n<div>But they're a third party.</div>\n<div><br></div>\n<div>The valet company is a third party.</div>\n<div><br></div>\n<div>What kind of what other people were that?</div>\n<div><br></div>\n<div>Was it like a lot of nice cars or was it not like that?</div>\n<div><br></div>\n<div>It was more middle class?</div>\n<div><br></div>\n<div>It was it's off season now.</div>\n<div><br></div>\n<div>So it was, I swear to God, I think there was a summer camp there.</div>",
+  "context": "From document: 4320 Mariners Cove Dr 2.m4a — chunk 186 (chunk 186/225)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "3daa4ef2da2c63b0f7b42279befdb3fc",
+  "relatedUnits": [],
+  "keywords": [
+    "going",
+    "like",
+    "mercedes",
+    "there",
+    "what"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

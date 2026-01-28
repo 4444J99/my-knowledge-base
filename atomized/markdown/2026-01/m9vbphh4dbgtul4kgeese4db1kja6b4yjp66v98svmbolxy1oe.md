@@ -1,0 +1,31 @@
+---
+id: dc2746ec-0c0c-48f7-b819-6f4939ea82b3
+type: insight
+created: '2026-01-17T22:01:57.000Z'
+document: 1e7f774965e1eb562e09169dee48e356
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - m9vbp
+  - dbgtul4kgeese4db1kja6b4yjp66v98svmbolx
+  - y1oevaxfgwkvd50gzsehlv6y277eqiiiwj0wurv0x4sp8ljasi4w9rrcd0bdtvnpauczylript
+  - >-
+    rzahdsv31qvmv0nvlsbi6r8nnkcyxzy2tgixxns76dgcas1hruw9xgndbooavafjbxkqnihds1ebskax21347ac6fkxzrvsqqh6iuupz7mad2jths3vrjaoufzco9wqkaeuknywoa4liauyfppcjqag
+  - nfxzsaryw2eiz7p49c6yjghuhvxxvnz1agfna6vw
+---
+# m9Vbp/h/H4+dBGTul4KGeESE4Db1kjA6B4YJP66v98svMBOlx/y1OevaXFGwKVd50gZsEhlV6y277eQI
+
+## Context
+From document: New Note — chunk 226 (chunk 226/552)
+
+## Content
+m9Vbp/h/H4+dBGTul4KGeESE4Db1kjA6B4YJP66v98svMBOlx/y1OevaXFGwKVd50gZsEhlV6y277eQIiiwj0wUrV0X4SP8Ljasi4w9rRcd0BdTVnpAucZYLRIpT/RzaHdSv31QVmv0NVLSBi6r8NNKcyxzy2tGIXxnS76DGCaS1hruw9XgNDbOoaVafjbXKqnIhdS1ebSKAx21347Ac6FKxZrvSQQH6IUupZ7maD2jtHs3VrJaoufzCO9wqkaeUKNyWoA4LIauyFpPCjqAg+tV/NfXZsaRyW2eiZ7p49c6yjGhUHvxxvNZ1AGfNA6VW/6oJtNLn/+hz2Wt6OE7VHEH52UBG+Qq8XaQK4QQNvLZPElsevglWjTra/Zptgd3gKz7wIthMKuJghhKg0gfMcZE/ZCasPW48CtBuiEFFaCcuIKOl/su8/D+1mwKUOFLOGOXy33HpPkxL8Ee2qHyO6/K4pl1/q6up5u/Q+55/Hgk5iwwTU4nZYB+93/EFilBNvOGetbuIpLu4qzfl+2aq61CCaXLLJ1ygiqrcbxwh9HWh7Saj6lNdoCqX9afnRsgjwyiEcilY3/TvSJkU/nhNHnliUZAyxCxwPiNun8IjvpSFEOBxv+BMkm3oWgBA01NPm1NxBz1coOR5HlzynL9jUoC+kyxMi6+gv5URPdlKMK2iuUyNwKioIA0rdheQBIH5n9IATbgOipcVneetMVV7Ugw8ltEOZ8bMYkdIBnL7nFPCDurMfQenE1wfEgiBOErZabM2MO7JfIUZDXtoNUA09SbT2HkYQTXVxgBnt1/QUMBDlWVAgUBQYOBgDxCZlN5eWx1YE/gnaxgSJc/aLWprY3nwOlJNi5/w+qB4n9AOfkJZzpKp94oc/oPRr62+uXxTCIo8arrv8lmhUxTuxvQEvGnEKHX8YzWOmWZt/Mob0LyiyKcp/M2KOKns/OZ53Y7oefxDtyLJ7qjg63naIR3Qu+J7AZHfBZdaBbgL8QSnMJltYQtPhCDKTzir42sL8spRJ/vMPRkxgGQGkVD1nQsL2dPIB/stRdPTi4oj9YHpTgzw3uCyXQfxKPCehyf0GjIDoDLZX1H5LdLxfwP5XECEFzh3TJyY0WMhJ/K5uQXv2PyUjXVANQt3dWg5Fr+RwImbiqAX+lV/GUsl8lEZcHMf1+pa7jET/09WOwgEAaj4u1esRcTg
+
+
+
+---
+*Source: Document 1e7f774965e1eb562e09169dee48e356*

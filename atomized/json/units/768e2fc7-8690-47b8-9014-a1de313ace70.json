@@ -1,0 +1,26 @@
+{
+  "id": "768e2fc7-8690-47b8-9014-a1de313ace70",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> These rolls determine game-wide conditions each week.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> The professor’s assigned POV affects how these rolls are revealed or hidden.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Secret rolls happen at the start of class, during mid-class moments, and at key decision points.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📖</font> Professor’s Secret Duties Per Session</div>\n<div><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>When It Happens</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>What The Professor Rolls For</div>\n</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Start of Class</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 402 (chunk 402/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "font",
+    "style",
+    "width",
+    "face"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "880626f9-05ed-42f7-8fb3-4bcc0e3a6de2",
+  "type": "insight",
+  "timestamp": "2025-10-28T10:46:01.000Z",
+  "title": "<div>→ <b>Plexus</b>, not pipeline: nodes (phonology→iconography) interact dynam",
+  "content": "<div>→ <b>Plexus</b>, not pipeline: nodes (phonology→iconography) interact dynamically through the hypergraph; parallel and bidirectional inference.</div>\n<div>  3.  <b>Data Manifold:</b><br></div>\n<div>→ Unified embedding space 𝑅ⁿ where text, sound, icon, gesture share coordinates;</div>\n<div>every span has a span_id, char_offsets, and lang/script.</div>\n<div>  4.  <b>Meta-Layer:</b><br></div>\n<div>→ Meta-learning controller monitors performance, ethics, and drift.</div>\n<div>It acts as “rhetorical governor” (feedback loop Linguistic→Cognitive→Ethical).</div>\n<div>  5.  <b>Modes:</b><br></div>\n<div>  •  <b>RAW</b> — unrestricted; research, experiment, meta-learning.</div>\n<div>  •  <b>PUBLIC</b> — fact-checked, bias-filtered, culture-aware.</div>\n<div>Both share the same core but different rule weights.</div>\n<div>  6.  <b>Representation Grammar:</b><br></div>\n<div>  •  <b>Iconographic CFG:</b> maps emoji/hiero/icon clusters to semantic vectors.</div>\n<div>  •  <b>Syntax EBNF++:</b> Sentence ::= NP VP [Icon?] with directional &amp typographic flags.</div>\n<div>  •  <b>Rhythmic Grammar:</b> temporal beats; discourse arcs visualized as sonic waves.</div>\n<div>  7.  <b>Mathematical Core:</b><br></div>",
+  "context": "From document: That’s an exceptionally strong synthesis — the GROK-response you drafted… — chunk 13 (chunk 13/18)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "fa6133a073d57355068edfa84e39fc3c",
+  "relatedUnits": [],
+  "keywords": [
+    "icon",
+    "meta",
+    "share",
+    "learning",
+    "core"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

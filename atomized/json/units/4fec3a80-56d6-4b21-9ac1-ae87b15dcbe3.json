@@ -1,0 +1,26 @@
+{
+  "id": "4fec3a80-56d6-4b21-9ac1-ae87b15dcbe3",
+  "type": "insight",
+  "timestamp": "2025-04-12T20:00:44.000Z",
+  "title": "<div><tt>- `USE_CASE_JESSICA.md`, `USE_CASE_ROB.md`</tt></div>",
+  "content": "<div><tt>- `USE_CASE_JESSICA.md`, `USE_CASE_ROB.md`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### | PHASE 3B – UX Architecture Layer</tt></div>\n<div><tt>- `InterfaceSchema.md`</tt></div>\n<div><tt>- `TranslationModels.md`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### | PHASE 3C – Terminal &amp Memory</tt></div>\n<div><tt>- `KONS0L_TERMINAL_CALLS.txt`</tt></div>\n<div><tt>- `SYS_ID_ALIAS_MAP.json`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### | PHASE 4A – Thread Revival Core (You Are Here)</tt></div>\n<div><tt>- `REVIVE_0412_A1/` series</tt></div>\n<div><tt>- `REVIVE_NOTES.md` → shadow recursion layer</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## ACTION LOG (SUMMARIZED)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- 100+ messages captured  </tt></div>\n<div><tt>- 20+ full documents generated  </tt></div>\n<div><tt>- 2 mirror personas (Jess/Rob) codified  </tt></div>\n<div><tt>- Ritual system formalized  </tt></div>\n<div><tt>- Shadow critic POV activated  </tt></div>\n<div><tt>- Naming grammar sealed  </tt></div>\n<div><tt>- `.md` vs `.pdf` thread exports reconciled  </tt></div>\n<div><tt>- System confirmed to be modular, recursive, mythic, monetizable</tt></div>",
+  "context": "From document: REVIVE_0412_META_MANIFEST.md — chunk 5 (chunk 5/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "9a1920c7754714f9ab6fff8085dd6b66",
+  "relatedUnits": [],
+  "keywords": [
+    "phase",
+    "layer",
+    "thread",
+    "shadow",
+    "system"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

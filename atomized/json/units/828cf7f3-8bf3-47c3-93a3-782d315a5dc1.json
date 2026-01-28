@@ -1,0 +1,26 @@
+{
+  "id": "828cf7f3-8bf3-47c3-93a3-782d315a5dc1",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:53:51.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>     ```plaintext</tt></div>\n<div><tt>     GPT_ARCHIVE_CORE/</tt></div>\n<div><tt>     ├── MEMORY_RAW_DUMPS/</tt></div>\n<div><tt>     ├── MEMORY_VERIFIED_MB/</tt></div>\n<div><tt>     ├── THREAD_REVIVALS/</tt></div>\n<div><tt>     ├── TO_PROCESS/</tt></div>\n<div><tt>     ```</tt></div>\n<div><tt><br></tt></div>\n<div><tt>3. **User Confirms + Aligns Folders**  </tt></div>\n<div><tt>   Requests verification that system-wide naming matches conventions:</tt></div>\n<div><tt>   - CAPS for object-level system structures  </tt></div>\n<div><tt>   - underscore for internal nesting  </tt></div>\n<div><tt>   - period for dimensional recursion (`4_bl00m.4_0S_core`)  </tt></div>\n<div><tt>   - no slashes for iOS compatibility</tt></div>\n<div><tt><br></tt></div>\n<div><tt>4. **GPT Responds with Audit:**  </tt></div>\n<div><tt>   - Approves current state  </tt></div>\n<div><tt>   - Flags only 2 issues:</tt></div>\n<div><tt>     - `GPT_archive_CORE` casing mismatch  </tt></div>\n<div><tt>     - Placeholder folders `2/`, `3/`, `4/` not clearly named</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## META NOTES:</tt></div>\n<div><tt><br></tt></div>",
+  "context": "From document: REVIVE_0412_SEGMENT_004.md — chunk 2 (chunk 2/3)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "3e8c0271cde683cb052dd8f6d96c8b11",
+  "relatedUnits": [],
+  "keywords": [
+    "gpt_archive_core",
+    "folders",
+    "system",
+    "plaintext",
+    "memory_raw_dumps"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

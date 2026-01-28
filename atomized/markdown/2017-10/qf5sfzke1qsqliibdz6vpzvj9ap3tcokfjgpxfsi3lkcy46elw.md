@@ -1,0 +1,32 @@
+---
+id: d052e05a-727c-4c69-bc24-2e4c7fba38d9
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - qf5sfzke1qsqliibdz6v
+  - >-
+    pzvj9ap3tcokfjgpxfsi3lkcy46elwagjbjfkzxmrtus6t7jon8htghxdtzhnjcuzg4zvst94plocdn8k2l9mlfedj2fzbmyfvi5psrt2hvsvgueji4xod0oodjwcmp3dwplfxdvtyy1mom4c54gal7hdrrla7jjmo245xqafwstm81wky4hatc7r9jrpyqngjtwfzufpkfeb0pxj3ztjdvuqtsnkclyys0vbj
+  - ugkt8
+  - >-
+    w6twwplyoegxdall6h0z7vdyzby29ulbuk2m5tf22vthvuorviejop3o5hesvg0n3tjfxle4aeimjp3qu1azmnnj6m7bt
+  - 7h9z0r8wv
+---
+# qF5SFzkE1qSQLIiBDz6V+PzVj9ap3tcokFJGPXFSi3lkCy46elWAGjBjfkZxmrtus6T7JOn8hTghxdtz
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 1330 (chunk 1330/2189)
+
+## Content
+qF5SFzkE1qSQLIiBDz6V+PzVj9ap3tcokFJGPXFSi3lkCy46elWAGjBjfkZxmrtus6T7JOn8hTghxdtzHnjCuZG4zVST94PLOcDn8K2L9mLfeDJ2FZbMyFVi5PSrt2HvsVGUEjI4XoD0oODJwcmp3dWPlfxDvTYY1MoM4C54Gal7hdrRla7jjMO245XqAfWstm81wkY4HatC7R9jrPyqngjtWfZufPKFeB0PXj3zTjdvUqTSNKCLyYS0vBJ+UGkt8+W6twwpLyOEgXDAll6H0z7VDYzBy29ulbuK2M5tF22VthVuorVieJoP3o5HesVg0n3TjFXLe4aEiMjp3qU1azMnNJ6m7Bt+7H9z0r8wv+CkV1Yad8H/tV0dzi+hjgQrkM7ZJ5PQbVOT2/Gv1Dt0aeTPYc8cV+XH/AAVDuLf/AIUta6ejJDNPqcDRSP1R0DnI+qkqfrX2fh+/+Fand6a/kz4vjmaeAnY+iP2Lb2DVv2fPCMzgA/2fENg6AAkDn3xzX2C0axAsOfWviT9iOK6tv2dfClzOkcUsunplYWLKVUsEcn+86gMw7Ekdq+zbe4kc7BXjcTa5lWt/N+h6vDc7YKmvIkfyZMSH73p6VT8i4lJkXovWnzYVjIBz0NSQsfJKMcZrw2tdT6Kb00KkuQVd+T2py3EjjkcDj6Ujr5w2MOQciq8HnROwlB2nr9amok9C4bli4uI1tNyqBj0/nWRPdMkX2jaSAMgDkmtsxqyZI5Pb1qrPDvG5+gHSoa6BLRlMyvFEJB365/rUCu0vJ7+nFOLg/IAQPepEj2puGRSkCZFPEEQR4yo5qsjSqhRl2jPBqxM6g7mbiknDsqsOAPWrUlaxql3KdzHFEQpOMfpUc6RTRiW3IJ9v/rVXud0szKpA3jBH0NWFtZIEVE+XA5GfStk1sK1jNht5gxLfeHU+1a00Vs8KxsmWNVZGCsI5M7iew9KsyXMSAKMnArtoXMMS/dPzr/b6R9M+DV81udpmnt1B5IBEgbBABwDtwCe/Fdt+wtdTTfA7SpL6ONLlxI0jqu1n+dtpf+8duAD6evWuZ/b0lnufglq8NtI8FyWtijJnPE67sduBz36eldj+xLcXOo/BLRp9Stfs1wiNGXB4mVD8km3+HI6r0BBxX2ePjJ5XFP8ArU/PMM7ZjK39aH2EwEb7jnc5zirT8xBV7GmvbTuVYDI
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

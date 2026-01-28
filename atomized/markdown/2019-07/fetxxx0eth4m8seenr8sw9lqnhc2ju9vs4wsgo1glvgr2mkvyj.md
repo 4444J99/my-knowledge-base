@@ -1,0 +1,31 @@
+---
+id: b37121c1-2eff-48f3-b802-2323dbb85e86
+type: insight
+created: '2019-07-29T19:12:50.000Z'
+document: d5c7622f95c6837e23fe43e1b830b6be
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - fetxxx0
+  - eth4m8seenr8sw9lqnhc2ju9vs4wsgo1glvgr2mkvyjueqycutlgmz4pphd8cvhh8zrtvtq
+  - hgsf2tz6lksnzoyjoi1dllcgze3dazkce9fguetuv8qat
+  - y9ovif
+  - >-
+    dv746t2uo3mbyq29zpbk4omfaiomii9wxx1ir6d03u9o1nt7fvtiuor6xu41lhngdzipy2gvzhukmphqg4osfy9rrrsakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooa
+---
+# FeTXXx0+Eth4m8SeENR8SW9lqnhC2ju9VS4WSGO1glVGR2mkVYjuEqYCuTlgMZ4pPhd8cvhh8ZrTVtQ+
+
+## Context
+From document: Compression method — chunk 152 (chunk 152/162)
+
+## Content
+FeTXXx0+Eth4m8SeENR8SW9lqnhC2ju9VS4WSGO1glVGR2mkVYjuEqYCuTlgMZ4pPhd8cvhh8ZrTVtQ+HGsf2tZ6LKsNzOYJoI1dlLcGZE3DAzkce9FguetUV8qat+25+y9oviF/DV746t2uo3MbyQ29zPbK4OMfaIomiI9wxX1Ir6d03U9O1nT7fVtIuor6xu41lhngdZIpY2GVZHUkMpHQg4osFy9RRRSAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//9f9/KKKKACiiigDO0n/AJB8X/Av/QjWjWdpP/IPi/4F/wChGtGmwQUUUUgPzc8K6Jpnxu/br8fX/jmBdV0z4ZWNpa6RZXKh4YZ5lQtN5bDDHf5rBiOpU/wrj6q+J/7Onw9+KGt+GfE95HLomueFb6K9tdQ0wR290RFyIHco2Yi204IyMYUjLZ+dPif4T+JnwJ/aIvf2j/hx4auvGvhzxZZRWXiHSrAb76GSEIiXEEQBZxtjU4APO/dtDBhoJ8bfjn8d/FfhzQfg54Q1v4e+H7S8judb1vxDYxQM1smQ9tbwyeashfplSWDbc7Fyask81/ar8E+H/iN+2R8GPBfiuF7jSNSsbxbmJJGiMiR+dJsLIQwViuGwQSpIzX0f+0v8Mvh7ZfsxeO9H07w5p9lZ6Zo91dWscFtFEsM1tGZI3Tao2sCo5HJ6HrXn/wAZPCHi3VP21Pgz4q0zRL670XS7O+W7vobaWS1tmeOcKJZlUohJIwGIzketfRH7Rel6nrnwG+IGj6LZzahf3uiX8UFvbxtLNLI8LBUREBZmJ4AAJNK+wW3PCvhHongLx1+xB4U074wyr/wjC6NA97JNO1uqQ2cmUJlRlZQojUcHkcd65PTPjJ4A8SeGpPBP7PXwJvvHHhggwCT7Fb6Tos4HB2z3Q+c/3mZA3c815n8QfhF8V/Ev7APgbwd4e0O7bW9FktLvUdGlikhu57eFp90Jhba5YO6SbOGIX5cnAPu3h79o74leL9Hs/C/wo+COu6LqohW3STX7YaXotgUG3mQfPJHGBwiIrHG0AGnYRxv/AATauruX9njWrG53KmneIdQt4oy2/wApPIt5CgPTh3Y8dSc151/wTa+EHw61X4WXXxL1rRINT8QHU7izinu0E4t
+
+
+
+---
+*Source: Document d5c7622f95c6837e23fe43e1b830b6be*

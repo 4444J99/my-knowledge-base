@@ -1,0 +1,31 @@
+---
+id: d9f96ae2-e431-4b2c-8157-3aa4509dcc7a
+type: insight
+created: '2025-05-15T00:57:38.000Z'
+document: 97ddee0de00a1fdb1a5da48c7c6bd4f2
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: design
+keywords:
+  - name
+  - canonical
+  - names
+  - with
+  - after
+---
+# ne could maintain a hidden directory with shortcuts named after old file paths p
+
+## Context
+From document: Transforming a Fragmented Digital Life into a Unified Canonical Architecture — chunk 25 (chunk 25/37)
+
+## Content
+ne could maintain a hidden directory with shortcuts named after old file paths pointing to new locations, or a simple search index that can recognize an old ID or name and show the new item. This is comparable to URL redirection in websites or DOI resolution after journal renaming. By doing so, you ensure that any hardcoded references or personal muscle memory of old locations doesn’t completely break. Over time, as you fully transition to the new canonical names, these legacy aids can be phased out.</div>
+<div>Reconciling many naming systems is as much about policy as technology. One must decide on a single source of truth moving forward. The user implementing MythOS would declare, for example: “From now on, the canonical name of any item is MythOS’s name/ID; all old names are aliases.” Adopting such a rule, and logging a mapping of aliases to canonical names, addresses the confusion of conflicting threads. Eventually, the old threads collapse into one – much like multiple tributaries joining a single river. The process requires upfront effort (planning the mappings, writing migration scripts, verifying no data is lost), but the payoff is a unified, simplified digital life where each thing has one name and one place (with pointers to its historical incarnations as needed).</div>
+
+
+
+---
+*Source: Document 97ddee0de00a1fdb1a5da48c7c6bd4f2*

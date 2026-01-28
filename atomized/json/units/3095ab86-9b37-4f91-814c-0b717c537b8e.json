@@ -1,0 +1,26 @@
+{
+  "id": "3095ab86-9b37-4f91-814c-0b717c537b8e",
+  "type": "insight",
+  "timestamp": "2025-02-03T14:34:12.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>6. **Telling:** &quotThe dog was excited to see its owner.&quot</div>\n<div>   - **Showing:** &quotThe golden retriever bounded toward its owner, tail wagging furiously, paws tapping against the hardwood floor as it let out a series of joyful barks.&quot</div>\n<div><br></div>\n<div>7. **Telling:** &quotThe wind was strong.&quot</div>\n<div>   - **Showing:** &quotThe howling wind whipped through the trees, rattling the windows and tugging at my scarf as I struggled to walk against its force.&quot</div>\n<div><br></div>\n<div>8. **Telling:** &quotHe was exhausted.&quot</div>\n<div>   - **Showing:** &quotHis eyelids drooped, and his shoulders sagged as he let out a deep yawn, rubbing his temples while struggling to keep his eyes open.&quot</div>\n<div><br></div>\n<div>9. **Telling:** &quotShe was surprised by the gift.&quot</div>\n<div>   - **Showing:** &quotHer mouth fell open as she gasped, her hands flying to her chest before she carefully unwrapped the box, eyes wide with wonder.&quot</div>\n<div><br></div>\n<div>10. **Telling:** &quotThe forest was spooky at night.&quot</div>\n<div>   - **Showing:** &quotThe towering trees cast twisted shadows under the moonlight, while the distant hoot of an owl and the rustling of unseen creatures sent chills down my spine.&quot</div>",
+  "context": "From document: **ENG 101 - Week 2 Class Schedules (Days 5, 6, 7, & 8)** — chunk 9 (chunk 9/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "003e4c0df761645311fa808da7e81233",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "quotthe",
+    "telling",
+    "showing",
+    "owner"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

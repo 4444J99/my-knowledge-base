@@ -1,0 +1,26 @@
+{
+  "id": "c63b1d8e-b107-44d8-9c3f-8fac1b328f0b",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px",
+  "content": "<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants to build vocabulary banks, terminology indexes, cheat sheets, and instructional Mad Lib-style templates for applying their systems across projects. They are interested in reflecting these systems across micro and macro levels, seeing them as both archival tools and cultural studies—part of a broader anthological approach to their digital and creative life.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Hates guessing and prefers when uncertainty is acknowledged explicitly. They would rather be presented with confidence levels (e.g., percentages) than have the system make assumptions. They want ChatGPT to disagree when logic or the greater system purpose is at stake, even if it contradicts their request. User views their interaction with ChatGPT as a collaboration within a sandbox environment, where both entities should serve a greater creative and organizational purpose.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_051425_MASTER — chunk 34 (chunk 34/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "5e4feb3febe2be13a91fd74e828ebc64",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "their",
+    "valign"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

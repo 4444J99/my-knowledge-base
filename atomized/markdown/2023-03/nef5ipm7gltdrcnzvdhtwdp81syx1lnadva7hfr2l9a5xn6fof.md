@@ -1,0 +1,31 @@
+---
+id: 3d4cf8fc-3532-49e3-9b65-4883e14e6a3e
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - nef5ipm7gltdrcnzvdh
+  - twdp81syx1lnad
+  - va7hfr2l9a5xn6fofbsvdjd
+  - >-
+    epmfyhzrdbgmp4xfqf6n57hpgp0eo4nhodrlieesp4p1nig53s2mdhj2cqkj2ft0vyetunxaczazzjfgpcgwivsow3frlxrzaxza55gif1glkjpil7cnrsdjil5vkaf0ee1pvxcmthemyf6wvnuqo9onmcanydxnuix78r1aprexzjfnsnbhwf6qhug5ghywqi9uh4xjdatmaeez3gesl0vhr5j7hr6ipeomvpl10yngs51zfdlo2dplz10darpwl4v8l5tarqkdxnbge6rsu
+  - dpdhfrwvz2pbq30kahmnpgemf4tqwamnqa74hoaxxpqye
+---
+# neF5IPm7GLtDRcnzVDh/twDp81SYx1LnAd/vA7HfR2L9A5xn6fOFBsVDjD/E+EPMfYhzrDBGmP4xFQF6
+
+## Context
+From document: New Note — chunk 939 (chunk 939/8096)
+
+## Content
+neF5IPm7GLtDRcnzVDh/twDp81SYx1LnAd/vA7HfR2L9A5xn6fOFBsVDjD/E+EPMfYhzrDBGmP4xFQF6N57HPgP0eO4nhOdRLIEeSP4p1niG53s2MdHj2cQkj2fT0vyeTUnxacZazZjfgpcGWivsoW3FRlXrzAxZa55Gif1glkJPiL7cNrSDjil5vkAf0EE1PVXcMTHemyF6wvNuQO9OnMcanYDxnUix78R1APReXZjfNSnBhwF6QHuG5gHyWQI9UH4XJdATmAeEZ3gesL0vhR5j7hR6IPeOmVpl10yNgs51zFDLO2dplZ10DARPwL4V8L5tarqkDXNbge6Rsu/dPDHFrwVz2pBQ30KAHmNPgemf4tqWAmNQa74hoAXXPqYE+hlq1ZNp6bJHBOiB5e9PSBTcnZwmuQckf3dckuDmxFTxbaTN3x6fLLoONE/1w/gU0bXcRMEVoPlLBOiB4q/kJAq/c8R6n8Px+Ulp8osYO4/6dmqm6gIBesw9lR0vOIlE+jMYOz05U3kSifPHJ6X7H5uUrjpK6fOTMwII0h8Aht9nj/HZi+0eKqTG7wac32WPFbA0egeQNRLpt1MCPRB+kyNWsN0S5c2KAfp40TbMZyn09ueInhLoCdBnJ4g2IZm+0Rbpsw2AGVDej1LnN1FREr0zTrYOSd9rAZfXIQF8FZUb0FsjBRv1owc1mSN9N+YkKVY64iWr7PHi1c4k2cqcZMUyKsBrQPo+PA+AvQbQvAHb1UhnX5KbpvoKkHoJFXD1MmuMYIUhymcVzi9HIVUe8HzMwPUE6U3A8nYC61F+iw1hHisBxteg1vYhet9FgPpLNWEDGwjSoxbhnpQYvxTofgWg9xemKO+vqAjUE5wHml+B6xvUo/qvIlSvxvWGaL8FJsB5Y6zgKx1S7mlMG+m1BGnzy2hrAJSnMT3OmYH8tdhXhw1cro1C8n2scIkRCfqGWD+s47tMG+WzAqh5RSaeKQPp87oonwassyptTP/VGXh2jK3B8VrMWY/7bdTRiwaxoi32BGkj4D3QvO82NRL9U0f035w5dlBj5piBjdpwr53qcM9d2N8FhL8PSP8gxg5pkECPNY9qwz2PW+JEJ9Rhg05h7Ayg9BnA/LP6SO9vjdF+582xogv4KwAXca9LePbLOHcFY9d0kV5Xsdb3tjgxkudFwPOi20Dud/Gd3EW/7mL/AQP0
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

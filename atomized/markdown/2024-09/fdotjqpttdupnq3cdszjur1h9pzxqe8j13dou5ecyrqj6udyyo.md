@@ -1,0 +1,32 @@
+---
+id: e7bac54f-9564-429f-a4ae-afa3916588de
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - fdot
+  - >-
+    jqpttdupnq3cdszjur1h9pzxqe8j13dou5ecyrqj6udyyog3lsjcptr2hgd2zuo5esxumj0sa1aoue6yqxp5rswrcm5ebs2w1dnim4wlrgmgc
+  - ho1s3zbwncm5rscxcwfbqrktbjuqnyemsj4tjuqulo
+  - >-
+    2jm9lebyb31e2sqapyki1el0edmjthtlqimhwtvqzax48oyg8bdnfmd1grmgzr97iitnzpm67kgwel9hw3uqqgnmagsmqcnfvt4vfptuxldlcgnyprg7evalb9qux4jxymft42jpdw
+  - 4iknr
+---
+# fdOT+JqpTtDuPNQ3CdSZjUr1h9pZXQe8J13doU5ECyrQJ6UdYYOg3LSjCPtr2hGd2ZuO5eSXumj0SA1a
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 3122 (chunk 3122/11534)
+
+## Content
+fdOT+JqpTtDuPNQ3CdSZjUr1h9pZXQe8J13doU5ECyrQJ6UdYYOg3LSjCPtr2hGd2ZuO5eSXumj0SA1aOuE6YQxp5rSWrcM5ebS2W1dnIM4WlrgMGC+hO1s3zbWNCm5RScxcwFBQrktBJUQnYEMsJ4Tjuqulo+2jM9LeBYB31e2sqAPyki1El0EdMJthtLQImHWtVQzax48OYG8BdNFmD1grMGZr97iiTnZpm67kgweL9hW3UqQgnMagSMQcnfVt4VfpTuxldLCGNYpRG7eValB9quX4JxYmFt42JPDW+4iKnr+dsuW7hrHM8+jF2eOmCUGpTQTs1LEtR7h9V+uuobs6j47ZEvvcyf7Uii02V9+QsFxSy+nciK2dS5s826b9TLOzsRZUoXvor/EqSFg6n//Qkur8Z6v5HQOck3r1wk2bN83e3Dw5y2XhefWT8yeHT3bwV+vk0PP6rD3ZEZDmtSwY3y9cJywn5Zxsizk4azYW3E+A9gv49/vM0pgtOx0f+f/tii3ljod7F+5yUNQR1316zJbde9DaL03ZcsSunQHXzBmik3Ju2lHcZ1Ds0rGce1joUio6K3o5sEeg7visLZtbtuy+9x8b+7HFH1uswLmI5aSQi1jOgFw/4Vy1uKVAHYGcwzmp5dDua3pxy3v27dl7sVLWUjo5gLp9fe6XTk5+gjod21d1XjX0qqF/MWLLwyu2/NaYLf9l6wtjX2A50T8e+8KKLf+Ry78bs6U91x5pL75+2BbBY9fJGbobUopNM8l5a+CtzURbgm8CePyLCbJaXCvARo/SfP2eJGWi0/xIQSKtdl3HbfrlYUqO6cKcAlZqkvGeGlX6VVuVhK+SvIeJyqY9taq1lmieDghNCe6kewvzYDlakMZFqW0l5WMbE/TWf79wQsAS1KtJiwN0xxjfO/vx+K5tBfm+6WNCAo4oMqgDRBE+EaySX1glzgMnj80fpkKRCbTIr7ZgmLbtBYswTIm56vPDmafhMXGriG3KtoJ8h31b8284+CkjlBqMfQLeadteBPjs+Msx+Woc//jd6Vve/fzRWWGR1E3im8pb4WxRb2ztnBeoQ2FGndvaCmsT9nM/r7J4buu68GuB/dg1Ujn/WfoS2+crTlo0v6Y4zxzGxn1pL97G61dXH8fma3Nv+FtrhcFKTIJt8lgM5+UCVKPHx0x/GT/WAScAsGkr6/N8
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

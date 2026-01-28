@@ -1,0 +1,30 @@
+---
+id: 6915be6f-06dc-44c1-9129-c7c7b9fe926e
+type: insight
+created: '2020-02-13T15:24:07.000Z'
+document: 17668fd2541299884816643132bdef4b
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - trttt
+  - gwlxfjqul5fcke0ssvoim2aoarmxmdzlqhwv464api
+  - iiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooa
+  - wt9ld9pz9gn4cee9f1lxl8ntc1b4iqrhr3vjlwzv0w4bpzwznu4xcoh3sssp2zm6n93fh1
+  - 0l8p8a4k
+---
+# tRttT+GWlXFjqUl5FCkE0ssVoim2aOaRmXMDZLqhwV464APi+iiigAooooAKKKKACiiigAooooAKKKKA
+
+## Context
+From document: Tarantino goes in depth on first few attempts at writing scripts — chunk 8 (chunk 8/234)
+
+## Content
+tRttT+GWlXFjqUl5FCkE0ssVoim2aOaRmXMDZLqhwV464APi+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA/WT9lD9pz9gn4CeE9F1LxL8Ntc1b4iQRhr3VJLWzv0W4BPzWZnu4xCoH3SsSP2Zm6n93fh1+0L8P8A4k/AqL9ojTjc6X4Se0vr5zfokdxDBp0ksU5kSN5FGDCxGHORjucV/F9X6O63+2B4esv+Ce/hX9l/whLcJ4nmu7yPW2MZSKPTzfz3qrHJ/EZjJGpA6KsitwRkA+M/jV8UdZ+NXxX8UfFLXsrdeIr2S4EZO7yYfuwQg+kUSpGPZa7n9kvxv4L+Gv7Rngbx78Q7prHw/oV611czJE87IY4ZDHiOMMxzJtHA469K+da9N+DfxJl+EPxO8P8AxGj0q21xdFuDJLYXih4LqF0aOWJwysBuRmAbadrYbBxQB9qeDta/Yl+MXxQi+E1z8Ptb0x/F+pGys/GT608l+b29kKQzz6dsW1SN5nXKAkovVm5rifgf+zBHH8dPHVr8U4Jb7wV8Eri6n8Qm3iZmv2s5nitrKFBklr6VMKM/6vd8wODXVeHfiX+wf8NvHcHxv8D6J4x1HXtMuTqOleG74WUWmWmoRnzITLdRyNK8EUuDGApf5RvBGQfmvQ/2pPjv4T8WeLfGfgvxbd+HtR8b38mo6qbIhEnuHkklzhgxwrSvtGeAaAPuXw14q+KPxm+Cv7Xfj7xno15BqfiKDwubW0FvKqxW8OoSCK2t0KglIIgqjA6DceSTXx38Kv2iLPwB4BvfhB8SPAVh4/8ACo1Zdbt7K/nubKWz1OOPyGdZbdlYo6ALJEwKnHbnPvXw/wD+Cinxi0b4V/Erw9418Z69qfi7XYdMXw3fx+S8enyQXDPeNI7MjJ5sRCjakmSOdvWvjj4a+IfAX/C0bPxd8b4L/XNDW5kv7+2sljafUJuZFhdpHjCRzS4ErjLBC21ScYAP0BTX/ibd6lL8ZJbBLv8AaF/aIP2TwtYWqiI6LoUsYtWv03tmJ5oU8i2dmGyFXmLnJr4z+Lv7MfxD+D3hy28ZatfaP4h0Ge+fTJb/AELUYtRgtdRjUu1pcNHgxzbQTgjBAODXS+Df2rfFOk/tVaX+074qtF1S7s75pXsYj5UUdi8LWotbbqI1ht32RehUE5O
+
+
+
+---
+*Source: Document 17668fd2541299884816643132bdef4b*

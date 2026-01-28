@@ -1,0 +1,26 @@
+{
+  "id": "5fae902c-23ad-4ffc-bf1f-bf36c68425c3",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>  •  <i>Integration</i>: Graduation Pipeline, Recursive Feedback</div>",
+  "content": "<div>  •  <i>Integration</i>: Graduation Pipeline, Recursive Feedback</div>\n<div>  •  Provides preservation options:</div>\n<div>  •  Export via chatgpt-exporter</div>\n<div>  •  Create cognitive-os-master-plan</div>\n<div>  •  Link issues across repos</div>\n<div>  •  Org-level discussion archive</div>\n<div>  •  Recommends hybrid preservation approach.</div>\n<div>  •  Gives immediate next steps and metadata template for all future planning sessions.</div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>IX. Master Plan Creation Layer</b><br></div>\n<div><br></div>\n<div><b>16. 13prompt – Approve creation of master plan</b><br></div>\n<div>  •  User authorizes master plan creation.</div>\n<div><br></div>\n<div><b>17. 13response – Awaiting approval</b><br></div>\n<div>  •  Confirms readiness to trigger creation.</div>\n<div>  •  Declares it will become permanent source of truth.</div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>X. Master Plan Finalization Layer</b><br></div>\n<div><br></div>\n<div><b>18. 14prompt – Implicit approval</b><br></div>\n<div>  •  Continuation trigger.</div>\n<div><br></div>\n<div><b>19. 14response – Confirms master plan repository structure</b><br></div>\n<div>  •  Details full directory tree for cognitive-os-master-plan.</div>",
+  "context": "From document: Contents_Table — chunk 6 (chunk 6/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "master",
+    "plan",
+    "creation",
+    "preservation",
+    "cognitive"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

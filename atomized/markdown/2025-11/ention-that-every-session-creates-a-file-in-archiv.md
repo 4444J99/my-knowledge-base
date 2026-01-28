@@ -1,0 +1,31 @@
+---
+id: b6443347-0f69-4f4a-8e8a-2cfa381da7fb
+type: insight
+created: '2025-11-24T08:31:44.000Z'
+document: 83dee6092ba3a8d02324ba12da038c25
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: programming
+keywords:
+  - agent
+  - agents
+  - os_root
+  - that
+  - this
+---
+# ention that every session creates a file in $ARCHIVE_ROOT/sessions and then upda
+
+## Context
+From document: # Blueprint for a Self-Evolving Creative Operating System — chunk 15 (chunk 15/38)
+
+## Content
+ention that every session creates a file in $ARCHIVE_ROOT/sessions and then updates a sessions manifest).</div>
+<div>- **$OS_ROOT/agents:** This component defines the AI agent roles, capabilities, and their orchestration logic. It may include configuration files for each agent persona (e.g., `$OS_ROOT/agents/oracle_agent.yaml`, `$OS_ROOT/agents/critic_agent.yaml` describing their specific objectives or prompt modifiers). It could also contain the meta-script or workflow that the *agent orchestrator* uses to spin up and coordinate multiple agents. For example, if the OS uses a manager-agent pattern, there might be a script or prompt in `$OS_ROOT/agents/manager_start.prompt` that describes how to kick off a multi-agent collaborative session (with instructions like: the Manager agent reads the latest handoff summary, then assigns tasks to Creator and Critic, etc.). The Mythological Fusion concept strongly influences this module: each agent config might include a mythic name, an archetypal description (e.g. “Trickster” for the Critic who tests assumptions, “Oracle” for the Planner who seeks knowledge, etc.), and even a narrative backstory that aligns with its function (this can help maintain consistent behavior in prompting by giving the agent a persona). The $OS_ROOT/agents module evolves when
+
+
+
+---
+*Source: Document 83dee6092ba3a8d02324ba12da038c25*

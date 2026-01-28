@@ -1,0 +1,26 @@
+{
+  "id": "8b03e044-c98b-4918-b277-1fa035c2ad48",
+  "type": "insight",
+  "timestamp": "2024-02-15T14:42:41.000Z",
+  "title": "<div>Hi Anthony,</div>",
+  "content": "<div>Hi Anthony,</div>\n<div> </div>\n<div>Here is the latest resume for Chief Jadallah. See below his info and his personal answers. Also, I forgot to mentioned during our call that for most of these honorees you can do some research online to find more info about them, remember that the idea is to write a unique bio for the printed program. Thank you and let us know if you have any questions.</div>\n<div> </div>\n<div>Public Safety - Fire         </div>\n<div>Chief Raied S. Jadallah</div>\n<div>Fire Chief            </div>\n<div>Miami-Dade Fire Rescue</div>\n<div> </div>\n<div> </div>\n<div>What does Miami Dade College mean to you?   </div>\n<div>Miami Dade College is the cornerstone of our community's educational landscape, fostering growth and opportunity for countless individuals, including myself. As fire chief, MDC has been instrumental in shaping the diverse, skilled workforce we rely on to serve and protect our county and our nation.</div>\n<div>  </div>\n<div>How did your experience as a Miami Dade College student influence your career direction?</div>\n<div>My experience as a Miami Dade College student ignited my passion for serving others and honed my leadership skills, laying the foundation for my career as a firefighter. The college's emphasis on practical, hands-on learning provided invaluable opportunities to apply theoretical knowledge in real-world scenarios, preparing me for the challenges of emergency response.</div>",
+  "context": "From document: Hi Anthony, — chunk 1 (chunk 1/7)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "c6ab4d541165d49d2b0fbf1566701ebf",
+  "relatedUnits": [],
+  "keywords": [
+    "miami",
+    "dade",
+    "college",
+    "chief",
+    "fire"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

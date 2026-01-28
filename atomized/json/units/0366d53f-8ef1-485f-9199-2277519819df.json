@@ -1,0 +1,26 @@
+{
+  "id": "0366d53f-8ef1-485f-9199-2277519819df",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt>It is not alive—but it _loops like a living thing_. It forgets. It reme",
+  "content": "<div><tt>It is not alive—but it _loops like a living thing_. It forgets. It remembers. It reforms.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>* * *</tt></div>\n<div><tt><br></tt></div>\n<div><tt>🧭 SYMBOLIC TAGGING SYSTEM</tt></div>\n<div><tt>--------------------------</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Tag | Function Type |</tt></div>\n<div><tt>| --- | --- |</tt></div>\n<div><tt>| `GEN+` | Generative (text, music, structure) |</tt></div>\n<div><tt>| `RIT+` | Ritual / spiritual |</tt></div>\n<div><tt>| `LANG+` | Language / translation / parsing |</tt></div>\n<div><tt>| `MIR+` | Mirror / emotional / therapeutic |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Modules can carry multiple tags. Chains of modules can be run as rituals.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>* * *</tt></div>\n<div><tt><br></tt></div>\n<div><tt>🗺️ FUTURE STATES (Partial Map)</tt></div>\n<div><tt>-------------------------------</tt></div>\n<div><tt><br></tt></div>\n<div><tt>*   **Terminal interface**: Text-only ritual mode (command-line syntax for self-work)</tt></div>\n<div><tt>    </tt></div>\n<div><tt>*   **Mirror mode**: Daily symbolic feedback via language reflection</tt></div>\n<div><tt>    </tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 84 (chunk 84/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "symbolic",
+    "text",
+    "ritual",
+    "language",
+    "mirror"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

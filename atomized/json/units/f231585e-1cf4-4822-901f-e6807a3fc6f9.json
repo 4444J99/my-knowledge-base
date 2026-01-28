@@ -1,0 +1,26 @@
+{
+  "id": "f231585e-1cf4-4822-901f-e6807a3fc6f9",
+  "type": "insight",
+  "timestamp": "2025-11-05T21:42:26.000Z",
+  "title": "<div><tt>  </tt></div>",
+  "content": "<div><tt>  </tt></div>\n<div><tt>  async handleToolCall(name: string, args: any) {</tt></div>\n<div><tt>    switch(name) {</tt></div>\n<div><tt>      case 'enrich_company':</tt></div>\n<div><tt>        return this.enrichCompany(args.companyName, args.state);</tt></div>\n<div><tt>      case 'get_ucc_filings':</tt></div>\n<div><tt>        return this.getUCCFilings(args.companyName);</tt></div>\n<div><tt>      case 'monitor_health':</tt></div>\n<div><tt>        return this.monitorBusinessHealth(args.companyId);</tt></div>\n<div><tt>    }</tt></div>\n<div><tt>  }</tt></div>\n<div><tt>  </tt></div>\n<div><tt>  private async enrichCompany(name: string, state: string) {</tt></div>\n<div><tt>    const sources = this.getDataSourcesForTier();</tt></div>\n<div><tt>    const results = await Promise.allSettled([</tt></div>\n<div><tt>      sources.fetchUCCFilings(name, state),</tt></div>\n<div><tt>      sources.fetchSECData(name),</tt></div>\n<div><tt>      sources.fetchOSHAViolations(name),</tt></div>\n<div><tt>      // Additional sources based on tier</tt></div>\n<div><tt>    ]);</tt></div>\n<div><tt>    </tt></div>\n<div><tt>    return this.mergeAndNormalize(results);</tt></div>\n<div><tt>  }</tt></div>\n<div><tt>}</tt></div>",
+  "context": "From document: data enrichment strategy for ucc-mca intelligence platform — chunk 10 (chunk 10/32)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "42efb0f415b2f324521d2959a50f91bf",
+  "relatedUnits": [],
+  "keywords": [
+    "name",
+    "args",
+    "this",
+    "sources",
+    "return"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: d3ed6767-6e3c-4500-9693-a2d17b6b121e
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 5qzitwqpmvbhbx3zwfcxbj5uczocvdmawzqvm8xwy
+  - >-
+    wavupjoko1sjiwprvzy1kidezxkzrmeldi0jdrtuvfuis0ivegxphb7cpbksnyj5wxgarirvjyxrkr0x61dt7ooa1m8jfw4ob
+  - >-
+    ufeiukixjwgbhyiuocenaklv0uieec8voqwx5ajxjvnnfjcztqo2g4960gykhnlsoesxqdkeltxcrwysz3dfxqlcn4gdvsrgtbcfkcr
+  - jwpn9sqltatujzv
+  - ya6bewy02sb3mayker1unv9aw40yxgmyxu
+---
+# 5qzItwqpMvBHBx3zWfcxBj5ucZOcVdmaWZQvm8xwy/wAVUpJokO1sjIwPrVzy1kIDEZXkZrMeLdI0jDr
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 698 (chunk 698/2189)
+
+## Content
+5qzItwqpMvBHBx3zWfcxBj5ucZOcVdmaWZQvm8xwy/wAVUpJokO1sjIwPrVzy1kIDEZXkZrMeLdI0jDrTUVfUiS0IVEgXPHB7CpBKsnyj5WXGariRvJYxrkr0x61dt7OOa1M8jFW4OB+ufeiUkiXJWGbHYiUOcenaklV0UIeec8VoQwx5AjXjvnnFJcZTqo2g4960gykhnlsoEsXQDkelTxCRwYsZ3dfxqLcN4GdvSrgTbcfKcr/jWpN9SQLtAtUJZV/ya6BEWy02SB3MayKeR1Unv9aw40YXGMYxU/iQuNKaVpdoCsT26CvQwNBOrFNnnY+T9jKx+N3w30eW+/b5uprC6lHk3V2C5GXZIIQXUu/TcV2knJYHAOSDX7k6bJM9qpmGAOgHavxq/Zmtjc/tY674vuCZrKC0nO+ROTcXDxhOO+3YcEZxwc9K/aCxMVvDufkEfmf8K+o8QWnVgnukfN8FxdOE15jo/Lkn80nH1/wqKSxmllEkpUsrZz1wP6GrexwoKrknrnt9Kf5jWyEnqetfnsI66n3POzRjgEMYZz14yKqXlkeGDZqaKRSgSbovPFQLdGQbm3bKqCsyehgXZUyiJBtb/CsryJPMVHOBk5Hb610moR+WA+Qr9eax2BkYTycKOMCk4vmuNRZkTW0JYeYx2Ln5T0/EU2Nwg2KPlHT0Aqe7hi4LkEA8Y/rTViJjIQcHjmiOhWq0ZSjuotRBa2weoyORkdee/Ss9YzGS5GMdRVxEhtisKALjsOMVWvA5OEOVNOUkEX0IL55mt91ovXjPofWoAtxOuJwSrDGR0yKQzSwFYU5Q/kKlhuzGpjYZ+vSsuW+xdrGYIUR1jY4buR7elW44S8ZycVLsVwJaaEmjYlTuU/pVqPQzc27n5Mft+362er+GBZ/vFX7UWVskElkGB2524PsT9a/TT4SeHm8OeELXTLlgJLaNUPf5QPXvjp0Fflh+3UVPxQ8O6RGFkS4jkleJj91hMgJx2yBwP4unWv1v8L2TWPhS1jmma5mCLmVsZfIyc7cD8gPpX6jncOXKqSe+n4I/OclqKWYVPmdOLmNm8vP4VcijeWdEgwCOctxx9azbG1E6iSUbSvRu9WZTHEQFb94RkfTPWvy2V7H6LGaLl6bmFWiU8jpiqTzznYJDwwxgdqs+fIkPzjcw7mnGMykSNj1waq5pGeuhay7QLvA
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

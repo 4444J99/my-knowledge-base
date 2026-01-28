@@ -1,0 +1,26 @@
+{
+  "id": "0692eb4b-63de-45c1-8926-9fc05aaf4712",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Certain items will be limited in quantity and availability.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Capped Items:</div>\n<div>  •  Weekly Items Found in the Environment (Limited based on availability in that week’s settings.)</div>\n<div>  •  Legendary Items (Rare, extremely powerful, limited to one per cycle.)</div>\n<div>  •  Long-Term Items (Once unearthed, they last until the course ends but can be stolen or lost.)</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> How This Works:</div>\n<div>  •  Players can discover, trade, or lose items.</div>\n<div>  •  Some items have expiration windows.</div>\n<div>  •  Legendary items disappear if not claimed within a set timeframe.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Encourages active exploration and competition for resources.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Prevents an imbalance where too many players hold powerful items at once.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Adds strategic depth to item use and acquisition.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 504 (chunk 504/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "items",
+    "face",
+    "zapfdingbatsitc",
+    "limited"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

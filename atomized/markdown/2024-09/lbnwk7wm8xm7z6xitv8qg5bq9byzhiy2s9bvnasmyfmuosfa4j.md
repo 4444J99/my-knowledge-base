@@ -1,0 +1,32 @@
+---
+id: 19291e1d-51d5-40fc-9085-614b324708f2
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - lbnwk7wm8xm7z6xitv8qg5bq9byzhiy2s9bvnas
+  - myfmuosfa4jy
+  - tnbggeff
+  - >-
+    xpz7ksmlcv69c2mzvrx2hzf5nc7ezqg3uu1uv1q16ujkwfklxumjlzzruktnozwhloxmbwvfgz7s6br7q2
+  - >-
+    ro697tlzinvrbaqntdpllyrxciy63zrbrtcv8g6eij7qnqzshv95s7msjvdsdidzt7ootdxqwnw2uwvnbarxfe2yumuc0j3kjtqpo3mn3zujrfdplaq1ukdhyhuy25otflvnajpxm7ci1t7p50u5jtkmharpq6wv
+---
+# LBNWk7WM8xm7z6xITV8Qg5bQ9byZhiY2s9bVNas/MyFmUOsfA4Jy/TnbGgeFf+xpz7KsMlcv69c2MzvR
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 2499 (chunk 2499/11534)
+
+## Content
+LBNWk7WM8xm7z6xITV8Qg5bQ9byZhiY2s9bVNas/MyFmUOsfA4Jy/TnbGgeFf+xpz7KsMlcv69c2MzvRX2hZF5nc7eZQG3Uu1uV1q16ujKwFKlxumJLZZrukTNozWHloXmBWvFGZ7S6BR7Q2+RO697tlzinVrbaqntdPLLYrxcIy63zRBrtCV8g6eij7qNqzShv95S7msJVdsdIdZt7OotdxQWNw2UWvNbarxFe2yumuC0J3KjTQPO3mn3zuJrfdPlaq1UKdhYHuY25otFLVNaJpXm7ci1T7p50u5JtkmHaRpq6wv/ODxOC6Q89U8t6atS7//npZnt1GecuZXi9szvU2CcFcpbl+bLnEDd3pnuYqutd9LW0qEp23N3VvYXPWgPVrsLBvP7K/n8jNyws6ug3+7jHHk9udfRFNbpXtLLLKP1odOtm0IbQ5cFPpk9x+w7f0B/yq9zL0lLxAr5Fak9Vi6+7d8sVw9RWNsoU4g7R6aQWOim7ULajy0KvSt8Lv79eJe7NbDctt/4hiTGaOrpSzTqOZbcFBtf4Xjf/B/uqtgR4QX9mugR6UX92hDbDgnPcVcHDvvD/is1dib1H2/iWdcyTXy9lo/p/+pfEdwvdZut0f3cHYJb2a9/XV0gUi9ys4d6jms9e6WVDqdM4XG5k3UeP++fP1CpHVB/5f/FOHYeQ+x0/c8MxoEABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAIHTK+AXqMYOZW8TqAZUqtN79bFHY1dkVx/7DtlTfNKa/cbWOxde/YSGx8Mq1esj9aT/59IT5qx4aFoXme4q6C5od7jzu/Pbue32jpzd1HOcUWzvze5In2j3ZN1lfZeCYWt02rasobRp9UNTbfYyQa52l7toCuh6edZA8Y78YPF9mQOZ2wpjWX3Z9jxLyg/SLZMt1mBmf6439auTfkwdyekRNsFyTjB9S8o3qbc49fC0lsIWWwetHDzxJtpO8FMcm7VrRrhWLtg9J9wkc/sWRVo6K+3LQ4uVWu/yWKtcE2iPr1BcF1gV8Sj1YdHSJvN97MhKZYlW27daXqrxbrdlZk+pbWa4KljQ65Kr+otbW+S6iMM13147UBIVXA3RsogQmNE3vXN2b3VfkUZn2p9rtFX48vhGvrI7t7uJr/Llt87WGrqm7pgfmNVZriwIuzqr7HPDzXJFtClW753exXUUN+
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

@@ -1,0 +1,26 @@
+{
+  "id": "312690e7-8dbc-485b-8803-625c838c4db7",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:57:38.000Z",
+  "title": "unify divergent edits. However, if parallel items diverged significantly (like t",
+  "content": "unify divergent edits. However, if parallel items diverged significantly (like two projects that evolved differently), merging them automatically could be error-prone. In such cases, establishing a parent-child link may suffice (e.g. mark one as a fork of the other, or simply store them as separate but related items). • Automated Renaming and Bulk Operations: A very practical aspect of reconciliation is performing bulk renames or moves with minimal manual effort. Tools exist (like Bulk Rename Utility, command-line scripts, etc.) to apply patterns. You can, for instance, prepend a system identifier to all files from System A (to namespace them), then move into new folders, then strip or adjust as needed. If a certain naming convention was common (like project codes or dates in names), those can be parsed and reformatted to the new convention. The key is to script these operations to avoid mistakes on hundreds or thousands of items. Always keep backups of original names (perhaps in metadata or a CSV) in case something needs to be traced back. • Maintaining Legacy References: It’s wise to allow a grace period where old identifiers can still find the content in MythOS. For instance, o",
+  "context": "From document: Transforming a Fragmented Digital Life into a Unified Canonical Architecture — chunk 24 (chunk 24/37)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "97ddee0de00a1fdb1a5da48c7c6bd4f2",
+  "relatedUnits": [],
+  "keywords": [
+    "items",
+    "like",
+    "them",
+    "bulk",
+    "operations"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

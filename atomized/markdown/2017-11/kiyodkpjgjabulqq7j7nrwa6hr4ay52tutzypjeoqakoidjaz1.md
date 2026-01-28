@@ -1,0 +1,32 @@
+---
+id: 9658783f-9eee-4353-a055-fe9634df30a2
+type: insight
+created: '2017-11-08T14:03:53.000Z'
+document: f47673d86e05016edf5cfc9824f2b752
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - kiyodkpjgjabulqq
+  - >-
+    7j7nrwa6hr4ay52tutzypjeoqakoidjaz1uhgdiata6vltsbrvxcxebgtggbegysrg5dlnvjkugsplqy
+  - tpv7
+  - >-
+    qq3sgri4wbjjocqbke5963bye9iigkten3zdcllagzcm7tnosf8knsj1aoxikeskxuwy5jocd02gdgqmg
+  - 9qbix4is9qsodphwokweionjnibwqsezdwz1hfwtu1nvhhz3onyw7wuqita0si5xsb4jx1
+---
+# kiYODKpjgJABUlQq/7J7nrwa6HR4AY52TUTZyPJEoQAkOiDJAz1UHgdiaTA6VLTSbrVxcxebGtggbEgy
+
+## Context
+From document: use this photo as a reference to create my own cut out piece. also… — chunk 173 (chunk 173/242)
+
+## Content
+kiYODKpjgJABUlQq/7J7nrwa6HR4AY52TUTZyPJEoQAkOiDJAz1UHgdiaTA6VLTSbrVxcxebGtggbEgysrg5DLnvjkUgspLqy/tPV7+QQ3sgRI4wBjJOCQBke5963bye9iigktEN3ZDCllAGZCM7TnoSf8KNSj1aOxikeSKxuWY5jOCD02gdgQMg+9QBiX4is9QsodPhWOKWEiONjnIBwQSezdWz1HFWtU1nVhHZ3Onyw7wUQiTa0sI5xsB4Jx1+gqsrWE/ia6jkTekKBolU5JIHIPpk9fYCoLiPR5J4mvbNoJ3OVcAkBAcg5HO4H8KAOv0a0mvtPP24tJImcsgICK55VQf4m6ux6DgGs8JaJealHah76VULpHFlC74wVduAsEY+bggMfXNaP9pWVlcmK5edISpWKSH7/AJRHKY5Akc9T2FULea4Fvc3WjMs7Si3inCHBdN2YY493IUHmVjweRnFAFS+07TYr20stIBmkmEDCSRys17O4BII4IjUjGOAQK2XtJr0T3sM7XR1KUWlxbxEJ5s+eYrfGCsSfxtxnBIrn717mbxTc3F95c/mS+VHPFwGeED5YyOFiUkhjxkdK6G9tXiuofPn2Dy5G+1Ww4kJHMUCjsoyGbGeM5oArXNpa2fl2UErW2p7GSURncisjBQsIPHA+8eprxX4jiWHxbcwXKhzFGiAAnAGwAZ9816TY6tNLrlulokd1bWwSFGjycDqcE8lgOWJ615T43kguPFF7JZOZFMgwW7lc5znp7VSAwoHgWCC5tgRJDknPQYOcfnX9q37M3ikeNPgR4C8SrIHN5o1ruAOfmiUIfx4r+KiMoqfapF8t8cKOhJ45HvX9Vn/BLLxtL4u/ZU0axuGLS6BeXOntnqoQhlH054qiWfpVWNqv/LL/AIF/StgHNY+q/wDLL/gX9KCT/9X8v/2pZfL/AGkvihx/zM2q/wDo418/CQDJ7mvdv2qWz+0n8T8A8+JtV/8ARprwHkc+lfo2F/hHg1YrmHqHK4U5B5OaZuwwDdzT0mXG3uajZCXHfJrpluTexYjiDEsTwOeKlhQs+0c98mkUKoIY4z61YhX+Lorce9QZczJGjMxLOdoQcc1NGEDL8oyO57ZHU0i2wL7WJOc4HY1q2ltBL88uQcgEdRgDrx710JHFOdtzQtNqghtoYjOf7w7ik3G43xkLEEyVXoRj1rS
+
+
+
+---
+*Source: Document f47673d86e05016edf5cfc9824f2b752*

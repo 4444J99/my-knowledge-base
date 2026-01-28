@@ -1,0 +1,26 @@
+{
+  "id": "5920032e-84da-4073-b469-af8fc9bc4cb9",
+  "type": "insight",
+  "timestamp": "2025-12-04T16:48:25.000Z",
+  "title": "<div><tt>| 18 | stable | volatile | technical | d8 | [engineering, chaos] | glit",
+  "content": "<div><tt>| 18 | stable | volatile | technical | d8 | [engineering, chaos] | glitch burst modulation |</tt></div>\n<div><tt>| 19 | flesh | metal | AV | d10 | [cybernetic, skin] | character waveform mod |</tt></div>\n<div><tt>| 20 | first-person | god-view | narrative | d1000 | [perspective, divine] | camera/operator POV |</tt></div>\n<div><tt>| 21 | dream | awake | psychological | d100 | [lucid, logic] | shimmer, sleepwave mode |</tt></div>\n<div><tt>| 22 | coded | spoken | language | d6 | [text, ritual] | vocoder/text fusion |</tt></div>\n<div><tt>| 23 | presence | absence | metaphysical | d100 | [ghost, UI opacity] | Freeze module trigger |</tt></div>\n<div><tt>| 24 | synthetic memory | lived experience | memory | d20 | [archive, trauma] | convolution or playback mod |</tt></div>\n<div><tt>| 25 | linear | fragmented | narrative | d12 | [coherence, remix] | glitch narrative mode |</tt></div>\n<div><tt>| 26 | call | response | dialogic | d6 | [input/output, echo] | delay sync system |</tt></div>\n<div><tt>| 27 | emotion | intellect | psychological | d10 | [affect, filter] | envelope follower mod |</tt></div>\n<div><tt>| 28 | center | periphery | spatial | d8 | [focus, framing] | visual balance modifier |</tt></div>",
+  "context": "From document: # synth-wave-modules — chunk 15 (chunk 15/51)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "1f0200e52addd3bec3d0beb78cca4a02",
+  "relatedUnits": [],
+  "keywords": [
+    "narrative",
+    "glitch",
+    "psychological",
+    "d100",
+    "mode"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

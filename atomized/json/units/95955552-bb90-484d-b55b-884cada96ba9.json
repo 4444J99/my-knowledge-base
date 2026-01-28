@@ -1,0 +1,26 @@
+{
+  "id": "95955552-bb90-484d-b55b-884cada96ba9",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt>  ]</tt></div>",
+  "content": "<div><tt>  ]</tt></div>\n<div><tt>}</tt></div>\n<div><tt>```</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**AMR (PennMan notation + JSON):**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>```</tt></div>\n<div><tt>(w / want-01</tt></div>\n<div><tt>   :ARG0 (b / boy)</tt></div>\n<div><tt>   :ARG1 (s / sleep-01</tt></div>\n<div><tt>      :ARG0 b))</tt></div>\n<div><tt>```</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Visualization Grammar (Vega-Lite inspired):**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>```json</tt></div>\n<div><tt>{</tt></div>\n<div><tt>  &quotdata&quot: {&quotsource&quot: &quothypergraph_analysis_sentence_X&quot},</tt></div>\n<div><tt>  &quotmark&quot: &quotlink&quot,</tt></div>\n<div><tt>  &quotencoding&quot: {</tt></div>\n<div><tt>    &quotnodes&quot: {</tt></div>\n<div><tt>      &quotshape&quot: {&quotfield&quot: &quotnode.type&quot, &quottype&quot: &quotnominal&quot},</tt></div>\n<div><tt>      &quotcolor&quot: {&quotfield&quot: &quotnode.sentiment&quot, &quottype&quot: &quotquantitative&quot}</tt></div>\n<div><tt>    },</tt></div>\n<div><tt>    &quotedges&quot: {</tt></div>\n<div><tt>      &quotstrokeDash&quot: {&quotfield&quot: &quotedge.label&quot, &quottype&quot: &quotnominal&quot},</tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 44 (chunk 44/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "quotfield",
+    "quottype",
+    "json",
+    "arg0"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

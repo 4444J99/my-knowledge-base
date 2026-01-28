@@ -1,0 +1,23 @@
+{
+  "id": "dc30f9a2-7b3f-4790-8d3c-5ab032c337d0",
+  "type": "insight",
+  "timestamp": "2020-09-30T01:51:49.000Z",
+  "title": "<div><b><u>Chord Progressions</u></b></div>",
+  "content": "<div><b><u>Chord Progressions</u></b></div>\n<div><b><u><br></u></b></div>\n<div>B7 B7 B7 F#7 F#7 A#7 A7</div>\n<div>AM DM AM DM GM Em  GM Em Em</div>\n<div><br></div>",
+  "context": "From document: Chord Progressions",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "14b761d5e74ae502c86d5e57ffee1815",
+  "relatedUnits": [],
+  "keywords": [
+    "chord",
+    "progressions"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

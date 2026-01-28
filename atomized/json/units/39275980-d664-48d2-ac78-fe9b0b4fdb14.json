@@ -1,0 +1,26 @@
+{
+  "id": "39275980-d664-48d2-ac78-fe9b0b4fdb14",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> The Scribe may now alter a single documented event per week.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> The Scribe records major events of the session.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> They may rewrite a single line of documentation each week (must be approved for fairness).</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> If they rewrite a historical moment, it changes how that moment is remembered in class discussions.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Example: Scribe Powers in Action</div>\n<div><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Scenario</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Original History</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Rewritten Reality</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 333 (chunk 333/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "border",
+    "style",
+    "width",
+    "face"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "65087ba8-0925-4e49-aeb9-84d59a930150",
+  "type": "insight",
+  "timestamp": "2024-07-23T13:22:14.000Z",
+  "title": "<div>When turning off please use our provided metal lid. </div>",
+  "content": "<div>When turning off please use our provided metal lid. </div>",
+  "context": "From document: When turning off please use our provided metal lid.",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "03a6745d6ef5c05be9bbe097f59fa90d",
+  "relatedUnits": [],
+  "keywords": [
+    "when",
+    "turning",
+    "please",
+    "provided",
+    "metal"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "7f984d4d-1b90-48cb-a4c6-ac3cde00ed77",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:10:49.000Z",
+  "title": "<div><h1>USE_CASE_JESSICA.md</h1></div>",
+  "content": "<div><h1>USE_CASE_JESSICA.md</h1></div>\n<div><tt># USE_CASE_JESSICA.md  </tt></div>\n<div><tt>**REF_ID:** USE_CASE_JESSICA_001  </tt></div>\n<div><tt>**DATE:** 2025-04-12  </tt></div>\n<div><tt>**VERSION:** v1.0  </tt></div>\n<div><tt>**ROLE:** User Mirror / UX Translator / Product Simplifier</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## PROFILE</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- **Name (Styled):** Jessica Tenenbaum  </tt></div>\n<div><tt>- **Roles:** HR Director, Digital Product Creator, AI Prompt Builder  </tt></div>\n<div><tt>- **Domains:** Organizational systems, user onboarding, instructional clarity, AI education  </tt></div>\n<div><tt>- **System Persona:** Entry-point mirror | UX Simplifier | Companion Architect</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## KEY FEEDBACK + THEMES</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### 1. *&quotThis is wild, but it needs to feel tangible.&quot*</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Jessica reflects the broader user who:</tt></div>\n<div><tt>- Believes in the system’s potential  </tt></div>\n<div><tt>- Needs it to become **modular, repeatable, simple**  </tt></div>",
+  "context": "From document: USE_CASE_JESSICA.md — chunk 1 (chunk 1/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "606323ce50c63fcb48905ef782ef44a6",
+  "relatedUnits": [],
+  "keywords": [
+    "user",
+    "use_case_jessica",
+    "mirror",
+    "product",
+    "simplifier"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

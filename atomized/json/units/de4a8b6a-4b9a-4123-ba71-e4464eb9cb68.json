@@ -1,0 +1,26 @@
+{
+  "id": "de4a8b6a-4b9a-4123-ba71-e4464eb9cb68",
+  "type": "insight",
+  "timestamp": "2018-12-02T21:58:29.000Z",
+  "title": "<div>Watch all animation</div>",
+  "content": "<div>Watch all animation</div>\n<div>Starting with Disney </div>\n<div>Learn beats</div>\n<div>Follow the timeline </div>\n<div><br></div>\n<div>Read Cohen brothers scripts </div>",
+  "context": "From document: Watch all animation",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1e1e06cd34680b462efaf210c2b6ab98",
+  "relatedUnits": [],
+  "keywords": [
+    "watch",
+    "animation",
+    "starting",
+    "with",
+    "disney"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

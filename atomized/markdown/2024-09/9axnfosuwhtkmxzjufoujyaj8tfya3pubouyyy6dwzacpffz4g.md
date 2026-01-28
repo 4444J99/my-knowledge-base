@@ -1,0 +1,31 @@
+---
+id: 1ffac8d5-dc35-4728-85e8-eda05de8f899
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 9axnfosuwhtkmxzjufoujyaj8tfy
+  - >-
+    a3pubouyyy6dwzacpffz4gxh8jiimomsopgg9typqisldpd18pzsjmsr9by87ycgxgj8zzfqn8xzmtpwpjv73nepkfbjn6ldnhn0zesr6udrqiei
+  - 8uxtdhyb7akvlrmepg02dlifeyr42z4vxvdfjfvhxbdjfrx4zcgmwtm
+  - 0k9ihmvpwiq85
+  - hz2gsdzjy1nq9zkgniqijjvnkovm0d5zx74l
+---
+# 9aXNfosuWHTKmXZJuFouJYaj8tfY/a3pubouyYy6DwzacpFFZ4gxH8jIimOMSoPGG9tyPqISLDpD18PZ
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 7435 (chunk 7435/11534)
+
+## Content
+9aXNfosuWHTKmXZJuFouJYaj8tfY/a3pubouyYy6DwzacpFFZ4gxH8jIimOMSoPGG9tyPqISLDpD18PZSJMSr9By87YcGXgJ8ZzFqN8XZMtpwpjV73NEPkFbjn6LDnhn0ZESr6UDRqIeI/8uXTDhYB7AKVlrMEPg02DLifeYR42z4vxVdFjFVhxbdJFRx4ZcGmWtM+0k9iHMVpwiQ85/hZ2gSdZjy1nQ9zKGNIqiJJvNkoVm0d5zX74L/JLd2XLAw9VvrFHelmMrDqIgBnnjTLuEunGMs4TRtBh3LZ3GDsSbvYgNGB5gsIUIBlvAgXf2myGbTUWGHDBgyKXeeAtGHSvlfrwejvXWa8CoA54NPIhQC3YOazhirXYa4VcMeu6JvCZjLOmJCXWLqxhnUf88xZ4cqVaT2cZ83JOxZ6gzVcW8zqw4fhb8jMDWwhVdZ3x2bFZBRJxgFWjwuTPjIzO4lnZZZkKEKs7GGglGlJ8kVmbrSjLepKvNeB0ZcvJtS0cPIqzCGl4Fee2yhuZPA8O8yzorDrNRtx7Mz8tl90pURgaedAzyGjAcK2TgnFRokvEMTmOoFnjowBpgnLVm8AwHnrOE38HXiOHoDDk8bhIZjpAFJkSNFpezwJlnZcCgZA38H8fbcqx3VlyKKxJWbLw5vSVekYWWkAlH7wDOqLPEK9AoV4uMYjvNvduwJuY9xirCPbacCvYeZp0GrDvpOmdVwEQ8rIuav3c3ulTuq+eU/pmhxrLNEBYRwzlUepar5KgNqol9oCrKcw+MXMVR+HpQAoY4LjtqeeMvu/0ePZpR6EVVaQ/PFcypUdwYYxSkZEb1mGqYZfWhop2QNUFtRzOsCDNjaV2/Oms44lqW6r1GRd0w57PIe5wS4ixivwprmIkjKhTpEGWbIZZjGvGMx2f/qfP7IyDC5AoQbtgfWY//6ccfn4Pvb0IfZJHH/n7DLGPHj0nSZDwdvUOdP6S0Pd2oE59peL76c9X9rSELrKAzOY6shDhug0mA4Sh8zvd0fMgyz3rAwHuGEK3rnilkiCPNr5rfaWBdQNHR4FcfZydGnLKXdUcJVvSzcf5/dP7seGBn7OkjT+jygh5lbxY45jkq32vcI1W5OVFpXZ6rTFAfiudaRRrEZiwN9cz6KEKfjLFuPpzTQj7u9qv6cLWdsIoJ/XEKVmHMsI3YmPdaXP1Q83MH0VON
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

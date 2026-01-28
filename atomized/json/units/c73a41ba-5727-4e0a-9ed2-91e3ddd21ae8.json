@@ -1,0 +1,26 @@
+{
+  "id": "c73a41ba-5727-4e0a-9ed2-91e3ddd21ae8",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **Step 4: BUILD THE SYNTHESIS ENGINE**</div>\n<div><br></div>\n<div>Create: **`meta-synthesis-orchestrator`** (New org repo)</div>\n<div><br></div>\n<div>This is your **&quotsolve et coagula&quot** moment—dissolve the chaos, coagulate the order.</div>\n<div><br></div>\n<div>```</div>\n<div>meta-synthesis-orchestrator/</div>\n<div>├── intake-processors/</div>\n<div>│   ├── archive-ingestion/</div>\n<div>│   ├── ai-context-ingestion/</div>\n<div>│   ├── personal-repo-analysis/</div>\n<div>│   └── org-repo-analysis/</div>\n<div>│</div>\n<div>├── pattern-recognition/</div>\n<div>│   ├── recurring-themes/          # What keeps showing up</div>\n<div>│   ├── cross-layer-connections/   # Archive → AI → Code links</div>\n<div>│   └── evolution-tracking/        # How ideas evolved</div>\n<div>│</div>\n<div>├── decision-engine/</div>\n<div>│   ├── repo-triage-rules/</div>\n<div>│   ├── graduation-evaluator/</div>\n<div>│   └── consolidation-suggester/</div>\n<div>│</div>\n<div>├── knowledge-graph/</div>\n<div>│   ├── nodes/</div>\n<div>│   │   ├── archive-files/</div>\n<div>│   │   ├── ai-conversations/</div>\n<div>│   │   ├── personal-repos/</div>\n<div>│   │   └── org-repos/</div>",
+  "context": "From document: Contents_Table — chunk 82 (chunk 82/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "repo",
+    "synthesis",
+    "archive",
+    "engine",
+    "meta"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

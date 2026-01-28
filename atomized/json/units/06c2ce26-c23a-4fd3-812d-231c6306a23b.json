@@ -1,0 +1,26 @@
+{
+  "id": "06c2ce26-c23a-4fd3-812d-231c6306a23b",
+  "type": "insight",
+  "timestamp": "2018-12-20T00:23:13.000Z",
+  "title": "<div><b>Aaron’s Beef</b><br></div>",
+  "content": "<div><b>Aaron’s Beef</b><br></div>\n<div><br></div>\n<div>Au jus packet</div>\n<div>Dry ranch dressing</div>\n<div>Pepercinis 6 with juice</div>\n<div>Stick of butter</div>\n<div>2-3 lbs. chuck roast boneless</div>\n<div><br></div>\n<div>Carrots and garlic 2 hours before</div>\n<div>Mushrooms 1 hour before</div>",
+  "context": "From document: Aaron’s Beef",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "8000496ab7a5c66cb4062f8955d11bad",
+  "relatedUnits": [],
+  "keywords": [
+    "before",
+    "aaron",
+    "beef",
+    "packet",
+    "ranch"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

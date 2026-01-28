@@ -1,0 +1,26 @@
+{
+  "id": "c88fd542-f870-4f1c-841e-72fed6428309",
+  "type": "insight",
+  "timestamp": "2025-11-05T21:42:26.000Z",
+  "title": "<div>Add commercial data vendors with better coverage and freshness.</div>",
+  "content": "<div>Add commercial data vendors with better coverage and freshness.</div>\n<div><br></div>\n<div><b>Data Sources:</b><br></div>\n<ol>\n<li><b>Dun &amp Bradstreet API</b> (D&ampB Direct 2.0)</li>\n<ul class=\"Apple-dash-list\">\n<li>DUNS numbers, credit scores, payment trends</li>\n<li>Company hierarchies, business relationships</li>\n<li><b>Cost:</b> ~$0.10-0.50 per lookup</li>\n<li><b>Endpoint:</b> <font color=\"#CB30E0\">https://direct.dnb.com/v1/match/cleanseMatch</font><br></li>\n</ul>\n</ol>\n<div><br></div>\n<ol>\n<li><b>Google Places API</b><br></li>\n<ul class=\"Apple-dash-list\">\n<li>Business reviews, ratings, sentiment</li>\n<li>Opening hours, photos (expansion signals)</li>\n<li><b>Cost:</b> $0.017 per request (Place Details)</li>\n</ul>\n</ol>\n<div><br></div>\n<ol>\n<li><b>Clearbit Enrichment API</b><br></li>\n<ul class=\"Apple-dash-list\">\n<li>Employee count, tech stack, social profiles</li>\n<li><b>Cost:</b> $0.50-1.00 per enrichment</li>\n</ul>\n</ol>\n<div><br></div>\n<ol>\n<li><b>Permit Data (via BuildingConnected or PermitData.io)</b><br></li>\n<ul class=\"Apple-dash-list\">\n<li>Construction permits (expansion signals)</li>\n<li><b>Cost:</b> ~$0.25 per permit lookup</li>\n</ul>\n</ol>\n<div><br></div>\n<ol>",
+  "context": "From document: data enrichment strategy for ucc-mca intelligence platform — chunk 4 (chunk 4/32)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "42efb0f415b2f324521d2959a50f91bf",
+  "relatedUnits": [],
+  "keywords": [
+    "class",
+    "apple",
+    "dash",
+    "list",
+    "cost"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

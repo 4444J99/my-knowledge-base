@@ -1,0 +1,30 @@
+---
+id: 28a5800b-b511-4797-820e-9daff43d866a
+type: insight
+created: '2015-03-08T04:33:00.000Z'
+document: 324238e991a38d0b4ccb004be1f2adc1
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - best
+  - have
+  - thing
+  - that
+  - back
+---
+# <div>The fact I can see it as an excuse for the next few weeks of a sudden it wa
+
+## Context
+From document: The fact I can see it as an excuse for the next few weeks of a sudden…
+
+## Content
+<div>The fact I can see it as an excuse for the next few weeks of a sudden it was the best of the year and I don't think that I have a great way of the year and I don't think that I have a great way of the day before I get a follow back from a distance from a few weeks of a sudden it was the best of the best way of life and the best thing to say it was the first half of the best thing to say it was the first half of the year of high quality of life and the best of luck with the best of the best way of life is so cute I can't even see you soon enough for you and your a great day for the next few weeks of a new phone case you want me too I have to go back and I don't know how much you love the new version is the only thing that would have to go back and I don't think that the two sides to the point where you are the only thing that would have to go back and I have a good time with the best thing ever I go back and I have a good time with the same thing to say it is not the same thing that you have to say to the other people to be happy </div>
+
+
+
+---
+*Source: Document 324238e991a38d0b4ccb004be1f2adc1*

@@ -1,0 +1,30 @@
+---
+id: bc67a9a1-fed7-4b5a-95ed-e2827fcd9912
+type: insight
+created: '2025-06-26T22:20:27.000Z'
+document: 3064a729ccc4b131077d7f0fa180d5e3
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - insert
+  - okay
+  - right
+  - that
+  - text
+---
+# we don't need that. We need ocean sound. We want ocean sound. Okay. Eight days, 
+
+## Context
+From document: . So, these are all different things getting your attention. So we… — chunk 10 (chunk 10/12)
+
+## Content
+we don't need that. We need ocean sound. We want ocean sound. Okay. Eight days, right? One, two, three, four, five, six, seven, eight days. Okay. So you, two weeks I was drop ten. Okay. Okay, it'll create a column chart, showing the number of days that each person worked. Wait, you see that? I see that go down right there? When you start playing with the more you'll go down a little bit. What the fuck? Insert. No, hit insert. Who's it? Right there. Insert all? Insert Tr only, insert text on the intern. say text, right? We don't need a chart. You don't want to see the charter, it'll change as it goes. You sure? It's a deal. Yeah, I just saw text. Okay. replace current sales. I'rite data. You probably have to put Let's see what it does, and otherwise, we go. Oh, yes, so go back on then. How you do it? You have to select another column, you know, an empty column.'s. All right, let's do it again. insert, does it tell you where? you where you can start it there? It's her text Oie. It doesn't tell no it's it's my door. Okay, hold on. Is this the whole It wants to do the whole thing for you. We don't want it to do the whole thing. And even if I do this, I can't do it insert. you know, oh.
+
+
+
+---
+*Source: Document 3064a729ccc4b131077d7f0fa180d5e3*

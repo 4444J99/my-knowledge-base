@@ -1,0 +1,32 @@
+---
+id: 69a0e0c8-ec5c-425e-8efd-176d4f620c0b
+type: insight
+created: '2024-03-07T02:33:33.000Z'
+document: 27162d3685a234131532342f177d17e4
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - m7bzcypdtrpjhzwffari6sqooicses4c1v7caeg7tij7miumo6p7
+  - >-
+    c1hcsvvpkggpotfffvhaigkdkpgzjgjbwk8pngtokdxrogfknbmozvdafmadlbxqzsckxpqbwynghv6dqluui
+  - >-
+    gcudblzlb1ywarrhi9tgvqzhn7hs69biq9b2vugwkkdfv99liygyrjh2fmv32vvpqinvxzrkfj7oann8veuengjnucyuggamxo98s4qiqg6awq
+  - zrkoj
+  - 3oflaxegp3dbbd7bvwe86hn7xu5yf49o2vl2xlr
+---
+# M7BzCyPdTRpJHZWFFAri6sQOOIcseS4C1v7Caeg7TIJ7MIumo6p7++6Ec/C1hCSvvpkGgPOtFFFvHAiG
+
+## Context
+From document: CC INFO BILLING: — chunk 502 (chunk 502/909)
+
+## Content
+M7BzCyPdTRpJHZWFFAri6sQOOIcseS4C1v7Caeg7TIJ7MIumo6p7++6Ec/C1hCSvvpkGgPOtFFFvHAiGkDKpgzJGJbwK8pNGtOKdXRogfknBmozvdAFmadlBxQZscKxpqBwYnGhV6dqlUuI+gCUDBLZLB1YWarrHI9TGVQzhn7HS69BIQ9B2VuGwKkdfV99LiYGyRJh2fmv32vvpQINvxzRkFj7oAnn8vEuenGjNuCYuGgAmXO98s4qiQg6aWq+ZRKoJ/3OflaXEGP3dBBD7BVwe86hN7xu5yF49O2Vl2xLr+S5qt+xJAxWj9uVaucvzjacS9/N5IsaX8NYHKCAIrmMQqaAW7G6TlVtj6PoZykUVibxejqC46I4nmCMZ6fymxVPxD+uABi/Xpy3s6EwWgKUmdCuwv1BOZ4mgawHHlUGJLWpo5KpME3JTrlWpCKgYfbuj0pPOMAew6t/4D7vOw0wTbq/UbbKAQhu6CAO4/F8T5Sd0TI+chvVgEb74ALUyT6hmIEBI0kTvPOzivyOYz5EZc/HAv/wGWO4HQiJ8Uc89XmSggYY/9HPJFkc74Dx5ZMqkpkikBIktR8Tl6QMN5D2iyTCXdq6m2lKXGwPR4mrUO/5npWAstK3vpvnDA46CnyPDtgFWKkuMcrIYvHdS7+VoCbx76pQtcFGuFnNdJ7kAKrXbeHXPGHAZW+Y2Gbe4cMS4UJVMgWZxeVCT35X5cXg361y7aDLa2WAbC4s4TKt2t2+TctLtJwgtK9bSspjaQ7vE40gDvlJdXoThSmla9JRNjHXzIyIxRYpNzXoZ/2zh3mvlhz7dNB+oRzr46KevtCQuXe161LP1LDyKMh15frdGXvRabkP532HZSYPCGDFIhL4mXIHqknXSCb9mKyzQJ8Nn+r8635W/jmlwGt5PiMltTosOBITJ5pmC/x7WLpFM/EdiN0QmyCsWjzlRah4+7vNi8mz7Bv91tBhb5EFLrlzxqMHUl/L1L9MBgZugk6wdbuDjvhVPXd3Rs9bYUvr/uih5/44AHrVKVujCnEKqphlfNTCnSvKYXN84d2HhhxlizBRuNx0FQsNsf9cJdqazoCYTXI9nzCzb/8EL8BdfCPDe85NZiUYS7nbM9YONw7ydhrVyYYCsl+gaqxWoILwf4h9uFgx73Ntv5i1KZPx75IccJcKI2UUZhM+4XZn02TxVN8De
+
+
+
+---
+*Source: Document 27162d3685a234131532342f177d17e4*

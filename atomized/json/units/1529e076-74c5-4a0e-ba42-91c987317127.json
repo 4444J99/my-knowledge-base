@@ -1,0 +1,26 @@
+{
+  "id": "1529e076-74c5-4a0e-ba42-91c987317127",
+  "type": "insight",
+  "timestamp": "2016-02-01T22:53:17.000Z",
+  "title": "<div>Rimbaud - VENTRAKL</div>",
+  "content": "<div>Rimbaud - VENTRAKL</div>\n<div><br></div>\n<div>reimagine rimbaud, bring him back to life</div>\n<div><br></div>",
+  "context": "From document: Rimbaud - VENTRAKL",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "38431c83616e83f91a32a4982401a809",
+  "relatedUnits": [],
+  "keywords": [
+    "rimbaud",
+    "ventrakl",
+    "reimagine",
+    "bring",
+    "back"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

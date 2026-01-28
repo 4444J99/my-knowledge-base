@@ -1,0 +1,32 @@
+---
+id: d17dfcd1-2459-4b30-bb26-04d847430a46
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    o7ywkk8gd3mhhjvhjsg2zmeryye0xjxxrnbmf0grdcsw07myuiyvkzvw3bmgncyysys2ksttr3nbphjphasuvyivpsyzdc9suftmt7zbryrcznmayitmayy1ce52ib8lxxce7vpqaus9630rdxtwj6utlhwubkg1
+  - >-
+    shbabpygusks4y18mzn3wry3erf0jiksbpemadgdwhju793lfdofvkpuh6x7yzy0jww5z8pomb8jyrzzyij2usn7i6mmfrhlplqseag6ri9za4yi
+  - ctecxzp5bdtmlosd6vmdxatjsoi7deb8htd9
+  - pt4lvdmgznyt92wuv29uqk42lne6bzy
+  - ry67icc25evq45vfa
+---
+# O7YWkK8Gd3mHHjvhJsg2ZmERyye0XJXXRNbMF0gRdcSW07MYUIYVkzVW3BMGnCYySYS2KSTTR3nbphjP
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 4413 (chunk 4413/18928)
+
+## Content
+O7YWkK8Gd3mHHjvhJsg2ZmERyye0XJXXRNbMF0gRdcSW07MYUIYVkzVW3BMGnCYySYS2KSTTR3nbphjPhAsuvYIvPsyZDc9SUfTMT7zBRyrCZnmAYItmaYY1CE52IB8lXXce7VpqAus9630RdxtWJ6UtLHWuBKg1+SHBABPygUsKs4Y18MzN3WRY3erF0jIKSBPEmADgDwHjU793LFDOfvKpUH6x7yZy0JwW5Z8pOmb8jYRzZyIJ2uSn7i6mmFRhlPlqsEaG6RI9Za4yi/CtECXzP5bDTmlOsd6VmdXatJsoI7DeB8htd9/Pt4lVDMGZnyT92WUV29UqK42LnE6bzY/ry67icc25evq45vfa+0brsyX14QONl2PqcWRLbVQC+6Mwq8laQEBjOsnceHNW375lVm85WpXy/Na7byP550yxiaG6WaKCCIybcD00L8t52+WWedLNDh6+5977FjxO7Gc9G2LVzwKB48SAMetuXfnisd8p3uYJUlfJCyPeiWGp4ANFVGo48eZ3C+cx9+USC4aE5JXfbJiexPIVBSAz8hPI67L30p/1Xk5FfRv2PN4VZ966pDnelT2n3ykz5sgP9oDTh3q31B0U72tsgyqNBLYdfXdHsmd6dUt66ZqqZnVTXzsaCCm9ELR5hfI6CCsQYyDNYRj0etHUSwZRZgicP2wIKiVDCX1y7+L6K/kYu3gJ01uM6TXjb5BbocDCxFvlewnlJwALbcBBnWmMr6xbrNhsdCW46cKDqKtgOJ64AjHqssAkiOGK6d5yJyEvuNiCKMz7sX5x3AJ8obyFCTzShbbxySYUVzLprJmvkKISOyDchwk+zyyiiarQLU8gl6y/yF0wX//qJi3AoGAfFiZPgZzEG7u6SAvdAaDQrOhxl7U8baVMAlSx5Etz3mNNAKFHnnxWBinPWqHkS0w1uLeOjle+rkt3FFgz9Rx6iegmTxLMiWFzxb6bGPxlgNgzgj3W1ZaNDLqeoos+UgDHFgGN1RnvF4Q1EVGSnznvVs3Hstu6ly7WOxfPeme1p4BcFhZY+AHCt0+g5kc8VaVIpp5dz6KVO5d4crMKL2L58roS3GdL6sNHF1xS/V/46RexrHuqWBc0xtHVhDKsD8qEYbKF+1lqzpliE0N1s0QFETi5b79GMUbopRxnff+C5XVRzfyFIzZthETuihkZTpu/rbpKNnbFAccB
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

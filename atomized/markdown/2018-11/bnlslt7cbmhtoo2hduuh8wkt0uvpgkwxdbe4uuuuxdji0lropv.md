@@ -1,0 +1,31 @@
+---
+id: 5517db49-929c-484f-8c0c-be27698d01ce
+type: insight
+created: '2018-11-06T20:47:41.000Z'
+document: 8c3ce8993066f857adca061d250e2c68
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - bnlslt7cb
+  - mhtoo2hduuh8wkt0uvpgkwxdbe4uuuuxdji0lropvdo4izsmgg9qqe1c14s8d
+  - cvagmyal4e8p6f4b0
+  - wvp3ttntibofpwvvaqxwqilyqqc2mkadsk6iigdldb8c
+  - >-
+    cpe2r6v4g8sehto1bvncfzdpu7u0hnulotcrb7esrwajtyqcoqcghsk2dx0jsdf0u60txbkdutovo2hula5jwacajxhkkjcfwvhwqqqr1rrooaznf0trvdmlwuhehrc30vtbfbfb2trekeema9fjjqbvudgabwbohgvwd4utui
+---
+# bNlSLT7CB/Mhtoo2HdUUH8wKt0UVpGKWxDbe4UUUUxDJI0lRopVDo4IZSMgg9QQe1c14S8D+CvAGmyaL
+
+## Context
+From document: Octatrack Tips & Tricks — chunk 637 (chunk 637/2544)
+
+## Content
+bNlSLT7CB/Mhtoo2HdUUH8wKt0UVpGKWxDbe4UUUUxDJI0lRopVDo4IZSMgg9QQe1c14S8D+CvAGmyaL4E8P6f4b0+WVp3ttNtIbOFpWVVaQxwqilyqqC2MkADsK6iigDldb8C+CPE2r6V4g8SeHtO1bVNCfzdPu7u0hnuLOTcrb7eSRWaJtyqcoQcgHsK2dX0jSdf0u60TXbKDUtOvo2huLa5jWaCaJxhkkjcFWVhwQQQR1rRooAzNF0TRvDmlWuheHrC30vTbFBFb2trEkEEMa9FjjQBVUdgABWboHgvwd4UTUI/C2hWGjrq073V4LO1itxc3En35ZhGq+ZI38TNknua6WigDyfQvgN8EvDHiI+LvDngHQtM1rf5gvLfTreKdXOcsjqgKsc8lcE9667SPAngnw/rmp+J9B8P6fpusa0Qb+9trWKG5uyCSDPKih5Dkk/MTya6qigDhPDHwu+GfgnVb3XvBvhLSdB1LUQVubmwsYLWacFgxEkkSKzAsMkE9eetcZ4q/Zr+AHjfW5PEniz4e6JqeqTNvluZbGIyyt6ysFBkP8AvZr26igDM0XRNG8OaXbaH4esINL06zXZBbWsSwwxIP4UjQBVHsBV+WKKeJ4ZkEkcgKsrDKsp4IIPBBqSigDyXw/8BPgh4U1G71bw14A0HTLy/SSKeW3023jd45lKSR5VBhHUkMo4YE5BrwT9sL4H6n4s/ZU1r4Q/A7wvaxztPZPZaVYLbWFuqpepcTFFJihT+NzyMkk8k19q0UAfP6fs4/BjxRaaJrXxA+H2iar4htbK1jnuLuxt55mkihWPErlT5u3bgbiwAHFe9W9vb2lvFaWkSwwQqqRxooVERRgKoHAAHAA6VNRQAV4jffs1fs96l4hPiu/+HHh+fVmkMzXDabblnlJ3GRxswz553MCc969uooAaiJEixRKERAAqgYAA6ACuU0XwD4F8N63qfibw74c03S9Y1pi9/e2tnDBc3bFixM8sah5CWJOXJ5OetdbRQBka94f0HxTpNxoHifTbbV9MvF2z2t5ClxBKoOcPHIGVhkZ5Fee+CPgP8FvhtqkmueAvBGj6DqMgYG5tLKKKYK3VVkC7lU91BA9q9ZooA5u78G+EL/xNY+NL7Q7G48Q6ZG8NpqUltE97bxSBg6RTlTIisHYEKwB3HPU1yXxf8UfEjwf4OfW/hZ4OHjn
+
+
+
+---
+*Source: Document 8c3ce8993066f857adca061d250e2c68*

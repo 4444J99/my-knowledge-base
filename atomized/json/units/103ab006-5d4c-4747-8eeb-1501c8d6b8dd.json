@@ -1,0 +1,26 @@
+{
+  "id": "103ab006-5d4c-4747-8eeb-1501c8d6b8dd",
+  "type": "insight",
+  "timestamp": "2025-12-03T05:00:13.000Z",
+  "title": "<li>Design audience OS layer and naming schema.</li>",
+  "content": "<li>Design audience OS layer and naming schema.</li>\n<li><br></li>\n<li><b>Implementation (Weeks 11–16)</b><br></li>\n<li>Configure dev/test environments and <b>performance </b>pipeline<b>.</b></li>\n<li>Simulate touring workflows and build an <b>audience-controlled performance engine.</b></li>\n<li><b><br></b></li>\n<li><b>Milestones:</b></li>\n<li><b>Week 4:</b> Contextual Awareness Subsystem specification complete.</li>\n<li><b>Week 6:</b> Secure and tested relay system finalized.</li>\n<li><b>Week 10:</b> Draft architecture and audience protocol approved.</li>\n<li><b>Week 16:</b> Prototype demonstrating rotating bands and audience-driven influence delivered.</li>\n</ul>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div><h2>5. Roles &amp Responsibilities </h2><b><h2>(RACI Matrix</h2></b><h2>)</h2></div>\n<div><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><b>Task / Responsibility</b></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><b>Analyst Team</b></div>",
+  "context": "From document: Project Charter: Contextual Awareness and Audience-Interactive Live… — chunk 4 (chunk 4/15)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "6c79b8186fe335c5c6f24948326d3edf",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "audience",
+    "week",
+    "width"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

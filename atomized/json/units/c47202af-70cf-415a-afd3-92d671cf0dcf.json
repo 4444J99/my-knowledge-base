@@ -1,0 +1,26 @@
+{
+  "id": "c47202af-70cf-415a-afd3-92d671cf0dcf",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Example name:</div>\n<div>STORY-RECURSION-INDEX-ARC-0203-v1_1</div>\n<div><br></div>\n<div>1.6 WORKFLOW Layer</div>\n<div><br></div>\n<div>Function: defines concrete procedures, checklists, and runbooks.</div>\n<div><br></div>\n<div>Metaformeme: standard phrases are used to describe recurring tasks, such as “seed”, “fan”, “fold”, “seal.” Each has a specific operational meaning and associated expectations for artifacts.</div>\n<div><br></div>\n<div>Myth Fusion: workflows are conceived as rituals belonging to certain orders or cults (for example, “Rite of Seeding a World,” “Rite of Archive Consolidation”). This supports memorable reuse and layered symbolism.</div>\n<div><br></div>\n<div>Wave Theory: workflows are tuned to wave phases. For instance, in ramp-up phases, workflows prioritize breadth and exploration; during crest, they prioritize integration and release; during decay, they prioritize refactoring and archiving.</div>\n<div><br></div>\n<div>Recursive Storytelling: every workflow spec includes a short narrative example showing how it played out in an actual or hypothetical session, making it easier for future AIs or humans to internalize.</div>\n<div><br></div>\n<div>Example name:</div>",
+  "context": "From document: 0.\tPreamble and Scope — chunk 6 (chunk 6/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "b3360b527d494aeb150b316c90472eb0",
+  "relatedUnits": [],
+  "keywords": [
+    "example",
+    "workflows",
+    "prioritize",
+    "name",
+    "workflow"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

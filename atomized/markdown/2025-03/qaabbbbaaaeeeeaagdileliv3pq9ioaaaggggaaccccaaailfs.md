@@ -1,0 +1,32 @@
+---
+id: 209c906d-7259-4279-a43d-bd431f85672f
+type: insight
+created: '2025-03-13T23:47:48.000Z'
+document: 3b2e4f3759d2535cf9a91dec728a8fbc
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    qaabbbbaaaeeeeaagdileliv3pq9ioaaaggggaaccccaaailfsbwkykno0maaqqqqaabbbbaaaeesi9a4fz6u
+  - aiaaiiiiaaaggggaaccjrugmctpjzsdaeeeeaaaqqqqaabbbaovqcbw
+  - >-
+    ln2smccccaaaiiiiaaagggufibarescrizbbbaaaeeeeaaaqqqqkd0agruptdljwgggaaccccaaaiiiibasqui3erkyc4qqaabbbbaaaeeeeaagdileliv3pq9ioaaaggggaaccccaaailfwhr0r1vwc5
+  - 3339popgxlljbxxholzcv25o8
+  - rbffvnf5p57bpt
+---
+# QAABBBBAAAEEEEAAgdILELiV3pQ9IoAAAggggAACCCCAAAIlFSBwKyknO0MAAQQQQAABBBBAAAEESi9A
+
+## Context
+From document: Squarespace, ChatGPT, GoDaddy Expenses — chunk 823 (chunk 823/2268)
+
+## Content
+QAABBBBAAAEEEEAAgdILELiV3pQ9IoAAAggggAACCCCAAAIlFSBwKyknO0MAAQQQQAABBBBAAAEESi9A4FZ6U/aIAAIIIIAAAggggAACCJRUgMCtpJzsDAEEEEAAAQQQQAABBBAovQCBW+lN2SMCCCCAAAIIIIAAAgggUFIBAreScrIzBBBAAAEEEEAAAQQQQKD0AgRupTdljwgggAACCCCAAAIIIIBASQUI3ErKyc4QQAABBBBAAAEEEEAAgdILELiV3pQ9IoAAAggggAACCCCAAAIlFWhR0r1Vwc5+/fVX+/3339POpGXLljbXXHOlzcv25o8//rBffvnF5p57bpt//vmzrcI8BBBAAAEEEEAAAQQQQKDsAk0u43bWWWfZsssum/bXtm1bW2ONNWznnXe2M844w7799tus0Hfeeaffrl+/flmX19PMVCpl+qMggAACCCCAAAIIIIBA5QWaXOAWSFdaaSXr3r27devWzVZbbTX78ccf7YknnrDLL7/c1l13Xbv11lvDqrxmCIwZM8ZatWplBx98cMYS3iKAAAIIIIAAAggggEAlBJpcVcmAuPvuu9sJJ5wQ3vrXadOm2cCBA+3uu++2Pn36+OqTWi+Url272r333mvt2rULs3hFAAEEEEAAAQQQQAABBCou0GQzbtlkl1tuORs2bJgP3rT8tNNOs59//jladdFFF7UNN9zQll9++WhemFD1yvHjx5uyUcreJSnTp0+3++67zyZMmJB2nFzbfvbZZzZ69Gj79NNPc61if/31l6kdn14zi6o2ZrbxmzlzZtr6f//9t7300kv26KOP2ueff565C/vtt99Mbf1UtK72F943WJkZCCCAAAIIIIAAAgggUBaBugrcgugRRxxhnTp18oHLiBEjwmy75557bPHFF7f+/ftH8/755x879dRTbZVVVvFVL/fcc0/fDm677bazRx55JFovPnHBBRfY6quvbmuttZYdeOCBtv3229uqq65qQ4YMia8WTQ8ePNg6d+7sj7HXXnv5dddee2276KKLonXCxGWXXebP8aqrrgqzolcFijr/rbfeOpp3xx13+Hna180332wdOnSwrbbaypRp1DWdfvrpPkALG6gt4P777+/f3n///X7bQw89NCzmFQEEEEAAAQQQQAABBCog0GSrSuaznGOOOWyHHXawl19+2d544418q9qFF15o
+
+
+
+---
+*Source: Document 3b2e4f3759d2535cf9a91dec728a8fbc*

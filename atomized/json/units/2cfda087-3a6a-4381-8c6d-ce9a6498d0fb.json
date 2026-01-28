@@ -1,0 +1,26 @@
+{
+  "id": "2cfda087-3a6a-4381-8c6d-ce9a6498d0fb",
+  "type": "insight",
+  "timestamp": "2018-08-24T22:51:06.000Z",
+  "title": "<div>It feels better to come in something than _______</div>",
+  "content": "<div>It feels better to come in something than _______</div>",
+  "context": "From document: It feels better to come in something than _______",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "c776efc8b82683b61f37cfbdbff491ac",
+  "relatedUnits": [],
+  "keywords": [
+    "feels",
+    "better",
+    "come",
+    "something",
+    "than"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,30 @@
+---
+id: a28736c0-51f3-4627-87c2-1e023c18c5e2
+type: insight
+created: '2025-11-20T00:27:19.000Z'
+document: 657aecac6f7fd18489e5adc55f9e6f82
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - independent
+  - multi
+  - stakeholder
+  - ethics
+  - council
+---
+# |Independent multi-stakeholder ethics council  [![](claude-citation:/icon.png?va
+
+## Context
+From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 38 (chunk 38/57)
+
+## Content
+|Independent multi-stakeholder ethics council  [![](claude-citation:/icon.png?validation=618B94B6-42B8-43A2-A1C1-E75931CB3A8D&ampcitation=eyJlbmRJbmRleCI6MTcwNzMsIm1ldGFkYXRhIjp7Imljb25VcmwiOiJodHRwczpcL1wvd3d3Lmdvb2dsZS5jb21cL3MyXC9mYXZpY29ucz9zej02NCZkb21haW49d2Vmb3J1bS5vcmciLCJwcmV2aWV3VGl0bGUiOiJUbyBtYWtlIHRoZSBtb3N0IG9mIEFJLCB3ZSBuZWVkIG11bHRpc3Rha2Vob2xkZXIgZ292ZXJuYW5jZSB8IFdvcmxkIEVjb25vbWljIEZvcnVtIiwic291cmNlIjoiV29ybGQgRWNvbm9taWMgRm9ydW0iLCJ0eXBlIjoiZ2VuZXJpY19tZXRhZGF0YSJ9LCJzb3VyY2VzIjpbeyJpY29uVXJsIjoiaHR0cHM6XC9cL3d3dy5nb29nbGUuY29tXC9zMlwvZmF2aWNvbnM/c3o9NjQmZG9tYWluPXdlZm9ydW0ub3JnIiwic291cmNlIjoiV29ybGQgRWNvbm9taWMgRm9ydW0iLCJ0aXRsZSI6IlRvIG1ha2UgdGhlIG1vc3Qgb2YgQUksIHdlIG5lZWQgbXVsdGlzdGFrZWhvbGRlciBnb3Zlcm5hbmNlIHwgV29ybGQgRWNvbm9taWMgRm9ydW0iLCJ1cmwiOiJodHRwczpcL1wvd3d3LndlZm9ydW0ub3JnXC9zdG9yaWVzXC8yMDIzXC8xMVwvYWktZGV2ZWxvcG1lbnQtbXVsdGlzdGFrZWhvbGRlci1nb3Zlcm5hbmNlXC8ifV0sInN0YXJ0SW5kZXgiOjE3MDI5LCJ0aXRsZSI6IldvcmxkIEVjb25vbWljIEZvcnVtIiwidXJsIjoiaHR0cHM6XC9cL3d3dy53ZWZvcnVtLm9yZ1wvc3Rvcmllc1wvMjAyM1wvMTFcL2FpLWRldmVsb3BtZW50LW11bHRpc3Rha2Vob2xkZXItZ292ZXJuYW5jZVwvIiwidXVpZCI6IjcyODQyOTlmLTM0NDItNDQzOC04ZjM3LTVmOWYyMjZlOTdkOCJ9 “To make the most of
+
+
+
+---
+*Source: Document 657aecac6f7fd18489e5adc55f9e6f82*

@@ -1,0 +1,26 @@
+{
+  "id": "740ac902-7a30-49f9-b18e-02f91c2d9074",
+  "type": "insight",
+  "timestamp": "2017-11-02T16:58:48.000Z",
+  "title": "<div>one day it will all mean nothing</div>",
+  "content": "<div>one day it will all mean nothing</div>\n<div>but right now it means a lot</div>\n<div>and that is all that matters</div>",
+  "context": "From document: one day it will all mean nothing",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "54e64d9ac67b0fcd9c7f2e49e71b8a23",
+  "relatedUnits": [],
+  "keywords": [
+    "that",
+    "will",
+    "mean",
+    "nothing",
+    "right"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

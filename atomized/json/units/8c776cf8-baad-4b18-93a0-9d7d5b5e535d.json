@@ -1,0 +1,26 @@
+{
+  "id": "8c776cf8-baad-4b18-93a0-9d7d5b5e535d",
+  "type": "insight",
+  "timestamp": "2015-07-27T20:37:25.000Z",
+  "title": "<div>I'm not a writer</div>",
+  "content": "<div>I'm not a writer</div>\n<div>I'm an orchestrator</div>\n<div>I'm not a musician </div>\n<div>I'm an orchestrator</div>\n<div>I'm not a filmmaker</div>\n<div>I'm an orchestrator</div>\n<div><br></div>\n<div>Being angry</div>\n<div>Is easy to do</div>\n<div><br></div>\n<div>Immature gods </div>",
+  "context": "From document: I'm not a writer",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f73ad8f032359410471d43bece9c8c65",
+  "relatedUnits": [],
+  "keywords": [
+    "orchestrator",
+    "writer",
+    "musician",
+    "filmmaker",
+    "being"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

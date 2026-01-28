@@ -1,0 +1,31 @@
+---
+id: 99160d17-69ce-4ad5-a7fb-3eca52c67e12
+type: insight
+created: '2025-05-15T00:56:03.000Z'
+document: 084f9bc77d1d8854a07a52206c286278
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 2mhmvileyyrb7gclkjkqfcybke5or8x4qlu9uv7xxli0bttzqrqteogjgkodggm5ygybpbgmc8us
+  - fz3muuk8vtcphkmbe3mezt3flhtygyybyhkzhfc0ann8l
+  - >-
+    dqzxyzw6olgxeya23srbgqncwzn5gr0a2j5ar2fg5rsjen1bkweynfbkhpm6sglna3qcnptiksfge13c2clwturz4yomlmwmkieoaugacbic9dxv0bczdd0o6npiwnnedsp8arwxdv7uc8t78vpuuuaffffabrrrqauuuuaffffabrrrqbha3
+  - 9bqso9b
+  - wdtf
+---
+# Q+JL+2mhmVILeYyrb7GCLkJkqFcYbKE5OR8x4qLU9Uv7XxLI0bTtZQRqTEoGJGKOdgGM5YgYbPBGMc8u
+
+## Context
+From document: Grokking Algorithms for OS — chunk 139 (chunk 139/402)
+
+## Content
+Q+JL+2mhmVILeYyrb7GCLkJkqFcYbKE5OR8x4qLU9Uv7XxLI0bTtZQRqTEoGJGKOdgGM5YgYbPBGMc8us/Fz3MUUk8VtCphkmbE3meZt3fLHtyGYYBYHkZHFC0Ann8L+dqzXyzW6OLgXEYa23srbGQncWzn5gR0A2j5ar2fg5rSJEN1BKwEynfbkhPM6sgLna3qcnPTiksfGE13c2cLWturz4yomLMwMkiEoAuGACBic9DXV0BczdD0o6NpiWnnedsP8ArWXDv7uc8t78VpUUUAFFFFABRRRQAUUUUAFFFFABRRRQBha3/wAf+m/9d3/9BqSo9b/4/wDTf+u7/wDoNSVlPch7kU7tEimMRnLgHzH2jHfB9fSoVup8ybktTg4XFxjPp29MVNcoXiAWFJjnJV+mP8aqiGRigksLcqAScEcHjAAx0qRDvtlx50aNFajd1xc5J45AGB9aPtdzyyx2kibcg/aMFv0/KhEYvltOiQqOG3g9vp+FNjiLg79NjjXGQN65yOgoAf8Aa5+SY7fGBgeeMg55zx2/pTkmunRm+zxdPlHn5yf++ah8pgvzaXCSzYwrLwMDBPH1qfzbpYhttU3YPBkGPb/GgB3mXWM/Z4s4PHm98DHOPrTfNu96gWse3blj53Q9wOKPPujKw+ygIGxuMg5HHOKs0AVke7I+a3hU4PIlJGcccYHB780NLe7OLaAvj/nsQM4Ht9as0UAVmlvN5C20OzPDGY8j6bev41ZoooAKKKKQBRRRQBn69/yBZ/qv86vx/wCrT/dFUNe/5As/1X+dX4/9Wn+6KfQOgtV7pcvG5tZpivIaMcqfzFWKp30QdoyYo5MA8vOY8dOw60gIoooPKO2wuQuSAMZPTr1zzS+RGiFF064+Vsqp69OT19RiomtlkVg1tF1+UC6b5iMAf4UhhWGVv3MJHmfJuumyM47fUUwJfJRnQvp1zuC8kdB7ZyKX7PExKmxmyW38NwTyc9f6VCLaIjd5MBIIK/6UwBHbjn2FKbaIxonkwMyZVR9qKkDvz19aAJBHGE3rYXAZNuFPXGfr275pUtoVkK/2fcDZnaRk5HGOM9/6VG0KKSUt7ckjBzckZGD2/E/56KLeNY9nlxAswyguWyRzg565oAf9mgWNVFhdYHyiPHT9aR4o41Zf7OuW2tuUDuRyO9NEMcg2mGLp8ii6bnHr70zylaA
+
+
+
+---
+*Source: Document 084f9bc77d1d8854a07a52206c286278*

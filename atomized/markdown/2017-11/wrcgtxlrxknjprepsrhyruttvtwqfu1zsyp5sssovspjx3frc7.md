@@ -1,0 +1,31 @@
+---
+id: c06badb6-f5b5-4c8a-9bca-d886920bf8d6
+type: insight
+created: '2017-11-08T14:03:53.000Z'
+document: f47673d86e05016edf5cfc9824f2b752
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - wrcgtxlrxknjprepsrhyruttvtwqfu1zsyp5sssovspjx3frc7lkrps
+  - qyhjpukf0rwcmnq7g9d5qvkzmsvyke6gewppvhl9hg0tqbvkbix0cjarnh1jow8qrssplvy4
+  - wpi9wieqw8pbz1lfjxjjgv1qd0zjuk0y3qv9d9rs8gun8u3oos
+  - qcvq1kegxso7if62u73unka9frn8kow8kgujcnnyfgvwm5yh
+  - >-
+    vzwt6pezply4aexjkhme4agodivqhc5wzn3havqsv1cy2mdshdaevqmahtnfcjpqx2sit6ncc6mwjufeljow54i
+---
+# wrCGtxlRxknJpRepsRHyruTtVTwQfU1zSyp5SssoVSpJX3FRC7lkRPs+QyHJPUkf0rWCMnq7G9D5qvKz
+
+## Context
+From document: use this photo as a reference to create my own cut out piece. also… — chunk 127 (chunk 127/242)
+
+## Content
+wrCGtxlRxknJpRepsRHyruTtVTwQfU1zSyp5SssoVSpJX3FRC7lkRPs+QyHJPUkf0rWCMnq7G9D5qvKzMSVYKE6gewPpVhL9hG0TqBvkBIx0CjArnH1JoW8qRsSPlvy4/WpI9WiEqW8pBZ1LFjxjjgV1qD0ZjUk0y3qV9D9rS8gUN8u3OOS/QcVQ1KeGxso7If62U73UnkA9frn8KoW8kgujcNnyFGVwM5YH+VZWt6pEZpLy4AExjkHmE4AGODivQhC5wzn3HavqsV1cy2MDshdAEVQMAHtnFcjPqX2SIT6nCC6MwjUfeLjow54I/EVn3+siyNndE4WSMEsRguUGRtHoTxXN+F9L8UfEHxxb+H9DtjdalcOWjjU5CIcAufQDJzn0r16dB21R5tWqj074c+BPE3xX8Z2vhrT0ZUf5ry5b5hBEfvDIxhsdB61+0HhHwlpngvw7ZeGdDj8uzskWNSMAkgZMjHuSev864b4L/AAe0X4SeGY9LsAsl/ckSXlywy8sp5bB7AHpXsE93BbxSzzOI4oQWd2IAVAMk56YHU5roaXQ82Umz4l/bh+KMfg34TyeFdLc/2v4yV7GMoTuS1Q5mkAGMYBxnv1zxX4qzNJGotto3x4DADnAHHP8AL0r6N/aC+Ktx8X/i3qviCJiNKsGfTNOBOV8qMnfIoHA8w9/SvHrbTFWSSadcyt0xznHSpJOesraWa2lzuDucgk9B6U1S8JWBo1YPkE9+K6mS0jR03HaG5IB44qjdw25mWS3BBQkAHoc980AcHcQzsWhSdLcFsYPGRWRJfTWhMMs6ySBSEPYY7V1Wu2BuIRMoCuACfYntXml3pdzJGWM/IbcT1AHpQBNvvplaWQq78hQpwQT3rndVIhDorFGlChhk9uDjPqTyPat62URRs0UoZypAJGMH1FcrcebO0rynzFjIy7feGODj2Oahs0jFnnOqvPbma1MBZA5JY9gf7p7mueXQDcSG5YZZecSdSOo4BGa9FvEiMksP34kIbOTgE+h71XsbUMZZT/rQOC3p2pA01uctZ2byL5c8TIZT8o/gXHfHUVfWxggAnlYOApG4DI468VNPepBFLNPh2AwDnoc+lcVrGuTRsltbnCuw+UcgAjn86BLVj57+C5jlt4jugRudx7n9e3rWZcXEEoWCF2YKMYPIH41iveQoWXgLI2WANZ8ut2sUbNG
+
+
+
+---
+*Source: Document f47673d86e05016edf5cfc9824f2b752*

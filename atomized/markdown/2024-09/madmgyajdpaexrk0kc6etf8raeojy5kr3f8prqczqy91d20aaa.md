@@ -1,0 +1,32 @@
+---
+id: 17982c6b-b552-4264-99dc-8e74c3b8bb9f
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - your
+  - idea
+  - madmgyajdpaexrk0kc6etf8raeojy5kr3f8prqczqy91d20aaaaasuvork5cyii
+  - when
+  - suggested
+---
+# MADmgYaJdPaeXrk0kc6Etf8RaEOjy5kR3f8PrqczQy91d20AAAAASUVORK5CYII="/><br></div>
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 8241 (chunk 8241/11534)
+
+## Content
+MADmgYaJdPaeXrk0kc6Etf8RaEOjy5kR3f8PrqczQy91d20AAAAASUVORK5CYII="/><br></div>
+<div>When I suggested we start a business together. Now you claim it was your idea. And cite “your” idea as the main thing you've brought to the relationship. </div>
+<div><img style="max-width: 100%; max-height: 100%;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABJsAAAn8CAIAAADKs3doAAAAAXNSR0IArs4c6QAAAI5lWElmTU0AKgAAAAgAAgESAAMAAAABAAEAAIdpAAQAAAABAAAAJgAAAAAABZADAAIAAAAUAAAAaJKGAAcAAAASAAAAfKABAAMAAAABAAEAAKACAAQAAAABAAAEm6ADAAQAAAABAAAJ/AAAAAAyMDI0OjAxOjE5IDE1OjEyOjEzAEFTQ0lJAAAAU2NyZWVuc2hvdPC1uZ8AAAHvaVRYdFhNTDpjb20uYWRvYmUueG1wAAAAAAA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJYTVAgQ29yZSA2LjAuMCI+CiAgIDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+CiAgICAgIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiCiAgICAgICAgICAgIHhtbG5zOmV4aWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vZXhpZi8xLjAvIgogICAgICAgICAgICB4bWxuczpwaG90b3Nob3A9Imh0dHA6Ly9ucy5hZG9iZS5jb20vcGhvdG9zaG9wLzEuMC8iPgogICAgICAgICA8ZXhpZjpVc2VyQ29tbWVudD5TY3JlZW5zaG90PC9leGlmOlVzZXJDb21tZW50PgogICAgICAgICA8cGhvdG9zaG9wOkRhdGVDcmVhdGVkPjIwMjQtMDEtMTlUMTU6MTI6MTM8L3Bob3Rvc2hvcDpEYXRlQ3JlYXRlZD4KICAgICAgPC9yZGY6RGVzY3JpcHRpb24+CiAgIDwvcmRmOlJERj4KPC94OnhtcG1ldGE+CtC+v6gAAEAASURBVHgB7L0JtC3NWZcfCAQzSJCEQEjCd8+e53Puvd/9MhAgShRUBocwKEFdLhCFgAtxgiXzYhAZIgq4FIGoyGCUGRxYCooMQaMYRBEEmSJhFJwIiv//291n166urqpdVV3du/c+z13vd77q6qrq6md3167ffmt40pP4BwEIQAAC
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

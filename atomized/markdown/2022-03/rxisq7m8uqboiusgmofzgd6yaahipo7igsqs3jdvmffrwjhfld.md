@@ -1,0 +1,32 @@
+---
+id: 8a3595c1-1a06-49f4-86ea-69e8967a983b
+type: insight
+created: '2022-03-16T12:34:10.000Z'
+document: 7405c2da6b92da26b0b49297d3a4e664
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - rxisq7m8uqboiusgmofzgd6yaahipo7igsqs3jdvmffrwjhfldrip
+  - >-
+    ujwdlrervhirp4zomidkcmb0pmzc9o0s7s4nuw8sxprwszpmtpcvgvesrwviprezrz5ga9a0ljeclkdxwep8qtbfazheqj6udrlcdjjnslgzgwtqjfz8tsxhh89dafhgyjg80k6sjblhfoipmmxk4xujs0kevaioaztub5qyjp
+  - eoatp5idgcvsjvjzwad0a
+  - 3dvl3hpvwtrz
+  - >-
+    bis4qsd6vcjijxk9avgjjzaxx2q1axkytiowwnxuharebrmurxjihoadgf5qszijfiqzo26doauw2kmc
+---
+# Rxisq7m8uQbOiUsgmOFzgd6YAAhiPO7igSQS3JdVMffrWjHFLdRIp+UJWDlreRVHIrp4ZomiDKcMB0pM
+
+## Context
+From document: The battle of the blinds — chunk 140 (chunk 140/1787)
+
+## Content
+Rxisq7m8uQbOiUsgmOFzgd6YAAhiPO7igSQS3JdVMffrWjHFLdRIp+UJWDlreRVHIrp4ZomiDKcMB0pMZC9o0S7s4NUw8sXPrWsZPMTPcVGVEsRwvIpREZRZ5GA9a0ljeCLKdxWep8qTBFazHEQJ6UdRlCDJJNSLGZGwTQJFz8tSxhh89DAfHGYjg80k6sjblHFOiPmMXk4xUjs0keVAIoAzTub5qYjp/EOatP5iDgcVSJVjzwad0A+3dVl3HpVwTRZ+bis4QSD6Vcjijxk9aVgJJZAxx2q1AxKYTioWWNxuHarEbRMuRxjihoAdgF5qszIJFIqZo26Doauw2kMC/aH5I7Uirku1TDxUVvK0Ew2/dpskqyHC8CnOpVMYqWI2IrtGYjsarXNrHdnngCs9VLLlO1PjWZKkLCmzhjHlnJz0rMm014m8wj5e1bKkb1+0cY6Yq/wDaoiQGUbF9qdwRyIIB2kEKevFMSQxuxiyR2zXffZ7GVN2Bg9Ki/smxZWZPvDt2o5imcYl/Mxw4FaNtKsuRMBgdMCr9zpXlxM6jnFULe0uVj3MOMU7hbQsmG1YVE0lrbkKBnPFZ0tpdOSUqu1ldRplhmi6BKxfnvIg6oB37VYW7IY+UO1YlvbyuxOMntVj7XJCPJkUBh1wKYaGn/aKH5ZOCPSka8glOw1hm45CAcVaaFFVWTrTsFhbuxSRuOpq7a6ZNBH7U3y5HQMK2LeZ1gAfqKhsTsZi2chlHm/cqa6svJlAgztwK2FZZ4sNx9KoSTlP3fWpKIntZI4wV5NVnvbmMeWFz9K1xdRMu3vT4bi3t12SqCTz0oGYonvD94CpvNaMYAxmugUQzrvIAApmy1dwy/wAPFAjNF5cFQYxwKa+qSQ43rz9K0pHt4ztbAz6VIy215bmGQbR6gc0AU5ZoJ4RHH99xmrkJe2gyvbrXHSwXNnIc/cB+U+1bltq8G1YpOuKLAT/2pMJPmHAq6dRLgCHHvWfPGkOHj538iq7I6gbOrUAdKrl4xyKekhbCnHFcoEnJAJI+lb0Mbxw/LyxFQ1YEiSfCn5QPesW68wEMo4rXSGfYwIzu61VEbEGLGcdKaY7Mxlldm+f8KhjjWS5IPFa39ny5+YVUns5Lf94v41YjTMcSJtJwMVzs74dkg+7ViCBrtjtZuKtG1K9hxSHsczIsj8PnaOlOtohnnge1dWl
+
+
+
+---
+*Source: Document 7405c2da6b92da26b0b49297d3a4e664*

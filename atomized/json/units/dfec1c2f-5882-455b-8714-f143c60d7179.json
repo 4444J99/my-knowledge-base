@@ -1,0 +1,26 @@
+{
+  "id": "dfec1c2f-5882-455b-8714-f143c60d7179",
+  "type": "insight",
+  "timestamp": "2025-05-08T18:41:47.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>we render </tt></div>\n<div><tt>what wrought</tt></div>\n<div><tt><br></tt></div>\n<div><tt>with tools provided:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>if only hammers, </tt></div>\n<div><tt>but no nails, never </tt></div>\n<div><tt><br></tt></div>\n<div><tt>fasten a place to rest:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>if only wrench,</tt></div>\n<div><tt>but no bolts, never </tt></div>\n<div><tt><br></tt></div>\n<div><tt>hold to a shared path:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>if only flint</tt></div>\n<div><tt>but no tinder, never</tt></div>\n<div><tt><br></tt></div>\n<div><tt>kindle enough warmth;</tt></div>\n<div><tt><br></tt></div>\n<div><tt>i love you,</tt></div>\n<div><tt>you love me,</tt></div>\n<div><tt><br></tt></div>\n<div><tt>we sow,</tt></div>\n<div><tt>we reap;</tt></div>\n<div><tt><br></tt></div>\n<div><tt>___</tt></div>\n<div><tt>___</tt></div>\n<div><tt>5</tt></div>\n<div><tt>—</tt></div>\n<div><tt><br></tt></div>\n<div><tt>i love you</tt></div>\n<div><tt>and i know</tt></div>\n<div><tt><br></tt></div>\n<div><tt>you love me.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>we render </tt></div>\n<div><tt>what wrought</tt></div>\n<div><tt><br></tt></div>",
+  "context": "From document: ___ — chunk 3 (chunk 3/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "07b76da0d5e7db469e2739a56652b924",
+  "relatedUnits": [],
+  "keywords": [
+    "love",
+    "only",
+    "never",
+    "render",
+    "what"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

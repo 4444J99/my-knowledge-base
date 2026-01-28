@@ -1,0 +1,26 @@
+{
+  "id": "bb22494e-769a-4307-a64f-22ba627565df",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>Cron / Obsidian Tasks</div>",
+  "content": "<div>Cron / Obsidian Tasks</div>\n<div>🌒 PHASE II — CANONICAL CORE (Weeks 5‑8)</div>\n<div>OS Component</div>\n<div>Module</div>\n<div>Required Reading</div>\n<div>Checkpoint</div>\n<div>Tools</div>\n<div>PROCESS_NEXUS/M5 – Algorithmic DepthCLRS (Ch. 15–24)</div>\n<div>Implement Dijkstra &amp Union‑Find in Rust.</div>\n<div>Rust + Unit Tests</div>\n<div>LANGUAGE_KERNEL/M6 – Recursive LanguagesSICP (Ch. 1‑3)</div>\n<div>Scheme REPL demos + macro that generates UID.</div>\n<div>Racket/Scheme</div>\n<div>MIRROR_CHAMBER/M7 – Self‑ReferenceGEBMarkdown renderer that highlights self‑links.</div>\n<div>Python + Graphviz</div>\n<div>KERNEL_SPEC/M8 – OS FoundationsTanenbaum Modern OS (Sec.1‑4)</div>\n<div>Draft service map (init, scheduler, fs).</div>\n<div>Draw.io / Mermaid</div>\n<div>🌓 PHASE III — SYSTEMS IN MOTION (Weeks 9‑12)</div>\n<div>OS Component</div>\n<div>Module</div>\n<div>Reading</div>\n<div>Checkpoint</div>\n<div>Tools</div>\n<div>DIAGNOSTIC_DAEMON/M9 – PerformanceGregg Systems PerformanceeBPF script logging CPU/RAM spikes.</div>\n<div>eBPF + perf</div>\n<div>CONTAINER_HARBOUR/M10 – Docker/K8sKubernetes in ActionDockerize RECURSION_ENGINE; deploy on k3s.</div>\n<div>Docker CLI / k3s</div>\n<div>BOOTSTRAP_ISO/M11 – Linux From ScratchLFS HandbookCompile a minimal ISO called regeos.iso.</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 382 (chunk 382/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "phase",
+    "weeks",
+    "component",
+    "module",
+    "reading"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

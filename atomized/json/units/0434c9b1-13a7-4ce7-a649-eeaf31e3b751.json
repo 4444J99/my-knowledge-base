@@ -1,0 +1,26 @@
+{
+  "id": "0434c9b1-13a7-4ce7-a649-eeaf31e3b751",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>## 🌓 PHASE III — SYSTEMS IN MOTION (Weeks 9–12)</div>",
+  "content": "<div>## 🌓 PHASE III — SYSTEMS IN MOTION (Weeks 9–12)</div>\n<div>| OS Component | Module | Required Reading | Checkpoint | Tools |</div>\n<div>|--------------|--------|------------------|------------|-------|</div>\n<div>| DIAGNOSTIC_DAEMON/ | M9 – Performance | Systems Performance (Brendan Gregg) | eBPF trace logging tool | perf + eBPF |</div>\n<div>| CONTAINER_HARBOUR/ | M10 – Docker &amp K8s | Kubernetes in Action | Containerize RECURSION_ENGINE | Docker / k3s |</div>\n<div>| BOOTSTRAP_ISO/ | M11 – Linux From Scratch | LFS handbook | Minimal bootable OS ISO | GNU Make, QEMU |</div>\n<div>| SECURITY_GATE/ | M12 – DevSecOps Intro | Web Application Hacker’s Handbook | Container security checklist | OWASP ZAP |</div>\n<div><br></div>\n<div>## 🌔 PHASE IV — SYMBOLIC BLOOM (Weeks 13–16)</div>\n<div>| OS Component | Module | Reading | Checkpoint | Tools |</div>\n<div>|--------------|--------|---------|------------|-------|</div>\n<div>| SYMBOLIC_VOCODER/ | M13 – Lisp AI | PAIP (Norvig) | Mini-ELIZA using GPT function calls | Python |</div>\n<div>| W4V3_FUSION_DEVICE/ | M14 – Procedural Waves | Nature of Code (Shiffman) | SVG wave generation ritual | p5.js |</div>\n<div>| DSL_FORGE/ | M15 – Custom Language | Build Your Own Programming Language (Holden) | Ritual chant parser → JSON AST | ANTLR |</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 393 (chunk 393/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "phase",
+    "systems",
+    "weeks",
+    "component",
+    "module"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

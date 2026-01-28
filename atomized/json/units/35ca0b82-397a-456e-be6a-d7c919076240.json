@@ -1,0 +1,26 @@
+{
+  "id": "35ca0b82-397a-456e-be6a-d7c919076240",
+  "type": "insight",
+  "timestamp": "2025-01-30T02:31:06.000Z",
+  "title": "<div><h1>M-O-R-S_REFERENCE-SYSTEM</h1></div>",
+  "content": "<div><h1>M-O-R-S_REFERENCE-SYSTEM</h1></div>\n<div><br></div>\n<div>Creating a universal reference system that can unify software, hardware, text, video, music, photos, and any digital media requires a structured, hierarchical, and flexible approach. Below is a proposed system based on a hybrid of Dewey Decimal Classification (DDC), UUIDs, and metadata tagging:</div>\n<div><br></div>\n<div>1. Core Structure: Media Object Reference System (MORS)</div>\n<div><br></div>\n<div>Each media object is assigned a MORS identifier, formatted as:</div>\n<div><br></div>\n<div>{Category}-{Subcategory}-{Format}-{Unique ID}-{Version}-{Metadata Hash}</div>\n<div><br></div>\n<div>Example:</div>\n<div><br></div>\n<div>TXT-BOOK-PDF-000001-01-AE3F2D</div>\n<div>VID-MOVIE-MP4-003476-02-B12C7A</div>\n<div>IMG-PHOTO-JPG-100984-01-8F4D9C</div>\n<div><br></div>\n<div>2. Categories (Primary Classification)</div>\n<div><br></div>\n<div>Each object belongs to a primary category:</div>\n<div><br></div>\n<div>Code  Category  Description</div>\n<div>TXT  Text  Books, articles, scripts, manuscripts</div>\n<div>VID  Video  Movies, TV shows, home videos, VR content</div>\n<div>IMG  Image  Photos, illustrations, design files</div>\n<div>MUS  Music  Songs, instrumentals, scores</div>",
+  "context": "From document: M-O-R-S_REFERENCE-SYSTEM — chunk 1 (chunk 1/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "29750b183483782697d81e3f0ac721ea",
+  "relatedUnits": [],
+  "keywords": [
+    "system",
+    "media",
+    "object",
+    "category",
+    "reference"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

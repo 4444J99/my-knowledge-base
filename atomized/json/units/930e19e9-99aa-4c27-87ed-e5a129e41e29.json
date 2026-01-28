@@ -1,0 +1,26 @@
+{
+  "id": "930e19e9-99aa-4c27-87ed-e5a129e41e29",
+  "type": "insight",
+  "timestamp": "2024-06-04T14:32:48.000Z",
+  "title": "<div>- **Maximum Leads:** $6,299 / $100 ≈ 63 leads</div>",
+  "content": "<div>- **Maximum Leads:** $6,299 / $100 ≈ 63 leads</div>\n<div><br></div>\n<div>#### 2. Number of Conversions (Closed Deals):</div>\n<div>With a 15% close rate:</div>\n<div>- **Minimum Conversions:** 42 leads * 15% ≈ 6 conversions</div>\n<div>- **Maximum Conversions:** 63 leads * 15% ≈ 9 conversions</div>\n<div><br></div>\n<div>#### 3. Revenue Per Conversion Needed:</div>\n<div>To cover the total monthly cost of $12,598, we calculate the necessary revenue per conversion:</div>\n<div>- **Minimum Revenue Per Conversion:** $12,598 / 6 ≈ $2,100</div>\n<div>- **Maximum Revenue Per Conversion:** $12,598 / 9 ≈ $1,400</div>\n<div><br></div>\n<div>### Industry-Specific Analysis:</div>\n<div><br></div>\n<div>1. **Luxury Real Estate:**</div>\n<div>   - Average property prices are high, often exceeding $500,000.</div>\n<div>   - Revenue per transaction is significantly higher than the minimum required, making the PPC service valuable.</div>\n<div><br></div>\n<div>2. **Health and Wellness:**</div>\n<div>   - Services like high-end personal training or wellness programs can range from $500 to $2,000+ per month.</div>\n<div>   - Clinics and wellness centers can see high revenue per client, especially for long-term programs.</div>",
+  "context": "From document: DWV Media — chunk 12 (chunk 12/20)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "aecf5ea345ca08ade51033542abc0b80",
+  "relatedUnits": [],
+  "keywords": [
+    "revenue",
+    "conversions",
+    "leads",
+    "conversion",
+    "maximum"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

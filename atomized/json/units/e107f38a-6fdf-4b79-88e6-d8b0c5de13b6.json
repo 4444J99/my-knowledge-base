@@ -1,0 +1,26 @@
+{
+  "id": "e107f38a-6fdf-4b79-88e6-d8b0c5de13b6",
+  "type": "insight",
+  "timestamp": "2025-07-06T01:33:11.000Z",
+  "title": "<div>Approach:</div>",
+  "content": "<div>Approach:</div>\n<div>  •  Era Packages: Build each era (Roman Villa, Byzantine Court, etc.) as modular Unity scenes with glTF assets for fast loading. Use Addressables for dynamic asset streaming to minimize app size.</div>\n<div>  •  Visual Theme Selector: Create a carousel UI with era thumbnails, showcasing key visuals (e.g., marble board, candle-lit hall). Include a “Preview” button to load a lightweight 3D scene preview.</div>\n<div>  •  Dynamic Lighting: Use Unity’s Lightweight Render Pipeline (LWRP) for day/night cycles. Precompute ambient audio transitions (e.g., fountain to wind) using FMOD to save CPU.</div>\n<div>  •  Lore Scrolls: Embed lore as 3D objects (e.g., parchment in Roman Villa) that trigger markdown-rendered micro-lessons. Cache lore content locally to reduce server calls.</div>\n<div>Optimization:</div>\n<div>  •  Compress textures (ASTC for iOS, ETC2 for Android) to balance quality and performance.</div>\n<div>  •  Limit simultaneous particle effects (e.g., fire in Viking Longhouse) to maintain frame rate.</div>\n<div>  •  Use a single audio manager to handle era-specific soundscapes, avoiding memory bloat.</div>\n<div>Challenges to Mitigate:</div>\n<div>  •  Ensure era assets are lightweight (e.g., &lt50 MB per theme) to avoid long download times.</div>",
+  "context": "From document: title: \"Backgammon Chaperone: Mobile Design Critique | Shared Grok… — chunk 12 (chunk 12/20)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "9fd27aa005603b4099800d554c6afb3d",
+  "relatedUnits": [],
+  "keywords": [
+    "lightweight",
+    "lore",
+    "roman",
+    "villa",
+    "unity"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

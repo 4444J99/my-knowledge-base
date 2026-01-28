@@ -1,0 +1,26 @@
+{
+  "id": "cd387456-bc3c-46a6-a152-129aa6570b3a",
+  "type": "insight",
+  "timestamp": "2024-06-27T09:53:07.000Z",
+  "title": "<div>- swim suits for Instagram</div>",
+  "content": "<div>- swim suits for Instagram</div>\n<div>- designer swim wear</div>\n<div>- swim suits for different body types</div>",
+  "context": "From document: # My Favorite Luxury Bathing Suit Brands: A Must-Read for Stylish… — chunk 5 (chunk 5/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "9e89471e06f9c304440bf970334ec35b",
+  "relatedUnits": [],
+  "keywords": [
+    "swim",
+    "suits",
+    "instagram",
+    "designer",
+    "wear"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

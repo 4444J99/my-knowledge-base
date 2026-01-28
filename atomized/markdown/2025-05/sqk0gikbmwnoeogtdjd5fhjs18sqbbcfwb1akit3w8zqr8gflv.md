@@ -1,0 +1,32 @@
+---
+id: 19b267c5-c73e-4510-8fbf-6ab0fff65dc7
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - sqk0gikbmw
+  - noeogtdjd5fhjs18sqbbcfwb1akit3w8zqr8g
+  - flvgzfhd
+  - >-
+    e8pirnbv5n8nhzqui5cp5pfg6jfcunsd5aenbpfiotnhwgnpbqieklbq5r5d7qvxweklmv8m7koyqyj
+  - >-
+    rk4rxvgqtunauccky1yh1xkkza5j2bfuyovtvqfue7fvqrhfkrhfrbszvhvyfuiysj85rvlqrjybpcyz30duyevkvcuycr27em4olzj8xvvnmxxhacjj1yodatpdqufvb7kcpbuy4txa1rszvfjdzphgvhs5sszuqbkgrhjkjrpslcf5oxhvnjzdihxmyp7l1fvamppvbnpphio3ikwoptorrkypwpr5
+---
+# SqK0GiKbmW/NoEogtdJd5FhJs18SqBBcFWB1aKiT3w8Zqr8G+flvgZfHd/E8PIRNBV5N8NhZQuI5cp5p
+
+## Context
+From document: New Note — chunk 18403 (chunk 18403/21099)
+
+## Content
+SqK0GiKbmW/NoEogtdJd5FhJs18SqBBcFWB1aKiT3w8Zqr8G+flvgZfHd/E8PIRNBV5N8NhZQuI5cp5pfg6jFCUNsD5AeNbPFIoTnhWgnPBqiEKlbq5r5D7qvXWEkLmv8M7koYqyj+rK4RxVgqtUnaUCcKY1YH1XKKza5J2BfUYoVTvQFUE7FVQrhFKrhFRbSzvhVYFUiySj85RvLqRJybPcyZ30duyEVkvcuYCr27eM4OLzj8XVvNmXXHAcjj1yOdatpDQuFVb7KCPbUY4TXA1RSZVfjDzpHGVhs5SSzUQbkGRHJkjrpsLcf5oXHvNjzdIhXMYP7l1fvAmPPvBNPPHIo3iKwOpTorRKYPWpR5/Ek0yPP/w4Hv3mw7jvjnvw71d/GvqQrg/v+lBvt+oIqK3lMEid6VSos6FOiFp1Tkyrjotp1dFRazpE4iDVSupQqVUHzLTqnJlWHTe1ppOnedMhVCfRtD98dudUHRMprP6rgVVTXXVvAKsKq+5OYdUBVsd/8WY6ek7e6SdnDDhjwBkD/9oxoM8ab273+61z9vLsqGCfHViVl6w9PT1j6+++++6XXfhEwKr8M4zu++qrr37ZtmaFPONqW7tS5fXXXz+2Tp6rzeXmm2+21gnsKS+jFaSUoIO5yHOU7v/b3/62uWpS+VqwqG5oAonyPGYuJpB57rnnmqtelpf1eo6iEmpf7OcgL9KXLl1qbZNIJPDoo4/aN3lF5d0BqzfddNPYeU4G/jXVWO+7776XnJPZP6IKs7vFbC/TCI63mOqotdRVdbu77rpr7FquvfZard4jK9Mr6n37wQ9+8LJtzfHhAKsv6x6nwukBpwecHqjZAxI0dJ7Z/7XP7E7/O/3vjAFnDDhj4O0zBgQKcpZ/fQ+8UmB1PJVVAVU1id86Hqiq9W83YFXeG9UCViUeqXFKjVuaVuObas0YqObNWKnkNZaqVuKuktf4q74rtVuN26o1Y7uaN2PAmtc4sVp7TNksm3FoiU1LWWPU9hi2WdZ4t1iNgdutwKlSp5CqWoFVJa/QqoCpmqRO868WWlV4VcDUiZIJqpp5AVGlrICq3Zpwqj0/Eaxqrpvot1ahVW1jwqmaVwBV7HjQai1QVbcbD1pVWNVcPx60Kr8h9nUKoU4GUNW2dis+oVmnYKnUaX4yVmDQidrJek3STvOTtQJgTtRWgU5tp1a3GW+9
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

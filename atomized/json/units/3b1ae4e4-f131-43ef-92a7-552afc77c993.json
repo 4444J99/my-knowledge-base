@@ -1,0 +1,26 @@
+{
+  "id": "3b1ae4e4-f131-43ef-92a7-552afc77c993",
+  "type": "insight",
+  "timestamp": "2021-12-31T16:14:45.000Z",
+  "title": "<div>New Year’s Eve </div>",
+  "content": "<div>New Year’s Eve </div>\n<div>Alone</div>\n<div>McDonald’s accompanies a number two meal (two smaller burgers), no pickles</div>\n<div>Apron wrapped round over waste</div>\n<div>Decade&ltnce&gt</div>\n<div>New Year’s Eve </div>\n<div>Alone [relationship]</div>\n<div>Corinth accompanies Afghani heroin, vodka</div>\n<div>Killing time</div>\n<div>Lie &amp Truth asynchronous</div>\n<div><br></div>\n<div>“I was drunk </div>\n<div>When you </div>\n<div>left me</div>\n<div>for Christ’s Mass.</div>\n<div><br></div>\n<div>“I am not doing heroin. I’d tell you if I was </div>",
+  "context": "From document: New Year’s Eve",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "dd30878b18490bfa56cd401a44a6cb76",
+  "relatedUnits": [],
+  "keywords": [
+    "year",
+    "alone",
+    "accompanies",
+    "heroin",
+    "mcdonald"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

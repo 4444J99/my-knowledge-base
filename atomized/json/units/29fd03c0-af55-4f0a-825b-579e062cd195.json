@@ -1,0 +1,25 @@
+{
+  "id": "29fd03c0-af55-4f0a-825b-579e062cd195",
+  "type": "insight",
+  "timestamp": "2023-07-14T12:39:17.000Z",
+  "title": "<div>All my mom wants me to do is tell her she is pretty. </div>",
+  "content": "<div>All my mom wants me to do is tell her she is pretty. </div>\n<div><br></div>\n<div>And I just can't do it. </div>\n<div><br></div>",
+  "context": "From document: All my mom wants me to do is tell her she is pretty.",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "283598262edef237015c9a6031923ec2",
+  "relatedUnits": [],
+  "keywords": [
+    "wants",
+    "tell",
+    "pretty",
+    "just"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

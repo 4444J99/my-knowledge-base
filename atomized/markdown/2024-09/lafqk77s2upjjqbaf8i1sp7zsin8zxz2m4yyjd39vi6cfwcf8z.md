@@ -1,0 +1,30 @@
+---
+id: 9e2f330b-7682-4e2b-b1aa-0d954edcebb0
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - gata
+  - 6gq3
+  - lpzxor9dv
+  - ff98jr
+  - lafqk77s
+---
+# LAfqK77S/2UPjjqbAf8I+1sp7zSIn8zXz2M4yyjD39vi6cfWcf8zaOFqy2i/uPnGivtTTf2GfitdYN/d
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 11490 (chunk 11490/11534)
+
+## Content
+LAfqK77S/2UPjjqbAf8I+1sp7zSIn8zXz2M4yyjD39vi6cfWcf8zaOFqy2i/uPnGivtTTf2GfitdYN/d2NmD1zIXI/wC+Qa6+3/YF8TsoNz4mtEPosbn+gr5bE+MnDNJ2ljYv0u/yTOmOV4h/YPz8or9Dv+GAta/6Gq3/AO/L0f8ADAWtf9DVb/8Afl65P+I4cL/9Bi/8Bn/8iV/ZOI/lPzxor9Dv+GAta/6Gq3/78vR/wwFrX/Q1W/8A35ej/iOHC/8A0GL/AMBn/wDIh/ZOI/lPzxor9Dv+GAta/wChqt/+/L1Q1H9gfxVDbPJpviO0uJgPlR0dAT9cHFVDxu4Xk0ljF90v8hPKcR/KfAFFd18QPhz4q+GWvSeHvFloba4UbkYcxyL2ZG6EVwtfpuDxtHEUo16E1KEldNO6a8mcE4OLtJahRRRXSSFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQB//V/F+iiigAooooAKKKKACiiigAooooAv6X/wAhO0/67R/+hCu68Y/8gyL/AK7L/wCgtXC6X/yE7T/rtH/6EK7rxj/yDIv+uy/+gtVrZkPdHm1FFFQWFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFfUXwm/ZT8efFLRovEizQ6Tpc5PlST5LSAHBZVA6e9fSOl/sCaWqg6x4okdu4hgAH/jzV+ZZ74w8O5dVlh8Rilzxdmopys+2iav8z0KOV15q8Y6H5mUV+qq/sFeAwPm8QXxP+4lO/4YL8A/9B++/wC+Er5z/iYfhj/n9L/wCRt/YmI7fiflRRX6r/8ADBfgH/oP33/fCUf8MF+Af+g/ff8AfCUf8TD8Mf8AP6X/AIBIf9iYjt+J+VFFfqv/AMMF+Af+g/ff98JR/wAMF+Af+g/ff98JR/xMPwx/z+l/4BIP7ExHb8T8qKK/Vf8A4YL8A/8AQfvv++Eo/wCGC/AP/Qfvv++
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

@@ -1,0 +1,22 @@
+{
+  "id": "91d76a6d-ffa0-4db9-8459-beba0eaf5666",
+  "type": "insight",
+  "timestamp": "2015-06-03T04:00:23.000Z",
+  "title": "<div>No press is bad press</div>",
+  "content": "<div>No press is bad press</div>\n<div>No press is bad press</div>",
+  "context": "From document: No press is bad press",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "37b79e1539ed62c6516e6fb85bf0a873",
+  "relatedUnits": [],
+  "keywords": [
+    "press"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

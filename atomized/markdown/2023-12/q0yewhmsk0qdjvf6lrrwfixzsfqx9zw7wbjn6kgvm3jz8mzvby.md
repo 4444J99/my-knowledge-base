@@ -1,0 +1,32 @@
+---
+id: d88e7eec-98f9-4a99-ab49-8e59aa2e2736
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    q0yewhmsk0qdjvf6lrrwfixzsfqx9zw7wbjn6kgvm3jz8mzvby8icvu2bia2gnsvc8g3dzy7x3umdo4wgcgzbxygkx3szp5z4kbzhkqwqbdwrqsizqwemmbhfo7qgbu40ibhrrar3kbtetbuttlah
+  - pyjs7eu4hnkexztxxsqbbxgvvelxkf4leevp
+  - xudsf5mjw72oaw4
+  - wna6xyy0i1jibv4hgrbbesbarfzbh6zajllxp3qayubjgc7jxyy23
+  - >-
+    mwvjq2khlmfdrvwp40bnxynpzuwncw0pdrmziywoscmfvb8vohwhsjew0mgysoa69unibnhmrk1ceouaavj32kkxptri0
+---
+# q0YEWhMsk0QdjvF6lrrWfiXZsfqX9zw7wbJn6kgvm3jz8mzvby8ICvU2BIa2gnsvc8g3dzy7X3umDo4w
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 1187 (chunk 1187/3262)
+
+## Content
+q0YEWhMsk0QdjvF6lrrWfiXZsfqX9zw7wbJn6kgvm3jz8mzvby8ICvU2BIa2gnsvc8g3dzy7X3umDo4wGcgzBxYGKx3szp5z4kbzhKQwQbDWrQsiZqWEMMbhFO7Qgbu40ibhrrAr3KBTETbuttlAH/TKf+Pyjs7Eu4hnkEXzTXxsQBBxgVVeLxKf4leEVP/XUDSF5mJW72oaW4/WNA6XyY0I1jIBv4hgRbBEsBaRfZbH6zAJllXP3qAYUbJGC7Jxyy23+mwVjQ2khlmfDRvWp40bNxYNpzUwNCw0pDRMzIYwoscMFvb8vOHwhsjEW0MGYSoa69uNiBnhMrK1ceOuaavJ32KkxptRI0/Y72zEa+cNG5yw+WikNXT4ve22rR7OGpNVmKIxL1PT3BRt6PhavqD9NWJlsnfZZZe0cddd064Wl3VGtDZu3CXttdcefo/el3zrW+mKK64wpS2O1mO5fVuFiGQy8wZ8vnURvokwM78JrbVzz/gpyFHRWOMv94seY+M9KToixCssuVpvZM1c58WfzbaQRzoXbvHj/ZmGHlmdjoXPkBVPdg3MM6sqLsgrZDa5Lzy7emOHRV4Zq1x6ngtkfodm7B93RG4eJuFnvn2RQvMdjuEJYX6dR3LMxjtzIdLyvFF0D3O+pKrevCX8wpXrXhOnUuz4Zl7Yllb9dMeqoeh5tSDQUJwXjF7kZ/KkEwqrq6mfyasMcBUrB4pVDbjxn1UkvHNSQn1vdSs5fh125o96lHvcFMSs8Ld1q61csEE4KoMIy4uruXfSxUOEYVd0o0yus3ahKD7mzsncyFdDFATJZsTMjjAx2K1bt5M/Q9pcR/Rz0ehN20U5NNkeVqzWGMeD6TILlHdh/J542a/QGz/FCgDig7T5Br9z/ue/iycLfxy/sOl63T78rpKWxp8I1tLgupRSRbBEsJYyfy2J7KETLBo0iEhBOvZKRx55RNprn71sScftRkw2ODmBcN1uS/UwNDyQsqKzXjQpyKAh8s6kvV9vJMZHD809ywF5FY1XuGUEFHtvqczPjTfcmK648op02WWXpWuuvsbluW7WiBaN9hzZKDrK+C2aGf9r98WT2Zuh8b3lli3pwAMPTMccc0y686Y7pYMPuYM1gWt8NmuXjTtbnEbp5pu3pDPOOCN96ctfdlIJwVqzdr1JyBtLkzwWXlzmnj2w+ONecn/xIpM2
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

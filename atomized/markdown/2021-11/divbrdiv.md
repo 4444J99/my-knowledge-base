@@ -1,0 +1,35 @@
+---
+id: 4b195aa7-bbed-421f-b619-b67932a0aa70
+type: insight
+created: '2021-11-17T18:51:02.000Z'
+document: 60e1a82de44bea2151b33b596a755734
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - this
+  - right
+  - what
+  - sees
+  - point
+---
+# <div><br></div>
+
+## Context
+From document: Up The Hill Backwards — chunk 5 (chunk 5/5)
+
+## Content
+<div><br></div>
+<div>If no one sees it, what’s the point? Will this—what we’re doing today, right now—come out or remain in the dark?</div>
+<div><br></div>
+<div>Are you recording this right now? Why record this useless material? We’re not even being honest right now.</div>
+<div><br></div>
+<div>I’m not camera ready. Nor do i think I’ll ever be. </div>
+
+
+
+---
+*Source: Document 60e1a82de44bea2151b33b596a755734*

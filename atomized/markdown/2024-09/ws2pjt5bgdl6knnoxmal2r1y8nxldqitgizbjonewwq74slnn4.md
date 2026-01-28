@@ -1,0 +1,32 @@
+---
+id: 3a21aca8-4cbc-424a-b9f8-33ff51f0f085
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ws2pjt5bgdl6knnoxmal2r
+  - 1y8nxldqitgizbjonewwq74slnn4tvu2ttu8oc4p55zsy0nbbuysedkvzbu1pwrfslzs
+  - >-
+    miunt7xlcnxelkwxwvckjufp44ulqjirhgdawun5oztxvds8xqpmr4gyyzi4js49abflbf9pftpzpjjajkljlp
+  - >-
+    ictjfexbx2nrruzgy8hhsptrmfus8tym8hudskjmwpbjgvahwm3cfnffhillpwrwdtqmigc2r7rahdzktki1fspk8kicclrqirzirciovwt8chryn0cg02araz4yzet
+  - grqccx
+---
+# +WS2PjT5bgDl6kNNOXmAl2R/1Y8nxLdqiTgizbjOnewWQ74SLnN4TVu2TtU8OC4P55zsy0nBbUYSEdkv
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 7671 (chunk 7671/11534)
+
+## Content
++WS2PjT5bgDl6kNNOXmAl2R/1Y8nxLdqiTgizbjOnewWQ74SLnN4TVu2TtU8OC4P55zsy0nBbUYSEdkvZBU1pwrFSlZs+MIUnT7XLcNXElkWXwvcKJUFP44ULQjiRhgDawun5OZTXVDs8xqPmr4gYyzi4JS49ABfLBf9pFtpZPJjajkLjLp+ICTjFEXBx2NrrUZgy8hHspTrmFUs8Tym8hUdsKjMWPbjgvahWM3CFnFFhIllpWrWdTqmIgc2r7RAhdZKtKi1fspK8kicCLRQiRZIrcioVwT8chRyn0Cg02aRAz4yzET/grqcCx/LF6ZuSRxZ8KlDC5RL9STarHz8gbDnYnOnqiaaFYeHZYXf5hIRZeBGOcLTZzuR2sNkrjw/lY1s+pXD56iqCqMyyYeN1csaul2e2+S3Wb1f+EYzWh0iSV8tgqdaw8GT3gR1Y11RmTbWWMmVjKQLmc0SnCvpY7FRt3rNggtSfKccA8uOhrjwyvI5x+VHMplfjio5tHFMk8c5qZ5oSL5wik+vbJOXatRrRszbEqUvlqvPcIiSr9ii1VxBCjPCo0JBJFqeOfQrB/nis1th9YscboMBJizjv8r7J/hR+TULuUS8qMj7Od//c82snTlgILsyC4efApkDNVQhU2wSxczUbSC2bLeRUrf9TCEv66tWzvTyONAhIt1r/VYZ3DjRlRFGWwtqQFS3PFp2P6Y1rIsMxif7rzhqFZ8V5Bi2fZao8OoyRHv9nKsVpXMs5WSf3YqNZMrxqWrCzkeGmHDIzJwh14zzVS1SU3OpWDTJ9zhNA9Ws6Gp9Wzw89kxVACJZRUeYmo9HjasivWJj0de8gua8rEZNxno/5Uyjj7Hq6JHEVtJV8dpD27/TLGqKNblirOwkDGxRRzSx3SzigqQGLfxeueQQaflG82KTTURqFR3wa0e2eOWxOUrn+8eRwirHjUeblpHeT/mIG32MeUtYRNL5449jkeS44JkW9fjIMcF2s4gLkhq08L2itMzq/TQfj8anzQ/N+6f+fvYq9+fLV625LVy8bs3st+2N9vLlwd6OK+Qe6D4Xru4eCtPdNfGR8CX89tsjHcZyCdauj4/aL8T18bH0Jfsx+6j36dr4kL/DXWWDv9VdMXe3vdFfuuw78aP+vXN3pSs2vHPDfe6WsG7Fg/HO+LH0b/a2dJX9F38txnifDpcue+e6969+
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

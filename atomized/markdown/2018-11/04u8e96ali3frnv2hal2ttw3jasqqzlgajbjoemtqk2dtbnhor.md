@@ -1,0 +1,32 @@
+---
+id: 97908c31-8fb6-4242-8716-61f07f1a38e5
+type: insight
+created: '2018-11-17T18:19:07.000Z'
+document: e329ec4e43d47fccabf1e22882189db8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 04u8e96ali3frnv2hal2ttw3ja
+  - >-
+    sqqzlgajbjoemtqk2dtbnhor3oatj5chtjprks3hgeatuhnxbwcca92peobgjgc9dnaoaufxbp1b5xut
+  - yf9yqpz
+  - >-
+    lupll9owm7d1qhmxiruqprmgc1kvxngaeme9qhtojpbb61bi7nddnh8qgkplkjla0ao3gzxjnqcc1pfmyoe47k1nkfkybjj7u7lk2qcaigc6rtk2rx5qf8fclq6t4w8m2nmgbafmlqekb2chwa6habzxx6rquulmwxahrivg39uko20zwxo3iultvmu7g5qmdf3kkdzygj7e469d
+  - r7cn8aoersd
+---
+# 04U8E96ALI3FRnv2Hal2ttw3JA/SqqzLgAjbjoemTQk2DtbnHOR3oAtj5cHtjpRks3HGeATUHnxbwCcA
+
+## Context
+From document: Black Bean Salad — chunk 1301 (chunk 1301/2298)
+
+## Content
+04U8E96ALI3FRnv2Hal2ttw3JA/SqqzLgAjbjoemTQk2DtbnHOR3oAtj5cHtjpRks3HGeATUHnxbwCcA92PeobgjGc9DnAoAuFXbp1B5xUT+Yf9YQpz+lUpLl9oWM7d1QhmXiRuQPrmgC1KVXnGAeMe9QhtoJPBB61BI7nDDnH8qGkPlkjLA0AO3gZxjnqcc1PFMyoe47k1nKfkyBjJ7U7LK2QcAigC6rtK2RX5Qf8FCLQ6t4w8M2NmGBaFmlQEkb2chWA6HABzxX6rQuULMWXAHrivg39uKO20zwxo3iuLTvMu7G5QmdF3KkDZyGJ7E469D+R7cN8aOersd/+zn+zfpHgY6f4xgLWt3cWSCaJlYNubnksWI6fd7EV9gSwlA79mGT+FfDHww/bS8NNqeg+EPEkZaa+hVZZmCxlGPGDzjjrnpXt3xV/aN8B+B1hW1u1ussg8lQrOyv1O0nPGD1qsRGo6nvIim4KNrnoPxD8caF4K8H3ereIm/deUd3yl8xgc5A98cnNfgzd/E660/4p61468GrLtupnaFmIEgVyFbbg4PB6HNfV37Vn7VWk+NLFvBXg9i1rdQolwzqysuACVA6Hke9fFGkeEvEvjBpR4bsxMlu8aTOpx5YJBJAzzx9a9HBYVxTc+px156+4f0C+A9UuNc8GaJrNyS5vrGCUlsZ3OoJ6Dk/4V1IwW3McgdBXJ/DWylsPh54b0y6/wBba6fBGwxg7kQK3HbkV1YdQSOleNNWkz1KfwK5Ju3Z25AHXNORgrAKc89aiDhgYhnmpFGxQp5I7VAc5NnbyGznrjtUgdlUc5HrVfdwcZC5yRURlLgooIAGaB85ZVg5by2wfQ9CamyoOSAf72OxrOjyGVu3erO9RknjPegu0S6GyQGIAA/Oo49yjgjrzntUYOcZ5wKVlIUFDjPBBoMhwBz0BOc5FNZcYAXIbuOtCqwxjk08Yxhj0PPrQBGo/wBZn72OM0IhJ+ZRwOD3zUmzHzMCPrTwiuflGARmgCMAiPDncAc8CopAXGCAB97n1qwpw56nj/JpuMoGb8PrQBWTcMfLsBXrTgNzEtk4HHapmRpNo+7tOPl704xsVxk8DuOaAKjRbiSBj3NTrHIoPAPGMetSkEECTpjr2pAcfOpJoAreUi5U46dKaT8mCADnPFTFS7bzwB1pWCt2wAOKAK+UBUDt0qRQ45w
+
+
+
+---
+*Source: Document e329ec4e43d47fccabf1e22882189db8*

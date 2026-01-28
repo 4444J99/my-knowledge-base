@@ -1,0 +1,26 @@
+{
+  "id": "f501471d-1fa8-4638-953c-bfb2998d14eb",
+  "type": "insight",
+  "timestamp": "2010-06-24T15:07:28.000Z",
+  "title": "<div>I hit the bottle a couple hours ago, </div>",
+  "content": "<div>I hit the bottle a couple hours ago, </div>\n<div>Met a little girl who wants to take it </div>\n<div>   nice and slow. </div>\n<div>I hit the bottle a couple hours ago,</div>\n<div>Met a little girl, says she goes down </div>\n<div>   real low. </div>\n<div><br></div>\n<div>Hounds of Hell in the summer night,</div>\n<div>Been asleep for months, feeling alright,</div>\n<div>Hounds of Hell slipping out of sight,</div>\n<div>Running down to the city of night. </div>\n<div><br></div>\n<div>I hit the bottle just a minute ago,</div>\n<div>Walking in circles, walking to and fro.</div>\n<div>I hit the bottle just a minute ago,</div>\n<div>What's the difference when you're </div>\n<div>   feeling really low?</div>\n<div><br></div>",
+  "context": "From document: I hit the bottle a couple hours ago,",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "e1d0e916f8afe66d380c1d3ff0bc7e08",
+  "relatedUnits": [],
+  "keywords": [
+    "bottle",
+    "couple",
+    "hours",
+    "little",
+    "girl"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

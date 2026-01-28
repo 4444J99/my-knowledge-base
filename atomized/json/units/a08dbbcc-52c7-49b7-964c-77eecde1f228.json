@@ -1,0 +1,26 @@
+{
+  "id": "a08dbbcc-52c7-49b7-964c-77eecde1f228",
+  "type": "insight",
+  "timestamp": "2023-03-27T00:54:34.000Z",
+  "title": "<div>Hiring a hitman to kill himself to not upset his parents </div>",
+  "content": "<div>Hiring a hitman to kill himself to not upset his parents </div>",
+  "context": "From document: Hiring a hitman to kill himself to not upset his parents",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "7cc23236182b58fb7e87cc769769dfe0",
+  "relatedUnits": [],
+  "keywords": [
+    "hiring",
+    "hitman",
+    "kill",
+    "himself",
+    "upset"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

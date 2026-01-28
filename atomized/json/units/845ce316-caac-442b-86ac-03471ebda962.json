@@ -1,0 +1,26 @@
+{
+  "id": "845ce316-caac-442b-86ac-03471ebda962",
+  "type": "insight",
+  "timestamp": "2022-07-08T14:47:17.000Z",
+  "title": "<div>My body language takes the shape of the person I most associate with in the",
+  "content": "<div>My body language takes the shape of the person I most associate with in the room</div>",
+  "context": "From document: My body language takes the shape of the person I most associate with…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "6f64b3055d84773c893a4e18c2ef306a",
+  "relatedUnits": [],
+  "keywords": [
+    "body",
+    "language",
+    "takes",
+    "shape",
+    "person"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

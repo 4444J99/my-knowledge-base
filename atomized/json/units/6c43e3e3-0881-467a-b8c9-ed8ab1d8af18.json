@@ -1,0 +1,26 @@
+{
+  "id": "6c43e3e3-0881-467a-b8c9-ed8ab1d8af18",
+  "type": "insight",
+  "timestamp": "2023-03-20T14:53:15.000Z",
+  "title": "<div>  </div>",
+  "content": "<div>  </div>\n<div>JOB DESCRIPTION:</div>\n<div>Provides safe, competent nursing care for patients in accordance with facility policies, standards and philosophy.  Provides professional leadership and support to the healthcare team.  The concepts of Patient Centered Care will provide the foundation for all nursing activities.  Demonstrates Service Excellence standards at all times.  Recognizes the signs and symptoms of stroke and calling a stroke alert overhead. Verbalizes stroke alert process. Assists the ICU nurse with telemedicine consult and physician examination/evaluation.  Assists with transport of inpatient stroke alert to and from CT scan. Maintains currency in stroke knowledge by completing the annual 1 hour online training.</div>\n<div> </div>\n<div>•  Graduate of an accredited or NLN-approved RN program.</div>\n<div>•  Prefer one year full time or three years part time experience in acute care setting.</div>\n<div>•  BLS (current upon hire)</div>\n<div>•  ACLS and/or required specialty training or course completion (or obtained within three months of employment) in required specialty.</div>\n<div>•  Current Florida nursing license.</div>\n<div>•  Must successfully pass any pre-employment assessment(s) required by the facility.</div>",
+  "context": "From document: Nursing students are applying to a job (job posting attached). — chunk 2 (chunk 2/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "6e91d04f1e3b85993d2aac65042b0ab9",
+  "relatedUnits": [],
+  "keywords": [
+    "stroke",
+    "nursing",
+    "care",
+    "with",
+    "alert"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

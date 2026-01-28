@@ -1,0 +1,32 @@
+---
+id: f5868e79-ac24-4bbb-a491-b6a9e5a2cac9
+type: insight
+created: '2021-06-24T19:10:13.000Z'
+document: b5de64ea907b6e44ec94b342683f3041
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - k7qjtn
+  - 73vc2kucnwfdqbdwn9sauhb3iyj
+  - >-
+    viol22ho5rc28g3hxitzwac5ne598hgscqbaiasmheejgocxt0y5bqdz9ueee23z9618viveqltl1gezilenmwd5l2uchmysb
+  - pdvzu2vmvuud72rkambtxzekyttix
+  - >-
+    5soltcqkp2ceeeglzgac8ykpjscmy21v4jtzznvfccenrhh7wgsmoo6ymp8svv7wk4urkce2gbhhrn3eo3mrovgwlpqjokmkiitpz3notv9dv8nw0ufsnb
+---
+# K7QjTN/73vc2kucNWfdQbdwN9SAUhB3Iyj+vIOl22ho5rc28g3hXITzWac5Ne598HgSCQBAIAsMhEEJg
+
+## Context
+From document: TODAY FEELS LIKE A REAL BAD GO — chunk 69 (chunk 69/940)
+
+## Content
+K7QjTN/73vc2kucNWfdQbdwN9SAUhB3Iyj+vIOl22ho5rc28g3hXITzWac5Ne598HgSCQBAIAsMhEEJgOCxT0y5BQDz9ueee23z9618vivEQltl1gEZiLEnmWD5l2uchMYSb+pDvzu2VMvuud72rkambtXZekYTtIx/5SOlTCQkp2CeeeGLzgAc8YKPjsCmY21V4JtzznvfcceNrHh7WgsMOO6yMp8svv7wk4URKCe2gbHHrN3eO3MrovgwLPqJOKMKiITPz3nOTv9dv8nW0UfSNB/OIst3HY6kvzsg8YW2f+9znyhqIxJ5XhAkJldpnK29IFyJ1Xr35PggEgSAQBNYfgRAC69+HeYOBEWB9E4N6/fXXN/e6170Grn1nV+f4QUn2zjrrrB3rVqpPLr744hL/TxCeRAqI7xbLLSfCFVdc0bz73e8uXgEsrOJ318lNfWePmH6tk2n9Hve4R8nO3q+G7buLh4r5gSy75ppriqcKJVJ4x2/8xm8sPTHlookltw+59XlymyMHvY1QKyFln/3sZ8t6sypvMsfXIjUdQ/nQhz60eLXNQlc+HEer+i1kaFXtnNWmfBcEgkAQCAI7B4Hv2WK1p6dK3jntTEuCwMoRkPhsuzKwr/xlxx4oc3bbrNljty79T9Yxwu2LXvSikgjxoIMOKt4MLHp/8zd/03zta19rxHJLWPeFL3yhxM3uu+++xWqLTIi77NK7aGMeYCwin7hhb6fHxcYAvgNf9OUvf3kJHznwwAObRzziEc2ePXuW3kokp2NDkaFCuzyb1b+u2XKsSMDqKFnr4EUXXVTIUddaOzchL87SOyEPCAJBIAjsIgRCCOyizsyrBIFNQUA+ACcDvO51ryvu2tW9F7/pR64BXgB3u9vdipeHZGxCIlKCQBAIAkMiQOmWSNIRkwhH4WbLJoeQUDUfyre//e0SnuJ4XKEk1kLfy7HyF3/xFzd4sDz84Q9vjj/++EFPzXFagedbb0cJiSHxTV1BIAgEgSCwfARCCCwf4zwhCASBJSAgbvdTn/pUiaWV1I21lvXfSRESvTk5IJawJQCfKoNAENgLAdb4L33pS2X9WdWJJYjPT3ziE43wASemCJHSDp8jJBzLiiSQcwVRIRRuSKLC2nvmmWeWBK/W3Z/+6Z9uHvzgBzcHHHDAXtjkjyAQBIJAENj5CIQQ2Pl9lBYGgSAQBIJA
+
+
+
+---
+*Source: Document b5de64ea907b6e44ec94b342683f3041*

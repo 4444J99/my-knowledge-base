@@ -1,0 +1,26 @@
+{
+  "id": "d3013aa2-ef2f-4edb-9bd1-38393628028f",
+  "type": "insight",
+  "timestamp": "2025-12-21T14:29:42.000Z",
+  "title": "<div>    Elements:</div>",
+  "content": "<div>    Elements:</div>\n<div>      - AnimatedShape: </div>\n<div>          Size: 120x120px</div>\n<div>          Animation: Continuous morph loop</div>\n<div>      - Title: </div>\n<div>          Font: System UI Medium, 24pt</div>\n<div>          Example: &quotThe Challenger&quot</div>\n<div>      - Description:</div>\n<div>          Font: System UI Regular, 14pt</div>\n<div>          Lines: 2-3 max</div>\n<div>      - TraitIndicators:</div>\n<div>          Type: Horizontal bar chart</div>\n<div>          Metrics: [Stability, Intensity, Complexity]</div>\n<div>    </div>\n<div>  InteractionStates:</div>\n<div>    Hover: Card elevation + 4px, shape animation speed +20%</div>\n<div>    Selected: Border glow effect, shape solidifies</div>\n<div>    Disabled: 50% opacity, grayscale filter</div>\n<div>```</div>\n<div><br></div>\n<div>**Visual Mockup Description**:</div>\n<div><br></div>\n<div>- Six cards arranged in responsive grid</div>\n<div>- Each card features a unique animated geometric form</div>\n<div>- Color coding: Warm (nurturing) → Cool (challenging)</div>\n<div>- Subtle parallax on scroll/swipe</div>\n<div>- Selection triggers immediate shape transformation preview</div>\n<div><br></div>\n<div>#### **Screen 2: Main Conversation Interface**</div>",
+  "context": "From document: # Platform-Agnostic UI Architecture: Project Evolve — chunk 8 (chunk 8/10)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "05b5ebf7576dd7636e989ca708836977",
+  "relatedUnits": [],
+  "keywords": [
+    "shape",
+    "animation",
+    "font",
+    "system",
+    "description"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

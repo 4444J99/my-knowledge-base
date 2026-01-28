@@ -1,0 +1,32 @@
+---
+id: b33679b8-35f8-48c1-9897-f01ee3e164b3
+type: insight
+created: '2021-06-24T19:10:13.000Z'
+document: b5de64ea907b6e44ec94b342683f3041
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    udlllmwftleo2pnsyj1fbgidist1kuaxhmxuc3wnmqftozhzx8xzn7ol8ojcadz1smdxaq8meqlmydecmuvnc0cflcn6zbjw09wuq7yqv5l8zzqgo1gz2u0jzdqur7gx2g
+  - m1zlz0zhdyuqjbvkoz1x77bxfjz7xizq3cwgdsdo
+  - vil4qdhvp7lyx8l8sgseqlay4wmjyi3h1calriywzfxh
+  - >-
+    wobsuvgqggbc0kvvlfcdsgrvuxwhqndojiea9djbfuzy28jviyfnyqymmoblj4vmq7hphpnsb5iaxv
+  - sfjbwmutlawe3cwxzcwfnkgwjeansvl9ks42ik62vzj8xi
+---
+# uDllLmWFtLEO2PNsYj1FBgidISt1KuaxhMXuc3wnMqFToZhZx8xZn7oL8ojCaDz1smdXaQ8MEQLmYDec
+
+## Context
+From document: TODAY FEELS LIKE A REAL BAD GO — chunk 191 (chunk 191/940)
+
+## Content
+uDllLmWFtLEO2PNsYj1FBgidISt1KuaxhMXuc3wnMqFToZhZx8xZn7oL8ojCaDz1smdXaQ8MEQLmYDecmuvNc0CflCn6zBjw09wuq7yqv5l8ZZQgO1gz2u0JZdqUr7GX2g/M1zLz0zhDYuqjbvKOZ1x77bXFJz7xiZQ3CWGdsdO/vIl4qDhVp7lYx8l8SGsEqlAy4wMJYi3h1caLriyWzfXH/wOBSUVgqggBC0kvVlFCDSGrVUxWHQNDojiEA9djBfuZY28JviyFnYqYMMoBlj4vmq7HpHpnsb5iaxv/1qm+SfjbWmutlawE3CwxzCwfNkGWjeaNsvl9KS42IK62VZj8XI/EOQQGCblgTohmGUH2NBfXaU83IYZAoE2UWRuePu+nmAfaNoljAp4sKfI2IFEopP5vHptngyAE9AUlHCnAKiuBJEtMr4qq+rTZ3CdIe49mQoB1RqGoNxbCGQLQukJI7qTos7oTlpCSnaz93gPJZiwTLLUF4dFt/BD+rEus+taysoRA9hBofC+/w1jegroKyyirEcwGoajU1c5cD6UAIdCoUPDasCZ4D8WaZexQ4I2buggBa6g1aM5ckrrbGprby3PNPe32MEQd5QBxZU3yXgR2fSEEhMcN8onCKZxumgrl35ykSPEOaJe8swwm+sseQo5pLghr+YYQPXIGlFFyzXuGi3POOSd5N+qzTufKm/vmmjXDmlB3sY9Sdq1RdSi7ndoHQ8+DU9Vn5T2327qZn4+sJb+ZJ63kh3xd4091NxMC1gHEofWzUxhZYz3dfs+GCWtnN2JYXQgE2MGsmzIuZ4LQIWuaMYMAsM9ZCyj5TgVQjjrqqOQxo27roOSkwsiQKMYc3OT0kfxSPYP2HEmNin8CgTFFoBxNOaYv19zsvNERPqoU7LZFtsyiV6Ve11ogufXb/POGypKNHKAIEMC7FUKX0my1IUBRarkdeodpKoRiwrMEkmLGuIuJTy0jyGK9WQEokr0UypXxgpEmhLFUI5Nsxo0FW86CR0HtRggQll1vM5XRvt8YQHVpYxk8Gts8Dr/re3gTpCnEMCMYwJoQM8gi4R3h+Oq5ce0s6f0U44IFhOJPuGkuxinBr1nhI2whFAlPLPOdiusojzyUjLF2hQeEtQRZRugiZJVJEqh95gGBLSus7Z6Rv3dPO0IgX1PHT+8rtwdyzXo7DoSA94ZPY7F3
+
+
+
+---
+*Source: Document b5de64ea907b6e44ec94b342683f3041*

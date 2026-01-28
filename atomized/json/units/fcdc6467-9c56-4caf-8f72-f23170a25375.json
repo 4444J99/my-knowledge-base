@@ -1,0 +1,24 @@
+{
+  "id": "fcdc6467-9c56-4caf-8f72-f23170a25375",
+  "type": "insight",
+  "timestamp": "2017-09-22T18:34:20.000Z",
+  "title": "<div>Therese’s Pecan Casserole</div>",
+  "content": "<div>Therese’s Pecan Casserole</div>\n<div><br><br></div>",
+  "context": "From document: Therese’s Pecan Casserole",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "120d08fd94140690ce25d3761b8b1794",
+  "relatedUnits": [],
+  "keywords": [
+    "therese",
+    "pecan",
+    "casserole"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "b1ce5753-5dd6-40bc-848a-89c3094b19c3",
+  "type": "insight",
+  "timestamp": "2023-10-14T12:51:04.000Z",
+  "title": "<div>Paleolithic minds</div>",
+  "content": "<div>Paleolithic minds</div>\n<div>Medieval institutions</div>\n<div>21st century technology </div>",
+  "context": "From document: Paleolithic minds",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "209800bc46a00ad47adb840133e0d5a0",
+  "relatedUnits": [],
+  "keywords": [
+    "paleolithic",
+    "minds",
+    "medieval",
+    "institutions",
+    "21st"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

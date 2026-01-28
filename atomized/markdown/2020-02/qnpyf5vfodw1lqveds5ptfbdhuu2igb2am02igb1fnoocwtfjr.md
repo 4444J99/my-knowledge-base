@@ -1,0 +1,32 @@
+---
+id: 6e40f175-1654-4805-8c76-9ff87f390b37
+type: insight
+created: '2020-02-13T15:24:07.000Z'
+document: 17668fd2541299884816643132bdef4b
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - yf5v
+  - >-
+    fodw1lqveds5ptfbdhuu2igb2am02igb1fnoocwtfjrqfgpkm0hogiasiknjgiabsmkqwaw0lkaskjjdtttjttumljkaadtdsennmp5pladttacabsqbsutjusapds0hnibkslpkywooopcciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakwkpaafpasloakwkooawiikoakwkooawivfp2ep2dphf7tpijwvbfw6ltf1jr9in1dyryqwrcjbndcyy3csqymzxt37u4
+  - >-
+    zl615n468aenfhl4luvb3xa0w60dwbi4ltbumxuaejlnhkbqrqsrdlsrzqbx9fffaciikooawikooawkoooa
+  - filfnp4rqq4tobptkkpcqv
+  - arcp3ued1ufyr
+---
+# /qnP+yf5V/FoDW1LqVEdS5ptFbDHUU2igB2aM02igB1FNooCwtFJRQFgpKM0hoGIaSikNJgIabSmkqWA
+
+## Context
+From document: Tarantino goes in depth on first few attempts at writing scripts — chunk 210 (chunk 210/234)
+
+## Content
+/qnP+yf5V/FoDW1LqVEdS5ptFbDHUU2igB2aM02igB1FNooCwtFJRQFgpKM0hoGIaSikNJgIabSmkqWAw0lKaSkJjDTTTjTTUMljKaadTDSENNMp5plADTTacabSQBSUtJUsApDS0hNIBKSlpKYwooopCCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKWkpaAFpaSloAKWkooAWiikoAKWkooAWivfP2eP2dPHf7TPijWvBfw6ltF1jR9In1dYryQwrcJBNDCYY3CsqyMZxt37U4+Zl615n468AeNfhl4luvB3xA0W60DWbI4ltbuMxuAejLnhkbqrqSrDlSRzQBx9FFFACiikooAWikooAWkoooA//X/FilFNp4rQq4tOBptKKpCQV/arCP3UeD1Ufyr+Kqv7V4h+5T/dH8qmbGx/f2p3OCFPOPyNB96/MfUviJ8cdH/wCCkPhn4S+IPGb33gnUdOu9Us9Ot4UtYUiktbjZHcBPmmeOSMkOzEHggA1mSeDfGv4U6/J/wUY+Gnh64+I3iB9Q8RaZPdLqyvbR3enhVvMQ2apAIY4sJjBjJO5iTk5r1n9sn4bfFn4K/s+eIPiP4W+O/jW9utMktUe3vLq3EcsVzMsLAPbwQyKw35BDdsd81b+NbIP+CovwQXjI0GfP4rqGK9j/AOCk7Afsb+N84H73TAPqb6GgD4q/aSb4m/DD4NfAz9oLw14z8TpoF9Z6ND4qsYdZvAkxlgjlEq/vSYzMBJG20gbipGCTn9U/iLfeDz8BtT8SQ39+dAttHbULK4sdQuYbuRfIL23l3Mcgmd3ZlC7nbcxG4HpXmGk/C3Tfjb+xF4d+GGpYC6/4O0yKCQ4Pk3SWkb28vsUlVSfoa+Sf2E/H+u/Ff4c6B+zn4st5UvvhVq8j62JVODY6bKJNOtnJGMm8wCv/ADztjng0AZ/wZ8Y+N/8AhZ83wD1jXPF3ii38C6Vb3PjK8sbm5v77UdcuNp+wI/mg2llbF2RjDseZ4yGcjiui8bWv7QHw/wDjr4V8d/sz+EvG03hG8dYvE2g6wZJLFk8xQZbcXVzKyMYyx+Uja6A9GK15n8H/AIg6d+y//wAFB/i34P8AizcDSNM+JNw9zY6lcnZBmedrq1ZpG4EcgkeMtnCyKAxHOP2I8R+MPC/hHw/N4q8RanB
+
+
+
+---
+*Source: Document 17668fd2541299884816643132bdef4b*

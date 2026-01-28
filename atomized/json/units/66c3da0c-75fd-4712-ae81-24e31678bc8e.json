@@ -1,0 +1,26 @@
+{
+  "id": "66c3da0c-75fd-4712-ae81-24e31678bc8e",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>│   │   ├── solve-et-coagula/                # Transforms</div>",
+  "content": "<div>│   │   ├── solve-et-coagula/                # Transforms</div>\n<div>│   │   ├── a-recursive-root/                # Processes</div>\n<div>│   │   ├── tab-bookmark-manager/            # Analyzes</div>\n<div>│   │   └── a-context7/                      # Documents</div>\n<div>│   └── production-status/</div>\n<div>│       └── org-repo-states.json</div>\n<div>│</div>\n<div>├── synthesis-core/</div>\n<div>│   ├── knowledge-graph/</div>\n<div>│   │   ├── archive-nodes/</div>\n<div>│   │   ├── ai-conversation-nodes/</div>\n<div>│   │   ├── personal-repo-nodes/</div>\n<div>│   │   └── org-repo-nodes/</div>\n<div>│   ├── pattern-matching/</div>\n<div>│   │   ├── cross-layer-themes/</div>\n<div>│   │   ├── recurring-concepts/</div>\n<div>│   │   └── evolution-timeline/</div>\n<div>│   └── gap-analysis/</div>\n<div>│       ├── unimplemented-archive-concepts/</div>\n<div>│       ├── unstaged-ai-ideas/</div>\n<div>│       └── unpromoted-personal-experiments/</div>\n<div>│</div>\n<div>└── outputs/</div>\n<div>    ├── unified-docs/</div>\n<div>    │   ├── your-complete-creative-history.md</div>\n<div>    │   ├── four-layer-architecture-map.md</div>\n<div>    │   └── concept-genealogy.md</div>\n<div>    ├── implementation-queue/</div>",
+  "context": "From document: Contents_Table — chunk 67 (chunk 67/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "nodes",
+    "repo",
+    "archive",
+    "personal",
+    "layer"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

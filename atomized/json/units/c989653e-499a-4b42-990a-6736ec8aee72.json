@@ -1,0 +1,26 @@
+{
+  "id": "c989653e-499a-4b42-990a-6736ec8aee72",
+  "type": "insight",
+  "timestamp": "2017-11-08T14:09:36.000Z",
+  "title": "<div>use this photo as a reference to create my own cut out piece. also consider",
+  "content": "<div>use this photo as a reference to create my own cut out piece. also consider this layout for the ET4L logo. ET4L logo should imitate the golden ratio. </div>",
+  "context": "From document: use this photo as a reference to create my own cut out piece. also…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "455c4fcdb9a2c9fb662c4988bc8ba3fb",
+  "relatedUnits": [],
+  "keywords": [
+    "this",
+    "et4l",
+    "logo",
+    "photo",
+    "reference"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

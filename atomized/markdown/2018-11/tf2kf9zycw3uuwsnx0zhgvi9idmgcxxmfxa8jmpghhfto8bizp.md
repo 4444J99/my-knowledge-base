@@ -1,0 +1,31 @@
+---
+id: 40eb6fe9-aecd-4797-8644-edb358d589fc
+type: insight
+created: '2018-11-06T20:47:41.000Z'
+document: 8c3ce8993066f857adca061d250e2c68
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 5gbqf
+  - tf2kf9zycw3uuwsnx0zhgvi9idmgcxxmfxa8j
+  - mpghhfto8b
+  - izpdwtwtr3fvcowcoy8gxtbckxudzweqdg4xxplfahybqxwu
+  - >-
+    ovxyvdf0z4w3ehab4z0m8jvz7brho099ndyodphhujjzg55pgdph13jffkajudhscnwzgjoee9suukgciistxf4k0hwlo9z4g8s30wm6daagweztqlkhrz6kkaackna5pgbdfyhhfxtohjtqrxxn4xvfv8atl0oyz0dkr7hkngmaegujkdq36acuw8a
+---
+# tf2kF9ZyCW3uUWSNx0ZHGVI9iDmgCxXmfxa8J+MPGHhFtO8B+IZPDWtwTR3FvcoWCOY8gxTbckxuDzwe
+
+## Context
+From document: Octatrack Tips & Tricks — chunk 2429 (chunk 2429/2544)
+
+## Content
+tf2kF9ZyCW3uUWSNx0ZHGVI9iDmgCxXmfxa8J+MPGHhFtO8B+IZPDWtwTR3FvcoWCOY8gxTbckxuDzweQDg4xXplFAHyBqXwu+OvxYvdF0z4w3ehab4Z0m8jvZ7bRhO099NDyodphhUJJzg55PGdpH13JFFKAJUDhSCNwzgjoee9SUUkgCiisTxF4k0Hwlo9z4g8S30Wm6daAGWeZtqLkhRz6kkAAcknA5pgbdFYHhfxToHjTQrXxN4XvFv8ATL0OYZ0DKr7HKNgMAeGUjkdq36ACuW8a/wDIs3n/AGz/APRi11Nct41/5Fm8/wC2f/oxaT2A6miiimB//9f9q9W/5GbQf+3r/wBFiuprltW/5GbQf+3r/wBFiuprdAfHPjvQtK139sfwIurWyXSWXh+6uY0kUMolSWQI2Dxld2R6EAjkVRktrez/AGsfHUFrGsUd/wCCPtE6qABJKsyIHb1O3jNereLNJ8ZJ8S4/Gug/D6w1m80y1+xWepza9LZyG3lAeRDai2kjGHLAEliQM5GcDBjsvidF40n+IafCvS/+EgurIadJcnxNKd1qHEgj8s2Xl/eAOQu7tnFAHyfqSw/8O99AkwuRdR5PH/QUkzk17p46sfDN7+2r4Hi19IXVPDkr2aShSjXSzXGzAPBYLuZfcAjnFRab8INX0nwtrvgmx+DmlponiN45Ly2Piu5ZGaJt8ZQtaFo9rcjYRXHXfwEv9f8AiHodj4h+H6poGkeFLm2gtV1Sa4gS9ju5ZrdP7R2JKjvuzu2naGIww4M2A6rxDH4cs/2tNZbTpRZ2L+CrqTxG9qDmMBziRwgJMoTyyOC2NuBXkh0fxp8OfgQUFv4f+KfwcjH2tN3nafqHktPv3Z+UBhIefvODkdOK+gfh34J8bfCy0vrbwf8ACbSoG1Mg3c03iaS4mnxnAeSWxYlRk/LwOTxkmvOV/Z0kXUPtf/CnrE2om+0CwPi65NiJM5z5H2PbjP8AD93HGMcUWA+wrCbwD4ji8KeJL60s/wC0bi1S40k3qxNfRJPErMIWkzIG2kB9hz618weEfGsej+C/jD+0zOQTq11PBpTtyr2umL9kssegknJ3Ad+eTXb+ItA+IPivWdH8Qa78J9Ln1Dw+k8dhKniieHyFuE2SBVis0U5UADIO3+HBqpJ4S8bS+CbD4cv8I9K/4RzTHikgsx4onChoJPN
+
+
+
+---
+*Source: Document 8c3ce8993066f857adca061d250e2c68*

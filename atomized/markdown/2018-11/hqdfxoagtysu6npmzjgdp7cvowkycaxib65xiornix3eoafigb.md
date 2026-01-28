@@ -1,0 +1,32 @@
+---
+id: 973f43ed-8448-48f6-8205-9853f944c20d
+type: insight
+created: '2018-11-17T18:19:07.000Z'
+document: e329ec4e43d47fccabf1e22882189db8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - hqdfxoagtysu6npmzjgdp7cvowkycax
+  - >-
+    ib65xiornix3eoafigb15hyhvuseaoergnjymdn2qea4mooqhiy5w2qkjkavpccgioob4z0fwf3mnlxkg8knr71ua6wngxbgehkck49ksbjj3rdsevc5y465z0h0qw3myqxyklhnnqfpob3qk0megv3hychbpbipc5rtitayp2uom
+  - 3odqbst3vo
+  - >-
+    kiyhipvh154wavw0uqr5rczhabpxhc1wjcs7fplzhyarzjpjqaksn2ktu3aahnp7uat4cptgbgkkfznrkrqwdmbnpk4bhepipyset5ty
+  - vevqdmntylm0trlgjken4uaqgnohingxhjxtg
+---
+# HQdfxoAgTySu6NPMZjgDp7cVowKYcAx/IB65xiorNIX3EOAFIGB15HYHvUseAoErGNjyMDn2qEA4MoOQ
+
+## Context
+From document: Black Bean Salad — chunk 446 (chunk 446/2298)
+
+## Content
+HQdfxoAgTySu6NPMZjgDp7cVowKYcAx/IB65xiorNIX3EOAFIGB15HYHvUseAoErGNjyMDn2qEA4MoOQhIY5w2QKjkaVpCcgIOoB4z0FWF3mNlxkg8knr71Ua6WNGXbgEHkck49KsBJJ3RdseVC5Y465z0H0qw3myqXYklhnnqFPoB3qK0mEgV3hYcHBPBIPc5rTiTAyp2uOM+3oDQBSt3Vo/KiYhiPvH154wavW0Uqr5rczHABPXHc1WjCs7FPlZhyARzjPJqaKSN2Ktu3AAHnp7UAT4cptGBgkkfzNRKrqwDMBnpk4BHepIpYseT5TY/vevqDmnTyLM0TRLgJken4UAQGNohiNgxHJXtg+hpDcOzFHCgcBTzk+1TsrFt4QkBcHaRnOcinALiJGUnacsD1oAfFC24O6/dJIJHHrRLFLKytGWUZwytjaQa0t5IA4CAfdHX0qAPuUxjKLngnA6UkwKQiaOZfnzHk5C9u1NaMbm+Utgrg+o9M1bRlLkI2McZ9RSMNjoUBO8HcPcVSdgK0gRFRdpxk846DH/ANam27l8SxphTkDGAQenNSuxJbYMdzznOKrl5twPlGPAypA4OelWBpSTRQxOXQyMccZx7HBrDvtRTyjApYsMgnoFzxgnvVkP5kA86QI7scr+NcxfJK8zucFCW2oBk8d+KAPL/Fdyi3C2qoPLiGCSfvNXNRbUcokhYkg5z90+1bnjeDYrXUSYkjIXr0zgcj1rkLS6kjlOQrK2DkgjLAYFckn7xaOy06WVDtVQEQHPq2cZ/Ctq4mSN5JmjaQsDt2cnJ7nHNc9Zq3k/alOVcY3cEDBOVrVtbxxMsqgRZwr+gXHJFa85SP/Q8kMZYFMKC2fxx3q0u+UmHGwIAcg1GiHALvhgcEDGQKsrHEQSCfm5PvivxRqx+iDkBG5Ub5sdx2+tW0ZiEZMNgdPWq4TL7ogvufYdqekyxysqjGwZxz09KloDRgMjxuG4GOBT7W5ljdQF3L0HbAqhCzyuZ1RhkE/Nx074pYpfMy4IfkcDge+KgDsFniJ2qTknAJ71oxyHb8rbSCO3UVyHnxb13LweQM8gitmC/VZ1Dop3D5TngD3oLTNcnIYoQCO+fzq0UMuNpK/KcnPX6VnW84lUu48v5m+UfXqavqMH5eVPT2J96DUkaPJ2k4wBj1OPWmDBJRBg56nv709BniUBsfp
+
+
+
+---
+*Source: Document e329ec4e43d47fccabf1e22882189db8*

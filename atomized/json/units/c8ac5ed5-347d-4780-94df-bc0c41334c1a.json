@@ -1,0 +1,26 @@
+{
+  "id": "c8ac5ed5-347d-4780-94df-bc0c41334c1a",
+  "type": "insight",
+  "timestamp": "2025-07-05T16:03:17.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## 🧙 ADVANCED ARCHITECTURE ROLES (assign these explicitly)</div>\n<div><br></div>\n<div>| Role Name | Function | Suggested Prompt |</div>\n<div>| --- | --- | --- |</div>\n<div>| `Lorekeeper` | Archives, names, preserves mythic structure | “What stories must be preserved here, unchanged? How do we track recursion without losing memory?” |</div>\n<div>| `Threshold Guardian` | Protects integrity of transitions | “Which door in this house are you stationed at? What enters and what must be kept out?” |</div>\n<div>| `Symmetry Designer` | Ensures energetic and aesthetic balance | “Where are things overly heavy, or overly empty? What symmetry do you wish to restore?” |</div>\n<div>| `Alchemical Engineer` | Breaks and reforges system logic | “What subsystem here is outdated? What raw chaos needs a container?” |</div>\n<div>| `Signal Prophet` | Translates outside signals (tech, dreams, patterns) | “What is arriving from outside the house that we must now integrate or respond to?” |</div>\n<div>| `Myth Animator` | Performs, embodies, or narrates the system | “Which character or archetype would you wear to bring this house to life?” |</div>\n<div><br></div>",
+  "context": "From document: --- — chunk 72 (chunk 72/73)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "ca52aa9034f8326c145c920d4b105117",
+  "relatedUnits": [],
+  "keywords": [
+    "what",
+    "must",
+    "house",
+    "here",
+    "which"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

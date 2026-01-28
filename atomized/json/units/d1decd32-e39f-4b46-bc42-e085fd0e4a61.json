@@ -1,0 +1,26 @@
+{
+  "id": "d1decd32-e39f-4b46-bc42-e085fd0e4a61",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:20:25.000Z",
+  "title": "<div>Their screen now shows two parallel explorations branching from the same st",
+  "content": "<div>Their screen now shows two parallel explorations branching from the same starting point. The Exploration Graph shows one root node (&quotDream&quot) splitti</div>",
+  "context": "From document: --- --- --- — chunk 16 (chunk 16/16)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "35fed1b2e2d94a09b13c5614aa5aa659",
+  "relatedUnits": [],
+  "keywords": [
+    "shows",
+    "their",
+    "screen",
+    "parallel",
+    "explorations"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

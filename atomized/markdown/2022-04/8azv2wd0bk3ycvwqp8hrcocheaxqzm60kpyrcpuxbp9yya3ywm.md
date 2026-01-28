@@ -1,0 +1,32 @@
+---
+id: 316ee1d5-bba6-4571-a594-8c2c5d8368be
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 8azv2wd
+  - >-
+    0bk3ycvwqp8hrcocheaxqzm60kpyrcpuxbp9yya3ywmacic6qzu628c8exop7dtdehotk5o6cq3xsmfb
+  - irsobvueccznezqrmbhuzf70weimzjtlijred1
+  - iskaqxz7mkl46inomymrwzjscc2mg7mkahywgyl1gefcukdvymcq
+  - >-
+    i4shbbyerasykqhaslleunvet6k6kjmkjplaymocamuyie4rl7psy6nuetswz6m0l6ymogzamrio4avglqcmr88iiefsicgshfhoyigij0egdqrkaqtwmqnab
+---
+# 8AZV2wd+0BK3YCVWqp8HrCoCHEAxQZm60KpYrCpUXBP9YYa3ywMACiC6qzu628C8exoP7DtdehoTk5o6
+
+## Context
+From document: Strike one — chunk 35 (chunk 35/4795)
+
+## Content
+8AZV2wd+0BK3YCVWqp8HrCoCHEAxQZm60KpYrCpUXBP9YYa3ywMACiC6qzu628C8exoP7DtdehoTk5o6cQ3XSMFB+IRSOBVUECcZnEZqrMbHuzF70wEiMzJtlIJRED1/IsKAQxz7MKL46INOmYMrwzJScC2MG7MkAhYwgyL1gEfcukdVyMcq/I4shBbYERASYKQHASllEUNvET6K6KjmkjPlAymOcAmUyIE4RL7psy6nUETswZ6m0L6YMoGZAMRIO4AVGLqcMr88iIEFsICgshfhOYIgiJ0egDqrkAqtwMQnAB/wuUmu/+AK8QmESxCHbLi1WxOMAURFohylrfIql1lAU5If+YGf9qkLVmylNcmGtqNAPRg2uas7XfrFDhTGYeQ7Efs7vDpG1uArRnkNFNiBZvyET/C2xhI3a5xLupTBGuQmCNAB0wLHfyq9ciS4g0qFPagMX/olJ3gDxEzMxFTHPpiDdqw4iZtH+6icWlCoXcHC8Ag+DokoLxydZfHCz8mWZamBb2lDlkvDkxoXhmAjODop2ymRO+uAN7Qj68OehNDDhEhJLPgjFoi0DdgAG+kJlJyJPDCBlJRNexk1JInJUWM6SMRJnLxJ8GkCKNnJL8gYwIC1WjxKVVRKtIMfqKRFmPELWv+sRQAUC1yssThgAj9EAiTgSl1yz/cUwbvSGV0ypihwAmNygirQT1zKgv/cQBPrK6vZqx0ABq7ZjWg0g7psUAeVQSkAAXzrg+6AFX/yS9ViuD4wg1MhBSxrzDmYA8V8AzMgUTMozBONAgcq0TcIURcN0XUEjkFox3Z0xlJgQn18otoDj+AzEeHiHOL6TGgJzc00KT3TM4uKl5MiF494FjYiNIookt3BCHuBqZJICD1qihxQJJqAtAMQSZLMESU4GAkoCg1JziVhxOdrv1GTzlKDThd4geikziboiozZOu00Slfqzi+BSqI0JfGERfFsn7LYh/5iBqxkAyaQz/f0RZ7/IUH3vKsqyJn7zIL87E9m609NlaAuYA0CnZrX+IwMONC+qRQ2eFBUTdVIiNBFiYRV4aELBQ8M1bJiGQUpKNE9eINcRccrY8x2ZMcrI4VB6FURJdFfOlYCOsw3qIMZzcfau63viJbichAxBC5r6ZYawJbgGjmTCx0KCZ3mSpd4mRAUUTPYHIigui7qck2naJArsgiWEAEFIII/Oh7f
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

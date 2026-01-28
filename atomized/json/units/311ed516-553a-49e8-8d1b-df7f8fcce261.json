@@ -1,0 +1,26 @@
+{
+  "id": "311ed516-553a-49e8-8d1b-df7f8fcce261",
+  "type": "insight",
+  "timestamp": "2025-11-05T21:42:26.000Z",
+  "title": "<li>Docs: <u>https://documentation.mailgun.com/</u><br></li>",
+  "content": "<li>Docs: <u>https://documentation.mailgun.com/</u><br></li>\n</ul>\n<div><br></div>\n<div><br></div>\n<div>We have all these api keys</div>\n<div><br></div>\n<div>More </div>\n<div><br></div>\n<div><h2>⬜</h2><b><h2> 11. UCC Filing State Websites (Non-API Scrapers)</h2></b></div>\n<div>These are NOT APIs — but they are the sites you scrape:</div>\n<div><h2>✔</h2><b><h2> States you attempted:</h2></b></div>\n<ul>\n<li>Florida</li>\n<li>Wyoming</li>\n<li>Colorado</li>\n<li>Washington</li>\n<li>Utah</li>\n<li>Maryland</li>\n<li>Delaware feed</li>\n</ul>\n<div><h2>🔑</h2><b><h2> API Keys:</h2></b></div>\n<div><b>None — these require browser automation, captchas, or paid access.</b><br></div>\n<div><b><h2>Notes:</h2></b></div>\n<div>Real-time UCC filings <b>do NOT provide APIs</b>. This is why scraping was failing — many states block VPN/hotspot traffic.</div>\n<div><br></div>\n<div><h2>🟩</h2><b><h2> 12. Companies House API (UK Business Data)</h2></b></div>\n<div><h2>✔</h2><b><h2> Can be used for:</h2></b></div>\n<ul>\n<li>Business info</li>\n<li>Officers</li>\n<li>Filings</li>\n</ul>\n<div><h2>🔗</h2><b><h2> Website:</h2></b></div>\n<div><u>https://developer.company-information.service.gov.uk/</u><br></div>\n<div><h2>🔑</h2><b><h2> API Key:</h2></b></div>",
+  "context": "From document: data enrichment strategy for ucc-mca intelligence platform — chunk 23 (chunk 23/32)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "42efb0f415b2f324521d2959a50f91bf",
+  "relatedUnits": [],
+  "keywords": [
+    "these",
+    "https",
+    "keys",
+    "apis",
+    "states"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dfbad1f5-ff96-4154-a4ee-45e25d33b266",
+  "type": "insight",
+  "timestamp": "2015-04-09T13:59:36.000Z",
+  "title": "<div>I can sit and twirl this box all day</div>",
+  "content": "<div>I can sit and twirl this box all day</div>\n<div>For I know you've had the greatest role in its making</div>\n<div>You've laid hands on it</div>",
+  "context": "From document: I can sit and twirl this box all day",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f5f3173f14b741d2d370e29566648374",
+  "relatedUnits": [],
+  "keywords": [
+    "twirl",
+    "this",
+    "know",
+    "greatest",
+    "role"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,31 @@
+---
+id: 63d29e43-2f41-4b04-82f8-7877ca349df8
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ezm5mkacibdrho34emeygqrz9lvcxfidbkv646qom2x3aw8zvlneyra0qoxzqzve2iygl04
+  - lg3ptgrmk4hq2ntyzjcnmc
+  - j8xgc1ulbfnnp
+  - >-
+    2ospmrzxqb0q8zroh2t3ljluf21bu9fz3vzyguuwvhus7vc0ah8tjbi7nt6kn9exwfd3lofmf1zykwyqnx2y987g8tyz1t
+  - ukfmgzeewvmuaxrdgbfbmzlse6tj2soema6r1qbznc
+---
+# Ezm5MkaCibdrHO34emeYGqRZ9lVcXfiDBkV646qom2X3aW8ZvlNeyra0qoxzqZve2iYgl04/lg3ptGrM
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 334 (chunk 334/11534)
+
+## Content
+Ezm5MkaCibdrHO34emeYGqRZ9lVcXfiDBkV646qom2X3aW8ZvlNeyra0qoxzqZve2iYgl04/lg3ptGrMk4hQ2NtYZjCNMc/j8xGC1ULBfnnp/2osPmrZxqB0Q8zrOH2T3lJLuf21bU9FZ3vZYgUuWvHUs7vc0aH8tjbi7Nt6kn9ExwFd3LofMf1zYKwYqnx2y987G8tyz1t/uKFMgzeEwVMuAxRDgbFBmzLSe6TJ2soeMa6R1QBzNC+c1rtbDGcG8PaygHNXAgs1OjLOrObkOpBbt7jVgt9EMru1cXj0P5xyp5o1IPhHTPGle0s0crbDXDNVlgYLhw3KJk5TwGMWMiRhMiFSQlhyu7UjTptyD32k8DVRHFn9vMBKu+BnTnHmK9JOZ8aaEx+eL49LGyVdoUtzJKIVyWtMW+qTL96thfjP7VfGXysaFEQLi7dH9TjGp+2htEirKG2sBT3BRCkqcEbOwgdzVfRUrGmpRYr66RKtp+D5IAqQ69u4N62OSkk6Leq+Cub6SiHZ+SkKNNb21TSCQDdTV7oCSaEAzvVeAJfdRD/O5xi9lZN5hUWIV891wBQj6vMDFw6W2EkFMCEPJ54dnW20opgbFlUhWXmGKY1LpkRk0I+VThamOuM2Z4WAHQJfUw/f+kQu7XleNKSkpJx9J5ja30JASJa+fSUek8nRKPS7jNSQnmz0fiSe9EUcUTmgM4KJ32TpVDkeccD9bsmXIsIH35WHimQ7C2MNAfE8BODY5zpS8zBM6Gu2HJj+ZJlYpW2Su7U66Ko0r6Xckhr15wVFarK/fDjZBMBVljXV7rbPUIGLc9HY/FmUWR4WrtFinVOIc3iOyvOUIm5XQqi9d82jmrnFUoaJqeneTb9Oaea4DrZ71naYN2RqfP9epalwHdLCa2pAzHwwN9ME3aSB1HcrWy8vzAaJqh4tULdtvyRbInJi0yv9cqJTwtP+Ta4tVHqxbbABtD2exMA0VTTl6asHELc5euTkgNVH0dpBpHs7vl7eRmRylFlEAf+SgLOaSljv8ENkiGn+DwGIhX91+gHtb9s4nnx7y6H4N6eCQzgMRMf4nLQ//5zSND/yu3mGa5a1/n8JijYkyfDX2RPdp/4ipkBpV/f6BCpu2i4ctcZwxIPPEq9MeT3+bwmGNjbBqn2hwbQ1Ex9jdQuI79X+Ybs43pJw5hmU7OMHC2X/VnXR
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

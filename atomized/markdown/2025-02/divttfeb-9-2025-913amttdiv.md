@@ -1,0 +1,38 @@
+---
+id: f891c3e2-f395-456b-ba88-d9bc35db07f7
+type: insight
+created: '2025-02-17T23:20:46.000Z'
+document: f724cc82d2d987b6ae9e11ab05d297ca
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - that
+  - path
+  - journey
+  - life
+  - worn
+---
+# <div><tt>Feb 9, 2025 9:13AM</tt></div>
+
+## Context
+From document: Student Submission: — chunk 79 (chunk 79/134)
+
+## Content
+<div><tt>Feb 9, 2025 9:13AM</tt></div>
+<div><tt>Katherine Moreno</tt></div>
+<div><tt>Hey! Amanda.</tt></div>
+<div><tt><br></tt></div>
+<div><tt>I completely agree that Eudora Welty uses symbolism in A Worn Path to highlight Phoenix Jackson’s perseverance and sacrifice. Her journey represents more than just a physical path, It reflects the struggles she has faced throughout her life. The worn path itself is such a powerful symbol because it shows her resilience. She has walked this road many times before, just like she has endured hardships repeatedly but never given up.</tt></div>
+<div><tt><br></tt></div>
+<div><tt>The quote about her grandson really stood out to me too. It shows that he is her motivation, giving her purpose and strength despite her old age and difficult journey. Her love for him is so strong that no obstacle—whether it’s the log, the hunter’s words, or even her own physical limitations—can stop her from reaching her goal.</tt></div>
+<div><tt><br></tt></div>
+<div><tt>I also think the log is an interesting symbol. It represents the challenges life throws at her, but instead of turning back, she finds a way to keep going. This reminds me of how life in general is full of struggles, but perseverance is what helps people push through. Phoenix doesn’t let anything hold her back, and that determination is what makes her journey so inspiring.</tt></div>
+
+
+
+---
+*Source: Document f724cc82d2d987b6ae9e11ab05d297ca*

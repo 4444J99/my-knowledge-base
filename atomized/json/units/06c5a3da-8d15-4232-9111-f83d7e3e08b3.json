@@ -1,0 +1,26 @@
+{
+  "id": "06c5a3da-8d15-4232-9111-f83d7e3e08b3",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt>- Layer toggles (show/hide phonology, syntax, semantics, etc.)</tt></di",
+  "content": "<div><tt>- Layer toggles (show/hide phonology, syntax, semantics, etc.)</tt></div>\n<div><tt>- Node inspector (click → detailed properties)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Rhetorical Dashboard:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Ethos/Pathos/Logos gauges</tt></div>\n<div><tt>- Rhetorical figure annotations</tt></div>\n<div><tt>- Persuasive strategy timeline</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Generation Panel:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Natural language prompt</tt></div>\n<div><tt>- Constraint specification (formality, emotion, length)</tt></div>\n<div><tt>- Alternative generation requests</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### **27. Visualization Grammar**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Coordinate Systems:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Cartesian: Statistical plots</tt></div>\n<div><tt>- Polar: Cyclical data (time-of-day, seasonal)</tt></div>\n<div><tt>- Geographic: Dialect mapping</tt></div>\n<div><tt>- Network: Graph layouts (force-directed, hierarchical)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Mappings:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- node.type → shape</tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 49 (chunk 49/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "node",
+    "rhetorical",
+    "generation",
+    "layer",
+    "toggles"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

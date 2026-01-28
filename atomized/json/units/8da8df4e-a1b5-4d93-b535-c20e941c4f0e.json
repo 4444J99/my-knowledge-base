@@ -1,0 +1,26 @@
+{
+  "id": "8da8df4e-a1b5-4d93-b535-c20e941c4f0e",
+  "type": "insight",
+  "timestamp": "2025-04-01T19:48:12.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div>Coming Up Next:</div>\n<div>Would you like this converted into:</div>\n<div>  •  🟢 Fillable .docx worksheet?</div>\n<div>  •  🔵 Printable .pdf version?</div>\n<div>  •  🔗 Google Doc template for Canvas upload?</div>\n<div><br></div>\n<div>Let me know and I’ll queue the exports right now.</div>",
+  "context": "From document: Perfect. You’re asking for a rubric-based self-grading system where… — chunk 6 (chunk 6/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "0b25cffb3bf23a2c52caa0858ac77d47",
+  "relatedUnits": [],
+  "keywords": [
+    "coming",
+    "next",
+    "would",
+    "like",
+    "this"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

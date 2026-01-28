@@ -1,0 +1,26 @@
+{
+  "id": "98f230b7-b2f6-4f9b-9298-c89d1cc97831",
+  "type": "insight",
+  "timestamp": "2025-11-05T21:42:26.000Z",
+  "title": "<li>Judgment liens</li>",
+  "content": "<li>Judgment liens</li>\n<li><b>Cost:</b> $0.10 per page + scraping service</li>\n</ul>\n</ol>\n<div><br></div>\n<ol>\n<li><b>Alternative Data Providers</b><br></li>\n<ul class=\"Apple-dash-list\">\n<li>Web traffic data (SimilarWeb, Semrush)</li>\n<li>Mobile app analytics (Sensor Tower)</li>\n<li>Social media signals (Brandwatch)</li>\n</ul>\n</ol>\n<div><br></div>\n<ol>\n<li><b>Proprietary ML Models</b><br></li>\n<ul class=\"Apple-dash-list\">\n<li>Custom bankruptcy prediction models</li>\n<li>Churn risk scoring</li>\n<li>Growth trajectory forecasting</li>\n</ul>\n</ol>\n<div><br></div>\n<div><b><h2>MCP Integration Architecture</h2></b><font face=\".AppleSystemUIFont\"><span style=\"font-size: 13px\"><h2><br></h2></span></font></div>\n<div><br></div>\n<div>Use Model Context Protocol servers to abstract data sources:</div>\n<div><br></div>\n<div><tt>// src/lib/mcp/data-mcp-server.ts</tt></div>\n<div><tt>import { Server } from '@modelcontextprotocol/sdk/server/index.js';</tt></div>\n<div><tt>import { StdioServerTransport } from '@modelcontextprotocol/sdk/server/stdio.js';</tt></div>\n<div><tt><br></tt></div>\n<div><tt>class DataEnrichmentMCP {</tt></div>\n<div><tt>  constructor(private tier: 'free' | 'starter' | 'professional' | 'enterprise') {}</tt></div>",
+  "context": "From document: data enrichment strategy for ucc-mca intelligence platform — chunk 9 (chunk 9/32)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "42efb0f415b2f324521d2959a50f91bf",
+  "relatedUnits": [],
+  "keywords": [
+    "data",
+    "server",
+    "class",
+    "font",
+    "apple"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

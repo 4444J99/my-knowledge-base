@@ -1,0 +1,50 @@
+---
+id: c3c44204-2c59-4915-8056-09eed6c4c5fe
+type: insight
+created: '2025-12-04T16:48:25.000Z'
+document: 1f0200e52addd3bec3d0beb78cca4a02
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: writing
+keywords:
+  - d100
+  - ritual
+  - mythic
+  - creation
+  - ruin
+---
+# <div><tt>| 25 | linear | fractured | d12 | [sequence, remix] |</tt></div>
+
+## Context
+From document: # synth-wave-modules — chunk 8 (chunk 8/51)
+
+## Content
+<div><tt>| 25 | linear | fractured | d12 | [sequence, remix] |</tt></div>
+<div><tt>| 32 | solo | group | d20 | [voice, chorus] |</tt></div>
+<div><tt>| 38 | ritual | accident | d20 | [pattern, entropy] |</tt></div>
+<div><tt>| 40 | archive | erasure | d100 | [record, void] |</tt></div>
+<div><tt>| 46 | awake | dreaming | d100 | [lucid, mythic] |</tt></div>
+<div><tt>| 64 | creation | ruin | d20 | [birth, collapse] |</tt></div>
+<div><tt><br></tt></div>
+<div><tt>---</tt></div>
+<div><tt><br></tt></div>
+<div><tt>## MYTH</tt></div>
+<div><tt><br></tt></div>
+<div><tt>| ID | Left | Right | RNG | Tags |</tt></div>
+<div><tt>|-----|------------|------------|-------|------------------------|</tt></div>
+<div><tt>| 06 | sacred | mundane | d20 | [ritual, repetition] |</tt></div>
+<div><tt>| 09 | mythic | real | d20 | [story, logic] |</tt></div>
+<div><tt>| 13 | divine | profane | d20 | [god, glitch] |</tt></div>
+<div><tt>| 45 | solar | lunar | d20 | [polarity, rhythm] |</tt></div>
+<div><tt>| 54 | face | mask | d20 | [identity, role] |</tt></div>
+<div><tt>| 55 | heaven | underworld | d100 | [place, descent] |</tt></div>
+<div><tt>| 56 | rise | fall | d20 | [ascend, decay] |</tt></div>
+<div><tt>| 64 | creation | ruin | d20 | [birth, collapse] |</tt></div>
+
+
+
+---
+*Source: Document 1f0200e52addd3bec3d0beb78cca4a02*

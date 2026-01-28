@@ -1,0 +1,24 @@
+{
+  "id": "a92af951-b55f-4859-a963-440f15740474",
+  "type": "insight",
+  "timestamp": "2025-02-13T23:51:23.000Z",
+  "title": "<div><h1>Honda CRV Hybrid VIN</h1></div>",
+  "content": "<div><h1>Honda CRV Hybrid VIN</h1></div>\n<div><br></div>\n<div><b>2HKRS5H56PH704571</b></div>",
+  "context": "From document: Honda CRV Hybrid VIN",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "e587d0567aba7b1ac51b6be68048f69d",
+  "relatedUnits": [],
+  "keywords": [
+    "honda",
+    "hybrid",
+    "2hkrs5h56ph704571"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

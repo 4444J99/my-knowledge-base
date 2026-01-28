@@ -1,0 +1,26 @@
+{
+  "id": "17fa6e4a-372c-4438-9e30-b6578cc81cbf",
+  "type": "insight",
+  "timestamp": "2025-06-25T16:13:33.000Z",
+  "title": "<div>Please list every person named as a beneficiary in the will. For each one, ",
+  "content": "<div>Please list every person named as a beneficiary in the will. For each one, I need:</div>\n<div>1. Their full name</div>\n<div>2. Their current mailing address</div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>Tap below this line, press the 📎 icon, and record your answer.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div><h2>5. Checking Eligibility ✅</h2></div>\n<div>Is the total value of the estate’s bank accounts and other non-exempt property under $75,000? (Or, has it been more than two years since they passed away?)</div>\n<div><br></div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>Tap below this line, press the 📎 icon, and record your answer.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div><h2>6. Exempt Property 🚗 🏠</h2></div>\n<div>Please state the year, make, and model of any vehicles. Also, please mention if they owned their primary home (their homestead).</div>\n<div><br></div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>Tap below this line, press the 📎 icon, and record your answer.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div><h2>7. Other Assets 💰</h2></div>\n<div>Now, for all other assets like bank accounts or financial accounts, please state the name of the bank and the estimated value of the account.</div>",
+  "context": "From document: Probate Paperwork Interview — chunk 3 (chunk 3/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "2342a9a5a8aea0a06da78e819e4843fa",
+  "relatedUnits": [],
+  "keywords": [
+    "please",
+    "their",
+    "below",
+    "this",
+    "line"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

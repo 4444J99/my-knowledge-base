@@ -1,0 +1,26 @@
+{
+  "id": "2bdde144-7f61-4504-9369-e8362e4b68cb",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:20:12.000Z",
+  "title": "<div><tt>&gt Every echo is a fossil.  </tt></div>",
+  "content": "<div><tt>&gt Every echo is a fossil.  </tt></div>\n<div><tt>&gt This file remembers for you.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>::EOF</tt></div>",
+  "context": "From document: THREAD_RITUAL_LOG.md — chunk 4 (chunk 4/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "2086f8d1c3499999efb38cdd904507a5",
+  "relatedUnits": [],
+  "keywords": [
+    "every",
+    "echo",
+    "fossil",
+    "this",
+    "file"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

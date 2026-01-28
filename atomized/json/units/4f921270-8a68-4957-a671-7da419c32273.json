@@ -1,0 +1,26 @@
+{
+  "id": "4f921270-8a68-4957-a671-7da419c32273",
+  "type": "insight",
+  "timestamp": "2025-03-19T12:12:32.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>0 pts</div>\n<div>No Credit</div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>This criterion is linked to a Learning Outcome</div>\n<div>Explain the moral or main point clearly.</div>\n<div>Effectively communicate the central moral or key point of the narrative, argument, or content in a manner that is focused, and aligns with the intended message, ensuring reader comprehension and engagement.</div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>10 pts</div>\n<div>Full Credit</div>",
+  "context": "From document: Week 1 | Overview — chunk 46 (chunk 46/75)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "327f02c0d4f0dc7a528bfc69a2a41abd",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "tbody",
+    "table"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "72404f7e-a5e1-4c84-838e-8b25164c974e",
+  "type": "insight",
+  "timestamp": "2022-01-25T13:11:13.000Z",
+  "title": "<div>Unknown time</div>",
+  "content": "<div>Unknown time</div>\n<div><br></div>\n<div>An unknown time</div>\n<div><br></div>\n<div>Occupying unknown space</div>\n<div><br></div>\n<div>In the future, or now, or before. </div>",
+  "context": "From document: Unknown time",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "13958030fac67b98fdd8e0412671e844",
+  "relatedUnits": [],
+  "keywords": [
+    "unknown",
+    "time",
+    "occupying",
+    "space",
+    "future"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

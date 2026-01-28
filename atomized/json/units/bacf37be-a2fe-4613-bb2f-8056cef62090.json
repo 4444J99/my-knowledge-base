@@ -1,0 +1,26 @@
+{
+  "id": "bacf37be-a2fe-4613-bb2f-8056cef62090",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:15:38.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>**Architecture Principles**:</div>\n<div><br></div>\n<div>- **Fluid State Rendering**: Avatar transitions from abstract geometric forms to photorealistic representation</div>\n<div>- **Ambient Feedback Loops**: Environmental UI responds to conversation dynamics without interrupting flow</div>\n<div>- **Ethical Interaction Gates**: Consent and boundary interfaces embedded naturally in conversation flow</div>\n<div>- **Modular Overlay System**: Stackable UI layers for metrics, environment, and interaction tools</div>\n<div><br></div>\n<div>### 2. Three-Layer UI Architecture</div>\n<div><br></div>\n<div>#### Layer 1: Environmental Canvas</div>\n<div><br></div>\n<div>**Purpose**: Persistent ambient atmosphere that reflects relationship state</div>\n<div><br></div>\n<div>**Platform-Agnostic Components**:</div>\n<div><br></div>\n<div>```</div>\n<div>- Dynamic Background System</div>\n<div>  * Sky layer (gradient/particle effects)</div>\n<div>  * Mid-ground elements (animated scenery)</div>\n<div>  * Foreground accents (interactive elements)</div>\n<div>  * Time-of-day transitions</div>\n<div>  </div>\n<div>- State-Reactive Filters</div>\n<div>  * Warm tones → positive interaction</div>\n<div>  * Cool/chaotic → conflict states</div>",
+  "context": "From document: AI Review & Expansion Prompt: — chunk 16 (chunk 16/25)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f193a3a0a188e43c3f5b1686778be1f5",
+  "relatedUnits": [],
+  "keywords": [
+    "state",
+    "interaction",
+    "layer",
+    "architecture",
+    "transitions"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

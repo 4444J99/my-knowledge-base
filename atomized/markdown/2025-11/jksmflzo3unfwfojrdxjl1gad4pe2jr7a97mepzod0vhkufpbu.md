@@ -1,0 +1,31 @@
+---
+id: 890a4417-94e8-41d3-92b0-070649a4a143
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - jksmflzo3unfwfojrdxjl1gad4pe2jr7a97mepzod0vhkufpbumri5lcz
+  - >-
+    6fbrb5a0bceocdbcwhs6faxkev5vsia3ulxk81bl7uskrjgjzilmrksbhofsiwurryczrj6ak72thn5pnj6at7j8cq0tqfl6ffzk1dpijvwyl4p0xdu9dwd1ph6b0yicwcnwfmc6
+  - yoixyuomkjthhzyxnheuzwre71znvc9ci6wx0ohfrvpgr3fzebzrk2u3znkrj
+  - ech0dsi2dkjpcrdjewpe5zlmtb
+  - nfnrvjttrmqrcfp
+---
+# JksmfLzO3unFWfOjRDxjL1gAD4pE2JR7A97MEPzOd0VhkufpbuMri5lCZ+6FBrb5A0bCEocdbcWHs6Fa
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 6504 (chunk 6504/11629)
+
+## Content
+JksmfLzO3unFWfOjRDxjL1gAD4pE2JR7A97MEPzOd0VhkufpbuMri5lCZ+6FBrb5A0bCEocdbcWHs6Faxkev5vsIa3ulXk81bL7uskRjGjzIlmrKSbHofsiWuRrYCzRJ6Ak72thn5PNj6aT7j8cQ0TQfl6FfZK1dPIjvWYL4p0xDU9DWd1PH6b0yicwCNWfmc6+vU/YOIXYuOMKjthhZyxnheuZwRE71znVC9ci6wx0OhfrVPGR3FzEbzRK2u3znkRj+EcH0Dsi2dkjpcRDjEwpe5zlmTB+nfnrVJttRMQRCfP+HRw7HwKcH+mw3MDBz5V55UbS0phV1tPt8+nkLq7MHckY8zQ0idCkjnnVAMbJzYzyWSwq++Oo51i220JH3OApoxwE6kAIB7+SIhzMdlm6zZ+cmzd5dicmQRAxE7qO9E+W6hRHJdcMWXjFQDBQDxUAxUAwUA8VAMVAMFAPFQDFQDBQDxQAYuFcsXJoBLLNh9zLZljEXo0c+T6kn4rioyIW6wctqaYH4RDh6MoxlOC4YazlMy9AAp6dTLWWytSwX2q9i4BJlLDQ/CGQs2xJLy5Rz74TvyJOVNCHFBt+wRQOLlV4kxfOdWggOK5TV8zI0ygeZB8eYJSyLKndUGoCJ8hCrNNagH3iUvFd2IyXzlnHQhl/gc5FTr8gLltTpJNFxWjxldn6GSeg4C/4FTpZgNyYcO6Wkk5SvyybvxpQVooan9SY0epsjpM6wUmLvWqL4hcxW76VnjMHyy9axxCyP9kFUeoH+zAncoE35Q36hN8ot2myV5huWvpF7fKAhFveNQ++9rTaXiaEDHyqQKOa0/O148LXBznphg9wPjJXZRRsIzEBMMeZBrI70HjgDywmQUnPaiDE9Q2mZrzI9ya1ifxdjJ+/E1zj3Xha3d7DESNKcx7m2YAPxeOZPVtGLKFH2MXszA0YDgjwS2YWDC6NsfOebPiggBk5lpTIAzlmQsyTijKgchCKXfrcwiZaR2Yso4XtQPLaxJuLWM+7khM94Uwv6MWfUtjXGfu4lT2JKEkVyzDmGcgg23BloP339cipVRjzyH3MJvrzz3F6B00tlYo+YY0QFPoHiXDhDeDbCN1CUH3N06UvMq/dUaF2MRZzwRb3pfN1UPEkEPxe2iHOSJr8SObbJ+6R14XXxgmiQ14xpXpI2NaHhfC1XjqHCuedz4cwF
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

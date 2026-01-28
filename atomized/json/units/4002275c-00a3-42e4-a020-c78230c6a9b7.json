@@ -1,0 +1,26 @@
+{
+  "id": "4002275c-00a3-42e4-a020-c78230c6a9b7",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div>  &quotchatgpt.debug&quot: false,</div>",
+  "content": "<div>  &quotchatgpt.debug&quot: false,</div>\n<div>  &quoteditor.aiStats.enabled&quot: false</div>\n<div>}</div>\n<div>```</div>\n<div><br></div>\n<div>**When To Reconsider Keeping All Three**</div>\n<div>- If extension-host CPU remains &gt30% for minutes while idle</div>\n<div>- If ghost text flicker appears (two providers racing)</div>\n<div>- If memory pressure causes macOS “App using significant energy” warnings</div>\n<div><br></div>\n<div>I can generate tailored profile settings files next (AI Full / AI Focus / Transparent). Want me to create those JSON snapshots now? Just confirm and I’ll add them.</div>\n<div><br></div>\n<div>User: auto run this outside of vs code</div>\n<div><br></div>\n<div>OpenAI Codex: </div>\n<div><br></div>\n<div>User: auto run this outside of vs code</div>\n<div><br></div>\n<div>GitHub Copilot: Created 4 todos</div>\n<div><br></div>\n<div>Created [](file:///Users/4jp/Development/projects/public-record-data-scrapper/scripts/auto-vscode-transparency-runner.sh)</div>\n<div><br></div>\n<div>**Automation Added**</div>\n<div>- New runner script: auto-vscode-transparency-runner.sh</div>\n<div>  - Phases: backup, status snapshot, conditional minimal apply, log rotation.</div>\n<div>  - Uses existing manage-vscode-transparency.sh.</div>",
+  "context": "From document: User: fix — chunk 38 (chunk 38/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "auto",
+    "vscode",
+    "transparency",
+    "runner",
+    "quot"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

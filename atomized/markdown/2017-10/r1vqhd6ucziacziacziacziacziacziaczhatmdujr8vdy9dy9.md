@@ -1,0 +1,31 @@
+---
+id: b4020558-3bde-43b1-aaae-ad6a20a3a3d4
+type: insight
+created: '2017-10-10T23:16:34.000Z'
+document: 64a95cd2950865cc023eedad1ff9b65d
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - r1vqhd6ucziacziacziacziacziacziaczhatmdu
+  - jr8vdy9dy9ow8nyd8e65yx5jtcljtsmburfegama47lainslpx4na1d4ehv4tmdgitq
+  - i0h4gxfwcue1lm592oc7yuaewdt63yvtfre
+  - txyf5u3iqq8yrd8v20l4avdjalsskfgkb1ahfhxxfii
+  - >-
+    m7e8cgazj5sq1dgyqftnofrnh28pj0340l0jfbncofcndypasmfoq1plqtnwijfagimyaimyaimyaimyaimyaimyaimuisaa3
+---
+# r1VqHd6uCZiACZiACZiACZiACZiACZiACZhATmDu+jR8VdY9dy9Ow8nyd8e65yx5jTcljtSMBURfEgAM
+
+## Context
+From document: sign -- signifies t signified ___________ iz'ag — chunk 113 (chunk 113/273)
+
+## Content
+r1VqHd6uCZiACZiACZiACZiACZiACZiACZhATmDu+jR8VdY9dy9Ow8nyd8e65yx5jTcljtSMBURfEgAMA47LaInSlPX4Na1D4EhV4TMDgITQ/I0h4GXfWCue1lm592oC7YuAEwDt63yVtFrE/TXyF5u3IQQ8yRD8V20L4aVdJALSsKfGkB1ahfhxXfiI+M7E8CGaZj5SQ1DGyQftnOFRNh28pJ0340l0JFBNcOfCNDypASmfOq1plQTNWIJfagImYAImYAImYAImYAImYAImYAImUIsAA3+/9VgS7lqUhjOHRuEvJf6fdnzTxH82XXAfeEMiBB0Ajs5JoItUyR4avEsi6MUdaZi7Hi/+zsnCR20ClSTgBEAl6bbgthH9GSoye10+xOQ5DVJB/Ocmit8YGdV+XaOsRW+YqvtpseIH7iH63qF81IMfuvOVNFgoEZ6s6xxl93+rL07XD/ePnxKHC9TWV/ghXe5DY39/lPB/q9oIX9B+We/Gl1lR03+hKPcavT0TMAETMAETMAETMAETMAETMAET6GwE9spV4JfPJeGPEv9P1sDT/++COEwd2Py/1SlEzIQIZwA62yX15vEytHZQtyjsq06zwtTnZQN0zcQo07HefJI/MQETaDYBJwCajbB1N0BV/4xVaZipinlEf6r9mf6Nfc/pQ6IwWlX8DCUZ0iPSTTVo2ngUCsN26lo508mZgL5SgvzCjWl4eHka7l+aqqMg0VCWKFw/Jc4mltf12qZ8bcPLIdyzOAl/0PCgp19Ms7avS0dH4crxcbOGsTRlLX6NCZiACZiACZiACZiACZiACZiACZjAwQTuWJCGXz2fhN5HhfAxFQeWQ/wv1PoVZhMevEf/qzMRGNz9QOEqBaEbpRMNlH7lMAETKB8BJwDKx7LFtoRf/2JV6T8icf4BifOzXsoHpTC9Ha+0/qr0P++EEC4eHYfusvPJsuolro5ugX5d824BEgjnj0jD8F5p+M3sJHzl4TQs2RLCJ0+VNZD205zYIY//B5el4Za5SXhsZRqwHqKN8OoJsfYZhZ76xaISwS8XzDzAY5BkByzpnmD/dEXQfgYDhwmYgAmYgAmYgAmYgAmYgAmYgAl0dgIMZv3hU0nYpr/h/+zMOFCwV44oz1bKsRJvo7UJ0AFwtPSYE3pFmdaFK8VAfc1hAiZQPgJOAJSPZcW3hEg9W2I/1fKP
+
+
+
+---
+*Source: Document 64a95cd2950865cc023eedad1ff9b65d*

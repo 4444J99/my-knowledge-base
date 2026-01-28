@@ -1,0 +1,31 @@
+---
+id: 59c0d7b6-1a2e-489d-8e7d-868ceddabe17
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - mxc6pmvaaoqhnfkhwb1mjusalbvoaysu2o
+  - rcgmhbhtxugcvd3uqm
+  - >-
+    x427jioiqv3odumxd4ougo3qmmp5rqz96dxtfswddkbeg3pe9731sphpsccpxytclfdr9dqfpfwukymjngcbsj7kubvgfprqicqor4c6cpakavkaqnwqaanakx6np5rrqhggtcye9rxnro0kucqs2y4wmwwr6ehtaeu3fpkrn4qg6gmjopwk3ootim9x63pr07
+  - xnzu8mie1y6zqgcprjilroprd8haxbsf0gejgduqelffmg5rvt2dba89je2vr8t6l5aty
+  - odup7asrg5oojyqrjuvpzg2jixmdblkq6eftnuumm
+---
+# +mXc6pmvAAOqHNFKHWB1MjusalBVOaySu2o+RcGMHbhtxUGCVD3uqm+/+x427jiOiQv3oduMXd4ouGo3
+
+## Context
+From document: New Note — chunk 6006 (chunk 6006/21099)
+
+## Content
++mXc6pmvAAOqHNFKHWB1MjusalBVOaySu2o+RcGMHbhtxUGCVD3uqm+/+x427jiOiQv3oduMXd4ouGo3qmMP5RQz96DXtfswddkbeG3Pe9731sPHPsCCPxytclfdR9DqfpfwuKymjngcbSJ7KUBVgFPRQICqOR4C6CpAKavkAqNWQaanAKx6np5rrqHGGtCYE9RXnRO0KuCqs2Y4wMwwr6EhTAEu3fpkrN4qg6gmjOpWK3OOtIM9X63pr07+xnzU8Mie1Y6zqgCprJILrOpRD8haXBSF0gEJGDuqELffMg5rVt2Dba89je2vr8T6l5aTy+oduP7aSRg5ooJYqRJUVpZg2JixmDBlKq6efTNuumM+br5tEa67YQGunHYrRo+5mn4nOQ452QMQH1eAqKg8MivNRWZ6d+Tn9EJ+dk+CVAuRnpJDLqqpiIuM90Z05xhEdY5GVKdoRFwaRdEZUV3IUTU6AskJMUgnkDU9JQppKZFIjL+YTFTb4pyU1GYEoTYiSLUBgTsErZLzaQxBqxxR1PaArA0Jam2EhASe2xxxND8mnlxYaa4DrOa2Q/denVDUNxI9endGVk47x6U1qst/IzbqXKSyo2paW/TL7IB+DKxSXpLSAhVJjVDGwCrBqqUUAwl+rUxrispUTwxMI3A1rRparUxvghEEq47p1h7jup+PsYUdMDyvNcGqzTEwo3GIwGrHugOrDKjWwl1VQ6zVTqsel9VWApuGQ0MCVgmadeZ7nFUtsGqBVV8fxgL1a6DwrbfeqjXQN2PGDC948cYbb7iuw26XGg5xA1b5g3VxcbF3LQZIpk2b5rjJMZTKXy3PDqUM+NxGf0HAkAmHCazycwtwyeMTyRqbP9i61UNDpHfffbfrHLfzpE8/E19r6dKlrmuwQ6h8NT3P27NnzynzZK1AwOrpeD6uvQChjzzyiPdn9eKLL55yn/LsrP6A1UOHDjk/K37eqKgoMNikz5WcN4sYXuJ5sbGxzl8ay5hW+ZmKGyy/FniDRc/hfMeOHc5afG/itnrfffedMs88z7bDC2DaeoZWT9k0PfMfme0V3SoQbmD1qaeechyr+b9zvoJhR4b73Y5ggFX+hYCGYc3r8Hvn448/XmdgVbuD8n2ZB//3nq89bNgwx+WhW7duPp+ZnbgZoPV1hPOZeKN+4MCBPu+F75nduPl9z+146KGHvOfyPbOD
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

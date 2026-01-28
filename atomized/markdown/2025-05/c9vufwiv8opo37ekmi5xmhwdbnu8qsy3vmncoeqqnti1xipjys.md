@@ -1,0 +1,32 @@
+---
+id: 4f90d257-df87-4b08-add8-e31abcc84dff
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - c9vufwiv8opo37ekmi5xmhwdbnu8qsy3vmncoeqqnti1xipjy
+  - >-
+    sveq2uevu2hvoydamqmw4qodrqw6bq6mqfvtfkuekl4wqpbtq4oekt47wyy1ngdm1ukt1bmmxn5kbzountu
+  - h155yg2bojyygrp540igedmaokqxnygykq52s8r9ovo2ujnhhgijx0yr
+  - >-
+    s2nasxww0wi6derzrgbuy2fshha3lzkbntrwdulwuabxuiiq4wq8gkqdvwlvcrbqxsuihuq2rxsfvg5biuvxhoyt8hdo4wfub1cyyvuatl
+  - awvdox3cmpnipkcni1ueta2yturxwnlutxfg5tudgvsqwzvvutzyxvchzpbkxq
+---
+# c9VUfWiV8Opo37EKmi5XMHWdbNu8QSY3VmncoEqqNTI1XiPjY+sVEq2UEVU2HVOYdaMqmw4qODrQW6bQ
+
+## Context
+From document: New Note — chunk 12770 (chunk 12770/21099)
+
+## Content
+c9VUfWiV8Opo37EKmi5XMHWdbNu8QSY3VmncoEqqNTI1XiPjY+sVEq2UEVU2HVOYdaMqmw4qODrQW6bQ6mqFVtfKuEKl4wqPbtQ4oekt47WyY1NGdm1ukt1bmmXn5kbZouNtU/h155YG2bOjyYGrp540IGedMaoKqxNygYKq52s8R9OvO2ujnHHGiJx0Yr/s2NasxwW0Wi6DerzRgbUy2FshHa3LZKBntRwDULWuabXUIiq4Wq8gKqDVWlVcRbqxsUIhUq2rXSFVG5bIuvXHOYt8Hdo4wFUB1cYyVUAtl+aWVdOx3CmpNipkCni1Ueta2ytUrXWNlutxFG5tUDgVSqwZVVutzyxVCHZpBKxq+5aWlS4CVo2AVVVYVRi2XccYGcno66K7ZdOmDn21ZK20Kwjb3Kh9ZqWwCjjVV1qdA7BapX1mCa1WTqurZlVWS6iwSmjVKq0WBa8CUA3A6re//W1BhKIjI17vg4jX3NoIOAIKkTZ+4xvfcEqVUNnEaysZAWIyQhETERAhlCcfffRRpwaKBxL7sHOkpucDrH7/+9+PN5sxjvXBk08+6fwEf+GB1tbZ9GWXXRZvzONh1tbNB1jFteRGONRF7bhM42G8u7vbtbvgggsS27BtkrXA6q5duxKBT/TDgzThWswJiw52PEA9nCsW4Gydn7788svjtvfee29i22KAVSxyEBbesmWLYIHFPxbzVkns4YcfzmnHV9YC2oA/2cdaLFwAFIGKLl6DbOtC+siFK8O1K/2148Lp4flY/cqa1d/+8J+xsunvT70078n/9We/lD8/9KU5RfTNF3BsKqxiTgsRoLIKWNXCpkjju8kP+YBVfNfhO8wfB3kfWj0SgFUoZ/K7GfeahYL9ccr73//+uDk2XDgO1DYLBSzEUindB1ZLORbm4QOTnBs2UDjn0047jcWp1t6vPfTQQ6ntkiossAqoslDAhhbnBvV+P6SdU6muJ1RTeHyo6s8n2Lligwbng7H7+/vlpZdeyjv09ddfH88Dz0CFwgc+8IG4/UIAq9YvuOctJuDHV/QlNnD8UAhYXczPqT+3kA8eCB4IHggeCB4IHggeCB6YvwcAhmHtHs+HixFxLP9HZPM/izDCYnggAKuLCaz+awyrElqFJahKa4FVX2HVV1olqAprYVWbJqyKH/EmxXzAqq+uyjxBVViuudL6wCrVVdOAVR9U
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

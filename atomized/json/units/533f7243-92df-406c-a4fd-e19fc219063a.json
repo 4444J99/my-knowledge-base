@@ -1,0 +1,26 @@
+{
+  "id": "533f7243-92df-406c-a4fd-e19fc219063a",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt>—-</tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt>## ::ARCHIVE</tt><i><tt>_ENTRY_</tt></i><tt>039  </tt></div>\n<div><b><tt>**Title:**</tt></b><tt> Modular Export Format — iPhone Notes Edition  </tt></div>\n<div><b><tt>**Ref ID:**</tt></b><tt> SYS</tt><i><tt>_EXPORT_</tt></i><tt>FMT</tt><i><tt>_NOTES.v1  </tt></i></div>\n<div><b><tt>**Folder:**</tt></b><i><tt> /GPT_</tt></i><tt>ARCHIVE</tt><i><tt>_CORE/SYS_</tt></i><tt>EXPAND</tt><i><tt>_PHASE_</tt></i><tt>2.5/  </tt></div>\n<div><b><tt>**Filename:**</tt></b><tt> EXPORT</tt><i><tt>_FMT_</tt></i><tt>NOTES</tt><i><tt>_TEMPLATE.md  </tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>---</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>### I. | PURPOSE</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>Defines the standard export template to be used for all system components archived in iPhone Notes. This ensures mobile-first accessibility, modular editing, and seamless backup integration with Notion, GitHub, or text repositories.</tt></i></div>\n<div><i><tt><br></tt></i></div>\n<div><i><tt>---</tt></i></div>\n<div><i><tt><br></tt></i></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 169 (chunk 169/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "export",
+    "notes",
+    "archive",
+    "modular",
+    "iphone"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: f11f9c59-178a-454a-8f9d-4223f492fa13
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - iwa9gva1ygp3s3ugprmfcxgarwpuv2ae4cygvaar6
+  - >-
+    sdafvtqdvuq8cpbfwnxlblzf5opm2w8qkexx3gbwbtbazqafjnptzwhadtmcnqeoctaldkeqtw6my9yriargtiabedlnuvkbm2vscaz5ch0c0auba
+  - >-
+    ggmxgbgvqwsygynfpxcfbucttxcicvaysgyt0oayt2avr0al9moynbveodumntuezfyv1u1govz4j51ume9xt1wifngqlqewcfdqvn5e2banadzvdla6vyu4
+  - hwsqvdwssr7dc0ap6nanbfvr
+  - fefh5vavgrcv1wgbil5zpatzk1lpa6ybdovcafk0esgp3mkbagijvqfwxpwlvyyswhq
+---
+# IwA9GVa1YGp3s3UGprmfCXgarwPuv2AE4CygVAaR6+sdAFVtqDvuQ8CpbFWNxlBLZF5OpM2w8QKExX3g
+
+## Context
+From document: New Note — chunk 938 (chunk 938/21099)
+
+## Content
+IwA9GVa1YGp3s3UGprmfCXgarwPuv2AE4CygVAaR6+sdAFVtqDvuQ8CpbFWNxlBLZF5OpM2w8QKExX3gBWBtBazqAFjNptZwHADtMcNqEOcTAlDKEQTw6MY9YrIArgTIabEDlnUVkBM2VScAZ5cH0C0AUba++gGmxgBGVqWsyGYNfPXCFBuCTTXCICvAySgyt0OAYt2AVR0AL9moynbVEODUMNtUEZFYv1U1gOvz4j51umE9xT1WifNgqLQEwCfDqvn5E2BanaDZVdla6vYU4/hWSqVdWsSr7DC0Ap6NANbFvR/FefH5VaVgRcV1WgBil5ZPATzK1lPA6YBDOVcAfK0EsGp3MKBagijVQFWXpwLvYYsWHq+JXC5chxvvD0Cr4SDg4ISL5jdX0ZLeZupZWE9VUQvuQ8C9FTPAZrLJeAZgVdhSS6ZquRi5oHAyFRZN6QdWYVstLJ2iRQlMtuUAyiscc8gMs6oT5+uBaZbbnxpUCwCoFlFloEQLNqlyMLRqRu2teF0cgIc1YJVh1Q8/wF+3vfMu/e6t39BzT/yEDl6+nTpAugfck8jnGoWLGA3T6ngtYsiJKmiIM7OoDrBqLSyrmZp8DVhNQkGcSM/BzTePmutLqRW21eaGUmqsLQbYWkKNDSZqaWFo1YY2v1Gg33VDpYw3aGnxGVRU2B9lJaDWSwGllo6iCiiSzbCpWs3jyW6ZqFlVzYBaGVi1AGh1u/Bmwg/c4YDVXKCqHlaVv3LTdyTUjgZ3PnhZOiGSubPCbem0CCSi5k/Q4dFHLlh1MFCVO1hq50s6Ziq0qnbcuC2QqmR9J1A6h5IFVJWsB1ZfffVVGmkMB6wOB6vy9pHCqg88ACvmFVcQW1IFRh0s9/T00J49e+jee+/NAqoqrMptFVgdClZ9+umn8Qtg9QDD6kMPPZQTWH300UeJ45FHHtHi4YcfpgcffFCLH/3oR1rHRe0Mner25wGkqXDmVfOv/AwoebLnoAKihzquH/T4f778E5qdN1sDOwunFtJ/3vi3AfuqwCpbSQc7rx+vfSQLh15QvXXAfgyeynEqZlbQP135fw/Yrh6TDagC0N7ee9uA/VRg1ZnvyAm9qsd65pyfEltT2SjLtlV1m9pmYyw/Z964vM/YYQ1g9YuBE9XXx2gbrwHfA6f657z+ePIZ5Kvd/TbO3qiAUQGjAkYFjAoYFTAqYFTA
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

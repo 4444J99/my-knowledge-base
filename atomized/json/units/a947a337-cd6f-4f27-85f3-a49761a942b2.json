@@ -1,0 +1,26 @@
+{
+  "id": "a947a337-cd6f-4f27-85f3-a49761a942b2",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt>Each unit will be exported with:</tt></div>",
+  "content": "<div><tt>Each unit will be exported with:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- TITLE  </tt></div>\n<div><tt>- CONTEXT HEADER  </tt></div>\n<div><tt>- REF_ID  </tt></div>\n<div><tt>- FORMAT TYPE  </tt></div>\n<div><tt>- ARCHIVE LOCATION  </tt></div>\n<div><tt>- BODY CONTENT  </tt></div>\n<div><tt>- NEXT ACTIONS</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Example filenames:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- `::4_bl00m_PROFILE.md`  </tt></div>\n<div><tt>- `::M4_EDU_SYLLABUS_V1.md`  </tt></div>\n<div><tt>- `::GR1ND3R_PROJECT_PROFILE.md`  </tt></div>\n<div><tt>- `::KONS0L_ARCHIVE_REFS_01.md`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### NEXT ACTION ITEMS:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>1. Confirm FILTER TAG SYSTEM  </tt></div>\n<div><tt>2. Set hierarchy levels for ::ET4L / ::ETCETER4 / ::4_bl00m  </tt></div>\n<div><tt>3. Choose GLYPH FORMAT: Unicode, Custom, ASCII  </tt></div>\n<div><tt>4. Confirm EXPORTED FORMAT: For iOS Notes / GitHub  </tt></div>\n<div><tt>5. Greenlight build of:</tt></div>\n<div><tt>  - MANIFESTO V1  </tt></div>\n<div><tt>  - GITHUB README  </tt></div>\n<div><tt>  - EDUCATION SYSTEM DOCS  </tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 86 (chunk 86/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "format",
+    "exported",
+    "next",
+    "confirm",
+    "system"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

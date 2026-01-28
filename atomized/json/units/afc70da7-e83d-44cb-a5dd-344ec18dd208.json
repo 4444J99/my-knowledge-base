@@ -1,0 +1,26 @@
+{
+  "id": "afc70da7-e83d-44cb-a5dd-344ec18dd208",
+  "type": "insight",
+  "timestamp": "2025-04-19T03:35:43.000Z",
+  "title": "<div><tt># [#binary_mirror]</tt></div>",
+  "content": "<div><tt># [#binary_mirror]</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## |[ B1N4RY::M1RROR_T4BL3 ]|  </tt></div>\n<div><tt>32 ABSOLUTE BINARY PAIRS — SYSTEM SWITCHBOARD  </tt></div>\n<div><tt>_Not slidable, not fuseable. Used for logic gates, ritual locks, thread forks, and command-level triggers._</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| ID   | State A   | State B   | Domain        | Signal Type         |</tt></div>\n<div><tt>|------|-----------|-----------|---------------|----------------------|</tt></div>\n<div><tt>| B01  | on        | off       | power         | logic gate           |</tt></div>\n<div><tt>| B02  | true      | false     | logic         | binary state         |</tt></div>\n<div><tt>| B03  | live      | dead      | system        | state toggle         |</tt></div>\n<div><tt>| B04  | input     | output    | process       | flow gate            |</tt></div>\n<div><tt>| B05  | create    | destroy   | ritual        | initiation/descent   |</tt></div>\n<div><tt>| B06  | open      | closed    | access        | door mechanic        |</tt></div>\n<div><tt>| B07  | inside    | outside   | spatial       | presence map         |</tt></div>\n<div><tt>| B08  | visible   | hidden    | UI/UX         | perception switch    |</tt></div>",
+  "context": "From document: # [#binary_mirror] — chunk 1 (chunk 1/3)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "3b47155e3ef30755fd233408e4d9830e",
+  "relatedUnits": [],
+  "keywords": [
+    "state",
+    "logic",
+    "binary",
+    "system",
+    "ritual"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

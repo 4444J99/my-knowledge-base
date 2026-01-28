@@ -1,0 +1,26 @@
+{
+  "id": "455eae50-974b-4625-98bd-3786cb79d68f",
+  "type": "insight",
+  "timestamp": "2026-01-17T22:01:57.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><br></div>\n<div><img style=\"max-width: 100%; max-height: 100%;\" src=\"data:image/heic;base64,AAAAGGZ0eXBoZWljAAAAAGhlaWNtaWYxAAAGIW1ldGEAAAAAAAAAIWhkbHIAAAAAAAAAAHBpY3QAAAAAAAAAAAAAAAAAAAAAJGRpbmYAAAAcZHJlZgAAAAAAAAABAAAADHVybCAAAAABAAAADnBpdG0AAAAAAAoAAAHHaWluZgAAAAAAFQAAABVpbmZlAgAAAQABAABodmMxAAAAABVpbmZlAgAAAQACAABodmMxAAAAABVpbmZlAgAAAQADAABodmMxAAAAABVpbmZlAgAAAQAEAABodmMxAAAAABVpbmZlAgAAAQAFAABodmMxAAAAABVpbmZlAgAAAQAGAABodmMxAAAAABVpbmZlAgAAAQAHAABodmMxAAAAABVpbmZlAgAAAQAIAABodmMxAAAAABVpbmZlAgAAAQAJAABodmMxAAAAABVpbmZlAgAAAAAKAABncmlkAAAAABVpbmZlAgAAAQALAABodmMxAAAAABVpbmZlAgAAAQAMAABodmMxAAAAABVpbmZlAgAAAQANAABodmMxAAAAABVpbmZlAgAAAQAOAABodmMxAAAAABVpbmZlAgAAAQAPAABodmMxAAAAABVpbmZlAgAAAQAQAABodmMxAAAAABVpbmZlAgAAAQARAABodmMxAAAAABVpbmZlAgAAAQASAABodmMxAAAAABVpbmZlAgAAAQATAABodmMxAAAAABVpbmZlAgAAAQAUAABncmlkAAAAABVpbmZlAgAAAQAVAABFeGlmAAAAAGRpcmVmAAAAAAAAAB5kaW1nAAoACQABAAIAAwAEAAUABgAHAAgACQAAAB5kaW1nABQACQALAAwADQAOAA8AEAARABIAEwAAAA5hdXhsABQAAQAKAAAADmNkc2MAFQABAAoAAAIfaXBycAAAAYxpcGNvAAAAE2NvbHJuY2x4AAIAAgAGgAAAAAxjbGxpAMsAQAAAABRpc3BlAAAAAAAAAgAAAAIAAAAAFGlzcGUAAAAAAAAFJgAABOsAAAAJaXJvdAAAAAAQcGl4aQAAAAADCAgIAAAADnBpeGkAAAAAAQgAAAA3YXV4QwAAAAB1cm46bXBlZzpoZXZjOjIwMTU6YXV4aWQ6MQA",
+  "context": "From document: New Note — chunk 1 (chunk 1/552)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1e7f774965e1eb562e09169dee48e356",
+  "relatedUnits": [],
+  "keywords": [
+    "style",
+    "width",
+    "height",
+    "data",
+    "image"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

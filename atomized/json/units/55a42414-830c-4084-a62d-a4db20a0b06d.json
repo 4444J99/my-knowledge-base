@@ -1,0 +1,24 @@
+{
+  "id": "55a42414-830c-4084-a62d-a4db20a0b06d",
+  "type": "insight",
+  "timestamp": "2021-12-20T06:18:50.000Z",
+  "title": "<div>I'll ask ya about Alaska in the morning </div>",
+  "content": "<div>I'll ask ya about Alaska in the morning </div>",
+  "context": "From document: I'll ask ya about Alaska in the morning",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "e1aabfc7b9b21bbbd4d72b21ff94b846",
+  "relatedUnits": [],
+  "keywords": [
+    "about",
+    "alaska",
+    "morning"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "b208689d-b097-4a74-9df1-acf4f6784352",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div># Define agent data</div>\n<div>uid = &quotKNGB0202&quot</div>\n<div>title = &quotgeb_recursive_mirrors&quot</div>\n<div>agent = &quotEcho Daemon&quot</div>\n<div>symbol = &quot♾️🪞&quot</div>\n<div>system = &quotMIRROR_CHAMBER&quot</div>\n<div>chant = &quotThe reflection reflects the reflection.&quot</div>\n<div><br></div>\n<div># Create new UID folder</div>\n<div>new_agent_folder = active_core_dir / f&quot{uid}_{title}&quot</div>\n<div>new_agent_folder.mkdir(parents=True, exist_ok=True)</div>\n<div><br></div>\n<div># Populate the core .md files for this agent</div>\n<div>(new_agent_folder / &quotREADME.md&quot).write_text(</div>\n<div>f&quot&quot&quot&lt!-- UID: {uid[:2]}-{uid[2:4]}_00-00 --&gt</div>\n<div><br></div>\n<div># Gödel, Escher, Bach – {agent}</div>\n<div>## UID: {uid}</div>\n<div>## Agent Symbol: {symbol}</div>\n<div>## Role in System: {system}</div>\n<div><br></div>\n<div>This knowledge wave draws from the recursive, interlocking principles of logic, art, and music as explored in *Gödel, Escher, Bach*. The Echo Daemon governs systems that reflect, loop, invert, and encode.</div>\n<div><br></div>\n<div>Feeds:  </div>\n<div>- Mirror-based design logic  </div>\n<div>- Interwoven recursive storytelling  </div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 364 (chunk 364/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "agent",
+    "symbol",
+    "system",
+    "new_agent_folder"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

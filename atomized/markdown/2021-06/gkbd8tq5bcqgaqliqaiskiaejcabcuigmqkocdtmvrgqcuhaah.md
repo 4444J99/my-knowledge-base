@@ -1,0 +1,33 @@
+---
+id: 2453dea4-cd64-4845-8677-6798c5c468ed
+type: insight
+created: '2021-06-24T19:10:13.000Z'
+document: b5de64ea907b6e44ec94b342683f3041
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    gkbd8tq5bcqgaqliqaiskiaejcabcuigmqkocdtmvrgqcuhaahkqgaqkiaejseacepbaxqkocnqvr5nlqaiskiaejcabcuhaahkqgaqak4ccqgpui6usgaqkiaejseacepcabcqgaqnulyccqf3xorkejcabcuhaahkqgaqkiaejskaxcsginoa
+  - >-
+    ucojskcjcfz2229nc3dvvpfgookii8kll77ynpfkjuhaahkqgaqkiih2qkbbol3stpcpaqm0ooevvvginhpooaf
+  - 5h6nch4aeffmr1ndw6gjtvvjmce
+  - 654b333qt1ks
+  - >-
+    xgaqkiaejseacemhhapo38pw8naqkiif2seczzz4lhx12wmcannlkkcmdd9wrpp566rdjjju2wr7ffpnnup
+---
+# gkBd8Tq5BCQgAQlIQAISkIAEJCABCUigMQkoCDTmvrgqCUhAAhKQgAQkIAEJSEACEpBAXQkoCNQVr5NL
+
+## Context
+From document: TODAY FEELS LIKE A REAL BAD GO — chunk 134 (chunk 134/940)
+
+## Content
+gkBd8Tq5BCQgAQlIQAISkIAEJCABCUigMQkoCDTmvrgqCUhAAhKQgAQkIAEJSEACEpBAXQkoCNQVr5NLQAISkIAEJCABCUhAAhKQgAQak4CCQGPui6uSgAQkIAEJSEACEpCABCQgAQnUlYCCQF3xOrkEJCABCUhAAhKQgAQkIAEJSKAxCSgINOa+uCoJSKCJCfz2229Nc3dvvPFGOOKII8KLL77YNPfkjUhAAhKQgAQkIIH2QkBBoL3stPcpAQm0OoEvvvginHPOOaF///5h6NCh4aeffmr1NdW6gJtvvjmce+654b333qt1Ks+XgAQkIAEJSEACEmhhApO38PW8nAQkIIF2SeCzzz4Lhx12WMCAnnLKKcMdd9wRpp566rDjjju2WR7ffPNNuP/++8Oiiy4aOnXq1Gbvw4VLQAISkIAEJCCB9krACIH2uvPetwSaiMC3334b3n777fDqq68GQti//vrrhrq7n3/+Ofz1r38N1113Xejdu3c477zzohhw7bXXhu+++66h1lrJYl577bXw8ssvh1VXXTXMN998lZw64dhff/01wMchAQlIQAISkIAEJNDyBIwQaHnmXlECEsiIAALADTfcEB5//PHwwQcfhB9//DF63xdYYIHQpUuX0Ldv37DYYotldLXqp7nvvvvClVdeGQ3nE088Mcw555zhoosuCq+88kpc91JLLVX95K14JiIMgsYSSywRJplkkopW8uWXX4abbropjBo1Ku4b+7XbbruFGWecsaJ5PFgCEpCABCQgAQlIoHoCCgLVs/NMCUiglQj85z//CVdffXU4/fTTY0RAhw4dwp/+9Kcw/fTTh3//+9/hzTffjB75ESNGhOOOOy5svPHGrbTSEP71r3+FYcOGRYN5wIAB0ZP++++/h+WWWy489dRT4a233gptVRD45z//GSabbLIw99xzV8QX8ebwww8Pt956axQASJ148MEHA8UWBw4cWNFcHiwBCUhAAhKQgAQkUD0BBYHq2XmmBCTQQgRIAcCoXm211aLn/7LLLouV7TEkjz766NCrV69AVAC5+RiV77//frj++uvDkCFDwqGHHhpmnnnm0Llz5xZa7cSXwQP+8MMPxzV27949vok3fckll4xrJcWhrY7vv/8+TD755FGISXsPRHEMHjw4Rgdsttlm4YADDgj//e9/wz777BMuvfTSyImIA4cE
+
+
+
+---
+*Source: Document b5de64ea907b6e44ec94b342683f3041*

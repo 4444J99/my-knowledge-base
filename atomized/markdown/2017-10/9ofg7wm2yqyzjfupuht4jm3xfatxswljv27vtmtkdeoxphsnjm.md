@@ -1,0 +1,33 @@
+---
+id: 41d4fcd5-df66-4c6b-965c-c6a2b56b9393
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    g7wm2yqyzjfupuht4jm3xfatxswljv27vtmtkdeoxphsnjm0jfy523niulczib6fhuaxfzfmbpht0rtaaqkwudce3pvj1kdcjr1
+  - >-
+    ljagbjrqqzodhg9upeuamikkjomciuluinzgwpfiqn1b70kd8daelfufdxq46wf7rkyh24pttzhkkr4i54q3dowt3o07c8nnoe33ycdbhsmkr3e20v7yumvnvudkeuo9vi00hwbwe3ath9oerpmb5hhpvucwnvbkhzznvjoqaxnpyrm6dlbjt1zths4irzj1oiiiqplazjqo0wigw6enffqfrgxzqmdhpaqcgtud7g216sqdaizsdyytw5x1x2rktjo243di
+  - >-
+    krkyiwzimvdkv3zjqwtovb2mcpzxhynjj6180fhc2i8dagzpdeggkxkrubbujhevfk9utfskjnngufolfl
+  - 7smbyfdtv0gmfrj9mkxpjlrdaclr3yjiapgtx6bws1kvtxmvzphuk01h5wplx
+  - gnhpkvja69a2cjpdq3mpmphdvl
+---
+# 9OF+g7WM2YqyZjFUpUht4jM3XFaTxsWLjv27VTmtkDEOxPHSnJM0jfY523niulcZIB6fhUaxFZfmbPHT
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 1214 (chunk 1214/2189)
+
+## Content
+9OF+g7WM2YqyZjFUpUht4jM3XFaTxsWLjv27VTmtkDEOxPHSnJM0jfY523niulcZIB6fhUaxFZfmbPHT0rTaAQKWUDce3pVJ1kDcjr1+lJaGbjrqQzoDHg9uPeuamiKkjOMciuluInZgwPfiqN1b70Kd8daElfUFDXQ46Wf7RKYh24PtTZHKkR4I54q3Dowt3O07c8nNOe33ycDBHSmkr3E20V7yUmVNvUDkeuO9Vi00hwBwe3ath9OeRPMB5HHPvUcWnvBKHZznvjoQaXNpYrm6DlBjt1ZThs4IrZj1OIIIQpLAZJqo0WIgW6enfFQFRGxZQMDHPaqcGtUD7G216sqDAIzSDYYtw5x1x2rKtJo243DI/KrKyIwZiMVdKV3ZjqWtoVb2MCPzXHynjJ6180fHc2I8DagZpDEGgkXKrubBUjhevfk9utfSkjNNGUfolfL/7SMbyfDTV0gmFrJ9mkxPjLRDaclR3YjIAPGTX6Bws1KvTXmvzPhuK01h5WPlX/gnhpkVja69a2cjPdQ3MPmphdvl+WQpBHJyQSfTAr9eRIwtVeXg4Ffjt/wAEuEF5Dr8EjZeLymWVeGKcAKx4ztyTjnG73r9jZIpmURSHI/wrXxQh7PNJ0b7JfqVwBLmy+MvUqB7jGeg7UrSYTywvTvTSGVijcqOlRy7mZTH0Br86a0PslB3IN6vLs5x7+tRne74XoKseQozMvQ9qotObWQn0qVqaNaD9T3WViZUQuAOg5NYkxDxpLt2nHQ1qXlwXiXzM5POKrtA06/KMH0xWj2sQ1cxnxtJH1qOCRi3mOevrVyXT5VXgcjk1R8kwje3APaolJILdi69xDGhZ/lI/LNefS/EjRr/xSPCVpMkt1GP3qRkMY8dnAOVPTj3r4q/bN/bd8C/s0WD+GY7ldT8XXcZFnpEQLuC+Ask5BAiRc7hkhmwMcZItf8E+P2aJvhT8MIviv46lvLnxj4v33+sG9ZjIHd22IVYA5C/MSeSWPYLUxemho1pqfdcxLTjB+X9a+Jf26/hZ+0B8Y/g1L4V/Zy8QR+G/EwuopILuVzGvkhXWZCwV+GVsYK/Qg4I+4tnmy+Yikc8igrFktIuR1rXeIkfzAfCr/gjT8b/iVZzRftA+NF0q6tZVQfYLWOfzY8ctFIHjSPH3doTtnpgV+pfwt/4JF/sZeD9Nt4tc8My+I7+3yZL
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

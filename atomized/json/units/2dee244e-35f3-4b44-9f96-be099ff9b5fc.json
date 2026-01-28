@@ -1,0 +1,26 @@
+{
+  "id": "2dee244e-35f3-4b44-9f96-be099ff9b5fc",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>📜 2. Archetype Purges Require a Sacrifice from Another Player of Specific Status</div>\n<div><br></div>\n<div>📜 To purge an archetype, a sacrifice must be made by someone meeting a specific condition.</div>\n<div><br></div>\n<div>✔ How Archetype Purges Work:</div>\n<div>  •  Purging can only occur once per day.</div>\n<div>  •  To purge, a player must convince someone of a relevant status to make a sacrifice.</div>\n<div>  •  The purge only succeeds if the sacrifice is made.</div>\n<div><br></div>\n<div>✔ Who Must Offer a Sacrifice for a Purge?</div>\n<div>  •  If purging into a new archetype → A player of that archetype must give up something.</div>\n<div>  •  If abandoning an archetype → A player of the same archetype must offer a cost to maintain balance.</div>\n<div>  •  If shifting alignment → A player of the opposite alignment must willingly take a penalty.</div>\n<div><br></div>\n<div>✔ Example Purge Scenarios:</div>\n<div>  •  A Scholar wants to become a Trickster → A Trickster must sacrifice an item to let them in.</div>\n<div>  •  A Warrior wants to purge into a neutral state → Another Warrior must take a debuff in return.</div>\n<div>  •  A Devout wants to abandon their faith → A player of an opposing alignment must endure penance.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 538 (chunk 538/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "must",
+    "archetype",
+    "sacrifice",
+    "player",
+    "purge"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

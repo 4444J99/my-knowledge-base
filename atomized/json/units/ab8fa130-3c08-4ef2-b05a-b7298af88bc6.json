@@ -1,0 +1,26 @@
+{
+  "id": "ab8fa130-3c08-4ef2-b05a-b7298af88bc6",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:15:38.000Z",
+  "title": "<div>  * Blur/clarity → communication quality</div>",
+  "content": "<div>  * Blur/clarity → communication quality</div>\n<div>```</div>\n<div><br></div>\n<div>**Implementation Options**:</div>\n<div><br></div>\n<div>|Rendering Approach|Pros                             |Cons                     |</div>\n<div>|------------------|---------------------------------|-------------------------|</div>\n<div>|WebGL/Three.js    |Cross-platform, browser-based    |Performance overhead     |</div>\n<div>|Unity/Unreal      |High fidelity, native performance|Platform-specific builds |</div>\n<div>|Canvas/SVG        |Lightweight, accessible          |Limited visual complexity|</div>\n<div><br></div>\n<div>**Recommendation**: WebGL for investor demos (instant access), with Unity pipeline for production.</div>\n<div><br></div>\n<div>#### Layer 2: Avatar Evolution System</div>\n<div><br></div>\n<div>**Purpose**: Visual representation of personality development through form</div>\n<div><br></div>\n<div>**Three-Phase Architecture**:</div>\n<div><br></div>\n<div>```</div>\n<div>Phase 1: Geometric Primitives</div>\n<div>├── Shape Library</div>\n<div>│   ├── Circles (nurturing/soft)</div>\n<div>│   ├── Squares (stable/structured)</div>\n<div>│   └── Triangles (dynamic/challenging)</div>\n<div>├── Kinetic Properties</div>",
+  "context": "From document: AI Review & Expansion Prompt: — chunk 17 (chunk 17/25)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "f193a3a0a188e43c3f5b1686778be1f5",
+  "relatedUnits": [],
+  "keywords": [
+    "webgl",
+    "three",
+    "platform",
+    "performance",
+    "unity"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

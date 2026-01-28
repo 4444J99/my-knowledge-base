@@ -1,0 +1,26 @@
+{
+  "id": "c2b396bd-53e5-414c-82fd-baab75d23baa",
+  "type": "insight",
+  "timestamp": "2025-06-27T06:10:52.000Z",
+  "title": "CGyegACweffcFRNYKDBVCBAAFvJ7kQABAgQIECBAgAABAlGBRADw4D96ywwnQIDAUgQEgKUwGkJgfQTS",
+  "content": "CGyegACweffcFRNYKDBVCBAAFvJ7kQABAgQIECBAgAABAlGBRADw4D96ywwnQIDAUgQEgKUwGkJgfQTSIUAAWJ/PiishQIAAAQIECBAgQGB1BJYZADz4X5377qQECBAQAHwGCBBYKJAKAQLAQm4vEiBAgAABAgQIECBAICqwjADgwX/0FhlOgACBiIAAEGE1lMD6CCw7BAgA6/PZcCUECBAgQIAAAQIECKyOwF4CgAf/q3OfnZQAAQKvCggAr4r4fwIEFgosKwQIAAt5vUiAAAECBAgQIECAAIGowG4CgAf/0VtiOAECBCYREAAmYbaEwPoI7DUECADr81lwJQQIECBAgAABAgQIrI7A2wQAD/5X5746KQECBF4nIAC8TsjvEyCwUGC3IUAAWMjpRQIECBAgQIAAAQIECEQF3iQAePAfvQWGEyBAoCIgAFTYLSWwPgJvGwIEgPW5966EAAECBAgQIECAAIHVEfivAODB/+rcRyclQIDA2woIAG8r5usJEFgo8KYhQABYyOdFAgQIECBAgAABAgQIRAUWBYAXD/6//PLLcfLkyXH48OGxtbUVPYfhBAgQIDCtgAAwrbdtBNZe4HUhQABY+4+ACyRAgAABAgQIECBAYIYCLwcAD/5neIMciQABAiEBASAEayyBTRf4fyFAANj0T4brJ0CAAAECBAgQIECgIbATAB48eDDOnz8//I3/xh2wkwABAh0BAaDjbiuBjRF4NQR8880349ixYxtz/S6UAAECBAgQIECAAAECcxC4fPnyuHDhgh/1M4eb4QwECBCYUEAAmBDbKgKbLPAiBBw6dGjs27dvkylcOwECBAgQIECAAAECBCYXePz48Th48KCf8T+5vIUECBDoCggAXX/bCRAgQIAAAQIECBAgQIAAAQIECBAgQIBARMA/7R5hNZQAAQIECBAgQIAAAQIECBAgQIAAAQIECHQFBICuv+0ECBAgQIAAAQIECBAgQIAAAQIECBAgQCAiIABEWA0lQIAAAQIECBAgQIAAAQIECBAgQIAAAQJdAQGg6287AQIECBAgQIAAAQIECBAgQIAAAQIECBCICAgAEVZDCRAgQIAAAQIECBAgQIAAAQIECBAgQIBAV0AA6PrbToAAAQIECBAgQIAAAQIECBAgQIAAAQIEIgICQITVUAIECBAgQIAAAQIECBAgQIAAAQIECBAg",
+  "context": "From document: 4320 Mariners Cove Dr 2.m4a — chunk 14 (chunk 14/225)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "3daa4ef2da2c63b0f7b42279befdb3fc",
+  "relatedUnits": [],
+  "keywords": [
+    "cgyegacweffcfrnykdbvcbaafvj7kqabagqiecbagaabalgbradw4d96ywwnqidaugqegkuwgkjgfqtsiuaawj",
+    "piishqiaaaqiecbagqgb1bjyzadz4x5377qqecbaqahwgcbbykjakaqlaqm4veibagaabagqiecbaicqwjadgwx",
+    "0fhlogacbiiaaege1lmd6ccw7baga6",
+    "pzccuecbagqiaaaqieckyowf4cgaf",
+    "q3ofnzqaaqkvcggar4r4fwiefgoskwqiaat5vuiaaaecbagqiecaaigowg4cgaf"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

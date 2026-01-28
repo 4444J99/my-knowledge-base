@@ -1,0 +1,33 @@
+---
+id: 29ac02fb-bf04-46d5-84f0-ccd53a7426b3
+type: insight
+created: '2025-04-08T10:17:01.000Z'
+document: 7704478edec58fe98c8158d649dbd34b
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    laocqoaqoaqoaowjqnrxyouzrb2jkqakqakqgcqgcqgcn7ocehhfdrjyledqe1yay8kcpwfeluha4rvwhgwcd
+  - >-
+    izuhuasnactoab5hqubjmacosamra73wt4cafcfaff6acyxf6dcddwhmr0cxqxskwon0tr3smqzeq0ggcegibdfkcsjngpqiiewwpsbfmvj6yi0xl1zelb46stoecndffuqweq4r9td1be2q6xl
+  - ox5tzgehczpy7xvwlzwscdb
+  - olypgqwaw0rddb6w6cx
+  - >-
+    2dnxa6tzrw4pjuyhatanpkpbjdzngcqbj1inld20ukx2ej7vd2htlnqqvo7vqridc9xwzwlvgfplmxv
+---
+# LaoCqoAqoAqoAoWjQNrXYoUzRB2JKqAKqAKqgCqgCqgCN7oCeHHfdrjYLeDqE1YaY8KCpwFeLUHa4rVw
+
+## Context
+From document: New Note — chunk 2773 (chunk 2773/3044)
+
+## Content
+LaoCqoAqoAqoAoWjQNrXYoUzRB2JKqAKqAKqgCqgCqgCN7oCeHHfdrjYLeDqE1YaY8KCpwFeLUHa4rVwHgwCD/IZUhuASnActOaB5hqUBJMACosAMrA73wt4cAFcFAff6Acyxf6DcDDwHMR0cxQXSkWOn0tR3sMqZEq0ggCEGIBdfkCsjngpQiiEwWPsBFMVJ6yI0xl1ZeLb46sToECnDffUqWeq4R9TD1Be2Q6xL+OX5TZgEHcZpy7XVWLzWsCDb+OlyPGQwAw0RddB6w6cx+2dnXA6TZrW4PjUYhAtANPkPbjDzngcQbJ1inLd20ukX2eJ7vd2HtlnqqVo7VqRIdC9xwzwLvgFPlMXv/mJWJuP1I0gW8/1tg/sJpE7RgNMxX1Go0krYJfhfPjLFrFf24ZrMA5rZdqjLoAHPz05Bg+2vib2uQ04p/ZlqlGY2wgr38iBW6w1EdfxwkkiIwcBMMZ9j67CaV4k+ZPK6z0tTasW/nipxDlVdSz2fcFbJT9slh/n1olZf+GhsociEoFWxQP9da2lVQFVQBVQBVQBVaDgFGBKXKYFPnjwYMGMjVAP3fF69eolTE9LcPC2227LmwtcQ+44AcKgzmV0GiMYxlS9zzzzjCxZsiSQcyRTQd96663ygx/8QG6++eaG3P289UUnuk996lOyevXqUGFYpoT+5S9/Kf369ZPbb79dWrQI77VzZWWlvPzyy/LJJ/gBW8jB8T7yyCM3hDvdpEmTTAprrwAhYc21eD5UXl6ecE+hgyGvzdLSUtm6dassX77cpCretm2blJUF/NFpDseV1zrBwcGDY46DBH55vTZnR8kc5NKqqoAqoAqoAqqAJwXC+0vOU3daSBVQBVQBVUAVUAVUAVUgkAKtxsTc+4wLYaAWrlcCo2XgQaYt3gDLtSDwYARv5bsAHpyFlMW3ASTpxkavhw37NqvNALhPPSxWlwcBWsWBtOtFdM5RwIEQOI0Tc/bp8xI9DZc7p4yfaXscUJhB+Yt4T9Un4X54JOYoRTgk+VfDBsZIIjJ4/rjGLgQNU5VzD4jlDTjJlSzMFTiHKo8hvek6kWqkbzZluN0VLFqBGh8CHlyK/5Q5Yzp2FQg4y2YGwnkQqYulj4cLovosUrBijA0CEHKfkvfTLY573tl/CNUan14+oD3senTrNbiMITVtEbTtdIsIUhdHl8LZ61ri9e30
+
+
+
+---
+*Source: Document 7704478edec58fe98c8158d649dbd34b*

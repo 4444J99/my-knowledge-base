@@ -1,0 +1,32 @@
+---
+id: 19e74a31-e836-4919-b795-99fbc0a6698b
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - wb6oblvbuqohtijr6u
+  - qt5bdrh
+  - hypn00tputecul4sqi2zvjtx23b9
+  - >-
+    0srqkwe4gjuyxmnn0nfvz32oipxfgsyzbfzdqmxuzkvavi1n1hy8kynokp79pnyjiddjpadsf0yinaoempxndqxaawjisip0u5b6blrbacur1tsjflmgzzbca6md6afgvsd9nun2fg
+  - >-
+    lhf7gmpv39ztdvxd1ww3b1th2vrilkpqjbmqmthxxdbpbjh48yrfotfpn2txbvnspbxtyi1is4hqhgpde2jpqnyj66u3ahd7jao0f2duv1pry3skcxdi
+---
+# wb6oBlVBuQoHtIjR6u/qt5bdRH/HyPn00TPuTECul4sqi2zVjtX23b9/0SrqKwE4gjUYXmNn0NfVZ32o
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 1938 (chunk 1938/3262)
+
+## Content
+wb6oBlVBuQoHtIjR6u/qt5bdRH/HyPn00TPuTECul4sqi2zVjtX23b9/0SrqKwE4gjUYXmNn0NfVZ32oiPXfGsYZBfZDqMxUzkVaVI1N1hy8kynoKp79pNYjidDJPadsf0YiNAOEMpXnDQxaawjISIP0u5B6blrbaCuR1tSjFlmGzZBcA6Md6AFgVSd9nUN2fG+LHf7gmPV39ztDvxD1ww3b1th2VrILkPQJBMqmTHXXdbPbjh48YRfOtFpN2TxbvnSpbXtyI1Is4hqhgpdE2jPQNYj66U3aHd7jAO0F2DuV1pRY3SKCxdI+iiqgNX8jAyN25IMTdmIfoP1wi82ZM8eWLF1iK47UkNUAAEAASURBVKm/JoBvXVONg/sp2oXiV3V1dNmff/NHu7AHINQyjMpngzUua7SFaxfawhULkDYuQJIGc6uVekBrLyqZZw+ft0MfH7ZDBw7ZmrVrbcW6lda8ZrHNXzaP9OdCs7AQQXbcGYNW6uVwJDmWcvslxVYSldP9UzaKGuhvf/1bO3L4iDOlUo2TTZBkQ/p2Bh4ADOfKPsdiWB2gRr1dXSK8L2LwVWXcFH6UielP5tRj8/OwgBA1eJdqnAMhJEKKpSbPfVJh62KBotWB0Pt2Cjs7dw5Db2TgRXJNGuzmVeXa2idW4azkJ1ZdW+1VMYVEaODmsLUevmbH9h63/bv3uQReEnL1OMXKwiLTFzIkzS1GIloDiGpavsg2bN+ASvJ6V+9VtQZJJQtVw0m73NJu545dsMN7jjAWYH+HG331dUmC9GK1BLUjtRO1GHkVVTOJ8ZKvDAhlVeO+dFpngdA3b0DLAqFvXp19Y3L8lQIhUQUphrvPvg+vcV/EWQI+r+B1ZLGRYVLDlOb1kpnemM/0R340OSpjLl3Qk3jvwv2q7FXqF9TZt19+0ZaubyZwHfZArOQrkGj75Xbbv3+//enPf8LIVrGEimxeQ72t3biK+593G5rSKuJaJCbt2oUb9of/90+obrXZEEx9KQbl8wE1L77yLVu+ucnK5gFCkEYoFxMjqGahenQJILRnz17b+/Fe+94r37cnnnkSILQQ4/My1NvykE70Wtupa3bw3f127WIbthWDTP6FGAHX2HdffRGmewUMBUvzFN/VoxJxjGjHuLfDrqADf5VPNQy/yidbmOr5VRZDlU3qJHKTLUDU0dJlx/9ni505cdou
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

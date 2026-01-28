@@ -1,0 +1,26 @@
+{
+  "id": "bcd1f746-338f-4ea7-8c1a-2c9a310effbf",
+  "type": "insight",
+  "timestamp": "2021-05-03T00:34:08.000Z",
+  "title": "<div>A really shitty criminal</div>",
+  "content": "<div>A really shitty criminal</div>\n<div>Uncle Mike (Howard Stern)</div>",
+  "context": "From document: A really shitty criminal",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "83432d2490743141f05cb0160e8545ee",
+  "relatedUnits": [],
+  "keywords": [
+    "really",
+    "shitty",
+    "criminal",
+    "uncle",
+    "mike"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

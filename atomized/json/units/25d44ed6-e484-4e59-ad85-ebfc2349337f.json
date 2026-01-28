@@ -1,0 +1,26 @@
+{
+  "id": "25d44ed6-e484-4e59-ad85-ebfc2349337f",
+  "type": "insight",
+  "timestamp": "2025-05-17T08:23:01.000Z",
+  "title": "<div><h1>SAFARI-CHROME_BOOKMARK-TAB_EXPORT</h1></div>",
+  "content": "<div><h1>SAFARI-CHROME_BOOKMARK-TAB_EXPORT</h1></div>\n<div><tt><br></tt></div>\n<div><tt>⸻</tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>[AA01] SAFARI (iOS 18.5)</tt></b><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>A. Export Bookmarks</tt></b><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>Method 1: Use iCloud Sync + Mac</tt></b><tt><br></tt></div>\n<div><tt>  1.  Ensure </tt><b><tt>Safari is enabled in iCloud</tt></b><tt> on iPhone:</tt></div>\n<div><tt>Settings &gt Apple ID &gt iCloud &gt Safari &gt ON</tt></div>\n<div><tt>  2.  On a </tt><b><tt>Mac signed into the same iCloud account</tt></b><tt>:</tt></div>\n<div><tt>Open Safari → File &gt Export Bookmarks...</tt></div>\n<div><tt>Save .html file to desktop or cloud.</tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>Method 2: Third-Party App</tt></b><tt><br></tt></div>\n<div><tt>  •  Use apps like </tt><b><tt>iMazing</tt></b><tt> or </tt><b><tt>AnyTrans</tt></b><tt> to extract Safari data from iOS directly.</tt></div>\n<div><tt>  •  These allow .html or .json bookmark exports.</tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>B. Export Open Tabs (Manual Only)</tt></b><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt>Safari on iOS does </tt><b><tt>not</tt></b><tt> offer direct export of open tabs. Options:</tt></div>",
+  "context": "From document: SAFARI-CHROME_BOOKMARK-TAB_EXPORT — chunk 1 (chunk 1/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "337637d06af18a42ef605b725d4702be",
+  "relatedUnits": [],
+  "keywords": [
+    "safari",
+    "export",
+    "icloud",
+    "open",
+    "bookmarks"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

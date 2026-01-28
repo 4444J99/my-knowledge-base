@@ -1,0 +1,26 @@
+{
+  "id": "b8e2cbb6-7dac-4db4-b44b-39b683afca34",
+  "type": "insight",
+  "timestamp": "2024-11-05T14:23:38.000Z",
+  "title": "<div>Christopher Notarnicola</div>",
+  "content": "<div>Christopher Notarnicola</div>\n<div>Keiser University</div>\n<div>[REDACTED:EMAIL ADDRESS]<br></div>\n<div>([REDACTED:PHONE NUMBER]</div>\n<div><br></div>\n<div>Natalie Rowland</div>\n<div>Swamp Ape Review</div>\n<div>[REDACTED:EMAIL ADDRESS]<br></div>\n<div>([REDACTED:PHONE NUMBER]</div>\n<div><br></div>\n<div>John Monforte</div>\n<div>Forward Funders</div>\n<div>[REDACTED:EMAIL ADDRESS]<br></div>\n<div>([REDACTED:PHONE NUMBER]</div>",
+  "context": "From document: Christopher Notarnicola",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "aa19e8044f3c91924144d09e6c73ba16",
+  "relatedUnits": [],
+  "keywords": [
+    "christopher",
+    "gmail",
+    "notarnicola",
+    "keiser",
+    "university"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,31 @@
+---
+id: 17cf113a-ba58-4a67-a496-f8a83f3b0c8d
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - iz09fpw9xstc6c9z2l4yisfadfrq3e
+  - 2vhhi9ulvtc6yaf91ue93kvttpty7ehdbjvovsz5txcyrt4uem
+  - ppd9nm3vccs81u
+  - >-
+    so4uedecz10nm6q3fyg8y68nqxph3c021pfvplnpbehaaccccaaaiiiiaaaggggaaccccaaaiiiiaaaggggaaco02gzkfvtmu7jod7xkfqqrynsfmcecsqfipqrsp5tl29fxdbtkxa1t6sdbduqgv8hwthlyq17d6zyw3ans0zv7rnin1whhjdqacccr
+  - f2ox02dln2p9z8xrywvyk9qs4ut6h3w3fmpj3
+---
+# +iz09fPW9XStc6c9z2L4YiSfaDfRq3e/2vHHi9ULvtC6yAf91ue93kVTTpty7eHDBjVovsz5txCYrT4U
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 7963 (chunk 7963/11629)
+
+## Content
++iz09fPW9XStc6c9z2L4YiSfaDfRq3e/2vHHi9ULvtC6yAf91ue93kVTTpty7eHDBjVovsz5txCYrT4Uem/pPd9NM3VcCs81u+So4Uedecz10nM6Q3FYG8Y68nqXPH3c021PfVPlnPbEhAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACO02gZKfVTMU7JOD7XkfqqRynSfmCEcsqFipQrSp5TL29FXdbtKxA1T6SDbduqGv8HwthLYq17d6zYw3AnS0ZV7rnin1WHHjDQacccr+F2oX02dLn2p9Z8XryWvyK9qS4ut6H3w3FmpJ3+jpv6NywqLFTe6yxfStuj0PF5KHVXZ/Gw9ePWFD+5ab6xmRdp0pECtEtElf7bD99OVn7Fd/HcnOu0o6j4ApxvnLlLfeWr7xx1qOzz5m3VKqVaVwWly0ZEh5/1vE3nHjWkqlLkvoLs37vWWu3GXmr7iAaWTJq4ag5R06Y+uzR39dWtXprQuzUP7yps6muqfrxlsfOW3Os7vBd6SqtTiYEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEENg5AiU7p1pq3WGBSHfBjqz3sIsrSsqvHH2KehWn7jFFuZV2h2oFyYn1Mk5rGo9oalz/FdcefDuvfsvqu11lMbXd9zvUV6N03+/xc6ecPeXaI4ePWzGuYvw/BSuDe8Pa9Mq0vlC/b7JfcuCq12587ZFXN605ds2cVSvXR+s7/3RCWlmIOit1T+7YwmMb9LxpYdPlb11a+I4GRT9X/ZlrQmf7UPwe2zDeFUeVf7ViYZNr7FjXblG39RjvJnp3fTBlIb3t3RVDayk599DXHmy47+jp+0z/7PTPlkVDZg23NwY0uIYZ7qT6qGbtzzVf9dJFLyVrpZ4qIpetji27t3foh4W38FxHJY2w9pwnPz72E+MHrxx8WdkEq11TYoO6r1i//MtLDis05+s7dZdwRd71/u0BsS/BAwIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAK7hYByRnUW7drdtJvDzvLEWKlcpExN6aMyRn0op9NXPZ/CnhelZJ8K+Hg122PFnJFzRi1TsOpj7HcG3M4ukaZF6lVcp/7ZUa62oJ7LaTpiQcXsUXOmnzW9vGrknHNmf+eUc8fPG1e61yCF0y5sKEQFdTq2WnK1FlmHwbhB46/c
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

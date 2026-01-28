@@ -1,0 +1,26 @@
+{
+  "id": "9f8d46b0-8845-49cb-8ceb-f1b53eb190d6",
+  "type": "insight",
+  "timestamp": "2025-03-10T23:24:51.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Your <b>cover letter</b> is well-written and does a good job of expressing enthusiasm for the role. One area where you could improve is customization—right now, the letter feels a bit <b>general</b> and could be more <b>tailored to the specific company and role</b>. Try incorporating a sentence or two that directly connects your skills and experiences to the company’s mission or values. Additionally, while your closing paragraph is polite, a <b>stronger call to action</b> (such as requesting an interview) would make a more lasting impression.</div>\n<div><br></div>\n<div>Your <b>resume</b> is clear and easy to read. The formatting is strong, and your experience is well-organized. However, there are some areas where you could make improvements. First, your <b>objective statement</b> should be more targeted toward the specific job you’re applying for. Second, your work experience section could benefit from <b>more detailed bullet points that highlight accomplishments</b>—right now, some descriptions are a bit too vague. Adding <b>metrics</b> (such as “increased efficiency by X%” or “managed X number of projects”) would make your resume stand out more.</div>\n<div><br></div>",
+  "context": "From document: Feedback Letters for Resume & Cover Letters — chunk 8 (chunk 8/22)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "86dc5339604c58929fa5043c670c250d",
+  "relatedUnits": [],
+  "keywords": [
+    "your",
+    "more",
+    "could",
+    "make",
+    "letter"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

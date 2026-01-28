@@ -1,0 +1,26 @@
+{
+  "id": "e3bddc29-d772-4be3-ab41-453eadf37efc",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt>│   ├── Therapy.Mod      ← character healing / journaling</tt></div>",
+  "content": "<div><tt>│   ├── Therapy.Mod      ← character healing / journaling</tt></div>\n<div><tt>│   ├── Ritual.Mod       ← sacred text / symbolic structures</tt></div>\n<div><tt>│   ├── Output.Mod       ← voice, text, music, interface layers</tt></div>\n<div><tt>│   └── Memory.Mod       ← version control, mutation logs</tt></div>\n<div><tt>├── GAME_ENGINE</tt></div>\n<div><tt>│   └── Quest.Mod        ← symbolic puzzle logic</tt></div>\n<div><tt>├── UI_LAYER</tt></div>\n<div><tt>│   ├── Terminal         ← symbolic command input</tt></div>\n<div><tt>│   ├── Map_UI           ← room/grid navigation</tt></div>\n<div><tt>│   ├── Mirror_UI        ← journal overlay</tt></div>\n<div><tt>│   └── Ambient_UI       ← audio + ASMR experience</tt></div>\n<div><tt>└── ARCHIVE_OS</tt></div>\n<div><tt>    └── Canon + Remix + Mutation Repos</tt></div>\n<div><tt><br></tt></div>\n<div><tt>✅ Each “Mod” is a plug-in node—activatable, remixable, versionable  </tt></div>\n<div><tt>✅ Can be visualized like a modular synth rack or Max/MSP patch grid</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## ✅ 3. VERSION LOG + LIVE BUILD INIT</tt></div>\n<div><tt><br></tt></div>\n<div><tt>plaintext</tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 97 (chunk 97/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "symbolic",
+    "text",
+    "version",
+    "mutation",
+    "grid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

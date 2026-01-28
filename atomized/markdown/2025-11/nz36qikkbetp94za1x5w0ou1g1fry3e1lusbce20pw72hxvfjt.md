@@ -1,0 +1,32 @@
+---
+id: 61314706-8481-425f-bcbc-1062f6cbf671
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    nz36qikkbetp94za1x5w0ou1g1fry3e1lusbce20pw72hxvfjtigxi6nohqfpwi6chhm4pc2lk9deix5qfooweqg
+  - aojspbm4kvln8wok9zheqzhufclep
+  - ulpcghwwtmgcnvhefqqcpruy
+  - btwxhjsisfqxk1vti9glamnw2ss2jjswx9x25anrffp7ec
+  - >-
+    eeb85nzcvziqa8y8fl0lmfclfa9eg3cbk4p4tvdb7zwtbhrcujizab2zmnlq6sycqnealmjbrclgbffs2mguzvjoqeercq7twr844fizh6d2wxbqiraqfjhkkmgloddyorjsova
+---
+# /nZ36qikkBETP94zA1X5W0ou1G1FRy3e1lUsBce20pW72hXVFjTIgxi6NoHqFPwi6ChHm4pC2lk9dEIx
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 166 (chunk 166/11629)
+
+## Content
+/nZ36qikkBETP94zA1X5W0ou1G1FRy3e1lUsBce20pW72hXVFjTIgxi6NoHqFPwi6ChHm4pC2lk9dEIx5qfOoWEqG/aOJspbM4kvlN8WOk9ZheqZHUFCLep+U/UlPCghWWtmgCnvhEfqQcpRuY/BTwXHJsisfQXk1vTi9GLamNw2sS2JJsWX9x25anRffP7eC/eeb85NzcVziQa8Y8fL0lmfclfa9eG3Cbk4P4tVdB7zWtBHrCUJIZaB2zmNlQ6SYCQneaLmjBRCLgbFFS2mguzVJOQeErCQ7twr844fIZH6d2wxBQIrAQfjhKkMgloddYorJSOVa+p+UIdMOvmazXSmeuYEthrZWsCRmVR3WoYA0xcOpeBHWymV2NVaSEC/mAL6BJjsTe0B16eAhMnSDGstd5aJQ/osA+59JqQQQohPCpZOIInzK7lRXE6y9G25Pw1KYnUJ5HEELM2wTCRDJ/ABI0dhj5j6Xo7eu1hhrechHgcyFI6+Mr08Xy+V0SLnkx7TF0Lr+SpfsNKWyOB6vP9cSoJeO6+vws0oix1nYroT/bHcqWMJNduoUjnkVanZlkaihUMPsRBbhjE4d/l5rKfWW8vCWWaV5Yirsl+3AweZfcSyJ4UCWxFiqVmculxbYCtZoPbzrdSbl0sXzqjkXjivYm5F8vM5MTnfWg+0dGxtGdzSYbmHGtelfj1DHHu0lEO41cVStpj9y9SiP05de3ktYHs5lCT0EOsJdf+GFltbiLV2GWXirH9fWI5V5KT8VtqwlYXYsuVVZocavpEtwDsR9GMjwR/HRL5+m+SF0QX85e5Lhy4tXjp+9s7nkGXvxl2zko2sUC3bFWEB7O7he7dRq9NqyGfNW2PNpDnZnBg5uTcZSc4dP988f+f8+KVkboqPdLiIyxVhmgEoifkBGTM/8opSc0WtNkajVahdXQFuEZbil11oQ9kAyW4t7Cbv0NjQWDPmp6JvuP+G+6+/f/vpHad3HOZEj494IEcz+AsVqfsotFCJZRNdn4jSsjoBRaQ8Riorvy2XarR2FamGuHgspgo5RRd7xE1YmiHj3eckK1/xv9LTS33GvIqRdIJ2iGLrlA9SaLhb+kqyg6M0gQwIegXhcHievDeu747jF7mN7VJ8byBpJ218dUDythPIk/J008hJcmnG8O/Ycax/NqYFtMdLRdO+drXEtBCtsHMaMV14
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

@@ -1,0 +1,26 @@
+{
+  "id": "5ebd8ea1-d876-40e4-9e59-cc3a9f1f9065",
+  "type": "insight",
+  "timestamp": "2015-06-17T18:44:28.000Z",
+  "title": "<div>Self print handmade pamphlets</div>",
+  "content": "<div>Self print handmade pamphlets</div>\n<div>Limited edition, number them </div>\n<div>Sell/give away</div>\n<div>Handwritten</div>",
+  "context": "From document: Self print handmade pamphlets",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "7a15120476f6bf874b24d91937ee0e59",
+  "relatedUnits": [],
+  "keywords": [
+    "self",
+    "print",
+    "handmade",
+    "pamphlets",
+    "limited"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

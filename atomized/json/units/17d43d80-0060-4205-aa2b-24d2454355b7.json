@@ -1,0 +1,26 @@
+{
+  "id": "17d43d80-0060-4205-aa2b-24d2454355b7",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:15:38.000Z",
+  "title": "<div>│   └── Body language presets</div>",
+  "content": "<div>│   └── Body language presets</div>\n<div>└── Behavioral Consistency</div>\n<div>    ├── Gesture inheritance from Phase 1</div>\n<div>    ├── Emotional response patterns</div>\n<div>    └── Communication style markers</div>\n<div>```</div>\n<div><br></div>\n<div>#### Layer 3: Interaction Framework</div>\n<div><br></div>\n<div>**Purpose**: Communication tools and feedback mechanisms</div>\n<div><br></div>\n<div>**Core UI Modules**:</div>\n<div><br></div>\n<div>```</div>\n<div>1. Conversation Interface</div>\n<div>   - Message composition area</div>\n<div>   - Response options (guided/free-form toggle)</div>\n<div>   - Emotion indicators (avatar state)</div>\n<div>   - Typing indicators with personality</div>\n<div><br></div>\n<div>2. RTM Dashboard (Collapsible Overlay)</div>\n<div>   - Real-time metrics visualization</div>\n<div>   - Skill progression indicators</div>\n<div>   - Session history graph</div>\n<div>   - Achievement notifications</div>\n<div><br></div>\n<div>3. Consent Negotiation UI</div>\n<div>   - Progressive disclosure dialogs</div>\n<div>   - Boundary setting interface</div>\n<div>   - Confirmation mechanisms</div>\n<div>   - Rollback/pause controls</div>\n<div><br></div>\n<div>4. Perspective Mode Toggle</div>",
+  "context": "From document: AI Review & Expansion Prompt: — chunk 13 (chunk 13/25)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "f193a3a0a188e43c3f5b1686778be1f5",
+  "relatedUnits": [],
+  "keywords": [
+    "indicators",
+    "response",
+    "communication",
+    "mechanisms",
+    "interface"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

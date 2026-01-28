@@ -1,0 +1,26 @@
+{
+  "id": "093f785a-837e-4304-b1e3-67dd8591ce0e",
+  "type": "insight",
+  "timestamp": "2021-05-14T11:55:12.000Z",
+  "title": "<div>Chicken Cutlets</div>",
+  "content": "<div>Chicken Cutlets</div>\n<div><br></div>\n<div>Flavored breadcrumb</div>\n<div>Locatelli cheese</div>",
+  "context": "From document: Chicken Cutlets",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "b316b643287410ab1bd4f389a0b0adf0",
+  "relatedUnits": [],
+  "keywords": [
+    "chicken",
+    "cutlets",
+    "flavored",
+    "breadcrumb",
+    "locatelli"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

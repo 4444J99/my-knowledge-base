@@ -1,0 +1,32 @@
+---
+id: a08c713b-c794-49f8-9d8d-de3c4f6e93e9
+type: insight
+created: '2024-03-07T02:33:33.000Z'
+document: 27162d3685a234131532342f177d17e4
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ygqhx0xiscs2hbc81hbw0vmydguglpvthcdasagdqkkdbqgz9f
+  - >-
+    rypzfzsy28jpxowzsr5icqkug5kp7xrn6uxjwnkdtqiqdgf0rmldpy9fbpvos6ujfky4nihkxgjftziy
+  - yfkdxyqfm
+  - lwy0sk22ljb0q1pppioeqoolv3wticjj9qxn5fr3dbjubo3x3pnoh7zgfhuzhdvv5api45g
+  - >-
+    vrx054qzrsb1ixafvyo24cjhpt2fcbwcnbgy9aphgduy2jtvusbhs3irkda9qzmznz0gkbg0edgfpvcsv5xku27fcij1dt
+---
+# Ygqhx0xiscS2hbC81hbw0vmyDgUglPVThcdaSaGdQkkDBQGz9f/rYpzfZsY28jpXOWzsR5icqKuG5kP7
+
+## Context
+From document: CC INFO BILLING: — chunk 191 (chunk 191/909)
+
+## Content
+Ygqhx0xiscS2hbC81hbw0vmyDgUglPVThcdaSaGdQkkDBQGz9f/rYpzfZsY28jpXOWzsR5icqKuG5kP7xRn6UxJWNKdtqiQDGf0rMLDPy9fbpVOS6uJFKY4NIHkxgjFTzIY/yFkDxyqfm/lWY0SK22Ljb0q1PPPIoEQOOlV3WTIcjJ9qXN5FR3DBjUBO3X3pNoH7zgfhUZhdvv5apI45G+VRx054qzRSB1IXAFVyo24CjHpT2fCbwcnbgY9aphgDUy2JTvuSBhs3IRkDA9qZMzNz0GKbG0eDgfpVcsV5XkU27FciJ1dt/QEfSmZyojOakDZXKiqzuQfSs5XKLCh9wGMVIo/v9qgjcgqy/MN2fwqOUuhMfP1qLEc6HI7Mck8fyqOYjzDsAwOMdqjOAp/XFRhjuz6iugsCVUM3Ix/dqclTyABVd4z91/lofAP739O35UCitBzSDG5jyvSkTaYsgZ/wqrIMcochumaRXaHr97HQdOKBlouyL+7H4dqiZgibccfr9PpUeHcbfm/AGpVXKAGsZSAYZGZgCeF6U9kYqcVJGik5Zfu9KrvMQT1Ao5QIWVsYFSxhWHku2Pp1xTWbHFGwBvM/iFaR2AdFlIgAccbR9KRWZWJYZ/wAKFYbcentTVQ5yTgVPOXGIwMygc/kBUivkdAPoKaUCIWPAXg0Dexwo+70omjSyJQqI2xQMCofMdmIfgf7PFKpzuKg4BxntT3XjHQ+lFvdE4h+8MeVOKhQq68nGakdN4CDjI7Ux1QAKo6VPMx2Q/YiKF+lOUoeD96msGaP92P0xTcBZfLfjA60rjHnBATGO/wCP+cUiSBDtPI9O1P8AmZenQdarqGTcdv0oTsBYRcsdxwO1IZlGQvOO9RxsMbeUxxip0UuuG+Y/SkA63EWwHJ2+hoYBDgEsB3puTlRtwP5fWpOGAfGR7UFKJNbgPIsf3gfXimbiXIbpTGUmTI5wPpUzj5ctx60FOBJK7KoYcY6fWv2v/ZM8Ry614E0p5D+88gKfX5Tj+lfiSXKttbla/SH9j74hWekaG9lq8wVYHKo3GAu4mokzOdI/Vl+OvX0qEgo3mNjIPyivN4fij4Wmhx9rQk+h5qlqXxR8HWVg92LpW8oZzn0qoROayPG/2ofiKnhTQDpVs+ya5B8wrxxX4xa3qUmpX0t1J0chfpj0r379ob4p3XjrxLcywMT
+
+
+
+---
+*Source: Document 27162d3685a234131532342f177d17e4*

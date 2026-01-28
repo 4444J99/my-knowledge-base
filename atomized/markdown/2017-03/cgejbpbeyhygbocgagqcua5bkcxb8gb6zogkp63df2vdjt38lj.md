@@ -1,0 +1,32 @@
+---
+id: a6ace6fa-4a1b-4792-863c-67a546ae073c
+type: insight
+created: '2017-03-03T03:57:06.000Z'
+document: 0f5a61a6fb83412f6aa40e5b9176bdd3
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - cgejbp
+  - beyhygbocgagqcua5bkcxb8gb6zogkp63df
+  - 2vdj
+  - >-
+    t38ljxamfbj9vi44qasjbrqwio42tx5opwk6azjjtsz5qrobxqttljbx7vaxydvnptjswgvvhrdsiamvzadflpybigtbgccvsydftgo7glysfhumxc3vynueuhaxrgo9k4b0clwg5jdxmackepmgf62nsrydnggmvgodxgb2
+  - >-
+    6svb4d3esdpuaz7wsuabh4i5tdff32om3nffvdeid2xnroopz3zzdo55tmupaqauqwtbtbuwotpiiuugfx300uauzt4mgooie
+---
+# CgEjbP/beyhyGbocgAGQCua5BkCXB8Gb6zoGkP63DF/2vdj/T38LjXaMfbJ9VI44QaSjBrqWiO42TX5o
+
+## Context
+From document: New Note — chunk 622 (chunk 622/1653)
+
+## Content
+CgEjbP/beyhyGbocgAGQCua5BkCXB8Gb6zoGkP63DF/2vdj/T38LjXaMfbJ9VI44QaSjBrqWiO42TX5opWk6aZjjtSZ5qROBXQTTLJBX7VAXYdVNPtJsWGVVhrDSiaMvZaDflpYBIGTbgcCvSYDfTgo7gLYsfhumXC3vYNUEUHAXRgo9k4B0clWg5jdxmACKEPMGf62NSrydNGgMVGODxgB2/6sVB4d3ESdpUaz7WsUABH4I5tdff32Om3nFFVdEid2xNrOoPz3zzDO55tmUpaqAuQwtBtBUwOTPiiuuGFX300uAuZT4mGOOie/CO3GhH0wDB8dAtzCAOh2Ms8svv7y2lnJXBmq8mAfqR+DQwp0cJ554YsYhOAV+t7Jjnab1axiNDx3meEe+XUU5sPUrzv29ioEBJBntXo1LMlkP0daD0PH6178+SjtyUOJhz4CkJ3tU9oO41q84XMDuGRV38803R3OBqYkILjjbc88942XB9AuisAWVV5wNW3+99PHiSBuvvNJw7fuqTnfHxwAMZoj8zCkO4exHIZjpgchPHIIqrMWYpUPq355vfvOb32Tc27PMMsuM35inOgYSDPAtX3/99TOYjhJ2gNGEFsAHP/jB+JtOinhwkhjgd8le2jIAEKaBwdtvDABM5zKnLEERbVrus3n88cdzmOMeLeZeUaAeA4C1thtM/6LgwPsxtTDAnhaTZHaOYwK7Ffv/7AMB9ijsC+0eUdgVjVb7GLk2P7RSwqL/4icfeyX2TBZgALBXJ6/23EpX3YRVh9Js2PabMqQB1Al+iMPPY88FqqsobmkZACDcIhZEayBweQAGSgMipNt0DZzykwd/HGyo84H4PxLMAFXI9EaOn+rDmNNMHPtKcxSvxKMFgAmg4HIHAHmCN0Ksv+Kt9ZMgeReEKwxC7+PEqWZxpwMYWGONNeLlnMcdd1ytdiTssY275pprjrqEl0wctDhUCZh/1vSJ4tvtQjDYZptt4qV4p512Wnb++efnzKswnyACwJ295pprsu233z4yMlzFv90j4fWNhQEkwyBySUOGAyJmgHbdddcxNWrGqqvo8RBaMMHFhZWsCSmwfhxwwAHxsjJ9X9I8/RhG8tSamWDdmuhS0n7Eg7/T1MMANlDZC1jCDVKMSMtChEf6GoI/hAM9hFkf2KOO94BN8tkHbRu0/1LiPnVDWGE/gAaAyk7k
+
+
+
+---
+*Source: Document 0f5a61a6fb83412f6aa40e5b9176bdd3*

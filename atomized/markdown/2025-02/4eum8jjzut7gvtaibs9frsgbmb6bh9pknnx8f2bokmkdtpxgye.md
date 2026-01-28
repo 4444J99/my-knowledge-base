@@ -1,0 +1,31 @@
+---
+id: d4e70482-e1e1-4669-ad25-c25be602fee5
+type: insight
+created: '2025-02-14T06:30:51.000Z'
+document: aa5afafaa5b4a9e35e1fe8ae7ee501fe
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 4eum8jjzut7gvtaibs9frsgbmb6bh9pknnx8f2bokmkdtpxgye8o9mafevfljtxwqkdtb
+  - cbjaz5vtnoljpcmqxihk
+  - ii67r4dpqbqzpx6760bewnmtib
+  - zrov8hmnndk7nyehp05dtqhnwiy7s3kypmoxn61nsj8nvxx80xf2loa
+  - >-
+    8815htbyzykanfalaptnkbz7enudp3wvvm8av60keyci03zmhcr34pmzlqfknn8gpfzj9sgkcvalavg8qb8ooxezdutz45va6ap3s2k17q4xfsasfz8gu7cywwwzz48gu8vtjnxzdggz30w1tnhh
+---
+# 4EUm8jjzUT7GvtaIBS9FrSGbMb6Bh9pknnX8F2bokMkDtPXGYE8O9mAfevFLjTxwQkdTB/CBJaz5vTno
+
+## Context
+From document: ETCETER4 — chunk 719 (chunk 719/2399)
+
+## Content
+4EUm8jjzUT7GvtaIBS9FrSGbMb6Bh9pknnX8F2bokMkDtPXGYE8O9mAfevFLjTxwQkdTB/CBJaz5vTnoljPCmqxihK/Ii67R4dPqBQzpx6760bEWNmTiB/zROv8hMnndk7nYEHP05dtqhNwIY7S3kYPMoxN61nsJ8NVXX80xf2LOA/LPP/8815HTByZykaNfALAPTNKbz7ENudp3wVvM8AV60KeYcI03zMhCR34PMzlQfKnN8gpfZJ9sgKcvaLAvG8qB8ooXEzDUTz45VA6Ap3s2K17Q4xfsASfz8GU7cYWWwzz48gU8vTjnXzDGGz30w1TNhh+s4cpn4I8HfjDk4/uoO+UVsQCHbI0/PGHFrvqd4aWu8W32UffI4INE8rEVvmyOBpurK+gYd/BPWNPbB07muGYrGBjHw2G++EBTPxnc8xvNNZvlS+aUp61xuKcbux4betmADP4vFfj6gBktjc5otN45LFzXb65+dnbuWr+mv7aOudZa15z1vM5Z+9drczrQip645QOrnOs612wFI808vgRjcSSm0OA36jhM14YnjORRY+zpRRT/VFPgKF6yBdr6+BRcV1zijyYf55f83xxyyI9eVvETMYcXv+ZjDnKoVV42+lX0PnzcHPHLzuIku646HGXAHw78Ci/683n08dHMsU4N9ULUB88OMSUX0De6zuEf7ZW/a7T5vPylPstbrbfmUtMPR/Mc8pMv1mjyAN1rnifZFA50iHbj8JafyGkM7fge71vTubl04GtykpiXr+DhutplTfNb33nlF358RI5hu0stPZzZybMGe9OX//CP5rQeH7jJtXKIWhDvxvTnp/izMV8UJ3KOw/O6eo4P3PCHAR9HB9bxpgfcxREaDrKZZ61r/MyPhmt95oRHOhzP5llnjcMaeVbD+9iMp6O19Hn00UfnutVvrIOVPQaZzaWDfQA96Uw2vJw1++xvvvlm5nXPfeqRDzn4gmcH8WmufWsfDJERLX4Sfu7FhL08G4h9sqkzYZ4vWw9HctCfbtbL6+qqtV7w28PJR/YnaIpx+nius47f7CNv8Dd+aw8gD8JHHeUzYgsN+1Q8k12Owo/84hhmaqF5aqW4VtPss2FBFnKJ23Tlu2I/v8UbdvT0fI6XfQVe/Mtc9MgMW3aBLbnIyl7yMXnp6Z4da2iIffaSO+GhFothdsRX3mAn2KNBNrrIF/kA
+
+
+
+---
+*Source: Document aa5afafaa5b4a9e35e1fe8ae7ee501fe*

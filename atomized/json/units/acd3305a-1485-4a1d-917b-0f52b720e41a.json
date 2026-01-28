@@ -1,0 +1,26 @@
+{
+  "id": "acd3305a-1485-4a1d-917b-0f52b720e41a",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:20:25.000Z",
+  "title": "<div>The Exploration Graph (Minimap): A small, persistent minimap in the corner ",
+  "content": "<div>The Exploration Graph (Minimap): A small, persistent minimap in the corner would visualize your entire session as a node-based graph. Each node is a topic, and each edge is a click. Different colors could represent different Prisms. This allows you to see the entire shape of your journey, zoom out, and instantly jump back to any previous point in your exploration across any instance.</div>\n<div>A User Scenario in &quotThe Polycosm&quot</div>\n<div>A user starts with the word &quotDream&quot in the default Oracle Prism. It provides a psychological and neurological definition. The ASCII art is a simple, abstract representation of brainwaves.</div>\n<div>Intrigued, they click the &quotBranch&quot button next to the Prism selector, creating a new column. They set this new instance to the Poet Prism. The definition of &quotDream&quot becomes a short prose poem about &quotthe soul's nightly theater.&quot The ASCII art morphs into something more whimsical and surreal.</div>\n<div>In the Poet's definition, they click the word &quotsoul.&quot It continues in the second column, now defining &quotsoul&quot in poetic terms.</div>\n<div>They jump back to the Oracle column and click on &quotneurological.&quot This continues the exploration in the first column, drilling down into the science.</div>",
+  "context": "From document: --- --- --- — chunk 15 (chunk 15/16)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "35fed1b2e2d94a09b13c5614aa5aa659",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "click",
+    "they",
+    "column",
+    "exploration"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

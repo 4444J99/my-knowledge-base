@@ -1,0 +1,26 @@
+{
+  "id": "54292eb9-a4c2-4225-a01b-25abce5f0cfe",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>────────────────────────</div>\n<div>10. Compact Next-Run Task Prompt</div>\n<div><br></div>\n<div>Below is the compact “next-run” skeleton prompt that a future AI can use for a narrower job, for example to design the Procedural Generation for Evolving Worlds engine in detail, while honoring this master specification as context.</div>\n<div><br></div>\n<div>You can paste this directly into a new run, filling in variables as needed.</div>\n<div><br></div>\n<div>[BEGIN NEXT-RUN PROMPT]</div>\n<div><br></div>\n<div>[1] OBJECTIVE</div>\n<div>Design the Procedural Generation for Evolving Worlds engine in detail, expanding the WORKFLOW-PROCGEN layer of my creative-operating-system so that it can systematically seed, expand, simulate, and archive evolving worlds across conceptual, narrative, and operational dimensions.</div>\n<div><br></div>\n<div>[2] BACKGROUND</div>\n<div>Treat the existing OS specification stored under $OS_ROOT/specs (especially SYSTEM-<i>, WORKFLOW-PROCGEN-</i>, WORLD-MYTH-*) as canonical context. The goal is to transform the high-level procedures (“seed world; expand entities; simulate interactions; archive deltas; emit prompts for next iterations”) into a concrete, stepwise engine specification that future AIs and scripts can follow. Outputs will be stored in $ARCHIVE_ROOT/specs and $REPO_ROOT/$ORG_ID/os-foundation following the LAYER-DOMAIN-TYPE-ID-VERSION naming grammar.</div>",
+  "context": "From document: 0.\tPreamble and Scope — chunk 28 (chunk 28/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "b3360b527d494aeb150b316c90472eb0",
+  "relatedUnits": [],
+  "keywords": [
+    "next",
+    "prompt",
+    "that",
+    "evolving",
+    "worlds"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

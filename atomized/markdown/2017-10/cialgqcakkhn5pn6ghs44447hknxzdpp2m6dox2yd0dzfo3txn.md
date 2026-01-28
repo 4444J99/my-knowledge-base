@@ -1,0 +1,31 @@
+---
+id: 4fd13edb-9316-466f-805f-8f2836c82c3d
+type: insight
+created: '2017-10-19T23:15:11.000Z'
+document: 18dc3a996dd053a8e2f8b89fa16c3840
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - cialgqcakkhn5pn6ghs44447hknxzdpp2m6dox2yd0dzfo3txn
+  - 9dssqkjiian98bhwefar8bhwehkyaub8gls8opishy
+  - lsmt17tgnpawobsfb4u1
+  - hzzd09r2tptyie4qd748lob4habolp7y4gplda91s8ye41whw8esnoybjlj6t
+  - >-
+    bltuxzaqoln8xsrimb0ppp7berl0dp6tbua9ahlf2i03ln6bp10up7cqsoalnqz4pgqebkjqnah0wscj6votwkrfydfiqxuetgwpe62lz2h9xk9xqbnx9vzceo7psgxpew3salu
+---
+# CiALGQCAKKHn5Pn6gHS44447HKnxzDPP2M6dOx2YD0Dzfo3tXn/9dSsqKjIIAN98BHwEfAR8BHwEhkYA
+
+## Context
+From document: L-day IN A CHAR — chunk 349 (chunk 349/966)
+
+## Content
+CiALGQCAKKHn5Pn6gHS44447HKnxzDPP2M6dOx2YD0Dzfo3tXn/9dSsqKjIIAN98BHwEfAR8BHwEhkYAUB8gls8oPishy/lsmT17tgNpAWoBSFB4U1+HzzD09r2tPTYie4QD748LoB4hABolP7Y4gPldA91S8ye41wHw8esnOyBJlj6t/bLTUxZAqOLn8xSrIMB0PPP7BErL0dp6TbUA9Ahlf2I03ln6BP10uP7CQsOAlNQZ4PgQEbkJQnaH0wScJ6VOtwKRFydFIqxuetGWpE62LZ2H9Xk9XQBnx9vZCEO7pSgxpEW3SALU/xMEzlP8F+shfq/MXGAPN/zB5igm+wW6z0gUIi2A3jp3SE2gMSpmuSIIRkpt3yxiIF9EQN+p9TZZf78hO6JBxWL7iYesNPtWa+4+atXat1l2RKcUnxbFNz1pgvWJuIjGS7EqMiIh6xqb077ZDqTPsf0DfZbeU2tz0mcJgVwiZFtoszIErE9IZ4+IAM3L2f0obu431j+du4Tizjj99xCkeOikz/GYtcE9R5HuN/hBfMD9F4QA92P85h6MbEruaTjn2DMCqOWNV0FprUPU0Uc0tJelsEa9jHULinAARBq/+MG6BhX1nPxA2Q1QnixUcdvRmOxMIvafr9BZESA5IjmwpKkVME52AGA7PuQolSkCjC/577cLsBaADOh+h1TXqJcBoFE840UOuAm4CjgPOI5iGX91wFoAVUBxVNz4wGNpQ7FWgHbU+g2y/2FO2KXMELj9riZcEaIBxf4UqdRpWPAAGANoQw7gYw/QDpFAg+jAVx2rF4rTJmiOqLlpKKpHymKFBrDLWCEH8NcHpAaABUQ/pjGjIqdxLLaDZAEEBvQHaEa5T/8U66Uv1PgQB2QYkLnQ0IGfvOKk5wDxmXdyQgDec87C2gWA/gDLjQKuiRMxY0zhnCdoLsCrjIH5cg7IrGhWhgaWTCjaacQegJlzTJYGZNChxiBjA796VO4tAqSJG8dDeQ95AVAOeYDaHSKgdyAgSQL7nqBwLnY92A5xXiEH8Lhnzt9bHudU/1cU0X/ExQ3C4ICOWyICCKU8a3WK1idjxmZnXr6uWdqX9RrWd4B84rySTUKsICmor7BggtnDIrA4b5AY5Xpbtkm5j90PNSo4DxAvkBJYJGGzQ4ywswLgZw1wPiluDGnCuaNw7jOywwKwX1Koees8sWaW
+
+
+
+---
+*Source: Document 18dc3a996dd053a8e2f8b89fa16c3840*

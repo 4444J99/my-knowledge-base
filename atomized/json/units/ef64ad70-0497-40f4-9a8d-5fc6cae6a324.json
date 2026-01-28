@@ -1,0 +1,26 @@
+{
+  "id": "ef64ad70-0497-40f4-9a8d-5fc6cae6a324",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><h1>📌 Version 6.9 – Expanded Professor Roles &amp Abilities, Faustian Bargains, and Adding Chaos to the Observer Role</h1></div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🚀</font> This iteration deepens the professor’s weekly role by expanding available actions, introduces a structured Faustian Bargain mechanic, and ensures the Observer role subtly influences the game.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 1. Expanded Professor Roles – More Abilities Per Archetype</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Each professor role now has three distinct abilities per week, allowing for more dynamic class engagement.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Every week, the professor selects (or is assigned) one of five roles.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Each role has one primary ability, one secondary ability, and one passive effect.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Some abilities directly impact students, while others affect gameplay mechanics.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📖</font> Professor Roles &amp Their Abilities</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 365 (chunk 365/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "professor",
+    "abilities",
+    "role"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

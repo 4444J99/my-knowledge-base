@@ -1,0 +1,26 @@
+{
+  "id": "7141cb43-8430-4d92-b4c5-c53389ed2d80",
+  "type": "insight",
+  "timestamp": "2022-07-20T21:10:16.000Z",
+  "title": "<div>Couples Therapy - place the broken couples in therapy sessions <br></div>",
+  "content": "<div>Couples Therapy - place the broken couples in therapy sessions <br></div>\n<div><br></div>\n<div>The Lion in Winter<br></div>\n<div><br></div>\n<div>The family unit is at odds with each other because the children want their parents to die and succeed them. </div>",
+  "context": "From document: Couples Therapy - place the broken couples in therapy sessions",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "6638d67a5e7a792465783fe368c5984a",
+  "relatedUnits": [],
+  "keywords": [
+    "couples",
+    "therapy",
+    "place",
+    "broken",
+    "sessions"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

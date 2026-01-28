@@ -1,0 +1,33 @@
+---
+id: a281d10e-6de8-44eb-810e-7f612e8fb56a
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    ewaimjzabywlgerrwmgf13bspivo7csiipwb6pm4jw5qtwf5odspgn0ay2mjazcggipwwgobbylw3kghumnjku64
+  - eaeotusaqcorx5xq
+  - >-
+    814gghjc0u4bknr44bqjywwoi4mgrgmzzmadtxzhkruukmppekexcjlurzpawxcbjni3uwuqqal9lllxacym
+  - >-
+    t3tpxslffsojbqq2akfqjafayncvhkrra6mk0tjbccrxmy4wgsr9mbmw8afbmzilyvm0qndhr7rpurtnomnhgr2mclals
+  - xo1cfom3gi2whmsglbgwiynsx
+---
+# EwAImjZAByWLgERrWmGF13BSpIvO7CSIipwB6PM4jW5QTWf5oDsPgN0aY2MjAzCgGIPwwgOBbYLW3kgH
+
+## Context
+From document: Strike one — chunk 1025 (chunk 1025/4795)
+
+## Content
+EwAImjZAByWLgERrWmGF13BSpIvO7CSIipwB6PM4jW5QTWf5oDsPgN0aY2MjAzCgGIPwwgOBbYLW3kgHuMnjKu64/eAEoTUsAQCORx5xQ+814GghjC0u4BknR44BQJYwWoI4mGRgmZZmADTxZHKRuukMppEKEXCjLURZpaWXCbJnI3uWUQqAl9lllxaCYm/t3tpxslFfsoJbQq2akFQJAFaYnCVhkRra6Mk0tjBCCRxmY4wgSr9MbMw8afBMZILYvM0QnDhr7RpurtnomnHGr2mclAlS//xo1Cfom3Gi2WhmsgLbGWiyNsX/CWs1D1ATTwSJzR0kVRMBHEokBPDMDToFABXgJFQSWgQIyhA3PVAMACGAAROQoAhVAYAJaYPA28QDtprEjSwQuBUAKEYHP5ABEmvQW0MggR/BtaAhGDGCIzbhCKCQxQ+k80yyjicSJgHAWRux0MEI0gIAgOQ588ncRohiDqJs5Buza9072CUSZbRmK+GgV2f4BSS1eGBIG2HBEnAQmFYAoC6hoFCURDKJh4UiLyJRlWGqJ4bFNEYkKniBma5XE81872gdY000IBQNbjiSkTWZxvy+MUnTAQBC8JtfTbhBkPE9kiy0EIXNPCGiESFrBU6syQlu8IBW3kaBiVRMoWpS/4BYfoYOwbkC4gCQCIIYSBYxQwhBdrUeFILQDCAMQQhw0qq2yQ0nuxIJAwZCkPVwIQwGg4MbqAS4NcTQJATpTU1AQZByQHMVsEjigQTREBRWkyAYsBoSN7ILrrTCZgRxVrjeKJITEQQd6SiKSFQEABWRo4u2IYRIxugZKuDkeTUphCbysjeCHJErY6hJHAAgPT8eZiOGMVQHNoZIgphUlm0Ch2fAEY2Vtm6lnewkAFy6mpZJ4zPuSxk0mFUMYaArdi05xKXaVACjsuaW/wtaaUzzP1n+jqMAsFMcLBUfaQIAhd8JWwYTw0ysimeEbntmTc6DQrBB4FEg1EMi/ABHKv89Yg1+yxVevGXN1UgCJxGDxU1ERBA91IQJYwhDQ8JZEwTxQiTgeClB+klFrjClGFp8nW3+ma6GciV3AFDGIQBwiIcCIKpc6cSV6CilDAGgtFThQhrUskfpEeSjjJGeLyNTW4LIIaW5ZSlOVjoNbiwWAMAlC0658jLhfqO3wfUtQTYpMwnpVmkbiS5B+sQ1WXZLI0K7CJbiMKac
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

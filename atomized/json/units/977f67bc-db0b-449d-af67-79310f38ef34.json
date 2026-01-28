@@ -1,0 +1,26 @@
+{
+  "id": "977f67bc-db0b-449d-af67-79310f38ef34",
+  "type": "insight",
+  "timestamp": "2025-12-21T15:20:54.000Z",
+  "title": "<div>@gemini-code-review , review : ingest, digest &amp suggest ;</div>",
+  "content": "<div>@gemini-code-review , review : ingest, digest &amp suggest ;</div>\n<div><br></div>\n<div>@codex , review : ingest, digest &amp suggest ;</div>\n<div><br></div>\n<div>@claude , review : ingest, digest &amp suggest ;</div>",
+  "context": "From document: @gemini-code-review , review : ingest, digest & suggest ;",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "c72792d83b6a3c806f4e845d78731339",
+  "relatedUnits": [],
+  "keywords": [
+    "review",
+    "ingest",
+    "digest",
+    "suggest",
+    "gemini"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: 685ef3b6-43c4-4e7b-8e1b-6bf04e219b7c
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - f5c9xodakcxz
+  - >-
+    nob3qvxnumnezuhejrdilzqpmydnwufo8tantaqfzccabs7u6vb17azlrusmgj6fo0c0iu0hihwvnkajwzq7q4udadruv7fxzblbnhcjonc9mhgv9oyqymjnjvretqxp6od8gpvc8epvf
+  - t7t7i5gkb69uffq
+  - >-
+    hzadob1p2azyvtvkejg8dbawwd8t6huanxvjqr12znauaribnfy0kt5rjzdtuknfy3n3iwiznvidb2fuz7zlwyafl8nkksvyfbjzlk04h6umfnbkc
+  - k5jmc2fxsvvzu5v538tjchm621esxsolkfoovynhy9xxqitqnegewl6muxnh5
+---
+# f5C9xOdAkCxz+NoB3QVxnuMNeZuHejRDilZQPMydnwUFo8tANTAQFzCcabs7u6vB17aZlRusMgJ6fO0C
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 10849 (chunk 10849/18928)
+
+## Content
+f5C9xOdAkCxz+NoB3QVxnuMNeZuHejRDilZQPMydnwUFo8tANTAQFzCcabs7u6vB17aZlRusMgJ6fO0C0IU0HIhWvNKaJwzq7Q4udAdruv7fXZblbnHCJoNC9MhGV9OYQYmJNjvreTqxp6oD8gPvc8ePvf/t7T7I5Gkb69UffQ+HZAdoB1P2AzYvTVkeJg8DbAwwD8T6HuAnXvjQr12znAUARibnfy0Kt5rjZdtUKNFY3n3IwIZnvIdB2fUZ7zlWyAfl8NkkSVYFbjzLk04h6UmfnBkC/K5jMc2FXSVvZU5v538tJCHM621esXsolKfOovynHy9XXQitQNegEWL6mUxNh5/xdjcloxhuNbcsc5JmG1N+m3Vv78fVuz4PfdA9ciZCQtxtQzvcy+DjwRTEuHbxtQtAfoaQ9vt5oGO64p3E7nanW/ild9PAXWbIu6smwplv/bn/vX73I6cf/YA/vqQHW1p/xBKmXmFIRr1CAMvzEY8545WNLpqsBrmHOW8k6tfqwHZmLING8KYb9urycPvr/+TF3LMHj2wRdESZp/rzUrS+PzyPdL78hRfnEjpIy6UjQlO15vynGlOHHA1mp1NmORH6300ew3nJJU//jV/9r63emUJO2+V10Pk07oEhJNC+qSknRPLmrdwS34Hyv4MvwydnszV/A0UYbjVvkpZz4P2nr79UKoWZk1SJK+ytV702b6prwgNyDmOyqsBMqvKgJATKtMGktcur++Yjh444Wx/1iPvnLJ6VkZCIeblaDrwHr3QfcO875HAXzNCST5QKAMwTYXN6/dBr9nM/1NWbB4aD92ee8KMP1f03Z+qHPHvgyC+55Blsy/5HW9bhn8Ve009/eF0etz7PF/t4hmUuGmOJPmPsYQ7IHjguf//Db+f84DnPpqUOmUBytsV70EIiJ3FbY1YoSSZytvdLX/zs7EJYZB4o62z3jWI+8JZkEJbveNeBt8l0FFNqoZfpAXBMyxfvb3Poi/dsIAMJmeybmqiV61h8u7DpAmhOayUymMiQiBcGyb/xXhMJm2HnnwypBokFE82QdmvaFxlrWseIe3fRtK+aCP1rjHKDVUZAj7tdALqQBq1KXGjNEwZNdiXERHewXtC2ZgQ9aAKWZRDkObUW7m4+ESyh+Jj20YpRkAcB/ar1gDIm3QfCdLVqgiqtyWtqAevsLkZ3J4uYDpNjFaYQ
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

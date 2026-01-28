@@ -1,0 +1,30 @@
+---
+id: 3600f26c-55a8-4efd-a054-0b0be5d9a84f
+type: insight
+created: '2025-12-11T14:35:23.000Z'
+document: 431ba6d90d9de4900c2aa3b5a4960acf
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - just
+  - from
+  - more
+  - florida
+  - having
+---
+# <div>we are at a crossroads, or a speed-bump, or....live performance is of cours
+
+## Context
+From document: we are at a crossroads, or a speed-bump, or....live performance is… — chunk 1 (chunk 1/3)
+
+## Content
+<div>we are at a crossroads, or a speed-bump, or....live performance is of course a major element and impetus for this project; just a few weeks ago, i was on the road (again) back to NYC from Florida, having just fled NYC 6 months prior having just fled Florida 8 months prior to that; coming off a year long meth binge, i essentially thought my life was over, i was running from the loss of my youthful dreams to be on the stage in multiple formats; after sobering up, convening with healty positive lifelong friends, i had the severe thought: if i wanted any one thing, any one thing at all--if on my deathbed, i'd say i'd regret one failure more than any other failing, it was that as a itty bitty laddy, as the rat-king himself, i hogged the microphone, smothering the other two players whose role i couldn't remember if I dared to want to--switching 20 year's thc intake to methamphetamine in hopes to be more American &amp more productive, i added another factor upon the overall unhealthy factors, lifelong obesity, antidepressant w. benzodiazepine twist decade, withdrawal from 10mg of xanax falling into seizures, cascading into blackout, waking up to a lung collapsed &amp flooding w my bl
+
+
+
+---
+*Source: Document 431ba6d90d9de4900c2aa3b5a4960acf*

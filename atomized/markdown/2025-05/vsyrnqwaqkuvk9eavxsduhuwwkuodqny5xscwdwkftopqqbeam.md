@@ -1,0 +1,32 @@
+---
+id: 53fb0089-e592-4ac9-9c35-f2c17b71524a
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    vsyrnqwaqkuvk9eavxsduhuwwkuodqny5xscwdwkftopqqbeamscqxqoasbqkrblgm2tbqmauagoqxr7b8bqfuc9eynvftk2xeyqeygfykmzjw2sy0b9maximo91nye6ihoooct7o
+  - >-
+    iwjbcffzuwahkloepjq18eqgqrn8widyd44iraylqxllxao9rylsaq9jshu705lvpb1q531a6oqspqaovceugllforpkviqxq6txlog7ymb9raq6
+  - ac2u0y820tvzagnwn9zwbq8clbquawfx5z4fvn
+  - zvnjfl6tkzt
+  - erp64kgdzboqkx7mtspsuvoq5a4kqgrtscuat1kou2mlgvpumkb8fycpzewpomfbxpqggyy
+---
+# VSyrnqWAqkuvk9eAVXsdUHUWWKUODQNY5XscWDWKfToPqqbEAMsCqxqoasBqKrBlGm2TbQMAuAGOQxr7
+
+## Context
+From document: New Note — chunk 20678 (chunk 20678/21099)
+
+## Content
+VSyrnqWAqkuvk9eAVXsdUHUWWKUODQNY5XscWDWKfToPqqbEAMsCqxqoasBqKrBlGm2TbQMAuAGOQxr7b8BqFuc9EyNvFtK2XEyqeYGFykmZjw2SY0B9mAXImo91NYe6IhOoOct7o/IwjBcFFzuwahkLOEpJQ18EqGqRn8wiDyD44iRAylQXllXao9RYlSaQ9jshU705lVpb1Q531a6OQspqaoVCEUGlLfOrPKVIqxq6tXlog7YMb9RAQ6+ac2u0Y820TvzAgNWn9ZwBq8CLBquaWfX5Z4FVn+ZvnjfL6tkzT+ux4/erp64KgDZBOQkx7MtSpSUvoq5a4kQGRtScUAT1kou2MlGVpUmkb8fyCPzeWpOmFbXpqgGYy/EvBU4GXKb8+mlLAlaeWNQRJNK984Bgw5QPmJvL9+UGqBPzPBrsrNSRAxv17FP36pUXAChfOKVXzj6sRx84pJ2bBtVZn6/KzAQV+l3KTcDgjoG2ITcZaDddrcVB1WT6CLd6G/K0Y0Ov7jk6DZy4W7fvn6IeLHOA1eRkzg3W5PyiMFXXs0iiM0WdLJRo68xTVV0AKDBGOUWxQIFptEUN2rZzUPsOTmj/oSnt2TehrduHtXaiU11d2D8rSwD/spWZElTQl6zqoipNjk7q6KFjuv/4Azp6+E6ND09iWS1RMDkL+zz227oObZjYoruP3qunHj+rl557Va+++DrbV/TMmed06uHTOnrHcW2Y3Ko1oxu1dcseoNHjWGfPABi/rNdfe5NMXO/o7Xfe1luMH7/62it64qlHdOyuA1o12KPqmkoVlxZpRfsK7di1C2D1cb346ut645339Mo7P9RTz7+iu44/qC0zOzXRM6C+6kYNNrRpZnBMR7bv1sl77tMrz76oD4FWf/zRxwCPfO6FV/UeFtiP+fvdN0nPfu8JLOKj7HsBFupUZQeSaQdSWYhRqPHBdkDVzXqQRQ13HZzWpvGVamLBRwbn2x8/X2kJi53HuWnLaQvjHJt3fXmCKos9AK8Jaq4JqauF/l8bC0TaqgFSiZYqdWG0bS7JV31+jqqyMoG+U7imfNQvwLLBkGoLSnRo1z69/crb+uzc5w6s+tVn3+irL77W119+zfYrnfv4nMxg+8Kzr+onH/1MP/3xZ9hDeQ1Y8hx/P3HqWY31b1FBWr2KQnXYXId054HjWFbfcwDV777+ju13+u7r
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

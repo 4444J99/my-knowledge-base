@@ -1,0 +1,32 @@
+---
+id: 6d83ce7e-1975-4164-91b4-1087e9dd3617
+type: insight
+created: '2018-11-17T18:19:07.000Z'
+document: e329ec4e43d47fccabf1e22882189db8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 35gqihrn
+  - >-
+    l6vpcaxhn2atkd3h4uaqsbrkqzaatng3pn3p0kzio0hbytjpnqteryr6d8otwkuplhk8hb69tj6uaxljxpmbidy5axjb9qcirbqqiupjizzz702gl9ykmshxnb6
+  - >-
+    lujd93vwapp8qh7gjda8m7a9z6e3prvgwculq0z58zgvyeftfv0nxhiouaajqt8ur2q7g0ghbykshpixky9qa3aqcfmvvdodjpy
+  - hqwhruohyfuad
+  - ttz32jhgbkkh2nptpvwqhladrzlkeypgce9uaguri8gbiyopc9xs
+---
+# 35GQiHrn+L6VPcAxhN2ATkD3H4UAQSbRKQZAATnG3pn3p0KZIO0HByTjPNQtEryr6D8OtWkuPLhK8Hb6
+
+## Context
+From document: Black Bean Salad — chunk 931 (chunk 931/2298)
+
+## Content
+35GQiHrn+L6VPcAxhN2ATkD3H4UAQSbRKQZAATnG3pn3p0KZIO0HByTjPNQtEryr6D8OtWkuPLhK8Hb69Tj6UAXljXPmbidy5AxjB9qciRBQqIUPJIzzz702GL9ykmShxnB6/lUjD93vwApP8qh7gJDA8m7A9z6e3PrVgWcUlq0z58zGVyefTFV0NxHIoUAAjqT8uR2q7G0ghBYKshPIXkY9qa3AqCFmVVdODjPY/hQWhRuOHYfUAD+tTz32JhGBkKh2nptPvWQHlADRZLkEYPGCe9UAgUrI8gBIyOPc9xS/K3qN2Sc8YNVUmmjypBdlAOenI96sRXBuY2WXCnt3JqWBfmuEjQOUO/sBk1AHDK4XK9yfc88VVO7eZN5GMDnpSvI7lQjbQByev44rNKwEjXIQYC4DDjnrS4YorMSDnnHfHrVU7VO6Zd5HBPtnmr8TIEBb7uSwyPyBrYC/C6xPK+xSzEYJPQY7VpW9yQQZhwRlQvTHvXNLNFJJtzg5HTt6Yq9bzbAWf5u2e3WmmB0kSfd8s4bkDP92pCqMqRIVIU8jrwe1Yq3Ds+wkkZ+Ujj5cUSy+So4AxjGDjOfWkZWNLdOWaNIwkee57ewqnqF4kFrvmG4bsAjkjHcio2udpBY89l9Kozlrg7skgAlgeMdqBlRZLqVRNOQqgnaD3B71aKKqqyHKhctxnDE4xT1C+aSWwpBJBPTsMVTnmaGN2RfMyRuxycHOOKtIBqxp56yn+HjK8dafe5gkjaAAtIOGz2z3qsty5jEQyOM4XngHvVMmRCysDuc4yTnimBqC6QjZI2T7GpIbmAH5M/N14xyaonPm74UU7R8xIz9KkiiwhkI78KD1I60AdAY5WwJMndyOfuntVtLfYu1/mPB47etZ8dwduQG4JPXg+gq9bzCX5iDuLc56getQBZbaVyrckn8MVOpYL8pyffr+FNEfz8qRjOPoaf5ThlYbSP15p3FYq2mRJLHIhBx8rHoD7mpogo3bjuIIBA561bEnlhmC5wQBnpTGGBkHyyeuAMn6UwaR//9TjWCbR5q5KnsMCrJdUh+Y/QY6VU3xkYf67v4as74kcKXB3LycfpXMi7Cqc/KFAyMipUYlAZDn+6B6/WqbMFGGz9R1xUjABcj7vXrxWyQWJll8wkAEsOSAf1qSJwqebtyPund1qqHUkoGYE8kqO3pVphLgbFIA
+
+
+
+---
+*Source: Document e329ec4e43d47fccabf1e22882189db8*

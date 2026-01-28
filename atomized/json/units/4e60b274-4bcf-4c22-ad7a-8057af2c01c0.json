@@ -1,0 +1,26 @@
+{
+  "id": "4e60b274-4bcf-4c22-ad7a-8057af2c01c0",
+  "type": "insight",
+  "timestamp": "2024-03-30T19:43:04.000Z",
+  "title": "<ul>",
+  "content": "<ul>\n<li> Tech in Real Estate: Emerging technologies in the industry.</li>\n<li> Virtual Reality Tours: Immersive property walkthroughs.</li>\n</ul>\n<div><br></div>\n<div><h2> Lifestyle &amp Investment</h2></div>\n<ul>\n<li> Lifestyle Benefits: The perks of different neighborhoods.</li>\n<li> Success Stories: Inspiring investment journeys.</li>\n<li> Discover Local: Showcasing local businesses and attractions.</li>\n</ul>\n<div><br></div>\n<div><h2> Regular Features</h2></div>\n<ul>\n<li> Market Update &amp Reminder: Timely updates and important dates.</li>\n<li> Terms &amp General Engagement: Educational content on real estate processes.</li>\n</ul>",
+  "context": "From document: Content for Real Estate — chunk 3 (chunk 3/3)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "0f7b4c55e713732d307173266e677a51",
+  "relatedUnits": [],
+  "keywords": [
+    "real",
+    "estate",
+    "lifestyle",
+    "investment",
+    "local"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

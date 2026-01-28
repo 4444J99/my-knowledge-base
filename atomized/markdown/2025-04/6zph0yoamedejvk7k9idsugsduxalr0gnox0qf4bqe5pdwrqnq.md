@@ -1,0 +1,32 @@
+---
+id: e331a3fc-33b4-4edb-b2da-7883f0663d1f
+type: insight
+created: '2025-04-08T10:17:01.000Z'
+document: 7704478edec58fe98c8158d649dbd34b
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 6zph0yoamedejvk7k9idsugsduxalr0gnox0qf4bqe5
+  - pdwrqnqrpqkp5sknmjciez3si5qvq85ujbrv8o
+  - >-
+    iyrvcoperhm9tnjebseuuksr1oc5fhamqpldn92zmweindjnndhg89bwcswgkfklldk8xfjotsgwpb50su7xay5ezett0gmttbjtgqueapnuqizb
+  - vqstutbvw6mvxk82zxmvqcinyfly3
+  - >-
+    0u7mdsnu4wz6x5ytbmbmfe8kcw6zk06mpd7cpsy1rwqaoiesnjmdbs0ww7zs2hzof88nrtsr0rvml2kn8xliok2onc9ajjsch6pua8ptnqg8dgrvbmgxnztfgngbswxpvytthw2oztlv
+---
+# 6zPH0YoAMEDEJVk7k9IDsugsduxaLR0gnOx0qF4BqE5/pdwRqNqRPqkp5SknmjCieZ3SI5qvQ85UJBrV
+
+## Context
+From document: New Note — chunk 2142 (chunk 2142/3044)
+
+## Content
+6zPH0YoAMEDEJVk7k9IDsugsduxaLR0gnOx0qF4BqE5/pdwRqNqRPqkp5SknmjCieZ3SI5qvQ85UJBrV8O+iyrVCopeRHm9TNJebSEUuKSr1oc5fhAmqPLdN92ZmwEiNDjNNDHg89bwcswgKFKlLdk8XfJOTsGwpB50su7xAy5eZETt0gmTTbJTGqUeApNuqiZb/VqStUtbVW6mVxK82zXMVqCINYflY3+0U7MdsNU4wZ6x5YtBMBMFe8KcW6zK06mpD7cPsy1RWqaOiesNJMDbs0wW7zs2hzoF88nRtSR0RVMl2kN8xlIok2oNC9ajJsCh6PUA8PtNqg8DgrVbmGxnZtfgnGbswXPvYTtHW2oZTlV+r3W+QnC4F5Wouc9GqroCabmT2S7GPT0h7aMYxZ5SmlvgxnB6C7Me4WiHHPYZAOfUt1heoUzAPmrxI4+YkTz02Xkt69MDQKq7Ub+9hODuFBVsyMJWtkyENTMrbHwsRZmM9a0L0caDTWdFkSqmdevCmyMVxYvSfCJb4LtbotEFd+M93OnGsGbEGpIBSIleu5RioiBBWufDKSz2qV3IJu1zFCg5KLcZUngCWFcZKWV8XVDn1Zz6IuezpBD0ykx8XdXnItvh2dgEeRwR/XpuarVgpbsqJb5KXjHSq7mUlL56wZc4+qdO1xLJoni6a5Mu66CvNqbvU4eviU5/oojHnpy4RqyQ55aR7vtfhMZJnDswM+p5XHXwwHMVEkz/Ytj2cN4QXL17Wl5NMVuHtNdj4pSOHw81zc+FnNm4K/2p8PIvmdncoy5dkr8kn0ks/yvryViJCcspJVZk5k/dDNE+vo5mgky11qA1ej8dIXr6IJ1uqCyd9okuOfJXFk8xjKVcbyzb1anMvXqnnkVb37WWZqVd7hPG4XnhTWHOgjGwzV1lQ8VVn7mmV50Gl4iWqZXsmpIdAFtFDIROqMqoBZkNfgxXYPPYDOI/NpFcKOnl+N2JjqUjXyLnzoAOKfKfG6jStD3n2gowFjCxtTIky3n/zBzsa/5qSxGtj4mDLJg9CiU0WhB0uq83vIvBeusWtD6mTiTJMzs9I6B/7EehHoB+BfgT6EehH4FQjgM3h4jM9jh0wFEgPXhtwpMGVDRAw0NAzmUY1aEiQzqQE8AaA5XP8xGd+L5y864MAa5TVCiO7nhQ2P/u3w4lPvDUsHLkzWY/Z2AXf
+
+
+
+---
+*Source: Document 7704478edec58fe98c8158d649dbd34b*

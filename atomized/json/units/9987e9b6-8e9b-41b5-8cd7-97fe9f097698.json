@@ -1,0 +1,26 @@
+{
+  "id": "9987e9b6-8e9b-41b5-8cd7-97fe9f097698",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Forces factions to carefully plan their proposals and alliances.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Prevents the game from stagnating due to reckless ritual attempts.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Adds a layer of escalating tension and stakes to faction-based gameplay.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📌</font> FINAL LOCK-IN CONFIRMATION BEFORE MOVING ON</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🔍</font> Are we missing anything critical?</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Have we covered archetypes, factions, fate mechanics, purges, rituals, class-wide events, debuffs, XP, transformations, and secret alignments?</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Are there any remaining loose ends before we shift focus?</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🚀</font> If this is a full lock-in, we can now shift to refining any necessary documentation, tracking mechanics, or transitioning back to the core class structure.</div>\n<div><br></div>\n<div><h1>📌 Version 9.4 – Locking in One-Time Purges &amp Scaling Faction Ritual Penalties</h1></div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 552 (chunk 552/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "zapfdingbatsitc",
+    "applecoloremojiui",
+    "this"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

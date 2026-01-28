@@ -1,0 +1,26 @@
+{
+  "id": "6cd3bd18-ae91-49cd-b1ac-c1f5d1226a26",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "</td></tr>",
+  "content": "</td></tr>\n</tbody>\n</table></object><br></div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Adds character-based strategy.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Ensures varied gameplay—no two archetypes feel the same.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Balances risk and reward mechanics.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 2. Professor Buffs, Debuffs, and Setting Modifiers</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> The professor’s abilities are also affected by setting and exposition mechanics.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Each professor role rolls a die at the start of class.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> The setting (day vs. night) may buff or debuff their power.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Students influence the weekly leader selection process.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📖</font> Example: Setting-Based Buffs &amp Debuffs</div>\n<div><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 383 (chunk 383/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "zapfdingbatsitc",
+    "applecoloremojiui",
+    "setting"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

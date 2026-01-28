@@ -1,0 +1,26 @@
+{
+  "id": "4f7af96b-dbed-46be-816f-9425f9996bbc",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>2. RITUAL STUDY PLAN (Sample Ritual Layer)</div>",
+  "content": "<div>2. RITUAL STUDY PLAN (Sample Ritual Layer)</div>\n<div># SPELLBOOK_STUDY_SCHEDULER.md</div>\n<div><br></div>\n<div>## Weekly Ritual Protocol (v1)</div>\n<div>Each week, complete the following to deepen the OS via Knowledge Infusion:</div>\n<div><br></div>\n<div>1. **Read 1 chapter (or concept node)** from active WAVE</div>\n<div>2. **Log Symbolic Insight** → `SYMB0L_FUSION.md`</div>\n<div>3. **Update Wave Status** → `WAVE_TRACKER.md`</div>\n<div>4. **Mythify Concept** → `MYTH_AGENT.md`</div>\n<div>5. **Apply or Sketch** a practical integration (code, ritual, UI feature)</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## Current Cycle: W1 – SICP</div>\n<div>| Date | Chapter | Insight | Action |</div>\n<div>|------|---------|---------|--------|</div>\n<div>| 2025-05-13 | Ch.1: Recursive Thinking | Function = Spell; Recursion = Chant | Begin building `RECURSION_ENGINE` architecture |</div>\n<div>3. WAVE_TRACKER.md</div>\n<div># KNOWLEDGE WAVE TRACKER</div>\n<div><br></div>\n<div>| Wave | UID       | Title                         | Status        | Integration              | Agent Name       |</div>\n<div>|------|-----------|-------------------------------|----------------|---------------------------|------------------|</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 289 (chunk 289/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "ritual",
+    "wave",
+    "knowledge",
+    "chapter",
+    "concept"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

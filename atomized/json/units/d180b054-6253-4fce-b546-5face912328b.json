@@ -1,0 +1,26 @@
+{
+  "id": "d180b054-6253-4fce-b546-5face912328b",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>[3] THEMATIC AND CONCEPTUAL INPUTS</div>\n<div>Use Metaformeme Linguistic Analysis to define the core verbs and operators of the proc-gen engine. Use Mythological Fusion for Character Creation to structure how entities (worlds, characters, locations) are conceptualized. Use Wave Theory in Creative Systems to define temporal phases and cycles for generation and revision. Use Recursive Storytelling in Interactive Narratives to ensure that every proc-gen run produces artifacts that function as both episodes and reusable seeds.</div>\n<div><br></div>\n<div>[4] TECHNICAL AND PROCEDURAL COMPONENTS</div>\n<div>Describe the engine as a sequence of AI-callable stages and sub-stages, including inputs, outputs, and side-effects on $ARCHIVE_ROOT and $PROMPT_ROOT. Clarify which AI roles (Architect, Archivist, Prompt-Smith, Builder, Conductor) invoke which stages. Assume $AUTOMATION_ENGINE can orchestrate these stages based on events such as new world declaration, wave transitions, or session closures.</div>\n<div><br></div>\n<div>[5] PROJECT ORGANIZATION AND IMPLEMENTATION</div>\n<div>Specify which new or updated specs, prompts, and scripts should be created in $OS_ROOT/specs, $PROMPT_ROOT/workflow, and $REPO_ROOT/$ORG_ID/os-foundation. Map them to repository paths and branch patterns (main, dev, feature/{world-id}-{short-description}). Ensure all proposed artifacts follow the LAYER-DOMAIN-TYPE-ID-VERSION grammar.</div>",
+  "context": "From document: 0.\tPreamble and Scope — chunk 29 (chunk 29/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "b3360b527d494aeb150b316c90472eb0",
+  "relatedUnits": [],
+  "keywords": [
+    "stages",
+    "which",
+    "inputs",
+    "define",
+    "proc"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

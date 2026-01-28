@@ -1,0 +1,32 @@
+---
+id: 59218888-65de-4d51-b5a1-b7780e4252df
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - yvmgachfvv5ktyergykqhzfwmdkkfmrirfghjwculh6d
+  - >-
+    2wv4r737epqqzbk3g0is5zbz8qc3awzdrwtsznoslllceuxzl5trvsd9dp3aamz0o9maeh1o1yxdq3bwppdqdwijoi0rw2ftmdpcdgb3i6mrjmcn1wxesq3dyhdd
+  - seeyagqsiswexgj4jgnygqpkk4mhcxiznnbmfazv
+  - >-
+    ck2qebp7wwnzxqtbyre6evpougqnipxanyh1kzcueqgmtd3c6sfrdz3vgn9and9skqee1yhxtqw2a0xzfbtx8
+  - dkqd8j
+---
+# f/yVMGaCHFvV5kTYeRgykqhZFWMDKKfMrIrfghjWCuLh6d+2WV4r737EpQqZBk3g0IS5zBZ8qc3aWZdR
+
+## Context
+From document: Strike one — chunk 3438 (chunk 3438/4795)
+
+## Content
+f/yVMGaCHFvV5kTYeRgykqhZFWMDKKfMrIrfghjWCuLh6d+2WV4r737EpQqZBk3g0IS5zBZ8qc3aWZdRwTSznOSLLLcEUXZl5TrVsD9dp3AAMz0o9MAEh1o1YXdq3bWppDqdwIJoi0rW2FTmDPCdgB3I6MRJMCn1WXESq3dYHdD/SeEYagQSiSWeXGJ4JGNYgQPKK4MhCxIZnNbmfAZv+cK2QEbp7WwnzxqTBYRe6evPOUgQNIPxAnYh1KzCUEQGMTd3c6sfrDz3vGn9and9Skqee1yhxtqW2A0Xzfbtx8/dKqd8j/1vwMQ/1DXSa7M6MfTEAwWxW1MoYZKxQWFXlBi2ONKFHDGwkL76MchRhyOeiMG4AYDIY3992ZWHQuRE8D775TC61J9M5CcUFWo4q0rX9q40IxqZrkLL40wArQMkmKFGJfjSXOosoEASWapzadIXndgEIQt6RmZgG1a1ItilU5WtVNJSGAxlKCmlvC0zyGsU3NJ2Pet5TUlvAcAX/4QiE2Gp61AOIR/6WBAFLzixD7NggRcIEAMvqO8PwRhDCmBhP3mIw3f6K8tBWiA7ssEnPXRJndJs96r8wEtb+fGVplDnwdowyW/DAxdw1lUlA1qIjQCYDshCJLJgjTBbtaESxmx1K0U6gIYHSmHcLCbJ+1jykpiUDtbq9BoSHOEL+AufLTbBggkEoQ/TaEUQ/lDFKPxhC6gMAgGo2IVidFEeDHlPvuYkEBI8aVKbqhZzCuUnONosPhQ7AAZEUMx4JTJHQwuJ6+pGnZdwwCascmbnlFbMekFHQUTQlwQmNa6+aUAkr1uhrBglod+ps5Ea1FsmY4VJeNLzhPOMZLrwaf+2QBqkk7mDmQGkEAwgULEVrWDlBCZwAAKQIHGe3AMGCMBQRdwSDIzy1KFClh3HsDGGumSZANN4zApNpENyyeNAZoWpjGSTUdxiwAX3J0iuZYYBUxgBTCvFIpOaKCdA+IFP76UHCRGhmzO5wUlmNMbghWgGqyFn7AQEw02+82L1RGElbZhVrKZwe5HcixH+maaGiOEYDEVoFZSghDIYQhRuRcUeRBGGt5Jhlq+4aNXyt0l3tiujY3wgsJwDKMz1lCj7XIsImAmaxSZTgspZrM6WFsM0ceCyC7DADz7G0mYW6l5LKBK0PlRBCyoVVJNpzEh6cDIpqfSGfTIpX2VysDf/hpV2
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

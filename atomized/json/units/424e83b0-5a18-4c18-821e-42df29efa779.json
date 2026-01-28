@@ -1,0 +1,26 @@
+{
+  "id": "424e83b0-5a18-4c18-821e-42df29efa779",
+  "type": "insight",
+  "timestamp": "2025-04-19T04:02:10.000Z",
+  "title": "<div><tt># |[ FX_UNIT_G0D_MODEL ]|</tt></div>",
+  "content": "<div><tt># |[ FX_UNIT_G0D_MODEL ]|</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Each FX = symbolic god with narrative behavior</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| FX        | GOD-NAME         | SYSTEM ROLE                          |</tt></div>\n<div><tt>|-----------|------------------|--------------------------------------|</tt></div>\n<div><tt>| FILTER    | The Divider      | Cuts thought noise                   |</tt></div>\n<div><tt>| COMPRESS  | The Enforcer     | Smooths chaos                        |</tt></div>\n<div><tt>| KNEE      | The Softbreaker  | Breaks gently                        |</tt></div>\n<div><tt>| GATE      | The Gatekeeper   | On/off permission logic              |</tt></div>\n<div><tt>| REVERB    | The Veil         | Adds distance &amp etherealism          |</tt></div>\n<div><tt>| GLITCH    | The Screamer     | Distorts truth, triggers breaks      |</tt></div>\n<div><tt>| GRANULAR  | The Particle Oracle | Memory fractalization           |</tt></div>\n<div><tt>| VOCODER   | Mouth of Many    | AI/character hybrid voice            |</tt></div>\n<div><tt>| SHIMMER   | Angel’s Path     | Divine accent, shimmered delay       |</tt></div>\n<div><tt>| FORMANT   | The Shapeshifter | Vowel morph / identity warp          |</tt></div>",
+  "context": "From document: # |[ FX_UNIT_G0D_MODEL ]|",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "2e275818f9fdcd07ff9f6534be0ebcbd",
+  "relatedUnits": [],
+  "keywords": [
+    "breaks",
+    "fx_unit_g0d_model",
+    "each",
+    "symbolic",
+    "with"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

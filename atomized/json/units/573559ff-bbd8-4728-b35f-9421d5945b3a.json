@@ -1,0 +1,26 @@
+{
+  "id": "573559ff-bbd8-4728-b35f-9421d5945b3a",
+  "type": "insight",
+  "timestamp": "2018-10-02T19:42:19.000Z",
+  "title": "<div>http://www.cs.cmu.edu/~./music/icm/</div>",
+  "content": "<div>http://www.cs.cmu.edu/~./music/icm/</div>\n<div><br></div>\n<div>Carnegie Mellon - Computer Music Systems and Information Processing</div>\n<div>http://www.cs.cmu.edu/~./music/cmsip/<br></div>\n<div><br></div>\n<div>UC San Diego - Computer Music I and II</div>\n<div>Music 171: Computer Music I - Miller PucketteUC San Diego › msp › syllabi<br></div>\n<div>http://msp.ucsd.edu/syllabi/172.10s/index.htm<br></div>\n<div><br></div>\n<div>MIT - Composing with Computers</div>\n<div>https://ocw.mit.edu/courses/music-and-theater-arts/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/syllabus/<br></div>\n<div><br></div>\n<div>MIT - Algorithmic and Generative Music</div>\n<div>https://ocw.mit.edu/courses/music-and-theater-arts/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/index.htm<br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div>Carnegie Mellon Curriculum </div>\n<div>M.S in Music and Technology Curriculum</div>\n<div>http://www.cs.cmu.edu/~music/mat/master-curriculum.html</div>\n<div><br></div>\n<div>Mills College - MFA Electronic Music and Recording Media</div>\n<div>https://catalog.mills.edu/graduate/programs/music/mfa-electronic-music-recording-media/#requirementstext<br></div>",
+  "context": "From document: Electronic Music 101 — chunk 2 (chunk 2/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "2c2c8c78a824fda05dd9f9289ba512ca",
+  "relatedUnits": [],
+  "keywords": [
+    "music",
+    "http",
+    "computer",
+    "https",
+    "electronic"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

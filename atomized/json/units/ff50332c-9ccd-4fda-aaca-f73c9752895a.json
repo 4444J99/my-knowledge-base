@@ -1,0 +1,26 @@
+{
+  "id": "ff50332c-9ccd-4fda-aaca-f73c9752895a",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:44.000Z",
+  "title": "<div>- **$ARCHIVE_ROOT/specs/** – All significant **specifications and design do",
+  "content": "<div>- **$ARCHIVE_ROOT/specs/** – All significant **specifications and design documents** (including this very blueprint) are stored in the specs archive. Each spec is essentially a snapshot of planning or architecture at a point in time. Files here might be named by topic and version, following the naming scheme. For example, the master specification might be `VISION-META-SPEC-OS-0001-v1_0.md` (indicating a Vision layer, Meta domain, Spec type, “OS” as an identifier, version 1.0). Another might be `WORLD-WAVE-SPEC-ALPHA-2100-v2_3.md` (perhaps a world design doc for project ALPHA in year 2100, version 2.3). The specs archive thus allows the system to look up formal plans or analyses that have been done, and each spec can be cross-linked with implementation artifacts (like repository commits or prompt templates it resulted in). An index file (`specs/index.txt`) will list all specs by ID, title, date, and perhaps a brief note on status (draft, final, superseded by another spec).</div>\n<div>- **$ARCHIVE_ROOT/meta/** – This is a catch-all for meta-level information and governance records. It could include the evolution of the OS itself (like logs of updates to $OS_ROOT/config or prompts), records of decisions about process changes, or summary reports that span across the entire system. For example, if an agent does a quarterly review of the whole archive and produces a summary of progress and challenges, that report would go in `meta/`. Or if we maintain a changelog of the OS (like version updates of the blueprint or environment), it resides here. Think of meta as the diary of the OS about itself. Indexing here might be chronological or by topic (depending on how much content).</div>",
+  "context": "From document: # Blueprint for a Self-Evolving Creative Operating System — chunk 23 (chunk 23/38)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "83dee6092ba3a8d02324ba12da038c25",
+  "relatedUnits": [],
+  "keywords": [
+    "spec",
+    "meta",
+    "specs",
+    "might",
+    "version"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

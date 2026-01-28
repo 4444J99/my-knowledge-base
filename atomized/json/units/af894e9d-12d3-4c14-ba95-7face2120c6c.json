@@ -1,0 +1,26 @@
+{
+  "id": "af894e9d-12d3-4c14-ba95-7face2120c6c",
+  "type": "insight",
+  "timestamp": "2025-12-11T19:52:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>-----</div>\n<div><br></div>\n<div>**PHASE 3: Codification (Weeks 8–12)**</div>\n<div><br></div>\n<div>Together, we extract principles from what we built:</div>\n<div><br></div>\n<div>- **Parameter mapping methodology**: How do you translate dramatic intent into audience-input parameters? What’s the difference between a parameter that enriches narrative and one that breaks it? How do you know which is which? (Example: “character focus” as a slider works; random scene reordering doesn’t.)</div>\n<div>- **Failure modes**: What breaks narrative coherence? Where does audience input cause collapse vs. emergence? What boundaries prevent chaos?</div>\n<div>- **Emergence patterns**: Where did unexpected beauty happen? Where did the system surprise you both? What did the audience do that you didn’t anticipate?</div>\n<div>- **Writer’s workflow**: What did you need from the technical infrastructure to do your best thinking? What should future writers ask for? What should they avoid?</div>\n<div>- **Governance and creative authority**: How do performers maintain directorial control? How do you explain weighting algorithms to audiences? How do you make audience input feel consequential without being destabilizing?</div>",
+  "context": "From document: Chris, — chunk 12 (chunk 12/25)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "95023b367d0cafd95246c623bb5c2f5c",
+  "relatedUnits": [],
+  "keywords": [
+    "what",
+    "audience",
+    "input",
+    "that",
+    "where"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

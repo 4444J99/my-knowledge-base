@@ -1,0 +1,32 @@
+---
+id: 74fd0229-0c84-48fe-a241-9ab751378e7c
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    fabn8zuraacy4e3jzgujfgmihvmlsk95yc9wcbtt03dtr2g4meydtaybbtzfi7ila9oy7jajzbe7c8e50pbhnxviwyfmjbicywff8ugu9rmm67myhxho667bwq7ft41vzi
+  - 3o8ynxug7p3brqhsrckr7psmydjxansdjrisady9ptebym8gj3edl6lmj1w
+  - z0mbucmgbebentp3or4
+  - 7sxw0c8erd3hwlz
+  - >-
+    sng5dojwfh1mfi6zxgx41avzysnffb4gvjbs8urqm8gweeuoqqclh8tagnrvssrhpa5lixfqgeyk4yz9nja
+---
+# fAbN8zuRAacY4e3JzGujFGmIhvmLSk95yC9WcBtT03dTr2g4MeYdTaYbBTzFi7ILA9oy7JajzBE7c8e5
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 226 (chunk 226/3262)
+
+## Content
+fAbN8zuRAacY4e3JzGujFGmIhvmLSk95yC9WcBtT03dTr2g4MeYdTaYbBTzFi7ILA9oy7JajzBE7c8e50PBHnxvIwYfMjBiCYWFf8ugU9RmM67myhxHo667bWq7ft41vzi+3o8YNxUg7p3BrQHsrcKR7PsMYDjxaNsDJrIsaDy9ptebyM8gj3eDl6lmj1W/z0mBUCMGbEbEnTP3OR4+7sXW0c8ERd3HWLZ/SNG5dOjwfH1mfI6zxGx41AVzySnffB4gvjBS8urQM8gweEUoqQclh8tAgnRVsSrhpa5liXfQgeyK4yZ9nja+AmzJEMC3VLD1hv3X9OBRodcs6tegJCMwsWmCJhqchKAu8svxy7VQskUFRHR6ms5JnyICacO97dXrr8RYF3qLAv1AKtLrfZP7VaDb/ZrjaqTY9fSXa39663sLppkxQNnjH0jnaxd6wV6dxrW+V+HYJ2+WC8/Nz3B5pqk6iukE7wKV/Cz8xMcFyq9FIuzfN3veI9NbPWxT4/wkFWt20vvhuOz/DEtw5TlKyvXcQrNWl3rplPRrhqGJv64+38b3+v6hPP4EG9Esxyuc0aXfOPnHqTOyE7Yjv3PxCmWVE2vWykxPjTN1mlG7X9lj/vLDAEVcIwDSdquGjFa7Wi9LslN/nnnuuHD91sqxgcAyy1nEEJXmcDcSmJjdhvAyWBx98FOP5WLl4foZp2WwsVo9FQn4HDI3wMKCdUowBPYBB4422zjduuA947BCTSAeWnM6tmeuVQrfhEk7xo2KfSnniHZ/krxkJghaCBovMxDOt54Bs18CbdSUPS9eWYvcdHq+XOLb31/Nkx/IlDZMBGkArlLkkAWi7wu3Ic45Cm38u6NIqpmUaiVnBLPV4GkpK4tdpQIEZO153G8fE7GpEOxkjHfIGLy3ZUUJlX0S5jyffy/ChFd9G2koeCj1TfgcHJsHHciadfg190wNm7eTIY63gQwzoEqPVGgl8Y6AFxhreHG2lAV3KDJuKlbJnz+byzjtu4uxz10MPlPFRe9e5SacfmolH95b20oToUQjmR3zykrJJxKAwjj35b4Vm50Pd6KzFE1aANC9x1yQiQC2Xjns3TDCKn51w1gUc3GCPzdEidWHnC/nxPXFq6VWv6BirXiRe6QrcDJ0ptKnkfvVRYWMpQAXQ4sq7YtyONUtI8uAqsmUxjOeNW7aWDdyj7Ikw
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

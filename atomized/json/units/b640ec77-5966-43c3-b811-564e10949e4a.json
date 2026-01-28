@@ -1,0 +1,26 @@
+{
+  "id": "b640ec77-5966-43c3-b811-564e10949e4a",
+  "type": "insight",
+  "timestamp": "2025-03-10T23:24:51.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Your <b>resume</b> is well-organized, with a clear layout and relevant sections. Your <b>objective statement</b> could be more specific—it currently provides a general overview but should be tailored to the role you’re applying for. Your <b>work experience section</b> is solid, but it would be even stronger if you included <b>quantifiable achievements</b>—specific numbers or results will help demonstrate the impact of your work.</div>\n<div><br></div>\n<div>Overall, these are small refinements that will help elevate your materials even more. Keep up the great work!</div>\n<div><br></div>\n<div>Best,</div>\n<div>Professor Padavano</div>\n<div><br></div>\n<div><b>Grades:</b><br></div>\n<div>  •  Cover Letter: <b>85/100</b><br></div>\n<div>  •  Resume: <b>88/100</b><br></div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>Letter for Aurelie Bollinger</b><br></div>\n<div><br></div>\n<div>Dear Aurelie,</div>\n<div><br></div>\n<div>Thank you for submitting your resume and cover letter. Your materials reflect a strong foundation, and I appreciate the effort you’ve put into them. Below is my feedback.</div>\n<div><br></div>\n<div>Your <b>cover letter</b> is well-written and professional. You do a great job of explaining your background and qualifications, but one area where you could improve is <b>making the letter more tailored to the specific job and company</b>. Right now, it provides a solid general overview, but adding more details about why this company is a great fit for you would make your application more compelling. Additionally, a <b>stronger call to action</b> in your closing paragraph—such as requesting an interview—would leave a lasting impression.</div>",
+  "context": "From document: Feedback Letters for Resume & Cover Letters — chunk 13 (chunk 13/22)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "86dc5339604c58929fa5043c670c250d",
+  "relatedUnits": [],
+  "keywords": [
+    "your",
+    "more",
+    "letter",
+    "resume",
+    "specific"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

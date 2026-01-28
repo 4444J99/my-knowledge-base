@@ -1,0 +1,26 @@
+{
+  "id": "1d76a5bf-0b97-42f4-83a4-c034bdc76753",
+  "type": "insight",
+  "timestamp": "2025-04-19T03:28:40.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>## AV (AUDIO/VISUAL)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| ID  | Left       | Right      | RNG   | Tags                  |</tt></div>\n<div><tt>|-----|------------|------------|-------|------------------------|</tt></div>\n<div><tt>| 07  | glitch     | clean      | d10   | [texture, aesthetic]   |</tt></div>\n<div><tt>| 08  | silent     | loud       | d6    | [audio, scale]         |</tt></div>\n<div><tt>| 14  | signal     | noise      | d6    | [clarity, distortion]  |</tt></div>\n<div><tt>| 19  | flesh      | metal      | d10   | [cyber, skin]          |</tt></div>\n<div><tt>| 37  | front      | back       | d4    | [layer, visual]        |</tt></div>\n<div><tt>| 43  | harmony    | chaos      | d8    | [sound, balance]       |</tt></div>\n<div><tt>| 51  | sharp      | blur       | d8    | [image, emotion]       |</tt></div>\n<div><tt>| 58  | whisper    | scream     | d6    | [intensity, voice]     |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## TECHNICAL</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| ID  | Left       | Right      | RNG   | Tags                  |</tt></div>\n<div><tt>|-----|------------|------------|-------|------------------------|</tt></div>",
+  "context": "From document: # |[ DUALCORE::V3.0_SORTED_BY_DOMAIN ]| — chunk 6 (chunk 6/7)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "46153e4e921024e07e0947e72df4c6c2",
+  "relatedUnits": [],
+  "keywords": [
+    "audio",
+    "visual",
+    "left",
+    "right",
+    "tags"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

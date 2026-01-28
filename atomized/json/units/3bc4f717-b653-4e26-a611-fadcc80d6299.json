@@ -1,0 +1,26 @@
+{
+  "id": "3bc4f717-b653-4e26-a611-fadcc80d6299",
+  "type": "insight",
+  "timestamp": "2021-12-02T13:39:23.000Z",
+  "title": "<div>The courtesy of the drive-through line, leaving little room between your ca",
+  "content": "<div>The courtesy of the drive-through line, leaving little room between your car and the car in front of you, is not abided by all. </div>",
+  "context": "From document: The courtesy of the drive-through line, leaving little room between…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "2437cd793484f5fcaa9533adffe80bde",
+  "relatedUnits": [],
+  "keywords": [
+    "courtesy",
+    "drive",
+    "through",
+    "line",
+    "leaving"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

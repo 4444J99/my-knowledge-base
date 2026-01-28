@@ -1,0 +1,31 @@
+---
+id: 15673ec7-0590-4f83-a438-ea4d099f37f7
+type: insight
+created: '2025-02-14T06:30:51.000Z'
+document: aa5afafaa5b4a9e35e1fe8ae7ee501fe
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - nvnkollx7v52ovecbes3zgpufi
+  - okbzk5mvu8uv39mzx4sztfuizn5gpencot3tgms4
+  - wwjffjxqgri8ahigzhvh9qkb94ygjlwsgkqs
+  - >-
+    smsqqmhxopz4sei3dglikmzhbp7brirgiljcltmylmytjiqbogtsc0e4xfwawfnmstjsda2gh7nfowkkcghkvlbhkcljhqejw3j3mldwtwxiffhaul62bg48laxswcsxnukwglzyzghelzhclxwby99wihzxibrqa8gi2er7mfxxp
+  - ct3n1jlc7pqmspb7qbixe2iyc72ihbbe7
+---
+# NvnKOLLx7V52oVecBEs3ZGpuFi/okbzk5Mvu8Uv39MZX4SZTfuiZn5gPeNCOT3TgMS4/WwJffjxQGri8
+
+## Context
+From document: ETCETER4 — chunk 605 (chunk 605/2399)
+
+## Content
+NvnKOLLx7V52oVecBEs3ZGpuFi/okbzk5Mvu8Uv39MZX4SZTfuiZn5gPeNCOT3TgMS4/WwJffjxQGri8AHigzHVh9qKB94YGJLWSgKQs+SmSQQmhxOPZ4sEi3DgLIkmzhbp7bRIRGIlJclTmYlMytJiQBOGTSC0e4XfwaWFnMStJSdA2GH7NFowkKcGhKVlbhKCLJhqeJW3J3mLdwtWXiFfHAuL62Bg48LAxsWCSxNukwGlzYzGheLZhclXwBy99WIhZXIBrQa8GI2Er7mfxXP/sm/cT3n1jLC7pqmSPB7Qbixe2Iyc72ihbbE7+wx1/+uitRRJc+uBx6Q928qLNOPD0YHPkYo/g9IOL/2izqc26r90spi2mLOwnn8bSswWcTYdDcLa1gHGAYJFkUUsHFnfGql0Kf+4+unjhszYZ7OyFwpNPPrn+zjJ/mfQbQwfG0Dla7lugpavk25/hIMfE69mijI/W3jj8uVock8GhnPkTbDYxxtwhI96MMfZeJRrggodLmbX7yat+trIpoAdzXGmMezzCqa12NTnY0gKZ/jyTA6x66gKeWSYe8Olhwuz3jQF/jh/w2s0l9b2Kw2sHSmJP9NGw8TRvLJz5z44rPuB3Hy9sRn/sKgbxa4dh5rKy41mNx48dn+faqoOtPtfOrmQnyz5HzsHXdhNffA+MfvNKrEaDncVDRZuNIz2Rm/xeupJZ/OBT5wq8fAevar5iTLyIbx3YkIU96JR8YLXBb9OIpykz3C4weK04mMK3WGbzxUfFXjyDJa8NlA2Ve7zjJx2oFfTwIi7yERtbuYf88Lj3pZo4DRcaxjg83ee9mCEf0gE8ZAMrFnWIgg+8ipE2iPEkPjhIOZ1OK5+iVe5kA3mYjsinRscmlm7FX7zTg8MFuqZ/MHREDvJ2WI0HeR8uMf3WsYE1f+idzsjIB9jDb/r5kpiexQWyielkwof4lh0cBqHpIND6wOZaPHFQ4jDIV3rmoxfJDtDh5AMO8+V3OkeTnbM1/eGdLujTxjg/pFPjjYHXGPqkWzDG0rXa+Ep9+HehC3eFLcjBPtYmHfLwE/p2GEBP9Mc/6N7/owDv4M3hGhpo06l+NNiEDuEDC8Zc0IZmazQHDfFjPDxs6GJrcOh74cBu5i0fB4tHY92TO/+ytvJyCjw/5VN+g+H6WGulH7p1ICP3sp2PLPg5mg8//PCSgQ+x
+
+
+
+---
+*Source: Document aa5afafaa5b4a9e35e1fe8ae7ee501fe*

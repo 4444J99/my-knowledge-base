@@ -1,0 +1,31 @@
+---
+id: fae9ccb5-8ebd-4b46-8ec3-00fcbcdc6962
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - rofr2rw
+  - k7rmav
+  - >-
+    g4zv8hs9bjhzhvgmvczlheq6gk96lrwdvmf6fsq95egzyaflbr5yudnt6fqs7kbata44x0ph2qwqly3jppuioxyxey8v8auuqq7b3fovsobsx0muvvef5tjb1plmoqtkp9ge9tfd2rtgtqkagmm8dqcum01yb2uyncxyuvnoaijvqqopx9kqi4yzyljka06rluascvmkretk2hdefgk24ztrduhby22chtirt9mx
+  - way9z3qsicuetimhgc0oi07luz2dmhakx5won8
+  - aznxzf3p
+---
+# h+ROfr2rw+K7rMav+I+g4ZV8HS9BjHZhVGMVCzLHEQ6gk96lRWdvMf6fSq95EGZYAflBr5yUdNT6FQs7
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 1071 (chunk 1071/2189)
+
+## Content
+h+ROfr2rw+K7rMav+I+g4ZV8HS9BjHZhVGMVCzLHEQ6gk96lRWdvMf6fSq95EGZYAflBr5yUdNT6FQs7kBATa44x0pH2qwQLy3JPpUioXYxEY8v8AUUqq7B3fovSobsX0MuVVef5Tjb1pLMoqtKp9ge9TFd2RtGTQkagmM8DqcUm01Yb2uyncxYUvnOaijVQQoPX9Kqi4YzyLjKA06RlUAscVmkrEtK2hDeFGk24ztrDuHby22cHtirt9MX+WAY9z3qsiCUeTIMHGc0OI07LUz2dmhAkX5wOn8+aznXzf3p+Xb+tTXDTKTE/8Peqt4vmwIzEnb2FbQatqPQxpgs03mSEqA3FWBIPN+zZxtOT70khgmK+aCdvI7UyN4o7g7fvv60pR7mSsGuW9tLpEsD5CspBAJGcj1HNfiF4JtLmz/b6jtNKnnCaXqEilRLnfHHGFYl3zuVuCe5XPNftZ4muJRpzW6ffbjPpX5A/CnT9F1f8Abz8QeSNkNmLmONo1K7LiFI1cEdACUcBuhBGOtfp/AM3DC4lxfRfqfmPGyjLFUL9/8j9qjILT90eeOvpWUJDLMzoccZ/KliZntV884+lVmZonL2uWGMEdBX5i1ZWP0SnEoi7+1q0kvKqcVKxjlY2kI56le4HrUs/2N4z5ChcfeA4APXjvVGRZVXOMAjkg4OPwqHex0wM94FyYW/hPUdqiugIYwq8rVwQq1sHQ7DnB9z6mqtxbu0RGOV5we49qIWsEnqYzZWYv0yKybxVt5h5Q5JrWkMmzaO3r2rMcTLOUfkMOlVzRsOy2NyziiYB5WHHINMXa8+U+6c8+lWLeKJbcNL06U1ILfzsP8hPf1qJJIdrbE/liNWxjPapLP5pAjfeFQm1DZEZPXrU9kHSdoCOgB3VNxq5pyK0RBHXBP0xSKsjkP685q24f5QeTirMMTGIykAY6DpWqbKT6GDrUbmyEW4x7uN3T/wDVX5H/ALBMtlD+1L4ri0lJHtYLe7w5yNyCcLhhjJO45GeeK/XfXna40mWO5+QbCSw64Azx/Svx6/4J/SxxftF+JruCUw+eku2NkOPLafcwdgBggDKjHLYBxX6nwKk8vxz/ALh+WcYv/hSwqfc/ctTEkWz0wPpWRPDGCyMcH+lXC8iy4j4BGd2aq3izNF5aMM1+YVEfp1Nq2hn/ALtTsTHydO+fqalvFEMvyHd
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

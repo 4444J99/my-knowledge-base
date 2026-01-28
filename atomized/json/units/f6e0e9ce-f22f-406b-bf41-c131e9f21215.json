@@ -1,0 +1,26 @@
+{
+  "id": "f6e0e9ce-f22f-406b-bf41-c131e9f21215",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 5. Familiars – Personal Companions That Provide Weekly Buffs</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Every archetype chooses a familiar that grants them minor advantages.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> How Familiars Work:</div>\n<div>  •  Each student selects a familiar companion at the start of the game.</div>\n<div>  •  The familiar provides a small, recurring buff.</div>\n<div>  •  Some familiars may evolve or change based on class progress.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Example Familiars &amp Buffs:</div>\n<div>  •  The Raven (Symbol of Knowledge) → +1 to all perception skill checks.</div>\n<div>  •  The Serpent (Symbol of Deception) → Gains one reroll on persuasion-based actions.</div>\n<div>  •  The Wolf (Symbol of Loyalty &amp Pack Strength) → Gains extra defense when working in a faction.</div>\n<div>  •  The Owl (Symbol of Wisdom &amp Fate) → Can predict the Fate Wheel result once per game.</div>\n<div>  •  The Cat (Symbol of Chaos &amp Luck) → Has a small chance to avoid negative effects.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 513 (chunk 513/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "symbol",
+    "familiars",
+    "applecoloremojiui"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

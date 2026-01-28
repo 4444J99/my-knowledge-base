@@ -1,0 +1,31 @@
+---
+id: a490d0be-9381-4faa-9cb3-59b87b2f3b84
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    2gcjas1vf4xmozdvwowbswfmhjb7wowbswfmhnj09oatlghwpevmhzh3ypaa2qnmd5g9ypaa2qp6hvaerf095gso9brw4oj9rjpidtd2alrljypma9w3w6oqupw
+  - jkmgoj5irlpt0lx
+  - 3mkqalyfq3jlocpvulb1hfu1vvx6klplogohv1w0ylbvhasmu3lor6sqwnwhqmbvqzkyylcv
+  - ypy5b4kvquvwjvhkvfvknhvkkpagany2bnwvfgqdlf
+  - y8ksxlkxspvqb1fvzfwbqlifrtjo5b5avbaqfr2sclb1vwwmqpvbko
+---
+# 2gcJas1vf4XMOzDvwOwBswfMHjB7wOwBswfMHnj09oATLGHWPEvmHZh3YPaA2QNmD5g9YPaA2QP6HvAE
+
+## Context
+From document: New Note — chunk 2910 (chunk 2910/21099)
+
+## Content
+2gcJas1vf4XMOzDvwOwBswfMHjB7wOwBswfMHnj09oATLGHWPEvmHZh3YPaA2QNmD5g9YPaA2QP6HvAERf095gso9bRW4Oj9rjpIdTd2AlRljYpMA9W3w6oqUpW+JKMGoj5IrLpT0lX//M//3MKqAlYFq3JloCpVUlb1hFU1VVX6KlploGoHV1W0ylBVhasMU3lOR6sqWNWhqmBVqZKyylCV+ypY5b4KVqUvWJVhKvfVKnhVkKpaGany2BNWVfGqDlf/67/+y8KsXLkxSpVqB1fVZFWBqlIFrTJO5b5aVbAqfR2sClB1VwWmqpVBKo/VagdXGSd6wqsqUHXXV2Gju75AVEGrUmVerQJSdSQp83plPOmkCVSVtYJN1TH3Zd5pVYGm2ufz1bE/fQGfapXrqHNO+gwv7dbxfdphVZ5Tv5Pde1ffkdyXWuX3dGzqy1hIpKdz9DU85vVqVftyTOZkLFXmuer/1DX6sUCO79fvBPKeH4ZrBQIlmmv4jwN38rvbs2cPXbv5FL386s/uJKtyCqoLrapY1Q6vuo7fi1dd6aoMU11Jq5K2+nsLq7rw6h/ouy//mA4dijRo1U+0WmqB1WiqqYq1wGopQGlNZTydbU6ms0g4ramKo6KCg5SXs5/yc4OsmpWxh7IykaKatc9qmZn7KD0dKaun99CpU7spOyeEamqBUM+mUl1DMhUVRWNdMOVkB1NhYYSFVWuRqlpfl2Slq9aj31B/1EpN5bmamiNKoupRANajGMcDt8YiVTWe6usTMU50gdWnkH56c6rUAqsbIwWudFMg1dmOU7SAlFNOO2WYuoFUVU5WXUeqKoPVKyO51txiTyqSV1OtVFVOUn3/WhOSVOuBVQFT0W4Bqt6cLrXaE4CrnObKczemigFkkdI6xMmqWVafU16vjheh4dgYMOtgHpBsDq0OuNpCdzpNALD2N0RbiaudDFYrgFUhhgeRrDpQGQW8isTVklDqwYfh2oe01bGaaCtldbYlkebPJtEirrGAlNWZs4k03XKYLlcgwjY9wce0VR+BqifQGgC86sKo2ythlYHr/UCrTrCqrLlfaNUOrr7wwgvkpH37298mb00Hq+pYhaueoKp+zA6p2s2pKNVb3x1QdTevo1QnY08w1ckxbyDVl+NOIKq/ax4ESt3sbxpE8eghCvPNzTc3e8DsAbMHzB4we8DsAbMHtm4P
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

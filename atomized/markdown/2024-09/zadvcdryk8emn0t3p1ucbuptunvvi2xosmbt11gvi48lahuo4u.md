@@ -1,0 +1,31 @@
+---
+id: 6ea00891-6bb5-4013-a6c8-fe6e8bd5eece
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - zadvcdryk8emn0t3p1
+  - >-
+    ucbuptunvvi2xosmbt11gvi48lahuo4uy3fceyq8qk933atuinbeg67gzxu2au3dvdf6yfae87jrzofgn3hlpqp0etppz48uygpsf4tfrxxg1l9ewzrl50t8nh2n326c2jcr5p93k3
+  - kdvzzny7zfbenfsrxuce30lwrfhq7x71x7qb
+  - lhgaxdrxyvjnseymtkbnwf3yeief7wngz
+  - v0tfzx1fzjn11vix671jxioa7v07d40drtd
+---
+# zadvcdrYK8EMN0t3P1+ucbupTUnVVi2XosmBt11GvI48laHuO4uy3FceyQ8qk933AtuInbeg67GzXu2A
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 2888 (chunk 2888/11534)
+
+## Content
+zadvcdrYK8EMN0t3P1+ucbupTUnVVi2XosmBt11GvI48laHuO4uy3FceyQ8qk933AtuInbeg67GzXu2Au3DvDF6yFae87jrzoFgn3HlPqP0etppZ48UyGPsf4TfRXXg1L9eWZrL50t8nh2n326C2JcR5P93K3+kdVzzny7zfBeNFsrXUce30lwrFHq7x71X7qB/lHGaxDrxYvjNseYMtkbnWf3yeIeF7wnGz/V0tFzx1FzJN11VIX671jXiOA7v07D40dRtd/z0R+APmoYr+0kHN+T9Y+usF2kn939MikGAYOAQcAgYBA4uRFoFHmMKCHRu8gPoZ6avfJgDWjTXBt/Qx7Xxsf8WhsB+Iu7d4LhGb7T1i5lfjXk8THoJTxqRFJqhf/q4PU+37m+gu93xm8+ftb3AZ8F5LHvw3CfsY8op9Zn+ebir2fe4LvI92co5w77Fvr+AAhm3/v+uHtO21nLd9rnrU0r97Lz1xzgYAWL5Kt+2y7GdYlOpBW1rPJjXP91euLbrL/szglFtQZQwwyD1g86Ojs3Hwf2O/F9EtL3yrj1/rXd7EH2b9aI1dkK9xZHYxlR4atSOV6mHdGsKJNOf1aU6IpWQcr2ZcH/5hkbWtlp7RHz1yEa2JcRCnXmyS523voe6zfkL9cLe1nwWTrIo117rJJclQH741XJUVVnRwacYEfjQ6Iiov5eUhYPijXJQfktsTC606lnjwVo7xPK/njRPrHPXhDdL8DF9wEBrRyxwVX4CNlNA76s05fpwRN71BC5fDfbLO+lwVSZ7FOuvcEN9eI4SiSSx6w8b0uOEeWA2jcmK7ayP6bKqjiGDq51Cb9enKxYh0hbIE9fpuGuTWxNKpr6obWoi0V/bq8I/YLjKphuIur4NmXHQnHCAwAOAXfWdRB/fC02Qyn3kQ3eu9Yo3dxHWng85DUH8NBHt8DQj5OQKkPXxEgaITntJkKQRNEPlbCe2odK2Otm0OH48PeiDfBoDJ0i6rgh+aTTn3gIqKfUHq/j09NdCultt/0Wto62LPq44wEuWifrMwTjSEfVc98zEg9Yv7sepAPd7W4T20T3BHt6LIu4oSWcu496intd4JzX89QTN+Tx8ZHHaHXk9ouA44gH3zjK6C4V5wCmuHeV8aNnpg6lZe1Ra9S4YytTIY+F+q+Huuc8PhHwoxMkqJwbfY7Rr9q9rv3r1MnjE3
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

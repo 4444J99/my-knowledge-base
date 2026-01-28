@@ -1,0 +1,26 @@
+{
+  "id": "2af7dd62-a3a2-4970-9d7e-bf621b43c755",
+  "type": "insight",
+  "timestamp": "2025-11-05T02:08:19.000Z",
+  "title": "<div>  •  <b>T105</b> Implement the description and Copilot prompt for recursive",
+  "content": "<div>  •  <b>T105</b> Implement the description and Copilot prompt for recursive‑feedback‑integrator</div>\n<div>  •  <b>T106</b> Wire tribunal outputs into the constitution and orchestrator repos</div>\n<div><br></div>\n<div><b>Master Plan and Immediate Steps</b><br></div>\n<div>  •  <b>T107</b> Approve and execute creation of cognitive‑os‑master‑plan as the architectural record and source of truth</div>\n<div>  •  <b>T108</b> Manually create the cognitive‑os‑master‑plan repository in ivi374forivi</div>\n<div>  •  <b>T109</b> Add a README and MIT license to cognitive‑os‑master‑plan</div>\n<div>  •  <b>T110</b> Create the architecture directory in cognitive‑os‑master‑plan</div>\n<div>  •  <b>T111</b> Create the planning‑conversations directory in cognitive‑os‑master‑plan</div>\n<div>  •  <b>T112</b> Create the workflows directory in cognitive‑os‑master‑plan</div>\n<div>  •  <b>T113</b> Create additional directories like roadmap and specifications in cognitive‑os‑master‑plan</div>\n<div>  •  <b>T114</b> Insert the full planning conversation into planning‑conversations/2025-11-02_initial-architecture-planning.md</div>\n<div>  •  <b>T115</b> Export this conversation using chatgpt‑exporter and save it under ~/ai‑conversations/2025-11-02_cognitive‑os‑architecture‑planning.json</div>",
+  "context": "From document: Below are the two hierarchical to‑do lists.  Each atomic task is separated… — chunk 11 (chunk 11/29)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "3d614fe05eaf43ed6ced45e9304621d0",
+  "relatedUnits": [],
+  "keywords": [
+    "master",
+    "plan",
+    "cognitive",
+    "create",
+    "planning"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

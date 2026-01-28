@@ -1,0 +1,26 @@
+{
+  "id": "5464e984-0314-47db-a654-eed0cd0b9bf5",
+  "type": "insight",
+  "timestamp": "2022-03-10T00:55:44.000Z",
+  "title": "<div>I haven’t cleaned out my down low’d folder since I fled there.</div>",
+  "content": "<div>I haven’t cleaned out my down low’d folder since I fled there.</div>",
+  "context": "From document: I haven’t cleaned out my down low’d folder since I fled there.",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "94e3d1800dee82dd01d5e0acfb1d8fff",
+  "relatedUnits": [],
+  "keywords": [
+    "haven",
+    "cleaned",
+    "down",
+    "folder",
+    "since"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "d3969173-fbb3-4925-abed-07a34b4f38d3",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>```</div>",
+  "content": "<div>```</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **Step 2: TRIAGE - Decide What to Keep/Kill/Consolidate**</div>\n<div><br></div>\n<div>Create decision framework for each repo:</div>\n<div><br></div>\n<div>#### **For Personal Repos (35 items):**</div>\n<div><br></div>\n<div>**Category A: KEEP &amp GRADUATE** (Move to org)</div>\n<div>- Contains original work you've built on</div>\n<div>- Actively used in your workflow</div>\n<div>- Solves a specific problem in your system</div>\n<div><br></div>\n<div>**Category B: KEEP &amp MINE** (Stay personal, extract concepts)</div>\n<div>- Fork you haven't modified but want to study</div>\n<div>- Contains patterns/ideas you want to implement differently</div>\n<div>- Reference material for your own builds</div>\n<div><br></div>\n<div>**Category C: ARCHIVE &amp DOCUMENT** (Remove from active, save concepts)</div>\n<div>- Good idea but not actively using</div>\n<div>- Extract the concept/pattern to documentation</div>\n<div>- Delete the repo, keep notes</div>\n<div><br></div>\n<div>**Category D: DELETE**</div>\n<div>- Fork never modified or referenced</div>\n<div>- Redundant with other repos</div>\n<div>- No longer relevant to your direction</div>",
+  "context": "From document: Contents_Table — chunk 78 (chunk 78/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "keep",
+    "category",
+    "your",
+    "repo",
+    "personal"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: 7f9d2cfa-5273-4721-9cde-8582ca4edb54
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - mncakomarcwodnis
+  - >-
+    npsxasrwla8y7hsa0mwjkltwe6htmqdzb0ijwwgaev60ezm7esp6xjpgmjs07deqmz64hyn8a5ayybfonzzpi7
+  - 7e6xhvffxkk9aptccnwtwbj9fatxf3seytadbbyt97kqvbp8akvzx
+  - baspbv4j
+  - >-
+    hv06vpryyoirpgrhaskfmneocznptkdbx6cx2syqtcdtuzr8xf2jph8qfhvw5qlugttp1xfhdimwz33qz7llacmd04ysfp9tw7ctb8j4vp5jnrfvn6ffcvsv7p0ajmbqf4y8nnhf39a9lulwnlsqtosvjyqemjjj8q5dwxdbjrigdhljk9czhbxnook6cwwgkduuu7egrxczq8025i9xk6pjfi3ovbjjmubadjhtqpmryuvshg89v8klozmyl2fbu5h
+---
+# mncakOMARCWODnis+NPsxaSRWLA8Y7Hsa0mWJkLtwE6HtmqDzB0IJwWGAev60ezm7ESp6XJpGMjs07De
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 27 (chunk 27/2189)
+
+## Content
+mncakOMARCWODnis+NPsxaSRWLA8Y7Hsa0mWJkLtwE6HtmqDzB0IJwWGAev60ezm7ESp6XJpGMjs07DeQMZ64HYn8a5aYYbfONzZPI7+/Wt/7E6xhVffxkk9apTCCNwtwBj9fatXF3sEYtaDbBYT97KqvBP8AKvzX/bAspbv4j+HV06VpryYOiRPgrHAskfmNEOCznPTkDbX6cx2sYQtCDtUZr8xf2jpH8QfHvw5qlugtTp1xFHDImWZ33qz7lLACMD04ySfp9Tw7CTb8j4vP5JNRfVn6FfCvSv7P0aJMbQF4Y8NnHf39a9LuLWNLsQTOSVJyQeMjjj8q5DwXDbjRIGDHLJk9cZHBxnoOK6cWwgkDuuU7egrxczq8025I9XK6PJFI3oVbJjmUbADjHtQpmRyUVsHg89v8KLOzMyl2fbu5H+famTi5n/0ecbU6Ajqcd/oa8Syue/K72LLWyRj7XGpLDp7dvrURWQodp2gYJqecSbY0t5CuOo9frVWyuIrjzVc48tijcdx/OsVy3OhaRC8uhuEcVsWST7zAgY+oP9KmuZVdV8vPy9KrwXSSTvAyYVDgk9D7+30pRM+1gOVXPP8AjVqStZHOoK9zPhhCTfaTkM3BB9v6Vf8ALhlu3nkX5sYJ/pVG5Bn2OG3FejDvWrbQziNi2MAc1jGCTZE6NyO5VbONIRgpIcY6/XPtUsdssQMoGAM9qivIJVtOMM7Zz2x6Yq3BDIQqk4+Ubsjvj0rpw19UONNWJrayiCLEinexzntV9njimW3mUsyEkN/dPr/T8adaHbAXj6gdaWbZJZCReHyM/Umpmnew2i1zDF5suFXJ/HNfnv8AtgrpmuabHo2sXTRfbbiFYhEQR5kB3oWODtAxkZ4zj2r9EYUlmtTDIOCO9fmf+1ne2MWoWVtiO3iikJ3MNzEjHY/w98jv+n13Cd41HPsmeJnNorXqfS3wdh1m78H2ReXD2sSJnp90YHH9K+mf7Uju44onc7YlAwcfeAxx65r57+C/26XwFaMVZCyEhic7gTw2P4c+le32+mNFbLJKNx9uTXn8TJzxTmzoymC5EzYUL5oKDpzz2+lUi9w15+75j7HuScf4VsWlvGsZZOZFHenRE252SL94/hXiey9xnu8umhnPAZVaOSMBEwwx3bOcntnIzxUqwy2sAuIW9gfT2/KtS7LW6JE+Nrdcdqx
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

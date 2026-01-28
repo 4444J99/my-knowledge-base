@@ -1,0 +1,22 @@
+{
+  "id": "3aa40bc8-5c69-4742-b182-56bd9dd72571",
+  "type": "insight",
+  "timestamp": "2024-02-20T22:11:25.000Z",
+  "title": "<div>EAP</div>",
+  "content": "<div>EAP</div>\n<div><br></div>\n<div>202401348072</div>",
+  "context": "From document: EAP",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "4d23f89959186c83cc0d1c7354d59e78",
+  "relatedUnits": [],
+  "keywords": [
+    "202401348072"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

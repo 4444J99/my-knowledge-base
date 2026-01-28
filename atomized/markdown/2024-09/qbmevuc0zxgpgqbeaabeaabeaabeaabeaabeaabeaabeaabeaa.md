@@ -1,0 +1,33 @@
+---
+id: ef7ed208-b1a8-4203-a2b8-3e640050024c
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - qbme
+  - >-
+    vuc0zxgpgqbeaabeaabeaabeaabeaabeaabeaabeaabeaabejgdake8sistni3hmpzhttgmzkspua8igaaigeb2cfsprxzimyu9wrkb
+  - >-
+    a8ciaaciaaciaaciaaciaaciaaciaaciaaciaacija2gf6bfxaez5phe87jwuodxuciagyciaacibcfqh8
+  - >-
+    dh6fpoiw1qcjcohxv6m8d9zwesovz2f1je4ytwsg8bnlj7udaaiaaaiaaaiaaaiaaaiaaaiaaah0nwe6tdd
+  - lc5ktkmazmm4j0eabeaabecgcql9g1zm7quhrcz
+---
+# QBME+vuC0zXgPgQBEAABEAABEAABEAABEAABEAABEAABEAABEAABEJgdAkE8SIStni3HMpzHTTgMZksp
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 10673 (chunk 10673/11534)
+
+## Content
+QBME+vuC0zXgPgQBEAABEAABEAABEAABEAABEAABEAABEAABEAABEJgdAkE8SIStni3HMpzHTTgMZkspuA8IgAAIgEB2CfSPrxzImYU9wRkb+A8CIAACIAACIAACIAACIAACIAACIAACIAACIAACIJA2gf6BFXAez5pHE87jWUOdXUcIagYCIAACIBCfQH8/dh6fPoiw1QcjcOhXV6m8d9zweSovZ2f1Je4ytwSg8bnlj7uDAAiAAAiAAAiAAAiAAAiAAAiAAAh0NwE6TDD+LC5KtkMAzmM4j0EABEAABECgCQL9G1ZM7quHrcZ/EGhEQIzd5hX0l15B1TQN0XYbLStiSf+IynnBIL7RVcjvXALQeOfqbnZqvmL6Vr9PeE9Me1Vj/x/oWatyfHbqkOxduq9FyfKBNBAAARAAARAAARAAARAAARAAgTQIBIcJ7jPtOERxbXwCcB434TCIjxUlQQAEQAAEupVA/1gQICUYAB1s7ynKzDcCi3ePDOS9aZNnNena/7LpnaZYdx7DcrqFADQ+V8/4oWOrWd47ZXCH/0xdK54wJXM/36PLZtJ7R1X0g+o1XmE3mKdl2Ttt7GZTZGxkLcuzuartRn43Kyq3TzhibD3L153HnfZEdF+L5so2cF8QAAEQAAEQAAEQAAEQAAEQAIH4BALnMc48ducX0smB81ikAxZSQQAEQAAEupNA/y44j+E4b0zg6L6NKs+rsiYMd61/k1SsBOexjv9JkP2S0Phs6mhR70r/E/Ey8RAv8Twr6Zpxn7KwnLKucsO26cdFSVOA8dmsefe5WruvRbNpD7gXCIAACIAACIAACIAACIAACIBAawToMMGwb3/kJ0sAzmORLFBIAwEQAAEQ6G4C/YXAgdHaEAdXzQcCd5p/qLK0nwJyXH1t+CyVF/OBwHxrIzSetsYPL5yh8uwF/p6qevaT1Vr6XfmpqJpje89ms/U8dp+rtftalLYNQz4IgAAIgAAIgAAIgAAIgAAIgED7BOA8bm0mpLWr4DyG8xgEQAAEQAAEmiBAu9/aH+5AQrcSoIHs7weuFQV1tncvK+ojJzZ0aHDabtVRsu2CxpPlaUtbOLTcX6yjzKu84rmfOrQsY9K8yyp6jD8mSmrE3O4VxXX8SVEye9heXmU12XiH8uv8Q10Vh42tmYVw1t3nau2+FtlWhzQIgAAIgAAIgAAIgAAI
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

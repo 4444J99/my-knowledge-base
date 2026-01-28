@@ -1,0 +1,31 @@
+---
+id: d72a42fe-8658-4e68-9717-2d0483298570
+type: insight
+created: '2025-09-24T12:01:25.000Z'
+document: 9e5f6b008d737451ce9d5c855d79cde5
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - mvt7fvg3byjw5pzzcuoahcifhkm4xr7cdd29v1b8vxggtlo
+  - >-
+    e1ktz75va75ejodmhv5qynya9emwit56y1if1a2ron9syswax2vcuwkko5kw3nkoxdgczztglo85lxundvpsn
+  - s1ll9tdu8tlmovs40iq2ws4y5vr3dkdjr4ezfm80q1fttkheasec8nlvlwrk7zauteyxc
+  - wa1tatzdcoqkbwqkwqlvqrwe
+  - 3qy4k0um1csskknsxms4u2pmfagg1p7oyrwbcw12pl1p7sam9pldn
+---
+# 3/mvT7FVG3bYjw5pZzcUoAhcifHkm4Xr7cdD29v1B8VXGGTlO/e1KTZ75Va75ejOdmHv5qYNyA9emWIT
+
+## Context
+From document: __A-System-Operates-__@4-B100M-@4-B100M@4B100--- — chunk 423 (chunk 423/1114)
+
+## Content
+3/mvT7FVG3bYjw5pZzcUoAhcifHkm4Xr7cdD29v1B8VXGGTlO/e1KTZ75Va75ejOdmHv5qYNyA9emWIT56y1If1a2rOn9SysWaX2vcuWkkO5kw3nKoxdGczztGLO85LXundvpsN/S1lL9tDu8tLmovS40iq2wS4Y5VR3dkdJR4ezFm80q1fTtKhEaSEC8NlvlwRK7ZAuTeyxc/pY+wa1TAtZdcoqKbWQKwQLVQrWE+3Qy4K0uM1csskkNSXMS4u2pmfagg1p7OyrWBcW12pl1P7Sam9plDN/w3bbBoYt4JGmJXBj2ds2JOLdvS3X3y8dBKav2WZvYKmVUntUn+b20Jm9OeauaRnIiZRiWMCmrt1mV7861UbPXmuGy1MgI7AsVuEcafn2nbZ89TabPHedPTx6sd1zSg+7Oo7ytAh3qVOfHW/T5qwJ5r7KqFGjarAh2oj1dgnK8piJyy0TC+GvSmhJLh3U9k8pgbjif/FO5+K1qD6nautRaqfPWmOv8Pt1KLbxAlW0jrwxfpltXJdmz1XjuSFt4p6SzUOWvDtxhe1gs5p8TOegSllrJ6Hozlq8yVJb14vXjDL7zGVLyaHVyi0+ktErRq0oeaFl/GbY5j3lqM1FgaTSKraJwDkEQXLhEZ0sGaHVhOO+KM1ACG1hx64F65fsrvthrS0Nqs9CI6rKolOlGAtfceru3CDFLjmso8lC0L1+Xit0ccqJffYbNgEn/3OM1ULBG3PDcOvRpE7sIxXu7ytfnmxfz1hjV7MQPXB6rwrXP+/Q3iEweW2a7UrfZVVxPbjt2K7Wo1Fia2qimmagEB332FhbtWoLCm01O2NQK7toSGvrw/yS8rEAK8v/Zq6xJ79ZbFv4/dqXJlkGG/EbhrXLLZKpbrdwEjRtNkot1tkT+7a0K1HEOjH/0Z1s/uYdNo2TnFcnr8hekHPf9F8SIaCN+1FdGtukeetsFsrnGhTS5pzcxdIYjAgbUW4NHpjDGM5m7ejeqFbsYzaBjcUOTg0b8t0hresH38vYctHAljYNa/rAjg3zveMfOAKOQMEIuGIbg8/RHRqa/sWj7QigLFwOatapaR1RFEuL6rBwyQcvBYFWvUq8/f/e16SjymfO6bv3BcWUIOvCLhbUnbv2FOkoL+b1cvmnjoLV51iLfrnsjDe61BFIw82JyWD1cGNqgxtCcSmd4JMbRk23VShO
+
+
+
+---
+*Source: Document 9e5f6b008d737451ce9d5c855d79cde5*

@@ -1,0 +1,32 @@
+---
+id: c1e4e5f0-d92a-4a1b-8c6e-67030501dbfd
+type: insight
+created: '2021-06-24T19:10:13.000Z'
+document: b5de64ea907b6e44ec94b342683f3041
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    1fyn8csbkeqdgagi4moal4ecg9nvc3tfaie9jqifjkdnrpqchpoybfsaqqmobwb1ot5tpbxdsopwuw7jrfmbpcasckxbbrtvmhi
+  - qgiaujl2dhtnlcgozjwyerkpjqimieet8lhsluq5ykbsvrvztfejdmqke2bonseg71wi4mhrodig
+  - zgenhfjsg9ve3zkkgbzrs5vqjzexajc0fbk7p
+  - >-
+    cbg8l5ygh6ytv8ibc956tuj9ecfkbsjfdc0q5n6vcha8qyqarpzfsh2htqu4dahsivesytx4hsurrh1vhshwtoz
+  - bw80ngy1hzspubki0j1i6
+---
+# 1FYn8CsBKeQdgAGI4mOal4ecg9nvc3tfAIE9jQiFJkDnrPQChPoyBFSAQqmOBWb1OT5TPBxdSopwuw7j
+
+## Context
+From document: TODAY FEELS LIKE A REAL BAD GO — chunk 843 (chunk 843/940)
+
+## Content
+1FYn8CsBKeQdgAGI4mOal4ecg9nvc3tfAIE9jQiFJkDnrPQChPoyBFSAQqmOBWb1OT5TPBxdSopwuw7jRFmbpCasckxBBRTvMhI+qgiAUjL2dhtnlCgOzjwyeRkpjqIMIEeT8lHSlUQ5ykBSVrVzTfEJDmQkE2BonSeG71wI4MHRodig+Nl/zgenhFJsg9Ve3zkkgBZrs5VQjZExAJC0fBk7p/cbg8L5YGh6ytV8Ibc956tuj9ECfkBsjfdc0q5N6vCHA8QYqArpZfSH2hTQu4dahsiVeSYTx4HsURrH1vHsHWtOZ+BW80ngy1hzsPUBki0j1i6/cA33pzrA2HIsXf/UpM/mqvnL4eZk0VnAygcCHGCwlV32KNdhtksoyIu9B8go3dc65dkWJ4ncAE+NP1nDRxUFU/o52zjmu0DZ/KTjeo7nJn0x78iDjKdd++nJMRJY4af5Usvf2Dmb/mbPCNl/dknGTfBKRwNp7GEAFOSE0vecOpkaDh6AAAEIgBat7G/aj0Mez2YBr2W36s0g22vKsLJfMqoqefZJ6Zjvs81N26K32Gtgew8I3rS9oeP5UeSIbaQDZQzZCXI/VGHD0RfUkL0kATxfA0DzmMc8pmuPXEv2GnhmaZMAviU2kw9GDsxB7Qm22QqAFrDP/GJL/CaQVklBp7NLx3qyDDDV3AKuuXZrU81JgRmdKTgCKAr86Qfzk//ElvLTMohsebHp/+yDQO+uu+7aKKDd9Dpzjjd2WZ1kHo/pRDqbTXIcOTw20ZmSQjLnHqU99EjmoX7pM5+BLXXf9jJiD3IzRPZTYg5Aw54DHPCGjuYns63mk5fPeGWOmV/mfh2AO9885Xc7RgxkrkruCcbNAfMEkM1O17GRhIKlLeaS+MeGu+aROaUvN6IqyDy2UTawoE4cad84Adu8koDwKtYsP9Q2MNV93Mm0AAJ7Gn2CbHJCxGtB7jVPiE0Yk2KuQmWQCLWJmeVxrsOwQDJNrkTmOdpDKFuvP+f0HafRkgeT/nogspwn2djM7lFCD0QwwehSGhQgw0px1YRfgjkOUgb+lJG28G0sKHaNVHZ1m8f+TIFSvoIFASOn3bgCPjg8CZBM9ct94ytHVfZtzMC5b9ehzHdF6fFe8MU5dA/tGLkOIzQVoHGeBZaQ71rRT913/m5eZlZnbNzz+Ppd8E+W6sy9+4Esy+QOZQHJHD4b
+
+
+
+---
+*Source: Document b5de64ea907b6e44ec94b342683f3041*

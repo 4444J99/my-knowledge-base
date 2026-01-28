@@ -1,0 +1,31 @@
+---
+id: 7d616a76-1b1b-4931-8162-49791241f21e
+type: insight
+created: '2025-07-18T21:27:21.000Z'
+document: 19a1c8b920a7c59b9421bc142020b138
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 8ngfcj
+  - 8ajqap7qae4p4oarbqmu0ata9jtqydin0affffaghrdqbmymsy
+  - ewfov0hufikoadc
+  - bgphpxveajbrhbzfsd9pz9o2o3
+  - >-
+    ahtyp0nahwxtvohukz4wykviekajr0paqdkwgaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkap
+---
+# /sJ/8ngfCj/sO2/8AJqAP7QAe4p4OarBqmU0ATA9jTqYDin0AFFFFAGHrdqbmyMsY/ewfOv0HUfiKoad
+
+## Context
+From document: New Note — chunk 1289 (chunk 1289/1486)
+
+## Content
+/sJ/8ngfCj/sO2/8AJqAP7QAe4p4OarBqmU0ATA9jTqYDin0AFFFFAGHrdqbmyMsY/ewfOv0HUfiKoadc+bGpHpXVEAjBrhbZfsd9PZ9o2O3/AHTyP0NAHWxtVoHuKz4WyKvIeKAJR0paQdKWgAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP//R/fyiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAa1QOamPWq8hoAzrhsA1j6Svna08hH+qjJH1YgfyzWndH5TVDw4N19fN6CMfnn/CgDsKKKKAE4FNPWg9aYT2FAAT2FQMaYZ4jMYA4MqgMVyNwUkgEjrgkHmmO1AGXrjf8Sa//wCuEv8A6Aa/jd/YT4/a/wDhR/2HLf8Ak1f2N643/Env/wDrhL/6Aa/jj/YV4/a++FH/AGHIP5NQB/ZsrVYU1RVqsq1AFwHNOBxVJJ4nd40cM8ZAdQQSpIyAR2yDnntVsHNAEtFNWnUAFcTrC+TrSSD/AJaxgn6qSP5Yrtq4/wARjbfWLdyJB+W3/GgDUt24FacZrHtT8orWjNAFladTB1p9ABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAf//S/fyiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAYetVpO9WT1
+
+
+
+---
+*Source: Document 19a1c8b920a7c59b9421bc142020b138*

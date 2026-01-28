@@ -1,0 +1,31 @@
+---
+id: 825efdd5-9351-4476-b9b3-cb932af70529
+type: insight
+created: '2025-07-18T21:27:21.000Z'
+document: 19a1c8b920a7c59b9421bc142020b138
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    0elah7guuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffabrrrqauuuuaffffah
+  - fyiiigaooooakkkkaciivn
+  - ipqws6x4b1mbw7z3f9qc0jggjtonlkdtfjvcogpybi2cy4oa
+  - 4uelf
+  - ies67g
+---
+# FbL/0elAH7GUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUA
+
+## Context
+From document: New Note — chunk 1304 (chunk 1304/1486)
+
+## Content
+FbL/0elAH7GUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAH//W/fyiiigAooooAKKKKACiivN/ipqWs6X4B1mbw7Z3F9qc0JggjtonlkDTfJvCoGPyBi2cY4oA/M/4ueLf+E1+Ies67G++2MphtznjyIf3aEf7wG/6sa+qPhV+zl4K1vwNpet+LYLiXUNSj+0ELMY1SOQ5jAC46ptY5yck9sV8v+HvhF8QNX17T9LvfDmpWdvdTxxyzS2cyJEjsA7szKFAVcnk1+sttBBZW8VpbII4YVVEUdFVRgAewAoA8C/4Zc+Ev/Ppdf8AgS9eN/G/4A+E/CPgiXxN4RhnjnsJozOHlMitA52E4PIKsynI7Zz7fdlYHiPRbbxJoOo+H7v/AFOo28kDnGdokUruHuCcj3FAH5o/s7eLf+EV+J+npM+y11gGxlyeMykGM+n+sVRnsCa++/ij8TLP4W6Raa1qFhNfQXU/kfuSqlXKs653eoU/lX5pN8Mvidp96RF4Y1XzbaT5ZIrOdl3I3DIwTBGRkEdetfpfc6JB8VfhrBpvi2zmsZNUto3mjkQxTW9woBJCuAVKuDjI5HsaAOI+Hf7Q/hf4h+Ih4ct7ObTbmWNnhadkKysuMou053bcsB3ANeya14W8OeI4vI1/S7bUExj9/EshH0LAkH3BBr80PGPwI+JXga+aW2sJdTtYm3RXdirScKchmRcujDgnIwD0Y9azv+E6+N5hGljVda4GNoaYSY6feA3frQA343+FfDng34h3+ieGGxZIsbmLcX8h3XLR7iSeOCMkkA4r7F/ZOe8b4Z3C3JJiTUZxDnsnlxEge24sfrmvlbwR+z/8RfG18k2o2Uuj2MjB5bm9VkchjklI2w7MeoyAp7sK/SDwp4Y0zwdoFj4b0WMpaWKbF3Y3MSSzOxGAWZiWPHU9qAPyz+Mf/JU/FH/YQm/9Cr7R+E/w08LeJvgPaaPe2qqdbSSaacKPNE6
+
+
+
+---
+*Source: Document 19a1c8b920a7c59b9421bc142020b138*

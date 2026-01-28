@@ -1,0 +1,26 @@
+{
+  "id": "33cf14c6-3192-4aae-bfe7-e219eca89995",
+  "type": "insight",
+  "timestamp": "2019-05-16T17:37:19.000Z",
+  "title": "<div><span style=\"font-size: 21px\"><br></span></div>",
+  "content": "<div><span style=\"font-size: 21px\"><br></span></div>\n<div><span style=\"font-size: 21px\">Toulmin logic can seem complicated at first — so many concepts, so many terms. But for reasons that we explain in the chapter, Toul-min logic can also be powerful as an analytic and productive tool. Our experience has been that when first-year students commit them-selves to understanding and using the Toulmin framework, their writing improves noticeably. Students begin to make arguments that use evidence effectively, and they write papers that show greater sensitivity to audience. The system holds students accountable for every part of their argument, while forcing them to question the foundations and assumptions underlying their claims.</span></div>\n<div><span style=\"font-size: 21px\"><br></span></div>\n<div><span style=\"font-size: 21px\">But like any complicated system, Toulmin logic takes time to learn. Students usually struggle with the idea that there are two kinds of evidence — in support of reasons and of warrants — and that an ar-gument might be exemplary in its use of one while completely ig-noring the other. The Toulmin system gives you a way of explaining to your students exactly what the evidentiary problems are in their arguments. Our experience has been that when students come to understand the distinction between these two forms of evidence, they also learn to create more effective enthymemes: students can work backward from evidence to claims.</span></div>",
+  "context": "From document: EAA Chapter INTROS — chunk 5 (chunk 5/18)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "96eb322624e76b9b2f5ac7aabacd881c",
+  "relatedUnits": [],
+  "keywords": [
+    "span",
+    "that",
+    "students",
+    "style",
+    "font"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

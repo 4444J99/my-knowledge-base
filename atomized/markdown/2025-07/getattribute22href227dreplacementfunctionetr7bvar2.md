@@ -1,0 +1,30 @@
+---
+id: 3efbdd5b-dc2d-476a-be2f-55533404c834
+type: insight
+created: '2025-07-05T15:06:03.000Z'
+document: af0c0eec9b95a645ff4159ded0dae6bd
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: programming
+keywords:
+  - function
+  - references
+  - replacement
+  - getattribute
+  - 7bvar
+---
+# .getAttribute(%22href%22)%7D,replacement:function(e,t,r)%7Bvar%20n=t.getAttribut
+
+## Context
+From document: javascript:void%20(()=%3E%7Bvar%20S=(e,t)=%3E()=%3E(t%7C%7Ce((t=%7Bexports… — chunk 5 (chunk 5/16)
+
+## Content
+.getAttribute(%22href%22)%7D,replacement:function(e,t,r)%7Bvar%20n=t.getAttribute(%22href%22),i=g(t.getAttribute(%22title%22));i&amp&amp(i='%20%22'+i+'%22');var%20a,o;switch(r.linkReferenceStyle)%7Bcase%22collapsed%22:a=%22%5B%22+e+%22%5D%5B%5D%22,o=%22%5B%22+e+%22%5D:%20%22+n+i;break;case%22shortcut%22:a=%22%5B%22+e+%22%5D%22,o=%22%5B%22+e+%22%5D:%20%22+n+i;break;default:var%20c=this.references.length+1;a=%22%5B%22+e+%22%5D%5B%22+c+%22%5D%22,o=%22%5B%22+c+%22%5D:%20%22+n+i%7Dreturn%20this.references.push(o),a%7D,references:%5B%5D,append:function(e)%7Bvar%20t=%22%22;return%20this.references.length&amp&amp(t=%22%5Cn%5Cn%22+this.references.join(%22%5Cn%22)+%22%5Cn%5Cn%22,this.references=%5B%5D),t%7D%7D;s.emphasis=%7Bfilter:%5B%22em%22,%22i%22%5D,replacement:function(e,t,r)%7Breturn%20e.trim()?r.emDelimiter+e+r.emDelimiter:%22%22%7D%7D;s.strong=%7Bfilter:%5B%22strong%22,%22b%22%5D,replacement:function(e,t,r)%7Breturn%20e.trim()?r.strongDelimiter+e+r.strongDelimiter:%22%22%7D%7D;s.code=%7Bfilter:function(e)%7Bvar%20t=e.previousSibling%7C%7Ce.nextSibling,r=e.parentNode.nodeName===%22PRE%22&amp&amp!t;return%20e.nodeName===%22CODE%22&amp&amp!r%7D,replacement:function(e)%7Bif(!e)return%22%
+
+
+
+---
+*Source: Document af0c0eec9b95a645ff4159ded0dae6bd*

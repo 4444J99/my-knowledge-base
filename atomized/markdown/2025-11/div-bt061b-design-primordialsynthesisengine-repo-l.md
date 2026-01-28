@@ -1,0 +1,42 @@
+---
+id: 1820d802-1418-4344-9ac5-f662f1b5458a
+type: insight
+created: '2025-11-05T02:08:19.000Z'
+document: 3d614fe05eaf43ed6ced45e9304621d0
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: programming
+keywords:
+  - archive
+  - inventory
+  - extract
+  - from
+  - synthesis
+---
+# <div>  •  <b>T061</b> Design primordial‑synthesis‑engine repo layout with layers
+
+## Context
+From document: Below are the two hierarchical to‑do lists.  Each atomic task is separated… — chunk 7 (chunk 7/29)
+
+## Content
+<div>  •  <b>T061</b> Design primordial‑synthesis‑engine repo layout with layers (archive, AI contexts, personal repos, org repos) and synthesis core, outputs, and meta</div>
+<div>  •  <b>T062</b> Plan integration with existing org infrastructure: connect archive‑aggregator and semantic‑archive‑indexer to tab‑bookmark‑manager, auto‑revision‑epistemic‑engine, solve‑et‑coagula, and a‑context7</div>
+<div><br></div>
+<div><b>Archive Inventory and Extraction</b><br></div>
+<div>  •  <b>T063</b> Mount all sources (iCloud, Dropbox, drives) for archive inventory</div>
+<div>  •  <b>T064</b> Run a full file system scan for archive inventory</div>
+<div>  •  <b>T065</b> Generate checksums to identify duplicates in the archive</div>
+<div>  •  <b>T066</b> Export metadata into a master catalog for the archive inventory</div>
+<div>  •  <b>T067</b> Extract text and perform OCR on all writings in the archive</div>
+<div>  •  <b>T068</b> Extract metadata and patterns from music files in the archive</div>
+<div>  •  <b>T069</b> Extract transcripts, thumbnails, and keyframes from videos in the archive</div>
+<div>  •  <b>T070</b> Build a structured database for all extracted content from the archive</div>
+<div><br></div>
+
+
+
+---
+*Source: Document 3d614fe05eaf43ed6ced45e9304621d0*

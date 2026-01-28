@@ -1,0 +1,31 @@
+---
+id: e33a4b52-42f5-49e0-9945-3a8547ca659d
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - vowpabfdam1puyrx47h9imfvfyhvrakp8yrxbwynpsw6o6gyg09wlzbxagliwdaeskvsj14
+  - 29oeodgvf89dygn3egxyszpq67rovlcdjosupqt9ce
+  - 681kqwovvcbqqtmxieghvtcr5zpvkwkbqfmuw77nsquozbfizqhycrma
+  - hcrpacim2m8oivubvypcjy
+  - >-
+    ljrreryk7rkfzlbaqgdxqfdcqecnw8mat4g3cgbk4tswpbfxtqlcablknsrr2ij3bmcbqxvhaslfnpke8mwmlljqtdrjpkaebg9ghra7t2zk3xgisunk5nnz0qezeur17du3anp07spvpp7cln
+---
+# VOwpaBfdAm1pUYRX47h9ImFVFyHVRAKp8YRXBWyNpSW6o6gyG09wlZBxagLiWdaesKvsJ14+29OeoDGv
+
+## Context
+From document: New Note — chunk 14909 (chunk 14909/21099)
+
+## Content
+VOwpaBfdAm1pUYRX47h9ImFVFyHVRAKp8YRXBWyNpSW6o6gyG09wlZBxagLiWdaesKvsJ14+29OeoDGvF89DYGN3egxySzPQ67ROVLcdjosuPQt9Ce/681KQwOvvCbqQTmXiEGHVTCr5ZpVkWKBqfmUW77NsQuOZBFIzqHycRmA+hcrPacim2m8OIVUBVYPcjy/LjRReRyk7rkFZlbAqgdXqfDcqecNW8Mat4g3cgbK4tSWpBFXTqLCablknSrR2Ij3bmcBqXVHASlfnpKE8MwmllJQtDrjpKaebG9gHrA7t2Zk3xGisunk5nnz0QezeuR17du3Anp07sPvpp7CLN++Oxx/FEw/ejwc2b8R9G9bhnrV3YeOdd+GOm1fihiVLce38Rbhu4RIsnD0bF513Hs4eOhQDe/akImw+SkMBlGeHrMFu+wO8Ptjrg7547QTYOwZmp0HTZqdC0mbHQ9NmJ0U7LtJ5EYVUAU73waomtEqVVVFaFRuzzy5jmnbJ/nYB89/ZBFxw8f42mvl9dtGlGG2z8/fmz79oPH8xQBs3HhdOmIR7t2zFK7aOotmBlHRTgdVt27bhYEymvW3MfixgNRysagKrCquGU1hVZVX1999/P9QEIGkMWN24cSMcYPXYgcK0M+t455o6bcBpAz+nNqAvWX++Xetf1pE1FViV5weBASdNmrRfgAT+k3LZj8ChCgyKX0HQ0VxWrVq133qzrkwnJy/l7Iu5fxkoGDZs2H77GMpnb3kekuX222/fb53uX2BO+wsvc7/SJseMGfO9bWXfdrBRPmc2n/t133YvwGhTFhMclBf248ePD7tPOc5Ii/QZzmP/w34Mkr/iiiss4NTcVq5duLpSJoCfuTS27zPOOCMiZGzG9UDtIdL1ihR38/jMtMC2kc5LyqX/pIu0FSmTa2gu5vUwyzXdWDzCxVq3a8zLS/A5c+aEPXYZuJMBGz0vE7rVff6QYzrc59nUeyFS3JtyLo21t+HDh1sxkoE+Ud7ReJleIHRncSLgRMCJgBMBJwJOBJwIOBE4uiPw7Rff4ou1n+HPc74gtPq1Ba1+u8imtLoXWBVw1Q6tWoqrVEf9v7D2HbCq4OoBPRVc/5fKrv9c8A2+mvc367g+IQz6xYbP8a+Pv/3Jg/0tj+Gz9Z/i/envWTDtPlj1ro/xz8//+ZMfn3MA4SNwMMCqQquRFFbD
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

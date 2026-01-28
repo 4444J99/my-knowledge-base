@@ -1,0 +1,26 @@
+{
+  "id": "f2b10c88-2c6d-463c-85b6-fa9058441301",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 2. Faction-Based Risks &amp Rewards – The Balance of Loyalty &amp Betrayal</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Being in a faction now has structured benefits and risks, depending on how it is played.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Faction Benefits:</div>\n<div>  •  Players gain access to faction-wide buffs &amp exclusive items.</div>\n<div>  •  Certain faction-based actions require a collective vote, ensuring power dynamics.</div>\n<div>  •  Example: The Archivists can pause a faction-wide debuff once per game.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Faction Risks:</div>\n<div>  •  If a faction member is caught betraying, the entire faction suffers a debuff.</div>\n<div>  •  If a faction is too powerful, random events will target them to balance power.</div>\n<div>  •  Example: The Trickster Cult may receive public backlash for deception-based wins.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Exile Bonuses &amp Penalties:</div>\n<div>  •  If a player is exiled from a faction, they gain a huge personal power-up but become a lone wolf.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 484 (chunk 484/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "faction",
+    "font",
+    "face",
+    "based",
+    "risks"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

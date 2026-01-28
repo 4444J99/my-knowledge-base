@@ -1,0 +1,32 @@
+---
+id: 5d84a075-0c2e-4711-8451-47b3422a7e3e
+type: insight
+created: '2025-04-08T10:17:01.000Z'
+document: 7704478edec58fe98c8158d649dbd34b
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - wq3wmuqj
+  - m0009djbdrv867deaq5sh4uhqmfl2xztmmwstbupyvuj9vd
+  - >-
+    7qclf3hzgxtwfxaixfr1qkhdysgafqe5lolah7co2fojmpcrltgttkm4gbigw3rghiwajmywwv1ae5nxclojhm8fpzqtmani7rybj3yocfs2lb
+  - >-
+    2watho2lipadqtjvzz4hexcuyir1cgeexgqq06uyg8wyz8nxbsbhqsdct8rmtljl4jzi1ogasu1ecaq3evfwuylh0f6soybzav9u6nckziks2
+  - mernztciulmuy88dkx7lqtkxzpwuvaevaefaffqbeohwgspuiqmj59uiepummnd
+---
+# wQ3wmUqj+M0009DJbDrV867DeaQ5SH4UhQMfL2XzTmMWStBupyvUJ9vD/7qClF3HZgxtwfxaiXFr1QKH
+
+## Context
+From document: New Note — chunk 2875 (chunk 2875/3044)
+
+## Content
+wQ3wmUqj+M0009DJbDrV867DeaQ5SH4UhQMfL2XzTmMWStBupyvUJ9vD/7qClF3HZgxtwfxaiXFr1QKHDysGAFQe5LoLAh7cO2fOJmpCrLtgttkM4GbIgw3RgHiWAJMyWWv1Ae5NxClojHM8FPZqtManI7rYBJ3yOcfs2LB+2waTho2LIPAdQTjvzz4HeXCuyIr1CGEexGQq06uyG8WYZ8NxbsBHqsdct8rmTLjl4jzi1OgAsu1Ecaq3EvfwuyLH0f6SoyBZAv9u6NcKzIkS2/mErnztcIuLMUY88DKx7LQtkxZpWUVAEVAEFAFFQBEoHwGSpUiQmj59uiEPUmmND/7iGR9gzZo1K+sEQoaYZOhYv0Zix8KFC007U32w6rcuLZc/CPChOolBM2bMkD//+c9GyZJktKpqfNjP44DkhVatWlVIeNlcwGrt2rUmBDpJcuka1QcZHjfflIxicaDC1vPPP58WISTWh93m/KK6Za1aeCmtgoykkVtvvVXmzp1riJAkt/gxKgn+7//+ryGNFuM7carXHdZHpVw1RUARqNoIkODGULu/+MUv5LXXXjOq20H3iPe0v/3tb+Xll1+W7t27S//+/Y2qN9W+M7HGjRtL165dU3bBcxzVEP0QCFmGJLVUjS8B8fyabWvZsqUJX0xyZD5ap06dhAR3vhCRjIzJ8WEevvBF5emgLdNfi4Nuj/pTBBQBRUARUAQUAUUg7xBwBvWX0B1TJfz0c1AZglpY3vXQR4eo1lQfZKN+IBsNwY+znTyqg9YdSSI1O4OMNBykE/9EHesuP5be2cN17zZ7GLtte00wuQ9EF0tCNNtIN9u2HJfM6zWbZvPY/XbJvHbdLr3lA15nFSUnQRj6DGSbFegSWWIBmbf57O4FkJKOLiztXn0oWRRSWQ1GzAI2t2FdcQ75e4ta9h8XmX1c3FZol9/vz0cQanhfZp1y2qH+RlDXmw3yID6yJ0WyGA/v9H/nj9/Y6hiu+XC4OyTOYDjtjx+VI8NmCniHzk7tWE92qifa3wDksZ5QvNuIgv5+s5bw6XMIY7wRSolQVy3GF31DrCMQYDxSFe5iWMKn4j/EjW1uYNu1SQBFnd1wTHlxSrMCp+SASLNHoTjIt0Hxk4PFs4wfb6K3Mm86C0T2ccFd0d1IuITzGUiWsmYDiINzJPzZYpwXMlQiZZXlWU2M/w0gD06A
+
+
+
+---
+*Source: Document 7704478edec58fe98c8158d649dbd34b*

@@ -1,0 +1,32 @@
+---
+id: 230c8e5c-f93f-4d96-bdb9-2593fcf35424
+type: insight
+created: '2017-10-19T23:15:11.000Z'
+document: 18dc3a996dd053a8e2f8b89fa16c3840
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - fuof7nlfayvvv1arvniqtba1wkntkewpchb
+  - ybf1i9gp82asvr75nej086zcwqssb0xfdgsajsqcsjkyvhuchrsebitk0k
+  - i9npljisvyzzr4
+  - >-
+    mivox9j50rj9h8rzkj1lbczyvfcurhp82rxjorcicdn63e6gxpijsncpbrh9607au3wjogor7ecqzhuiesvwcvi6ybfalokv6i2u9ukvyi2qvg8q22topr
+  - >-
+    3ldrm36rwacmfbwugpny4esrf79koqnyxpnu1mck1j2qymycypsz9hbk58ttpke6icpwn8ooeysfnlzjclwsxxpp6f7a6lv48m4hc90ogfiemfgxyzfmeugafgmaowah
+---
+# FuoF7nlFaYVVV1arVNiQtba1WkNtkeWpCHB+YbF1i9gP82asVr75NeJ086zcwqSsb0xFdGsaJSQcsJKy
+
+## Context
+From document: L-day IN A CHAR — chunk 117 (chunk 117/966)
+
+## Content
+FuoF7nlFaYVVV1arVNiQtba1WkNtkeWpCHB+YbF1i9gP82asVr75NeJ086zcwqSsb0xFdGsaJSQcsJKyVhUCHrSEBItk0K+I9npLJIsVYzZr4+MivOX9j50Rj9H8RzKj1lBcZyVFCurhP82RxjoRCiCdN63e6GxpiJSnCPBrh9607au3Wjogor7ECQZHUiesvWCVI6ybFAlOkV6i2u9UkVyi2QvG8q22TOPr+3ldrM36RwacMFBWUGpny4esRF79kOqNyXpnu1McK1J2QYMyCYpsz9hBK58ttpKE6icpwn8oOeYsfNLZjCLwSxxpP6f7a6Lv48m4Hc90OgFiemFGxYZFmEugaFGmAoWAh+dGXd2FAln2cD5rRrAYHFTdAtVoQBABg6xI9bgsTchuWF3Q4sj5N6b2uvUiLhxNyVZR/+Hbj8CABVCFxBhsgcheAG/siNrqWnRplbuvB3c+H/TviPx3A/0g+amjQF+sByGA2gkIA/QHBkTyk0FALYdAFkSBXjeJMC4SQnUjTAWNG9ofsaeeedntG6LT6tWr3V4uyz/C1DRfm1Pkv2oC2MTzuWwALIL4Xdj4tsIRmB/WAsUJUQ+Cz+C4gm9mlG2c1OeOz8ZyfgaUHWP6/9c0ns0PvVuHYoXj7ZfnEVgiBLwAAJD6InYk9+BILkqSqGysTbDeWcLmfP7/xzdU4PdrjqQI1nRY7GdV2Fc+/64I480aWa9IFIo8uijPuL7wfbt2BPhsKR0UMcjGVMySIpwV5dfe7/XoAUuR3XstdJ7iIuCoTeGbR8Aj8MERIIumWhfPiIL7DlhQp5vzzRs+eH8XnBnIhxZxIRwZy/0tr60+d0RQpWitokKXAWf7DroaBMGmde578dxBFz6ZSVmoArvY8ASf+pgFHW0XHnF9fkegbld03c4d+tHfIgmpwab1FiiLLvZpzWsZiipfn4X5UTwCHgGPgEfgZkGAyP7p6Wnnq8+cqAtwsQLAEO0Q5kR6NzQ0OAueC9cA+ZvMTyiSvc2OvX3UmlqaXOR5KjErgl+BtCpqW6h7hMGEfOxFsA+I5OrL9FpxIHJahH5xasriIvxLVUsgpqj7sd7/n733+q4ru9L95j45IScikAAB5spRJZWyqpXj1e0s97V1+/rJHvaTx/A/4Ac/evjBHne0+15banWPVndL6qBcKpUqqpLIqiKLESARCCIDBwc4
+
+
+
+---
+*Source: Document 18dc3a996dd053a8e2f8b89fa16c3840*

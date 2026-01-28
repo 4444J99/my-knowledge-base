@@ -1,0 +1,30 @@
+---
+id: 80d92f7f-3f9c-4e3d-8a29-3ea71df234de
+type: insight
+created: '2021-05-26T23:27:15.000Z'
+document: 2ae38fea492495437073a93dd029fb49
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - gj43yecajqfpjoomc1
+  - b7sm7f3jzmost1jnv9x
+  - tg6tadjrwhepxj91g41x3uu6tcsfd7v7
+  - zopbxhqevzbbx
+  - ffpo6vqh9muyzrjxdsycisekn13fmb
+---
+# gJ43yEcAjqFPJOOMc1+b7SM7F3JZmOST1JNV9x+tG6tadJRWhEpXJ91G41X3Uu6tCSfd7V7/+zopbxhq
+
+## Context
+From document: Stuffed Mushrooms — chunk 20 (chunk 20/489)
+
+## Content
+gJ43yEcAjqFPJOOMc1+b7SM7F3JZmOST1JNV9x+tG6tadJRWhEpXJ91G41X3Uu6tCSfd7V7/+zopbxhqEvZbBx+csf+FfPO6vqH9muyZrjXdSYcIsEKn13Fmb+QrWgveRy452pSPq6iiivSPmQooopgFFFFABRRRQAUUUUgCiiigAooooAKKKKYBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABSUUUAFFFFABSUtFACUUlFABRRRQAUUUUAFFFFAB9KWkooAWlpvWl4oAWlptLQAtFFFABRRRWZoKKdTaWgBaKKKAFooooNEPFLSClqGNBRRRSLHilpopaDRC0UUVDLQUtJRUyLiLSikpR1qCh1FFFBZ//W/dWiiigBKKKKACiiigBKKKKaA/Oz9pT9mv7H9q+Inw7tf9H+aW/sIl/1fdpoVH8Pd0H3eo+XIX5C+HfxE8SfDLxJD4k8Nz7JE+WaFs+VPETzHIB1B7HqDyOa/c4+lfnd+0p+zWbM3XxD+Hdp/o5zLf2ES/6vu00Kj+Hu6D7vUfLkD+kPDfxIpYml/Y2c2lGS5Yyls1/LL9H8nrZn5RxZwnOjP6/gNGtWl081+q/Q+yfhf8UPDfxW8Nx6/oEmyRMJdWrEGW2lI+62OoP8LdGHvkD0npxX45/sy6j4osvjDocHhoyFbuQx3qLko1pjMhkHTCj5gT/EBjmv2Lr8z8SeD6eTZh7ChO8JLmS6pXas/u0fVH1/CWezx+F9pUVpJ2fZ+f8AmLS0lL3r88PqBDSUtJVEMKSlpKBBTTTqaaqImJRRRVECUUUU0TIKKKSrJGGkpTSVZmxKSlpKuJEhKQ0tIa0iYsbSUtJWqM2JTTTqaauJAw0lKaSrRmFFFJWkTOQUhpaQ9KszG0UUlBmFIaWkPShESGUUUVoIKKKKCGFFFFAgoopKAEpDSmkoJbEooooJCiiigAooooAKKKKYBRRRVAFFFFMAooooAK/Oj4p6OdC8fazZ7dqSTmdPTZP+8GPYbsfhX6L18qftJ+GmKab4ut0zs/0Scgdjloyfx3An3ArnxMbxPQy2py1Ldz5T3Ubqg3Uu4V559ATbq1tB1u/8OazZa7pb7LqxlWWMnkZU5wR3B6EdxWFu96XdQB+tXgLx74b+KHhv7ZZFHZ4/LvLN8M0TOMMjqfvKecHGGHvkDw3xV+ylomo3sl54W1Z9Kjk
+
+
+
+---
+*Source: Document 2ae38fea492495437073a93dd029fb49*

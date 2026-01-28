@@ -1,0 +1,32 @@
+---
+id: 8cd940af-15a0-4b87-93c3-0eb67fc211e8
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - put0gt9444ffkmali7n6jrjpydkbx
+  - 8pvqkidrud1oescd6qxiy3
+  - y5ujired7jd4bguou0rs05e5c6o0gvsvhuj0nrwgkjsee89ttmg6xzgpht3qwslfdg
+  - >-
+    l3fjw5noau1rcfigfvh24bgr7vxcb4w8vkdtvilbiaqz64fr3dov2jxg1pgndwhkjmrwm8romcmdqz5oyfycdxu
+  - >-
+    l9elbcxur7whwqvwhw4zmqyxp6vpfjeytmxtfbtikver2q20axotgqoppnmuyzc63dybnttrrztuwqy9cvsw5liz88mbtixqvqg9kuxhmxeymyetiq0kfyyix2a
+---
+# QY/pUt0GT9444FfkMaLi7n6jRjpYDkBX+8PVqkidRud1OeScd6qxIY3+Y5UjirED7Jd4bgUou0rs05e5
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 20 (chunk 20/2189)
+
+## Content
+QY/pUt0GT9444FfkMaLi7n6jRjpYDkBX+8PVqkidRud1OeScd6qxIY3+Y5UjirED7Jd4bgUou0rs05e5C6o0gVSVHUj0NRwgKjSEE89TTmG6XzGPHt3qwsLFDg/L3FJw5noaU1rcfIGFvh24bGR7VXCB4w8vKDtViLBIaQZ64FR3DOV2Jxg1pGndWHKJmRwM8roMCMdqz5oYFyCdxU/L9elbCxur7WHWqVwhW4ZmQYXp6VpFJEyTMxTFbTiKVeR2q20axOTGQoPPNMuYZC63DYbNTTRRztuwQy9cVSW5LiZ88MbTiXqvQg9KuXHmXEYmyeTiq0kfyYIx2A/8ArVIiYhFuuSR1/rThGxVONjHurF0mLqAQ4Ck/T/8AXVeYTRMIcAKP4jXQ3YjEAK/w1jXULvb7pDkemea5akG9jVKwyWfMgZTuGMHHrVuzty0jMi9RnJ/xrLhfy9qsPlY4robZdkm0MABnApxi0RViflR/wU+1LXI/hrpEmmRksurQ+a/TYiq21fXJJ47cV9i/smQJH8D9Ct7aG4hhig2q8+399klmkTaTlCxIBIByDx0J+Pv+Cmseoaf8PItZkw8RuYLaFVwSJyzN0HYoG5OTnivs39lwX0X7Ong+HU23zQ6bEjFGyMZOB7YBAx61+t5xFLh6gl1lf7z8pwUX/a9Rdkz6d0+aJjIrqeAcEHv2q1BbzB94JUNwapWDrb7UZSSwyeOK00M33iPkr8loQtFqx+oUylPp8FvIyxcBie3qcn9aliKpavYqudxGT7A00lZ7gYO0IenrUzo8Sl1IrS+jOqL1Ea3TzUcZ+UYxWGqzNLKrphOeK6eLy3YM5xntUMqFZWjU8HmsZWsaKNzn7eDaNiZI6jNaQIEigcqO9TPEqEKAeeuKXY8EyRMPlIyD6U7qxnOI6Bh5xAH3eatBnTPmnhuMf1quPll3qCfWpDFG03JPHP51vBpFQ0RSulaOTYrnGeR261LFDMidcDtipJoV3b+uBVKRpo4lUckn8q5prXUUdAhg3CVZ1JPY1bt8rEIc5GOQaYUmjA55NSJkSfvOgHU8VukuWxDWug2R4n+RAMryCfX2/CgpF5BU8nGT9ai2xs5CD5hyBU0ikR+XjGKzkinG6sYMkcM3zGPJU5Gex9a/Pv8Ab3itX+FN7cXs0trHG8Kp5a7t0nmBlXHHUjr2r9CJvMi5A61
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

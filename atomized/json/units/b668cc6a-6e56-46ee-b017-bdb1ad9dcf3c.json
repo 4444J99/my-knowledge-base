@@ -1,0 +1,26 @@
+{
+  "id": "b668cc6a-6e56-46ee-b017-bdb1ad9dcf3c",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div>code-insiders --uninstall-extension richardluo.frosted-glass-theme || true<",
+  "content": "<div>code-insiders --uninstall-extension richardluo.frosted-glass-theme || true</div>\n<div>code-insiders --uninstall-extension ezze.dynamic-base16 || true</div>\n<div>```</div>\n<div>(Keep `vscode-vibrancy`; verify actual IDs before uninstall.)</div>\n<div><br></div>\n<div>**Risk Mitigation**</div>\n<div>- Profile Isolation: Create a profile `Transparent` containing only: vibrancy extension + core dev tools + single AI assistant.</div>\n<div>- Memory Watch: Observe `Code - Insiders Helper (Renderer)` in Activity Monitor before/after changes; sustained reduction &gt50–100MB indicates successful trimming.</div>\n<div>- Crash Guard: If you see window artifacting or flicker, toggle:</div>\n<div>  - Set `vscode_vibrancy.forceFramelessWindow` → false</div>\n<div>  - Remove any residual `apc.*` settings</div>\n<div>  - Restart with `code-insiders --disable-extensions` to test baseline.</div>\n<div><br></div>\n<div>**Quick Fallback (Opaque Mode)**</div>\n<div>Create a user snippet `settings-opaque.json`:</div>\n<div>```jsonc</div>\n<div>{</div>\n<div>  &quotvscode_vibrancy.enableAutoTheme&quot: false,</div>\n<div>  &quotvscode_vibrancy.forceFramelessWindow&quot: false,</div>\n<div>  &quotvscode_vibrancy.opacity&quot: 1</div>",
+  "context": "From document: User: fix — chunk 24 (chunk 24/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "code",
+    "insiders",
+    "uninstall",
+    "extension",
+    "false"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,31 @@
+---
+id: c3b82d1c-22fe-450b-b8bd-b219fa26a711
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    ijudv1zl4rxjjmrwdtn6vhitnziwaaqnzoke4xfbejmert8srfc3tkgmjrtcgfitbv56ieokxyxjlfkg7fqdxjs1ibxntos58jyasjwkty9o9qkomiq71cfemsf6tzmcbafwhlaliqttnsyvdvtljahzdkmjm5iec3qmdjtqcc
+  - tmlgnbzwr43u65qldcyevvcqrg0csxr8fyu7gaiifmsf
+  - iwjiqkialxdxzicngkvhg7of5veuogzvrhz2wntun1s9rrn1pwqm98isfnejhjzh
+  - 23f7ywzfrff4es
+  - gim54xv2udjc0sxsvksoxjhpdczdzbpsm6hjyzh62xtkqtuaeurtmgw
+---
+# iJUDv1ZL4rXJJMRWDTn6VhiTnZIwaaQnZOKE4xfbeJmert8srfC3TkgmjRTCgFitbV56IeOkxYXJlFKg
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 15677 (chunk 15677/18928)
+
+## Content
+iJUDv1ZL4rXJJMRWDTn6VhiTnZIwaaQnZOKE4xfbeJmert8srfC3TkgmjRTCgFitbV56IeOkxYXJlFKg7FQDxjs1IbxNtos58jyasJwKTY9O9QKOmiQ71cFEmsf6TZmcBAFWHlaLiQtTnSyVdvTlJaHZdkMjM5IEc3qmDJtqCC+TmLgnbZWr43U65qldCYeVvcQRg0csxR8FYU7GaiIFmsF+iWjiQkIaLxdXzicngkVhg7of5VEuOGZvrhZ2wnTUN1s9Rrn1PWqm98iSfNEJhJZH/2Fe+23F7yWZFRFf4Es/gIM54Xv2UDJC0SxsvKSOxjhpdCZdZbPSm6HjyzH62xtKqTuaeURtmGw/y2+IhZV0pglnXWfd1UrliMLSE4fRz1SYSGcUphWnx+rrsHIvxanNveoPgXY7s5CXspNwx0syjW9f4BewTjMl2LEijaR6CxRbmfsqJQ+wan7At7C5okaE4PH45YP5RaNMpk3Fb02jxSNTENi7hIytE24KMJyfrQLVslpNESirENtlVZ4WjuHim8+kUQMIROj0Rj+DCZZyoBmGztVeCxsCTmwQgmM1N2GUZcW3r8m5vq9rT5pzTHCa6rusvoJpOQi3WmBTNQe4Og0n+rYybb+XqtMjJy25I7ROoKYiTiyFAKcK0hkrBtKRi//32R+bjm11ZLIeDZJUGOcK+UWhOmiSwNAAnFntS96a8h7RW4ETlfROM+A3aSEzzIbVk8OGpsHwT1ZD0qG1Fk0jUZBw6YsGlELG+B3QPMkneXOYFuo4ZzLSJAnLvINmxjte0H74XG3OevukMHvtedIHSMm1g83AJ0xtmEoOJ08dYn0clYKEf/vkLM45OXMettxH4pyZfezMSZjzsL9wltyH6pyxfR7WWFcQBFu5oSzvcTpoYBoNc6wwvO/Yxryna/Qx1Jhr8MvHOv404YdO+P4mXF4cgo/raxKdfOv+yRlwrswz36UrIfdFDiNJAp3nHsvJ+dfzPblrpwyk9FL2oy5Xh25vs6WgnnIpp+ejo5XVHT7yKKAWKEqvbmE10Wx7D5p9RZKlfbzj+t4SS6BtHHyc+p3huINqMAnB9+189HVfiQclAL49luGFuTrgY3X5msVlKHncrTLpKs4uRuMLQcTgibvhGRNxaAnQUXL85oG3MdbfJJutddYpjyYcMokUhQ2QncQmJjBQbBoCR1h36o3s
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

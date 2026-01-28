@@ -1,0 +1,26 @@
+{
+  "id": "266382ee-c1a2-46cb-9f97-5e254ec87dcd",
+  "type": "insight",
+  "timestamp": "2026-01-22T10:54:11.000Z",
+  "title": "<li>1.1.c     | Draft nonprofit bylaws                                      | 1 ",
+  "content": "<li>1.1.c     | Draft nonprofit bylaws                                      | 1 hr            | 1 hr                        | 2025-04-25</li>\n<li>1.1.d     | Hold inaugural board meeting; adopt bylaws                  | 30 min          | 30 min                      | 2025-04-25</li>\n<li>1.2.a     | Submit IRS Form 1023-EZ via Pay.gov                         | 1 hr            | 2–4 weeks                   | 2025-04-26z</li>\n<li>1.2.b     | Begin Florida Sales‐Tax Exemption (Form DR-5)               | 45 min          | 2–4 weeks (post-IRS letter) | 2025-04-26</li>\n<li>1.2.c     | Note next steps: FDACS charity reg, bank setup, grant map   | 15 min          | 15 min                      | 2025-04-26</li>\n<li>1.3.b     | Download EIN confirmation letter                            | 15 min          | immediate                   | 2025-04-27</li>\n<li>1.3.c     | Open organizational bank account                            | 1 hr            | immediate                   | 2025-04-27</li>\n<li>1.4.a     | Prepare DR-5 final packet; await IRS letter                 | 45 min          | immediate (once letter in)  | 2025-04-28</li>\n<li>1.4.b     | Log all reference numbers in setup doc                      | 30 min          | 30 min                      | 2025-04-28</li>",
+  "context": "From document: download-watch--movies — chunk 5 (chunk 5/7)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "c74e9fb39a3bece21728d7ff82e485ef",
+  "relatedUnits": [],
+  "keywords": [
+    "2025",
+    "letter",
+    "immediate",
+    "bylaws",
+    "form"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

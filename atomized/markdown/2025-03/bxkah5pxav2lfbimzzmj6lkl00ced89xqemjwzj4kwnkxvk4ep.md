@@ -1,0 +1,31 @@
+---
+id: 3aea5d4e-78fc-44d4-a3ab-887ad1906588
+type: insight
+created: '2025-03-13T23:47:48.000Z'
+document: 3b2e4f3759d2535cf9a91dec728a8fbc
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - bxkah5pxav2lfbimzzmj6lkl
+  - 00ced89xqemjwzj4
+  - kwnkxvk4ep6le0mw5du0qf9l6o8ubzudwsckmyqk0rawjlwmqf2i
+  - >-
+    fmr4lbaiqgaaeiaabceagtqmgukva70el8bpkv7n8py89hxl3f9pmru7hnrrgjrcyk6lpmucctsmylgivkkmjzyukarkmck0xosekk1nv9yn8i3lokasjrifdjv7pjfmvecqpfk8cj7imbexjlvw4fylrname
+  - pijornitbzatg7lq35gwjarxll6tnxivhv
+---
+# bXkAh5pxaV2LFBImZZmj6lkL+00ced89XqEmJWZJ4+KwNkXvk4ep6lE0mW5du0Qf9l6o8ubzudwsckmY
+
+## Context
+From document: Squarespace, ChatGPT, GoDaddy Expenses — chunk 1619 (chunk 1619/2268)
+
+## Content
+bXkAh5pxaV2LFBImZZmj6lkL+00ced89XqEmJWZJ4+KwNkXvk4ep6lE0mW5du0Qf9l6o8ubzudwsckmYQk0RawJlWmQF2i+Fmr4LBAIQgAAEIAABCEAgtQmgUKvA70eL8Bpkv7N8pY89Hxl3f9PmrU7hNRRGJrCYK6lpmuCctsmYLGIVKkMJzyUKARkmCk0XOSEKK1NV9yn8i3LOKaSjrIfDJv7pjfMVEcqPFk8Cj7ImBeXjlVW4FylRNAme+PijoRNITbzatG7lQ35GWjarXll6TnxivHv+xVe8dbPCfvayHA9I6hPQczqgfz//krL0pVde8+Ef9RxrMUu5Jx4d+3BCCy6J3EeN7X5Ucvh4929w7+peL+nvSFnquxnPUup/47QQAkUJNEnPcOPvHVt0Z9Snnft3eWVam5Zt3LgRstjPH3YtXL3Y7T64J6p08Y8tMpr7nWeyiodxPW3hIhEIQCA2gfoWXlUShAiMXTKxI61jhHcOjFkCZVd0bfKg0Rg924znpLS4aGN2KdMkGiMmI/rtlsQaC5yw8HqBV1l0vV1swT5MoTbl1deLLPBfvHjJqc0SRXx418THCz20ouu8WZ9ToU0KvXfAcuStstxfB22c18c80zpZWHeN6UsaY8XiIo9DeSzqpbx0PhWAGeVpzHju3DmvWFOOvMcnjCtXD8RYITs1N23RvLkPMar2BGEflT5AXmyaZz733As2r+rllcAKqyglcrQoysKpU2f87latWkUf9p/V97AILTpY1jlqrPCnel50DysPXJaNoaNzvoU2NM7OIMdhvBQH4iYJykZX16aEvyOayyIQgAAEIAABCEAAAqlNAIVaBX8/8jBbsXK127hxS2EIGE2mlUuhtlmsDh44IG6LVPad5aus/NbCJOfFTog1Ny8IIVOsfBXfISXClKnTPI9bhw1xeoWJQvNISlpYCY7Hsv4N6l69Zr1buWqNX4RQ6I6wCabKyqo12rI1qEPvmmD26dXLT6IPHz6KQi0SThXZzsjI8C0dZyFuFM7p7SXv+NCu8jqTtXp0yKbIbiV6H+l+lCekFgRiSVZWvmdri2b593qsctpflvrK+1mK106OQaAqE8jOy/HNl1daoEzLsX2HTx5NqFstLKyj5Hx2ltu0e4sb1DN/jKBt7UMgAIHYBNILQqqdtTDIWvBXHquySJjXjepT+L8wkQfSvHkL
+
+
+
+---
+*Source: Document 3b2e4f3759d2535cf9a91dec728a8fbc*

@@ -1,0 +1,26 @@
+{
+  "id": "f7b385ac-9cc3-4dd9-b58b-432d956ff03e",
+  "type": "insight",
+  "timestamp": "2024-09-10T15:11:06.000Z",
+  "title": "<div>Receipt (write check number on receipt)</div>",
+  "content": "<div>Receipt (write check number on receipt)</div>\n<div>Permit Number </div>\n<div>How long?</div>",
+  "context": "From document: Receipt (write check number on receipt)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "c58e82a2a2e80ef5a1c04f10986cce83",
+  "relatedUnits": [],
+  "keywords": [
+    "receipt",
+    "number",
+    "write",
+    "check",
+    "permit"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

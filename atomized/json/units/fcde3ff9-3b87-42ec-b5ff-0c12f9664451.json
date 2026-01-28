@@ -1,0 +1,26 @@
+{
+  "id": "fcde3ff9-3b87-42ec-b5ff-0c12f9664451",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt>**Outputs:**  </tt></div>",
+  "content": "<div><tt>**Outputs:**  </tt></div>\n<div><tt>- Syllabi  </tt></div>\n<div><tt>- Assignment sequences  </tt></div>\n<div><tt>- Tool use guides (e.g., wordcut syntax, narrative layering)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>#### TIER 3 — APPLICATION</tt></div>\n<div><tt>**Focus:** Case study use, student-led or collaborative projects  </tt></div>\n<div><tt>**Outputs:**  </tt></div>\n<div><tt>- Capstone modules  </tt></div>\n<div><tt>- Experiments &amp creative workshops  </tt></div>\n<div><tt>- Public zines / showcases</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### III. | EDUCATIONAL APPLICATION BY PROJECT</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Project ID     | Tier(s) | Pedagogical Angle |</tt></div>\n<div><tt>|----------------|---------|-------------------|</tt></div>\n<div><tt>| ::MET4morfoses | 1 / 2 / 3 | Myth engine design, theological recursion, worldbuilding labs |</tt></div>\n<div><tt>| ::Q_v33R       | 1 / 3     | Personal storytelling, queer theory, podcast workshops |</tt></div>\n<div><tt>| ::GR1ND3R      | 2 / 3     | Horror grammar, dream logic, film studies |</tt></div>\n<div><tt>| ::ETCETER4     | 2 / 3     | Sound design, sampling as narrative, live performance |</tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 131 (chunk 131/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "outputs",
+    "narrative",
+    "tier",
+    "application",
+    "workshops"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

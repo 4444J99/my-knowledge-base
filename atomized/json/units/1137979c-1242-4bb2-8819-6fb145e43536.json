@@ -1,0 +1,26 @@
+{
+  "id": "1137979c-1242-4bb2-8819-6fb145e43536",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:20:25.000Z",
+  "title": "<div>This architecture allows for highly dynamic, creative, and context-aware ap",
+  "content": "<div>This architecture allows for highly dynamic, creative, and context-aware application experiences that are defined by natural language instructions rather than hard-coded logic.</div>\n<div><br></div>\n<div>2. Core Concepts</div>\n<div>2.1. Dynamic UI Generation</div>\n<div>The fundamental principle is that the LLM acts as the &quotapplication logic&quot and &quotUI renderer&quot simultaneously. It does not return data to be formatted by client-side templates; it returns the complete HTML view layer itself.</div>\n<div><br></div>\n<div>2.2. The Interaction Loop</div>\n<div>Every user action initiates a round-trip to the LLM.</div>\n<div><br></div>\n<div>User Action: A click on an element with a data-interaction-id attribute.</div>\n<div>Data Capture (GeneratedContent.tsx): A generic event listener captures the click, packages relevant attributes (id, type, value, appContext) into an InteractionData object.</div>\n<div>State Management (App.tsx): The main App component receives this object, updates its interactionHistory state, and triggers the API call.</div>\n<div>Prompt Construction (geminiService.ts): A detailed prompt is assembled, combining a master system prompt, the current interaction details, and a summary of recent past interactions.</div>",
+  "context": "From document: --- --- --- — chunk 8 (chunk 8/16)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "35fed1b2e2d94a09b13c5614aa5aa659",
+  "relatedUnits": [],
+  "keywords": [
+    "data",
+    "interaction",
+    "prompt",
+    "this",
+    "dynamic"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

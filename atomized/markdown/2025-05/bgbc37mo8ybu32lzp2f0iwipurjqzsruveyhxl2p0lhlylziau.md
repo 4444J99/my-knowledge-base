@@ -1,0 +1,32 @@
+---
+id: a12d0c57-0a55-481b-a574-aa3cdd9cf312
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - bgbc37
+  - mo8ybu
+  - 32lzp2f0
+  - >-
+    iwipurjqzsruveyhxl2p0lhlylziauokbu0rkkirnuaohnuo9j5dxwlawlw5oq4rk6wujii6tvjz1kfu1draklwpwtoihvbcvaitvxdif4m6nyw4elbtbk5wrbu1da9jusmr5evhcqvm5y3brnwlmldkyhuj5j1bq7nzs3bpcdq3pcg8nqhvcaty665caztqw2erjpzsyiqbvckqcq1in9aqjaxur5zawxckm2twqg
+  - >-
+    tsthwhw79mirkehvz9xlorv4ba5ikurm5wqhvxe2rmnwva6ormu0v29jqediwogn2d8rjemou7mj77axdsfq7any1hcq0slb1cod3y8rqhvw
+---
+# BGbC37/mO8ybU//32LzP2f0+iwipUrJqZSRUVEYhXl2p0lHLylZiauoKBU0rKkIRnUaohNUO9J5dXWlA
+
+## Context
+From document: New Note — chunk 20516 (chunk 20516/21099)
+
+## Content
+BGbC37/mO8ybU//32LzP2f0+iwipUrJqZSRUVEYhXl2p0lHLylZiauoKBU0rKkIRnUaohNUO9J5dXWlAWLW5OQ4RK6WuJiI6TVJz1KfU1draKLwPwtOihVBcvAiTVxdif4m6NyW4ElBtbk5WrbU1Da9JUSmr5eVhCqvm5y3BRNWlmLDKYHUJ5J1Bq7nZS3BPCDQ3pcG8NQhVCaty665cAZtqw2ErJpZSyiqBVcKqCq1in9AqJaxuR5zaWxcKm2tWQG/tSthWHw79mIRKeHVz9XLorV4BA5iKurM5WqHVXe2RMNwVA6OrMU0V29jqeDiwOgn2d8RjemoU7MJ77axDsFq7AnY1hCq0SlB1COd3Y8rqHvw+exG27m+NhfG2eDiISa5URxsjYXddOOyqDYU+VL45ObnnodW4xBSQ6aqyL5Gq7MclpMDA4G54/Y034bXX34A16zYCJa8S+KT7DQ2PwseffIrY9ElYv3HzWZRKkJUAKaWj3nDTl8/On8WqZ8ArjTdv3YZg9RP4x/MvKETKkJXA6klKWP3oNHzjlm+dhay8TjWAVhMQrL4M77z3PnzjX751XkKqnpjK44TkNDhy9Di8i9/xTw/+Geoamm2v6+ndiimwjzpiVYKsfsCqH7T63HPPIap1b3//+9/BS3v22WfBqT3zzDPw9NNPe2oEVPXGCatUnVJWaY1QqltzQ6sEVwmmOjUvaasMVq0q41UroGo1ZwdV5bwTUrVakzDVqc8Y1U/1i1X1/cFAq3wPN3Qa7PW5ilRn0s8VbJxg7mfAizkD5gyYM2DOgDkD5gyYM2DOgMFDFxYPmedvnr85A+YMmDNw8ZyBixFtXmw/s1+I6rbfDaTarU8En/q9xgqk2s3Z4VR93gqh2s1JnKr3J5OoyumqwUhWDQZWJcw6F8CqG0L1s24HVp2wKqesMlTlSjiV+lQZqnLlpFUGqlwlVLXCqoRTP0fAymCVYKobWJVw1Q2tSqjKfR2q0lgHqzTW0SrhVDu4ymiVgape/UBVBqwyXVX2rbAqzelgVU9V5bEdVqX5//mf/wFOXKW+bDS/cuVK30AoPj7+LFJkrMjVDqxy+iZhRrtG+FFiRyus6hWqMmBlsCrhJANKqj/72c98//wzGSFdddVVvuCpG1IlhCn38JgqgVV6X/zO+b3ye9OfeTDBKn0+NyKR1OdfPM9zdmN5ndwr
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

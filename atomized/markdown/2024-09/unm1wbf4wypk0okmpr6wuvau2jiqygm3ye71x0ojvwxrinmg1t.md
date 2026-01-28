@@ -1,0 +1,32 @@
+---
+id: d08e4084-31ec-43a1-be87-f596c297b771
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    unm1wbf4wypk0okmpr6wuvau2jiqygm3ye71x0ojvwxrinmg1tocute1s76kbmt36vjqi4gq5cjfey2rf5dzd03f7vhpblpqqcd9phviaxijsgdzblif0ki5bvjq3dz54v5c0fek3ud8zufukdqc
+  - r9hfehzgwsnoq1
+  - 00dwdn2ufv
+  - >-
+    c7wdgvjk3hsbesbhtq0d14de1pnxjhqqfxxj5kct2pwaudxlctfkcoukne3fmrpw433eizug1qdee8jg48
+  - fjflwtu2hnlefqd5zkltise8sanshu0udq1vrkndwt
+---
+# unm1Wbf4WyPk0okMpr6WUVAu2JIQygM3yE71X0OjvWxriNmg1tocUtE1S76KbMt36VjQi4gQ5CjfEY2R
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 9197 (chunk 9197/11534)
+
+## Content
+unm1Wbf4WyPk0okMpr6WUVAu2JIQygM3yE71X0OjvWxriNmg1tocUtE1S76KbMt36VjQi4gQ5CjfEY2Rf5dzd03F7vHPbLPqQCD9PHVIaxIJSGDZBLiF0ki5bVJQ3Dz54V5c0fEk3ud8zufUKDqC/r9HfeHZgwsnOq1+pN/00dwdN2Ufv+C7WdGVJk3hsbeSBhtQ0d14dE1pnXjhQQfXXJ5kCt2pwAudXLctfkcoukNE3fmRpw433eiZug1QdEe8jG48/FJFlwTU2hnLEFqD5ZkLtiSE8sANshu0UDq1VRkNdWt/qI1sa4ijouus6FBxyLnobWBAkhYafzA3/Htd0XjuDkmgTX+0W31KOXfLrSFVqaB+wxsqwKEey2ouqHS0VIFS/Ajvlqo5T4/2SADXXHxH5ImBtGNLZ4O7a8Uvl+/Ocs6NRsU/4hGPqJdzEXrFY6/kTQYnso0nuGrWKe3BiMG0Jh0yCjlRLPivGt4RF6Mra7cNqUaHDq9Na3GilJImzMO7+eh49G5S7J0KvPGkKaOzrsyecgIkkTk1cqon/I8FW34ot2u/nQhMPrrw1I113TX750bTpcT2WOBNzJuy5OfoTl84XvLR9a/o0j+XyQiFlHaXbaydIFu4QoOpr34LqpVqIXhqD61/IJUvqaNVCblUbqlic4U3qLU2h9Zc0YUHbK5ts0Kb92hz0dGZCGcdAo9vli4Ig4UaFN0wh6JLFN2jyrbHHphZJQIJcgrRkMB2EEjXdi9GAxPujRytlMJNlZvwTNlWisDN+VGPelSTnItjj338l/DUHKIiFw8Vu6RMUrQ8wmhQ4vxv/Z4UbEm55capiju67saj67401lyqtbQ7KbqGyVRQeqfqruVTdgkdRktFlyep2ueOR10mRZcbyWU3OUvKshVdPldK7ajLIRTdsiVcKf+FldS6ZNCv0Bost/VXaPPWMMmnNTTmUm6lyG1kW0McFV2zxmtQdNGHSL0N8uE74s42jGZrLmW6Y5T6SQ09Kg9JQAISqBBIt45ejErmlV1ua5TCXZQth9hyU0332JJsawj/oi/6otly7lTUHV1bFQkXkv9tNNlJ7XqSZOLoYoruVLY1yLMk58YG6m6+tTTRZefwse/uVNTVsqoEnqAbQR772U5HVOaH2tqzFF2dqFPRleRYD+HrIsgWrsdgGqzfgubVS+sffw2FXKpSSaTN
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

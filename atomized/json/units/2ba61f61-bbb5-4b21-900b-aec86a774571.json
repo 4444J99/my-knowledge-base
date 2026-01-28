@@ -1,0 +1,26 @@
+{
+  "id": "2ba61f61-bbb5-4b21-900b-aec86a774571",
+  "type": "insight",
+  "timestamp": "2017-07-16T16:27:04.000Z",
+  "title": "<div>Ableton Protocol</div>",
+  "content": "<div>Ableton Protocol</div>\n<div><br></div>\n<div>-duplicate all midi tracks, freeze one version</div>\n<div>-export sketch</div>\n<div><br></div>",
+  "context": "From document: Ableton Protocol",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "08bccdcaae946f93f175d1d02706ba71",
+  "relatedUnits": [],
+  "keywords": [
+    "ableton",
+    "protocol",
+    "duplicate",
+    "midi",
+    "tracks"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

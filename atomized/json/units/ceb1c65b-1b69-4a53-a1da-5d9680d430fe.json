@@ -1,0 +1,26 @@
+{
+  "id": "ceb1c65b-1b69-4a53-a1da-5d9680d430fe",
+  "type": "insight",
+  "timestamp": "2024-09-08T22:33:42.000Z",
+  "title": "BBBAAAEEEEAAAQTKFiBEN4EQnU7SglkwuwjRIYAAAggggAACCExJQKOvsofLtI8AAggggAACCCCAAAII",
+  "content": "BBBAAAEEEEAAAQTKFiBEN4EQnU7SglkwuwjRIYAAAggggAACCExJQKOvsofLtI8AAggggAACCCCAAAIIIIAAAgiUIUCIbmIhugeMT7e7tH1K01Lr4/vvHAUCCCCAAAIIIDCsgEZcGn2VMUSmTQQQQAABBBBAAAEEEEAAAQQQQKBsAUJ0EwvR6VTdY+4x9xKiQwABBBBAAAEEEChRQCOusgfKtI8AAggggAACCCCAAAIIIIAAAgiUJ0CIbsIhOp0qHno57HfhqY8AAggggAACCAwiwMMty/tgQMsIIIAAAggggAACCCCAAAIIIDBNAUJ0pYTodAq3m+3mjhK/Pz7INBZ1EEAAAQQQQACB9SGgkdU0B8rsCwEEEEAAAQQQQAABBBBAAAEEEChPgBBdiSG6PWaPuT/earaa2wnUIYAAAggggAACCIwooNGURlblDYtpGQEEEEAAAQQQQAABBBBAAAEEEJimACG6EkN0OpF3m7vNPSNOSK2P77xzFAgggAACCCCAwDgCGk1Nc4jMvhBAAAEEEEAAAQQQQAABBBBAAIGyBQjRlR6i0ylcNItmN4E6BBBAAAEEEEAAgSEENIIqe0BM+wgggAACCCCAAAIIIIAAAggggMD0BQjRTSlEp1O7YBbMriGmpcb5vjnbIoAAAggggAACa1dAo6bpD47ZIwIIIIAAAggggAACCCCAAAIIIDAdAUJ0Uw3R6aTuMDvMTgJ1CCCAAAIIIIAAAssIaKQ0naEwe0EAAQQQQAABBBBAAAEEEEAAAQRWS4AQ3SqE6HSy7zR3mh3LTEut3W+703MEEEAAAQQQQGAcAY2OVmtYzH4RQAABBBBAAAEEEEAAAQQQQACBaQoQolu1EJ1OM3fUjTORx7YIIIAAAgggsD4EuHNumh8A2BcCCCCAAAIIIIAAAggggAACCFRBgBDdKofodBHwG3XrY3qRo0AAAQQQQACBYQX4zbkqfCSgDwgggAACCCCAAAIIIIAAAgggMH0BQnSVCNHpxC+aRbObR18igAACCCCAAAL7hIBGPtMf/rJHBBBAAAEEEEAAAQQQQAABBBBAoAoChOgqFKLTBXG3udvcE281W83t+8T03LDftac+AggggAACCKxdAY1wNNqpwlCYPiCAAAIIIIAAAggggAACCCCAAAKrJUCIrnIhOl0Ke8wec3+83Ww3dxCoQwABBBBA",
+  "context": "From document: Apparently I'm not the first person who thought you were using them… — chunk 7846 (chunk 7846/11534)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "549d1e6fb5630f6ece8ceea4fe2287e8",
+  "relatedUnits": [],
+  "keywords": [
+    "bbbaaaeeeeaaaqtkfiben4eqnu7sglkwuwjriyaaaggggaaccexjqkovsoflti8aaggggaaccccaaaiiiiaaagiuiucibmihugemt7e7th1k01lr4",
+    "vvhauccccaaaiiidcsgezcgn2vmusmtqqqqaabbbbaaaeeeeaaaqqqqkbsauj0ewvr6vtdy",
+    "4x9xkiqwabbbbaaaeeechrqcousgfkti8aaggggaaccccaaaiiiiaaagiuj0cibsihop0qhno57hfhqy8aaggggaaccawiwmmty",
+    "tgqmsiiiaaaggggaaccccaaaiiidbnauj0pytodaq3m",
+    "3mjhk"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

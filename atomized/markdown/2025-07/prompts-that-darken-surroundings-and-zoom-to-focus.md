@@ -1,0 +1,30 @@
+---
+id: 3be8d049-0ee7-49f1-ab09-b0e68148ea9e
+type: insight
+created: '2025-07-06T01:33:11.000Z'
+document: 9fd27aa005603b4099800d554c6afb3d
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: design
+keywords:
+  - with
+  - prompts
+  - that
+  - ghost
+  - moves
+---
+# prompts that darken surroundings and zoom to focus. • Ghost moves with transluce
+
+## Context
+From document: title: "Backgammon Chaperone: Mobile Design Critique | Shared Grok… — chunk 4 (chunk 4/20)
+
+## Content
+prompts that darken surroundings and zoom to focus. • Ghost moves with translucent checkers and animated trails. • Layered explanations: basic rules, strategic tips, historical anecdotes. • Challenge Scenarios: Historical avatars present puzzles with ambient changes. Avatar Challenge Learning Objective Roman Centurion “Secure this flank against an ambush.” Prime creation tactics Tang Scholar “Balance offense and defense.” Pips calculation mastery Viking Shieldmaiden “Clear your home board quickly.” Bearing-off optimization • Cultural Variants: Unlock Nard, Tapa, Tab with micro-tutorials illustrating rule differences. • Philosophical Prompts: Post-move questions linking strategy to Stoic, Confucian, or Norse wisdom. • AR Mode Tutorial: Ghost hand guides first moves in real space with floating compass and prompts. • Progress Tracking: Skill map, achievement badges, and adaptive pacing based on hint usage. --- 9. The Archivist AI Chaperone A text box breaks immersion; the AI must live in 3D space. Expansion Proposals • Diegetic visual cues: glowing checkers, shimmering valid points. • Optional 3D avatar: robed figure or hologram that gestures and reacts. • Voice customization: grandpa
+
+
+
+---
+*Source: Document 9fd27aa005603b4099800d554c6afb3d*

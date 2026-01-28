@@ -1,0 +1,55 @@
+---
+id: a249c3d3-c488-4a3b-8bc7-0e80dfa05f71
+type: insight
+created: '2025-11-23T22:21:12.000Z'
+document: f75193c56b19a08e9a1a9ea52ee44833
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - cursor
+  - length
+  - stream
+  - clusters
+  - cluster_index
+---
+# <div>Goal: impose the cluster-length rhythm (1, 2, 4, 8, 4, 2, 1, 2, …) on top o
+
+## Context
+From document: Here is a reusable, parameterized algorithm you can use to recreate… — chunk 3 (chunk 3/8)
+
+## Content
+<div>Goal: impose the cluster-length rhythm (1, 2, 4, 8, 4, 2, 1, 2, …) on top of the Fibonacci-driven glyph stream.</div>
+<div><br></div>
+<div>Step 3.1</div>
+<div>Initialize:</div>
+<div><br></div>
+<div>$CLUSTERS = []</div>
+<div>$cursor   = 0</div>
+<div>$cluster_index = 0</div>
+<div><br></div>
+<div>Step 3.2</div>
+<div>While cluster_index &lt $MAX_CLUSTERS and cursor &lt length($STREAM):</div>
+<div>  1.  Let $cluster_len = $CLUSTER_PATTERN[cluster_index mod length($CLUSTER_PATTERN)]</div>
+<div>  2.  If cursor + cluster_len &gt length($STREAM), then break (no more full clusters).</div>
+<div>  3.  Take substring:</div>
+<div>$cluster = $STREAM[cursor : cursor + cluster_len]</div>
+<div>  4.  Append $cluster to $CLUSTERS</div>
+<div>  5.  Set cursor = cursor + cluster_len</div>
+<div>  6.  Increase cluster_index by 1</div>
+<div><br></div>
+<div>Result: $CLUSTERS is a sequence of strings, each a “beat” unit like “4”, “jj”, “PPPP”, “44444444”, “jjjj”, etc., but now woven from the Fibonacci-governed stream.</div>
+<div><br></div>
+<div>────────────────────</div>
+<div>4. Assign dash-lengths between clusters</div>
+<div>────────────────────</div>
+<div><br></div>
+<div>Goal: weave the dash-length pattern into the gaps.</div>
+
+
+
+---
+*Source: Document f75193c56b19a08e9a1a9ea52ee44833*

@@ -1,0 +1,32 @@
+---
+id: a77125d8-1465-4acf-b0e0-acc0e04c6589
+type: insight
+created: '2022-03-16T12:34:10.000Z'
+document: 7405c2da6b92da26b0b49297d3a4e664
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    nnpxigljjjbj0pofkpxtjt6j8qaunk4pchbmnbg3ttn3agoqcgdts9kcchpxqazjngpyoxrqttshfkrjnhfirinfsriggoo0ji60zbt1aa5pf6
+  - 1aco5i96
+  - >-
+    lwyoutlzg9hvcyaltx86j3se9tfsni6cbrembsdnwyb2cniooa5xe3rrk9m0nez3k65aq8alvu4v40thcxqg4z9k8769kezpdvl7jt6y7vkib3nlqf2xh5f3h6v07ssoii45rgfda5ly
+  - hrulrzmltgkuieuitymc0qrgr4pu
+  - pvbdkvzn2otfic5wtuaysnvzht2kidqo
+---
+# NNPXigLjjjbj0poFKpxTjt6j8qAuNK4pcHbmnbg3tTN3agoQCgDtS9KccHpxQAzjNGPyoxRQTtsHFKRj
+
+## Context
+From document: The battle of the blinds — chunk 1016 (chunk 1016/1787)
+
+## Content
+NNPXigLjjjbj0poFKpxTjt6j8qAuNK4pcHbmnbg3tTN3agoQCgDtS9KccHpxQAzjNGPyoxRQTtsHFKRjnHFIRinFsrigGOO0jI60zbT1AA5pF6+1Aco5I96+lWYoUTlzg9hVcyALtX86j3se9TfsNI6CBreMbsDNWYb2CNiOOa5Xe3rRk9M0nEZ3K65aQ8ALVu4v40thcxqG4z9K8769KeZpdvl7jt6Y7VKiB3Nlqf2xh5f3h6V07SSOiI45rgfDa5lY+hruLrzMLtGKuIEUityMc0qRgR4PU/pVbdKvzN2oTfIc5wtUAySNVzht2KiDqo+T7xqaWGTHyDcPWq5t/LQMeDQNIXZNkGQZH8qsZbcAfu9qUMHhy52mmI6tFtJ5WgGTSlIsY60glhI5xntUSYkGG7U2SMAbulAiREfedw4qs8YR9q80C7JwnYd6WVirblGaBk3lYTDtUaWWfm3YqnJPK67SNuKnWZ41B6+1AFmVzF8h+YetGN0eBVeWV5F+5mk89wm0D5vT2oEIhycPzTZUUjI7Uo+VeetQu4I2/doAjiM33l5Aqzbg8lvypsIZPlx8pqN5CjcDFAEoT95uTgVk6lFKrjZ82f0q39oeFssvWlmcmEyOMelUkJmU6zWirKn77jkelZpk3yb3GzNX3u942AVVZkP3124pogs4R49o4zVQeTGdpOaZMCAHQ7RUEY8zOaYD3O9tqdKPKJXB4x0pmDG2aV5t3A4oAdE2zK4yT0pBJNEcMTzT1AZc+lKWVhg9aAEMbMNw5zQN6DGOtJuZFw3y+lNDuBuxuoAvZKw/MMH0rL2lj83FOeZ346VH8x+WobAaQAcdqbSkYpKQBRRRTW5WyO78O/LbDPrW7cwwseG2n0rJ8LjMGZPuitK7KtPuj6CvRicE3qQtb+Wu7rUKhQN7nBqyLiM/KxqCYRycoePStFqQNjZz8wG72p4UsMkYpkUmH2sNgp0jn/ll81NoZKiAKTJ2qq0qCQbelMkmaRwh+QVc8lUj4XcaYCEQnGMUk7II9nqKjiiZsq3yHtUs7rbAKU83igCvAZljYLk+lW7ZN6MtwOT0zVDzZHdWRdgHYVKhk80F+PSoYJEkulI/MZ249KgiWWDcCMhall82M7lY49KqK00reuapDSLfmMU3jnHaq+9W+cDBqyqeUMvwKi+0W/IwAKYmhTKSnTGf0pI7
+
+
+
+---
+*Source: Document 7405c2da6b92da26b0b49297d3a4e664*

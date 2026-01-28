@@ -1,0 +1,26 @@
+{
+  "id": "668e76b2-0c0b-4015-b1f5-4edb3eb7bc9d",
+  "type": "insight",
+  "timestamp": "2021-08-30T20:25:40.000Z",
+  "title": "<div>[REDACTED:EMAIL ADDRESS]<br></div>",
+  "content": "<div>[REDACTED:EMAIL ADDRESS]<br></div>\n<div>Password!$<br></div>\n<div><br></div>\n<div>Received docs to begin permitting process.<br></div>\n<div><br></div>\n<div>Page 1 - New Jobs <br></div>\n<div>Page 2 - Everything Submitted / Pending / Rejection Comments<br></div>\n<div>Page 3 - Approved <br></div>\n<div><br></div>\n<div>Date Added - Date Prepped - Date Completed <br></div>\n<div><br></div>\n<div><br></div>\n<div>Color Key <br></div>",
+  "context": "From document: [REDACTED:EMAIL ADDRESS]",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "9368984351c8a950a5a85b80896462a5",
+  "relatedUnits": [],
+  "keywords": [
+    "page",
+    "date",
+    "angelique",
+    "teamk5",
+    "password"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

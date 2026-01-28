@@ -1,0 +1,32 @@
+---
+id: cec3d3fc-7fee-4944-ade8-109de9b93514
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ou4x0gxgor93djz36vpd5pt99il6ddlm35pip6
+  - tzzgqpzcwanaxohlaegyiie9u5ghnaeuxu5unhpx8dx14fssz33fgmo9wjheacogzbtotp8hzgo
+  - >-
+    a8261eqf2vp8bogegtzma8pjfm1v6yhrmyhjisdzgh2ztjyedn8hsbptt76zfrj5vad2lmrtitzusjkhpqoqa7sjfa74z19y0ib4fu6h3r0
+  - >-
+    etpeza5dvqdpv8dylgfr4sz4d1ouzw3xi2f6pkwulu44yvcnja8mbqd9wfzcmvvitb64hdgeen9v4kw2eb5andicpwb
+  - b99bvlhldtz71gigxogigxwn93vcvwb2ubvxsgjbsodzam
+---
+# OU4X0GxgOr93DJZ36vpd5Pt99IL6ddlM35piP6/tZzgQPZcwANAxoHlAeGyiIE9U5gHnAeUxU5unHPX8
+
+## Context
+From document: New Note — chunk 5889 (chunk 5889/8096)
+
+## Content
+OU4X0GxgOr93DJZ36vpd5Pt99IL6ddlM35piP6/tZzgQPZcwANAxoHlAeGyiIE9U5gHnAeUxU5unHPX8Dx14fsSz33fGmO9WjHeAcoGZBtOTp8HzgO+A8261eQf2Vp8bogegtzmA8pjFM1V6YHrMYHjisDZGH2ZtJyedn8HsBpTT76zfrj5vAD2lmRtItzUsjkHpQOqA7SjFA74z19Y0IB4fU6h3r0+etPEzA5DvqDpv8Dylgfr4sZ4D1Ouzw3xi2f6pkwulu44yvCnJA8MbQD9WFzcmvvITB64HdgeEN9V4Kw2eB5anDiCPWb/B99bvLhlDtZ71gIgxoGIgXwN93VCvwb2UBvxSGjBsoDZAM+YGlA0upwQmBiIGbGYuoK0BvUC4FttgXyBfg4FtnBL4ltLmEs/gaEpyIBZzyRmztagzzvq+MXx85oPi/xSgB6ZHhd4UP4HszWxd9gYkjXEBAeMcbb+2HvnYubE2dTsvg7wpmYfZczHwmjl2Hsz15e/bB7lg9GPUieGOa8+JeKyLWf3pefjysnPmrFnTxm19A6Ap7WztedBn0LcbogaeJi55W652JpaP7cPeE3xZG2MMP56xmTt/y9HOBV/2z7MwiJ1nhXEWxACgd8+zfIjBOdI2szOnbe+f7dl95raGnb29G8567XthTeLY/qy0cyE+48Q3AJ1z5Qw5W0o7d3wtH5tnfR1L//a45GvzicUafy4uPoDuth7xLA/6GLO25UkfZs8eON++RcLeC+ZSB5pHfR6InrqpxVtpALwB8qjH25iB9PQxTokB2htAbz42bmO0DUI3QP7PlfgY2G6K8pRWB2a3OnB7cG89L5ehSm9APL4Gz1MCshtAzzoY/fixJnFtrhvCxwdo3nIjBm0rAZaBlYGUWcM9Rp1xxoDlAWsNxP1LAL3BuPgBFLthXer0AwVTxzrWadtcNyRu/ZQGKuNn5gadO/bZmJXEMKMPQNnMfCjxIUf2RN3gaXdezAOkBko30NkgbQO3DdgG5jY43Urg+Y4APf6YGyhnfXdulq8vJ2L4wPH1E3t41/gXVs0AAEAASURBVL3b3WkbGG7xfJC4D/i3nE3B3WB7fIhl4Dk52Lviez+ewtcGYXNGdo52bu7ztTFypp/nwxxK37588Ly9h7xv5EPe5EO/zaVkzxaTfRg4b3lzgcCMPjsH/OwsrLQxStZ0x7cz
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

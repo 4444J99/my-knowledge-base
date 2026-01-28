@@ -1,0 +1,26 @@
+{
+  "id": "cb9a48d3-112f-473e-88c4-79c0b8b2e938",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>✔ New Rule: Cross-Class Item Claims Require a Skill Check</div>\n<div>  •  If a player wants an item outside their archetype, they must pass a hard skill check to claim it.</div>\n<div><br></div>\n<div>📜 Why This Works:</div>\n<div>✔ Adds a layer of character identity and role specificity.</div>\n<div>✔ Introduces strategy—players must consider their strengths.</div>\n<div>✔ Prevents random hoarding of powerful artifacts.</div>\n<div><br></div>\n<div>📜 3. Post-Climax Resurrection &amp The “Underworld Return” Mechanic</div>\n<div><br></div>\n<div>📜 After the climax (major event), lost artifacts and powers CAN return—but at a cost.</div>\n<div><br></div>\n<div>✔ The Resurrection Window Opens After the Major Event</div>\n<div>  •  Once the Chaos Event happens, a new resurrection phase unlocks.</div>\n<div>  •  Certain conditions must be met for players to bring something back.</div>\n<div><br></div>\n<div>✔ Ways to Bring Back Lost Items or Powers:</div>\n<div>  1.  The Underworld Bargain: Players can sacrifice XP to restore a lost object.</div>\n<div>  2.  The Fated Revival: If an item was legendary, there’s a 1% chance per class it returns on its own.</div>\n<div>  3.  The Scholar’s Reconstruction: If a player writes a strong literary argument explaining why an item should return, it can be revived.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 446 (chunk 446/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "item",
+    "must",
+    "players",
+    "resurrection",
+    "return"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

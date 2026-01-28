@@ -1,0 +1,32 @@
+---
+id: 2602de31-94fb-4889-990f-bfba6c28b413
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - aeyzddvoldlnmnsn47fh5l4zhhzk
+  - k8tcapwdqlac
+  - >-
+    bgtzxx2wctrhxqzob3ocgax4cbdsbqh1fibyanntanoksdzzb2cufgkarvr2pbxrimyoazo7iaaqbmazqlyszxgkrgjnjqcncxdtjrbma9o1ayaf44qf8k0go0soipiygovxya667r3t33ocq5xxtj67x7z33augk13
+  - urhbvwh8aiqxfwysgpvk1rovrhirr2a4tlvcm5qqlbmsx
+  - >-
+    tvjz7gtemqxumqtgyiapc2cqn4fx9mxbuic7q2vli4byusidf8hmrueppc9q7m0gzyzqqmteqirad3zaojsgxsjaqp0yyswbxoowz9r8j1kgk3brmoutxrwm
+---
+# AeYZddVolDlNmnsn47fh5l4zHhzK+K8tcApWDQLaC/BGTZXx2WCTrhxQzoB3ocGAX4CbdsBQh1FiBYAN
+
+## Context
+From document: New Note — chunk 13588 (chunk 13588/21099)
+
+## Content
+AeYZddVolDlNmnsn47fh5l4zHhzK+K8tcApWDQLaC/BGTZXx2WCTrhxQzoB3ocGAX4CbdsBQh1FiBYANNTAnoKSdzzb2CUFgKARVR2PBxrimYOAzo7IaAqBmAzQLYSzXgKrGjNJqCNCxDTjRbmA9O1AYAF44QF8k0Go0SoIpiYGoVxYA667R3t33ocq5XXtJ67x7z33auGk13+UrHBVWH8aiQxFWysgPVk1rovrHirR2a4tlvcM5qqlBMSx/tvJz7gTemQXUMQtgYiapc2cqN4fx9MxbUIC7Q2Vli4BYUSiDF8hMRUEPpc9Q7m0gzyzQQMteQIRAd3ZAOjsgXSjAqp0yYswBxOowz9R8j1kgK3BrMOUtxrWM/3ej6Jqr9rZi0iPnoPYax/X5ca2AvPwumPFyozAbjzJnJtlGi/JsKsy1AZYCSAFxu4AxY1D1NGBpca6/ykjja8BVA7EaddUIxu4jbDdgAKtYNLxCctwslNK8LHXVaqO+BnuQl25UVWcrNQ4lXg/Kn4ChccC+bt63LBR5a8szNNDdqFVjfZpcNUT5HeZdHdJQfw9qaI1qbW7QYE+tVgy1kGK6WgW8a0ZZtQRYta85U5PDVVo9UEkq51wAMjugEFBMSog6mwtIaz2CYutW0ipv06GDW3Vg9yQpwFuBb+2odN4ETEm5XjalOhoOmBmOKFY40Gg48GhUJKqqMQZUvR0FYu4FFmmgUjiFEEBTO9cfdk1h1SirGlg1yoCrUYCCfHYg7BWOOqoT2DU8HLCY/f15N/xgJvwxP8q+PwyFgVZDuH/B3MtgO0s7S9aDQlga6JVnkIDabU5uIMBWujZsaNH+/aM6cGBMmzaiiliFEiAsgx0l4kiAVaOumpYAeJ0EuEe2WpcDoBPuIsQAqZhRWI1AKdXJs58CVqcUVv8SWjXKxjaUi6+Dqtdh1XDe+VDuUxDlJxAzyyDKq1GdDgHmDAYgDaQsGoXVQIBV/yW3WsCqz0JAXS9+A2hpKasCZvpjRmE12ACp2BSwitKq2Yfvgg3MyXabD++x+Z7PgQCrxoI4bvBS6gHqUQdwYRgq1hEBQJpBAJsoohpgNTKQ7bwzkSi+ulBbNoqpLuqEyADeebZHcL4RrBtQ1UCpRkU1knfHWDT1R4xRWGV7NN8bYDUqwMCqKFRTvxhzmeNS37g5diz/Fw24Ggk46zDQKucXArga
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

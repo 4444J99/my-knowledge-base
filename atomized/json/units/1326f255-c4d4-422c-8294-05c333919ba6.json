@@ -1,0 +1,26 @@
+{
+  "id": "1326f255-c4d4-422c-8294-05c333919ba6",
+  "type": "insight",
+  "timestamp": "2025-11-19T23:28:35.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>Use EXACTLY ONE of the following Semiotic Doctrines. Ignore all others.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Semiotic Doctrines (activate only the number I specify):</tt></div>\n<div><tt>1. Saussurean Dyad (arbitrary sign, pure difference, no positive terms, langue as negative system)</tt></div>\n<div><tt>2. Peircean Unlimited Semiosis (triadic sign, infinite interpretants, no final meaning, only habits)</tt></div>\n<div><tt>3. Derridean Différance (trace, deferral, sous rature, no origin, writing before speech)</tt></div>\n<div><tt>4. Barthesian Myth (second-order signification, bourgeois naturalization, denotation devoured by connotation)</tt></div>\n<div><tt>5. Lacanian Symbolic (the big Other, barred subject, lack inscribed in the signifier chain)</tt></div>\n<div><tt>6. Baudrillardian Simulacra (four stages, hyperreality, death of the real by its perfect sign)</tt></div>\n<div><tt>7. Greimasian Semiotic Square (binary oppositions exploded into contradiction and neutralization)</tt></div>\n<div><tt>8. Eco Model Reader (open work, encyclopedic competence, aberrant decoding as creativity)</tt></div>\n<div><tt>9. Lotman Semiosphere (boundary translation, explosion vs implosion, autocommunication)</tt></div>",
+  "context": "From document: You are a visionary designer tasked with creating the ultimate synthesis… — chunk 12 (chunk 12/18)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "e77f8337e7e9ff7840402dba147b1bab",
+  "relatedUnits": [],
+  "keywords": [
+    "semiotic",
+    "sign",
+    "doctrines",
+    "only",
+    "exactly"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "4bc1866d-3da7-469e-8e63-4398667a79fa",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>for item in current_dir.iterdir():</div>",
+  "content": "<div>for item in current_dir.iterdir():</div>\n<div>    shutil.move(str(item), active_core_dir / item.name)</div>\n<div><br></div>\n<div># Rename `KN-LR_01-00_learning-recursions 2` to `ARCHIVE_ITERATIONS/v1a_raw`</div>\n<div>(current_dir).rename(archive_dir / &quotv1a_raw&quot)</div>\n<div><br></div>\n<div># Move .zip files to EXPORTS or TEMPLATES accordingly</div>\n<div>for zip_file in root.glob(&quot*.zip&quot):</div>\n<div>    name = zip_file.name</div>\n<div>    if &quotFORK_TEMPLATE&quot in name or &quotL1_LEARNING_CORE&quot in name:</div>\n<div>        shutil.move(str(zip_file), templates_dir / name)</div>\n<div>    else:</div>\n<div>        shutil.move(str(zip_file), exports_dir / name)</div>\n<div><br></div>\n<div>&quotRESTRUCTURE_FOLDER_TREE_COMPLETE&quot</div>\n<div>Result</div>\n<div>undefined</div>\n<div>Analyzed</div>\n<div># List all .md files inside the new ACTIVE_CORE directory</div>\n<div>active_md_files = []</div>\n<div>for md_file in active_core_dir.rglob(&quot*.md&quot):</div>\n<div>    active_md_files.append({</div>\n<div>        &quotfile&quot: str(md_file.relative_to(active_core_dir)),</div>\n<div>        &quotsize_bytes&quot: md_file.stat().st_size,</div>\n<div>        &quotempty&quot: md_file.stat().st_size == 0</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 362 (chunk 362/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "name",
+    "move",
+    "zip_file",
+    "md_file"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

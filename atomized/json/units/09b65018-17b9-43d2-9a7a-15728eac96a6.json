@@ -1,0 +1,20 @@
+{
+  "id": "09b65018-17b9-43d2-9a7a-15728eac96a6",
+  "type": "insight",
+  "timestamp": "2022-05-02T19:37:52.000Z",
+  "title": "<div><br><br></div>",
+  "content": "<div><br><br></div>\n<div><br><br></div>\n<div><br><br></div>\n<div><br><br></div>\n<div><br><br></div>",
+  "context": "From document: Brevard County Court",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a969e02c6bd72c3fda68823d8cf6de17",
+  "relatedUnits": [],
+  "keywords": [],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "82ea9efb-25d0-4040-a89f-9ae3f64da363",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>**Icon-Index-Symbol Classification:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- **Icons**: Visual similarity metrics, CLIP embeddings</tt></div>\n<div><tt>- **Indexes**: Causal reasoning via WKRM</tt></div>\n<div><tt>- **Symbols**: Cultural symbol lexicon + sociolinguistic context</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Semiotic Chains:** Interpretant₁ → Object₂ in next sign (unlimited semiosis) </tt></div>\n<div><tt><br></tt></div>\n<div><tt>### **6. Denotation vs. Connotation**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Semiotic Knowledge Graph:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>```</tt></div>\n<div><tt>🌹 (red_rose)</tt></div>\n<div><tt>├─ Denotation → [Rosa genus flower]</tt></div>\n<div><tt>└─ Connotations:</tt></div>\n<div><tt>   ├─ [Love: weight=0.9, culture=Western]</tt></div>\n<div><tt>   ├─ [Beauty: weight=0.7, culture=universal]</tt></div>\n<div><tt>   ├─ [Pain/thorns: weight=0.4, context=warning]</tt></div>\n<div><tt>   └─ [England: weight=0.6, culture=British]</tt></div>\n<div><tt>```</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Context-Dependent Selection:** Pragmatics + Sociolinguistics modules provide context for highest-weight connotation retrieval</tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 13 (chunk 13/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "weight",
+    "context",
+    "culture",
+    "symbol",
+    "semiotic"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

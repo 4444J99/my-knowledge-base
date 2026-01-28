@@ -1,0 +1,26 @@
+{
+  "id": "1e04040c-1f41-4cce-9185-dcde11f1aaa7",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Certain players can nudge the Fate Wheel, but only within strict limits.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> How Fate Manipulation Works:</div>\n<div>  •  Certain archetypes, items, or abilities allow players to influence the outcome.</div>\n<div>  •  Manipulation never guarantees a result, but shifts probabilities.</div>\n<div>  •  Example Influence Mechanisms:</div>\n<div>  •  The Oracle → Can peek at the next two possible results.</div>\n<div>  •  The Trickster → Can shift one result up or down by a single position.</div>\n<div>  •  A Rare Item → Allows one-time total control over a spin.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Counterplay Against Fate Manipulation:</div>\n<div>  •  Other players can counter attempts to change fate with their own powers.</div>\n<div>  •  Certain Fate Wheel results may be immune to interference.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Keeps fate unpredictable while allowing some control.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Encourages player interaction and counterplay.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 525 (chunk 525/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "fate",
+    "zapfdingbatsitc",
+    "certain"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

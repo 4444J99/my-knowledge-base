@@ -1,0 +1,31 @@
+---
+id: 3e9c912b-dbf8-46f9-ae1b-766f7ea71a5d
+type: insight
+created: '2025-07-18T21:27:21.000Z'
+document: 19a1c8b920a7c59b9421bc142020b138
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - paa0t6wsnecaasceajoaonevabj978qttfyeeeaaaqqqqaabbbbaaaeeeeaaab8q2jt6g6gx
+  - a5uhew5mnpn81jfx
+  - 9qevyhaaknbai6akdaqser9hqsc6pnikmeeeaaaqqqqaabbbbaaaeeeeaaaymjln
+  - zhvmtdpygm
+  - >-
+    x7j26q1y2mebljraiccdgsepabal19bcdof4efxtiigaaccccaaaiiiiaaaggggaaccpijwmgjoytn5h6naqmwala3fbh5tckvowlvfgkiiockqmahajshnkbu66mutj5rzecaaqqqqaabbbbaaaeeeeaaaqqqcfcblfu
+---
+# paA0t6WsnEcAAScEAjoAoNevABj978QTTFYEEEAAAQQQQAABBBBAAAEEEEAAAb8Q2JT6g6gX+a5uheW5
+
+## Context
+From document: New Note — chunk 383 (chunk 383/1486)
+
+## Content
+paA0t6WsnEcAAScEAjoAoNevABj978QTTFYEEEAAAQQQQAABBBBAAAEEEEAAAb8Q2JT6g6gX+a5uheW5MnPN81JfX+9qEVyHAAKNBAI6AKDaqseR9Hqsc6PnikMEEEAAAQQQQAABBBBAAAEEEEAAAYMJLN/zhVMtDpYgm/x7j26Q1Y2mEbLJRAICCDgsEPABAL19BcDof4efXTIigAACCCCAAAIIIIAAAggggAACCPiJwMGjOyTn5H6naqMWALa3fbH5TckvOWLvFGkIIOCkQMAHAJSHnkbU66muTj5rZEcAAQQQQAABBBBAAAEEEEAAAQQQCFCBlfu+9FjLKmvKZfb6Vz1WHgUhYGQBQwQA9PIVAKP/jfxHkbYjgAACCCCAAAIIIIAAAggggAAC+hQoryqT7RnLPFr55Ow1knF8r0fLpDAEjChgiACA6lg9jKzXQx2N+IeENiOAAAIIIIAAAggggAACCCCAAAIINC2Qkr1Oauqqm87g4plvd37s4pVchgACZgHDBAD8/SsARv+bH0l+I4AAAggggAACCASiwLGiLNma5tmRgYHoRJsQQAABBBDQo8C29BVeqfaOzOWSU5DqlbIpFAGjCBgmAKA61J9H2Ptz3Yzyh4F2IoAAAggggAACCHhP4J2lj8n7K/4iS1Jme+8mlIwAAggggAACPheorqmUlKyfvHbf1fu+8lrZFIyAEQRCjdBIcxvNXwHk5eWZk/ziN6P//aIbqAQCCCCAAAIIIICAlwRq62rlWFGaqfR5m17X5vPdI+VVpVJRXS7Vtaektr5ewoLbSERYW4mL7ir9Oo+Q4T3Pk5jIDl6qEcUigAACCCCAgKcEDhzbIVXa/8+9tanphdgQQMB1AUMFABSTGmnvbwEARv+7/gBzJQIIIIAAAggggID/CxSr25omAABAAElEQVSWHbeq5Ka0762OGx+sPThfQoKC5bcT/yHnJE5qfJpjBBBAAAEEEPAjgZNlx7xam+OlWZKnTSWYENvTq/ehcAQCVcBQUwCpTjR/BeAvHcrof3/pCeqBAAIIIIAAAgjoS+DIyTSpqfX8YnvuKNRrI/nT8nbLV1velY9W/k3qtJH/atuZucrpYmvr62T1vgVOX8cFCCCAAAIIIOBbgaJTJ71+w905G7x+D26AQKAKGO4LANWR/vQVAKP/A/WPFu1CAAEEEEAAASMJqBff
+
+
+
+---
+*Source: Document 19a1c8b920a7c59b9421bc142020b138*

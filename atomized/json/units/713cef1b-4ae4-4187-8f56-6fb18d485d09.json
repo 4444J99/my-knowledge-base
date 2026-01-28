@@ -1,0 +1,26 @@
+{
+  "id": "713cef1b-4ae4-4187-8f56-6fb18d485d09",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>## Agent Symbol: {data['symbol']}</div>",
+  "content": "<div>## Agent Symbol: {data['symbol']}</div>\n<div>## Role in System: {data['system']}</div>\n<div><br></div>\n<div>This module is a knowledge agent responsible for embodying and teaching the logic behind:</div>\n<div>- {data['system']}</div>\n<div>- Recursive symbolic programming</div>\n<div>- Myth-engine integration</div>\n<div>&quot&quot&quot)</div>\n<div><br></div>\n<div>    # UID_MAP.md</div>\n<div>    (folder / &quotUID_MAP.md&quot).write_text(</div>\n<div>f&quot&quot&quot# UID_MAP for {uid}</div>\n<div><br></div>\n<div>| UID       | File Name           | Description               |</div>\n<div>|-----------|---------------------|---------------------------|</div>\n<div>| {uid}     | README.md           | Overview and symbolic notes |</div>\n<div>| {uid}     | MYTH_AGENT.md       | Agent persona and invocation |</div>\n<div>| {uid}     | SYMB0L_FUSION.md    | System function and logic  |</div>\n<div>&quot&quot&quot)</div>\n<div><br></div>\n<div>    # REVISION_HISTORY.md</div>\n<div>    (folder / &quotREVISION_HISTORY.md&quot).write_text(</div>\n<div>        f&quot## {uid} – Initialized on 2025-05-13\\n- Created base files and linked to system: {data['system']}&quot</div>\n<div>    )</div>\n<div><br></div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 337 (chunk 337/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "system",
+    "data",
+    "agent",
+    "symbol"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

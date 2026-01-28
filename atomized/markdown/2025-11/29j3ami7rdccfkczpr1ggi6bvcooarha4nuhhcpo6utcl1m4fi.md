@@ -1,0 +1,32 @@
+---
+id: d279ce71-7b84-4c9e-a98a-4219d8014392
+type: insight
+created: '2025-11-02T03:42:33.000Z'
+document: 6cb0cd0514b9cb159b39c520e5a20bc8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    29j3ami7rdccfkczpr1ggi6bvcooarha4nuhhcpo6utcl1m4fiingidoeblsfwduagnhevgupbqxn84pb6slxcbx6tjh0fuylrf
+  - cz5btt5yj5mfyn68c6cul67jj7ofwhttsmcncj0y5xopj
+  - >-
+    ppis43xddgorducvwksgbhpzfioekfppcbcijrzvjxe9dtnnyv6jch9wsofcfnexp35u9hxatzo4cw9apfdwa3ajqwqbqhtdtvd7yowafxpz7n43zf2cpf
+  - uk7t
+  - b8vde1ebgtub1n7t9wpetqglxx83aignlpt87rm7m3eu
+---
+# 29J3Ami7rdCcFKCzpR1gGI6bvCOoArHa4nUHhCpo6UtcL1m4FIingIDOEbLSfwduagnhevGupbQxn84p
+
+## Context
+From document: New Note — chunk 344 (chunk 344/1345)
+
+## Content
+29J3Ami7rdCcFKCzpR1gGI6bvCOoArHa4nUHhCpo6UtcL1m4FIingIDOEbLSfwduagnhevGupbQxn84pb6SlXcbx6tjh0FuyLrF+cz5btT5YJ5mfYN68c6Cul67jj7OfwHtTSmCnCj0Y5xOpJ+PPIS43xDdGOrDuCvwKSGbHPzFIOekfppcBcIjrZVjXE9DTNNYv6JcH9wSoFCfNexP35u9HXATzo4Cw9APfDwA3AJQWQBQHTdtvD7yOwAFxPz7n43zf2CPF/Uk7T/b8Vde1ebgtub1N7t9wPetQGlxX83AigNLPt87rm7m3Eu+kEM8NLSnfH3V49cCpyw+Nx2Acfn4VYNZ5Q2tLqd9ogFLnZ6L8DgDQYcRH1M5bWdZF74eCtqFpxDm14j5BHCQ9SPli/qX8a/he5Tr9sa8QtzKPEr8PJR8qimMnfCDtPOq84LoW3MS8OSdTybvz7roSBwJQ7siIoyxKtQ+NA0HtugtA6RwosQ4SH9ArG98LALKiPwJSeiBjaoDwVPWZn5tUJ4J84zxxnvgPfZV9j/nAfGA+MB+oA9QB6gB1gDpAHaAOUAeoA9QB6gB1gDpAHaAOUAeoA9SBOagDBCjne+Kq41HlAb5L1OC4KSHOWtuSmxuX4QHu/1r66+yueKW092/hvKilvqWUtQCVAhJWg5VzGaDUEt22JDceeCsw+XuMc19DZR7+o/mrkszLfRc2ZSJpPLgG+CDgjH0gfhCtzqfO9xyJKwUFFAxiCe/5BVRu73sjmQeIsTt0Il8waMeOp/+mV46Pjd4KAGUAiqa8A2fx2GghbMz9g28k/1W3ACg3eb1nO0CJUrPOSdK1a3vaUxsuWnDIOggGoJsHHB9K7s0L4DPlefV6qaCdlMqV0uoKJqG1gJiWFl6ysLUQGbbnd4CQ6u4E7WF1qAPYlEP8y3kFONTzf7f46tibeAOgmgXWbD8Asl0GUAK0smBSDUCpulnbLm9e0bXazpN3ovTzo6CagJA/xD4qAJoH/MbfQCsg6sG0cG55fnUjnO/CZ6zzpJ4HrQWrng89n3kV+5fouZQGlh9OWKc7D2xhPPa4CmwbWSKlf/37dr2wj+n7tgR01Jh96UfjCu4J0KWlqeW6cnxnD0o6474h2P/q5ZOuN0oZy/XhZJkW0EyAyH6sT2086ToF19V51LYCWNo40Xj5Se/p8Jc436tJB2re
+
+
+
+---
+*Source: Document 6cb0cd0514b9cb159b39c520e5a20bc8*

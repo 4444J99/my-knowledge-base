@@ -1,0 +1,26 @@
+{
+  "id": "72f05029-a57d-45f2-8c53-e9876fcde8b4",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:45:42.000Z",
+  "title": "<div><tt>- **RITUAL_SOURCE:** ChatGPT (mobile/iOS)  </tt></div>",
+  "content": "<div><tt>- **RITUAL_SOURCE:** ChatGPT (mobile/iOS)  </tt></div>\n<div><tt>- **ORIGIN THREAD CONTEXT:**  </tt></div>\n<div><tt>  Systems building, artist identity, memory mapping, ritual protocol, naming conventions  </tt></div>\n<div><tt>- **LINKED FILES:**  </tt></div>\n<div><tt>  - `SYS_EXPORT_0412_MASTER.md`  </tt></div>\n<div><tt>  - `SYS_N4M1NG_PROTOCOL_0412_DROP.md`  </tt></div>\n<div><tt>  - `SYS_ID_ALIAS_MAP.json`  </tt></div>\n<div><tt>  - `THREAD_RITUAL_LOG.md`  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>::EOF</tt></div>",
+  "context": "From document: REVIVE_0412_INDEX — chunk 2 (chunk 2/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "41dcc777a032887ddd54a45bf92fe39d",
+  "relatedUnits": [],
+  "keywords": [
+    "ritual_source",
+    "chatgpt",
+    "mobile",
+    "origin",
+    "thread"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

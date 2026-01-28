@@ -1,0 +1,26 @@
+{
+  "id": "d670a92c-6d84-44c4-8548-bdcf46492a4e",
+  "type": "insight",
+  "timestamp": "2025-03-11T00:05:21.000Z",
+  "title": "<div>I have reviewed the <b>Directions for the Technical Instructions Assignment",
+  "content": "<div>I have reviewed the <b>Directions for the Technical Instructions Assignment</b>. Here’s a summary of the key requirements:</div>\n<div><br></div>\n<div><b>Technical Instructions Assignment Overview</b><br></div>\n<div>  •  Write clear and <b>concise</b> technical instructions for a <b>complex task</b> in your <b>career or academic field</b>.</div>\n<div>  •  If no relevant task is available, choose a process from <b>technology, science, or business</b>.</div>\n<div>  •  The instructions <b>must include</b>:</div>\n<div>  1.  <b>Introduction Paragraph</b><br></div>\n<div>  2.  <b>Step-by-Step Instructions</b> (at least 5 steps)</div>\n<div>  3.  <b>Conclusion Paragraph</b><br></div>\n<div><br></div>\n<div><b>Submission Options (Choose One)</b><br></div>\n<div>  1.  <b>Traditional Paper Format</b> – Submit as a <b>Word document (.doc or .docx)</b>.</div>\n<div>  2.  <b>Web Page Format</b> – Submit an <b>HTML file</b> or <b>publish on a blogspot</b>.</div>\n<div>  3.  <b>PowerPoint Presentation</b> – Develop as a <b>slide-based instructional guide</b>.</div>\n<div><br></div>\n<div><b>Important Guidelines</b><br></div>\n<div>  •  <b>Do not choose a process that requires research</b>; write based on personal knowledge.</div>",
+  "context": "From document: I have reviewed the Directions for the Technical Instructions Assignment… — chunk 1 (chunk 1/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "dd803e7337f22569dbf88b1ec678862d",
+  "relatedUnits": [],
+  "keywords": [
+    "instructions",
+    "technical",
+    "choose",
+    "assignment",
+    "write"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

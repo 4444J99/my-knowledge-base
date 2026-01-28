@@ -1,0 +1,26 @@
+{
+  "id": "a5e6e110-8f66-4016-8607-e630b0d87113",
+  "type": "insight",
+  "timestamp": "2025-04-19T03:32:42.000Z",
+  "title": "<div><tt># |[ DUALCORE::M1RROR_T4BL3 ]|  </tt></div>",
+  "content": "<div><tt># |[ DUALCORE::M1RROR_T4BL3 ]|  </tt></div>\n<div><tt>_A rigid binary logic table to complement the DUALCORE spectral system_  </tt></div>\n<div><tt>**Purpose:** To define absolute, mutually exclusive pairs for use in logic gates, system locks, ritual switches, and access toggles.  </tt></div>\n<div><tt>**Behavior:** Unlike the spectral dualities of `DUALCORE::V3.0`, these pairs are **strictly binary**—on/off, yes/no, with no modulation, ambiguity, or fusion.  </tt></div>\n<div><tt>**Use Cases:**  </tt></div>\n<div><tt>- Ritual triggers  </tt></div>\n<div><tt>- Ethical polarity switches  </tt></div>\n<div><tt>- Thread state locks/unlocks  </tt></div>\n<div><tt>- Programmatic routing  </tt></div>\n<div><tt>- Absolute narrative forks  </tt></div>\n<div><tt>- Fatal system breaks  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## | TABLE STRUCTURE |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| ID   | State A   | State B   | Domain        | Signal Type         |</tt></div>\n<div><tt>|------|-----------|-----------|---------------|----------------------|</tt></div>\n<div><tt>| B01  | on        | off       | power         | logic gate           |</tt></div>",
+  "context": "From document: # |[ DUALCORE::M1RROR_T4BL3 ]| — chunk 1 (chunk 1/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "f08dcfc73bfb47e0879eedebbe407657",
+  "relatedUnits": [],
+  "keywords": [
+    "dualcore",
+    "logic",
+    "state",
+    "binary",
+    "table"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

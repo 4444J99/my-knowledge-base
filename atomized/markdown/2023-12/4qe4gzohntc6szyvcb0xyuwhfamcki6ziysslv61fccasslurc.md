@@ -1,0 +1,31 @@
+---
+id: 8418307e-0477-41bc-9253-85b6194466f4
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 4qe4gzohntc6szyvcb0xyuwhfamcki6ziysslv61fccasslurcbhgqa50bizam
+  - rjee9mfhkaahgaeahdrbfm5rpqn6za169tfpleec3wr
+  - hxf4muh9h7cwvuv0mfq5skh
+  - >-
+    zmue4tlir79ocesb0ncpvfy9n1sc3woqwhsiqudouasecpbzdhbkyjqbjhjdgfccwu5dsky1bmuedfraigkonang5681s4ijogtop8nsnpfefqxaalxzplhrncmua5byexh
+  - yfjkwan27ts2blu
+---
+# /4qE4GZohNTc6SZYVCb0xyUwhFamCKI6zIYSSLV61FCCassLURcBhGQa50BIZAm/RJEE9MFHKAAhgaEA
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 1969 (chunk 1969/3262)
+
+## Content
+/4qE4GZohNTc6SZYVCb0xyUwhFamCKI6zIYSSLV61FCCassLURcBhGQa50BIZAm/RJEE9MFHKAAhgaEAhDRBFm5RPqN6Za169tfpleEC3wr/hXf4mUH9h7cWVUV0mfq5sKh/zmuE4tLIr79OCeSB0Ncpvfy9n1sC3woQwhSiQUDoUASECPBZDhBKYjqBJHjDgFCCwU5dsky1BmuEdFRaIGkoNANG5681s4iJogTOp8NsNPFeFqxaaLXzplhRNcMuA5BYexh/YfjKWAN27ts2bLU//+lP1t9UZJV9wxk3JKby5FjQY+1SJcfCCQ1n0UATDxo65wuDCcd0ry+fOR8d9kdyLYO9Fo9fo0HfXxCu0f8umKC6CUKEZko9eQgCQQgQyPThj/c4gxB7vTK8j9+r40lM3koyVjt9is1aOM9m3TnXxkwbq6KzNECou77XPnl/ve3ZtNMun75g3W2dFDYvwmm5nx9eL1zK+0gfVUHmgw26+wnFZcXhuLx0nSeAgnC4AYAIuEK5o/xRo2jLwZsSweWBHIAjooH10tWLQtl4fcSjsy5n28tDT9ElOsYz4jv9oIQCP6lzvCt6FBf5uyWCORCKnhuf9gFfmdS9yoYEOBfG1F6YvcaMUP4NIETYqrA2ZFY6wU/mcT1w8XX1dVhvUdoKyvptOAESJ0+baIuXLiYA61jaI6YvEsRYRBKo5xfwqegdvQh+jUSSP33mnB0+csjObDtr9bsuudmcBD1vgrpRGc1ZVI4q04Gy8oeGC+IsRHusBt8bjuvO8HeN0/Fln117ocUl99nT1z6ijF/7bP7MF5fAVwVC3k7ij4E6UO15VcT1wTlNrEjjXF5eYePGjTMBoWU/m0cfJW0O2h4RDDAhICptzbr0olVuqW9xcy6RILhWRxMoCPxq124SF31HeqH6CX07MvktSgUKbHWaos/WeZmO6f2x1lumcTK1U0KVTH2P2lAf7Nfhz6T+MP40vC/xnEXl6P1AuMev0UN4gHyExN4ZdRPRxd/MSn2QwIv8ZdMZNEN89wqXIKKVBJNyhfx80SQLZZHGNK6tLtBn//u/yEcIU243i2MixZ8Ua4Sy+Q6Fk/2W1cOGRRn2TH9mf3A7inqC+NK4YKgv9aUy/WXT6zPvIxQVZX513SWQB0LXXWT5G75sCdyqQEhmcbFpnDQTuUDIy4aeWQBIJnFaxxqhJEBo
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

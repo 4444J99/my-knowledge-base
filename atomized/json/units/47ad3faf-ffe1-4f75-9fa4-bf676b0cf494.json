@@ -1,0 +1,26 @@
+{
+  "id": "47ad3faf-ffe1-4f75-9fa4-bf676b0cf494",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>- Parse markdown, notes apps exports</div>",
+  "content": "<div>- Parse markdown, notes apps exports</div>\n<div>- OCR scanned handwritten notes</div>\n<div><br></div>\n<div>For Music:</div>\n<div>- Extract metadata from audio files</div>\n<div>- Transcribe lyrics if embedded</div>\n<div>- Generate waveform fingerprints</div>\n<div>- Extract BPM, key, duration</div>\n<div><br></div>\n<div>For Video:</div>\n<div>- Extract metadata, thumbnails</div>\n<div>- Generate transcripts (if speech)</div>\n<div>- Extract keyframes</div>\n<div>- Identify topics/themes</div>\n<div>```</div>\n<div><br></div>\n<div>#### **4. `semantic-archive-indexer`** - AI-powered analysis</div>\n<div>```</div>\n<div>Capabilities:</div>\n<div>- Use LLMs to summarize each document/video/audio</div>\n<div>- Extract key themes and concepts</div>\n<div>- Identify connections between pieces</div>\n<div>- Tag with topics, emotions, intent</div>\n<div>- Build searchable vector database</div>\n<div>- Create knowledge graph of your creative history</div>\n<div>```</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **Phase 1: The Bridge (Archive → AI Contexts)**</div>\n<div><br></div>\n<div>**Connect your historical work to current AI conversations:**</div>\n<div><br></div>\n<div>#### **`archive-to-context-pipeline`**</div>",
+  "context": "From document: Contents_Table — chunk 32 (chunk 32/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "extract",
+    "archive",
+    "notes",
+    "metadata",
+    "audio"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

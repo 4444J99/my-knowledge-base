@@ -1,0 +1,32 @@
+---
+id: a221f2c6-9d9e-4c41-b1b6-d8ca762a99e3
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - sjjckks
+  - yzhpbzuxihfobmtysqendph9pv7f3w7l
+  - dnwd8m
+  - >-
+    dk5ius6bywxyv3aqovmzjj4d5wm4a6av9ssrlestjfeofbpxxb408cwxiswuvt0c6lvthletuiyg5qegeywcchqmdgepz3rmnmdnp7vntg
+  - >-
+    vrmjpu0vybc9zly4zlyfeqbyggd78hptptqlwvyppi6496jmswo5op5qcevt3rqwhb4gmugemkfttvtntevmfjwtfe8rmddo10fmv7q9xpp3gpu9wikloleqgm20zkkdnbxyrxz
+---
+# SJjckKS+YzHPBZUXIHfoBmtYsqEndpH9pv7F3w7l+DnwD8M/DK5iUS6bYwxyv3aQovmZJJ4D5wM4A6AV
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 1217 (chunk 1217/2189)
+
+## Content
+SJjckKS+YzHPBZUXIHfoBmtYsqEndpH9pv7F3w7l+DnwD8M/DK5iUS6bYwxyv3aQovmZJJ4D5wM4A6AV9SSrLESTjFeOfBPxXB408CWXiSwuvt0c6lvtHleTuIYg5QEgEYwccHqMDgepz3rMNmDnp7VnTg+VRMJPU0VYBC9Zly4ZlYfeqbYGgD78HptptqLWVypPI6496JmSWo5op5QCevt3rQWHB4GMUgeMKFTtVtnTevmfjWtFe8rmddO10fMv7Q9xPp3gPU9WiKloLeQgM20ZKkDnBxyRXz/8A8E7Lm5i8F6xYrEBB9sSTeMY8zygCM5zjA9D36d/Z/wBreeKH4O69dzAYS32gLnJ3sFAwM9zk+leT/wDBO6z0208E6pas5M/2vzCvYq0Y2EHPPQgjtX6th2lwziLfzI/Pac28/guy/Q/RGSTy0JVcZ71UDMfk9qnnmTdjnANTEKVUgEE/yr8nqSurH6ZHe5mkM8W+U4PTFL5YSDbzj86bcQLCx5+Wq6SIQcH6VzNGrTa0HkZQLOMHtmqkoR1YKOV4q3I8kvL8AVi20zs8kZ6g4/wpqdim1FD/ACbcIW5V652RMynLcd627qJgd/UnqTWZtVXEbDP07UX1Hz32Mq5ht929jgV438e/gd4C+O/w5m+HvxE0pNW0y5IdkYkFWH3XXBHKnB9eOMV7FLMPNkt2UMF6+lOmuVaPZHwo7VMU11JlLQ/l6vv+CCPjr+27s+GPiBZCwLN5Ed7aSl40ByqsYyQT24GK+5/2Wf8Agjh8B/hHcWfi34s30/jbxBasZHhmRY9L3/wqLcgs6pxyzfMR0A4P7JuB5ZlUcimWcRCNMcLnkDvW611ZLndDEuBaxLaqojVFCqoGAFHAAHYD0qWOQtGUbvWfdyySHGOF6mp7UqIwuPmPQ1MEZOLNG1jkib5Rwa2ixeRQDwBWCnmlmVBmrQaQcdl61au9i7W2DW4YLq1e3PL4P61/Jz/wWJ8F+Ofgj4qstWthEfB/iu7321gg4S6t0AYvJj5c7icE85Ff1kQybp9xGRnnNeW/G/4GfCr47+EJfB/xV0aDWdOZhKscwzsdeVZT1B9fUZHQ16WBmoz948nHSny+6fy/f8Eani1L9pyGfVdOjfyLb/Rf9m5dhh1l4+VV3A+oJ4zX9lvmPNGGuyAzfex0r+dr4IfDTw58Fv2xdI+HngS
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

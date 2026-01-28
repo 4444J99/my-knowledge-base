@@ -1,0 +1,26 @@
+{
+  "id": "19190f3b-6588-4647-ba0d-90ef096e604f",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>```</div>",
+  "content": "<div>```</div>\n<div>**(389 characters - needs trimming)**</div>\n<div><br></div>\n<div>**Trimmed:**</div>\n<div>```</div>\n<div>Multi-modal archive processor extracting value from old creative work. Handles text extraction (OCR, format conversion), music pattern analysis, video processing. Links archive files to current projects, identifies implementable concepts, generates archive→code translations. Bridges Layer 0 (physical storage) to Layer 1 (AI contexts).</div>\n<div>```</div>\n<div>**(322 characters)**</div>\n<div><br></div>\n<div>**Copilot Prompt:**</div>\n<div>```</div>\n<div>Create Python tool for archive processing: (1) Text extraction from .doc/.docx/.pdf/.pages with OCR for scans, (2) Music metadata extraction and pattern analysis (BPM, key, structure), (3) Video transcript generation and keyframe extraction, (4) Semantic analysis to identify implementable concepts, (5) Cross-reference with AI conversations and existing repos, (6) Output: archive-to-implementation recommendations with priority scores.</div>\n<div>```</div>\n<div>**(468 characters)**</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **5. ai-context-compiler**</div>\n<div><br></div>\n<div>**Description:**</div>",
+  "context": "From document: Contents_Table — chunk 107 (chunk 107/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "archive",
+    "extraction",
+    "characters",
+    "analysis",
+    "with"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

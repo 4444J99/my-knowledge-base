@@ -1,0 +1,32 @@
+---
+id: a409d7af-91a6-49fa-a7a7-27b45cbc5add
+type: insight
+created: '2019-02-22T12:18:39.000Z'
+document: 28f283ae0c72332a99d7478ac2e9c9c7
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - fbva
+  - hvdav5nqnnu2
+  - >-
+    j09ths0zpofqvq6fomq6ra3l5p9sz4dptzzycpktn5icckchoolbzlgkvj2rz06cpplirsy80zq5p2nx2rx0om6dcz7m4bailjlh8tvq20dwrzvn0k0s3nv43zgijachkogyrkyb6nokuqsitqtstr8u5uke5jomw7u3z7epk5ozxxa34b8y
+  - hbx7drglyqw
+  - >-
+    gzavdvz03fccfjisodrtuutlutagty9lzmizs5gelncgjoese1z08vrnhnhnnbxtvr9jsrgq0jck4npeztvbuzuam1pato2qa7cpaatbm4ljjavlbawifepjhsvq
+---
+# fbVa+hvDAV5NqNNu2+j09Ths0ZpOfQVq6fomq6ra3l5p9sZ4dPTzZyCPkTn5iCckcHOOlbzlGKvJ2Rz0
+
+## Context
+From document: Grandpa Pepe’s Lasagna — chunk 22 (chunk 22/205)
+
+## Content
+fbVa+hvDAV5NqNNu2+j09Ths0ZpOfQVq6fomq6ra3l5p9sZ4dPTzZyCPkTn5iCckcHOOlbzlGKvJ2Rz06cpPlirsy80Zq5p2nX2rX0Om6dCZ7m4baiLjLH8TVq20DWrzVn0K0s3nv43ZGijAchkOGyRkYB6nOKUqsItqTStr8u5UKE5JOMW7u3z7epk5ozXXa34B8Y+HbX7drGlyQW/GZAVdVz03FCcfjisODRtUutLutagty9lZMizS5GELnCgjOeSe1Z08VRnHnhNNbXTVr9jSrgq0Jck4NPezTvbuZuaM1paTo2qa7cPaaTbm4ljjaVlBAwifePJHSvQ/hnpemalY+KpNRtY7hrTTJZoi6hijqDhlz0NZYzGwowlN62tdddXZGuBwE69SMFpe9m9tFdnlWaM0n4Cj8BXbY4Rc0ZpPwFH4CiwC5ozSfgKPwFFgFzRmk/AUfgKLALmjNJ+Ao/AUWAkM0jIsbMSi9ATwPoKZmk/AUfgKOVBcXNGaT8BR+AosAuaM0n4Cj8BRYBc0ZpPwFH4CiwC5r0/4Mn/i5Oj/9vH/pPJXl/wCAr0/4M/8AJStH/wC3j/0nkrzM7X+xVv8ADL8metkP+/UP8cfzR930UUV/O5/SwUUUUAf/1P38ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK+OP2hwR4xsX7GwQflLL/jX2PXzF+0ZpEjRaRr0a5RDJbSH0LfOn8mr6vgqsoZhBPqmvwPkOOqLnls2ujT/ABPlrNGaTNGa/crH4Eex/BCXyvGM0uA2yxuGwehxg4Nc14T8Ta6/jrS9TkvZXnuLyFZCXPzrI4DKR02kHGOg7VH8PfFFh4T1ubUtSjlkiktZoQIgpbdIBg/MyjHHPNczod9Fpmt6fqU6lorS4ilcKAWKxuGIGSBnA45rwqmBcq1eTje8Ul/5NdfkfQU8co0MPCMrOMm35fDZ/mexSab4m/4Wt4hTwbPHp8kTTPNcSbRHDC+GdizK23k9QM/hmuk+Gek2Gn+M4Cvi+HVJ7lZUltollcTjy2Jy7fKcY3ZPXFcPbfEfSIvGPiDUrqzluNF8Qo0M0fypOqMMZGCRkc8Z79aueG/GHw28FeIINT0Kx1C6U71llufKMkaMpwIUUqMlsAsx4XIA5rwsXhcTKhKlyO7
+
+
+
+---
+*Source: Document 28f283ae0c72332a99d7478ac2e9c9c7*

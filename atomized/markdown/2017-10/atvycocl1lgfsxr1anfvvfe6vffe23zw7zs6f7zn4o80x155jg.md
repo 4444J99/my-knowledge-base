@@ -1,0 +1,32 @@
+---
+id: 8d326e5c-b6f3-43e5-b642-9a51270504b1
+type: insight
+created: '2017-10-10T23:16:34.000Z'
+document: 64a95cd2950865cc023eedad1ff9b65d
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - atvycocl1lgfsxr1anfvvfe6vffe23z
+  - w7zs6f7zn
+  - >-
+    80x155jgucuxkpyzf491cqewanq1eqareqareqareqareqareqareqareqareqaqiswdxu06doizy77777u63v
+  - 1tzmesbsfhjbljgy9q1ao5cildgfurrao488wz3abbg9z999
+  - >-
+    f7u71vggtuaagwidpxrcberaberaberaberaberaberaberaberabexbuwoqjbupgja5pnz4lianchqpu2bjlrmhdhu7aaw80
+---
+# atVyCOCl1lgFsXr1anfvvfe6vffe23z/W7Zs6f7zn/+4O++80x155JGucuXKpYZF491CQEWANQ1EQARE
+
+## Context
+From document: sign -- signifies t signified ___________ iz'ag — chunk 161 (chunk 161/273)
+
+## Content
+atVyCOCl1lgFsXr1anfvvfe6vffe23z/W7Zs6f7zn/+4O++80x155JGucuXKpYZF491CQEWANQ1EQAREQAREQAREQAREQAREQAREQAREQAREQAQiSwDxu06dOiZy77777u63v/1tZMeSbsfHjBljgY9q1ao5CiLDgFURrAo488wz3aBBg9z999+f7u71vggTUAAgwidPXRcBERABERABERABERABERABERABERABERABEXBuwoQJbuPGja5Pnz4liaNChQpu2bJlrmHDhu7AAw80+x9AzJ8/33377bfuhhtu2PpcSQIq4UHLAqiET76GLgIiIAIiIAIiIAIiIAIiIAIiIAIiIAJRIECG9+DBg91XX33lPv/8cxM633//fcfzaiLwySefmPf/TjuVZq4zBX7fe+89d+KJJ7oFCxa4/fff37L/uT5mzZrlli9f7hYvXuxKtTZCqV8hpXlVlPpZ1/hFQAREQAREQAREQAREQAREQAREQAREICIElixZ4kaPHu3q1avnhgwZ4j777DMT/vF6P+KII0zUROiUuBmRExpyNzn3M2fOtL0ef/zxNjdKbS6sW7fOEQSg9gF2P16bN2+e++mnn1ylSpVct27dvKf1s8QIaAVAiZ1wDVcEREAEREAEREAEREAEREAEREAEREAEokAAYXft2rVmXVK1alX39ddfuz322MP98MMPZvWC6Hnttde6L7/80r3++us2JN6jVloEEPtr167t9tprL9eoUSPLfC8lAps3b3Yffvih2fvg/U8NBBrXAsL/pk2brPivro1SmhXbjlUBgG156H8iIAIiIAIiIAIiIAIiIAIiIAIiIAIiIAJ5JoBYOXHiRPf0009bAGD8+PFuzpw5luHcq1cvV7NmTStyivjP/6tXr57nHuvw+SSAxz0rQ0ot8x/mS5cudStWrHB77rmnrYjxzgPXDoWBWRmwevVqt379eu8l/SwxAgoAlNgJ13BFQAREQAREQAREQAREQAREQAREQAREoJAJIP7Pnj3bBP8PPvjAkf1///33u4MPPtidddZZ7qCDDnKNGzd23bt3d7fccoutBpg7d66jJoBa6REgwx2Bm4DRwoULSwoA3v4I/IcccogV/z3ggANs/KyW6dKli/vmm2/sOqlYsaL73e9+V1JsNNhfCagGwK8s9JsIiIAIiIAIiIAIiIAIiIAIiIAIiIAI
+
+
+
+---
+*Source: Document 64a95cd2950865cc023eedad1ff9b65d*

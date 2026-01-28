@@ -1,0 +1,32 @@
+---
+id: 223e768a-6a71-4171-88da-98461b6d77c7
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    6iycxermjyixey2elszkomivzcxtkksh9fqxxhdrnyxkkssxpswp1mmvfowku3ysdgeiq0rfiupkgq0x62ncphrqwpxhuyole7qoepqps2yyudeadm1vgxbkmxdk6gnkucnv0katnu4aooup7itdygkhcficf7vo0yex
+  - qy4e83u4wjwqkvmmhgzuv1
+  - >-
+    dhu96bnrtuhxxaudkdq6jbth1pksimbghauoug7uzlq410t1ygzuisupuunvrb7vvnxz6eebmd7kd8
+  - nzr5vlvdj5ewn4prmnro
+  - pubbqo7ltpvdbg2
+---
+# 6iYCXeRMJYIXEY2eLsZKOmivzcxTkKsH9FQxxhDRNYXKKSsXpSWp1mmvFOWku3YsdgEiQ0rFiUPkgq0X
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 2235 (chunk 2235/11534)
+
+## Content
+6iYCXeRMJYIXEY2eLsZKOmivzcxTkKsH9FQxxhDRNYXKKSsXpSWp1mmvFOWku3YsdgEiQ0rFiUPkgq0X62nCpHrqwpxHUYoLE7qoEpqPS2yyudeAdm1vgxbKmxdk6gnKuCnV0kATNu4AooUP7iTDyGKHCFicf7vO0Yex//Qy4e83u4wJwqkvmmhGZuV1+dhu96BnRtUHxXaUdkdQ6JBTH1PkSiMbgHaUoug7UZLq410t1YGZUisUpuuNVRB7vVnXZ6eEbMd7KD8/nzR5vlvdJ5eWN4prMnro/PUBBqo7LTPVdbG2+J+XG6gTqDTGOjScnjMuzvmTzsRNkuCg7Wi1xI5rnkzSqE5O0q7oddPt3DVSNTWGtu1lLHkO1jebWTFpRjZLtjx+p0tal0VI1A1gk8QmIYVGmv10tWlrSgtDIgntaUmyCpX/2hXyV+5letTcO1ubywRQaT54UfQv547gtMPL6J5lenXlWVceh4SQpWvT1Zlm5Yyr6M48T0bTJTVwITkPniIwjJ8RI79lw3bY9Mq1yQpuTgrwunpsOFzbk/B//A9pSE1l50AnUjMubiMRirwnnTmws7uorDYHpofBcmBvPvAgNP1HuJGuqQweBRJFBUk+Kuuq1tTM+Nzh7vCi8qLyovSKlWqhU/0n954bvClFmvJLx7lRGobPJwuZspB7px+u893UQlW/DdiomrBXczKqoF13XKyvaCKirzwk8QNggVsuLmKF5PD8gc0uErGUyEXAX+rsbeJHQT/bJLNU7UOHuUz28MLh2fL+32Qf7QCi8IF4T8EFaV3RJnThQq28r6+Gx9vU2wbpoqZ1ukeTSywuU2GB/gZ6wXAk1ZdYsstkcKhl+kDmnaP/qHuO6HrmENH6skCssiGTDLy42YsFIAW3SplKyRuZWUppCIsKLnEDlX6wHO/MQkFm2fFO+4Oo4L5s9wW/9ZgQzKxYsFmq6XUOKQ7V8sbGlrQ24SOkufVHV4Rkr3khOc+VdFdqzjq6tNLiSfL2xo6QaDWleZwah2qUbXuyqjm0x3aBeSGnIJmVMYz9K7m9Y9TO5NCJFHvtNYhxgANfRYe8ZyxaPZn7hG0j3TGHWBxnfAOGv8uqsiZUzvRjzS9nKiRLn3MRgkySosYjRf7iV7FNwqEG2umegoBfkQ72dvA7/Z00L9mf2QIhTD8KHapbI2YUWJjYM3wVYJPQ
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

@@ -1,0 +1,31 @@
+---
+id: 8d62222e-4d28-4d34-b7df-f4e8bf01c360
+type: insight
+created: '2025-04-05T17:52:11.000Z'
+document: 01be182f29c65fb8629d71dfdc1a81dc
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ccf2
+  - >-
+    wnjcxqoiucaaaecbagqiecaaaechqvsfcxn8o4rvucawfscegbvuxhbgeas8ni3zp3vtcbagaabagqiecbagaabaomsmdzeckd2dqp17rigkdcbcyc8rdr4chqg0ixumtj3vkudghxkgaabagqiecbagaabagqidcqw5xfpaxrq6hgcbn4qkabwjhag8jba
+  - iddqexjalwf4gubagqiecbagaabagqiebiawkexmqfwhkddmiraihccegc5c6kbevi6wj6htf
+  - zdd1heibagaabagqiecbagacb7gjua62w
+  - ye36hvhuy0eii0gavds
+---
+# CCf2+WNjCXQOIUCAAAECBAgQIECAAAECHQvsfcxn8o4RVUCAwFsCEgBvUXhBgEAs8NI3zP3vTCBAgAAB
+
+## Context
+From document: New Note — chunk 128 (chunk 128/192)
+
+## Content
+CCf2+WNjCXQOIUCAAAECBAgQIECAAAECHQvsfcxn8o4RVUCAwFsCEgBvUXhBgEAs8NI3zP3vTCBAgAABAgQIECBAgAABAoMSmDzeCkd2Dqp17RIgkDcBCYC8RdR4CHQg0IxuMtj3VKuDGhxKgAABAgQIECBAgAABAgQIdCqw5xFPAXRq6HgCBN4QkABwJhAg8JbA/idDqExJALwF4gUBAgQIECBAgAABAgQIEBiAwKEXmqFWHkDDmiRAIHcCEgC5C6kBEVi6wJ6HTf+zdD1HEiBAgAABAgQIECBAgACB7gjUa62w+yE36HVHUy0Eii0gAVDs+Bs9gbcEZk63wrFXPGL4FogXBAgQIECAAAECBAgQIEBggAIWAx4gvqYJ5EhAAiBHwTQUAp0I7PpmK7TcXNAJoWMJECBAgAABAgQIECBAgEDXBE4faYaje7pWnYoIECiogARAQQNv2ATeJhBd+N/7hKv/bzPxAwECBAgQIECAAAECBAgQGLDAnoc8qT/gEGieQOYFJAAyH0IDINC5wIGnQyhN+KOic0k1ECBAgAABAgQIECBAgACB7gm89ny0GPBs9+pTEwECxRMYKd6QBzjiZjTFSrUeQvxVa4ZW9HNoRF/x92hrNZthKPpf9MpULHMi/u9cgdbJmdAcL5+7e8k/Nw9NhMbsWHjta82wpm4B4CVDOpAAgUQCK+ozYaxRSVQ2SaGVjenod9d4kqLKECBAgMASBbr5ezvugt/bSwyEwwgUTGBVfbK7fzc2Z7L7+ye6hLT/D4fDVXe7h7dg/wwMt8sCQ/El1+i6a3TVNQwti/49DUXXY4ei78PR1dhl0Zuj0euxkTAUfYX45xxtEgDdSJPnsAAAQABJREFUDGZ0Ib95ZDI0Xp8M8YXaVnShtjk1G5oz1dCYmQ1D8cV+G4EOBCpP7Q21me5d7JppPhVWLt8QNu1phk1Ozw4i41ACBJIIlGZeCqcrryUpmqjMldPrw43j+frDLNHAFSJAgEAfBbZ28fd23O0bx5/oY+81RYBAVgWWTx8K+7r4++fSmfj3z5ascoShPxoKpRf93ZvZAOp45gRaUVJgePXysGz1WFi2dnkY2rAyDG9eHYa2rQ/LLl6buQSBBECnp2CtEeo7j0Zfr4favlNzd/bPV6Vf0/Op2JcGgenx6Mq/i/9pCIU+ECBAgAABAgQIECBAgACB8wRq
+
+
+
+---
+*Source: Document 01be182f29c65fb8629d71dfdc1a81dc*

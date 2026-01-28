@@ -1,0 +1,26 @@
+{
+  "id": "45306dda-03aa-4417-b71a-ebb0dcf5f7a6",
+  "type": "insight",
+  "timestamp": "2019-09-18T22:58:59.000Z",
+  "title": "<div>Covers</div>",
+  "content": "<div>Covers</div>\n<div><br></div>\n<div>Hungry Heart</div>\n<div>I can’t explain</div>\n<div>Love me tender</div>\n<div>Hyacinth house</div>\n<div>Don’t forget me</div>\n<div>Landslide</div>\n<div>Here comes your man</div>\n<div>Moon river</div>\n<div>Get off my cloud</div>\n<div>Start me up</div>\n<div>This must be the place (auto tune vocal as guitar solo)</div>\n<div>I could've lied</div>\n<div>Sunday Morning</div>\n<div>Adores yourmè</div>",
+  "context": "From document: Covers",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "735c2af45a58a0cb68757f323a3dae26",
+  "relatedUnits": [],
+  "keywords": [
+    "covers",
+    "hungry",
+    "heart",
+    "explain",
+    "love"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

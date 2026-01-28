@@ -1,0 +1,31 @@
+---
+id: e60f0e78-4c47-47e0-baa9-505f5a1f2e87
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - nenuw7bvh2dojlhacif04yyqcqy45rtbcfrjfteiji7iuj7myv08hg3qiim91k9fgnmyns1lwf
+  - ruuga4hcy8uco0cpiqz6w
+  - >-
+    e6j6ipxkkdgvhok3rxa1ue0hstjywlzwu7fdhvt41udsvdp5hvlvwanfilqyltzknltzrn47i71r5zz77pnnfuccwbte3bzjhqepllhpwl08qvpfi8xqgvkpw2qnq45aslaz8suprg1rhojcvh34nfcnpjbspgilytkeugdzo22pmei76jvqeopyrkh0tg9eqyrtjlngd2pmabjtre3cvswdilbhj
+  - mf3q
+  - evoy3kt7l
+---
+# NeNuw7bVh2dojlHaCIF04YYQcQY45rTBCfrjFtEiJI7Iuj7mYV08Hg3QiIm91k9FGNmyns1Lwf/RuUga
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 1054 (chunk 1054/11629)
+
+## Content
+NeNuw7bVh2dojlHaCIF04YYQcQY45rTBCfrjFtEiJI7Iuj7mYV08Hg3QiIm91k9FGNmyns1Lwf/RuUga4hCy8Uco0cPIQz6W+E6j6IPXkKdgvHOK3rxa1UE0hstJywlzwu7fdhvT41udsVdP5hvlvwANfILQYlTzkNLTzrn47I71R5zz77PnnFUCcwBTE3BzjhQEPlLhpWL08qvPfI8xqGvkpW2QnQ45ASLAz8sUPrg1RhojCvh34nFcnPJBSPGiLyTKeUgDzo22pMEi76jvqeOPYRKH0Tg9eQyRTjLNGd2PMAbjtRE3cvswDilBHj+MF3Q/evOy3kt7L++ttuFU4wBpCnyDVEMSHuTlUV5sTDgGmv+S6kDlI6znnv8Bjx63XVrx0s6XdV62a1nD5buiMe84A3mEmcCYY4mHwlIXPooZ9ldeNlK+SHbxV6cXOx2zhTHXPtPLFJtTRpgztHbP2j3r99yYdVPXWxZMPAfzA85BIpzmvsSPcEeN7TAUCtitObj6o+8x02ghOrTRpe3ghajMu0W6PDPlXveO27xvjhxCHs5ButTBtoyxMhYbnegi3/pWLE04IzclTJBxbsYmdy/SJ0c8jTOyJTl6CKd5EqeD3DFCCWdnqHVkokTi1a16mtXvxmH/oZ3EiPORRs8+cvOIUx+5edmupROWT1SrDuRIiPIGq8+Q5nDIcNAv0FzBFmwAYcQiIh9qg5esSxjxklqxUYkBUmAVsq2fEoCwI3dSl0KekUd/OId/eN0Ly5EygF8gsuP+yEX/VyGjUo90ScwaZzRH/8auN2ZdXxnj83evlJkozqRiIEiq7zD/qG21mfVR75xZHJ2oiaVkBgDOVUJOUhQvdWnoQFr111X9lvV7tt9zUitDRoDjVnJYrRB0sS0O8YZu9xT4jGsqXTu/+9U6t6MeznBgAkaoNQ3yIh313rTSieeccHZHfOvy32c/cg6uC5hrOgiam8hSQjsGszaeXj2+7vjbxt8mtRzkW8SA8yFBGu8c0myxLvuhTUQA+w/pRLLn/nzKwzeNWLGs4bLey3YhLQ4XIpHmoqXkHjraYbd58r4N7MUeJ9rjuMVP4lPCiCKI57EZ8eLDNz2yYumEZbBSHA1UlsHVB3Ly7QrSDObfy7FM/IzWkyIXXjRTh6MgpG7rAAxZGHDVU13mX/2ft9fDv6GlG7qJk1Iggxtk+JR8
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

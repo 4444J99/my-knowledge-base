@@ -1,0 +1,26 @@
+{
+  "id": "879a2443-612a-4a02-a229-75f156cd44b3",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>### **10. Computational Persuasion**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Audience Modeling:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Belief state (probabilistic network)</tt></div>\n<div><tt>- Emotional state (VAD coordinates)</tt></div>\n<div><tt>- Cognitive state (elaboration likelihood)</tt></div>\n<div><tt>- Social identity (values, ideology)</tt></div>\n<div><tt>- Credibility perception (trust ratings)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Strategy Selection:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Optimization: Maximize P(Goal_State | Strategy, Current_State)</tt></div>\n<div><tt>- Strategies: Direct argumentation, narrative framing, authority citation, social proof, emotional resonance, preemptive rebuttal</tt></div>\n<div><tt>- Ethical constraints in PUBLIC mode (no deception, exploitation, dark patterns)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Virtuous Persuasion (Godber &amp Origgi):**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Rational Persuasion (RP): Facts, evidence, logic - encouraged </tt></div>\n<div><tt>- Non-Rational Persuasion (NRP): Emotion, ethos - acceptable with RP </tt></div>\n<div><tt>- Manipulative: Fallacies, falsehoods - prohibited </tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 16 (chunk 16/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "persuasion",
+    "state",
+    "emotional",
+    "social",
+    "strategy"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

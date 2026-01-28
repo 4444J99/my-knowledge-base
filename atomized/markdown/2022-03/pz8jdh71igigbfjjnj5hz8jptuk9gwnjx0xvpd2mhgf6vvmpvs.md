@@ -1,0 +1,31 @@
+---
+id: dc526965-bf06-4b1b-b0aa-86ff95ca36a1
+type: insight
+created: '2022-03-16T12:34:10.000Z'
+document: 7405c2da6b92da26b0b49297d3a4e664
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 8jdh71igigbfjjnj5hz8jptuk9gwnjx0xvpd2mhgf6vvmpvs05mw
+  - elqcjhco2fgbutkrncano6sphpvnpqplpwm1yy8naplok4wtsoi0
+  - fh5umcvegv
+  - mpakthwakjcptyeltjaeaoghlv0pgipl2yfn
+  - >-
+    veo1nzqrfjtjgdyotiaawt6ckaefwha70krrnbxzubblagbrhevudkdgxkmw4nochywnisxybh5wgbucelehqv1xagpjhptxg43p92mitugo1aemgbgqmukvyxr2qzpk642iqjkskez26uarjnnttznpwbtj
+---
+# pz+8jDH71IgigbfjJNJ5hZ8jpTuK9gWNjx0xVpd2MHGf6VVMpVs05mw+elQCJHCo2FGBUTKrncanO6SP
+
+## Context
+From document: The battle of the blinds — chunk 1203 (chunk 1203/1787)
+
+## Content
+pz+8jDH71IgigbfjJNJ5hZ8jpTuK9gWNjx0xVpd2MHGf6VVMpVs05mw+elQCJHCo2FGBUTKrncanO6SPHpVNpQPlPWm1YY8naPLok4wtSOI0/fH5uMcVEgV/mpAKTHwAKjcPtyelTjaeaOGHlv0pgIPL2YFN+VeO1NZQrfJTjGDyOtIAAWT6CkaEfwHA70KrRnBxzUbBlagBRhevUdKdgxkMw4NOCHYWNIsxYbH5WgBucElehqV1XaGPJHpTXg43p92mITuGO1AEMgbgqMUkvyxr2qzPK642iqjkSkeZ26UARjnntTZNpwBTj/dXoKTaBy1SkBC4KhVHQ0rxpEAyinF8HH5VIkbsD5uNuOKEBXMm75iKSTEigmgsF+RaftVY/woWgFfy1x8lHzKNq0luCxIFEz+Wdg+9VAOCBetQOQkuG5FSB8IGI56VFIM8tSYDbhztxGKrLIy/KRWpE0bLtXioQbcPuA5oQEMR8o7W71CYGZi3apiwZ8npSmbHIHFMCkoOcGnXLts8taVpVZs9qjIP3xigRD5DgDFXY0B4PpTY5SeDU1uCSRVP4QhueO+LEc3mF7VjQgiLb3rovFXyX42+9c1HjdvbrXyOP+I+swa9xEylfu96GwCAelR4+bI6GpFQH71ecdooJHK9BTJpDIBtB4pNzA4HQVKshAyKkAjcOmw8YqJkKdOhp67XbLUudhI7UgGn5VAWkD7R0pgb5+KldsdKAIy/T2pWKP0HNNA3cmnKEJ+WgA2tgA9KNqL1odyDhaaBv5btQAR+lEjFThaiL/wAQ6Uq/N0oAeRvXI+9RaqoGD96lGI2yaCyh99NICOTMZ4qeORZeJBlqaZYyuHHzVEPlG4VYCyMRLj+Gl3gfMKQcrk0pA+7SSsAgkH8YoaMD5h0pTsxgUh2qMUwEPzrzxSB1DBQKkO3bhqgi3CUbelAEnnfNjHApUbn61K4j6modgx/KgBH27hmo3AUjA606RQF3dxSpICozQAny4pGTK/L2pep9qUH5SooE0MjfbwKRhg5POabtC8mnbhtoIGL97B6Ux3cyeX27VImMc9qUEYzVRAiEbKcdqXanSlLgAH1pjEEACqAFTbkjpikCoyfN96nbgoCrUMgw1AEsKFGOeRTWQZ46UkTHlKajBZCT0oAsAqo2HpRPhIsLiqsz9FFTGEtF/tVaRDIgNiZbmpZMGPp
+
+
+
+---
+*Source: Document 7405c2da6b92da26b0b49297d3a4e664*

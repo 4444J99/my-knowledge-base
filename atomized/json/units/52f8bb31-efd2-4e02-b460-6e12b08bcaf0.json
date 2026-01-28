@@ -1,0 +1,26 @@
+{
+  "id": "52f8bb31-efd2-4e02-b460-6e12b08bcaf0",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Example: If XP isn’t used by Week 12, it decreases by 10% each week.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Prevents hoarding and encourages students to engage throughout.</div>\n<div><br></div>\n<div>2. Should students be able to “bid” XP for in-class decision-making power?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Example: If multiple students want to override a class decision (change the POV character, alter the weekly path), they must bid XP for influence.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Encourages tactical social play &amp prioritization of resources.</div>\n<div><br></div>\n<div>3. Should there be a special “Zero XP” reward for students who never engage with the XP system but still excel?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Example: “The Stoic Scholar” title – If a student never uses XP but still ranks in the top % of the class, they gain a unique distinction.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Allows room for both gameplay-oriented and traditional learners.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🚀</font> Version 5.2 now fully locks in all mechanics, references, transitions, instructor actions, risk vs. reward, and hidden XP use.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 148 (chunk 148/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "zapfdingbatsitc",
+    "students",
+    "example"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,31 @@
+---
+id: d0fa2583-9994-4c51-adc5-f8248e657284
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - nycecyyrxgnm9im
+  - 5uldx2qrn1fonvegdbmn17ikleskscdvpect8
+  - >-
+    ujpvu5smijpbhw8whi7cq4etellyelwgczheeolsxoinybwofputlqn22rbva3hesrwenhsr8durirzdlortgdmfsj7suu7eq1xfcvzxlciireytkh9khmjabyhkhmibd8yug4biphjemiij5kj8qulqskzkkssrgrug6vva8ars4phrvuvcqdpwmviodanzekz7etdlytgohmnude1urlfs5ckmdpipkf4yygn5akuc0rlh69jthk5juzntoqsge8u5ig3xbhue1o8nazi3okp3nzjefl49bvj
+  - 8y8rvcxdwesemc4golfjb
+  - 2zq95a
+---
+# NyCECYyRXgNM9im+5UldX2qRn1FONvEGDBMn17ikLESKSCDVpECt8/UjpVu5smijPbhW8wHI7Cq4ETEl
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 1530 (chunk 1530/2189)
+
+## Content
+NyCECYyRXgNM9im+5UldX2qRn1FONvEGDBMn17ikLESKSCDVpECt8/UjpVu5smijPbhW8wHI7Cq4ETEllyelWgCzHeeOlSxoinYBwOfpUtLqN22RBva3hESrwenHSr8durIrzDlORTGdMfSj7SUU7eQ1XFCvZXLciIreYTkH9KhMjABYhkHmiBd8YUg4bipHjEMIij5Kj8qUlqSkZkkssrGRug6VVa8aRs4PHrVuVCQdpwMViODANzEkZ7etDlYtGohMnUde1Urlfs5CKMDPIpkF4yygn5akuC0rlH69jThK5jUZnTOqSgE8U5Ig3XBHUe1O8nazI3OKp3NzJEfl49BVJ+8Y8rvcxdWeSEMc4GOlfjB+2zq95a/Hvwf4hsrOLUFt4B5cEgzueK43OMDkAgj5vfjmv2guS91ESVzt5r8OP215Ul/aZ8GW1k7TLbXEYuEAICJNPGVBPQ85J9uvrX6h4WUefGzS/lZ+XcftqnFeaP2y8PC5TRIHvm3uVUk9TkgH+tbxZSgcLg1UsYjFYpbuclBgkdMj09qkOGQiE9OMmvz7G0/fm33f5n3+Hh+7XoihPMjRspx+FcrfbVZdg3ZxVlJVVXQgn5jwabKInQOw2kdK5ITVjpgm9CGaNBAJMHOOKrKSjBScNjJ5xQ93jbt5I55/rWbfkSTrIpwT1rOcr7G8V0KOosGm2LyRXCa1byC4+1XIyQc/Su7lESqXkJJX0rB1ERNFmUlVbnORnj68fnSW5lLsfEMn7SreLf2k/+GfPhyvn3OmJ5usXLK3k2zqu425O05cgg7sgbsL1yR9wXdzZ2Ng99fTpDBDGZJJJCFRFQZJYngV/K58Pf2sB+yJ/wUB+Jvin4ppcXOlanqOoW919j/eXKqspMGxZGAKsVUsOqDhTgEHxL9tn/goR8Xv2yPFQ+FXwkkvdG8LXU6Wdlp1tIyTak0jBUafGDlnO1R0xjIzVuGugnTex9P8A/BSP/gpBN8dnX4Bfs0XdxcaDJIsepXkCOGv7gNtFqigCQqD1wMMcDBAyfur/AIJI/wDBO61+EnhuP9oT4z6aD4sutw0iznVs6VGRtdzG2AJ35XkZQZx941wv/BN//gklf/BPWNN+MH7QtxDfapCI7mz0q3H7uyuB8weSU8yOjf3ABkZ3MK/oEtIxbJsjPC8dc1VV3jyxC/RG5p0T5CtwR1rUn3O
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

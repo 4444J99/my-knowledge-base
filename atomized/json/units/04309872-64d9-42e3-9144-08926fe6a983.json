@@ -1,0 +1,26 @@
+{
+  "id": "04309872-64d9-42e3-9144-08926fe6a983",
+  "type": "insight",
+  "timestamp": "2021-11-22T19:21:29.000Z",
+  "title": "<div>Single unexpected events trigger misfired days.</div>",
+  "content": "<div>Single unexpected events trigger misfired days.</div>\n<div><br></div>\n<div>Locked out my car in Pembroke Pines</div>\n<div><br></div>\n<div>A beggar, denied by one too many automobiles, breaks and attacks a man driving to work.</div>\n<div><br></div>\n<div><br></div>\n<div><i>Slacker</i> (1990) follows a single day in the life of an ensemble of mostly under-30 bohemians and misfits in Austin, Texas. The film follows various eccentric and misfit characters and scenes, never staying with one character or conversation for more than a few minutes before picking up someone else in the scene and following them.</div>",
+  "context": "From document: Single unexpected events trigger misfired days.",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "13d8696cc3af1f7e6de18e803e9d9958",
+  "relatedUnits": [],
+  "keywords": [
+    "single",
+    "follows",
+    "unexpected",
+    "events",
+    "trigger"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

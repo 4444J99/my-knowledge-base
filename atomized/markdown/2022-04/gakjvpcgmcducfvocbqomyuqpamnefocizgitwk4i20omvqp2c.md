@@ -1,0 +1,33 @@
+---
+id: b016d4d1-1755-4193-b825-29b9088785d6
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - gakjvpcgmcducfvocbqomyuqpamnefoci
+  - >-
+    zgitwk4i20omvqp2cttdpethe2rbhmqig2ccuod7kqgf4ahrykaabrwa4calckxbrmmyviph4jaipqxqeadwiap0qfv7zmznegghillrazzjaba5zrtavosoew
+  - >-
+    lwvu1qd6dywitw4gqy0qq1gcikgbkabdpowlrsolrcwriqu2knzsxyxc80cqln9bjqphwfw2d3ofs
+  - >-
+    gxzmqzzfdyok1gjhfpcybjwcsqxdfqp9hpszrimlk1h7vyuyyngkv9jhaunauhzcu4d54vihb9bny
+  - whyp4rqiielywelkpchdrhku2iqg6
+---
+# gAKjVpCGMcDUCFvoCBQoMYuqpAmnefoCI/zgiTwk4i20oMVQp2CTTdpEthE2rBHmQig2CCUOd7kqGF4A
+
+## Context
+From document: Strike one — chunk 480 (chunk 480/4795)
+
+## Content
+gAKjVpCGMcDUCFvoCBQoMYuqpAmnefoCI/zgiTwk4i20oMVQp2CTTdpEthE2rBHmQig2CCUOd7kqGF4AhRYkAABrwA4cALCKxBRmMYvIph4JAipQXQEADWiAp0QFV7ZmZnEggHILLrAZzjABA5ZrTAvosOEw+LWvu1qD6dYwiTW4gQy0qQ1gCIKGBKABDpowlrSOlRCwRiQU2KnzsXyxC80CQLN9BjQphwfW2d3OFs+gxzmqZZFdYoK1gJhFPcyBjWcsQxDFQP9HPszRimLk1h7VYuYyngkv9JHauNaUhzCU4D54VihB9BNY/whyP4rQIiElYwELkPChDRHku2IQg6/H6IcNOGBiR0CvHDA2ETxAhNnvRah8a1CDHBxBZSOM2ZBW5hKYvWyEJWEEXwRxiCwpwtx7UEQe6HCFmCY4bSc4wRaKJu8Hd2QLMpHKEV+BCT7gcgx0IFQcrnAFJtglDVSIaRBjKoiDb4EKW1ABFeiQiTyMUSiKwAEDbnADFdxAJy9IgBsBsJpFWGIxu4gEdhCTmMYkRAKJ+4zl3toAWBUyylB+K6kIwoULjOqQqgEBGciQYx1P4jVhKPNgQaCJMdQsIm1u83X/6nwY2w3PWJOIiCdEMZHMCnohxvDGYUqpi2DoAjuw6IY66rEMSjwvPIDAhDrycb58QAMSvKjXpqGRaXeZbZOzMMczE0L39NlnfJloX4EkIEAAeOCbAhxahPhX3Yr4gSDvFFhCOPTden43KAorJwDwuRDzakwi6W1CQ9y7XgxCe2QmYKgPhuCo730bvy9LYUu0jRKIjjAQHaECFGKAAxZgKS5sQKlVqZC2jhhhDFid91V5S4gj4hQTgcAELoFVqDhgwaQpbSkVxA+F8QdfbVBQwQq4kIlGKOIOikB3HBR1sy46wC9rwEWOLbULMqDcUmFguYW4gD7CgHeSoSlzFc0Q/4xSGZpDQiTR0IErEzIQ0AEyAAEzo5UwgwNLgAO/WoMxiA03aAE4OLPJAQDAYDMbe4E3ww5luZ3DIAjs4KtRubFQMBauGx6vGx4YhAVNCIVncAd7MAd18JZ1QQ/qSS2CMIVvaZd60TRPgIZ8QIdpgIVvAAB7cJeUAQQwaA13+Yd2MDx5mQ/jkgdiOIQrIQgDiB/HYxBxsjz+oREJyaGI4JBeCzYFCjYA8IMbYCCJaAJkM4gJ0hiNQYjUSz2C
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

@@ -1,0 +1,26 @@
+{
+  "id": "579cdd62-775a-481a-9e8f-cd78afbe7d74",
+  "type": "insight",
+  "timestamp": "2021-08-19T16:03:50.000Z",
+  "title": "<div>Is it a party or a problem? </div>",
+  "content": "<div>Is it a party or a problem? </div>\n<div>If you’re asking you already know the outcome</div>",
+  "context": "From document: Is it a party or a problem?",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "fcf08ebf177d2b09ce2a76111455a3cf",
+  "relatedUnits": [],
+  "keywords": [
+    "party",
+    "problem",
+    "asking",
+    "already",
+    "know"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

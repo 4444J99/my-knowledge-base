@@ -1,0 +1,26 @@
+{
+  "id": "c2069b63-7e0b-4443-bbac-ab747e86db6d",
+  "type": "insight",
+  "timestamp": "2024-10-02T15:00:58.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>revise the work experience section of my resume, preserving the original format, to include as many keywords from what we’ve just compiled as often and as extensive as possible without sounding inhuman</div>\n<div><br></div>\n<div>revise the skills section of my resume, preserving the original format, to include as many keywords from what we’ve just compiled as often and as extensive as possible without sounding inhuman</div>\n<div><br></div>\n<div>write a robust cover letter for the most previously attached role leaning heavily into including as many keywords from what we’ve just compiled as often and as extensive as possible without sounding inhuman</div>",
+  "context": "From document: we are starting a new job application. organize, alphabetize, and… — chunk 2 (chunk 2/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "88db581a10332761c92ca07d7acf104e",
+  "relatedUnits": [],
+  "keywords": [
+    "many",
+    "keywords",
+    "from",
+    "what",
+    "just"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "35c35a51-fc1a-4ac3-9d92-6d30d1a4fb3f",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants every name suggestion, idea, and revision to be tracked version-by-version, like a time machine. They want to be able to review all past naming conventions or structural suggestions in sequence, compare them, and combine or choose from among them. This applies not only to naming but to every idea or concept pitched throughout threads, ensuring no loss of iteration history.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Assignment sequence follows a structured weekly progression: 1. Warm-up activity to explore themes and generate ideas. 2. Class discussion to develop ideas with peer input. 3. Pre-writing/outline assignment requiring three distinct takes on the topic. 4. First rough draft + peer review focused on rhetorical effectiveness (e.g., pathos/logos). 5. Second draft + self-assessment + peer review, emphasizing revision using peer feedback and rubrics, along with detailed revision notes.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_051425_MASTER — chunk 45 (chunk 45/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "5e4feb3febe2be13a91fd74e828ebc64",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

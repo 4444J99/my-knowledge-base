@@ -1,0 +1,26 @@
+{
+  "id": "75214ba3-92c7-481e-8dd2-2afc068b49fd",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>### ⛓️ Dialogue from latest screenshot:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>&gt “Those are all words I understand separately…”  </tt></div>\n<div><tt>&gt “Yeah I’ll take a look.”  </tt></div>\n<div><tt>&gt “I don’t really know what I’m looking at here.”  </tt></div>\n<div><tt>&gt “Or your ultimate goal in the project.”</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### 🔎 Interpreted Roles + Updates</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Tag            | Meaning                                                                 |</tt></div>\n<div><tt>|----------------|-------------------------------------------------------------------------|</tt></div>\n<div><tt>| `GAMBLE+`      | He is a probability thinker. Skeptical. Waits before engaging.          |</tt></div>\n<div><tt>| `LOGIC+`       | Clarifies jargon overload. Demand for clarity.                          |</tt></div>\n<div><tt>| `CONTEXT+CHRIS`| Symbolic echo of Chris’s origin node; Forrest inherits introduction logic |</tt></div>\n<div><tt>| `QUESTION+`    | Forces you to articulate your inner logic externally                    |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 179 (chunk 179/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "logic",
+    "your",
+    "chris",
+    "dialogue",
+    "from"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

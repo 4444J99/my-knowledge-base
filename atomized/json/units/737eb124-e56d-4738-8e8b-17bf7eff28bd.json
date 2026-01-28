@@ -1,0 +1,26 @@
+{
+  "id": "737eb124-e56d-4738-8e8b-17bf7eff28bd",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><font face=\"ZapfDingbatsITC\">✔</font> Unlockable perks (items, cosmetics, a",
+  "content": "<div><font face=\"ZapfDingbatsITC\">✔</font> Unlockable perks (items, cosmetics, abilities).</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Status effects if they miss or fail certain challenges.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📊</font> Master Sheet (Live Tracker)</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Keeps track of:</div>\n<div>  •  XP levels and rank-ups.</div>\n<div>  •  Who has unlocked limited-perk availability.</div>\n<div>  •  Who has active status effects and what antidotes they need.</div>\n<div>  •  Remaining open perks &amp their availability.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">✅</font> Why This Works:</div>\n<div>  •  Prevents chaos by making everything visible to students.</div>\n<div>  •  Encourages engagement with RPG elements by keeping a tangible scoreboard.</div>\n<div>  •  Adds another layer of accountability to participation and assignments.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">💀</font> 2. Status Effects &amp Antidotes</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> If a student fails a mastery exam, misses an assignment, or breaks path-specific rules, they get a status effect.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 60 (chunk 60/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "status",
+    "applecoloremojiui",
+    "zapfdingbatsitc"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

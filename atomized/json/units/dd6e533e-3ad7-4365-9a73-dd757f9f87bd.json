@@ -1,0 +1,26 @@
+{
+  "id": "dd6e533e-3ad7-4365-9a73-dd757f9f87bd",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Certain characters now have the ability to “reroll” the class setting, altering the lens through which the material is analyzed.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> If a student uses a “Realm Reroll,” the class moves to a different setting &amp shifts analytical filters.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> The character who initiated the shift gains a temporary advantage.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> New rules &amp filters apply depending on the setting.</div>\n<div><br></div>\n<div>Example: Week 5 – Modernism</div>\n<div><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Original Setting</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Rerolled Setting</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Effect</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 183 (chunk 183/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "font",
+    "style",
+    "width",
+    "setting"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

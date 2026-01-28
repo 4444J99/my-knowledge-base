@@ -1,0 +1,26 @@
+{
+  "id": "23037bc9-0cd5-4878-b0ab-f7fbd86f3fc5",
+  "type": "insight",
+  "timestamp": "2022-07-31T14:26:10.000Z",
+  "title": "<div>The father yells at the son cause he can’t see his reflection</div>",
+  "content": "<div>The father yells at the son cause he can’t see his reflection</div>\n<div>The son breaks the father’s arrows cause he can see his refraction</div>",
+  "context": "From document: The father yells at the son cause he can’t see his reflection",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "77742bb62eea772bc1df9949501f0724",
+  "relatedUnits": [],
+  "keywords": [
+    "father",
+    "cause",
+    "yells",
+    "reflection",
+    "breaks"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

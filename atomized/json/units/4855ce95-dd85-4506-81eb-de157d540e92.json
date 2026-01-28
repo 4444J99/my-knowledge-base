@@ -1,0 +1,26 @@
+{
+  "id": "4855ce95-dd85-4506-81eb-de157d540e92",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>✓ **github-mcp-server** – AI integration with GitHub</div>",
+  "content": "<div>✓ **github-mcp-server** – AI integration with GitHub</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **GAP ANALYSIS: What's Missing**</div>\n<div><br></div>\n<div>### **🚨 Critical Gaps:**</div>\n<div><br></div>\n<div>#### **1. Archive Layer (Layer 0) Has NO Connection**</div>\n<div>- No intake system for iCloud/Dropbox/hard drives</div>\n<div>- No indexing or cataloging tools</div>\n<div>- No bridge to any other layer</div>\n<div><br></div>\n<div>#### **2. Personal → Org Graduation Pipeline Missing**</div>\n<div>- No formal process to promote repos</div>\n<div>- No lineage tracking (which personal repo → which org repo)</div>\n<div>- No decision criteria documented</div>\n<div><br></div>\n<div>#### **3. Multi-Modal Archive Processing Missing**</div>\n<div>- Writing extraction: No automated text processing from archive</div>\n<div>- Music analysis: **maxmsp_ai, SoundJS** exist but not connected to archive</div>\n<div>- Video processing: No tools present</div>\n<div><br></div>\n<div>#### **4. Unified Knowledge Graph Missing**</div>\n<div>- 35 personal repos have no interconnection map</div>\n<div>- 23 org repos have no dependency visualization</div>\n<div>- No cross-layer relationship tracking</div>",
+  "context": "From document: Contents_Table — chunk 63 (chunk 63/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "missing",
+    "archive",
+    "layer",
+    "personal",
+    "repos"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

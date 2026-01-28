@@ -1,0 +1,26 @@
+{
+  "id": "0b8a5e28-0fd2-4ffe-ba9e-a5623fe8ebc6",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:56.000Z",
+  "title": "<div>Characters: character sheets, arcs, and lineages.</div>",
+  "content": "<div>Characters: character sheets, arcs, and lineages.</div>\n<div>Specs: historical versions of specs, proposals, and decisions.</div>\n<div>Meta: indices, manifests, and continuity maps.</div>\n<div><br></div>\n<div>Each artifact under $ARCHIVE_ROOT uses the naming grammar and carries a SEAL, so that it is self-describing even if isolated.</div>\n<div><br></div>\n<div>2.4 $PROMPT_ROOT Structure</div>\n<div><br></div>\n<div>$PROMPT_ROOT is the library of prompt templates and handoff shells. It is not a transcript archive; it contains parameterized templates that reference $OS_ROOT and $ARCHIVE_ROOT.</div>\n<div><br></div>\n<div>A minimal structure:</div>\n<div><br></div>\n<div>$PROMPT_ROOT/system</div>\n<div>$PROMPT_ROOT/world</div>\n<div>$PROMPT_ROOT/workflow</div>\n<div>$PROMPT_ROOT/character</div>\n<div>$PROMPT_ROOT/analysis</div>\n<div><br></div>\n<div>Each directory holds prompt files named using the LAYER-DOMAIN-TYPE-ID-VERSION grammar, with TYPE set to PROMPT.</div>\n<div><br></div>\n<div>For example:</div>\n<div>WORKFLOW-PROCGEN-PROMPT-SEEDWORLD-0001-v0_1</div>\n<div><br></div>\n<div>2.5 $REPO_ROOT and $ORG_ID</div>\n<div><br></div>\n<div>$REPO_ROOT holds clones or working copies of all repositories under the neutral organization $ORG_ID. At minimum assume:</div>",
+  "context": "From document: 0.\tPreamble and Scope — chunk 11 (chunk 11/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "b3360b527d494aeb150b316c90472eb0",
+  "relatedUnits": [],
+  "keywords": [
+    "prompt_root",
+    "prompt",
+    "character",
+    "specs",
+    "each"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,40 @@
+---
+id: b1c9c814-b2dd-4361-bdd1-34670fada165
+type: insight
+created: '2025-12-04T16:48:25.000Z'
+document: 1f0200e52addd3bec3d0beb78cca4a02
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: programming
+keywords:
+  - glitch
+  - space
+  - spatial
+  - place
+  - myth
+---
+# <div><tt>| 51 | precision | ambiguity | language | d8 | [text, emotion] | poetic
+
+## Context
+From document: # synth-wave-modules — chunk 18 (chunk 18/51)
+
+## Content
+<div><tt>| 51 | precision | ambiguity | language | d8 | [text, emotion] | poetic blur mod |</tt></div>
+<div><tt>| 52 | presence of code | absence of signal | technical | d10 | [input, error] | glitch gate override |</tt></div>
+<div><tt>| 53 | embodied space | networked space | spatial | d12 | [place, connection] | AR / 3D fusion UI |</tt></div>
+<div><tt>| 54 | face | mask | myth | d20 | [identity, role] | formant modulation |</tt></div>
+<div><tt>| 55 | heaven | underground | myth/place | d100 | [cosmic, descent] | tone + FX spatial sync |</tt></div>
+<div><tt>| 56 | initiation | decay | ritual/time | d20 | [opening, ending] | envelope trigger map |</tt></div>
+<div><tt>| 57 | attention | distraction | psychological | d8 | [focus, chaos] | UI visual modulation |</tt></div>
+<div><tt>| 58 | whisper | scream | audio | d6 | [intimacy, power] | distortion/volume shift |</tt></div>
+<div><tt>| 59 | stability | rupture | system logic | d20 | [structure, interruption] | glitch jump engine |</tt></div>
+<div><tt>| 60 | central clock | recursive clocks | temporal | d1000 | [sync, rhythm] | master LFO sequence |</tt></div>
+<div><tt>| 61 | peace | tension | mood | d20 | [aura, behavior] | compressor/LFO hybrid |</tt></div>
+
+
+
+---
+*Source: Document 1f0200e52addd3bec3d0beb78cca4a02*

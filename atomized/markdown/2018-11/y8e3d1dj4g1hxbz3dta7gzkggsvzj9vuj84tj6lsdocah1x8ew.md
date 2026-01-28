@@ -1,0 +1,31 @@
+---
+id: 4c0afa17-1d0b-4c1b-9337-2b63bfaafbed
+type: insight
+created: '2018-11-06T20:47:41.000Z'
+document: 8c3ce8993066f857adca061d250e2c68
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - y8e3d1dj4g1hxbz3dta7gzkggsvzj9vuj84tj6lsdocah1x8e
+  - wbortpgvpophbsndufgxjrxdk8wjadzosctwy8gsswvgywwody5u9dxhwk
+  - >-
+    trftwfe34eejtb0n9pj4xnwjovie7sxstbstuh1szivjf9vbdinvmwrn94tjgkdagzfnj446l8q7z
+  - gox4bg8mel4pbgo6v4s8nrtsutoj1gjjhjm01skcronmn87zbyaqmfmk6n9oz4eff
+  - xf8mrnqv2gv2j9gspcv5c24as68n2tkpuefzilsvblw3eqefosm9s0acl
+---
+# Y8E3d1DJ4g1HxBZ3dta7gZkggSVZJ9vUJ84TJ6lsDocAH1x8e/wBorTPgvPoPhbSNDufGXjrxdK8WjaD
+
+## Context
+From document: Octatrack Tips & Tricks — chunk 651 (chunk 651/2544)
+
+## Content
+Y8E3d1DJ4g1HxBZ3dta7gZkggSVZJ9vUJ84TJ6lsDocAH1x8e/wBorTPgvPoPhbSNDufGXjrxdK8WjaDZOsctwY8GSSWVgywwoDy5U9DxhWK+TRftWfE34eeJtB0n9pj4XnwJovie7SxstbstUh1SzivJf9VBdiNVMWRn94TjgkDaGZfnj446L8Q7z/gox4bg8MeL4PBGo6v4S8nRtSutOj1GJjHJM01skcronmN87ZByAQMfMK6n9oz4EfF/xF8MrnQv2gv2j9GsPCV5c24aS68N2tkpuEfzIlSVblW3EqeFOSM9s0Acl/wUa8WfFCHxZ8MtHtPAYuNC03xXpd1pep/2pbp/aeobSfsX2crvg5yPOclOM4r9L/hf4i8f+KfCUOr/ABL8IDwPrjyyq+mDUIdT2Rq2Ef7RAFQ7xzgDI6Gvgz9u20uNM8Ofs92F7dfbJ7TxrosUlxtKea8ce1pNpJK7iM4JOM9a/TagDwj9oL49aD8APB9p4g1HTrjXdV1q9h0zSNKs8effX1xny4lY5Cjj5mIOOAAWIU/O/iD9q346fCKTTPEf7QXwgi8N+CNRuYLW41TTtZh1GTTXuG2obiFEBZQfvMmAOxLYVuo/ax+OPiT4feJ/hv8AC/4c6Dper+N/H1/JFpt1rIJstO8gxgzsEw5fMgK7DkbTwx2qfkD9vDwD8bNH/Zv1TxF8avi4mtZvbGO00PTdMg02xkuXmGQ8hLz3GyMO6qSoBUNjigD9luvIr5y/aK/aN0L4AaRo8f8AZNz4o8VeKLn7Fomh2RAuL244z82G2RqWUMwVjllAU54940E50PTjnObaH/0AV+cv7Td5aeBv23vgD8TfGsi23hAQalpn2qbC29tfzRTJGZHPypuaaMgtgAKWz8pwAa3jn9sz43/BTwbfeLfjl8DZtCgKgafNZ6zBe2sly7jbbXTwRyNbEpuKyFWVmAUAZyO9+K37aGkfCPwr8HfGfiLQANK+KCW813Kbth/ZMEsME8j4WBjceWsx+UCMtt4xnAo/8FFvGXhLw/8AspeLdK127g+2eIUtrbTrdnHmXE4uYpN0a5yRGqmQkcAD3Gfl/wCOFhZ6ron7DWnahEs9tcXuhJJG4yroYdOyrA9QRwR6UAfa/wAOv2k/E/iHSfFXjz4ofDu++GngXQbEahaalq06me7hG4uWtVQPE20KVTLFicD
+
+
+
+---
+*Source: Document 8c3ce8993066f857adca061d250e2c68*

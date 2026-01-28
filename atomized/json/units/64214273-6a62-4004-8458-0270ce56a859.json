@@ -1,0 +1,23 @@
+{
+  "id": "64214273-6a62-4004-8458-0270ce56a859",
+  "type": "insight",
+  "timestamp": "2015-11-19T00:03:42.000Z",
+  "title": "<div>pascal’s wager</div>",
+  "content": "<div>pascal’s wager</div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: pascal’s wager",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "2aa556a64e253966f821c58569cf78d5",
+  "relatedUnits": [],
+  "keywords": [
+    "pascal",
+    "wager"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

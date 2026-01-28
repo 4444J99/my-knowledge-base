@@ -1,0 +1,26 @@
+{
+  "id": "092a2893-f060-40f3-a2ed-c9d38ff2db10",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">3️⃣</font> Icon or Symbol Bonus</div>\n<div>  •  Each archetype chooses a personal symbol that grants a passive buff.</div>\n<div>  •  Example: A player who chooses “The Phoenix” may gain one free resurrection.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">4️⃣</font> Faction-Specific Bonuses</div>\n<div>  •  Each faction provides an additional buff, making faction choice more strategic.</div>\n<div>  •  Example: The Archivists may gain +1 to lore-based skill checks.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Creates a foundation for diverse playstyles.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Encourages students to think tactically about their role in the class.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Maintains game balance while allowing for unique identity development.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📌</font> FINAL LOCK-IN QUESTIONS BEFORE EXECUTING VERSION 8.6</div>\n<div><br></div>\n<div>1. Should Familiars Be Permanent, or Can They Be Swapped Mid-Semester?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Ex: Can a player exchange their familiar later, or are they locked into their choice?</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 515 (chunk 515/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "applecoloremojiui",
+    "zapfdingbatsitc",
+    "faction"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

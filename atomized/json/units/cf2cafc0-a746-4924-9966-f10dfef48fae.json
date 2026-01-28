@@ -1,0 +1,26 @@
+{
+  "id": "cf2cafc0-a746-4924-9966-f10dfef48fae",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>🧠 COMPARABLE, CANONICAL, OR IMPROVED RESOURCES (BY PURPOSE)</div>",
+  "content": "<div>🧠 COMPARABLE, CANONICAL, OR IMPROVED RESOURCES (BY PURPOSE)</div>\n<div>🏗️ 1. Foundational + Visual Learning (Grokking-style)</div>\n<div>Resource</div>\n<div>Why It’s Comparable or Better</div>\n<div>Aditya Bhargava’s [Grokking Algorithms]Still one of the most beginner-accessible, but better for breadth than depth</div>\n<div>A Common-Sense Guide to Data Structures and Algorithms (Jay Wengrow)</div>\n<div>Even clearer than Grokking, stronger emphasis on intuition</div>\n<div>AlgoExpertInteractive + visual walkthroughs of classic algorithms and data structures</div>\n<div>VisuAlgo.netInteractive, animated visualizer of nearly all canonical CS algorithms</div>\n<div>CS50 (Harvard)Broad foundational CS course; free, interactive, C-based</div>\n<div>📚 2. Canonical Textbooks (Deep CS + OS Foundations)</div>\n<div>Resource</div>\n<div>Why It’s Canonical</div>\n<div>CLRS – Introduction to Algorithms (Cormen, Leiserson, Rivest, Stein)</div>\n<div>The “Bible” of algorithms; depth, rigor, and proofs</div>\n<div>SICP – Structure and Interpretation of Computer Programs (Abelson, Sussman)</div>\n<div>Legendary MIT coursebook; recursive systems + symbolic computation</div>\n<div>Tanenbaum – Modern Operating SystemsStandard for OS architecture, scheduling, memory, etc.</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 271 (chunk 271/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "algorithms",
+    "canonical",
+    "grokking",
+    "comparable",
+    "foundational"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "3623eb45-446b-454a-b25a-34eb4e7bbdc0",
+  "type": "insight",
+  "timestamp": "2025-04-19T03:43:54.000Z",
+  "title": "<div><tt>   │       (32 Absolute Logic Pairs)             │</tt></div>",
+  "content": "<div><tt>   │       (32 Absolute Logic Pairs)             │</tt></div>\n<div><tt>   │   Yes/No | Open/Closed | True/False         │</tt></div>\n<div><tt>   │   Used to lock/unlock system behavior       │</tt></div>\n<div><tt>   └─────────────────────────────────────────────┘</tt></div>",
+  "context": "From document: # [#synthesis_ring] — chunk 2 (chunk 2/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "3cefa45d103fd834b4fbb9b0c74ca7ca",
+  "relatedUnits": [],
+  "keywords": [
+    "absolute",
+    "logic",
+    "pairs",
+    "open",
+    "closed"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

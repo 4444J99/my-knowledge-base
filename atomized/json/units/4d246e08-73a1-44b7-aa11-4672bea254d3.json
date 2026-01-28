@@ -1,0 +1,26 @@
+{
+  "id": "4d246e08-73a1-44b7-aa11-4672bea254d3",
+  "type": "insight",
+  "timestamp": "2018-05-30T17:51:22.000Z",
+  "title": "<div>The future looking into the past</div>",
+  "content": "<div>The future looking into the past</div>\n<div>From hell</div>",
+  "context": "From document: The future looking into the past",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f25d5ecec15402fea9e8012aeb9c15dc",
+  "relatedUnits": [],
+  "keywords": [
+    "future",
+    "looking",
+    "into",
+    "past",
+    "from"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

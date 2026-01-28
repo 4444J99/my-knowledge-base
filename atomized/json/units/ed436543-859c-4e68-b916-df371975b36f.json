@@ -1,0 +1,26 @@
+{
+  "id": "ed436543-859c-4e68-b916-df371975b36f",
+  "type": "insight",
+  "timestamp": "2025-10-28T10:48:05.000Z",
+  "title": "<div><tt>+</tt></div>",
+  "content": "<div><tt>+</tt></div>\n<div><tt>+Public outputs undergo fact checking, bias detection and cultural analysis before being delivered.  Decisions are logged to an immutable audit ledger, ensuring accountability.</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+## Formal Foundations and Representations</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+### Category Theory and Graph Grammars</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+RLOS relies on **categorical semiotics**.  Linguistic units at various scales are treated as objects; transformations between them are morphisms, and functors map structures across layers or modalities【3†L145-L165】.  Natural transformations express systematic meaning relationships.  The system uses **multimodal graph grammars** to represent syntactic dependencies, semantic networks, rhetorical hypergraphs and cross‑modal links【3†L145-L165】.</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+### Semiotic Lattices and Linguistic Tensors</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+Conceptual lattices organise meaning through subsumption relations; attributes represent semantic features and objects represent expressions【3†L165-L185】.  High‑dimensional **linguistic tensors** encode diachronic, geographic, social and modal variation【3†L165-L185】.  A domain‑specific **Rhetorical Visualization Language (RVL)** stores rhetorical structures (claims, evidence, warrants, backings and rebuttals) along with ethos/pathos/logos markers【3†L165-L185】.</tt></div>",
+  "context": "From document: agent@chatgpt:/$ apply_patch <<'EOF' — chunk 16 (chunk 16/29)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "f26b5db7dbbb97eefdf7225d3aa3e47b",
+  "relatedUnits": [],
+  "keywords": [
+    "l165",
+    "linguistic",
+    "represent",
+    "rhetorical",
+    "l185"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "78f5da46-e4d7-4667-90d4-dcf0a0ec4606",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div>  •  Example Buffs:</div>",
+  "content": "<div>  •  Example Buffs:</div>\n<div>  •  Balanced Party (Mix of Archetypes) → +1 Reroll on Random Events.</div>\n<div>  •  Pure Party (Same Archetype Group) → Stronger Buffs But Higher Risks.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> 5️⃣ Secret Alignment (Hidden Personal Morality)</div>\n<div>  •  Each player has a secret moral alignment that evolves over time.</div>\n<div>  •  Example Alignments:</div>\n<div>  •  The Loyalist (Always serves their faction first.)</div>\n<div>  •  The Opportunist (Prioritizes self-interest &amp flexibility.)</div>\n<div>  •  The Martyr (Willing to sacrifice personal gain for others.)</div>\n<div>  •  The Betrayer (Thrives on subversion &amp deception.)</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Adds strategic depth—players must consider both narrative and gameplay choices.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Encourages meaningful interactions and role-playing elements.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Prevents stale character choices by allowing fluid party formations.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 2. The Role of the “Fallen Angel” &amp Alternate Approaches</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 470 (chunk 470/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "zapfdingbatsitc",
+    "party",
+    "example"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

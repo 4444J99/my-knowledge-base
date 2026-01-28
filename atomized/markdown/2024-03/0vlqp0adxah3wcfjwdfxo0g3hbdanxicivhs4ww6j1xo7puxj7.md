@@ -1,0 +1,32 @@
+---
+id: a883200e-39c5-4908-baa2-7cb606ed31b0
+type: insight
+created: '2024-03-07T02:33:33.000Z'
+document: 27162d3685a234131532342f177d17e4
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 0vlqp0adxah3wcfjwdfxo0g3hbdanxici
+  - >-
+    vhs4ww6j1xo7puxj7nm7s5e8ydxejapl4c5hd3t1ytenqiccpw3tsipbzaz8vemwyjmzupvavjehzorsn7hkkzc2
+  - olkbltcmsho5xfnusvivsbjyculm3u4udcubftnxdzed8v
+  - kxrsdp
+  - >-
+    ha5ld4ocvflcqvh06ivpafeltdofalhp0mhwnohb10slkrklktz0hut9rjzgy3jt81m5vjfccmowsborcvusshhdn5kwztezqtprrycm4dxt9bobbq33x7yra4
+---
+# 0VLQp0adXAh3wCfjWdfXO0G3hBdanXIci/VHS4wW6j1xO7PUxJ7nm7S5E8YdxejaPL4c5hD3t1yteNqI
+
+## Context
+From document: CC INFO BILLING: — chunk 675 (chunk 675/909)
+
+## Content
+0VLQp0adXAh3wCfjWdfXO0G3hBdanXIci/VHS4wW6j1xO7PUxJ7nm7S5E8YdxejaPL4c5hD3t1yteNqIccpw3TsipBzaZ8vEmWYJMzUPvavJEhZoRSn7HkKZc2+ob+OLkBLtcmsho5XfNuSviVsBJYCulM3U4UdcUBFTnXDzEd8V/kXrsDP/Ha5ld4oCVfLCQvH06IvPafEltDOfAlhp0mHWNohb10sLKrKLKTZ0HuT9rjzgY3JT81m5VjFCcmOWsborcVusShhdn5kWZTEZQTpRRycm4DXT9bObbq33X7YRA4+D/nfyyNBLNa0StbJ71KrrlV2M0iac5NyRk8FSVqMO0z76o/Cz4q3EQLiyw8mxTHm/zZk6aC7LtFBIDBvPLAbgVJh5v0lUplMgt+DWc03kl6WGjuvj5wxdmWpptdSJnKio9Ps2dJ4tAJjyqC1eyeVO5+qEAYEgJAzzwEP4wXCQvNzBfBKzPpjo67mD8k9GxIGdQcSQebO0aD/Gw2Fb7fuYsRwIHFUrKE/si/M8Q18f4kp0sONKAta/POphZopJmXgsxR+esLephvs1aKHjw1Q761k1a1/FAW/n2ql0UJHKvQ+oa6YaVro5uDSiT4jdkvdBfb6Joor/H3X4+dDDstyVgZStoklYj/o3LaFZnJKMhK5JePi6+39uh07dHKpgb30jPiic+t8mHa50yrJ+JbBJD5j7+ZoFTjEY3IT4/HMCEuDHJKoMOzp/ij5q7lBofIJNtwnYIb+yBUO+QDVGqn41LepHf2JHR5q6Jf281jdw9eomeIsD3ZHvWSVmmJ4BQ5vh87c1FpGj5cn49RNu1FrHBFB0syKkflzO1amg6WAGRbfayXslnEE0T6AoPW0KPEOMKthpNMig0ohJLdoDxg1CkuVeU7vNTudMMiywScXdcizdg0NUZ4Wxv4DiN5aJ+lUnxaVRykq+zNi2JBOTRPJRWpcQAkvDJkr0a/fZ0ezeqtFZ8Rw/EF6oq0GR368eo/hCZyz3DQffQDSYXE28MEE9iz5DU1QAQTjKakq12hLPEQo4gBHUcnexbRln8foKxtm/g8G0QwOhro6W1SbZX/hifvEFewAhTPw58GVleenhduxwNXMBSH4KCvrmXtTjZzN5fTV/qf3z1EwD7WF8826CHkYIdrYes9XZ5w4lKA9Vfggyi/F37rBf4QKvTl878LV5
+
+
+
+---
+*Source: Document 27162d3685a234131532342f177d17e4*

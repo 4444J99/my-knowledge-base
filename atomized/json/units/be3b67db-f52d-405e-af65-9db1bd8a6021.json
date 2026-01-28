@@ -1,0 +1,26 @@
+{
+  "id": "be3b67db-f52d-405e-af65-9db1bd8a6021",
+  "type": "insight",
+  "timestamp": "2024-02-29T18:42:04.000Z",
+  "title": "<div>  - Estimated Hours: 5 hours at $70/hour.</div>",
+  "content": "<div>  - Estimated Hours: 5 hours at $70/hour.</div>\n<div><br></div>\n<div>Email Marketing:</div>\n<div><br></div>\n<div>- Strategy Development and List Segmentation: Designing a targeted strategy for lead engagement and nurturing. Tools: Constant Contact.</div>\n<div>  - Estimated Hours: 6 hours at $60/hour.</div>\n<div><br></div>\n<div>- Email Campaign Creation and Execution: Crafting email campaigns to showcase updates and offers.</div>\n<div>  - Estimated Hours: 4 hours at $65/hour.</div>\n<div><br></div>\n<div>Paid Advertising:</div>\n<div><br></div>\n<div>- Strategic Campaign Development: Creating targeted ad campaigns for lead generation on Meta platforms. Tools: Facebook Ads Manager.</div>\n<div>  - Estimated Hours: 3 hours at $90/hour.</div>\n<div><br></div>\n<div>- Ad Spend Allocation: $3,000/month dedicated to Meta platform advertising.</div>\n<div><br></div>\n<div>SEO and Web Management:</div>\n<div><br></div>\n<div>- Comprehensive SEO Strategy: Enhancing online visibility and authority. Tools: SEMrush, Ahrefs.</div>\n<div>  - Estimated Hours: 4 hours at $85/hour.</div>\n<div><br></div>\n<div>- Website and Landing Page Optimization: Maintaining an engaging and fresh website. Tools: Unbounce.</div>",
+  "context": "From document: Statement of Work (SOW) for Marketing Services for Florida Luxury… — chunk 2 (chunk 2/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "06939a5ef86dfd2551bc8549e488274a",
+  "relatedUnits": [],
+  "keywords": [
+    "hours",
+    "estimated",
+    "hour",
+    "tools",
+    "email"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

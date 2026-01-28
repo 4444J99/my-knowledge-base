@@ -1,0 +1,26 @@
+{
+  "id": "c4eac5f8-dccd-4475-a0fb-48bd850b824a",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>ModuleA time‑boxed learning unit (≈1 week).</div>",
+  "content": "<div>ModuleA time‑boxed learning unit (≈1 week).</div>\n<div>Required Reading / ResourceCanon texts, online courses, or tools to study.</div>\n<div>CheckpointA tangible deliverable committed to your repo/vault.</div>\n<div>Tool IntegrationsSoftware or scripts you’ll touch.</div>\n<div>Copy this file to ACTIVE_CORE/OS_SYLLABUS/README.md and update as you progress.🌑 PHASE I — BOOT THE SPINE (Weeks 1‑4)</div>\n<div>OS Component</div>\n<div>Module</div>\n<div>Required Reading / Resource</div>\n<div>Checkpoint</div>\n<div>Tool Integrations</div>\n<div>RECURSION_ENGINE/M1 – Visual AlgorithmsGrokking Algorithms 💠 + VisuAlgo.net + CS50 Week 0‑2</div>\n<div>Python script: visual bubble‑sort &amp recursion trace.</div>\n<div>Python + Jupyter</div>\n<div>UID_CORE/M2 – Naming LawYour UID_Constitution_v2.md; A Common‑Sense Guide…Auto‑generate UID CLI (uidgen.py) + 5 demo files.</div>\n<div>Bash / PowerShell</div>\n<div>SYMB0L_GRAMMAR/M3 – Metaphor EngineMetaphors We Live By + GPT prompt experiments</div>\n<div>Draft 10 metaphors → convert to code comments.</div>\n<div>GPT‑4 interactive</div>\n<div>WAVE_TRACKER.mdM4 – Ritual CycleEno’s Oblique Strategies (cards), CS50 Study Schedule</div>\n<div>Build SPELLBOOK_STUDY_SCHEDULER.md + first 5‑day log.</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 381 (chunk 381/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "week",
+    "required",
+    "reading",
+    "study",
+    "tool"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

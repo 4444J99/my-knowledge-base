@@ -1,0 +1,32 @@
+---
+id: 450d0f82-88d1-4bef-96dd-9bbe5680c2c3
+type: insight
+created: '2022-03-16T12:34:10.000Z'
+document: 7405c2da6b92da26b0b49297d3a4e664
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    nqybukhftbxtau1tg1jigcou8hopstilyjkeogm0boy7lc79objsalkn7svejbhput3vvsrcj2qa0nlqhsmigdj
+  - z3lh5kot3qce2ui
+  - npaurk1jfbywmt2qhpfet80i9aymjmfcqndlyeppuyzxscgcelf7d0qww5tjhlex81wbauyzkcqy
+  - >-
+    hm3dxq08hajweeofxv7t9ol8n7rdhzkddwldqpkkjg9r6vsnvpdqby4v3ynt6drvugtloexcw7iksg6u
+  - lmbzgomelbftoyqdfcesu2
+---
+# NQybuKhFtBxtAU1Tg1JIGcOu8HoPStiLyJkEoGM0BoY7Lc79objsalkN7sVEJbHpUt3vVsRcj2qa0nlQ
+
+## Context
+From document: The battle of the blinds — chunk 205 (chunk 205/1787)
+
+## Content
+NQybuKhFtBxtAU1Tg1JIGcOu8HoPStiLyJkEoGM0BoY7Lc79objsalkN7sVEJbHpUt3vVsRcj2qa0nlQhSMigDJ+z3LH5kOT3qCe2uI+Npaurk1JFbywmT2qhPfeT80i9aYmjmFCQnDLyePpUyzXscgCElF7D0qWW5tJHLeX81WbaUYzkCqY+hm3dxq08haJWEeOFxV7T9Ol8n7RdHZkdDWlDqPkkjG9R6VSnvpdQby4v3YNT6DRVuGtlOEXcw7ikSG6u/lmbZGOmelbFtoyQDfcESU2/kV0WKDgA0XJuZqReTiHZ5vuOlEqJHdYUZGOlbBkS1td7Dk8YrDt5fOJ+XL/3vamiiZ42upBkbBio5rRlYIPuelWpZGWLIG0063mVxslIHvSuIbBpjKwmVgAO1aLhcfNwazFvWt+M+ZzxiteK1a5j8yX5fY0AYdxbSucxniqqafNjcTlfSugZgnyRDGKN5C4AoDYym024wCvzD+VX3sXh8syNuG3pWzZTYHlnvVXUycZHGKAOYmSZHIGQD0pY47iQeUeFPWr+17kqUbG3ikEv7wQJx2NFwI/saRLnILDoKdFp7y8nvWktuud8n8PStGAEdsA0DOdNmzOLf+9xW7HE0MK26DG0YJqSVI43DDG49KkaR8BemaQitMJYIwY+/cdqzxCxIl6se9b/AJieX5JI5GKoSssK+UmGzwMUAZF4ZX2jO4rTfLnUK+c57elXPL8sb25NN8184AyKAKVw0kfQ4BpsUiCPaV5HQ1fVFu38vb92rwtLVB82BimBhM8oAPSti38sWysRhqqXChpQqDK+1aMcClQOgHapYF2I/JnFZ08UcjbQN3pW1CUjj2OQBUSwQb96EBagtJs5xtOkdcOM1QW2uoWxGcV2sswhIBHFRsbZB5nDHFO447HNLNcxx7ZOat2rxNH8ww1akFvHOpeRe9Vr23t44sxLlh6UDKoDxv8AcJqypQ/NWd/aTBNuMnpmrqooXeehHSgTZHLHE8ZkRd+DjAqtLFbvtiVfKYjr6VL5psjgKXU88VnyOZJfM2/QVS0ErsnubFWg2rw3rVeFRZwMgOWNX/3mBu6YqZLFG+diGqrj5TOtlDgvN81WfIi8tijAHsfSp5LVI1IBAB7VGIEUqn8L1m2Plsh8MVtGoBIdj1NSRRqrMO3akNlHGpZO3SpPs0ioGHOaQLaxL8r
+
+
+
+---
+*Source: Document 7405c2da6b92da26b0b49297d3a4e664*

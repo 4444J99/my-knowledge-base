@@ -1,0 +1,26 @@
+{
+  "id": "54ef8336-a929-451c-bb5e-1de6ec3b4540",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Wants to add a new POV/persona to their system: a critical double or shadow self—someone who observes the creative process with skepticism, seeks to “steal” or improve upon it, and offers a constant critical lens. This persona will provide feedback, challenge assumptions, and act as a constructive rival within the system.</div>\n<div><br></div>\n<div>Has approved the Custom Instructions V1 set for universal implementation across all threads and workflows.</div>\n<div><br></div>\n<div>Has designated the &quotexport compile clean threads&quot thread as a sort of master reference point for system-level implementations, including features like structured exports, cleanup, and logical carry-forward.</div>\n<div><br></div>\n<div>Wants to first export Apple Notes folders exactly as-is into a 'flash archive' — a raw, unsorted snapshot of their Notes. This export will include metadata headers, manifests, and advanced optional layers like folder-level logs and structured naming. Afterward, the user will audit and reorganize folders using a custom ruleset for rerouting into a structured long-term archive. The folder mapping system will be implemented after the initial snapshot.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_041225_MASTER — chunk 32 (chunk 32/35)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a6c8d7ecac270c27cc9e416b39cd8866",
+  "relatedUnits": [],
+  "keywords": [
+    "system",
+    "will",
+    "structured",
+    "wants",
+    "persona"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

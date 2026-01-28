@@ -1,0 +1,32 @@
+---
+id: 439ea52f-84e6-4c0e-aabe-9050d440ed3b
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - xve10pzrwv7dlnqchgpr2
+  - ofilgrxoha75csusugtceilpaxeqfsussav1ceupbkpmnfj9xl
+  - >-
+    f3dv75xhpe2pfk73t0olbuno8eiyhypa3ptulvyq0wbzyakuww28ix9mxdx6uxuzt3ocam05zztebw3i8pspg38uy3vdbdbuf0cvgv9zvagnor3msrfuc
+  - ofuhxacrg9xzbhc9ppiu9rzdg8tpqwzevpsoeetvf8rreyfi8b9vmj1x5gkk
+  - >-
+    fdeto93ucxbn7jgiv1oncqv5vj9phxrbaaus19flalr6dhcr2dgy55j7xqi3rdmk8fhowd9umofsw9
+---
+# xve10pzRWV7DLNQChgpR2+4ru/oFILGrXoha75CsuSUgtcEILpaXEqFsusSAv1cEupBKpMNfJ9XL+F3D
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 1956 (chunk 1956/11534)
+
+## Content
+xve10pzRWV7DLNQChgpR2+4ru/oFILGrXoha75CsuSUgtcEILpaXEqFsusSAv1cEupBKpMNfJ9XL+F3Dv75XhPE2PFk73T0olBunO8eiyHYpa3pTulvyQ0WBZyAkUWw28IX9MXdX6UXUzT3OCam05zzTEbW3i8PsPG38Uy3vDbDBuf0CvGv9ZvAgnor3Msrfuc/oFuHxaCRg9XZbHC9PPIU9RZDG8TPqwzevPSOeetVF8rreYfI8B9vMj1x5gKk+FDeTO93uCXBn7JgIV1oncqv5VJ9PHXRBaaUS19fLAlr6dhCr2dgY55J7XQi3RDMk8fhOWd9UmoFsw9/PD0c35jomT7AJeu4yAw/hdWsA4BTpi90ChbfhVdA+LLE4OJq+OnHXcdkrjEXNFJNWB73vyrPD0O7uq6XxEPTIu6IrdRYhmrryHROSIC3C7KSBJaUc/0ThLmPisQONO0NBl9aLBpMnzAdd1x1PR+AK058U2DTOt48Uz9RGd3+Fj5VP5o/0T5SG5TSNd3u0mJjLmzmrCtJdsrImDwgjR3EGn5RVZeLKmduVSoEOsvkuHSUgGTBhguzTWQF0IJXWpcW6yTrq2hVBZoujEjoAN3RYQCco8SZ9ODveaZJo3p08JRYTtzgnD+ev+olqzES0DI8Sow51oNk6q4Cry6ouHyF6uzW6ByAksgmSmJpVNVWD2PkCSDvhzEcvTLdcMMwQ4ebR1ppopMX1vkjznahNEW7+nGMbA6SrYeYeM0aXwH7FWGDGYP8X5WSTON3mquHsb2WpUDYP4eODDmHeKwh1qtckjMe7fxKvEq/7eYRC5XOUhmry7wZ+NqZo7DOTbmumSOltk7KeOmuF7mHehsFDnM5mrgM/k9dbOECURiMFJUkz54vfjIYFtZL52kTqZkHybkm/kz1SO1VB7YdbsAK/LtfKZ6tLZd4OOjrXR1Nw8cu1NAyvVm76iclOI9GGElewDVqQJ/tq0q5RYUN6Xl2lyZ2xRgQThxVa1Rnm5tr79WX66wPnqR6ctFBqQrHAmzsf9GAMwx8JnOMTFFaJnGYSbNxtaxyvYAOcRbvRNaqrqe30uviys9srkRCbUWyDo6v9VfLS9SAWVtEMtjyb3U304lCrHC7kGyH+8fyW/ltcGRHtLH2Fg8lt8uJAYnpJ1SsoB0qI0+psizhaVBuO57SIr9a66hohG4KlFKVT
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

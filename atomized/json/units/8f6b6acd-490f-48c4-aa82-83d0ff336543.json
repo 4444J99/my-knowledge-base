@@ -1,0 +1,26 @@
+{
+  "id": "8f6b6acd-490f-48c4-aa82-83d0ff336543",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Wants to revise and replace their actual ChatGPT Custom Instructions to reflect their full protocol system, tone, and method now that they are entering a new project execution phase. They want to draft a final snapshot of the current system state, archive that version, and then move forward into a lighter, more efficient working mode—while troubleshooting what works and doesn’t. This freeze-point will act as a baseline checkpoint before beginning active project rollout.</div>\n<div><br></div>\n<div>Wants each version of their custom instructions to be labeled and dated for archival and version control purposes. They are also seeking structured guidance during phase transitions, with system-generated advisories that indicate what typically happens next in real-world creative or production pipelines—effectively offloading decision fatigue and aligning their process with professional standards.</div>\n<div><br></div>\n<div>SYSTEM CONTEXT v1.0: User, as Anthony, is a multidisciplinary artist working under the name ETCETER4 (eht-set-er-uh), with the number 4 holding personal and symbolic significance. They produce experimental pop music, visual design, and writing, and are the co-founder of the art collective et4L and academic media company AMP LAB MEDIA. Their music projects are released under the ET4L label, and they are also involved in the hip-hop group LOCREANCE. Anthony uses tools like Ableton, Logic, Native Instruments, and Max for Live, aiming to build custom instruments and effects. </div>",
+  "context": "From document: MEMORY_DUMP_RAW_041225_MASTER — chunk 33 (chunk 33/35)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "a6c8d7ecac270c27cc9e416b39cd8866",
+  "relatedUnits": [],
+  "keywords": [
+    "their",
+    "they",
+    "system",
+    "custom",
+    "that"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

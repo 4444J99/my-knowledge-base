@@ -1,0 +1,26 @@
+{
+  "id": "cd21459e-dd2b-49d2-88f2-dbc327017b5d",
+  "type": "insight",
+  "timestamp": "2025-12-03T13:49:02.000Z",
+  "title": "<div><tt>This flow shows the logical progression: </tt><b><tt>Evaluate → Reinfor",
+  "content": "<div><tt>This flow shows the logical progression: </tt><b><tt>Evaluate → Reinforce → Analyze Risks → Grow</tt></b><tt>.</tt><tt><br></tt></div>\n<div><tt>-----</tt></div>\n<div><tt>-----</tt></div>\n<div><b><h3>AI Prompt Chain Checklist with Example Outputs</h3></b></div>\n<div><b><br></b></div>\n<div><b><h3>AI Prompt Chain Checklist</h3></b><h3>: Complete and Polished Version</h3></div>\n<div><br></div>\n<div>This checklist provides a structured approach for evaluating, reinforcing, and improving any content, following best practices and iterative refinement.</div>\n<div><br></div>\n<div>---</div>\n<div>---<br></div>\n<div><br></div>\n<div><b><h3>Evaluation Phase</h3></b></div>\n<div><b><br></b></div>\n<div><b>Critique</b></div>\n<ul class=\"Apple-dash-list\">\n<ul class=\"Apple-dash-list\">\n<li><b>Prompt: </b><i>&quotEvaluate this content thoroughly. Identify its key strengths and weaknesses. Highlight which parts are effective and which need improvement, providing specific reasons.&quot</i></li>\n<li><b>Example Output:</b><br></li>\n<ul class=\"Apple-dash-list\">\n<li>Strengths: Clear main argument, well-structured introduction</li>\n<li>Weaknesses: Conclusion is weak, supporting evidence is minimal in section 3</li>",
+  "context": "From document: From Evaluation to Growth — chunk 7 (chunk 7/12)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "6ce49238bcaa9925c055c40f902078cb",
+  "relatedUnits": [],
+  "keywords": [
+    "this",
+    "prompt",
+    "checklist",
+    "class",
+    "apple"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

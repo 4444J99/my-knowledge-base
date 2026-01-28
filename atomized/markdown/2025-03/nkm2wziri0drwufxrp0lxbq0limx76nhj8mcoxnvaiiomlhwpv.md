@@ -1,0 +1,32 @@
+---
+id: b467a390-ef92-40cf-9a1e-94ad3f0f41b2
+type: insight
+created: '2025-03-05T14:18:11.000Z'
+document: d56851c0b64e6fc46a6205c88fb237ad
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    nkm2wziri0drwufxrp0lxbq0limx76nhj8mcoxnvaiiomlhwpvigoopgzsz4vtucn7twxmwi2qnjfqjgudephz
+  - hnpfgg1lmcpnu5vplyqrz3z31qx32wohesofnjhxgjnn06jh2jxo1qhqtwks3gzdu5hi9w
+  - >-
+    6ymepnpbzw0xeltjhasmtjijvqvdorcco6x7c2hgwzjkephtx0phjwjho1rn79dawea56f779fqtcgp
+  - vtsmn9byaecoqzy9mz0xrjwoul5poyy5hs1gdgggqjbhotv6
+  - u8zqy2ojfs2yo4ruuhvq1akq
+---
+# NKm2wziRI0dRwUfXrp0lXbq0limX76NHj8mcOXNVaIIoMLhWPvigoopGZsz4VtuCn7twxMWI2QnJfQJG
+
+## Context
+From document: 1: — chunk 390 (chunk 390/630)
+
+## Content
+NKm2wziRI0dRwUfXrp0lXbq0limX76NHj8mcOXNVaIIoMLhWPvigoopGZsz4VtuCn7twxMWI2QnJfQJGuDePHz/hNPfGG1lMCpNU5vpLYQRZ3Z31QX32wOHesOFnJhXGJnn06JH2jxo1qhQtWkS3Gzdu5HI9w+6YMePNPbZW0xElTJhAsmTJIjVqVDORcco6x7c2hgwZJkePHtX0PHjWjho1Rn79daWeA56F779fQTCGp/vTsmN9ByaECOqzy9Mz0xrjwoUL5poYY5hs1GdgggQJBHOtV6+u8zqy2oJfs2YO4RuuhVq1akq/fv3NPbhFr0+sD84PKYgCKrdv35Zx4ybI1q3bDM8DRrAWT4oXL6b3ar58hbSLt9MXBTQP1pEACZAACZCAOwFEf7j46LxcenTB/RD3ScDrBF6LmkySRk3OKBFeJ0uDJEACJEACJEACJEACJEACJBD+CFAIEf7WNDRnFK6EEPv27TeOs0rKA46z998vbwQFjQTOJnuKDDswOGbr1fvEXuWyvX37FokfP55LnX0nKEKIMmXKy+HDR7TbkCGDpGrVKpoq46OPapj6w3Zzzm04zefP/95FDFGwYGG5cOGiOuDt4gR0WrnyN3OuTbV/hw7tpGnTxrr9PKeeNrJ9wJHZqlVbtYfqatWqOkUXDx48kCpVqqmD09ZFN6NFiybffz/HCEiyux9y2Q/JGtkNwCkIBzYcjO4Fa96r1xcCB7tV7AKD119PZZzsZ6xDzm+kBUF6EHsBh86du8qSJT/Zq53biKDRv38fqVChvLPO2pg4cZIMHz5KwN694DrENdmxYzuXQ/Z5BlUIEdxxypZ930SAOOQyrrVTqFBBI1CYbu36+3YXQuD6KlOmgqZ+QeP27dsah28TZz9PQojvvpsnXbp003YDB/ZXB7mzk9moWLGyEY/s0+v+4MG9zkNDhw53Cn2wxgMHDlbBDhpA8ATh07Fjx42wpYrA4e1eUqdObdZyoVhiCPt937ZtaxXRoI+9Hmu7evUagTPaXmLGjCkLF84zopiM9mojmJkvPXv2EVw79oI0PMWKFXXeU5MnT/To+Lb6heQ+sTOy7FjfmTNnkuXLl+ouBBpBffbYnx+WLfv3hAljDfvSWoVrq0mT5irqsrextiEIgdjB/iy2rnuIzYoXf8+skWOOVh9843mJ52ZQiichRHCeXfZzzpMntz7X
+
+
+
+---
+*Source: Document d56851c0b64e6fc46a6205c88fb237ad*

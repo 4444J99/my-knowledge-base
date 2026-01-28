@@ -1,0 +1,26 @@
+{
+  "id": "32899491-66c5-4abc-b58f-dfb8ac7e66fa",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div>- `asvetliakov.vscode-neovim` (Lua integration error source).</div>",
+  "content": "<div>- `asvetliakov.vscode-neovim` (Lua integration error source).</div>\n<div>- Window composition mods (`vscode-vibrancy`, fake mica, glass/transparent themes).</div>\n<div>- Animation injector (`brandonkirbyson.vscode-animations` via APC Customize UI import).</div>\n<div>- Multiple AI stacks simultaneously (Copilot, GitLens AI, Gemini, ChatGPT, Pieces).</div>\n<div>- Experimental flags: `workbench.experimental.share.enabled`, `editor.aiStats.enabled`.</div>\n<div><br></div>\n<div>Mitigation:</div>\n<div>- Keep only one AI suggestion engine active.</div>\n<div>- Remove external JS imports (`apc.imports`) until stability proven.</div>\n<div>- Disable vibrancy until Neovim works reliably.</div>\n<div><br></div>\n<div>**Post-Reinstall Validation**</div>\n<div>1. Launch with `code-insiders --disable-extensions` (ensures core runs).  </div>\n<div>2. Open Developer Tools (Help &gt Toggle Developer Tools) and check console for errors.  </div>\n<div>3. Verify binary: `codesign -vv /Applications/Visual\\ Studio\\ Code\\ -\\ Insiders.app` (should show “valid on disk”).  </div>\n<div>4. Open a test folder, ensure file save, formatting, and terminal work.  </div>\n<div>5. Enable extensions one by one; observe for Lua errors after enabling Neovim.  </div>",
+  "context": "From document: User: fix — chunk 6 (chunk 6/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "vscode",
+    "neovim",
+    "vibrancy",
+    "experimental",
+    "enabled"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

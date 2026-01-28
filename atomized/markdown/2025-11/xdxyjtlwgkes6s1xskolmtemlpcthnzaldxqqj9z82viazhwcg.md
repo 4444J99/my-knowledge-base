@@ -1,0 +1,32 @@
+---
+id: bebd48f6-98d3-4737-9011-3686ada6de2f
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - xdxyjtlwgkes6s1xskolmtemlpcthnzaldxqqj9z82viazhwcgxm1ffuh4hihsmgj
+  - >-
+    cq4yv3txalhcabjzahajwevtye2xdhabnw2crti2yba51pkwkkt6dugitbwiuluhnkkxokib4guvzqslebruw2trirzhgpkjmeqrrbabbdnakjheowsul
+  - >-
+    lsowtrzdewmmc4ngdcu5eirp7cwjrcley7tl64ssbtnuh1plgeamkrjsohb5sjdli2lknbxskacdouiobltbyomxf7jmbqlpt2xnd6la
+  - ti3igwjny
+  - y5zuxnskppd9azfz
+---
+# xDxYjtlwGkEs6s1xSKOlmtEmlpCTHNzalDxqQJ9z82VIazhWcGxm1FFuH4hIHsmgJ/CQ4yv3tXALHcAb
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 8524 (chunk 8524/11629)
+
+## Content
+xDxYjtlwGkEs6s1xSKOlmtEmlpCTHNzalDxqQJ9z82VIazhWcGxm1FFuH4hIHsmgJ/CQ4yv3tXALHcAbJZAhaJWEVtYe2xDhabnw2CrtI2YBa51pKwkkt6dugITbwIuLUHnkKXOKib4GuvzqsLebRUw2trIRZhGPkJmeqrRbABBDNAkjHeOwSUL+lsOWtRzdEWmMc4NgDcU5eirP7cwjRcleY7Tl64SSBtnUH1PLgEaMkRJSohb5sjdlI2lKnbxskACDouioBLtbYomXF7jMBQlpT2xNd6lA+ti3iGWJNy+Y5ZUXnskPPd9AZFZ+w5uWDkmLkQnvTl+57/F3H3fM8XdhiZVeJcd/uhtKB4Du2u5VoK8NydfCksyr7p8r7bLSLu13Wf/t9e5c7+0NH9jo2Y0e2OKkLU7afJR7HpDSJhfJXy5JmeL3pvduvPum6R/t9NGRH/VuwEKHfT8+PZKwpKFmz9X3/OGe6dPA1LkyscTfvt8dm95+LdZHepbWtmrrUmHLVSw9O2g3SEEScy1kw3ILdYyLSTGZ+Iv3Pn7v4+kfd/PdfNcpgQ1ld2jhndsh2SHZ/oVuexLec4DYemuITGuA5W680pyp5Se8Vf33zwj3zQTM0P3gebodNsc2WCwh31IhPFEqXyu6GFk+cvNGzBvx+YjRbwPWvOT2S24fFeQU+YrNyn1X7tup73a/3u7XP9pvSjwlnvxw4ACsqMR38lRFew7a88qBgxw/MJ7qbjSku2XxJP7Me3/wzsXvPPn2RdH8aH7OotT8W8GRkue8uFSU64XwC3DTwPRbNz0hPiE+/lXaHyikYVuPX6QB+/z4igH7nDbt9Pxp0+bXzq9dYEd5SkNAqyj+cKcPd5p7rHsRkKYsNZUNhFZ7XflgtweHPNiNU1R4dwbao/cwJVyghRdBK8LSv24sUAXlwVgoZ9C/WFpDK15ZqF+gFuMGj5VeHsG+eqi1hQyI4RUAF7pfAL4siTJ96s4WdWfWUIlXPnO8hrSDo8HQ/xjAlyVZySS2yMk20AhjklN/HC1stNHR2O3xMp67/nNoZVa1xpn8fZshen/w1hlvnfH2GYpSUbNzVEiIPfLQ+GVtpSl9x+jIYW82YcFt99567G33Hld1fHzcAap18rGT7t4p7XbFgD8PuOK0S04vnlacH8+PF9RQtvIxi9/wNsQv2f722Dv/787jpm04
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

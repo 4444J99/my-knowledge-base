@@ -1,0 +1,26 @@
+{
+  "id": "3127980d-9ea7-4f22-966e-f369ebade3fd",
+  "type": "insight",
+  "timestamp": "2022-01-19T21:09:51.000Z",
+  "title": "<div>Start a social media account. Post content, language, to the feed. Build a ",
+  "content": "<div>Start a social media account. Post content, language, to the feed. Build a family.</div>",
+  "context": "From document: Start a social media account. Post content, language, to the feed…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "1694f271393e09044e2850ae8a6882d7",
+  "relatedUnits": [],
+  "keywords": [
+    "start",
+    "social",
+    "media",
+    "account",
+    "post"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

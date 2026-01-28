@@ -1,0 +1,26 @@
+{
+  "id": "ed1646c0-a467-4da5-92b0-2d6dffd2d304",
+  "type": "insight",
+  "timestamp": "2025-01-30T02:31:06.000Z",
+  "title": "<div>SFT  Software  Applications, executables, scripts</div>",
+  "content": "<div>SFT  Software  Applications, executables, scripts</div>\n<div>HW  Hardware  Devices, components, schematics</div>\n<div>DTA  Data  Databases, logs, research files</div>\n<div><br></div>\n<div>3. Subcategories (More Specific Classification)</div>\n<div><br></div>\n<div>Each object gets a subclassification based on the primary category.</div>\n<div><br></div>\n<div>Example for TXT (Text)</div>\n<div>  •  BOOK – Novels, textbooks</div>\n<div>  •  ARTICLE – News, journal papers</div>\n<div>  •  DOC – Word documents, PDFs</div>\n<div>  •  SCRIPT – Screenplays, coding scripts</div>\n<div><br></div>\n<div>Example for VID (Video)</div>\n<div>  •  MOVIE – Films, feature-length</div>\n<div>  •  SHORT – Short films</div>\n<div>  •  TV – TV series, episodes</div>\n<div>  •  VR – Virtual reality content</div>\n<div><br></div>\n<div>4. Format (File Type or Medium)</div>\n<div><br></div>\n<div>Identifies the format or file type:</div>\n<div>  •  TXT: TXT, PDF, DOCX, EPUB</div>\n<div>  •  VID: MP4, MKV, AVI</div>\n<div>  •  IMG: JPG, PNG, SVG</div>\n<div>  •  MUS: MP3, WAV, FLAC</div>\n<div>  •  SFT: EXE, APP, JAR, BIN</div>\n<div>  •  HW: PCB, STL, STEP (for 3D modeling)</div>\n<div>  •  DTA: CSV, JSON, SQL</div>\n<div><br></div>",
+  "context": "From document: M-O-R-S_REFERENCE-SYSTEM — chunk 2 (chunk 2/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "29750b183483782697d81e3f0ac721ea",
+  "relatedUnits": [],
+  "keywords": [
+    "scripts",
+    "example",
+    "films",
+    "short",
+    "format"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

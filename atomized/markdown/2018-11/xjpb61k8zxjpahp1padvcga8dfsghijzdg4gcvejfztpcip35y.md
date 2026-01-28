@@ -1,0 +1,31 @@
+---
+id: 06b0c1d1-b471-4d62-9b61-872e3018798f
+type: insight
+created: '2018-11-17T18:19:07.000Z'
+document: e329ec4e43d47fccabf1e22882189db8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - xjpb61k8zxjpahp1padvcga8dfsghijzdg4gcvejfztpcip35yhbjheqyzsmonppvutmqrlnbkyz
+  - nnpbkjn
+  - >-
+    lrbeoummlreck8jgcpkj9jedme9krt93nrmplbpdz6d6rp145z0fafxeqflj7nmpxxown5ieukkcsswveg5780xcrhrwery7u0jjmlnabu9wayu3gzmgpnj9ruznuifgk5bpiu7rymdrvmlkzlic65ptgfsmowiyo3uvo3yrlzkk
+  - lubabwf0pp2lgqhzq2pu81bg3acnax0hwoeybe
+  - w65pzdewi42mracdjabrnhjfhadaagnio9rbztjxpgfanehicdgfr70api2chp6nvtg3
+---
+# XjPb61K8ZxjPAHP1pADvCgA8dfSghIjZdg4GcVEjFztPCip35YhBjHeqYZsMOnPPvUtmqRLnbkYz+NNP
+
+## Context
+From document: Black Bean Salad — chunk 770 (chunk 770/2298)
+
+## Content
+XjPb61K8ZxjPAHP1pADvCgA8dfSghIjZdg4GcVEjFztPCip35YhBjHeqYZsMOnPPvUtmqRLnbkYz+NNPBKjn+lRbeOuMmlReck8jgCpKJ9jEdME9Krt93nrmplBPDZ6d6rP145z0FAFXeQflJ7nmpXXOwn5ieuKkCsSwVeg5780xcrhRwerY7U0JjMLnABU9waYu3GZMgpnJ9RUzNuIfgk5Bpiu7ryMdRVmLKzliC65PTGfSmOwIyO3UVO3yrlzkk/lUBABwf0pp2LGqhZQ2Pu81bG3AcnAx0HWoEYbe+W65pzDewI42mrAcdjAbRnHJFHADAAgNio9rbztJXPGfanEhicDgfr70API2cHp6nvTG3/KCQP8KkJBGG6DofSm4DcdSvH1qWwHRv8wB45wMU7OCQelJ5YGMden0p6EsNq4A6Z9akCJcucdj3FIyknAPAPIPFS7XhypOfeo8AjJ5+lO5LZFIW+5Gflz6UgHO7j61KFJyAOD703aq9OWxwO1IkTOMnPA/Q05cP0OM9cmo5VYLjOTgZApvTOeR0pNASuzjggH/CmswwAVwPWlIBQlj0/lSMQwCpkECmBKkUTNH58G9ecseOPbvX5gftY6Lqnwp+Jmi/FLwnpsSWlyG/eEnKzKSSWIwRkEYJ9CK/Th47htgUFl78iuN8d+AfCnjfT49I8XWbXsGCEG4ptB5OAuOuK6KM+SS7MzqRuj5U+HH7cHgSLwbJq/xBc2WsIxVrSBC/nBQMMpxgZ6cntVrTf2+vhdqiyi+0+eBXlCqjKXZEXJLHkDAHOM5z0zXzB4s/ZB+IF7421W08MeH0i0AzO1jJLOpUJj5STlnGcHqBz0FfN2ufBn4veGvtI1fw7M1ppe+NrhYm8oBeMhsc9BzivTjhsPK7bOZTklZI+1/iB+3NrU+qSQfDJIUsRGyC5miKvuIOCFJxx1yRXydN4m+L/wC0d4y0fw9rEy6rdxylkmRViMcZI3McALhR8xwMnHfit34e/s3fFf4jeFm8U6Raxw2kTYRX+V5Ox256gD2xnjPBr9H/ANnn9nCH4VRJrmpxCbVbiABzKuNgJ+YADPBPX1xWjjQoxSgtQjzyep9G+DfD0XhHwfofheF/M/sm1SEyDgOVUAn+vU4zXShl6sDmoW474z6dKduPfmvnpbnYkKCAxKjI75pwcluKiPyNuzjPXNRB1BI
+
+
+
+---
+*Source: Document e329ec4e43d47fccabf1e22882189db8*

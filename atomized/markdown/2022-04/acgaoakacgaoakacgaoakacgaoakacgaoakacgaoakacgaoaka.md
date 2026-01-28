@@ -1,0 +1,32 @@
+---
+id: da4349cb-6d21-44a7-badf-f1dc850f2a0f
+type: insight
+created: '2022-04-03T19:08:35.000Z'
+document: 06491227457788266c42ac1c8bad8c66
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ugaoakacgdqvg3
+  - iz6n
+  - >-
+    1oa5wgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoa
+  - >-
+    acgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgaoakacgd
+  - 1oa5wgaoakaptrw5
+---
+# ACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACg
+
+## Context
+From document: Project File Naming — chunk 389 (chunk 389/406)
+
+## Content
+ACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgD/9T+I+ugAoAKACgDqvG3/Iz6n/25f+m+1oA5WgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoA/9X+I+ugAoAKACgDqvG3/Iz6n/25f+m+1oA5WgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoA/9b+I+ugAoAKACgDqvG3/Iz6n/25f+m+1oA5WgAoAKAPtrw5+zn8GLL4BfDj44fFj4veMfCEXxH1zxboWnaL4Z+HVr4sFvc+FdWvbCVpbqTxRpDhLi3tY7gE267ZJDCNwTex/X9feTd3aS2t1/4C/N/I+QvE9t4fsvEOtWnhTVL7XPDVtqV3DoWsanpq6PqGp6XHM62V7e6Wl1erp9zcQBZJbRbu4EDsYxM+CzBR7R8Avgfa/Gm3+M81z4in8Pn4U/BTxr8WrdYNNj1H+2rjwmlo8eiTF7y0+ww332kh75BcvBs+W1lydoJuzS7v+uj790fPVAwoA+hPit8ELX4b/Cf9n74lQ+Ip9Wm+Nug+MNZudIl02Ozi8PN4X1fTdMjt4LxLy4fUVvFvzM8klvZmExBAkm4sgJO7a7W/H5L838j57oGdr8NvBlx8R/iH4E+HtpfQ6ZdeOvGPhnwfbalcRPPBp8/iXWbLRor2eCNlkmitZLxZ5IkdHkSMorqWDKA9E32/rz/L7yx8UvAlz8L/AIkeOfhzeahBq114H8U614XuNTtoHtre/m0W/msZLuG3leSSGKdoTIkcjs6KwDMSM0AtUn3
+
+
+
+---
+*Source: Document 06491227457788266c42ac1c8bad8c66*

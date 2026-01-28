@@ -1,0 +1,26 @@
+{
+  "id": "cd6bf851-5891-4bd8-98a2-2f6acf5704db",
+  "type": "insight",
+  "timestamp": "2025-11-05T21:42:26.000Z",
+  "title": "<div>Some states have scrapeable endpoints:</div>",
+  "content": "<div>Some states have scrapeable endpoints:</div>\n<div><b>UCC State Examples</b></div>\n<ul>\n<li>Delaware UCC<u>https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx</u><br></li>\n<li>Texas SOSDirect (paid access)<u>https://www.sos.state.tx.us/corp/sosda/index.shtml</u><br></li>\n<li>Florida UCC<u>https://dos.myflorida.com/sunbiz/search/</u><br></li>\n</ul>\n<div><b>API Keys:</b>None — scraping only (use BeautifulSoup, Puppeteer, or Playwright)</div>\n<div><br></div>\n<div><b>14. Financial APIs (Optional for revenue estimation)</b></div>\n<div><b>Codat</b></div>\n<ul>\n<li>Purpose: pulls accounting data from QuickBooks, Xero</li>\n<li>API Key: YOUR_CODAT_API_KEY_HERE</li>\n<li>Docs: <u>https://docs.codat.io/</u><br></li>\n</ul>\n<div><b>Plaid</b></div>\n<ul>\n<li>Purpose: bank transaction verification</li>\n<li>API Key: YOUR_PLAID_API_KEY_HERE</li>\n<li>Docs: <u>https://plaid.com/docs/</u><br></li>\n</ul>\n<div><br></div>\n<div><b>15. Email Delivery APIs (for sending outreach)</b></div>\n<div><b>SendGrid</b></div>\n<ul>\n<li>API Key: YOUR_SENDGRID_API_KEY_HERE</li>\n<li>Docs: <u>https://docs.sendgrid.com/</u><br></li>\n</ul>\n<div><b>Mailgun</b></div>\n<ul>\n<li>API Key: YOUR_MAILGUN_API_KEY_HERE</li>",
+  "context": "From document: data enrichment strategy for ucc-mca intelligence platform — chunk 22 (chunk 22/32)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "42efb0f415b2f324521d2959a50f91bf",
+  "relatedUnits": [],
+  "keywords": [
+    "https",
+    "docs",
+    "state",
+    "delaware",
+    "corp"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

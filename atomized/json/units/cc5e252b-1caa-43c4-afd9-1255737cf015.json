@@ -1,0 +1,26 @@
+{
+  "id": "cc5e252b-1caa-43c4-afd9-1255737cf015",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>**Performance Target:** False negative rate &lt1%, False positive rate &lt5%</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### **18. Bias Detection &amp Mitigation**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Three Primary Bias Sources:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>1. **Representation Bias**: Over/under-representation in training data</tt></div>\n<div><tt>1. **Selection Bias**: Systematic exclusion during collection</tt></div>\n<div><tt>1. **Overamplification Bias**: Models amplify societal biases beyond training levels </tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Evaluation Metrics:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Disparate Impact (80% rule) </tt></div>\n<div><tt>- Demographic Parity </tt></div>\n<div><tt>- Equalized Odds </tt></div>\n<div><tt>- Calibration (score s → actual rate s across groups) </tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Mitigation:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Pre-processing: Data augmentation, reweighting </tt></div>\n<div><tt>- In-processing: Adversarial debiasing, fairness constraints </tt></div>\n<div><tt>- Post-processing: Threshold optimization per group  </tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 40 (chunk 40/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "bias",
+    "rate",
+    "processing",
+    "false",
+    "mitigation"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

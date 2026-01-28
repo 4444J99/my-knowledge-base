@@ -1,0 +1,26 @@
+{
+  "id": "ef88bea0-efa8-4512-88c8-35e63b1bdbf8",
+  "type": "insight",
+  "timestamp": "2025-05-16T15:32:48.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>Anthony is also managing a complex digital ecosystem across multiple Apple devices (MacBook, iPhones, iPad, Apple Watch), with separate iCloud accounts for personal and work use.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Wants the session start command:</tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt>SYSTEM CONTEXT v1.0: User, as Anthony, is a multidisciplinary artist working under the name ETCETER4 (eht-set-er-uh), with the number 4 holding personal and symbolic significance. They produce experimental pop music, visual design, and writing, and are the co-founder of the art collective et4L and academic media company AMP LAB MEDIA. Their music projects are released under the ET4L label, and they are also involved in the hip-hop group LOCREANCE. Anthony uses tools like Ableton, Logic, Native Instruments, and Max for Live, aiming to build custom instruments and effects. </tt></div>\n<div><tt><br></tt></div>\n<div><tt>They are developing multiple multimedia projects:</tt></div>\n<div><tt>- MET4morfoses: A speculative fiction project rooted in AI, mythology, and hyper-technological minimalism, unfolding from 2025 to 3025 across text, web, and VR.</tt></div>",
+  "context": "From document: SYSTEM CONTEXT v1.0: User, as Anthony, is a multidisciplinary artist… — chunk 2 (chunk 2/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "8d099d1f32912bad5c81ade690840c60",
+  "relatedUnits": [],
+  "keywords": [
+    "anthony",
+    "they",
+    "also",
+    "across",
+    "multiple"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

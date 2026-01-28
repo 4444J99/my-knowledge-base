@@ -1,0 +1,36 @@
+---
+id: 8f914f43-dc8a-40f0-8268-da3afd4bd4f9
+type: insight
+created: '2021-02-15T19:54:52.000Z'
+document: 7cab5884ad37ebd0143542c422e3a7d4
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: writing
+keywords:
+  - original
+  - words
+  - your
+  - information
+  - source
+---
+# <div>Summarizing is when the main ideas are put into your own words. This means 
+
+## Context
+From document: Week 1 Retention Tracking — chunk 127 (chunk 127/133)
+
+## Content
+<div>Summarizing is when the main ideas are put into your own words. This means that the main points of the information you are using are reworked into your own words, but the rest of it is left out. As the other two, this information also needs to be cited at the end.</div>
+<div><br></div>
+<div>Paraphrasing is when you put a passage from the original source material into your own words. As with a quotation, you must do an in-text citation attributing the information back to the original source at the end of the paraphrased section. Paraphrasing usually means the section is shorter than the original passage because it is condensed.</div>
+<div><br></div>
+<div>Quotations are identical in every way to the original. To quote a source, write out the exact words in the original document and put those words in quotation marks (&quot &quot). After the quotation, there will always be an in-text citation attributing it to the original source. Quotations are at their most effective when you use them to comment on the specific wording of the original text.</div>
+<div><br></div>
+<div>Please refer to this article for more information on how to appropriately cite your sources: https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_basic_rules.html</div>
+
+
+
+---
+*Source: Document 7cab5884ad37ebd0143542c422e3a7d4*

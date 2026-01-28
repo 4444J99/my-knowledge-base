@@ -1,0 +1,31 @@
+---
+id: 223bd054-4bdb-476e-83ec-3d27f4c94567
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - yhjwzqi4xnjavjkecnm7nbzaptlvjzl2ckahy4tt34inayptvylusyurzxyb
+  - nyss3coon1mo5
+  - jqpefenepndnyjgpxknionic1ncjnybj4q3fl11r9hpuslhmuxxbubp
+  - >-
+    ylrbnwe7gnkoc053ngmk1d7nadpbkxcoudch0ctinfvo52yto4rwbovlrmzylgouyyc2oqkwd5y5sfv3sbyjzcdxpquvhog6rryo6bg
+  - ics6h9brmdvod0njxm
+---
+# yhJwzqI4xnJavjKEcNM7nbZAPtLVjZl2ckaHY4tT34iNAYpTvyluSYUrZxyb+nYsS3COoN1Mo5/jQpeF
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 3409 (chunk 3409/11534)
+
+## Content
+yhJwzqI4xnJavjKEcNM7nbZAPtLVjZl2ckaHY4tT34iNAYpTvyluSYUrZxyb+nYsS3COoN1Mo5/jQpeFENEpnDNYjgpXknIONiC1nCjnyBJ4Q3FL11r9HPUSlhMUxxBubp/YlrBNWE7gnKOc053nGMK1D7NaDpbKXcoudCh0CTinFvo52YtO4RwBOVLRMZYLgOUYyC2oqKWd5y5SFV3sbYJzCdXPQUVHoG6Rryo6bg+Ics6H9brmdvod0NJxm/afg40KorNYjjRzxfbBxQVHP9emKjopdDndJ/1cHyz0c9DSOYhuuKnEJQG5ZcNc1rJZRTejOyx0qaAOcC60psRlWfaiIzh3WYoRHRW6ZCzXJbhOC10KlutUOMdYLhHq56jEZYdBdJeXZ7XxLnRsSUtHZS1pFzpCd+QRFR0DORS6JP0cSlwSkKNClwTkyOakxKXY2QEhuhwnFq/KKagDnIMldGdLXMpedAzndF+6ugPq0g6oI0xMuoQ0Q7hrs4ro2CN+So8C0R2XXegY2tVU8RCWu6xwyrWzpkXMJP2qaVmka0lFYVR0UF2IxqIMOwrUGd0Gp4MliUxJYdu2ijqAOkpAW/0cJaZt6hmJ6TA9nRBoV1TL+C0hCWspB6caFKS54aHfoqS/YV0VHSfHTRlM67eKOuqldojlNB0PCMepeUrQt3OMttlTVAjHKX5pu5b0cyiaR8l9UrxRWh8eggR0LLXpKAvnjkuJS/YURkEFxXXsB5aD0s7q7Qg8KMbTIpYSKSDNYjwCGAQ2eIQmXMcQDjBmtN94BKdF+VirveMz5gQvATJFNYaBk2kDw8Dj+l0Pt804gEmdBp6Rn0YgRIQYbufkLAahIZIs4auwxOKoXkAmirHjUxtj2hFwLvLjLGRPNSbDJ/K7R1Hbemh8ahOEI+uOQG07vp0Deew4FP8vmj8di2uIkTGOPQvORTZUvOFcnsAzbSsQDUfw9PpgJuz3LmxfSX9b6rcgnvk1QncC+ei3BI+NdP3oVeufAubRdSC0zFbGsRae0O/zJ6Veth6ffT08Hv8a1xXVjzb/tuXXAmhNvTTOOl8i1Yboju5T+g2TlTuXY1RLlxBPQuEc9RKKA5wbWJ4jIAdcR/o5U9xyNK6TopcJtgThbNHLNWXFcliXaMWjtctt94U7a+rrCIzrsNbhNQVfsRwKWrJNQFEnWmTR0rm4jlR0
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

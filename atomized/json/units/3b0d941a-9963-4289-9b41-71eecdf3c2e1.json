@@ -1,0 +1,26 @@
+{
+  "id": "3b0d941a-9963-4289-9b41-71eecdf3c2e1",
+  "type": "insight",
+  "timestamp": "2025-08-20T01:08:51.000Z",
+  "title": "<div>  •  Wiki: DSL vs. GPL</div>",
+  "content": "<div>  •  Wiki: DSL vs. GPL</div>\n<div>  •  Web/Blog: screencast demo</div>\n<div>  •  Grants: reproducible science proposal angle</div>\n<div>Module 4: Bootloader &amp Core Kernel Loop</div>\n<div>Objective:   Write a 16 KB assembly bootloader, minimalist kernel loop, and CI-driven QEMU tests.</div>\n<div>Reading List  •  Programming from the Ground Up (Bartlett)</div>\n<div>  •  OS: Three Easy Pieces (boot &amp interrupts chapters)</div>\n<div>  •  xv6 Architecture docs</div>\n<div>Further Studies  •  BIOS vs. UEFI deep dive</div>\n<div>  •  Assembly-level OSDev blogs</div>\n<div>Examples  •  src/boot/boot.asm  •  src/kernel/scheduler.cTemplates  •  modules/module-4/project-template.md  •  QEMU GitHub Actions snippet</div>\n<div>Tie-ins  •  Arts: glitch art boot screens</div>\n<div>  •  Sciences: finite-state machine models</div>\n<div>  •  Philosophy: bootstrapping systems</div>\n<div>  •  Math: state-transition diagrams</div>\n<div>Wings Artifacts  •  Academic: boot process spec</div>\n<div>  •  SOP: Assembling a Bootloader</div>\n<div>  •  Business: microkernel pitch slide</div>\n<div>  •  Social: tweet on kernel start</div>\n<div>  •  Community: Wiki Boot Sequence Explained</div>\n<div>  •  Web/Blog: Booting My OS post</div>",
+  "context": "From document: Prompt for AI: Multi-Archetype Syllabus Critique — chunk 6 (chunk 6/10)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "735011ec826ae272226ee00d2196dfe0",
+  "relatedUnits": [],
+  "keywords": [
+    "boot",
+    "kernel",
+    "bootloader",
+    "wiki",
+    "blog"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: f889c871-a27b-4c08-bd3b-c1fc4e30258c
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - a74dvgo
+  - >-
+    a4mtqmabmoa1euvv15uuoggwg688uyzcwb1qoqquf5nprb6uqiramb1fvybrhjuhbewkidvmfjvvvi16qpqw3wvvtg26qqiu8gq
+  - >-
+    gzu7xkcqy60civv1wco0ndvucbqgkzqaqtuwwwk6hovvqmq0ltofxg6scohvxraqa7ckofvebdu5zhwqvwevi2wmg6s6iqselifd2fvdxymqepykt7z5wwagtfpqdgzj5aa5qmtpguqog7gjosjuuz53dfd3d1fkajqgqvnzc3b32klrrimzq5jg3m
+  - uw8ymtkazqn
+  - vob2erlp7dvqrlphfedaann6n3brks1h
+---
+# +A74DvgO+A4MtQMABMOA1euvv15uuOGGwG688UYZCWB1qOqqUF5NprB6uqirAmB1FVYBrhJUhbewKiDV
+
+## Context
+From document: New Note — chunk 16924 (chunk 16924/21099)
+
+## Content
++A74DvgO+A4MtQMABMOA1euvv15uuOGGwG688UYZCWB1qOqqUF5NprB6uqirAmB1FVYBrhJUhbewKiDVMFjVVVi16qpQW3WVVTG26qqIU8Gq+Gzu7xkCqy60CiVV1wCo0nDvucBqGKzqAqtUWwWk6hoVVQmq0ltoFXG6sCohVXrAqa7CKoFVeBdU5ZhwqvWEVi2wmg6s6iqsEliFd2FVdxymqEpYkT7Z5wWAGTFPqDGZJ5Aa5Qmtpguqog7gJOsJUUZ53Dfd3d1fKajqgqvNzc3B32kLrRImZQ5jG3M+Uw8YMtkazqN/vOb2erLP7DvqRlphFedAaNN6N3brks1H/Sy0a6JqfP707cBgYBWAp4VTGRNQdccWEOWczZ2IWKHM8dwXsTvmHD3nWet4QqYEUTkO9tVam3fnAmDU1HBNhKfaKv0AcMo9CE3CI0dv523MetaynvkR9oAsTxJoGQaiurkwMBW5xLyFRd3Yjvt7Fbw+5DnnetTZeY771ycFcrlXJmvS2Te6JlFhNQRctdCqxqXFqppaMEbVS8cqLDpFFi+YIyuXF0mbfqt9Q+1UhUbHSVHB2ZKf+03Jy/mmNNXPkF3b2uTqb++RG1Ux9fKLt8qm3mbpXFkuG9bXK7xaJc11qtZaPE6B1RmyobNe7r7jCnn95YfklRcelB89cFSu+NZ2VVJtVjg2W487TgrzFUZVK8o7S/LmfUNyss9Q/00pUCC1WPcpUTXV4uKxUlSk4KqO4QGu5uWdKaN2dObJ5pWqqrpUQdUl01QBVWFVVVddt2CqrFV11VX142VlzViNp6iSao7sXlMse9aUKLBaLHsVXN2pCqub21UNVWFVQKswQKsbWrMD+HTHqiLZoVDrxvY8WbtgdgCrtlWNE1hHgx5v8VxVXy2QzVBWVbC1d3G2wrKzZf2CmdKjwGyvAqo9zROlt3mSqq3qOSyeLjvbs2RPR47sXZUru5dnK7A6XbYummKAVSqsxoDV6QqhZgKtNs1fJE8/86z8l75Buf3Ou6SkrCojYBUKqH/9z7/JcYU/Fy9pj0OpcYVVBVah4GohVRtv37lbPvn0s0ARtWXB4rjKKl7HVVd/Tz76+GOFT38vpRXVCTBrFLCK/T79/HN5/oUXpbVtWWyNgVUBp+bmFwcKq7/54Ldy+bevTKqw+nUEVkdaZTUZsPr8888LoFWoq1qF1Q8/
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

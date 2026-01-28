@@ -1,0 +1,26 @@
+{
+  "id": "0ae394e9-1b35-470d-8bdf-a98f9a9eb789",
+  "type": "insight",
+  "timestamp": "2015-03-02T17:13:39.000Z",
+  "title": "<div>Scientific advertising</div>",
+  "content": "<div>Scientific advertising</div>\n<div>Change or die</div>\n<div>The Phoenix - David Gordon</div>\n<div>The seven daughters of eve</div>",
+  "context": "From document: Scientific advertising",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "b04cc3eba636106280742028518fa22e",
+  "relatedUnits": [],
+  "keywords": [
+    "scientific",
+    "advertising",
+    "change",
+    "phoenix",
+    "david"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

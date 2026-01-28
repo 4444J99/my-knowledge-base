@@ -1,0 +1,26 @@
+{
+  "id": "b48c17fa-4420-4ab4-99dc-af3b2b5920bc",
+  "type": "insight",
+  "timestamp": "2019-04-12T23:31:27.000Z",
+  "title": "<div>One day you must be a hero and do good, the other day you must be a villain",
+  "content": "<div>One day you must be a hero and do good, the other day you must be a villain and do an equal measure of evil. </div>",
+  "context": "From document: One day you must be a hero and do good, the other day you must be…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "d69c6e3e74c8391f689f5408c3559cad",
+  "relatedUnits": [],
+  "keywords": [
+    "must",
+    "hero",
+    "good",
+    "other",
+    "villain"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

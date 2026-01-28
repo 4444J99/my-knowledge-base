@@ -1,0 +1,26 @@
+{
+  "id": "e436a2e2-27f5-470d-aa9a-0ebfab548dc7",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> If a student with high XP transfers power, it must come with a consequence.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> XP Transfers Are Allowed, But Come with a “Karmic Shift.”</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> If a high-XP player gives away XP, they permanently change their alignment.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> The recipient gains XP but receives a debuff (a more difficult final challenge).</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Example: The XP Abdication Choices</div>\n<div><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Transfer Type</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>XP Leader’s Fate</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Recipient’s Fate</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 283 (chunk 283/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "border",
+    "style",
+    "width",
+    "face"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

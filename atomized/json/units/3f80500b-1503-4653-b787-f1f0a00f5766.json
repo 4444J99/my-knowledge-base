@@ -1,0 +1,26 @@
+{
+  "id": "3f80500b-1503-4653-b787-f1f0a00f5766",
+  "type": "insight",
+  "timestamp": "2025-12-11T22:42:12.000Z",
+  "title": "<div>Chris—</div>",
+  "content": "<div>Chris—</div>\n<div><br></div>\n<div>Okay, weird format incoming. I'm framing this as a three-way conversation: me, you, and the AI I used to help organize this. You hate when people pretend AI writing is human, so I'm not doing that. The AI helped structure; I'm steering.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>ANTHONY: Chris, I've been building this real-time audience-input performance system for a year. Got the tech working—Node.js server, sub-100ms latency, 47+ project files. But I have zero dramaturgical vocabulary for what this does to narrative. That's you.</div>\n<div><br></div>\n<div>AI: To clarify the technical architecture: weighted consensus algorithms aggregate audience input through smartphone interfaces while preserving performer authority. The system works across disciplines—theater, dance, music, visual art—treating different genres as interchangeable applications sharing unified computational infrastructure.</div>\n<div><br></div>\n<div>ANTHONY: Yeah, what it said. But here's why this matters: Tomb of the Unknowns is exactly what this system was built for.</div>\n<div><br></div>\n<div>Imagine a virtual Tomb where soldiers, veterans, family members interact in real time. Your Marines' perspectives from Iraq—but the emphasis, the emotional weight, the narrative focus shifts based on who's in the room and what they collectively find most true.</div>",
+  "context": "From document: Chris— — chunk 1 (chunk 1/7)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "f016dcc60da04b8263d223f729e753ea",
+  "relatedUnits": [],
+  "keywords": [
+    "this",
+    "what",
+    "system",
+    "chris",
+    "that"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

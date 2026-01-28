@@ -1,0 +1,31 @@
+---
+id: 2985b9a1-83d3-4dbd-973e-f7a39a874fda
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ig0abrcrrzth
+  - >-
+    usacyvl4fwbuk4aarxf8nzkmvu7ocgeknfd9woru6wgcq7pwxmc8yxb5olphhiojzjpswlkvtymxmwxeo7g84jf1gynjrmatywc3m41okg9fs8jszwql2vsizpwddiejnput7ltdub7kv3xoruaasnctd2nkrrrrlpjcqoul3fzuky77ep
+  - gv7vv0hepwke08dbeu1zbkxov376xhsop9krjnbqycacqtlxp1u137vdgcicnc
+  - dkxoglqksfemelcktnfbb6tdenqt27niw
+  - 51oejfjrb4r8mufj3bhrzia8pxmhfpqluh
+---
+# Ig0AbRcrRztH/yAB/uSAcYvl4FwBuk4AaRXF8nZKMvU7OcgekNfD9WorU6wgcq7PwXMC8yXB5oLpHHiO
+
+## Context
+From document: New Note — chunk 1293 (chunk 1293/8096)
+
+## Content
+Ig0AbRcrRztH/yAB/uSAcYvl4FwBuk4AaRXF8nZKMvU7OcgekNfD9WorU6wgcq7PwXMC8yXB5oLpHHiOjzJpSwLKvTyMXmwXeO7g84Jf1GYNjRMATywc3M41Okg9FS8jszwqL2VsiZPWddIeJNpuT7LTduB7kV3XorUaasnCTd2NKRrrrlPjCqouL3FzuKy77EP+/rrc/gv7VV0HEpwKe08DBEu1ZBKXov376xhSOp9KrjnBQYCaCqtLxp1U137VdgciCnC/DkXoGlQKsFemelcKtNfBB6TDENqT27Niw/51OEJfJRB4r8MUfJ3BHRZIA8PXMhfPqLuH/r5xGCN/0ID7rXjK7mB+1nPPAf3ykTTeH9BQXZK/728lq74OBkjNHGKoA5DPMK/W1N68v/Ykm6S6fHSoQGOUoV/j/Jx+jNbVwQJdl65bdfVpfHsTXwHIEkN3QASoH1h+OOC8bE2KGwcptKfRbY12xPBWAP8G62xIcugga+PIkN/RWGmdTRX011gTcyqrfReHFJTBXtn6l04bZwsnjXRZ+ye119sMsvrPGdtu88d32zwy+887osNl+F9y5EhbedREO3PpPFs5dyaZ+5PuuvWzyQEdl4G+ii8ZSEkdBuHrC/XZlCtrU9wz4HTJg/X1QOqSIPss0HpDfZ2T+pNA6gLxVdYAqUspAPcMvnX4qlRbUruesbUah59K2dSndqI2aTWZFEBqrSsrawXPk8W+rsZS9fgh1X27tiFvk08pB0rKOFhSxbXil8Mnp7ZUwVcX5KNSSmRqXD++OUn+zOVslanqHJC+y0qfqE3lajJpVyeTvctSr0z1AP4D1amaAfpcic23+xnTT7sfULm/tra2v76+vi+bzfZxkKCPdl9NTY0g+gigL0D0h/A/RN8hYHvVPTyv0gP0B+hzQDTj92EXJC143mUex6YM9C4LPX0CrHdJgMrKWL5TYl4H0dO/gz4PajtwG1h+a0FvA+iZ12WiB7p2Gehpq3SwOPMInld9PePXSQDwDqAHll9XLO6x2g6mr6x0GemVeR44vQJQ3YH0guiRYPo8IM9eXbZ41nAQPeu8rcTXZ5uPxmm8fDVeUltQ/mHA/Dfoj4SfA+ixOXiea14rMddartmV1H3mea6zYj2+64nteuobFBcJmwPo2fcm6lH2eeqb8d2CfQv+PvO/yz5POwLo8fMHHdy9Y84I
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

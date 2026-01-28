@@ -1,0 +1,31 @@
+---
+id: 79aae26d-f5c2-447f-b3f8-af5ae3c2ce6a
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    qaikqaikqaikqaikqaikqaikqaikqaikqaikqakjeaddoze6peycjeacjeacjeacjeacjeacjeacjeacjeacjeacjeacjeacjeacjeacjjbscddhnwyzhoqraamqaamqaancrsdxocrxkbgf7bovrfse287jdhiggb
+  - ywuqlx3llazlq4pfawhgdrc3gssu2j
+  - vni3f1m9eyjvmz
+  - bi9380jkzujnsmdjeacjeacjeacjeacjeacjeacjeacjhd
+  - bojwvn
+---
+# QAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAKJEaDDOzE6PEYCJEACJEACJEACJEACJEACJEACJEAC
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 8004 (chunk 8004/11629)
+
+## Content
+QAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAKJEaDDOzE6PEYCJEACJEACJEACJEACJEACJEACJEACJEACJEACJEACJEACJEACJEACJJBsCdDhnWyzhoqRAAmQAAmQAAncRsDxOcrxKBGf7bOVrfSe287jDhIggb+MgM/yWUqLx3LLaZLq4pFawHGDRC3gsSU2j/VnI3F1M9eyJvmz+BI9380jkzuJnsmDJEACJEACJEACJEACJEACJEACJEACJHD/BOjwvn+GDIEESIAESIAESOC/RQBuLo9j3FRwb2nRf/9b8TMeEiCBeyQgbm+fZYanJO3AlDg4p33i8v7D7Y3fGAzzJzcvnOR/1CPyn6snnd9/kqQ5/Q6DG+DwxsAkbiRAAiRAAiRAAiRAAiRAAiRAAiRAAiTwgAl4stXIHpBr3QOOhcGTAAmQAAmQAAmQQFIQ0I4omeUNSbB5ZI6nnWAHf5IACfxlBNwhKXp4ihmW4lMiLKd/WZYwYhIgARIgARIgARIgARIgARIgARIgARL4exFw1+S710kOnOH998peaksCJEACJEAC/2wC2oWWZlWa1WlWF0wlIjO+by5u/M9mw9STQDIhkHa1SIFaInByO0p5FeZP20mlXvrI9JFBkQFhAWEpw+4wq/jeo9ELbpsF2M18cRNyqlUpV6Vade/B8MyEBNKsfkjq51oFaxeqnXA/f5MACZAACZAACZAACZAACZAACZAACZDAgyNAh/eDY3t/IZuRC+Zbh2S64ZQsDqmwmKuDeWyyRKClZMaMWcbRwX+yGKPuvEvapSP/bGLkrarQMgadkE7bbG2zt3l/Y68N0evPbYreWHb9gk298N8rmfwzpcgYKWf8+SUo/6w+SXW+XpoTzJW8O1aW6dS0vbbeo7/ll2xufpl/+H0fBNyObLESB8Fo4u68Tvlt9uDPX7HRHpKYutQb4hhx5KNz3HxjP0oZ6jev1IDu8rNeK4ljv//gtLbGYm/59sU5+i22FtKlfI4XdTdSgd/cEiWAHL/ZoukTfT6ZIdoue7sPWv+45dUt5zeWWX12Vc+Y+XNPzOkya1bgqtSDU6+C5dg+Uy84bpuYaCQ8SAIkkJBAlbFV0leu596z9doYveEc7tnwHVw3uF5IXfdMXVffvNu0vZbs12/RtpXzQvYXPmi3c3Ovzec3LFh1NrZnTKk5J74oNmtW
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

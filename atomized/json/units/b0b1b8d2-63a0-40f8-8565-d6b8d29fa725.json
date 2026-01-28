@@ -1,0 +1,26 @@
+{
+  "id": "b0b1b8d2-63a0-40f8-8565-d6b8d29fa725",
+  "type": "insight",
+  "timestamp": "2019-05-16T17:37:19.000Z",
+  "title": "<div><span style=\"font-size: 21px\"><br></span></div>",
+  "content": "<div><span style=\"font-size: 21px\"><br></span></div>\n<div><span style=\"font-size: 21px\">Ch 20</span></div>\n<div><span style=\"font-size: 21px\">We have always found it disheartening when students bring us a draft of an argument and then say something like, “I still need to go back and find some quotations to put in there.” This chapter can help them understand that sources and quotations need to be integral to the development of an argument, not just sprinkles dropped on top of an otherwise finished cake.</span></div>\n<div><span style=\"font-size: 21px\"><br></span></div>\n<div><span style=\"font-size: 21px\"><br></span></div>\n<div><span style=\"font-size: 21px\">Ch 21</span></div>\n<div><span style=\"font-size: 21px\">First-year writers have probably received some instruction in the concerns of intellectual property, and they’re probably aware of the debates around movie and music piracy. They likely have heard of plagiarism in high school, have been taught not to copy others’ work, and understand that plagiarizing is a form of cheating. But plagiarism is only a small part of the intellectual-property debate, and its parameters are far from well defined. Students need to learn that intellectual property can be as jealously guarded as material property, if not more so: material goods can usually be replaced, but intellectual work is not easy to return.</span></div>",
+  "context": "From document: EAA Chapter INTROS — chunk 17 (chunk 17/18)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "96eb322624e76b9b2f5ac7aabacd881c",
+  "relatedUnits": [],
+  "keywords": [
+    "span",
+    "style",
+    "font",
+    "size",
+    "21px"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

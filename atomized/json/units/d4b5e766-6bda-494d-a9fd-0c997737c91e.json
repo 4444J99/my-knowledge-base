@@ -1,0 +1,26 @@
+{
+  "id": "d4b5e766-6bda-494d-a9fd-0c997737c91e",
+  "type": "insight",
+  "timestamp": "2020-08-07T15:45:39.000Z",
+  "title": "<div>Nicholas Padavano</div>",
+  "content": "<div>Nicholas Padavano</div>\n<div>1020 Parkside Green Dr, Unit C</div>\n<div>Greenacres, FL 33415</div>\n<div><br></div>\n<div>Anthony James Padavano</div>\n<div>802 Veronica CT</div>\n<div>Indian Harbour Beach, FL 32937</div>\n<div><br></div>\n<div>Anthony Padavano</div>\n<div>11 Windham Loop, APT 2EE</div>\n<div>Staten Island, NY 10314</div>\n<div><br></div>\n<div>Anthony Padavano</div>\n<div>3150 Garrison Road, APT 227</div>\n<div>Corinth, Texas 76210</div>",
+  "context": "From document: Nicholas Padavano",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "5b55b2e59aa25f7e916849291629ad84",
+  "relatedUnits": [],
+  "keywords": [
+    "padavano",
+    "anthony",
+    "nicholas",
+    "1020",
+    "parkside"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: cc7f240b-02cd-4fc0-999f-98e42fbedb43
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    pbna42wuizmualfk0axj1jggcdck50fb8fyjetkropbeiqasmpy56wrbklhcz2jcm4xirammrbz5qpfmwck07usjanaefu0q9seellmgayzmuyzhuwcutnmy0ocvyfgtsgxpgascqpszsidcgde89o22fwokznqn84onwopivbztvlkaulqjnixrybmubw3nple1ccb
+  - c8fzyxn7r
+  - fgescpqurxjd7querrpvdin4njs8g3g6
+  - >-
+    pb8jcjrmctoav6jzkbcaf9jm6qkctw4akubrz8hx4glgjfral64ka15gqzogrvbpfujupnmtd3jgy4b2vhvygu1ucnke0l0dlby2hw4bzy1o2f2gqwwn
+  - gnwa3pve3qmcrmapgavc0ghoqvakzfg
+---
+# Pbna42WUizmUALfk0AXj1jGGcdcK50Fb8FyjetKrOPbEIQasmPY56WrbKLhcz2JCM4xIraMMrbZ5Qpfm
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 584 (chunk 584/3262)
+
+## Content
+Pbna42WUizmUALfk0AXj1jGGcdcK50Fb8FyjetKrOPbEIQasmPY56WrbKLhcz2JCM4xIraMMrbZ5QpfmWck07USjaNAefu0Q9SEElLmGayZmUYZHUWCutNMY0OcvYFgTsgxpgAscQpSzsIDCgDe89o22fWokznqn84OnwoPiVBzTVlkAULqjnIXryBMUbw3nPle1cCb+/c8fZYXN7R+fgescPqurXJD7querrpVdIN4nJS8G3g6+pB8jcjRmcToAV6JZkBcaf9JM6qKCTw4akubRz8hX4GLgjfrAL64kA15GqZOGRVbPFujUpNMTd3jGy4B2vhvyGu1ucnKE0L0DLBy2hw4bZY1O2f2gQWWN+GnwA3PvE3QmcRMapgAvc0gHoQVAkZfG+K54FtihCx0H5q1SoBG1Fjh1HD729W+3T32aPYM/97lM7XDFbeH2sFZrcXQo7627TSEPJfTfug14ivwkL95SvzqrXQqmyIkOKL/Jvf9ajgX1dsy9PGqfU4dlrz66jDGNH3u/ui2VC/YZysySleAAWBOiiczMNB5kjc65tCnvStZXnSwtMuPNMHKfIqmj33U6sW0EUTg6bKthThlD+tX16NdJWxkEf+UUAI9DfpYJQEOzSAsr+DDCDKhQMq2XNAjfSwskce2BPbt2tYcYiX7f+97bDuw/wLZpRLcQjZCDeihXDFE8feJo+9bjX2uvvfxCO3fqeJuZHGszU6wgzOmI9AiRE+5bG4Mi/Sh0gkzTuHUlYsNKl27qXILGkWu3UFi74qwe4fUiclQZaMjrDflOWqFeLnp0Cwfnnv13tQfe9Wi7713vbnM7dzPYxhxu3vUypAhEaQ6wMYxJDQ/e/vm+YUDyDAvzG97x3ra13TFeFFnqKvNnTxHhcLKdOH4sW6a9hLPmU3/6n5CfN7Lo3QP3358pTJfZ7ur5555LXm67Jt8u0N+cPnUx21lOY7xtZG7+BAazq107xdFOUZrXeF6C9hZYz+M2uo1h3FPqeMCErZkojEzxgzcMGV6jo5H/6icj9E2jrIRH17DMy5Ytb2VNCvRGZab1IXnqLI9Ky9fR0xeg/av0p1fI4xT95g06iHUsCPbyoSMYwISo4wTAFZWVtA05z+4U9EEadPc9cG97P4sA7rvr7rZn34G2ffd+5hivby++eqT9b7/5f7VDhH5fZhvKEQaxXIHbqI5LLIIl
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

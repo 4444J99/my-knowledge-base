@@ -1,0 +1,26 @@
+{
+  "id": "6222d371-c4af-42dd-b0aa-0bd06e1d43b7",
+  "type": "insight",
+  "timestamp": "2024-10-09T15:26:52.000Z",
+  "title": "<div>I dont want to speak to you anymore.</div>",
+  "content": "<div>I dont want to speak to you anymore.</div>\n<div><br></div>\n<div>I’d appreciate it if you gave me the money back from the engagement ring since we are not engaged and you’re incapable of being a fiance. </div>\n<div><br></div>\n<div>It would be so much easier if you gave me the money back, otherwise i’ll figure out what to do on my own.</div>\n<div><br></div>\n<div>Bottom line, I’m not interested in being with you, you’re not the right person for me, you’re very immature. Im moving forward in a positive way with my life and you are still in the same chaotic place as when i met you.</div>",
+  "context": "From document: I dont want to speak to you anymore.",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "99ac2d32285466cf4038f257c939663d",
+  "relatedUnits": [],
+  "keywords": [
+    "gave",
+    "money",
+    "back",
+    "being",
+    "with"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

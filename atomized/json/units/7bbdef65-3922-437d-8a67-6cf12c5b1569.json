@@ -1,0 +1,26 @@
+{
+  "id": "7bbdef65-3922-437d-8a67-6cf12c5b1569",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Is not only rebuilding a single course module but is undertaking a full course rework for ENG101 and potentially designing a system that exists one layer above — a meta-framework for designing courses across higher ed campuses. They want to develop a scalable structure for course design that includes instructional phases, scaffolding, assessments, and modular reuse. User wants all uploaded files to be immediately extracted, summarized, and analyzed by default, with full overviews and suggestions created for each file.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants to create a master thread for course design architecture, with all content—including user references and AI suggestions—automatically documented as an annotated bibliography. They request that all new titles include a second, less technical version alongside the primary name, formatted with a semicolon subtitle that adds interpretive or contextual depth. They want all materials referenced (user or AI) to be listed, attributed, and recorded for future citation—especially names, eras, frameworks, or institutional references.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_051425_MASTER — chunk 50 (chunk 50/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "5e4feb3febe2be13a91fd74e828ebc64",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

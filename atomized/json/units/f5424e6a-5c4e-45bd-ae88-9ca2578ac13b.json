@@ -1,0 +1,26 @@
+{
+  "id": "f5424e6a-5c4e-45bd-ae88-9ca2578ac13b",
+  "type": "insight",
+  "timestamp": "2025-12-21T14:29:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>```yaml</div>\n<div>Layout:</div>\n<div>  Type: Vertical Stack with Floating Elements</div>\n<div>  </div>\n<div>Zones:</div>\n<div>  TopZone (15% height):</div>\n<div>    - Avatar State Indicator (morphing shape/face)</div>\n<div>    - Emotional Climate Bar (gradient visualization)</div>\n<div>    - Active Metrics Toggle (3-dot menu)</div>\n<div>    </div>\n<div>  MiddleZone (60% height):</div>\n<div>    - Message History (scrollable)</div>\n<div>    - Avatar Responses (left-aligned bubbles)</div>\n<div>    - User Messages (right-aligned bubbles)</div>\n<div>    - Contextual Annotations (inline cards)</div>\n<div>    </div>\n<div>  BottomZone (25% height):</div>\n<div>    - Input Field (expanding text area)</div>\n<div>    - Quick Actions Bar (5-7 contextual buttons)</div>\n<div>    - Voice Input Toggle</div>\n<div>    - Attachment Options (scenarios/images)</div>\n<div>    </div>\n<div>FloatingElements:</div>\n<div>    RTMOverlay:</div>\n<div>      Position: Top-right corner</div>\n<div>      Type: Collapsible card</div>\n<div>      Content: Live metrics graphs</div>\n<div>    </div>\n<div>    ConsentDialog:</div>\n<div>      Position: Center modal</div>\n<div>      Type: Progressive disclosure</div>",
+  "context": "From document: # Platform-Agnostic UI Architecture: Project Evolve — chunk 9 (chunk 9/10)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "05b5ebf7576dd7636e989ca708836977",
+  "relatedUnits": [],
+  "keywords": [
+    "type",
+    "height",
+    "avatar",
+    "metrics",
+    "toggle"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "b8f32157-684e-44c1-ade6-55fd86930d25",
+  "type": "insight",
+  "timestamp": "2025-02-10T16:22:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>🔹 Concrete Prompt:</div>\n<div><br></div>\n<div>Using Chapter 10 on formatting a research paper, summarize a credible source’s argument and analyze how well it supports its claims.</div>\n<div><br></div>\n<div>🔹 Abstract Prompt:</div>\n<div><br></div>\n<div>What makes evidence compelling in persuasive writing? Does the way evidence is presented change its impact?</div>\n<div><br></div>\n<div>🔹 Connecting Prompt:</div>\n<div><br></div>\n<div>Think about a time you encountered a weak argument because of poor evidence. What logical fallacies or flaws did you notice?</div>\n<div><br></div>\n<div>🔹 Exploratory Prompt:</div>\n<div><br></div>\n<div>If you had to argue without using facts or statistics, how would you convince someone of your position?</div>\n<div><br></div>\n<div><br></div>\n<div>Day 20: Ethical Arguments &amp Persuasion</div>\n<div>📌 Instructions: Choose one of the prompts below to explore in depth.</div>\n<div><br></div>\n<div>🔹 Concrete Prompt:</div>\n<div><br></div>\n<div>Choose a topic related to ethics in media, technology, or politics. Using Chapter 6’s persuasive techniques, write a brief argument defending one side.</div>\n<div><br></div>\n<div>🔹 Abstract Prompt:</div>",
+  "context": "From document: Daily Journal Prompts | Weeks 1 - 6 | ENG 101 — chunk 15 (chunk 15/19)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "e6eab879b76e49062d95c26643b9406a",
+  "relatedUnits": [],
+  "keywords": [
+    "prompt",
+    "using",
+    "argument",
+    "evidence",
+    "concrete"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

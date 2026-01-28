@@ -1,0 +1,26 @@
+{
+  "id": "06f56085-9f83-41e3-9afb-e714f8ca5591",
+  "type": "insight",
+  "timestamp": "2014-12-17T03:35:59.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div>                  You can </div>\n<div>                  Conquer</div>\n<div>                  Anything</div>\n<div>                  Over time</div>\n<div><br></div>\n<div><br></div>\n<div>That's such a boromir thing to say</div>\n<div><br></div>\n<div>Naturalistic=Realistic</div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: You can",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1e05d9f61fcc5b65437a83a9700c2bd3",
+  "relatedUnits": [],
+  "keywords": [
+    "conquer",
+    "anything",
+    "over",
+    "time",
+    "that"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

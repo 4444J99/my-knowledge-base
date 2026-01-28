@@ -1,0 +1,26 @@
+{
+  "id": "38f2f687-3359-47bb-8be5-b3ce07e73f2a",
+  "type": "insight",
+  "timestamp": "2025-11-25T07:22:05.000Z",
+  "title": "<div> (default: ~/Library/Internet Plug-Ins).</div>",
+  "content": "<div> (default: ~/Library/Internet Plug-Ins).</div>\n<div> --audio-unit-plugindir Target location for Audio Unit Plugins</div>\n<div> (default:</div>\n<div> ~/Library/Audio/Plug-Ins/Components).</div>\n<div> --vst-plugindir Target location for VST Plugins (default:</div>\n<div> ~/Library/Audio/Plug-Ins/VST).</div>\n<div> --vst3-plugindir Target location for VST3 Plugins (default:</div>\n<div> ~/Library/Audio/Plug-Ins/VST3).</div>\n<div> --screen-saverdir Target location for Screen Savers (default:</div>\n<div> ~/Library/Screen Savers).</div>\n<div> --language Comma-separated list of language codes to</div>\n<div> prefer for cask installation. The first</div>\n<div> matching language is used, otherwise it</div>\n<div> reverts to the cask's default language. The</div>\n<div> default value is the language of your system.</div>\n<div> -q, --quiet Make some output more quiet.</div>\n<div> -h, --help Show this message.</div>",
+  "context": "From document: -d, --debug If brewing fails, open an interactive — chunk 5 (chunk 5/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "18ce0710d28389561889f6efd8d041c2",
+  "relatedUnits": [],
+  "keywords": [
+    "default",
+    "library",
+    "audio",
+    "language",
+    "plug"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

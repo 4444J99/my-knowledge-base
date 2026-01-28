@@ -1,0 +1,25 @@
+{
+  "id": "68d1e3ae-98db-4803-9380-04818a9167ae",
+  "type": "insight",
+  "timestamp": "2022-12-15T00:49:40.000Z",
+  "title": "<div>Norm Macdonald AI</div>",
+  "content": "<div>Norm Macdonald AI</div>\n<div>Unearthed Jokes</div>",
+  "context": "From document: Norm Macdonald AI",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "ffd74f002eb8a7bff21bc8ed0ebcb671",
+  "relatedUnits": [],
+  "keywords": [
+    "norm",
+    "macdonald",
+    "unearthed",
+    "jokes"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "9d20f53f-a46b-4eed-8106-36cccedfb645",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>  •  Defines “Immediate Action Items” and timeline.</div>",
+  "content": "<div>  •  Defines “Immediate Action Items” and timeline.</div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>IV. Context Correction Layer</b><br></div>\n<div><br></div>\n<div><b>6. 9prompt – Clarify repo intent</b><br></div>\n<div>  •  User notes: all repos are forks, drafts, or inspirations without architecture.</div>\n<div><br></div>\n<div><b>7. 9response – Critical Recontextualization</b><br></div>\n<div>  •  Reframes entire system as <b>pre-synthesis chaos</b>.</div>\n<div>  •  Introduces <i>cognitive-archaeology</i> paradigm.</div>\n<div>  •  Proposes new repo: <b>cognitive-archaeology-suite</b>.</div>\n<div>  •  Defines directory structure for auditing archives, AI contexts, personal and org repos.</div>\n<div>  •  Establishes <i>system-constitution</i> rules and migration categories.</div>\n<div>  •  Presents detailed 4-phase workflow: Audit → Triage → Consolidate → Systematize.</div>\n<div>  •  Ends proposing <b>repo-audit-and-triage-tool</b> as first practical artifact.</div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>V. Tool Specification Layer</b><br></div>\n<div><br></div>\n<div><b>8. 10prompt – Proceed logically with repo description and Copilot prompt</b><br></div>",
+  "context": "From document: Contents_Table — chunk 3 (chunk 3/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "repo",
+    "defines",
+    "layer",
+    "repos",
+    "system"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

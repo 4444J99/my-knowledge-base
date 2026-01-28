@@ -1,0 +1,32 @@
+---
+id: 94e5d8a4-66bc-4aff-b4e3-a2070b48a7df
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - zhvwfavxoakn0pbqyjeedku2kbyys
+  - mvcmnn4ilnkxcxbl36znixypmtfpi2pgxz2
+  - lc1b0r73bnb1f
+  - >-
+    secphnmxykgvxz83lwfhng8lsybbnih9tazbkry2ufu6tniv1s3sq3s00ddzszsi4fru4m9nitruwc7o9ylo5obpnux1thycimpekxeqhsztme
+  - >-
+    xwg2aavft1rltn0odwzfbpyycddohmr7ouecnmela0c8ytmsfmeqgtsjeqaaeemnpcxowtpafpuq0kasegbeoqkia1hrqskgpagsoggcgehjthtevswzrttnowxqkopuzp3g87ssuwt4evtts
+---
+# zhvwFavxOaKN0pbQYjEeDku2KBYYS+mvcmnn4ilNKxcXbl36zNIxyPmTfpI2PGxZ2/Lc1b0r73bNb1f/
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 1137 (chunk 1137/3262)
+
+## Content
+zhvwFavxOaKN0pbQYjEeDku2KBYYS+mvcmnn4ilNKxcXbl36zNIxyPmTfpI2PGxZ2/Lc1b0r73bNb1f/5H/SecphNMxYkgvXz83LwfhNG8LSYBBNIh9taZbkry2ufu6Tniv1S3sq3s00DdZSZSI4FRU4m9NITRUwC7O9YLO5OBPNux1THycimPekxEQHszTMe+xwg2AavfT1rLtn0odwZfbpYYcddohmR7OuECNmeLa0C8yTMSFmEQGTSJEQAAEEMNPcxoWtpaFPUq0KASEgBEoQkIA1hRqskgpaGsOggcGeHjthtEvswzrttNOWxqKOpUzp3g87SSuwT4EVTTs+Oe7BQ1PBJNdO8+qxpx9L4lMUCRo/M0EKdpJRMBPNuKLHPjAzg5yiHEx/MrOlXaA9QIvAXho0kazAshdEJARAgL2lZk4Xtby04anQigt5ISAEhMBMQ0AClgSsKeXJq2yztB1DWqfJRmmzye5kIlIHXkZu0OoggLJBGHOTJmE6YvsTgu1HaL6aNc+2RzDYh5rr/NpRxMFO76ufl/ab2dQubK9ffTAN9YKJKoe4iISAI4AAzsEXHJQkEgJCQAgsiwhIwJKANaV8z0SS06U4hYqJGiYkdkjAlOZhtibGyY32Ta14KiU4sg/INj/HCS5ahNlMdlBHOOecc+K+CkweOZVyWVr5nk3tgvbL3hn2d3KSqR3JG/fTzWb+U96FgBAQAkJACIwTAQlYErDGyU9DxYWNPpqYSRwAMVQG5GlGIsDxomg0l1WaTe2CQ2M4KlskBISAEBACQkAILImABCwJWEtyhVyEgBAQAkJACAgBISAEhIAQKEJAApYErCLGUSAhIASEgBAQAkJACAgBISAElkRAApYErCW5Qi5CQAgIASEgBISAEBACQkAIFCEgAUsCVhHjKJAQEAJCQAgIASEgBISAEBACSyIgAUsC1pJcIRchIASEgBAQAkJACAgBISAEihCQgCUBq4hxFEgICAEhIASEgBAQAkJACAiBJRGQgCUBa0mukIsQEAJCQAgIASEgBISAEBACRQhIwJKAVcQ4sznQddddFxYtWhTWWWed+LHUSZXlxhtvDHzbabnllgubbLLJpJJpjXeq0r/22msD33Diw7NgOhOJ76797ne/C3zQl++v3fe+9w3rr7/+TMzqUp2nm2++OfzjH/+IZaRN0Dagrjw0VW04
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

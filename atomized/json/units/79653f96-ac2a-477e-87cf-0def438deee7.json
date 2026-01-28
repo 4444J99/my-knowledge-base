@@ -1,0 +1,26 @@
+{
+  "id": "79653f96-ac2a-477e-87cf-0def438deee7",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>2. Should Failed Purges Come with a Penalty, or Should They Simply Be Denied?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Ex: If a player attempts to purge their archetype and fails, should they suffer an extra consequence?</div>\n<div><br></div>\n<div>3. Should There Be a Faction-Wide Penalty If a Secret Ballot Vote Fails?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Ex: If a faction proposes a ritual and the class denies it, should the entire faction suffer, or just the initiator?</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🚀</font> Now ready to execute Version 9.2. Awaiting final input before moving forward. 🎮📖 Are you fully satisfied with this plan?</div>\n<div><br></div>\n<div><h1>📌 Version 9.3 – Finalizing Purge Penalties &amp Faction-Wide Consequences for Failed Secret Ballots</h1></div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🚀</font> This iteration locks in additional consequences for failed purges and unsuccessful faction-led rituals.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 1. Failed Purges Come with an Extra Consequence</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> If a player attempts to purge their archetype and fails, they suffer an additional penalty.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 546 (chunk 546/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "should",
+    "faction",
+    "failed"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

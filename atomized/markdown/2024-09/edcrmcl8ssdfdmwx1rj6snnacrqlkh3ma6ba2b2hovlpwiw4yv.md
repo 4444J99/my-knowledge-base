@@ -1,0 +1,31 @@
+---
+id: 75433273-6f3c-4623-8645-06dd214e18f0
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    edcrmcl8ssdfdmwx1rj6snnacrqlkh3ma6ba2b2hovlpwiw4yvswh6ybqwiyyy80hpjfohehqiyryihleu7y6cvkou8jsjj4nty8vojdk3jnitdyykbtzlunv4fzujouhhn9q1ls762gu76esg
+  - 1cwvv4tzx
+  - 7hw2rxcucmjpahskroepfa4ciuqdjatdxsekcocrkmlzmcjhhxt6l5bfufe4sgqrrfxaemum
+  - jrnaix2azkv0l4dgap
+  - iw0ht3tm9lcqyldrfakwe6derldwqiewtcqfsnzgajrwbqhg2t6vxh2oerit4fpei3y9
+---
+# EdcRmCl8ssdFdmwX1Rj6SnnAcrqLKh3MA6Ba2b2hOVlPwIw4yvswh6YBqwIYYy80HpJFOHehqIyryIHl
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 4750 (chunk 4750/11534)
+
+## Content
+EdcRmCl8ssdFdmwX1Rj6SnnAcrqLKh3MA6Ba2b2hOVlPwIw4yvswh6YBqwIYYy80HpJFOHehqIyryIHlEu7y6Cvkou8JsjJ4NtY8VOjDk3jNITDYyKbTZLUnV4fzUJOUhHN9Q1lS762gu76esG/1cwVv4tZX/7HW2RXcuCMjPAHSkrOePFa4CiUqdJaTdxSeKcoCrkMlzMCJhhXT6L5bfUFE4SGQrrfXaemUm/jrNaIX2AZKV0l4DGAP+iW0ht3tm9LCQyldRfaKWE6deRLDWqiEWTcqFSnZGajRWbqhg2T6vXH2OErit4FpeI3y9/uJ+gwUd3FmztCaeoYZOOiJ+gIw0120FxU524DRdq8iTpsYSMNeEZhRjwrAW8yxipzTcoRn1EPDXl2lxjyxS+iyCjVe73OBbYeC5eiMyIrEmaE46qMm7i6VgwC9MgVjvYTrDKdJvTIwRo1WDL/5ytQ9lFLrK5qaFYlhps3v4vSVwTCcJyq1i70G5OIqkBhPMgT+GrNXlaHO1aRXFAftaC2BNK6igj+SF4LroGEuylBh3a+ylxV6TtFbEpJpNITmPPmAx8o06q+gK9NTFVqvLU9YLujV38AYERpjEYFc3UBfUq/deTiBZ7DNsF9vPcE25EtTcURoy3vVhsfUX3L8oVIcipdMwhGn0V9yAjObbzP8xvo04rfC0Fo6le8KuyR92+bhpMIHURp4s9PyDDUAXkEk1gBvaffa9k3KimCM/uxlxWIBhJZZHdgGqEf+v5pgzJ2q3nCrtnuqVLLKeThEceC+vku8BYxJLBrgjTuKQ6jLqWqnb5s/e5OPB3KFgp/M/GuApcKdqrlK/yEgE8/TNqw1VTCW/AvDaXp1AngMj/FsTU9xC3Wek24uqkPtfErNMyKrjVm3Cv5U6u5+jq3Uq1vYNR4J0rOTozegL3cttXPgXrWsAonJCRd+R1Funjj/hfqonihu002qRZAWXxN4xjNsnsr5UeFrQme3mnaPZ5bVQh34qoZzsi6vYa2Iq9C4oL/mLbsiUc6trrs7vTlbb0/2stUE5Bar+M3OQ+dhgnl2dZebgvTEjb11A7OJXlFWnLqbApidKug6ka44LacOCr20TtTH1a0T0x8pYKOD90G+qfsCmFGDfZGLZq6Ppjy1B1T6VdGccNUQnawuVnP2msMsID3iut5RQnFbC9HER1zCjdAuxtOt
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

@@ -1,0 +1,26 @@
+{
+  "id": "d05b4fc2-bec2-43f6-a6a2-19b31490ccf9",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>2. Should Leadership Challenges Have a Cooldown Period?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> How often should factions be able to change leadership?</div>\n<div><br></div>\n<div>3. Should Some Chaos Events Be Player-Activated, or Should They Always Be Random?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Ex: Should a player be able to trigger “The Great Betrayal” if they sacrifice XP?</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🚀</font> Now ready to execute Version 8.3. Awaiting final input before moving forward. 🎮📖 Are you fully satisfied with this plan?</div>\n<div><br></div>\n<div><h1>📌 Version 8.4 – Locking in Transformative Paths, Leadership Cooldowns &amp Player-Activated Chaos</h1></div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🚀</font> This iteration finalizes the number of transformative paths, their infection mechanics, faction leadership stability, and how chaos events are triggered.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 1. Transformative Paths – Capping at One Per Class with Forced Infection</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Only one transformative path can exist per class (max 10 across all classes).</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 496 (chunk 496/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "should",
+    "leadership",
+    "applecoloremojiui"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

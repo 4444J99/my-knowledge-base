@@ -1,0 +1,32 @@
+---
+id: 107229f9-a804-4647-b9fb-36122625f02e
+type: insight
+created: '2025-12-30T16:56:40.000Z'
+document: d6633204ebd2a6d6fe3a9c10c1750226
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    xzmjfz3xu0nola6z5qvfqqrieghztkpcr5mq6yvzmscjtgyombddscxf0niy8wyqb2otursk95egx2it0a7yghxhuz2vnj48ljq4k8exky
+  - djliesxpbrkaghsxgsayfe9os0hnfkhtffgc7nthejsbn7c89tkwxei01bd2htd
+  - n3pbcyrps51feznpjyrr
+  - 9omy55a5sfbsnnl4pzglgjilyyeevn
+  - >-
+    kuvlsf9evwtfmrhvwhdhyihammtjggvhwetggchxvbowbxkwzzjz4tiyuny2ypllozps4f2izh4coroglf
+---
+# xzMJfZ3XU0NOla6z5qVFQqRiEGhZtkpcR5mq6yvzmSCjTgyOmbDdscXf0NiY8WyQb2OtURsk95EgX2IT
+
+## Context
+From document: New Note — chunk 553 (chunk 553/841)
+
+## Content
+xzMJfZ3XU0NOla6z5qVFQqRiEGhZtkpcR5mq6yvzmSCjTgyOmbDdscXf0NiY8WyQb2OtURsk95EgX2IT0a7YGHXHuZ2VnJ48Ljq4k8eXky+djLIEsXPbrKAGhsXgSayfe9Os0hNfKHTFfgC7ntheJsbn7C89tKWXEI01bD2Htd/N3PbcyrPs51fEZnPjyrr/9oMy55a5sfbsnnL4pZglGjiLyyEEVn/kuvLsF9eVWTfMrhvWHdhyIHAMMtjGgVHWETGgcHxvbOwbxKWZzjZ4tiYunY2YPLLOZps4f2IZH4cOroGLf/tf76vLPNXN7iIvuhkSAxLHdwfZEHLmvWNB2f/8vjozzmy4o6FHWM+5Y14lLunppQ0vleOxxvhN/+XWsuOxl8uhPdExD10dPhSb7Z0KwvVklDGIdesBI5gHjwpC4WhQQdGRPxQb75khfu5EELbDg8A+cqaMmzauPsuJvSfqIMXGf1lfTp05VYYMGVrGzBtTbeLYuiNl5txZlUhHvk9fE7OVY2bfK+t21434JsybULY//nJs+hcyYp3ecdHh3/z1jaU7MJ2yano5EOv7BmtavwyY+475sSbw9oqpL0mQ53BNLM7GfhhdoTuzGM0APB2z2rsCG2QNAtvGg6/EcgF1reMgcs+GfY0Ikh8BQS/SdnXFOsJHY9mOIPHZ/qGoZwiSEUGGTF8zs8y+fW4ldgbHLMmN//hc1bk9FnoHFEKfkR/s6NiyOWSs+OC1dYmDtX/zVJl+w8zy3v/9nvLw//aNMiXWMX7x4S1lX+jteAwSmDWpvOpXtaUYMBg1fXRZ+K5FFa864zEwOhj1e8qSqWX3M7ti2a2Ttd4ejnKePhIzzaMsyHKDe+q6gQYyb/+vb6+DSONiA8ZRIVcYkoftzrptTplx3cwavvPpHTHrM+qpdibicOrkHf/znbVN+Pb/+a06IHRs37E68GHpIARNxTKed/LKqXWASbrBUf8Px8aSyB2Ym7k5LGzJANrY8NuzdnddJ5utaqss6XAi7FR5r/vYDXXghG2Mi7WcrT2tHEinSYtjS94gq+jKACCS37PnQExXkFMr77226vsHn32i/NMXv1hmbplYysFYNmTfkLLu7s3lHb8dBNGqM+Wpjz1fbv3yqtj0+GRZ+us3lP0b99XZrJFVnQk7Mcgq5TUo4BmVlc0g/EdPCuI/yj0tlqaYcu20
+
+
+
+---
+*Source: Document d6633204ebd2a6d6fe3a9c10c1750226*

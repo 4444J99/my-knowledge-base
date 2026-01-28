@@ -1,0 +1,26 @@
+{
+  "id": "aeb49b6f-b4db-45ab-8fb8-ff6bb4898604",
+  "type": "insight",
+  "timestamp": "2025-03-05T14:18:11.000Z",
+  "title": "hBsoQAEKUIACFPBFgNcNvsBwMwUo4G8BBr7+puKOQSnAE1hQarIsClCAAhSggLkFeN1g7vFl7yjgCAEG",
+  "content": "hBsoQAEKUIACFPBFgNcNvsBwMwUo4G8BBr7+puKOQSnAE1hQarIsClCAAhSggLkFeN1g7vFl7yjgCAEGvo5QZh02AjyB2ZBwAwUoQAEKUIACvgjwusEXGG6mAAX8LcDA199U3DEoBXgCC0pNlkUBClCAAhQwtwCvG8w9vuwdBRwhwMDXEcqsw0aAJzAbEm6gAAUoQAEKUMAXAV43+ALDzRSggL8FGPj6m4o7BqUAT2BBqcmyKEABClCAAuYW4HWDuceXvaOAIwQY+DpCmXXYCPAEZkPCDRSgAAUoQAEK+CLA6wZfYLiZAhTwtwADX39TccegFOAJLCg1WRYFKEABClDA3AK8bjD3+LJ3FHCEAANfRyizDhsBnsBsSLiBAhSgAAUoQAFfBHjd4AsMN1OAAv4WYODrbyruGJQCPIEFpSbLogAFKEABCphbgNcN5h5f9o4CjhBg4OsIZdZhI8ATmA0JN1CAAhSgAAUo4IsArxt8geFmClDA3wIMfP1NxR2DUoAnsKDUZFkUoAAFKEABcwvwusHc48veUcARAgx8HaHMOmwE5ATGBwUoQAEKUIACFPCvQO5sbv7dlftRgAIUsBFg4GtDwg2OEOAnt45QZh0UoAAFKEABcwjwusEc48heUCAkBRj4hqS+C9fNE5gLDz67TgEKUIACFAigAK8bAgjG3SlAARsBBr42JNzgCAGewByhzDooQAEKUIAC5hDgdYM5xpG9oEBICjDwDUl9F66bJzAXHnx2nQIUoAAFKBBAAV43BBCMu1OAAjYCDHxtSLjBEQI8gTlCmXVQgAIUoAAFzCHA6wZzjCN7QYGQFGDgG5L6Llw3T2AuPPjsOgUoQAEKUCCAArxuCCAYd6cABWwEGPjakHCDIwR4AnOEMuugAAUoQAEKmEOA1w3mGEf2ggIhKcDANyT1XbhunsBcePDZdQpQgAIUoEAABXjdEEAw7k4BCtgIMPC1IeEGRwjwBOYIZdZBAQpQgAIUMIcArxvMMY7sBQVCUoCBb0jqu3DdPIG58OCz6xSgAAUoQIEACvC6IYBg3J0CFLARYOBrQ8INjhDgCcwRyqyDAhSgAAUoYA4BXjeYYxzZCwqEpAAD35DUd+G6eQJz4cFn1ylAAQpQgAIBFOB1QwDBuDsFKGAjwMDXhoQbHCHgTCew5y9fo3W3kTbdDhM2DBr/WA4DR8/BqllD",
+  "context": "From document: 1: — chunk 97 (chunk 97/630)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "d56851c0b64e6fc46a6205c88fb237ad",
+  "relatedUnits": [],
+  "keywords": [
+    "hbsoqaekuiacfpbfgncnvsbwmwuo4g8bbr7",
+    "pukoqsnae1hqarisclcaahsgglkfen1g7vfl7yjgcaegvo5qzh02ajyb2zbwawuoqaekuiacvgjwusexgg6maax8lcda199u3deobxgcc0pnlkubclcaahqwtwcvg8w9vuwdbrwhwmdxecqsw0aajzabem6gaauoqaekumaxav43",
+    "aldzrsggl8fgpj6m4o7bquat2bbqcmykeabclcaauyw4hwducexvaoaiwqy",
+    "dpcmxxycpaezkpcdrsgaauoqaek",
+    "cla6wzfylizahtwtwadx39tccegfoajlcg1wryfkeabclda3ak8bjd3"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

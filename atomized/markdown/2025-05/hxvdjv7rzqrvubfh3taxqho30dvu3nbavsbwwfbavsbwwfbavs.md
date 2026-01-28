@@ -1,0 +1,32 @@
+---
+id: d238c36b-2c3a-4750-bb9e-d0fccaa8bd11
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - hxvdjv7rzq
+  - >-
+    rvubfh3taxqho30dvu3nbavsbwwfbavsbwwfbavsbwwfbavsbwwfbavsbwwfbavubqakapttya1yfvoxxwoqbawcidsuvv
+  - >-
+    js4mgdblvyyisdmgvwb3cuvymprlqbq4euvggpagserajunyfv5acoajnbvbtlvap4n2a1elqqokrptyvvu2vvafxtm7cqte1ovcoqosqsakovxvwbvbxxocqgvlmtokp4darqwmoqohzlveqkfq8bvyfudc6evkxtbatkhp8n6njrswinnbrfafql7wwruuu1ikljgjk6rqfkl1gv
+  - 7tlvvtvhv2vpnz6ehh37ygvjfsvuavwklacp5au
+  - rprof6algz105fh13vysqsyh7cpl6jsd4rln54geme
+---
+# HXvdjv7rZq+RvUbfh3tAXqhO30dvu3NbAVsBWwFbAVsBWwFbAVsBWwFbAVsBWwFbAVsBWwFbAVuBqakA
+
+## Context
+From document: New Note — chunk 13384 (chunk 13384/21099)
+
+## Content
+HXvdjv7rZq+RvUbfh3tAXqhO30dvu3NbAVsBWwFbAVsBWwFbAVsBWwFbAVsBWwFbAVsBWwFbAVuBqakAPttyA1YFVoXXwOqBAwcIdsUVV/js4MGDBLvyyisDmgVWb3CUVYMprLqBq4EUVgGpagsErAJUNYFV5ACoajNBVbTlvap4N2A1ELQqoKrpTYVVU2VVAFXTm7CqtE1oVcOqoSqsAkoVxVWBVbXXoCqgVLMtoKp4DarqWMOqOhZlVeQkFq8BVYFUdc6EVKXtBatKHp8N6NjrswINNbrFAFQl7wWruuU1IKljgJK6rQFKL1gV/1/7tlVVTVhV2vPnz6eHH37YgVJFSVUAVWkLaCp5aU/GC/RproF6algZ105fH13vySqsyh7cPL6jSd4rln54GeME/B/p0+1gsfRrL2vrnI2P/gqMwKkaRhXoVDygT4llnICguk/nRuMFLjkfaBpuHwOZvrmIzXag9WR8AC9QajAAVYBVt/EekOrIXkeODVDV15a1nGMKcMj9bsCjb18yDl6P1TH3HUVQqev5uJ3jJHL+gKqu0Ug81i/AqPZmbLQXou1lcizdLzl4vdZofty10WMk1mtIHKhPxoz3fgqrAqeKV8qqosIKYDWF4c80BkELGTRtrE+i9vVZ1NKUyuqnMQytrmDF04WsrjrLgVbLiiNpQ08JnXNGP+396S4HXN1zciedcUoHnXdWP20dqqHivBWUGjuTirKW0obOErrp5z+mQ0/dQs89dTM9eN9Buvaqc+mM03poXXOOo+oKldcUQLMMqAJYjY06jqIjj6U1scc7YGoaq6wCWk3nfaSnL2bF1UUOuAql1RkbW2IdWLWrZgXBelittJsVTDuhsFq2jNqKF7O66iLqLFtOG+pjaXNzIkOqSbS1NdmBVjdBEZVh1d6aSD9odWNjPG1vz6BdPbm0szuHhtsyqZdVVluKlzOsOp9qMudSXfYCWpu3hJoLljPIupzh2MXUWrSE1hUtZWXXZdRZsoRB1cXUV76UBlltdXN9FCurRjvKqieuS2BgNcEBVrfwnoeqlrsAqxm0Kio2LFgVYGtRSQU9+NDDjsLqtT+/ntIzc8MCVq+/4UZHYfW5Q89TWWWND0wFsAql0z/yA9WuU07z5TWsirito4s++fQz+pitdX2HD0qNS0yhG268ib7k3zx88qmnKXpNgq/PC1ZF/upr
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

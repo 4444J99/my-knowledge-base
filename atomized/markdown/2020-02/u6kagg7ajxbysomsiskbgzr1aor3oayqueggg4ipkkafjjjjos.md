@@ -1,0 +1,32 @@
+---
+id: e7b42333-46ec-4605-a94a-144da2a402f5
+type: insight
+created: '2020-02-13T15:24:07.000Z'
+document: 17668fd2541299884816643132bdef4b
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    u6kagg7ajxbysomsiskbgzr1aor3oayqueggg4ipkkafjjjjosaflllo5kmcyoczziseobyajooakkkkaciiigaqssaauijxzxgu1dxj2qow9b7vhrqavlhppckkcujiso2ufjaydcedqkiooakkklggnup47a2jawavgiiglmzmcaadkkngauaikssydy3kiqbwajg4zzg
+  - oykjrq1xsdv0luz9i1uzm0
+  - >-
+    tw2tw9xg0u0bdcojgmp9ikn0pqnd8t6nfovhrtbnvtrndgo2tixnmcipdtscyzjtuena4aj6uazkk0023zxz9ihv3encjobnob6vhqrjg0uaffffabtxjii2ideixbk54jgcej2yazrqauvq6vowt66bsajp9xqh2c3ku7n7pe8vk20wpmmk2a7i0ynzthrkznzvabrrrqauuuuaffffabrrrqb
+  - 6kkkaciiigar7j8n
+  - sbavn8jvh
+---
+# u6kaGG7aJxbySoMsiSkbGZR1AOR3oAyqUEggg4IpKKAFJJJJOSafLLLO5kmcyOcZZiSeOByajooAKKKK
+
+## Context
+From document: Tarantino goes in depth on first few attempts at writing scripts — chunk 148 (chunk 148/234)
+
+## Content
+u6kaGG7aJxbySoMsiSkbGZR1AOR3oAyqUEggg4IpKKAFJJJJOSafLLLO5kmcyOcZZiSeOByajooAKKKKACiiigAqSSaaUIJXZxGu1dxJ2qOw9B7VHRQAVLHPPCkkcUjIso2uFJAYdcEDqKiooAKKKlggnup47a2jaWaVgiIgLMzMcAADkkngAUAIkssYdY3KiQbWAJG4Zzg+oyKjrQ1XSdV0LUZ9I1uzm0++tW2TW9xG0U0bdcOjgMp9iKn0PQNd8T6nFovhrTbnVtRnDGO2tIXnmcIpdtscYZjtUEnA4AJ6UAZkk0023zXZ9ihV3EnCjoBnoB6VHQRjg0UAFFFFABTxJII2iDEIxBK54JGcEj2yaZRQAUVq6VoWt66bsaJp9xqH2C3ku7n7PE8vk20WPMmk2A7I0yNzthRkZNZVABRRRQAUUUUAFFFFABRRRQB//0v5/6KKKACiiigAr7j8N/sbaVN8Jvh/8cPiP8UNJ8DeD/HKXw+0XltcXM8FxZ3bWqwRW1vuluGkCPIWAWONR87Asufhyv0E/aUd/+GJf2So9x2fZ/GZ254z/AGrHzigC74m/YJ0n4b6tZaj8WvjL4d8MeBPEUFvceHNfSG5vzrUdwgcPBZW4MsaRKy+dJIyom9MMwOR4z8S/2SPHvw7+O+h/ApdU0zVLjxVDZ3ukaslwINOutPvQxju2lkx5cahH35yRsO3d8pb1j9sV3PwK/ZbUsSB4LmIGeB/pZ/wFfUniP4P+Dfj38fP2P/hh8Qr2W10XVvhLobzCFxHNcG1gvJ0t0kbhTK0YTPXBIU7sUAfL7fsO+EfE0ev+Hfg18bdA8f8AjzwzaXN3d6Da2d3aidbMZnWxvZl8m6KgEjbgNjqAc1F+zn/yYx+1x/u+BP8A07zV+hP7FOm3X/DSUVvpP7MFn8JNF0OLUon1fUm1STUopDaTIlvDcX0yxTTSAkuqRsfKDsAANw+Rf2DPiDpXwp/Zm/ab+Ims+GbTxhb6E/ge4XS78kWs839pXCwNLgHIilKS7cYYptPBNAHx547/AGddS+Ffwl0L4gfEnWodE8R+LCs+keGGiZ9Rk04/8v8Ac/MotoX5EQcF5McLjcV9p+L3wm+Lfjj4r/s+fDL4jePR4guviF4W8L/2PdSwbU0rT9YmeK3tnVcGUwHJZ87nzyeK1P23/A0fxAurb9s/4b6nd+I
+
+
+
+---
+*Source: Document 17668fd2541299884816643132bdef4b*

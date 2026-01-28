@@ -1,0 +1,26 @@
+{
+  "id": "307fa2a1-96d8-462e-a0b0-af234122fc8d",
+  "type": "insight",
+  "timestamp": "2025-02-12T16:23:09.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Please only attempt the quiz after completing the weekly readings, lectures, and assignments. TWO attempts are provided for the quiz, questions are randomized in each attempt, and the highest score will be awarded in the grade book. The exam is timed, you are allowed 2 minutes per question.</div>\n<div><br></div>\n<div>Time for Completion</div>\n<div>You have 40 minutes for each attempt of the quiz.  </div>\n<div><br></div>\n<div>Click Next to read the Week 5 Summary.</div>\n<div><br></div>\n<div>Quiz Type</div>\n<div>Graded Quiz</div>\n<div>Points</div>\n<div>100</div>\n<div>Assignment Group</div>\n<div>Quizzes</div>\n<div>Shuffle Answers</div>\n<div>No</div>\n<div>Time Limit</div>\n<div>40 Minutes</div>\n<div>Multiple Attempts</div>\n<div>Yes</div>\n<div>Score to Keep</div>\n<div>Highest</div>\n<div>Attempts</div>\n<div>5</div>\n<div>View Responses</div>\n<div>After Last Attempt</div>\n<div>Show Correct Answers</div>\n<div>No</div>\n<div>One Question at a Time</div>\n<div>Yes</div>\n<div>Lock Questions After Answering</div>\n<div>No</div>\n<div><br></div>\n<div><h2>Week 5 | Summary</h2></div>\n<div>Summary</div>\n<div>This week, we learned about the importance of credibility in writing and how it affects the strength of our arguments. Just like seeking advice from professionals in their respective fields, we must use credible sources to support our claims. To enhance the credibility of our writing, we avoid using first-person speech and personal opinions based on experience. Instead, we adopt a third-person perspective to present a more authoritative and objective stance.</div>",
+  "context": "From document: Week 5 Canvas Data Dump: — chunk 27 (chunk 27/29)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "5253650a1e58ce987b892e8e8251858d",
+  "relatedUnits": [],
+  "keywords": [
+    "quiz",
+    "attempt",
+    "after",
+    "attempts",
+    "minutes"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,31 @@
+---
+id: bf416761-2942-44ee-9ac6-af90ac1ab153
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - zt3q3bshybmaoeztaoyp
+  - >-
+    cgh121eqkfishb8z50yxscyiku1wgjfjy24djwrlmagdrnkx89ot8yeoxbuiwcqkfcgtaphwrbkz6ruavq2kzurxwduxcbuivyr1y3xztn3dfkkrna1g9t6sdtbaieodceeygxxkzfrv1xhwcfbc5yt0nqxnzd2irhkbtexh3ygycit7oxhefmo7luwry2bv3ua0adhvmm4b8p0wawijbgattvp5zheqc7psud7zuxmnl2tfcswoskiaxfd8ozlxkur5ikmk2akxwovbmx
+  - 2p0qjfwcypztssvyd62ar2
+  - ih4vch9xq16hujlcwwywxzp
+  - f6yk3pib
+---
+# zT3Q3BsHyBMaoEZTAoYP+cgH121eqkfIsHb8z50YXsCYIkU1wGjFjy24djWRLMaGdRnkX89ot8yEoXBu
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 2185 (chunk 2185/3262)
+
+## Content
+zT3Q3BsHyBMaoEZTAoYP+cgH121eqkfIsHb8z50YXsCYIkU1wGjFjy24djWRLMaGdRnkX89ot8yEoXBuIWCqkFcGtAPHwRbkZ6RuAVQ2KzUrXWduXcBUIVYr1y3XzTN3dfkkrNa1G9T6SdTbAIEODCEeYgxxkzFRV1XHWcFbc5Yt0NqXNzD2IrHkbtEXH3yGycIT7OxhefMo7luWrY2bV3uA0AdHVMM4b8P0wAwijBGaTtvP5zheQC7PSUD7ZUxMnl2tFCSWosKiAXFd8oZlXkuR5iKMK2akxWovbMx+2P0QjFwCYPZtssvyD62Ar2+IH4Vch9XQ16hUJlcWwYwXzp+F6YK3PiB/qepWNXmPoepFVmn1sPI4JmYDhOYvK1HFvkva9ctD/LatjzbFDXNoDNnpSK/e+W/vagHbWV33XBXHKmCsd2jzphe05cUXFDM9ylnvV917piH2m+HI8TExQjmIw7Egj8XR04xmDBwf2nUIppy8Scthnbg5IGRgyE6uxPIGhr5iSBwQ4ukPbrF9tJstdoXzXOXc0997/k0ZoSkg5Gm5qb9/fgtMAaE/vw2n1vAHWuA7C4QI6P69zRK+uh7887bj2vD15QEgNAIj5N+n9ZYEjjQueWayKrBQ/hS5ygj6eRNVJSRjhWtA6CebdXw/EqFD59X+lJwKs0OGfRkk7yCQwOW9937kgNBgax9A6LQO7z9AwIA7FcHXsCXrA1j8mZm1xc28w0DwIkEMM/EWiPOqucXZDB2RKRbCWCvjcrVy5Sq2bZ7SS9IcENr16z3Y5w5RrZ3ggrYmImDGk/W7cNZq2Iwrc3a2tv73rc7au4UCoDu3A4QuX3WFEgOpWxJMLoDlyXghf4svSNXcJSVav34xQKicoqrlAA+P9XZUarRm5pM8n4+sidyRkCC+1zWkGhLnH1c/hYkoRtKUrBbyoq5fvoYE7pg6AV7m0Gb5D6VIwpa+sMSZKZw9eE5XsOs1Rujn/+nnsBYRLvDdi/vbDVgJywMy4Ge3+eRZFM8pUdSMCIWQLxGA9bjJYB4/qCTf476e87iNOjXezPKHRUXq9Z+9ogyAVcXeizhh3dUTPhcR6HGNGx2grag54oIhH0McsEHYYluOEPofZE+Ux6SGzxhtbZyMH8B1DFA0PDig7KU5mGQUYF8+VyOwBTfL7xBreGPFHKYs3MMaWhr02W8/VTf7
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

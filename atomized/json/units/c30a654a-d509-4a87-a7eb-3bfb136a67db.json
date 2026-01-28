@@ -1,0 +1,26 @@
+{
+  "id": "c30a654a-d509-4a87-a7eb-3bfb136a67db",
+  "type": "insight",
+  "timestamp": "2025-02-27T09:10:30.000Z",
+  "title": "<div><tt>attn ... attn ... attn ... &quot attn ...  ...</tt></div>",
+  "content": "<div><tt>attn ... attn ... attn ... &quot attn ...  ...</tt></div>\n<div><tt>attn ... attn ... attn ... &quot attn ...  ...</tt></div>\n<div><tt>attn ... attn ... attn ... &quot attn ...  ...</tt></div>\n<div><tt>attn ... attn ... attn ... &quot attn ...  ...</tt></div>\n<div><br></div>\n<div><br></div>\n<div>time\\\\\\lost; (and | or) or)or)or)or)or)</div>\n<div>things &lt&lt&lt past; &quot time: lost&amp&amp&amp&amp&amp&amp&amp</div>\n<div>things! ! ! ! past; &quot time: lost; (and | or)</div>\n<div>things: past; &quot &amp&amp&amp&amp&amp</div>\n<div><br></div>\n<div>attn ... &quot time: lost; (and | or) things: past; &quot</div>\n<div>     attn ... &quot time: lost; (and | or) things: past; &quot</div>\n<div>attn ... &quot time: lost; (and | or) things: past; &quot</div>\n<div><br></div>\n<div>attn ... &quot time: lost; (and | or) things: past; &quot</div>\n<div><br></div>\n<div>          attn ... &quot time: lost; (and | or) things: past; &quot</div>\n<div>attn ... &quot time: lost; (and | or) things: past; &quot</div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div>ATTN: </div>\n<div><br></div>\n<div>      ATTN:</div>\n<div>ATTN:</div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: attn ... attn ... attn ... \" attn ...  ... — chunk 1 (chunk 1/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "18cb777d1992b6f3e7c938d1d95ffa6c",
+  "relatedUnits": [],
+  "keywords": [
+    "attn",
+    "quot",
+    "time",
+    "lost",
+    "things"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

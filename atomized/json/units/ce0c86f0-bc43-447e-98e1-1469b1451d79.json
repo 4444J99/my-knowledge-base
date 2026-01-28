@@ -1,0 +1,26 @@
+{
+  "id": "ce0c86f0-bc43-447e-98e1-1469b1451d79",
+  "type": "insight",
+  "timestamp": "2025-11-05T21:42:26.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><br></div>\n<div><b><h2>Implementation Roadmap</h2></b><font face=\".AppleSystemUIFont\"><span style=\"font-size: 13px\"><h2><br></h2></span></font></div>\n<div><br></div>\n<div><b><h3>Phase 1: Foundation (Weeks 1-2)</h3></b><font face=\".AppleSystemUIFont\"><h3><br></h3></font></div>\n<div><tt>// Files to create:</tt></div>\n<div><tt>src/lib/data-sources/</tt></div>\n<div><tt>  ├── base-source.ts          // Abstract base class</tt></div>\n<div><tt>  ├── free-tier.ts            // Free public data sources</tt></div>\n<div><tt>  ├── starter-tier.ts         // Commercial data vendors</tt></div>\n<div><tt>  └── professional-tier.ts    // Premium data sources</tt></div>\n<div><tt><br></tt></div>\n<div><tt>src/lib/mcp/</tt></div>\n<div><tt>  ├── data-mcp-server.ts      // MCP server for data enrichment</tt></div>\n<div><tt>  └── types.ts                // MCP protocol types</tt></div>\n<div><tt><br></tt></div>\n<div><tt>src/lib/enrichment/</tt></div>\n<div><tt>  ├── normalizer.ts           // Normalize data to schema</tt></div>\n<div><tt>  ├── deduplicator.ts         // Entity resolution</tt></div>\n<div><tt>  └── scorer.ts               // Priority scoring logic</tt></div>\n<div><br></div>",
+  "context": "From document: data enrichment strategy for ucc-mca intelligence platform — chunk 11 (chunk 11/32)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "42efb0f415b2f324521d2959a50f91bf",
+  "relatedUnits": [],
+  "keywords": [
+    "data",
+    "font",
+    "sources",
+    "tier",
+    "face"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

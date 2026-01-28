@@ -1,0 +1,23 @@
+{
+  "id": "5962e20d-5612-411d-ac56-54f1e1bb43aa",
+  "type": "insight",
+  "timestamp": "2015-02-25T17:54:14.000Z",
+  "title": "<div>I'll be Ted</div>",
+  "content": "<div>I'll be Ted</div>\n<div>You can be Sylvia </div>\n<div>I'll die</div>\n<div>So you don't have to</div>",
+  "context": "From document: I'll be Ted",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "91df8a7ca0332b513889355e76ce91bc",
+  "relatedUnits": [],
+  "keywords": [
+    "sylvia",
+    "have"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

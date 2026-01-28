@@ -1,0 +1,26 @@
+{
+  "id": "c7158ec1-611e-495c-be4b-3969f851daef",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants to create, analyze, and collect stylized ASCII-style `.txt` files often found in indie software—especially those with cyberpunk, symbolic, and poetic vibes. They are interested in building their own versions, studying the genre, and possibly generating templates or libraries of these digital artifacts.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants all system notes to be right-aligned, near the edge, styled with subtle color to set them apart. They prefer the font size to be about half the standard, dropping midway into the second line. They want every thread to have a unique blockchain-style structure or a setting page with shifting parameters (e.g., equations, room type, weather, etc.). User is exploring ASCII-style abstract models to visualize this structure, with headers filling a quarter of the page height, extending outside the main body, while leaving ample whitespace in the lower content area for readability.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_051425_MASTER — chunk 10 (chunk 10/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "5e4feb3febe2be13a91fd74e828ebc64",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "color",
+    "valign"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

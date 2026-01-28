@@ -1,0 +1,26 @@
+{
+  "id": "802c31ad-99a5-4d0e-82e3-57e323b6fe9d",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## 🧭 NEXT-BRANCH QUEUE</tt></div>\n<div><tt><br></tt></div>\n<div><tt>You’ve seeded the following future branches or features:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Branch ID                     | Description                                                                 |</tt></div>\n<div><tt>|-------------------------------|-----------------------------------------------------------------------------|</tt></div>\n<div><tt>| `ULTIMATE_GOAL_RESPONSE_BANK`| Responses to Forrest’s perfect question (“What is your ultimate goal?”)    |</tt></div>\n<div><tt>| `CHARACTER_ENGINE.v1.0`      | Fully modular, RPG-style character node builder system                      |</tt></div>\n<div><tt>| `MODULE_TREE_EXPORT.v1.0`    | ASCII patchbay tree of all active system nodes                              |</tt></div>\n<div><tt>| `RE:GE_SYNTHESESNAP.v1`      | Thread-wide freeze + symbolic log                                           |</tt></div>\n<div><tt>| `CANON_EVENT_ARCHIVE.v1.0`   | Full map of symbolic places/times with memory tagging and ritual triggers   |</tt></div>\n<div><tt>| `JESSICA_MIRROR_THREAD`      | Expansion into reflection UX, emotional healing engine, spell UX design     |</tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 185 (chunk 185/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "branch",
+    "system",
+    "symbolic",
+    "next",
+    "queue"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "0ec01352-206c-4a12-9973-a706598da543",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt>      &quotstrokeWidth&quot: {&quotfield&quot: &quotedge.strength&quot,",
+  "content": "<div><tt>      &quotstrokeWidth&quot: {&quotfield&quot: &quotedge.strength&quot, &quottype&quot: &quotquantitative&quot}</tt></div>\n<div><tt>    }</tt></div>\n<div><tt>  },</tt></div>\n<div><tt>  &quotlayout&quot: &quotforce-directed&quot</tt></div>\n<div><tt>}</tt></div>\n<div><tt>```</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### **22. System Requirements**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Minimum (Development):**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- CPU: 16 cores</tt></div>\n<div><tt>- RAM: 64GB</tt></div>\n<div><tt>- GPU: 1× A100 (40GB) or 2× RTX 4090</tt></div>\n<div><tt>- Storage: 500GB SSD</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Recommended (Production):**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- CPU: 64 cores</tt></div>\n<div><tt>- RAM: 256GB</tt></div>\n<div><tt>- GPU: 4× A100 (80GB) or H100 cluster</tt></div>\n<div><tt>- Storage: 10TB NVMe SSD</tt></div>\n<div><tt>- Network: 10Gbps+</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Scaling (Enterprise):**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- GPU cluster: 100+ GPUs for inference</tt></div>\n<div><tt>- Storage: Petabyte-scale for knowledge graphs</tt></div>\n<div><tt>- CDN: Global distribution for low latency</tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 45 (chunk 45/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "storage",
+    "cores",
+    "a100",
+    "cluster"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

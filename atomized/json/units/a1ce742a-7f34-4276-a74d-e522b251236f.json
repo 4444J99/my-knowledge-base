@@ -1,0 +1,26 @@
+{
+  "id": "a1ce742a-7f34-4276-a74d-e522b251236f",
+  "type": "insight",
+  "timestamp": "2025-12-04T16:48:25.000Z",
+  "title": "<div><tt>| B04 | input | output | process | flow gate |</tt></div>",
+  "content": "<div><tt>| B04 | input | output | process | flow gate |</tt></div>\n<div><tt>| B05 | create | destroy | ritual | initiation/descent |</tt></div>\n<div><tt>| B06 | open | closed | access | door mechanic |</tt></div>\n<div><tt>| B07 | inside | outside | spatial | presence map |</tt></div>\n<div><tt>| B08 | visible | hidden | UI/UX | perception switch |</tt></div>\n<div><tt>| B09 | present | absent | metaphysical | entity check |</tt></div>\n<div><tt>| B10 | full | empty | storage | memory state |</tt></div>\n<div><tt>| B11 | light | dark | visual | contrast pair |</tt></div>\n<div><tt>| B12 | good | evil | moral | value polarity |</tt></div>\n<div><tt>| B13 | success | failure | outcome | event result |</tt></div>\n<div><tt>| B14 | pass | fail | gatekeeper | threshold test |</tt></div>\n<div><tt>| B15 | male | female | biological | archetype slot |</tt></div>\n<div><tt>| B16 | enabled | disabled | technical | system switch |</tt></div>\n<div><tt>| B17 | awake | asleep | state | user state flag |</tt></div>\n<div><tt>| B18 | clean | corrupt | code | integrity scan |</tt></div>\n<div><tt>| B19 | safe | unsafe | security | alert status |</tt></div>\n<div><tt>| B20 | high | low | signal | amplitude zone |</tt></div>",
+  "context": "From document: # synth-wave-modules — chunk 21 (chunk 21/51)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1f0200e52addd3bec3d0beb78cca4a02",
+  "relatedUnits": [],
+  "keywords": [
+    "state",
+    "switch",
+    "input",
+    "output",
+    "process"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

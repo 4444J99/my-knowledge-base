@@ -1,0 +1,26 @@
+{
+  "id": "60ff2bd2-3352-4cb9-b249-9e66dd2fd1de",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 2. Betrayal Trials – Balancing Morality &amp Consequence</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Refining how betrayal is handled when a player is caught.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> New Betrayal Trial System (Based on Detection Rolls &amp Group Judgment)</div>\n<div>  •  A betrayal does not automatically result in a trial.</div>\n<div>  •  If a player commits an act of betrayal, they must pass a stealth roll (modified by alignment).</div>\n<div>  •  If the roll fails, the group can hold a trial.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> How Moral Alignment Affects Betrayal Success:</div>\n<div>  •  Players who lean into negative alignments (Opportunist, Betrayer) get a bonus to stealth.</div>\n<div>  •  Players who align positively (Loyalist, Martyr) struggle to betray without being caught.</div>\n<div>  •  If a player is too “good,” their betrayal requires a much higher roll to succeed.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> The Trial Process:</div>\n<div>  •  The betrayed faction/class votes on the fate of the betrayer.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 478 (chunk 478/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "betrayal",
+    "face",
+    "trial",
+    "player"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

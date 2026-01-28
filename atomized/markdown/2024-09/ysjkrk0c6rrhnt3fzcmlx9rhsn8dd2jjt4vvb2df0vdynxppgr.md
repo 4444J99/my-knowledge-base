@@ -1,0 +1,33 @@
+---
+id: 7215cd66-a924-4c2e-a501-daf433c74472
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    krk0c6rrhnt3fzcmlx9rhsn8dd2jjt4vvb2df0vdynxppgrpcpnxvjpdmu01kzqvc7miovobzozauvtbxyq
+  - a4mick7vz41frrdk0qvud1lrdpmsonk3yi325xkdm
+  - g0iaabceaaahcaaaqwsecdg3wceo9n7zteu
+  - tytgl896axtoujtepzuw3x3r4cbrrfo
+  - gdp8unm8az94x4f1
+---
+# YSJ+KrK0C6rrHnt3fZCmlx9rHSN8dd2jjt4VVb2df0VdyNXpPGrpCpnXvjpdmU01KzqVc7mIOvOBzOZa
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 4299 (chunk 4299/11534)
+
+## Content
+YSJ+KrK0C6rrHnt3fZCmlx9rHSN8dd2jjt4VVb2df0VdyNXpPGrpCpnXvjpdmU01KzqVc7mIOvOBzOZauvTbXYq+a4mick7Vz41fRRdK0QVud1lrdPmsONK3yi325xKdm+G0IAABCEAAAhCAAAQWSeCdg3Wceo9n7zTEu/tytGl896AxToujTePZuw3x3r4cbRrfO+gdp8Unm8az94x4f1/2m8b3D17FabFlH8/ev4wP9mXLPn5w8CpOiy37ePaBER/uy759/PCgR5wWn/EZzz48u73/4YDx9sE6TgeNZ7cv46N92Qo2Pii+zRg/OljHKWNEAmcfSeicpz2inwnbEIAABCDQTECOdkbQf6PD/osf/9uG3+0E+oYh92wdn13fed6+4n0nKfer9TvPPnexrz7Tfoe8+dv1vtyN2+/Aq99e3rW339uXOUDxKrmDPV+oMosDW/ZRHX+Vr0g21JTRVMc98qXmnGsjP5P8rp7HNWR9zRniRjbZnJPK0Vfx9tnbZ+/sb46yX4uDtw/ePl3/mKPsB4lbZ7fO3t6vRtlyiINbB7dO1z/mKPudcfP05umtvWqUrV6xf3P/5qfrn3KUrSDx1ulbpzf3NkfZJyAAAQhAAAIQgAAEIACBNgL/D65ryKknmBPsAAAAAElFTkSuQmCC"/><br></div>
+<div>One of the many instances of you pretending your birthday was in October to get money and gifts from me 🤡</div>
+<div><img style="max-width: 100%; max-height: 100%;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABJsAAAn8EAIAAACaI6srAAABdWlDQ1BrQ0dDb2xvclNwYWNlRGlzcGxheVAzAAAokXWQvUvDUBTFT6tS0DqIDh0cMolD1NIKdnFoKxRFMFQFq1OafgltfCQpUnETVyn4H1jBWXCwiFRwcXAQRAcR3Zw6KbhoeN6XVNoi3sfl/Ticc7lcwBtQGSv2AijplpFMxKS11Lrke4OHnlOqZrKooiwK/v276/PR9d5PiFlNu3YQ2U9cl84ul3aeAlN//V3Vn8maGv3f1EGNGRbgkYmVbYsJ3iUeMWgp4qrgvMvHgtMunzuelWSc+JZY0gpqhrhJLKc79HwHl4plrbWD2N6f1VeXxRzqUcxhEyYYilBRgQQF4X/8044/ji1yV2BQLo8CLMpESRETssTz0KFhEjJxCEHqkLhz634PrfvJbW3vFZhtcM4v2tpCAzidoZPV29p4BBgaAG7qTDVUR+qh9uZywPsJMJgChu8os2HmwiF3e38M6Hvh/GMM8B0CdpXzryPO7RqFn4Er/QcXKWq8UwZBywAAAIJlWElmTU0AKgAAAAgAAgESAAMAAAABAAEAAIdpAAQAAAABAAAAJgAAAAAABJADAAIAAAAUAAAAXJKGAAcAAAASAAAAcKACAAQAAAABAAAEm6ADAAQAAAABAAAJ/AAAAAAyMDI0OjAyOjIxIDIyOjU1OjMyAEFTQ0lJAAAAU2NyZWVuc2hvdEpeBRkAAAHvaVRYdFhNTDpjb20uYWRvYmUueG1wAAAAAAA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJYTVAgQ29yZSA2LjAuMCI+CiAgIDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+CiAgICAgIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiCiAgICAgICAgICAgIHhtbG5zOmV4aWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vZXhpZi8xLjAvIgogICAgICAgICAgICB4bWxuczpwaG90b3Nob3A9
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

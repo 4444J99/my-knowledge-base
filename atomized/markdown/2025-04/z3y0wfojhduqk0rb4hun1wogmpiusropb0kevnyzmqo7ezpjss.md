@@ -1,0 +1,34 @@
+---
+id: 2efbde16-e128-40ad-a8c3-2af918196693
+type: insight
+created: '2025-04-08T10:17:01.000Z'
+document: 7704478edec58fe98c8158d649dbd34b
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    z3y0wfojhduqk0rb4hun1wogmpiusropb0kevnyzmqo7ezpjssikj5xfqva5qvhvagxdolvgh0vwn9cm
+  - ynj1o0zb
+  - >-
+    cxzeizgftdzfyf7ppfegrgmrm5ardps67qwkfbtp4zfngig7pyrcrtrmvcrjq3shhl8zqocrqbgtpo52k2xf7h8mpm
+  - >-
+    jkrgwbxb7b88covwhdlra2ndbfutfmi3klyo5zpussy8o6rtsbl0zhthixxnogvnrnsqcgqc5ptfr9pn
+  - >-
+    fq2b6v5zqvt3quezrlvu7lblvyt4c9yjjcl7cqqoj1ytdpy5ljnoairu5sk8q7nxcoz4x5mznzhj346elzxz8b1h4f
+---
+# z3y0wfOjHduQK0RB4HUn1WOgmpiUSRopb0kEVnyZMqo7eZPJsSIKj5xFqVA5qVHVAGxDolvGh0vwn9cm
+
+## Context
+From document: New Note — chunk 1290 (chunk 1290/3044)
+
+## Content
+z3y0wfOjHduQK0RB4HUn1WOgmpiUSRopb0kEVnyZMqo7eZPJsSIKj5xFqVA5qVHVAGxDolvGh0vwn9cm+yNj1O0zb/CXzeIzGftDZFyf7PpFegrGMRm5ArDpS67qWkfbTP4ZFnGiG7PYRCrtRmVCRjq3shHL8ZqocrQBGtpo52K2xf7h8mpM/JkrgwbxB7B88covWHDlRA2NdBfuTFmI3kLYO5zpUssy8o6rTSbl0zhtHIXxNogVnrnsqCGqC5PTfR9pn+FQ2b6V5ZQVT3qUezrLvu7lBlvYT4c9YJJCl7cQQOj1yTdPY5lJNOaiRU5sk8q7nXcOz4X5mznZHJ346eLzXz8b1h4f/f5ytLbpERwLBjH2kS9/cH+Yu2k8/5ss8nPT87fusd9gc4BH2t3QO9cN3ZcRSLjSC91TW/iyXB+BhXiGjADDYsdtUjghXWMvMe3PrIvn9wvP95i8zPrVdGX1gMaxbgxzT4kdlrRvEDMKW6dH5yPy5I9y6VNdeZ2eYTTJyVfVvYx4pOV2PS+XzeuS93SVvV7pVC455sL7vO76RKySsKzX2fE4b1N05dIjHaJfrLxu98qvt9PYHqVX/GG2DOMA1ieuTr/UXywbS4rJI7EhkZfzKZ/TWOd8ENFS9k6yzc8SbyKKhGBcC/kp49Ys3hwyoLCDN4eISRvwE8V4H2pBhQgutPI83gX2sGohAghbDCxkUB8D/rj4CYPzULdAwhTYZy+oON9m7A8D8/hIBkGITPZZY3aGBfWBzZwrqlDWAg9RxvUsegwBvPdiy4rAxBS0aDYoy1abLuUg0VbimX+cw9MfvThzeL4Gjvc3KHCODJURC79NBp1lOeR9YkChtdERzaarp2JHBwQH3N0uoMKRgJ6YJXg1E486VLa8txbOfOPfV8GsUZf5yk36wVEuPR4bwoaxzChNDo6v00gpgwo1IimPte1bx0/Fues/EDZPfD2DClc4WeG35w/gLzuyoI4Kor7SW3s1bBz7TFhfkf4qzm6KqqSpap1r3x+6J79hsnsO98PyHgRoXQGJu9GzT8yGB/56NbzywtfCSwjO+crynnDHTAwGue3FmXDN2XZ46aBu+SZzmsEPbzj6t+H4jz4czp67ZajwYLAUuq+8GMLZP6ng2su3hg6+od6eZ1BS/ThJ4C4EYvyPM+fCu8L4q21JlvmXZ+8Nv7nwS+HV1rIn
+
+
+
+---
+*Source: Document 7704478edec58fe98c8158d649dbd34b*

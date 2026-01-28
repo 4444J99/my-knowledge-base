@@ -1,0 +1,25 @@
+{
+  "id": "ed51ebc0-ff6f-499a-844a-04a2d361efff",
+  "type": "insight",
+  "timestamp": "2022-02-02T21:08:49.000Z",
+  "title": "<div>I quit on the way dropping you off at an airport. No Newark. JFK. </div>",
+  "content": "<div>I quit on the way dropping you off at an airport. No Newark. JFK. </div>",
+  "context": "From document: I quit on the way dropping you off at an airport. No Newark. JFK…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "5f6b299a95ea106b9fb85adcde52883c",
+  "relatedUnits": [],
+  "keywords": [
+    "quit",
+    "dropping",
+    "airport",
+    "newark"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

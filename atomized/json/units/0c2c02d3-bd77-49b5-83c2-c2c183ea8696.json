@@ -1,0 +1,26 @@
+{
+  "id": "0c2c02d3-bd77-49b5-83c2-c2c183ea8696",
+  "type": "insight",
+  "timestamp": "2025-02-25T16:23:22.000Z",
+  "title": "<div><tt>        RELEASE ::  </tt></div>",
+  "content": "<div><tt>        RELEASE ::  </tt></div>\n<div><tt>        [  </tt></div>\n<div><tt>            ii ::  </tt></div>\n<div><tt>            &quot ....DONT... ( ..WAIT.) .. ... .... &quot  </tt></div>\n<div><tt>            ::  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>            BETTER_OR_WORSE ::  </tt></div>\n<div><tt>            [  </tt></div>\n<div><tt>                then  </tt></div>\n<div><tt>                [  </tt></div>\n<div><tt>                    [ u &amp i ]  </tt></div>\n<div><tt>                    (  </tt></div>\n<div><tt>                        piece  </tt></div>\n<div><tt>                        [  </tt></div>\n<div><tt>                            x  </tt></div>\n<div><tt>                            (  </tt></div>\n<div><tt>                                piece  </tt></div>\n<div><tt>                                [  </tt></div>\n<div><tt>                                    x  </tt></div>\n<div><tt>                                    piece  </tt></div>\n<div><tt>                                ]  </tt></div>\n<div><tt>                            )  </tt></div>\n<div><tt>                        ]  </tt></div>\n<div><tt>                    )  </tt></div>\n<div><tt>                ]  </tt></div>",
+  "context": "From document: i :: \" WAIT ! ! ! / / / \\\\\\\\ ||| || | \" :: — chunk 3 (chunk 3/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "b537418280970b641227c12293fdb901",
+  "relatedUnits": [],
+  "keywords": [
+    "piece",
+    "quot",
+    "release",
+    "dont",
+    "wait"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

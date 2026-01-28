@@ -1,0 +1,26 @@
+{
+  "id": "1daf53db-3539-40ef-a56d-919a74fcc6f2",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt>- Modular export:  </tt></div>",
+  "content": "<div><tt>- Modular export:  </tt></div>\n<div><tt>  - HEADER  </tt></div>\n<div><tt>  - ORIGIN + CONTEXT  </tt></div>\n<div><tt>  - CONTENT BLOCK  </tt></div>\n<div><tt>  - ACTIONS + NEXT STEPS  </tt></div>\n<div><tt>  - LINKED THREADS  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### SAMPLE OUTPUT NAMING</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- `GR1ND3R_LOGIK_V1.md`  </tt></div>\n<div><tt>- `MAP_OS_4BLOOM_INDEX.txt`  </tt></div>\n<div><tt>- `TRANSLAT10N_ENGINE_SYNTAX01.md`  </tt></div>\n<div><tt>- `KONS0L_ARCHIV_REC_0001.txt`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Each output links recursively to other zones and retains full tag lineage and logic mode.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### ARCHIVE LOGIC</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Each entry gets archived in:</tt></div>\n<div><tt>`/GPT_ARCHIVE_CORE/SYS_MAP_OS_4BLOOM/`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Each subfolder (e.g., `/GR1ND3R_LOGIK/`) includes:</tt></div>\n<div><tt>- `00_INDEX.md`</tt></div>\n<div><tt>- All versioned outputs</tt></div>\n<div><tt>- A glyph map (if active)</tt></div>\n<div><tt><br></tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 96 (chunk 96/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "each",
+    "output",
+    "logic",
+    "modular",
+    "export"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

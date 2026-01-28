@@ -1,0 +1,26 @@
+{
+  "id": "6e3fedee-01a3-4c10-8165-2a391875430c",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt>- Intensity adjectives, vivid imagery, metaphor</tt></div>",
+  "content": "<div><tt>- Intensity adjectives, vivid imagery, metaphor</tt></div>\n<div><tt>- Density: ~31% of persuasive text clauses  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Logos Detection:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Argument mining, logical connectives, evidence markers</tt></div>\n<div><tt>- Fallacy detection (F1 ~0.70-0.84) </tt></div>\n<div><tt>- RST integration for argumentative structure</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### **9. Enhanced Rhetorical Structure Theory**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**eRST Framework:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Graph-based (not just trees), handles concurrent relations  </tt></div>\n<div><tt>- Signal-based (explicit markers: “although”, “because”, “however”) </tt></div>\n<div><tt>- 25+ relations: Elaboration, Evidence, Contrast, Concession, Motivation, Antithesis </tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Performance Targets:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Span detection: F1 &gt80%</tt></div>\n<div><tt>- Nuclearity: F1 &gt75%</tt></div>\n<div><tt>- Relation labeling: F1 &gt70%</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Datasets:** GUM Corpus (multi-genre), MEGA-DT (250K documents),   SciDTB</tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 15 (chunk 15/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "detection",
+    "evidence",
+    "markers",
+    "structure",
+    "based"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

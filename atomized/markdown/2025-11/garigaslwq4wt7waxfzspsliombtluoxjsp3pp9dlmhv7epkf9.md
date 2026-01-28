@@ -1,0 +1,30 @@
+---
+id: bdce0b36-c2be-422b-801e-c82b8b3a799b
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - garigas
+  - lwq4w
+  - t7waxfzspsliombtluoxjsp3pp9dlmhv7ep
+  - kf9x1
+  - siaesiaesiaesiaesiaesiaesiaesiaesiaesiaesiaesiaesiaesodsjsaz3md3
+---
+# gARIgAS+lwQ4w/t7WaxfZspSliOmbtlUoXJsp3pp9dLMHv7eP+Kf9X1+GZK/SIAESIAESIAESIAESIAE
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 4657 (chunk 4657/11629)
+
+## Content
+gARIgAS+lwQ4w/t7WaxfZspSliOmbtlUoXJsp3pp9dLMHv7eP+Kf9X1+GZK/SIAESIAESIAESIAESIAESIAESIAESIAESIAESIAESIAESIAESIAESODsJsAZ3md3+Xx76VyYux0Ls2Yst331DtU6V2+Ued69uYP9iD9/8PNqq9+Z5857a1YbL4wZ4J5lwfAd+fbJMgYSIAESIAESIAESIAESIAESIAESIAESIAESIAESIAESIAESIAESIAESqGwCnOFd2YT/0/G7yvXcrJ5Zs+omNUxuWOX8Ppa2I4GIv280vuG9jedm98qaVS/ZmLotpRWWOP9PC830SYAESIAESIAESIAESIAESIAESIAESIAESIAESIAESIAESIAESIAESOBfE+AM73/N6Nzw4WAOt+Mp2TBHG5vylzHXFrYW81rc3yo1EEpYkmTFdKwwWiiGbaUTrAQrOdLy/pZ9W83fordcsvEiP4ZzI8uUkgSOEMAqBsqG1sd0tBBvrXcCIRVGDVAq5LkxeTM9NqPzDt5fj/UOvDBWPsBpLPQfwqIGru0P83CjctxFaNeWuuR4rhfG++21FcSbRfWR1PhNAiRAAiRAAiRAAiRAAiRAAiRAAiRAAiRAAiRAAiRAAiRAAiRwthCwzxZBKMe3I/BVQ3X8NwzgllOnZ1ZS3VlZSVmJdcfHVCxszOFaiQlQKTfqxApjTp2ZtWfm9Ko9s/a47F544zdCfTtZGJoEvmsCvqkbpmwYsFUxaoBrhcTgbbtK2Y6lsYcZHGZs/If52rFCOBeBH2MIlzUNEEJB9+ETv2E+h5lc2RoxRlBnXBykIwESIAESIAESIAESIAESIAESIAESIAESIAESIAESIAESIAESOAsJcIb3WVgo30Qkf1Z33NRdjBmsDgx1rnJbLG458KL53hIYAmeLMRvHYcTDfFWt8MHsbyQGf5ZyWg7Lm3dRp4je+stNO2R2OIx82DADlo4EznoC8VndvqkbC/NjaIcrRm7or6/D+GfJjG0FrZaPGLp955g6AH8yh9sKyb8YZnfLsA/8FjO5w1oQZ8UvEiABEiABEiABEiABEiABEiABEiABEiABEiABEiABEiABEjjrCNDgfdYVyTcUSHvYZE43DHTG1F1rbG1smNudVHeZLOscCxszH0x4mL8qZjwFozdCwJynPBgIa8+qPTNbZ1ycMabmjp16
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

@@ -1,0 +1,32 @@
+---
+id: 6af339d8-d2e3-4dad-86ce-db06aa9e21ac
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - vhesinrene75ovq6qum7mf4
+  - >-
+    v3q4n7nqvei2qjy7aplr44doxgjlmx7oprs7dhplmhhdvruh12a7nwiyvaskzufcvdtarozjwjrgokujrsuizqdc4u1hz3cjlz1udamzv5y8s3hnahco0bv05fwbfsy9rv0fu8v
+  - l723bzfjwln0ewgkekhzlntlw7zlh
+  - ivyr92xi
+  - >-
+    fzquugdggaecdqqafbbiijbggwigbqwkdda4ooggbw7cymdagqincgwoijbayna31oqil6u2tp9770zfe7vrqecjhb6mjizkisqdfw
+---
+# VHesinRene75OVq6qUM7mF4+V3Q4N7nqVei2qJy7aplr44DoXgjLmX7OPrS7dHPLMhhdVruH12a7NWIy
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 3896 (chunk 3896/11534)
+
+## Content
+VHesinRene75OVq6qUM7mF4+V3Q4N7nqVei2qJy7aplr44DoXgjLmX7OPrS7dHPLMhhdVruH12a7NWIyvaSKzuFcvdtarOzjWjrGoKUjrsuIzqDc4u1hZ3cJLZ1UdAMzv5y8s3hnaHCO0bV05fWBfSY9RV0Fu8v/l723BZfjWLN0EwgkEKhzLNtlW7ZlH//Ivyr92XI/FzQUuGDggAECDQQaFBBIIJBggwIGBQwKDDA4oOGGBw7cYMDAgQINCgwoIJBAYNa31oqIL6u2Tp9770zfe7vrqecJhb6MjIzKisqdFW+u9TX93MBnQhdGdPghCuMWWFy6nL6Ulg6Rr9Y2usRPWWC54aslftCiRD1wHSMop692AHFCdMJ1Aec6wTlhuXjWFWo4KeekosOTsIg0UHegWq78RA9Et2FEKE5P3U752Vtr6QLdjQHnpKVDOdLiEhGYXmKZABnpsEAA1NZ9+zsUc1FOMy3d8sTu8hjRTYZzWTmnZQstYUQ5xdLGD5u0wCGboEkLH0R0Bcvtftj9uPASSdRpcVlK2RAlA0xBu8FLLUtguevqAeeI5e4d/Az17i1Glx0VdYR2Vs4hsloL19nokk9kG+NFfUjPbk/GdbuK5cpSUUTGjOUStBty3OCNPaSFJ7a5v2ZkmJWrhOgCqg0EKr0BmxazAiGMq2g5Ma4e9m4j2FAxA1oe1xUp8YzuCB4CZQlR1FLH0nHVW96r9Z+wk8d2CMiBZTi0AfBQeUmIFSUBG1qi/9nW/axl3beOpx4Re2EkD565fYy/5Nire6FN7V89HO2VW/IMuDf1HJHOEbXU+GvLPH7U+b7SeLTsyPeoli7LJ6jPlGf4es1cVddFm2v2indXx6DRKsKeCe02PgOKow0+EbXkmRS0cz8RX7c6Wtb+/02OP787vXeek3jXdU7W84aZUNtg62XM4VmZEB3R2rBiRJiNLfeCcM4nF/hNPeyN4rCo/XDtRW0AOedwmlJE9bFFgPGI7lavHvQP11woz7iu1NWzNHYCcqF3mWvpEqKzoo4R6+dWobFjvXsA/FaX7J8mdV0guoOx3CpwnYCcl/sjInXO9FBIAJGqonv2aPP4kBDdIItLYTzhBOO68dGdn54ZPwA8/LRmfciIzvo5QjviCmGMPeujIQfAG6wvr4A0Dm4D7AHNXCupWJpFvNXIJFoeqHaaHr/6uX/S2a4Q
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

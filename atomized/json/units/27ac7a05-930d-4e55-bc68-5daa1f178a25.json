@@ -1,0 +1,26 @@
+{
+  "id": "27ac7a05-930d-4e55-bc68-5daa1f178a25",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>│   ├── personal-repos/       # Links/submodules to your 39 repos</div>",
+  "content": "<div>│   ├── personal-repos/       # Links/submodules to your 39 repos</div>\n<div>│   └── org-repos/           # Links to 23 org repos</div>\n<div>├── analysis/</div>\n<div>│   ├── pattern-detection/   # Common themes across layers</div>\n<div>│   ├── genealogy/           # Lineage tracking</div>\n<div>│   └── gap-analysis/        # What's missing between layers</div>\n<div>├── synthesis/</div>\n<div>│   ├── consolidated-docs/   # Unified knowledge base</div>\n<div>│   ├── extracted-functions/ # Reusable code patterns</div>\n<div>│   └── integration-points/  # How everything connects</div>\n<div>└── output/</div>\n<div>    ├── production-ready/    # Code ready for org repos</div>\n<div>    ├── documentation/       # Generated docs</div>\n<div>    └── feedback-prompts/    # Insights to feed back to AI</div>\n<div>```</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **Immediate Actions You Can Take**</div>\n<div><br></div>\n<div>### **Starting with What You Have:**</div>\n<div><br></div>\n<div>**Your existing org repos already support this:**</div>\n<div><br></div>\n<div>1. **`auto-revision-epistemic-engine`** - Can orchestrate the three-layer process</div>\n<div>2. **`a-context7`** - Can generate AI-readable documentation from code</div>",
+  "context": "From document: Contents_Table — chunk 26 (chunk 26/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "repos",
+    "code",
+    "links",
+    "your",
+    "analysis"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

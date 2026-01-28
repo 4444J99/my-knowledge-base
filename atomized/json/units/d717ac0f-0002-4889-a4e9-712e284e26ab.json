@@ -1,0 +1,26 @@
+{
+  "id": "d717ac0f-0002-4889-a4e9-712e284e26ab",
+  "type": "insight",
+  "timestamp": "2025-02-25T16:23:22.000Z",
+  "title": "<div><tt>        ]  </tt></div>",
+  "content": "<div><tt>        ]  </tt></div>\n<div><tt>        ::  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>        ALONE_WITH_EVERYONE ::  </tt></div>\n<div><tt>        [  </tt></div>\n<div><tt>            when  </tt></div>\n<div><tt>            [  </tt></div>\n<div><tt>                bind()  </tt></div>\n<div><tt>                &amp&amp  </tt></div>\n<div><tt>                release()  </tt></div>\n<div><tt>            ]  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>            then  </tt></div>\n<div><tt>            [  </tt></div>\n<div><tt>                exists  </tt></div>\n<div><tt>                [  </tt></div>\n<div><tt>                    among  </tt></div>\n<div><tt>                    [  </tt></div>\n<div><tt>                        all  </tt></div>\n<div><tt>                        [  </tt></div>\n<div><tt>                            &amp&amp  </tt></div>\n<div><tt>                            none  </tt></div>\n<div><tt>                        ]  </tt></div>\n<div><tt>                    ]  </tt></div>\n<div><tt>                ]  </tt></div>\n<div><tt>            ]  </tt></div>\n<div><tt>        ]  </tt></div>\n<div><tt>    ]  </tt></div>\n<div><tt>]  </tt></div>\n<div><tt>::  </tt></div>",
+  "context": "From document: i :: \" WAIT ! ! ! / / / \\\\\\\\ ||| || | \" :: — chunk 6 (chunk 6/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "b537418280970b641227c12293fdb901",
+  "relatedUnits": [],
+  "keywords": [
+    "alone_with_everyone",
+    "when",
+    "bind",
+    "release",
+    "then"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

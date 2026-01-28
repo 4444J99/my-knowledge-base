@@ -1,0 +1,31 @@
+---
+id: 085d9d4f-183f-4ef5-babf-0d98f2a8aa91
+type: insight
+created: '2020-02-13T15:24:07.000Z'
+document: 17668fd2541299884816643132bdef4b
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - tp2r
+  - ib470l9on9phw5oniludp0qhqfhoqpaw93lfbrqeegev2i1ykj0aawtg4acgvjp2lpghizx54k
+  - as8veonavfegtxnwb8vie91c4kurmxy0ti03yyszttrvuzpaaa4fah57
+  - >-
+    hfdhitxfqkeiee9ju9a1guepbwuelzowhuiojwy474fm1fw74g0dvx0lxdmutn1jgcta3mlwzhicagnwgbj7yr9af2f8asbp4ffsm2vjlwl8utn
+  - ehix4gejru01hxdphenetzadgpk06cazhledl5nyqula4yrkdhv2mphfgpxt
+---
+# mK+tP2R/iB470L9on9pHw5oniLUdP0qHQfHOqpaW93LFbrqEEgEV2I1YKJ0AAWTG4AcGvJP2LPGHizx5
+
+## Context
+From document: Tarantino goes in depth on first few attempts at writing scripts — chunk 178 (chunk 178/234)
+
+## Content
+mK+tP2R/iB470L9on9pHw5oniLUdP0qHQfHOqpaW93LFbrqEEgEV2I1YKJ0AAWTG4AcGvJP2LPGHizx54k/aS8VeONavfEGtXnwb8Vie91C4kurmXy0tI03yyszttRVUZPAAA4FAH57+HfDHiTxfqkeieE9Ju9a1GUEpbWUElzOwHUiOJWY474FM1fw74g0DVX0LXdMutN1JGCta3MLwzhicAGNwGBJ7Yr9af2f8ASbP4ffsM2vjLwl8UtN+EHiX4geJru01HxDPHeNetZadGPK06CazhleDL5nYqULA4yRkDhv2mPHfgPxT+zF4e07xJ8ZNM+Kvxb8H+IA2m6vaQ36agdCniYvbzXF1BE0rRXIEqu7FgOAeuQD5i+K/7JfxA+Fnwn+H/AMUru11G8TxjZX95f2raXPB/YwspxCq3MhLf60HeC6x4HY9a+U6/U79rD40/GG+/ZL/ZzS98ca3OvjDRdfGtCTUblhqYiv1RPtmX/f7V+VfM3YHA4r8saAPqX9rH4G+F/gN4t8HaB4UvLy9g8ReEtH1+dr1o3dLnUFdpEQxxxgRrtG0EFvVjWj+xh8JPBXxo+LGp+E/HttLdada+HdZ1FEilaFhcWVsZIW3IQSAw5HQ969Y/4KQf8lJ+F/8A2Tfwz/6LlqT/AIJiXsOm/tI3+o3Fsl5Fa+FdfleCUZjlVLUsUYf3WAwfY0AfDdx8P/Hlp4aj8aXfhvUofD8pUJqL2cy2bFsbQJynlnORjDc5rG0XQtb8S6lDovh3T7jVdQuSRFbWkTzzSEDJCxxgsePQV+rH7Bv7RXxn+N37Tlp8Ifir4qvPEngv4gabrOnaho12+/TY4E0+edFtrT/U24QxBVESqAvy9K8T/Y20v4/2Xgf4i+LPhb4s0L4XeGHSzsdZ8YazL9lmtsuXjtLG5RJZ1klyC6xKC3yZYHZQB8QeJvCHi3wXqH9k+MdEvtBvsbvIv7aW1lx0zslVWx+FX/Dvw7+IHi+wu9V8JeGdU1uy0/8A4+Z7GynuYoOM/vHiRlTjnkiv1b+PKnxf+wBf6n4p+Ktr8atX8IeM7NLLXEjvGubKK8tSstm9zfRxyyo2BJxkZ25J2qByH7Xfxu+Kn7Nt/wDDb4D/AAI8SXngnwr4b8K6RqAbR5Wtf7Tv9Qj8+4vJ5EIaYSP/AAvlchvl5oA+WPjx8I/BXgL4D/AXx54
+
+
+
+---
+*Source: Document 17668fd2541299884816643132bdef4b*

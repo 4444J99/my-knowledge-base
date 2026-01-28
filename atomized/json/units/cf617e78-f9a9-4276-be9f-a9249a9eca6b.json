@@ -1,0 +1,26 @@
+{
+  "id": "cf617e78-f9a9-4276-be9f-a9249a9eca6b",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Folktales</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Transfers a curse but forces the new bearer to take a perception penalty.</div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Prevents random curse manipulation—only those who seek it out can use it.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Introduces an ethical dilemma—do you use the power or let it go?</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Creates another layer of item-based strategy.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📌</font> FINAL LOCK-IN QUESTIONS FOR VERSION 7.1</div>\n<div><br></div>\n<div>1. How should students track their roles and secret abilities?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Should there be an individual tracking sheet, or should students only be reminded when abilities activate?</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 410 (chunk 410/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "border",
+    "face",
+    "style",
+    "width"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

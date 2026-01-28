@@ -1,0 +1,31 @@
+---
+id: 46d5a2e9-c13e-4895-8d1d-942ddaac0f07
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - audk8lwj6pqoqip5c
+  - >-
+    pnlxhaxk6l48lzrdzqobpoyonudj6c4ty2hjvznujngnqhtgshdyzo0o4yq1whkk7itzwokifsyxsnwjkbcrayxgjm49lybghzxalafraxdoq4omborggntpzpww44bwcmmjkgdaycg3oo4vcpvusi3xqgx3wgdqkfs7bfkokyxalgligqrkq7mygo8vuo6ygnpbdlbhgmirocxtf4wzrhn8b1g
+  - 3qrobwuidcxxjyoxwgrmi5rjfpkocqc
+  - 0arkcysmabytdoiwr1405eg6er3sujnj3hfoiremsprpxchy
+  - qci488omeroerebqfq65q9qikt
+---
+# Audk8lwJ6pqoqIP5c+PNLXHaXK6l48lzRdzqobpOYoNUdJ6C4ty2HJVznujnGNQhtGsHdYzo0O4yQ1wH
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 6309 (chunk 6309/11534)
+
+## Content
+Audk8lwJ6pqoqIP5c+PNLXHaXK6l48lzRdzqobpOYoNUdJ6C4ty2HJVznujnGNQhtGsHdYzo0O4yQ1wHKK7ItzWokiFsYxSnwjkBcraYXgJm49lybGhZxALaFRaXDOQ4ombORggntpZpWw44bWcmmjkGdaycg3oO4VCpVuSI3xQgx3WGdqKfS7BfKokYXaLGLiGQRkq7MYgO8VuO6ygnpBdLBHgmirocxTF4wzrhN8B1g+3QroBwUIdcxXJYoXWgrmI5rjfpKOcQC+0arkCYSmAbYTDOiwr1405EG6eR3SUjNJ3hFoIreMSprpxChY/qci488oMerOeREBqfq65Q9qiKt+IsWAHq3blmBWAe5bjCGIxHnbga1/NInYGsgChOVuBOpd4O6lxah/oParPDZe4zrRXagso3zIvTrek365+I9mUZ/AeBG3ynfrm9I/l2tDteF36ttURb5H61ddrR7glP1LomdHU8Wu2sTDr6or/MOiP7W3+LtS57yV+drQi/XFtknG68UnXS7d4PajfWr63+oHa3GToN/97oLvOt1iP1B6Of1j/j3xW9XO2PDzee9y9vnuMOO753tv45sBZcbQCiC5baj1bXhGcGaGK5uvK8v6yyNHy+3h3P76zVZsVz9Ceqs+xZjcRfUlkUP+HsTDY1PutssHqCTzqWdZr2KOgCLe0r9bXemW6tukqzEjLJbHyzuiuw7e/UzrG2ad+vH2zubHzH2WltSr9WXeYttdPWdG/2IMK56QMpzJmbNoERHaK4GSliuZm9jNwkgg2mMVyq5WYMtYE6OsowD3sMC7HZjD6EajNSBGYz+z/bmtpzWveV4WnZEn1XttrbXTkr2a5/IOye0BtfYC2unB1e1tzhusHF2dXREm2rfX99mt0NK3Rp07On6pMGJ3fD/L+RzgoaaXZOeBbn0g1SbGKc0sO4DtV1U0aeQzNMD647PFn7ojn96EnGUGsp/Ntzf8uxT7PuqJ/jLgC91xF7Rfgh/4ixqvER5zL37PDz/j21O6LvVv82+rr5btSM3mkd89+svul/3/ye84PoB2Bg+Xr1+/Uf1l6v/cSnH4JwDOd+1MKft+iHtXSM6N6K3vbfbv3W/50z6oDZZetd/4/Ou/VmC6HgTdFtZn+83/i0f1l8tjvof8CCeSjmB4zt+u2t89Nt+h3O+fY27XbncNar3dI6L9ua3lQ/
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

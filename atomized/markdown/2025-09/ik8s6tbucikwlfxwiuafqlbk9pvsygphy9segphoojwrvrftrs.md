@@ -1,0 +1,31 @@
+---
+id: aef680ca-6244-42df-96b6-cf8e0bb33ccf
+type: insight
+created: '2025-09-24T12:01:25.000Z'
+document: 9e5f6b008d737451ce9d5c855d79cde5
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ik8s6
+  - tbucikwlfxwiuafqlbk9pvsygphy9segph
+  - rvrftrsanj1ofbrrwdmov
+  - xnwi2iup0p990sths2x3mht4s72qqjm
+  - >-
+    vbbgpzjkmqfwuxdi5e6kzpe0xuehlsbmbk3bldg3gc4srhr9qc4fil47rfktwsbiyqwku4a4zeentwm6lbtwdce66l3jmpfwip7dqopiacn2eamp7j19hwamgw9xesgv2uge3iedpa5pvutnbk400s8muwhc9gejomgcwsve2znrl52lgd4
+---
+# ik8S6/TbuCikwlfXWIuAfQLBK9PvsYgphY9Segph/oo+Jw+/RvRfTRSANJ1OfbRrWDMOv+XNWI2Iup0p
+
+## Context
+From document: __A-System-Operates-__@4-B100M-@4-B100M@4B100--- — chunk 701 (chunk 701/1114)
+
+## Content
+ik8S6/TbuCikwlfXWIuAfQLBK9PvsYgphY9Segph/oo+Jw+/RvRfTRSANJ1OfbRrWDMOv+XNWI2Iup0p990Sths2x3mHt4s72QQjM/VBBGpzjKMQfWuxdi5E6KZpE0xueHlSbMBK3bldg3gC4Srhr9QC4fiL47rFKtwSbiYqwKu4A4zEEntwm6LBTwdcE66l3JmpFwiP7dQopiAcn2eAMp7j19HWamgw9XESgv2Uge3iEdpA5pVUtnbk400s8MuwhC9gEJOmGcwsvE2ZNRL52lGd4/IMS/DA1vXjltN7xzG3Lo2VnDeXtnBihthPr6Gfcsnoz30mc60lXFODn/Lyyc7Ml383ARMwARMwgUwCmOEKOCFoZHHL9psUkfUIkaclvkinYfnLFLXJh/xzNtbSNli4gmOHM1WdmdIFaPT/pV58pPOfGD03tmDhbI2P61cP29EC2h7L2umy0nLd8fOWxxIseEqPISy3INhqId5+cXz37URtckDxP9kxXiU+07SeKe3dSdq29kxEtFTWMAT5GIRcZhqGhXM01r3KuANcgkU2TY+TVxx7ozcxca/AZzc77Y/183AstZoT/xDBvruLlRowmMiVOiBS6zF9r7Su2HKt32choN/GpUJT8l/CtzcVtfouTRcf2CYJ3bYRgfseeSpNOgSRrHraBOPVpXBBKc0161SvvJ2oTc9pTb03kfsBDU4W6zTNo01sUB1TR4MZhGSnrsxWNOZcteGZxM/dWWpTbMlVm1md0W52do6/MwETMAETMIF9SaCwLbaQluUpV9JK+nmy6iEI+mKp0nRv9rEyftZjUZaOmYwVqyzSGMW/5brtGtWMjYiHGRmWRV1fFtFGuAnonovXbEziiir+6UdYlnVed6zF+7fadzFQz2Tzid+wbfAarJ1PfjQ/+sEqTQ8jYDcxtd+bxWWDiq3dslxOmF8koLoyKFiMiNfip8yUlFE+ypRRwmw5fsrNapV+DJZ1ua2XlvsE/+2QxmL9Xo1glZW8W+NaCN210odbk87ZQr7ljrGezxW9YWdJi+A2MEjYonFCrhvu7ORdfFdscN/hKN1GvtTZSW1FPGWRH0kbOTHLIj912ZpYQh0oyad4Z6k2bjpqZKovlQ9gOzvc35mACZiACZjAPidQ8MK2JOKLsYRqMY+my3/GFPQv8bHM0DrJaZIRK7T4hrQIYaTvd5QWydel
+
+
+
+---
+*Source: Document 9e5f6b008d737451ce9d5c855d79cde5*

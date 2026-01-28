@@ -1,0 +1,26 @@
+{
+  "id": "00b3158b-b719-456c-b561-9de587d3b528",
+  "type": "insight",
+  "timestamp": "2022-03-04T23:07:59.000Z",
+  "title": "<div>Teaching Philosophy ’22</div>",
+  "content": "<div>Teaching Philosophy ’22</div>\n<div><br></div>\n<div>My chief aim as a higher education instructor of composition and language arts is guiding students towards academic success in a space promoting diversity of thought.</div>\n<div><br></div>\n<div>Clarity of thought</div>",
+  "context": "From document: Teaching Philosophy ’22",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "3ecfea51b133227a32bdc6c3a23bd30c",
+  "relatedUnits": [],
+  "keywords": [
+    "thought",
+    "teaching",
+    "philosophy",
+    "chief",
+    "higher"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

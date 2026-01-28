@@ -1,0 +1,32 @@
+---
+id: 3bc57f67-cdd4-463c-a5fa-cf9ed55d67dd
+type: insight
+created: '2024-03-07T02:33:33.000Z'
+document: 27162d3685a234131532342f177d17e4
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    npvo6yzng8d3hmqhy4idm5gip1bw8tta6glftymeu56lgldjku54elxh7csba8v3y3qk9g7wtokzxwuyjcui7ehsgpaswoik78di8oqupmxjigvvyhno5yvsyte6ykkjg73cocpikmvotunwiy0pg15qkp
+  - >-
+    gycc62ip7ev1agaiusiivmlmp0x3l7jdaqoedrqas5tsc9ziuqr5rrdentcnxt3pevtjia2hex6fgfiu6moxcw4qlhx9rgvcvawowaij4lsmosvc7sisge5ztqurqjuezfraebriegydj5bqh3
+  - wgcorjgrxa
+  - x9co52yhw6qes8yzqgrempy4bvacavcsvh8fne
+  - yhctm1meexp0nysjzg1w
+---
+# npVO6yZNG8d3hmQhY4IDm5gIP1bw8TtA6glfTYMeU56Lgldjku54eLxH7CsBA8v3Y3qK9G7WtoKzXWUy
+
+## Context
+From document: CC INFO BILLING: — chunk 692 (chunk 692/909)
+
+## Content
+npVO6yZNG8d3hmQhY4IDm5gIP1bw8TtA6glfTYMeU56Lgldjku54eLxH7CsBA8v3Y3qK9G7WtoKzXWUyJCuI7EhsGPaSwoiK78di8oQuPMXJIgVvYHNO5YvSYTE6yKkjg73cocpIKmvOTuNWIy0Pg15QKP/GyCc62ip7EV1agAiuSiiVmLMp0X3L7JDaqOEdRqAs5Tsc9ziUQr5rRDeNTcnxT3PeVtjIA2heX6FGfIU6MOxcw4qlhx9rGvcVAWoWaiJ4lsMOsvc7sisge5ZtQuRQJUezFRaebriEGYDJ5Bqh3/wgCoRJGRxa+x9cO52yHW6qes8yzQgReMpY4bVACAVcsVH8fnE+yHctM1mEExP0NYSjZg1w/MgqSVcOqmfE5oV8x9GE/Vxawf/dB9mORx2QYBWMmJaUHVaJOGXL/FcgJ9rF6A9x5mU8PlkORoZQKSdhJTwTd3oLhmEbLBOG0F6V4sBeyU6KJY0EYBqYp5pfI6h5urvHWXOG+ZJ0HaSCCBkrFk5Cf7ePBynq1taCs9Kr6vgXUtduXK4mNQ7s/vZeGKt8KyhATWOaezsX2jUZTGYlJjRWOREPVNESjhuKQYnmslQztk94Gx+lor422I+zam5lz083ts3mRgg2XOXOVKvN20t/SI/DKLGfFpfo8giQHd6fCqUXp1TyQjfMpjllGZlf1XhISP+Nb4CX/4bFBrc+SSSOcRrpD1sFJlkmp6khoDcOxyv6o6ayrVJ7pLwolH19I9VHblX1FpP6EegIk2JShRTyJsINNKHD1nIivVe/fiFgN7FMzkuc4U1TGaUpkXg/eJK96Fw0B7Kkwr1hfUuOD7mn4GopXVCpMY3MFP+5TRlJ3qZ0+xWkbjJUuu4Vjggi4eyjXHVr10nA7Z/nULcOiffGPAt8wwQ3T5vAhNjM/zDIHPm3fC3PdRhMqg59X1xBOIGuM7nHRRm+u2KWxfHSVX0UPjSSaU6mxmERsagu6PiLtxDXKHiHnRND2XzRAwXkQPEeL6dYHgauAW/bs47RRaaBp0L9qqfsrgpMprCRVnsDxugo49zYwQFxYSh1mGVUtLUSxqmz146iw8FIksk6ILXV42RizXvjrSfAHsgxq2t0H9vstTD1Y5vmZZwEnpU5D+7tK5L1IJJNn6vcuj1UF3tanYAhjMJABFU4DJi3XQWASXngIs13HZSCTzoHEn9+
+
+
+
+---
+*Source: Document 27162d3685a234131532342f177d17e4*

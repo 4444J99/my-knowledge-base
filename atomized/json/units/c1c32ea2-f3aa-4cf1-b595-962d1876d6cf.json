@@ -1,0 +1,26 @@
+{
+  "id": "c1c32ea2-f3aa-4cf1-b595-962d1876d6cf",
+  "type": "insight",
+  "timestamp": "2025-02-12T19:07:35.000Z",
+  "title": "<div>Page</div>",
+  "content": "<div>Page</div>\n<div>Week 6 | Proofreading</div>\n<div> Published. Click to unpublish Week 6 | Proofreading. </div>\n<div>Page</div>\n<div>Week 6 | Editing</div>\n<div> Published. Click to unpublish Week 6 | Editing. </div>\n<div>Page</div>\n<div>Week 6 | The Importance of Reflection</div>\n<div> Published. Click to unpublish Week 6 | The Importance of Reflection. </div>\n<div>Page</div>\n<div>Week 6 | Steps for Effective Reflection</div>\n<div> Published. Click to unpublish Week 6 | Steps for Effective Reflection. </div>\n<div>Page</div>\n<div>Week 6 | The Evolution of Writing</div>\n<div> Published. Click to unpublish Week 6 | The Evolution of Writing. </div>\n<div>Context Module Sub Header</div>\n<div>Week 6 Daily Journal</div>\n<div> Published. Click to unpublish Week 6 Daily Journal. </div>\n<div>Discussion Topic</div>\n<div>Daily Journal</div>\n<div>24 pts</div>\n<div> Can't unpublish Daily Journal if there are student submissions </div>\n<div>Context Module Sub Header</div>\n<div>Week 6 In-Class Activities</div>\n<div> Published. Click to unpublish Week 6 In-Class Activities. </div>\n<div>Assignment</div>\n<div>In-Class Activities</div>\n<div>16 pts</div>\n<div> Can't unpublish In-Class Activities if there are student submissions </div>",
+  "context": "From document: Weeks 1 - 6 Canvas Data Dump — chunk 162 (chunk 162/188)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1b21c03b1f1909954adca118a79b0158",
+  "relatedUnits": [],
+  "keywords": [
+    "week",
+    "unpublish",
+    "published",
+    "click",
+    "page"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

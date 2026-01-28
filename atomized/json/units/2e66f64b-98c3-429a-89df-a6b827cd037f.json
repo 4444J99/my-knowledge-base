@@ -1,0 +1,26 @@
+{
+  "id": "2e66f64b-98c3-429a-89df-a6b827cd037f",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div>Load it:</div>",
+  "content": "<div>Load it:</div>\n<div>```bash</div>\n<div>launchctl load ~/Library/LaunchAgents/com.user.vscode.transparency.plist</div>\n<div># To unload:</div>\n<div>launchctl unload ~/Library/LaunchAgents/com.user.vscode.transparency.plist</div>\n<div>```</div>\n<div><br></div>\n<div>**Adjust Thresholds**</div>\n<div>Set env vars:</div>\n<div>```bash</div>\n<div>VSCT_RUNNER_EXT_SIZE_LIMIT_MB=500 VSCT_RUNNER_MIN_FREE_GB=1 \\</div>\n<div>./scripts/auto-vscode-transparency-runner.sh --all</div>\n<div>```</div>\n<div><br></div>\n<div>**Log Location**</div>\n<div>- Status &amp actions logged under `~/vscode-insiders-maintenance/logs/`</div>\n<div>- Old logs auto-pruned after 7 days (adjust with `VSCT_RUNNER_ROTATE_DAYS`).</div>\n<div><br></div>\n<div>**Next Enhancements (Optional)**</div>\n<div>- Add JSON summary output for integration with other monitoring.</div>\n<div>- Email/notification when threshold triggers.</div>\n<div>- Add a phase to prune old duplicate extension versions automatically.</div>\n<div><br></div>\n<div>Let me know if you want any of those additions; I can implement them.</div>\n<div><br></div>\n<div>Made changes.</div>\n<div><br></div>\n<div>User: i need you to make this easy as pie for me, i want you to take over and take care of this it is simple; just give me a todo list and ill give it to gemini; i dont want your solutions; just the issues</div>",
+  "context": "From document: User: fix — chunk 41 (chunk 41/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "vscode",
+    "user",
+    "transparency",
+    "want",
+    "load"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

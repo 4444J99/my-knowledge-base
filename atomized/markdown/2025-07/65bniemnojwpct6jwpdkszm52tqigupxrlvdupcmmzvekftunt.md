@@ -1,0 +1,32 @@
+---
+id: 3d61d9c3-2fb9-47c9-9486-6c40aa79968f
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    65bniemnojwpct6jwpdkszm52tqigupxrlvdupcmmzvekftunta7qhrvan14bxhnfglya7ztc3hlqtwueilcju3pcrd
+  - >-
+    fjofltdxhm8xv14ujgdliumxbcqe6iwjqfzqrx8mgrpzu2opzq3n7oposkfavjz9qja7e2tondjyj3yyg4b9mnsye3s5mq0jpeurjwtedururrg520ufushyd9rpqbvinulrg5bay0ez5ot5awytxzvi2tps
+  - xypw5zntbfvoxgvz76lbpazqvkdra0ih
+  - gtocyb2atf8aze3crvtnibgdes3srwtj5bin
+  - pemxgirra1ncprmrvvki0m6s74qnffqoj3hjnfrw2tqfn
+---
+# 65bNIemNojWPct6jWPDKSZM52tQIgUPxrlvDUPCmMZVekFTuNTa7QhRvaN14BXhnFglyA7zTc3hlqTWu
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 5200 (chunk 5200/18928)
+
+## Content
+65bNIemNojWPct6jWPDKSZM52tQIgUPxrlvDUPCmMZVekFTuNTa7QhRvaN14BXhnFglyA7zTc3hlqTWuEILcjU3pCrd+FjOfLTdXhm8XV14UjgdLIUMxbCqe6IWjQfZQRx8Mgrpzu2opzq3N7OPoSKfavjZ9QJA7e2TOndjyJ3YyG4b9MNSYE3s5mQ0jpeURjwTeDurURRG520ufushYd9RPqBviNulRG5bay0eZ5OT5AWYTxZvI2tPs/xypw5zNTBFvOXGVz76lbpAzqVKDrA0Ih+gtOcYB2ATF8aZE3cRVTnibgDeS3sRwTj5Bin/PEMxGiRra1NCpRmrVVki0m6S74QNfFqOj3HJnfrw2tQFN+3X+XNPGK5kQewm3OVTu/E4bjmQyJ7o3gJyK+VluFwXg2LUuF+NnyeAfwVvloc+yW8253JgADzmDyW6ktZHfRo/aMlj6rUVc2JOS3tCrz8F7k5SKE9V6iyjepH0NRA2WBqtvkgZyKNuSaZxkufEFUWOOzyRhb/IhKVcj8W/ye0lcHJhNrOnk9xYERMTRrIb98CV8TgmJboB3gbxKDzCZE8Am4jbRt89fQdoShBPehhdJeq2kwN6kUA3R7mK0kp8vH3ZQk7/tapsWf6yKv3eH/tt19m9X2b/9Bp85+7fvmX/cYN5Ft/lt9h93uHdvce/dAXJz/wJ7NxFB+9dO6m5r5odm+uNnwqf3+a/uc182c583cd88YL94yH71iPv6EffLa/qXNvqLV8KnreLn3YVrnXR9X7pJk5Gr83WqTNtAqKE/3axJv9TG1fojk37bZNg2W3a7naEXpnir7vTxYFxhzL52JayuwxnTpN262dwarrobevprSFeVdcpiA3dpW23cURu31SYdsrhDlnAokhbUWdxjrPK0TZGC4q2u4QdlnKZGVNUUuqrL7dWV3trigJxTyQo6JWuoR48aY2ugTQ2MVsnrlIK5nrU0Mrp6Hj5ztbJiUIjoV9M3ipjyNjYL9oe06YFwAd5/rm9ELv42FzdwcQMXN3BxAxc38Fe4AfjMy7lyIVpArVoxX8meVI7Xz47XK6g0xwmvFcJrRbxiP4ysiC1XYmuIs6YzG7n4Gp1YpYTtDXF7PbceOV3ijhfEyCKdWkmlV5KnC/TebHFvpngyxx7NcjjppXB26Sg8m96fZiJzkfh8/HCK2RwrbI8JR5PUyVRu
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

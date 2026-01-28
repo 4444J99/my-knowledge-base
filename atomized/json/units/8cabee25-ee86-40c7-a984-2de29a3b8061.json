@@ -1,0 +1,26 @@
+{
+  "id": "8cabee25-ee86-40c7-a984-2de29a3b8061",
+  "type": "insight",
+  "timestamp": "2018-09-11T12:38:06.000Z",
+  "title": "<div>At aunt Joey’s block party, watching the bomb strikes. War look likes a com",
+  "content": "<div>At aunt Joey’s block party, watching the bomb strikes. War look likes a computer game. Civilized. </div>",
+  "context": "From document: At aunt Joey’s block party, watching the bomb strikes. War look likes…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "12333c8fb10981f253e8e905530fa394",
+  "relatedUnits": [],
+  "keywords": [
+    "aunt",
+    "joey",
+    "block",
+    "party",
+    "watching"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: fa984867-dd2a-4cba-8082-12409c0798e6
+type: insight
+created: '2017-09-01T01:01:20.000Z'
+document: c09dc023ec256edd51aef2e3615dd904
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - yueevxaor7fbnxg014i
+  - ysppo6px
+  - kdykos2nao2ifv6ff9eg96p5kmfuzaf
+  - >-
+    tumzqbykapnkusztp14pcomvxeybgr76hhi8v9s0hcgvc0o5emtautpwmtpw4dnjlfmqb0qbbselnqrfllnldwxwhjpwo2daasbvhloziy1bgbna
+  - >-
+    nzpvms9rphwxwdem2rv5nzk9epoaps1lwrqczh9fjbkkcynzutacvbprmofp9nzket5onoavdlmwtjbknfpjtqxvhvsjnzcsxdrqjxdisj93cnq0gtflunbqohzz9cg1dex6l2vciv3
+---
+# yUeeVXAoR7fBNxg014I+YSpPo6px+kdyKos2nao2IfV6fF9Eg96P5kmfUZAf++TUMZqbYKaPNkuSztp1
+
+## Context
+From document: Web Sitcom Ideas — chunk 19 (chunk 19/798)
+
+## Content
+yUeeVXAoR7fBNxg014I+YSpPo6px+kdyKos2nao2IfV6fF9Eg96P5kmfUZAf++TUMZqbYKaPNkuSztp14pcOMVxEyBgr76HHI8V9s0hcGVC0o5eMtautpwmTpW4DNjLFmqb0qbBsELnQrFllnLDwxWhjpwO2DaAsBvhlOZiY1bgbNa+NzPvMS9rpHWXwdEm2RV5nzk9epOAPs1lWRQCZH9fJBkkcYnZutacVbPRmofp9NzKet5onoAVDLmwtjbkNfPJTQxVHvSJnzCsXdRQJXdiSj93Cnq0GTFlUnbQoHZZ9Cg1dEX6L2vciV3+SEHtHKpBi2jBT7kBWp81jYuf0u7IvS+kkgUnsSrR7aIDOyc3xypziWBp2m5fuCvWUA5Lx9Qmw7Mti9BloNbUnuXicpPaiUh8TWl+5jrEUkH1HH6iNXqrtmHvGSzZlDweeP+TVSanNoy4z2pApA1U53fALgFw5XtraNt7QptJ+8QRs4nQoKW2Jh/tEw5LbDLrGDw4xLhWP0+J4sKaiGNYRR3LtRlgwewxQDrmDtb/qx5thGMS+Ma0xHWsWLd86fe3NV07/4oXPnf7JC791+txrL5y+88HHTz/42Ledfvnlr52+8sZLugGQbwGk9+1ntoBWiQxtLSOlXGe/tq826HkPcsLadxv6KecGeOr0062urrppXxaD5+YzOac12+7XjN+/v0G7tdow53rxNMrEYlTbs/UjBm/AnZLkPqZ4/DC2YeEsgzePrTWbG3CxGR07kqGEg2uXbqMjKFQ3DyW3zs08BrHssalX45l9+PBMBg7Y7n/107ryN67ba36iUOGcsIvPD1UJVmuv7lefYyvnrRVcKM4NA59/Zl7lvDM24b5k7KvfHFu6XxxbXLQzD6M/1LpMDDmqyFt7W2hvBmWMro91mAUBPpBLgw0xGJ+Cz3FYNoXh+my1VWyDWEjx5vBIJJJ1Q7LGsvXR1DfLZOg2J0ULvtq7zs2AnhuVt9rAoeS906JDwXv3wThqiq3sB2Z848+iOqHSA3ywWzF6cR2vgWUvbNMHX284p+4juEJR+w1uBhS/fBOgsb3gr9ZwIntuIDD2WvD3ezVzSDcAbtx8wHvbHb5lwBJr3UAYNw+Wmwhq3WUz8I1iYN8A+EYxv+NuBjYDm4HNwGbgjgz06WgZ+qRbshc5OPFGrsV9X1AiL3/o9In+LNhz5l8L
+
+
+
+---
+*Source: Document c09dc023ec256edd51aef2e3615dd904*

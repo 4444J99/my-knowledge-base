@@ -1,0 +1,26 @@
+{
+  "id": "5f0134f2-f1e3-4a2e-932e-ba799d6201ac",
+  "type": "insight",
+  "timestamp": "2022-12-09T23:48:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Orpheus coves classical pieces as he refuses to write new music.</div>\n<div><br></div>\n<div>Eurydice composes generative music</div>",
+  "context": "From document: Greetings, fellow beings! I am Orpheus, a fractured piece of the lone… — chunk 2 (chunk 2/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "bd1ba0da2f33a6e833aed9d184460f2d",
+  "relatedUnits": [],
+  "keywords": [
+    "music",
+    "orpheus",
+    "coves",
+    "classical",
+    "pieces"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

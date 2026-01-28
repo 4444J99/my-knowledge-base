@@ -1,0 +1,26 @@
+{
+  "id": "8dbcb702-417b-4b6f-8377-ec36c67326bc",
+  "type": "insight",
+  "timestamp": "2016-09-18T14:52:56.000Z",
+  "title": "<div>Godaddy Login - Rachel</div>",
+  "content": "<div>Godaddy Login - Rachel</div>\n<div><br></div>\n<div>apadavano</div>\n<div>Madelena1</div>",
+  "context": "From document: Godaddy Login - Rachel",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "8e8b8b1e09edc0e65566c426eb32dc1f",
+  "relatedUnits": [],
+  "keywords": [
+    "godaddy",
+    "login",
+    "rachel",
+    "apadavano",
+    "madelena1"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

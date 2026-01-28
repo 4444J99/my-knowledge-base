@@ -1,0 +1,32 @@
+---
+id: 1c70be30-95c6-4c4d-b517-c9da372d4915
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    zrtsrhkqajg8yqvhxrjphp24juwbmh2gvnaumyfppaktaj4gthntmnoqnqgufbuo8j8kmauk0x7ylz9r4fhycrrtm3nijokno3966vcf0rhzedisebub4ryknikvxkrgnjrkwntkcot619tkictugtbf2ygxozuchbdcvv0rnsavi9growzxd
+  - rb3alpnodkze51jxjlujittd3qb9yku49kq
+  - x6wi1j0yeqtfx6ihbjoj6tb3ed
+  - lfqaf4c4pq3r0dnp3rfwbu8d
+  - >-
+    u8xoyljqc4qyujxfvm82mlmbjuh9ybj4mrvumhujmoelkdbfeeu59swz1dn7me2lfbp76dzrqr1ve7ywp2corhhkxjkoac7kfvmb85uozau30xumaho7unrhmo205ajfyjfgivzgjotlacecuyregzkya
+---
+# ZRtSrHkQaJg8yqVHXrjphp24jUwBMh2GVnAumYFppAKTAJ4gthNtMNoqNqgufBuo8J8KMaUk0X7ylZ9R
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 775 (chunk 775/3262)
+
+## Content
+ZRtSrHkQaJg8yqVHXrjphp24jUwBMh2GVnAumYFppAKTAJ4gthNtMNoqNqgufBuo8J8KMaUk0X7ylZ9R4FHYcRrtm3nijOKNO3966Vcf0rHZeDISeBuB4RYKNIKvxKRgnJRkwnTkCoT619TKICTugtBf2YGXOZUCHbdcvV0RnsavI9growZXD+yzw/rb3AlPnoDkZe51JXJLujIttD3qb9yKU49Kq/x6Wi1J0yeQTFx6iHBJoj6tb3Ed+lFQaf4C4PQ3R0DNP3RFWBU8d+u8xoYljqC4QYujXFVm82mlMBJuH9Ybj4mrvumhuJMoeLkDbFeeu59swZ1dN7Me2lFBp76dZRqr1vE7YWp2cORhhKxJKoac7KFvmb85UOzAU30xuMAho7UNRHmO205aJfYjFGiVZGjOTlAceCuYReGzkya+sPeru4R/5J74HsSIe//EkWU3bei4K9B2pNQI7R0afkSBtj2mjfBM+iTiu1ZPlUetq9Q03/Q3gxQ/5et0k7omXflIpS/+ZaxFFxBFxeXdejINUotf0Q1CFoKCnYOdoMKcgqRKdPBPFPPSXWnqAKb4xXPCXUKz5Y8ST8iuQEeYakg0X53mZ7lU3udQHtxEyNknjg7LHy2/GYsP+d2ePXvgBctywoCj9H53TXStX3qAdX9j8C4vtGPVamzcI0eOpE24+6l1raBtGKdnGf/jro7j0RMM3p+CViMtggPoTyXIG6LCH2VLBZppct4q0HbEbmKiIOYI9G2mbt/kOKsLF68zFZL10LOca80U74V7dqQoz0zLugPvdkTC9IXXaX7uW6DgkbVrpE3XQJmY/s5aqWPH3mHE3ePH5sATo2nUn/Ws8KBxdnoaqzUdt540FX+J2ypD36rcoOHj3B+Ho+4/Ga/7VVORp4EnX8pjIh/p8OH8hW7sV249itJ6yiSFM9PEwZHpyxPryYeJfIzYp3BLd97jq8fVp2h3nE77Rt3lUqDMnyGti+pfVdDckOeB00ARTpeDVxVoR59n1jHi6JICFOg18L31jECvRRBTgXbUKcIdm2dep+7OnjvLpkEX2O0YpQ9BbDl0+fznPzvsf/IJNmPcyfFC64bFCK0LpH8/7cc2CN+GECKAyfsUkrmXQjvhSmGYKrds0AfNKD8QGfq335V+VSZWoBidG157/TfDn/7Zn2d9q+3Qjcv6EhW7hlziWh4JD9Vo
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

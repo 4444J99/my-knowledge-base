@@ -1,0 +1,26 @@
+{
+  "id": "95130c5e-3583-460b-ad6d-263d2fce5136",
+  "type": "insight",
+  "timestamp": "2015-05-20T16:14:35.000Z",
+  "title": "<div>Sorry to see that priest</div>",
+  "content": "<div>Sorry to see that priest</div>\n<div>Beaten</div>\n<div>I made a wish</div>",
+  "context": "From document: Sorry to see that priest",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "804986d3519e6b29303f7d666630a5a7",
+  "relatedUnits": [],
+  "keywords": [
+    "sorry",
+    "that",
+    "priest",
+    "beaten",
+    "made"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

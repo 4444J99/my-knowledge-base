@@ -1,0 +1,32 @@
+---
+id: 5ce9fbcc-c39f-462f-aae6-cf3012187e88
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - hgohue9cyc5iapujugboelupfdvsi
+  - >-
+    qiamkbnyjxrfg6ja9bpqwialgaj08manesnl1qvdwmnrowcsembpaxjo0yw12idw66oxfsuznhs6fzrseog
+  - >-
+    ohgjgokb7nzx6ag43brnrehbxxhschhcerozrziowkkdbihqqlglwvw9duokuhfdddhebarvdmtkdjtmwxjg31tuxjsa
+  - ypfdwvuhxfvttfqaqb7sgcepab8fjnrkgijrkb1kjshd
+  - ibwdbnaodtykhyy9ezvbotdiuxjlskn9l2kyx53r9gnh
+---
+# hgOHUE9CYc5iAPujUGboElupFdvSI+QiAmKBnYjXrFG6JA9BpQWIAlGAj08maneSnl1qVdWmnrOWcsEm
+
+## Context
+From document: Strike one — chunk 1040 (chunk 1040/4795)
+
+## Content
+hgOHUE9CYc5iAPujUGboElupFdvSI+QiAmKBnYjXrFG6JA9BpQWIAlGAj08maneSnl1qVdWmnrOWcsEmBPAxJo0YW12idW66OXFSUznHS6FzrSeog+ohGjgokb7nZX6aG43BRNrEHbxxHsCHHcERoZrZiowKKDbIHQQLglWVW9dUoKuhfDdDhEBARvdmTkDjTmWXjG31TUXjsa+yPfdWVuHXfVTTfQAQB7SgCEpAb8FJNRKgIjrKb1KjSHD/iBWDBnAOdTYKhYY9EZVboTdiUXjLSkn9l2kYx53r9Gnh+RBY+gP4iFQTuBeeQ3vR1XIjFJ86pa2FQSUmNHlHF0ta96Y6pq5RVU0/VEUklBzBEZlsS6C/J22x+JYzgzORaRrTdrAjSR7Ngai/cbAGKzPOA5Kj+LaQwrAOmYBdhpJA0AYfMAFi1CrW0yo6SZTrVV/qBZSQSxHRV6rVB5TnpBA8QT7TCE4usT7plwEs4D63WgB4k0hDIVg6AmFTsUhZuT/iSI5WAQAEkDcOQC5BknjbKbyaVpYW5xY1cATfYwLUcmuzMa6cs6g59m1h0jJwEorLhDpkO3KEAZ+r1rUP/+F8h4Gu+4l0enqg2dFd0nSYzENV2mW4J4gp5kFFMSkZxeG8kGm39vsbWHYGD3qZOkOgXQWpnXIeP/RV/MivCQqKkAleWvADymg9QAM9Y4Uf99ZxsFm5RwgRQzMR93GqPbk0JWo9EPJoPAF+cRATG7CUveKFhmWrW3N/eLOVdDOs3nJguxoVDjWsD6E3FOASy7qdJIC078idnxYEHUdBDyFP1mpqp0N8VmSgrqS1qhVbCkNeo2OBk7euOZWahKJ1pEG2mpGaD2EFwHYYiOuBiUuRc7sbKDltf0qEQ7iof8u2hFqSfNq3yvQbQPAbfru31LaD/ToebFuw3GSL3sWPOv8HG03HHgMKAFgElGSkjO5GbmV3hKxiPaHywaX6qRkRngHyXhmxAdnIAiyxdQ9yPl64Z+WDARLgynXILYHmLWqzFFXwnEkRrFCpaAVAh78LABUQvOuinUNcvNwZFw6kXvC2GOW5GciTr00EoKfhYxsUMG8al/oItkWlGKXnHVrXfOELBEYoxlYgzoAxrqJhHheJtk7kKOzJmXAciyFKhAubtwQci4TqVKfhHMRByDI5Kc1zcwZsmL4mqTw3hIvcGyfpXfABKt80
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

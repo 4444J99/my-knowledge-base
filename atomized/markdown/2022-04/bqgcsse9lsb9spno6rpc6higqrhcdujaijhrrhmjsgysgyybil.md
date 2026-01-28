@@ -1,0 +1,32 @@
+---
+id: 53310926-479d-4a57-b9fb-f84afe0dcc3f
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    bqgcsse9lsb9spno6rpc6higqrhcdujaijhrrhmjsgysgyybilbccaiavxlcbbpdfclat68cc2zbbo4c1zxdyx6hono9yziga2dgaoqdbqluletyjtxicmsnddyo6gr4r
+  - >-
+    9gzkyiykaogqglg3bub32u6blkwcetinjkrr9d8ctqwkkksspgocfwiqpmvshycn7jpd4pq2kves5bq0dzxd8no9t7uykwoxo8r
+  - ddqhzcwocnrjuwlwpqpxpg4biooir0zspgwl8zg2u4hg
+  - mrly8exl2zv1ijjgotuksqihavavsrm7oz872duufw6ewg7qme987dndxiwrkxnauoukbalm
+  - kbjs5fem0q2p4hmdibmjshrtnijlz9yxwoimyblawco
+---
+# BqgCsSe9lSb9sPno6RpC6higQRhCDuJAiJhrrhmjsgYSgyYBiLBCCAiAVxlCBBpDFcLAt68CC2ZbbO4c
+
+## Context
+From document: Strike one — chunk 2399 (chunk 2399/4795)
+
+## Content
+BqgCsSe9lSb9sPno6RpC6higQRhCDuJAiJhrrhmjsgYSgyYBiLBCCAiAVxlCBBpDFcLAt68CC2ZbbO4c1zXDyX6hOno9YzIGA2DgAoQdBqLuleTyJTxICMSnDdYO6Gr4r/9gZkYiykaogqglg3bUB32U6BLkwcetInJKRr9D8cTqWkkksSpGoCFwIQPMvSHyCN7jPd4pQ2KveS5BQ0dzXd8no9t7UYkWoxO8R+DdQHzCwOCnRJUWlwpQpXpG4BIooir0zSpgwL8zg2u4hg+mRlY8EXL2ZV1IjjGOTUkSqiHAvAvSrM7Oz872duUfW6EWg7Qme987dndXiWRKxnauouKbaLm+kBJS5fEm0Q2p4hmdIBMjShrtNiJlZ9yxwoiMYBLawCo+3QDiQD7hLuRGHcmaxKCzorNa/J+SLqBLSzImqCreuzKQfLExmWNF9W8TPlDE/TIiB2xUqRP6QPKEQFb/wpMSkMXvKSFmYiZiLyDjUUYRvvQq3qUmrKLsJixhsaJLKMBvq3vBSwm1tf68GXMsobneSPuzRC7eMOvOU7FBt76mXBh93MAyrOSDMuauOQgPMgBCuMQq/B3vN1Ek5JZAyq58rEIChACcGeMUkBf5ILuZ1XvEICH5U8y0tVeqh6/klD/aEDuxE7sx1ryDJjgI1JZAbn0xsJ8BaIL4Zx6C4xrrf/z8op+ZT3EPxmu9jJjNT9imNmEPZIIhiuAqRkACkiCxmODRPZr8lYvt/5n5c/203X7qjvy9OouzyPdvlFcCXv0qMp38yZ/8QxHkjW+661mmAzfdrKIGcAqbk9sq/64TK8qgDHIRe5OA/Mk/FNO/Y6tQNBfzKirAD3aBKvZgD0pTM1y8bzVg5xGc3k7bb42f/NEfk60iCnhLujfhA67T/FI4PcG0jnm37Cva+alO+sn/SdBaMq4XWCk/zcn/ugcTyDHBe8kf19WaLBdBC8xdAzDB1G2QaFU4vnP9kskfwdV6FIScXraB58n/ugcT1z0h5MgfweP7n5KPcWDAe8mfLFcK1zHBsojktMlfuWX61FIJFz6e/Ml/yJ3/XpQhGsgfymQ6PTuIK2PgSeqR/Mk/+c2e/NfetL9glTJ96cif/NOl7aH5QyohGhwgGhwgGppBGajADMif/D1eY8lPhf8x8vlhuzKaoRmawQHI3/RP8ZLInyowASIOnKW2eXd3F/op
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

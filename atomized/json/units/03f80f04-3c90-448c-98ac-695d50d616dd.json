@@ -1,0 +1,26 @@
+{
+  "id": "03f80f04-3c90-448c-98ac-695d50d616dd",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Wants to always maintain awareness of overall goals and purpose, especially when discussions become cyclical or overly detailed. They value cross-referencing and associative linking between ideas and threads. They are open to thread conventions, intro/outro formatting, and structural scaffolding to reduce confusion. They have experienced long, recursive threads with redundant loops, particularly when attempting to perfect or archive work, which they now recognize as procrastination. User has attempted to build structured systems (like RPG-themed class plans and floating_points spreadsheet tracking), but acknowledges difficulty navigating massive threads and keeping aligned. They want ChatGPT to act as a &quotchess master&quot—anticipating steps, mapping forward logic, and guiding decision-making to avoid wasted time.</div>\n<div><br></div>\n<div>Wants ChatGPT to always ask before committing information to memory, clarifying whether it should be applied universally, locally, or project-wide. User also wants ChatGPT to suggest custom instructions whenever an opportunity presents itself, and to explain the macro and micro outcomes of those instructions.</div>\n<div><br></div>",
+  "context": "From document: MEMORY_DUMP_RAW_041225_MASTER — chunk 16 (chunk 16/35)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a6c8d7ecac270c27cc9e416b39cd8866",
+  "relatedUnits": [],
+  "keywords": [
+    "they",
+    "wants",
+    "threads",
+    "chatgpt",
+    "always"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "38ab7662-e9b9-4aec-b04b-85a2bb06f838",
+  "type": "insight",
+  "timestamp": "2025-12-04T01:01:32.000Z",
+  "title": "<div>&gt Analyze the text for:</div>",
+  "content": "<div>&gt Analyze the text for:</div>\n<div>&gt  * Evidence Quality: Are claims supported by data, facts, or examples? Note where citations or proof are missing.</div>\n<div>&gt  * Argument Clarity: Is the &quotthesis&quot distinct? Are the supporting points organized hierarchically?</div>\n<div>&gt  * Persuasiveness: specific suggestions to make the rational argument harder to refute (e.g., &quotAdd a statistic here,&quot or &quotCite a case study there&quot).</div>\n<div>&gt Content to Review:</div>\n<div>&gt [INSERT CONTENT HERE]</div>\n<div>&gt </div>\n<div>Step 4: Pathos Review</div>\n<div>Purpose: Evaluate the emotional resonance and appeal to the audience.</div>\n<div>&gt Prompt:</div>\n<div>&gt Act as an Audience Psychologist and Storyteller. Your task is to conduct a &quotPathos Review&quot (Appeal to Emotion). You must evaluate how the content connects with the reader on a human level.</div>\n<div>&gt Please provide:</div>\n<div>&gt  * Emotional Profile: What is the current emotional tone (e.g., cold, urgent, inspiring, detached)?</div>\n<div>&gt  * Resonance Check: Identify specific sentences that successfully evoke emotion and those that feel robotic or flat.</div>\n<div>&gt  * Engagement Strategy: Suggest 3 specific changes (e.g., metaphors, sensory language, or personal anecdotes) to increase empathy and engagement without losing professionalism.</div>",
+  "context": "From document: Here is a complete prompt chain designed for high-performance Large… — chunk 3 (chunk 3/7)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "fe775850073f3ec2cab0d229e4f63b69",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "specific",
+    "content",
+    "review",
+    "emotional"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

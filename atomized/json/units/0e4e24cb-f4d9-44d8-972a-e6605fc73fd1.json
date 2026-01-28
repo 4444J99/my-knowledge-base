@@ -1,0 +1,26 @@
+{
+  "id": "0e4e24cb-f4d9-44d8-972a-e6605fc73fd1",
+  "type": "insight",
+  "timestamp": "2022-02-01T17:44:26.000Z",
+  "title": "<div>Made up Rape<br></div>",
+  "content": "<div>Made up Rape<br></div>\n<div>Bartlett Avenue<br></div>\n<div>Make up Rape</div>\n<div>Fake Rape</div>",
+  "context": "From document: Made up Rape",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a6e735a756a6ad58f255da4a6eb05973",
+  "relatedUnits": [],
+  "keywords": [
+    "rape",
+    "made",
+    "bartlett",
+    "avenue",
+    "make"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

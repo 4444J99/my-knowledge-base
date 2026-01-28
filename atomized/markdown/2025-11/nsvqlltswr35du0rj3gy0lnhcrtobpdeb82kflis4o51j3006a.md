@@ -1,0 +1,32 @@
+---
+id: aa5302cd-0ee1-447d-9005-1ccddd17b355
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    nsvqlltswr35du0rj3gy0lnhcrtobpdeb82kflis4o51j3006adjd1o3ldljya1lhp0l8ou0ln7dja3pywarwpysvdbcpge3jjtd3q
+  - 3eappgy
+  - gvbgjfynfggmrn3hd2g0vebf0gnjflhoqomagvbpnuyk3x11ef8bw29rl0fycw3zfhhshjwd8tz
+  - >-
+    65knpx1q3k3wvws52pybwtqulryyon2encpqafjjjtyfd4d3x0sixng1rjzlkbqexdnowuggbhmykbribxao
+  - sbksli1widaafv74sen3toiilkjvsppnoomfataxlry
+---
+# nsvqLLtsWR35Du0RJ3gy0lNHCrTObpDeB82kFLiS4O51J3006adJD1o3ldLJyA1lhP0L8ou0Ln7dja3P
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 7031 (chunk 7031/11629)
+
+## Content
+nsvqLLtsWR35Du0RJ3gy0lNHCrTObpDeB82kFLiS4O51J3006adJD1o3ldLJyA1lhP0L8ou0Ln7dja3PyWArWpysvDBcPGE3JJTd3q/3eaPPGy/GvbgJfyNfggMRn3HD2g0Vebf0gNJflhoQOMagVbpnUyk3X11Ef8BW29rL0Fycw3ZfHHshJWD8Tz/65KNPx1q3k3WvWs52PyBwTqulrYYoN2EncpqAFjJJtyfd4d3x0siXNg1rJzLkbqExdNOwuGGbhmyKbRIbXao/SBksli1WidaAfv74seN3TOiIlkJvsPpnOOmFatAXlrY+p/XSsL6hPNAcjj64+k4SsIQ9pOuIbqu6aV8I++rYRC+QVtYW9ZZ8KrK2ngiOu9KH1PkIi3H8T6p/2vHTnbYsbR1XWko0lgB3af4qg65bClkitg0+EWdtnMitsDVuRg/tflu31dYtauNo78DLAITzsm7Lui3tvnYK+uhUoSE9QG8oUjaiQYYOkfnrUZSAchJWTV49efUUOYKYmueK7riloLt3flKFpAq4ccQV6hBXWKBUI7Us3ST2y1LRz77z3IZnK+HWGKRTDQMNIsvK1r6kS7IxcyWKPLX+qYpPvW31yVYOqI1xn77r6YrPtD0uldbI9hrctoAVFL74eNrD0y5JT4K+YfQpqZnGmdhx4gMTsd7BsRDJXJ6hjsvX6saWS1sO0eOgoGKjCzv3WMqMvSg/lBqVijH2tm63aQyljCfmM0giIkYujF3reqyFZKTTT2Ht2yOfVJ9YfeJY2+MwJmhbgJgr7W08Gf3j87Ue2noo+uApg+NI/1ar9aKM2Fe304z/y39ZXge2lbb+0ePGf31yO4uilInq6dqzqx+BwLqkj6BsP+St6C6ufdjW+ckVhKD0L72OKUNbx9hoSJ7n2j7f9tkNwegUQSOLcnmIBEiABEiABEiABEiABEiABEiABEiABEiABEggxxLIlWM1z2mK6wTu7iO7Q7uP6IQ1pqpRhbA67DB1LBPpBbwCXn4Tf1188/g5K/3v3O/rYmpYzmCKFjEwOa2VhosECTG5K5O5paIfWvXQfR1j8ezgHDw7iCl3fUoMpVnHg04Ae+Z6pCyuqXPYZlfv3b13/cdUw3T81kB1kDLuUTfdpLtFvSKNi3jxg+JLxM9dWfc7o8/mghieXcRfKBXL8cKdo84VD6n+jgEsYBdob7Wn
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

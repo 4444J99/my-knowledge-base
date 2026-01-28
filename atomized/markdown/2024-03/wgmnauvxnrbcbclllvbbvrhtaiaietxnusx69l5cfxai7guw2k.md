@@ -1,0 +1,33 @@
+---
+id: 6d013712-efd1-440c-9448-42d35fa60772
+type: insight
+created: '2024-03-07T02:33:33.000Z'
+document: 27162d3685a234131532342f177d17e4
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    wgmnauvxnrbcbclllvbbvrhtaiaietxnusx69l5cfxai7guw2kcn4s5b8f5zawdbyq31lrhbh7cryisqxc5
+  - 8uuhxgtqj8xclzvsptiu5tkqtwgkijjdhse4h0v6fsd27ia1yben
+  - ohv0x2tkfc6s253kyk00eteheotcj
+  - >-
+    mwlfccxcozfuzbu3llgeyt5mgvyksf08ifrezfdlw07chq3juenz5khbi9qrkx0zvzbhbrzmf9gh1qi
+  - >-
+    ceryzjg3sa2iwv8aym0kgl1cefrffeysbycrxfdhrk4vnhmtpjjs5iwredyychwbebsxtfbwyjmki0jsshyouzbk9bdlmvvd5cuwaqzbcbvu1vexn8eig12v8jc3jg5k2xtpvf8e6fdweqdgpwxodaphe0x25cst0y
+---
+# wGmnaUvXNrbcbCLLlvbbvrhtAiaieTxnusx69L5cFxAI7GuW2KCn4S5b8f5zaWDbyq31lRhBH7CRyiSQ
+
+## Context
+From document: CC INFO BILLING: — chunk 601 (chunk 601/909)
+
+## Content
+wGmnaUvXNrbcbCLLlvbbvrhtAiaieTxnusx69L5cFxAI7GuW2KCn4S5b8f5zaWDbyq31lRhBH7CRyiSQXc5/8UuHxgTqj8XCLZvSPTiU5TkQTwgKijjDHse4h0v6fSD27Ia1YbEn+OHv0X2tkFC6S253kyk00ETEhEOtcJ/L+mWLFCcxcOzfuzbu3llGeyT5MGVYKsf08IfreZfDlw07cHQ3juENz5khBI9QrKx0ZvzbhbRZMF9gh1Qi//ceRyzjG3SA2iwV8Aym0KGL1CEFrFfEYsBYcRxFdHrk4vNHMtpJjs5IWrEDyYCHwbebsxtfbWyjmKi0JSshyoUZBK9bdLmvVD5CUWAqZbcbvu1VEXn8EIG12v8Jc3jg5k2xTpvF8E6FDweqDgpwXoDapHe0X25cSt0y/tSLsfVfWfRi0nA3PmUwHNx03ulu6UGAKq/IAsXWzEfuHw2RVEWYbat+WH36QSH/1qKGyxY+uPfJ1psMPBHiLgQ/2PWyRFTEUEKXDjEK5QIyS4qB8rV9UN+DkasAHVwabOT1DJnKAYr3iubybBl4IiVPLho3N5sd8BKndw16sAYFmYy+x6H5/3YDZai5TvZgcWuEE9spJmBIPwOSdd6op6yeT2oj0+BYNX6wb7PTKaTkBcnteDNMCisp2U0MgiBST/se8XZnZhkQ+5wR0WZO5YDjbAJxNHQSwk3/fwWsDy1x7OkDzn3vjCFrGCK2pSJkdIHk01xfisvfvO9g9YmbYwZmFdwaENY2yBY2Ek88OM40RrjpKzYEkcXxkQBg+CbJIw+826AX6G391TF/MmA03sbt/TyRbcUE7sNCUfUjpipF3/DXW9O8cvWh25HyPtHuK8BQ3UxRu4HaV0Io6UNLIYjMBLG0VVqWyqQrNO8hT9r/XkuUcUsLmv1eXCAmL8K9qXrgnqVklCgnIV41b/MyL99bRSyPILpXw6RnPWYLOmjihKPrvgeTjhlU41XfjMLVEwFe8JGtfntvFe92G5IOK0Q/UhhfCgJ5KdekhbXLpiBj66naJEzJoUOD7wVhLNkat+LdA46IKT2kEhVwLfP1LGwa/SlnHsjAIW8qN9XdPcBshjWcQ8qCIf8YEjnYsLcor4S77iTO+dJAfiASNEY/O2A7yEyOmTq98oQEHjQD1lHAxzH2ck6wwfKUH5euBmKHnEYQ/VUTQ3wbH54P84FX
+
+
+
+---
+*Source: Document 27162d3685a234131532342f177d17e4*

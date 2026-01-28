@@ -1,0 +1,26 @@
+{
+  "id": "89e3d62c-33d8-4e3a-8ca7-069e602cf8f6",
+  "type": "insight",
+  "timestamp": "2024-02-15T14:42:41.000Z",
+  "title": "<div>Central Pharmacy</div>",
+  "content": "<div>Central Pharmacy</div>\n<div>Publix Super Markets, Inc.</div>\n<div>[REDACTED:EMAIL ADDRESS]</div>\n<div> </div>\n<div> </div>\n<div> </div>",
+  "context": "From document: Hi Anthony, — chunk 7 (chunk 7/7)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "c6ab4d541165d49d2b0fbf1566701ebf",
+  "relatedUnits": [],
+  "keywords": [
+    "publix",
+    "central",
+    "pharmacy",
+    "super",
+    "markets"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

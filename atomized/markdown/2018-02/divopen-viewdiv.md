@@ -1,0 +1,40 @@
+---
+id: 8d424ff2-b293-471c-9264-8fa9d5a048a8
+type: insight
+created: '2018-02-28T14:48:35.000Z'
+document: cd607b38bbedd8cc64bfae4c4b2c15e0
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - their
+  - with
+  - each
+  - open
+  - they
+---
+# <div>Open View</div>
+
+## Context
+From document: Open View — chunk 1 (chunk 1/9)
+
+## Content
+<div>Open View</div>
+<div><br></div>
+<div>A family about to tell their kids they’re meant to be divorced receives a gift and they are then trapped in their house by their own technology and are killed one by one.  </div>
+<div><br></div>
+<div>From the gutter, a long view of a residential street experiencing the normal torrential downpour. The houses are minimal with sharp edges, a mixture metal and glass. Some of the houses have their shutters closed. </div>
+<div><br></div>
+<div>A small logo sits in the bottom corner of the screen. On the other side of the screen, a time clock. </div>
+<div><br></div>
+<div>A sleek matte car floats over a flooded street. The car pulls into a drive way. The feet of a working woman gets out and shuffles out of frame. </div>
+<div><br></div>
+<div>Open on surveillance testing system. We switch between cameras in all of the rooms—the footage is not low quality by any means, in fact its HD, and there’s a logo imprinted over top the whole frame with a low set opacity, it hovers hauntingly. A family is being watched at the evening time: a husband, wife, and their two children. The audio plays and captures the sound of the rooms in the house. They’ve wrapped up dinner and are each getting ready for their last activity before bed. We see each of them engaging with the technology in their house and not really engaging with each other. Each of the four characters open up on the screen in horizontal bars, taking up one quarter of the page each time with a new reveal. Rachel comes into the kitchen to throw away leftover boxes of takeout that litter their kitchen, she comes in pissed and annoyed that there is so much shit everywhere, the kitchen is not how she left it. Tony escapes up to the bathroom, takes his medication distributed by a machine, he sits there idly on the toilet bowl on his social media. Rocco is also in another bathroom, throwing up his meal. Brittany practices ballet before beginning to take off her clothes. </
+
+
+
+---
+*Source: Document cd607b38bbedd8cc64bfae4c4b2c15e0*

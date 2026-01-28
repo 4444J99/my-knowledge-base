@@ -1,0 +1,26 @@
+{
+  "id": "73b76ac2-300f-41b5-b3b1-5324982bdb5b",
+  "type": "insight",
+  "timestamp": "2025-12-21T15:25:07.000Z",
+  "title": "<div>Draft unique title, metadata, front matter, unique ID, &amp so forth;</div>",
+  "content": "<div>Draft unique title, metadata, front matter, unique ID, &amp so forth;</div>",
+  "context": "From document: Draft unique title, metadata, front matter, unique ID, & so forth…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "acfa0409f05b2d9ffcb35240ebb1c231",
+  "relatedUnits": [],
+  "keywords": [
+    "unique",
+    "draft",
+    "title",
+    "metadata",
+    "front"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

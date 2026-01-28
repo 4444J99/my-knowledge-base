@@ -1,0 +1,26 @@
+{
+  "id": "21423b96-9783-49b3-a526-f8ee45925a6b",
+  "type": "insight",
+  "timestamp": "2025-12-04T16:48:25.000Z",
+  "title": "<div><tt>|----------------------------|-------------|---------------------------",
+  "content": "<div><tt>|----------------------------|-------------|-----------------------------------|</tt></div>\n<div><tt>| Language Tone | Textual | LFO, Mood, Jessica |</tt></div>\n<div><tt>| Narrative Logic | Structural | RNG, Recursive Mode |</tt></div>\n<div><tt>| Color Palette | Visual | Mood, Moon Phase |</tt></div>\n<div><tt>| UI Blur/Clarity | Visual | Reverb, Anxiety |</tt></div>\n<div><tt>| Sound Texture | Audio | OSC Shape, Saturation |</tt></div>\n<div><tt>| Response Delay | Temporal | Delay Module |</tt></div>\n<div><tt>| Mood State | Emotional | RNG + Weather + AI |</tt></div>\n<div><tt>| Memory Recall Volume | Narrative | Convolution, Envelope Follower |</tt></div>\n<div><tt>| Speech Style | Linguistic | Vocoder + RNG |</tt></div>\n<div><tt>| Fusion Morphology | Structural | Pitch Shift + FM |</tt></div>\n<div><tt>| Poetic vs Literal Balance | Textual | Filter, Symbol Flow |</tt></div>\n<div><tt>| Symbol Injection Level | Semantic | Glitch, Dream Pressure |</tt></div>\n<div><tt>| Narrative Drift | Structural | Delay, Reverb |</tt></div>\n<div><tt>| Thread Brightness | Visual | LFO (Jessica/Gabe) |</tt></div>\n<div><tt>| Idea Overlap Density | Conceptual | Granulator, LFO, RNG |</tt></div>\n<div><tt>| Myth Intensity | Narrative | RNG, Glitch, Shimmer |</tt></div>",
+  "context": "From document: # synth-wave-modules — chunk 42 (chunk 42/51)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "1f0200e52addd3bec3d0beb78cca4a02",
+  "relatedUnits": [],
+  "keywords": [
+    "narrative",
+    "mood",
+    "structural",
+    "visual",
+    "delay"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

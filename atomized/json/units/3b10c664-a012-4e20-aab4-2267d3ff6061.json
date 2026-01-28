@@ -1,0 +1,26 @@
+{
+  "id": "3b10c664-a012-4e20-aab4-2267d3ff6061",
+  "type": "insight",
+  "timestamp": "2025-11-05T21:42:26.000Z",
+  "title": "<div><b>NO.</b><br></div>",
+  "content": "<div><b>NO.</b><br></div>\n<div><br></div>\n<div><h2>⬛</h2><b><h2> 13. Yelp API</h2></b></div>\n<div><h2>✔</h2><b><h2> Can be used for:</h2></b></div>\n<ul>\n<li>Pull business details</li>\n<li>Phone numbers</li>\n<li>Business categories</li>\n</ul>\n<div><h2>🔗</h2><b><h2> Website:</h2></b></div>\n<div><u>https://docs.developer.yelp.com/</u><br></div>\n<div><h2>🔑</h2><b><h2> API Key:</h2></b></div>\n<div><b>NO.</b><br></div>\n<div><br></div>\n<div><h2>⬜</h2><b><h2> 14. Google Places API</h2></b></div>\n<div><h2>✔</h2><b><h2> Used for:</h2></b></div>\n<ul>\n<li>Business phone numbers</li>\n<li>Addresses</li>\n<li>Website URLs</li>\n</ul>\n<div><h2>🔗</h2><b><h2> Website:</h2></b></div>\n<div><u>https://developers.google.com/maps/documentation/places/web-service</u><br></div>\n<div><h2>🔑</h2><b><h2> API Key:</h2></b></div>\n<div><b>YES — your Google API covers this if Places is enabled.</b><br></div>\n<div><br></div>\n<div><h2>🟦</h2><b><h2> 15. FullContact API</h2></b></div>\n<div><h2>✔</h2><b><h2> Can be used for:</h2></b></div>\n<ul>\n<li>Email enrichment</li>\n<li>Personal + business data</li>\n</ul>\n<div><h2>🔗</h2><b><h2> Website:</h2></b></div>\n<div>https://dashboard.fullcontact.com/api-ref</div>\n<div><h2>🔑</h2><b><h2> API Key:</h2></b></div>",
+  "context": "From document: data enrichment strategy for ucc-mca intelligence platform — chunk 24 (chunk 24/32)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "42efb0f415b2f324521d2959a50f91bf",
+  "relatedUnits": [],
+  "keywords": [
+    "business",
+    "website",
+    "used",
+    "https",
+    "google"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

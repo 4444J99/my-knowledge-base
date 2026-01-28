@@ -1,0 +1,26 @@
+{
+  "id": "7dfdd598-5b24-43a6-bd10-dace6d34ce60",
+  "type": "insight",
+  "timestamp": "2025-12-04T01:01:32.000Z",
+  "title": "<div>&gt Content to Review:</div>",
+  "content": "<div>&gt Content to Review:</div>\n<div>&gt [INSERT CONTENT HERE]</div>\n<div>&gt </div>\n<div>Step 5: Ethos Review</div>\n<div>Purpose: Examine credibility, authority, and trustworthiness.</div>\n<div>&gt Prompt:</div>\n<div>&gt Act as a Reputation Manager and Branding Expert. Your task is to conduct an &quotEthos Review&quot (Appeal to Authority). You must determine if the speaker/writer sounds trustworthy, credible, and authoritative.</div>\n<div>&gt Analyze the following:</div>\n<div>&gt  * Authority Markers: Does the writer demonstrate expertise? (e.g., use of correct terminology, confidence, citing sources).</div>\n<div>&gt  * Trust Factors: Is the tone honest and transparent? Does it avoid hyperbole?</div>\n<div>&gt  * Credibility Boosters: Provide specific edits to make the author sound more authoritative (e.g., &quotChange 'I think' to 'Evidence suggests'&quot).</div>\n<div>&gt Content to Review:</div>\n<div>&gt [INSERT CONTENT HERE]</div>\n<div>&gt </div>\n<div>Step 6: Identification of Blind Spots</div>\n<div>Purpose: Reveal overlooked areas or hidden assumptions.</div>\n<div>&gt Prompt:</div>\n<div>&gt Act as a Cognitive Bias Auditor. Your task is to identify &quotBlind Spots&quot in the content. Look for what is missing rather than what is present.</div>",
+  "context": "From document: Here is a complete prompt chain designed for high-performance Large… — chunk 4 (chunk 4/7)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "fe775850073f3ec2cab0d229e4f63b69",
+  "relatedUnits": [],
+  "keywords": [
+    "content",
+    "review",
+    "authority",
+    "quot",
+    "insert"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

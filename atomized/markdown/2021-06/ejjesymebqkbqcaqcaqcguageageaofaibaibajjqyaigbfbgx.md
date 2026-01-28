@@ -1,0 +1,32 @@
+---
+id: 1d50a20f-bed8-4bbc-ab47-bd57f4a19f07
+type: insight
+created: '2021-06-24T19:10:13.000Z'
+document: b5de64ea907b6e44ec94b342683f3041
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    ejjesymebqkbqcaqcaqcguageageaofaibaibajjqyaigbfbgxcobakbqcaqcaqcguageageaofaibaibkyxgsaepndsomebqcaqcaqcguageageaofaibaibakbwngqcejgbndghqobqcaqcaqcgucgqocpf
+  - xjuuaaa9lc3fzxp
+  - gdcaqcguageageakszgsaelviaxo0dguageageaoh5jscpf
+  - >-
+    zjtpnmm6ett946xxvttfp9cep5aofaibaibakbmuegciexdnxnn988hqvgjqobqcaqcaqcgdld4k9
+  - ws64iad0llnnzv
+---
+# EJjesYmeBQKBQCAQCAQCgUAgEAgEAoFAIBAIBAJjQyAIgbFBGxcOBAKBQCAQCAQCgUAgEAgEAoFAIBAI
+
+## Context
+From document: TODAY FEELS LIKE A REAL BAD GO — chunk 30 (chunk 30/940)
+
+## Content
+EJjesYmeBQKBQCAQCAQCgUAgEAgEAoFAIBAIBAJjQyAIgbFBGxcOBAKBQCAQCAQCgUAgEAgEAoFAIBAIBKYXgSAEpndsomeBQCAQCAQCgUAgEAgEAoFAIBAIBAKBwNgQCEJgbNDGhQOBQCAQCAQCgUCgQOCPf/xjuuaaa9Lc3Fzxp/gdCAQCgUAgEAgEAksZgSAElvIAxO0DgUAgEAgEAoH5jsCPf/zjtPnmm6ett946XXvttfP9ceP5AoFAIBAIBAKBmUEgCIExDNXNN988hqvGJQOBQCAQCAQCgdlD4K9//Ws64IAD0llnnZV+9rOfJZEC0QKBQCAQCAQCgUBgOhC4zXR0Y3704rLLLksnnnhiuuKKK9KiRYvSq171qrTccstN3cPdeOON6U53ulNaZpllpq5v0aFAIBAIBAKB+YXAV7/61fSVr3wlrbLKKulWt7pVusMd7jC/HjCeJhAIBAKBQCAQmGEEghBoafAuueSStOOOO6aLLrooLb/88ukb3/hGNriFR05Lu+mmm9IxxxyTvvzlL6d99903Pfaxj52WrkU/AoFAIBAIBOYhAn/729/SKaeckm5729umF7/4xenPf/5zuuc97zkPnzQeKRAIBAKBQCAQmE0EImWghXFjaO+zzz7pwgsvTHvssUc66aST0l3vetccLTAtoZGXXnpp2m677dLee++dll122XTnO9+5hSePSwQCk0HgH//4R7r++utz9M3ll1+ebrnllsncOO4SCAQCjRD47ne/m84+++y09tprp1122SW9733vy/tjo4vGlwOBQCAQCAQCgUCgNQQiQqAFKD/zmc8kIZEve9nL0vbbb59ud7vbpSc96UnpzDPPzAbM3e9+9xbuUu8S//73v9NnP/vZtP/+++fqzkiBN77xjele97pXvQvGtwKBMSOgAvl1112XfvKTnySRN3KOr7766kwI/OUvf8nhxkceeWR68pOfPOaexOUnjcB5552XfvrTn6aNN944R1pN+v5xv3YR+L//+7/0+c9/Pv3zn/9ML3rRi9Jd7nKXdm8QVwsEAoFAIBAIBAKBxggEIdAQQobL0UcfnVZcccXFZIBLPv7xj8+KEOX2iU98YsO71Pu6Ss6HHnpoThN44AMfmI466qj03Oc+N4du1rtifCsQGB8CvP4XXHBB+uQnP5m++c1vZgLrP//5T7r3ve+d7ne/
+
+
+
+---
+*Source: Document b5de64ea907b6e44ec94b342683f3041*

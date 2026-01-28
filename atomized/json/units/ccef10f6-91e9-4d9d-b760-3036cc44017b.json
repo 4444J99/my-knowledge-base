@@ -1,0 +1,26 @@
+{
+  "id": "ccef10f6-91e9-4d9d-b760-3036cc44017b",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div>- Neovim error stems from a config or plugin trying to `require('vscode')` ",
+  "content": "<div>- Neovim error stems from a config or plugin trying to `require('vscode')` outside the VS Code shim; that’s a configuration guard issue, not binary damage.</div>\n<div><br></div>\n<div>**Current Heavy Extensions (Top Size Drivers)**</div>\n<div>- `openai.chatgpt` ~316M</div>\n<div>- `google.geminicodeassist` ~258M</div>\n<div>- `vscjava.migrate-java-to-azure` ~238M</div>\n<div>- `ms-windows-ai-studio.windows-ai-studio` ~167M</div>\n<div>- Pylance duplicated directories (~87–90M each; prune older)</div>\n<div>- Copilot + Copilot Chat (73M + 57M) — dual AI stack</div>\n<div>- Gemini + ChatGPT + Copilot + Windows AI Studio: four AI-related code assistants concurrently</div>\n<div>- Cosmetic layers have been reduced already (Peacock, APC, animations, dynamic base16 removed); vibrant transparency is retained with one provider.</div>\n<div><br></div>\n<div>**Why This Matters**</div>\n<div>Multiple AI assistants and large language toolchains load background processes, increase activation events, and raise memory usage. Combined with vibrancy (extra compositing) and Neovim (embedded RPC bridge), intermittent lag or errors can appear, misread as “corruption.”</div>\n<div><br></div>\n<div>**Actions You Can Take Entirely Inside VS Code (No External Script Needed)**</div>",
+  "context": "From document: User: fix — chunk 29 (chunk 29/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "code",
+    "windows",
+    "studio",
+    "copilot",
+    "neovim"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

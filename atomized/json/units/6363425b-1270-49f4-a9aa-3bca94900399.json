@@ -1,0 +1,26 @@
+{
+  "id": "6363425b-1270-49f4-a9aa-3bca94900399",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>1. **tensorflow** (Fork)</div>\n<div>   - End-to-end ML platform</div>\n<div>   - **Purpose:** Study ML/neural network implementations</div>\n<div><br></div>\n<div>2. **codex** (Fork)</div>\n<div>   - Rust-based code processing</div>\n<div>   - **Purpose:** Code analysis and automation study</div>\n<div><br></div>\n<div>3. **semgrep** (Fork)</div>\n<div>   - Static analysis tool</div>\n<div>   - **Purpose:** Security and code pattern detection study</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **💬 AI Interaction &amp Exporting**</div>\n<div><br></div>\n<div>4. **chatgpt-exporter** (TypeScript)</div>\n<div>   - Export ChatGPT conversations</div>\n<div>   - API integration, conversation processing</div>\n<div>   - **Purpose:** Extract AI context layer (Layer 1!)</div>\n<div>   - **Critical:** This is your bridge from AI Brains → Code</div>\n<div><br></div>\n<div>5. **terminal-ai**</div>\n<div>   - Terminal-based AI interaction</div>\n<div>   - E2E testing, assistants API</div>\n<div>   - **Purpose:** CLI AI workflows</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **📚 Knowledge &amp Documentation Systems**</div>\n<div><br></div>\n<div>6. **schemaorg** (HTML/Fork)</div>",
+  "context": "From document: Contents_Table — chunk 47 (chunk 47/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "purpose",
+    "fork",
+    "code",
+    "study",
+    "based"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

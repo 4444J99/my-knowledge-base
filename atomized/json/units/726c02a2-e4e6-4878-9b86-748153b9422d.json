@@ -1,0 +1,26 @@
+{
+  "id": "726c02a2-e4e6-4878-9b86-748153b9422d",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div>```</div>",
+  "content": "<div>```</div>\n<div>(Use exact IDs from your extension list; some IDs may differ.)</div>\n<div><br></div>\n<div>**If You Want Mild Transparency (Optional Later)**</div>\n<div>- Reinstall only `vscode-vibrancy` after confirming stability.</div>\n<div>- Keep Mica/frosted glass disabled unless you specifically need window blur.</div>\n<div><br></div>\n<div>**Performance Verification Steps**</div>\n<div>1. Launch with core profile: `code-insiders --profile &quotCore Dev&quot`</div>\n<div>2. Open Developer Tools; confirm no recurring CSS/DOM mutation warnings.</div>\n<div>3. Measure renderer process memory (Activity Monitor) before/after removals (expect drop vs animations + vibrancy stack).</div>\n<div>4. Run a large file scroll test; confirm no frame stutter.</div>\n<div><br></div>\n<div>**Quick Rollback**</div>\n<div>- Keep a JSON copy of old settings as `settings-appearance-legacy.json`.</div>\n<div>- If new minimal set feels off, re-add one extension at a time (start with Peacock if accent insufficient).</div>\n<div><br></div>\n<div>**Next Options**</div>\n<div>- I can generate two full profile settings files (Core vs Cosmetic) if you’d like.</div>\n<div>- I can scan your saved extension list file and produce a risk vs necessity matrix.</div>",
+  "context": "From document: User: fix — chunk 20 (chunk 20/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "extension",
+    "profile",
+    "settings",
+    "your",
+    "list"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

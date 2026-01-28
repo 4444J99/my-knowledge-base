@@ -1,0 +1,26 @@
+{
+  "id": "133f7a86-65af-4e62-895b-f16c2cf5e679",
+  "type": "insight",
+  "timestamp": "2023-09-11T13:46:13.000Z",
+  "title": "<div>11. Continuous Integration/Continuous Deployment (CI/CD)</div>",
+  "content": "<div>11. Continuous Integration/Continuous Deployment (CI/CD)</div>\n<div>12. Secure Coding Practices</div>\n<div>13. Performance Optimization</div>\n<div>14. Server Management and Deployment</div>\n<div>15. Cloud Services (AWS, Azure, GCP)</div>\n<div>16. Containerization (Docker)</div>\n<div>17. Understanding of HTTP/HTTPS and APIs</div>\n<div>18. Code Review and Optimization</div>\n<div>19. Familiarity with Agile Development</div>\n<div>20. Basic Graphic Design</div>\n<div><br></div>\n<div>### UX/UI Professional:</div>\n<div>1. Wireframing</div>\n<div>2. Prototyping</div>\n<div>3. User Research</div>\n<div>4. Interaction Design</div>\n<div>5. Information Architecture</div>\n<div>6. Usability Testing</div>\n<div>7. Visual Design</div>\n<div>8. Graphic Design</div>\n<div>9. Color Theory</div>\n<div>10. Typography</div>\n<div>11. Design Tools (Sketch, Adobe XD, Figma)</div>\n<div>12. HTML/CSS/JavaScript</div>\n<div>13. Responsive Design</div>\n<div>14. Accessibility Standards (WCAG)</div>\n<div>15. User Persona Creation</div>\n<div>16. Analytics and User Feedback</div>\n<div>17. A/B Testing</div>\n<div>18. Design Thinking</div>\n<div>19. Content Strategy</div>\n<div>20. Understanding of Front-end Development</div>",
+  "context": "From document: Content Creator — chunk 5 (chunk 5/7)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1f33ef350089aaa7d596588dd916b49a",
+  "relatedUnits": [],
+  "keywords": [
+    "design",
+    "user",
+    "continuous",
+    "deployment",
+    "optimization"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

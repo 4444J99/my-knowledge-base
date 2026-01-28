@@ -1,0 +1,26 @@
+{
+  "id": "8127bd52-4d5e-4556-b147-06423c506a85",
+  "type": "insight",
+  "timestamp": "2024-01-21T23:05:37.000Z",
+  "title": "<div>Left behind a summer </div>",
+  "content": "<div>Left behind a summer </div>\n<div>cubic mint, </div>\n<div>sat sill</div>\n<div><br></div>\n<div>(ignored). </div>\n<div><br></div>\n<div>The charm collected dust,</div>\n<div>not your ghost;</div>\n<div>by Fall,</div>\n<div><br></div>\n<div>swallowed. </div>\n<div><br></div>\n<div>Snow blush on my pill—oh,</div>\n<div>this again!</div>\n<div>Amen,</div>\n<div><br></div>\n<div>my son.</div>\n<div><br></div>\n<div>A boy; can't help but ask:</div>\n<div>you’ll be back</div>\n<div>two-more</div>\n<div><br></div>\n<div>at least?</div>",
+  "context": "From document: Left behind a summer",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "4533323adbd9e29d57bcf1e683a3b3cb",
+  "relatedUnits": [],
+  "keywords": [
+    "left",
+    "behind",
+    "summer",
+    "cubic",
+    "mint"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

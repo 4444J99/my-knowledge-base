@@ -1,0 +1,26 @@
+{
+  "id": "35ce9474-9418-40a5-89af-c8f64fd9dfc6",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants to begin an in-depth artist analysis on James Joyce using the ARTIST_ANALYSIS_PROTOCOL v1.0. The long-term goal is to develop algorithms, functions, formulas, and code blocks based on Joyce’s work, similar to past artist threads.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Is interested in protocols and models for creating in public, especially monetizing or commodifying the creative process transparently. They referenced Mark Normand discussing a 'script-to-stage' series idea on Theo Vaughn’s podcast (April 2025), noting its alignment with their own goals of showing process, building in public, and turning iterations into shareable or salable content.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_051425_MASTER — chunk 6 (chunk 6/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "5e4feb3febe2be13a91fd74e828ebc64",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

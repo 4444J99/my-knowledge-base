@@ -1,0 +1,26 @@
+{
+  "id": "71fb4af6-6b25-446e-84dd-817871893dac",
+  "type": "insight",
+  "timestamp": "2023-11-27T20:43:45.000Z",
+  "title": "<div>   - Custom email template design</div>",
+  "content": "<div>   - Custom email template design</div>\n<div>   - Email list segmentation</div>\n<div>   - Email automation and drip campaigns</div>\n<div>   - A/B testing and analytics</div>\n<div><br></div>\n<div>7. **Branding and Design**:</div>\n<div>   - Brand identity development (logos, color schemes)</div>\n<div>   - Marketing collateral design (brochures, business cards)</div>\n<div>   - UI/UX design for web and mobile apps</div>\n<div>   - Interactive web design elements</div>\n<div><br></div>\n<div>8. **Analytics and Reporting**:</div>\n<div>   - Web analytics setup and management (Google Analytics)</div>\n<div>   - Conversion rate optimization (CRO)</div>\n<div>   - User behavior analysis</div>\n<div>   - Custom reporting dashboards</div>\n<div><br></div>\n<div>9. **Marketing Automation**:</div>\n<div>   - CRM integration and management</div>\n<div>   - Lead nurturing workflows</div>\n<div>   - Marketing automation strategy and implementation</div>\n<div><br></div>\n<div>10. **E-commerce Solutions**:</div>\n<div>    - Online store setup and management</div>\n<div>    - Shopping cart optimization</div>\n<div>    - Product feed management</div>\n<div>    - Marketplace integration (Amazon, eBay, etc.)</div>",
+  "context": "From document: To provide an exhaustive and extensive list of the services your digital… — chunk 3 (chunk 3/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "8917dc32c2900f137b20bcd5ecc4a272",
+  "relatedUnits": [],
+  "keywords": [
+    "design",
+    "analytics",
+    "management",
+    "email",
+    "automation"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

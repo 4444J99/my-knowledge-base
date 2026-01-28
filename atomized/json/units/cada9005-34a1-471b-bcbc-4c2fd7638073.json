@@ -1,0 +1,24 @@
+{
+  "id": "cada9005-34a1-471b-bcbc-4c2fd7638073",
+  "type": "insight",
+  "timestamp": "2022-11-26T01:44:56.000Z",
+  "title": "<div>Miss</div>",
+  "content": "<div>Miss</div>\n<div>Classic</div>\n<div>Romance</div>",
+  "context": "From document: Miss",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "01b1d895899327295c52b2a163507919",
+  "relatedUnits": [],
+  "keywords": [
+    "miss",
+    "classic",
+    "romance"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

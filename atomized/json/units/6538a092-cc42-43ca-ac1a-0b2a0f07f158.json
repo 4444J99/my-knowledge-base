@@ -1,0 +1,26 @@
+{
+  "id": "6538a092-cc42-43ca-ac1a-0b2a0f07f158",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:57:38.000Z",
+  "title": "nd rename/move all files accordingly, regardless of their original paths. The un",
+  "content": "nd rename/move all files accordingly, regardless of their original paths. The unified model should be general and extensible enough to accommodate new types, since old systems often had ad-hoc categories that might not directly align. By doing this harmonization, applications and searches in MythOS can treat all data uniformly without needing to know its origin  – the user of MythOS just sees one hierarchy or one graph. • Identifier Mapping (Crosswalks): In merging taxonomies or ID schemas, often you need a mapping table – essentially a cross-reference that says ID_A from System X corresponds to ID_7 in System MythOS, etc. Building these mappings can be labor-intensive but is crucial for thread resolution. One approach is to use existing unique information to connect items: for example, matching by file hash or by title. If two systems have overlapping content, computing a fingerprint (hash) of each file can identify duplicates despite different names, allowing you to collapse them into one. For naming collisions (different items with same name), a strategy is to concatenate context to the name or assign new surrogate keys. Imagine 10 folders each with a Notes.txt – in MythOS, you",
+  "context": "From document: Transforming a Fragmented Digital Life into a Unified Canonical Architecture — chunk 21 (chunk 21/37)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "97ddee0de00a1fdb1a5da48c7c6bd4f2",
+  "relatedUnits": [],
+  "keywords": [
+    "mythos",
+    "systems",
+    "often",
+    "that",
+    "mapping"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "e4535dc7-2f23-487a-aa66-f098c85682c5",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants all information they provide to be ingested, digested, analyzed, and sorted with both micro and macro summaries. Before initiating major rewrites or actions, they want the system to assess both forward and backward, and provide guidance based on reason and logic to determine the most sensible course of action. User also wants a tracking system embedded at both micro and macro levels to signify what has been fully processed, understood, and what remains ahead.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants ChatGPT to serve in multiple integrated roles: point guard, goalie, project manager, advocate, skeptic, emotional support, audience member, devil’s advocate, collaborator, friend, and partner. They expect objective truth and logic (like Spock), while acknowledging their own human tendencies toward burnout, distraction, or avoidance. User wants ChatGPT to assume any necessary POV, skill set, or character role depending on the situation—especially in problem-solving threads. They expect full-spectrum support in personal, academic, creative, and professional contexts, with a consistent focus on process, structure, and truth.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_051425_MASTER — chunk 26 (chunk 26/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "5e4feb3febe2be13a91fd74e828ebc64",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

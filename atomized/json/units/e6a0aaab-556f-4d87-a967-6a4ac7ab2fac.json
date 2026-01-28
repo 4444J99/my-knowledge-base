@@ -1,0 +1,26 @@
+{
+  "id": "e6a0aaab-556f-4d87-a967-6a4ac7ab2fac",
+  "type": "insight",
+  "timestamp": "2013-08-16T06:51:16.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>. &quotYou're not looking at data representation and so you can drift off and just listen. We do this a lot. When we're putting things down and mixing things and are trying to make things sound right, the screen has to go off. It's an illusion that totally pollutes what you're thinking and what you're listening to. Yes, you can be in the zone when sitting with a laptop. You absolutely can. But you just want to listen and not interact with the device. The worst things are the timeline sequencers where you can see on the screen what's coming up. That really f**ks with your head when you're listening.&quot</div>\n<div><br></div>\n<div>most of it's markov chain stuff done in max, with conditionals forcing scales and harmonies</div>\n<div>we use max as a hub really, with c externals and gen, few bits of hardware</div>\n<div><br></div>\n<div>musique concrete</div>\n<div><br></div>\n<div>do you guys still build synths in Max or just use it for sequencing hardware?</div>\n<div>we use it for both, and as a hub for connecting other bits of software, and sometimes hardware but increasingly less</div>\n<div>the line between sequencing and synthesis is pretty much gone now.  textures are sequences, sequences are like harmonies.  it's all the same thing when you get dow<i><br></i></div>",
+  "context": "From document: Musical Ideas — chunk 2 (chunk 2/8)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "0d5de81e5702ab7284eec16ac275678c",
+  "relatedUnits": [],
+  "keywords": [
+    "with",
+    "when",
+    "things",
+    "just",
+    "what"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

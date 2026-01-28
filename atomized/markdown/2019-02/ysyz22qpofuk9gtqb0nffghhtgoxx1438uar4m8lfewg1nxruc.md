@@ -1,0 +1,31 @@
+---
+id: 74d09327-a226-49fa-b4d9-c2391f6ba0f9
+type: insight
+created: '2019-02-16T23:05:18.000Z'
+document: c6c8d9d6deda1d081d973fac56d652c6
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ysyz22qpofuk9gtqb0nffghht
+  - x1438uar4m8lfewg
+  - 1nxrucwsrcwgoizrm5keuuyz7zuxc7azygduqk
+  - >-
+    z6aciiszt9a0bv3ui9jv7e9e0fy5hbkkhifn5xck7twedzxqbp0uuuafffmlljhjeazxhhgczmxwfa5jjpqcgb9futo1lttxs01dsbqk9tzc7jyhwsntpiogukhbbb561doakkkkaciiigaooooakkyna8qad4asm1pxhqvtpvmpwzruziiwt2lyed9aoehpgvg3xhhjl4s16w1tivvty3uvyf
+  - pizsuadnrrrqauuuuaffz0ur6tdquojzxsed
+---
+# ysYZ22qpOFUk9gTQB0NFfGHhT/goX+x1438UaR4M8LfEWG+1nXruCwsrcWGoIZrm5kEUUYZ7ZUXc7AZY
+
+## Context
+From document: Compressor Cheat Sheet — chunk 572 (chunk 572/1529)
+
+## Content
+ysYZ22qpOFUk9gTQB0NFfGHhT/goX+x1438UaR4M8LfEWG+1nXruCwsrcWGoIZrm5kEUUYZ7ZUXc7AZYgDuQK+z6ACiiszT9a0bV3uI9Jv7e9e0fy5hBKkhifn5XCk7TweDzxQBp0UUUAFFFMlljhjeaZxHHGCzMxwFA5JJPQCgB9FUtO1LTtXs01DSbqK9tZc7JYHWSNtpIOGUkHBBB561doAKKKKACiiigAooooAKKyNa8QaD4asm1PxHqVtpVmpwZruZIIwT2LyED9aoeHPGvg3xhHJL4S16w1tIvvtY3UVyF+piZsUAdNRRRQAUUUUAFFZ0ur6TDqUOjzXsEd/cKXjt2kUTOgzllQncQMHJA7GtGgAor4j1n/AIKOfsXeH9YvtB1j4lQ29/ps8ttcRHT9RYxzQsUdcrakHDAjIJHoa+ydE1nTPEejWHiHRZhc6fqlvFdW0oDKJIZ0DxthgGG5SDggH1FAGnRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQB5P8ev+SGfEX/sXNX/APSOWvj3/gln/wAmp2n/AGGNR/8AQkr7C+PX/JDPiL/2Lmr/APpHLXx7/wAEs/8Ak1O0/wCwxqP/AKElAH6NUUUUAFFFFABRRRQAUUUUAFFFFABRRRQB/9P9/KKKKACiiigAooooAKKKKACiiigAooooAKKKKAPyN0z/AJS5at/2AV/9NsNfrlX5G6Z/yly1b/sAr/6bYa/XKgAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAPxc/Y0/5SO/H3/d17/08W9ftHX4ufsaf8pHfj7/ALuvf+ni3r9o6ACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooo
+
+
+
+---
+*Source: Document c6c8d9d6deda1d081d973fac56d652c6*

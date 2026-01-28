@@ -1,0 +1,31 @@
+---
+id: e60c23d2-325b-46fe-b2bd-2b23a67457a2
+type: insight
+created: '2025-03-13T23:47:48.000Z'
+document: 3b2e4f3759d2535cf9a91dec728a8fbc
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 2nvjjzfuxhvxxrfdhrdegh7zm9
+  - unpdaahkqgaqkiaejseacepbauxnqiw1xdzjxdk
+  - >-
+    99ups6nrrrrdopfxuqncimhluuohccsecehd1ffdbb6tjrh111hd77bc3vehhgggemp6jj54i9913x3tzfe6558luu08dzplllrd66qvhbbxqbjssq3pffvdeay3kmngbj5tssjdvvfofmwaakwywwqzhzdhhlc3h2wef7tlvdz111olpx3jhhdiuhx56kfqftznllddwwgn1kqdrmwkefftrwidpppkmrh9ofmusxffcc0946623qnnhhnvsbom6wqb358ceeyw8
+  - vjj4dtvvw1zzz13je5mhok55pqrwl6jnx
+  - hsssui
+---
+# 2nvJJZfUXHvxxRfDhRdeGH7zm9/UnPdAAhKQgAQkIAEJSEACEpBAuxNQIW1xDzJXdK+99upS6nrrrRdO
+
+## Context
+From document: Squarespace, ChatGPT, GoDaddy Expenses — chunk 487 (chunk 487/2268)
+
+## Content
+2nvJJZfUXHvxxRfDhRdeGH7zm9/UnPdAAhKQgAQkIAEJSEACEpBAuxNQIW1xDzJXdK+99upS6nrrrRdOPfXUQNCiMhluuOHCCSecEHD1ffDBB6tJRh111HD77bc3VEhHGGGEmP6JJ54I9913X3Tzfe6558LUU08dZplllrD66qvHbbXQBjssQ3PFFVdEay3KMNGBJ5tssjDVVFOFmWaaKWywwQZhzDHHLC3h2Wef7TLvdZ111olpX3jhhdiuhx56KFqFTznllDDWWGN1KQdrMWkeffTRWIdpppkmRh9OFmUsxffcc0946623qnnHHnvsboM6wQb358ceeyw8/vjj4dtvvw1zzz13jE5MhOK55pqrWl6jnX//+9/hsssui/308ssvh//9739hiimmiKzhzKCDIgEJSEACEpCABCQgAQk0R8Aou81xajrVscceGw4++OCa9KONNlpU1CaeeOKa82UH77//fvjDH/4QZp999qgsoVCONNJI1aRlUXYJgoSyddhhh4WyoMmjjDJK2G+//cL2228fUHzL5LvvvgtnnHFGoP7UoZ6wRA3uyNtss00X5RqFe88996zJ+sknn0S3Y5S4vNx5551h3nnnrZ765ptvwgEHHBBOO+200jaQ8Oc//3m46KKLwlZbbRVuu+22at5ZZ501PPDAA9Xj/A7rve69997h/PPPz5/uso/ifOKJJwb6qkxee+212G6W3Wkk1OXkk0+uaVuj9F6TgAQkIAEJSEACEpDAUCaghbTFvZ9XlFLRKFDNKKOkn3DCCcPRRx+dsja1Peigg8K//vWvumlR9vbdd984DxVFskx23nnnbpU28jEvFgUPxRcFNy/Fea4owii4RWWUPFhfk0L6+uuvh7XXXjvOpc2XV9y///77w1JLLRXGGGOMmkv1rM5YWjfffPNA+d0JVmGsqLhHF5fbQalea621Albn7uSpp54Ka6yxRrjhhhviHOHu0ntdAhKQgAQkIAEJSEACQ5lAuf/oUCbSh7Z//fXXMQBRsYjVVluteKqlx42U0fyNjjrqqECgpKJgdS2zIE400URhpZVWiq6txTyHHHJIwEW3keDOSroyQSFNgjKMq26Z4LKcVzhfeeWV8OSTT9YkLSrCXKSdG2+8cRdlFDfmlVdeObaLAFN5QZlkmZ7vv/8+fzq6YBeV0UkmmSQq0euuu25gPy8EqmJO
+
+
+
+---
+*Source: Document 3b2e4f3759d2535cf9a91dec728a8fbc*

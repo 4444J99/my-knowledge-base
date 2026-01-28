@@ -1,0 +1,26 @@
+{
+  "id": "a53acf75-cd0c-41d2-8b79-670d89acf564",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "|</tt></div>",
+  "content": "|</tt></div>\n<div><tt>|**Bias Mitigation**|Pre-deployment fairness audits, continuous monitoring",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 29 (chunk 29/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "bias",
+    "mitigation",
+    "deployment",
+    "fairness",
+    "audits"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

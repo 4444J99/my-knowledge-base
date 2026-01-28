@@ -1,0 +1,25 @@
+{
+  "id": "6d61f3e8-a7a3-4a13-aeb3-ff0ac836ff4a",
+  "type": "insight",
+  "timestamp": "2022-12-27T14:22:04.000Z",
+  "title": "<div>Writers, rockstars, and filmmakers are of the past. </div>",
+  "content": "<div>Writers, rockstars, and filmmakers are of the past. </div>",
+  "context": "From document: Writers, rockstars, and filmmakers are of the past.",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "e38ba854f11d01d64318ff47dac4ba7c",
+  "relatedUnits": [],
+  "keywords": [
+    "writers",
+    "rockstars",
+    "filmmakers",
+    "past"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

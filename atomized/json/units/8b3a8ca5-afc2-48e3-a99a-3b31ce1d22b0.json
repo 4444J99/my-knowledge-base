@@ -1,0 +1,26 @@
+{
+  "id": "8b3a8ca5-afc2-48e3-a99a-3b31ce1d22b0",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:18:05.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Below is a complete checklist to set up your GitHub organization, repositories, projects, issues, actions, and more. This checklist assumes you're creating an organization from scratch and setting up repositories within it.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **1. Create and Configure the Organization**</div>\n<div>- [ ] Create a new organization:</div>\n<div>  - Go to **GitHub** &gt **Your Profile** &gt **Organizations** &gt **New Organization**.</div>\n<div>  - Choose a plan (Free, Team, Enterprise).</div>\n<div>  - Provide organization name and billing email.</div>\n<div>- [ ] Add members to the organization:</div>\n<div>  - Invite team members with appropriate roles (Owner, Member).</div>\n<div>  - Set up teams for better access management.</div>\n<div>- [ ] Configure organization settings:</div>\n<div>  - Set up a **profile picture** and **description**.</div>\n<div>  - Add a **website link** if applicable.</div>\n<div>  - Configure **audit log** and **security settings**.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **2. Create Repositories**</div>\n<div>- [ ] Create repositories for your projects:</div>\n<div>  - Click **New Repository** within the organization.</div>",
+  "context": "From document: full best practices house keeping; — chunk 15 (chunk 15/24)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "3e83484e9c334693cb3ed7e0779f00e5",
+  "relatedUnits": [],
+  "keywords": [
+    "organization",
+    "repositories",
+    "create",
+    "your",
+    "configure"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

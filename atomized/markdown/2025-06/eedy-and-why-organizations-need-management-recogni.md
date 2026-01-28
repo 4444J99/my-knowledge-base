@@ -1,0 +1,31 @@
+---
+id: 66dd8dbe-dd3a-49f4-8470-0bbd1c3a99f2
+type: insight
+created: '2025-06-26T17:15:56.000Z'
+document: 87215f26527a3ddd27752e0848e7ba23
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - simple
+  - rules
+  - entropy
+  - complexity
+  - yield
+---
+# eedy, and why organizations need management. Recognizing entropy leads to concep
+
+## Context
+From document: 🧵 Meta-Laws of Reality — chunk 76 (chunk 76/79)
+
+## Content
+eedy, and why organizations need management. Recognizing entropy leads to concepts of maintenance and sustainability as cross-domain needs – you must keep putting in effort to uphold structure (be it a building, a relationship, or a body of law).</div>
+<div>  •  Emergence and Complexity from Simplicity: Many principles show that simple rules can yield complex outcomes. Mendel’s simple genetic rules lead to the incredible diversity of life. Newton’s laws (simple equations) can predict complex planetary motions. A few binary logic laws allow building of all mathematics and computing. In games, a few rules create vast possibility spaces (e.g., chess has finite moves yet practically infinite strategic complexity). Cellular automata (like Conway’s Game of Life) show how very simple local rules can generate amazingly intricate patterns. Economies emerge from myriad individuals following simple incentives (supply-demand). This meta-pattern is bottom-up complexity – the law of emergence. It complements the top-down idea of “as above, so below”: instead of macro mirroring micro, here micro interactions produce macro behavior. It’s seen in ant colonies (simple individual behaviors yield intelligent colony), neural networks (simple neurons yield consciousness), etc. The notion of self-organization is key: thermodynamics allows pockets of decreased entropy (order) at the expense of greater entropy elsewhere – life and emergent structures exp
+
+
+
+---
+*Source: Document 87215f26527a3ddd27752e0848e7ba23*

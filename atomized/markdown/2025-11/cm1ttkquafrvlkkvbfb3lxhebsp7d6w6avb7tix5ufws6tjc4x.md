@@ -1,0 +1,32 @@
+---
+id: 7838539a-031e-4a47-ad94-ba02440ec02d
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - cm1tt
+  - kquafrvlkkvbfb3lxhebsp7d6w6
+  - >-
+    avb7tix5ufws6tjc4xvqurw6vvk4dohnrpmfzz02bscf7ju4pyamr6tpk0npsecdtdpslpo9h7k0bfv7bbudzzcd4txbyfswobasgmjxn7qfrbm2mwx6rupj5fykftcd
+  - veg3sw630bfmgb7jsqsjtqsiu53pz
+  - >-
+    exl4vle8svdqch4iy3j2icvfg4zc8jbot8ch4z7ex1cdgehaioayeaq8ah4bbwcdgehaioayeaq8ah4bbwcgwcarj1eqwrzsu8dcsfbd9a4wvfxxbm25fd5xcltdibrx
+---
+# Cm1Tt+KQuAFrvlkKvbFb3lXhebsP7D6w6+AVb7tix5UfWs6tjC4XVqurw6vVk4dOHnrpMFZz02bScF7j
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 8472 (chunk 8472/11629)
+
+## Content
+Cm1Tt+KQuAFrvlkKvbFb3lXhebsP7D6w6+AVb7tix5UfWs6tjC4XVqurw6vVk4dOHnrpMFZz02bScF7ju4pYaMr6tPk0nPSecdTDpSlPO9H7K0Bfv7bbuDzZCd4txByfswoBaSGmjXN7qFrbm2Mwx6ruPJ5fykftCd/VEG3SW630Bfmgb7JSQsjtqSIU53Pz++eXl4vLE8sVdqcH4iY3j2icVfg4Zc8jBOT8ch4Z7Ex1CDgEHAIOAYeAQ8Ah4BBwCDgEHAIOAYeAQ8Ah4BBwCGwcArJ1eQWrZSu8DCsfbD9A4WVfxXbm25fD5XCltDiBRX/lkysUxNXNvg5/47R0khwCnifL/xiJ3FoVwesrIRSqOQo7R3f27TixnMfG+4dWKivTyyPG9wGfHXx07D1xKGoEGri6dTYQQ+jS/Hxec24hTq7gsRbou0XaJbNbVgdyYbH92TKjxgVkuBfX4BVPXPHElY9vO7Lt6Pb84giF+SkK8lwJbT/NW5hjf3JJIdd3vG6bdTSubqSia45arm5RgcpMam3c2m6NxnkRFye3DCjmk9oXHqSo4jEJaV94O0qV31kRDzqg4Hd7Y/jGWyw8BLzLohIOHkfI7zy488DOAzKE0YkBbZDpzws8nZFnFoHs4zOPk+YkKvEzq7mTfmYRkJaTpgPGO4x57nAIOAQcAg4Bh4BDwCHgEHAIOAQcAg4Bh4BDwCHgEOgAAV7wZ2blZAnf5bdejvd2by1sKWw5sjK6OrkyskBh2LgbaU7G70CgK+oQ6AgB44+jNout9imwYzbckkPI7zhKgb0jeCUsBXd0hID4pzpiQYX7O+aQiYFxgHXL9SUDY5cgyGRAGpE9Ud7W5Di7GcNdfRQu23LZ45fdtlJcKS0/sDqxMrE6fvrm058/fbNxH9KbuD1yQlYnPVkXblzxeH7Epy4njmtwJHejD69lwq0NQ8gNHuDbbWOeVqvnVzpajLiwG21vXkFbqaCF4X+sL6RgHOHc9rDOu7JayXsIVXqrfNnfM4pQnZuisOxREHo35J9fjWrDrLVHYC3azm0+Ptv0mlsn8eZyO+HsyjoEHAIOgfYQ6N2I154+rpRDwCHgEHAIOAQcAg4Bh4BD4FxCwM0DnEu16WzpFgK0NCog/0UuED/IJQMUVkdX4UpcHlleWx6fuRmekJtp6aHZlTTolnDHxyHQJgLsPSl75Wo5
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

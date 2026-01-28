@@ -1,0 +1,35 @@
+---
+id: d4cb92df-d558-42d5-9cae-d54a248668ac
+type: insight
+created: '2023-03-20T14:53:15.000Z'
+document: 6e91d04f1e3b85993d2aac65042b0ab9
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: programming
+keywords:
+  - subsidiaries
+  - information
+  - equal
+  - teammates
+  - recruitment
+---
+# <div> </div>
+
+## Context
+From document: Nursing students are applying to a job (job posting attached). — chunk 3 (chunk 3/4)
+
+## Content
+<div> </div>
+<div>EEO Statement:</div>
+<div>All UHS subsidiaries are committed to providing an environment of mutual respect where equal employment opportunities are available to all applicants and teammates. UHS subsidiaries are equal opportunity employers and as such, openly support and fully commit to recruitment, selection, placement, promotion and compensation of individuals without regard to race, color, religion, age, sex (including pregnancy, gender identity, and sexual orientation), genetic information, national origin, disability status, protected veteran status or any other characteristic protected by federal, state or local laws. We believe that diversity and inclusion among our teammates is critical to our success.</div>
+<div> </div>
+<div>Notice:</div>
+<div>At UHS and all subsidiaries, our Human Resources departments and recruiters are here to help prospective candidates with matching skillset and experience with the best possible career at UHS and our subsidiaries. We take pride in creating a highly efficient and best in class candidate experience. During the recruitment process, no recruiter or employee will request financial or personal information (Social Security Number, credit card or bank information, etc.) from you via email. The recruiters will not email you from a public webmail client like Hotmail, or Gmail.</div>
+
+
+
+---
+*Source: Document 6e91d04f1e3b85993d2aac65042b0ab9*

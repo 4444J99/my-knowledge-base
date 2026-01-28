@@ -1,0 +1,26 @@
+{
+  "id": "d957d4d1-f9a1-456d-a324-fe77799b1a4c",
+  "type": "insight",
+  "timestamp": "2025-12-21T15:20:09.000Z",
+  "title": "<div>- What was the decision logic for promotion?</div>",
+  "content": "<div>- What was the decision logic for promotion?</div>\n<div>- How do you track lineage?</div>\n<div><br></div>\n<div>**Org Repos ↔ AI Brains:**</div>\n<div>- Your AI conversations now reference your code</div>\n<div>- But there's no feedback loop to capture new insights back into repos</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **Consolidation Strategy: The Three-Layer Integration**</div>\n<div><br></div>\n<div>### **Phase 1: Harvest the Seeds (AI Knowledge Extraction)**</div>\n<div><br></div>\n<div>Create a system to capture and structure your AI conversations:</div>\n<div><br></div>\n<div>**What to Build:**</div>\n<div>- **`ai-context-extractor`** - Tool to:</div>\n<div>  - Export ChatGPT/Claude conversations</div>\n<div>  - Parse and categorize by topic/project</div>\n<div>  - Extract code snippets, ideas, decisions</div>\n<div>  - Tag with timestamps and intent</div>\n<div><br></div>\n<div>- **`seed-bank`** repository - A structured store for:</div>\n<div>  - Conversation exports</div>\n<div>  - Extracted concepts</div>\n<div>  - Unimplemented ideas</div>\n<div>  - Evolution timeline of thoughts</div>\n<div><br></div>\n<div>### **Phase 2: Map the Lineage (Cross-Layer Tracking)**</div>",
+  "context": "From document: ## **The Complete Architecture - Three Layers Revealed** — chunk 3 (chunk 3/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1af7be2a2fd28b6d6d9d99f3c9081883",
+  "relatedUnits": [],
+  "keywords": [
+    "your",
+    "conversations",
+    "what",
+    "lineage",
+    "repos"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,45 @@
+---
+id: 9ad19dca-9c2f-42f4-84ef-a05ae6096a5a
+type: insight
+created: '2019-05-14T15:09:06.000Z'
+document: 17bbf2974d25bc9b1dba304d917b369d
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: programming
+keywords:
+  - will
+  - have
+  - parts
+  - means
+  - tried
+---
+# <div><br></div>
+
+## Context
+From document: Welcome to ENC1102. My name is Anthony Padavano, and I will be your… — chunk 2 (chunk 2/3)
+
+## Content
+<div><br></div>
+<div>I grade all assignments [that are not parts of the Research Paper (or its smaller parts)] on a scale of 1 through 3.</div>
+<div><br></div>
+<div>3 means you tried, and I can tell you tried by the product you submit. 2 means you didn't try as hard as you could have. And 1...well, we know what a 1 is. We all have 1 days, but don't always be a 1 person, okay? And if you are: come talk to me. A 0 is a nothing, a nada, etc. Only 0 people can help themselves. </div>
+<div><br></div>
+<div>Also, don't plagiarize, the internet knows, and BB knows, and I will know, and then I decide to whether or not i have to report you to the PBSC MAN and they will put a permanent mark on your record (probably).</div>
+<div><br></div>
+<div>Finally, the class will have two main parts (or two main movements if you’re musically inclined): the first 9-weeks of the course will be dedicated to reading and working with the <i>EAA</i> textbook; the last 6 weeks will be dedicated to completing WA1-5.</div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div>Participated in 48 Hour Film Festival.</div>
+<div>Conceptualized the story and wrote the script as head-writer with a small team of writers.</div>
+
+
+
+---
+*Source: Document 17bbf2974d25bc9b1dba304d917b369d*

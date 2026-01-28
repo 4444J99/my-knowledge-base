@@ -1,0 +1,26 @@
+{
+  "id": "ca52d37b-f795-4928-9c21-dc5af47e6470",
+  "type": "insight",
+  "timestamp": "2025-10-31T05:18:03.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>I'll examine the current PR to understand what's been done and provide suggestions for folding in semantic versioning and other improvements.Let me get the actual file content to see what's currently in the COMMANDMENTS.md:Looking at the PR and the `COMMANDMENTS.md` file, here are some suggestions to strengthen the principles document by folding in semantic versioning concepts and other enhancements:</div>\n<div><br></div>\n<div>## 1. **Fold in Semantic Versioning (SemVer)**</div>\n<div><br></div>\n<div>Add a new principle under the TensorFlow section addressing versioning practices:</div>\n<div><br></div>\n<div>**New Principle (e.g., #12a):** &quotSemantic Versioning&quot</div>\n<div>- Follow semantic versioning (MAJOR.MINOR.PATCH) for all organizational releases and breaking changes</div>\n<div>- MAJOR version for incompatible changes requiring migration</div>\n<div>- MINOR version for backward-compatible additions</div>\n<div>- PATCH version for bug fixes and non-breaking improvements</div>\n<div>- Document version history and migration guides for all MAJOR releases</div>\n<div>- This directly supports the &quotBackward Compatibility&quot principle (currently #11)</div>",
+  "context": "From document: :Based on the pull request at https://github.com/ivi374forivi/petasum… — chunk 16 (chunk 16/19)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "340e0116e55214c41c8027f95c1fba8f",
+  "relatedUnits": [],
+  "keywords": [
+    "versioning",
+    "semantic",
+    "version",
+    "principle",
+    "major"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

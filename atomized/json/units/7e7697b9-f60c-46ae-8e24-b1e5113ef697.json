@@ -1,0 +1,26 @@
+{
+  "id": "7e7697b9-f60c-46ae-8e24-b1e5113ef697",
+  "type": "insight",
+  "timestamp": "2018-07-17T10:06:11.000Z",
+  "title": "<div>Going to sleep is like getting onto a tiny rowboat from the shore. Slowly b",
+  "content": "<div>Going to sleep is like getting onto a tiny rowboat from the shore. Slowly breaking through the choppy rough waves into an island of a dream. </div>\n<div><br></div>\n<div>The only key to writing is getting the reader to turn the page. </div>",
+  "context": "From document: Going to sleep is like getting onto a tiny rowboat from the shore…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "951f2862fed20d9674739d210865ac65",
+  "relatedUnits": [],
+  "keywords": [
+    "getting",
+    "going",
+    "sleep",
+    "like",
+    "onto"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

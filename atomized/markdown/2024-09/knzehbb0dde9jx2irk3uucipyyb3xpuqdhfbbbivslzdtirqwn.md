@@ -1,0 +1,32 @@
+---
+id: 1beec22b-804d-4fb9-a3f5-03fe7dae643c
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - nzehbb0dde9jx2
+  - rk3uucipyyb3xp
+  - >-
+    uqdhfbbbivslzdtirqwng89oiffxqmjz9t4kzsiomgty2tecsoqi7xys7d5ftsu7zsptr3wbghodo4n7vargjv5djb1jkmvhden9rxh8e0myc
+  - uemsh5flodpqrldvo3k0alnkomo93p8pv9u2admdibrb3vbce3cv
+  - >-
+    9xpyyevclvdasowyptyeqil3x8f2es6zoyvmec8zofd81xzuaww5drycsxy8dnmywr3cqnbdv8gxqjrwz0unu0l4n71ajuphzdikp3v3pw1djk
+---
+# K/NzehBB0dde9jx2/i/rk3uUCipyYb3XP+UqDhFbBBIvsLZdTiRQwNg89oiFfxqmjz9T4kzsIoMgTY2T
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 2238 (chunk 2238/11534)
+
+## Content
+K/NzehBB0dde9jx2/i/rk3uUCipyYb3XP+UqDhFbBBIvsLZdTiRQwNg89oiFfxqmjz9T4kzsIoMgTY2TeCsOqi7Xys7D5FTsU7ZsPTR3wbgHOdO4N7vArGjv5DjB1JkmVHDEN9Rxh8e0MYc/ueMSH5FloDPQRlDVO3K0alnkOMO93P8Pv9U2aDmDIbRB3vbce3CV/9xPYyEvCLVdasOWYptyeQil3X8f2Es6ZOYvmEC8zOfd81xzUaww5dRYCsXY8DNMyWr3CQNbDV8gxqjRwz0UnU0L4n71aJupHzdIKP3V3Pw1DJk/MXogP5fugBLSQ1/93oY78qJyL7lOo99O87OzzlzP7iIy5yM0z9dW6iYkeDS3BPracY+VkPMJSRTgN9/9FiE4tU3y1Y02ItIKpkUU64HlgDyxK9u2u4Ci+NAbMKXyWx4mpgDysWgqMSMcXwOk8hcwl54Td1qbm0/kQXnUshfzz/67ab5k+LDwEFsj5x79H7rgkQn/mTcDpbChii2UbIf3ivp4vkGJ2iXCAugySx1Nmqq22lh4RrmAmW4eLGMKlErjIJ9ikXjCH0hg8ghUZInCMxuMqk2RHGN8GT1WOildxMdSntvI+hg3vEZWOItYEyk4r3uSTMxWN+3NZoY1Jgx2MI1bEeG3AUdotpLU5GuNU8udHzy8fhx5mBcixf3+gDRs3TxgBoe2+o/RAN/7l4jO/xnTKctcC+81aurx5Hb0GQjtyaQa3xaOvsf5kw2XjCUsItyMmhFkdb47GFDrg8zGVjnjlmsvHdbCva997hAjBE4jDxLxJKYEqQL8UfWi8vdQJWLiHjtr+Nx0Pg62JSDR5DmA8qeCTB2xjcBN0QiUN61rtc588ShOQgk/AjLD0Qa2XKSw0yYxA1wfQZjjFnmWMVeOo5//yv6Jw681th+AyJH+SQ/L91JGOK8CmkinVnQciZ+z84mYAJn2u8GR2bGf0f4Eo39+/1rKkXGydjFcKMvcF4LQ0YhgwObI2MP28nkoH5M1wM4wQOnm3lx5lsjOTxHk+vcjvdTFqm9djio5mQTCtD1xBrQvdVJiH3uHjMk8eQnbx3WSvVbayOqM+dUsjWb6Nr1iwwDONNjEq9T1c6GUEdIXO8UeJp4516XtopQELeooFVvBHT9C8sfED/Ub6GhMSr+5dcNv5bvAcG+Z9JyKweZSYVM5mZm3vY92
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

@@ -1,0 +1,32 @@
+---
+id: ee299de6-2d11-46a1-8bed-e191242d83ba
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    e1kninekzin0om1ymbjiaekaasqajiaakgassabjaaekacsaajiaek8hmj4cr5zvfbu1enxegh3ehvnfxf7vfofw9ucjvxwntwp4a9fcvk40kgbsffk9qmnwe
+  - a0h49
+  - >-
+    ly0caoknbgzpor8lhuqeefucudilvlakavieo1qitfjtpjs9pknaskoshmqgc8rapownkimdorp3vyh8vxv4g2kz2o4m0yz6zn3tkumpkgcwrzha4hfbycfnflcxn1retojt
+  - ceciy2ng8tsuo6q0kzzvc9veqpakoifief012amhi
+  - pxltqpwmhomyqm6fivaya30mbessfwjxhd2tfrnuopyvcjx1tzxt8szmg7xjwynh
+---
+# bYD/lE3/e1kNiNEkZiN0oM1yMBJIAEkAASQAJIAAkgASSABJAAEkACSAAJIAEk8HMj4CR5zvFBu1ENXE
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 2415 (chunk 2415/11534)
+
+## Content
+bYD/lE3/e1kNiNEkZiN0oM1yMBJIAEkAASQAJIAAkgASSABJAAEkACSAAJIAEk8HMj4CR5zvFBu1ENXEGh3ehvnfXf7VfOFW9UcjvXwnTWP4a9fcvK40kGbSffK9qmNWE/A0H49/LY0caOKnbGzpor8lhUqEEFUcuDilvlakAViEo1qItFjTpjS9pKNaSKOShMqGc8rApoWNkimdorp3VyH8vxV4g2kZ2o4m0yz6zn3TKUMPkgcWRzha4hfbycFnFLcXN1rETOjT+ceCiy2ng8TsuO6Q0kzzvC9vEqPakOiFIeF012amhI/pxlTqpWmhOMyQM6FIVayA30MBesSFWJXHd2tFRnuopYvcjX1TzXt8SzMG7xjWyNH+J9C8l50szztZJNophNkAOcR0FUZ8TbWETnk92kga7nx9Sr/Dx/2njO2sH/aDwSqbbldXZgkyggKd6l7pMyogrtuGGLl0jQzyX6vLTESisum8Ua1zjZz7NNqFtco4foAbJe7qFhyX0NJMtMM3brBmqSQ3IHeZHMcN0T/6OrUi5zzYnC1SttNk1qk+gUTVzIMp1nhcwlgaWeIlVOTHWSXlHFwlRDBGK7e5mjgZNjiJ2xI4OT+2RV/LdfDTBY/02/S+8n7dzZOT+Gj/M/6h4u00/lh+QjNqAjJCEO8qe9H7KD/I/xT1U3v9d7SY+ph+NfqL/wZwKX6btkTfAr8bGq51+Tz+Qu9jX/XDbSr+3I5P38K/WpjIiv7GjkEvElf4stjn6uzounXKCZH4h+Qo7RO70f0BZxf+QDIlVm9DP5Jh1U/1FPfTPXRWI3Sg+J3SgxXI8EkAASQAJIAAkgASSABJAAEkACSAAJIAEkgASQwM+TgJPS+dtIXKcOcS+D9hmHdjUxZ95Z893qFier6+/jis6TYiLrq9/dDznzM5LHoA/7WXJ/tTx2ZqDvZQXKjiHWEH9sRxLbItmuW2wLY1seE6hhXKqqbQVWLCu0naSah3UfLSUVpI+WsLDuYRB5HCWQ2vqULZXrRJ8d61sj+hhUTR4iEDvbyzN9mb5dYr53ZiQz+qKoIVuYpDvELtlOdiqTn2BbdLE6KmtpdqKHCF7Mx8g+XkqmaBPnPoj6zY5ACuiQb1hYmkeHZZMuY/22YK4Tx9U20cB30ApeKHK984wnA9tkiZgXG+eHSJEco/t5njWlGkUhG2d2fLBvkh
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

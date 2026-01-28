@@ -1,0 +1,26 @@
+{
+  "id": "106293b1-5eff-465b-af09-0fe2167b7cf7",
+  "type": "insight",
+  "timestamp": "2025-03-11T00:05:21.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Once you upload the student submissions, I’ll begin reviewing them based on this rubric. Let me know if you’d like any adjustments to the grading criteria!</div>",
+  "context": "From document: I have reviewed the Directions for the Technical Instructions Assignment… — chunk 4 (chunk 4/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "dd803e7337f22569dbf88b1ec678862d",
+  "relatedUnits": [],
+  "keywords": [
+    "once",
+    "upload",
+    "student",
+    "submissions",
+    "begin"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: 12bd22fb-15c8-4f0e-a57a-45cb6014ec3d
+type: insight
+created: '2021-06-24T19:10:13.000Z'
+document: b5de64ea907b6e44ec94b342683f3041
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - o402ghhn41nopx2wvzbncserdtnaau1p
+  - >-
+    b0izar4ki1tcnlvz4vby54xtoy9vjwr2nqorkr5jhfbua4zh0nrofxuu4tllrkkhyhpnqov7rz2zcwm
+  - z3rihba7pyrancav8k71owqxcvd0vrl4o8k7i0jh2gr73ed47ltm
+  - kzc7nianfs11xztyommg
+  - >-
+    ru2kvsafz77bbblu86u1vgvq4dr1errgoqgeeqegu9cjd6rtb7vgpheolii09x53e2pb891rj3ec6frkijszyrjwbx6iu582bl4x
+---
+# o402Ghhn41nopX2wvZBncsERDtnAau1P/B0IZAR4KI1tCnLVZ4vBY54xtoY9vjwr2nQORKR5jHFBUa4z
+
+## Context
+From document: TODAY FEELS LIKE A REAL BAD GO — chunk 82 (chunk 82/940)
+
+## Content
+o402Ghhn41nopX2wvZBncsERDtnAau1P/B0IZAR4KI1tCnLVZ4vBY54xtoY9vjwr2nQORKR5jHFBUa4zH0nROfXUU4tLLrkkhYHPnQoV7rZ2ZCwm/Z3RihBA7pYRAnCAv8K71oWqxCVD0vrL4O8k7i0jh2GR73Ed47lTm/kzc7NIANFS11xzTYoMMG/ru2KvSAFz77bbblu86U1vGvq4dR1errGOqGeEQEGU9CJd6rTb7VgpHeolII09X53E2PB891rj3Ec6FRKIjsZYRJwbX6IU582bl4x/kSNzpsgihIHaBQz7uoJwMLbqkjgiRJAQ9IBcQNA9Mq+YUxCi3cT5eOuRXVXnxm5tVf1cnzw/zlmXEIDrd77znYQzIsMzhuRlsNOFXHNdgTuSR5SHsSPqw2fuw9ypOXUUY7Zun+P4QGAUCAQhMAqU285hUhbij8m3xVHZgsvbbRK0yG6++eYLtMQ4ls/t98KqJ1E5dE2uz2JiIbAYdlKkYaSgIsaeMUBOPPHEVO3XQi5CYByEh4Jibwzo12te85pa3aLYCAdVA4EHvR9CwCJKGbAIWqj9Dd+q3pPWDtuW8JBDDknXIiT3bW97W8pnVZBrEIXD/bSFkvsvCkH1cZ4xZAOlTCqBPocEAu0IIASMZR5DBlQVYSwwwIypYY8r87w5jKKOlFQ4zzxGMa+SY434O//88xPpRinmCWYAIjxmuzAYGGzmRcZ7mcAOESOcumoxVPeOUWy+riLDIAOsbwwVkX8iAszRwv8RomussUaKMnGt1nzj25pnvmxK6rTN4L7sssvSuG6t9N9U3xBCogMQa9aLbtEReWyUEQLG0jHHHJNC8d0DRqeoQlE91lyRnJ7X1nM4v7EBI/e+DlZ5ve1FZLVi5xwXX3xxIioOOuige1MDnFfUn+/1qZvoq+cl6wDdjhvm57A0t7pHrdiVnUM/pcR4BtTpQPplwtZcShcU5aNGBsdEGbEKE+keHBbXT6Vr0SNENGrPXKBws7QfER/ueV3Souw64rtAYCYhEITANNwtrLLtfBg1wr3KxGIkrcCip3psrrquDZ5TxqW9lykKkygmfoytBQKDS5GWA9eJ/LAoWvjz4i/E06TPcB6X2go8J8Ip9YthO2fKy1BXhGKeeeaZyXvUT1QIxQF++kJBgheMGSj9iN/yUsFbCKMtCqVp5NzGftrMv1EJ2RZO
+
+
+
+---
+*Source: Document b5de64ea907b6e44ec94b342683f3041*

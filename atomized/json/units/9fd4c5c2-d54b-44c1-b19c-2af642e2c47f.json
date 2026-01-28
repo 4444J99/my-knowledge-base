@@ -1,0 +1,26 @@
+{
+  "id": "9fd4c5c2-d54b-44c1-b19c-2af642e2c47f",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>25. **os01** – Book: Writing an OS from scratch</div>\n<div>26. **TempleOS** – Final TempleOS snapshot</div>\n<div><br></div>\n<div>**Purpose:** Study OS fundamentals, system-level programming</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **🎨 Creative Coding, Audio &amp Interactive Media (3 repos)**</div>\n<div><br></div>\n<div>27. **p5.js** – Creative coding JavaScript platform</div>\n<div>28. **maxmsp** – RunwayML + Max/MSP integration</div>\n<div>29. **SoundJS** – JavaScript audio library</div>\n<div><br></div>\n<div>**Purpose:** Creative/generative coding, audio processing, multimedia</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **🔍 Static Analysis, Schema &amp Scalability (3 repos)**</div>\n<div><br></div>\n<div>30. **schemorg** – Schema.org vocabularies</div>\n<div>31. **semgrep** – Static analysis tool</div>\n<div>32. **awesome-scalability** – Scalability patterns</div>\n<div><br></div>\n<div>**Purpose:** Code analysis, structured data, distributed systems study</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **🎮 Games &amp Interactive Projects (2 repos)**</div>\n<div><br></div>\n<div>33. **pokerogue** – Browser-based Pokémon roguelike</div>",
+  "context": "From document: Contents_Table — chunk 59 (chunk 59/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "purpose",
+    "creative",
+    "coding",
+    "audio",
+    "repos"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

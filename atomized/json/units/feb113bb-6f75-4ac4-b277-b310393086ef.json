@@ -1,0 +1,26 @@
+{
+  "id": "feb113bb-6f75-4ac4-b277-b310393086ef",
+  "type": "insight",
+  "timestamp": "2025-12-11T22:37:24.000Z",
+  "title": "</td></tr>",
+  "content": "</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><font face=\".AppleSystemUIFontMonospaced-Regular\"><span style=\"font-size: 12px\">Creative Capital</span></font></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><font face=\".AppleSystemUIFontMonospaced-Regular\"><span style=\"font-size: 12px\">$15,000–$30,000</span></font></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><font face=\".AppleSystemUIFontMonospaced-Regular\"><span style=\"font-size: 12px\">Awarded May 2026; funded June 2026</span></font></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><font face=\".AppleSystemUIFontMonospaced-Regular\"><span style=\"font-size: 12px\">High (9/10 fit; 15-20% acceptance rate)</span></font></div>\n</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><font face=\".AppleSystemUIFontMonospaced-Regular\"><span style=\"font-size: 12px\">Thoughtworks Arts</span></font></div>",
+  "context": "From document: Chris, — chunk 16 (chunk 16/26)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "4da601776fe2a536037bde47b9f74920",
+  "relatedUnits": [],
+  "keywords": [
+    "style",
+    "border",
+    "font",
+    "width",
+    "span"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

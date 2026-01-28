@@ -1,0 +1,31 @@
+---
+id: 2950ab05-5e00-46a5-a459-649060d2b0fb
+type: insight
+created: '2025-09-24T16:17:19.000Z'
+document: 3b7ed7bb58200a92f5ed11f1461af071
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    aqiecbagqiaaaqoahybagaabagqiecbagaabagqiecbagaabakeba0cwvjeiecbagaabagqiecbagaabagqiecbagiabwa8qiecaaaecbagqiecaaaecbagqiecaaigggaegwkpibagqiecaaaecbagqiecaaaecbagqiedaaoahcbagqiaaaqiecbagqiaaaqiecbagqibaumaaecxvjaiecbagqiaaaqiecbagqiaaaqiecbagyadwawqiecbagaabagqiecbagaabagqiecbaichgaaiwkhibagqiecbagaabagqiecbagaabagqiedaa
+  - >-
+    aecbagqiecaaaecbagqiecaaaecbagqibaumaaesxwjaaecbagqiecaaaecbagqiecaaaecbagyapwaaqiecbagqiaaaqiecbagqiaaaqiecbaichgagqwkriaaaqiecbagqiaaaqiecbagqiaaaqiedab
+  - >-
+    gaabagqiecbagaabagqiecbagaabagqibaumamfsrsjagaabagqiecbagaabagqiecbagaabahf3dwx8cpka2waaaabjru5erkjggg
+---
+# AQIECBAgQIAAAQOAHyBAgAABAgQIECBAgAABAgQIECBAgAABAkEBA0CwVJEIECBAgAABAgQIECBAgAAB
+
+## Context
+From document: Yuri — chunk 9 (chunk 9/9)
+
+## Content
+AQIECBAgQIAAAQOAHyBAgAABAgQIECBAgAABAgQIECBAgAABAkEBA0CwVJEIECBAgAABAgQIECBAgAABAgQIECBAgIABwA8QIECAAAECBAgQIECAAAECBAgQIECAAIGggAEgWKpIBAgQIECAAAECBAgQIECAAAECBAgQIEDAAOAHCBAgQIAAAQIECBAgQIAAAQIECBAgQIBAUMAAECxVJAIECBAgQIAAAQIECBAgQIAAAQIECBAgYADwAwQIECBAgAABAgQIECBAgAABAgQIECBAIChgAAiWKhIBAgQIECBAgAABAgQIECBAgAABAgQIEDAA+AECBAgQIECAAAECBAgQIECAAAECBAgQIBAUMAAESxWJAAECBAgQIECAAAECBAgQIECAAAECBAgYAPwAAQIECBAgQIAAAQIECBAgQIAAAQIECBAIChgAgqWKRIAAAQIECBAgQIAAAQIECBAgQIAAAQIEDAB+gAABAgQIECBAgAABAgQIECBAgAABAgQIBAUMAMFSRSJAgAABAgQIECBAgAABAgQIECBAgAABAhf3dwX8CpKa2wAAAABJRU5ErkJggg=="/><br></div>
+
+
+
+---
+*Source: Document 3b7ed7bb58200a92f5ed11f1461af071*

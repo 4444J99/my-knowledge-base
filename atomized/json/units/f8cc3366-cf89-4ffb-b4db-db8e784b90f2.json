@@ -1,0 +1,26 @@
+{
+  "id": "f8cc3366-cf89-4ffb-b4db-db8e784b90f2",
+  "type": "insight",
+  "timestamp": "2025-04-07T19:44:36.000Z",
+  "title": "<div>   - List every named object, concept, alias, symbol, structure, or rule me",
+  "content": "<div>   - List every named object, concept, alias, symbol, structure, or rule mentioned here</div>\n<div>   - These go into the master `symbolbank`, `namebank`, or `structurebank`</div>\n<div>   - Include notes on style, version, origin, use-case</div>\n<div><br></div>\n<div>5. 🧱 FRAMEWORK + STRUCTURE EXTRACTION  </div>\n<div>   - Pull any structural rules, rituals, file systems, workflows, naming conventions</div>\n<div>   - Route these to `01_PROMPT_Library/`, `gpt_exports/`, or `master_index`</div>\n<div><br></div>\n<div>6. 🗂 ARCHIVE ROUTING  </div>\n<div>   - Suggest filename + folder path inside `_ARCHIVE_ROOT_2025/`</div>\n<div>   - Classify: `active_sandbox`, `cold_storage`, `final_export`, or `discarded_ritual_log`</div>\n<div>   - Status: active | archived | deprecated | absorbed</div>\n<div><br></div>\n<div>7. 🧾 EXPORTABLE OUTPUT  </div>\n<div>   - Provide a Markdown `.md` or `.txt` file with clean structure</div>\n<div>   - Include metadata block:  </div>\n<div>     ```</div>\n<div>     ---</div>\n<div>     title: [Thread Title or Function]</div>\n<div>     first_date: [Earliest message date]</div>\n<div>     version: v1.0</div>\n<div>     status: [active, archived, deprecated, etc.]</div>",
+  "context": "From document: 🧠 THREAD MINING PROMPT (v2): — chunk 2 (chunk 2/3)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "7e9f7b41efe24197d20ad7be7c8f2840",
+  "relatedUnits": [],
+  "keywords": [
+    "structure",
+    "these",
+    "include",
+    "version",
+    "file"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

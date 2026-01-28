@@ -1,0 +1,26 @@
+{
+  "id": "22e24cdf-54ff-4c58-aed1-3d85f9c1756d",
+  "type": "insight",
+  "timestamp": "2025-12-21T15:20:23.000Z",
+  "title": "<div>provide repo description (&lt350characters) &amp copilot prompt (&lt500 cha",
+  "content": "<div>provide repo description (&lt350characters) &amp copilot prompt (&lt500 characters);</div>",
+  "context": "From document: provide repo description (<350characters) & copilot prompt (<500 characters…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "ae13cd74225883d7b273b47881e236b5",
+  "relatedUnits": [],
+  "keywords": [
+    "provide",
+    "repo",
+    "description",
+    "lt350characters",
+    "copilot"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

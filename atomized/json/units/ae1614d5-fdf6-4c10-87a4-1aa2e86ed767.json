@@ -1,0 +1,26 @@
+{
+  "id": "ae1614d5-fdf6-4c10-87a4-1aa2e86ed767",
+  "type": "insight",
+  "timestamp": "2022-12-12T23:58:06.000Z",
+  "title": "<div>What college degree would you like to get?</div>",
+  "content": "<div>What college degree would you like to get?</div>\n<div>What side hustle would you be interested in starting?<br></div>\n<div><br></div>\n<div>Hobbies:</div>\n<div>What music instrument do you want to get good at?</div>\n<div>What kinds of things would you like to collect?</div>\n<div>What have you always wanted to try?</div>\n<div>What would you like to get good at?</div>",
+  "context": "From document: Five-Year Plan — chunk 2 (chunk 2/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "c498e445c5841bb134abb1ac5ad2ec91",
+  "relatedUnits": [],
+  "keywords": [
+    "what",
+    "would",
+    "like",
+    "good",
+    "college"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

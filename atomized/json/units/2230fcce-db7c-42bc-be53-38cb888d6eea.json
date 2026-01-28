@@ -1,0 +1,26 @@
+{
+  "id": "2230fcce-db7c-42bc-be53-38cb888d6eea",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:56.000Z",
+  "title": "<div>  0.  Preamble and Scope</div>",
+  "content": "<div>  0.  Preamble and Scope</div>\n<div><br></div>\n<div>This document is the master specification for a unified, self-evolving creative-operating-system. It defines conceptual layers, directory and naming structures, procedural generation flows, and automation patterns that turn individual AI runs into contributions to a single, long-lived corpus. It is written so a future AI, given only this text plus environment variables, can reconstruct the system and extend it.</div>\n<div><br></div>\n<div>All paths and identifiers here are conceptual and use environment-variable placeholders such as $OS_ROOT, $ARCHIVE_ROOT, $PROMPT_ROOT, $REPO_ROOT, $ORG_ID, and $AUTOMATION_ENGINE. Implementation details (scripts, frameworks, services) are intentionally abstracted.</div>\n<div><br></div>\n<div>────────────────────────</div>\n<div>  1.  Conceptual Layers of the Creative-Operating-System</div>\n<div><br></div>\n<div>1.1 Layer Overview</div>\n<div><br></div>\n<div>The OS is organized into conceptual layers that correspond directly to the LAYER axis in the naming grammar LAYER-DOMAIN-TYPE-ID-VERSION:</div>\n<div><br></div>\n<div>VISION</div>\n<div>SYSTEM</div>\n<div>WORLD</div>\n<div>STORY</div>\n<div>WORKFLOW</div>",
+  "context": "From document: 0.\tPreamble and Scope — chunk 1 (chunk 1/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "b3360b527d494aeb150b316c90472eb0",
+  "relatedUnits": [],
+  "keywords": [
+    "system",
+    "conceptual",
+    "layers",
+    "layer",
+    "this"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

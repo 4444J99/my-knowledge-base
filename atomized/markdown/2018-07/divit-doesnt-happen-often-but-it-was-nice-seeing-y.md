@@ -1,0 +1,34 @@
+---
+id: 844f1042-bea0-4ec4-8be2-6af2e898c29a
+type: insight
+created: '2018-07-09T15:40:26.000Z'
+document: a925bcc675f4ac4005129a5d7f714728
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: design
+keywords:
+  - that
+  - moving
+  - just
+  - work
+  - skills
+---
+# <div>It doesn’t happen often, but it was nice seeing you for the birthday party.
+
+## Context
+From document: It doesn’t happen often, but it was nice seeing you for the birthday… — chunk 1 (chunk 1/3)
+
+## Content
+<div>It doesn’t happen often, but it was nice seeing you for the birthday party. I think the last time we chatted was way back in 2012 for Christmas at Aunt Sue’s apartment on Staten Island.</div>
+<div><br></div>
+<div>It was inspirational and reaffirming for me to hear of your moving when you were 28. Just finishing school, and being 28, I already am starting to feel like an old man. So to hear that you were able to make the move at my age inspires me and reinvigorates me. Something I question now, in our current climate, is actually how important moving to Los Angeles is if I’m looking to work in entertainment? Doing my own research, listening to podcasts, the all around advice seems to be that it is most definitely the best option to take (if it is an option that could be made). My fear is that now that I’m in a serious relationship, I’m afraid to disrupt that on just the whim of moving across the country. While in some form or another it’s been my dream my entire life to work in entertainment, to write — I just wonder if place is so important to that process. Are there other options? Austin, Atlanta, Toronto, NY,?</div>
+<div><br></div>
+<div>My skills are...writing be my best skill, the other skills are…music production, editing, graphic design, basic programming skills. My goal is to create and build up my own network online, but in the interim I want to work and build connections with people in the industry. I think of myself as the next Robert Rodriguez or Shane Carruth: writer, director, editor, and score. </div>
+
+
+
+---
+*Source: Document a925bcc675f4ac4005129a5d7f714728*

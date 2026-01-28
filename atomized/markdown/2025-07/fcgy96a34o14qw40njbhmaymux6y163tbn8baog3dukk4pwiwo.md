@@ -1,0 +1,32 @@
+---
+id: b4820a2b-3553-454f-96da-34107cf02175
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    fcgy96a34o14qw40njbhmaymux6y163tbn8baog3dukk4pwiwoyxwyiabcaagdgired3f3te9kznrkgqe3j4e7l25ihntgrijxgj3nhxgep3os22rlw937h71owbdqqgaaeiqcbqauvjzefja97avuxjrx
+  - 7tgfrl7frzxie216id9zsrvfzftwcgi0f4u3zdu3xzh9cuqcbaaqgaaeibepg
+  - e7u1deo2aywgwuawnhponhk8dbnfuw8ew
+  - vabqax10nmrt3id4
+  - >-
+    b9ch2llhpiagahcaaaqgecgb6dzg8ommad4xdvbom8wnf5nekxfvhmkfasleztknkysa4h1oi8kjp2
+---
+# fcGY96A34o14qw40NJBhmAyMuX6Y163tbN8bAog3dukk4PwiwOYXWYIABCAAgdgIrEd3f3te9KZNRkGq
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 6443 (chunk 6443/18928)
+
+## Content
+fcGY96A34o14qw40NJBhmAyMuX6Y163tbN8bAog3dukk4PwiwOYXWYIABCAAgdgIrEd3f3te9KZNRkGqE3j4e7l25IHntgrijXgj3nHXgep3oS22RLw937H71OwBDQQgAAEIQCBQAuvJzEfjA97avUXjrx+7TGfrl7frZXIe216Id9zSRVfzftwcgi0F4u3zdu3xzh9CUqCBAAQgAAEIBEpg/e7u1dEo2AYWGWuawNHpONHk8dBnFUW8EW/VAbqax10Nmrt3Id4+b9ch2LLHPIAGAhCAAAQgECgB6dZg8OmMAd4xDvBOm8WnF5NEkxFvHMkfASLezTknKYsA4h1oi8KjP2+dFGggAAEIQAACgRJAvP3JRkcbxIh3R09cyNlGvEM+Oz3IG+IdaItia1v2uCNoIAABCEAAAoESWIv3kq7mEeu3JrQn4t0DFQmqCIh3UKejf5lBvANtUXj0562TAg0EIAABCEAgUALrd4mNRgcvf+Lta92/VmmtEk2m63nt9YqmrRs6+R0TlR9QqWqdiD5tjHj36WwGWBbE2+ftOn8D7/Qa0EAAAhCAAAQCJbCOeMuReJ1YgI3LFrJ093OxduTBQI9gPDa21oki3i2cwTAPgXiHeV56kyvE2+ft2uOdP4SkQAMBCEAAAhAIlMCbeB+eML9ajDF/zav3Kt6qCR7bTIh3xIMXZHeId28UN8yCIN4+b9ce7/whJAUaCEAAAhCAQKAE3sRbovT9ZRFmG4tcNUTg/q/lq3Xrf4h33Krst44h3n55klqGAOIdaIsC8ebEQAACEIAABJwE1uI9WyQvFVNT5vn3KtO+4WNfCbz8Wc3X5/3VvRFvxNsfAcS7r/eNQMqFeDt/00NQ3/3mATQQgAAEIACBQAmsxfv4fJy2Y3ihdyDNyhaycfJ5/frug+Qt7ol7I97+tLOF0xf4IRDvwE9Q17M3nSUPiwfTUaA/rPs1z8iPTp2AAAQgAAEIBEogFe/Pk/u/l8N1S+b867TrbTLyv5HAxfU0abYOBld3M97jvREXG9QlgHjXJcb2tQgg3oG2KEJwftBAAAIQgAAEAiWwFm8FP9XouX2cD9Yvlvp8hXv3eaK1i5tX6z67TM474l2rxc/GVQgg3lUosc3WBBDvQFsUiDcnBgIQgAAEIOAkYIm32kDX9/M0EHp6OeFdUFs3CkPe8ezLuof5YKDxBWk+
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

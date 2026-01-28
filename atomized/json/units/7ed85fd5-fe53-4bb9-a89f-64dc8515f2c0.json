@@ -1,0 +1,26 @@
+{
+  "id": "7ed85fd5-fe53-4bb9-a89f-64dc8515f2c0",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>Tier</div>",
+  "content": "<div>Tier</div>\n<div>Books</div>\n<div>📘 Beginner/Fast ReviewGrokking Algorithms, Common-Sense Guide, VisuAlgo📗 Intermediate/Core CSCLRS, SICP, Sedgewick, CS50📙 Systems/OS DepthTanenbaum, Linux from Scratch, Systems Performance📕 Creative/Recursive/SymbolicSICP, Nature of Code, Norvig, DSL/PLT Books📒 AI/Integration LayerParadigms of AI Programming, Generative AI in Action, Designing Data-Intensive Applications (Kleppmann)</div>\n<div>❓REFLECTION: Want a syllabus, not just a list?</div>\n<div>I can assemble a full OS creation syllabus (recursive, symbolic, AI-augmented), with modules, required readings, project checkpoints, and tool integrations—like your own bespoke curriculum. Would you like that next?</div>\n<div>Ref ID:BKCOMP_0513A — Book Comparison: Grokking vs Canonical StackResponse:</div>\n<div>Absolutely. Let’s cut through the abstract and architect a real-time knowledge stack tailored specifically to your system — recursive, symbolic, AI-integrated, mytho-technical, and built across long-term timewaves.</div>\n<div>This is not a general-purpose CS curriculum.   It’s a recursive knowledge engine for your OS: ::RE:GE_OS:: and its component nodes (::4_bl00m, ::M4, etc.).</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 274 (chunk 274/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "recursive",
+    "your",
+    "books",
+    "systems",
+    "syllabus"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

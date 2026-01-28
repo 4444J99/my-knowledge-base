@@ -1,0 +1,32 @@
+---
+id: 9071d98e-823b-4f09-9747-3ce3f1b25759
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - dtcrc6r3nfctwgq39hwosg
+  - 7kaz1btqyk76wuevbu6ridz2swlasr1367z3y7yu3y5f2dsqjwyply
+  - a657a60rtsetpp0jue4ydvdws
+  - >-
+    i4jydcdiddlxzmuvwlfyrfsvzdda6kihqryl3fwb4a6qscqg1dbaflakl9welhm0fiuwirocq3vzpl12dusy6odvodjdp196ghy4alwlfia0lr0r3dwzu8bq80izblwgq
+  - >-
+    rqwhiwoowwklxxjwitplxwfrylzdpzzrtspbsqnr1wbbxkwbwadvbfxc5yffozyfxum8gqqgecvvenraolrarnbkuihodvwwdswwav7qj5hgvw8ybv1ltv1x8jsff
+---
+# Dtcrc6r3NFCtwGq39HWOSG/7kAz1btQYk76WUeVBu6RidZ2sWlAsR1367Z3y7Yu3y5f2dsqJWyply/A6
+
+## Context
+From document: New Note — chunk 19913 (chunk 19913/21099)
+
+## Content
+Dtcrc6r3NFCtwGq39HWOSG/7kAz1btQYk76WUeVBu6RidZ2sWlAsR1367Z3y7Yu3y5f2dsqJWyply/A657A60rtSetpP0Jue4yDVDWs/I4jyDcdIddlxzmUVWlFyrFSVzDDA6kIHqrYl3FWb4a6qsCqg1dbaFLAKl9WelhM0FiuwiroCq3VzpL12duSy6oDVOdJdP196GhY4aLWlfIa0lR0r3dWzU8Bq80IZblwgQ+rQWhiwOoWwKlxXJwitplxWFRYlZDpZzRtSpbsqNR1WBbxKWBWaDVbFXC5YFfOZYFXUM8GqqGeCVVEnrAolrArNBKuiHoDVwwdsWWAV7qj5hgVW8Ybv1ltv1X8JsFF+9KMfpcGqmAvA6uH7/uV6Qx7mQ+/Dz8Cn52eAD06n/1vscIehA6EDoQOhA6EDoQOhA6EDoQOhA6EDoQOhA6EDoQOhA6EDhXcgAKvTF1gFpApoNZPDKqBVH1j1XVYBrdogqEqNYNUPhWphVTirWmAVY4KqVIKqVgGpMgCn+sFnrlYJq/qgKp1VWc8Eq8YBqz6sCpfVXMCqD6oSVmWdoCrVuqsyJ6hKSJVqgdVsDqu+syogVdZ8YBVwKmsEVa0CSo0LC6fa3AKq2XIfVLVjfP6BcbbPQXw4lWNCqgRVqaz70CqgU9aY54JWCapSCZ/6CoDUB1Q59kHUQscASCcLqBJChdocIKitYTyRAJRJqDTTfq6x6/waxqwx/6QUvxFxLSqvy3GcusWJ//H32jmb23W2HvLp2YFCgFW7FjDnpIDVBMw6FWf4sCqAUACrcEqdp5BqEtxMusTqvFnjIFwHgqZDpYRbk4ApodMkWJqASrOCpTgz/dzkeclzFExN5okzfTA1bpy4blHCqTR6nQnn2Kwuq4BVK9RZtVTmAVYt68/urFo+JIvWtSmsWmFgVTio5gOrRk6rSVhVvy8ObNXvC11eI1A1BazO1td1bNFKA4oeHijVQp3pgGocUGprhUCrXGv329zOs041c85ZFWOdK9BlFQ6rgFEJpkZ6SGuIV8fFtm1N8vnPD8vNN10ojz/2U3n99YflDQ3kV1/1Zdm+uc6BqtXlc6S2aq6DVdualgqipXGJG8NdtVedV+GsOti1Wh1S18pwz1oHrW4aKJHtG6tk51iduq1WqduqAqun9sq13/2C/OSOb8n1V54lXzytX/Zsb5GTtnfJ
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

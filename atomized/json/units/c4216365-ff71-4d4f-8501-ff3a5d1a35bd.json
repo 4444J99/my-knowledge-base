@@ -1,0 +1,26 @@
+{
+  "id": "c4216365-ff71-4d4f-8501-ff3a5d1a35bd",
+  "type": "insight",
+  "timestamp": "2020-12-28T16:15:30.000Z",
+  "title": "<div>Dental Member ID Number</div>",
+  "content": "<div>Dental Member ID Number</div>\n<div>[REDACTED:SSN]</div>\n<div><br></div>\n<div>renDENTAL41890</div>\n<div><br></div>\n<div>renDENTAL4189)</div>",
+  "context": "From document: Dental Member ID Number",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "aa4445b475d888afd1227046c19fd204",
+  "relatedUnits": [],
+  "keywords": [
+    "dental",
+    "member",
+    "number",
+    "[REDACTED:SSN]",
+    "rendental41890"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

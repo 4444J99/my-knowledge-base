@@ -1,0 +1,26 @@
+{
+  "id": "c3fab73b-6456-46bf-8b84-b01e98a7b62d",
+  "type": "insight",
+  "timestamp": "2018-10-02T12:50:13.000Z",
+  "title": "<div>how to know</div>",
+  "content": "<div>how to know</div>\n<div>Right o wrong</div>\n<div>Left and right</div>\n<div>Down while up</div>\n<div><br></div>\n<div>Two truths</div>\n<div>Held</div>\n<div>Both</div>\n<div>equal weight </div>\n<div>Direct</div>\n<div>Opposition</div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: how to know",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "3cf98b5860b66c3adc255738e47519b1",
+  "relatedUnits": [],
+  "keywords": [
+    "right",
+    "know",
+    "wrong",
+    "left",
+    "down"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

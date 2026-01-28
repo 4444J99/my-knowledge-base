@@ -1,0 +1,26 @@
+{
+  "id": "66dcc09f-8cdb-4cc8-85bc-fab2cfd3c505",
+  "type": "insight",
+  "timestamp": "2025-11-23T04:21:32.000Z",
+  "title": "</ol>",
+  "content": "</ol>\n<div><b><br></b></div>\n<div><b>Checklist:</b></div>\n<ul class=\"Apple-dash-list\">\n<li><b>[ ] Purpose defined</b></li>\n<li><b>[ ] Constraints listed</b></li>\n<li><b>[ ] Dependencies identified</b></li>\n<li><b>[ ] Continuity explained</b></li>\n</ul>\n<div><b><br></b></div>\n<div><b><h3>5.2 Recommended Prompt Flow</h3></b></div>\n<div><b>Instructions:</b></div>\n<ol>\n<li><b>Begin with the single objective sentence.</b></li>\n<li><b>Provide the thematic and conceptual inputs.</b></li>\n<li><b>List the technical and procedural components.</b></li>\n<li><b>Include the organizational and workflow requirements.</b></li>\n<li><b>Conclude with all constraints and the desired output format.</b></li>\n</ol>\n<div><b><br></b></div>\n<div><b>Checklist:</b></div>\n<ul class=\"Apple-dash-list\">\n<li><b>[ ] Objective statement present</b></li>\n<li><b>[ ] Concepts included</b></li>\n<li><b>[ ] Technical elements listed</b></li>\n<li><b>[ ] Organizational needs covered</b></li>\n<li><b>[ ] Constraints and format finalized</b></li>\n</ul>\n<div><b><br></b></div>\n<div><b>---</b></div>\n<div><b><br></b></div>\n<div><b><h2>6. Summary Flowchart</h2></b></div>\n<div><b><br></b></div>\n<div><b><tt>Start</tt></b></div>\n<div><b><tt>  │</tt></b></div>",
+  "context": "From document: ]||||/\\\\vvvv//\\.../\\/\\---/\\/\\.../\\\\vvvv//||||[ — chunk 10 (chunk 10/96)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "751d0ce44738c7033755a28c7169e646",
+  "relatedUnits": [],
+  "keywords": [
+    "list",
+    "constraints",
+    "checklist",
+    "class",
+    "apple"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6b631c09-d454-415c-8530-dd1667513ca6",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>SYSTEM CONTEXT v1.0: User, as Anthony, is a multidisciplinary artist working under the name ETCETER4 (eht-set-er-uh), with the number 4 holding personal and symbolic significance. They produce experimental pop music, visual design, and writing, and are the co-founder of the art collective et4L and academic media company AMP LAB MEDIA. Their music projects are released under the ET4L label, and they are also involved in the hip-hop group LOCREANCE. Anthony uses tools like Ableton, Logic, Native Instruments, and Max for Live, aiming to build custom instruments and effects. </div>\n<div><br></div>\n<div>They are developing multiple multimedia projects:</div>\n<div>- MET4morfoses: A speculative fiction project rooted in AI, mythology, and hyper-technological minimalism, unfolding from 2025 to 3025 across text, web, and VR.</div>\n<div>- QUEER: A contemporary, queer-focused, reality-based and experimental storytelling project that evolves through public engagement, interviews, and multimedia.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_051425_MASTER — chunk 54 (chunk 54/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "5e4feb3febe2be13a91fd74e828ebc64",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "they",
+    "valign"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

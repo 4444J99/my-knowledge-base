@@ -1,0 +1,32 @@
+---
+id: 394cf738-474b-4efb-a270-9c2e9823970e
+type: insight
+created: '2025-05-15T00:56:03.000Z'
+document: 084f9bc77d1d8854a07a52206c286278
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    zzxdq0lfwbqmj0pwtbrrzq5tvvbjuydrvpli2gt447khzchcjvot0bcuoo2aamcs3t28tnafvbwo4uom4yisa3p5moigw8yafx8q2ymseys20fmcbuv3cgfulqykv86v2wr0yxopwqa2vpblt722snsmoxxqxchirh3dbzjllxyd0oauhtbw6snlab1sa6e4ece5kojqqcfq
+  - oaityhjfa
+  - dh2kvqwzn51kqf8ajsdar3tut
+  - >-
+    jcxw4hfzpj2l2ysqfdygn2m9ehqbtkw41hsnklsmyzpftqklagrazdtwsfwoastmjvcol2kcfvg88yh6zfv
+  - aegp
+---
+# zzXDq0LfwbQMj0PWtbRrzQ5tVvbjUYdRvpLi2gt447KHzChCJvOT0bcuOO2aAMCS3t28TNAFVbWO4UOM
+
+## Context
+From document: Grokking Algorithms for OS — chunk 63 (chunk 63/402)
+
+## Content
+zzXDq0LfwbQMj0PWtbRrzQ5tVvbjUYdRvpLi2gt447KHzChCJvOT0bcuOO2aAMCS3t28TNAFVbWO4UOM4yisA3P5moIgw8yaFX8q2YMSeys20fmCBUV3cGfULqYKV86V2wR0yxOPwqa2vpbLT722SNSmoxxqXcHIRH3DbzjllxyD0oAuHTbW6sNLaB1Sa6e4ecE5KoJQqcfQ/oaitYhJFa+dh2kvQWzn51Kqf8ajsDaR3tut/JcxW4hfzPJ2l2ySQFDYGN2M9ehqbTkW41HSnklSMyzpFtQklAGRAzDtwSfwoAstMJvCOl2kCfvG88yH6zFv/AEGP+VZMjyTWsTM2VRfKUZ6KCePzJrqfB1jbx3emSajcxLbSXN3AVc4CbIyvzHsS02fQVzP2ZzYlwjMIXYzEcheQqk/UkigCBMyzA985rofFUgOpaHafMqw6fZrKp9SNxz/31WLpse7UII3IHmDcOR06/wBKW5dLjQ5NSm81rv7V5TN0QxiFSB9ePyxQAs7tPcRxZGZeXYjpubd/LH5Vs+H7VItdsdRu5SsNvHDqM4Vcbf3oEa4/3SDWVq2mSaZfG1Z182JY45GHZ2QM35biK1/D2n/21r9t5TD7PLfxWrxlsZhjQufw2x4/GgCvc3Kza1aXTKVu0vpb68UDhFEwYcewB4qrbs99rRvI2WOa6v2VCzY2b8lm/AOPypmr3Nw13JdkCIaj5lyhU8mJyygH0yBnHuKogIYcwuyTKnU92LdvwxQBqeH7u30vWbXUZEaSC0leSNSM4+Q+WT9XK/lVGxhma2vLsOAIIiCWP3i52EYz6OT+FWLm6ih/tK3VQvnPEgbHRI85x9TitfQ9Hhgubu41HYbRdGOoFD1JcFY1+uWz9cUAc5ezRT3G+CIxrtA25z0GP8PyqXTvI+z6h9oyZWtvKthzw7OoLfgu6oVRf7PDocSpnzTnGQxwoH4A5+taPh1bSXW9PhvikVt55E8pYjClc9R/u4/GgC94q1Nb+axWMI6WthawsF6AquWX82xW34cvYIrVLy6WJ10qwuNSbcu4fappSI/xAUAfWuU0SS1t4fNvV82EzbniDbWdI13Yz23MyD8DU9r5kvhe8toJWY3HlecVB5f5kij9+WZv+A0AY9zBLBIq3AxI8aS8+jKGH6EH8ahCFwSo4BA/Ht/Kum8RR29z8Qb+OQf6LbFkYdM
+
+
+
+---
+*Source: Document 084f9bc77d1d8854a07a52206c286278*

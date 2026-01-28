@@ -1,0 +1,26 @@
+{
+  "id": "2a082153-820b-4040-8b5d-fa422d611545",
+  "type": "insight",
+  "timestamp": "2023-12-27T17:32:36.000Z",
+  "title": "<div><h1>Majestic Design</h1></div>",
+  "content": "<div><h1>Majestic Design</h1></div>\n<div><br></div>\n<div><h3>25-50 miles from West Palm Beach</h3></div>\n<div><h3><br></h3></div>\n<div><h3>What kind of jobs do you want to acquire via paid advertising?</h3></div>\n<ul>\n<li>Kitchen &amp Bathroom Remodels</li>\n<li>Full GC Services</li>\n<li>Windows &amp Doors</li>\n</ul>\n<div><br></div>\n<div><h3>What are the pain points of these clients? What complaints do your clients have about your competition?</h3></div>\n<div>Clients complain about…</div>\n<div><br></div>\n<div><h3>What are you offering that’s different than your competition?</h3></div>\n<ol>\n<li>Offer 1</li>\n<li>Offer 2</li>\n<li>Offer 3</li>\n</ol>\n<div><br></div>\n<div><h3>Who is your competition?</h3></div>\n<ol>\n<li>Misc Corp 1</li>\n<li>Misc Corp 2</li>\n<li>Misc Corp 3</li>\n</ol>\n<div><br></div>\n<div><h3>Lead Form Questions:</h3></div>\n<ol>\n<li>When are you looking to start your job?</li>\n<ol>\n<li>0-30 days</li>\n<li>60-90 days</li>\n<li>90-120 days</li>\n</ol>\n<li>What is your budget?</li>\n<ol>\n<li>10k-25k</li>\n<li>25k-50k</li>\n<li>50k-100k+</li>\n</ol>\n</ol>\n<div><br></div>\n<div>Majesticbuilds.com<br></div>\n<div>[REDACTED:EMAIL ADDRESS]<br></div>\n<div><br></div>",
+  "context": "From document: Majestic Design",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "8e63485a51d715a969f03908bed59a12",
+  "relatedUnits": [],
+  "keywords": [
+    "your",
+    "what",
+    "clients",
+    "competition",
+    "offer"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

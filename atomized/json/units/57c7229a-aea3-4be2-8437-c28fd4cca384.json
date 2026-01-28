@@ -1,0 +1,26 @@
+{
+  "id": "57c7229a-aea3-4be2-8437-c28fd4cca384",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **Option 2: Create Repository Documentation (Recommended)**</div>\n<div><br></div>\n<div>**Repository Name:** `cognitive-os-master-plan`</div>\n<div><br></div>\n<div>**Description:**</div>\n<div>```</div>\n<div>Master architectural documentation for the ivi374forivi cognitive operating system. Contains: four-layer architecture definition, complete repository roadmap, integration specifications, decision framework, and preserved planning conversations. The source of truth for system design and evolution strategy.</div>\n<div>```</div>\n<div>**(310 characters)**</div>\n<div><br></div>\n<div>**Structure:**</div>\n<div>```</div>\n<div>cognitive-os-master-plan/</div>\n<div>├── README.md                           # Overview of entire system</div>\n<div>├── architecture/</div>\n<div>│   ├── four-layer-model.md            # Complete layer definitions</div>\n<div>│   ├── repository-map.md               # All repos and relationships</div>\n<div>│   └── integration-points.md           # How everything connects</div>\n<div>├── planning-conversations/</div>\n<div>│   ├── 2025-11-02_initial-planning.md  # THIS CONVERSATION</div>\n<div>│   ├── metadata.json                   # Conversation metadata</div>",
+  "context": "From document: Contents_Table — chunk 113 (chunk 113/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "repository",
+    "cognitive",
+    "master",
+    "system",
+    "layer"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

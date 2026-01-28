@@ -1,0 +1,31 @@
+---
+id: c80b74e3-cc89-45b5-a6ec-4f96b92119b8
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ie5fijz2ctmte0kekuunzjbp7baq
+  - yakwpgesgobbi9lgznjkndff8aznuo5nr3hmd2rj3id
+  - wrykmxf8bjc1kpvptrrarf5u0vjmaugoqoaic7a
+  - mrmv1ttncekow2x6jjiweuokso9ddxyrhqzt49jj0jpl4s78hkv8k98a
+  - >-
+    nbtab3ubfhqznx9rop57ojiz7stjoptbli6liplkdectkj0vkunlty6egcn0qnabasrg070icdxdxfsgkpf9er3zlbqymuqlowrpkkdjw48hkjgaigusr9w3sjwjxnxpsmjwuknsuka
+---
+# iE5FIJz2CtmtE0KeKuUNZjBP7bAQ/yAkwpgeSGObBI9lGZNJknDfF8aznuO5NR3HMD2rj3iD/WRYKMxF
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 9118 (chunk 9118/11534)
+
+## Content
+iE5FIJz2CtmtE0KeKuUNZjBP7bAQ/yAkwpgeSGObBI9lGZNJknDfF8aznuO5NR3HMD2rj3iD/WRYKMxF8BjC1kpvPtRrarf5U0vjMaUgOqoaiC7a+MRmV1ttNcEKoW2x6jJIwEuoksO9DdXyrHqzT49JJ0jpl4s78hKv8k98a+nbtaB3uBFhqZNX9RoP57ojiZ7STJoPTBlI6lIpLKdeCtkJ0VkuNlTY6egCN0QNABaSrG070ICdxdXFSGKpF9ER3ZLBQyMUqLOWrPKKdJW48HKJGaigUSR9W3sjwjXnXPSmJWUknsukA+ttdMSBmm9P8TIG1knUk/A8eic2myewFaHty9wLwg2Ea8xWcFrNrOkisBexBkRXIqREQiIwHIEaHOVxHaDIU1XQhfAo8SWEIEISqzl1zBSBSAjlurY1UWwHaAFvVpPAD0warCkBDEJSq3MW60AUMIAq9apOQqhFUqMVNvGr0NAWSmgt1ZGRy0KS9n8CcpAGCPHGN76RNggT2rF4JaZkgOo89KVImqOIRMyuQmolsAcoep/3eR8NKWYwVYuoUmOqQ7guCAA5kbRmKJa9sfRuqEr/je67xoconOmIzmsnvOxEkxlv3ymnqY62uJc9EjrTpguKSYxxNKuoDp8AqyQYDJrlFm30gCLPB54B5HIJczuatQhV0PDAAw/YIqt3LKtaKbWpVXsJEKYNv4Ho4gdKSNpiqlLbQTXcOFGdbyfYFAo/23hpLLEzlabUsY/pjos7cnuSLmb805/+9AwMHSFBdACz7jY+XQsSN6KnNPO9ig/6hZdSoy42JtXr1MtvXNfMu3tp3Qw8f0awyhgYGHZQ3RMKq64jurvzwpHSxCjhSLVfutrM4Bd9zD1pkSM/pENrhyyieUEltW1l+NXMC6LH3HJBTTi7qWUMrJOYOD83xOYBtp2l9gVvW+UHIG2v062ArWbW9F5ArgjTcPY1OjGSINtR+CgSEus7FdBbBwCKwB5LLl5N7o0jZgMhmlwBnJUWwIaw+ClxJxoHXxDv5SJiO6DCP/dWvZTyhbo3vOENVufAPBsvLStpeKI9uS4NwElZSoSJnr4DAGAb8jChlyWqMXFk6kJDdD6WZTlLsOuVIR6QY7OC1ppUDVp4WSUOeZrJSwjGWBu0B5Jm7yxhqvmB2VqhXYQVYY/TxKwInokGApSIpHHSajIRcJRyiogA
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

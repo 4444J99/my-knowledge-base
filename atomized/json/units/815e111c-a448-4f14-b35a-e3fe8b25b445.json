@@ -1,0 +1,26 @@
+{
+  "id": "815e111c-a448-4f14-b35a-e3fe8b25b445",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>**Core Strategy**</div>\n<div>- Preserve look by retaining themes, vibrancy, animations, and Peacock, but move them into a dedicated “Cosmetic” VS Code Profile.</div>\n<div>- Keep a separate “Core Dev” profile with only essential extensions (language support, linting, single AI assistant).</div>\n<div>- Use profiles so cosmetic failures never block coding; switch instantly if instability returns.</div>\n<div><br></div>\n<div>**Risk Audit**</div>\n<div>- High Risk: `vscode-vibrancy`, fake mica (`frosted-glass-theme.fakeMica.enabled`), external JS imports via `apc.imports` (animations injector), multiple AI stacks (`Copilot`, `GitLens AI`, `Gemini`, `ChatGPT`, `Pieces` simultaneously), `editor.aiStats.enabled`, `workbench.experimental.share.enabled`.</div>\n<div>- Medium Risk: Neovim extension (`asvetliakov.vscode-neovim`) + animations together; custom GPU tweaks (`terminal.integrated.gpuAcceleration&quot:&quotoff&quot` can affect rendering performance), bracket colorization independent pool (minor).</div>\n<div>- Low Risk: Plain theme selection, Peacock colors, inlay hints padding.</div>\n<div><br></div>\n<div>**Retention Recommendations**</div>\n<div>- Keep: Peacock, chosen dark theme, transparent theme, cursor animations (if no perf issues).</div>",
+  "context": "From document: User: fix — chunk 12 (chunk 12/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "animations",
+    "risk",
+    "theme",
+    "peacock",
+    "enabled"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

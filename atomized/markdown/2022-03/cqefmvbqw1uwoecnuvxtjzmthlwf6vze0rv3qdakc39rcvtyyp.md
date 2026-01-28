@@ -1,0 +1,33 @@
+---
+id: 47257739-4886-4f25-b7e4-d4186f45a838
+type: insight
+created: '2022-03-16T12:34:10.000Z'
+document: 7405c2da6b92da26b0b49297d3a4e664
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    cqefmvbqw1uwoecnuvxtjzmthlwf6vze0rv3qdakc39rcvtyypzzowwviqgqskbnhfxymh24pagrlhg1dhf8adpttwdlhle8cp0czcj0pugdh5u1axyqyps8rrtlryfnapcigvydrupmkz
+  - n0ogiztk6fl1pq24vcnruihcpl4qn2oqdqk
+  - yhdcrh1rj2thy
+  - >-
+    rxusqqfypssaw3jy73oakauo2s8yb4o4hxc1xf0xyrgcdirukqca55x0odzew4qdeammqsjtpxtvuk2i8rz61eskrzbdqfymhahtn0qwjpjsexipbna
+  - >-
+    d644xvs3npnjjfakykjtiimtqrtozaynzfli6vajmty9xlzduk89qy9qdt0oc5joxaqrvtibgu805piubs8iqt5ibgoedqoxbkm4l
+---
+# cQEfMvBqW1uwoEcnUVXtJzMTHLwF6VZe0Rv3qdakC39rCvtYYpzzoWwvIqgqSkbnHFXYmh24PagrlHG1
+
+## Context
+From document: The battle of the blinds — chunk 148 (chunk 148/1787)
+
+## Content
+cQEfMvBqW1uwoEcnUVXtJzMTHLwF6VZe0Rv3qdakC39rCvtYYpzzoWwvIqgqSkbnHFXYmh24PagrlHG1DHf8AdPtTWdlHlE8Cp0czcJ0pUgDH5u1AXYQyps8rrTlRYfnapCIgvydRUPmKz/N0oGiZtk6fL1pq24VcnrUihCPl4qN2OQDQK/YhdcRH1rJ2tHy/rXUSQqFyPSsaW3jY73OAKAuO2s8YB4o4hXC1XF0xYRgcDirUkQcA55x0oDzEW4QdeamMqSJtPXtVuK2i8rZ61EsKRzBDQFymHaHtn0qwJpJSExipBNa+d644xVs3NpnjjFAKyKJtiimTqRToZAynzflI6VajmtY9xLZDUk89qY9qdT0oC5jOxaQrVtIBGu805PIUBs8iqt5IBgoeDQOxBKm4l+wpLeOZiXT7tN8uR0z27VZtZ1CmOT5AtAyzFfLG3lvxXTWUiyRDgAVw8qgy74+Qa6Sz3GHaD2pbCaK2qxqs29eMenSp7Gb7VH5b4AA4qRo05RvmNYkkM1tcb14QHjFSDRclja3mxjjtVgXA4Sra3ENzBuIG/FUYLdidz8UAieaJVHymprZFUbifwqQrmIBeaiRY05JpBckkO/5cCsya1YpvxitngNvHSq1y7PDhRQNGRBuH7tqeoaJsHpUUcbuSVqeM45f6VewWFQR7uSRWpJp6+WDAx3YrKS2ad8x/drTE0yRfZ8fP2+lJjSIVuWgOyUcirNvfefIIG+6aqMvabh6Z5AjIYcGkVY07mwdmzbcjvUkc4ldLUDkDB/CnQ3BhZQfukc1NHDbnc8Z+YnNIkJYfLGyOqiykNz1FPMcsL7ycirR8uUoIxyetQwRVdmdgWGAK1kjjkgxjHFRRKqyqhGTV25jYREoMAUizHljMX+qYnHX2p9reyIG9qW0HDs3zCnhYpMqOAaAJBeS3Py4GFp3mS/cUDiqawSRMWX7oqZS0uPL6/wAXtQAmWySRirMREwCsBgU0xLGMsetQxsTIVT7tAD3ihjlBj696km0+3mP2ju1QMoWXGeDV/CIoQnrQKxTGk2br1waz57BA+xDzWzNEu0RqxDVWSJ0faeWqbsaRlpbSwtjqBTZJrluNuPpW99nkVdwGTU8TR7PnQZ+lUWo9zlzdTxjMg2r7VehuLNh8rZ+tbbiGceVsGPpWHcaESS9uTRdC5ew8C3uDiE/NUz2
+
+
+
+---
+*Source: Document 7405c2da6b92da26b0b49297d3a4e664*

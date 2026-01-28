@@ -1,0 +1,26 @@
+{
+  "id": "318dc0ba-3f1b-432b-b783-32cf39fca640",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt>::MYTHOS_SYSTEM_OVERVIEW.v1.0::</tt></div>",
+  "content": "<div><tt>::MYTHOS_SYSTEM_OVERVIEW.v1.0::</tt></div>\n<div><tt><br></tt></div>\n<div><tt>STATUS: Activated</tt></div>\n<div><tt>VERSION: 1.0</tt></div>\n<div><tt>DATE: 2025-04-17</tt></div>\n<div><tt>MAKER: ETCETER4</tt></div>\n<div><tt>FORMAT: Recursive OS Schema</tt></div>\n<div><tt>STRUCTURE: Modular + Symbolic + Generative</tt></div>\n<div><tt>DEPLOYMENT MODES: Narrative, Education, Therapy, Game, Ritual, Lifestyle</tt></div>\n<div><tt>PRIMARY ENGINES: SYMNUM4GRAM + RGLE + ARCHIVE_OS</tt></div>\n<div><tt>NOTES: Modular design confirmed; ready for prototyping branches</tt></div>\n<div><tt><br></tt></div>\n<div><tt>→ Next Suggested Branches:</tt></div>\n<div><tt>- SYMNUM4GRAM.test_suite.v1</tt></div>\n<div><tt>- FRIEND_CHARACTER_ARCHIVE.v1 (e.g. Forrest Buff)</tt></div>\n<div><tt>- MIRROR_JOURNAL_UI.mockup.v1</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Would you like to:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>1. Export the .md + .txt + .tree logs as a ZIP archive?</tt></div>\n<div><tt>2. Begin **live prot</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Perfect. You’ve initiated the **MythOS Master Protocol v1.0**. Let’s go step-by-step:</tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 98 (chunk 98/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "modular",
+    "symnum4gram",
+    "branches",
+    "step",
+    "mythos_system_overview"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: b58b5cf0-c1fd-4fb9-8b6e-ca60d3093bc6
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    4xlyzxcv4dwstfmunzmxchhazwul1mwhwj1nhrnzgfhdrcump5bmlapkopvuxya4gjvgoawkhdusblgry1brjjo6k2l4fsxtafxjq82rnnwwt1vbgexlpdwb
+  - txux7osntrh0uamnqysjrlkajxtqiuk7vjldqdaztcqa6wyuapgtqt5b1qdr
+  - szzo3guktigbwxr6d1pcupfzaqa6qtxqy2crun8
+  - >-
+    cnbquoku14kmcj2womdnfmmqjlsgpp5vla1bhfuztt6ownufrthlmvo7mgydvwuvbcvrrithrau6omfrgx1x1yzca0fhvvgvcbqyl2h1bdagnsxfwjwar
+  - 8zr0oqwxalqfvbufdfzf
+---
+# 4xlYZXCV4dWstFmUnzmXChhazWUl1mwHWJ1NhRnzGFhdRCUMp5bmLaPKopVUxYa4gJVgoawKhdUSBlgr
+
+## Context
+From document: New Note — chunk 13397 (chunk 13397/21099)
+
+## Content
+4xlYZXCV4dWstFmUnzmXChhazWUl1mwHWJ1NhRnzGFhdRCUMp5bmLaPKopVUxYa4gJVgoawKhdUSBlgry1bRjJO6k2l4fSxtaFxJQ82RNNwWT1vbGExlpdWB+tXUX7OSNtRH0uamNQysJrLKajxtqIuk7vJlDqDaztCqA6wyuApgtQt5B1qdR+sZZO3guKtiGbWXr6D1pcupFZAqA6qtxQy2cruN8/CNBQuoKu14KmcJ2WomdNfmMQjLsGpP5VLa1BhFuztT6OwNufRThlMvO7mGYdVWuvbcVrritHrau6OMfrgx1x1YZcA0fHVVgVcBqyL2h1bDagNSxfwJwar+8zR0OqWxAlQFVBUfDFZF/1QCqwBa8UNwMAOUGsiCKaweTmB1qlVWH374YQdalQcW/cO0jS2wZu8Bew/Ye8DeA173gLxQnT6P2t+vnQIk/dvG03yA6f/s2kH/61dP0v/5j/894UJgLtbAWgKu4hjTFVrFhxVbt2610OqE7wg70VbAVsBWwFbAVsBWwFbAVsBWwFbAVsBWwFbg+1MBgEeAVS+66CIHVhVgFcqqh1Nd9fsIrAaDVTWwKrAqAFaJNawKVdVgwKqpsCptL4VVN3VVN5XVbxSwinepaMs7VQFWNaxqAquAUwGtCqSqvQmroq3BVRNYBZwKcFWg1UDAqkCq2mtYFbEoqppeQ6qIj5S6KiBWE1wVONXNA1aFVVZW+gGbu3fvdsBU9Amsqj1A1I0bN/rNWbdunfOn4AVSFe/1Xh15gVEDefw/R0OPAj/C4zNd8RLrtnzm6+UBTeKemTNnjt+5TDWwqmFVE9I8UtDqO++844NNJ6q0qmFVxAAyxUuMWutrrq+dvg5TCaziO7CApaaX787Im+OkbY4x23qu2SdteDm2zh3JWPZ5JI/5XT3WGKjqBqzqXDCw9EjCqgA8g+1H+jF2guYDSSc4P9hxfZApr++DQkdjX18ooKI5B21toazBYwClmmCqtMWHC4Z+C+PHK64K+AmvY9RFcm55qZvXGOnXPtA6etyRiz96+1EGVhWgKrGoq6Kt4pLiVVRZHkM1VXFUVRlLxYUrqCBvMVVXRtNJJzbTjb+8mF55+Vn63Yfv0ocfvEO/eeMV2n/5TxlmLaOiongqKU6i0qIoBkiXOoqnFSUrqZytDEqrDK7m5SxkWHU2JSedwIr3xzuGOC2VVVUz
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

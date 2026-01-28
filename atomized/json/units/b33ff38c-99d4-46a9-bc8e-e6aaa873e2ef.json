@@ -1,0 +1,26 @@
+{
+  "id": "b33ff38c-99d4-46a9-bc8e-e6aaa873e2ef",
+  "type": "insight",
+  "timestamp": "2025-02-12T16:23:09.000Z",
+  "title": "<div>20 pts</div>",
+  "content": "<div>20 pts</div>\n<div>This criterion is linked to a Learning OutcomeFinal Draft:</div>\n<div>Writing Conventions and APA formatting</div>\n<div>20 to &gt18.0 pts</div>\n<div>Exemplary</div>\n<div>Accurate spelling, grammar, and punctuation (0 errors). Accurate Use of APA formatting consistently throughout the paper, title and reference page, with attention to in-text citations and reference entry page (no to very few errors). Manipulates conventions for stylistic effect—and it works!</div>\n<div>18 to &gt15.0 pts</div>\n<div>Accomplished</div>\n<div>Grammatical, spelling &amp punctuation errors are rare (2 errors per page avg.). Exhibits APA formatting throughout the paper, however, layout contains a few minor errors that do not detract from the overall paper.</div>\n<div>15 to &gt12.0 pts</div>\n<div>Developing</div>\n<div>Grammatical, spelling &amp punctuation errors are common (3 errors per page avg.). Exhibits a basic knowledge of APA formatting throughout the paper, but does not meet many APA requirements. Several APA errors and In-text citations OR reference entry are missing which detracts from the overall paper.</div>\n<div>12 to &gt0 pts</div>\n<div>Beginning</div>\n<div>Grammatical, spelling &amp punctuation errors significantly detract from meaning of paper (4+ errors per page avg.). Fails to exhibit basic knowledge of APA style; no reference entry or in-text citations.</div>",
+  "context": "From document: Week 3 Canvas Data Dump: — chunk 29 (chunk 29/32)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "a727fbfe745a37d5f1770e6775399db1",
+  "relatedUnits": [],
+  "keywords": [
+    "errors",
+    "paper",
+    "page",
+    "formatting",
+    "spelling"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

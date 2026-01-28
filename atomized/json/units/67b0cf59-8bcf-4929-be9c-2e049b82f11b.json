@@ -1,0 +1,26 @@
+{
+  "id": "67b0cf59-8bcf-4929-be9c-2e049b82f11b",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>**DisCoCat (Compositional Distributional Semantics):**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Grammar Category G: Free rigid monoidal category (types, derivations)</tt></div>\n<div><tt>- Semantic Category S: FVect (vector spaces, linear maps)</tt></div>\n<div><tt>- Functor F: G → S (strong monoidal, preserves composition)</tt></div>\n<div><tt>- **Result:** Compositional sentence meaning from word meanings  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>**String Diagrams:** Visual syntax for monoidal categories, explicit information flow </tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Extensions:** Frobenius algebras (relative clauses), quantum density matrices (polysemy) </tt></div>\n<div><tt><br></tt></div>\n<div><tt>### **3. Graph Grammars**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Hyperedge Replacement Grammars (HRGs):**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Context-free grammar for graphs </tt></div>\n<div><tt>- Parsing complexity: O(n^(k+1) · 3^(d(k+1))) for treewidth k  </tt></div>\n<div><tt>- Most semantic graphs low treewidth (98% AMR ≤2) </tt></div>\n<div><tt><br></tt></div>\n<div><tt>**S-Graph Grammars:**</tt></div>\n<div><tt><br></tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 4 (chunk 4/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "category",
+    "monoidal",
+    "grammars",
+    "compositional",
+    "grammar"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

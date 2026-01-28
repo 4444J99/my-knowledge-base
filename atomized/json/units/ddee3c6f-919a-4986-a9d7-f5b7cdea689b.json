@@ -1,0 +1,26 @@
+{
+  "id": "ddee3c6f-919a-4986-a9d7-f5b7cdea689b",
+  "type": "insight",
+  "timestamp": "2017-10-19T23:15:11.000Z",
+  "title": "<div><img style=\"max-width: 100%; max-height: 100%;\" src=\"data:image/png;base64,",
+  "content": "<div><img style=\"max-width: 100%; max-height: 100%;\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABgAAAAdmCAYAAADINGSYAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAGAKADAAQAAAABAAAHZgAAAABlJ1PnAABAAElEQVR4Aey9B5Sd5ZWmu78qVZVyzihUSUICSYBIEgIBEhlsggFjY/dMg9u+4w7u7ukeT6+b1vK9a93p6Zm2u+3p4O42BtsYsGmSjclBoABKSCggFJBKOecsVdV/3+c7+kWpVOGcU1WqtLfW0TnnD194/3NOff+79353SGTm5gg4Ao6AI+AIOAKOgCPgCDgCjoAj4Ag4Ao6AI+AIOAKOgCPgCDgC7QqBgnY1G5+MI+AIOAKOgCPgCDgCjoAj4Ag4Ao6AI+AIOAKOgCPgCDgCjoAj4AhEBNwB4B8ER8ARcAQcAUfAEXAEHAFHwBFwBBwBR8ARcAQcAUfAEXAEHAFHoB0i4A6AdnhRfUqOgCPgCDgCjoAj4Ag4Ao6AI+AIOAKOgCPgCDgCjoAj4Ag4Ao6AOwD8M+AIOAKOgCPgCDgCjoAj4Ag4Ao6AI+AIOAKOgCPgCDgCjoAj4Ai0QwTcAdAOL6pPyRFwBBwBR8ARcAQcAUfAEXAEHAFHwBFwBBwBR8ARcAQcAUfAEXAHgH8GHAFHwBFwBBwBR8ARcAQcAUfAEXAEHAFHwBFwBBwBR8ARcAQcgXaIgDsA2uFF9Sk5Ao6AI+AIOAKOgCPgCDgCjoAj4Ag4Ao6AI+AIOAKOgCPgCDgC7gDwz4Aj4Ag4Ao6AI+AIOAKOgCPgCDgCjoAj4Ag4Ao6AI+AIOAKOgCPQDhFwB0A7vKg+JUfAEXAEHAFHwBFwBBwBR8ARcAQcAUfAEXAEHAFHoN0hkFSZHfnILKnIPNrdBH1CjkDTI+AOgKbH1Ft0BBwBR8ARcAQcAUfAEXAEHAFHwBFwBByBehA4depUPXt9lyPgCDgCtSGQmO1/zax4qCVb/saSbX9vVrG/tgN9myPgCFRDwB0A1cDwl46AI+AIOAKOgCPgCDgCjoAj4Ag4Ao6AI9B4BJIksR07dhjPqUH6b9y40Q4cOGBr1qyxqqoqO378",
+  "context": "From document: L-day IN A CHAR — chunk 1 (chunk 1/966)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "18dc3a996dd053a8e2f8b89fa16c3840",
+  "relatedUnits": [],
+  "keywords": [
+    "aioakogcpgcdgcjoaj4ag4ao6ai",
+    "style",
+    "width",
+    "height",
+    "data"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

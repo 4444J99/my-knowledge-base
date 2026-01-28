@@ -1,0 +1,31 @@
+---
+id: 9efde593-7933-49a5-bb6f-37a57e3b3301
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    f45eq5idzka0ergeslfo8pgkpjjut4i2r2crnrimg5c88m8arvbdrjhdcgqkabhznifjmyyj44bbawzfvgdibbod2dsbssf3caukeiaoqkqqjhwtd9tcg9sc0bfog8hy2pg5vhkqlcogd2i7jrn0i21scfnv
+  - rifvrlbxdacr9pdxlischnichfox5crgqf5pqscdqjq
+  - slvsd0zbmgpbjfyvkr5crz2nzugkj2wamj2becelfqxqyphn
+  - ow64whbmkylyhwece3kdd16thj6cdnntubdojomixdr8hi
+  - 6gjaiyunzxr3azmarvoghvi1q0ey
+---
+# F45EQ5IdzKa0eRGesLFO8pgkpJJuT4I2R2CrNRImg5c88m8aRVbdrJHdCgQKaBHZNifJmYYJ44bbAWzF
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 4170 (chunk 4170/11629)
+
+## Content
+F45EQ5IdzKa0eRGesLFO8pgkpJJuT4I2R2CrNRImg5c88m8aRVbdrJHdCgQKaBHZNifJmYYJ44bbAWzFvgdIBBoD2dsBSsF3CaUKEiaoQKQqjhwtD9tCG9sC0bFoG8HY2PG5vHkQLcogD2I7jRN0i21sCfNV+RIfvRlbxdAcR9PdxlIschNicHfoX5CRgQf5PQsCDqJQ/U/Slvsd0ZBMgPBJfYvKR5CRZ2nzuGkJ2wAMJ2becELfQXQyPhn/OW64whbMKyLYhwEce3kDD16thJ6CdnnTUbdoJOmIxDr8hi/6gjaiYUnZXr3AZMaRVoghvI1Q0Ey+MO9bXqjAQZnFqnnNbGJ0EFMEi3+1wjfb/MaNRMBHhCNSoGmIc+IU5LvUcdSUFgGklgTtiH/lYVRaG0dQpIygy14nezqW0BayNuOabdEayVlf0A1P7MGQlvwijO2ygEVFDNq4xUEWCGz0QU6kTSBH4jFZieqCNShhEmI54KhtUm5bsGLQIMVYckU6iq9JrHgoYgMjwVypqFs7YmgRwzrgbvMKyB7zdkCe03SjELcTUIvN7iMDj1Y/KA34K4W8tJBNEknmmAc/JHBGPAJoMYFLhh007KDhG/w1+Wty84fS0Ml3nvhI1lI8Bhwz4Jhzj7m96vaq26bOKRAMgyNyVV4jmueYHMXn3HDO67/Zo/aL2nO737/Ow4BewkwPJrGOJyQnHHHC2kfMOmLgkbPuGHXHaXd0fuk6wkddAc+vf8H6e643crN9Nttn83127LJjlx26bHAhYC/J+fOU3MKfXzzwxQPTd7v6lqvfu7p39DotSetXyRpoie8AJFjg0ujS3KVq/5mOrR5emP3C7Bd/vfmKBEVVfKg71B1y9aHbHfr8IW76btN3mdH3rX++dea0L1Z9iIDfih6w3sPw+4Do7UDUtyBOOWiFcs01t1xz4h9uefXNV3/42pvcItVbImBPRrnJjU94BJKrR5xTDfhBt3Hdtu02br3l1ltu3ZSS0bSjuPCWhU38faffd/q9I57qD5j53MbPvvvc3e/+6b1d3z32ezWAdluO2fLzLVfc4VJAe3cxwAXvm+DgW1ny2XzAgn6r9luv32vqFd4QKSmsnkn8RecPBoy+ZfSJo2892B189cFrBK0pW8pF0hr3SV0B//nLhzf9/S8fPtB+wjYPrPzelPemvD+lsZawyeWEzUZs
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

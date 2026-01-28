@@ -1,0 +1,32 @@
+---
+id: 0f21bc69-ad1e-4011-b337-570f5ac5eccf
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - pezd6gm8lofhfrsqavvfjh2zlqmtku
+  - kmdt2prfotyeawp3rcq5okzi5xwey
+  - >-
+    aewsaabe2htrutqmwkrbfrbpwmwwhgjzmlptqmrniws2kqzqwqwmkp41wpvrsg0mycmvynvfbaqhluxq3p8tksguxamuf
+  - styau2gy2e2sthi42nlmmwu2nrtvnpjdfydw0sziko9hmp6xv6qrl1sgwvvpyavvvdkv
+  - >-
+    csnqrqadskptixib1wg4nurqjd7ybbsoh7b6m5zvzvyvyfwv65ergfujrnqa4gqdqdxushurakv6cgxaagkrr2t2vdoweu
+---
+# PEzD6gM8lofhFrsqAVVfjH2ZLQmtku/kmDT2pRFotYeawp3RCq5oKzi5XWeY/aEWsAabE2htRutqMwKr
+
+## Context
+From document: New Note — chunk 15739 (chunk 15739/21099)
+
+## Content
+PEzD6gM8lofhFrsqAVVfjH2ZLQmtku/kmDT2pRFotYeawp3RCq5oKzi5XWeY/aEWsAabE2htRutqMwKrBFRbpwmwWhGJzMlpTQmrNiWs2kQzqwqwmkp41WpvRSg0mYCMVYNVFbAqhlUxq3p8tKsGUxAMUf/sTyaU2gY2e2stHI42NLMmwU2NrtvNPjdfyDw0szIkO9hmp6XV6qRl1SGWVVpYaVvVDKv+CsNqRqadsKpTixiB1Wg4nUrqJD7YbbSoH7B6m5ZVZVYVYFWV65ErgFUjrNqA4GqdQdXUShurAKv6cgXAagKrr2t2VdOweu+DWbV9iTT779/H8JNPPrnph81Zs2bFNYre6uN8PwKrcqxy4U0ZZ+P92KvaRo0apV2MutX5MZe7P58/6qLp/fV129xbcwbMGTBnwJwBcwbMGTBnwJyBOzEDd+ozvvxYLeZU9d1E8vTp03Hq1Cl8+umn2p1sdu3ahdLS0hvG7Ny58yZA8n4HVqdOnVp1jKtXr77p+O7UY1KX7Qggon/MBEioy3L38pi6HtP9DOOp+f87HIM6FjPX/3qEwFECIhnnrqHOi4Zaj3H//uq6EVaVO6PJXdAUsCr5+eefv2ne/or9uhPv8+Y2qp8BE1i9c8Dqd999B4nqYNV4dlU9uPrTTz9ptlXJEsqqasx6YFXBqvossKrAqSpLWcUff/wBFQKo6ssCqMaDVtU1V5WNsKqCVPXZCKwKoGoMAVf1oQdV9WUFq6qsB1XlNTpeKEBVZQFUpWwEVVW9JlhVD64aoVU9pKovG0FVY11BqvosQKrU44GrAqjGA1YVoCr9qqzgVGOOZ1ZVbbW99scDVKVNQan6ftWmzwKb6utSVqCqvqzajFmAU9WmANaash5GvRVYVYBS/Tr09VsFVY3LCQCq2vRQaUOUBdpUgKk+69etxqh+qd/JkHct/fb0dfWOpvqNffp2fZ+xXa2npizLmP/u7RnICgWQmxHRzKptczI1YFWg1bbZUeQEbYh5aT0ll+VJo0wwmXezTiYslpZMCM+BmD+InGgm8rP4h7Q5hcjJyiOsmkkZYYisl4+8lot3xLbD6rLC6rYinTlRwFV7GtutlBcSWLWmwJrMdSc0RzA5AW3Z1jc3igXD++Pi5hV45/BWfHpiDz47uQufHN2KLwirfnt+D649tw9fnRVgdSNeO7YRzx5cg9PbF+Hs
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

@@ -1,0 +1,26 @@
+{
+  "id": "d5068ee7-17ad-4c20-b5dc-9cafd6e18663",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt>**SOCIO_002:** register_classification - Formal/informal/technical/lite",
+  "content": "<div><tt>**SOCIO_002:** register_classification - Formal/informal/technical/literary</tt></div>\n<div><tt>**SOCIO_003:** style_analysis - Authorship attribution features</tt></div>\n<div><tt>**SOCIO_004:** code_switching_detection - Multilingual discourse shifts</tt></div>\n<div><tt>**SOCIO_005:** politeness_strategy_detection - Positive/negative face</tt></div>\n<div><tt>**SOCIO_006:** formality_scoring - Lexical/syntactic formality metrics</tt></div>\n<div><tt>**SOCIO_007:** gender_language_analysis - Sociolinguistic gender markers (with ethics constraints)</tt></div>\n<div><tt>**SOCIO_008:** cultural_context_retrieval - WKRM integration for cultural norms</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### **ICONOGRAPHY &amp RHETORIC (12 functions)**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**ICONO_001:** emoji_sense_disambiguation - Context-dependent interpretation (EmojiNet)  </tt></div>\n<div><tt>**ICONO_002:** emoji_sentiment_analysis - VAD scores per emoji  </tt></div>\n<div><tt>**ICONO_003:** hieroglyph_processing - Egyptian/Mayan/Chinese pictographs</tt></div>\n<div><tt>**ICONO_004:** typography_analysis - Font semantics, CAPS, emphasis</tt></div>\n<div><tt>**ICONO_005:** meme_template_recognition - Visual templates + multimodal irony</tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 11 (chunk 11/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "socio_002",
+    "register_classification",
+    "formal",
+    "informal",
+    "technical"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

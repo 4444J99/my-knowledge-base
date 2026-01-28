@@ -1,0 +1,26 @@
+{
+  "id": "7400419b-4d60-42b1-a6b1-5f8ad403bff9",
+  "type": "insight",
+  "timestamp": "2025-02-12T19:07:35.000Z",
+  "title": "<div> Published. Click to unpublish Week 5 Daily Journal. </div>",
+  "content": "<div> Published. Click to unpublish Week 5 Daily Journal. </div>\n<div>Discussion Topic</div>\n<div>Daily Journal</div>\n<div>24 pts</div>\n<div> Can't unpublish Daily Journal if there are student submissions </div>\n<div>Context Module Sub Header</div>\n<div>Week 5 In-Class Activities</div>\n<div> Published. Click to unpublish Week 5 In-Class Activities. </div>\n<div>Assignment</div>\n<div>In-Class Activities</div>\n<div>16 pts</div>\n<div> Can't unpublish In-Class Activities if there are student submissions </div>\n<div>Context Module Sub Header</div>\n<div>Week 5 Assignments</div>\n<div> Published. Click to unpublish Week 5 Assignments. </div>\n<div>Assignment</div>\n<div>Week 5 | Weekly Writing Warm-Up</div>\n<div>Feb 27</div>\n<div>100 pts</div>\n<div> Published. Click to unpublish Week 5 | Weekly Writing Warm-Up. </div>\n<div>Discussion Topic</div>\n<div>Week 5 | Discussion: Persuasive Passage</div>\n<div>Feb 27</div>\n<div>100 pts</div>\n<div> Published. Click to unpublish Week 5 | Discussion: Persuasive Passage. </div>\n<div>Assignment</div>\n<div>Week 5 | Assignment: Credible Sources and APA</div>\n<div>Feb 27</div>\n<div>100 pts</div>\n<div> Published. Click to unpublish Week 5 | Assignment: Credible Sources and APA. </div>",
+  "context": "From document: Weeks 1 - 6 Canvas Data Dump — chunk 132 (chunk 132/188)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1b21c03b1f1909954adca118a79b0158",
+  "relatedUnits": [],
+  "keywords": [
+    "week",
+    "unpublish",
+    "published",
+    "click",
+    "assignment"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

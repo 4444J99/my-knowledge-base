@@ -1,0 +1,26 @@
+{
+  "id": "81866fee-414c-44ca-aec1-7168826d30d0",
+  "type": "insight",
+  "timestamp": "2021-12-16T13:31:58.000Z",
+  "title": "<div>Do you notice a difference?</div>",
+  "content": "<div>Do you notice a difference?</div>\n<div><br></div>\n<div>No. </div>\n<div><br></div>\n<div>How could you not notice a difference?!</div>\n<div><br></div>\n<div>Go choke in a corner and die. </div>",
+  "context": "From document: Do you notice a difference?",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "7cc7f23b4476621de8ccb6584918cd0a",
+  "relatedUnits": [],
+  "keywords": [
+    "notice",
+    "difference",
+    "could",
+    "choke",
+    "corner"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

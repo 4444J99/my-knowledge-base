@@ -1,0 +1,26 @@
+{
+  "id": "ad00176d-51b2-4dfc-9f6a-fe599253fe72",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><font face=\".AppleColorEmojiUI\">📜</font> 4. The “Marty McFly” Disappearanc",
+  "content": "<div><font face=\".AppleColorEmojiUI\">📜</font> 4. The “Marty McFly” Disappearance System</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Absences now affect the entire class AND the absent student.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> How Absenteeism Affects the Class:</div>\n<div>  •  When an absent student is selected, a global effect occurs (rolled randomly).</div>\n<div>  •  Example Consequences:</div>\n<div>  •  A rule is altered.</div>\n<div>  •  A faction suffers a collective debuff.</div>\n<div>  •  The environment shifts unpredictably.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> How Absenteeism Affects the Student:</div>\n<div>  •  First absence: No penalty, just a warning.</div>\n<div>  •  Second absence: XP loss.</div>\n<div>  •  Third absence: Student becomes a “Specter.”</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Specter Status Penalties:</div>\n<div>  •  No ability to collect items.</div>\n<div>  •  Cannot vote in faction decisions.</div>\n<div>  •  Must complete a special redemption task to return.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 466 (chunk 466/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "student",
+    "applecoloremojiui",
+    "zapfdingbatsitc"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

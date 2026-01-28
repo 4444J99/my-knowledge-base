@@ -1,0 +1,26 @@
+{
+  "id": "64d1099f-10b6-4e6d-950d-6d11fa55ad07",
+  "type": "insight",
+  "timestamp": "2025-06-25T16:13:33.000Z",
+  "title": "<div><h2>1. Your Information</h2></div>",
+  "content": "<div><h2>1. Your Information</h2></div>\n<div>To start, please state your full legal name, your current mailing address, and your relationship to the person who passed away.</div>\n<div><br></div>\n<div>---</div>\n<div><br><br></div>\n<div><i>Tap below this line, press the 📎 icon, and record your answer.</i><br></div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div><h2>2. The Deceased’s Information 🕊️</h2></div>\n<div>What was their full legal name, their last known address, their date of death, and the city where they passed awa</div>\n<div><br><br></div>\n<div><br></div>\n<div>Michael Joseph Parente</div>\n<div><br></div>\n<div>5240 NW. 3rd St. apartment B Delray Beach, FL 33445</div>\n<div>Date of birth July 14, 1949</div>\n<div>Date of death, May 2, 2025</div>\n<div>---</div>\n<div><br></div>\n<div>Tap below this line, press the 📎 icon, and record your answer.</div>\n<div><br></div>\n<div>---</div>\n<div><br><br></div>\n<div><h2>3. The Will</h2></div>\n<div>What is the date written on the will?</div>\n<div><br></div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>Tap below this line, press the 📎 icon, and record your answer.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div><h2>4. The Beneficiaries 👨‍👩‍👧‍👦</h2></div>",
+  "context": "From document: Probate Paperwork Interview — chunk 2 (chunk 2/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "2342a9a5a8aea0a06da78e819e4843fa",
+  "relatedUnits": [],
+  "keywords": [
+    "your",
+    "date",
+    "below",
+    "this",
+    "line"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

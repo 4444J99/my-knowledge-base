@@ -1,0 +1,26 @@
+{
+  "id": "1589aa39-bd16-41db-ab4a-71703d655fa9",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>9. **a-context7** – Context7 MCP Server for LLMs</div>\n<div>10. **github-mcp-server** – GitHub MCP Server</div>\n<div>11. **docs-et-cet-alia** (TypeScript) – GitHub docs fork</div>\n<div>12. **demo-repository** (HTML) – GitHub showcase</div>\n<div>13. **.github** (Shell) – Org configuration</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **🌐 Web &amp Interface (2 repos)**</div>\n<div><br></div>\n<div>14. **muse-shrine-etcetera** (HTML) – etceter4.com</div>\n<div>15. **petasum-super-petasum** – Meta-layering abstractions</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **📊 Data Intelligence (3 repos)**</div>\n<div><br></div>\n<div>16. **tab-bookmark-manager** (JavaScript) – AI content analysis</div>\n<div>17. **public-record-data-scrapper** (TypeScript) – Data ingestion</div>\n<div>18. **jvpiter-inquiry-labors** (Jupyter) – Research/analysis</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **🚀 Applications (5 repos)**</div>\n<div><br></div>\n<div>19. **fetch-familiar-friends** (JavaScript) – Pet social hub</div>\n<div>20. **anon-hookup-now** (Kotlin) – Grid+map rendezvous</div>\n<div>21. **trading-perpetual-futures** (TypeScript) – Solana trading</div>",
+  "context": "From document: Contents_Table — chunk 61 (chunk 61/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "github",
+    "server",
+    "typescript",
+    "repos",
+    "data"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

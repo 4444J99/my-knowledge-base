@@ -1,0 +1,26 @@
+{
+  "id": "cab5dbfb-d10c-481d-baf1-8ac92c212a0b",
+  "type": "insight",
+  "timestamp": "2025-06-17T20:44:00.000Z",
+  "title": "<div>torch 14 tpi  sawzall blade </div>",
+  "content": "<div>torch 14 tpi  sawzall blade </div>\n<div><br></div>\n<div>2 1/2 in whole saw (no arbor required)</div>\n<div><br></div>",
+  "context": "From document: torch 14 tpi  sawzall blade",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a267c9248bfe09281f31ece3ce1ebe2d",
+  "relatedUnits": [],
+  "keywords": [
+    "torch",
+    "sawzall",
+    "blade",
+    "whole",
+    "arbor"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

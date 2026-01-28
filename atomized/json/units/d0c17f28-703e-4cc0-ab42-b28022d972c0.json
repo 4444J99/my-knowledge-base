@@ -1,0 +1,26 @@
+{
+  "id": "d0c17f28-703e-4cc0-ab42-b28022d972c0",
+  "type": "insight",
+  "timestamp": "2025-06-30T13:57:29.000Z",
+  "title": "<div><h2>1. Your Information</h2></div>",
+  "content": "<div><h2>1. Your Information</h2></div>\n<div>To start, please state your full legal name, your current mailing address, and your relationship to the person who passed away.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div><i>Tap below this line, press the 📎 icon, and record your answer.</i><br></div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div><h2>2. The Deceased’s Information 🕊️</h2></div>\n<div>What was their full legal name, their last known address, their date of death, and the city where they passed away?</div>\n<div><br></div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>Tap below this line, press the 📎 icon, and record your answer.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div><h2>3. The Will</h2></div>\n<div>What is the date written on the will?</div>\n<div><br></div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>Tap below this line, press the 📎 icon, and record your answer.</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div><h2>4. The Beneficiaries 👨‍👩‍👧‍👦</h2></div>\n<div>Please list every person named as a beneficiary in the will. For each one, I need:</div>\n<div>1. Their full name</div>\n<div>2. Their current mailing address</div>",
+  "context": "From document: Probate Paperwork Interview — chunk 2 (chunk 2/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "bab62be543c9218ee418bb86bd762469",
+  "relatedUnits": [],
+  "keywords": [
+    "your",
+    "their",
+    "full",
+    "name",
+    "address"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

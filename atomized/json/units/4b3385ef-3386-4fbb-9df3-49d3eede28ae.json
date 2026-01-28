@@ -1,0 +1,26 @@
+{
+  "id": "4b3385ef-3386-4fbb-9df3-49d3eede28ae",
+  "type": "insight",
+  "timestamp": "2025-04-19T03:37:41.000Z",
+  "title": "<div><tt>| P15     | vertical &lt&gt horizontal &amp compress &lt&gt expand | ma",
+  "content": "<div><tt>| P15     | vertical &lt&gt horizontal &amp compress &lt&gt expand | male/female        | archetype selector   |</tt></div>\n<div><tt>| P16     | finite &lt&gt infinite &amp solo &lt&gt group          | enabled/disabled   | function switch      |</tt></div>\n<div><tt>| P17     | active &lt&gt passive &amp opacity &lt&gt clarity      | awake/asleep       | user engagement      |</tt></div>\n<div><tt>| P18     | stable &lt&gt shifting &amp rigid &lt&gt fluid         | clean/corrupt      | system integrity     |</tt></div>\n<div><tt>| P19     | front &lt&gt back &amp ritual &lt&gt accident          | safe/unsafe        | recursion gate       |</tt></div>\n<div><tt>| P20     | ego &lt&gt mask &amp archive &lt&gt erasure            | high/low           | volume logic         |</tt></div>\n<div><tt>| P21     | gravity &lt&gt levity &amp auto &lt&gt improv          | accept/reject      | decision fork        |</tt></div>\n<div><tt>| P22     | harmony &lt&gt chaos &amp sync &lt&gt drift            | sync/desync        | timing lock          |</tt></div>\n<div><tt>| P23     | solar &lt&gt lunar &amp awake &lt&gt dreaming          | active/inactive    | AI thread toggle     |</tt></div>\n<div><tt>| P24     | scarce &lt&gt plenty &amp vertical &lt&gt cyclical     | logged/out         | memory state         |</tt></div>",
+  "context": "From document: # [#dual_binary_bridge] — chunk 3 (chunk 3/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "7853b8eb2fa550c0c55724ac3bd0cfbe",
+  "relatedUnits": [],
+  "keywords": [
+    "vertical",
+    "active",
+    "awake",
+    "sync",
+    "horizontal"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

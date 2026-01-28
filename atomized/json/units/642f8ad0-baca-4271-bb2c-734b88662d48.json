@@ -1,0 +1,26 @@
+{
+  "id": "642f8ad0-baca-4271-bb2c-734b88662d48",
+  "type": "insight",
+  "timestamp": "2025-04-12T20:00:44.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## SUGGESTED FILES (NEXT TO GENERATE)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| File | Purpose |</tt></div>\n<div><tt>|------|---------|</tt></div>\n<div><tt>| `SYS_FOLDER_RENAME_0412.md` | Track renamed folders during live audit |</tt></div>\n<div><tt>| `SYS_OVERFLOW_EVENTS.md` | Log collapse/doubt/crash moments |</tt></div>\n<div><tt>| `POV_SHADOW_CRITIC.md` | Formalize internal skeptic/archivist voice |</tt></div>\n<div><tt>| `COMMERCIALIZATION_PLAN.md` | Map process-to-product flows |</tt></div>\n<div><tt>| `SYLLABUS_ENGINE_TEMPLATE.md` | Future education-facing outputs |</tt></div>\n<div><tt>| `RITUAL_COMMAND_SEQUENCES.md` | Auto-deploy GPT actions and object creation |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## CROSS-PHASE LINKS</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### | PHASE 2.5 – Naming + Symbol Grammar</tt></div>\n<div><tt>- `SYS_N4M1NG_PROTOCOL_0412_DROP.md`</tt></div>\n<div><tt>- `REVIVE_0412_SEGMENT_001.md`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### | PHASE 3A – System Object Export</tt></div>\n<div><tt>- `SYS_EXPORT_0412_MASTER.md`</tt></div>",
+  "context": "From document: REVIVE_0412_META_MANIFEST.md — chunk 4 (chunk 4/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "9a1920c7754714f9ab6fff8085dd6b66",
+  "relatedUnits": [],
+  "keywords": [
+    "phase",
+    "object",
+    "suggested",
+    "files",
+    "next"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

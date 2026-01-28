@@ -1,0 +1,26 @@
+{
+  "id": "56c16deb-c509-4e8e-b6bb-bc5941267192",
+  "type": "insight",
+  "timestamp": "2025-11-05T21:42:26.000Z",
+  "title": "</ul>",
+  "content": "</ul>\n</ol>\n<div><br></div>\n<ol>\n<li><b>Federal Contracts (SAM.gov API)</b> - Enhanced</li>\n<ul class=\"Apple-dash-list\">\n<li>Government contract awards (revenue signals)</li>\n<li><b>Endpoint:</b> <font color=\"#CB30E0\">https://api.sam.gov/entity-information/v3/entities</font><br></li>\n<li><b>Cost:</b> Free API, but premium parsing/monitoring</li>\n</ul>\n</ol>\n<div><br></div>\n<ol>\n<li><b>News &amp Sentiment (AlphaVantage, NewsAPI, Factiva)</b><br></li>\n<ul class=\"Apple-dash-list\">\n<li>Real-time news monitoring</li>\n<li>AI-powered sentiment analysis</li>\n<li><b>Cost:</b> $50-500/month depending on volume</li>\n</ul>\n</ol>\n<div><br></div>\n<div><b>Implementation:</b><br></div>\n<div><tt>// src/lib/data-sources/professional-tier.ts</tt></div>\n<div><tt>export class ProfessionalTierDataSource extends StarterTierDataSource {</tt></div>\n<div><tt>  async getComprehensiveCredit(companyName: string) {</tt></div>\n<div><tt>    const experian = await this.experianAPI.getCreditReport(companyName);</tt></div>\n<div><tt>    return {</tt></div>\n<div><tt>      creditScore: experian.businessCreditScore,</tt></div>\n<div><tt>      bankruptcyRisk: experian.bankruptcyModel,</tt></div>\n<div><tt>      paymentIndex: experian.intelliscore,</tt></div>",
+  "context": "From document: data enrichment strategy for ucc-mca intelligence platform — chunk 7 (chunk 7/32)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "42efb0f415b2f324521d2959a50f91bf",
+  "relatedUnits": [],
+  "keywords": [
+    "experian",
+    "class",
+    "apple",
+    "dash",
+    "list"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

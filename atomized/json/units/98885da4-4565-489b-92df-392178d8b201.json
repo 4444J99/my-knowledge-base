@@ -1,0 +1,26 @@
+{
+  "id": "98885da4-4565-489b-92df-392178d8b201",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Wants to build vocabulary banks, terminology indexes, cheat sheets, and instructional Mad Lib-style templates for applying their systems across projects. They are interested in reflecting these systems across micro and macro levels, seeing them as both archival tools and cultural studies—part of a broader anthological approach to their digital and creative life.</div>\n<div><br></div>\n<div>Hates guessing and prefers when uncertainty is acknowledged explicitly. They would rather be presented with confidence levels (e.g., percentages) than have the system make assumptions. They want ChatGPT to disagree when logic or the greater system purpose is at stake, even if it contradicts their request. User views their interaction with ChatGPT as a collaboration within a sandbox environment, where both entities should serve a greater creative and organizational purpose.</div>\n<div><br></div>\n<div>Is deeply concerned with memory and recall, noting that their creative strengths lie in synthesis and insight, not memorization. They fear losing important details and want assurances that content is not being forgotten, duplicated, or misrepresented. They are also self-aware that their obsession with perfection and organization can be a form of procrastination, often leading to long periods of tinkering (e.g., spending hours on aesthetic details like coloring folders). They want ChatGPT to acknowledge and process the layered, often multifaceted nature of their prompts, and confirm that it is digesting the complexity rather than oversimplifying or ignoring parts.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_041225_MASTER — chunk 20 (chunk 20/35)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "a6c8d7ecac270c27cc9e416b39cd8866",
+  "relatedUnits": [],
+  "keywords": [
+    "their",
+    "they",
+    "with",
+    "that",
+    "creative"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

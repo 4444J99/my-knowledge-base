@@ -1,0 +1,26 @@
+{
+  "id": "878ccdc3-f2b2-4e32-98ae-e1384755677f",
+  "type": "insight",
+  "timestamp": "2024-03-25T23:44:04.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Home</div>\n<div>│</div>\n<div>├── About Us</div>\n<div>│   ├── Our Story</div>\n<div>│   ├── Meet the Team</div>\n<div>│   ├── AI and Human Synergy</div>\n<div>│   └── Careers</div>\n<div>│</div>\n<div>├── Services</div>\n<div>│   ├── Digital Marketing</div>\n<div>│   │   ├── Content Creation</div>\n<div>│   │   │   ├── Blogging</div>\n<div>│   │   │   └── Video Production</div>\n<div>│   │   ├── Social Media Management</div>\n<div>│   │   │   ├── Organic Social Media</div>\n<div>│   │   │   └── Social Media Ads</div>\n<div>│   │   ├── SEO (Search Engine Optimization)</div>\n<div>│   │   ├── Website Management</div>\n<div>│   │   │   ├── Website Development</div>\n<div>│   │   │   └── Website Maintenance</div>\n<div>│   │   ├── Email Marketing</div>\n<div>│   │   └── Podcast Production</div>\n<div>│   │</div>\n<div>│   ├── Multimedia Production</div>\n<div>│   │   ├── Photography</div>\n<div>│   │   ├── Videography</div>\n<div>│   │   └── Audio Production</div>\n<div>│   │</div>\n<div>│   ├── Emerging Technologies</div>\n<div>│   │   ├── AR/VR Experiences</div>\n<div>│   │   ├── Chatbot Development</div>\n<div>│   │   └── Blockchain Solutions</div>\n<div>│   │</div>\n<div>│   ├── Pricing Models</div>",
+  "context": "From document: Ulti Tool Media — chunk 2 (chunk 2/3)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "400813fd3782ed8d1c08990f67b468b5",
+  "relatedUnits": [],
+  "keywords": [
+    "production",
+    "social",
+    "media",
+    "website",
+    "marketing"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

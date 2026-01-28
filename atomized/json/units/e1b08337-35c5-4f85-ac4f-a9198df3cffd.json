@@ -1,0 +1,26 @@
+{
+  "id": "e1b08337-35c5-4f85-ac4f-a9198df3cffd",
+  "type": "insight",
+  "timestamp": "2025-10-28T10:46:01.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div>🧭<b> 10. Implementation Meta-Prompt (next-phase)</b><br></div>\n<div><br></div>\n<div><b>Goal:</b>  Design the interface and visualization grammar of the RLOS as a living, evolving organism.  Describe how users manipulate language through touch, gesture, and sound within the symbolic canvas, how each edit ripples through the rhetorical-linguistic lattice, and how the system self-represents its transformations aesthetically.</div>\n<div><br></div>\n<div><b>Include:</b> architecture sketch, data schemas, aesthetic principles, interaction metaphors, ethical boundaries, and multilingual/iconographic handling.</div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div>⚙️<b> 11. Environment Variables</b><br></div>\n<div><br></div>\n<div><tt>$PROJECT_NAME=&quotRE:GE_OS_RHETORICAL_LINGUISTICS&quot</tt></div>\n<div><tt>$MODE=&quotRAW&quot</tt></div>\n<div><tt>$VISUAL_LAYER=&quotemoji|hiero|icon|typography&quot</tt></div>\n<div><tt>$LANGS=&quotauto,ar,zh,en,es,hi,ja,ru&quot</tt></div>\n<div><font face=\".AppleSystemUIFontMonospaced-Regular\"><span style=\"font-size: 12px\">$OUT_DIR=&quot$HOME/exports/rege_os_v2&quot</span></font><br></div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: That’s an exceptionally strong synthesis — the GROK-response you drafted… — chunk 7 (chunk 7/18)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "fa6133a073d57355068edfa84e39fc3c",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "font",
+    "through",
+    "span",
+    "implementation"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "32a261a1-b519-43fe-8464-dbf54c569a4f",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>22. **render-second-amendment** (G-code) – 3D printing</div>",
+  "content": "<div>22. **render-second-amendment** (G-code) – 3D printing</div>\n<div>23. **select-or-left-or-right-or** – Decision routing</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **COMPLETE CROSS-LAYER ANALYSIS**</div>\n<div><br></div>\n<div>### **🔗 Integration Points (What Already Connects)**</div>\n<div><br></div>\n<div>#### **Layer 1 (AI) → Layer 2 (Personal):**</div>\n<div>✓ **chatgpt-exporter** – Extracts AI conversations</div>\n<div>✓ **terminal-ai, aionui, kimi-cli** – AI interfaces</div>\n<div>✓ **Cookbooks** (openai, anthropic, xai) – AI implementation guides</div>\n<div><br></div>\n<div>#### **Layer 2 (Personal) → Layer 3 (Org):**</div>\n<div>- **codex** → Could inform **a-context7** (code documentation)</div>\n<div>- **semgrep** → Could inform **system-governance-framework** (code governance)</div>\n<div>- **renovate, git-auto-commit-action** → Could inform **auto-revision-epistemic-engine** (automation)</div>\n<div>- **maxmsp_ai, p5.js, SoundJS** → Creative patterns could inform org architecture</div>\n<div>- **awesome-scalability** → Patterns implemented in org infrastructure</div>\n<div><br></div>\n<div>#### **Layer 3 (Org) → Layer 1 (AI):**</div>\n<div>✓ **a-context7** – Generates AI-readable documentation</div>",
+  "context": "From document: Contents_Table — chunk 62 (chunk 62/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "layer",
+    "could",
+    "inform",
+    "code",
+    "personal"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

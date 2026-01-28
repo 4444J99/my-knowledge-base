@@ -1,0 +1,26 @@
+{
+  "id": "15a629db-692c-455b-81c3-f1dd24c03123",
+  "type": "insight",
+  "timestamp": "2025-03-05T14:18:11.000Z",
+  "title": "CCCAAAIIIICAlwDB14uEGQgggAACCCCAAAIIIIAAAoEkQPANpNqkLAgggAACCCCAAAIIIIAAAl4CBF8v",
+  "content": "CCCAAAIIIICAlwDB14uEGQgggAACCCCAAAIIIIAAAoEkQPANpNqkLAgggAACCCCAAAIIIIAAAl4CBF8vEmYggAACCCCAAAIIIIAAAggEkgDBN5Bqk7IggAACCCCAAAIIIIAAAgh4CRB8vUiYgQACCCCAAAIIIIAAAgggEEgCBN9Aqk3KggACCCCAAAIIIIAAAggg4CVA8PUiYUZUCGzZuTsqdsM+EEAAAQQQQCBABIoUzBcgJaEYCCAQHQIE3+hQZ5+iwfeZnFmRQAABBBBAAAEE7imwZ/9hIfjek4kFEEAgFAGCbyg4fBR5AgTfyLNlywgggAACCASaAME30GqU8iAQ9QIE36g3Z49GgODL1wABBBBAAAEE/BUg+PorxXIIIOBLgODrS4b5kSpA8I1UXjaOAAIIIIBAQAkQfAOqOikMAtEiQPCNFnZ2SvDlO4AAAggggAAC/goQfP2VYjkEEPAlQPD1JcP8SBUg+EYqLxtHAAEEEEAgoAQIvgFVnRQGgWgRIPhGCzs7JfjyHUAAAQQQQAABfwUIvv5KsRwCCPgSIPj6kmF+pAoQfCOVl40jgAACCCAQUAIE34CqTgqDQLQIEHyjhZ2dEnz5DiCAAAIIIICAvwIEX3+lWA4BBHwJEHx9yTA/UgUIvpHKy8YRQAABBBAIKAGCb0BVJ4VBIFoECL7Rws5OCb58BxBAAAEEEEDAXwGCr79SLIcAAr4ECL6+ZJgfqQIE30jlZeMIIIAAAggElADBN6Cqk8IgEC0CBN9oYWenBF++AwgggAACCCDgrwDB118plkMAAV8CBF9fMsyPVAGCb6TysnEEEEAg1gpcvXpVzpw5I1euXJGbN2+K4zixtiwx4cDjxYsniRIlkmTJkknatGkladKkMeGwwnwMBN8wk7ECAggEEyD4BgPhbdQIEHyjxpm9IIAAArFJ4NChQ3Lp0iVJnz69pEyZUh555BHR4MYUfgH94eCvv/6SixcvyqlTpyRFihSSLVu28G8wmtYk+EYTPLtFIIAECL4BVJmxqSgE39hUWxwrAgggEPkCe/fulYQJE0rWrFkJu5HErSH48OHD8s8//0jevHkjaS/emz1+8YQs2bNGWr3UwPtDP+cQfP2EYjEEEPApQPD1ScMHkSlA8I1MXbaNAAIIxC4BDWMaymJjS2Tskv7vaLVlXVvS9UeGyJ409I5cPVV6",
+  "context": "From document: 1: — chunk 133 (chunk 133/630)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "d56851c0b64e6fc46a6205c88fb237ad",
+  "relatedUnits": [],
+  "keywords": [
+    "cccaaaiiiicalwdb14uegqgggaaccccaaaiiiiaaaoekqpanpnqklagggaaccccaaaiiiiaaal4cbf8vemyggaaccccaaaiiiiaaaggekgdbn5bqk7iggaaccccaaaiiiiaaagh4crb8vuiygqaccccaaaiiiiaaagggeegcbn9aqk3kggaccccaaaiiiiaaaggg4cva8puiyuzucgzzutsqdsm",
+    "eeaaaqqqqcbabiouzbcgjaeyccaqhqie3",
+    "hqz5",
+    "iwfeznfmrqaabbbbaaaee7imwz",
+    "9hifjek4kfeeagfagcbyg4fbr5agtfylnlywgggaaccasaame30gqu8iaq9qie36g3z49ggodl1wabbbbaaaee"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

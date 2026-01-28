@@ -1,0 +1,26 @@
+{
+  "id": "bae2ce21-37c6-4c7f-a51b-3be91e1c1868",
+  "type": "insight",
+  "timestamp": "2024-02-29T00:17:08.000Z",
+  "title": "<div>Notarization</div>",
+  "content": "<div>Notarization</div>\n<div><br></div>\n<div>This document was signed and acknowledged before me on this ___ day of ____________, 20__, by [name of the individual signing for the Service Provider] as the representative of UltiTool Media LLC., and [name of the individual signing for the Client] as the representative of Florida Luxury Waterfront Properties, who [is/are] personally known to me or [has/have] produced [type of identification] as identification.</div>\n<div><br></div>\n<div>State of ______________________</div>\n<div><br></div>\n<div>County of _____________________</div>\n<div><br></div>\n<div>On this day, before me, a Notary Public, personally appeared [name of the representative of the Service Provider] and [name of the representative of the Client], known to me (or satisfactorily proven) to be the persons whose names are subscribed to the within instrument and acknowledged that they executed the same for the purposes therein contained.</div>\n<div><br></div>\n<div>In witness whereof, I hereunto set my hand and official seal.</div>\n<div><br></div>\n<div>______________________________  </div>\n<div>Notary Public</div>\n<div><br></div>\n<div>My Commission Expires: ________</div>\n<div><br></div>",
+  "context": "From document: Notarization — chunk 1 (chunk 1/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "cc82e30dd699ef5cc02ce76d8596c630",
+  "relatedUnits": [],
+  "keywords": [
+    "name",
+    "representative",
+    "this",
+    "acknowledged",
+    "before"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

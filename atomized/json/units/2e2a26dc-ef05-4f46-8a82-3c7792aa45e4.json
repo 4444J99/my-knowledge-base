@@ -1,0 +1,26 @@
+{
+  "id": "2e2a26dc-ef05-4f46-8a82-3c7792aa45e4",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>KNOS0100_tanenbaum_os.mdKN-LF_01-01</div>",
+  "content": "<div>KNOS0100_tanenbaum_os.mdKN-LF_01-01</div>\n<div>Linux From ScratchOS Bootstrapping Blueprint</div>\n<div>KNLF0101_linux_from_scratch.mdKN-SP_01-02</div>\n<div>Systems Performance (Gregg)Energy Maps &amp Load Logic</div>\n<div>KNSP0102_systems_performance_metrics.mdKN-MW_02-00</div>\n<div>Metaphors We Live ByCore Symbol Translator</div>\n<div>KNMW0200_metaphors_logic.mdKN-TP_02-01</div>\n<div>A Thousand PlateausMythic Modular AI Swarms</div>\n<div>KNTP0201_plateaus_ai_modularity.mdKN-GB_02-02</div>\n<div>Gödel, Escher, BachRecursive Mirror Labyrinth</div>\n<div>KNGB0202_geb_recursive_mirrors.mdKN-DS_03-00</div>\n<div>DSL Builder (Holden)Custom Language Engineering</div>\n<div>KNDS0300_dsl_syntax_system.mdKN-DD_03-01</div>\n<div>Data-Intensive Apps (Kleppmann)Symbolic Wave/Archive Fusion</div>\n<div>KNDD0301_data_fusion_layer.mdKN-FP_03-02</div>\n<div>Red Book (FP in Scala)Immutable Logic Builders</div>\n<div>KNFP0302_functional_scala_symbolism.md🧰 OPTIONAL NEXT ACTIONS</div>\n<div>  1  🔄 Convert into folder hierarchy with UID prefixes  2  📁 Auto-generate UID_MAP.md + REVISION_HISTORY.md for the KNOWLEDGE_STACK/ vault</div>\n<div>  3  🌀 Map UID symbols to symbolic meanings (e.g. ST = STRUCTURE, NO = NORVIGIAN AI)</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 282 (chunk 282/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "mdkn",
+    "logic",
+    "symbolic",
+    "knos0100_tanenbaum_os",
+    "lf_01"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

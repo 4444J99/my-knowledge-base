@@ -1,0 +1,26 @@
+{
+  "id": "5be412cd-a589-469c-a348-d10c5bc1b844",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>```</div>",
+  "content": "<div>```</div>\n<div>Function:</div>\n<div>1. Surface relevant archive material during AI conversations</div>\n<div>2. Feed old writings into current brainstorms</div>\n<div>3. Find patterns: &quotYou explored this idea 5 years ago&quot</div>\n<div>4. Resurrect abandoned concepts with new context</div>\n<div>5. Create continuity between past and present thinking</div>\n<div>```</div>\n<div><br></div>\n<div>**Use Cases:**</div>\n<div>- &quotPull all my writing about [concept] from 2018-2020&quot</div>\n<div>- &quotWhat music was I making when I wrote about [topic]?&quot</div>\n<div>- &quotShow me video projects from the same period as [document]&quot</div>\n<div>- &quotFind unfinished ideas that relate to current work&quot</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>### **Phase 2: The Translation (Archive → Code)**</div>\n<div><br></div>\n<div>**Transform creative work into executable systems:**</div>\n<div><br></div>\n<div>#### **`creative-archaeology-to-implementation`**</div>\n<div>```</div>\n<div>Workflows:</div>\n<div><br></div>\n<div>Writing → Code:</div>\n<div>- Extract concepts from essays/notes</div>\n<div>- Identify described systems or processes  </div>\n<div>- Generate code implementations</div>",
+  "context": "From document: Contents_Table — chunk 33 (chunk 33/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "from",
+    "code",
+    "archive",
+    "into"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

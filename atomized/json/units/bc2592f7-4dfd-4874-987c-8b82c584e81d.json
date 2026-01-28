@@ -1,0 +1,26 @@
+{
+  "id": "bc2592f7-4dfd-4874-987c-8b82c584e81d",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div>(If `--disable-extension` not available for your build, use profile switchi",
+  "content": "<div>(If `--disable-extension` not available for your build, use profile switching.)</div>\n<div><br></div>\n<div>**Conflict Checklist**</div>\n<div>- Two simultaneous inline suggestion ghost texts? Disable one provider’s inline.</div>\n<div>- Chat panels auto-opening? Set their “openOnStartup” false.</div>\n<div>- Frequent duplicate keybinding prompts? Check Keyboard Shortcuts for overlapping AI commands; reassign one.</div>\n<div><br></div>\n<div>**Minimal Keep-All Baseline (Add to settings)**</div>\n<div>```jsonc</div>\n<div>{</div>\n<div>  &quotfiles.autoSave&quot: &quotonFocusChange&quot,</div>\n<div>  &quoteditor.formatOnSave&quot: true,</div>\n<div>  &quotworkbench.editor.pinnedTabsOnSeparateRow&quot: true,</div>\n<div>  &quotwindow.autoDetectColorScheme&quot: true,</div>\n<div>  &quotvscode_vibrancy.opacity&quot: 0.85,</div>\n<div>  &quoteditor.inlineSuggest.enabled&quot: true,</div>\n<div>  &quotgithub.copilot.enable&quot: { &quottypescript&quot: true, &quotjavascript&quot: true, &quotmarkdown&quot: false },</div>\n<div>  &quotgeminicodeassist.inlineSuggestions.suggestionSpeed&quot: &quotFast&quot,</div>\n<div>  &quotchatgpt.inlineCompletion.enabled&quot: false,</div>\n<div>  &quotgeminicodeassist.verboseLogging&quot: false,</div>",
+  "context": "From document: User: fix — chunk 37 (chunk 37/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "true",
+    "false",
+    "disable",
+    "inline"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

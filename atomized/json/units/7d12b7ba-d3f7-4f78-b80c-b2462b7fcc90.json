@@ -1,0 +1,26 @@
+{
+  "id": "7d12b7ba-d3f7-4f78-b80c-b2462b7fcc90",
+  "type": "insight",
+  "timestamp": "2018-11-27T16:22:43.000Z",
+  "title": "<div>Turn Peer Review section into a discussion board.</div>",
+  "content": "<div>Turn Peer Review section into a discussion board.</div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: ENC 1101 & 1102 Ideas — chunk 2 (chunk 2/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "9dc87713c8c55928128d2c7d1bf0c387",
+  "relatedUnits": [],
+  "keywords": [
+    "turn",
+    "peer",
+    "review",
+    "section",
+    "into"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

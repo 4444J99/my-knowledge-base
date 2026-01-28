@@ -1,0 +1,26 @@
+{
+  "id": "e147a255-71d0-4b2d-bf55-c79ca2c08fca",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt>### **14. Continual Learning**</tt></div>",
+  "content": "<div><tt>### **14. Continual Learning**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Hybrid Approach (6 methods integrated):**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>1. **Replay**: Episodic memory buffer  (1-2% of data) </tt></div>\n<div><tt>1. **Parameter Regularization**: EWC-style importance weighting  </tt></div>\n<div><tt>1. **Functional Regularization**: Knowledge distillation on anchor points  </tt></div>\n<div><tt>1. **Optimization**: Sharpness-aware minimization (flat minima)  </tt></div>\n<div><tt>1. **Context-Dependent**: Task-specific adapters with gating  </tt></div>\n<div><tt>1. **Template-Based**: Prototypical networks for class-incremental learning  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Catastrophic Forgetting Prevention:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Backward transfer: Track performance on old tasks </tt></div>\n<div><tt>- Target: &lt5% accuracy drop on Task₁ after learning Task₁₀</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### **15. Low-Resource Language Adaptation**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Strategies:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- **Multilingual PLM**: Initialize with mGPT or BLOOM (61-46 languages) </tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 20 (chunk 20/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "learning",
+    "task",
+    "regularization",
+    "with",
+    "continual"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

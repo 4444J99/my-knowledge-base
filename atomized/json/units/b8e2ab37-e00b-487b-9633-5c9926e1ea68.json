@@ -1,0 +1,26 @@
+{
+  "id": "b8e2ab37-e00b-487b-9633-5c9926e1ea68",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>7.4 SEAL Template</div>\n<div><br></div>\n<div>Every prompt should end with an instruction to generate a SEAL block in a standard format, for example:</div>\n<div><br></div>\n<div>[HANDOFF_SEAL]</div>\n<div>self_id: </div>\n<div>world_ids: […]</div>\n<div>character_ids: […]</div>\n<div>depends_on: […]</div>\n<div>emits: […]</div>\n<div>next_prompt_path: &ltpath under $PROMPT_ROOT or null&gt</div>\n<div>notes: </div>\n<div><br></div>\n<div>────────────────────────</div>\n<div>8. Automation Patterns via $AUTOMATION_ENGINE</div>\n<div><br></div>\n<div>8.1 Example Event: New World Declaration</div>\n<div><br></div>\n<div>Trigger: human or AI declares a new world and calls a “declare world” command.</div>\n<div><br></div>\n<div>$AUTOMATION_ENGINE should:</div>\n<div><br></div>\n<div>Create a new $ARCHIVE_ROOT/worlds/world-ID directory.</div>\n<div>Generate a WORLD-MYTH-SPEC-CORE artifact via a $PROMPT_ROOT/world template.</div>\n<div>Update $ARCHIVE_ROOT/meta/index_worlds.tsv.</div>\n<div>Create a minimal repo under $REPO_ROOT/$ORG_ID/worlds (if needed) and initialize a feature branch feature/{world-id}-init.</div>\n<div>Emit a SEAL describing what was created and which prompts to use next.</div>",
+  "context": "From document: 0.\tPreamble and Scope — chunk 25 (chunk 25/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "b3360b527d494aeb150b316c90472eb0",
+  "relatedUnits": [],
+  "keywords": [
+    "world",
+    "seal",
+    "template",
+    "should",
+    "generate"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

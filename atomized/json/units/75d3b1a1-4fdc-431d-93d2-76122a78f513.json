@@ -1,0 +1,26 @@
+{
+  "id": "75d3b1a1-4fdc-431d-93d2-76122a78f513",
+  "type": "insight",
+  "timestamp": "2012-10-10T17:28:22.000Z",
+  "title": "<div>Midnight Lyrics</div>",
+  "content": "<div>Midnight Lyrics</div>\n<div><br></div>\n<div>Do you know the other side of midnight?</div>\n<div>Where all planets quake and tremble</div>\n<div>With the touch of the softest night</div>\n<div><br></div>\n<div>Sleep fast</div>\n<div>Sleep fast now</div>\n<div><br></div>\n<div>Do you know the other side of midnight?</div>\n<div>Where one could be lost forever</div>\n<div>Within the dreams of the darkest light</div>\n<div><br></div>\n<div>Mess with delay on outro vocal</div>",
+  "context": "From document: Midnight Lyrics",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "caaa85ba8ff5719d62c98ba31fedd872",
+  "relatedUnits": [],
+  "keywords": [
+    "midnight",
+    "know",
+    "other",
+    "side",
+    "where"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "8021050c-5adf-4efa-b53d-a0ad45c3b215",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Reroll Items Expire After X Uses or Time</div>\n<div>  •  One-Time Use Items disappear instantly.</div>\n<div>  •  Three-Use Items expire after three total interactions (does not have to be consecutive).</div>\n<div>  •  Timed Items expire after five weeks, regardless of use.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Legendary &amp Epic Items Expire Regardless of Use</div>\n<div>  •  If a legendary item is not claimed within five class sessions, it disappears.</div>\n<div>  •  If a legendary item is claimed but not used within three actions, it disappears.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Unlocked Challenges Must Be Completed or Are Lost</div>\n<div>  •  Some special secret challenges will appear based on class dynamics.</div>\n<div>  •  If not engaged with within two weeks, they disappear forever.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Ensures active engagement—students must act fast.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Prevents game-breaking XP hoarding.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Creates urgency and stakes.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 441 (chunk 441/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "zapfdingbatsitc",
+    "items",
+    "expire"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

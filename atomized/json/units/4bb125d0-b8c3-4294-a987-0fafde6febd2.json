@@ -1,0 +1,26 @@
+{
+  "id": "4bb125d0-b8c3-4294-a987-0fafde6febd2",
+  "type": "insight",
+  "timestamp": "2025-10-28T10:48:05.000Z",
+  "title": "<div><tt>+</tt></div>",
+  "content": "<div><tt>+</tt></div>\n<div><tt>+## Multilayer Architecture</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+RLOS is built as a **modular stack** comprising nine major layers.  Each layer handles a distinct linguistic aspect while exchanging information with others.  The stack begins with iconographic and phonological processing and culminates in a user‑facing interface:</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+| Layer | Function |</tt></div>\n<div><tt>+| --- | --- |</tt></div>\n<div><tt>+| **Iconographic** | Handles emoji, hieroglyphs, typography and other visual symbols【33635101037775†L259-L266】【33635101037775†L263-L272】. |</tt></div>\n<div><tt>+| **Phonological** | Analyses sound patterns – rhythm, stress, intonation and prosody【33635101037775†L91-L110】. |</tt></div>\n<div><tt>+| **Morphological** | Segments morphemes, manages vocabulary and supports rich inflectional systems; the module also treats emoji and stickers as lexical items【33635101037775†L112-L128】. |</tt></div>\n<div><tt>+| **Syntactic** | Builds constituency and dependency structures and connects grammar to rhetorical relations【33635101037775†L129-L144】. |</tt></div>\n<div><tt>+| **Semantic** | Maps syntactic structures to meaning representations (named entities, sentiment, intent)【33635101037775†L144-L156】. |</tt></div>",
+  "context": "From document: agent@chatgpt:/$ apply_patch <<'EOF' — chunk 2 (chunk 2/29)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "f26b5db7dbbb97eefdf7225d3aa3e47b",
+  "relatedUnits": [],
+  "keywords": [
+    "33635101037775",
+    "stack",
+    "layer",
+    "handles",
+    "with"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

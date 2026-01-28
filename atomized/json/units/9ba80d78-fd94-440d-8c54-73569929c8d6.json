@@ -1,0 +1,26 @@
+{
+  "id": "9ba80d78-fd94-440d-8c54-73569929c8d6",
+  "type": "insight",
+  "timestamp": "2021-05-14T11:49:06.000Z",
+  "title": "<div>Peas &amp Macaroni</div>",
+  "content": "<div>Peas &amp Macaroni</div>\n<div><br></div>\n<div>OO in the bottom of the pot</div>\n<div>One chopped onion</div>\n<div>Sauté until clear</div>\n<div><br></div>\n<div>2 cans of crushed tutrosso tomatoes</div>\n<div>2 cans of petite peas</div>\n<div><br></div>\n<div>Garlic powder &amp pepper</div>",
+  "context": "From document: Peas & Macaroni",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "9b60a1b9f2d251d1ac60995c1fd78806",
+  "relatedUnits": [],
+  "keywords": [
+    "peas",
+    "cans",
+    "macaroni",
+    "bottom",
+    "chopped"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

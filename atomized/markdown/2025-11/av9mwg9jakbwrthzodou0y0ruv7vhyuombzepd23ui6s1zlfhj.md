@@ -1,0 +1,32 @@
+---
+id: 9a2fcf63-2042-43f8-936c-127c9077fac2
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - av9mwg9jakbwrth
+  - >-
+    zodou0y0ruv7vhyuombzepd23ui6s1zlfhj1ififtthb2nkrj5gqtpasammbncvnho8l6i2tb749et8i1jxbedo
+  - uobclcaahsgaawykwad3tlpbrasfkaabshaaqpqgaiuoaafkeabcvwjas
+  - >-
+    vc4nu7gyksh1bsyc8sf8om45eaqqcloc51xf0rdxixztiwqwqap3wynlsibpqjp6ve1b0rbkpl0wq8fgqtdjenrw3nse2ryl5lqsfnjdnys3iuiacfkaabshaaqooxyd3ovok
+  - gej6amzq879gyipd1eg
+---
+# Av9MwG9jakbWrTH/zOdou0y0RUV7VHYUoMBZEpD23Ui6s1zLfHJ1iFiFTthb2nkrJ5gQTPASAmmBNCvN
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 1168 (chunk 1168/11629)
+
+## Content
+Av9MwG9jakbWrTH/zOdou0y0RUV7VHYUoMBZEpD23Ui6s1zLfHJ1iFiFTthb2nkrJ5gQTPASAmmBNCvNhO8l6I2tB749et8I1JXbEDO/+UoBClCAAhSgAAWykwAD3tlpbrAsFKAABShAAQpQgAIUoAAFKEABCvwjAS/Vc4Nu7GyksH1BSYc8Sf8oM45EAQqcloC51Xf0rDxIxZtIWqWQap3WyNlsIBPqjp6Ve1b0rBKPl0wq8fgqtdJeNRW3Nse2RYL5lqsfnJDNys3iUIACFKAABShAAQooxYD3OVoK/GeJ6amZq879GyIpD1eG+tfD4tAZ78yN105aLhxgOyf98rgv5OpaHI4rXJlq+1+aq20Vrr91jhucPS5wAc/DsqCsNPmRZp5A1Xp066VtRt//y31xnUuqVCwVuPGY51nOdS2QFu+ou/Pwzi8ucJQcUL22xdq0bD2668+SLOkUlgQsC42fS2rRtNCuur8iGQZzAzr/qvwcIMMqUoACFKDABShgjqylNZZt2mbpOjryGW209BNG5VS1ZxeZWzhXwTmlkkoNK/V4ZIOogZFpW6dv6belP1KdrQf31NtzZG99PWQCjppt7D5dOU7HkRKOo017L5PPmRri2FzavekS+s861e/17VT1sbtpHYehcNxuTqwfPZI/04llGh5PVpVfAKgDaoEjwj8jgJYKoO2a0ZIWbPLLxbOljAGMYsnQqZ4KpsoxBMZ20M5NZ4b3upNxMBbGM5/xipKz9dtRDb75FwL+cmmeDWzywRKIY1as38HUKtdXfaLqEzc81/y55s9Xj6n+TfWvL3tCUr7ZkuR3tue+fO8r774yfnD7wWuHjPsXBeGoxwrYsg3ztxV4L0kHPZW80786PSsFWwb5L9sHzImgWySXpFKRkiIbYLvbYOvBrYfwv87Wa7b2//0xSSYv/xXzGnNbfsN6ViK24IkohMvzGMfOinP6ycxns4XPmOf4235Z++KtR/f6T+/Pen+ed3LMoJiPF1Re+MjCR+4O3B1oHdg7YO+AfQPMuSm/tNlsHyFLsn4Gua1Uu2Xtircd3ev33o/0apU3LKZazK8Lr1jQdWFlqUurWfvcfe4BLJXYCbrnVF5PTJfTP5Ix64jZyskuWe9zUYtcabnSwhMvmo80r/i8EhElIvfWwxFNvU3TN/Xb3G/7DEkYy5YxdR4O1l2pjf/56HqN
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

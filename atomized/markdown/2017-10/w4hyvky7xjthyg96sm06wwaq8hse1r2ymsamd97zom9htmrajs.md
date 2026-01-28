@@ -1,0 +1,32 @@
+---
+id: 7b2eab01-7322-4836-b1d4-3b9cd4267b7a
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    w4hyvky7xjthyg96sm06wwaq8hse1r2ymsamd97zom9htmrajsdysiwuixlio9w2hwsnkztddmgolt4ltyic9ip51tia3lfz98f0rklw7ckevnqw3kqch1qtb9pjuftn1j9knkt98pmk
+  - xzpermbbf2sm5
+  - >-
+    ktqb10nkaxuqzzqn1x6vvutfmq8blu5z6vyfy4kl5axud2qkirvmqaspbxnpzsqlqaazmxkfmzbizgzxq9pjcpmgt71nerwborrr86np0rmu76skbjkgwgysolhj0uzz7cp1typrxu
+  - pxz0weyhctdsmftyzg4cg1rerybsvwe
+  - pvm6uyldp2npnfksldn6gtedtmazno8di9kx
+---
+# W4HYVky7xJtHyg96sM06WwaQ8Hse1R2ymSAmd97ZOM9hTmrajSdysiwuixliO9W2hWSNkztDdMGoLt4l
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 802 (chunk 802/2189)
+
+## Content
+W4HYVky7xJtHyg96sM06WwaQ8Hse1R2ymSAmd97ZOM9hTmrajSdysiwuixliO9W2hWSNkztDdMGoLt4lTYic9iP51Tia3LFz98f0rKLW7CKEvNqW3kqcH1qtB9pjUFTn1J9Knkt98Pmk/xZPerMbBF2sM5/Ktqb10NKaXUQzZQN1x6VVuTFMq8blU5z6VYfy4kL5AXuD2qkirvMqAspBxnpzSqLQaaZmXkfmzBIzgZxQ9pJCPMGT71NeRWborRr86nP0rMu76SKBjKGwgySoLHj0UZz7Cp1tYpRXU/9D+pXz0wEYHctDSmFtyZG4cg1RErybSVwe/pVm6Uyldp2nPNfkSldn6GtEDTMAznO8DI9Kx/tsc4/f/ACnr6mrLSyi62AfL6io5LLqzgDvkVXK7kuTIZJoipaAnI6Z461w/jWWGTRneUZIya6uZrfayxsGdeo7gHocdRmuH8Z29x/YMotjhypA5r2sjh/tML7XR5WbP90/mfk/HNeal8YpJJoBHHDcMA2Ml2X7rqCD6A9ODX69eGbh7vTYriQ/fG7HYZ/Ovx+0S9/4vx/ZFz5sOyRsIU3FnADAjuMcnI46Yya/Y3QbBbOwSI/MQAK/Q/EuNowTXf9D5TgqPK5/I6WaSWK1EcABz1PpVO8LugU9RipnilEGEGDVGQysTu64r8kkvdP0Rx0IyI4oy2cKo571z0krO5dc8HHPpXQSlMBF7jmsi6giRRsGSTWcYtMIIZGVAJxnj8qsQ3CgMY4tzDgVELcBt24MvTFW1tvsuZYuTWzuTNa6jUj8iPMmffPJpXxKMntU8IllQvIMgdqniMbttfoex60OFx8qTI4bdMYkGfQ+map6pGIrWRX5BHQ9P0q7K/lZEDcenpXD+Jddl0yxkeQ7iV4z64/xrJxWw5xufzqf8Fj7S91K68HRaVam1to725jnuEwTNM8YwTEo3HYq4VjknkDpX3F/wSf8AD76P8Nru2KhDZXijDBgZUaFVEqg8AfJyBj6V+Yn/AAU58fnVP2hNG8NahqceNHsPtaQxE4PnSZAkION6FCDnkewxW/8As7/8FNvAfwJ8F3cK6Ze6tqrKhiigYJDLtGWMjHJV/wAD36cmuj2fNBRR0TpqVPlif1KaxOodJS+1V/WvEviL8Z/B/wAOIm1bxnqtpptrHtDPdTxxD5zhcb2GSx4AHJPA5r+cb4k
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

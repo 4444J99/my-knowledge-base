@@ -1,0 +1,31 @@
+---
+id: aa96fb8a-59bf-4b79-939a-1ea3aacb543e
+type: insight
+created: '2018-10-05T22:17:31.000Z'
+document: 15981fe11fce83e658f6940d49a17e08
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - cf177q3bvxo2hwrlmmlmby92ju55ve9gmey2krvfrc
+  - hddmgtmuaslvbisaeio5a04n7ibhfxzkcwgezqhinnnqgt4zqacz5zchursv
+  - >-
+    4haodq7d9fyc1lpnemxp3hbc20y6kn3ws6tfrm9pt6w77rizxyy0hxeewujxsdjlz3min6844nvjjzcfdy6zvwango0swym4x9nq77ddtn4
+  - mcrh2ukwlc11xpndud16rodngbkmjbgckhcttuowbhpyhmabvolcxjkw27yucaedzs6drc2wb
+  - clncn1lenkjyttld7rrx
+---
+# cF177Q3BVxo2hwrLMmlmbY92Ju55vE9gmEY2KrVfrc+HDdMGTMUaslVbISAEio5A04n7iBHfxZKcWgez
+
+## Context
+From document: Mike’s Mom’s Spanish Rice — chunk 46 (chunk 46/565)
+
+## Content
+cF177Q3BVxo2hwrLMmlmbY92Ju55vE9gmEY2KrVfrc+HDdMGTMUaslVbISAEio5A04n7iBHfxZKcWgezqHinnnqGT4zQaCZ5ZCHurSV/4hAoDq7d9FyC1LPnemXP3HBc20Y6kN3ws6Tfrm9pt6w77rizXyY0hXEeWUjXSDjlZ3MiN6844nvJJZcFdY6zVWaNgO0SWYm4x9nq77DDTn4+mCRh2uKWLc11XPnduD16rODngbkMJBgcKHcttuOWbhpyhmabvOLcXJKW27YucaedzS6dRc2Wb/hM2+CLncN1lenKJYtTLd7RRx/rl4lyYY5j9+2ctT3ambjn8T6Bo8lGpV2XDfM8z99+O6roY5jqLwSEgBAoFAJNJ+6jR4/pRCbyHNgsrZVLmxVBXtaK2BDJwtgZUxN8UhMeYmP3ObsEiedR/rYJd+WV/w4Ik+v2Ea306quv4a2xxlqxtseEJ23cUrLLquWP+0omHjyDANp99wxhtrLbNvTu8zji67rJjPuSgCaZvDmiiDubQNnza665PrJ8bMxjBBUf427Z7BqzDnzqQ4jYoMruc44rvxsG8yDKgbmMEdeo8rpxKl0bOUvSuNs+ALiyjJqUUK95550vwMgl7uS/TWlzJ8qNXXqcLf52223vh0EOcC1q5Xbl0iXuaNnNRAzckUuLwzlre7Qzcc/jfQJD09yvsMKKZdi6ONfresyYsYUasFRZISAEhEDREWg6cf/hh3F1H+xscSKkyCXRSYPpvvvu5xMkNjxyNbUuQVp00cV8co19smmYMck55ZRTA7McPMZ89lmHZhkNuBFXtofHtMNMGNg5E1MKszsOb8BEeU1DSl3wQ20ED7tobO4pE8+wccd3ebiOccSX+OZlg/whZGjYiY8veOzqmUjY4s8oIkzdyJsDV3tsBhXOn99GPtlo6KjSZkvUm/uUgThMbEgDnMI+1+PK7+bDpkLUH3MZ86WPKYobptrrNMQdMyerPyTcdgkFR9w98uXFykO4MHF/8cVXAl/088wzr2/mhPkUE0l8tpvPdeKSvlsHVy5d4k4Y8MUNJvGQZ8K6cbO0RzsTdzDI+j6Rxh//+CcfWyZT9C/WF7gY1+t63LjxRR/DVH8hIASEQKEQaDpxnzRpchmJqMcAd/DBh/kDq2v3XCkfVwN90UUXB2V0CdLTTz/vrbzyVE0+JNMWuxl5Q/PtbpJj
+
+
+
+---
+*Source: Document 15981fe11fce83e658f6940d49a17e08*

@@ -1,0 +1,26 @@
+{
+  "id": "987c24fc-c67a-4f25-b8a9-77f8e1d8d5de",
+  "type": "insight",
+  "timestamp": "2025-02-12T19:07:35.000Z",
+  "title": "<div>Assignment</div>",
+  "content": "<div>Assignment</div>\n<div>Week 1 | Reading Comprehension Questions</div>\n<div>Jan 30</div>\n<div>100 pts</div>\n<div> Can't unpublish Week 1 | Reading Comprehension Questions if there are student submissions </div>\n<div>Quiz</div>\n<div>Week 1 | Quiz</div>\n<div>Jan 30</div>\n<div>100 pts</div>\n<div> Can't unpublish Week 1 | Quiz if there are student submissions </div>\n<div>Context Module Sub Header</div>\n<div>Week 1 Summary</div>\n<div> Published. Click to unpublish Week 1 Summary. </div>\n<div>Page</div>\n<div>Week 1 | Summary</div>\n<div> Published. Click to unpublish Week 1 | Summary. </div>\n<div><br></div>\n<div><br></div>\n<div><h2>Week 1 | Overview</h2></div>\n<div>An Introduction to Writing</div>\n<div>   its time 4 u 2 write!!!</div>\n<div><br></div>\n<div>What's wrong with using the abbreviated text style above in academic or professional writing? When is it appropriate to use this abbreviated writing style? What criteria do you use to make your writing decisions?</div>\n<div><br></div>\n<div>When it comes to writing, everything we do boils down to two things: our audience and why we're writing in the first place.</div>\n<div><br></div>\n<div>This week, we're diving into the writing process, which is like your trusty map to becoming a pro-academic writer. It's all about taking it step by step, starting with the prewriting, drafting, and revising phases.</div>",
+  "context": "From document: Weeks 1 - 6 Canvas Data Dump — chunk 4 (chunk 4/188)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1b21c03b1f1909954adca118a79b0158",
+  "relatedUnits": [],
+  "keywords": [
+    "week",
+    "writing",
+    "unpublish",
+    "summary",
+    "quiz"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

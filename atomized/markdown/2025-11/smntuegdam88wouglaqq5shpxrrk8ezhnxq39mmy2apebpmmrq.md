@@ -1,0 +1,31 @@
+---
+id: 4131d7b7-cdbc-488b-b864-107c808cc644
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - smntuegdam88wouglaqq5shpxrrk8ezhnxq3
+  - 9mmy2apebpmmrqyh8khqwiubcicvutdikpobugpsn1s
+  - icwoyvre1uflbjnqno6tpngiltq3lgpsmu8q8vgj3jb7grvyeptrmqtjkpgixc40s
+  - jkj9jb9dyztkbmdostawnanqryba
+  - >-
+    7dhmuob4kem1lzdxfumk6vnvzdiovfjwyeypeootpl6jsrq6vcz4el1aqmvzonivenhesfnwscinsqiok76t9
+---
+# sMntUeGDAM88WOUgLaqQ5sHPXrrK8EZhnXQ3/9Mmy2apeBpmMRqYh8khqwiUbcIcVuTDIkpObuGpSn1S
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 8592 (chunk 8592/11629)
+
+## Content
+sMntUeGDAM88WOUgLaqQ5sHPXrrK8EZhnXQ3/9Mmy2apeBpmMRqYh8khqwiUbcIcVuTDIkpObuGpSn1S+IcWoYVrE1uflbjNQNo6TPNGIltQ3lGpsMu8Q8vGJ3jb7GRvYEptRMqtjKPgiXC40S/JkJ9jb9dyzTkbMdostAWnaNQRyba+7dhmUoB4KeM1LzDxfUMk6VNVZdiOVfjwyEYPeoOtpL6jSrQ6vCz4EL1aqmvZOniVenhESfnwsCiNsqioK76t9+fFkX076Z6DYkYQX67Q6iB4o+KPtWhOSqWqDl5BGh54DQWVbkMMlFI7z/jWqVTbQRO58nOMWQePpYyNCm9LxYpYojiPl1tH5bTyEgWuyHWYdcXmHArMBn2K0ZzHEgsOa2vqdK6Dr6XfwmO1iGNYOzdzOG2x9UDrgdYDrQdaD+x4DzSYdWzKxugMuyluzYlNLlYKmHEL8Gp+/uHzS+cf3n0XM37XOZlKpjrMKxnyEh4FLNcFmgvZWsy6+dLWStnx3Mbv4Gh3Y+caiVWuQTZ/Fu+4Pb3r1K6pXVOXepcPXu499+Hn3vncO5OjyPfZjepYB8K1YGrX9jvX2uuleWqC882L7+w9vvf0/qnNMwocdMG5MXY1l2EbY7ZVVNfhos5Uv/nMTWduPnPrkQNHbr2Lz4Cs9lbwC38rKct8mSeWddOKjexOxf8iXkedcakIr/nEiQQ0Pf4OOEp45sqWja2Wp5aw9Lf222+pXt8hafxwWXHBjjoY61VFXe0J1ftET3vbNAhLHcyIDSy2YxlVW80occm0o2FXG9W2yJrx11wJxbfdFoFv/s5qNS2YFg5Gvp3s1jO3nnjDI/PY8N59bP4Q8uGvff5rn3/slcfveQJZnDnEr5oWoKlLdRM4RO2aRRnFqOdjlnqALYtWAIhvatAkgRuyJW5WwO6apD4VKnN8S480QOIv2eIsrW1Z0UoT2p8LEEYh7xPjFvPx41VdbYCbFFtQTiXFvFeUA2j45bl5KUOMUSVP5etHcIis8/jjy+OljK8VZ+HEWq1D61u2Rn/PQfxDz5Rga+U6uTE89oPXfIQstbJJ8bXi4/n72hguSCzLY8a6xZA6KeE8JALXUzwHLz2Ge4gvN9HQa+VpVa5w8K3sUWv64wgOjsrLDVJi/o5zRRPHR0XPzcayNKA0GEkqHDT+CORoBYh1GCEXHAjF/0Lg
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

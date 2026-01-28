@@ -1,0 +1,31 @@
+---
+id: cf4b4f04-43ab-4b00-b2c9-47eacf0a14b0
+type: insight
+created: '2025-04-08T10:17:01.000Z'
+document: 7704478edec58fe98c8158d649dbd34b
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - wawdcqnyed7lcnlzhmrpyw3pofb4dfigjlncdwe9mn4qh3sxqk17hqlaprkimenbd0
+  - v2omlzzybvejzuspbqbjehszenm
+  - nclw86rwwfw9octjhagrvmdkt50fncmkykxdodczkczbt18ivlqjjs1u6rchzg9cbr68oflhikfh
+  - iu2qpdpgxcgvomo4gnde0gqydoqyqj4v5rjkpczcg
+  - >-
+    mgy6froidwlzracsxbimyjjagx7ooqk8gdjngspaedartp3cv8asz6q074ci0ycnadlyqinsrmpsqa9etbablmi4nok
+---
+# WAWdCqnyed7LcnlZHMrPyw3poFb4dfIgJlNCdWe9Mn4Qh3sxqK17hQLAprKiMEnBD0+V2OMlzzybVeJz
+
+## Context
+From document: New Note — chunk 2519 (chunk 2519/3044)
+
+## Content
+WAWdCqnyed7LcnlZHMrPyw3poFb4dfIgJlNCdWe9Mn4Qh3sxqK17hQLAprKiMEnBD0+V2OMlzzybVeJzuSpBQBJEHsZeNm+NClw86RwwFw9OctJhAgrVMDkt50FNcmKykxdodCzkCzBt18iVlQjjS1U6RchZg9cbr68oFlHIKFH+IU2qPDPgxcGVomo4GnDE0GqydOQYQJ4v5rjkPCZcg/Mgy6FRoIdWLZRACsXBiMYjjAGx7oOQK8GdJNGSPAEDaRTp3CV8AsZ6Q074cI0ycNadlyqINsrmPSQA9eTBABlMi4nOK/5yOWqsCyEKRMTVAs990xTwBNj7P99VXvkvq0Ykkck/+9+77QGsPMhFHk8+doxNGl+z21bsE+8n/nOXfehtk9MqfdSKXe0Xv9djD64NbTqdBX8HDm/jcNrXbR6QY12+4iAdEI9cwPNZhC2ddduFlfdYJh3y8lBdzU+nIlYzp6umWf9qORwurN2EHwQ6Jk6ZmBvBbOok5AmCfPK6A+GWHdAPqwjyHc1hcwv9xqMtrYa7H+rX6o9cOdHDLfc2dxAkvp8vcEHKVQnnz8ak2ria7E89t3fV7UuX9dg/vHmyHZqt4uhyDyx2vWhEHp5vIs3tPARJE64hQBC0AffrnpELrGG7Phvr98IQRTwOKK1Imxrmx16Am3UoSUNZiDjJ4I8I8TOIwZEFQjxqJ4YquQWOYiTAy2xB1wqMcl2EzzQkzVKCzIGqAGFMEEBBMvUfFKBY1C2sHoyysL09byxtDQd6Og+y/0DLCDD7DIyBGuPRTcEBkE6AXPGPfRz6kLCyIMvhgT6GfQ/TchhstwHE7aANWxBDHp3/KFtbFFMOnAKZZxnCRRifhdxpUOURDphWjAE9HQw14ItlM2LlVWdmPORphz2GGA6BjaV3FGPdoUThpXUbHEb8UhiKdKQ4viivLVwwUjbQ00at2JppmhGnTrgV/0jhLrtSrl+3jpbYUqZ1Qc5Liv2xNK0PdEkfbTAdiyq1aQkYkJ5VLmboDNcyNFHMX7Qn/SknFxx5Ej4XntNl8BZgUTSte8bLJGmSDCZch0jnuiQ69PdyqiItDm59y3GlHAeZRp8kZ0LYhjA+L3JQ1ME0ceyzSAc8ZTLPIiUfeQamRaNc+CG9AoidVnQEOn3kD4Th12lYD6YZe53yupJVcCrDNMeXWZBTA/PEU0Ysy2V5
+
+
+
+---
+*Source: Document 7704478edec58fe98c8158d649dbd34b*

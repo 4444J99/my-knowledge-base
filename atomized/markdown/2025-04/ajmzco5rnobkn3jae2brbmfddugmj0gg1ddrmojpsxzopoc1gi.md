@@ -1,0 +1,31 @@
+---
+id: 1170c371-8479-49a3-9099-05b3b626eb5d
+type: insight
+created: '2025-04-08T10:17:01.000Z'
+document: 7704478edec58fe98c8158d649dbd34b
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ajmzco5rnobkn3jae2brbmfddugmj0
+  - gg1ddrmojpsxzopoc1
+  - gizawioubagrfrzev4sb
+  - >-
+    esdcraxnmoxqz8augbxjutghbrikzehpupv5nbaemswyy1i195qo5bnh87bhximlj5llejhm8bi9dh1cgj6tcncfhzpvxlcd5mjinqcrj6eaadl1ctuer53uqleifnnhmaffefsef0mltgzc71jrgjc4bh5khitymxqimoz28cipt6yqkycweqygsvbaary9s0kol8gynhxyrispc82hadx4y0itez
+  - twc8fl00igteku3g
+---
+# aJmzCO5RNObKn3jAe2BrbMfDDugMj0/Gg1DdrmOJPSxZOPOC1+gIZAwIOUbagrfRzEV4sb/esdcraXnM
+
+## Context
+From document: New Note — chunk 2343 (chunk 2343/3044)
+
+## Content
+aJmzCO5RNObKn3jAe2BrbMfDDugMj0/Gg1DdrmOJPSxZOPOC1+gIZAwIOUbagrfRzEV4sb/esdcraXnMoXqZ8AuGBXjuTGHbrikZEHpuPv5NbAEMsWyY1I195qO5BNh87BHXiMlJ5lLEjHm8bI9dH1cgj6tCncfhzpvXLcd5mjinqcrJ6eaadl1ctueR53UqlEiFNNHmAFfEFSef0mlTGZc71jrGjC4bH5KhiTymxQIMoz28Cipt6yQKycWeqYgsvBAary9S0KOL8gYnhxyRIsPc82HADx4y0iTEZ/TwC8fL00IGtEku3g+B2/qtJDzswVFIP7ix0yxYYvCMqD87XpkfucqQpl3XVJcMIMcVc2SxfgjOsj6FDpSnBb9NMsyzouRaEbQHOoPTZV5f2BhI/o+27Qjf3rDJtFeJKUYRpYmoVooWyjjopQ89MOyQ1+P/2BSfd9TuieGJIoz38MH+sFDGFpdtiUY8BtzLx+E6IvOEhYPhJzIg+a50rIhs4ga/UC+oX3LAvuGaxFPokOoAk8tx0ALxXHzgvmGnDMW+vr38XakoJKtLhE2Fw3XU50L1w+UyvqwGl12FH96rYxT1wvwnMsb53q7G87c6eoctUJ++eJGMeODBaDQP3j8V/Zxnh55vXZEZX7rMXIT3L211uAwZFqq8b+Q8FdklXmUOl6dMDAh/Jpew35OOrYLdq0kW+mFsl/Pk+DyNPPILdZ/Cs0OK4sGudtwl2hx3mIw8F+qXbHmdXCZ01bLAHSYDh9WT3XYMbl6nOlqXZfqpnzg613mgp11r210ob4cduher+iG3VTD9agwIW9HPGq6pwr8qME0RqAve7vEcWBdGVAdwM9nRLZTQ58pLIMcK/0QGOowDOwo2L1eFHJSMFTfqFzvjko93vLmEk3R8aeqKsMl/SFUjaF36ZRCeD38VgXut1A4aO9Uje/mtUl2bUx8M/aZt87rx7W1MrMvvFZYH62utJb3q7KdpnvqkDNi/IGO3g9UPNpZFQuAezMcruEJOSqvoYtwfpnllddAcoS9W1TkspzPh6cPuDRkD2v1UnfdywiztPLO+n2rmvUxsbZK5kr76mcbvVS30o255QL8XyxjwpzLOg8frXqWr8mBAuFMvdq+QAWZdqDwdM5LDuro1l3eEr6v/TL4+iPOyPM1YIhwhY941U33hJ5pfv9uirEjZ+KROGANe
+
+
+
+---
+*Source: Document 7704478edec58fe98c8158d649dbd34b*

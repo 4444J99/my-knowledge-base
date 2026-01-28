@@ -1,0 +1,20 @@
+{
+  "id": "c8f5e488-8560-411a-afb4-a4683e35e375",
+  "type": "insight",
+  "timestamp": "2025-11-12T23:28:29.000Z",
+  "title": "<div><tt>////////|||| |||| ||||||||||||||||||| |||| ||||\\\\\\\\\\\\\\\\</tt></div>",
+  "content": "<div><tt>////////|||| |||| ||||||||||||||||||| |||| ||||\\\\\\\\\\\\\\\\</tt></div>\n<div><tt>||||||||\\\\\\\\\\\\\\\\|_|[ { ([ 0.1 ]) } ]|_|////////||||||||</tt></div>\n<div><tt>\\\\\\\\\\\\\\\\|||| |||| ||||||||||||||||||| |||| ||||////////</tt></div>",
+  "context": "From document: ////////|||| |||| ||||||||||||||||||| |||| ||||\\\\\\\\\\\\\\\\",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "5a84dba174975d01fc7df7b50a322cdd",
+  "relatedUnits": [],
+  "keywords": [],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

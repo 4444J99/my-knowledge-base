@@ -1,0 +1,26 @@
+{
+  "id": "5b0a9cbd-d230-4d20-a652-91085c518424",
+  "type": "insight",
+  "timestamp": "2015-11-28T17:02:49.000Z",
+  "title": "<div>4x Veggies x</div>",
+  "content": "<div>4x Veggies x</div>\n<div>3x Fruit</div>\n<div>4x Protein x</div>\n<div>3x Carb xx</div>\n<div>1x Heathy Fat</div>\n<div>1x Seeds &amp Dressing</div>\n<div>4x Oils x</div>\n<div><br></div>\n<div>--01.23.16</div>\n<div>4x Veggies xxx</div>\n<div>3x Fruit x</div>\n<div>4x Protein xxxx</div>\n<div>3x Carb xxx</div>\n<div>1x Heathy Fat</div>\n<div>1x Seeds &amp Dressing</div>\n<div>4x Oils xxxx</div>\n<div><br></div>\n<div>--01.22.16</div>\n<div>4x Veggies xxxx</div>\n<div>3x Fruit xx</div>\n<div>4x Protein xxxx</div>\n<div>3x Carb xxx</div>\n<div>1x Heathy Fat x</div>\n<div>1x Seeds &amp Dressing x</div>\n<div>4x Oils xxxx</div>\n<div><br></div>\n<div>--01.21.16</div>\n<div>4x Veggies xxxx</div>\n<div>3x Fruit xxx</div>\n<div>4x Protein xxxx</div>\n<div>3x Carb xxx</div>\n<div>1x Heathy Fat x</div>\n<div>1x Seeds &amp Dressing x</div>\n<div>4x Oils xxxx</div>\n<div><br></div>\n<div>--11.27.15</div>\n<div>4x Veggies xx</div>\n<div>3x Fruit xxx</div>\n<div>4x Protein xx</div>\n<div>3x Carb xx</div>\n<div>1x Heathy Fat x</div>\n<div>1x Seeds &amp Dressing</div>\n<div>4x Oils xxx</div>\n<div><br></div>\n<div>--01.13.16</div>\n<div>4x Veggies xxxx</div>\n<div>3x Fruit xxx</div>\n<div>4x Protein xxxx</div>\n<div>3x Carb xxx</div>\n<div>1x Heathy Fat x</div>",
+  "context": "From document: DIET — chunk 4 (chunk 4/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "3b98e5e6bbdcf9c7175de91ba3776ff1",
+  "relatedUnits": [],
+  "keywords": [
+    "xxxx",
+    "veggies",
+    "fruit",
+    "protein",
+    "carb"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "afb549d0-7c96-4613-8576-cb4a39f5987a",
+  "type": "insight",
+  "timestamp": "2025-12-21T14:29:42.000Z",
+  "title": "<div>      Stages: [Initial, Detailed, Confirmation]</div>",
+  "content": "<div>      Stages: [Initial, Detailed, Confirmation]</div>\n<div>```</div>\n<div><br></div>\n<div>**Interaction Patterns**:</div>\n<div><br></div>\n<div>```javascript</div>\n<div>// Message composition behavior</div>\n<div>const CompositionStates = {</div>\n<div>  IDLE: {</div>\n<div>    inputHeight: '48px',</div>\n<div>    showSuggestions: false,</div>\n<div>    avatarState: 'waiting'</div>\n<div>  },</div>\n<div>  TYPING: {</div>\n<div>    inputHeight: 'auto(max:120px)',</div>\n<div>    showSuggestions: true,</div>\n<div>    avatarState: 'attentive'</div>\n<div>  },</div>\n<div>  ANALYZING: {</div>\n<div>    inputHeight: '48px',</div>\n<div>    showSuggestions: false,</div>\n<div>    avatarState: 'processing',</div>\n<div>    showMetricPreview: true</div>\n<div>  }</div>\n<div>};</div>\n<div><br></div>\n<div>// Avatar response animation</div>\n<div>const ResponseAnimation = {</div>\n<div>  stages: [</div>\n<div>    { duration: 200, effect: 'shimmer' },</div>\n<div>    { duration: 500, effect: 'morph' },</div>\n<div>    { duration: 300, effect: 'stabilize' }</div>\n<div>  ],</div>\n<div>  environmentResponse: 'gradual', // 2-3 second transition</div>\n<div>  metricsUpdate: 'immediate' //</div>\n<div>```</div>",
+  "context": "From document: # Platform-Agnostic UI Architecture: Project Evolve — chunk 10 (chunk 10/10)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "05b5ebf7576dd7636e989ca708836977",
+  "relatedUnits": [],
+  "keywords": [
+    "inputheight",
+    "showsuggestions",
+    "avatarstate",
+    "duration",
+    "effect"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

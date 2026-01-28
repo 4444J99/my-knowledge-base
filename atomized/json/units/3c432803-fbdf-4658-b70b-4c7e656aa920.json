@@ -1,0 +1,26 @@
+{
+  "id": "3c432803-fbdf-4658-b70b-4c7e656aa920",
+  "type": "insight",
+  "timestamp": "2020-09-11T21:32:09.000Z",
+  "title": "<div><h1>Blender Notes</h1></div>",
+  "content": "<div><h1>Blender Notes</h1></div>\n<div><br></div>\n<div>Building Backgrounds</div>\n<div>Sculpting character bodies</div>\n<div>Adding textures</div>\n<div>Building a sci-fi city</div>\n<div>Picasso blender</div>\n<div>Importing visual art into blender</div>\n<div>Processing and visual fx</div>\n<div>Blender and after effects</div>\n<div>Can I import the solar system into blender</div>\n<div>Reddit: learn how to animate using blender guide</div>\n<div>Adding classical sculptures into blender</div>\n<div>Rendering real images/videos onto things in blender</div>\n<div>Studio ghibli bg in blender</div>\n<div>Watercolor paintings in blender</div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div>Step 1: Gather Assets</div>\n<div><br></div>\n<div>Step 2: Plan the Story</div>\n<div><br></div>\n<div>Step 3: Create Environments</div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: Blender Notes",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "80f577a7cc895ecfb6c8fd83062d829f",
+  "relatedUnits": [],
+  "keywords": [
+    "blender",
+    "into",
+    "step",
+    "building",
+    "adding"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

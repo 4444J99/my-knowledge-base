@@ -1,0 +1,26 @@
+{
+  "id": "b3d2541b-e244-4cfb-820c-c1cf7c14d521",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Each weekly performance challenge now includes:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> A “Handicap Option” – Students may voluntarily take a challenge at reduced difficulty but receive a partial XP reward.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> A “Refusal Penalty” – If a student refuses to participate, they must complete an alternative analytical assignment with a built-in disadvantage.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> A “Failure Consequence” – If they perform but fail, they receive a minor debuff affecting a future skill check.</div>\n<div><br></div>\n<div>Example: Week 9 – Existentialism &amp The Power of the Monologue</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Performance Challenge: “The Speech That Defines You”</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Level 1 (Basic Challenge): Memorize and recite a passage from No Exit (Sartre).</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Level 2 (Advanced Challenge): Deliver a memorized soliloquy from a postmodernist text, adapting it into a contemporary style.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Level 3 (Master Challenge): Perform an original existential monologue from the perspective of a fictional or real historical figure.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 242 (chunk 242/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "challenge",
+    "zapfdingbatsitc",
+    "they"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

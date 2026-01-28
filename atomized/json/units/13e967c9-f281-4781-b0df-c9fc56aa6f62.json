@@ -1,0 +1,26 @@
+{
+  "id": "13e967c9-f281-4781-b0df-c9fc56aa6f62",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>   - Make it public within org</div>",
+  "content": "<div>   - Make it public within org</div>\n<div>   - Enable comments for refinement</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **IMMEDIATE NEXT STEPS:**</div>\n<div><br></div>\n<div>### **Tonight (Next 30 minutes):**</div>\n<div><br></div>\n<div>1. **Export this conversation:**</div>\n<div>   ```bash</div>\n<div>   # Use your chatgpt-exporter</div>\n<div>   # Save as: 2025-11-02_cognitive-os-architecture-planning.json</div>\n<div>   ```</div>\n<div><br></div>\n<div>2. **Create `cognitive-os-master-plan` repo:**</div>\n<div>   ```bash</div>\n<div>   # In ivi374forivi org</div>\n<div>   # Add this conversation as first planning doc</div>\n<div>   ```</div>\n<div><br></div>\n<div>3. **Document in cognitive-archaelogy-tribunal:**</div>\n<div>   ```bash</div>\n<div>   # Add link to master plan in README</div>\n<div>   # Note: &quotThis repo is component 1 of 8 in the cognitive OS roadmap&quot</div>\n<div>   ```</div>\n<div><br></div>\n<div>### **This Week:**</div>\n<div><br></div>\n<div>4. **Create `system-constitution` repo** (specs provided above)</div>\n<div><br></div>\n<div>5. **Create `meta-synthesis-orchestrator` repo** (specs provided above)</div>\n<div><br></div>\n<div>6. **Update master plan** as repos are created</div>",
+  "context": "From document: Contents_Table — chunk 117 (chunk 117/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "repo",
+    "this",
+    "bash",
+    "create",
+    "cognitive"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

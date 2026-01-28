@@ -1,0 +1,23 @@
+{
+  "id": "b319c0e1-7646-4ba4-b3ab-3b756dc53494",
+  "type": "insight",
+  "timestamp": "2025-02-17T23:20:46.000Z",
+  "title": "<div><tt>Student Submission:</tt></div>",
+  "content": "<div><tt>Student Submission:</tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt>Student Submission:</tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt>Student Submission:</tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt>Student Submission:</tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt>Student Submission:</tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt>Student Submission:</tt></div>\n<div><tt><br></tt></div>",
+  "context": "From document: Student Submission: — chunk 134 (chunk 134/134)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f724cc82d2d987b6ae9e11ab05d297ca",
+  "relatedUnits": [],
+  "keywords": [
+    "student",
+    "submission"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

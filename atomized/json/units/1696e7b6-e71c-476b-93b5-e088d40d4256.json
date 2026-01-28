@@ -1,0 +1,26 @@
+{
+  "id": "1696e7b6-e71c-476b-93b5-e088d40d4256",
+  "type": "insight",
+  "timestamp": "2025-03-07T17:58:40.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Hourly</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>$510</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>$34</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>$1,530 (45 hrs) / $2,040 (60 hrs)</div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>Key Disparities in Pay Structure</b><br></div>\n<div>  •  <b>St. Paul’s pays significantly less per course</b> than comparable institutions while enforcing strict hourly time-tracking.</div>\n<div>  •  <b>Other schools compensate adjuncts per credit</b>—including grading, course prep, and student engagement—without requiring clock-in hours.</div>\n<div>  •  <b>At St. Paul’s, only in-class hours are compensated</b>, raising concerns about unpaid required duties like grading and curriculum development.</div>",
+  "context": "From document: Dear Dr. Guirguis, — chunk 19 (chunk 19/20)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "d9b1cb225e0e89e2cd1d01d3212307ec",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

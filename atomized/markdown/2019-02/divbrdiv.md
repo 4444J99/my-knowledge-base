@@ -1,0 +1,46 @@
+---
+id: f3c2b5c2-aa9e-444d-9885-658ecc6dac70
+type: insight
+created: '2019-02-01T14:18:38.000Z'
+document: 215912b24fec1480ad281ec9b1c4578e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: research
+keywords:
+  - group
+  - should
+  - that
+  - matters
+  - each
+---
+# <div><br></div>
+
+## Context
+From document: Her argues that students can blend formal, Academic language with… — chunk 3 (chunk 3/5)
+
+## Content
+<div><br></div>
+<div>Working in groups of 2 to 4 people, each student should state a claim. Each of the other group members should think of a group that has a stake in that argument and why the argument matters to them, stating both in the first person. For example, in reaction to a paper arguing that school lunches should be healthier, one group member might say, &quotI'm a student, and this topic matters to me because I want to eat french fries for lunch, and I don't care if I get tired later in the day.&quot Another might say, &quotI'm a nutritionist, and this topic matters to me because I want children in my community to be healthy as they grow up.&quot Continue to offer suggestions until no one else can think of another group with a stake in the issue.</div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><i><br></i></div>
+<div><i><br></i></div>
+<div><i><br></i></div>
+<div><i><br></i></div>
+<div><i><br></i></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><i>The Fall of the House of Usher </i>- Edgar Allan Poe (1227)</div>
+<div><i>The Death of Ivan Ilyich </i>- Leo Tolstoy (1514)</div>
+<div><i>The Story of an Hour </i>- Kate Chopin (281)<i><br></i></div>
+<div><i>Anna on the Neck</i> - Anton Chekhov (271)<i><br></i></div>
+
+
+
+---
+*Source: Document 215912b24fec1480ad281ec9b1c4578e*

@@ -1,0 +1,32 @@
+---
+id: 7692c18e-02d7-4b6d-a491-5d6814934b76
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    ernl4dxxggawtaqgqrdlsc3spxbyazulfkao0enrdcox1t1myt34rkkif6gvofqpfohkckn4e0kxwlvq3ikekrut780txhnfsvmalkcrx55kgl9sujjbfktxngkmbh7ve7glr
+  - >-
+    yzycvmp5ij9his6skjufttbnluspa4ckec0lnfo5l22rbukrqtobnt4fvq5ak0mjcq3osdsdzefiua0bsiyd0eoifgnyqx9qte8gd1comh49
+  - aewltzdjfrarnkbvtw2mgm2oqzwucr0qea4cb
+  - aq5clazbr13xk9neegkekyfbofl4rqh2srjbdskule7pgu8a4cf4bjxr9
+  - 82t9
+---
+# ERNl4dxXGGaWtaqgQRdLsc3SpxBYAzULFKAO0eNRDCoX1t1MYT34rKKIF6GVOFqpFoHkCKN4e0kXWlvQ
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 11811 (chunk 11811/18928)
+
+## Content
+ERNl4dxXGGaWtaqgQRdLsc3SpxBYAzULFKAO0eNRDCoX1t1MYT34rKKIF6GVOFqpFoHkCKN4e0kXWlvQ3iKEkrUt780txhnFsVmaLKCRx55kgl9SuJJBfkTXnGkMbh7Ve7Glr+YzycvMp5Ij9His6SkjufttBNlUsPa4ckEc0LNfo5l22rBUKRqtOBNt4Fvq5aK0MjcQ3oSDsdZEfiUa0BSIYd0eOifGnyqX9qTe8GD1cOMh49/AeWlTzDjFrarNkbvTw2MgM2OqZwUcR0qeA4CB/Aq5CLAzBR13xk9nEegKEKyfbOFL4RQH2SRJBdsKuLE7pGu8a4cf4bjxr9/82t9/xfOf81T8fizWJjxgY0MDh+jE9RIGd972KRiLgAKxRAd7GFguNKQJ9qTKtpakmeYyUFI6NSuiILSACjlVEi8rifQyFS4Rwmf5yhBrNUnuLFtMklc4aSiE1KvjNUN6N/llr8CzfolhhdmyTGQ7EogHkh7AA6uxtFmyV8i14hsNBtFH1S7Y6BaoMEz4GKWBODRJRmdHbqifxk4fQNioTCWELBAYSOmEaacRoUGEYzT6/d8//BE+NolPyOMdS3wmcHfHgCsi7hiuefJjrnv9a/AAgwcz+x1oG/x1NksSA9FWlHjIIWLoU+lBJ3XTwBgkRgZC5JwFlHpKhAwsfXSIlzl4acEoUxruTJhOi63IFCUO0dLhRtsg9iEUf6V2XshxOIT69L/8kEJpbNwJM1GzzTA3p8CWhCsoD7d3kheaQcg8E5wgpUZo91n3ywtKgp9hs4vah4BdqLP5XMZ7xR+88e0ve8FzTt0t4U2Mlz7/2de/6fX4ejaTIcnNsqNwIib5r0nR5CMC/dbwmlPVw8AXrCXi3nFxoNo13F7c2TbEx83fx9//XtxcHo0Ib62g/t/6ptfjzlg85UgZOfPg/fcf/6iYyJjhc+YmHWJlqObfjcr+zKMUSFzlXfp4VAUYrezXuWvYSAEQDrRuaNBLnwolhWYbEG40mC00JdRjOYqriudd4s2omOkUh7NBZG1yFw5ggkOc3X2OrlOZUTVc/SuVBixjQSkKMvSQqhMfml7bbw8z5J/u/jJ+Ku93f/sFR6sCkxp1jrcT8ZUB+OCD+ZBkMWSwOkRcjlRklgJymlx4FGZiaVJJKcUa31SHlyowSZqz8rvTpBFCpvTxkN438nBkkmaeB7wZ
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

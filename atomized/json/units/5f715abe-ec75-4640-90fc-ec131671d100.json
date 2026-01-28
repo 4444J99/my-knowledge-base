@@ -1,0 +1,26 @@
+{
+  "id": "5f715abe-ec75-4640-90fc-ec131671d100",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><b><tt>::ARCHIVE_ENTRY_002</tt></b><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>Title:</tt></b><tt> What the Thing Actually Is</tt></div>\n<div><b><tt>Ref ID:</tt></b><tt> EXP_JESSICA_02_system_identity</tt></div>\n<div><b><tt>Folder:</tt></b><tt> /GPT_ARCHIVE_CORE/THREAD_REVIVALS/EXPLANATORY/</tt></div>\n<div><b><tt>Filename:</tt></b><tt> EXP_JESSICA_02_system_identity.md</tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>Prompt:</tt></b><tt><br></tt></div>\n<div><tt>well can you also explain the thing itself</tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>Response:</tt></b><tt><br></tt></div>\n<div><tt>Okay, so the thing itself is basically a custom creative system—a personal operating system for how I build, organize, and grow all my projects across art, writing, teaching, tech, etc.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Right now, I’m moving everything I’ve been sketching and experimenting with into a more structured, living archive. From there, I can keep iterating, but with more clarity and flow. I’m using platforms like GitHub not just for coding, but to track my process and make it public—like a behind-the-scenes of how I work, which doubles as a portfolio.</tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 2 (chunk 2/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "thing",
+    "exp_jessica_02_system_identity",
+    "itself",
+    "system",
+    "with"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

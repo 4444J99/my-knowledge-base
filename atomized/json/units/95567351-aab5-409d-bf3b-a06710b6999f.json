@@ -1,0 +1,26 @@
+{
+  "id": "95567351-aab5-409d-bf3b-a06710b6999f",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 1. Structuring the Documentation for Maximum Usability</div>\n<div><br></div>\n<div>Instead of dumping everything in a single massive document, we will break it down into multiple interlocking documents and sections.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Three Core Documents for Organization</div>\n<div>  1.  Public Game State Document (Visible to Students)</div>\n<div>  •  This is the master save state that includes everything students can see:</div>\n<div>  •  Macro course structure (weeks, themes, assignments, challenges).</div>\n<div>  •  RPG elements (archetypes, roles, items, rules, XP tracking).</div>\n<div>  •  Weekly item and power-up logs.</div>\n<div>  •  In-class mechanics overview.</div>\n<div>  •  Decision tracking.</div>\n<div>  •  Game history logs.</div>\n<div>  2.  Instructor’s Game Master Document (For You Only)</div>\n<div>  •  This is the hidden game master control sheet that includes:</div>\n<div>  •  All secret rolls and decision points.</div>\n<div>  •  The observer’s passive effect tracker.</div>\n<div>  •  The evolving XP leaderboard.</div>\n<div>  •  Secret interactions, hidden effects, and professor role adjustments.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 412 (chunk 412/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "game",
+    "document",
+    "master",
+    "face"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

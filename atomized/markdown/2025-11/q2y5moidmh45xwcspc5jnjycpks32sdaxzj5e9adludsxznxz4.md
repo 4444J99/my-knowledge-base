@@ -1,0 +1,31 @@
+---
+id: 28ce3a6e-b06f-45db-8017-4aa0fa2b391e
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - q2y5moidmh45xwcspc5jnjycpks32sdaxzj5e9adludsxznxz49v8fmipxy81b
+  - vllwutkmoqh3soreti7zc3wj1zfy1ltf8zavavwclsoq0gy
+  - icnhmwcspl6hjtw6aaoqywruqo7dp24ce9na2
+  - ya3uf7wct25iftvn8ypllx77s9eecmnbray1qkkzo0ufn9cfz17kltrvojhouukgn
+  - >-
+    hk1aivdlxvwrxgihuo3cn23enooyksduauscyhuwgpiebsuylbnaqfpgdgsemmid5wafxccp3elcqbdxodiqeuuuqxwu1395lf8nailirgcuffeud7
+---
+# Q2y5MOiDmH45XWCspC5jNJYcPKS32sdAXzJ5e9adlUDSXZnxz49v8fmipxY81b/vlLwutkmOQh3sOrEt
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 3518 (chunk 3518/11629)
+
+## Content
+Q2y5MOiDmH45XWCspC5jNJYcPKS32sdAXzJ5e9adlUDSXZnxz49v8fmipxY81b/vlLwutkmOQh3sOrEti7Zc3WJ1zfY1ltf8ZaVaVWclsOQ0gy+V+IcnhMwcSpL6hjTw6aAoQywruQo7DP24ce9Na2/Ya3Uf7wCT25IfTVn8ypLlX77s9EecmnbRAy1qKkzo0uFN9cFZ17kLtRVojhoUuKGN+HK1AivdlXVWRXGiHUO3Cn23eNoOYKSDUAUsCYHUWGpIebSUyLBNaQfpgDGsEmMid5WafxCcP3eLcqbDxodiqeuUUqXwu1395Lf8NailIRGcuFfeUd7/ISYsnXV5UdK8OGymRtoX3igzYPykRqlR+N8mh06lxvYTneU/YsPf0+oYtgnh2cOSH+RAIyd5e2qOlAZgx/dBDiFcrjQB33jDyfmppAW/DC4rX818Rm1CWgvTFStLKNq5TOCtw3f61/tQuc0qZJKQrGP7B9JqcwXGfjA0FbFc+2TbqFxMC7lkHCPxtR/XSjdCbQn90LP8N6f6nD1zH31Rv6gGTQFolo4/dXuT2+ff1vS910Z8MWJVkpvk7nRhcwxbYoKpxMoWKigtdIt04OhDWlke+v6h0g+N6Hlzz08e6QM4BhK5A9Kz7Znb+q14duj32783m/ralKItiunhsSmruik7+YK2ilYGtDW6Z1SnyGpeW29wSoykdTGZ2ijp+PMrnh/6QhtvM3f7Qal0GpeMtMEkKsIBBZgoyV1LCYxSJX4rcV+JX0ktUIR6D/sNO+FiJ4iXMsMP6V3Ig4sRH3V87/G9OIJNoX/zolgFVboPfB4VD8sUL/VAVGYwTobZXqSdEgBewOGy0eWXlv8AJ+Oy/Qkn+fEeb3GMjzp19ypQVSt3U4nvG2wq4bEl8YHElD6y51Zif2Tp3I/nXjGPvMGYESBoLsMV7hvkYhAChzvw17d7uEMpIT0oRwyWNxlMTodWLWBjyrLLGNILeZdUb2OvHSPwgKHQELS1OgYqgd7ov7+1sY+T6NwZgGVmTwIYoFwYJStw9bIVv6+os8KO9iD0FAccGDedM2n6id4D8DXAgvnpgAbW4KFYMpRL9NNlWpQ1gxMMla19fPuQIc45CXCZp7UqgA/sF0ycX8Pkkl3rvNwGS/pcYIw3Pa7vsbZHyZHDRrYeteQn9AI2H02Pj2+T0gdm/QTKk09SZ1LS
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

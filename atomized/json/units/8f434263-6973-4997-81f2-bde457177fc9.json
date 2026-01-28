@@ -1,0 +1,26 @@
+{
+  "id": "8f434263-6973-4997-81f2-bde457177fc9",
+  "type": "insight",
+  "timestamp": "2025-02-12T19:07:35.000Z",
+  "title": "<div>5 pts</div>",
+  "content": "<div>5 pts</div>\n<div>This criterion is linked to a Learning OutcomeRough Draft: Supporting Points</div>\n<div>10 pts</div>\n<div>Full Credit</div>\n<div>Offered three distinct, relevant, and well-articulated supporting points or arguments that substantiate and reinforce the main thesis or idea presented.</div>\n<div>5 pts</div>\n<div>Partial Credit</div>\n<div>Offered 2 distinct, relevant, and well-articulated points or arguments the support and reinforce the main thesis presented.</div>\n<div>0 pts</div>\n<div>No Credit</div>\n<div>Offered fewer than 2 distinct, relevant, and well-articulated supporting points or arguments that substantiate and reinforce the main thesis or idea presented.</div>\n<div>10 pts</div>\n<div>This criterion is linked to a Learning OutcomeRough Draft : Body Paragraphs, Topic Sentence</div>\n<div>20 pts</div>\n<div>Full Credit</div>\n<div>Body of the text is structured using paragraphs. Each starts with a clear and focused topic sentence.</div>\n<div>10 pts</div>\n<div>Partial Credit</div>\n<div>At least half of the essay body of the text is structured using paragraphs. Most start with a clear and focused topic sentence, while others need some work.</div>\n<div>5 pts</div>",
+  "context": "From document: Weeks 1 - 6 Canvas Data Dump — chunk 60 (chunk 60/188)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "1b21c03b1f1909954adca118a79b0158",
+  "relatedUnits": [],
+  "keywords": [
+    "credit",
+    "points",
+    "supporting",
+    "offered",
+    "distinct"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

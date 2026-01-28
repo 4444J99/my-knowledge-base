@@ -1,0 +1,26 @@
+{
+  "id": "854642fb-3149-4c9a-9b43-1f44e880cb96",
+  "type": "insight",
+  "timestamp": "2025-10-28T10:48:05.000Z",
+  "title": "<div><tt>+- **Safety** – Public outputs must pass toxicity, bias and harm checks",
+  "content": "<div><tt>+- **Safety** – Public outputs must pass toxicity, bias and harm checks; no deception or misinformation is allowed【3†L123-L145】.</tt></div>\n<div><tt>+- **Locale Awareness** – Language and script metadata travel with every span; layout respects bidirectionality and typographic conventions.</tt></div>\n<div><tt>+- **Reversibility** – Transformations on the hypergraph are recorded with diff patches so the system can revert to a prior state when necessary.</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+## 2. Blind Spots &amp Shatterpoints</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+While the RLOS blueprint is comprehensive, several potential vulnerabilities (“shatterpoints”) warrant attention:</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+| Issue | Risk | Mitigation |</tt></div>\n<div><tt>+| --- | --- | --- |</tt></div>\n<div><tt>+| **Cross‑modal misalignment** | Misalignment between gesture/audio and text could cause incorrect semantic mapping | Use robust cross‑modal alignment algorithms; annotate inputs with timecodes and gaze vectors【33635101037775†L210-L216】. |</tt></div>\n<div><tt>+| **Cultural mis‑mapping of icons** | Emoji or hieroglyphs may carry different meanings across cultures | Maintain locale‑specific icon glossaries; sociolinguistic module to override ambiguous mappings【33635101037775†L171-L182】. |</tt></div>",
+  "context": "From document: agent@chatgpt:/$ apply_patch <<'EOF' — chunk 21 (chunk 21/29)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f26b5db7dbbb97eefdf7225d3aa3e47b",
+  "relatedUnits": [],
+  "keywords": [
+    "with",
+    "locale",
+    "shatterpoints",
+    "cross",
+    "modal"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

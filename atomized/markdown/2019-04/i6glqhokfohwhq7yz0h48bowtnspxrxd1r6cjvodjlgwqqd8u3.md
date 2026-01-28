@@ -1,0 +1,33 @@
+---
+id: 8aeaa0f4-427b-43d1-8e8e-6ab0f5f768a1
+type: insight
+created: '2019-04-16T14:05:00.000Z'
+document: 0c34a8b78e60a6c1ecbdc7504f7c4c39
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 2jg5p
+  - >-
+    glqhokfohwhq7yz0h48bowtnspxrxd1r6cjvodjlgwqqd8u3hjthplsxjqn4u5gktjeycfykk0gtgijo2hddkvbzn3brh7h4f4uura56yegm3ga4edt1
+  - >-
+    hwcjsww8w5mug79ex6memfgder3si0cm2gebtltishi3htkwu0hmhomqrfptlpobptiqli3gke02c2jixlmasu7btfcddsm3ejcbulljulwayhs7d
+  - >-
+    ch1yhcvor4cdezkfjqltcozolb7of2pok90uzz70vlknm7jtkvuf2yazbcxhmhda8okk3lcosxv2eelonjlugdwg6iiz4ii
+  - lpim6j1yc
+---
+# i6+gLQhokFOhWhQ7Yz0H48BOWTnSpxRXd1r6cjvoDjLgwqQd8U3HjthplsXJQN4U5GktJeYcFykK0Gtg
+
+## Context
+From document: Reverb Cheatsheet — chunk 336 (chunk 336/770)
+
+## Content
+i6+gLQhokFOhWhQ7Yz0H48BOWTnSpxRXd1r6cjvoDjLgwqQd8U3HjthplsXJQN4U5GktJeYcFykK0GtgIjo2HddkVbZN3brH7H4f4UurA56yEGM3Ga4EDT1+HWcjSWw8w5mUg79ex6mEmFgDeR3sI0Cm2GEBtltIShI3hTkWU0HmHOmQrfptlpOBptIQlI3gKE02c2JIXlMaSU7bTfcDdSm3EJcbULlJULwayhs7D/Ch1YHcvoR4cdEZkfJQLtcOzoLb7oF2POk90UzZ70VLkNm7JtKvuF2YazbcxhMhDa8okK3lcOsXV2eELOnJLUgdwG6iiz4iI+LpiM6j1yc+upmEwmO0pWMpTw6xeds9KXFZyWlFF/aFKFnw0MFWlelR7Zz63snsVGz7rsvv6LubWDc+IiSBoJzEdY6aDqbOC1DRlVqWO4TWC7a3XXUI8NlMdgG/AmjGmMpfYJvwKpJnQkOrSLg4CUq7orLQ4KUvbziyVqHWv0a1tWk1EMKLJWlDKFC4qw34l9snXU/JgJyytK21FBPXurKwoKEPf2qiVq7p0UptxIWhQuUlQvBFCZDgpYkC+5SVK3+K+gudDS66M2UBKVd0VlocJKX/7VZK1DrX6KVaLcNtE1V97yRnN+mn1RWEsl9eUcw/KVw6xlvWc2qQVYisEpvPDmNRpT7CXH4xvaWfkVGkyGEuvxjiZWfkH1GtHlvMJXJj+9OHSmrORIj32fKVgclYvejxj136EkWZBdxbYLS0kg1YkGCUuMWXe88tvpUnNm/yp7vUtt9jeZrqt/km+arU5VHMeq9U/L/fX+xI3J/0lftvZsez0pk34gtSlKuPFef25qc5RPlj91lx5TKH2F6ULF4o4NlNNn9Uh84aLMCMlhJ6Y6VK656ltvsbzNdVv8k3zVanKo5j1Xqn5f76/2JG5P+kr999TnKJ8sfvbbfY3ma6rf5Jvmq1OVRzHqvVPy/31/sSNyf8ASV+++pzlE+WP3ttvsbzNdVv8k3zVanKo5j1Xqn5f76/2JG5P+kr999TnKJ8sdSQ7D2PiMlkvZfH0vTZrvq9FaNmspVlIN2NfyTfwayYig7MnK0RYqca6BtOxbSs1g5su6ztR16bfjuJdZcF6VpOY68yw9j4THYD2Xx6elzXfWpuyo1kuWi+trKjJuXHf3ruKvihM8J/tpCLZsabZKVm4OrTiTzC
+
+
+
+---
+*Source: Document 0c34a8b78e60a6c1ecbdc7504f7c4c39*

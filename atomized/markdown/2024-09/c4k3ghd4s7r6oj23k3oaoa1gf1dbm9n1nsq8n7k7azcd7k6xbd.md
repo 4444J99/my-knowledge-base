@@ -1,0 +1,32 @@
+---
+id: 804aca92-ad23-4634-b624-ef2cb8addae6
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - c4k3ghd4s7r6oj23k3oaoa1gf1dbm9n1nsq8n
+  - >-
+    7k7azcd7k6xbdkc4zrrlshvapgoxsic97ofatoyzlpb3qhz1e6uto6r8z1zymu3uridzcs9k0zvrrcexr3nhmghg1adjvvu1z7jw
+  - n1b0qlabsi1edt0otem9
+  - >-
+    e1hh4ccpwhttr4gcod2cymyjottl9lpmtxo8sixn8occefslgdfvzohmoqgswrv87rkro74yaataxh34z
+  - fsskj3fekbjqdcerrxlc6kcypobm
+---
+# c4K3gHD4s7R6OJ23K3oAOa1Gf1DBm9N1nSq8N+7k7aZCd7k6XbdKc4zrrLsHVAPGOxSic97OFatOyzlp
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 5772 (chunk 5772/11534)
+
+## Content
+c4K3gHD4s7R6OJ23K3oAOa1Gf1DBm9N1nSq8N+7k7aZCd7k6XbdKc4zrrLsHVAPGOxSic97OFatOyzlpB3QHZ1E6uTo6R8Z1zYMU3UrIDZCs9k0ZvrrceXr3NHmGhG1AdJvVu1z7JW/n1B0qlABsi1edt0OteM9+e1hH4ccpwHttr4Gcod2CYMyJOtTl9lPMTxO8SiXn8OCcEfslgDfvzOHMOQGSwRv87rkro74yAatAXH34Z+FsSkJ3FekBjQDCeRrxlc6KCYPOBM+BM+DZgqvZiR5KnUznMpS+nNXvXag+cbS9j8+CGlhRKA5P5V2shnwF3bVpcuKZtVfQZR6Qqe3VtxEnes6oPXkFiskfcyY6l1WgCKfoab2qOvRZytvFKdaJKAzt3p6HMivfrdFX1YFG/A4/nKI++YfRrxoyNHyKc5teTmmKfp3ge/Mz8/TrpgExAmIBfZXvhydCac+vXQWw8XuL5y96e35hnmuBXH4qfM95Ap7qZc8GZ/nZ6Xjsd8XpwGl6/pZ6rM9fnfX5fXo9MZyD2ItPjWmeWff6CT0h6ji+JXjqBPfe5TkrraJiQp7sPivI29VTqI8Iyd7uxy4pBGMBDo3uFlodGbkJ+y2jPxSKs99712oX6RnXxTQ7PQF9cTZo9+mh/U0BxuvzmQPgYa+zdJ8e2KNasB9n7qW9kd4LJxBXuTwz7fLeVIH0don9wqNdDdqVCfw2qhOeNx9fg/cA2Jy38zPb40TdWyNBu/IOPCCxCvzWe32KSO8J5hUgZ+zXqXiSsd6BV7J3bbXsMq5rFc4FkV5gPPXcBTQI8BbQ7qyj2NOc5XpMfF6k7qjvdaAdp+134Bw8nbzdU+4ql2Fq72EowGlAd6wHL629Gxf1qkz3Q0G7I+Xt0GO1KU7UnStX51oUnHLnOaGawV4X2g0F3gzhtFe7KrrDudEfNU+5PFN7H6QJD4TuwulV7bJHtcI5Tj6iBwrR2oqwqiTtpB9TcUpv51jozk7rztg9l0dIL6fr4q14EwGwK00zALsKhZPLKiHclXFdroJqxnVO3UX2zoiuzYms3rFQ3HOjPgM595ppdBdwLqAdzz1xHzCPGO/Yu7aIo+oPorgBcVpVjMSI3Ajd5tCttD3XdZpDlFWh3XWuphm51f8OgOfeej0X84j0rhqEw3zCMz1b3SVFII0AjU+BaXA9eHUeb56bZqSX
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

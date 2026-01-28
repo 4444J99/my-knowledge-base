@@ -1,0 +1,30 @@
+---
+id: 77719089-4bbf-4aad-a4ec-fcc4542eecb7
+type: insight
+created: '2017-11-08T14:03:53.000Z'
+document: f47673d86e05016edf5cfc9824f2b752
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - yupbutqwwjsst6hqmqh7zeibcwknilfkaqbg5jpffw7
+  - cz4b
+  - jjqb
+  - wal60da1fxbpmwqej7sgjg6lzxadxcbmao89sxjhgoc5xx6zax8pvbvwt
+  - gf94u8eabfo2jwvncyju4dzjymssq8ssc8k9fahtgtkfknwk8redvil
+---
+# YuPBUTQWWjSST6hqMqh7ZEiBcwknILfKAQBg5JPFfW7/Cz4b/ALU/jjQb/wAL60dA1fxbpMWqeJ7SGJg
+
+## Context
+From document: use this photo as a reference to create my own cut out piece. also… — chunk 156 (chunk 156/242)
+
+## Content
+YuPBUTQWWjSST6hqMqh7ZEiBcwknILfKAQBg5JPFfW7/Cz4b/ALU/jjQb/wAL60dA1fxbpMWqeJ7SGJg6LZXADXcbMAo89sxjHGOc5xX6ZaX8PvBvwt+GF94U8EabFo2jWVncYjU4DZjYmSSQ8sSc8k9fahtGTkfKnwK8ReDvil+z3dfEvx8lhoOp3w1CCSexC2jxpbOyxiNYyGLjAPQkntXb/sZaz8SPiV8Bo5vi/bTTut3cxWE90rRXN3YRuRBNIvBBZcYJwSOcV4r+x74A8M+Kv2QYdWS0jfW7SfV7m1uo13yxXUc0jxuc5UtkDgjBBxivob9lX49al8ZvhjoWr60kSayYriDUmjwqxXFo7RszIOEViM7eMHNS3cxbuz5S/ZU8QeBdL+BfiTXPiLcJqN4fGGqabbR3V07TuHnEccMQZ9xOCcAcY5r6A8Gfsz6j4e8J/F34cX2o3tzo+tXb3OgzyXDyT2iS2oxGkhbcBHICF9BxXzP+yp8E/A/xl+BXiG61axtZ9W0rx9qWqWd2GCSxTW1ypRg+RgEA4BO3HbJNff3w2+NujfFL4hePPC3hqVb2w8ETW1lLPHgiS7kXdIEI4O3BBOeuRUisfNv7Hvjbw3efsuySfE2WOG58JXV3pmuSXLuHElq5UO5JyWZcEHp6V+OWiJZeLdA+Mf7QGu3M+t6J4DmlsfDFveM00ST38zBXIckEIvIBOAcV9P8A7YulXPw08MfFPxJ4K8bWlz4O8R+JY477RrdWMw1LysODITgqMhmjHfmvjX9nfxUviL9lX41fBe2dZNcnFtrllb8LJcRQHbclCeGMa4bb1I4AyKAaOJ/ZRS2+NnxYsfgn47BvtM8ZxXlksjKvm2dykDS200LgAqRKoDdQVOOM19Hfsz6Xrng74ZftL+EvE0EL6n4L00xxNJBG7Q3ETmNmjZlJBwM4B75r5t/YISPS/wBpvwn401SRbbSfCIvtW1GduFt7e2tHJYEkAsxwqrnkkgZxX0/8C/Gt18TfBv7XXxAjtjCniLTHu41CkKolmJQZx1K4JHqTQI+AfgV4307wl8XtI8feJhHdQ6YZLtknQSRyyqh2hlIIILEcEc19xfDL4h674y/ZR/aF+IGriKfVrS5057ecwRK1ss9wARF8vygggYH4V8bfBH4Ca78TtH8W+LpbSePw54P0qe/u7rBEQkQARRg
+
+
+
+---
+*Source: Document f47673d86e05016edf5cfc9824f2b752*

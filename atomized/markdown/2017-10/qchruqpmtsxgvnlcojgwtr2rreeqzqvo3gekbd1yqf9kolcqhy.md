@@ -1,0 +1,32 @@
+---
+id: 68af1d55-fc96-47b0-9026-01485dc0dedd
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    qchruqpmtsxgvnlcojgwtr2rreeqzqvo3gekbd1yqf9kolcqhyurn9ksoqoqvun1pldtzfv8ai571ndrh5gdcgiojf2abxg
+  - unlgx
+  - >-
+    72pkbpidyrjfmyybag4z1xs7yeescfxviphg24muhohwnoc5q1bbkcy4phhfziyfmwwwv6061v2mpcj5rwsvqc7dnxknb7rjiut15h6ivxn
+  - zoj1wt9tw700ytxes7363n2w3plhf826tacgttajwbk8c4r9tpek3n3pjc1wsgbi3dk
+  - it9h0qeif2tve2oautflpcf356vkblmlcnhqsqp8iv1bgovsvx1
+---
+# qcHrUqpMTsxgVnLcOjGWTr2rReeQzqvO3GeKbd1YqF9kOlCQhYuRn9KsoqoQvUn1pLdtzfv8AI571Ndr
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 1588 (chunk 1588/2189)
+
+## Content
+qcHrUqpMTsxgVnLcOjGWTr2rReeQzqvO3GeKbd1YqF9kOlCQhYuRn9KsoqoQvUn1pLdtzfv8AI571NdrH5gdcgiojF2aBXG+UnlGX+72pkbPIdyrjFMYyBAg4z1xS7yEEScfXviphG24muhOHwnOc5q1bbkcy4PHHFZiyFmwwwV6061v2MpCj5RWsVqC7DNXKNb7rjIUt15H6ivxN/ZOj1WT9tW700yTXEs7363N2w3PLHF826TACgttAJwBk8c4r9tPEK3N3pjC1wsgBI3dK/IT9h0QeIf2tvE2oaUTFLpcF356vkBlmlCnHqSQP8iv1bgOVsvx1/wCQ/LuL6fNmGFS/mP27sIxFncMDt7U+5hllkUElQp3EDvj1qNdwdT244q4zO8W8cexr8niklZn6jCOhXF3sIbPtVt28wgtyCOaqLa+bHnhc9f8AGnyKqOIweMYpPQuN0hjfuXHzAKOgoQeTv2Dqec0lwnljBBPfNVUlGTGynBOQfemhuK3KmoQxykKI896rN5ap5aqAV7VpXs8kQ34BHSsMKoHBJzzzUt2Y+XsMlV8ZDDI6j2p6y7V8vd7gVBLJsICjJzTGLMwAGO1FRN7Ct1AuYl3ZyalgiSd8lulRXUUeApPIqyqoypGg246+/wBapNIzbJWiXfz+FWI7NlLBuAe9WLexjYhv4h0qzIXOYzzjvin5lz01ICCEVM7lHGTSWyqJS46Dp70xyrJ5bnkGiRHhACcjvW9CV3Y4MSnbQ8I/aWl1CL4V+ILjT/lmjsJiMHBxsOefpXyJ/wAEybC4tfAXiGB2ZohqcZQZyufIG4j3zjNfVP7VN9DovwZ1vV7hRKiWsgaJ1LRyKy4ZHxjAIz+NfOn/AASytraz+Et7c6U0hjuLoTkyE/edNp2jGBgKB3r9PyluHDmKqf3l+KSPzarC+d0odT9QYCFTO2riBQu7GNtV/NaSQiTualVYxGy4OBX5PObjJn6zTVkriDht+M4qjOQGwD17VaYrs+YlQorn5JHdyCMg+lHtdLFNLcsXFtAPnXtWG0Lkll5Fbe0vbhj0Hes2dnziPjHpT50K5judsgYdjiqEjlAY16nmrtzNvu/k6KOfc1mSy5uCSOg49KznEhasZceVGAZDtI4BPHNVPPkRtrckDiqd00spAboTx/jVYyyKdoJO2pdPSw+TUkmZ/MIBIJpLZZSzbjj
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

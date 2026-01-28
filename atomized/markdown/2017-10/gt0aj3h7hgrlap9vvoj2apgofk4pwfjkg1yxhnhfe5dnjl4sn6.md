@@ -1,0 +1,31 @@
+---
+id: ab39a3ea-89cb-430e-b46d-64382c37351c
+type: insight
+created: '2017-10-19T23:15:11.000Z'
+document: 18dc3a996dd053a8e2f8b89fa16c3840
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - gt0aj3h7hgrlap9vvoj2apgofk4pwfjkg1yxhnhfe5dnjl4sn6pe2ealvcckwbfvh
+  - zzocihqy30nzw9apbk78z6keb6je23hjp98rbwfvaw8bbwfvawqflaqlqawafnamhxvrvkh9
+  - xgm1rijq03pvuv9i8bw1tzlp
+  - unmdi
+  - >-
+    aunaxgoulw7bvq9xcj4agfqdabeo4nsfxdc3jci4dcu0xe4iiv6gtg6lh5uqiaxxg5yvnzs0j8pkylkes3qdb29nrbw2mvzd9l6srrugccmysaluikzhlntrkyaidpnrtz2vnr6
+---
+# gt0Aj3h7hGRlaP9vVoJ2APgOfk4PWfjKG1yXhNHfe5DNJl4sN6PE2eALvCcKwBFvh/ZZoCihqy30Nzw9
+
+## Context
+From document: L-day IN A CHAR — chunk 130 (chunk 130/966)
+
+## Content
+gt0Aj3h7hGRlaP9vVoJ2APgOfk4PWfjKG1yXhNHfe5DNJl4sN6PE2eALvCcKwBFvh/ZZoCihqy30Nzw9aPbK78z6kEB6jE23Hjp98RbwFvAW8BbwFvAWqFlAQLQAWAFnAmHxVrVkH9+XgM1rIJq03pVUV9I8bW1tzlP/Unmdi+aUnAXgOuLw7BvQ9xcJ4AgFQDABeO4nsFxdC3JCI4DCu0xe4iIV6gTg6lh5uQIAXxg5YvNzs0j8pKylkeS3qdB29nRbW2MVzD9l6SRRugCCMySaLUIKZHLNtrKyaidPnrTZ2Vnr6+vbIloBMFFAtoC3tSLJIREd3RALSdpLhVl79fW3rK7+HmtJYxNJgJDDIABIb2p6ysZIdNuw9JolE8QFLPyKcc5hN/YaSOEMnRvGcz5hdU2A5EvzFgsD20Uy4ZHCKWtKxC1XPWf1AJp11UkbBKhP403ciETP4aFpi7Z1WTgeckzZcq291hYCHGbvdx76TsMfz+FUNMHjUWAz8zOWI8/ADgiFEOKlAZASuN3J+hhkRSN6/1EkaTpFdACsNya7rBUwshQS7rC0gr3ryTMQhwSJ2wTzlYNgGCmfd1EMvUQBxIpn3DwYEQqOHCqethDwMdAcMu4LUySJLrRYrqHT6hrxSN5gz3W7KrLjO9/5jo2Pj9uTTz65/jbPd5BEyV0Ao6+zTvDm3wj4q38CSJFFWi+S/pH3/8jIiCMUtCbT6Yw1Rd6wmXzU9tb9lDnAmzr7YG2NrZ94s1+ZC0d0Vadq/RBpIyLAl2uwAPcm2U+AN+syqGP9bCWX4wi1ydp60vrU3+5ew+/XWiRnRT6HcBGSEuDfafYL/CeZ+bZL6ZyT/3F9F8i/7rWv3AIuVwT3PD2bODD/9/ejLetXMmJdK5CHpnwCvngLeAtsaQFPAGxpGv+Bt8BtYAG+/IK9/XwHwvGTDDgkGiBoqOe9gdoX463qIt5FSkhqeOQoQWnQySbVF2+BD6AFgjo8Yt5BW//I2xbs7sWzn4fZLUrQ3YmHSw4y7pgZpFxQn7MAIN5tUrc453q+HbTx0HceQOIlvP2U0PcxHuiuNiJIG+rZeeSM2LiLUPzoh9h48yDhi7eAt4C3gLeAt8DdagFpTsujW+B+aQgv1BM14F/67QLsBcoqIkA61WuA7tjYGLIrBUcAyKu7oQEw/3KFZJkmABSNfaf9L+kYFQGh
+
+
+
+---
+*Source: Document 18dc3a996dd053a8e2f8b89fa16c3840*

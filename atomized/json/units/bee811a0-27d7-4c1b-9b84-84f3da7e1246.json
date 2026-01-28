@@ -1,0 +1,26 @@
+{
+  "id": "bee811a0-27d7-4c1b-9b84-84f3da7e1246",
+  "type": "insight",
+  "timestamp": "2025-10-28T10:46:01.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><b>Linguistic Layer</b>  <b>Object (Class)</b>  <b>Morphism (Transformation)</b><br></div>\n<div>Phonology  SoundForm  prosodic → phonemic mapping</div>\n<div>Morphology  MorphemeGraph  concatenation / fusion</div>\n<div>Syntax  ParseTree  dependency projection</div>\n<div>Semantics  MeaningSpace  interpretation functor</div>\n<div>Pragmatics  ContextSet  inference morphism</div>\n<div>Discourse  NarrativeGraph  cohesion morphism</div>\n<div>Sociolinguistics  StyleBundle  register transform</div>\n<div>Iconographics  VisualSign  semiotic embedding</div>\n<div>Computational  AIFunctor  cross-layer composition</div>\n<div><br></div>\n<div>Composition rule:</div>\n<div><tt>AIFunctor ∘ (VisualSign ∘ ... ∘ SoundForm) = RhetoricalMeaning</tt><font face=\".SFUI-Regular\"><span style=\"font-size: 14px\"><tt><br></tt></span></font></div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div>🎨<b> 5. Representational Upgrades</b><br></div>\n<div>  •  <b>3-Axis Cube</b>: <i>(form × function × intent)</i> visualization for any text span.</div>\n<div>  •  <b>Icono-Semantic Cloud</b>: dynamic clustering of emoji/hiero by pragmatic field.</div>\n<div>  •  <b>Sonic-Typography Overlay</b>: map amplitude ↔ font-weight, tempo ↔ kerning.</div>",
+  "context": "From document: That’s an exceptionally strong synthesis — the GROK-response you drafted… — chunk 4 (chunk 4/18)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "fa6133a073d57355068edfa84e39fc3c",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "morphism",
+    "span",
+    "layer",
+    "soundform"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

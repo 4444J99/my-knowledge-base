@@ -1,0 +1,26 @@
+{
+  "id": "85e07982-6c20-44f8-a3a8-e7cb43f4e0a5",
+  "type": "insight",
+  "timestamp": "2020-11-25T06:49:26.000Z",
+  "title": "<div>Film Genres</div>",
+  "content": "<div>Film Genres</div>\n<div><a href=https://www.filmsite.org/genres.html>https://www.filmsite.org/genres.html</a><br></div>",
+  "context": "From document: Film Genres",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "6aeb93b67ceaafbf8f28281a6a7e825f",
+  "relatedUnits": [],
+  "keywords": [
+    "genres",
+    "https",
+    "filmsite",
+    "html",
+    "film"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

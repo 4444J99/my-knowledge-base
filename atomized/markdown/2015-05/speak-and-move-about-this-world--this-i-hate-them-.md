@@ -1,0 +1,38 @@
+---
+id: 631ed24d-fd10-43eb-a758-5c36cccb9e0f
+type: insight
+created: '2015-05-12T15:12:28.000Z'
+document: 14f8edf44eef7316b8f1ce7606862fe0
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - this
+  - ever
+  - from
+  - fell
+  - door
+---
+# speak and move about this world--this, I hate them equally so, but in different 
+
+## Context
+From document: Mercury — chunk 3 (chunk 3/6)
+
+## Content
+speak and move about this world--this, I hate them equally so, but in different measures: for not having my face, for not speaking as I do it nor moving about this world as I do.  Ever still, they stand by my side. </div>
+<div><br></div>
+<div>Ever still, I stand by her side.  My dear departed sister. Up and left long ago out of the existence most call reality.  My oh my has this life been kind to her. </div>
+<div><br></div>
+<div>--</div>
+<div><br></div>
+<div>After watching her for hours I fell from thin air, fell from the sky and landed at their front door.  I fell ever so gently, ever so casually, allowing the wind to gracefully smooth my hair, flatten my garments, remove the stink of heifer. He saw the glistening of quartz reflecting the sun from cameras recording him as he plunged. </div>
+<div><br></div>
+<div>He came out of thin air, falling from the sky and into Herse's lap, or rather, our front door. Accustomed to doing all of the door opening upon hearing the bitter sound of flesh beating against wood requiring retribution for some sort--a knock is never pleasant, never rewarding: for me--so I answered and there he stood, Mercury, son of Jove, God of winged sandals and scepter. His gaze went up over me, beyond my body within an instant of taking me in. And I took him, with all the care in the word. How mighty, how kept.  He was here for Herse, as they all were and will be. I held my mobile up to him, rapid shot. </div>
+
+
+
+---
+*Source: Document 14f8edf44eef7316b8f1ce7606862fe0*

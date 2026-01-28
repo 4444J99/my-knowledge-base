@@ -1,0 +1,26 @@
+{
+  "id": "8ac3ea86-ac73-4d7d-a388-d8c8912120d9",
+  "type": "insight",
+  "timestamp": "2023-09-26T01:18:27.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>💵 Pricing Scheme</div>\n<div>EntAIment will offer three subscription tiers: Basic, Premium, and VIP. The Basic tier will be free and give users limited access to the platform's features and content. The Premium tier will be priced at $9.99 per month and offer advanced recommendations, ad-free streaming, and access to exclusive content. The VIP tier, priced at $19.99 per month, will provide all the features of the Premium tier along with personalized customer support and early access to new releases. Advertising in the free version will be limited to non-intrusive placements to maintain a positive user experience.</div>",
+  "context": "From document: T he business idea is to create an artificial intelligence-powered… — chunk 3 (chunk 3/3)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f66653638512a0e12c3de4d536a41c4c",
+  "relatedUnits": [],
+  "keywords": [
+    "will",
+    "tier",
+    "premium",
+    "free",
+    "access"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,33 @@
+---
+id: afa25712-f344-474a-b9d5-fbd7d8b928b3
+type: insight
+created: '2022-03-16T12:34:10.000Z'
+document: 7405c2da6b92da26b0b49297d3a4e664
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    3bzxya0exnnahsigogqncluxdmnxntue3armq0hn69quivx0pscyz0psiflutpqaqrtmgb49kgjrvyh
+  - >-
+    solwcny8ltvcsp50ai3zdo1naodjrskboktkyi6uakbhcv17vams2gquahlhtsgkbmgcfvlpyu3acnx4pwdlivoiddntqbby
+  - tgco1bv
+  - >-
+    erafduwdkyuvvyo1adgjj246dkxlpgnxu6mdggiqgq8bv4fquaodu249olqnesgpfnkw3t8vsnb2vyo6y4oalsmx81h95uekwjnl7w6chghl2jpigcqkd3png7in7sjbr0xtij8vpqapbbyacyeyvcr5j8dklzrhfhaaiorg5hbinorrjeckzg
+  - lrin
+---
+# 3BZXya0exnNahsIGOgqNcLUxDMnXntUe3ArMQ0hn69qUIvX0pScYz0psifLuTpQAqRtMGB49KgjRVYh+
+
+## Context
+From document: The battle of the blinds — chunk 951 (chunk 951/1787)
+
+## Content
+3BZXya0exnNahsIGOgqNcLUxDMnXntUe3ArMQ0hn69qUIvX0pScYz0psifLuTpQAqRtMGB49KgjRVYh+SOlWcny8LTVCsP50AI3zdO1NAODjrSkbOKTkYI6UAKBhcv17VAMs2GqUAHLHtSgKBmgCFvlPyU3aCNx4pwDliVoIDDntQBBy/TgCo1BV/eraFduwdKYUVVyO1ADGJJ246dKXLPgNxU6MDGGIqGQ8Bv4fQUAOdU249OlQNESgPfNKw3t8vSnb2Vyo6Y4oAlSMx81H95ueKWJnL7W6ChgHl2jpigCQkD3pnG7in7SjbR0xTIj8vpQApbbyacYEYVCR5j8dKlZRHFhaAIoRg5HbinOrRjeCKZG/lrin+S7OHkPy0AIqiAhn5zzUisrMGT5frUXDnc/IXgUsixAArQA+af5DGAT9KZA3lDaw+90pEkZcBOlSb+OaAE37c0sewt6UKifeIpj7RyBzQBLcjgY4xTo2LRcdhRIu+AN6CliVhFk9DQBGrEEbfxp0o2EOnU0bwDhafvyMd6AHpJ8nzd6hHpTxnG004AKtADUXnPpT5WyR7UxBn7vFPKMuCaAF3sPmP3fSm7Yny5HNHXj0pn3aAHRHj3qB1cTcdamYkdOKhZZlPmZzQAjJuYGp2LqMRdqYsbM3mdBilRxuJTjjFA0iFZUdf3g3Se1KWlI2AYFMjdbefcwyDWhMx27kxmgGQbFTBbk+1Cqzv5i/LjimAnOX5p6s+/ngUCIWO18xDBqbzZE4Y7ifSlON2DUblEYYoAFG4/NxTXBU/NyKR1yQR0p4cbNrUARrljx8q9wadIBwo79KRUjlPsOtJIrIcr0HSk0NEZVlG5eopyp5uPM5+lReZIh+XqamLLAm7+JqEirFS628Bf4aYrIqZA+bFKAJA7HrUkcSlamwmiuSZkwTjFUlJiYjrU9wrKeO1QiUbcMKdiRjyZbY3Q8U2QLAAyDNEiM0YK8UpOLUcdqoCMP5qExfKe9UY2MLnPzVPaANkmhgqPuHQ0AMkZBCJQOTVcyqYhuHftVqR4idrDIoMUbR/uuB700BTbaeU6VWnc5CAcVIcQ/IecVDPcKEzimwJGVSnPSqe9Y15+lIlxldhqJlBlx7VIEYKx9KZKd4yvFTDaz4b0qu0chk+Q44poCEOw5PGKrsys+/oRxT2bnbL+lVZSMbAK0RNytJJgFS
+
+
+
+---
+*Source: Document 7405c2da6b92da26b0b49297d3a4e664*

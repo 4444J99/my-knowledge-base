@@ -1,0 +1,31 @@
+---
+id: 8536dc58-601f-4534-945f-edd6c4e611ce
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - evwepgcf9gv1wiohsh2ndxjobvzrnyufpra04envaiy4txtxrrt92
+  - 9yhuuuozc1tfggdbaqpiht
+  - >-
+    rnjqpog5tsnnyksvj57apwfrwisdrwlxuebt7mv5dbaqvzkbz8txgglrjeujueso7spugxkhlr5igulxbb6lbgknm7itqw6liec6tug4gty3xlxccabu0gwuh7ecjrofxyqdin08jjwzayt1um1zkcg7vydd98uivbnqx
+  - sffzf9i
+  - cq11gnemcmzwtsueykspqmxyen2oqygnhxqwinenykt8wpmnaq7up
+---
+# /EvWEPgCf9gV1WIoHSh2NDxjobvZRnyUfprA04ENvaIY4txtxrrt92/9NH+9yHUUUozC1TFgGdBaQPih
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 8974 (chunk 8974/11629)
+
+## Content
+/EvWEPgCf9gV1WIoHSh2NDxjobvZRnyUfprA04ENvaIY4txtxrrt92/9NH+9yHUUUozC1TFgGdBaQPiht+RNjqPOg5TSnNYKsvJ57aPWFrwiSDrwlxuEbt7Mv5DBaQVZkBZ8tXGGLrjEuJuesO7SPUgXKhlR5iguLxBb6lBGKnM7itqW6LiEC6TUg4gty3xLXcCaBu0gWUh7ECJrOFxyqDin08jJWZAYT1Um1zKcg7VYdD98uIvBNQX/SFfZf9I/cq11GnEmCmzwTSUeYksPqmxYEn2oQyGNhxQWiNEnykT8wpMnaQ7up+5903ldHrLStduNbsnrZ3m4pnzAoUAzIYsutZzSSVG+AR9IfrsvD/A3QtdlIrXTKH84uRUtFrR7gSIZxi2pwzLrUpEGD7iFD5fkBmnIcYcuwVKK4v+ejRM6++m8uhpK+VWX6vqq1iJKAbQ0bLK69cV6YCMoE/0eOIdhPEjA6Q0N0T7cTRB6/Q3SsqV0gcz4hGvEhWJBFn6ZyTSI2h1Kqrt5D7asX3zd0SW8hoVWU6oej+QY0VXOCWgns0v0RLkszRaah7jTMesv6nEmg5yL89AYShktIa4jbA72Dh9aKk1Vs9IkWS/Rx6NLTtyIgQq4uhl59ooIQALIaN3Ba6LD1JJTn6TCHSmMPkPpxCtB0lVinmw5dqgfKHfjH5b91M+MusZPnQqQktLR5Hijp4h6C+kcxQg9IIpSk/xzfFTQXSJ5H4ZKI05LS9+kpYIkJHdKA2kpXGLsvHIHTaaXNfk8u3T0SseO432/+SVlgLccgyriaEKrkZc4h9okH9ZdDMBgdigmNUAukk6nPqRS+I176C6yWjb4yffh+08ZqA5iSWkNuTgdNUNou3JRGDhP2nZTHpbtTwXJNyNck3Iz5wKEQlJQDB0NTyGP1iiixtdJRjbOGegPBkrZOsQgIZUtuM9OqQ/6rrt+Uvxt5yqO8IuNDsUZFKQn7liiBDn1VRw7zy+KUwelBl2nNMI3+6N9AE8TL7lymut0JHewCq4sfN6rwT3JoetbnKdjrhEgC0LWtQNksFBzsSVdd1hYJBWsibvxTdJpCVGawaLcIwumqaQiohQ2pRniwbF0ow6wvQzNP2UUSEbQSm1sTnmSAP6RdfTZxBku2bAKDkpURXnSclmoL5QuUck9pazWEEf21P7f5xmdUpDUwo2QCSwUjmlA
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

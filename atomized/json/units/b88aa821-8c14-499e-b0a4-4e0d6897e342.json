@@ -1,0 +1,26 @@
+{
+  "id": "b88aa821-8c14-499e-b0a4-4e0d6897e342",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><b>12. 12prompt – Provides PR and repo link</b><br></div>\n<div>  •  User references live GitHub PR for cognitive-archaelogy-tribunal.</div>\n<div><br></div>\n<div><b>13. 12response – Confirms repository creation</b><br></div>\n<div>  •  Summarizes PR details, purpose, branch, status.</div>\n<div>  •  Describes scope of the Tribunal (investigate, judge, sentence).</div>\n<div>  •  Frames it as <i>solve-et-coagula</i> stage: chaos → order.</div>\n<div>  •  Declares foundation laid.</div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>VIII. Roadmap Expansion Layer</b><br></div>\n<div><br></div>\n<div><b>14. 12prompt (continuation) – What other repos + how to preserve context</b><br></div>\n<div>  •  User asks for next repos and preservation strategy.</div>\n<div><br></div>\n<div><b>15. 12response – Complete Repository Roadmap</b><br></div>\n<div>  •  Defines <b>8 total repositories</b> with:</div>\n<div>  •  Descriptions (&lt350 chars)</div>\n<div>  •  Copilot prompts (&lt500 chars)</div>\n<div>  •  Divides into three phases:</div>\n<div>  •  <i>Foundation</i>: Tribunal, Constitution, Orchestrator</div>\n<div>  •  <i>Specialized Tools</i>: Archive, AI Context, Lineage</div>",
+  "context": "From document: Contents_Table — chunk 5 (chunk 5/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "tribunal",
+    "12prompt",
+    "user",
+    "12response",
+    "repository"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

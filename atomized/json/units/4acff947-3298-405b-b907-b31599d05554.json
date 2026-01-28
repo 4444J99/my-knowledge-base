@@ -1,0 +1,26 @@
+{
+  "id": "4acff947-3298-405b-b907-b31599d05554",
+  "type": "insight",
+  "timestamp": "2016-01-16T23:21:52.000Z",
+  "title": "<div>Parallax</div>",
+  "content": "<div>Parallax</div>\n<div><br></div>\n<div>Automata</div>\n<div><br></div>\n<div>Sense data</div>\n<div><br></div>\n<div>Dérive</div>",
+  "context": "From document: Parallax",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "d4621fee3f73d872d3febdb84ba1c77e",
+  "relatedUnits": [],
+  "keywords": [
+    "parallax",
+    "automata",
+    "sense",
+    "data",
+    "rive"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

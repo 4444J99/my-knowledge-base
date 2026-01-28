@@ -1,0 +1,32 @@
+---
+id: ab3c1901-7733-4da6-b6c5-51bfcb41fbba
+type: insight
+created: '2018-11-06T20:47:41.000Z'
+document: 8c3ce8993066f857adca061d250e2c68
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ryypnpbi9z5klnrvhlmzmdhmbicdgtqb3dfecfcn4s
+  - >-
+    jx4mtvhvw41iapo908kqfy0bple210kjcb0ychdazbddggn0egaooooa5lx74ptpib4k1vwrf3lzp9vrtpnzyxfm4juyvmuqxidgwv1zkeg89q
+  - wbn39j34x
+  - >-
+    s8a3qni7qlvuvehibwiviunu1i4w4ufk3bmrciiagkqwjby7rzjivq2igaooooakk5hwfh3gfw74h0nwnr2vwona1rpyafzxfxhhcxzxgignigcj
+  - agqa66gaooooakkkkaciiigaooooakkkkaciiigarwx9or9nnwh
+---
+# RyyPNpbi9z5KlnRVhLMZMDhMbicDGTQB3dFecfCn4s+A/jX4MtvHvw41Iapo908kQfY0bpLE210kjcB0
+
+## Context
+From document: Octatrack Tips & Tricks — chunk 2004 (chunk 2004/2544)
+
+## Content
+RyyPNpbi9z5KlnRVhLMZMDhMbicDGTQB3dFecfCn4s+A/jX4MtvHvw41Iapo908kQfY0bpLE210kjcB0YcHDAZBDDggn0egAooooA5Lx74PtPiB4K1vwRf3lzp9vrtpNZyXFm4juYVmUqXidgwV1zkEg89q+f/wBn39j34X/s8a3qni7QLvUvEHibWIvIuNU1i4W4ufK3BmRCiIAGKqWJBY7Rzjivq2igAooooAKK5HWfH3gfw74h0nwnr2vWOna1rpYafZXFxHHcXZXgiGNiGcj/AGQa66gAooooAKKKKACiiigAooooAKKKKACiiigArwX9or9nnwh+0v4Ftvh/41v77TrC1v4tQWTT3iSYywxyRhSZo5V2kSnPy5yBz1z71RQAgAUBR2paKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//0v38ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACvyf8A+CjP/JaP2Yf+xkn/APSvTK/WCvyf/wCCjP8AyWj9mH/sZJ//AEr0ygD67/aJ/ax8B/s8XOj+HtQsL7xN4t8Qkf2domlRebdzKW2Bz/dUt8q4DMzZCqcMR84+Jf8Agpd4Y+H+kj/hZ/ww8U+EvELyReVpd/biFri3cPunhllEYZY2UKwKqcuNucNjmbRrGy/4Kv6k/jTYjXfhhB4eMwxmU28St5RbuQt2OP8AaHXNQf8ABXO58Mr8D/ClpfGI69JryPZLx532dbaYXJHfy8mIN/tbPSgD6e+Ov7aHw4/Z8+J+j/DXxzp1+7axpj6kl5aosqLgzrHAIwd7SyyQ+WmBt3OuSBkjyrSf+CiOgWnxA0jwX8VPhp4l+HVp4hmSGw1DWbfyUYyEKrSo6oVTLAMyGQLnJwMkcJ8c9MsNX/4KffA601KBbiFNBmnVXAIEtsNTmibB7pIisD2IBq9/wVmjjH7Pnha6CgTQ+LLII/8AEoazvCc
+
+
+
+---
+*Source: Document 8c3ce8993066f857adca061d250e2c68*

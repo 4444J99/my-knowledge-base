@@ -1,0 +1,26 @@
+{
+  "id": "9b32cad6-efd4-4c20-89dd-dc666e8b6211",
+  "type": "insight",
+  "timestamp": "2022-07-09T01:29:57.000Z",
+  "title": "<div>I bought you twelve bras, where is one of them?</div>",
+  "content": "<div>I bought you twelve bras, where is one of them?</div>",
+  "context": "From document: I bought you twelve bras, where is one of them?",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "e6a1f0966e8905f203681c4c3ca13edc",
+  "relatedUnits": [],
+  "keywords": [
+    "bought",
+    "twelve",
+    "bras",
+    "where",
+    "them"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: 4d103225-ce48-4146-b0a8-491c28d3e84b
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - mhvdvskwmgrtkwygqhukhbjbuyep0qyd2uyoxo4gguaioiav
+  - >-
+    2srswxwkartpb2jgyjbfgqmk4qntyjncpxghfg1enqbaaahfijwciotgzsuichjhtqbfsiifo6g8ipudubgdtw2bgrgd1aaa2bazxuabeoxfmbvrw6hdvcghfehl2d2jgrwl83ad
+  - mvzgxzd
+  - >-
+    xlxezhghpvlogaffvirigh5u2uyxiakd3iazwv9woezqtjrdqv48daustiyaaaaz0d7iiifzwilrcusipw6waan4xfgnibz5ibxajmyb2ad
+  - fwa2ziceiwbt6qii5aegibhorbhpzgyp82cbnyo2ahbub1tiutgxyrfxwhhpjbbp
+---
+# mhVDvskwMgRtkWYgqHUkHbJbuYeP0qYD2UYOXo4GguAIoIAV/2SRSwXWkarTPb2jGyjBFgQmk4QNtYjN
+
+## Context
+From document: Strike one — chunk 1169 (chunk 1169/4795)
+
+## Content
+mhVDvskwMgRtkWYgqHUkHbJbuYeP0qYD2UYOXo4GguAIoIAV/2SRSwXWkarTPb2jGyjBFgQmk4QNtYjNcPxGHfg1ENQBAAAhFIjwcIOtgZSuIChJHTqBFsIIFO6g8ipuDUBgDTw2BGRgD1AAA2BAZXUABEoXFMbvrW6hdvcgHFEhL2D2JGRWL83Ad+mvZgXzd++xLxezHgHPVLOgaFfVIrIgH5u2uyxiAKd3IAZwV9wOezQtJRDQV48DAUsTIyAAAAZ0D7iIIFzWIlrCUsipW6wAAN4XfgniBz5iBxajMYb2ad/AN+FWa2ziCEIwbT6QII5AEGiBHOrBHPZGYP82cBnYO2ahbuB1TIUtgXyRFxWHHpJBBp/BHQD2Kv9mYIJsK4tPc/8HgnOLYQvrKRLKAA7ggAx2IRJkga+cCQlgwANgIIdBYAxAQAfY4BZ+qhm2EIzY4A4i9STOj8viwgzEQFN/l2aJ1w27IAue2AwE84qt+A2n+Jhidda8aTD7kEQI4kL6bRDzbCB2YFsPECS8FyM+s40rrSCkIXwz4sROjFVX43pAgkkAKjfagH8vog/a4H0JGQCs9SJ2QElVpVlRQG37d0pqYn1acm3KtTjP5whYARuCIpK2FJIAN3ANSF7rpYJtzEwJok4Mph6IMhnoRsYYKGEQtwgBoE0TKHLNoRMgoXbbYBDaoA28gHbaABF+cxAGYQ5kgAEYAAIuQJlbwA3ogA3/MoEYqkEarkEaZEEPOKER0E4u4+jBHgy5FCEL9mAO6u53AzMgbwaZBDN5AQ/wgPaK8fF5q2AgWPUPCSIEMqBFAODOqNdbgBUkftUiGDAlEGN8JSoeL8I2UqKPVyKc/thaldQ343cgrMCXP6KiD1k2fyCRe/ORpYQE2ocGzqc5jrNcj4AQlAGB4SGSiLBLA7eAOIpu6mZLgZBgBKcgCsZf/qYb/qDohiIZHoiUQtjZCqJNj20g5AYWDkERRoGY+8AOjhR4rICX20CQ++ANVhcCMAACQMAN3EAHrqAMZKGt0qEZZKERFlVj48LtutmbfyGcgfd1shidg+aK7bqd+88e/7fYnPIP/0gUDzNCqwji8DhjRh5CJQZaWFeCjuP4IqqWIORLqweidS0CSDwxoStMSv74IgCZICa6okFikAGANw2wNTxaOWyifUY6pMs1bTBZk7EhgRWYXT8ZlAuoOuuh
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

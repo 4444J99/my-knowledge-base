@@ -1,0 +1,31 @@
+---
+id: ab3de619-9013-4626-8548-56bc90145125
+type: insight
+created: '2020-02-13T15:24:07.000Z'
+document: 17668fd2541299884816643132bdef4b
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - pk7omiymdhrguafdtfaumahretlepo2n3f
+  - >-
+    unwpdxjt4nlefvhjfljsb2rrkzzsadzry6drmqwn9qemadc3dnpiq93ndc8kvujnarsuoiqmeawiyaamqitsdq9butkutdtdpujtmswrli6sj2gheu4rzjanqlj90ejpauhj
+  - gvxgloolf4v1vzpnt9tvatjofs1rs8zz5sj
+  - 7i2avvbc7ec45oa4qivodx7ohg7xnd
+  - cnwh4h07xje6s39qvdcs5twbxwjnxp8agkxbq2dowbgyypd
+---
+# Pk7omIYMDhRgUAfDtFaumaHretLePo2n3F+unwPdXJt4nlEFvHjfLJsB2RrkZZsAdzRY6DrmqWN9qema
+
+## Context
+From document: Tarantino goes in depth on first few attempts at writing scripts — chunk 107 (chunk 107/234)
+
+## Content
+Pk7omIYMDhRgUAfDtFaumaHretLePo2n3F+unwPdXJt4nlEFvHjfLJsB2RrkZZsAdzRY6DrmqWN9qemadc3dnpiq93NDC8kVujnarSuoIQMeAWIyaAMqitSDQ9butKutdtdPuJtMsWRLi6SJ2gheU4RZJANqlj90EjPauhj+GvxGlOoLF4V1VzpNt9tvAtjOfs1rs8zz5sJ+7i2AvvbC7ec45oA4qivoDx7oHg7XND+Guk/CnwH4h07xJe6S39qvdCS5TWbxWJNxp8agkxBQ2dowBgYypd+l/aV/Zi8SfszfEb/hF9cW+13QYk0+Q6qLGSxgme8gW4e3jdjMgkQFl+8xypO3ggAHy1RXvHxn8O+GdY+M2q6D8EfA2v+HdLKwm10LU0kuNVhKWySTF4xvkwxDSDJbCEHOOB5s3w+8ep4Z/4TV/DWpr4eyB/aRs5hZZJAH+kbPL5JA+9QByFFXtN0zUtYvodM0i0lvry4bbFDBG0srt6Kigkn2ArpNT+HPxC0W+vdL1nwxqlhe6bbm7uoLiynilt7YHBmlR0DJHnjewC570AcbRRX2j8Z/2ftO0n4dfAfUvhZoN/qfiLx/4cn1LUobVZr2Sa4juTEGjhQMVAXAwoxmgD4uorstM0R/D/jvTtE8faHf7La+t01DTAjW1/JCXUyQorruSV0JCZXgkHBrovi/Z+FJfizr9h8M/DWqeGtDe88vT9I1TdJqNupCgRSg5beWzhSWIBA3MeSAeV0V2Hif4e+PvBMVrP4z8NanoEd6M27ahZTWqzDGcxmVFDcema5OKKWeVIYUMkkhCqqjLMx4AAHJJoAjor9IfFP7OvgX4M/sl+GPHfjT4b+IvE/xB+IFrq9w1z5txY2XheKzm8iCSeFIW8xnBEmyYqCMjIABPyl8TLH4fz+GfhvbfDzwZrmha3daWF1a41Bmlh1i+aTas+nrj/VHkALjqFwSpdwDwuiuvn+H3j6103VNYufDWpw2GhyCHULh7OZYbOVnEYS4cptiYuyqA5ByQOpFTaR8NfiLr+hz+J9B8K6rqWjWoYy3ttYzzW0YXO4vMiFFxg5yeKAOKor6V/Zc/Zr8RftN/EVfBGl3FxpNittdzz6mljJeQQPb27zxxOFeNQ0xTYuXByeAeleCa94b8ReFdQOk+KNLutHvgquYLyB7eXY3RtkgVsHscc0AYtFX9L0r
+
+
+
+---
+*Source: Document 17668fd2541299884816643132bdef4b*

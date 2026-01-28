@@ -1,0 +1,31 @@
+---
+id: 05e7183d-7a48-4e10-baa2-feb8000c4445
+type: insight
+created: '2017-09-01T01:01:20.000Z'
+document: c09dc023ec256edd51aef2e3615dd904
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - jounx0zwln3cdfsqlqlucvgaucge7hfzz6v7umhf9yk65jzr
+  - vbndzxqwhd3cpcplxh2g83euokwtlnxljbcmcig0ujuv6p9hwpatmugqg1rmgvpo1pmg
+  - wprzavmal5fkytrtqtivhe
+  - pjy2
+  - >-
+    0vkyjevfrlogllu4snebsalye6ajonsgukkcx0cspaetahhwkheewyiv0lah9afeigiehcapxrii0o5duhlrviingeajfiyuonco0itxeztxxi0nux2bwaohugjy2y0vnx8liitnl8hkjtgynq3046jzo6cm
+---
+# JouNX0ZwlN3cdFsqlQlUcVgAuCgE7hfZZ6v7uMhf9Yk65jZr+VbndzxQwHd3cpCPLXh2g83EuOkwtLnx
+
+## Context
+From document: Web Sitcom Ideas — chunk 676 (chunk 676/798)
+
+## Content
+JouNX0ZwlN3cdFsqlQlUcVgAuCgE7hfZZ6v7uMhf9Yk65jZr+VbndzxQwHd3cpCPLXh2g83EuOkwtLnxljbCMCIg0ujUV6P9HWPAtmUGQG1rMgVpo1PMg+Z//WPrZAVMAl5FkYTRtqTIvhE+pJy2+0VkyjEvfRLoGLlu4SNeBsALYE6AjONsGuKkCX0CsPaEtAHhwKhEewYIv0lah9AfEigIEHcapXriI0O5duhlRviINgeAjFIYuOnco0iTXeZtxxi0nuX2bwaOHUGjY2y0vNX8LIItnl8HKJTGYNQ3046JZO6CM+QwoCpkEZBwuwi3ldZPxBGwEJBUAAE8Dr0u0zoxsBKA/VILzIkALrK0PBswBZBl4HDq4v0yKQ85BlxKZxIHT+cOA46lWc118pxDWB0j33wCwsus686+TfSUgJytAV7RyZ3PNS05iM0uALt42QLOEVi13bs5p2JcM3LTQRhG7IR5VgOlgDbhNKyPPGxHOcGY5oT3F+t27hCzRgPmAwTKNC3SogD3JzwneRUgUqa/CKdlHmzOGAcsx5ivDzsogZZcWzj+ORPKuCtzcBLDY0w1/3ZRyvCFSO1J13d/M7+Bw+EQTFAq5H/KOfoLkGwSabNDKYF3AfQmH4DzATQ1H/1kG+HpM0CphzI6X6QlIAMwJAobSFV46TX4lrxQBp4sAfzPAyelEZNbPPSHOg7/XShbfUpZXsNeFSFZn3JC69wxfkTwAvYCAM2zCjgbS7/0tGfRr7SntG3Ri5dwgch3+mMpO+Zb2k2XXBV9G+3eN9ar0tYlFJvgHL6wvwSmRN/oI+de+K66NwD3adbr2NGVIKo1MEDXdPoXsFV9gPAALFGyNwUYv+WUyfIx9MGsA70+HLepc8wDiJkSyDoxDQW/pL+y5nCE55pdeDjN/cu4RuAibOTYY4+dqTNUpKvsClJdwEZWlLLC+LHrQ25x46abjgd/zNf4Pu2zUX6J8OY0spYHyFvtGdH15ja9wnpt3Fiv7bYo97Kt//af4pq5SMuzrQVDy2/L4PFUt3BMyXUP9HxqjCGOWbKwUNhyjfEFuKYvBchNR8iggHCGJGguIERQRLxmqiC7ALrygS0LPGaz5qHc3xfzNPiJon0JIjvwW5BFAO0p9ye1O9aerLPnk5VLpAxA4LSNXYjVVwPHKPPEMwH9+po+FpHjUl02H/63mIunPdlP
+
+
+
+---
+*Source: Document c09dc023ec256edd51aef2e3615dd904*

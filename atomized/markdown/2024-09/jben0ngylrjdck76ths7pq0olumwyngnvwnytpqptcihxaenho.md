@@ -1,0 +1,31 @@
+---
+id: 9347d202-6d82-4574-9e87-5b5a85db2e7a
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - jben0ngylrjdck76ths7pq0olumwyngnvwnytpqptcihxaenhol4ptjsppk1juiadpd5zjbt
+  - >-
+    5kbgnc5dhgzdfbhkqclswjzgaxaviarkbxicmqfkhu4ajte7008td6rvgvwopck9oa34gkdpfefwkacutno2gzuncd7xxnsv1uab5gv43td
+  - rv5s6jez1mvgxosazwn1gt6yd7qqstgn8zydhxz1ncucheujujguo
+  - nsku67bv0tr3u4r4huji2ifelchulyz1d5mstqv2rvqkxu4zoo9rc6mflievd6o
+  - vv8vrq99qqxsquk
+---
+# jBeN0NGylrJDcK76thS7pQ0OluMWyNGNvwNYTpQPTcIhXaEnHOL4PTJSppK1juIaDpd5ZJBt+5kbgnc5
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 8170 (chunk 8170/11534)
+
+## Content
+jBeN0NGylrJDcK76thS7pQ0OluMWyNGNvwNYTpQPTcIhXaEnHOL4PTJSppK1juIaDpd5ZJBt+5kbgnc5dhGzdfbhKqcLswJZgaxAViArkBXICmQFkhU4AJte7008TD6rvGVWoPcK9Oa34GkdpfefwkAcUTno2GzUncd7XXnSV1UAb5Gv43Td/83/Rv5s6jEZ1MVgXosAzwN1Gt6yD7qQsTGN8zydhXZ1NCUchEuJujGuo+nsKU67bV0TR3U4R4huji2IFelchuLYz1D5mStqV2rVQKXu4zoo9Rc6MFliEvD6o+vV8VRQ99QQXSquk+2DuhP12EvXIUfdc/HVJaOsBpCvPbBnUVynzqTJ/ZywuH9ugLCctLjwBkqi6jyiI1C3o3blbsFLh787ZkMme+mgR865LsG5W7iCzq85F8VyBO06BucSsByhO5bgnFORWxHdomIxBc7xgjcOgpuoaNMt1yyWk1U+uWaHbiVzjvxhjT/coTbrCorjvYVwHUNuzT66hNvzPs27fEbHfVqP+vlsswL9VWAgUj/P6O9P1vOpK9Df38d89KxAViAr0EABfcZv1UGOg6wA9A7zN/i2BGcyEPdolQD8dOt4r7MYbw1r7BwVEZ2P6/x2D9HdaxhjU7yQtzGNEZ2fF2oAoii/BIPosTvR54D+Ob0CG+arsv45QnSrsAl7sqRUqZ+/8vNa7eC6BGUaIExdBSwbQEoPy4XQrgGooyyoKs+UPmVER7hOWh+PA3JhtK+1+bOn7EpjBOf86LAQwbZ2Yt/wUr+w1vM4Ln0rfKfcQ3uA4FwZljMBrlOtgTr7e0dALoyn6kyemSW2ZJZlwUvHDuSBqfTSwcAVt+TNlLXMcK6ilCXdhLi7FYUxBcvRjbASzvW0iGUMy4nmBmeFgV04ZJGBQ64lIFfhiuPdR3Ft4beURwg+iFCt2Qe2vP0AKTDISYd8boOvAAxuYmiAfsuySj+aAoP/m5vPMCuQFcgKZAWyAr1XIHk80Ae8pxJgnr+NTgV7zWK8D2JaLci/0j+Zl4jrfmeso46i567zcV3YbgPgkevuL9jv1S/qX8RLNq5xwQ78prTjFfNxHbU7DO1MsrtOVMEqP8NG4GpL74lDWYdzDtHNKtDLuOzRET+HEkTn56/87FaY+zLlmbS6Mi7PdhJm4SpxXR3UcVcZi67Uj7rq2huAOspMUpYyEhvg
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

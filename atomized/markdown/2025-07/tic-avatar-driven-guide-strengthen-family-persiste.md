@@ -1,0 +1,30 @@
+---
+id: 87b62eef-74f3-45d0-a40c-50b2f5d7fc4b
+type: insight
+created: '2025-07-06T01:33:11.000Z'
+document: 9fd27aa005603b4099800d554c6afb3d
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - finger
+  - family
+  - modular
+  - scene
+  - engine
+---
+# tic, avatar-driven guide. • Strengthen family persistence, legacy campaigns, and
+
+## Context
+From document: title: "Backgammon Chaperone: Mobile Design Critique | Shared Grok… — chunk 2 (chunk 2/20)
+
+## Content
+tic, avatar-driven guide. • Strengthen family persistence, legacy campaigns, and asynchronous play. • Define a modular scene engine for community-created themes. • Integrate mythic and philosophical layers across eras. • Map out a toolchain integration and iterative roadmap for effective implementation. --- 5. Table of Contents 1. Core UX &amp 3D Interface 2. Thematic Environments &amp Historical Immersion 3. Educational Journey in 3D 4. The Archivist AI Chaperone 5. Family &amp Social Engagement 6. System Architecture &amp Modular Scene Engine 7. Mythic &amp Philosophical Integration 8. Toolchain &amp Implementation Pipeline 9. UniqueID --- 6. Core UX &amp 3D Interface The 2D prototype proves mechanics but lacks depth, haptics, and real-world blending. Expansion Proposals • Rebuild front end in three.js or Unity with PBR materials, physics, and dynamic lighting. • Touch gestures: one-finger orbit, two-finger pinch zoom, two-finger pan. • Subtle haptic feedback on dice impacts and piece placement. • Optional AR overlay via WebXR or ARKit/ARCore to project the board onto any surface. • Accessibility: voice commands, color-blind palettes, high-contrast mode, simplified gestures. ---
+
+
+
+---
+*Source: Document 9fd27aa005603b4099800d554c6afb3d*

@@ -1,0 +1,26 @@
+{
+  "id": "50f34f47-1c69-4030-b31c-378094ef318e",
+  "type": "insight",
+  "timestamp": "2025-12-11T19:52:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>—[Your Name]</div>\n<div><br></div>\n<div>-----</div>\n<div><br></div>\n<div>## TEXT MESSAGE</div>\n<div><br></div>\n<div>&gt hey—i know you’re heading to the carolinas to create. wanted to catch you before you go. i’ve spent the last year building this performance system—70 pages of documentation, working prototype, validated infrastructure, the whole thing. but i haven’t released anything, and i don’t know how to think about translating it into actual collaboration with writers. you’re the most published, most decisive storyteller i know. i want you as a narrative co-architect for 4–6 months—not to help me build it from scratch, but to validate what’s there, shape the dramaturgical framework, and become the template for how i recruit every writer moving forward. your role helps me turn my productivity into something that actually moves. compensation: $16–20K once we land funding (realistic target: $75–115K in grants over next 12 months). no payment upfront (i’m bootstrap), but retroactive + equity in what we create. interested in a 45-min call when you’re back?</div>\n<div><br></div>\n<div>-----</div>",
+  "context": "From document: Chris, — chunk 25 (chunk 25/25)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "95023b367d0cafd95246c623bb5c2f5c",
+  "relatedUnits": [],
+  "keywords": [
+    "know",
+    "your",
+    "create",
+    "into",
+    "most"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

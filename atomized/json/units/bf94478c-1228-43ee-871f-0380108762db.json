@@ -1,0 +1,26 @@
+{
+  "id": "bf94478c-1228-43ee-871f-0380108762db",
+  "type": "insight",
+  "timestamp": "2025-04-12T18:55:22.000Z",
+  "title": "<div><tt>| P1 | ID Change Log | SYS_ALIAS_CHANGELOG.md | TEMPLATE IN PROGRESS |<",
+  "content": "<div><tt>| P1 | ID Change Log | SYS_ALIAS_CHANGELOG.md | TEMPLATE IN PROGRESS |</tt></div>\n<div><tt>| P2 | Notes Folder Tree | folder_index_map.txt | ISSUED |</tt></div>\n<div><tt>| P3 | Naming Manifesto | naming_manifesto.md | NEXT DROP |</tt></div>\n<div><tt>| P4 | Jessica Use Case | USE_CASE_JESSICA.md | IN PROGRESS |</tt></div>\n<div><tt>| P4 | Rob Use Case | USE_CASE_ROB.md | IN PROGRESS |</tt></div>\n<div><tt>| P5 | UX Schema | UI_UX_ARCHITECTURE/InterfaceSchema.md | PARTIAL |</tt></div>\n<div><tt>| P6 | Ritual System | THREAD_RITUAL_LOG.md | IN PROGRESS |</tt></div>\n<div><tt>| P7 | System Ritual Commands | See ritual list below | LIVE |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## SYSTEM RITUALS</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- `|[ST4RT.io::` → Initiates working thread  </tt></div>\n<div><tt>- `::S4VE.io]|` → Closes working thread, triggers export  </tt></div>\n<div><tt>- `lock naming system` → Finalizes syntax rules  </tt></div>\n<div><tt>- `lock dual-ID logic` → Locks canonical + styled ID layer  </tt></div>\n<div><tt>- `run full cascade` → Begins system-wide export generation  </tt></div>\n<div><tt>- `generate SYS_EXPORT_0412_MASTER.md` → Triggers this very file</tt></div>",
+  "context": "From document: SYS_EXPORT_0412_MASTER.md — chunk 2 (chunk 2/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "60056b349006bb4d33a341f0d2fad493",
+  "relatedUnits": [],
+  "keywords": [
+    "system",
+    "progress",
+    "ritual",
+    "naming",
+    "case"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

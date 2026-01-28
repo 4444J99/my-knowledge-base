@@ -1,0 +1,26 @@
+{
+  "id": "76ca2794-e0ef-4f0f-afd0-5bca0dd513e5",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>KNNO0001_paradigms_norvig_ai✅</div>",
+  "content": "<div>KNNO0001_paradigms_norvig_ai✅</div>\n<div>KNNC0002_nature_of_code_fusion✅</div>\n<div>KNOS0100_tanenbaum_os✅</div>\n<div>KNLF0101_linux_from_scratch✅</div>\n<div>KNSP0102_systems_performance_metrics✅</div>\n<div>KNMW0200_metaphors_logic✅</div>\n<div>KNTP0201_plateaus_ai_modularity✅</div>\n<div>KNGB0202_geb_recursive_mirrors✅</div>\n<div>KNDS0300_dsl_syntax_system✅</div>\n<div>KNDD0301_data_fusion_layer✅</div>\n<div>KNFP0302_functional_scala_symbolism✅</div>\n<div>📂 All naming complies. UID syntax passed. No violations found.📁 REQUIRED FILES: TEMPLATE INJECTION</div>\n<div>Each folder will receive:</div>\n<div>UID_MAP.md               ✅ Required</div>\n<div>README.md                ✅ Required</div>\n<div>REVISION_HISTORY.md      ✅ Required</div>\n<div>SYMB0L_FUSION.md         ⏳ Optional (recommended)</div>\n<div>MYTH_AGENT.md            ⏳ Optional (if mythified)</div>\n<div>ritual-notes_template.md ✅ Optional</div>\n<div>chapter_notes/           ✅ Optional</div>\n<div>🛠️ NEXT DEPLOYMENT STEP OPTIONS (UID-Bound)</div>\n<div>  1  ::DEPLOY_UID_TRACKERS → Inject all UID_MAP.md / README.md / REVISION_HISTORY.md to every folder</div>\n<div>  2  ::GEN_SYMB0L_FUSION → Populate SYMB0L_FUSION.md for every resource</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 297 (chunk 297/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "required",
+    "optional",
+    "folder",
+    "uid_map",
+    "readme"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

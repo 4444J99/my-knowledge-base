@@ -1,0 +1,32 @@
+---
+id: 9c00ec16-1382-4d27-b94f-47d7180fa870
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 9urhl1zz8pc3vnnpid978mx7z1p
+  - >-
+    0ygtrzx60fmhljhoqedjbyy49vsdhvpscmnmc4g9uviam5x0rzws238getxg6u9eto6qoetstlh6amhorksaullp13nrp3319bwhzetl
+  - bzvqnc3i1czkrp4vzp1npcujblt
+  - >-
+    66uankbwyh5ueee25wd0patsaccbltfwu4q2jznap95cdaeefontv3mt0abgcabz4sedm0a2mywxm3cczpx8kzemratwaxrrsgxfgrsqemn6kzumyirgrrwnftpsgen5tmohs7tksxs5feyu4uhoaihnjc0i7ewwpvben1ly102dtps9ick1ib2ydbbeda8plcjexpwrmzsi7ezqbzihjojd9t5u8barw7qrszse8abebon5omawbrtposrjho7wredtdevx7zm7z955g8
+  - ujhj755y3
+---
+# 9urHL1zz8pc3vnnPid978Mx7z1p+0YGTrzx60fmHLjhoQedJByy49vSDhvpSCMnmc4G9uViAm5x0rZwS
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 6226 (chunk 6226/18928)
+
+## Content
+9urHL1zz8pc3vnnPid978Mx7z1p+0YGTrzx60fmHLjhoQedJByy49vSDhvpSCMnmc4G9uViAm5x0rZwS238getXG6U9etO6QoeTstLh6amhORkSAullp13nrp3319BWHzEtl/bzVqNc3I1cZKRp4Vzp1NPCuJBlt+66UANKbwYH5ueee25WD0PatSaCcBLTFWU4q2jZNAp95CdAEeFOnTv3MT0abgCaBz4sEDM0A2mYWXM3CcZpx8KzEMRaTwaxrRsgxfGrSQeMN6kZUMyirGRRwNfTPSGEN5TMoHS7TksXs5FEYu4UhOaihNjc0I7EWwpvBEN1lY102Dtps9ICk1iB2YDbBeDA8PLcJexPwRmZsi7EZqbZIhjOJd9t5u8BArw7qRsZsE8AbebON5OmAwBrtPOsRjHO7wredtdevX7zm7z955G8/+9p//ujhj755y3+8eN0vn7v6F89d/eGLX/rguQt/9vXTf/n8WT965MTv3rv5x0+c9fZjp7/51aNfue2gZ67d+5lr9336mv0evnTNY1fu/dXzh286efY95yy67/xh1O+/cNl9Fy776gXL7rlwxf2XrX3w8r0ev+aA52468hs3Hf3164984IL1t5689IWbjv7D9+77+4ff/K+fP/OXH9z10bdu+49v3fnbt7764Ws3/+yJC39074k/e/qS37xx5w+fuu6G0/Y9dFHn4u5oLmBHKjLo8L12rj1iWzcjccic9PrpLdccNuPukxau6vNNjloWtDvnpMXBlHtm0v6V4xb84tHTz9qvvzPEYb546IAjgqchMFLQNN5lT0ENvMuKRduoSUCTgCYBTQKaBDQJfFEkgACHVN198803f1Gmrc1Tk8BuLwFiRs4YRXCswxb0SCGP3e8UHQIH23JwNclxbdCLHNJfcT6HNei2BVw2IDRgG6mzGcMkMDbCnoGrfZI1YLd6bbzEmXkTIXMoz0XeDF03vuhzWj12K2gZ2AyKRoos9E8CqltJdDQozK2skTMRXAdbkmBvI0p1PUgbyK0UM7GEh9E7kmDjGYGpELNfdeLad56++pN3Hv/bz7/x6fvPffz2o795/fZfv3bjb9+45bdv3PTBC5f9/Nlz3//6Gb/4+pk/ffLUN+/ZhPLd+4559baDX7n1oDfu3PSde459Y+uRj12+9qFLVj335QOevX7909fs+8BFy+86d9G9Fwzf
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

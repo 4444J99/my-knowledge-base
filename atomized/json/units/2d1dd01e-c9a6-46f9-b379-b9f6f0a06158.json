@@ -1,0 +1,26 @@
+{
+  "id": "2d1dd01e-c9a6-46f9-b379-b9f6f0a06158",
+  "type": "insight",
+  "timestamp": "2022-01-30T00:53:18.000Z",
+  "title": "<div>Reality TV is less realism than fiction. </div>",
+  "content": "<div>Reality TV is less realism than fiction. </div>",
+  "context": "From document: Reality TV is less realism than fiction.",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "69c9baae9e88ae75748de33cef120bbf",
+  "relatedUnits": [],
+  "keywords": [
+    "reality",
+    "less",
+    "realism",
+    "than",
+    "fiction"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,33 @@
+---
+id: c49dfddf-d049-4d69-8e65-9186f71a1ba3
+type: insight
+created: '2017-09-01T01:01:20.000Z'
+document: c09dc023ec256edd51aef2e3615dd904
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    1p38hbxtinuogogaakugcgz2cv1p01coctu5yrov590g2wivbtf05z6nuu8cocfxmdfjjjyibv8lfnxitwtcsscraamenltgfpjnc
+  - >-
+    9dkspfzanhb1soezut6l85ug4upnqmefapb76v0eeiusaaohostatbgvs93c35b7sizr1xxdtqyerraaqpyfsss9uemidiklnnz
+  - 5lu6fly0
+  - >-
+    dxodttwwfwcauqvxb4xalxrqaamjshcr4snjvvpcdjgocb3jtqchs5v6uehxpexhklpdzjyfqbzvnrqppb1gsa0oggteewewtywf
+  - 6drjsvdxdoldcz
+---
+# 1p38HbxTinuOGogaaKUGcGZ2Cv1P01CoCtu5YrOV590G2wIVBTf05z6nUu8CocfXmDFjjJYiBv8LFNXI
+
+## Context
+From document: Web Sitcom Ideas — chunk 410 (chunk 410/798)
+
+## Content
+1p38HbxTinuOGogaaKUGcGZ2Cv1P01CoCtu5YrOV590G2wIVBTf05z6nUu8CocfXmDFjjJYiBv8LFNXITwTcsScRaAmEnLTgfPJNc/9DkSpfzAnhb1SoEzuT6l85ug4UpnqmEfAPb76V0EeIusAaOhoStaTbGVS93c35b7SizR1xXDtqYERrAAQpyFSSs9UEmiDiKLNnz+5lU6fLY0/DxoDtTWwFwCaUQvxB4xalxRqAAmjShCR4SnJVvPCDJgoCB3jtqchS5V6uEHxPexHkLpDzJYFQBZvNRqPpb1GSA0oggtEEwEWTYwF/6DRJSvDXDoLdCZ//OWcnVD1dLzrHH1VxojgK+593YZ+S57ufSaiL9L2n4bSePdMd82o1gdGDIDAJBoL09UiK4odWL+2jULk+SRYSEDSq1nUIVFso8cQx1yXSQXjhcNJDdb/GG+3PLxKtGIkdElnDxBYnQA/V8O23324gFuIRfIcQw4aqHto1EgIkBhgzAawTowbEWEYYc2m0Tjy81VJwp7V6V+W3B7ofxS1btsw9//zzVl5GhjkVGiNMmzbNSiJQTFaYwJjoSBgwKfG51WUT2f3F91EDDWuA8i8ypMrqUsYWKGdjYG6HDHbDJxVXjBoYGA1QckzGPcs7SlOeffv2WdlcWqI8MEcT9xI1EDXQVhrASWJ+pR/R1IltdWjD+WCg/vmbv/kbs9vhRa0mIKEIGgHwgVeaXi5RWqQBBWkC9AMvvpwE4kUlQd+RsHFLQtHT6G6g/Vn/eJJYAOUPTzDBfgVfaJwJ57FREwgtSBLAT53kwtsCt4Bo5A/nuIgWIj0uuJFJMgCKIXBhfQbSH0u8EoQh6FLSyS6xxbhI1MCQ1QAI0tWrV7sHH3zQqNkI4ucJYzFIU0CW2NZ5AuAS5CuBLQCbbJtejJ2dnXmLx++a0QCxAALiZwkxfaquB8j6wRLRPHlxwxvlzkc17rdSCOKXkXQOYdl2jZPouLwa3YbV61145TUX9jzrTt71QDL3QvUDl76C/pa8oL/NVaucGyu6pDKUONA5sT4JBD2rdQn9sJ58Ook3FaH5FaD3kycmFOJHX3aB+BQJgSpjRu4xcG2UrAqqJrAKXKoCBQwwadfrlnsixV8SxId5hl61NFkHfAjzAML4CQMBcWiC/4yVJAKgvORzmQoAtsM2Yb4h2drqWLbupPYTFIdiOeG0
+
+
+
+---
+*Source: Document c09dc023ec256edd51aef2e3615dd904*

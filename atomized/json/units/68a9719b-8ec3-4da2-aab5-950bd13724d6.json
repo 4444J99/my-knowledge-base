@@ -1,0 +1,26 @@
+{
+  "id": "68a9719b-8ec3-4da2-aab5-950bd13724d6",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>Full ethical review procedures, incident response plans, and stakeholder engagement frameworks at `/docs/ethics/`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## **APPENDIX E: API DOCUMENTATION**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Complete REST API specification with examples, authentication, rate limiting, and error codes at `/docs/api/`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>-----</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Document Version:** 1.0  </tt></div>\n<div><tt>**Last Updated:** November 2025  </tt></div>\n<div><tt>**Maintained by:** RLOS Architecture Team  </tt></div>\n<div><tt>**License:** Creative Commons BY-NC-SA 4.0 (Public portions), Proprietary (RAW mode specifications)  </tt></div>\n<div><tt>**Contact:** [REDACTED:EMAIL ADDRESS]</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Acknowledgments:** This synthesis integrates research from 150+ academic papers spanning computational linguistics, semiotics, rhetoric, AI safety, and systems theory. Full bibliography available at `/docs/references/`</tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 57 (chunk 57/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "docs",
+    "full",
+    "rlos",
+    "architecture",
+    "ethical"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

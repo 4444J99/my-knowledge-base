@@ -1,0 +1,32 @@
+---
+id: 06351f64-f5c0-4812-908b-7ee7137cf657
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    xislmveakvbm1ghhsseexobw4reeswd40xligpml48xgyq5shqwwmehbr8icuigmqdedagbul243u
+  - >-
+    nvxnrx1y5dtsmb0zpioyz9xvtwjvwmdjickazz7igfp2al1ecgzgk3gpbqkbf3f7s2colngq1ln106riisxwteapy86d7xkwsh9w7ar17xdy
+  - rxnn57u6nz8ptpmm7hfs3crilb9bdvd3ttrj0uud17erfadgab1b3jgflp6dlb
+  - 3eiqga76yu3exf8v0jxpev1ehppk2med5b3d84dy986turlz0sd
+  - vvxnx3gpwcbyuh8rkgbmacm7rkyadjcmmjmpb7tiwxoj
+---
+# xiSLmVeAKvbm1gHhSSeeXOBw4rEeswd40XLiGpML48XGyQ5shqwwmEhBr8icuIGMQdedAgBUL243u/xh
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 16929 (chunk 16929/18928)
+
+## Content
+xiSLmVeAKvbm1gHhSSeeXOBw4rEeswd40XLiGpML48XGyQ5shqwwmEhBr8icuIGMQdedAgBUL243u/xhe+NvxnrX1y5dtsMB0zpIOyZ9xVtwjvwmdjICkAzz7iGfp2AL1EcgZGk3gpbqkBF3F7S2cOLnGQ1ln106RiISXwTeapY86D7xkwsH9W7aR17XdY/rxNN57u6Nz8ptPMm7hFs3crilB9bDvD3TtRJ0UUD17erfAdgAb1B3jgFLP6dLb+en/3eiqgA76Yu3eXF8v0jxpev1ehPPK2mEd5b3d84Dy986tuRlz0sd+/a8/vvXNx3gPWCbYUH8rKGbMacm7rkyaDjCMMjMpB7TiwxoJ+RW4ow2YPWBx85gOi9ZUN1xrAhcCO3YCLFjbwdPgXT4s6Ln7eLtEFBcyDx1wl0wi8BfYKEQMFs/c8dwYHbIkvL6c9nLoyuMmGll1w+mX7/HLT/exTJvjuleW3fmbfPJYPa2S7s5sdK53ffkc5O4Ru9n+DC5/4gLvOOHBep+Q1dzvc0xd2c59+NPAbMfv8j+Jmyipq3bLyCHfWSBd7ZB8csI6mYdVhdqeUTImrhr6A72buRyOgN+B3W76SnY+9N8r/PVfuMzWLnP2jFWcce1rcu8Qd0ffy2GbgJnhhmKtwdyg8Njb4gWgYXm2bofjnKlupK4+g8qXPWWo96g81xqzA0XVGtaPTY0l2ZYFUiCA7MLtvm7pu+qYVPiZqmK9WUKN6Koe4HHqoRdqtiKlTxH7sphduRGXVajOnoz5tytUrXnMKxmJh/V1jJULbNcEHLIek2uWiAPnxRBsA7w9++ItEwUAyZDNgxHvC16ChqbtgxruGtFElf1VEjFbkYe6j6Pw98SU9xAghad6pQhZJulzBF7pG3kqtSdZ+PX1eadv23w4WxNW18b5NAo6sW8f1e8SbeaPPRT0MRlRduCjmiNEJD3FHFk8JZ3fSL+LX1ZNV6CZajMh2ezHGjUdJcV2BN4WNvIDyprjcY+f6/C1CWihtXK/IQwSf/ps0jPrW3wyE9/sEuE4cmV9MS3VeeNbcqUGwIx3inr5D3MH1QtJTYLnNvg+xIpbYnvtYNMOS/O5zHJoZLYjDy+RpKFMEVMpAMWleqD8PnOE0eewVQtEbIdKKboYY7AvZvrvXZl2+yHrcRwviLb/m3Yigq9bGG4bCmX9F6nHUqPbNN/
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

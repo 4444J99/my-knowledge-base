@@ -1,0 +1,26 @@
+{
+  "id": "6dcc795b-e123-4788-b670-36ada78928dd",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><font face=\"ZapfDingbatsITC\">✔</font> Example: Should only a Warrior-type c",
+  "content": "<div><font face=\"ZapfDingbatsITC\">✔</font> Example: Should only a Warrior-type character be allowed to claim a legendary sword?</div>\n<div><br></div>\n<div>3. Should We Introduce “Artifact Resurrection” Mechanics?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Example: If a legendary item expires, should there be a 1% chance it randomly reappears later?</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🚀</font> Now ready to execute Version 7.5. Awaiting full macro schedule for reassessment. </div>\n<div>🎮📖 Are you satisfied with this plan before moving forward?</div>\n<div><h1>📌 Version 7.6 – Finalizing Timers, Archetype-Restricted Items, and Artifact Resurrection Mechanics</h1></div>\n<div><br></div>\n<div>🚀 This iteration finalizes expiration mechanics for buffs/debuffs, confirms archetype-based item restrictions, and introduces post-climax resurrection mechanics.</div>\n<div><br></div>\n<div>📜 1. Buffs &amp Debuffs Expiration – Timed in Cycles</div>\n<div><br></div>\n<div>📜 ALL buffs and debuffs now operate on a strict timed cycle.</div>\n<div><br></div>\n<div>✔ Buffs/Debuffs Expire After a Set Number of Actions or Classes</div>\n<div>  •  One-Round Buffs: Last only for the next decision.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 444 (chunk 444/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "buffs",
+    "mechanics",
+    "debuffs",
+    "face"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

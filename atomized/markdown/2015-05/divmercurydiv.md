@@ -1,0 +1,38 @@
+---
+id: 1c4dd9de-6ac6-4540-bd4c-1bbb82cda616
+type: insight
+created: '2015-05-12T15:12:28.000Z'
+document: 14f8edf44eef7316b8f1ce7606862fe0
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - that
+  - long
+  - mercury
+  - beset
+  - fool
+---
+# <div>Mercury</div>
+
+## Context
+From document: Mercury — chunk 1 (chunk 1/6)
+
+## Content
+<div>Mercury</div>
+<div><br></div>
+<div>I raised my old dusty digit towards the mountain beset by Mercury's re appropriated cattle -- one of which stood fast beside me as I forced my limb into temptation. Lead us not. And lead. I did. And just as I turned back to utter the final nails. I was beset. </div>
+<div><br></div>
+<div>I was beset. By this old fool. Foolish of the fools and old unto all tethers of the dying mare of existence. Doubled the offer and within moments, without thought nor grace, he revealed himself to be. And I revealed myself. To be--</div>
+<div><br></div>
+<div>Mercury. son of Jove, Zeus, et al. Back before me as if he had never left on winged heels just moments before. I was a fool. Yes, I was, wasn't I?  That is a question for man, not for stone. And there I was, stoned, layer upon layer upon layer harder than the ice of poverty I've felt for so long before--and now I feel not and question not. </div>
+<div><br></div>
+<div>Assured and insured that my secret will be safe within my own head, never between the ears of no man.  I left that old fool standing in the pose that compromised my trust and compromised his ability to bend at any and every limb. Solidified in the consequence of his deceitful action for all eternity, or for as long as the stone will be weathered by nature and all other external forces.  This time I took yield to the sky with urgency, long have I been tasked with my fathers tasks, and I miss home. The comfort of recognizability, looking down long corridors knowing I know all above below between. With constant force must I make my way along dotted lines drawn by my father to keep him pleased--me, most certainly, more than any other.  Servant. </div>
+
+
+
+---
+*Source: Document 14f8edf44eef7316b8f1ce7606862fe0*

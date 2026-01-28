@@ -1,0 +1,30 @@
+---
+id: 08f6007a-839f-4b76-a61c-ef5bc290b2a6
+type: insight
+created: '2023-10-02T19:39:24.000Z'
+document: bf5cf468167bc95e0b8f16a2d265e29d
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - from
+  - which
+  - think
+  - respect
+  - time
+---
+# <div>I don’t think you respect me or my time. I don’t receive any warmth or affe
+
+## Context
+From document: I don’t think you respect me or my time. I don’t receive any warmth…
+
+## Content
+<div>I don’t think you respect me or my time. I don’t receive any warmth or affection from you. I can’t comprehend how I am benefiting from this relationship. I can’t endlessly give and consider you without the same in return. I’m on empty, which turns me mean and cold, which is not who I like to be. </div>
+
+
+
+---
+*Source: Document bf5cf468167bc95e0b8f16a2d265e29d*

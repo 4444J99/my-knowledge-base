@@ -1,0 +1,31 @@
+---
+id: 5dbf6959-6379-4afb-93c1-6f5874f7edbd
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - x32euskbrvi2aqgligyjridi49jlkj5w6jsdcnn1gpujpkr8hfhbb1str1xrgkr1tdlfx
+  - h5dqj8ak888kve5ce
+  - bocyrkprnejkqtcghzyvxiyb03p8yscjwyvbg
+  - >-
+    a4ugziikwmpb60gczisloygbiivsk7d9iwwwdggfkgigbonnwdfevysstk8i8dnke8j6gmlffoxjnlcp8bhfaincndnsda0ffarguudyigo3ik6cokkoxf7ddm
+  - piblcjldzbig3cqijzzv4mofossvjrbocopboglrb
+---
+# x32EUskBrVI2aQGlIgYjridi49JlKJ5w6JSDcNN1GPUJPkr8hfhbB1Str1XrgKr1tdlFx/H5Dqj8aK88
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 2652 (chunk 2652/3262)
+
+## Content
+x32EUskBrVI2aQGlIgYjridi49JlKJ5w6JSDcNN1GPUJPkr8hfhbB1Str1XrgKr1tdlFx/H5Dqj8aK888KVE5cE+BocYRKPRNEjkQTcGHZYvxIyb03p8YSCJwYVBg/A4UGZiIKwMPB60GczISLoYgBiIvSk7D9iwwwDGgFkGIgbOnNwDFeVYSStk8i8DNke8J6gMlFFOXJnLCp8BHFAincnDnsdA0ffArguuDYIgo3IK6CoKKOXF7DdM/PiBLCjLdZbig3cqiJZZV4MOFOSsVJRBOcoPBogLRb+qZLhuUU3XLZQBBnUVqE+1XVxc+aJiEqsrGL+KQfkMZdXVFZBEMaPdcPjQwUuimoYP1/6zS73Mh1RHjh7WZu152rux3nUbP/5KeTW7wc4YcH+N2/Dwspa0N+z9NG+eXqS5fr29vlWXs8FOliEsVblUEYSXDzJE4aTvkoc2illzZGPRkVYErIQpvqJkqg65BMsk5KI2KGldd0qOIqMdot/bEkZ+K52hsBnEuW+KavyLN+IAepmOImhvJiPEuWnDL/JESS75nMftoTgCnS/6M5Uy38jB9YWM6Od+Sv1MU9cuVWmibuRCPvqWrGoVRecX8DBd8YVCG8AQ8KNYWVPhN+61sACwH4++QD81TX35noMPU4o6B79xXk2Hoq++pHs7QBJ1oZxMg/y5fo4grWQU8ow4eI30yFN1dm2j5NJHuT+lnpv/8DBI/UPRRuaWi/oZ8uDcZaAw60A5L/e17zlRgqXgg/uJVPpSH4AXDpaGoeTTP5hwAHAW2bP8MugF3+QNKxE0S/2qoDqeR4RHWfDtgvTLZEHwqyCeEfqDRw76DvcsDEafdUlOA4HSRshGlzokEz/b45xAZKNiXYYBq+Rbyoz6UJBTksmH+dMZ8om6kV+nfGA9y1dXXCo4vn0tXvlz65GeyTZVARlwErQdobioF/SgH7/xmggcglBneIjnJ22MVU3ZlDZoQps+EfRK+lKvUg+IO0X5hS0dxNOOBroOIRV1UREqKKj6kpDy7wBXpzzXSpIL8LcOqFpfo9YBVetrs4uO41YBqNQqDBJloGBgY7D1QMVA74E3BuwCqqxEoEh4UItBgzHFw4poeXBitMt0I5zmzwOP6WusUZpSNuUGuIp0pKS8UGDKiAiF4JXBiSuKQYEJ/pmxDN4rCgaKq9I4J0XAE/nKH9Hmg9/4
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

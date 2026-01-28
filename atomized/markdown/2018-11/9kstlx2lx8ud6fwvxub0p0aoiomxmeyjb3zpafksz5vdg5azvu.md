@@ -1,0 +1,32 @@
+---
+id: 5220a490-9e31-4d29-bb6d-a437b4c689e7
+type: insight
+created: '2018-11-17T18:19:07.000Z'
+document: e329ec4e43d47fccabf1e22882189db8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 9kstlx2lx8ud6fwvxub0p0aoiomxmeyjb3zpafksz5vdg5azvud0p
+  - >-
+    kxymhjhyhawxizu259xjqbvhbrnahehicgpsyrtdhqc9qpxpkhafovodgdt609iu5jidqs31obblwer
+  - >-
+    t0onbq6ti2hlmuspr6vdhuplurc4yxwga7e9ugyim8ohsrgy7kzqyhtpw2sab8fdut0x3oa07a6lhrxirxxzna610lte3u0qvjgktnncfbiqqhuhoccdarut7muzhz
+  - q1pze5qwaxudxhc7vmz
+  - mdxmnqyngkfmtwm
+---
+# 9KstlX2Lx8uD6fWvxub0P0AoiOMxmEYJB3ZPAFKsZ5VDg5AZvUD0p/kxyMHjHyHAwxIzU259xJQBVHBr
+
+## Context
+From document: Black Bean Salad — chunk 457 (chunk 457/2298)
+
+## Content
+9KstlX2Lx8uD6fWvxub0P0AoiOMxmEYJB3ZPAFKsZ5VDg5AZvUD0p/kxyMHjHyHAwxIzU259xJQBVHBrnAhEhicgPsYrtDHqc9qpxPKhAfOVODgdT609iu5jIdqs31oBBlweR/T0oNBQ6tI2HLMuSPr6VdhuplUrc4yxwGA7e9UGyIm8ohSrgY7kZqyHtpW2SAb8FduT0x3oA07a6lHRxIRxxznA610lte3U0QVjgKTnNcfBIqqhUhOccDArUt7mUzHZ/q1Pze5qWaXudXHc7vmz/AA/MDxmnQyNgkfMTwM/w7a5xrqRiyxYwRyT6Z7VZS9McaopwS3VupzWLQ07HShduN/JByVHWniRWAY85yCByB+NUI5o9oEn3lXgZ5NSLcRQ/uSx+ZegHSiyL5iWVgy4VScEcdvwoKssg2juAfWqe+QDG4tjsffoamDhAoPLH16jFPlKuSspdyq8AdDnmqRwxzwSmQN1XI8oTI3YdKrSBd7KOc4PArIkYpJChuSnHXinbWZWGeSMbT0OaVolQBwT8p6etJuAI3ZUE9xQBLDGkbFAxAxgdcE0qqj7mA78nvTPmV853BhwAcAVYt1RYh3DHp3oAikV9qIFztOee1RseCOeB1PAqViZO/QnA7fWoSsx3FsA7sYxnI+lAD4cIgMnGfmHeqTbCSuMbs596tjD/ADM25hlQvTp61VZSkm4nJYcL/D9aAE+UFehTrjoRinEIW3bsK3AUjj6009SQuOQM+lTsRGoU5PODxQBGoCu7sRtwcE8njpVV0WWLyjhd3RmHOfpVn+NgV3dDgdahkw4ySc+ncUDTsU3STBhyCwHpimnHG44x0OM4xVl3AZnLYwMnPU/SoraVlLODgt6jP5UFguxxnJYheo9fpUMiGJdzMMDGc+9SI8gbdgZPTAwPxpVA8xRMMh+p7D8Klq40yvwmFI3Bz1HPFTiNFPybgQOKcrB2LOAFU7QelM3FJOVJ3H5WHtWJZWCgsAoxz0Ap20ADeeAakEYV94O5jhQPSgrnJIDMW5z0GPSgCEncCACOcjPf0ppVhIvmYU45HpVgNheQAc/LVV8+Yzuxz3A54FAExXyyZJhhDwCOp/CkBQK3mAHPH4dqb5pcDZ91ScZHY/Wms4MojKk8Dkd6loZC0oiUZ+bJGAKfJN5hUoM9B8wxzVqO3Ic/LkDoB61XlU5UNwoP6/8
+
+
+
+---
+*Source: Document e329ec4e43d47fccabf1e22882189db8*

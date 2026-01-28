@@ -1,0 +1,32 @@
+---
+id: 04249946-26d8-4951-81ff-58ecb38c76bd
+type: insight
+created: '2018-11-17T18:19:07.000Z'
+document: e329ec4e43d47fccabf1e22882189db8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    l2eaalmfrtiapodximiiklgoaxj19aaiyquzhghjqymrsqnjptuh8zunpvqamszaenq0o2btkznkuggt0bxg0ufxhrmgbpib
+  - fajoe7mfl
+  - vqmnnqpptymmssmdimedgpq9okafwf59ooqe9wissmnwyrnfzijubx
+  - ccvcumikwocdkcex8alg8edaglubxlsu1jq5zjhhoasirf
+  - >-
+    3hzt6ucbsqamcnayow4ptxryhyvyrwakikl7ggyn3tfzlr3ldhqnv3qrkgqxbajjaihh1qynjbc52immi2
+---
+# l2EAAlMfrTiApODximIiKlgoAxj19aaIyQUZhgHJqYmRSqnjPtUH8ZUnPvQAMSzAenQ0o2BTkZNKuGGT
+
+## Context
+From document: Black Bean Salad — chunk 388 (chunk 388/2298)
+
+## Content
+l2EAAlMfrTiApODximIiKlgoAxj19aaIyQUZhgHJqYmRSqnjPtUH8ZUnPvQAMSzAenQ0o2BTkZNKuGGT0Bxg0uFxhRmgBpIB+fAJoE7Mfl+VQMNnqPpTyMMSSMDimEdGPQ9OKAFWf59oOQe9WIsSMNwyRnFZiJuBx/CcVcUmIKwOcdKCEX8ALg8EdaglUbxlsU1JQ5zjHHOasIrF/3hzt6UCBSQAMCnAYOW4PtxRyHyVyRwAKikL7gGyN3TFZlR3LDhQNv3QRkGqxBAJJAIHH1qYnJBc52imMI2+UjKsM5FBsQjLAMQSD60/YuNx3Y9McUiqVJKZK9PpRkgYHIznFAD8gcgDOfTpRtwGQ/MD29PypmWGcHJJ6elGFTG7IPc+p9KAF3c8Dp3prJl2YkHHYU7nYXAA5HWkfkMDzx1FADCRjZ/e+77e1MGUDBeCBznmpCpEa45Hr701VEZYyHHHUVSZLRIrKVG7BOR2phIKlVOOc9KOfoOppdyk8jGOaokDyD0HHHHekB4AfnJzSfLz+hp8ZJYqQDxwTQApwq9Rjp9KiIBAYHIHFPfaWDP1zjjvTW5QqOAp60AN2kuGJycYHHGKQhBy5z249aXzCQWPAXoOpNMV+rOuCfyoAeexAxjrUW5RgZJyafljnvmhu44yBxQAKyIc8jI5pB8jMxOUKjA9xSLlkw/3j0+lB2tuDnBGcCgBo5XAJJ6kdqccsRt6+tRMWO1UOal3IowTt54x1oATliMHBzz9KUKELKOQaaGGAOrdPapN3zldhxjv2NACYXPAwwpu4A4HWk+YKTnJX9adEpbBxjPWgCcrx8xwBg0vmIoUZBPpjPNNfCB88bcDHXmoVQYDOSSKDMtfInzNjB5zUG1SN68ipCQeD0Ipm1TnsB3HSgBsqH7xIz2xUOFC7ScEmpj03DkY6CmKRuBxnA6GgBCMMCQMYxmmMhUF8cHuemKfuJYgjB6+1KpznrjptoArKrEZXDjuenFOyTnAIzx7YqY/d4GMjFIS2xeuPSgCLH8GPagBwOBk1J5e5Q4wOehPpSMWCkrzk/hQAwhY2Cnvxx0qE5ZgD/DT5BvJDDGcGn7AQVOCR6e1UkUiEHJx0+lMfK4wfUYqXdj+HA/nTHXJwfQGqKETjHNIgfzGx92lVABg9acp2naKAHgBcqeDwefY0p2ZG4A/Soyx2hx8uWXr6A81
+
+
+
+---
+*Source: Document e329ec4e43d47fccabf1e22882189db8*

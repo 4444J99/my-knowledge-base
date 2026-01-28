@@ -1,0 +1,26 @@
+{
+  "id": "bcd9e857-7ef2-417c-b1be-85ead8e35dea",
+  "type": "insight",
+  "timestamp": "2023-06-14T11:49:27.000Z",
+  "title": "<div>Baggage license number</div>",
+  "content": "<div>Baggage license number</div>\n<div><br></div>\n<div>Bcn17289m</div>\n<div><br></div>\n<div>Reservation</div>\n<div>[REDACTED:PHONE NUMBER]</div>\n<div><br></div>\n<div>United.com/refund<br></div>\n<div><br></div>\n<div>United.com/customercare<br></div>\n<div><br></div>\n<div>United.com/claimforms<br></div>\n<div><br></div>\n<div>0169846452693</div>\n<div><br></div>\n<div>Chase Claims Number</div>\n<div>[REDACTED:PHONE NUMBER]</div>\n<div><br></div>\n<div><br><br></div>\n<div><br><br></div>\n<div><br><br></div>\n<div><br><br></div>",
+  "context": "From document: Baggage license number",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "e238ebedbb4c55e767f86407c4236e8c",
+  "relatedUnits": [],
+  "keywords": [
+    "united",
+    "number",
+    "baggage",
+    "license",
+    "bcn17289m"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

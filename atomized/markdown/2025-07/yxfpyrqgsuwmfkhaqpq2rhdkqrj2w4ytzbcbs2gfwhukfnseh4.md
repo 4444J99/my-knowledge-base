@@ -1,0 +1,32 @@
+---
+id: 1f0131db-8d95-4d57-9f91-85dc791b22c9
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    yxfpyrqgsuwmfkhaqpq2rhdkqrj2w4ytzbcbs2gfwhukfnseh4dqkbkpdvx60iesaofwfjdj2cpjzziy3xk2lkdmrj
+  - zd8w4btw6qljjnlozc031ze9ecwqsthdbs1lywbtjrlywwhjg7zz
+  - mkgkjf26ajqm1jc9g7dyddsqel3msyqeafgaua9knziy7e8rchuj1nkniu2gdlcufzwgr9ll7q
+  - tpl0mduvkqe0zne7jfhsojojqmev69v72ld5nxrpjv8
+  - >-
+    4z4kwn2lqvx5ahcfiokatv3yspdrog34smhm3fzkpq5wjrovls2zfpa8d30e8pqvhblfnpcrp5r7afbjvotvpms
+---
+# YxFPYrQgSUWMFkHaqpQ2rHDkqrj2W4yTZBcBS2GFwHUkfNseh4DQKbkPdvx60iesaofwFJDj2cPjZziY
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 2742 (chunk 2742/18928)
+
+## Content
+YxFPYrQgSUWMFkHaqpQ2rHDkqrj2W4yTZBcBS2GFwHUkfNseh4DQKbkPdvx60iesaofwFJDj2cPjZziY3xK2LkDMrJ/ZD8W4btw6qLJJNLozC031ZE9EcWqSthDBs1LywBTjRLYWWhJg7ZZ/mkgkJF26AjQm1JC9G7dYddsQEl3mSYQeaFgAUa9kNzIy7e8RchuJ1nkniU2gdLcufzWGR9LL7q+tPL0MduvKqe0znE7jfhSOjojqmeV69v72LD5nxRpJV8/4+4z4KWn2Lqvx5AhcfIOKatv3ysPDRoG34smhM3fzKpq5wjROvLS2ZfPA8D30e8PqvHblFnpCrp5r7AfBjVOTvpmS+pOK/i2T/QNgGJL4qYmXpwmG3glt/ZMD14WVLC0t33j05JiQu+/2vZ7rd1r27E/IyQvkxLoyIhKWryjqHqgcPA3gXXP8LFD3sqGv64ev1J48X9x9mF1eZ+rpN8sn9Q36pqkJF5BSRvHeKjoZKERAVYCqwBNXgLqqqQpQFZgsFcCaDBayM2IOzgxa8Z6L7COLiE/nOXxuaPYnvYVfGS7UWWRm4uXvwhEEZxUwaxt5qzcJN3aSJLA9/SC3J6J5e3Q9irAxXttGtIt7JiTbBIcudnabY20/2402m5ZqxKk1TOowSN1nkD0IvE04PZWM0SKJUyVf60v36rCXw0oa2wTq5h4adqFIBSPMZEwDDJwRzS0/hEuGhNxWaujUuOBBpVH0448cHc44O6CvdWNb0EgPjA34Cs0z8sAAvEmoe/J2+ewaMiy9RPq3sSGilDwwopL4jqS4Zx4m+wJhBWQWWXhrLKVresSBPSb8dtwa4Doyi0ouklkERbcyheV/JYQ8wsDSuuE5R9LLnFkYMOzoyIBDstBtTtTv5ModGh2wcmr7+NPmCa+Chp+gnDeQ9egEZcz3i7ENY6ArZ/RG97AnaKtJ3TcQXljhSGMwE6TFtW2A2Q8Ab9Dg3cdvlDesdfMO4MRJGlq3Hzx+A5pzWJ1Xtmx18KFrugtnBq/Ejqoq/j3K+PerKfemCi+iqftt/3pIq760os0xX5pYVNFx5OT+b26MCbwR5b3r3NfZDY02ri6hyVJYqeXv6QHqrjp6hqDuUyOou+HsN/VnLtedupixtSsiu8AkOPYjs7A36JtfFd95Jf3vqliNJ15wU79IVYCqAFUB6qZGVYCqgIpWIOPf
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

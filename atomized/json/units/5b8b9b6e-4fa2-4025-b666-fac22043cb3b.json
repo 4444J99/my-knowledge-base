@@ -1,0 +1,26 @@
+{
+  "id": "5b8b9b6e-4fa2-4025-b666-fac22043cb3b",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:44.000Z",
+  "title": "<div>- **$OS_ROOT/prompts:** This is the **Prompt Library** – a repository of pr",
+  "content": "<div>- **$OS_ROOT/prompts:** This is the **Prompt Library** – a repository of prompt templates, examples, and prompt engineering guidelines that the OS and its agents use to carry out tasks. It is essentially the “playbook” or knowledge base of how to prompt AI for various recurring tasks (world seeding, summarizing archives, generating code, etc.). Over time, this library is expected to **dynamically evolve by learning from successful strategies** used in past sessions [oai_citation:7‡noailabs.medium.com](https://noailabs.medium.com/self-evolving-agents-the-ultimate-frontier-in-artificial-intelligence-7b7842c1f472#:~:text=human%20research%20team.%20,problems%20more%20efficiently%20over%20time). For example, if a certain prompt format consistently yields good story expansions, an entry in `$OS_ROOT/prompts/expansion.prompt.md` will be updated with that format. New prompt templates are added as new kinds of tasks emerge. Different AI roles may have their own sub-folders or sections in the prompt library (e.g., prompts specialized for the Critic agent versus the Creator agent). All AI agents have read access to the prompt library (to retrieve templates) and certain trusted agents can",
+  "context": "From document: # Blueprint for a Self-Evolving Creative Operating System — chunk 12 (chunk 12/38)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "83dee6092ba3a8d02324ba12da038c25",
+  "relatedUnits": [],
+  "keywords": [
+    "prompt",
+    "library",
+    "agents",
+    "prompts",
+    "templates"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

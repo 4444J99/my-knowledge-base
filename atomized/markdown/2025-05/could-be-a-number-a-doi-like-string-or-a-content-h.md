@@ -1,0 +1,30 @@
+---
+id: 126873e3-b81e-4c99-91ba-10b687d1455d
+type: insight
+created: '2025-05-15T00:57:38.000Z'
+document: 97ddee0de00a1fdb1a5da48c7c6bd4f2
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: programming
+keywords:
+  - number
+  - descriptive
+  - names
+  - filenames
+  - metadata
+---
+# could be a number, a DOI-like string, or a content hash), you decouple identity 
+
+## Context
+From document: Transforming a Fragmented Digital Life into a Unified Canonical Architecture — chunk 7 (chunk 7/37)
+
+## Content
+could be a number, a DOI-like string, or a content hash), you decouple identity from any particular folder path or machine. • Opaque vs Descriptive Filenames: Archivists often deliberately use non-descriptive, systematic filenames, accompanied by rich metadata in catalogs. The U.S. National Archives advises that for large collections, sequential numeric or code-based file names (with no intrinsic meaning) are preferred, since they minimize the chance of collisions or variations due to typos . For example, a batch of 1000 scanned photos might be named IMG_0001.tif to IMG_1000.tif and the detailed info (title, photographer, date) is stored in a metadata database or embedded tags. This approach contrasts with ad-hoc descriptive names (which might conflict or sort poorly if not standardized). The key is consistency: every name should follow a pattern (e.g. a prefix, an ID number, and perhaps a date), and that pattern itself is documented. Best-practice guidelines in archives include making file names unique and persistent (not dependent on context), using only alphanumeric characters and maybe underscores, keeping lengths reasonable (&lt=25-35 chars), and including a version number or
+
+
+
+---
+*Source: Document 97ddee0de00a1fdb1a5da48c7c6bd4f2*

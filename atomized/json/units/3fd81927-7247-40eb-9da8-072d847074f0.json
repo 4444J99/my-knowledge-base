@@ -1,0 +1,26 @@
+{
+  "id": "3fd81927-7247-40eb-9da8-072d847074f0",
+  "type": "insight",
+  "timestamp": "2025-09-23T17:32:39.000Z",
+  "title": "<div>Obsidian OpenAI Key</div>",
+  "content": "<div>Obsidian OpenAI Key</div>\n<div><br></div>\n<div>[REDACTED:API KEY OPENAI]</div>",
+  "context": "From document: Obsidian OpenAI Key",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "08aedadbf9a44ff9971bf65954fb17f2",
+  "relatedUnits": [],
+  "keywords": [
+    "obsidian",
+    "openai",
+    "proj",
+    "5ijky5cm1icdw",
+    "f_daa_xtyjf"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

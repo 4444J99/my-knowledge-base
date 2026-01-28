@@ -1,0 +1,32 @@
+---
+id: c4300d51-007a-4e10-a451-10162560b9c3
+type: insight
+created: '2018-11-17T18:19:07.000Z'
+document: e329ec4e43d47fccabf1e22882189db8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ruob86
+  - nptse2vy7ghrvpjai79kzlu4ehleyjprjfadhwt5e3t61j30iwockfe
+  - twqyl2tljzyf9oc1naeu5aahgasjei4cr8vq
+  - >-
+    wphajdldofaghe4d92w8h3xug0zifbb45q2dwuqmhbqixzwvqaam59pzk6feorxzsmnwhu8nnjitmwabgwxkzyt0qmqz2r0apnael2xoapztgtn3qewsahk4oohrucoqnk
+  - >-
+    lnnhpsigkuhqcr0a4p50au47dggjf5iy1smjwx2ckd071plf03jdyprajf0ulqbmpeqychn170ks5yhge2aucj2ixz15qvlv
+---
+# RUOB86+npTSE2VY7ghRvPJAI79KzLu4EhLEYJPrjFaDhWT5e3T61j30IwOckfe+tWQYl2TLJzyF9Oc1N
+
+## Context
+From document: Black Bean Salad — chunk 1020 (chunk 1020/2298)
+
+## Content
+RUOB86+npTSE2VY7ghRvPJAI79KzLu4EhLEYJPrjFaDhWT5e3T61j30IwOckfe+tWQYl2TLJzyF9Oc1NAEU5AAHGasJEi4cr8vQ/WphajdldoFaGhE4d92w8H3xUG0ZIfBB45q2dwUqMHBqIxZwvqaAM59pZk6FeORxzSmNWHU8nnjitMwABgwxkZyT0qmqZ2r0APNAEL2xOApztGTn3qEwSAhk4OOhrUCOqNk/LnnHpSIGkUhQCR0A4P50AU47dGGJF5Iy1SmJwx2cKD071pLF03jDYprAjf0ULQBmPEqYCHn170kS5yhGe2auCJ2Ixz15qVLV+gX64oAoNbLvAUgjj2qY2wPyuoxuH3vatGOAMuWOM+3pTGiKgYIIB70AYGr6Fo2tafcaV4gtvtlrPGyMuTgowGQce1fFvxX/Yo0DxZYw6h8LLeHQ7yF2J3u7LIo5A2knBP9a+9JYPN2Y/dkH+XatKOOMxqVzEF6ha2p1HB3RySipLU/BjV/wBk34v2c0x+zqYgWVpIcPj1LYHX6V0Pwy/ZB+JHjfTJp59ulwWjOkPmxHbKV6sN3PNft28dv5gWYb2i5x069/T60t5dyyQxRW4CeUWO1SAMevPb1rt+u1PL7jH2ED81fhL+xfeaPqttrviedTfaa+XhQbonCsSG9/p2r9AdL0gadbP/AAuzAvgYB2qBwO3St97hQn3QN/ytjuv+1VdJEL+X/Aa5quInU+JmkaajsZUgwSScYHDDp+NMvHSOIFyCwGWIHBz0ArntV163s79oDgLyT6YX/GvNPG/xBS1VYLN23yLgjoFx/EPWoSk2Dkomd4g1uK2uSYYVkDEgseCMHkV5ZquvXs90I4pAgCkgAdOehrAvNbmmuMySF4XUsW7ls81g/wBpxSXReV2O3cCcY7dq9SEO5w1JXOn1fVFbQ5Gd3eVgQAOhDdiK8K1DSrmW4kZ42B2qVOPlwK9En122u5TbRHjA4OOAKtBYrdGeXMgK4xn1rqWhzux4ddeHJ7iV2bIi4CkDBJ71sL4KBg3omTwoz1bHWvQfstlMC4PC9AW4DD2re0e6tUQklCyHgZ6e+KHMxaR5haeDrxJC0MbbVAJBGAMV6BYaJdNZ7SBtAOWJIIOOmK7Ma5bKyJtAJz83GM0k2v6aJYwJFHTcx7t9KhmqaKfhuxZb6HzoxmQKwyP7pxX1bazt9li
+
+
+
+---
+*Source: Document e329ec4e43d47fccabf1e22882189db8*

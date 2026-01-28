@@ -1,0 +1,26 @@
+{
+  "id": "26721dcc-22f7-4c2b-b1d9-1bcf9e683e5d",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div><h2>Contents_Table</h2></div>",
+  "content": "<div><h2>Contents_Table</h2></div>\n<div><b>Table of Contents: Full Prompt–Response History</b><br></div>\n<div><br></div>\n<div>This outline catalogs the entire prompt-response chain contained in your <i>1prompt</i> note. Each section is titled by your prompt, followed by the summary of its paired response. Redundancy, meta commentary, and expansions are noted where they occur.</div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>I. Origin Layer</b><br></div>\n<div><br></div>\n<div><b>1. 1prompt (seed note)</b><br></div>\n<div>  •  Establishes conceptual frame: four-fold recursive loop.</div>\n<div>  •  Introduces <b>Layer 0 → Layer 3</b> diagram.</div>\n<div>  •  Names the project <b>4-ivi374-F0Rivi4</b> (“recursive + generative organ body”).</div>\n<div>  •  Invites: <i>“What do you want to build first?”</i><br></div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>II. Repository Mapping Layer</b><br></div>\n<div><br></div>\n<div><b>2. 7prompt – Map out current repos</b><br></div>\n<div>  •  User request: logical map of all personal and organizational repos.</div>\n<div><br></div>\n<div><b>3. 7response – Comprehensive Repository Map</b><br></div>\n<div>  •  Lists <b>23 org repos</b> grouped by function (core, governance, tools, web, data, apps).</div>",
+  "context": "From document: Contents_Table — chunk 1 (chunk 1/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "layer",
+    "prompt",
+    "response",
+    "repos",
+    "your"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: 43bf63af-6dae-4d10-83bd-14e5be09ed4f
+type: insight
+created: '2026-01-17T22:01:57.000Z'
+document: 1e7f774965e1eb562e09169dee48e356
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - g7dt1iy
+  - >-
+    9fl7drokro9s3qwxqa51fklyxdwbchugmbbmfpfm75p9yjzwigghrd57ddgvz9r1vuja2dgprrmq3km2mwlzb9tzvy2cvnf6fbdm1
+  - 2jycogzkkbj3w2uql2ncgljsanb9gq
+  - >-
+    lghwseln9gyww7mv0ykhhcmacedqesporihah68sgt68fjzltarzj1qqwfpti28gbjisstlrrmeuwx7pj3tfsfiou2ia3zkjfjmazccx2ewny0
+  - sr12qlwti1e7dzpotwpv6ic46opram55hk3azygy79gzeosd6sot56qdgsnl9fi
+---
+# z2/G7dT1iy/9fL7DroKro9s3QwXQa51fKLyXdwbchUgMBbMfpfm75P9yjZwIgGhRD57dDGvz9R1vUJa2
+
+## Context
+From document: New Note — chunk 427 (chunk 427/552)
+
+## Content
+z2/G7dT1iy/9fL7DroKro9s3QwXQa51fKLyXdwbchUgMBbMfpfm75P9yjZwIgGhRD57dDGvz9R1vUJa2dgpRRmQ3kM2mWLZb9tZvy2CVNf6FBDm1+2JYcoGzkkBj3w2uqL2NcGLJSaNB9gQ/lgHWSELn9GYwW7MV0YkhHCmacedqesporIHaH68sgT68FJzLtArZJ1QQWFptI28gBjisStLRRmEuWX7pj3TFsfioU2IA3zkJFjMAzccX2EWNy0+SR12qlWtI1e7dZPotWPV6IC46oPRam55hk3azyGy79gzEoSD6Sot56QdGsnl9Fi/oY0HPAWiYIMhhjV3TX0oJrqJJAGpSvygpnP+xu3p9A2SIT9XX3dupv6V90ZBMPHtDInLGTzr4PWaEtvBzJklrnP56+kJXJFRcNYRzvd4LgGg9wGbE4lgCFidapxMBL6BhcqGkX1GWEcI4QUkBsbONEXBiTYRU8cC6Q+/iN9A26APl8t4c60rlCZyidT1cW656mZTHXIVOyr2oUSliHXBtxmDTjVk3WOn5sqVTFgkCJnBcEkMwuX5h+eqtAR1devehWBU9Hxd66oXpxjr2Z5POpvlAxEM89GQc9YQeRa5VydWuywpkzsf/GB3xO+aRnwCF/7DDrEyOCQTRvNm4Kc14czZToUcwV5ThWdxWJroW1sr4clvlGPHIDX0Or9RyqeOMmcQBZ8c5HQx0iXf3yqUWJ1kDB00zUeVnpo94J51dKExOT98NlqDnxjwx2NJrVLaejHBsVnPjBHYnZumRic7eTNGfzUFAe5zJ1O9IOdQ3d+UwGJrwuRHOC12bWEOpjfxhiBXm4y75+bS0sfroCtS+X294eVIjaJ80AeHhJsYGPYnkmvi06njrPB9c8o2JvZgBlQ4gwVbfMqEj8kMn/iKtrDvY8NRrIBUltkvdgF4VOYwtaByQDbSUN8TMpJMpeepRL7zUHuHn05aNcPkI3IuvPqST4UsPgawsBJz2P+14tZVfUJl9obRSrAUirYuGrgw1mDeLs3OAt64QjqEOD4jb6paMgbPDt+iPgIixkTdhNAc5GAOnOlIkQWsmuxJpRK0HJFFGEi+dzDgLSlmmMZl+v8JSZdW0Les6W8UFniSu/cKuLyZlXvTPjjaTbf4acp5TvN623X/YnYu+X0UW16hhJoS2rDmBs5PRj6fyFarQ09iSikV5
+
+
+
+---
+*Source: Document 1e7f774965e1eb562e09169dee48e356*

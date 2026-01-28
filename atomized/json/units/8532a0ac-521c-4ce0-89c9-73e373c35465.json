@@ -1,0 +1,26 @@
+{
+  "id": "8532a0ac-521c-4ce0-89c9-73e373c35465",
+  "type": "insight",
+  "timestamp": "2015-04-21T06:48:27.000Z",
+  "title": "<div>Animate texts</div>",
+  "content": "<div>Animate texts</div>\n<div>Sketch front page</div>",
+  "context": "From document: Animate texts",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "e14281b4b1201705c8fc29a550361104",
+  "relatedUnits": [],
+  "keywords": [
+    "animate",
+    "texts",
+    "sketch",
+    "front",
+    "page"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

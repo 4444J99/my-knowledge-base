@@ -1,0 +1,26 @@
+{
+  "id": "40edd746-2637-4231-a5ef-c2511592aedd",
+  "type": "insight",
+  "timestamp": "2025-10-28T10:46:01.000Z",
+  "title": "<div>  2.  Semiotic garden visualization grammar (from Gemini).</div>",
+  "content": "<div>  2.  Semiotic garden visualization grammar (from Gemini).</div>\n<div>  3.  Bloom feedback logic &amp category mapping (from Grok).</div>\n<div>  4.  RAW/PUBLIC dual kernel spec (from all).</div>\n<div><br></div>\n<div>Then draft a <b>Blueprint Schema</b> (RLOS_v2.yaml) for modular implementation.</div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div>Would you like me to generate that <b>RLOS_Design_Synthesis_v2.md</b> document now — integrating all four AIs into one canonical framework (with cross-reference tables, architecture diagram, and environment vars)?</div>\n<div><br></div>\n<div>---</div>",
+  "context": "From document: That’s an exceptionally strong synthesis — the GROK-response you drafted… — chunk 18 (chunk 18/18)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "fa6133a073d57355068edfa84e39fc3c",
+  "relatedUnits": [],
+  "keywords": [
+    "from",
+    "semiotic",
+    "garden",
+    "visualization",
+    "grammar"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

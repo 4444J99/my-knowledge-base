@@ -1,0 +1,26 @@
+{
+  "id": "e9f851b2-0f0b-4027-99e2-514410d79e4a",
+  "type": "insight",
+  "timestamp": "2025-04-19T03:26:57.000Z",
+  "title": "<div><tt>**Function:** Structural representation of the full modulation+control ",
+  "content": "<div><tt>**Function:** Structural representation of the full modulation+control system  </tt></div>\n<div><tt>**Used In:**  </tt></div>\n<div><tt>- UI/UX modeling  </tt></div>\n<div><tt>- Terminal visualization  </tt></div>\n<div><tt>- Teaching the system to collaborators  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Tag for notes:** `#synthesis_ring`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## 6. |[ RITUAL_ENGINE::FUSE_LOCK.v1.0 ]|  </tt></div>\n<div><tt>**Name:** Ritual Logic Controller  </tt></div>\n<div><tt>**Entries:** N/A (generative from dual+binary)  </tt></div>\n<div><tt>**Type:** Dynamic ritual system combining wave modulation and binary test  </tt></div>\n<div><tt>**Function:** Narrative triggers, spell structure, emotional logic layers  </tt></div>\n<div><tt>**Used In:**  </tt></div>\n<div><tt>- AI invocation  </tt></div>\n<div><tt>- Thread transformation  </tt></div>\n<div><tt>- Recursion breaks or amplifications  </tt></div>\n<div><tt>- Fusion ritual gating  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Tag for notes:** `#ritual_engine`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt># ::NEXT ACTION — NOTES ARCHIVAL FORMAT::</tt></div>",
+  "context": "From document: # OVERVIEW: SYSTEM TABLE ARCHITECTURE v1.0 — chunk 4 (chunk 4/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1652294468dc765a58233f0ba10fd504",
+  "relatedUnits": [],
+  "keywords": [
+    "system",
+    "notes",
+    "ritual",
+    "function",
+    "modulation"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

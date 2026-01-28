@@ -1,0 +1,26 @@
+{
+  "id": "3605e1a6-1a05-4dcd-9d8f-dc675d87b388",
+  "type": "insight",
+  "timestamp": "2024-06-04T14:32:48.000Z",
+  "title": "<div>   - **Number of Leads:** 33</div>",
+  "content": "<div>   - **Number of Leads:** 33</div>\n<div>   - **New Paying Clients (Ads):** 1</div>\n<div>   - **Appointment Setter Spend:** $1,600</div>\n<div>   - **New Clients (Appointment Setter):** 3</div>\n<div>   - **Clients Gained:** 4</div>\n<div>   - **Clients Lost:** 0</div>\n<div>   - **Total Clients (Post-Turnover):** 11</div>\n<div>   - **Total Paying Clients:** 10</div>\n<div>   - **Monthly Revenue (Paying Clients Only):** $62,455</div>\n<div>   - **Number of VAs (Client Service):** 0</div>\n<div>   - **VA Cost (Client Service):** $0</div>\n<div>   - **Number of VAs (Sales):** 0</div>\n<div>   - **VA Cost (Sales):** $0</div>\n<div>   - **Total Monthly Costs:** $8,099</div>\n<div>   - **Monthly Profit (After All Costs):** $54,356</div>\n<div>   - **Cumulative Revenue:** $119,775</div>\n<div>   - **Cumulative Profit:** $95,478</div>\n<div><br></div>\n<div>4. **Month 4:**</div>\n<div>   - **Ad Spend:** $10,784</div>\n<div>   - **Number of Leads:** 72</div>\n<div>   - **New Paying Clients (Ads):** 1</div>\n<div>   - **Appointment Setter Spend:** $3,200</div>\n<div>   - **New Clients (Appointment Setter):** 6</div>\n<div>   - **Clients Gained:** 7</div>\n<div>   - **Clients Lost:** 0</div>\n<div>   - **Total Clients (Post-Turnover):** 18</div>",
+  "context": "From document: DWV Media — chunk 8 (chunk 8/20)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "aecf5ea345ca08ade51033542abc0b80",
+  "relatedUnits": [],
+  "keywords": [
+    "clients",
+    "number",
+    "paying",
+    "appointment",
+    "setter"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

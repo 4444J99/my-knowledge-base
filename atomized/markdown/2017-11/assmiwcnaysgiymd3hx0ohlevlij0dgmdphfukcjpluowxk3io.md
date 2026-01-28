@@ -1,0 +1,33 @@
+---
+id: d9b64e26-1a11-480b-b900-5265ddbce44c
+type: insight
+created: '2017-11-08T14:03:53.000Z'
+document: f47673d86e05016edf5cfc9824f2b752
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - assmiwcnaysgiymd3hx0ohlevlij0
+  - >-
+    dgmdphfukcjpluowxk3iocekpu46msrpaxakj8kcv2ymcmjoqkk5eube5pgaost6dayyskgkrtoj4kdvpwuy8prw2p
+  - laldrkzzjayjcpc5nc5zafdxpmvtaytykscsaf2wb
+  - >-
+    daz9ckvldmnpuozviace3ymuiblehkhgay9p1oav2jxugkvbfmieauzjj3g847jnd3osf01xo1k6cmwqyuza4ammqcr3pnzpilsfa1f
+  - >-
+    psjvbegtqmfqjd1azyqoeldjpsgorqsxiasliqfocsxxgeack5pga9nrv34bax0vcs1rarbxlfx73jy2ouativk5lwe2128wwga4drpraoushdycoa5jbjxgvtelbewvezobvgizyoz0ycccd
+---
+# aSSMIWCnAySgIyMD3HX0ohleVLiJ0+dgMDPHFUkCJpLuOWxk3IocEKPU46msRpAxAKj8KcV2yMCMjOQK
+
+## Context
+From document: use this photo as a reference to create my own cut out piece. also… — chunk 29 (chunk 29/242)
+
+## Content
+aSSMIWCnAySgIyMD3HX0ohleVLiJ0+dgMDPHFUkCJpLuOWxk3IocEKPU46msRpAxAKj8KcV2yMCMjOQKk5eUbE5PGAOST6daYySKGKRTOj4KdVPWuy8PRW2p+Zp/lALdRkZzjayjcPc5Nc5ZafdXpMVtayTyKSCsaF2wB/dAz9ckVLDMNPuoZViaCe3YMUIbLEHkHgAY9P1oAv2jXUGkvbfMieaUzjJ3g847jNd3osF01xo1k6CMWqyuzA4AMmQCR3PNZPiLSFa1F/psjvBegTqMFQJD1AzyQOeldjpsgOrQSxIAsliqfOCSXxgEAck5pga9nrV34bax0vcs1raRBXLfx73Jy2OuATivK5LWe2128Wwga4drpRaouSHdyCoA5JBJxgVteLBewvEzOBvgiZyoz0yCccd/U8V+u37Bv7CWueNvFejfHb4sWRsPDmk+VcaTYyoFkv5VAImkRgSsI6rk7iec4rNbsR57q/wDwTY1+x/Zh1/43eOL2e28cJaDUI9Ot/wDUwwDBMbggEyFTkjoK/HGZ8lsx7TyMZ6Y6gfzr+7rxFodtrOgano11EskOoW0tuykAjbIpGD3P8vSv4b/HekroHi/W9DZMnT764gYgYxskYAceox+VWCZxfzMNo5A5yB0q+yPJbRyKMKvBJ71D9ncobmMZQHkjr+VLDI5XyXJKt0UY/mf1oGXIFSa2m3cGIZHuKpISylsYAXnHetGxsr68uBZabE1xLOdscSDe7knGFAGSc8ADk11vif4deOPh/Lp8vjfw9e6GmpR+bbrdwPEZE5AYK2CRnseTQBx0kFzA8UygLlQwKEZA9cetdFB4iv7uM2d8sc+QFVnTLjPAAxjk9KiawjOn2uoRPiQyFZM8jPGQOy8cgEc196/8E1vgP4V+N37QSf8ACWH7Rp3hiEan9kkUMLl0cBVbttBwf0ORQJn6Y/8ABNf9ipfhzp8Px5+JNssfiHV7ZTp1oyZNlbOOJCT0kce2QK/TT4y/BbwR8cvAmo+AfiDZLd2F/A0ay4AlgcjIkic/cYEAgj6HINerW9pBGiJHCqIgACqMAADAGBwcDgdgKumNSBuXIGMD0x3oJufzT/Ff/glV8cvAV5c638N9St/GmmW4wkCjyNQWMjJDIflducDB564FfCuoeFJ7DWH8M+I7CXw/rdlJh4LyPyWJXrvDYU89ME1/Z59
+
+
+
+---
+*Source: Document f47673d86e05016edf5cfc9824f2b752*

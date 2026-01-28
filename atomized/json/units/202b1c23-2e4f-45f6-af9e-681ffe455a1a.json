@@ -1,0 +1,26 @@
+{
+  "id": "202b1c23-2e4f-45f6-af9e-681ffe455a1a",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div>zip -r ~/vsci-userdata-backup.zip \\</div>",
+  "content": "<div>zip -r ~/vsci-userdata-backup.zip \\</div>\n<div>  &quot$HOME/Library/Application Support/Code - Insiders/User&quot</div>\n<div><br></div>\n<div># Optional: save tasks/history</div>\n<div>cp -R &quot$HOME/Library/Application Support/Code - Insiders/History&quot ~/vsci-history-backup 2&gt/dev/null || true</div>\n<div>```</div>\n<div><br></div>\n<div>**Full Removal (macOS)**</div>\n<div>Quit Code Insiders completely (Cmd+Q). Then:</div>\n<div>```bash</div>\n<div>rm -rf &quot/Applications/Visual Studio Code - Insiders.app&quot</div>\n<div>rm -rf &quot$HOME/Library/Application Support/Code - Insiders&quot</div>\n<div>rm -rf &quot$HOME/Library/Caches/com.microsoft.VSCodeInsiders&quot \\</div>\n<div>       &quot$HOME/Library/Caches/com.microsoft.VSCodeInsiders.ShipIt&quot</div>\n<div>rm -rf &quot$HOME/Library/Preferences/com.microsoft.VSCodeInsiders.plist&quot</div>\n<div>rm -rf &quot$HOME/Library/Saved Application State/com.microsoft.VSCodeInsiders.savedState&quot</div>\n<div>rm -rf &quot$HOME/Library/Logs/Code - Insiders&quot</div>\n<div>rm -rf &quot$HOME/.vscode-insiders/extensions&quot</div>\n<div>```</div>\n<div>Download a fresh dmg from official Microsoft site, mount, and drag the app into Applications.</div>",
+  "context": "From document: User: fix — chunk 4 (chunk 4/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "home",
+    "library",
+    "insiders",
+    "code"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

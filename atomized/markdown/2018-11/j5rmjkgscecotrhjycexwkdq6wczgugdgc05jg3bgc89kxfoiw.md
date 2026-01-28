@@ -1,0 +1,32 @@
+---
+id: 32c1370b-0a75-439a-89e4-ca1b78c2f3b1
+type: insight
+created: '2018-11-17T18:19:07.000Z'
+document: e329ec4e43d47fccabf1e22882189db8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    j5rmjkgscecotrhjycexwkdq6wczgugdgc05jg3bgc89kxfoiwingem1cr2qakch1oa27cljgcatu5wtnmr0f95tzai5bjrkcufjumgqogxzngg1jhkswlek55ptnbmdfqdlouvc1gqw6ubdjtfacqw4j6v8a
+  - f79lpqpgvndxkkrczo
+  - 5glrvziaqqmqaufoegr6yavxj64h4
+  - nwhbd
+  - >-
+    adblepq8tnpb9rxjuoqnrjanrtqyjsfz3fef4lax8ntvunlneqxo4zaxdpgjeeqwznib5z1rzl7mljveaeti
+---
+# J5rMjkGSCeCOTRHJyCexwKDQ6WCZGUgDgc05JG3bgc89KxfOIwinGeM1cR2QAKcH1oA27clJGcAtu5wT
+
+## Context
+From document: Black Bean Salad — chunk 956 (chunk 956/2298)
+
+## Content
+J5rMjkGSCeCOTRHJyCexwKDQ6WCZGUgDgc05JG3bgc89KxfOIwinGeM1cR2QAKcH1oA27clJGcAtu5wTnmr0F95TZaI5bjrkCufjumGQOGxzngg1JHKSwLEk55PTNBmdFqdlouvC1GqW6ubdjtfaCQW4J6V8a/F79lPQPGVndXkKrczo+5GlRVZiAQqmQAuFOegr6yaVXJ64H4/nWhBd+aDbLEpQ8tnPB9RXJUoQnrJanRTqyjsfz3fEf4Lax8NtVuNLnEqxo4ZAXDpGjEEqWznIB5z1rzL7MljvEaETI+FdW6+5POB71/RX40+FvhHxlps8M1nGZrgMLlmVWLoRjIyMZHb6V+aXxq/ZIfR9Hl1nwMqSGMnzt27f5RySdoyCckKAAOBXkYjCqMeZbHbCun8Z8j+EvGVz4eukguR5lrdMGmZTypHAAJzkc9K9ZupvD3jNIbO+t1nRQSkjrtZiOQARyAPyr59ufC/ibQNRfStTsJ45YznmE42npgDsccZrQsdW1DSrpZzuGxlypxuIXqMdvevMS7Hoxkafi/wAC6lpMj31rDvtHcldpwQOgGCR0J/KvOTLE42OQrLuUqCMgjjoCT2r6K0fx5p1zc+VPhGYYSNlyrE4wcnil1j4faN4hFxqGkxC2uZWG5QAxBwc4GO4NZSXYtSPnL59vUYUZI55FBB4dOhzyOo9K3PEXhrU/DMoF5GSgJIYAsNo6dK59Z0lDTQn5h1Xp1qSxx3OM527epNIG4BOcdQTSJtLYfJzS/eDAqfl4AoArum4ZPysDlSRw1SIAJRIxJLckKORj09qe0CnYykAqMkGl+ZGV0YJn09K5+WQ+c63TpI40jVmZ3duQR0rrondwCv8ACeleWtdvHDgOV+bIIrZ03xBIU8iTCSKOGY/f/CuScDpjKx3jTGMgZB5/4CCfWg8k45PTI6ViJcIYx5WQGAJ75NSLeNEMj7wP3T0FcLhY6jbjfajEqWwOTjoakjfaRySW9f5VSjZpIC7n5D3U96lwXZinykY7+npUNWA01LOCoOOeR6VctuSVf5mXo2etY5uV+7CpUg4YmrcD8gsccdcd/eszQ17dl6hcsCc8d6n85kOWfPGTx0qmkpCLsOd3f3pA7PjeMMRz2FAF8OXVXk4Zu3+NVHLH5CxC+x5yDTTMqRJ13ZwMf1qMMy/M2CSfw5poCQkKmCxyOpx
+
+
+
+---
+*Source: Document e329ec4e43d47fccabf1e22882189db8*

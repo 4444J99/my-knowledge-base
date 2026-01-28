@@ -1,0 +1,26 @@
+{
+  "id": "9944cc33-fba0-45c2-b4f2-35e878dceb27",
+  "type": "insight",
+  "timestamp": "2024-10-02T15:00:58.000Z",
+  "title": "<div>we are starting a new job application. organize, alphabetize, and capitaliz",
+  "content": "<div>we are starting a new job application. organize, alphabetize, and capitalize the following keywords (do not separate words unless they appear on a separate line) and print them in paragraph format with a comma separating each entry (also take note of the  numbers pasted, the first number is if the keyword appears in my current resume and the second number is how many times the keyword appears in the job description, so please invent other keywords to incorporate and make qthe amount of keywords equal the amount that appear in the job description):</div>\n<div><br></div>\n<div><br></div>\n<div>Write a professional summary (MUST be less than 600 characters) for the attached job using details from my resume; address the important elements of the job and explain how I am qualified for the position without changing the job titles I've provided on my resume, do not invent untrue things, when referring to myself, make it general if the role applied for isnt listed on my own resume, stick to the info i provided and tie it into the job im applying for (aka, use the bullet points provided to tie into the job reqs), and include as many keywords from what we’ve just compiled as often and as extensive as possible without sounding inhuman, use the important keywords (aka the ones appearing in the job description most frequently) as frequently as possible.</div>",
+  "context": "From document: we are starting a new job application. organize, alphabetize, and… — chunk 1 (chunk 1/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "88db581a10332761c92ca07d7acf104e",
+  "relatedUnits": [],
+  "keywords": [
+    "keywords",
+    "resume",
+    "description",
+    "provided",
+    "separate"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

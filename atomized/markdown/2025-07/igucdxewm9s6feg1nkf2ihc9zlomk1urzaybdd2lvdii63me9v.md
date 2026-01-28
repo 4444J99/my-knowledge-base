@@ -1,0 +1,31 @@
+---
+id: ad6971e5-0ca5-4bd8-a919-884d80139678
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - igucdxewm9s6feg1nkf2ihc9zlomk1urzaybdd2lvdii63me9vza7k6rx09nv7xom
+  - >-
+    twzsiozzndpfps2r273gwcztuqgnyb4tnom229a7w5sti7skuvjofgv3vc1mif3ropsvyvm76ay7wjtjyinvvjscwatbtrlxibbvoxeluzd7b31cenegtbefpirtqlhm51eksp0ouwdu930busxm14oghedtbe
+  - bfdyovxwlypaofmt4ji0lbvymwjqwwuqvebxbkmfrw8aydraqso5yxqexktv221de
+  - t0s9pfasrylpfiigqzqm0dw
+  - xirdfchk65pzqwp0okxbmwysmyk1mg4ikihf
+---
+# iGucdxEWM9S6feG1nkF2IHc9zLOMK1uRZaYbdD2LvDIi63me9VZA7k6Rx09NV7XOm+twzsiOzznDPfPs
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 13954 (chunk 13954/18928)
+
+## Content
+iGucdxEWM9S6feG1nkF2IHc9zLOMK1uRZaYbdD2LvDIi63me9VZA7k6Rx09NV7XOm+twzsiOzznDPfPs2r273GwcztUQgNyB4tnom229A7w5stI7SkUVjOfGV3vC1mIF3rOpSvYVM76ay7wJtJYINVVjsCWAtBtrLXibbVOxeLuzd7B31CENEgTBefPiRTQlHM51EkSP0oUwdu930bUSXM14OgHedTbE+BFDyOvXWLyPAofmt4ji0lBvymWJqwWuqvebxBkmfRW8aYdRAQsO5YxqexKtV221DE/t0S9PFaSrylPFIIGqzqm0dw/xirdFChK65pzqWP0okxBMWYsMyk1mG4Ikihf+5Xnye1mRTFu2zV8luA1Zbta4rS6fso2vb2nILIftk+Y0QDFtvBHcKZue/lH49HaFv0lIwxXVB50qHuQ8gEQMc2DY9sCRUA4KvL16eLa9n15erZsuWgIufXBUbVcsVunT2apDP3342Dk1JC43WbVRp10WTNkwl7+PdTMrbap+4D+XvDnbq639vBvnTbCHb+9kJbHD50Owde3PrXqrk/+wGknanxFPGqRa4iO/Is3ja6mr0n5f9mRQ2SkOQd/n4Tbt8ivoBzIPYljZP0kXLU/mvv+KHQF+q4N6JTlv2giWItfzOq2oYPtM05ADHanrzj80+wFSe9q1r7Sc55OMDO2Wwyelbn0ypU5nXlLBX1hrh1AFB6803Yvw7ZZ5o05ma6+oJWvZcjvpXCZ9PTK5hZ6GnDezb/hUx602uVWc5odJ0qerkbDcmtCQriQ0YeRsRcQwz3aRObK6O8HVBN7f5kefBHOurjiqE9TLd4bfxNbtxhj4mcfWbTBzfKj0p2KAyUjDYENktUBuna/YQozIn4+RzImyxixyopoDuTPCZagTdWe+mSlnjN5ZyC3q1hOMATLAm4nqZ3/98dnfxNZ9zN1MbOtknkE3DmZuJIbvGUdimHfbT86EMW+YFncHTbCWCWPubLpObuxECuTO8E+0VQOuiqjB1XWcQ9UAdYOrhdazzFvN4yDwuuFV1Th4G6StlXtMByoxtXUDyGttOOoOqo/YW/VIDUm8DZNju2jItAHbWjaMW36M3mpm44WId6JmE3wXCdIz6wld2h3Tn4YULNus5Z5V3+DtYAMtM2uuGT1SpRlHysYT0tQs5BZsa4PS7DPAG8wcnfWmtqKwzuVl
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

@@ -1,0 +1,26 @@
+{
+  "id": "138845b6-64a5-406b-9e13-a257041a2b54",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Has established a protocol where unchanged instructional material should be added onto (with clear location markers), while changed material should be rewritten entirely. For revision-based assignments, students should first reflect on peer feedback (from the prior day), then review the rubric, and only after that begin drafting or revising. This reflective sequence is essential for scaffolding intentional, process-based learning.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants to prevent students from submitting vague, formulaic, or surface-level responses (e.g., “I liked your thesis” or “I’m going to fix grammar”). They are developing a system of models, templates, and structured language banks to scaffold deeper, more meaningful self-assessments and peer reviews. This includes sentence stems, example revisions, and prompts organized by higher-order and lower-order concerns, with reflection boxes for before-and-after comparisons.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_051425_MASTER — chunk 46 (chunk 46/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "5e4feb3febe2be13a91fd74e828ebc64",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "b9c1c780-5b76-4c0f-bfd0-12675eaf6f79",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:15:38.000Z",
+  "title": "<div>    - Avatar Responses (left-aligned bubbles)</div>",
+  "content": "<div>    - Avatar Responses (left-aligned bubbles)</div>\n<div>    - User Messages (right-aligned bubbles)</div>\n<div>    - Contextual Annotations (inline cards)</div>\n<div>    </div>\n<div>  BottomZone (25% height):</div>\n<div>    - Input Field (expanding text area)</div>\n<div>    - Quick Actions Bar (5-7 contextual buttons)</div>\n<div>    - Voice Input Toggle</div>\n<div>    - Attachment Options (scenarios/images)</div>\n<div>    </div>\n<div>FloatingElements:</div>\n<div>    RTMOverlay:</div>\n<div>      Position: Top-right corner</div>\n<div>      Type: Collapsible card</div>\n<div>      Content: Live metrics graphs</div>\n<div>    </div>\n<div>    ConsentDialog:</div>\n<div>      Position: Center modal</div>\n<div>      Type: Progressive disclosure</div>\n<div>      Stages: [Initial, Detailed, Confirmation]</div>\n<div>```</div>\n<div><br></div>\n<div>**Interaction Patterns**:</div>\n<div><br></div>\n<div>```javascript</div>\n<div>// Message composition behavior</div>\n<div>const CompositionStates = {</div>\n<div>  IDLE: {</div>\n<div>    inputHeight: '48px',</div>\n<div>    showSuggestions: false,</div>\n<div>    avatarState: 'waiting'</div>\n<div>  },</div>\n<div>  TYPING: {</div>\n<div>    inputHeight: 'auto(max:120px)',</div>",
+  "context": "From document: AI Review & Expansion Prompt: — chunk 24 (chunk 24/25)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f193a3a0a188e43c3f5b1686778be1f5",
+  "relatedUnits": [],
+  "keywords": [
+    "aligned",
+    "bubbles",
+    "right",
+    "contextual",
+    "input"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

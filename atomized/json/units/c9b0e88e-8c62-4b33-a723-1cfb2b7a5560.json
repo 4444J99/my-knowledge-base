@@ -1,0 +1,26 @@
+{
+  "id": "c9b0e88e-8c62-4b33-a723-1cfb2b7a5560",
+  "type": "insight",
+  "timestamp": "2025-12-04T16:48:25.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## PSYCHOLOGICAL</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| ID | Left | Right | RNG | Tags |</tt></div>\n<div><tt>|-----|------------|------------|-------|------------------------|</tt></div>\n<div><tt>| 11 | exile | home | d8 | [distance, return] |</tt></div>\n<div><tt>| 15 | body | ghost | d12 | [form, loss] |</tt></div>\n<div><tt>| 21 | dream | alert | d100 | [sleep, focus] |</tt></div>\n<div><tt>| 27 | emotion | logic | d10 | [affect, intellect] |</tt></div>\n<div><tt>| 39 | ego | mask | d12 | [identity, shift] |</tt></div>\n<div><tt>| 57 | focus | scatter | d8 | [clarity, chaos] |</tt></div>\n<div><tt>| 48 | stable | shifting | d12 | [self, disguise] |</tt></div>\n<div><tt>| 61 | peace | tension | d20 | [aura, conflict] |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## TEMPORAL</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| ID | Left | Right | RNG | Tags |</tt></div>\n<div><tt>|-----|------------|------------|-------|------------------------|</tt></div>\n<div><tt>| 12 | future | now | d100 | [vision, presence] |</tt></div>\n<div><tt>| 44 | sync | drift | d10 | [time, delay] |</tt></div>",
+  "context": "From document: # synth-wave-modules — chunk 9 (chunk 9/51)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1f0200e52addd3bec3d0beb78cca4a02",
+  "relatedUnits": [],
+  "keywords": [
+    "left",
+    "right",
+    "tags",
+    "d100",
+    "focus"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

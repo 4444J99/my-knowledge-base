@@ -1,0 +1,26 @@
+{
+  "id": "193ce5e7-17c6-4518-8c08-7801eeaaf7f3",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:12:28.000Z",
+  "title": "<div><tt>|-------|------------|--------------|</tt></div>",
+  "content": "<div><tt>|-------|------------|--------------|</tt></div>\n<div><tt>| Execution Clarity | Fast frameworks | `PRODUCTS/Launch_Templates/`, `SYS_THREADS/ROB_BUNDLES/` |</tt></div>\n<div><tt>| Time-Saving | Done-for-you templates | `SYS_EXPORT/Rob_Quick_Start_A.md` |</tt></div>\n<div><tt>| Sales Logic | Mirrorable value proposition | `USE_CASES/USE_CASE_ROB.md`, `COMM_MODEL_003.md` |</tt></div>\n<div><tt>| B2B Framing | Systems = products | `SYS_PRODUCT_EXPORT_TYPES.md` |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## CONVERSION TO OUTPUT</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### 1. Process-as-Product Deck  </tt></div>\n<div><tt>&gt Rob-style audience gets:</tt></div>\n<div><tt>- One visual deck  </tt></div>\n<div><tt>- 5 frameworks  </tt></div>\n<div><tt>- 1 visual map  </tt></div>\n<div><tt>- All tied to results/outcomes</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### 2. Lifestyle Business Command Kit  </tt></div>\n<div><tt>&gt Turns GPT session into:</tt></div>\n<div><tt>- Coaching scripts  </tt></div>\n<div><tt>- Brand calendar  </tt></div>\n<div><tt>- Funnel templates</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### 3. Productized Workshop Flow  </tt></div>",
+  "context": "From document: USE_CASE_ROB.md — chunk 3 (chunk 3/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "df76decd33c808f3cb503659c3a11ce2",
+  "relatedUnits": [],
+  "keywords": [
+    "frameworks",
+    "products",
+    "templates",
+    "deck",
+    "visual"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,30 @@
+---
+id: b25d044b-009b-4ade-b070-31c0da385bfd
+type: insight
+created: '2020-06-04T17:55:09.000Z'
+document: 7838224ece3cf674d11a18091884392f
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 86lgot3wu1
+  - dhgvx7y
+  - svxfwr1nwxf6zr9np32yw9xftav94pydpnebeifhh8u9x
+  - agjvcpgow8m3q
+  - ifczzmszi8tsgni37tr1
+---
+# 86lGOT3Wu1+DHgvx7Y/sVXfwr1nwxf6Zr9np32YW9xFtaV94PyDPNebeIfhH8U9X/AGJvCPgOw8M3q+I
+
+## Context
+From document: Music Intervals — chunk 67 (chunk 67/140)
+
+## Content
+86lGOT3Wu1+DHgvx7Y/sVXfwr1nwxf6Zr9np32YW9xFtaV94PyDPNebeIfhH8U9X/AGJvCPgOw8M3q+IfCzZmsZI8TSgNI37tR1+8PSqilcV7n0pc/tJ614Pt/A3w/wBVsYYPGHi1IFtYpSwjSMjYZZMHdtBxnHrTvDf7VGp6P8U9b+F/xYisrGXTLCbUkvLMuYGtoFUyFi5zwXHavnb43/CXx54/1b4X/HvT/B99c3HhSGO1vdDlRku3gVtzkKhzuyox8w6176ngTQ/iz4P8ReH9O8Bah4NvNY0q4sTeajEUcGdMEKxd+M0pDv0Of8ffFn4tfFr4G+KPG3w80nTD4altL+ELf+b9pkiiDI0iBCV5AyufUZr1P9iKSSX9nvQXlQJJvl3KOgORmvlH4bx/tDeDPgfr37Pl14Fu59Rgt763tNTaNhZzQybgnzjB37SMDb1r65/Y70HxR4R+DGn+GPGGlXGk6nZyymRJ027ix6r3IOOPam9EM8S/a58U/EbTvjh8JtF8JQ4huZ74jzCRFOyxISrbTn5etcl8a9b8aaZ+018Lbm00yC48S3Ecy+Wm7yVb7O+cnO7aK9o/as8MePbrxz8M/H3gvRJ9eXwvdXhuYLdS8gW6RIw2PQYJPNcZ490P4g+I/wBo34b/ABGg8Kah9g0hHa8YRZWMywsmM56gnmpS6je5seCP2kficPjZq3wH+KOlafbaqlj9tsp7EymCZGZlAbzDu/hPQVwPwW+PGv39r8YNQ0nwrpWma14VvZRJ5Hm+XdSKsZ3PlickN2x0rU8b/Df4gQ/tn2PxZsNAu7/w9/YyWkk0Me7bIrSnB6D+IV5v8G/hz8T/AArL8a7nVfB+pRL4tuJbqwUw8yB1jQL16/KT9K1XLZ3IZ6H8F/2t/jV8TtP0bx1qPhC2sPBhLLqd4u/90FdgZEJcjYAMc85rR+LHxA+MPxR/Z48UeOvCtppVv4dvLG72RXRm+1GKNmRiQuU3ErlecYqb9l34WeLbP9mm8+DXjrRrvQ72WCaFnmTYGEjs4Kk9eorzTQNO/aW0v4H65+zxN4JMkqW91bW+q4k8mSGV2YMG6bxuGBjHFZzWuhaPs39kgOPgN4b80ASFHLY6Z3HNfSdfNX7K2l+J/Dnwh0zwz4u02bTdT00ukizLtD5YkFfUYr6RWTccVDQFgDKUKvqKh87B2in7yKQ
+
+
+
+---
+*Source: Document 7838224ece3cf674d11a18091884392f*

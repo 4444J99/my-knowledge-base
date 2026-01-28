@@ -1,0 +1,32 @@
+---
+id: 22ed987c-8a28-4b7a-b5a1-2fbfb6b4004e
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - hkcgdsqg
+  - xnhzhomos0zim1eekx0eoggqoomo8ucu00r9y0ile89etqqjaipeowkazyhsb2uzhgtnaoiba2k0
+  - >-
+    gjvjxjjrnxkuzyfuytxejzdjxinxnkxn0ykgjffd2uc5aldzyyapohfuyhjvkgw2npolmdetbqkbizhw12agiewtcfesgftcdxufzr0z9
+  - >-
+    sjecsdlaqwiggco66kkoiirofvpescvodlahxxruacpdetqtiemolljoxybl2ihfjy6gx0d7ru6xlh305ukfe
+  - 69gjvpayqefyshqcpprtowom
+---
+# HkcgdSQG/xnHZHOMOS0ZiM1eEKX0EoggQoOMO8ucU00r9Y0ilE89ETQQJAIpEowkaZyHSB2UzHgTNAoi
+
+## Context
+From document: Strike one — chunk 4321 (chunk 4321/4795)
+
+## Content
+HkcgdSQG/xnHZHOMOS0ZiM1eEKX0EoggQoOMO8ucU00r9Y0ilE89ETQQJAIpEowkaZyHSB2UzHgTNAoiBA2K0+gjVjxjjRNXkUZyFUyTxejzDjxiNXNkXN0YKGJffD2UC5aLDZYYApohFuYHjvkgw2NpolmDETBQkBiZhw12AgiewTCfEsGFtCdxUFzR0Z9/SjEcSDlAQWiggCo66KKOIirofVPEscVOdlAHXXRUaCpdEtqtIeMoLLJoxybL2IHFjY6gx0d7ru6XlH305Ukfe/69GJVPAyqEFysHQcPPrtOwOM+JDiWDEUeLbkSGIc4GU4yQHHYZIkMifriMlMYaJEcRTrDYiv9B4bYiKiaYyMjUKOaIQ8keS6UHrydyONUTVTFlU2RX9SyplpH6amWPv+3021XBA4NVoF1YbtkriHF2oMFikUFcJg1qsnknZGiS0BjFcppAp2dI9PZgboaYgbK7GPH2aRYtl7zyHg/eljLMNsvM2xeY0NEfHGcwAUem1XEKdBqplgqHEz4nYcSlRoxhBY6tskd11U+YcXWePCBxhn6A1OFfHKMAmOtUKCrkY1VpF7tgVdT26okt3zVLt1JmQGFGMtI2/KFD8xDY9zIlolSRQZj48AS4QJWbLlN0IQteUlOzSgePa4sj1sDoZH5wN0l2nuQ1Vh4s5ee8+q1lw2wHy8//ZWB2YELsY/4FQWcaY5xxZ3V6vMGYHEeWX2wqD/+I8DSffDNvxy9fc8wmx0wzz0l0ccmlQFtPtNI+DwLHJqg2/QUT+JG3Rqp0ADJ51a7OqrXL+6HR860vCiis2vhIG+SvHWLpTNrYbGKSY1DCWPJASkyqwre+KRAiy4iGiRYSIEXkhycWIRdBLmEUTOQiQygSxzHUcAhLSA4RjviaqHTlI6uErnQrpAcLS/fCGLLwdKq7y/+mYRC8zKJ1mOndZUBGmAAc5gRtQoIRb+cZ3/EOdmOSzNWIhxF3Fa8SmijeHqx4G+FhURRTpKIX5UYLSTwijJVAhSTAOIkzplFmR/EB/3P+YD1IwDE6QbNDFy4FnlFwpyisgIRFvEe+VaVPfWyI1XzaJylbKYIViiAb/fyXl9WxAkg4rMaJctigSxYOQW/rFS585BK7GOtaBeobvtyRjQ7hahajWAIM0FAQxjHlEpSsiDkwIYnJNcU/A0EhQrjhwmC2EIYyFCYxS5cw
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

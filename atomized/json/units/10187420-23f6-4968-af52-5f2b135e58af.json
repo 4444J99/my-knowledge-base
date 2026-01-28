@@ -1,0 +1,26 @@
+{
+  "id": "10187420-23f6-4968-af52-5f2b135e58af",
+  "type": "insight",
+  "timestamp": "2018-11-30T23:05:09.000Z",
+  "title": "<div>Potential Connections</div>",
+  "content": "<div>Potential Connections</div>\n<div>Phil</div>\n<div>Aunt Roe’s Grandson Michael</div>\n<div>Mike Colon</div>\n<div>Mike Picozzi</div>",
+  "context": "From document: Potential Connections",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "834b5688dcd250c46ddcd0ea5283d2c9",
+  "relatedUnits": [],
+  "keywords": [
+    "mike",
+    "potential",
+    "connections",
+    "phil",
+    "aunt"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

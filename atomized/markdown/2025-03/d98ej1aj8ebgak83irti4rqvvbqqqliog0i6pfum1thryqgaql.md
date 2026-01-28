@@ -1,0 +1,35 @@
+---
+id: 4ff63828-9fec-49a4-b511-ac3d55868974
+type: insight
+created: '2025-03-13T23:47:48.000Z'
+document: 3b2e4f3759d2535cf9a91dec728a8fbc
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 98ej1aj8ebgak83irti4rqvvbqqqliog0i6pfum1thryqgaqliqaiskmcqjqdhu8m3j
+  - neje
+  - >-
+    tjcabcuhaahkqgaqkiaejskazcbicwgfed69aahkqgaqkiaejseacepcabfpeqohdita2iwejseacepcabcqgaqliqakdsudh3zn33auwgaqkiaejseacepcabcqggryruhi3cltnseacepcabcqgaqliqaiskebnelb4d
+  - >-
+    z996oliaejseacepcabcqgaqlioeuefn4tam0zepcabcqgaqliqaiskiaejnczbbtenxnfvwojseacepcabcqgaqliqaisabebhxelqnumbcqgaqliqaiskiaejcabcxqmayv3z953r1ocepcabcqgaqliqaiskiaewkra4d0i0dyjaqliqaiskiaejcabcuhaap1jqohdmffdq5aabcqgaqliqaiskiaejccbfhfqelcitm1iqaiskiaejcabcuhaahkqqgcsgphkxovms
+  - eqjsabcuhaahkqgaqkiaejseaczsegx7v5jg1bahkqgaqkiaejseacepcabdqygmk7g2
+---
+# d+98ej1aj8ebgAK83iRTi4RqvVbqQQlIoG0I6PFum1thRyQgAQlIQAISkMCQJqDHu8m3j/neJE/TJCAB
+
+## Context
+From document: Squarespace, ChatGPT, GoDaddy Expenses — chunk 229 (chunk 229/2268)
+
+## Content
+d+98ej1aj8ebgAK83iRTi4RqvVbqQQlIoG0I6PFum1thRyQgAQlIQAISkMCQJqDHu8m3j/neJE/TJCABCUhAAhKQgAQkIAEJSKAzCbicWGfed69aAhKQgAQkIAEJSEACEpCABFpEQOHdItA2IwEJSEACEpCABCQgAQlIQAKdSUDh3Zn33auWgAQkIAEJSEACEpCABCQggRYRUHi3CLTNSEACEpCABCQgAQlIQAISkEBnElB4d+Z996olIAEJSEACEpCABCQgAQlIoEUEFN4tAm0zEpCABCQgAQlIQAISkIAEJNCZBBTenXnfvWoJSEACEpCABCQgAQlIQAISaBEBhXeLQNuMBCQgAQlIQAISkIAEJCABCXQmAYV3Z953r1oCEpCABCQgAQlIQAISkIAEWkRA4d0i0DYjAQlIQAISkIAEJCABCUhAAp1JQOHdmffdq5aABCQgAQlIQAISkIAEJCCBFhFQeLcItM1IQAISkIAEJCABCUhAAhKQQGcSGPHKXOvMS/eqJSABCUhAAhKQgAQkIAEJSEACzSegx7v5jG1BAhKQgAQkIAEJSEACEpCABDqYgMK7g2++ly4BCUhAAhKQgAQkIAEJSEACzSeg8G4+Y1uQgAQkIAEJSEACEpCABCQggQ4moPDu4JvvpUtAAhKQgAQkIAEJSEACEpBA8wkovJvP2BYkIAEJSEACEpCABCQgAQlIoIMJzN/B1960S581a1bT6rZiCUhAAhKQgAQkIAEJSGB4E1hmmWWG9wV24NXp8e7Am+4lS0ACEpCABCQgAQlIQAISkEDrCLiOd+tY25IEJCABCUhAAhKQgAQkIAEJdCABPd4deNO9ZAlIQAISkIAEJCABCUhAAhJoHQGFd+tY25IEJCABCUhAAhKQgAQkIAEJdCABhXcH3nQvWQISkIAEJCABCUhAAhKQgARaR0Dh3TrWtiQBCUhAAhKQgAQkIAEJSEACHUhA4d2BN91LloAEJCABCUhAAhKQgAQkIIHWEVB4t461LUlAAhKQgAQkIAEJSEACEpBABxJQeHfgTfeSJSABCUhAAhKQgAQkIAEJSKB1BP4PHn4ZEJlQPZsAAAAASUVORK5CYII="/><br></div>
+<div><br></div>
+<div><h2>Squarespace Invoice Jan 2025</h2></div>
+<div>  Anthon'y Card used.</div>
+
+
+
+---
+*Source: Document 3b2e4f3759d2535cf9a91dec728a8fbc*

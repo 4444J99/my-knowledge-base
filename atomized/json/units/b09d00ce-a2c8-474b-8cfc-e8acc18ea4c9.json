@@ -1,0 +1,26 @@
+{
+  "id": "b09d00ce-a2c8-474b-8cfc-e8acc18ea4c9",
+  "type": "insight",
+  "timestamp": "2025-04-19T03:58:38.000Z",
+  "title": "<div><tt># |[ UNIVERSAL_MODULATION_ENGINE ]|</tt></div>",
+  "content": "<div><tt># |[ UNIVERSAL_MODULATION_ENGINE ]|</tt></div>\n<div><tt><br></tt></div>\n<div><tt>FUNCTION: Parameter modulation engine  </tt></div>\n<div><tt>BEHAVIOR: Interpolates multiple wave inputs and clamps range</tt></div>\n<div><tt><br></tt></div>\n<div><tt>:: PSEUDO-CODE STRUCTURE ::</tt></div>\n<div><tt><br></tt></div>\n<div><tt>function modulate(parameter, lfo_shape, speed, affectors):</tt></div>\n<div><tt>    value = base_value</tt></div>\n<div><tt>    for affector in affectors:</tt></div>\n<div><tt>        wave = affector.influence(lfo_shape, speed)</tt></div>\n<div><tt>        value += wave</tt></div>\n<div><tt>    value = clamp(value, -1.0, +1.0)</tt></div>\n<div><tt>    return value</tt></div>\n<div><tt><br></tt></div>\n<div><tt>:: SAMPLE CALL ::</tt></div>\n<div><tt><br></tt></div>\n<div><tt>modulate(</tt></div>\n<div><tt>  parameter = &quotemotion &lt&gt logic&quot,</tt></div>\n<div><tt>  lfo_shape = &quotsine&quot,</tt></div>\n<div><tt>  speed = 0.2Hz,</tt></div>\n<div><tt>  affectors = [Jessica, Sunset, RNG_d8]</tt></div>\n<div><tt>)</tt></div>",
+  "context": "From document: # |[ UNIVERSAL_MODULATION_ENGINE ]|",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1eb294d239e7130d3ff3280382b062a0",
+  "relatedUnits": [],
+  "keywords": [
+    "value",
+    "parameter",
+    "wave",
+    "lfo_shape",
+    "speed"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

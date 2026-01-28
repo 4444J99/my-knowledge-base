@@ -1,0 +1,26 @@
+{
+  "id": "d43d8b8e-5411-4f6e-b52b-5ba4f8fbff31",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>│   ├── value-assessor/</div>",
+  "content": "<div>│   ├── value-assessor/</div>\n<div>│   │   ├── has-original-code.py</div>\n<div>│   │   ├── is-actively-used.py</div>\n<div>│   │   ├── contains-unique-concepts.py</div>\n<div>│   │   └── recommendation-engine.py</div>\n<div>│   └── outputs/</div>\n<div>│       ├── personal-repo-analysis.json</div>\n<div>│       ├── forks-never-modified.json</div>\n<div>│       ├── original-work.json</div>\n<div>│       └── graduation-candidates.json</div>\n<div>│</div>\n<div>├── 3-org-repos-audit/</div>\n<div>│   ├── status-checker/</div>\n<div>│   │   ├── is-production-ready.py</div>\n<div>│   │   ├── is-still-draft.py</div>\n<div>│   │   └── last-activity-date.py</div>\n<div>│   ├── dependency-mapper/</div>\n<div>│   │   └── what-connects-to-what.py</div>\n<div>│   └── outputs/</div>\n<div>│       ├── org-repo-status.json</div>\n<div>│       └── dependency-graph.json</div>\n<div>│</div>\n<div>└── synthesis-reports/</div>\n<div>    ├── complete-inventory.md</div>\n<div>    ├── value-map.md              # What's actually valuable</div>\n<div>    ├── redundancy-report.md      # What's duplicated</div>\n<div>    ├── gap-analysis.md           # What's missing</div>\n<div>    └── migration-plan.md         # What should move where</div>",
+  "context": "From document: Contents_Table — chunk 77 (chunk 77/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "json",
+    "what",
+    "value",
+    "original",
+    "outputs"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "940d3ece-aaaa-497c-b59a-39663ff424a5",
+  "type": "insight",
+  "timestamp": "2025-03-10T23:24:51.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>These are small refinements, and overall, your materials are strong. Keep up the great work!</div>\n<div><br></div>\n<div>Best,</div>\n<div>Professor Padavano</div>\n<div><br></div>\n<div><b>Grades:</b><br></div>\n<div>  •  Cover Letter: <b>82/100</b><br></div>\n<div>  •  Resume: <b>86/100</b><br></div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>Letter for Ashtan Louis Ulcena</b><br></div>\n<div><br></div>\n<div>Dear Ashtan,</div>\n<div><br></div>\n<div>Thank you for submitting your resume and cover letter. I appreciate the work you’ve put into them, and I have some feedback that I think will help strengthen your materials.</div>\n<div><br></div>\n<div>Your <b>cover letter</b> does a good job of highlighting your background, but one thing that could make it stronger is <b>customization</b>—right now, the letter is well-written but somewhat general. Try incorporating more <b>specific details about the company and role</b> you’re applying for. Additionally, your <b>closing paragraph</b> could be more compelling—adding a <b>clear call to action</b> (such as requesting an interview) would make a stronger impact.</div>\n<div><br></div>\n<div>Your <b>resume</b> is structured well and easy to read. However, one area for improvement is your <b>objective statement</b>—it should be <b>more specific to the role you’re seeking</b>. Additionally, the work experience section could be expanded with <b>more detailed bullet points that focus on achievements</b> rather than just listing job responsibilities. Employers want to see <b>results</b>, so adding quantifiable details will make your resume stand out.</div>",
+  "context": "From document: Feedback Letters for Resume & Cover Letters — chunk 10 (chunk 10/22)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "86dc5339604c58929fa5043c670c250d",
+  "relatedUnits": [],
+  "keywords": [
+    "your",
+    "letter",
+    "resume",
+    "more",
+    "work"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

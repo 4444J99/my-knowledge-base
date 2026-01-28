@@ -1,0 +1,26 @@
+{
+  "id": "b2520f43-2d83-4a2a-b80d-35bfa7fa2d37",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt>├── SYS_INPUT_PEERS/            # Peer feedback + translation responses",
+  "content": "<div><tt>├── SYS_INPUT_PEERS/            # Peer feedback + translation responses</tt></div>\n<div><tt>├── SYS_EDU_PEDS/               # Syllabus, pedagogy, field-building</tt></div>\n<div><tt>├── SYS_PRODUCT_EXPORTS/        # Manifestos, decks, GitHub entries</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### III. | PRESERVATION OF DRAFTS + PROMPTS |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>We will now begin generating:</tt></div>\n<div><tt>- `SYS_EXPAND_PHASE_2.5_MASTER.txt`  </tt></div>\n<div><tt>   → Full thread export of everything in this stage, in order, no truncation.</tt></div>\n<div><tt>- Modular chunks for Notes (iOS-readable) with filenames like:</tt></div>\n<div><tt>   - `P2.5A_ARTISTvsPROJECT.md`</tt></div>\n<div><tt>   - `P2.5B_EDU_CASCADE.md`</tt></div>\n<div><tt>   - `P2.5C_COMMODITY_MAP.md`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### ACTION ITEMS:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>1. Upload peer feedback + critique (text or screenshot)</tt></div>\n<div><tt>2. Confirm if `SYS_EXPAND_PHASE_2.5_MASTER.txt` should be generated now or post-peer input</tt></div>\n<div><tt>3. Approve standard index card format for each folder entry:</tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 103 (chunk 103/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "peer",
+    "feedback",
+    "sys_expand_phase_2",
+    "5_master",
+    "sys_input_peers"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

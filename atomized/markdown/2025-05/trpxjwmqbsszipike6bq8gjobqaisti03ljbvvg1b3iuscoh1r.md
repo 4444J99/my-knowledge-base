@@ -1,0 +1,33 @@
+---
+id: c7a55fd8-ff09-4f28-a90f-0a3b376b363c
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    trpxjwmqbsszipike6bq8gjobqaisti03ljbvvg1b3iuscoh1rcgz0krvfidvfcfqhoywm0vapyitqqn1vwpkovbpdui1veqrdy1lwfkuujwrdlnvq8
+  - >-
+    vwprf2e5chfzadd14z4jasknbsududao64kb1a7helywfu8ks1nv1bqykr9lwutcny8bsl0ciqrixwc9hcpiqwkwa5jqqlaphzoqlqzlvfpqyaxbvjoa21csbbiajlsbd4pnbpxdzpobuamsxx
+  - augrmsxpdivhi3p3envanxgml1wuwaltmzak4
+  - >-
+    7mydt08gkullfudef3dqmnanbqdulgfwneuuugw3zjp81nqqgf5a4gqqhfx5adu7me6tabea1oliom6bfuh18wvxi8
+  - wmqnevh9710mgt5
+---
+# TRpxjwMqBSSZIpiKe6BQ8gJObQaISti03lJbVVg1B3iUsCoh1RCgZ0KrVFidVFcFqHoYWM0VAPYiTqQn
+
+## Context
+From document: New Note — chunk 14958 (chunk 14958/21099)
+
+## Content
+TRpxjwMqBSSZIpiKe6BQ8gJObQaISti03lJbVVg1B3iUsCoh1RCgZ0KrVFidVFcFqHoYWM0VAPYiTqQn1VWpKOvBPdUI1VEqrDY1LwfkuUjWrDlNVq8+VWprF2E5chFzAdD14z4JASKnBSUDUDaO64kB1A7heLyWFu8KS1nV1bQYKr9LwUTCNy8BSL0ciqrIXWC9hCPIQwKwa5JqqlAphZoqLQZlVfpQyAXBvjoA21CsBbiajLsBd4PNBPxdzPoBUAMsXX+auGrmSXPDIvHi3P3eNVAnXgMl1WUWaLtmzak4/7mydt08gKuLLFuDeF3dQmnANbqDULGFwnEUuUgW3ZJp81nQqgf5a4GqqhfX5AdU7ME6tABeA1oLIOM6bFuH18wVXi8+wMQnEVh9710MGt5+W/70+9/Jj59+WG657nzZOJACtQ6Z3fgy0NZzJZ+ZL4XsQinkF0qpSHXV9VCbrAWwCnVVWGvneslDYTUHY9zR75LOgSZphy/1QBYZwGpHT5P0QF21H9BqL97k2iAJnYbccDi4UEKBBRLwgVaHJHIzJJGbaABWCa66m08VdwvUVwGt+n0L8YIggVBZ9UCFNRxZCnoaMtcw+4d284O9+WFfY3NgYMY6cDAHFDrIUG8ORsxBihnrgIb+QxuoyrZ9YKRtHTjpgEoHWOYAzIx1gEZA9YMP/jL1q0MO8I4NWp2cnoMDyE8ysPrUU09ZXxpQ+ZSgH80Op2qb06ZfffXV8gDUKX/xi19Y9uKLL84IrFaCVXm8b3/720JYlbCjqa566NAh+fGPf/yZBVZN+NIOZpqDPMYPPfRQxWlizF/i8t42t2tvb7cgTKqicnBqLrPHl1xyyRQk+pvf/OaIdRU0JdDJ9wP7ttrm+4KCpgcOHDhivccff3xq2UxwLp9l3Q/vH90/vZkzfvllLjue2IR733rrrSP26wCrJzakeDz3jbPtiXVv6OeQT8Yw2jkLJwNOBpwMOBlwMuBkwMmAkwEnA04GnAw4GXAy4GTAyYCTAScD/9wMfBzA6kzQ6scBrFJp9XgVVj9uYFUhVfpKoGolaFXFd7S+aYr0aC1UvVknZay1VPVaY9Waq9ZgTW+v3er3qXZv1n7N+rDGWjs2vVlrNmvQjFmXUq81a3qzrs2aN9v22jfhVDu0agdWFVZVX0lV1d5XCVatpq5KcHU2oKrCq3ZQVdt2
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

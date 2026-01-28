@@ -1,0 +1,31 @@
+---
+id: bcf68737-6a46-4d13-9d78-67e7691e5745
+type: insight
+created: '2021-12-24T02:37:43.000Z'
+document: 8c92f15912082fa7b1c83f8694d6f48f
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ffjqauuuvjacmmnu01ixtffftibtnpxptsugppp1mna0jrrrqmq02nu01abijfgkmugp
+  - >-
+    x4oopkafoopkafoopkafoopkafoopkafoopkafoopkafoopkafoopkafpaslfac0ugpaacloooakkkktaflsuuwfp1js0cytfffbav8qdsuopglrrrvobwp1mfppiq8utnfoq0swpwptofah1pfnfofwiwofpfmfpq4kshcnu0u6rra8utnfoqwhincmincglj6uu0u4datej6uulkkpals0lkksli0uuuejhtqakdtawnu0u6neba9u
+  - begar4q
+  - nngdwx4gtheaxq
+  - v6xaxudflese91hhihkkmaykjiipoa8rr2z9mr
+---
+# FFJQAUUUVJaCmmnU01IxtFFFTIBtNpxptSUgppp1MNA0JRRRQMQ02nU01ABijFGKMUgP/0/x4oopKAFo
+
+## Context
+From document: Daniel’s Christmas Booze Drink — chunk 32 (chunk 32/376)
+
+## Content
+FFJQAUUUVJaCmmnU01IxtFFFTIBtNpxptSUgppp1MNA0JRRRQMQ02nU01ABijFGKMUgP/0/x4oopKAFoopKAFoopKAFoopKAFoopKAFoopKAFoopKAFoopKAFoopKAFpaSlFAC0UgpaACloooAKKKKtAFLSUUwFp1JS0CYtFFFBAv8qdSUopgLRRRVoBwp1MFPpiQ8UtNFOq0SwpwptOFAh1PFNFOFWiWOFPFMFPq4kSHCnU0U6rRA8UtNFOqwHinCminCglj6UU0U4datEj6UUlKKpALS0lKKsli0UUUEjhTqaKdTAWnU0U6nEBa9U+BegaR4q+NngDwx4gtheaXq+v6XaXUDFlEsE91HHIhKkMAykjIIPoa8rr2z9mr/k4r4Xf9jRov/pbFRPZjjuffvxy8WfsS/BL4q678LNR+A7apLobwI91DqlxGsnnwRz5VC5IwJMdeorntH+Bf7KX7Weg6pD+zSL/wF8QtKt2uV0HU52ntrxE67JJJJWwSQu9ZBsJ+aPBBr56/b7/5O5+IP/Xax/8ASC3rjP2Qdb1PQP2nPhre6S7JNNrVraPt7w3jfZ5gfYxu2a5lB8iknrY0c/f5WtD571HTr7SNQutJ1SB7W8spXgnhkG145Y2KujA9CpBBHrWpY+E/FWp6fJq2m6Ne3djDy88NvJJEn+86qVH4mvrP9qt/CXgj9trxdqOq6KuvaJZ6xb391pyy/ZkuzLDFcTRNJsk2h5GYOdhJBPQnNfQdx+1F+3l431mHWPgr4H1Pw54Ot/LSw0rT9BF3ZRwIoAja4e1G8ED+AoBn5QvFauo7JpGapq7TPyqIIODwRWhLo+rwC1aaxnjF8M25aJh5wOOY8j5uo6Z6iv0M/wCCjPgqx0vxZ4B+JH9iR+Hda8d6El5rNjGhj2alHtaZnU9H/ehG7kpk5Ykn6F+Ofxv1H4F/s2fs7eIPBFnap43v/DKW9jqlxEtw+n2n2SzN15MUgaPzJiYl3spwgYAfMaXtrpWW4/ZWbu9j8dtY8OeIfDskcPiDS7rTJJhuRbqB4Sy+qhwMjkdK9+/Zu+LmlfCe88VT6p8OLT4hjWNMe1VLld32Pk5k/wBVL8jZw4G0nAw45z9zfBn4weLP2v8A4DfGH4c/HJrfxBqHhjRZNZ0jUWt4YJ4J4Y5GXPkoija6J8ygMys6sSDx5P8A8E5P+Qr8Xv8
+
+
+
+---
+*Source: Document 8c92f15912082fa7b1c83f8694d6f48f*

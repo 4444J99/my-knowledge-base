@@ -1,0 +1,26 @@
+{
+  "id": "a803bbc6-df65-4f5e-9efd-0da3943c3494",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt>----------------------</tt></div>",
+  "content": "<div><tt>----------------------</tt></div>\n<div><tt><br></tt></div>\n<div><tt>```</tt></div>\n<div><tt>┌──────────────────────────────────────────────────────────────┐</tt></div>\n<div><tt>│                       ::INPUT::                              │</tt></div>\n<div><tt>│    Prompt / Memory / Text / Voice / Event / Archive          │</tt></div>\n<div><tt>└──────────────────────────────────────────────────────────────┘</tt></div>\n<div><tt>        ↓ SYMNUM4GRAM Parser</tt></div>\n<div><tt>        ↓ Character + Event Codex</tt></div>\n<div><tt>        ↓ Recursive Generative Logic (RGLE Core)</tt></div>\n<div><tt>        ↓ Synth Modules (plug-in rack)</tt></div>\n<div><tt>        ↓</tt></div>\n<div><tt>┌──────────────────────────────────────────────────────────────┐</tt></div>\n<div><tt>│                        ::OUTPUT MODES::                      │</tt></div>\n<div><tt>├──────────────────────────────────────────────────────────────┤</tt></div>\n<div><tt>│ ✦ Myth Narratives         ✦ Procedural Music                 │</tt></div>\n<div><tt>│ ✦ Game Rooms              ✦ Spiritual Tools                  │</tt></div>\n<div><tt>│ ✦ Language Translations   ✦ Text Reflection Interfaces       │</tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 43 (chunk 43/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "text",
+    "event",
+    "input",
+    "prompt",
+    "memory"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

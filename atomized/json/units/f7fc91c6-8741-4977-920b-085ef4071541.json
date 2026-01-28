@@ -1,0 +1,26 @@
+{
+  "id": "f7fc91c6-8741-4977-920b-085ef4071541",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>f&quot&quot&quot&lt!-- UID: {uid[:2]}-{uid[2:4]}_00-01 --&gt</div>",
+  "content": "<div>f&quot&quot&quot&lt!-- UID: {uid[:2]}-{uid[2:4]}_00-01 --&gt</div>\n<div><br></div>\n<div># Symbolic Fusion Layer: {data['agent']}</div>\n<div><br></div>\n<div>## System Role:</div>\n<div>Feeds into {data['system']} within RE:GE_OS.</div>\n<div><br></div>\n<div>## Use Cases:</div>\n<div>- Generates recursive logic</div>\n<div>- Defines symbolic agents</div>\n<div>- Enhances mythic computation</div>\n<div><br></div>\n<div>## Invocation Pattern:</div>\n<div>GPT.invoke(&quot{data['agent']}&quot) or systemctl run {data['agent'].lower().replace(' ', '_')}_daemon</div>\n<div>&quot&quot&quot)</div>\n<div><br></div>\n<div>    # MYTH_AGENT.md</div>\n<div>    (folder / &quotMYTH_AGENT.md&quot).write_text(</div>\n<div>f&quot&quot&quot&lt!-- UID: {uid[:2]}-{uid[2:4]}_00-02 --&gt</div>\n<div><br></div>\n<div># Myth Agent Profile: {data['agent']}</div>\n<div><br></div>\n<div>## Symbol: {data['symbol']}</div>\n<div>## Invocation Chant: &quot{data['chant']}&quot</div>\n<div><br></div>\n<div>## Role:</div>\n<div>The {data['agent']} governs {data['system']} logic within the OS.</div>\n<div>This agent can be called via command line:</div>\n<div>&gt invoke-agent --uid {uid} --role &quot{data['agent']}&quot</div>\n<div><br></div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 324 (chunk 324/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "data",
+    "agent",
+    "system",
+    "role"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

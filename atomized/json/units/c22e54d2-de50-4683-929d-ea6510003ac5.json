@@ -1,0 +1,26 @@
+{
+  "id": "c22e54d2-de50-4683-929d-ea6510003ac5",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>2. **Run initial audit** → Get baseline data</div>",
+  "content": "<div>2. **Run initial audit** → Get baseline data</div>\n<div>3. **Review classifications** → Adjust rules if needed</div>\n<div>4. **Execute triage plan** → Start graduating/archiving</div>\n<div>5. **Integrate with meta-synthesis-orchestrator** → Feed data to knowledge graph</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **Dependencies:**</div>\n<div><br></div>\n<div>```txt</div>\n<div># requirements.txt</div>\n<div>PyGithub&gt=2.1.1</div>\n<div>python-dotenv&gt=1.0.0</div>\n<div>pyyaml&gt=6.0</div>\n<div>tabulate&gt=0.9.0</div>\n<div>requests&gt=2.31.0</div>\n<div>```</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **Environment Variables Needed:**</div>\n<div><br></div>\n<div>```bash</div>\n<div># .env.example</div>\n<div>GITHUB_TOKEN=your_personal_access_token_here</div>\n<div>GITHUB_USER=4444JPP</div>\n<div>GITHUB_ORG=ivi374forivi</div>\n<div>```</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>**Ready to create this repository in the `ivi374forivi` organization?**</div>\n<div><br></div>\n<div>This will be your first systematic tool to understand what you actually have across all layers. The output will inform all subsequent consolidation decisions.</div>\n<div><br></div>",
+  "context": "From document: Contents_Table — chunk 92 (chunk 92/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "data",
+    "needed",
+    "ivi374forivi",
+    "this",
+    "will"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

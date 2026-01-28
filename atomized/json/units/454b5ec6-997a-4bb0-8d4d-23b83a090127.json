@@ -1,0 +1,26 @@
+{
+  "id": "454b5ec6-997a-4bb0-8d4d-23b83a090127",
+  "type": "insight",
+  "timestamp": "2024-02-27T19:17:52.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><b>Service Provider Fee:</b> $2,500/month, covering the strategic and operational execution of marketing services.</div>\n<div><b>Marketing Tools Fee:</b> ~$1,000/month, allocated towards the use of advanced marketing tools and software essential for campaign execution and management.</div>\n<div><b>Ad Spend Budget:</b> $4,000/month, adjustable based on the Client's strategic goals and market response, dedicated to paid advertising efforts (adjustable based on the Client’s goals).</div>\n<div><br></div>\n<div><h3>Included Services and Estimated Costs:</h3></div>\n<div><br></div>\n<div>Our monthly service offering is designed to encompass a comprehensive suite of marketing tools and services, ensuring a robust approach to achieving the Client's marketing goals. Here's a detailed breakdown of the components included within our monthly fee, emphasizing the value and purpose behind each:</div>\n<div><br></div>\n<div><b>Content Creation and Management Tools:</b><br></div>\n<div><br></div>\n<div>Customer Relationship Manager (Zoho): For customer relationship management (CRM), these platforms can help track interactions with potential buyers, manage leads, and automate sales processes.  Use CRM tools to maintain personalized communication with potential and past clients, keeping them informed about new listings, market trends, and investment opportunities. Estimated Cost: $60/month.</div>",
+  "context": "From document: Statement of Work (SOW) for Marketing Services for Florida Luxury… — chunk 5 (chunk 5/11)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "494a55ac2845a8f9a5e9f92dc1d1614f",
+  "relatedUnits": [],
+  "keywords": [
+    "marketing",
+    "tools",
+    "month",
+    "services",
+    "management"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

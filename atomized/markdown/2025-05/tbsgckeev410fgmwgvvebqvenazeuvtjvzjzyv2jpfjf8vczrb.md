@@ -1,0 +1,32 @@
+---
+id: 737ebf34-0e98-459e-9d4e-5187731a2aa6
+type: insight
+created: '2025-05-15T00:56:03.000Z'
+document: 084f9bc77d1d8854a07a52206c286278
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - sgckeev410fgmwgvvebqvenazeuvtjvzjzyv2jpfjf8vczrbaavjngh
+  - >-
+    suz8kxxgx32igwa3vlgrvaeylhfip7srysyhladwungskaox1o9fhdat9psdyxd5frcxzedthuxfvaqanbdbwc8egfn0rs9o1ay1a0iulozhszn6dpjxjgcfugvmfim32mw0ext7uw
+  - >-
+    mhs5r2sevco9tx97aa52jjoovhrwzp0uthrmu2njgqbbcx7guhcjczvue374cd0fahodfzz1osztoeg0rx8tssvdw2hlx68z
+  - kk0xvptfh2wvbtwjzurjdjh7wkkr
+  - 31xqbq0unnlqb87x6xfzegrcoonst6jjz
+---
+# tB/SgCkeev410fgmwgvvEbQveNazeUVtJVzjzyV2jPfjf8vcZrBaAvJNGh+7v/Suz8KxxgX32iGWa3vL
+
+## Context
+From document: Grokking Algorithms for OS — chunk 44 (chunk 44/402)
+
+## Content
+tB/SgCkeev410fgmwgvvEbQveNazeUVtJVzjzyV2jPfjf8vcZrBaAvJNGh+7v/Suz8KxxgX32iGWa3vLgRvAEyLhFIP7srysyHLAdWUnGSKAOx1O9FhdaT9psDYXd5frcXzedthUxFVaQAnBDbwc8EgfN0rs9O1ay1a0iuLOZHSZN6DPJXJGcfUGvMfiM32mw0ext7uW+mhs5r2SeVcO9tx97AA52jJOOVHrWzp0Uthrmu2NjGqbbCX7GUHCjcZVUe374cD0FAHodFZZ1OSZtOEG0RX8TssvdW2hlx68Z/Kk0XVPtfh2wvbtwJZURJDjH7wkKR/31xQBq0UnNLQB87x6XfzeGrCOONsT6jJZ+S6lHSSVYioy2M5CBumABzUln4qubbVIL1ma4ktrn7QyO3zMVt/KcluuMLg/hXW/ELTHbxDqs3mlUi0wahGAcbZUdELfXao5rlLTTm1fU9N8PPB5F2oktnlk+YKctL265GRn0NAEc+rtBaR6TqFrLBNa6Z9hZXHJkEySpx2+UDjrzUkFyl5qeg6cm3ZHPJasBzlTclxx9CPyra0kMngvVLid3eTUNPe8EhIOyeCUpgH6GOuajsEm121e1leKOdWlhbOXO1HwxJ6bmT/x6gC9ss4/DdvFcFAZ9Kt5lb7pLrdOp/NHb8q5u/tltr2eGORZIkkZUkU5DDOAR+FaVtpk889kJriMW4d7aFjnjYnmkY7ZLgfU1T1FlM0LLEY0a2iKg9ztAY/mDQBXeUzTmTHUKpGc9AB/SnrcC0mjniy0kTB8nkAg56U7S1R79WkXdHCrzMueoVSQP++sD8al0jTW1fXbKwjfH2qTZuPVcAkn9DQBq2tt5OlzXEkKvNELh2kz97/VRpg99rOx471mPbTaUlpdLNH5lzaifahySrs6lT+C8+xqJbi5i08K02I2BjEeeqFtxx7bkBP8A9enweXNqCjbJcwx42qx2nyVIJH/fIP60AQQjAaSWMss0cix4H8XqPpzWlpaXdxZXjpcCKO1nt5xlgAJJGEatjHRVDVSN/Kbe2t4gsX2cTICvUrISSP6VBcGZLNI8GMTxB/l4Dr/CSO/QmgDS0mDyZ4LhC4EKyXUwxyywyK2BxxkBTVm1E9wY384Wdu+oyKHbqPNiLMx+iBR9TVXzvtOtSDS5Hj8+2aNyQOUEIMgH1KN+lQPAltJbrdz+YCY
+
+
+
+---
+*Source: Document 084f9bc77d1d8854a07a52206c286278*

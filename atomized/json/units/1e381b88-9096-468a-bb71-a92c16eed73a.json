@@ -1,0 +1,26 @@
+{
+  "id": "1e381b88-9096-468a-bb71-a92c16eed73a",
+  "type": "insight",
+  "timestamp": "2025-08-20T01:08:51.000Z",
+  "title": "<div>  •  Social: tweet thread on GC phases</div>",
+  "content": "<div>  •  Social: tweet thread on GC phases</div>\n<div>  •  Community: Discord live-coding log</div>\n<div>  •  Wiki: Recursion Patterns</div>\n<div>  •  Web/Blog: Recursion as the OS of Thought</div>\n<div>  •  Grants: pedagogical impact section</div>\n<div>Module 3: DSL &amp Meta-Circular Interpreter</div>\n<div>Objective:   Build a Lisp-style interpreter in itself and design a tiny DSL for your OS config.</div>\n<div>Reading List  •  Lisp in Small Pieces (Ch. 12)</div>\n<div>  •  Design Concepts in Programming Languages (Ch. 3)</div>\n<div>Further Studies  •  Formal language theory (Hopcroft &amp Ullman)</div>\n<div>  •  DSL patterns (Martin Fowler)</div>\n<div>Examples  •  src/interpreter/lisp-interp.py  •  src/dsl/grammar.g4Templates  •  modules/module-3/dsl-template.md  •  tests/dsl-tests/Tie-ins  •  Arts: code poetry in Lisp</div>\n<div>  •  Sciences: DSLs for simulation</div>\n<div>  •  Philosophy: language &amp reality (Wittgenstein)</div>\n<div>Wings Artifacts  •  Academic: interpreter paper summary</div>\n<div>  •  SOP: Adding a New DSL Rule</div>\n<div>  •  Business: DSL capability diagram</div>\n<div>  •  Social: code-snippet highlight tweet</div>\n<div>  •  Community: Discussion DSL Design Patterns</div>",
+  "context": "From document: Prompt for AI: Multi-Archetype Syllabus Critique — chunk 5 (chunk 5/10)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "735011ec826ae272226ee00d2196dfe0",
+  "relatedUnits": [],
+  "keywords": [
+    "interpreter",
+    "lisp",
+    "patterns",
+    "design",
+    "social"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

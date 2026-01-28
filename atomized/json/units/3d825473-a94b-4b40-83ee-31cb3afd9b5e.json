@@ -1,0 +1,26 @@
+{
+  "id": "3d825473-a94b-4b40-83ee-31cb3afd9b5e",
+  "type": "insight",
+  "timestamp": "2025-12-21T15:18:27.000Z",
+  "title": "<div>This application, &quotInfinite Wiki,&quot is a dynamic, AI-powered hyperte",
+  "content": "<div>This application, &quotInfinite Wiki,&quot is a dynamic, AI-powered hypertext encyclopedia. Its core functionality allows users to explore a web of interconnected knowledge where every word in a definition becomes a hyperlink to a new, dynamically generated entry.</div>\n<div><br></div>\n<div>Here is a breakdown of its functionality:</div>\n<div><br></div>\n<div>Core Concept</div>\n<div>The application is built on the idea of a self-generating wiki. When a user looks up a topic, the app doesn't pull from a database. Instead, it uses the Google Gemini API to generate a concise, encyclopedia-style definition in real-time. The key feature is that once the definition is displayed, every single word within it becomes a clickable link, allowing the user to instantly navigate to a new definition for that word, creating an endless &quotrabbit hole&quot of exploration.</div>\n<div><br></div>\n<div>Key Features &amp User Flow</div>\n<div>Topic Exploration:</div>\n<div>Search: Users can enter any word or concept into a search bar to get its definition.</div>\n<div>Random Discovery: A &quotRandom&quot button provides a curated, interesting topic, encouraging serendipitous learning.</div>\n<div>Hypertext Navigation: This is the central mechanic. Clicking any word in a generated article makes that word the new topic, seamlessly chaining from one concept to the next.</div>",
+  "context": "From document: This application, \"Infinite Wiki,\" is a dynamic, AI-powered hypertext… — chunk 1 (chunk 1/11)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "5aac1d5f80c3f292367e97b95697efe9",
+  "relatedUnits": [],
+  "keywords": [
+    "word",
+    "definition",
+    "topic",
+    "quot",
+    "concept"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

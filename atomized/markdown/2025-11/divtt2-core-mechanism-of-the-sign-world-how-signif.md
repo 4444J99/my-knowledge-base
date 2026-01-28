@@ -1,0 +1,40 @@
+---
+id: 872366b7-e76b-4f90-a222-6d989fee1826
+type: insight
+created: '2025-11-19T23:28:35.000Z'
+document: e77f8337e7e9ff7840402dba147b1bab
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: programming
+keywords:
+  - this
+  - doctrine
+  - pure
+  - sign
+  - world
+---
+# <div><tt>2. Core Mechanism of the Sign-World — how signification actually functi
+
+## Context
+From document: You are a visionary designer tasked with creating the ultimate synthesis… — chunk 17 (chunk 17/18)
+
+## Content
+<div><tt>2. Core Mechanism of the Sign-World — how signification actually functions (or fails) under this doctrine.</tt></div>
+<div><tt>3. &quotSubjects&quot — what passes for agency or consciousness (e.g., nomadic war-machines, barred subjects, catachrestic voices, etc.).</tt></div>
+<div><tt>4. Everyday Existence — what it is to &quotlive&quot when meaning is this violent.</tt></div>
+<div><tt>5. One original poststructuralist notational system (8–15 symbols, operations, or gestures unique to this assassin — e.g., rhizomatic arrows, differend ligatures, chora pulses).</tt></div>
+<div><tt>6. The Inevitable Catastrophe — the precise aporia or line of flight that causes this world to detonate or become-something-else.</tt></div>
+<div><tt>7. Final text-act — 150–300 words written entirely within the doctrine (e.g., in pure différance, pure rhizome, pure jouissance) such that reading it performs the doctrine on the reader’s own language.</tt></div>
+<div><tt><br></tt></div>
+<div><tt>Word count: 1200–1600. Be vicious, erotic, unforgiving. Never grant the sign peace.</tt></div>
+<div><tt><br></tt></div>
+<div><tt>Poststructuralist Assassin for this query: [INSERT 1–10 HERE]</tt></div>
+<div><tt><br></tt></div>
+
+
+
+---
+*Source: Document e77f8337e7e9ff7840402dba147b1bab*

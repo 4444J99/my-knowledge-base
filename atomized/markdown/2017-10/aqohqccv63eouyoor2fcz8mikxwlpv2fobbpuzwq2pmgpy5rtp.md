@@ -1,0 +1,31 @@
+---
+id: edfee33e-0928-425d-abab-50cba1933db6
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - aqohqccv6
+  - uyoor2fcz8mikxwlpv2fobbpuzwq2pmgpy5rtpe3xnadxxyee1l16j83
+  - z9bl9llpws7l8jpxuclgca1cucsjtapf61xrom7jmrbutzz2hffpw3pwktldiqu4kxap
+  - zzzdrdfp8aoivm
+  - >-
+    8dwknzikbngyxnp6fjsu7hbw3mtrh1c54bpbppuwjwurir8napwksjulwqdkve7zl08ofkemuqknskfyfs36hulx5cce1qtm8shwpahfwghrh852oow96d5wcghr2qo1lfu0tiovdoqyyo
+---
+# aQoHQccV6+3EO+UYOOR2FcZ8MIkXwLpv2fOBbpuzwQ2PmGPY5rtpE3xnaDxXyee1L16j83+Z9bl9Llpw
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 376 (chunk 376/2189)
+
+## Content
+aQoHQccV6+3EO+UYOOR2FcZ8MIkXwLpv2fOBbpuzwQ2PmGPY5rtpE3xnaDxXyee1L16j83+Z9bl9LlpwS7L8jPxuClgcA1cuCsJTaPf61XROm7jmrBUTZz2HFfPw3PWktLDiqu4kXAp+ZZZdrdFp8aoIvm+8DwKnzIkbNgYXnP6fjSu7hBW3Mtrh1c54BPBPpUWJWuRIR8napWKSJulwQDkVE7zl08ofKeMUqknsKfYfs36hulX5cce1QTM8shwpAHFWGhRH852OOw96d5WcgHr2qo1LFU0tioVDoqYyO/tUDedC3lfwjof8AGriQMBvzweOaq3i3YcRxkEt61pzPcu3Q0mEQjEr9KgYLjcAcGlsYMRNA+cDpVtYUiTbJ0681SaZE+5RlcBtqZPc/X2qtFMizNuXGRirNwvkyBl5BqC6aTYHRevUmhLUFG2pV8tQTuB5NW7IStJJ12D+ftT4IZGAz35p486L5ePm9PSpcTLW9hpjDAq3U9Kxb66FpaOVGGxwR1+tdKsKpjzRknpXO+KII7ex3LwSe3bvXdl7/AHqRxYt/u3Fn4iftVaVd3f7UHhnVRfuWa6gi8h8fuYoplchCMHDMzkhuck4OMAftHoj2t5pEN9ZBtkyhhkFTz6g8/nX4vfF/S/tH7fekaW20rqZtJFlZdiiJI2VwrHhmDI2Tnrx16ftbpJ3aVGo4VQOfpxX6F4gRajQhfZP8kfA+HDcpV5S7r9TetHMZCdM9asyZkZj+QqlboiW+BkkE8nrVoxSBMjkjtX5ZJNM/VE7FUuNvlN0qrPC0LYQ/L3qe4wFIb5SO1USHePaxxyKaZEtx7nMQPXFSQTYTL9KszJEtuIVPbnFZAckEc4U4NSn7244tFlpMRZ3evuKw5g4cTKMCrnnxgBT17VBdSpCA7fhWvMyxlyGP7rOAozWbe38OkaPcaldtsjt43kdzk4VAWY4GTwATgVLO0rqJMbcjjPpXxl/wUA8b+MPhv+yN428X+B7tbHVLbTyltO6CRUeVhGflOQSQxAz3NZtN6Ck+iPxh/bR/4KyeIfEPjm8+Hv7JWvjS10Lm71MxgyvOjMsixq+5TEFwMEZznoRX59eDf2a/27f2xNVvvirDaanqY1C4Be/1KY2yTuRgtGrlAUAGN6jap4GDwMP/AIJ0fs32H7QX7UPhzRvEdkdS0dZJp9T3OwDskTO
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

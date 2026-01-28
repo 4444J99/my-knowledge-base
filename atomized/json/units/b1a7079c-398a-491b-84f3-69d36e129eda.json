@@ -1,0 +1,26 @@
+{
+  "id": "b1a7079c-398a-491b-84f3-69d36e129eda",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>- Context lost to time (what was this project? when? why?)</div>",
+  "content": "<div>- Context lost to time (what was this project? when? why?)</div>\n<div><br></div>\n<div>**What to Build:**</div>\n<div><br></div>\n<div>#### **1. `archive-aggregator`** - Multi-source file system scanner</div>\n<div>```</div>\n<div>Capabilities:</div>\n<div>- Mount/scan iCloud, Dropbox, external drives</div>\n<div>- Generate inventory with checksums (deduplication)</div>\n<div>- Extract metadata (creation dates, file types, sizes)</div>\n<div>- Identify file types and formats</div>\n<div>- Detect duplicates across sources</div>\n<div>- Create master catalog</div>\n<div>```</div>\n<div><br></div>\n<div>#### **2. `temporal-context-reconstructor`** - Timeline builder</div>\n<div>```</div>\n<div>Capabilities:</div>\n<div>- Sort files by creation/modification dates</div>\n<div>- Group by time periods (years, months, projects)</div>\n<div>- Identify concurrent creative threads</div>\n<div>- Map evolution of themes across years</div>\n<div>- Reconstruct &quotwhat you were working on when&quot</div>\n<div>```</div>\n<div><br></div>\n<div>#### **3. `multi-modal-content-extractor`** - Format-specific processors</div>\n<div>```</div>\n<div>For Writing:</div>\n<div>- Extract text from .doc, .docx, .pages, .txt, .rtf, PDFs</div>",
+  "context": "From document: Contents_Table — chunk 31 (chunk 31/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "file",
+    "context",
+    "time",
+    "what",
+    "when"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

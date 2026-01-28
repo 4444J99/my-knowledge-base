@@ -1,0 +1,32 @@
+---
+id: 971149d8-3021-429e-9835-0245dfcbb9d4
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    svhaqhhuuwdrnx65azupaoosf6gjonojw2zayderzxnwzlwwlozqjocuzgyfq0qxieiediwsc1rjh93nca5imh7octkcyzi9tu
+  - r3tcklvbvq2uuj9lgwliuxprex3kmkmxvgpu54bzannavpbxodcpo1xgjoadpcn7zwzmyeezeb2
+  - qfsum6ajqyrhtpoezkuh8cq7gs71qu
+  - gsgln
+  - >-
+    hcprftvxlucdo6rademvanqxn52haqir99s4ui8f3vqgbnd7ceq4bzid1lzoetffilrq6va9ji7arzyc5zy410d0whu
+---
+# svHaqhHUuwDRNX65azupAOoSf6gjonOJw2zAydERZxnWzLWWloZqjocuzGYfQ0QXieieDiwsc1RJH93N
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 8333 (chunk 8333/11534)
+
+## Content
+svHaqhHUuwDRNX65azupAOoSf6gjonOJw2zAydERZxnWzLWWloZqjocuzGYfQ0QXieieDiwsc1RJH93NcA5IMh7OCTKcyzI9tu+R3tcKLVBvQ2UUJ9lGwliUxpREx3kMkMxVGpu54BzAnnaVPBxOdCpo1XgjOadpcN7zwzmYeeZEB2+qfsuM6AjqYrHTPOeZkuh8cQ7Gs71qU+gsgLN+hcPrfTvxluCdO6RAdEmVANQxN52HaqIr99s4ui8f3VqgbND7cEQ4bZid1lzOEtFFILrq6VA9ji7ARZYc5ZY410d0wHu+WuG6n+BwlRbQXHOSTKKAnJxkMqKzO9aQsy3nITKm67JrXSXtNpDoOjh3BRuBN+3XMLfYFerUGzk4A8Pu5X0Vx7nmLc+TQ+ipYllgJkS3252NSnYi+8jtXjUHHWc5hegA6jy030HIZbnfFbFERDeIjuZ8sYZkAw9dmM0+hoiOiM6LEjEf3fEQhpqRg9bkypgaZIGRLKBBV9y7aJNL/onecOYxldAYm2muOdWXZWxjNyrzV+P43k4VsTSwaYNcAzxB/Q1ljXmX8IfUUsbXe5Mo8HKFFiCi64HGIKLDN8vFxDnAwr9gG+Q2W0iLct1ih43x7L/9Pro5A1j0ZxuIcNrldlpzOUtER0RHRBd3UU6zrdgCkxFXdITTJsRAy9rvjXN2PBvo8nIELY18HN0mKgSGzeB4o7Bh2hI/2V0g5TqXutGI2mQBPwvYN9EZHXTQ2YNb43rwIJwSNsuxJCgy0lJ453p9dER0HP9i57qMTk1znlBDsoGHLsxmH0NEtyiiezneOvCSfHQrxhV6a70W0IgO+EcjpaUcWslN9cvZ2nZgE2dVl9pAhNMuH5XoNNDSCKp2iPktl8e4qgY5hnP7Lbze/pHGeJs05zQWIKLjmBffR4e6zjbbb4T0enS7hy0ml5oEzmN2283eVx0IlAXKg0rbuSRi8RhjScESdgpDSgu/YZdAP3aVHdVczqo4lyRpkmRGQXlxp0ri6jCoQZeXqDIoSVcrr/JaRV4hgjp1R09169edy6JXlwbwtHp0cFiiGjkniki4wqvbVeYad8cKYG9xstdMp4DM6Bawl6H3vV3c2XzvHn88pzWZ8gRrtHaFQQjiUhBOe04r0VlypUCopKom4whGdxqGxT3kUKfnCFHda9CO5WHjUCcKHM+Imrh3Dhx0
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

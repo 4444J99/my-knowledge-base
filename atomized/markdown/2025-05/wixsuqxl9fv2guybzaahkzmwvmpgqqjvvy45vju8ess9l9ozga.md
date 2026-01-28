@@ -1,0 +1,32 @@
+---
+id: 77dafeaf-9e7f-47ed-bcff-590f4c968255
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    wixsuqxl9fv2guybzaahkzmwvmpgqqjvvy45vju8ess9l9ozgamt81vcq4bvo8grplvwembw17uzjulfta1tivufvevsfp1o3j6c
+  - 1q8xhb
+  - wjgpiws5ssjxlstozjokoi0tnmyiumovglkjlaluqzg
+  - >-
+    nwgdgsvyixclicklpzwylumrofgcxpcfri7cx2ot3cdgnz0uvmc1qchctnqywtfcws08hvyzcjujrpwfagwsrimbcendezeq71xepqep1gyo56otabcrfoewemkuywyctfl1olo1hgg1n1g1t
+  - v2ytwu1nxi1gj0stpa8tdunbctlqt4
+---
+# WiXsUqXl9Fv2GUybZAAhKzMWvMpgQqJVVY45vJU8ESs9l9OzgAmt81VCq4BVO8GrpLVWEMbW17uZjulF
+
+## Context
+From document: New Note — chunk 14646 (chunk 14646/21099)
+
+## Content
+WiXsUqXl9Fv2GUybZAAhKzMWvMpgQqJVVY45vJU8ESs9l9OzgAmt81VCq4BVO8GrpLVWEMbW17uZjulFTa1TIVUFVevsfP1O3j6c+1q8xHB+wjgPIWs5sSJxLStOZJokOI0TnMYIUmOVglKJLAlUQzG+nwgDGSvyiXCLiCklpZWYlUmrofgCXpcFRI7cx2OT3CdgNZ0uVmC1qcHCtNQywtFCws08hVYzcJUJrPWFaGwsRiMBcENDEZEq71xePQep1GyO56OTabcrFoewemkUywYCTFl1oLO1hGg1n1g1T/V2YtWu1nxi1gJ0sTpa8tDUNBctLQt4/llMep1C7HcSweVUDCwuwfZtCew7vw1nn1mPVQSm3R35TGudjob0dDTVzkJfZzHO2dWIz3zyArzy0qfx29cewx9f/ybrSfzzj8/gn3/K1J9/8wR+/Oon8NSjV+GeD2/FdZf2Yu8ZSZy2upi4di56Wqejte5U1PN9VFflI1XJqirg+3Ojrb2V2HEN9l54Ae665x688sMf4Nd//B1+/Yff4ZkXX8SV11xFKNqAEpuH6ymEaCUTOlt4S/nudt5KvgdrN6/G5TdcjDvufj8+cd9H8PHP3Ylb7riOyasbiKijTCctICYt5zkCaO8ixOxO8TPxMBG1XKWptrRXorOnhimsSWJHJoFWuYhVeUf3hIOfczn8QQLrUBlTQu0KtVYRSza1JpkgmkJzG18L4Woixe8MU0dd/jKubSlJRC3jc8tYUlGZakoYKiDU6ijhui5WXbZdPqaxMkG1nGmzZbYChVblcZKkKgmran4YrNoJW2U+GBFI6+NryoDVYJj4lKmsPiasBpm0mkj4kE6FUVsdQYppqdGQEz6PhXeYzySs+ohV3R6iXaa72p18nUS0/jBTWasr+H2oQ09/M/oWt6B3oIVwtR71rXEFVuNMMPUT8LojNkSrw+gZ6sEZe87E6eecgYGhfl7fNqbgtrK38rrU8LX4+D7L+B1lImuU2DUegj8WgDfig5f7IskoP6NqfpZMrl3Uqqq9u4mfRR2/oylC4gp+VmHi1Ci34wSqMY7D7CGkpZiwWkOMXMNUVT2WflKSPzwx1xTEiVZlnPTPZs052ANzURlagOpIPqrYY5Kq6pmFkPThkoRVPxNX/apzzB8VDVcDvrkIB+Yjyh+zSIg/Cn5++QMFnMtDwDMXbvtMOPhj
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

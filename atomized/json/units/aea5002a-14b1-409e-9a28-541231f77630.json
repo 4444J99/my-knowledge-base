@@ -1,0 +1,26 @@
+{
+  "id": "aea5002a-14b1-409e-9a28-541231f77630",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:18:05.000Z",
+  "title": "<li><br></li>",
+  "content": "<li><br></li>\n<li>---</li>\n<li><br></li>\n<li>### **6. Scalability and Performance**</li>\n<li>Design with growth in mind:</li>\n<li>- [ ] **Horizontal scaling**:</li>\n<li>  - Use container orchestration tools like Kubernetes for scaling workloads.</li>\n<li>  - Ensure stateless services to simplify scaling.</li>\n<li>- [ ] **Load balancing**:</li>\n<li>  - Distribute traffic evenly with tools like NGINX, HAProxy, or cloud-native load balancers.</li>\n<li>- [ ] **Caching**:</li>\n<li>  - Use caching layers (e.g., Redis, Memcached) for frequently accessed data.</li>\n<li>- [ ] **Database optimization**:</li>\n<li>  - Optimize queries and indexes.</li>\n<li>  - Use read replicas and sharding for large datasets.</li>\n<li><br></li>\n<li>---</li>\n<li><br></li>\n<li>### **7. Collaboration and Knowledge Sharing**</li>\n<li>Foster a culture of collaboration:</li>\n<li>- [ ] **Documentation**:</li>\n<li>  - Maintain up-to-date documentation for code, APIs, and processes.</li>\n<li>  - Use a centralized platform (e.g., Confluence, Notion) for knowledge sharing.</li>\n<li>- [ ] **Code reviews**:</li>\n<li>  - Set up mandatory code reviews for all pull requests.</li>\n<li>  - Use tools like GitHub Actions to enforce code quality checks.</li>",
+  "context": "From document: full best practices house keeping; — chunk 23 (chunk 23/24)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "3e83484e9c334693cb3ed7e0779f00e5",
+  "relatedUnits": [],
+  "keywords": [
+    "code",
+    "scaling",
+    "tools",
+    "like",
+    "with"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

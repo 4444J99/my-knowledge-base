@@ -1,0 +1,26 @@
+{
+  "id": "c1b3c8ad-43e0-472e-8671-fc94eee05b69",
+  "type": "insight",
+  "timestamp": "2018-10-15T17:03:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Swiss Gear Carrying Case (MSRP ~$50)</div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: FUJI ABSOLUTE 2.3 (MSRP $449) — chunk 5 (chunk 5/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "efc6ae1e36de92fb1c4bba40269d7a6c",
+  "relatedUnits": [],
+  "keywords": [
+    "swiss",
+    "gear",
+    "carrying",
+    "case",
+    "msrp"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

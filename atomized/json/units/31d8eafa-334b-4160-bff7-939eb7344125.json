@@ -1,0 +1,26 @@
+{
+  "id": "31d8eafa-334b-4160-bff7-939eb7344125",
+  "type": "insight",
+  "timestamp": "2025-11-05T21:42:26.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>export class TierManager {</tt></div>\n<div><tt>  canAccessDataSource(userId: string, source: DataSource): boolean {</tt></div>\n<div><tt>    const tier = this.getUserTier(userId);</tt></div>\n<div><tt>    return this.tierConfig[tier].includes(source);</tt></div>\n<div><tt>  }</tt></div>\n<div><tt>  </tt></div>\n<div><tt>  async trackUsage(userId: string, source: DataSource, cost: number) {</tt></div>\n<div><tt>    await this.usageTracker.increment(userId, { source, cost });</tt></div>\n<div><tt>    await this.checkAndAlert(userId); // Alert when approaching limits</tt></div>\n<div><tt>  }</tt></div>\n<div><tt>}</tt></div>\n<div><br></div>\n<div><br></div>\n<div><b><span style=\"font-size: 16px\">Cost Estimates by Tier</span></b><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Tier</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Monthly Fee</div>",
+  "context": "From document: data enrichment strategy for ucc-mca intelligence platform — chunk 14 (chunk 14/32)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "42efb0f415b2f324521d2959a50f91bf",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "userid",
+    "source",
+    "tier"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "c4ef822f-3abc-414e-9572-d52f1288d7cb",
+  "type": "insight",
+  "timestamp": "2025-02-12T19:07:35.000Z",
+  "title": "<div>18 to &gt0 pts</div>",
+  "content": "<div>18 to &gt0 pts</div>\n<div>Beginning</div>\n<div>Absent/unclear topic sentence. Reasons, details, facts do not relate to prompt. No transitions. No or inappropriate conclusion. Little/ no plan (when required)</div>\n<div>30 pts</div>\n<div>This criterion is linked to a Learning OutcomeFinal Draft:</div>\n<div>Content</div>\n<div>30 to &gt27.0 pts</div>\n<div>Exemplary</div>\n<div>High quality information focuses on the prompt in engaging ways. Intriguing and/or compelling examples, evidence and explanations bring topic to life. Prompt/task fully developed</div>\n<div>27 to &gt22.0 pts</div>\n<div>Accomplished</div>\n<div>All information is accurate and focused on task/topic. Examples/explanations support topic. Prompt/task developed consistently</div>\n<div>22 to &gt18.0 pts</div>\n<div>Developing</div>\n<div>Information sometimes repeated and/or wanders from prompt/task; may contain inaccuracies. Examples/explanations are incomplete; lacks detail. Prompt/task/topic inconsistently or not adequately developed</div>\n<div>18 to &gt0 pts</div>\n<div>Beginning</div>\n<div>Information inaccurate, inadequate or omitted. Examples/explanations unclear or missing. Prompt/task not developed or may not be address</div>",
+  "context": "From document: Weeks 1 - 6 Canvas Data Dump — chunk 94 (chunk 94/188)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "1b21c03b1f1909954adca118a79b0158",
+  "relatedUnits": [],
+  "keywords": [
+    "prompt",
+    "task",
+    "topic",
+    "information",
+    "examples"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

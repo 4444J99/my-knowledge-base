@@ -1,0 +1,26 @@
+{
+  "id": "27c2aaae-a177-44d3-9ce0-fa8f7ac48273",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Yes, a structured Gold/Silver/Bronze ranking.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Instructor and students vote on the most helpful peer reviews.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🏅</font> Ranking System</div>\n<div>  •  Gold (Master Reviewer): Demonstrates deep analysis, structure, and constructive feedback.</div>\n<div>  •  Silver (Strong Reviewer): Thoughtful but missing some analytical depth.</div>\n<div>  •  Bronze (Basic Reviewer): Minimal effort, vague or unhelpful.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">🏆</font> Rewards:</div>\n<div>  •  Top reviewers get XP bonuses.</div>\n<div>  •  Gold reviewers earn an extra edit request from the professor.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">✅</font> Why This Works:</div>\n<div>  •  Motivates students to give better feedback.</div>\n<div>  •  Improves the overall quality of peer review.</div>\n<div>  •  Prevents half-hearted “I like your paper” responses.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">7️⃣</font> Additional Discussion Thread: Reflection on Previous Week</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Yes, we will add a “Course Reflection Thread” to assess student engagement.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 29 (chunk 29/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "applecoloremojiui",
+    "zapfdingbatsitc",
+    "gold"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

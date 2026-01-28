@@ -1,0 +1,32 @@
+---
+id: 0659562d-57ef-44c9-9ae4-92886135279b
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    kxmlsanr25aka5ywnfqfjrf6xoidaxkfhs5maibxqauwi4ee2outwhu8wx4rds70tfmd33lcveolxe6hvxj65nxlyb5iu5wad9dbhj6xunqobgnowgckjy6ughr50yf1r07mw7
+  - ldpq2you3zhiqjgh3c6a9kkvvxkqz9o9lju
+  - >-
+    gabu4bccy9te7qnshhr9ssfsojii7gjc6tpdpk0hmcbwl9vybxswauad8jrqaf3uc9t0mylkvmmqeyv6ohp4aoqf
+  - qa5m1idt75l9moiptdcjfflhcfnhfeysmbn0jjp4rqjpi4nar0
+  - sg5p8efbbu5ofpwoych1cromlgcx6yvbeqy
+---
+# KXmlsanR25AKA5ywNfqFjRf6XOiDAxkfHS5maIbXqAuWI4Ee2OuTWhu8wX4rDs70tfMd33LcVeoLxe6H
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 776 (chunk 776/11629)
+
+## Content
+KXmlsanR25AKA5ywNfqFjRf6XOiDAxkfHS5maIbXqAuWI4Ee2OuTWhu8wX4rDs70tfMd33LcVeoLxe6Hvxj65NXlYB5IU5WAd9dbhJ6xunQoBGnowgcKJy6UGHr50YF1r07mw7/ldpq2YoU3ZhiQJgH3c6A9KkvVxkQZ9O9ljU+gaBu4Bccy9te7QnsHhR9SSfSOJii7gJc6tPdPk0hmcbwl9vyBXsWAuaD8JrQaf3Uc9T0myLkvmmQEyV6oHp4aoqF/qa5M1idT75l9moIPtDCJfFLhcfnHFeYsmbN0jjP4RqJPi4Nar0+SG5P8EFBBU5oFpWOYcH1CromLgCX6yvBEQy+9jta357j5oFJOxZNhGs/Qe4rfiQcjhdS7Usd13DWdds7zd60rf3U1+ucLHSiU2KXmIcjMwYdk+/AhXel/bIilwEengPmjY/ClIAChh1qFasXs0V9lsgqHHaukipNiJ5Qk1lZCPenCsir/6jtrAhFP2vuyqtfQFMB7VlICBhK/1TXCWxUnuisr4lUrsFWqN3U308AAAFuNkYJu6AiYRIoaa5jpuYbOJbwRn19AaVW5VHOZXFUUUp/fbn6ehe23dMFmKi6oAzIScGNx8opG1Pr+myapG5/eV+TPbnu7Y0gYQ+Ap7JPvTG7PKVEMDTWEVFQHoBD2ntgIxbdK8spHq9Rb1YFg5o0Zuae3jm/GIKInbzot8YVmlYH97/a/W67rzG5/d88U4oPNRpAv0jFZ4RLDVNnWAfJAfr50VQ1D5gnEJiBjZJWPtz0u/3DbsfXHHh/rQatq0u5a03HV7ZUd2jZu0/indIm9EvklNJuJQ5AWeM0CfJEatq5O6Fxjci64Cws8ZvX5oedMygGrKsAHKieBfZcAl54NfAogPsH3RB+NqIdtTFB6ZfhNGjY9x8bni5cRMI0FG1yfuL5xK8Zxmx0wy3+GU2tg0ypt8srJ7ZMPNtxBlBRuBaeDNYbYSr19+naYbLDjvp+L773M1TIOyxCP3A4M5wOrUH2a07TF025gfWL5xwPZkLthME4DfZgahN9nFkAd0JE4QhvWYliL4S2fVnha4dkALrva5F0reoA2jf6j04ZOf3TqP6v/7L6ZaRvQAu6J7RIPSlQR9EAKXF8WUEoXMkHFBF7xzUVqFqlZ+ED/Wf1m9cu89NaSPEuXkVuduipJQIgP14hG5/reKTdr
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

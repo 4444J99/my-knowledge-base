@@ -1,0 +1,32 @@
+---
+id: fe401148-3413-4da1-9d72-d5d567878898
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    garigarigarigarigarigarigarigarigarkhygkuicrbsibeiabeiabeiabeicbxar8t0k4qpvlkancsiaesiaesiaesiaesiaesiaesiaesiaesiaeyjgborzleavsfbigarigarigarioaqjf4zau6jizmen2lmrotj8esiaesiaesiaesiaesiaesiaesiaesiaeipoahd6
+  - >-
+    qbi0gxbplv2ncuppjjclqglrv7le40csiaesiifsqybu71jrdrscbeiabeiabeiabeiabeiabeiabeiabeiabapbga7vqsariumlapytnq6
+  - lvtkx9rannxw78o6dfneiabeicby48ar69kq50ep9cnvl4tcn2j
+  - hqf1fynsf75z1uumcm
+  - kkgep2mwdf0p6zvf
+---
+# gARIgARIgARIgARIgARIgARIgARIgARIgARKHYGkUicRBSIBEiABEiABEiABEiCBXAR8T0k4qpvlKAnc
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 8064 (chunk 8064/11629)
+
+## Content
+gARIgARIgARIgARIgARIgARIgARIgARIgARKHYGkUicRBSIBEiABEiABEiABEiCBXAR8T0k4qpvlKAncSIAESIAESIAESIAESIAESIAESIAESIAESIAEyjgBOrzLeAVSfBIgARIgARIgARIoaQJF4ZAu6jIZmen2LmrOTJ8ESIAESIAESIAESIAESIAESIAESIAESIAEipoAHd6/Qbi0GXBplv2NCuPPJJCLQGlrv7lE40cSIAESIIFSQYBu71JRDRSCBEiABEiABEiABEiABEiABEiABEiABEiABApBgA7vQsAriUMLapYtnQ6//LvtKX9RaNnxw78o6DFNEiABEiCBY48Ar69KQ50eP9cnvL4tCn2j/hQF1fynSf75Z1UUMcm/KKgeP2mWdf0p6zVF/iVbg+RfsvzLeu7Un5KtQfIvWf7MvawQyH9LKSslOrKc9pF/5q+lk0DpNJPlnxXlzz+roohJ/kVBlWmSAAmQAAmUdQI8P5ZsDZI/+ReGAPWnMPQKfyz5F55hYVIg/8LQ47FlXX/Keg2Sf8nWIPmXLP+ynjv1p2RrkPxLlj9zJ4HSSSCJXUPZHeNg6o7yl1TTIv+SIm/yLev8S5YecycBEiABEsiLQFk/v1D+vGq2ePaTf/FwzisX8s+LTPHsJ//i4ZxXLuSfFxnuzw+Bsq4/+SljaY5D/iVbO+RfsvzLeu7Un5KtQfIvWf7MvfQTMG2k9MuZl4SWi1+cvH49dD9neKuyXuWU/1C1Ls495F+ctA/Nq6zzP7RE3EMCJEACJFAaCJT18wvlL1ktIn/yLwwB6k9h6BX+WPIvPMPCpFDW+Rem7KXhWPIv2Vogf/IvWQLMvTAE2H4LQ6/wx5J/4RkyBRI4NgjQ4R3UY1nvFil/yTZI8if/kiXA3EmABEiABIqCAM/vRUE1/2mSf/5ZFUVM8i8KqvlPk/zzz6ooYpJ/UVDNf5plnX/+S1o6Y5J/ydYL+ZN/yRJg7oUhwPZbGHqFP5b8C8+QKZBAWSdAh/dBNVjWu0XKf1B1FvsX8i925AdlWNb5H1QYfiEBEiABEig1BMr6+YXyl6wqkT/5F4YA9acw9Ap/LPkXnmFhUijr/AtT9tJwLPmXbC2QP/mXLAHmXhgCbL+FoVf4Y8m/8AyZAgmUXQJ0eB+m7sp6t0j5D1OpxbiL/IsR9mGyKuv8D1Mk7iIBEiAB
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

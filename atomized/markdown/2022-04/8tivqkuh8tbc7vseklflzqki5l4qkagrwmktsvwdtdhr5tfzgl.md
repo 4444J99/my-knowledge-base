@@ -1,0 +1,34 @@
+---
+id: 6b97a205-a275-48a8-b377-12b7e8f5a3a7
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    8tivqkuh8tbc7vseklflzqki5l4qkagrwmktsvwdtdhr5tfzglagg0yhowhq6fd106d0c1ijhv3gnvsgq13vzaqiluajpubmugfxvrur0chqtwdc9dzv5d6pfd
+  - >-
+    gjf9k7ifksibgwczzayvjvrc1soeb7ad5woedxsf7ygefbuid7ocgjt8fnuihft4h3gclfmlyzy8xla8iiiutrrbmebnoaas3kyuwq4d4xcezuks
+  - >-
+    rygv6pwfsikqiao089va2nyg7tlnk6a8wjupuljygihauadu0gnrwofwcv5tygnmfeeqjtq2heag3googehdzqyhnctx6n1c
+  - 5bkrcze7
+  - >-
+    vhsw7fjmzi6t1eib5ito5jyphkzhix23kawmmcdelkttbki0bi5y1iv47lbkdeclblcmjk7buz8rbujvtemcyqn8hbekccwjcd6wodtni0v1vmffauv
+---
+# 8tIvQKuH8TbC7VsEKLflzQKi5L4QkAGRWMktSVWdTdhR5TFzGlagg0YhOwhq6FD106D0c1ijHV3gNVsg
+
+## Context
+From document: Strike one — chunk 3509 (chunk 3509/4795)
+
+## Content
+8tIvQKuH8TbC7VsEKLflzQKi5L4QkAGRWMktSVWdTdhR5TFzGlagg0YhOwhq6FD106D0c1ijHV3gNVsgq13VzaQIluAJpuBMugfXvRUr0CHQtWDc9dzV5d6pFd/hHd+GJF9k7IfKSIbGWCZZAYvjvRC1SOEb7Ad5WOEdxsF7yGEfBuId7ocgJt8fNuIhft4h3gclFmLyZY8XLA8iIIutrRBMEBnOaaS3kYUWQ4D4XcEZUKS+RYGv6pwfSIkqiAO089Va2NyG7TlNK6A8WjUpuLJYGihauAdu0GNrWOFWCV5tYGNmFeEQjtq2heAG3goOGeHdzQYhnCtX6N1C/5bkRcZe7+VhSw7fJmZi6t1eIB5iTO5jYphKzHiX23KaWMMCDelkTtbkI0bi5y1iV47lbKDecLBlcMjk7bUZ8rBUJVtEMCYQN8hbEKCCWJCD6wODTni0v1VMFFAuv/WJBLGJLqgDat4SUTbkSaYZq4G3OIbd/KuvO748qYTKWzZb4j0IDK7gQVZn3SXhd55TgUXaeL7hoeExQqheV4lnRcbOztWFdQZoyoJbD61X0wVoPx7YgS6vX9hQNBQbaiC//NtDqzWEerMvhozKTNZkT95kVvbhHD4H5w3pJL7kesjoV/1QaUArRgzjgLTmaoaBOjq3wo3fALi5CyiBGoCPI/84BYTe3Z7tBawUggPSgCx4GaawL3Fo3eDZqh3hhrX43tAdKIA+ZNv9Y21O5Ht12xPW5e0tqJTWBoMorML6DH7ertDwBmp4aGBoaIHuQOv8qBvbuYNW3XJ+hz0uZw4hqXB+i4q2Cr9eEnrtao3mYSKeZY7O4SRObBj9ZMJev5+mBTsCmWF1ZtGJiS2og2ruWgL6vif4AAOp6Y4BnV31CUTjAkv46p9W3ckbuNr8oF1Qal0pBjKg6KuxDgaWWhliZ9Wm5K0uYet9FcHeZ7DOXlgJbhn96nV2Z+0cbnkm7uCeHdONXutMv+TuasPWwT4u6SLmbhUe30sm7Cb+bu4Gb1z/Ju9cxsyTzkGHrYdKyKOAhG/SUaCTcJR5mqeHEW0JCm3mSkxDIhnnvmq0/WvSKxai2NRbABNegGVyXYMhsFp1quh+rmAYUWi63u3e5m3mNmmu9m4NH+8PP+F9Nu9cDm8QD99WsesON/E/3OjyLu6MXnEWj/HznvHCJmIZ7/ARuuUTh+yhXk5m
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

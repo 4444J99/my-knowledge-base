@@ -1,0 +1,31 @@
+---
+id: 68ac63f4-d3f6-46b1-807e-fae6dec428f1
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - rw0dkevwbqkl0dxat552smm59rssolog
+  - 9j5mbsqrloyuc9scol8yal2zvmkpvaaym2lcvqqgrj1fjsqs
+  - >-
+    wxamnny5kgnw6mq6iv2aycquo2wjxblovwkzuf4afyrnvaktbmwnyhdmpsmzko2ovyvp2lan66rfyyx6mjcehduybhmy7talcf7w2tfpd2qrkdmdkjz4nnsvreuabydiuo0uz2nmdxmunayxfliznmy3gbczvzl3ngye8mx3uvj9w8w4e5ccqnrno5z3s
+  - ysatcdylcyp
+  - cw9fpp0aor8n5lzgbhwnxvqkvnp
+---
+# Rw0DkEvwBqKL0Dxat552smM59rsSolOg/9J5MBsQrloyuC9scOl8YAl2ZVMKPvAAyM2lcVqqgrJ1fjSQ
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 3180 (chunk 3180/11534)
+
+## Content
+Rw0DkEvwBqKL0Dxat552smM59rsSolOg/9J5MBsQrloyuC9scOl8YAl2ZVMKPvAAyM2lcVqqgrJ1fjSQS+wxAMNNY5KGNw6MQ6IV2AYCQUO2WjxBLOvWkzUf4AfYRnVAkTBMWNYHDMPSMZKO2OvyVP2LAn66RfYYx6MJceHDUYBhMY7tALCf7W2tfPd2QrKdmDkjZ4nnSvrEUabYDIuO0uz2nMdxmUnayxFliZnMy3GBczvZl3nGyE8mx3Uvj9w8w4e5ccQnRno5Z3s+YSaTcdyLcYp/fq+cw9fPP0aoR8n5lzGbhWNxVqkvnP+c/2rOpHpG3bPKa4O/af37NhjJyCrl+YXPvPqqzmi1DAh36GO5r3wOmif+WSbqK1fy9KqmV73+Ve9AGnu36B7RHCaQL6FdQX2pUh33LFi9YbwAdW+sGsgBBddZDRLgBZC7ma0B+G8b19nS02Z2aIcaT6uN16gYYQHgadXSehWlkR4vE0jXy5oWq19b5ay9M9Kz6k6gLla8Vo/WBHisoqC7Ul7INVkQru97t4zrBOe0kmOnrtW+6e38ysWVAvBQ0fnVjbanXbSSMDPRHT7osP3c0d6l8YKIwV5/BgWuO5gAvGtNY9eVdvW5plaecT+yck4Yz8/BeEr+6J14PuqZCKjr9h96xzsSYwrdlVdess5rMdf8/BXMU6pMlXoiUwbGS43dqU9eupsv1uzUZJgF10luJCyniHQvVyev8pTfD0NdlzvVsV8dv0MAdS0NpgDeq7cT14WiDlw3S2gHohPGU7Judq0jAWbYz1tXh9LO9f66UoC6qa7O6TEzDWbFdXpNSqkvBeFU9rp+mykNJnbVUdTJp9f1y416f9Eq4Jz1c+jqatkyKCS6C2jHb8KEeSsZnlZIemZF3eZ+hLMF4UYgO+1psd0hb0LgWSbGG6Cu7WCHZZQbVt3tBaSru0apbt3MzFoZQ7l9fABvrt+g7jL3rjN+25hYgHAO+qc/FvDA7yw7ugPayV+WDvCURLPXT+3UutHFHI1RpsoMgLEDigs4cepxUdfNE4qA7oAigij9E5aisesoDtASSOZYJsDEQhmqKfDbGpDGYKdiuWpPILcE9sBIJEs0ZOr46oYRVJQN7AWm2kiU9WEipPgvnlgCxW0FTkOHp1bqBnKlj711LHp1VIal2y+dWU3I16BdP1b3ZHzsgehQFjY1W5+/
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

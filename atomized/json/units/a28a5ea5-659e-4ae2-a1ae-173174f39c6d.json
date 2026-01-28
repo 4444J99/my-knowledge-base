@@ -1,0 +1,26 @@
+{
+  "id": "a28a5ea5-659e-4ae2-a1ae-173174f39c6d",
+  "type": "insight",
+  "timestamp": "2025-03-19T12:12:32.000Z",
+  "title": "</td></tr>",
+  "content": "</td></tr>\n</tbody>\n</table></object><br></div>\n<div><object><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; direction: ltr\">\n<tbody>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>5 pts</div>\n<div>Full Marks</div>\n<div>No more than 2 errors</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>3 pts</div>\n<div>Partial Credit</div>\n<div>No more than 3 errors</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>0 pts</div>\n<div>No Credit</div>\n<div>More than 3 errors</div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div><br></div>\n<div><br></div>\n<div><u>Previous</u><br></div>\n<div><u>Next</u><br></div>\n<div><br></div>\n<ul>\n<li>    </li>\n</ul>\n<div>---</div>\n<div><br></div>\n<div>Week 1 | The Importance of Using Proper Grammar, Punctuation, and Spelling</div>\n<div>Crafting Clear Communication</div>\n<div><br></div>",
+  "context": "From document: Week 1 | Overview — chunk 53 (chunk 53/75)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "327f02c0d4f0dc7a528bfc69a2a41abd",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "tbody",
+    "table"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,31 @@
+---
+id: d7446c22-dde4-4283-855f-837879e20b8f
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - avugincajb8luo00cjdeshztx9iqabpqwg3
+  - qk6c9g2t5zen6fmyseytsnece4
+  - fqalw2nvejnygzgqgzbt8qaerntyuardsckuhlf1a1opbfbq
+  - ay9cxduehllhkq7y1fk9nmv7ut82ckzeefevnhbveqf7mxiho15lfm36vt1q
+  - >-
+    lkwqrfymjpnazyscplr2f0ommrci4inpjm5qp4ttoxiyfpmufbraq15acyisifca1vlbroatl1sco36ltyv6iod02niqjyyx
+---
+# avUGInCAJB8LUO00cjdeshzTx9IqabPqWG3/qK6c9g2t5ZeN6FmySEytSNecE4+FqaLW2nVEjnyGZGQg
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 141 (chunk 141/11629)
+
+## Content
+avUGInCAJB8LUO00cjdeshzTx9IqabPqWG3/qK6c9g2t5ZeN6FmySEytSNecE4+FqaLW2nVEjnyGZGQgZbT8qaerNTyuaRdscKuHLF1a1opbfBq/+aY9cxDUeHLlHkq7Y1fk9NMV7UT82CKZeeFEvnhbvEQf7MXiHo15LFm36vT1Q/lkWqRFymjPNAzysCPLr2f0OMMrcI4InpJM5qp4TTOxIYfPMuFBRAq15ACYiSiFCa1vlbROAtL1sCO36LtYV6IOD02nIqJyyx+SmPxI2p7R9dnRkvbZPG2Xvj099X50m9dZdGqrR/t6kqzERd61QXBSwYfKC1lkfXMp4xwacQoe8XkGEZ8j7RWMvh9wUBK7nuwR1Ahy5YkxzEWSzGTLKErlD8c2Kura1HC6W58tksYmOf77oByfutTolk3xAGsmbWvhTLZPko+nUrfPqy++TZ6sfVwzHkd2rBZxzlX3oTLHrxj7keX6re5hvXv6O//U4hnzRMosVJVRg6JJ7FSEgFrFlzo1ffhjtI2V1WVvWku2e9sNuphz5rqpbWcc7aQdF7/1feNbyc/oHivTolFYR/f3HttWyiD8mxlPvGl3rc1sUIVnUCsbZZHDeTJZsywZNXl5kizejFm3zupLQRqbpZWfLTfxEgWP6/cVND6UEeZf/byZb+OUuDn76NjuJWEnOZX1c0kTZQgSI0yvUYeMlBZ38VTciz+sxn+SesKS+lV7v0K4V63poI8pzKHEG52vZlPG4j88+GVb5Y+uj3PPUtkFva7v2Iq1GctjeUOeH6uXxiH+9nh03efynfy0xBduPTZtRa32LaLVd5cGx+6e/CwbHFMk1IwH1ZmJ7ngYXCp1sMaSU+SgEMssCvKEJx/j05x34gfj9IkPxfPkgiq7w31HI0cGUqaQ1Vu1BqkdS2rvt65u/nSzn7GOs6XvKu5qcD1P4gsqPOJi0XvFhQ298qM8abpxcJ4rpmJ52qtJLnXZVY2JeN/q2M2iQ2UMcjdN0Xmbq5011tflz3pufPAelMIbevgPeCRxkxUdB550LyMZ1ZBxqqMzQ62T6cVZ0qAv41fNrTU153ckO/fmqptxUw9F+xZURSfbSeefXbFEb7KXOptLH+Re/sYKRbD5PBKCMyJEGdSOr7wpgm1Uyc+LD6sdrqnyxPGRpehbs6V0HGZIcmP1DNca6dX99qnvt/VhI7TE
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

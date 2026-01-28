@@ -1,0 +1,32 @@
+---
+id: 34150195-1e35-411b-84e7-2bd73aa468db
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    dijwyakpapgwq5tzzqqrb7ycoekr6xposvllvoradaygi8p4wg6hhvad2ex9gsenomkumyrxamo8ladupcb
+  - xkbs8indfgp5eadbifxxh2pumpowlyskdnxal9lntfz7anfo1tzqa
+  - 6o0ibn8fxgekhade
+  - crwz1b
+  - >-
+    uoq4tfzfludrsqgo5zjrwh2avwp8dfiinuxtffe5lyjwednr4pfeossrq6xbnnaztdkzf1afdxcjbrvhudvic04winn8aavpnofqpmev8lyxkvd4s9me61emjnxyj84ggj0ngaaem6ejjuxz0fyrwdsc6qlek1g
+---
+# dIJwYAKpapgWq5TzzqqRb7yCOeKr6XPOSvlLvoRAdAyGi8p4wG6HhvAd2Ex9gsENoMkumyrxamO8ladu
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 2837 (chunk 2837/11534)
+
+## Content
+dIJwYAKpapgWq5TzzqqRb7yCOeKr6XPOSvlLvoRAdAyGi8p4wG6HhvAd2Ex9gsENoMkumyrxamO8laduPcb+xKbs8INDFgP5EadBIfxxH2puMPoWLysKdnXAl9LNTFZ7AnfO1TzqA/6O0iBn8FXGEKhAdE+crwZ1B+uoQ4TfZflUdRSqgO5ZJRWh2AvWP8DfIinuxtFFe5lyjweDNR4PFeosSrQ6xBNNAzTDkZF1AFDxcJBRVHuDViC04WinN8AavPnOFqPMEV8LyXKvD4S9mE61EmjNXyj84GgJ0nGAAeM6ejjuXz0fYrwDsc6qlEK1g/rVhMQ90SztF0byfbWfact332OeqyJ/gj6K+OgfYyOUu4PZdRDufcKt/H5iO9PWdB7K7/+whcFeXQQHJGruXjvSVyI6wclFfxGFsVB69iRxXaiZyhkJgHPdfLyJO2tnFrcJqRoG2jrwY6Jlhc5PhDchbrFjkhPhW9tHy+hPR1NPsiR7nIdLMYar+IvhYp+j8wkvEoV4UM4NEhE8EZze94yTvwGLNGHhNveJtELS/B//09xo4Qi8DPGQGAS0kzh4ACowJD9mOnRRkpl9P4EVqGntV2sGr5sLkZytsPOv3YROPdq0SFmOBZwyvkJN+X2OST/VtYlXzGmw1vpR8yH3tX5NBpABvnylmke7YFTbmjXIez7DPaWxdsAe1tqDJ379posbt5VPuzz3IoonmiBa/roaY8Opf1NMN0DutpO0m9vLtxnMwg3bKPoA9IV5vFlkg4gKmzU0q0+LWbvunu5j/MPqWPeYroAbaSKNipBDUDxpBnoPgVvXfYjsHGP+dTFTvWbxOBWmaSInyB7xIL8SE0Fz8Y2oVfc2hpe9EUbwfzAKGhTvohBGVi4Bh9ILo6jhNgJNeehKzXIyHMgIHksOAo2xlY3SY5oABN+4QtiVqtSC4TOKGQZCFduwBqXjo0diwH2dsLdDnSHQViOdNBYwBA4qASxB4QZwFXIYFgvjtPI4Co03PZXNQz85QE0Docnb/H8HTeTQ8h4FZ6D5K3eec0YDsZHV0Ae5uJjn30fYmzw2g1mmJWirNsP2mSjaiO/zaRjZ01FoGfNwI/yLzRTETr+WVcRovFIbkOHaYLxBOB3ZK6e2Tswn+zd0hoBpIlAMlmiIGiQNhquXCfkF7c3WsBQmGYZbRnOMopPIPnyyRfLPP+vL
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

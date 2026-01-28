@@ -1,0 +1,25 @@
+{
+  "id": "751adc46-fe07-47d7-b5a6-2cb417986f4d",
+  "type": "insight",
+  "timestamp": "2022-03-15T20:02:58.000Z",
+  "title": "<div>I would've made a great Jew in the Holocaust.</div>",
+  "content": "<div>I would've made a great Jew in the Holocaust.</div>",
+  "context": "From document: I would've made a great Jew in the Holocaust.",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "392ad87c960993728712d25bc851151c",
+  "relatedUnits": [],
+  "keywords": [
+    "would",
+    "made",
+    "great",
+    "holocaust"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

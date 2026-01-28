@@ -1,0 +1,26 @@
+{
+  "id": "0197771b-99e1-4516-a5c6-d59120d3fb69",
+  "type": "insight",
+  "timestamp": "2017-10-04T19:01:48.000Z",
+  "title": "<div>Starting Stretch</div>",
+  "content": "<div>Starting Stretch</div>\n<div><br></div>\n<div><b><u>Wednesday</u></b><br></div>\n<div>Molding Mobility</div>\n<div>Gym (even necessary or just do Body Weight exercises again?)</div>\n<div><br></div>\n<div><b><u>Thursday</u></b> </div>\n<div>Molding Mobility<br></div>\n<div>Starting Stretch</div>\n<div><br></div>\n<div><b><u>Friday</u></b><br></div>\n<div>Molding Mobility</div>\n<div>Body Weight</div>\n<div><br></div>\n<div><b><u>Saturday</u></b><br></div>\n<div>Walk</div>\n<div><br></div>\n<div><b><u>Sunday</u></b><br></div>\n<div>Rest</div>",
+  "context": "From document: Hey all, so I’m looking to start a new routine. I’m a 27 year old… — chunk 3 (chunk 3/3)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "38248d72c6531d4f44483286983473cf",
+  "relatedUnits": [],
+  "keywords": [
+    "molding",
+    "mobility",
+    "starting",
+    "stretch",
+    "body"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

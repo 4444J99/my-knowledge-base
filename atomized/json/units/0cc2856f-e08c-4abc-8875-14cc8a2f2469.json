@@ -1,0 +1,26 @@
+{
+  "id": "0cc2856f-e08c-4abc-8875-14cc8a2f2469",
+  "type": "insight",
+  "timestamp": "2015-07-22T20:33:50.000Z",
+  "title": "<div>1 misc</div>",
+  "content": "<div>1 misc</div>\n<div>2 old books</div>\n<div>3 Beowulf</div>\n<div>4 Jackie brown</div>\n<div>5 shoes</div>\n<div>6 werewolf</div>\n<div>7 no top</div>\n<div><br></div>\n<div>Monitor</div>\n<div>Speakers</div>\n<div>2x medicine balls</div>\n<div>Large table</div>\n<div>Small table </div>\n<div>Laundry basket</div>\n<div>Amp</div>\n<div>Acoustic</div>\n<div>Electric</div>\n<div>Md </div>\n<div>Amp</div>\n<div>Apogee</div>\n<div>Push</div>\n<div>Mpk </div>\n<div>Music case a</div>\n<div>3x framed pictures</div>\n<div>Flylo </div>\n<div>Two mic stands</div>\n<div>Foot midi board</div>\n<div>3x lights</div>\n<div>Bike frame, 2x tires</div>\n<div>Pull-up bar</div>\n<div>Egg maker</div>\n<div>Rubbermaid</div>\n<div>George foreman </div>\n<div>Letter holder</div>\n<div>Plastic three drawer </div>",
+  "context": "From document: 1 misc",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "765a65c7e9fb567dbbe6b882ac26129a",
+  "relatedUnits": [],
+  "keywords": [
+    "table",
+    "misc",
+    "books",
+    "beowulf",
+    "jackie"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: 32ce158a-9f55-4be6-8384-a558f84ee61e
+type: insight
+created: '2017-10-19T23:15:11.000Z'
+document: 18dc3a996dd053a8e2f8b89fa16c3840
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    2odadlcbra2tbtumkgnoh9uufxlyiblgir7ktytahzgigbwpav9cq15qaylehitsjkbdlkmbxtwxak
+  - hw5k0sijnbqqqmxamvkb0zizmgofk4das2k
+  - kfka
+  - >-
+    kwbi313nskycv98vdtytwhy2fub29ggaumcsuxfi9yg328tjmekdvefoff6kgicvr30dd1ra9cysrgldf2x8r9p2qzieci0upwyoi5uiqvnv5dffhlxwwc1fyxf1hxr9nlud3dfijphsmkvzuhgbywhhxm
+  - 9gkxymydibhaoopxzio
+---
+# v20/2ODADLcbra2tbtUMkGNOh9UufXLyIBlgiR7KTyTaHZgIGBwPav9Cq15qayleHITSjkBDLKMBxtWX
+
+## Context
+From document: L-day IN A CHAR — chunk 401 (chunk 401/966)
+
+## Content
+v20/2ODADLcbra2tbtUMkGNOh9UufXLyIBlgiR7KTyTaHZgIGBwPav9Cq15qayleHITSjkBDLKMBxtWXaK+HW5K0sIJnBQQQmXamvkB0ZIZMgOfk4dAS2K/jnq/kFKA+KwBI313NSKYcV98vdtyTwHY2FUb29GGAuMCsuxFi9YG328tJmekDVefofF6KgIcVR30Dd1RA9cySRGlDf2x8r9p2QZIeCi0UPWyOi5uiqvNV5DFFhlxWWc1FyXf1hxR9nlUD3DfIjPhsmkvZUHgBYwHHXM+9gkxYmYDiBHAOoPXzio/SBEVWuKeUircNZSUOlvpYd3t7qe1QOrAqYQy+E91l4Rb5Ok8f85Ubqif9vTQgM+/P8/z5Y2BAkJf45KM0iw0321BqjrLqd6MhLsWvO+PaPj3rtHeN2pGOgld7ILXYRtJLXfGJO1Geh4ZGBcdzF8sVzz4r6r7jOh8TVf7a+jlWNfKipQeeta7uXo8PLOd5BQAcLP+rqnKWHd2u/j4od2WDbh0ONAbaoyAALjOO+Vg2a50N9Wy3+vnvtHTDBRLVdTZv0VopAYY9XkYb8lZV11pDQ4OvkA5W/twnXA9gPx6yp6wyrf1I9EwVlGg8N4XAdVzPseHhIR+HXUFD36XN3kTgmQsZ4PoHJd7VV1/t+6RNfQ8rE8Y1+gV9u9Ca9C8+u2ut0vu4tECj6je6b+mXjH/0SQLtHwL3LMddIafNr9W3e/qLPhbl83mXCc+KtB3twcb311xzjVv6r1+/3p9nOfeEVrlTL55TWQXAMVZsoCigrZEtfYuxCpdMr7/+uu+PhyLTxwDurRiiBKIEogTOIgno1zSGKIEogbeyBIDqf/Znf+Z++IH50w2XXXaZvf/973drLVYBsIEbvhXfjAIgTL5Y0vrJT37SHwD/9E//1L74xS8e498fmM/kkkkbSggUAEymWaIZLHAoP0s62eSJyTzLOGOIEogSiBKIEogSiBKYXALs63Pxxdr0VrCCTRABHgSAFZAIhTrh4IGDNrOmyf0kd8uqGmt/3rHkZwNfYSjfK4DNgIH+QHA27mWvgAOyKn6xZ4MUBbNsoaz/N8vlT7UgKfsGEPiMMmGhNoJkf4F+wfSZAqVLMgt8RcCIwHY+u9CWZhdrk+CM1VfU+nXH/CsK6mHZzWa4AFH8sgOBgOIhI7KT+gAAQABJREFUAIawCAdE
+
+
+
+---
+*Source: Document 18dc3a996dd053a8e2f8b89fa16c3840*

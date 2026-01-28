@@ -1,0 +1,20 @@
+{
+  "id": "4357cb82-fe32-4a81-81d1-e2ba4bfba752",
+  "type": "insight",
+  "timestamp": "2015-01-08T15:46:50.000Z",
+  "title": "<div>64</div>",
+  "content": "<div>64</div>\n<div>64</div>\n<div>66</div>\n<div>66</div>\n<div>68 </div>\n<div>70</div>",
+  "context": "From document: 64",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "295ff0670a0925e6019c066595e5f92e",
+  "relatedUnits": [],
+  "keywords": [],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

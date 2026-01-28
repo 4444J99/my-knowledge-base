@@ -1,0 +1,26 @@
+{
+  "id": "7da5f264-a4b2-49c2-9239-932ba613836e",
+  "type": "insight",
+  "timestamp": "2025-08-20T01:08:51.000Z",
+  "title": "<div>  •  Social: LinkedIn post on workflows</div>",
+  "content": "<div>  •  Social: LinkedIn post on workflows</div>\n<div>  •  Community: Discussion Metadata Taxonomy Review</div>\n<div>  •  Wiki: Repo Structure Explained</div>\n<div>  •  Web/Blog: tutorial post + VS Code screencast</div>\n<div>  •  Grants: outline for automating documentation research</div>\n<div>Module 2: Algorithms &amp Recursive Intuition</div>\n<div>Objective:   Solidify recursion models and data structures via toy projects and visual explainers.</div>\n<div>Reading List  •  SICP (1.11.3)</div>\n<div>  •  Algorithms (Sedgewick &amp Wayne Ch. 2)</div>\n<div>Further Studies  •  Fractals &amp recursion in generative art</div>\n<div>  •  Category theory intro (Baez &amp Pollard)</div>\n<div>Examples  •  src/algorithms/linked-list-visualizer/index.html  •  media/diagrams/recursion.svgTemplates  •  modules/module-2/project-template.md  •  Code stub: src/algorithms/gc-simulator/main.rsTie-ins  •  Arts: Processing generative sketches</div>\n<div>  •  Sciences: recursive patterns in biology</div>\n<div>  •  Philosophy: Gdels recursion insights</div>\n<div>Wings Artifacts  •  Academic: SICP critique issue</div>\n<div>  •  SOP: Running a Toy Project</div>\n<div>  •  Business: slide on recursive architectures</div>",
+  "context": "From document: Prompt for AI: Multi-Archetype Syllabus Critique — chunk 4 (chunk 4/10)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "735011ec826ae272226ee00d2196dfe0",
+  "relatedUnits": [],
+  "keywords": [
+    "algorithms",
+    "recursion",
+    "recursive",
+    "post",
+    "code"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6ae3511d-85a7-44d2-a217-437d2b3fd8a3",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>1. Review personal repo analysis</div>",
+  "content": "<div>1. Review personal repo analysis</div>\n<div>2. Mark each: GRADUATE / MINE / ARCHIVE / DELETE</div>\n<div>3. Review org repo analysis</div>\n<div>4. Mark each: PRODUCTION / DEVELOPMENT / EXPERIMENTAL / CONSOLIDATE</div>\n<div>5. Create migration plan</div>\n<div>```</div>\n<div><br></div>\n<div>### **Phase 3: Consolidate (Week 3)**</div>\n<div>```bash</div>\n<div># Execute the plan</div>\n<div>1. Graduate valuable personal repos to org</div>\n<div>2. Archive/delete personal repos as decided</div>\n<div>3. Consolidate redundant org repos</div>\n<div>4. Update all documentation</div>\n<div>5. Build knowledge graph</div>\n<div>```</div>\n<div><br></div>\n<div>### **Phase 4: Systematize (Week 4)**</div>\n<div>```bash</div>\n<div># Establish ongoing process</div>\n<div>1. Deploy System Constitution</div>\n<div>2. Set up intake workflow for new items</div>\n<div>3. Create dashboard showing system state</div>\n<div>4. Establish regular review cadence</div>\n<div>5. Build feedback loop: Output → Archive → Iterate</div>\n<div>```</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **IMMEDIATE NEXT STEP**</div>\n<div><br></div>\n<div>### **I can help you build: `repo-audit-and-triage-tool`**</div>\n<div><br></div>",
+  "context": "From document: Contents_Table — chunk 84 (chunk 84/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "review",
+    "personal",
+    "repo",
+    "archive",
+    "consolidate"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

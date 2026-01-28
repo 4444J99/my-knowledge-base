@@ -1,0 +1,26 @@
+{
+  "id": "f1919ed1-0aa7-4f32-9ea6-182d8a0fa28d",
+  "type": "insight",
+  "timestamp": "2014-10-07T22:12:23.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><br></div>\n<div>my mouth is a flood </div>\n<div>that bursts </div>\n<div>through the dam </div>\n<div>of your lips</div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: my mouth is a flood",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "cc12112e77c5796147165c70c4366775",
+  "relatedUnits": [],
+  "keywords": [
+    "mouth",
+    "flood",
+    "that",
+    "bursts",
+    "through"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

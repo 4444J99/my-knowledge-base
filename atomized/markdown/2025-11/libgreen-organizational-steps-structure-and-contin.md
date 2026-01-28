@@ -1,0 +1,35 @@
+---
+id: b35c19a3-f2bc-4de6-9c59-780620d7c936
+type: insight
+created: '2025-11-23T04:21:32.000Z'
+document: 751d0ce44738c7033755a28c7169e646
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - organizational
+  - green
+  - steps
+  - structure
+  - continuity
+---
+# <li><b>Green → Organizational Steps (Structure and Continuity)</b></li>
+
+## Context
+From document: ]||||/\\vvvv//\.../\/\---/\/\.../\\vvvv//||||[ — chunk 13 (chunk 13/96)
+
+## Content
+<li><b>Green → Organizational Steps (Structure and Continuity)</b></li>
+</ul>
+<div><b><br></b></div>
+<div><b>Use this quick reference to prepare AI prompts efficiently while maintaining clear visual differentiation for conceptual, technical, and organizational elements.</b><b><br></b></div>
+<div><br></div>
+<div><img style="max-width: 100%; max-height: 100%;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABgAAAAUgCAYAAACGqpzAAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAGAKADAAQAAAABAAAFIAAAAAD/XF8FAABAAElEQVR4AezcO5JU17YF0NSL50FLkC8TRw6yFVIzUBOELwv1Qj+XoA1qgNQRfD14unlJiqyqzJPr7Lk/QxE3KKoy91l7zLTW5NYX/7z/7+A/AgQIECBAgAABAgQIECBwhcDff/99+PXXXw9//fXX4ZdffrninV5KgAABAgQIECDQSuB/Wz3IcwgQIECAAAECBAgQIEBgbIHj0v+4+P9wm1evXo19KdMTIECAAAECBCYWUABMHK6rESBAgAABAgQIECBA4FaBc0v/0zO/++6707/6mgABAgQIECBAoCMBBUBHYRiFAAECBAgQIECAAAECPQg8tvQ/zvjll18enj17dvyrPwkQIECAAAECBDoTUAB0FohxCBAgQIAAAQIECBAgkBD48Lv8f/vtt//+Xv9LZvCv/y9R8hoCBAgQIECAQE5AAZCz92QCBAgQIECAAAECBAhEBbYs/U8HVgCcaviaAAECBAgQINCfgAKgv0xMRIAAAQIECBAgQIAAgd0Ebl36Hwfz63+OEv4kQIAAAQIECPQroADoNxuTESBAgAABAgQIECBAoESgaul/Oox//X+q4WsCBAgQIECAQJ8CCoA+czEVAQIECBAgQIAAAQIEbhLYY+l/OpAC4FTD1wQIECBAgACBPgUUAH3mYioCBAgQIECAAAECBAhcLbD30v84kF//c5TwJwECBAgQIECgbwEFQN/5mI4AAQIECBAgQIAAAQIPCrRa+p8O4V//n2r4mgABAgQIECDQr4ACoN9sTEaAAAECBAgQIECAAIGzAoml/+kgCoBTDV8TIECAAAECBPoVUAD0m43JCBAgQIAAAQIECBAg8F+B9NL/OIhf/3OU8CcBAgQIECBAoH8BBUD/GZmQAAECBAgQIECAAIFFBXpZ+p/y+9f/pxq+JkCAAAECBAj0LaAA6Dsf0xEgQIAAAQIECBAgsKDAu3fvDl9//fXhzz//
+
+
+
+---
+*Source: Document 751d0ce44738c7033755a28c7169e646*

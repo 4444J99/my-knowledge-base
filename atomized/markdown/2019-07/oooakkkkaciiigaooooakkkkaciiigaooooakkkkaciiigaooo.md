@@ -1,0 +1,31 @@
+---
+id: 4de37591-ad00-4532-8751-7d720cc14f0f
+type: insight
+created: '2019-07-20T00:28:36.000Z'
+document: 2503c7de934f3b34466953d39945df2c
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    oooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigd
+  - 0fxhooorqaooooa9f
+  - hpwk
+  - jxxb1otsphx4du9duiqdkyexfeg6gwvyscee25hmvsph37jh7rfwy0wbxh4x8e3vtplsu
+  - a4glgveixgs0n2wsxyo7s2ao5rn8o
+---
+# oooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAo
+
+## Context
+From document: Naming Tracks — chunk 133 (chunk 133/198)
+
+## Content
+oooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD//0fxHooorQAooooA9F+HPwk+JXxb1OTSPhx4du9duIQDKYExFEG6GWVyscee25hmvSPH37JH7Rfwy0WbxH4x8E3Vtplsu+a4glgvEiXGS0n2WSXYo7s2AO5rN8O/tL/GDwf8ACxfhD4P1n+wNG+1yXbz6en2W+lMuMo9zHtcpkZ/vEfKWKBVH1r/wT38X/GHV/i7Oup6pqGo+ARY3ra82oTSTafGghZkZ2mJjWQybc87ihfPy7qBH5n1saJ4e1/xNfJpfhzTbnVbyQgLDawvPIxY4ACoCeT7Va8Xtor+LNbfw0MaQ19cmzGMf6MZW8rj/AHMV3vwo+O/xQ+CH9sP8MtWGjza5HFFcy+RDM+yIsV2ecjhT8x5AzQMxviN8JPiN8JL2y074j6HNoVzqMJngjnKFnjB2lsIzYweMHBrzmv0d/wCChmoXurP8HtV1KZri7vPCVtNNK5yzySYZ2J9SSSa/OKgSNjQPD+u+KtYtfD/hnT7jVdTvW2QW1rG000jYzhUQEnAGTxwOelfSeq/sRftTaNor6/eeAbprWNDIywT2txOFAz/qIZnlJ9gmfasH4G/tE6n8BdD8Wr4R0S2bxR4hto7az1uQ5n05A2ZBHGwZG3jn+H5gpbcFC1Y+Cvxk+N6fGrwzqOh+JtW1PWNS1S1ikilu5pxeCaVVeOZWZg6sCc5HHUYIBAM+bZYpIZHhmQxyRkqysMFSOCCD0IplfYP7eemeHdK/am8ZQ+HFjjjma1nuEiACLdzW0bzdP4mY7377mOa+TdL0vUtc1O00bR7aS9v76VILeCJS8kssjBURFHJZiQAB3oAoUV92Wf8AwT/+KhS10/XfFXhTQPEl8ivBod9qu3UW3jIXy443Xceg2swz3FfIXjrwF4t+Gviu+8EeNdOk0zWdOcJNA+D1GVZWUlXVgQVZSQQcg0Bc5CivtrQP2D/izfaHY6z4y1zw74Dl1VN1nZa/qBt
+
+
+
+---
+*Source: Document 2503c7de934f3b34466953d39945df2c*

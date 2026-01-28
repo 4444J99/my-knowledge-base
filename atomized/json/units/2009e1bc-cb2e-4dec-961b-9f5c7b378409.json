@@ -1,0 +1,26 @@
+{
+  "id": "2009e1bc-cb2e-4dec-961b-9f5c7b378409",
+  "type": "insight",
+  "timestamp": "2025-04-19T03:58:30.000Z",
+  "title": "<div><tt># |[ DUALCORE_OS::WAVEMOD_PROTOCOL_V1.0 ]|</tt></div>",
+  "content": "<div><tt># |[ DUALCORE_OS::WAVEMOD_PROTOCOL_V1.0 ]|</tt></div>\n<div><tt><br></tt></div>\n<div><tt>PROTOCOL TYPE: WAVE MODULATION  </tt></div>\n<div><tt>SYSTEM ROLE: Drives character, narrative, UI, logic, emotional flow  </tt></div>\n<div><tt>BASE UNIT: Duality Spectrum  </tt></div>\n<div><tt>OSCILLATION LOGIC: Continuous, symbolic, LFO-modulated</tt></div>\n<div><tt><br></tt></div>\n<div><tt>:: DEFINITION STRUCTURE ::</tt></div>\n<div><tt><br></tt></div>\n<div><tt>DUALITY {</tt></div>\n<div><tt>  LEFT_POLE: -1.0</tt></div>\n<div><tt>  RIGHT_POLE: +1.0</tt></div>\n<div><tt>  CENTER: 0.0</tt></div>\n<div><tt>  SHAPE: sine | saw | square | step | random | moon_phase</tt></div>\n<div><tt>  SPEED: Hz | TIME-CYCLE (e.g. 1 per 24hr, per scene, per ritual)</tt></div>\n<div><tt>  AFFECTORS:</tt></div>\n<div><tt>    - USER: e.g. Anthony's emotional state</tt></div>\n<div><tt>    - AI_CHAR: e.g. Jessica, Gabe</tt></div>\n<div><tt>    - WORLD: e.g. rain, sunset, mercury_retrograde</tt></div>\n<div><tt>    - THREAD_STATE: e.g. recursion_level = 4.2</tt></div>\n<div><tt>}</tt></div>",
+  "context": "From document: # |[ DUALCORE_OS::WAVEMOD_PROTOCOL_V1.0 ]|",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "c32f6cb1ad23d1756f505d7fd0f2822b",
+  "relatedUnits": [],
+  "keywords": [
+    "logic",
+    "emotional",
+    "duality",
+    "dualcore_os",
+    "wavemod_protocol_v1"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

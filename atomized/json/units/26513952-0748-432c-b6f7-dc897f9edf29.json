@@ -1,0 +1,26 @@
+{
+  "id": "26513952-0748-432c-b6f7-dc897f9edf29",
+  "type": "insight",
+  "timestamp": "2022-02-09T12:38:00.000Z",
+  "title": "<div>A man awakens in a room with no windows and one door. The door does not ope",
+  "content": "<div>A man awakens in a room with no windows and one door. The door does not open. </div>\n<div><br></div>\n<div>There are no instructions. </div>",
+  "context": "From document: A man awakens in a room with no windows and one door. The door does…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "9183adedd336cbb65b3e8183bc4fb7e8",
+  "relatedUnits": [],
+  "keywords": [
+    "door",
+    "awakens",
+    "room",
+    "with",
+    "windows"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

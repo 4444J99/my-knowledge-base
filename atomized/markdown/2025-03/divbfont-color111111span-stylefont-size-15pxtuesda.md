@@ -1,0 +1,33 @@
+---
+id: 1f2f272a-6df9-4a5f-818c-4e30b039a060
+type: insight
+created: '2025-03-19T08:54:53.000Z'
+document: bd2f2280cc167423e582fae6fad9d700
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - font
+  - span
+  - color
+  - '111111'
+  - style
+---
+# <div><b><font color="#111111"><span style="font-size: 15px">Tuesday | Editing &a
+
+## Context
+From document: Below is a sample “Module Navigation & Weekly Overview” document that… — chunk 42 (chunk 42/46)
+
+## Content
+<div><b><font color="#111111"><span style="font-size: 15px">Tuesday | Editing &amp Proofreading</span></font></b><font color="#111111"><span style="font-size: 16px"><br></span></font></div>
+<div><font color="#111111"><span style="font-size: 16px">  •  </span></font><font face=".AppleColorEmojiUI" color="#111111"><span style="font-size: 16px">✅</span></font><font color="#111111"><span style="font-size: 16px"> </span></font><i><font color="#111111"><span style="font-size: 16px">Reflection on Writing Growth</span></font></i><font color="#111111"><span style="font-size: 16px"><br></span></font></div>
+<div><font color="#111111"><span style="font-size: 16px">  •  </span></font><font face=".AppleColorEmojiUI" color="#111111"><span style="font-size: 16px">✅</span></font><font color="#111111"><span style="font-size: 16px"> </span></font><b><font face="HelveticaNeue-Bold" color="#111111"><span style="font-size: 16px">Assignments</span></font></b><font color="#111111"><span style="font-size: 16px"><br></span></font></div>
+<div><font color="#111111"><span style="font-size: 16px">  •  </span></font><i><font color="#111111"><span style="font-size: 16px">Final Draft Submissions</span></font></i><font color="#111111"><span style="font-size: 16px"><br></span></font></div>
+
+
+
+---
+*Source: Document bd2f2280cc167423e582fae6fad9d700*

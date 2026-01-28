@@ -1,0 +1,31 @@
+---
+id: 044d24ec-5c1a-44ac-876b-8ea262c74e88
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - hkskhgbveh9cbzikhafv3ycbq8hng1xxmqwo1fcwvi2lk4bvpw8qnr9gnvdwfyapqfuay
+  - bjbiju1rec55frdgmgineijdqyuaz4wjm2n19mhfpwfhxxzrvm9vzssumih7lv2cbmbez3cqpof
+  - w8y6wpvnxvql7aakb7bhbqfwuhcamc4ts4aabqcphcqu2j
+  - >-
+    qcqelkng1ztpds1mydsytxymmn6tghcug8xdvwswykobfszp7d5m7n984ivec6epffmnpyaldex8llgs9yruqrnhp45wkmuzlnsdxh5bvoyt9x6bm62o52x26
+  - 03nfe5uatjhvdfukzoqkryabqslmvwgpkvruqasoqhiloqsqqsfofuaguclh1
+---
+# HKSKHGBVeh9cBZiKHAFV3ycBq8hng1XxmQwo1fcWVI2Lk4BVPw8QNR9gNVdwFYApQFUay/BJBijU1rEc
+
+## Context
+From document: New Note — chunk 20266 (chunk 20266/21099)
+
+## Content
+HKSKHGBVeh9cBZiKHAFV3ycBq8hng1XxmQwo1fcWVI2Lk4BVPw8QNR9gNVdwFYApQFUay/BJBijU1rEc55FrDgMginEIjdqYuaZ4wJm2n19mHfPwfhxXZrvm9vzssuMih7Lv2cbmbez3cQPof/w8y6wPvnXvQL7Aakb7BhBqfwUHCaMC4tS4AaBqcpHCqu2j/QCqElKNg1ZtPds1mydsyTXYMmN6tGHcuG8xdVWswYKoBFSZp7d5m7N984Ivec6EPFFmnPYALDEX8llgS9YRuqRnHp45wKmuzLnSdXH5BvOyT9x6bM62O52x26/03nFe5uATjHvDfUKZOQKryaBqSlmVwGpKVRUQasoqhiloqsqqsFoFUaGuClh1/vRyB6xWqXJq+VBVPx1ygZQMVqhUlVYrigCfKpRa0sUprFYo1FqpsGp1hbKkVaqYqmBpjYKqUEetVEC1XNVTy4ovUCXWlJUXqVqrgqkZVqKgqgKqtarKOkIVV+u0b01ajXVEdXcZWdPdga/njSvrKuOUlJ1S1V0uGgcAdZCsTgOrVFiFuuoqBUuhnrpaYdS1M/pHBvVVKK+u0dyqqX2cyiraA1Z998JiefeiEoVWh8rqyX0ctDq/tqNTTUV57bT+mu8tS1VBddHIzg5KnVfXXmbXnJ9SWFVYdek4hVMn9FLf0ymsLh8DRVWAqgq5Kry6uK6zXFTTSRYpBJufwirVVembAK/2SfeBz9OgrMo+KZVVgKstAK3mDKwCVg0KqwFYPTsfAoaHu+G6hnsg3APn4j3AB6et++v1ubE6AKURQPQ/v4s9aaiK8qemfeDx5D792W0ASAr5IY47Xn/wCdcG6oX2sMDqGz98zVZFMX4qm+qhVoGyWebVnwv3IVhODNVXnBcUEHkUulfZAETCbFCljTsAVmI9UEu1x4n/9+vU/uu5JP2suPtpdFUFRX//+tmx/Jjqnwev3OJXRWUCb4D87BFd2zz32I6RFOcDrJ5MuKcPfOyzbj+wfnscvP7vs+/Tqbcc3Ie9hCJvLgcUcNEerxEAhLke2e6XuDEObflHN8/+j35G1YxTD4rZrpDXC8eI84XcIxivEGD1xC9+ldrXiUulAWivqs8OplbwGPAlj5N79qWvhQKT+r4Wd5w6eMipkeKaWbXXQiBOzMPXuH/Pxa0hLsfz3TVlRcN/GLBrT+o9etxFDcD/uLGY
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

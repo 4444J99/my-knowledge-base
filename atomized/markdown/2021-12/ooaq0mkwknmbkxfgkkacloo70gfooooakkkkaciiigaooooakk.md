@@ -1,0 +1,32 @@
+---
+id: 8667275d-4d7c-41a0-b23d-4d1857c213d9
+type: insight
+created: '2021-12-17T14:46:39.000Z'
+document: 37d960e30d45ec53cee7bbbc54f3efc3
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    ooaq0mkwknmbkxfgkkacloo70gfooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkackopaaepkwigbksiiggsiiirqgooopgfnnopppoteoooqyapkkkbmkkkktedttaeaztiyuuuvaikfnnopdwizdguuuvszdciiirm2hpptpnmq0zm8m8q
+  - >-
+    fjtdhv5npsbq37qkq7eyeqmoob2tnfbvhhx7pvixnt0jnrdxjcymynlfvw4zjvxxyrfwtzzxk1pekvnicq4pxcdzxefcu1uzvgntpcpmdukrsedariyjp8awiiv5sydxnzfezxtovbck58rhzaju29r3w7u
+  - 35xwll1hlz1yffgn
+  - a71sr7ba
+  - r9tuupfjx9kpn4yffffwaullrttjae
+---
+# ooAQ0mKWkNMBKXFGKKACloo70gFooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA
+
+## Context
+From document: How lung until quit smoking? — chunk 3 (chunk 3/249)
+
+## Content
+ooAQ0mKWkNMBKXFGKKACloo70gFooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACkopaAEpKWigBKSiiggSiiirQgooopgFNNOpppoTEoooqyApKKKBMKKKKtEDTTaeaZTIYUUUVaIkFNNOpDWiZDGUUUVSZDCiiirM2hpptPNMq0zM8m8Q/FjTdHv5NPsbQ37Qkq7eYEQMOoB2tnFbvhHx7pvixnt0jNrdxjcYmYNlfVW4zjvxXyrfWtzZXk1peKVnicq4PXcDzXefCu1uZvGNtPCpMdukrSEdArIyjP8AwIiv5syDxNzfEZxToVbck58rhZaJu29r3W7u+h+35xwLl1HLZ1YfFGN+a71sr7ba+R9TUUpFJX9Kpn4YFFFFWAUlLRTTJaE+lFLSYqkyQoNFGaYCYoxS0lACUUtJQAUtIKKAFpaBRQAtFFFABRRRUuQ7BRRRUlJBRRRQMKUUYpwFS2NIAKWiipLCiiloAKdQBS1LYBRRRUlpBRRRSZaQUUUVBR//0f3VooopgJRRRSAKKKKAEooooAbRS0lMAFOFNp1AC1HNNDbRPcXDrHFGCzMxwqgdSSe1PLKqlmOAOST2r4K+M/xbufF1/L4f0Kcpols20lD/AMfLj+InugP3R0PU9seVm2awwlPnlq3su54ue53TwNH2k9W9l3/4B6v43/aR0vTZJNP8G2w1GZMqbmXKwAj+6owzj3yo9Ca+edZ+MnxI1tn87WpbaNjwlriAKPQFMN+bGvMKK/M8Zn2Krv3p2XZaL+vU/G8w4mxuJk3Ko0uy0X/B+ZtXXiTxFe/8fmqXU+f+ek7t/M1kvLLIcyOWPuc1HRXlSqSe7PEnUlLWTuFFFFQQFFFFABRRRQAUUUUAFFFFABRRRQAUoJHI4pKKALkOoX9sc29zLER3R2X+RrorHx943011ez16+j29B9odl/FWJU/iK5GitYV5x+GTXzNqeIqQ1hJr0Z9CeGv2jvGmlOkevJFrFv8AxFlEU2PZkAX81P1r6z8D/Efwx4+tTNos5W4jAMttL8sqfh0I9wSK/MitHSdX1LQtQh1XSbhrW6t23JIhwQf6g9weDX0OW8T16Mkqr5o+e/3/AOZ9Vk/
+
+
+
+---
+*Source: Document 37d960e30d45ec53cee7bbbc54f3efc3*

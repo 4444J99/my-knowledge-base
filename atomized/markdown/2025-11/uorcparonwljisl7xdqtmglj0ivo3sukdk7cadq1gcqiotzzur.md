@@ -1,0 +1,33 @@
+---
+id: 07950415-fd9e-42df-b6df-03d13897901c
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    uorcparonwljisl7xdqtmglj0ivo3sukdk7cadq1gcqiotzzurim5c19wdjvwcvozdfryaxejnjh2irnlqa3n
+  - >-
+    km53ersma9zd5jearemxhxs7gdqphrjkeahg3ctakq9i2attzayiqwsoqlrc4z5hs6oeq9gezcg5ftwmrscbtzuwminjq1x3ku5k2wcrgmirpqzg4icn5hjf
+  - >-
+    vrtuavm3ihkr3fvpvxvmxl12d2mwk55qu4pzxfqfoadhxesd2nbhutt77ifccsve28zrd2wwfzpwgwwczw2egzwjncthe74myi5rarlifkixzpkumyycfmaqn7hizbobvenboxzt
+  - rtj1s9crxy
+  - d5vchcwgz6ikhdnb8os7wb09kqf3kd0vs5
+---
+# UoRCpaRonWLjisL7XdQtMGLJ0iVo3SUKDK7cADq1gcQiOtzZUriM5c19wDJvWCvOZdFRyaxEjnJh2IRn
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 5752 (chunk 5752/11629)
+
+## Content
+UoRCpaRonWLjisL7XdQtMGLJ0iVo3SUKDK7cADq1gcQiOtzZUriM5c19wDJvWCvOZdFRyaxEjnJh2IRnlqA3N+km53ERsMa9Zd5JEAREMXHxS7GdqPHRJkeaHG3ctAkq9i2atTzaYiqWsoQLRC4z5hS6OEQ9GeZcg5FTWmRscbTZUWmINJQ1x3KU5k2WcRGMIrPQzg4icn5HjF/VRtUaVm3IhkR3fvpvXVMXl12d2mWK55Qu4pZxFQfOAdHXeSd2nBhUtt77IFccSve28ZRd2wwfZPwgwwczw2eGzwjnCthE74mYI5RaRlIfKIXZPKUMYyCfMaqn7hIZBobveNbOXzt/rTJ1S9crXY/d5VCHCWGz6IKhDnB8Os7wb09kqF3Kd0VS5+Ij8/Zbi4DDgcZ/leVBg4TDeZnSecqiKZ5UhTN8M0XKOCQ+cOK58hNo6WNDZuDmgFwcImMZRmQE0fjWmV3QfSLUwLth8fGopPy8v+8BEDummotg4u02N88wx6hmK3BCtNWfgC5hZrE9FjOzMaZfkwoGdpP7ulqa9DszuKcfQSm166fKntxw6u7+m/tLH7jJDGni1nNjkINzftPQYOwKYpw5Si5rV6PBKP8eolKYoeDYu8ioMksqaW435QERQkPMrIU6H8MaZ3/4hfmH+b/LJd0uVRc8VfA2vsG7b/KBasOU/FPOT10s6bWSjvVFgpAuVLoCJwZhQcI9nsmen0TCzdEUiMatiWqD/nP6f9xvNlcrdWrUsKo3t2DAVZUF3eYXXBBhVMxEhvEt4sQ7iJPO6o7eO0rseKLRBC6sovj2yt4r22d/YnFFC3xXwl13yRWFqGUZlWVk1pHau1o7LYx+0/xfqnqJE0x557hyFU6Kain8k1dDhWRKwykYeNK0UdNmR5tnaJYBXYvHu7fGVyqkRYF0YzQzVb84Fk4LpceJqMqntmhGRN2o7jTQjdKtgCxHb4NuiR2Rsyt+/vZ9iUWjzkr5Nmzj6Q1hG40qAeNPPCu+PmnUQz6H/m74J8uCynHJMXwYmVNSom7JuiXqikQZKUL6XesrzD1p1aGlf3ssveawj8/PX8k5HozCsevYEKFaimqNp8C/Oko51bhpi6MtMjTP2PObnsd7zDLKKfMgskfSg9yXg3FgfapSJVnRWmRATjXHjHOQYf35zaPrj6w/up4lT5f3jRBc/DPi4jDjvgJk
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

@@ -1,0 +1,26 @@
+{
+  "id": "72cf0003-8156-4e70-ad13-3275eea983c4",
+  "type": "insight",
+  "timestamp": "2025-04-19T03:49:35.000Z",
+  "title": "<div><tt># [#modulatable_features]</tt></div>",
+  "content": "<div><tt># [#modulatable_features]</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## |[ MODULATABLE FEATURES — MASTER LIST v1.0 ]|  </tt></div>\n<div><tt>All current controllable features within your OS, ritual engine, and media pipeline.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Feature                    | Type        | Modulated By                      |</tt></div>\n<div><tt>|----------------------------|-------------|-----------------------------------|</tt></div>\n<div><tt>| Language Tone              | Textual     | LFO, Mood, Jessica                |</tt></div>\n<div><tt>| Narrative Logic            | Structural  | RNG, Recursive Mode               |</tt></div>\n<div><tt>| Color Palette              | Visual      | Mood, Moon Phase                  |</tt></div>\n<div><tt>| UI Blur/Clarity            | Visual      | Reverb, Anxiety                   |</tt></div>\n<div><tt>| Sound Texture              | Audio       | OSC Shape, Saturation             |</tt></div>\n<div><tt>| Response Delay             | Temporal    | Delay Module                      |</tt></div>\n<div><tt>| Mood State                 | Emotional   | RNG + Weather + AI                |</tt></div>\n<div><tt>| Memory Recall Volume       | Narrative   | Convolution, Envelope Follower    |</tt></div>",
+  "context": "From document: # [#modulatable_features] — chunk 1 (chunk 1/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "33e74666d931a4ba5b9d7be2a0bd5e2b",
+  "relatedUnits": [],
+  "keywords": [
+    "mood",
+    "features",
+    "narrative",
+    "visual",
+    "delay"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

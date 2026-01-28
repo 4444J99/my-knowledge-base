@@ -1,0 +1,32 @@
+---
+id: 587b3219-8295-4441-a9b6-953d5aacdea5
+type: insight
+created: '2024-03-07T02:33:33.000Z'
+document: 27162d3685a234131532342f177d17e4
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - x0zimyoyuguar6ctovgamwvm
+  - >-
+    ydzszi4wquragupnb7jru0jow2sejyh49aaumelrxaexwokzdg3mzspjaqbprkfjvtuxtueu8ctbolw57
+  - 8a1qsrjjbsbw3x
+  - >-
+    e0dbdcfwn0i4ixtzscxyurwmyqherg904y2cccu1m8xvvbthtv8y7guylkyjccntjp0fsmogflwq471jloscowrb1hfntzggdjvjcbqamfsonixvquiikrzwqeqyusmpc89ocpspyc4hzarsbqcc0rkhjd8e
+  - ayux8lhipfdsg8
+---
+# x0zimyOyuGUAr6CtOVGamWvM+yDzsZI4WqURaGUPnB7jrU0jow2sejYH49aaUMELRxAexWoKZdg3MzSP
+
+## Context
+From document: CC INFO BILLING: — chunk 220 (chunk 220/909)
+
+## Content
+x0zimyOyuGUAr6CtOVGamWvM+yDzsZI4WqURaGUPnB7jrU0jow2sejYH49aaUMELRxAexWoKZdg3MzSPjAqBpRKfJVTuXtUEU8cTbolw57/8A1qsrJJbSbw3X+E0dbDCFwN0I4IXtzSCXyuRwMYqHeRG904y2cccU1m8xVVBtHtV8y7GUYlkyjcCnTjP0FSMoGFlwq471JLOscOwRb1HfNTzGGdjvjCbQAMfSoNIxvqUIikrZwQEqYusMpC89OCPSpYC4hZARsbqcc0rKHJD8e+ayUx8lhIpFdsg8+1P2eW4dOo4/CoPNCDrj6DrU7bUUbW+bpWglFRHybt3ycUsoQJuzgbcD60z50DKBkdiKTkoDjG4ZA7CmMldGCHgdM8VJGpADIoA75PaoVdQQpbqMU4IpjMsZ5OBux/DQTTdxNz/cX7vrS712h422ADqcc0wO6bU3/Io4NWSY87j8xA7KK0a5RuVkQsfIgUqRx1qbdiJd7emMVH5jhSijgeoFOTlgGVe3GPSm7WGiQTq8YGNpHrxUcxV1VlI3enaoG2YYscgHb605g/l7Sdue2KzuD0J/MZCXU5ONpHbFRfaZtxWThF6cVArfPguckZ6UskjLHjcW/ChWAt7Y928ncx6ccVCDFGAsn8PSqwmO0FhjFPSWZ4xng+9ax2AtFVdPNj5xx9KrkjaI1B+tLbK6liMA44P/ANapftRE2CevUYrNQAY/zAxjscilEjIgjb86Z5vzE9243elISZDg/Pj8K2M4qxORnlTgKASO1LD+9VuxHboKakjHzVY4GABx6VWVA2DjkdO9Rz6jj2LaAK53cfT9KdujIVNx6Y6VArdWc5PSjK7MH5s9c8VV0WTOrswWI8VFOc7wfl9B7VHO7R2+F4PSnPtEEYVQNq4Ye9BL2KsOcEA8ipvNQAOF2kVEfMmG0rtX0qZd6fKuB2/Cp5hJMBcCT5c5bPpjimSyG2KsRjK9P88VHg9A2736U6R1B2diMke9HOixiS/L0GKm2MEDJznt9aYlzIr4GcDgdOlV/mVgxORuB/AUc3kQ0h/mtj9181RyyypGHJweeByMVNJOoGAOtIrRLHsMYPp2o5vIJX6DA0nlZKbT6dqkiK7t0vcflihi74Zm/CoZDLlo2bByB0qJbhbUfKbfdhW5PXjimbEHylumRxTUOZDEp7c0gkkCkY7+lXzeREt
+
+
+
+---
+*Source: Document 27162d3685a234131532342f177d17e4*

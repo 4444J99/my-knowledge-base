@@ -1,0 +1,31 @@
+---
+id: 75082d86-2bae-48f6-9e4c-2f5d8a16b593
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - b4yahczt0v2ru5kg8nazcryimmxfow2
+  - mrhjynzzll
+  - asxwy1hlwuf0aha5yiytwyjmcbibqldjomwk2btj5citbmbhiwyj5zm5jnuj6dublib8c8
+  - >-
+    jojoq2iyn6lwhmit3nvd8yiys3sf1sei0cj6ezjvcn5qrljppl0eov2zitydczcebjucm5btxbbajsmx20fbsdeehlnhmdb8mldtowkfu2uff3y23jrled01ovhrtzsgdgsxkhiatmpskzrdtkwfipck5bwsfnfynsl21t6
+  - ipczum5irbxmb33spnxgluydnpk4776lovt4obiudkhiz7sz75gqokhjwmrof6dvrqusce
+---
+# x5t+b4yaHCzT0V2ru5kg8NaZCRyImMXfOw2/MRhjYNZZLl/ASxwY1HlWuF0aHA5yIyTWYjMCbIBqLdJO
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 14449 (chunk 14449/18928)
+
+## Content
+x5t+b4yaHCzT0V2ru5kg8NaZCRyImMXfOw2/MRhjYNZZLl/ASxwY1HlWuF0aHA5yIyTWYjMCbIBqLdJOMwK2BTJ5CITbmBhIwyj5Zm5jnuj6dUblIb8C8+joJoq2iYN6lWhMIt3NVd8yiYS3sf1sei0CJ6eZJVCN5qRlJpPL0eOv2ZiTYdcZcEbjucM5bTXBbAJsmX20FBsDEeHlNhMDb8MlDtOWkFu2uFF3Y23jrleD01oVhrTZSgDgSxKHIatMpskzrdtKwFIPcK5bwSfNfYNSl21t6+IpCzuM5irbxmb33spNXGLuydNPk4776LoVt4ObIUdKHiZ7SZ75gQokHjWmROf6DvrQUscE+XFAV1nKxAb833vwUoTNb0LgutXOmmHgxvHhnd8TrnsikE4/4E9olF1pAShwiGeRQkg3JOYCIK1KWULfqsaKz+j+TUo/DNQP+ag6czYBzrylx8lS+fzy4j9iT7Xvz7qUHNReSRsaRk7V1TK3/MT/VSoS1IDv+hYug21SMkfpUt3sr53cWk3VOyMTi246o+VpqejOzafCd10pznxH3C51RCuw+6UokXhks93dkO2v770ARXxU7fXkxy12TUcTxNmPKOW3uOWDtOPeNY/AntXBrncaVUQtsfyB+cghk3SkIw3OOONWp5zsX/MhfXM4s25RaXk3HrD8LpktKYN/NTASbJTrAn4WH7O12Ezrw+j13vyc4isKSjrAlc7tzfVplQ8cX2lNffIj3H3MOX9akNtfdV12u2Piy6/orQoy50hBXM3JVvm9QSAEjtHE4VQE3prM5fgSI1HgcEzy+uA8ct4lDUcxzRFzEEynN2AznNu4Zfj9jWmvyWceo2QPcmsiW5PX4OBNUgJ1A2y/xp96csuVAt4hLQdr76yGuQltYy68TciNuXXAco/1+JMo5tmbdWdpLZTrmx7vDcuJtGlREHXDuuBPTLHM2zHksD1iyZtn/2moyA1ALwL2VxuMJNcesYbfdDnQnhE+97/E6NOm3yJtJAaW4xIhhGFcDVxyn3NYX9hZjf9zzV3NZcWWNS9j3bBHRjDtb0WZCqHprkxwmu+d5SrjGzlEDjaLabh3CEGUDbqQTW9bueOmgjKCVSkwz3NPNQxZIy9dhZBYcGiM77D+UwYwp/zEewEkWg5kRaNfbUmRWIRViD6r00QAWWVUfCiNjTV9AhJUNHhE
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

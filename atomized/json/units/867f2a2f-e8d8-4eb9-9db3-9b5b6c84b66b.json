@@ -1,0 +1,26 @@
+{
+  "id": "867f2a2f-e8d8-4eb9-9db3-9b5b6c84b66b",
+  "type": "insight",
+  "timestamp": "2022-02-11T02:17:01.000Z",
+  "title": "<div>Unlike humans, computers can turn on and off. </div>",
+  "content": "<div>Unlike humans, computers can turn on and off. </div>\n<div><br></div>\n<div>We will become the data left behind. </div>",
+  "context": "From document: Unlike humans, computers can turn on and off.",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "2dba3a048d65ee1f0f3c009cc0af232f",
+  "relatedUnits": [],
+  "keywords": [
+    "unlike",
+    "humans",
+    "computers",
+    "turn",
+    "will"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

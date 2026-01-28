@@ -1,0 +1,32 @@
+---
+id: d2ec94c6-1418-4aae-b5e6-d2828fd772c3
+type: insight
+created: '2023-01-28T23:47:23.000Z'
+document: 433244fee59c4aa9eeb0c4c517f8d67c
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    ecbagaabaoctsky3x7kk9ljcapifnawgecbagaabagqiecbqhqebgoq0pzoqiecaaaecbagqogsb3s6ie7rqn75tqh7fhgecbagqiecaaaecc1taagbht5
+  - >-
+    rj0caaaecbagqihbeat0desfuewdynggaqakjop0xesbagaabagqiecdqgaicaa3ykc6jaaecbagqiecawfwldlrfrnxpagb8cq7f2fkjecbagaabagqiejgvaqga
+  - zl2pgqiecbagaabagqasgbrbgbokk8bknf2rh
+  - e4ggdxarliucaaaecbagqiedgqaqeai6kz4sjecbagmdlbyynr
+  - pb4afjkzhny3lkunqxczlcgeajcls0rjzsv38ld
+---
+# ECBAgAABAoctsKY3X7Kk9LJcAPiFnAWgECBAgAABAgQIECBQHQEBgOq0pZoQIECAAAECBAgQOGSB3s6I
+
+## Context
+From document: New Note — chunk 9 (chunk 9/313)
+
+## Content
+ECBAgAABAoctsKY3X7Kk9LJcAPiFnAWgECBAgAABAgQIECBQHQEBgOq0pZoQIECAAAECBAgQOGSB3s6IE7rqn75tqH7fHgECBAgQIECAAAECC1tAAGBht5+rJ0CAAAECBAgQIHBEAt0dESfuEwDYngGAqakjOp0XESBAgAABAgQIECDQgAICAA3YKC6JAAECBAgQIECAwFwLdLRFrNxPAGB8cq7f2fkJECBAgAABAgQIEJgvAQGA+ZL2PgQIECBAgAABAgQaSGBRBgBOKK8BkNf2RH/E4GgDXaRLIUCAAAECBAgQIEDgqAQEAI6Kz4sJECBAgMDLBYYnR+PB4afjkZHnY3LKUNqXCzlCgEAjCLS0RJzSV38lD+YiwNt31x+zR4AAAQIECBAgQIDAwhVoX7iX7soJECBAgEBjCeyc2BV37H4k/r7/rvjDga9GtHbG76y4Lv7tyrdGa4uYe2O1lqshQKAQOGlp/idnAsREsZdlMKJYCPj0PXv+S4AAAQIECBAgQIDAAhcQAFjgDejyCRAgQOD4C2wc3xaf2/Vg/GX/nfGPA/dlR9q22Yv60a03xRuXXBTnLlo/e8wGAQIEGkVgeXdeSfGLYCYAMBaxWwqgRmke10GAAAECBAgQIEDgqAUEAI6a0AkIECBAoBkFpmIqHh99MT6TI/3/qP8r8ZVdD0VM5dDZfcvUaIxNZY+aQoAAgQYU6OrMiypmAMyUDAQMj8/suCdAgAABAgQIECBAYKELCAAs9BZ0/QQIECAwrwITUxOZ3/+Z+NjA3fEfc8R/7P56vv8Bhsu2rYifXvbaOKvzxHm9Rm9GgACBQxVoK7KT5VoAsyWXLZmwdMkshw0CBAgQIECAAAECC11AAGCht6DrJ0CAAIF5ERjKhX3vys7+jwzcGR/svzti5Jl835mcGftcQscJ8X1LL4p3L70sXrv4/OjKtQAUAgQINKLA/lYn0f/fiC3lmggQIECAAAECBAgcmYAAwJG5eRUBAgQINInAjvFd8cWhh+Nvd34l/rhY2Hds4/5r3pI5NBadGj+19NK4Yclr4uLuM3X871/KUQIEGkigpRj9X54BkLtTUw10gS6FAAECBAgQIECAAIGjEhAAOCo+LyZAgACBqgoUC/t+Nhf2/avs+P/IrmJh3+37r2rroujrOid+dukl8ZalF8eGRSdHWxEMUAgQIECAAAEC
+
+
+
+---
+*Source: Document 433244fee59c4aa9eeb0c4c517f8d67c*

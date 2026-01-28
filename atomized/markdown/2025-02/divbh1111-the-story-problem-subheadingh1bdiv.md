@@ -1,0 +1,46 @@
+---
+id: bb06f831-e3c3-4846-ae7b-ebc272688861
+type: insight
+created: '2025-02-06T21:15:40.000Z'
+document: f381d655dc92f5f74d5a9f0c3a4f95f8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: design
+keywords:
+  - story
+  - mckee
+  - told
+  - trivial
+  - material
+---
+# <div><b><h1>1.1.1. | The Story Problem | subheading</h1></b></div>
+
+## Context
+From document: 1.1.1. | The Story Problem | subheading — chunk 1 (chunk 1/8)
+
+## Content
+<div><b><h1>1.1.1. | The Story Problem | subheading</h1></b></div>
+<div><i><br></i></div>
+<div><i><h2>Story</h2></i><h2>, Mckee: Chapter 1</h2></div>
+<div><br></div>
+<div>Robert McKee’s <i>Story</i> begins with a core assertion:</div>
+<div><br></div>
+<div><i>“Given the choice between trivial material brilliantly told versus profound material badly told, an audience will always choose the trivial told brilliantly.”</i> </div>
+<div><br></div>
+<div>This is a powerful lesson: <b>the success of a story is not determined by its subject matter, but by the way it is structured, executed, and delivered.</b><br></div>
+<div><br></div>
+<div><i>Whiplash</i> is the perfect example of <b>this principle in action</b>—a story about <b>a student drummer at a conservatory</b> could be mundane in the wrong hands. But through <b>masterful escalation, conflict, and structure</b>, it becomes <b>one of the most intense psychological thrillers of the decade.</b><br></div>
+<div><br></div>
+<div><b>1. Execution is More Important than Concept</b><br></div>
+<div><br></div>
+<div>McKee argues that <b>great storytelling is about craft, not just ideas.</b><br></div>
+<div><br></div>
+<div>  <i>“A great story is not just a series of interesting events—it is a sequence of meaningful choices and consequences.”</i> </div>
+
+
+
+---
+*Source: Document f381d655dc92f5f74d5a9f0c3a4f95f8*

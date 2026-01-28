@@ -1,0 +1,26 @@
+{
+  "id": "a8a1b655-6070-4f5b-b3b1-c3bb714f1c1b",
+  "type": "insight",
+  "timestamp": "2022-03-22T18:00:32.000Z",
+  "title": "<div>Starbucks Stalking</div>",
+  "content": "<div>Starbucks Stalking</div>\n<div>Some days I love the life of a serial murderer</div>\n<div>Some days I live the life of a serial murderer </div>",
+  "context": "From document: Starbucks Stalking",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "b8c990d88dea20c24974ec90c40377cc",
+  "relatedUnits": [],
+  "keywords": [
+    "some",
+    "days",
+    "life",
+    "serial",
+    "murderer"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

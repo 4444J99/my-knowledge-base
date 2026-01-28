@@ -1,0 +1,26 @@
+{
+  "id": "a8ac4966-81d7-4f69-b878-8f48ffafbcb4",
+  "type": "insight",
+  "timestamp": "2025-10-28T10:48:05.000Z",
+  "title": "<div><tt>+</tt></div>",
+  "content": "<div><tt>+</tt></div>\n<div><tt>+1. **Bidirectional Flow** – Modules communicate upward, downward and laterally; high‑level context constrains low‑level interpretation and vice versa【3†L47-L67】.</tt></div>\n<div><tt>+2. **Unified Representation** – A central hypergraph stores multimodal meaning representations; all modules read from and write to this structure【33635101037775†L253-L272】.</tt></div>\n<div><tt>+3. **Multimodal Fusion** – Text, audio, images, gestures and icons map into a shared semantic space via cross‑modal attention and transformers【33635101037775†L184-L221】.</tt></div>\n<div><tt>+4. **Ethical Gating** – Dual modes (RAW and PUBLIC) enforce safety and cultural sensitivity.  Raw mode is unconstrained; public mode routes outputs through fact, bias and culture gates【3†L123-L145】.</tt></div>\n<div><tt>+5. **Meta‑learning Controller** – A supervisor monitors performance, manages resources and resolves conflicting interpretations.  It directs meta‑learning (self‑improvement) and enforces drift budgets.</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+### Logical Invariants</tt></div>\n<div><tt>+</tt></div>\n<div><tt>+- **Faithfulness** – Semantic similarity to source must stay above a predefined threshold (e.g., 0.85).  All transformations must preserve truthfulness and core meaning.</tt></div>",
+  "context": "From document: agent@chatgpt:/$ apply_patch <<'EOF' — chunk 20 (chunk 20/29)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "f26b5db7dbbb97eefdf7225d3aa3e47b",
+  "relatedUnits": [],
+  "keywords": [
+    "modules",
+    "level",
+    "multimodal",
+    "meaning",
+    "33635101037775"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

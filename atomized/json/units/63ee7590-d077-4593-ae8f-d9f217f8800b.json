@@ -1,0 +1,26 @@
+{
+  "id": "63ee7590-d077-4593-ae8f-d9f217f8800b",
+  "type": "insight",
+  "timestamp": "2025-08-20T01:08:51.000Z",
+  "title": "<div>  •  Grants: foundational layer research</div>",
+  "content": "<div>  •  Grants: foundational layer research</div>\n<div>Module 5: Kernel Subsystems &amp Observability</div>\n<div>Objective:   Implement memory management, a simple filesystem, I/O drivers, and end-to-end tracing.</div>\n<div>Reading List  •  Modern Operating Systems (Tanenbaum: mm/fs chapters)</div>\n<div>  •  Systems Performance (Brendan Gregg)</div>\n<div>Further Studies  •  Linux From Scratch (paging &amp fs chapters)</div>\n<div>  •  Academic papers on eBPF &amp tracing</div>\n<div>Examples  •  src/mm/paging.c  •  src/fs/memfs.cTemplates  •  modules/module-5/project-template.md  •  eBPF probe script stub</div>\n<div>Tie-ins  •  Arts: filesystem-based generative art</div>\n<div>  •  Sciences: modeling memory in neuroscience</div>\n<div>  •  Philosophy: virtual vs. physical memory</div>\n<div>  •  Math: graph of page tables</div>\n<div>Wings Artifacts  •  Academic: FS &amp mm design doc</div>\n<div>  •  SOP: Implementing a Slab Allocator</div>\n<div>  •  Business: observability platform slide</div>\n<div>  •  Social: chaos engineering thread</div>\n<div>  •  Community: Discord trace-debug session</div>\n<div>  •  Wiki: Memory Management</div>\n<div>  •  Web/Blog: Tracing My Kernel</div>\n<div>  •  Grants: reliability research pitch</div>",
+  "context": "From document: Prompt for AI: Multi-Archetype Syllabus Critique — chunk 7 (chunk 7/10)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "735011ec826ae272226ee00d2196dfe0",
+  "relatedUnits": [],
+  "keywords": [
+    "memory",
+    "tracing",
+    "grants",
+    "research",
+    "module"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

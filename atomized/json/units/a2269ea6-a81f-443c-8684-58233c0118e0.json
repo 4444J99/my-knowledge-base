@@ -1,0 +1,26 @@
+{
+  "id": "a2269ea6-a81f-443c-8684-58233c0118e0",
+  "type": "insight",
+  "timestamp": "2025-04-07T17:53:48.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>38. Were any powers of attorney or guardianship documents filed?</tt></b><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>39. Were there sudden changes in medical or hospice care?</tt></b><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>SECTION 10: DOCUMENT FORENSICS</tt></b></div>\n<div><b><tt>40. Any suspicious signatures, notary stamps, or altered dates?</tt></b><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>41. Do any documents appear revised or posthumously altered?</tt></b><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>42. Do you have comparisons between real vs. suspicious signatures?</tt></b><tt><br></tt></div>",
+  "context": "From document: PROBATE CASE TOOLKIT — chunk 11 (chunk 11/12)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "928848834a6e17b562461ef5f9d30f99",
+  "relatedUnits": [],
+  "keywords": [
+    "were",
+    "documents",
+    "suspicious",
+    "signatures",
+    "altered"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1b1c5df4-c93e-438e-b72f-c6d7dafc7c84",
+  "type": "insight",
+  "timestamp": "2022-08-30T18:14:23.000Z",
+  "title": "<div>The coffee holds no caffeine. The liquor store is just across the street. <",
+  "content": "<div>The coffee holds no caffeine. The liquor store is just across the street. </div>",
+  "context": "From document: The coffee holds no caffeine. The liquor store is just across the…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "46b55e3078e7c9874f1ce57af953ba5c",
+  "relatedUnits": [],
+  "keywords": [
+    "coffee",
+    "holds",
+    "caffeine",
+    "liquor",
+    "store"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

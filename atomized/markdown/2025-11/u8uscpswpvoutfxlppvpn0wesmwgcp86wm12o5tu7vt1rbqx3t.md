@@ -1,0 +1,31 @@
+---
+id: 794dc8b4-6caa-4d73-873a-0578ec094872
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - u8uscpswpvoutfxlppvpn0wesmwg
+  - cp86wm12o5tu7vt1rbqx3tbdvwj1bop5a1lsk
+  - >-
+    ktpqyosizo8ezrqa3gttmezgheyoswbkx8hbm9crrtebkqvdwnndtik2b9g41i7akcx9099rjq6d0sbqkxf4fudimu81mclks2zjv2zo6a0fgzrk7ctng98qvpj44h1
+  - cudtlakyuezxt567pdexhtk5pvsm
+  - yymcngv7a8d6he91aoyqp6x4fckdkfeyaqazqskca7yuz1bj
+---
+# u8uscPsWPVoUtfxLppVpN0wEsmWG/cP86wM12o5tu7Vt1rbqX3TbdvWJ1BOP5a1LSk/KTpqYOSIzo8Ez
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 7252 (chunk 7252/11629)
+
+## Content
+u8uscPsWPVoUtfxLppVpN0wEsmWG/cP86wM12o5tu7Vt1rbqX3TbdvWJ1BOP5a1LSk/KTpqYOSIzo8EzrQa3GtTmEZGheyOSWBKx8hbm9crrtebkqvdWnNDtIK2B9g41i7AKCX9099rJq6d0sbqkXf4FuDimU81MclKs2zJv2zo6a0fGzrk7Ctng98qvPj44H1/CudTLakyuezXT567pdEXHtK5pvsm+yYmcngv7A8d6He91aOyqP6x4fckdkfEyAQAZQSkcA7YuZ1bj+rRpA40p+KmY9f0Rl21kKUfwEg9HbLTSEfRwElbZwbWIf5mzDGKbP9eiqNXl9Z36Kou8DMMXDvwp8Em/Jy5ZcMlf2jXY1vWLOZufyOt9vNeJ0qQ/JvmSTKapTc1KbPl8i1GtHjZuNINxDLcgMzlzd3zeojVtVrXWQ2iLwENy5+e1RfJPTeMwNOOPNIpcFGezgbBwkeFpdw9DIbKuc4K7WFMLxVIO2OnCKgmtYXrdyid6P95HZddAymHTaG+1tzuntWnYptElQ74cuX3EF113rNsx96vClOqpS9MmNXq2Ud3GAxusaPB8o68TJlJPJq76w6qTy99lqNjttDiRjaqrBZRCe1zjDtF5zTE0UbyUPdEp8IbbXG02nP/DsmoX+5vUbTohzmHvk2CGYkWoM/r50bm/Dm3usunzTR9889iRksPDPDh1P8+onTGCjYIHNqmW7ktfVvOrj2ev/2D9qZZsm9xiMdP7fMlL+GqxTIa68L9guEzBBZGtaDI5SO60SkqwWfgfC4/Pm9X0+WYTmt/IkF6QgzAY+Io4g61Bamhu++vbP9dpG9+rNb68n83e153olXpV6vrUvmw8vrlZUqONjUY2vhYaLFe9xTfPa78a5g4bMWJDghMXjg+jx3wvejibfZC8jZxw5dxAdhaooYGL3wmFFxhNM5v/pcXztVXtKXXiiRnyKYZ4w8Nq953Q75b+L+28fMfcr6/b/fHu7ru7VxtW7apqNTOW15mScW3z1WyVnyT7/SSERS+VYvg393Sf9755/663R7ujobWHzzahnWlXjmgl7bZliiYiEcEBlP7bHfxmgFBqDAZU4behlr677Pchp8X8lmPazKvfv35iVoBwZGSt9w/LdtomX/JI2xu31WCz6pon1p7onTcu6eOk6tQbKzJHZl3bclvLpDaPgLPBhAPRKufk
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

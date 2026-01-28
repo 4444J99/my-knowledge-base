@@ -1,0 +1,33 @@
+---
+id: ae379e65-83b9-404d-a2e6-6346b8541f1c
+type: insight
+created: '2022-03-16T12:34:10.000Z'
+document: 7405c2da6b92da26b0b49297d3a4e664
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    aqvthwfsmx5ysv4ugguzrkelpcb4wvpgtzgbfxiljfb29u1aeuqkzhkkmjqdjvmji1bhq1dm3z49kagvg3uvkowncn1piwfv9qjmo4aigbgyxwobuqwyhpwmkwmyt
+  - knhjgntadtgv5xpt
+  - mfkcua
+  - >-
+    ta2jkuar4chfprgy7hqbu5npx5er0oavyr61gihptsmjj82axdsxaoaljxa3ng0h8vypamkeyopvuqxog3n1ogwspynumu0og6vxul2ant78fjhqo45ckoahh3qkxomntcdnyr3obmsbs2akdl48bulvud94bqy
+  - >-
+    5h9kaabnoqp4tsl0jwf70yjtv3qd5egev8adqsp8yjhtx81iyzd0pjcnpau79askun0ogrong2t1o7
+---
+# AqVthwfSmx5ySv4UgGuzRkelPcb4wVpgTzGbfxiljfB29u1AEUQkzhKkMjqdjVMJI1bHQ1DM3z49KAGv
+
+## Context
+From document: The battle of the blinds — chunk 1559 (chunk 1559/1787)
+
+## Content
+AqVthwfSmx5ySv4UgGuzRkelPcb4wVpgTzGbfxiljfB29u1AEUQkzhKkMjqdjVMJI1bHQ1DM3z49KAGvG3UVKoWNcN1pIwfv9qjmO4AigBGyxwOBUqwYHPWmKwMYT+KnhjGNtADTGV5XpT/mfkcUA+tA2jkUAR4CHFPRGY7hQBu5NPX5eR0oAVYR61GiHPtSmJj82aXdsXAoAljXa3NG0h8vyPamkeYOPvUqxOg3N1oGWSpyNuMU0oG6VXUl2ANT78fJHQO45cKOahH3qkXOMNTCdnyr3oBMsbS2AKdl48BulVUd94Bqy+5h9KAaBnOQP4TSl0jwF70yJtv3qd5eGEv8ADQSP8yJhtx81IYZD0pjCNpAU79askun0oGRoNg2t1o7/AEpv3n5qclVFAhMt+FSl1C/LVctu+7UgjYjNTYewbyo9qu2+xos96rAYXa3WhImUEihJjuSsW79BTZJ2bCrwKbDJhsN0qVxG03z8DtihjTLMaJAm481X3Ir70qZ0KKF/hpoAYYFK4lcdGWY+Y33elEjtAdsfSo13bfKXrShSH/e0DsSI1w67hjFS26jBdutDsHTYlEBwppDJEdSduOarqpeTaeBT9219yCpkffyBQAqx7DgUFcqV700vuOxPvUKpZxv4IoAIz5A2vzmpyd6/u+lEka7MLyaYsflDPegB8acfN26UvI59OlIX3YxTlbC8c4oAbkMwFWFh2nK0kQjk9jSbcPgHgUEtkkhzhR1pUYRjDdaRkIwwpc7v9Zx9KCiTfG+Ae3SnMSnK9KiRkyEHSpZhgKFoAQksKSJA2Q3QVJtDJimB2UeWBxQBLG6ZMX8PaneRGBUZhUYKVMQtACLEM5WpViXOD1qED5uelS47mgC95a4x2FRZWRdq9ahUO6/7NIFdODQA4xnpT1GRjtSc9O9M8uRulAE21aBgDmiNPLGZOtOA3n2oAkXITmm/MPSiQgLs70kStnJ7UALbgB8nrVl1A+YVWj2+bxU0kuw4HIpWABJhT69qfBIxznrQw2R+YnNLA8JHHDHrSYDuh570E9hSuoY8UoIAx3FPoAoG3k96VVWoCGf8KFEnboKgCw7lABH2pECz/f4xTS2cEdBS+WzfMOKAFcgEInUVI+Qgz2qEZL89qleUDgU7AKpDLjvSqBnBpUA276RG3HmiwA0eW4qQhUHy0hiycg0iZJ2N2oA
+
+
+
+---
+*Source: Document 7405c2da6b92da26b0b49297d3a4e664*

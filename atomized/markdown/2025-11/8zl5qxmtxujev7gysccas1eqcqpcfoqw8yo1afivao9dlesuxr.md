@@ -1,0 +1,31 @@
+---
+id: 12568f35-7345-4a0d-8fdc-d456f0014567
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    8zl5qxmtxujev7gysccas1eqcqpcfoqw8yo1afivao9dlesuxrlybvfcurzkoamyzdlbzglju8x8fgqinzzvjcapy1nzqvvsbq4incktdqweh1oxkp3de8by8xqtgrs2nrukif5gpt3w
+  - fjp1laq1ukgv0g2m1mi0jb
+  - kp0dhlvy8p7is
+  - dffbchnjibes5y2lubgki3jidnojyd3xt0fq9oxzw1x9nhyzqqc1a6q2utdz7idbosrbajxtfte
+  - jbcwyescvtixzgoipyqneimzwexf9kw9f4ba1lwka2
+---
+# 8Zl5qxmTXuJeV7GysCCAS1EqcqPcfOQW8yO1AfiVao9DLEsuXrlYbvFcURZkoAmyZdlBzGLju8x8Fgqi
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 2910 (chunk 2910/11629)
+
+## Content
+8Zl5qxmTXuJeV7GysCCAS1EqcqPcfOQW8yO1AfiVao9DLEsuXrlYbvFcURZkoAmyZdlBzGLju8x8FgqinzZVJcapY1NZqVVsbq4IncKTDQWEH1oxKp3De8by8XqtgrS2nRUKIf5GPT3w+Fjp1laq1UKgv0G2m1Mi0jb+Hwb/kP0DHlVY8p7IS+dfFbChNjibES5y2luBGki3jIdNOjYd3XT0fQ9OXzW1X9nHyzQqc1a6q2utDz7idbOsRBaJxTfTE/JBcWYesCVTIxzGOIPYqnEimzWeXf9kw9f4bA1LwkA2/EV6pBfczAYjLXgXNYhGl+igz6teq4KnzccVHK1GyYXnubSqDDjqp//EMUw4Tx2QyPmW0vjgtywZh5E3OvhgXiYaiA76njBz73nMioxyZYMO5iVi9NWwgCcsKH5P/5l7Bzxn9JAPD/wYGIW8IQCa9cCZQqItxOyNYLIILjbwcpH2iRcuCH+YA2QjN7Yxu1bo9xxxi/6j2o+Qq2xr73dHRyv0Oc26AisLtMfpLen0HCAz/xu+sk1fiIeIqiXZsWjPvwK72A5tSCz0qdblbyzfqfytfHc6t/iDxIZ64EdgY+2oSXlgwbvhO02WXGLcg2NglqQVYumtTvYsgJ9RSInNJQaWGMijXeiv2mHoDHW2ZzgsldUO3ScUz5W3CWYEvYM+YIImKELavAHv7i3ZYL0sXV8+fqcShh5SiFPJI2fMhznGFz4eLFz5oPOw4GKH/5h7UWp16qHUg6RjKxEpzNtqjpR2KGdzpskWvPBPs2sqV8HbWnaayQra33z6T+o9bSvZxhTczU+3YpU8Lhltytez1ia9VprnSD/BZpluqqG8LJLTmUqPKEn/Tmc/MOO9Ob5q0lXn95/MjHf5EcU792DO6RPmm7p1+/Y4xxwvMoAPQyxvjuxSLRLtRXTAKQe4/V/s1b1n2OPAnnHPej3umNRv0uLJGRGIb6BE0qrs0OhW+SoTXCYNnYa2fuSuyrkqvCaH9aMKw1/vsuzMHp0P6Na428Zui3mkLGJXQqikwqJRFrTE5I9cuH/x/V3lob3e6/VezyxWj1zPd++5aNK9kw8fcmQUDYlIS+1IV1BvIflv+JVzoPivnL7/a+ThdFy85pg1K9ZslhvTT1OsZRwvYo0OGXPIGTU688XrZz5z5jKKUHsZuQxQjiejRsa8jN+7+93nmnal
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

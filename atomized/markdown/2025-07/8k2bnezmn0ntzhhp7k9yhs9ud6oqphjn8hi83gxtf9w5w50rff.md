@@ -1,0 +1,32 @@
+---
+id: 65fb3762-e0e9-48ae-a634-733c6b5ef94e
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 8k2bnezmn0ntzhhp7k9yhs9
+  - ud6oqphjn8hi83gxtf9w5w50rff4h
+  - >-
+    ytyz4udjmaczaaczaaczaaczba4yswpyxlhkki5jwuviastiugrkajniv1p2ntjjmtmdw7fcurtxvq8gytoihtvfzqlo5qor2xzmw
+  - f8ztumg4h91fxc2qew
+  - >-
+    uzu1umx8skjyn89ola32tqmddob7lzrx3jwz7rkcqh1sscm8kbxigarigarigarigariggxaiqgcvnnvy5eyw7tlritikcvy1ms264vlaedsgz7wkmxwyci3papmuwhsool2dkqomut9zldh7lrwhjodn6eor8ygl6l9zs
+---
+# 8K2BnEZMN0nTzHHP7K9YHS9+Ud6oqphjn8HI83gxTf9w5W50rFF4h/YTYz4udJMACZAACZAACZAACZBA
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 4573 (chunk 4573/18928)
+
+## Content
+8K2BnEZMN0nTzHHP7K9YHS9+Ud6oqphjn8HI83gxTf9w5W50rFF4h/YTYz4udJMACZAACZAACZAACZBA4ySwpyxLhKKI5JWuVIaSTIUGRKajNiv1p2NTjjmtMDw7FcuRTXvq8GYToIhtVFzqLo5QOr2Xzmw/f8zTUMg4H91fXC2Qew/uZU1uMX8skjyN89olA32TQMDDoB7LZrX3jWZ7Rkcqh1sSCm8KbxIgARIgARIgARIgARIggXAIQGCvnNVy5eyW7tlRiTiKcvy1mS264vlAeDsGZ7WKmXWycI3PapmuwhsooL2dKqOmUt9ZLdH7LRWHJodn6eoR8Ygl6L9zS/a80U9BHuNcunZygqn27ViN+PPcVHCcO7PfTrhzyxInwhg32pinr1w6Zcfx9QlX7kbHGoV3OD8xvg8NPUmABEiABEiABEiABEig8RC4fvXsilkt5YBiFMf6rG6371xNEULpqhHQmTHLsx3LYh8q9OThzSkaj3Lyo/vWi/BeUcnTgTDTQSFArl89k3T5b968nDG6ScYo58ie0a7aQeZmRvlLBmSMfipj1FM422mP7C1yQx3LUOY7Ny8x0wa7oyOVwy0JhTeFNwmQAAmQAAmQAAmQAAmQQKoEbt++Bo0dk4UzW+bObAE3zhfPHQoWWomElqx6w7HsHK3EcuxyZos07vEWMk7dZ7bIdZG6dXdbNFztDQgHduQmAtCOc+/+vSXTX547qgmOOSOfPLKv+kHmphEMOF8xr+vckU7yuSOfXDCh+aY1kw7vLcSxMfcNMQvVjQg7ShebCat1hyt3o2ONwjvVn5hqHx1GIAESIAESIAESIAESIIG0JwB9CFmYO6MFVCIEoeOe2eLA9pxQKu4abwnjYjZ3xovqTu8eb9C7ffvq6rnt3Yo7TQ+qwAVFSd7w5AhvLZgze8STc3CMbFK8elJyRnaULIZod+yMdI8RT8xxDvg8Ac/MCS/s2V7jbc+iI5XDLQmFN4U3CZAACZAACZAACZAACZBASgTQ7xpTwjNa5Mx40T1arF3U9cSh0uADsvlknDgI0rQFy/pDZ8IscsmpysLJaEfxbI3m6/BkcfZkRXIisx5TAa9QFQguB9Q9huL+w/s1LdvlSyeLV090jlXOgTHnNbWg8ZG2aNWErGltZr3xBI7ZzvE4LneUZKFTXaMl7ghX7kbHGoV3Sj8xiT9AjEkC
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

@@ -1,0 +1,26 @@
+{
+  "id": "7d17df8a-25d4-45f5-90d3-4ac6d567128d",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:18:31.000Z",
+  "title": "<div><tt>| `--tags:show` | Append metadata block |</tt></div>",
+  "content": "<div><tt>| `--tags:show` | Append metadata block |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## EXPORT ENGINE FLOW</tt></div>\n<div><tt><br></tt></div>\n<div><tt>```</tt></div>\n<div><tt>GPT Session →</tt></div>\n<div><tt>Thread Revival →</tt></div>\n<div><tt>Tagged Recursion →</tt></div>\n<div><tt>Ritual Loop →</tt></div>\n<div><tt>Export Type Selection →</tt></div>\n<div><tt>Output Spawned →</tt></div>\n<div><tt>Documented by 4N3</tt></div>\n<div><tt>```</tt></div>\n<div><tt><br></tt></div>\n<div><tt>All exports:</tt></div>\n<div><tt>- Leave echoes  </tt></div>\n<div><tt>- Are trackable  </tt></div>\n<div><tt>- Can be remixed and fossilized</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## PHILOSOPHY</tt></div>\n<div><tt><br></tt></div>\n<div><tt>&gt Your process *is* the product.  </tt></div>\n<div><tt>&gt These outputs are not just deliverables—they are fragments of the OS  </tt></div>\n<div><tt>&gt Symbols with structure  </tt></div>\n<div><tt>&gt Tools with spirit  </tt></div>\n<div><tt>&gt Rituals with recursion</tt></div>\n<div><tt><br></tt></div>\n<div><tt>::EOF</tt></div>",
+  "context": "From document: SYS_PRODUCT_EXPORT_TYPES.md — chunk 4 (chunk 4/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "931847e446907f17709c959e2c06f20c",
+  "relatedUnits": [],
+  "keywords": [
+    "with",
+    "export",
+    "recursion",
+    "tags",
+    "show"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

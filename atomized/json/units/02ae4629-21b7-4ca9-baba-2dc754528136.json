@@ -1,0 +1,26 @@
+{
+  "id": "02ae4629-21b7-4ca9-baba-2dc754528136",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>100 XP</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Reroll is permanent, but player loses access to items for two weeks.</div>\n</td></tr>\n</tbody>\n</table></object><br></div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">✅</font> Why This Works:</div>\n<div>  •  Encourages players to think carefully before using rerolls.</div>\n<div>  •  Prevents “reroll spam” while keeping the option available.</div>\n<div>  •  Scaling risk ensures late-game rerolls aren’t taken lightly.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📌</font> Final Lock-In Questions for Version 5.6</div>\n<div><br></div>\n<div>1. Should failed one-shot actions lock players out of participation for an extended period?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Example: A failed sabotage bans them from rerolling for 2 weeks.</div>\n<div><br></div>\n<div>2. Should top XP earners be given a “Final Challenge” at the end of the semester?</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 208 (chunk 208/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "font",
+    "style",
+    "width",
+    "face"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,33 @@
+---
+id: f1b1b303-0f12-4b37-b885-a94acbd29336
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    wwfbavsbwwfbavsbwwfbavsbw4hlvqiwe8a1961bt5rytm0bifdryrlbt28ncvyrl8c1ah0333wzueoww24hbk7ls
+  - berajar7kgbr
+  - afqavwpx3uhhnnxdsqliqwkodr4z2vgw8ckhvwg2rslugvvehwp3agksavvucvug2kscqg1z1u6v
+  - >-
+    bzcydvxus9yfx0cqooktcoqocpuq6qs4w9ovujgvvgbvkecqkoof1wbvuvdoaugglvxd0fcvrw7qureocr63k6qxuaq7j3h
+  - >-
+    pkbvevb4fqvftgvy5jdbvsvpmm7nrswgu39byfwmv9yuycoohcw1a0cqkjf8mgvukrmdqwooh8aqxtc
+---
+# WwFbAVsBWwFbAVsBWwFbAVsBW4HLvQIwe8A1961bt5rYtm0bIfDrYRLbt28nCVyrl8C1ah0333wzueOW
+
+## Context
+From document: New Note — chunk 11898 (chunk 11898/21099)
+
+## Content
+WwFbAVsBWwFbAVsBWwFbAVsBW4HLvQIwe8A1961bt5rYtm0bIfDrYRLbt28nCVyrl8C1ah0333wzueOWW24hBK7LS+BeRajAr7kgbr/9ds/AfQavwPX3UHHnnXdSqLiQwKoDr4Z2VgW8CkhVwg2rSlugVVEHWP3agKsaVvUCVuG2KsCqG1Z1u6v+8pe/pG+//bZcyDVXUS9YFX0CqooKtCoqoCpUQ6qS4w9ovUJgVVGBVKECqkoOF1WBVUVDOauGglVxD0fcVrW7quReoCr63K6qXuAq7j3h+pkbVEVb4FQvFTgVY5JDBVSVPmm7NRSwGu39BYFWMV9yUYCoOhcw1a0CqKJf8mgVUKrMDQWooh8AqXtc+qDuXPoiKWBSmaOh04rkAo4KmCoq/W6Vtd394dq4rhpqHGMyrlX63Srr6H706XZFc7wfR9rHa467T9pQbLKm5KLod29efe45tn1xVeCm2YW0lV1W15Vl0PLSeFpc0pqWcKwYkkRbpnenDRPzaTkDqwsG8k+BD82mbdN7064Fg2jX/EF0w7TetG1KT7p/RRntu4FdIleNot3z+9Otc4oZIi2hpzeMooM7ptLhXTPp9V0z6NDOybR351Tac/MM2rtrNu29bR7t2cWw4c459OCWaXT7mnF04+LhtHHmAFpU1pXG90yiEZ2b07D2jWhs56a0qCSDdk4vpidWjaEDW6bTy9vYsZIh17vYVfXm+eziuGIi3b9hDt22cjqtmFxKZUW51KtjCnXOSKCs5HZsXtiOYdUEA2YmJTNoygHIFOAqoFUAq2kVBFaxf2JiookkH7SK+wYOIApH1gxjjqVBUoFGo1Xsi/tCuJeDexWO02p7Criuti8HrmI+9nOH7pfj+8FWuMWyU2xCeiK1TmtLrZJaUzuuW0p6ChtNZlC7xDRq1i6V4lJyqGWXXpQ+ciJ1WbySOq3fTBnXXk8Jm7dTy603UePrd1HDG26jejfupro33kF1b7iD4jbdRK3XXE/tVm2jdiu2UcKyrZS4eAslL7yOUuZvpPS56yhz7ipKn7GIUiZPp4Eb19LKp++ju07tocff3UP3vnkn3fT8errh0QW089HZdOezC+j+F5kjYdDz8cMAS69hQHUNHXhrPR18ZwO99PY6evHcKoZXV9De08s5X0kHuP3iudUcPO/cWjpwlqHTszz37EZ66cy1JgCvPnN0
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

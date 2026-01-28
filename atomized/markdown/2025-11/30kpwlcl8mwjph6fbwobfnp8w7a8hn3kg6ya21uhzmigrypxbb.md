@@ -1,0 +1,31 @@
+---
+id: d5a9e3a9-3dbb-4672-a4be-be1d7d683864
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - pwlcl8mwjph6fbwobfnp8w7a8hn3kg6ya21uhzmigr
+  - >-
+    ypxbbtimzba2wxrwwnihxzepawhje8bwvo898ssdlw8uoltgoofbbwe9nlz6kvhks97fsbz2xkdxn65r2aeigoywnrakiemqm07s5nlrjq19xhhjjxeg7ursd86homc9cohm4xa2kxkxu3c
+  - mrex4ktytyq85uggg
+  - 9lysbqal4l6h3ansohfxvwblgxiggnd0qav3rxy5jpcow5dwcffni41mp2k
+  - 1xfy0
+---
+# 30K/+PWLCl8MWJph6fbwobfNP8w7A8hn3KG6YA21uHzMIGR+yPxBbTIMzbA2wxrWwNihxZEPawhJe8BW
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 3165 (chunk 3165/11629)
+
+## Content
+30K/+PWLCl8MWJph6fbwobfNP8w7A8hn3KG6YA21uHzMIGR+yPxBbTIMzbA2wxrWwNihxZEPawhJe8BWvO898ssDlw8uOLTgoOfBBwe9nlZ6kvhkS97fsbZ2xKdxn65r2aeIgOyWNrAKIeMqm07S5nLrjq19xhhjjXEG7urSd86HOmC9cOhM4xA2KxKXU3C+MrEX4ktYtYq85uggG/9LySbqAL4l6H3AnsOHFxvWblgxigGNd0qAV3RXY5JPcOw5Dwcffni41Mp2K/1XFY0+hY2Ty2bcnsElQ1Xf0XhXul+LqS2ytRyYToe4Ak9BuEDYQ0t8kq2Z/smx9Rk2HNyYYfPKzXe2rASahAqjwWdE5yE/2hQy7vOxn4/5HPsThKYYTHpoQ2qKT7LQEYqcuiWOlzpR+njciu7L/VfMRdQ9jt7k5pJ2iNtM/z1F9xS93nxKs4Rmg9KiSdJWlj2IY0k+NBNR2Chsvpc2+GrwtV5nh+pD8w+7CEMpxmBTUk9j0wX3CnrH83YPl3Edxs779nPX4S4QvGMZD+NApwCa+PCjLqYIOf4QdsWtaL9i7oroqH7RG6Nbum3FQxRbi14v+lMxv2ZTmjXBOOaS1kzrIN8hFP+RfIzAaPKtv9mvNcax3EPyDzGHwUvYA/3vlrgXRAKt2VpesRi6sYk4EuKXrUXkWXq3H7qd7na6o2eHZu2m4bIB4he22CSujhGm0pOAdjnaNW93av+9fav3r8Xw2IsQpFEgeYJ1LIzTQmxqfjX53efn8KJ3rt4Ve1fwqJ++vscQ6yBaFS0OjSG7Vu9cvWvNma5nNpxZrN3QFmuazz2f1d69yojS40rVoYcVXDTuMRE0zqAPyhp10j1g9oBZA59tmrCp/i+H/vj19q93KlArokXQivgPMmmFvRWRYCZYGVNkcE2/bWKHccXGzHPZkWKx62+J9GAS6TQIGYzZeCiBMDj+8ESf46VXRC+PXZ4/+ofojRenuZ9zP+d2ruge/4/93Zpnaza1+fG0ld0qp61iRwtsQkJZLaSIWcT0N4M79y7Ra9HQAkPbDS8AdBAddk7U5EBO4GzII8V6+m3jLo0tOHa5S6TjPUcgtQHt2CGxptEMZ0JEHIdNJ0qtKLDi4gr/qI0XN178yG1w2iFpBxetXfSnop990gSR1dRdRw8YTH3OEg5oSFr7XtQk6du6b54+uRHt0cPI
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

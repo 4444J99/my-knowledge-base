@@ -1,0 +1,32 @@
+---
+id: 10070849-0a41-42cb-968c-4a91aaa979a8
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - hwzgxhdlbj02jjldhxkuj
+  - kq0fecaq
+  - >-
+    nynbe5mozqpnfqxhrwumz6qvcpqpudlorefbze3cipoecsn5ao8xify9rsjv9iiyebjmiqngmjbk5x2muzgd5rz5nbfccprszs
+  - rgar7csa9on
+  - >-
+    uzzlkroiqposio8ynnyibvpegs4wpxs4dnvjk1jv4acthly9hi9dja9uxphteu8unjpqzthidwtb5xmndo8velylmy3dclzocpo1n71jocv9rlx
+---
+# HWzGXhdlbJ02jjLDHXKuJ+KQ0FecAQ+NyNBe5MOZQPNFQXHRWuMZ6QVcpQPuDLOreFbzE3CIPOEcSN5A
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 4853 (chunk 4853/11534)
+
+## Content
+HWzGXhdlbJ02jjLDHXKuJ+KQ0FecAQ+NyNBe5MOZQPNFQXHRWuMZ6QVcpQPuDLOreFbzE3CIPOEcSN5AO8xiFY9rsjv9IiyeBJMIqnGMjBk5X2MUZGd5rz5nbFccPRSzs+RgAR7cSA9oN+UzZLKroIQPOSio8yNnyiBvPeGs4wpXS4DNVjK1Jv4ActhLY9HI9dJa9uxphteu8UNJPQZTHIDWtB5xMNDO8VelYLMy3DCLzOcpo1n71joCV9RLx+OKjtxXV5YYeTNKnvdCP5/qF7h+uxY+cIDenQ3TddM/pyiO9Bu66CSDSiJnwmM2vyGmR8DkSSPBLYxQ2oydtXuRA892Vc+PgM1a5EmJKyKlPCBW/YqzKnLoigYO8HSdXSjozkqMh922B871JExF4I3HsowrWgPqoTxBLGgsJHMxnl4RaltWZX+qRp52F9odDtYTsxvyVq93zKncKm09VBX0NoOrsHnaC6tQP40u0qO1NOvseLCbWplYeyTxR0uplWOtP8r/i989WBj59E9GjpZHel+g97T98YfXvHfD0uTKTOH69p61G+rXr+USt2QY1N0YXpeY8Xe2jqS29qbaz/dmYnMri6vzqW3FH67Sg+bsz6pjwcQiv4ltMh8BofSaHLQY/6wxEZtLS7fWMoOlqUUGS+NdVk70cADjR6V0fVv/9dxcZUftnib92WgeTOyrXFe/tX6fdyzxcPfJ+rPls7Fq//XqvYXzhadiufgD3rH6I/Ug9Urj8f476+90Sv03Sm80TjXfKX256rc+KC2uPtX8SuOr6w/3LvQuxu6JPZI6HTyWeLr3XOvB+qOFM97N3aOZe8tFbyFxJnZbtxR7sHC391B4LHUq4XefChbqLwaXvMd7l1drDb/3+vorndcaT2bOFz4o5f07/Y8a2xLZtZ810vmd4afJ6d4O/wer2xd2N7+RvD5+MPGcfzA4XLhhsD2/fWVbezSzs+KFk4k9ywTn8teuvV7dHs92P1ydHuxY+jg3vjIX8Nvmptf4mMqZ+C+pc24mw/dtVuDZzIiguDLjt+mixHEBbILrplt8J2cC9MahK45nZ+oAeDzOjeAnwrPb4ozotnU5P59hz9kVIDrefbZCfYELu7zfru9cuG7kl9W51u7+R9Xdlb3ZVu5M+FD5m7nH+vfVf7haTZwJW9U3c08E3yu9XnqCQOaBYMcg358Krvnw
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

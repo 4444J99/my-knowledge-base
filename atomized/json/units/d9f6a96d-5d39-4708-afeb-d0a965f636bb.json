@@ -1,0 +1,26 @@
+{
+  "id": "d9f6a96d-5d39-4708-afeb-d0a965f636bb",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Wants a complete record of all prompts, including raw writing (with mistakes), paraphrased versions used for iteration, all questions posed by ChatGPT, and a tracking system for each idea’s status: when it was introduced, whether it was implemented or not, and potential outcomes or imagined futures. User wants to avoid time-wasting replication from placeholder naming and delayed aesthetic decisions. They are self-aware of their fast-paced, multitasking behavior and want a system that captures the complexity without erasing it.</div>\n<div><br></div>\n<div>All threads moving forward should have an auto-attached Thread Health Report.</div>\n<div><br></div>\n<div>Wants to begin retroactively tagging past threads for health status, fossil density, and recovery priority.</div>\n<div><br></div>\n<div>Wants to create a Dashboard View to track all threads as part of an Archaeological Layering System—threading past to present recursively.</div>\n<div><br></div>\n<div>Acknowledges that 'iterative crystallization' has historically been disrupted by memory limitations and context drift, leading to loss of continuity between iterations. This is now a core concern and should inform all future system development.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_041225_MASTER — chunk 6 (chunk 6/35)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a6c8d7ecac270c27cc9e416b39cd8866",
+  "relatedUnits": [],
+  "keywords": [
+    "wants",
+    "system",
+    "threads",
+    "status",
+    "that"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

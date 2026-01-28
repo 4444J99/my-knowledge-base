@@ -1,0 +1,26 @@
+{
+  "id": "2414bf56-26f1-4f44-9fb0-8ebf1a8caacc",
+  "type": "insight",
+  "timestamp": "2025-03-19T08:54:53.000Z",
+  "title": "<div><font color=\"#111111\"><span style=\"font-size: 16px\"><br></span></font></div",
+  "content": "<div><font color=\"#111111\"><span style=\"font-size: 16px\"><br></span></font></div>\n<div><b><font color=\"#111111\"><span style=\"font-size: 15px\">Wednesday | Peer Review &amp Writing Style</span></font></b><font color=\"#111111\"><span style=\"font-size: 16px\"><br></span></font></div>\n<div><font color=\"#111111\"><span style=\"font-size: 16px\">  •  </span></font><font face=\".AppleColorEmojiUI\" color=\"#111111\"><span style=\"font-size: 16px\">✅</span></font><font color=\"#111111\"><span style=\"font-size: 16px\"> </span></font><i><font color=\"#111111\"><span style=\"font-size: 16px\">Sentence Structure, Narrative Flow</span></font></i><font color=\"#111111\"><span style=\"font-size: 16px\"><br></span></font></div>\n<div><font color=\"#111111\"><span style=\"font-size: 16px\">  •  </span></font><font face=\".AppleColorEmojiUI\" color=\"#111111\"><span style=\"font-size: 16px\">✅</span></font><font color=\"#111111\"><span style=\"font-size: 16px\"> </span></font><b><font face=\"HelveticaNeue-Bold\" color=\"#111111\"><span style=\"font-size: 16px\">Assignments</span></font></b><font color=\"#111111\"><span style=\"font-size: 16px\"><br></span></font></div>\n<div><font color=\"#111111\"><span style=\"font-size: 16px\">  •  </span></font><i><font color=\"#111111\"><span style=\"font-size: 16px\">Peer Review: Narrative Essay</span></font></i><font color=\"#111111\"><span style=\"font-size: 16px\"><br></span></font></div>",
+  "context": "From document: Below is a sample “Module Navigation & Weekly Overview” document that… — chunk 32 (chunk 32/46)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "bd2f2280cc167423e582fae6fad9d700",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "span",
+    "style",
+    "color",
+    "111111"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

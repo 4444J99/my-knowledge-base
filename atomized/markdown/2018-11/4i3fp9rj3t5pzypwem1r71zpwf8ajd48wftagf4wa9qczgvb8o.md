@@ -1,0 +1,31 @@
+---
+id: 72efc92e-337c-4125-a2dd-38aca10e6cb7
+type: insight
+created: '2018-11-06T20:47:41.000Z'
+document: 8c3ce8993066f857adca061d250e2c68
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - fp9rj3t5pzypwem1r71zpwf8ajd4
+  - 8wfta
+  - gf4wa9qcz
+  - gvb8ompptuiikae3ekpitiqh3ysfvmcdqaptkiqlnqfhqmzm0
+  - >-
+    5iuo1yqwidxaydrlser6vnnndbrppcslffgcwzifvqopjpafaetfq21zbxkcxvpkk8mgyjowzwhqcockmoakkjmmit4nnndy40blmxauadytwbuvpe2eow63vhphcwp92sjg6h6fcg0awakr3v3a2mdxv7mlvcnlpiwrr9scaulne2eow63dhphcwp92sjg6h6mpinafmiqv9qem6yiyaldrwiodqmwrywt6asrk1br1kuohdkwycoqqe4oadrvw8vrhtohpqfxhbrehd8rhf3hgdledj7vzbbaioqaafoorxl47eh
+---
+# 4i3+fP9rj3t5pZypwem1R71zPwf8AjD4/8Wfta/Gf4Wa9qCz+GvB8OmPptuIIkaE3EKPITIqh3ySfvMc
+
+## Context
+From document: Octatrack Tips & Tricks — chunk 950 (chunk 950/2544)
+
+## Content
+4i3+fP9rj3t5pZypwem1R71zPwf8AjD4/8Wfta/Gf4Wa9qCz+GvB8OmPptuIIkaE3EKPITIqh3ySfvMcdqAPtKiqlnqFhqMZm0+5iuo1YqWidXAYdRlSeR6VNNNDbRPPcSLFFGCWZiFVQOpJPAFAEtFQ21zbXkCXVpKk8MgyjowZWHqCOCKmoAKKjmmit4nnndY40BLMxAUAdyTwBUVpe2eoW63VhPHcwP92SJg6H6Fcg0AWaKr3V3a2MDXV7MlvCnLPIwRR9ScAUlne2eoW63dhPHcwP92SJg6H6MpINAFmiqV9qem6YiyaldRWiOdqmWRYwT6AsRk1bR1kUOhDKwyCOQQe4oAdRVW8vrHTohPqFxHbREhd8rhF3HgDLEDJ7VZBBAIOQaAFoorxL47eH/jn4j8L2Nn8A/FFh4T1yO8WS5udQtluY5LQRuGjVWilAYuUbOBwCM80Ae20V+MnxM8b/APBQL4YfFj4f/CTVfipol3qHxClkitbiHSrbyYDEyqTLutQ2DuH3Qa+zPhb4P/bN8K+ILrWvjP8AEjRfEvh2Cxuj9ksbCOCb7RszE+8W0fCkHI3c+hoA+z6K+Nf2IvjL4v8Ai5+zpp/xI+KmqxXOqS3l7FNdNHDaxiOGUogKxqiDA4zjmvseKWOaNZoXEiOMqynIIPcEUAPoqpd39jYKj39zHbLIwRTI4QMx6KMkZJ9Kt0AFFRtNEkbSu6qiAlmJAAA65NK8kccZlkYKijJYnAAHcn0oAfRVa0vLS/t1u7GdLmB/uyRsHQ/QjINfBP7Snxe+Nsn7QXgD9m34Ia3ZeFL3xPYXWp3mr3VrHetFFCJcIkUoKdIHyMEksvKgHIB9/wBFYfhm01rT/Dek2HiTUF1bV7a0gjvL1YlhW5uUjUSzCJflQSOCwUcLnA4rQtNQsNQDtYXMVyImKOYnV9rDqp2k4I9KALlFIWUEAnBPSmrJGztGrgumNwB5GemR2zQA+iqhv7EXg043MYu2XeId48wqP4guc498VboAKK8f+Otj8YtR+G9/afAfU7LR/GLSQG2ub9Va3WMSqZgweKYZMeQPkPPp1ryH9qT48eNv2cvg34d8Y2VpY6vrt3qWnaZeLch/JLXEUhmkQRNGc74/l7YPSgD6+opFZWGVII9qCyqMscfWgBaKrm7tFulsmmQXDqXWIsN5UHBYL1wD3ps99ZW
+
+
+
+---
+*Source: Document 8c3ce8993066f857adca061d250e2c68*

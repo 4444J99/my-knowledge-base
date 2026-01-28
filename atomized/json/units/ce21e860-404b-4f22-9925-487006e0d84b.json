@@ -1,0 +1,26 @@
+{
+  "id": "ce21e860-404b-4f22-9925-487006e0d84b",
+  "type": "insight",
+  "timestamp": "2016-11-30T01:42:39.000Z",
+  "title": "<div>Anne</div>",
+  "content": "<div>Anne</div>\n<div>reproductive endocrinologist</div>\n<div>barren</div>\n<div>wants to achieve perfect birth rate with no birth defects </div>",
+  "context": "From document: Anne",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "ff3b13c684ddf4a0a2df50b92c989a42",
+  "relatedUnits": [],
+  "keywords": [
+    "birth",
+    "anne",
+    "reproductive",
+    "endocrinologist",
+    "barren"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

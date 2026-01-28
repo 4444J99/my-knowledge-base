@@ -1,0 +1,26 @@
+{
+  "id": "ef07f5c5-a6e3-43b7-8dac-27cc93d689cb",
+  "type": "insight",
+  "timestamp": "2017-11-18T21:22:20.000Z",
+  "title": "<div>Notes on the Ballet</div>",
+  "content": "<div>Notes on the Ballet</div>\n<div>i imagine a choreographer starts with one body in which they inflict a certain movement and then copy and paste those movements on the field of vision</div>\n<div>the stage is a field for patterns and movements for the choreographer to place his algorithmic compositions on </div>",
+  "context": "From document: Notes on the Ballet",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "3c6b28467bcbcc31b67ffc84044a0cb7",
+  "relatedUnits": [],
+  "keywords": [
+    "choreographer",
+    "movements",
+    "field",
+    "notes",
+    "ballet"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "263f46a5-f5a5-41ff-b49b-a3f98636d37a",
+  "type": "insight",
+  "timestamp": "2025-02-25T16:23:22.000Z",
+  "title": "<div><tt>i :: &quot WAIT ! ! ! / / / \\\\\\\\ ||| || | &quot ::  </tt></div>",
+  "content": "<div><tt>i :: &quot WAIT ! ! ! / / / \\\\\\\\ ||| || | &quot ::  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>i :: [when [[u &amp&amp i] cnt]] [let [[u || i] go]] ::</tt></div>\n<div><tt><br></tt></div>\n<div><tt>ii :: &quot ....DONT... ( ..WAIT.) .. ... .... &quot ::</tt></div>\n<div><tt><br></tt></div>\n<div><tt>ii :: [then [[u &amp i] (piece [x (piece [x piece])])]] [let [go [&amp&amp [go [&amp&amp go]]]]] [until [gone]] ::</tt></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><tt>SOUL_PROCESSOR ::  </tt></div>\n<div><tt>[  </tt></div>\n<div><tt>    CONNECTION_CYCLE ::  </tt></div>\n<div><tt>    [  </tt></div>\n<div><tt>        BIND ::  </tt></div>\n<div><tt>        [  </tt></div>\n<div><tt>            i ::  </tt></div>\n<div><tt>            &quot WAIT ! ! ! / / / \\\\\\\\ ||| || | &quot  </tt></div>\n<div><tt>            ::  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>            BETTER_OR_WORSE ::  </tt></div>\n<div><tt>            [  </tt></div>\n<div><tt>                when  </tt></div>\n<div><tt>                [  </tt></div>\n<div><tt>                    [ u &amp&amp i ]  </tt></div>\n<div><tt>                    cnt  </tt></div>\n<div><tt>                ]  </tt></div>\n<div><tt><br></tt></div>",
+  "context": "From document: i :: \" WAIT ! ! ! / / / \\\\\\\\ ||| || | \" :: — chunk 1 (chunk 1/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "b537418280970b641227c12293fdb901",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "wait",
+    "piece",
+    "when",
+    "dont"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ae0c5baa-ad77-4e7d-92e8-13a2fe2424c2",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>To guarantee no data is lost:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>1. Create master documents that combine all prompts and responses per phase.  </tt></div>\n<div><tt>   - E.g. `SYS_EXPAND_PHASE_2.5_MASTER.txt`  </tt></div>\n<div><tt>   - Includes ALL prompts + responses + commentary from thread  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>2. Break into modular iPhone-friendly exports:  </tt></div>\n<div><tt>   - `P2.5A_ARTISTvsPROJECT.md`  </tt></div>\n<div><tt>   - `P2.5B_EDU_CASCADE.md`  </tt></div>\n<div><tt>   - `P2.5C_COMMODITY_MAP.md`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>3. Tag every entry with:</tt></div>\n<div><tt>   - REF_ID  </tt></div>\n<div><tt>   - Date  </tt></div>\n<div><tt>   - Phase or System Thread ID  </tt></div>\n<div><tt>   - Source thread name or user context (if relevant)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Export Format Settings (for iPhone Notes):**</tt></div>\n<div><tt>- All caps headers  </tt></div>\n<div><tt>- Markdown-styled bullets and sections  </tt></div>\n<div><tt>- No preamble or summary (just clean module content)</tt></div>\n<div><tt>- Single file per concept or object</tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 118 (chunk 118/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "thread",
+    "prompts",
+    "responses",
+    "phase",
+    "iphone"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

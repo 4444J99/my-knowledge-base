@@ -1,0 +1,26 @@
+{
+  "id": "45831e6b-003c-4997-95da-281cc003a50f",
+  "type": "insight",
+  "timestamp": "2025-12-21T15:20:09.000Z",
+  "title": "<div>├── synthesis/</div>",
+  "content": "<div>├── synthesis/</div>\n<div>│   ├── consolidated-docs/   # Unified knowledge base</div>\n<div>│   ├── extracted-functions/ # Reusable code patterns</div>\n<div>│   └── integration-points/  # How everything connects</div>\n<div>└── output/</div>\n<div>    ├── production-ready/    # Code ready for org repos</div>\n<div>    ├── documentation/       # Generated docs</div>\n<div>    └── feedback-prompts/    # Insights to feed back to AI</div>\n<div>```</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **Immediate Actions You Can Take**</div>\n<div><br></div>\n<div>### **Starting with What You Have:**</div>\n<div><br></div>\n<div>**Your existing org repos already support </div>",
+  "context": "From document: ## **The Complete Architecture - Three Layers Revealed** — chunk 6 (chunk 6/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1af7be2a2fd28b6d6d9d99f3c9081883",
+  "relatedUnits": [],
+  "keywords": [
+    "docs",
+    "code",
+    "ready",
+    "repos",
+    "synthesis"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

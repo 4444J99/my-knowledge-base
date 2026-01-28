@@ -1,0 +1,26 @@
+{
+  "id": "9fa140b6-97fc-47ee-89ba-ea23c7640662",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:16:27.000Z",
+  "title": "<div><h1>KONS0L_TERMINAL_CALLS.txt</h1></div>",
+  "content": "<div><h1>KONS0L_TERMINAL_CALLS.txt</h1></div>\n<div><tt>FILE: KONS0L_TERMINAL_CALLS.txt  </tt></div>\n<div><tt>REF_ID: KONS0L_CMD_CORE_0412  </tt></div>\n<div><tt>DATE: 2025-04-12  </tt></div>\n<div><tt>VERSION: v1.0  </tt></div>\n<div><tt>ROLE: Ritual Command Engine / Interface Control Layer  </tt></div>\n<div><tt>STATUS: LIVE</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>PURPOSE:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>This document defines the command language of your recursive OS.  </tt></div>\n<div><tt>It is the **ritual syntax layer**—commands typed into the terminal (or touchscreen UI) that activate system functions, spawn objects, loop outputs, and mirror internal states.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>These are the spoken spells of `[4_bl00m{4_0S}]`.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>COMMAND SYNTAX STRUCTURE:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>```</tt></div>\n<div><tt>::command_name target_object [optional_modifiers]</tt></div>\n<div><tt>```</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- **Prefix `::`** = execution trigger  </tt></div>\n<div><tt>- **Object** = file, identity, thread, or output type  </tt></div>",
+  "context": "From document: KONS0L_TERMINAL_CALLS.txt — chunk 1 (chunk 1/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "b593d211eb25917a24f216f1aba65d99",
+  "relatedUnits": [],
+  "keywords": [
+    "command",
+    "kons0l_terminal_calls",
+    "file",
+    "ritual",
+    "layer"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

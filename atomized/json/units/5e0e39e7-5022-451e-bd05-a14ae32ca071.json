@@ -1,0 +1,26 @@
+{
+  "id": "5e0e39e7-5022-451e-bd05-a14ae32ca071",
+  "type": "insight",
+  "timestamp": "2018-03-14T12:35:11.000Z",
+  "title": "<div>Places to Check for Work:</div>",
+  "content": "<div>Places to Check for Work:</div>\n<ol>\n<li>NPR</li>\n<li>Netflix</li>\n<li>Vice</li>\n<li>HBO</li>\n<li>Showtime</li>\n<li>A24</li>\n<li>Viacom</li>\n<li>Disney</li>\n<li>Pixar</li>\n<li>Marvel</li>\n<li>Big robot</li>\n<li>Adult Swim</li>\n<li>Scott Free</li>\n<li>El Rey</li>\n<li>Peter Jackson</li>\n<li>Dreamworks</li>\n</ol>\n<div><br></div>\n<div>Comic Book Writer</div>\n<div>Video Game Writrer</div>\n<div>Screenplay reader</div>",
+  "context": "From document: Places to Check for Work:",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "cccbb301a1c0c8f17a5388c58b9ca3d2",
+  "relatedUnits": [],
+  "keywords": [
+    "places",
+    "check",
+    "work",
+    "netflix",
+    "vice"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

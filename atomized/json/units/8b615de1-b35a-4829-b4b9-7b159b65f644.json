@@ -1,0 +1,26 @@
+{
+  "id": "8b615de1-b35a-4829-b4b9-7b159b65f644",
+  "type": "insight",
+  "timestamp": "2022-04-01T02:37:37.000Z",
+  "title": "<div>Augmented Reality app</div>",
+  "content": "<div>Augmented Reality app</div>\n<div>front/back camera access &gt distortion</div>\n<div>&gt stream &gt appearance of others triggers monologue &gt position decides which order user experiences</div>\n<div><br></div>\n<div>--user inputs: avatar / environment / others aspects</div>\n<div>--generative music (user input here as well).</div>\n<div><br></div>",
+  "context": "From document: Augmented Reality app",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "d8d26fdfe0c4a8ead2817d475a3533a7",
+  "relatedUnits": [],
+  "keywords": [
+    "user",
+    "others",
+    "augmented",
+    "reality",
+    "front"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

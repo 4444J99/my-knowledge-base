@@ -1,0 +1,32 @@
+---
+id: 2bed0f90-da7c-4dee-ad12-bef76510e388
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - a74dvgo
+  - >-
+    lcbqimg12xsebfj1hfmwdyhusdehvj1jnkwjofyewfxy1ikqnieimopawftx23flcgkjhfm5vlsqekbdw8esmu9vdz9u11bxovtmqnvql1wbc22igtd4
+  - wn1yolm26ax
+  - >-
+    bo7mffjf7d61y9j0cpdvgmqqkycvgvgbdmtcfftorbqowc1zxrwjbbq1hfajqos0m21df6nuqy2f9w4ygxvhvxdgfvcqtqyulwzurcm90x9ftng0tqfl1ufvgmejlufeepwe3ql2jvrmlucpko1waoh
+  - ylcgqcwcq5gc6skrhjcbkfggsen1prhwjse7qz278dcpwg59jwszvoksv9cy3ecddxw48wf36o7b
+---
+# lcBqImg12XseBFJ1HfMwdYHUsDEhVJ1jnkwJoFYEWFXY1IKqNieImopawFTX23FlcgKjhFM5vlSqEKbd
+
+## Context
+From document: New Note — chunk 9471 (chunk 9471/21099)
+
+## Content
+lcBqImg12XseBFJ1HfMwdYHUsDEhVJ1jnkwJoFYEWFXY1IKqNieImopawFTX23FlcgKjhFM5vlSqEKbdW8esMU9VdZ9U11bXOvtMqnvql1Wbc22iGtd4/WN1YOLM26Ax+bo7MffJF7D61Y9j0CpdVgmqqkYcVgVGbdMtcFFtorBqOWC1ZxRWJbBq1hFajQOs0m21DF6Nuqy2F9W4yGXVhVXDgFVCqtQyULWZurCm90X9FtnG0TQFl1UFVgmeJlUFEEPWE3ql2jVRMLUcpKo1WaOh+ylcGQCWCq5Gc6sKRHJcBkfGgSEN1PrHWJsE7qz278dCpWG59jWszvOksv9cy3EcDdxW48wF36O7b/jaYwKsRsDUCLRKcJWAqju+/dbhWPDMbCycfwPuuWsMZs4YgGuvHYgnH5+Bf7z0KP658Tls+ngJXn7lITz82CRcP6cAd949EXffO1liCu66ZxJuueV6zJx5A26++U6sWrUeX34pLqunxDFV/sDs5MmT0U9AOC8Q6zl89/URbJT/tzx93zLcOeMJrJr/Ks4cOotff/wVP+w+iYX3rEZJ12kY1LEUt4x+Eg9fuxw3jX8CYwtnoyBX3FZ7D0FuzmBhRktQmD8aV+T1bIxykdMEeRK9uzdCd3FTzRZn1ezMWujRtSHy+rRGXm4rdO7SEO3bq6uqgKgCqkZg1doBrNqhQz106FBXQuBVOU6BVY0sgVozJbIFZs2RvQv7t8WwoqwIsCrw6pCB7QJgdbQ4qw7v2xBDc+tjZF5DjB8YAVZLxUlVY1Jhc5QKoDq5UEDVqLPq5IHiwprfpILAahVdVumqWglYla6q1DJX1Wp0WU0ZVCW4qsCqzb3D6u7du6Gxa9euIHbu3AkbO3bsEMJ8e7nYtm0bPv/8c2zduhWfffZZLLZs2QLG5s2bofHxxx9j06ZN4A0VfUGS7IWQn6/ZcJj/+fifj78G/DVQk64B3jT9Y73c9mfrO+A74DvgO+A74DvgO+A74DvgO+A74DvgO+A74DvgO+A7kFoH+P7Kxo0bwdBavK958+bhmWeewYIFC4JYuHAhNBYtWhSLxYsXg7FkyRIwXnjhBdhYunQp3Fi2bBk0li9fHosVK1YgXqxcuRIaq1atCo3Vq1cjLNasuRhUZW3t2rWIF+vWrUNVYv369UgUGzZsAOPUqVPQiAerhrmrWnBVXZ0stOq6
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

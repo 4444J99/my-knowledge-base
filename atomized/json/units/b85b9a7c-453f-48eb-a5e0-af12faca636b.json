@@ -1,0 +1,26 @@
+{
+  "id": "b85b9a7c-453f-48eb-a5e0-af12faca636b",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Wants all revisions and iterations to follow a cumulative logic—injecting or amending only what is changing, never overwriting or deleting. The system should always snowball ideas forward, preserving previous versions, while simultaneously assembling analysis, annotations, and eventually offering assessments and recommendations based on the entire iterative history.</div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><br></td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div>Finds editing names, titles, and tabs within Canvas slow and inefficient. They prefer to recreate or restructure entire modules or shells externally (e.g., in Word, Google Docs, or offline templates) before re-uploading them into Canvas. Their ideal workflow includes rebuilding the Canvas module as a clean, well-organized shell outside the platform and then importing it in bulk.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_051425_MASTER — chunk 47 (chunk 47/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "5e4feb3febe2be13a91fd74e828ebc64",
+  "relatedUnits": [],
+  "keywords": [
+    "border",
+    "style",
+    "width",
+    "valign",
+    "solid"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

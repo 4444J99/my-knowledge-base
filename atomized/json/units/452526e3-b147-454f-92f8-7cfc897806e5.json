@@ -1,0 +1,26 @@
+{
+  "id": "452526e3-b147-454f-92f8-7cfc897806e5",
+  "type": "insight",
+  "timestamp": "2018-10-11T02:29:29.000Z",
+  "title": "<div>Lynch Notes</div>",
+  "content": "<div>Lynch Notes</div>\n<div><br></div>\n<div>Repeats moments. Literal scenes. </div>\n<div><br></div>\n<div>Wipes away the who what when where why</div>\n<div><br></div>",
+  "context": "From document: Lynch Notes",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "d49515a9bee5a65e6a90655ac30511ea",
+  "relatedUnits": [],
+  "keywords": [
+    "lynch",
+    "notes",
+    "repeats",
+    "moments",
+    "literal"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

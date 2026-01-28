@@ -1,0 +1,30 @@
+---
+id: cee78830-7b84-42f1-a883-60f59ee7a570
+type: insight
+created: '2019-04-15T11:27:42.000Z'
+document: b9f7c622b86f355b452df9c0693365d6
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ijxykaf3uxx0q5mv
+  - al9f
+  - wdtyf75r8m
+  - aio0ky8lefrclstk0
+  - pyra1gxyksf7fdhrrxzvxftnpnqf2drxlpxz
+---
+# ijXYkaf3UxX0q5Mv/AL9f/wBI/wDtyF75R8M+G/D/AIO0Ky8LeFrCLStK0+Pyra1gXYkSf7FdHRRXzVX
+
+## Context
+From document: How do you feel? — chunk 406 (chunk 406/521)
+
+## Content
+ijXYkaf3UxX0q5Mv/AL9f/wBI/wDtyF75R8M+G/D/AIO0Ky8LeFrCLStK0+Pyra1gXYkSf7FdHRRXzVXFTnPnqF2DrXlPxZ+Evgn41+CL/wCHvxB08X+lXq/9topv4JoX/geOvVhxTcZ5rXCYqdCcKlD4x2PgP4RfFvxz8A/HGnfs2ftLam9/BeP5Xg7xjNxDq8A+5ZXz/wAF7H8qfP8A6z/f2ST/AKHkflX55+PNBsP24Dd+A7UeV8FdJuf9M1yNUe813VLV5E8nR5JEl8m1tn3ebe4/fyfuLf8Ad+c74vw9+LPxB/ZV8VaX8Ef2ltRfWPB2qSfZfC3jqf5UYDlLDVX/AIJwP9XO/wDrP++3T9toSjiYe/8Ax7fB/X/pBwW5T9KaKKK4CR33TTOg+elr8zf2k/iT4w/aA+IM37F/wAv/ALO9yu7xx4hhG+HR9Ok4ktU6b55fuSIH/wCmf/PfyevL8BOvPk+wDZxvinUtQ/4KE/Fyf4b+GriWL4AeAL1H17Urcui+ItTi+dLKB/44I/b/AK6fxwV+othpmmaJp1roukWsVpYWUUdvBbxqqRxQRJsREQdEH3Atcj8Lvhn4O+D/AIF0j4beBLJbDRdEh8qJf43frJNI+Pnkkf55H/v16h0Fb5hi4TtTp/AJDKKKK8kZ82fGz4N6542vdF+Inw21VfD3j/wtv+w3MimS2uIJf9Za3UfeOT/xyvP4/jH+0xqlk3hKP4PTWHi+RfKXUZLyFtDik/5+t/V0/j8uPfJX2kBilrtpZn7nJOAHlfwg+Hdr8Kfh7o/gaCf7ZLp8Tvc3O3Y9xdSv5k83/bR3Y16qOmaSndq5qlWc588ymjw/47/GTwz8BPhXr/xR8XfPb6RAXghzse6uv+WECf8AXR/++K+Kv2SPhj4q0Tw9q/xl+LG65+JHxSuf7X1VpVdHtYP+XSyRP4PLR/uf8s/9X/yxSuS+I+rr+2B+1VH4Dt91z8KvgfdfaNT/AI4dU8Sc7IP9tLbayf8Af1P9XMlfdFfuXA2QfV6P1mZ8ln2Y/wDLmAUUV4H45+JfxC+G/iO6vtc8Jtrfgd9m290lnmvbL5E8x7q1/j/i+eP/AFcdfeVKnJ8Z85Spc/wHJ/FO58Mf8Lu8H2vxQWJ/CT6ddf2d9rVHsv7b3p/r/M/d7/I/1XmVT17wl4V+Hvxp8D33wyWLR9Q8S3U
+
+
+
+---
+*Source: Document b9f7c622b86f355b452df9c0693365d6*

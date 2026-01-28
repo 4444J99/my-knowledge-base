@@ -1,0 +1,26 @@
+{
+  "id": "386b296b-c1eb-489c-848f-e37ffd2eea7c",
+  "type": "insight",
+  "timestamp": "2015-12-31T03:27:27.000Z",
+  "title": "<div>Have readers participate in the story</div>",
+  "content": "<div>Have readers participate in the story</div>\n<div>Ask the questions </div>\n<div>Send surveys monthly</div>\n<div><br></div>\n<div>When someone dies they don't really die</div>\n<div>Just that instance of them dies</div>\n<div>There is still so much more</div>\n<div><br></div>\n<div>Death is not the death</div>\n<div>Of life</div>\n<div>Death is the death</div>\n<div>Of that life</div>\n<div>There is still so much</div>\n<div>More </div>",
+  "context": "From document: Have readers participate in the story",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "41bb961474488e741709f7e1238e7833",
+  "relatedUnits": [],
+  "keywords": [
+    "death",
+    "dies",
+    "that",
+    "there",
+    "still"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

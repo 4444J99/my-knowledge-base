@@ -1,0 +1,26 @@
+{
+  "id": "dd706778-0011-449a-8d77-20e5096048a1",
+  "type": "insight",
+  "timestamp": "2025-12-21T15:20:09.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Build the connective tissue:</div>\n<div><br></div>\n<div>**What to Build:**</div>\n<div>- **`provenance-tracker`** - Documents:</div>\n<div>  - AI conversation → Personal repo (which idea became which code)</div>\n<div>  - Personal repo → Org repo (graduation path)</div>\n<div>  - Org repo → AI conversation (feedback loop for improvements)</div>\n<div><br></div>\n<div>- **`genealogy-graph`** - Visual representation:</div>\n<div>  - Network graph of idea evolution</div>\n<div>  - From abstract concept → working code</div>\n<div>  - Shows all branches, dead ends, and successes</div>\n<div><br></div>\n<div>### **Phase 3: Automate the Cultivation (Integration Pipeline)**</div>\n<div><br></div>\n<div>Connect all three layers:</div>\n<div><br></div>\n<div>**What to Build:**</div>\n<div>- **`triadic-synthesis-engine`** - Orchestrates:</div>\n<div>  ```</div>\n<div>  AI Brains → Extract concepts</div>\n<div>       ↓</div>\n<div>  Personal Repos → Test &amp prototype</div>\n<div>       ↓</div>\n<div>  Org Repos → Refine &amp deploy</div>\n<div>       ↓</div>\n<div>  AI Brains → Learn &amp iterate (closes the loop)</div>\n<div>  ```</div>\n<div><br></div>\n<div>- **`recursive-refinement-orchestrator`** - Uses your existing frameworks:</div>",
+  "context": "From document: ## **The Complete Architecture - Three Layers Revealed** — chunk 4 (chunk 4/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1af7be2a2fd28b6d6d9d99f3c9081883",
+  "relatedUnits": [],
+  "keywords": [
+    "repo",
+    "build",
+    "personal",
+    "what",
+    "conversation"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

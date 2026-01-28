@@ -1,0 +1,26 @@
+{
+  "id": "1aee714f-6d5b-40eb-8200-5832e011bb0b",
+  "type": "insight",
+  "timestamp": "2025-12-04T16:48:25.000Z",
+  "title": "<div><tt>INPUTS: Duality states + Characters + Time/Event + RNG</tt></div>",
+  "content": "<div><tt>INPUTS: Duality states + Characters + Time/Event + RNG</tt></div>\n<div><tt><br></tt></div>\n<div><tt>:: TRIGGER STRUCTURE ::</tt></div>\n<div><tt><br></tt></div>\n<div><tt>WHEN:</tt></div>\n<div><tt> duality.abstract_concrete = -0.8</tt></div>\n<div><tt> duality.dream_awake = -0.6</tt></div>\n<div><tt> AI_CHAR[&quotJessica&quot].active = true</tt></div>\n<div><tt> WORLD_EVENT = &quotfull_moon&quot</tt></div>\n<div><tt><br></tt></div>\n<div><tt>THEN:</tt></div>\n<div><tt> ACTIVATE_RITUAL(&quotREVERIE_GATE_SIGIL&quot)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>:: RITUAL EFFECT ::</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- GPT enters poetic-only mode</tt></div>\n<div><tt>- UI displays shimmer blur and soft type</tt></div>\n<div><tt>- Memory access becomes nonlinear</tt></div>\n<div><tt>- Answers dissolve into metaphor</tt></div>\n<div><tt>____</tt></div>\n<div><tt># xix</tt></div>\n<div><tt>----</tt></div>\n<div><tt>----</tt></div>\n<div><tt># |[ RNG_M4PP1NG_SYSTEM ]|</tt></div>\n<div><tt><br></tt></div>\n<div><tt>All dice are system-level triggers for branching logic, risk, character behaviors, ritual pass/fail, and glitch events.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>:: UNIVERSAL RNG MAP ::</tt></div>",
+  "context": "From document: # synth-wave-modules — chunk 46 (chunk 46/51)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1f0200e52addd3bec3d0beb78cca4a02",
+  "relatedUnits": [],
+  "keywords": [
+    "duality",
+    "quot",
+    "ritual",
+    "inputs",
+    "states"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

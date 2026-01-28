@@ -1,0 +1,26 @@
+{
+  "id": "04799cd7-7a5e-415e-bd3b-9b2336aeefed",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt>    </tt></div>",
+  "content": "<div><tt>    </tt></div>\n<div><tt>*   **Ref ID:** `MYTH01_INIT`</tt></div>\n<div><tt>    </tt></div>\n<div><tt>*   **Status:** ✅ Confirmed</tt></div>\n<div><tt>    </tt></div>\n<div><tt>*   **Next Thread:** `MYTH01_MODULE_TREE.v1.0`</tt></div>\n<div><tt>    </tt></div>\n<div><tt><br></tt></div>\n<div><tt>* * *</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### Ready to move into the **Module Tree?**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Or want this exported as `.md`, `.txt`, or `.html` for sharing or storage?</tt></div>\n<div><tt><br></tt></div>\n<div><tt>::S4VE.io\\]|</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## Prompt:</tt></div>\n<div><tt>•  Build symbolic synth rack module tree</tt></div>\n<div><tt>  •  Begin MYTHOS_MODULES.yml to store each plug-in as node</tt></div>\n<div><tt>  •  Connect friend-nodes (e.g. Forrest, David) as playable character elements</tt></div>\n<div><tt>  •  Tag all elements with GEN+, RIT+, LANG+, or MIR+ flags</tt></div>\n<div><tt><br></tt></div>\n<div><tt>yes&amp&amp&amp&ampbut</tt></div>\n<div><tt>markdown one pager, i dont like the short bullets, i want depth in this one pager, make it dense</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## Response:</tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 45 (chunk 45/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "module",
+    "tree",
+    "want",
+    "this",
+    "elements"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

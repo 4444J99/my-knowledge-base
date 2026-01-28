@@ -1,0 +1,33 @@
+---
+id: 88aa5c14-ffe8-4aa7-aacb-eb9a8d8af823
+type: insight
+created: '2022-04-02T19:22:03.000Z'
+document: b36514e29ff1b6a941866c59f3063eed
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - gkqbfciomowwkzja2ku5wwfmmw
+  - gulmwbnu5eagkekakijlu4ufvq8t
+  - >-
+    q5byd03bxieepfoma1vozleectwpyi2inpqqrkcxwpcyalhb0jugztmcgljyieqvbqqujs7mueqrichhokwue3qwkbw
+  - >-
+    gkdhk4q5eovonhkgkeehvmpqicwuitbu1rkf489cgmtj8x0w21dzdiwnhpvibghqp6lnk1cxjsrcawe6vigm8xkt51k0pihcdpzhpslobo8z9c3v8cacanaihtvpc2d
+  - >-
+    ohbvnk40zmvx5uvgqmjnkcoxzajjmy4w0vzjgjdbiuo5iazo4htudwbfqiixeyupfrrbrzfqllqlj
+---
+# GkQBFcIoMowwKzJA2ku5WWFMmw+GulmWBNU5EAGkeKAKijlU4UFvq8T/Q5ByD03BXIEEPfomA1VoZleE
+
+## Context
+From document: Strike one — chunk 2401 (chunk 2401/4795)
+
+## Content
+GkQBFcIoMowwKzJA2ku5WWFMmw+GulmWBNU5EAGkeKAKijlU4UFvq8T/Q5ByD03BXIEEPfomA1VoZleECtWpyI2iNpqQrkcxWpCyAlHB0jUGZTMcgLjyieQvbQqUjS7mueQriCHhOkwuE3QwkBW/+GKdHK4Q5EoVonhkgKEeHVMpqICWuitBu1RKF489cgmTj8x0W21dzDIwnHpViBGHQP6lNK1CxjSrCAWE6vigm8xkt51K0pihCDPZhpsloBO8Z9C3v8CAcaNaIhtVpC2d/OHBVNk40zMVX5UvgQmjNKCOxzAjjMY4W0VzjgJdbIUo5IAzo4HTuDwBFQIiXeyUpFRRBRzfqllQlJ+GJJzGuuAyqDPdFvQLQTAgKdcxx5wMrdBr2vyzVWKQ/0FQKMAFTRWyd0ts9KfxDffY3gdV8wszKTNQweRyd9kj49qqLYyE2ob6cwUe5CHs04E1RCE2bDYdUnzA4FJooeDCPE0Qak+ALUJbyPRpzwzowntKa2pb91VUMmmaKKXzWnPhcSF4VHHAlL0QwJDlHaEZxnAeLszMQ4pNobgIczSWcE8gzC4d5ZulgM6PSjeUuBBH8vQ72mvw8FNpaS8eLW3+577gKVz7piI3UsGEfyu5hgK1ZsAude9PJ1sJLrSxIwg6iCFv417w/gepRREtgx7B3PTqZgaSkVAYgnNP52A3kEz1yCKVO0guzICLBA2qbizsiHqoYAUKIIl6AzPICP+SYIQjjGE6UknaZBaYN70pMVA6QhoHX5iSK3nvZ0YaFgRBOKFfAENmDUyI5zwXQpUEqXP5s1uA7CZChGjPdG0biMwc4gsEbu0lbZTOGHI3uDbahYlRlKOSGpILgXlPa1RZmhhxBkQCzTGAY1wg6gSCwIRASYtl/KMkFYgQNlqkTY+E4kFymBBcMKMaebPKCKRTRCMAEI+N7Mig2NTEbBQjljHxYpICWJA4XjGSF0xfBRvirATtwmjbw8oTC2LI2D0ElWQE2TJ3mSyETGESrDziK5fXSFx2JJQb9ODGErTC6RmEGW/E0hj/M0zBQLKFMVSRIpPIxh2Nq5LqoWUqQ/L/vkUmy48vIWJHjDHPo2RMaQtk2rHkmKObibBA3qTfIAfiumOo7SGfGmAnQxXMRUYznfRrp+UMkkJ6GeR3oVQIptbkwo2K9IzpSxFAXxLPJEbUmSrq3MlaKshB
+
+
+
+---
+*Source: Document b36514e29ff1b6a941866c59f3063eed*

@@ -1,0 +1,26 @@
+{
+  "id": "4ada3979-52e8-480f-ad4c-46751b0de052",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div>  •  Two-Class Buffs: Last for the next two full class sessions.</div>",
+  "content": "<div>  •  Two-Class Buffs: Last for the next two full class sessions.</div>\n<div>  •  Three-Class Debuffs: Last for three full class sessions unless countered.</div>\n<div><br></div>\n<div>✔ New Rule: No Passive Buffs Beyond Their Duration</div>\n<div>  •  Buffs must be activated within their time frame or they expire.</div>\n<div>  •  Cannot be stored indefinitely.</div>\n<div><br></div>\n<div>📜 Why This Works:</div>\n<div>✔ Keeps players engaged without overpowered stacking.</div>\n<div>✔ Introduces strategy in when buffs are used.</div>\n<div>✔ Encourages faster decision-making.</div>\n<div><br></div>\n<div>📜 2. Archetype-Based Item Restrictions</div>\n<div><br></div>\n<div>📜 Certain items are now locked to specific archetypes.</div>\n<div><br></div>\n<div>✔ Item Categories &amp Restrictions:</div>\n<div>  •  Weapons &amp Armor: Only usable by combat-aligned archetypes (e.g., The Warrior).</div>\n<div>  •  Literary Relics: Only usable by knowledge-based archetypes (e.g., The Archivist).</div>\n<div>  •  Dark Artifacts &amp Cursed Objects: Only usable by morally ambiguous archetypes (e.g., The Fallen Angel).</div>\n<div>  •  Healer &amp Support Items: Only usable by support-based archetypes (e.g., The Oracle).</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 445 (chunk 445/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "archetypes",
+    "class",
+    "buffs",
+    "only",
+    "usable"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

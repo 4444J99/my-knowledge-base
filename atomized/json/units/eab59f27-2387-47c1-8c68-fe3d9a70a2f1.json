@@ -1,0 +1,26 @@
+{
+  "id": "eab59f27-2387-47c1-8c68-fe3d9a70a2f1",
+  "type": "insight",
+  "timestamp": "2017-02-04T21:15:52.000Z",
+  "title": "<div>Meat Sauce</div>",
+  "content": "<div>Meat Sauce</div>\n<div><br></div>\n<div>2 tomato paste (can of water)</div>\n<div>4 cans of crushed tomatoes</div>\n<div><br></div>\n<div>basil</div>\n<div>oregano (a little bit)</div>\n<div>garlic powder</div>\n<div>salt</div>\n<div>one clove of garlic</div>\n<div><br></div>\n<div>sausage </div>\n<div>beef </div>\n<div>pork</div>\n<div>meatballs</div>\n<div>cheese locatelli romano</div>\n<div><br></div>\n<div>olive oil, salt, garlic (browned)</div>\n<div>tomato paste, one cup of water, season</div>\n<div>add cans of crushed tomato</div>\n<div><br></div>\n<div>spaghetti squash</div>",
+  "context": "From document: Meat Sauce",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "7a60aba2b67e94048b077833b8d80439",
+  "relatedUnits": [],
+  "keywords": [
+    "tomato",
+    "garlic",
+    "paste",
+    "water",
+    "cans"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

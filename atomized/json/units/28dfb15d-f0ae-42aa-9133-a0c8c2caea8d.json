@@ -1,0 +1,26 @@
+{
+  "id": "28dfb15d-f0ae-42aa-9133-a0c8c2caea8d",
+  "type": "insight",
+  "timestamp": "2012-10-10T17:46:59.000Z",
+  "title": "<div>Illuminate Lyrics</div>",
+  "content": "<div>Illuminate Lyrics</div>\n<div><br></div>\n<div>Can you see all you think you can see?</div>\n<div>No you can't</div>\n<div>Never could</div>\n<div><br></div>\n<div><br></div>\n<div>Vocoder on part whenever bass comes in</div>",
+  "context": "From document: Illuminate Lyrics",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "114ab9e273dee145ccac07cdecf22276",
+  "relatedUnits": [],
+  "keywords": [
+    "illuminate",
+    "lyrics",
+    "think",
+    "never",
+    "could"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

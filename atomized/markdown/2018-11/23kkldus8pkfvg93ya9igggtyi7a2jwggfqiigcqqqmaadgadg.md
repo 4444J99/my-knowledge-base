@@ -1,0 +1,31 @@
+---
+id: e98f9bbd-5968-4554-a631-96a0e2c2e081
+type: insight
+created: '2018-11-06T20:47:41.000Z'
+document: 8c3ce8993066f857adca061d250e2c68
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 23kkldus8pkfvg93ya9igggtyi7a2jwggfqiigcqqqmaadgadgavlrqbj6
+  - 4e0dxxpfz4f8uazbaxpd4owe0viuulevqqwdxsbkyaghbb5anxno07t9h0
+  - 10jslwkysbgjile3gryooyolcphgigkqqoavqaabgvcooa5vwv4o8i
+  - cnpk0nwxodjofjlk9w9vp9tfaxnm4aaqpeqqxyazyjjwmnivode
+  - >-
+    apijx28veivh3oooatk5lkuztogaswqnjeulp3jz7vk17vrqbk3mg6fqoitegdq062uthuiday2uskpbpbsuwxnewkgmr8pujgomyr4m
+---
+# 23kklduS8pKfvG93ya9igggtYI7a2jWGGFQiIgCqqqMAADgADgAVLRQBj6/4e0DxXpFz4f8UaZbaxpd4
+
+## Context
+From document: Octatrack Tips & Tricks — chunk 725 (chunk 725/2544)
+
+## Content
+23kklduS8pKfvG93ya9igggtYI7a2jWGGFQiIgCqqqMAADgADgAVLRQBj6/4e0DxXpFz4f8UaZbaxpd4oWe0vIUuLeVQQwDxSBkYAgHBB5ANXNO07T9H0+10jSLWKysbGJILe3gRYooYolCpHGigKqqoAVQAABgVcooA5vwv4O8I+CNPk0nwXodjoFjLK9w9vp9tFaxNM4AaQpEqqXYAZYjJwMnivOde/Zw+APijX28VeIvh3oOoatK5lkuZtOgaSWQnJeUlP3jZ7vk17VRQBk3mg6FqOiTeGdQ062utHuIDay2UsKPbPbsuwxNEwKGMr8pUjGOMYr4m/a9+Bfibxj4V+FPhn4N+GYPsPhPxZp9/NaWf2aygs7GBZN7JGzRIFUsPlQE88Cvu+igDxq6/Z2+A174qPje8+Hugza60pna8fToDK0xbf5rEpgybud5G7POa9eurW2vbaWzvYUuLedSkkcih0dGGCrKeCCOCDU9FAHgth+y3+zhpetp4j0/4aeH4NQjcSJIunQYRwchkTbsVgeQQARXvVFFAHN6p4N8Ia5rWmeJNb0Ox1DV9ELmwvLi2ilubQyYDmCV1LxFsDdsIzjmjxD4O8I+LjYHxZodjrX9l3C3dp9ttorn7Ncp92aLzVbZIvZ1ww7GukooA53xR4Q8J+ONJbQPGuiWPiDTHdXa11C2iu4C6HKsY5VZSVPQ44qzrfhzw94l0afw74j0y11XSrlQktpdwpPbyIMEK0UgKEAgYBFbNFAHk3gj4D/Bb4bapJrngLwRo+g6jIGBubSyiimCt1VZAu5VPdQQPavWaKKAMnXdA0LxRpNzoPibTrbV9MvF2T2t3Ck8Eq5zh45AVYZGcEV574I+BHwX+GuqSa34B8EaPoGoyhlNzZ2UUUwV/vKsgXcqnuoIHtXrFFAGD4l8K+GPGejzeHvGGkWmuaXcY8y1voI7mB9pyN0cgZTg8jjg1x/gP4K/CL4X3E158O/Buk+Hbm4UpJPZWcUMzoTuKNIq7yuRnbnA7CvTqKAObvPBvhDUfEth4z1DQ7G58QaVG8VnqMttE95bRyhldIZ2UyRqwZgwVgCCQeposPBvhDSvEOo+LtM0Oxs9d1dUS91CG2iju7pYgFQTTKokkCgAKGY4AGK6SigDzPx78GPhL8UpIZ/iL4P0rxFPbrsimvbSKaaNAd21ZWXeq55Kg
+
+
+
+---
+*Source: Document 8c3ce8993066f857adca061d250e2c68*

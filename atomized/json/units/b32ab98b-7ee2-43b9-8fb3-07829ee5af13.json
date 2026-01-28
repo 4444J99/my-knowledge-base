@@ -1,0 +1,26 @@
+{
+  "id": "b32ab98b-7ee2-43b9-8fb3-07829ee5af13",
+  "type": "insight",
+  "timestamp": "2025-02-12T19:07:35.000Z",
+  "title": "<div>Submit the Week 3 Assignment by the end of the week. See the video below to",
+  "content": "<div>Submit the Week 3 Assignment by the end of the week. See the video below to review the process.</div>\n<div><br></div>\n<div><h3>Week 3 Assignment Rubric</h3></div>\n<div>Week 3 Assignment</div>\n<div>Criteria  Ratings  Pts</div>\n<div>This criterion is linked to a Learning OutcomeFinal Draft:</div>\n<div>Organization</div>\n<div>30 to &gt27.0 pts</div>\n<div>Exemplary</div>\n<div>Strong topic sentence addresses assignment prompt in highly focused and inviting way. Reasons, details, facts relate to prompt in compelling, highly effective ways. Varied and subtle transitions enhance the flow of the piece. Strong conclusion revisits main idea with imagination. Thorough plan with useful detail (when required)</div>\n<div>27 to &gt22.0 pts</div>\n<div>Accomplished</div>\n<div>Topic sentence clearly focuses on prompt. Reasons, details, facts directly relate to prompt. Effective transitions; Interesting conclusion summarizes main idea. Clear, careful plan (when required)</div>\n<div>22 to &gt18.0 pts</div>\n<div>Developing</div>\n<div>Attempts a topic sentence. Reasons, details, facts mostly relate to prompt. Ineffective transitions. Weak, repetitive conclusion. Sketchy, inaccurate plan (when required).</div>",
+  "context": "From document: Weeks 1 - 6 Canvas Data Dump — chunk 93 (chunk 93/188)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1b21c03b1f1909954adca118a79b0158",
+  "relatedUnits": [],
+  "keywords": [
+    "prompt",
+    "week",
+    "assignment",
+    "topic",
+    "sentence"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "904f0a69-0c8c-478b-922f-fee80cc68a17",
+  "type": "insight",
+  "timestamp": "2022-01-13T00:53:28.000Z",
+  "title": "<div>Proof of Creditable Coverage<br></div>",
+  "content": "<div>Proof of Creditable Coverage<br></div>\n<div><br><br></div>",
+  "context": "From document: Proof of Creditable Coverage",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "0000d3e6cf2a884bf2532168a0ee6be0",
+  "relatedUnits": [],
+  "keywords": [
+    "proof",
+    "creditable",
+    "coverage"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

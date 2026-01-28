@@ -1,0 +1,26 @@
+{
+  "id": "2fc70443-1902-4927-a5b0-3bd77c9d9643",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div>  &quoteditor.formatOnSave&quot: true</div>",
+  "content": "<div>  &quoteditor.formatOnSave&quot: true</div>\n<div>}</div>\n<div>```</div>\n<div>Adjust `opacity` (0 &lt value ≤ 1) to taste; 0.80–0.88 usually gives readable glass without haziness. Disable frameless initially—only enable if window chrome clashes with vibrancy.</div>\n<div><br></div>\n<div>**If You Need Slight Blur Without Extra Extensions**</div>\n<div>Some vibrancy forks expose `&quotvscode_vibrancy.blurRadius&quot`; if available set modest value (e.g. 12–18). If not, rely on the system blur.</div>\n<div><br></div>\n<div>**Optional Enhancement Without Heavy Extensions**</div>\n<div>- Accent gradients: you can add a subtle top border using `&quotwindow.titleBarStyle&quot: &quotcustom&quot` (already default in Insiders).</div>\n<div>- Background subtle tint: Use `workbench.colorCustomizations` `editor.background` with 8‑digit hex (alpha) only if the vibrancy extension supports compositing; else leave default.</div>\n<div><br></div>\n<div>**Safe Removal Commands**</div>\n<div>```bash</div>\n<div>code-insiders --uninstall-extension johnpapa.vscode-peacock || true</div>\n<div>code-insiders --uninstall-extension drcika.apc-extension || true</div>\n<div>code-insiders --uninstall-extension brandonkirbyson.vscode-animations || true</div>",
+  "context": "From document: User: fix — chunk 23 (chunk 23/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "extension",
+    "quot",
+    "true",
+    "insiders",
+    "without"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

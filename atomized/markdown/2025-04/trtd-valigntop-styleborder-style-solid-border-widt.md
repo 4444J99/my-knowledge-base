@@ -1,0 +1,32 @@
+---
+id: 2e1a510a-e6c1-4009-bdf5-8ed3ca8ca19c
+type: insight
+created: '2025-04-12T15:19:27.000Z'
+document: 5e4feb3febe2be13a91fd74e828ebc64
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: design
+keywords:
+  - border
+  - style
+  - width
+  - their
+  - valign
+---
+# <tr><td valign="top" style="border-style: solid; border-width: 1.0px 1.0px 1.0px
+
+## Context
+From document: MEMORY_DUMP_RAW_051425_MASTER — chunk 53 (chunk 53/57)
+
+## Content
+<tr><td valign="top" style="border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px"><div>Wants to revise and replace their actual ChatGPT Custom Instructions to reflect their full protocol system, tone, and method now that they are entering a new project execution phase. They want to draft a final snapshot of the current system state, archive that version, and then move forward into a lighter, more efficient working mode—while troubleshooting what works and doesn’t. This freeze-point will act as a baseline checkpoint before beginning active project rollout.</div>
+</td><td valign="top" style="border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px"><br></td></tr>
+<tr><td valign="top" style="border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px"><div>Wants each version of their custom instructions to be labeled and dated for archival and version control purposes. They are also seeking structured guidance during phase transitions, with system-generated advisories that indicate what typically happens next in real-world creative or production pipelines—effectively offloading decision fatigue and aligning their process with professional standards.</div>
+
+
+
+---
+*Source: Document 5e4feb3febe2be13a91fd74e828ebc64*

@@ -1,0 +1,32 @@
+---
+id: d8516bc9-8d8d-405e-b338-2f3c006d6d8d
+type: insight
+created: '2025-09-24T12:01:25.000Z'
+document: 9e5f6b008d737451ce9d5c855d79cde5
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    y0vj7gv2dbu8bxxtfnnnkz6svbnfar7xqswwvkiodat7kerstdnepkcazp0ta1zjtamknxikyz1atkributhav7fnbibjbyc7gpfacfbsmtly4qjfmagjoeh5xuj5
+  - wt8stmphakapzcyjused3rcc5bvjfw
+  - njqfwlbkxbk3k
+  - >-
+    i98z7y5nmonj1ivramilnknkf2yb2z62ryd13eagivov0v9wfi3irfnot4w9xuqluljxxltwjlhisgrhswq1gtcife2dc5uh8ld2k
+  - za7nchsv7vppdtzisxibfqijhzas
+---
+# Y0vj7GV2Dbu8bXXTFnnnkZ6svBnfaR7xQSWwvkIOdAt7KeRStdnePKcazP0TA1ZJtaMknXIkYZ1ATKri
+
+## Context
+From document: __A-System-Operates-__@4-B100M-@4-B100M@4B100--- — chunk 179 (chunk 179/1114)
+
+## Content
+Y0vj7GV2Dbu8bXXTFnnnkZ6svBnfaR7xQSWwvkIOdAt7KeRStdnePKcazP0TA1ZJtaMknXIkYZ1ATKriButhAV7FnBiBjByC7GPFacfbSmTLY4QJfMAGJOEh5XUj5/Wt8StMphakApzcyJUsED3rcc5BvjfW/e/NJQFWLbKxbK3k/i98Z7y5nmonj1IVRAmilnKnkf2Yb2z62rYD13eAgIVOV0v9WFi3IRFnOt4W9XUqluLjXxltWjLHisGrhSwQ1gtcife2Dc5UH8Ld2K/zA7nchsV7vPpDtziSXIBfqIJhZaS+8JFc4p2QrWdggTwQ+mMu8+PzOOfHCPg6XJ45n+z3uqp+dsGYcrpvTD7+22Lzq7eYgOVPn9XS5jnMIVStIFL4TtXKpU1vdHcnnm119HwKHpOf2EToNy9BmbE2hxCBl0enmEf6NMnT5InwTEaUlQpZob8Cso9iXS3DOSqXNxkdZe+DIXohc84bkl4jGhNaOnVj98lOAN9j0WXyyEzD+vs15brWqg6vxhPj/FEWc/1IcIwWGqHnO4H5Z69HG51ps2vd8t6ljrjXvNr9iLu9yDc0GYvFg6zi7KAIHoLQbUdGq4CtMoLvJ140zVPu/mOlLQCKfXFFCNh+jsB+YzAWFj/48I7PzDI3Uz7GA7avAgZ+lYtCAjhIKJwaDGAB24m48WL1swMrLgFbrerux7K2RdaP4OxQPwGMZ9FPAds1KMt7VG+RSZMPYeBmLoUS/ZMNKDdsJ7jMjGQBgBYI9tIqxtoc6wHb14mhHQQIlxKR6/Oe05qbLr56r/kbyPvN2bhhTkIo5Sux1Z06fzyPq9lgYLv6jNL4hQXEPBJYVILHI+mH81HSwyihI2WxC6H0NStkAVtZnGavCoUhFEHJnBchruhkhPaEO44zxwRc/qZbPfNdxzrm0v9NMFtoU9cfjVVzGs+ma5SQBG3Zu0Y72kgZM57OIiu7fpRYLPX/Cu6vPQpQbsnFLE6mA6YHTMdyy/XSsSh9CADRlor/85XZyhafw7SLcaoY2WiUoOxcj+CNajGKFMLxIrsgKfxhiiy18GYPloXJxDRaja2xwxiVJTxdIEvNcEyF8LgteH4k5syP9YCdf2ncCaT4wIHtCH0vCd+vgc+luK0jbX7ILf0gm5TYhYu9Yd9/jI+u1EP1A9v7UFJTtXMQSksx3c8gO+TajIeqskAY
+
+
+
+---
+*Source: Document 9e5f6b008d737451ce9d5c855d79cde5*

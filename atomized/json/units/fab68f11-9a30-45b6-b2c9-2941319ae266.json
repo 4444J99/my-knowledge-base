@@ -1,0 +1,24 @@
+{
+  "id": "fab68f11-9a30-45b6-b2c9-2941319ae266",
+  "type": "insight",
+  "timestamp": "2022-08-14T01:10:16.000Z",
+  "title": "<div>Anything I’m good enough for is not good enough for me.</div>",
+  "content": "<div>Anything I’m good enough for is not good enough for me.</div>",
+  "context": "From document: Anything I’m good enough for is not good enough for me.",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "fae3ee393fcacabd8bcbaf93b3b56195",
+  "relatedUnits": [],
+  "keywords": [
+    "good",
+    "enough",
+    "anything"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: 242fb81f-6a27-48a9-850c-6db07c09436e
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 09skzhryb7j
+  - 5zhm6vba3yy7hildpwzqlnbyzbieo2k5v41tzmmtnhjz3jk7i3v3o9yiy1lbest0h
+  - wbesiad1mymvpbnddbijxdscdytj196yr5vecrfybyd1zrfci7iwkpcc
+  - >-
+    5ppvvbcimll2knjhnpjhkgi24wto6t2wny8529r70rq2hanyziinucyc8nrwlaadtmlp0hsks4m8z92uoog7jfanmzbjeemcen
+  - >-
+    lnk7ccro6rtlw2ba0hpjxw95eaviqgd1rftw6rhexxydxsrriif352tjku1dxqyijjtutiixljxghhvx4xfec
+---
+# 09Skzhryb7J+5zhm6VBa3YY7HILDpWzqlnbyzBieO2K5V41tZmmTNHJZ3Jk7i3V3O9yIY1LbeST0H/wB
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 653 (chunk 653/2189)
+
+## Content
+09Skzhryb7J+5zhm6VBa3YY7HILDpWzqlnbyzBieO2K5V41tZmmTNHJZ3Jk7i3V3O9yIY1LbeST0H/wBesiad1mYMvPbNdDbIJXDsCDyTj196yr5VecrFyByD1zRfcI7iwkPCC+GYc/5PpVVBciMll2knjHNPjhkGI24WtO6t2WNY8529R70rq2hanYzIInuCYc8nrWlaadtmLP0HSks4m8z92uOOG7jFaNmzbjEemcEn+lNK7Ccro6rTLW2ba0hPJxW95eAViQgD1rFtw6RhExxyDXSRrIIf352tjkU1DXQyijjtUtiIXlJxgHHvX4xfEc+G9b/4KDeG73RIn82yAW+iddiyyw8qwJHzMq4AYdAM4wK/arWJxbQM5+YIpOB7V+JGtaonjH/goc2lQTDT2mm2iUKrSqwtlywDDIyGOQe5r7/gHDKdWo30i2fB8YYlQnShLqz9mNJiitdPS2C+Wo/hXkD/ABqlqCyRElCTuPU+lbSb7a1EZRR5agALwBgdAO1Zd7MRCJG/h618Xi5Xlc+xwtJwWpyMzyb9hG7HFL+8UAKSB2qOa5V5GaPgk55oWUTrskOCvpXnpI9HoVmd3coRyD+dSKqY8xvvZ6+lVirA+fk/h1qCzuGufNDDZ5Zz9c1skkiZ7GjL5iQgxjIHWsa5u9pEZyoP61pu1xKo24wO9ZesKzwiR+WGBxUJPY0jfZFMymFjj7hHT1NUQ+JfMc/L0Aqs8kpdYwecd6syCRiFGCowTmtYJIp36C+fcSs6yRBYlGQR/UVPCJLg5j7+nFQo8kQ3QHO7j8KVneLDIcZ7VPN0I16leeHzSLdznndz7c5/A1XMc7XJLnco7+vvWoojJVwMMa0IYRCwYruB6596iL1sNNWFtLOGBPN6k9M9RXyV+1/pl7J8KtaawuEhd7GcSb22kKFyCmOWbIHHpX2EIB5QO0bga+U/2y7DTrb4Nav4i1mK3mFjbSSwJcMFHnbdoK54Dc4X3wK+k4bwzq5hRS6ST+7U+Y4nxKhgqvoeHf8ABLjR5bL4SalHNIscb6rK+NpLSMUTndnaFXnjBJJ6jHP6svFFG4Zs4r8w/wDgm5A9x8ANMu4CVkv7ie5mUj7rbvLC/Q7Dyfev1B24wHPQcV28f4pVs2rS6aL7kYcGYd0stpR8mSkRxoGRQwPc9RVJoyCJn+ZTxwP6VNMirF5cfBJ
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

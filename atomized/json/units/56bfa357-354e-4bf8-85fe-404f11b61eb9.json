@@ -1,0 +1,26 @@
+{
+  "id": "56bfa357-354e-4bf8-85fe-404f11b61eb9",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div>  &quoteditor.inlineSuggest.enabled&quot: true,</div>",
+  "content": "<div>  &quoteditor.inlineSuggest.enabled&quot: true,</div>\n<div>  &quotgithub.copilot.enableAutoCompletions&quot: true,          // if keeping Copilot for inline; else false</div>\n<div>  &quotgeminicodeassist.inlineSuggestions.nextEditPredictions&quot: false, // disable one advanced predictor</div>\n<div>  &quotchatgpt.inlineCompletion.enabled&quot: false,             // pick ONE provider at a time</div>\n<div><br></div>\n<div>  // Reduce verbosity</div>\n<div>  &quotgeminicodeassist.verboseLogging&quot: false,</div>\n<div>  &quotchatgpt.debug&quot: false,</div>\n<div>  &quotgitlens.ai.debug&quot: false,</div>\n<div><br></div>\n<div>  // Prevent auto-opening multiple panes</div>\n<div>  &quotchatgpt.openOnStartup&quot: false,</div>\n<div>  &quotgeminicodeassist.agentDebugMode&quot: false,</div>\n<div><br></div>\n<div>  // Limit AI to focused languages</div>\n<div>  &quotgithub.copilot.enable&quot: { &quotmarkdown&quot: false, &quottypescript&quot: true, &quotjavascript&quot: true }</div>\n<div>}</div>\n<div>```</div>\n<div>(Flip booleans per your preference; core idea: only one inline engine active.)</div>\n<div><br></div>\n<div>**Profile Strategy (Keep All, Control Activation)**</div>\n<div>- Profile `AI Full`: all three enabled (experiment zone).</div>",
+  "context": "From document: User: fix — chunk 34 (chunk 34/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "false",
+    "true",
+    "enabled",
+    "copilot"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

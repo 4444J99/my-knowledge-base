@@ -1,0 +1,26 @@
+{
+  "id": "e550264b-e91e-4242-98e8-23f674cfc6a7",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>-----</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## **PART VI: MULTIMODAL ARCHITECTURE**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### **11. Cross-Modal Attention**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Multimodal Bottleneck Transformers:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Fusion bottlenecks restrict information flow (avoid quadratic scaling)  </tt></div>\n<div><tt>- Cross-attention: Query from text, Key/Value from image  </tt></div>\n<div><tt>- Formula: CrossAttention(Q, K, V) = softmax(QK^T/√d_k)V</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Modality-Specific Encoders:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- **Text**: SentencePiece/BPE → 768-1024d embeddings </tt></div>\n<div><tt>- **Image**: Vision Transformer (ViT), 14×14 or 16×16 patches → patch embeddings </tt></div>\n<div><tt>- **Audio**: Whisper/Wav2Vec2, spectrogram → audio embeddings</tt></div>\n<div><tt>- **Video**: Frame sampling + ViT + temporal transformer</tt></div>\n<div><tt>- **Gesture**: OpenPose/MediaPipe keypoints → sequence modeling</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Shared Embedding Space:** CLIP-style contrastive learning, 512-768d vectors </tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 17 (chunk 17/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "embeddings",
+    "multimodal",
+    "cross",
+    "attention",
+    "from"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "f215c6bb-b551-4160-8cf5-c3b22e7e9021",
+  "type": "insight",
+  "timestamp": "2015-06-20T13:23:22.000Z",
+  "title": "<div>Order more moleskine </div>",
+  "content": "<div>Order more moleskine </div>\n<div>Need one as a success book/business/ideas</div>",
+  "context": "From document: Order more moleskine",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "63e8aa2148cf5b76c4651de6f8940a02",
+  "relatedUnits": [],
+  "keywords": [
+    "order",
+    "more",
+    "moleskine",
+    "need",
+    "success"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

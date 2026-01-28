@@ -1,0 +1,26 @@
+{
+  "id": "8e0ca701-f750-4cfe-9ee6-3b38fab6ef08",
+  "type": "insight",
+  "timestamp": "2020-06-22T04:18:41.000Z",
+  "title": "<div>Cons:</div>",
+  "content": "<div>Cons:</div>\n<ul>\n<li>No washer and dryer in unit</li>\n<li>Location is okay</li>\n</ul>",
+  "context": "From document: Apartment options — chunk 2 (chunk 2/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1fb5af8163f1c45ae3cad1b2d228a902",
+  "relatedUnits": [],
+  "keywords": [
+    "cons",
+    "washer",
+    "dryer",
+    "unit",
+    "location"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

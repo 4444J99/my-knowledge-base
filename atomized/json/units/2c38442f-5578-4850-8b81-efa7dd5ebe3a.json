@@ -1,0 +1,26 @@
+{
+  "id": "2c38442f-5578-4850-8b81-efa7dd5ebe3a",
+  "type": "insight",
+  "timestamp": "2017-11-03T19:52:02.000Z",
+  "title": "<div>CREATUS </div>",
+  "content": "<div>CREATUS </div>\n<div><br></div>\n<div>To Do List:</div>\n<ol>\n<li>Finish the recording process — Saveus, Drain, Warfare — consider an order of songs, in order to create a cohesive sounding album — Dustin’s listing is favored, atm — drum track sweep</li>\n<li>Finish the mixing and mastering process — ~1 month — the rest of the stuff can come in the interim </li>\n<li>Create artwork (Band Photos, Album Artwork)</li>\n<li>Website</li>\n<li>Create Social Media Presence — what platforms do we want to be on? </li>\n<li>Upload music to Apple Music, Spotify, etc. === ~$50</li>\n<li>Submit music to blogs, create an EPK — email using et4l.com</li>\n<li><br></li>\n</ol>",
+  "context": "From document: CREATUS",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1d9bd13dffd2962c741f78cc6a28f952",
+  "relatedUnits": [],
+  "keywords": [
+    "create",
+    "music",
+    "finish",
+    "process",
+    "order"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

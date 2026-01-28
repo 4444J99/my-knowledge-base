@@ -1,0 +1,26 @@
+{
+  "id": "efa91782-259c-4204-a791-df840da703c4",
+  "type": "insight",
+  "timestamp": "2025-12-04T16:48:25.000Z",
+  "title": "<div><tt>_A rigid binary logic table to complement the DUALCORE spectral system_",
+  "content": "<div><tt>_A rigid binary logic table to complement the DUALCORE spectral system_ </tt></div>\n<div><tt>**Purpose:** To define absolute, mutually exclusive pairs for use in logic gates, system locks, ritual switches, and access toggles. </tt></div>\n<div><tt>**Behavior:** Unlike the spectral dualities of `DUALCORE::V3.0`, these pairs are **strictly binary**—on/off, yes/no, with no modulation, ambiguity, or fusion. </tt></div>\n<div><tt>**Use Cases:** </tt></div>\n<div><tt>- Ritual triggers </tt></div>\n<div><tt>- Ethical polarity switches </tt></div>\n<div><tt>- Thread state locks/unlocks </tt></div>\n<div><tt>- Programmatic routing </tt></div>\n<div><tt>- Absolute narrative forks </tt></div>\n<div><tt>- Fatal system breaks </tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## | TABLE STRUCTURE |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| ID | State A | State B | Domain | Signal Type |</tt></div>\n<div><tt>|------|-----------|-----------|---------------|----------------------|</tt></div>\n<div><tt>| B01 | on | off | power | logic gate |</tt></div>\n<div><tt>| B02 | true | false | logic | binary state |</tt></div>\n<div><tt>| B03 | live | dead | system | state toggle |</tt></div>",
+  "context": "From document: # synth-wave-modules — chunk 20 (chunk 20/51)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "1f0200e52addd3bec3d0beb78cca4a02",
+  "relatedUnits": [],
+  "keywords": [
+    "state",
+    "logic",
+    "binary",
+    "system",
+    "table"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

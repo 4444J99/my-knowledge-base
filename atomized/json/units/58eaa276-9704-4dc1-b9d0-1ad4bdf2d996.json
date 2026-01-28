@@ -1,0 +1,26 @@
+{
+  "id": "58eaa276-9704-4dc1-b9d0-1ad4bdf2d996",
+  "type": "insight",
+  "timestamp": "2019-04-04T18:21:58.000Z",
+  "title": "<div>Psychedelics</div>",
+  "content": "<div>Psychedelics</div>\n<div><br></div>\n<div>John Marco Allegro</div>\n<div>Carl Ruck</div>\n<div>Albert Hoffman</div>\n<div>Terence McKenna</div>",
+  "context": "From document: Psychedelics",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "2808c7081597c6c140ae40944f247f61",
+  "relatedUnits": [],
+  "keywords": [
+    "psychedelics",
+    "john",
+    "marco",
+    "allegro",
+    "carl"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

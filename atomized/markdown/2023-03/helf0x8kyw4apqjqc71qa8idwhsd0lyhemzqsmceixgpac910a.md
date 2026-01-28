@@ -1,0 +1,32 @@
+---
+id: 72fc43c9-a81d-4e23-8e80-e4e465968782
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - helf0x8kyw4apqjqc71qa8idwhsd0lyhemzqsmceix
+  - gpac910av5wm8r
+  - >-
+    8ybdgoca4ejwgsu90cigc8csjtbqdhadnv8j6cwoxkx9wgdgdunzapnm8cbpbu0n5jxhdvsaenmec8tbljx67b4d0eej45whkbelzv5kmh9st81rejea2c
+  - x8b6ahsdaptxqzs7r5jdlzjdcyzfx03wg6i3xheg1jn9tqd
+  - >-
+    sr6pxomo49v5l3w3urzrhutrche6vome8x5dnohfgtijclauzc4oudvucgcblgx6niqskflcnlnfabmdgmsjdcqpwojgowfwjwiaqduc4cmqo
+---
+# helf0X8kYw4APqjQc71qA8IDwHsd0LyheMZQsmceIx+gPAC910aV5wM8r/8YBdgOcA4EjwGsu90ciGc8
+
+## Context
+From document: New Note — chunk 4706 (chunk 4706/8096)
+
+## Content
+helf0X8kYw4APqjQc71qA8IDwHsd0LyheMZQsmceIx+gPAC910aV5wM8r/8YBdgOcA4EjwGsu90ciGc8CsjTBqDHaDNv8J6cwOXkx9wGdgdUNzAPNM8cBpBu0N5jXhdVsaeNMec8tBljX67B4D0eeJ45wHkbELzV5KmH9sT81rEJea2C/X8B6AHSDaPTxqzs7r5jDLzjDcYzFx03wG6I3XHeg1jn9TqD+sR6PXOMO49V5L3W3urzrHUtrCHe6vOMe8x5DNOHfgTIjcLAUZC4OUDvuCgcbLgX6NiQskFlcnlNFABmDGMsjDcqPwOJGowFWjWIaqDUc4CmQO/A70D01BAFkYHnqdHAsuv6uz0bgWZyTKVOeRu5DdFbgd4QPR6IFsgCYB5QwxYFKqIAPVCHwY7gG8FYrstwLR7j2jCPGzbGh+tuhI9ZyxkZvI2uZ8wAsOfxbgMvG2COriM/eYGY8d6TtsFlPHHkN0DNGG3Uwn3PDINzL4glx9+ZvuOYs0J98xjmDKP73vq54t56jucnen+5x77vfn49RmzzZ4UxPxfksXK992TM64j7OXMO1+XanMNriCNftF7WME7NrPN1s9Z5XV9THj0D3Es/LzyP3E8/M9wf5qPPQPQ+0/Zc9J4wFr3PzBFr77w8F+R3rPf184W3sYZ4P0uM0/bz5zWMsY+fPdZ5b8Zdr2tkDqMGPPGuj5yex7uW5t7xzWPos6f3xRNLjZy18+MZw6L7UyNrPE4+r/da5/ce0evznNe5TtdvEB7o3WB8dAx4HojeIH0A3gXBO96wPOOG7BmLwvO0pz0uFXEZbQyAHqgeA4C2GeYGiGYs2mcsCrrTNghvcBro3cYc455zLN6g/L+VEwDfEL5jXSP5WAdIDqBNm7Eo4G1ldscY9MYbQAc4d07P+3q9h+fxXouPmucYY320jmi7+bxr8xrmPeY2ALuvxaC7x6KgO9fy6hNSQRVA7zivm90nVVB9msZTVHei6kNRHvV+QPqGPdkX8xqD8/ZcY/RafC6unXsQtWgssB0QJxCmYVX6UaiVvqE84jCDn9H1HnO8oVNg1ai6POA8ED1jwPJRYD4K0RPzml4ssGo8AD1gGMC1AXgD3u7jDcsD0dsYi5rjovC2AW7PBdgb4LvRmoBzoHH9TNJ8HEidGOYA2vHA85jV5oHmsel5jwYleoPyKNCjPG/zOB5I
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

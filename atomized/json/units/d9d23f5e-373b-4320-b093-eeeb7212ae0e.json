@@ -1,0 +1,25 @@
+{
+  "id": "d9d23f5e-373b-4320-b093-eeeb7212ae0e",
+  "type": "insight",
+  "timestamp": "2022-03-29T14:45:01.000Z",
+  "title": "<div>Mike</div>",
+  "content": "<div>Mike</div>\n<div>[REDACTED:PHONE NUMBER]</div>\n<div><br></div>\n<div>Scott ok tire</div>",
+  "context": "From document: Mike",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "d3828d54715d7b8d466291a4273d31dc",
+  "relatedUnits": [],
+  "keywords": [
+    "mike",
+    "8199",
+    "scott",
+    "tire"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

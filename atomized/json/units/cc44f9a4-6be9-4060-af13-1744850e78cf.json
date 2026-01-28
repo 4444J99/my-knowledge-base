@@ -1,0 +1,26 @@
+{
+  "id": "cc44f9a4-6be9-4060-af13-1744850e78cf",
+  "type": "insight",
+  "timestamp": "2022-04-29T13:40:28.000Z",
+  "title": "<div>Replicate the ballet photo collage in a 3d environment using other subjects",
+  "content": "<div>Replicate the ballet photo collage in a 3d environment using other subjects</div>\n<div><br></div>\n<div>Chris on his morning routine</div>",
+  "context": "From document: Replicate the ballet photo collage in a 3d environment using other…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "be793c60cf9d4b5e1f021b69e5a22ba2",
+  "relatedUnits": [],
+  "keywords": [
+    "replicate",
+    "ballet",
+    "photo",
+    "collage",
+    "environment"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

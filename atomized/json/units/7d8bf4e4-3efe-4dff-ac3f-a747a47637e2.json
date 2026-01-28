@@ -1,0 +1,26 @@
+{
+  "id": "7d8bf4e4-3efe-4dff-ac3f-a747a47637e2",
+  "type": "insight",
+  "timestamp": "2025-05-20T22:04:15.000Z",
+  "title": "<div>Sue: cop Neighbor - has footage of DAVID WV</div>",
+  "content": "<div>Sue: cop Neighbor - has footage of DAVID WV</div>\n<div>Restraining order </div>\n<div>Marine Colony Condos</div>\n<div>The Post Office </div>",
+  "context": "From document: Sue: cop Neighbor - has footage of DAVID WV",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "a41520d9c6ea77682dc795f780977ae5",
+  "relatedUnits": [],
+  "keywords": [
+    "neighbor",
+    "footage",
+    "david",
+    "restraining",
+    "order"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

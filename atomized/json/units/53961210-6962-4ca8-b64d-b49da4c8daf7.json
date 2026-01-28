@@ -1,0 +1,26 @@
+{
+  "id": "53961210-6962-4ca8-b64d-b49da4c8daf7",
+  "type": "insight",
+  "timestamp": "2024-04-29T16:44:10.000Z",
+  "title": "<div>Upon completion of this course, students will achieve the following learnin",
+  "content": "<div>Upon completion of this course, students will achieve the following learning outcomes:</div>\n<div><br></div>\n<div>Learning Outcome 1: Inquiry and Formulation of Questions</div>\n<div>- Formulate Questions: Students will be able to develop clear, focused, and researchable questions based on an initial exploration of a topic.</div>\n<div>- Understand Inquiry Contexts: Recognize and articulate the context and significance of different types of questions within various academic disciplines.</div>\n<div><br></div>\n<div>Learning Outcome 2: Development of Academic Arguments</div>\n<div>- Construct Arguments: Create coherent and structured arguments supported by evidence.</div>\n<div>- Evaluate Evidence: Critically assess and select appropriate evidence to support arguments.</div>\n<div><br></div>\n<div>Learning Outcome 3: Critical Reading and Interpretation</div>\n<div>- Analyze Texts: Demonstrate the ability to analyze and interpret complex texts and media to understand their meaning and implications.</div>\n<div>- Synthesize Information: Integrate insights gained from various sources into a comprehensive understanding of the topic.</div>\n<div><br></div>\n<div>Learning Outcome 4: Research Skills</div>",
+  "context": "From document: Upon completion of this course, students will achieve the following… — chunk 1 (chunk 1/3)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "34fc5959a4dfea9c4bfe8b6d7401c986",
+  "relatedUnits": [],
+  "keywords": [
+    "learning",
+    "outcome",
+    "questions",
+    "arguments",
+    "evidence"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

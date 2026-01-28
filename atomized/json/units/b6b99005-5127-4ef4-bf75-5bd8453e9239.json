@@ -1,0 +1,26 @@
+{
+  "id": "b6b99005-5127-4ef4-bf75-5bd8453e9239",
+  "type": "insight",
+  "timestamp": "2020-10-12T13:25:42.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Thank you for sharing; I hope my interpretation of some of your intentions helps in the revision process.</div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: “A Stone More Precious” Notes — chunk 3 (chunk 3/3)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "5f16b518201310c54fb679bcfa50dbf7",
+  "relatedUnits": [],
+  "keywords": [
+    "thank",
+    "sharing",
+    "hope",
+    "interpretation",
+    "some"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

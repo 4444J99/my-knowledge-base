@@ -1,0 +1,33 @@
+---
+id: e2cabab1-cf8e-4a4b-b6a2-41128964dfa5
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ozeige1jczgq97rmyt20xwnjwj8wg50z0dibe4p9mv5
+  - >-
+    gu4plstjmecrp0stcfb8rcujofesiavlks5avez3tijj5it9sgrslrjvvqfvb8ylwkncqgkqhs8jfwbvthjao7rqeaqrzgxhqotisvqagvudbfyneug2sprvq9dy0rdwrrvytxrucfm
+  - tgabahupcxsgvbr0le
+  - >-
+    gvycgunwn6rrrqwfwxwcqc1pvcfuhvxt5bmcw5nrkokmhho3l4agvcuebgkpddsliywgvtdpq4jcbu
+  - >-
+    0flh0jyqmjucagabkaroufwalcgojincmi0dofrdluyr1vka1mc6yalyokqxmiscr7ulwvaqlfyoxzacinymqgv4crfha0mi5galriaifqx7qg1fsjybkonuxg2mto65eum1ziuvafnphjscolbhgvvkclsdrgglutyfvie1infcxuaifpy6inya1egvulztmcvsngi8lqabewyjoxaqrhivnrqaosr4oaq2ucsuzibmgq9ffst4xv2pgievvwwrgcm8bqeahuaifrcaukmbzg1uhrabuavvf2jvarague1ix32mavvlvdvt0vvwdpqqzk
+---
+# ozEiGE1JCZgq97RmyT20xWnJWJ8Wg50Z0dibE4P9Mv5+gU4PlsTjmECrp0sTcFb8rcUJOFeSiAvlKS5A
+
+## Context
+From document: New Note — chunk 5493 (chunk 5493/21099)
+
+## Content
+ozEiGE1JCZgq97RmyT20xWnJWJ8Wg50Z0dibE4P9Mv5+gU4PlsTjmECrp0sTcFb8rcUJOFeSiAvlKS5AVeZ3tiJJ5it9SgRSLRJVVQFvb8yLwknCqgKqHs8JFWBVTHJAo7rqEaqrZgXhqOTIsvQAgVUDBFYNEug2SpRVq9DY0RdWrRVYtXruCfm/tgaBAhuPCxSgVBR0Le+GVYcGUnWN6RrrQwFWXWCqC1pVcFUhVXt5bmcW5nRkoKMhHo3l4agvCUebgKpdDSliyWgVtdPq4jCBU/0FLh0jyqmjUCAgabkArOUFwaLCGojinCmi0DoFRdlUYR1vKa1mC6yalyoKqxmisCr7UlWVaqlFYoXZAcinymqGv4Crfha0mi5galriaIFQx7qg1fSJyBKoNUXg2MTo65EUM1ziUVafNPHJscOlbhgVVkcLsDrGglUtYFViE1iNFCXUaIFPY6InyA1EgVUlZtmCVsNGi8LqaBewyjoxAqrhIvNrQaoSR4oaq2UCsUZIbMGq9FFST4XV2PGIEVVWWrgcm8BqEAHUaIFRCauKMbZg1UhRabUAVVF2JVArAGuE1IX32MAVVlVdVT0VVwdpqqzK/TQehHcBq3ZYdQhVVgcMqqoCK2FVM3bBq47CqqOw+kUFsZx5OZCgcw0414BzDfi+Bhxg9Yu30MDFR0J5CuP152NiYkDY1NfmbTwuROs21MAqF7rMx7Z7Ow9Cq/yBj7eN16hCk+YYvHk0mE0hzs8TWOV8CYya6p7mOZkxYVWe++Vs5rlyMb6hocHn9dTU1GSpjno6luaeIO1Atis9Py4+E9I2c2GPCYjyxoXWL1y4sM/UzBz0aeyp4A/CdIy8vDzrZo725Q/RMjMz3e3sZ4Lfut/8+fNBwNXZnAw4GXAy4GTAyYCTAScDTgacDDgZAP7j1/+Bf3z0H/D3hxRU/RcL6rQDqn2hVANEvVHiHvvf4ofSzONSpdUCaE/9Gf/xwL/jP1/53/ivD/8L//3b/8b//Ol/8H/+SyCT/xHIgyYx6/77t/+v1ec/X/7f+PcH/g1/vtEFsqoKK6HWf+kBV5kD5oI5cbYvXwYcYPXqAatcR6B5g1U9qavyR8wmrMpYoVW7uqqWFVQ11VUVWlVwlXAqoVV60/7mb/4GagRUzfi3Aquyjt40XXNVb4dVFVI1vR1YJaBqN4KrppmgqhmbwCpj
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

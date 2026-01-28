@@ -1,0 +1,26 @@
+{
+  "id": "865bcd3e-4ff5-493c-aa9d-9587822405a4",
+  "type": "insight",
+  "timestamp": "2022-04-27T17:44:15.000Z",
+  "title": "<div>Lonely old gay men wander the theatre after a power outage, all drifting ou",
+  "content": "<div>Lonely old gay men wander the theatre after a power outage, all drifting out from their individual theatre. </div>",
+  "context": "From document: Lonely old gay men wander the theatre after a power outage, all drifting…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "36c7f3bc3fc6fcc60e0da4a87a63efbd",
+  "relatedUnits": [],
+  "keywords": [
+    "theatre",
+    "lonely",
+    "wander",
+    "after",
+    "power"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

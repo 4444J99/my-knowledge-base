@@ -1,0 +1,26 @@
+{
+  "id": "f2ae2061-ae5b-4295-bbe5-b7e132acb961",
+  "type": "insight",
+  "timestamp": "2025-10-31T05:18:03.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>This ensures that when commandments or workflows change, there's a clear versioning strategy that communicates impact to all teams.</div>\n<div><br></div>\n<div>## 2. **Other Suggested Enhancements**</div>\n<div><br></div>\n<div>### Add Versioning Governance</div>\n<div>- Include a section on &quotCommandment Versioning&quot in the &quotContributing to These Principles&quot section</div>\n<div>- Clarify that commandments themselves follow SemVer—breaking changes require major version bumps</div>\n<div>- Establish a process for proposing amendments (RFC-style)</div>\n<div><br></div>\n<div>### Clarify Deprecation Practices</div>\n<div>- Add guidance on deprecation windows—how long teams have to migrate before a change takes effect</div>\n<div>- Link this explicitly to the Backward Compatibility principle</div>\n<div>- Include examples: &quotIf we sunset an issue template, provide 2 release cycles notice&quot</div>\n<div><br></div>\n<div>### Add a Principles Matrix/Mapping Table</div>\n<div>- Create a quick-reference table showing which principles apply to:</div>\n<div>  - Issue templates</div>\n<div>  - Workflows</div>\n<div>  - Documentation</div>\n<div>  - Community practices</div>",
+  "context": "From document: :Based on the pull request at https://github.com/ivi374forivi/petasum… — chunk 17 (chunk 17/19)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "340e0116e55214c41c8027f95c1fba8f",
+  "relatedUnits": [],
+  "keywords": [
+    "that",
+    "versioning",
+    "quot",
+    "principles",
+    "this"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

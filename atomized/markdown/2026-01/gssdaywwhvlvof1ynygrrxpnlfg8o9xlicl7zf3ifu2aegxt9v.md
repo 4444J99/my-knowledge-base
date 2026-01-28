@@ -1,0 +1,32 @@
+---
+id: 1c31ae1f-a90a-4c5c-9f16-585185543c15
+type: insight
+created: '2026-01-17T22:01:57.000Z'
+document: 1e7f774965e1eb562e09169dee48e356
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    gssdaywwhvlvof1ynygrrxpnlfg8o9xlicl7zf3ifu2aegxt9v68pxs8lcp2pd5kmmrizaev8uhterzbslp94jbckgta1wlzpzkw5a4u53qz2aduh0ixbvtoq5vpys77goi4af6pfuyopgtl6h
+  - sy0ri4ax
+  - x1rr
+  - ctqg73ks58zleycd0bkoaxt8kv7
+  - >-
+    t4i5dkyfspokewhbduysuhbilqj8rugmzz6yyxzjqpe0oatxhasgr9jrt6fibnifev9gol8flun9156zlahvesbjc8pgy7fzr07n3keg8bfoxvpk
+---
+# GsSDaywwhvlvoF1ynyGRrXpNlfg8O9xliCL7zf3IfU2AEGXT9V68pXs8LcP2pd5KmmrIZaEV8uhTERZb
+
+## Context
+From document: New Note — chunk 135 (chunk 135/552)
+
+## Content
+GsSDaywwhvlvoF1ynyGRrXpNlfg8O9xliCL7zf3IfU2AEGXT9V68pXs8LcP2pd5KmmrIZaEV8uhTERZbslP94JBCkgTA1WLzpzkw5a4u53qz2aDuh0IxBvtoq5VpYs77GOI4AF6PFUYOPgTL6H+Sy0ri4ax+x1Rr+CTqg73Ks58zleyCd0BkOaxt8Kv7/T4i5DkyFSPokEWHBdUySUhBilqj8rUGMzZ6yyxZjQPE0OatXhaSGr9jrT6fiBnifeV9gOl8flUN9156ZLahVesBJC8pgy7FZr07N3Keg8bFOxvPk+1Dn3eUOdiUIfv7ru7+3wHtzRXM8/Rh4zVFEBYYdIwt28M5Kql2c3PL6KnzNT4hdrSa4WCrFtD2V4aQg8594vzDIRjjYtHNaLRCWUmCss2hhLon70sH2j0hAsJzNyPqFcwQlIg0Tn3BY1fBiiV1SIA1+s4txBWo8iVkCvSFj2wpe8S/v6DUjuFQRFmN2+466mHoskAciYma/iqHHgwR91G2Haaj5yrEZN+nT82ps7R6xk7ahoM4sQWT4GC2I+naoyiB+SPv1T6/NEwmATfaubL5bGSFykVNv7ge6u5kIUgBwgvjnX6QYOglhgAwKN+dpVlYmwNNfaTThcA5BqQYouezQrDqdDjK9BS2rElYcZiywvupdrzb8r8Zp6DdMA2eVyjoW9qvfqTPPNxZJLkw9+I3lzCzN29bCf6Ne/1j6Ai588sZDGBXtcCgMeY+nlcRu/2Ptpn7YPX8VCkejw6+qDU971s3z7VfH+aa7W6N+RgD+whiHzXzWGVkn/u7eGoYaTmorxIZz/PB1EyND5agaK3kjF7KNDRVSWQfyrwEkm3MhVLUuzktKHQQtB7Id+7xwGinSqFLLuk89IFRtMYzVCNWzxAs+PmcNe/UV8l1KblV4tltsD0kklZgAK8uV7KJnvDIg3+n2kDNw16zGlcvVUO3rbrR6f6bBqubbR/N1c1JkACsyFhPvRBcLB1y2TFGSeFR35mXa5jUBRaGio+J+vwcO026RvL+2bsPUmnzMfM1VVL9G/VvekYjgSDIdzXJWw8q1n4x+2yDDTHgTfpvwVi1pSTDdcBM+dylAP5Nl6GXmOO6gNMrs93Qi74IjEiY6w9AG4vuuUpbJ5nWKS3XfGyrngaiFwN9+RBODM2pk/92ejyTGsLGjY/iODeZKiD/5+ZX
+
+
+
+---
+*Source: Document 1e7f774965e1eb562e09169dee48e356*

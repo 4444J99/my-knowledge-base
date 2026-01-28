@@ -1,0 +1,26 @@
+{
+  "id": "31d18c75-3ea6-4770-bae9-5d4a246b32bf",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>**Lean Baseline settings.json (start minimal)**</div>\n<div>```jsonc</div>\n<div>{</div>\n<div>  &quoteditor.formatOnSave&quot: true,</div>\n<div>  &quotfiles.autoSave&quot: &quotonFocusChange&quot,</div>\n<div>  &quotworkbench.colorTheme&quot: &quotDefault Dark+&quot,</div>\n<div>  &quoteditor.mouseWheelZoom&quot: false,</div>\n<div>  &quotgit.autofetch&quot: true,</div>\n<div>  &quoteditor.inlayHints.enabled&quot: &quoton&quot,</div>\n<div>  &quottelemetry.telemetryLevel&quot: &quoterror&quot,</div>\n<div>  &quotsecurity.workspace.trust.enabled&quot: true</div>\n<div>}</div>\n<div>```</div>\n<div>Add other necessities gradually; avoid reintroducing animation/vibrancy tweaks initially.</div>\n<div><br></div>\n<div>**Extension Reintroduction Strategy**</div>\n<div>1. Phase 1: Core tooling only (GitLens, ESLint, Prettier, Tailwind, Python/TypeScript).  </div>\n<div>2. Phase 2: One AI assistant (choose Copilot or Gemini; running many raises latency &amp conflicts).  </div>\n<div>3. Phase 3: Optional Neovim—test it alone before adding UI theming packs.  </div>\n<div>4. Phase 4: Cosmetic/UI (Peacock, Vibrancy, Animations). Stop if instability returns.</div>\n<div><br></div>\n<div>Problematic/high‑risk overlap list:</div>",
+  "context": "From document: User: fix — chunk 5 (chunk 5/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "phase",
+    "quoteditor",
+    "true",
+    "enabled"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "135e8bb7-2152-437b-98f5-f42c62843b50",
+  "type": "insight",
+  "timestamp": "2025-05-08T18:41:47.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>if</tt></div>\n<div><tt>   only wrench,</tt></div>\n<div><tt>but</tt></div>\n<div><tt>   no bolts:</tt></div>\n<div><tt>never </tt></div>\n<div><tt>   hold to a shared path;</tt></div>\n<div><tt><br></tt></div>\n<div><tt>if</tt></div>\n<div><tt>   only flint,</tt></div>\n<div><tt>but</tt></div>\n<div><tt>   no tinder:</tt></div>\n<div><tt>never</tt></div>\n<div><tt>   kindle enough warmth;</tt></div>\n<div><tt><br></tt></div>\n<div><tt>iii love uuu:</tt></div>\n<div><tt>   uuu love me;</tt></div>\n<div><tt><br></tt></div>\n<div><tt>we sow:</tt></div>\n<div><tt>   we reap;</tt></div>",
+  "context": "From document: ___ — chunk 6 (chunk 6/6)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "07b76da0d5e7db469e2739a56652b924",
+  "relatedUnits": [],
+  "keywords": [
+    "only",
+    "never",
+    "love",
+    "wrench",
+    "bolts"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

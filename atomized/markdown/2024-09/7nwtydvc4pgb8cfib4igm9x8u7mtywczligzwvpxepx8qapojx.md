@@ -1,0 +1,30 @@
+---
+id: a6c39bcb-f02e-481c-b0c1-c38aeca32885
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - kknn
+  - yb74z
+  - c4pgb8cfib4igm9x8u7m
+  - tywczligzwvpxepx8qapojx
+  - 8atdr3v
+---
+# 7N/wTy+Dv/C4PgB8cfiB4igM9x8U7m/tYWcZLIgZwvPXEpX8qAPojx/8AtDR3v/BMN/inDcBb/U/DsOn
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 11208 (chunk 11208/11534)
+
+## Content
+7N/wTy+Dv/C4PgB8cfiB4igM9x8U7m/tYWcZLIgZwvPXEpX8qAPojx/8AtDR3v/BMN/inDcBb/U/DsOnKQeRdOBAVPuQDn61yX/BHL4Yf8Ip+zzqfj66i2XXi7UXZCw+byLYbFx/ssea/GXWfjRqcf7JEf7JsspfWdP8AGMimDncYl+7j2E3ygV/VJ+zf8PLf4VfArwR4Ct02f2VpdujjGD5jqHfPvuYigD22iiigAooooAKKKKACiiigAooooAKKKKACiiigAr4m/wCCi3/Jm/xB/wC4T/6dbSvtmvib/got/wAmb/EH/uE/+nW0oA/l0ooooAKKKKAOV1L/AI/ZPw/kKNN/4/Y/x/kaNS/4/ZPw/kKNN/4/Y/x/kaAOqooooAKKKKAP6i/+CdP/ACZv8Pv+4t/6dbuvtmvib/gnT/yZv8Pv+4t/6dbuvtmgAooooAKKKKACiiigAooooAKKKKACiiigAooooA/HP/gtF/yb74Z/7DQ/9F18ufsr/wDBU/4ZfAX4FeGPhVrng3WtSvdDhaOS4tvs/kuSxOV3yq3fuK+o/wDgtF/yb74Z/wCw0P8A0XXsv/BPb4SfCnxD+yP4B1fX/Bei6nf3Fq5kuLrTraaZzvPLO8ZY/iaALf7Lv/BSD4e/tSfEwfDLwz4U1bRrw2k135975HlbYQCV/dyMcnPHFfEH/BW/9oDxvqHj3w7+y14GvpLG31GOCXUhE7Rm5kvHCQROw6x9yO561+4Xh/4Y/DXwlf8A9q+FfCekaNe7Snn2Vhb28u1uq740VsHuM1/Ot/wVH0rUfhx+254S+LGown+yLyHS7iNypdSLCQCYfUDoKAPsXwz/AMEavgk3wrgsPEes6qfG89oHkvYpkW1iumXIUQmMkxq3By2T1yK+Y/8Agmv8XPiD8B/2ndY/ZI8a6g95o1xPc2sULMzpb3tvyrQg/dWUfeHTv1r99PD3xW8A+JPh/a/E3T9atW8P3VmL37V5q7Fi27mLHtt5BHXNfzj/ALL9y37QH/BUK++JnhJDLpEWq3mrGZQVT7PEuxT/AMD7Z60AdD/wUJ/5SUeEP+5f/wDRlfpR/wAFb/8AkzbV/wDsK6b/AOjGr81/+ChP/KSjwh/3L/8A6Mr9KP8Agrf/AMmbav8A9hXTf/RjUAVv+CXOrW2gfsN2Ou3mfs+m3Gq3MmOuyE72/QV+UPw
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

@@ -1,0 +1,32 @@
+---
+id: 84452e66-e682-4a12-832e-476398dc7aa0
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - teusy
+  - 3ckl3pxkldf2nsmef3ak9oerq2q0yblhslpkawq02sjnwkndgjdty6iysa7ebymtyzmicy
+  - >-
+    zeqwc4qhmhmtesftb0ewujgoodgcknhdelrxhwpilwj1qfdb92w6vm1njo1zv5owhclkikhrb6ezefau7ixefdxyeuwlsuvmf59tuqfp7mpyj6jyd
+  - fuzajag9wpbp
+  - >-
+    k88qr18tv2okfyhpjpcbkc5j8bbscugqn3cn2y8dqcyp6vco6pol4lcwwfaaozlpqcpxuwn1fvufp8o2afnuqgbz7aqjzslxrlvv
+---
+# tEUSY/3cKL3PxkLDf2nsmeF3aK9oErQ2q0yBLHslpkaWq02SJnWKNDgJDTY6IYSA7eBYMTYzMICY/zeq
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 2761 (chunk 2761/11534)
+
+## Content
+tEUSY/3cKL3PxkLDf2nsmeF3aK9oErQ2q0yBLHslpkaWq02SJnWKNDgJDTY6IYSA7eBYMTYzMICY/zeqWc4QHMHMteSFtB0ewUjGOODgCKNhDeLrXHwPilwJ1qFdB92W6VM1Njo1ZV5owHCLkiKHRb6ezEFAu7IxeFDXyeUWLsUvmF59TUqfP7mPYj6jyD/FuzAjAg9wPBP/mT/K88Qr18Tv2OKfYHPjpCBkC5j8bbScUgqN3Cn2Y8dQCyp6vco6pOl4LcwWfaaOZLPQCPxUwn1FvUfP8o2aFnuQgbz7aQjzsLXrlvV/kbIctM3aM//xoOleQ/YE3iPjHO6pYAhCewNPdcMwLWV7G/jz4oV7qhhDB9BoHzmS6ypmYaHeJxUQS85IflqmSL3C7WeBgcZwF+1vG62Q49M/kGvV2MTXeQev2y/PzrITfDL58G3uLvMM06yH3kLgIFqx2wONwJJ4SH9E3k5/ItdpQeJR9n1W8LZPG2yN+CmxrysWE/4EFO9c8qbxOLUkPL2+VF4aREu7oksi3kH5f4h9U1alaEHIuKMAaMA4SHK/xYJlDGpapZWYTH78LGEpjHJrKNZ6SxiGWJDZxjaQd4XGQc5j+hUHAPSlWPTqAcBbI6HOqA9cyc26cZyvieGe7XNHNG7R7uZGzrHQllq9nHWV3umpwG/lkaeFscF+3yFXk7K/aa5b1ybLpbPauqInyFXmQe4tsggLWVXZI+13lN3kJHpo6KZ8FDxBzkpfHL5EK3HXzBYuNpnmZDd/lqtTnAjSHkmgbyRz4mg52Mi0MsN70glQV98UXUNVCudvDM8kyn3EmrgmfIzyCMfh9ZHZxtZsjP9FCrWW+BMp6d4ik+w4wLWbsI/Cx33g8hHxHP0DlWC9mqCtPt8lE6xT0ofT4huF+74dl93qC3ypEO9jye4HbL5yWLMPS8Jh3fPQGeBmV2q36QTQ6b+Q52pTqhj0Hu+D/ru8jdN6eBj6OBJvUyfViE/CdqaN9D7Fc0r08Mn1Rj8b3pSfQSqyL0A+dkMEnCsfBpnw9h3N1yYdDJX5JzU/ewH8ph/tJoVHTq1JVGfvIrd17PVpsDzZfIE6IqeVQdkq6PISc3gVyoFQEyjVYmkHW0MkAod1WIf13lIrtidTqWIQJObgblGhODWWsslK4XSwx1Mfd9Ev6avTIrASqGK3E0HBnHhwDc6gSGwF
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

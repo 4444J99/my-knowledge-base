@@ -1,0 +1,26 @@
+{
+  "id": "1f6ecf9f-6e44-4c29-ac58-c256cc9be893",
+  "type": "insight",
+  "timestamp": "2025-04-12T15:19:27.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Requests that at the end of every response, a unique number assignment be included for either system-level notes or thread-level content. Tables and frameworks should include a dedicated column for unique reference IDs. This applies to all sub-sections (e.g., P3A, P3B, etc.) for easier indexing.</div>\n<div><br></div>\n<div>Wants every system-level or thread-level note at the end of responses to include a unique number assignment for quick reference. Tables and frameworks should include a dedicated column for unique reference IDs. This applies to all sub-sections (e.g., P3A, P3B, etc.) for easier indexing.</div>\n<div><br></div>\n<div>Wants to create, analyze, and collect stylized ASCII-style `.txt` files often found in indie software—especially those with cyberpunk, symbolic, and poetic vibes. They are interested in building their own versions, studying the genre, and possibly generating templates or libraries of these digital artifacts.</div>\n<div><br></div>\n<div>Wants all system notes to be right-aligned, near the edge, styled with subtle color to set them apart. They prefer the font size to be about half the standard, dropping midway into the second line. They want every thread to have a unique blockchain-style structure or a setting page with shifting parameters (e.g., equations, room type, weather, etc.). User is exploring ASCII-style abstract models to visualize this structure, with headers filling a quarter of the page height, extending outside the main body, while leaving ample whitespace in the lower content area for readability.</div>",
+  "context": "From document: MEMORY_DUMP_RAW_041225_MASTER — chunk 2 (chunk 2/35)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a6c8d7ecac270c27cc9e416b39cd8866",
+  "relatedUnits": [],
+  "keywords": [
+    "unique",
+    "level",
+    "with",
+    "every",
+    "system"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

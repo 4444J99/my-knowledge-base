@@ -1,0 +1,24 @@
+{
+  "id": "7491a720-f258-4a09-97ff-361ec9d506b1",
+  "type": "insight",
+  "timestamp": "2025-05-18T23:05:52.000Z",
+  "title": "AAECBAgQIECAAAECBAgQeAg4AB6qMgkQIECAAAECBAgQIECAAAECBAgQIECAQCzgAIgHUE+AAAECBAgQ",
+  "content": "AAECBAgQIECAAAECBAgQeAg4AB6qMgkQIECAAAECBAgQIECAAAECBAgQIECAQCzgAIgHUE+AAAECBAgQIECAAAECBAgQIECAAAECBB4CDoCHqkwCBAgQIECAAAECBAgQIECAAAECBAgQIBALOADiAdQTIECAAAECBAgQIECAAAECBAgQIECAAIGHgAPgoSqTAAECBAgQIECAAAECBAgQIECAAAECBAjEAg6AeAD1BAgQIECAAAECBAgQIECAAAECBAgQIEDgIeAAeKjKJECAAAECBAgQIECAAAECBAgQIECAAAECsYADIB5APQECBAgQIECAAAECBAgQIECAAAECBAgQeAg4AB6qMgkQIECAAAECBAgQIECAAAECBAgQIECAQCzgAIgHUE+AAAECBAgQIECAAAECBAgQIECAAAECBB4CDoCHqkwCBAgQIECAAAECBAgQIECAAAECBAgQIBALOADiAdQTIECAAAECBAgQIECAAAECBAgQIECAAIGHgAPgoSqTAAECBAgQIECAAAECBAgQIECAAAECBAjEAg6AeAD1BAgQIECAAAECBAgQIECAAAECBAgQIEDgIeAAeKjKJECAAAECBAgQIECAAAECBAgQIECAAAECsYADIB5APQECBAgQIECAAAECBAgQIECAAAECBAgQeAg4AB6qMgkQIECAAAECBAgQIECAAAECBAgQIECAQCzgAIgHUE+AAAECBAgQIECAAAECBAgQIECAAAECBB4CDoCHqkwCBAgQIECAAAECBAgQIECAAAECBAgQIBALOADiAdQTIECAAAECBAgQIECAAAECBAgQIECAAIGHgAPgoSqTAAECBAgQIECAAAECBAgQIECAAAECBAjEAg6AeAD1BAgQIECAAAECBAgQIECAAAECBAgQIEDgIeAAeKjKJECAAAECBAgQIECAAAECBAgQIECAAAECsYADIB5APQECBAgQIECAAAECBAgQIECAAAECBAgQeAg4AB6qMgkQIECAAAECBAgQIECAAAECBAgQIECAQCzgAIgHUE+AAAECBAgQIECAAAECBAgQIECAAAECBB4CDoCHqkwCBAgQIECAAAECBAgQIECAAAECBAgQIBALOADiAdQTIECAAAECBAgQIECAAAECBAgQIECAAIGHgAPgoSqTAAECBAgQIECAAAECBAgQIECAAAECBAjEAg6A",
+  "context": "From document: ][ . E . A . R . T . ][ — chunk 96 (chunk 96/117)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "955e78dcca103e5ba9c46535a5ea6110",
+  "relatedUnits": [],
+  "keywords": [
+    "aaaecbagqiecaaaecbagqiecaaaecbb4cdochqkwcbagqiecaaaecbagqiecaaaecbagqibaloadiadqtiecaaaecbagqiecaaaecbagqiecaaighgapgosqtaaecbagqiecaaaecbagqiecaaaecbajeag6aead1bagqiecaaaecbagqiecaaaecbagqiedgieaaekjkjecaaaecbagqiecaaaecbagqiecaaaecsyadib5apqecbagqiecaaaecbagqiecaaaecbagqeag4ab6qmgkqiecaaaecbagqiecaaaecbagqiecaqczgaighue",
+    "aaecbagqiecaaaecbagqeag4ab6qmgkqiecaaaecbagqiecaaaecbagqiecaqczgaighue",
+    "aaaecbagqiecaaaecbagqiecaaaecbb4cdochqkwcbagqiecaaaecbagqiecaaaecbagqibaloadiadqtiecaaaecbagqiecaaaecbagqiecaaighgapgosqtaaecbagqiecaaaecbagqiecaaaecbajeag6a"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

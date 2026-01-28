@@ -1,0 +1,26 @@
+{
+  "id": "52d97f04-986e-48db-8081-6ea4b3c726bf",
+  "type": "insight",
+  "timestamp": "2022-03-18T14:53:43.000Z",
+  "title": "<div>Buying a king size bed and a standing desk three times in less than a year ",
+  "content": "<div>Buying a king size bed and a standing desk three times in less than a year has been the best decision I’ve ever made.</div>",
+  "context": "From document: Buying a king size bed and a standing desk three times in less than…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "3d9a2cff61227dc292a91e4bb8d6f325",
+  "relatedUnits": [],
+  "keywords": [
+    "buying",
+    "king",
+    "size",
+    "standing",
+    "desk"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

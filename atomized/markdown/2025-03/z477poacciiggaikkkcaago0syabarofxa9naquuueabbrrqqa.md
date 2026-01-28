@@ -1,0 +1,31 @@
+---
+id: 478f70b4-2396-4235-ac72-afcee9e4e3ff
+type: insight
+created: '2025-03-13T23:47:48.000Z'
+document: 3b2e4f3759d2535cf9a91dec728a8fbc
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    z477poacciiggaikkkcaago0syabarofxa9naquuueabbrrqqaeffghkaqpsrj477pscciiggaikkkcaagoo0mqcbqrnfhi9nauuueabbrrqqaefffcgkqumsbv57gt79v3334c333wz
+  - pzzz3xf008
+  - tqmhz687tt1gwoooiacciiggaikkdb6cbiqdtn53mwxxcihhxwsw
+  - cgaedwquvvlq2tr122cfmppheydsouuwfvftss2hikcfh2mmndqsttfcyzpppwoehhlhwj5xee
+  - 92mbee
+---
+# z477poACCiiggAIKKKCAAgo0sYABaROfXA9NAQUUUEABBRRQQAEFFGhkAQPSRj477psCCiiggAIKKKCA
+
+## Context
+From document: Squarespace, ChatGPT, GoDaddy Expenses — chunk 428 (chunk 428/2268)
+
+## Content
+z477poACCiiggAIKKKCAAgo0sYABaROfXA9NAQUUUEABBRRQQAEFFGhkAQPSRj477psCCiiggAIKKKCAAgoo0MQCBqRNfHI9NAUUUEABBRRQQAEFFFCgkQUMSBv57GT79v3334c333wz/Pzzz3Xf008//TQMHz687tt1gwoooIACCiiggAIKKDB6CBiQdtN53mWXXcIhhxwSW//ll1/CgAEDwquvvlq2tR122CFMPPHEYdSoUUWfvfTSS2HIkCFh2mmnDQsttFCYZpppwoEHHlhWj5Xee++92Mbee+9d1Eb+zV577RXrsK3Sx3PPPZevGv773/+G+eefP8wyyyxhnnnmCTPPPHMYOnRoUZ1PPvmkrJ3U7mabbVZUlzdt7eNBBx3Ualu0eeaZZ4Zq6pRt1AUKKKCAAgoooIACCijQ0AJ9G3rvevHOPfXUUzGI4hBefPHF0Ldv3zDrrLMWjogA9Pbbbw/XXHNNYVl68fLLL4c111wz9O/fPxx99NExWLv66qtjYEYb2267baoan6+//vr4vP766xctz7/58MMPw+STTx622mqr/OL4eooppigse/TRR8Mmm2wSZpxxxnDUUUeFfv36xWB0zz33DOOPP37YeOONY13ao6y99toxcI1v/v8/s88+e/5tfN3WPi655JLh119/LVoHr2eeeSYMGzYsTDrppGHQoEHt1ilqwDcKKKCAAgoooIACCijQ8AJ9WrLS8HvZy3bw22+/DdNNN114/vnnY4bzwgsvjIHnLbfcEr744ouw9NJLx+cff/yxcGRffvllGGOM/0tYb7/99uHuu+8ODz/8cJhqqqlind9++y2stNJK4bvvvgv3339/GGeccQrrkkn94IMPwiuvvBLGHHPMwvL8i2WXXTZMNtlk4YYbbsgvLnu92267hcsuuyw8/vjjMTNKhXfeeSdmadn+VVddFdfhWMiE3nHHHWHxxRcva6d0QTX7mF+Hy3KppZYKI0eOjIHp2GOPnf84vq6mTtlKLlBAAQUUUEABBRRQQIGGEbDLbg1PxQ8//BC7pt55551hwgknjN1r6ar6wAMPxIwjrwkYzznnnEDG89///ndYdNFFi/aAgPWmm24KG2ywQSEYpQLr0ZX2scceKwpG33333fD000/HTCV1XnvttXDKKaeEjz76qKhdMprTTz990bJKb4499tgY2NJNNxW6C5Ox
+
+
+
+---
+*Source: Document 3b2e4f3759d2535cf9a91dec728a8fbc*

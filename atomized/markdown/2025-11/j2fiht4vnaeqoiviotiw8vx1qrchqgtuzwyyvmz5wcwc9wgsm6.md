@@ -1,0 +1,32 @@
+---
+id: 4630e2fa-ee23-4bb9-af55-dff0efe93b5d
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - j2fi
+  - ht4vnaeqoiviotiw8
+  - >-
+    vx1qrchqgtuzwyyvmz5wcwc9wgsm6spo45umtuychncwht3durpvct5aahfx8fzvt3un0urdw8psuwdrfywlxsczmsk7w6qg8miiarigarigarigarigarigarigarigarigarigarigarigark4ggq8v9axxf0lcwhz14byaos1msfotp72tq93r1tte83p7
+  - r4ipfj9om64hf752kysz4zdhg
+  - >-
+    ips9a2ppjt26trrxclzlvplbrspcqaehaslufwnwde8g7bmfrinldnasidzdxbsfjtbnjsw7myclgibwkla8cdljyhfe2jjr947a8
+---
+# j2Fi+/Ht4vNaeQOivIOtIW8/vX1QrcHqGTuzWYYvMz5wcWC9wGSM6SPo45uMtUYCHncwHT3duRPvCt5a
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 9478 (chunk 9478/11629)
+
+## Content
+j2Fi+/Ht4vNaeQOivIOtIW8/vX1QrcHqGTuzWYYvMz5wcWC9wGSM6SPo45uMtUYCHncwHT3duRPvCt5aaHfX8FZvT3un0uRDW8psuWdrfYwLXScZmSK7w6QG8mIiARIgARIgARIgARIgARIgARIgARIgARIgARIgARIgARIgARK4ggQ8V9AXXf0LCWhZ14bYaOs1mSFoTp72Tq93r1tTe83p7+r4IPfJ9OM64hf752KysZ4zDHG+iPS9a2PPjT26tRrXclzLvPlbRsPcqaEhasLufwNWdE8G7BmfRInLdNaSIDZDxBSfJtbnjsW7myCLGibWkLa8CdlJYhFe2JJR947a8+xuEVyNZPGbgz29krSN0xIS70t879myp3NOx51ZhM8Qwf2+LXySyHTLsUbsHnnPyHfPNoU1k9LdCGYHccTYc0qPKjWq1PJ+d/Yr0fctx/Qh8vsXMcfi5l+RdjTY8fTOdGtywu5hu8FATFgluftuZLb7KEDZb66F3VHojkLdJ4wp+/y7Y+4dUnLw24N2dLu1W8Gur4a3gDXXQrHlRlRr5hhL6F8Vv2vo3QlTNs3aPGBTPZGw/zR+WnrL9neA7NmvTX3twQkf/iflPykfpUgpeMTBkocf3DxBw4IWQ+q2MW+BQoS2ku9gMTKSZXQgf4KOHofsjU8J39ZZ89WaUy++/+K+l96HNxMtRD49NmXLRAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkkGsEPLnmmY7/FQRk4maf5QrAboNTm6Zmpy7strHba7cVnn983ucLPtfiMARDSH8xrvDp5nTjpF0R1I2CdeOhfXo66KFYS3to6QW9F9RcOF1LknKSLSIiBEXb9fCLLWRMv0xto06moyCEm4YxqOegks+ULJ5YPLHYs4jptnOSMNG5CojFhNrIs7rv6r7fnvo0BfYYBHDL4wq0EDnF3OTW8PB8sZf2v/TBuH3uxOZuHndf5FTHfLDYA288ULTGqhrPV+/girXnk/lFbf+ffnCF3il45OG9n57Y9uRbvXucyhE7v7nnHgUQ4Vn21bm12KVnTTenPzIe0vI5sfl4E7E+k/r06Nvz7UrvHHrnEHIiv3iBXUwS76Y/oyXjaPBdg3YO3rnoxKITSSfkG0xBLzli/Xlcz6gh6qiTK3X793XOJTOW9FmaenvX2wrf3u1U01M5
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

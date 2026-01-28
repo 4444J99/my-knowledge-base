@@ -1,0 +1,26 @@
+{
+  "id": "046a4b79-6c06-4ba4-9678-cfd8e1918fc4",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:01:47.000Z",
+  "title": "<div><tt>      &quottags&quot: [&quotlegal&quot, &quotumbrella&quot, &quotextern",
+  "content": "<div><tt>      &quottags&quot: [&quotlegal&quot, &quotumbrella&quot, &quotexternal-facing&quot]</tt></div>\n<div><tt>    },</tt></div>\n<div><tt>    &quotulti_tool_media&quot: {</tt></div>\n<div><tt>      &quotstyled&quot: &quotULTI TOOL MEDIA&quot,</tt></div>\n<div><tt>      &quottype&quot: &quotbusiness_entity&quot,</tt></div>\n<div><tt>      &quotsubgroup&quot: &quotmarketing&quot,</tt></div>\n<div><tt>      &quottags&quot: [&quotstrategy&quot, &quotmgmt&quot, &quotB2B&quot]</tt></div>\n<div><tt>    }</tt></div>\n<div><tt>  }</tt></div>\n<div><tt>}</tt></div>",
+  "context": "From document: SYS_ID_ALIAS_MAP.json — chunk 5 (chunk 5/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "62ae7713688a34e7879b9e1ac45acbba",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "quottags",
+    "quotlegal",
+    "quotumbrella",
+    "quotexternal"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

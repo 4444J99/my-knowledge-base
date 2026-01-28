@@ -1,0 +1,32 @@
+---
+id: 09dad775-c669-4873-8904-279d30b2eb3f
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - huzzlmoqsrptqe5h1xy5bu
+  - vkqf2yym7eh20ukfb1t3jhbjbydqtrwcu9shevvu9xdvvzzh5pfjzpxfe1
+  - blbp0hslqtv0wguxvlqdaapylrv99rxsydncukskqsav0ibvuvyfvytb9
+  - >-
+    qfturqbqd9xclmpqsbqpqapytrlwmu8tgrdulnk5nlvfhdjqpwkqnvsbvc5r8hwzrj9eavvvzi09tpo2ha3q6rgqsnq0qqzhogi1t6zihuoxyfgkwb1pwcddduuyvjdprhvydabw6nh9kwxxg6
+  - >-
+    dxwcwosogkqbxa6hme2davqvfndrqmt0d8qwzvvbz9hlidehitbya1tvk9ttvd3bbbbejtvtvvvuaefi7
+---
+# HuzZLMOqsrptqE5h1XY5bU+vKqf2yym7eh20ukfB1T3jHbJbYdQTRwCu9sheVVU9XdVVzzh5PFJZPXFE
+
+## Context
+From document: New Note — chunk 5857 (chunk 5857/21099)
+
+## Content
+HuzZLMOqsrptqE5h1XY5bU+vKqf2yym7eh20ukfB1T3jHbJbYdQTRwCu9sheVVU9XdVVzzh5PFJZPXFE1/bLbp0HsLqtv0WGuxvlqDaApylrV99RXSydNcUKsKqSav0iBVUVYFVYtb9+qfTURqBqd9XClMpqsbQpqApYtRlWMU8tGrduLnK5NlVfhdJqpwKqnVsBvC5R8HWZrj9eAVVVZi09Tpo2Ha3Q6rGqsnq0QqzHOGi1t6ZIhuoXyFgKWB1pWCDDdUUyVjdPRhVYdabw6nh9kWxXG6+dXwCwOsOgKqBXA6HmE2dAVQVFndrqMt0D8QwZVVbz9hlIdeHiTByA1Tvk9ttvd3bbbbeJtVtvvVUAEFi7+eabZf/+/Q4IuPHGG4UGMIIGiAB23XXXybXXXitXX321XHXVVe5f0vkfgML41at8GH624Wcb3gPhPXCo3wN8aHrkfJT+4z7JTAOrX/va12TDhg1pGJMKp9YDVMR/m8S98gFWoVphYVi7N2LAsZdffvmMA6t33323AOr0r8cxYFH7cM2/P/w3F8BS1sf53bt3u4fr/lqOce8AU+PWMocz4r/hkl54wAmgmPVxHtAnHubnAlZxDa7Fz82+oGjLOYDDgGA5jvNvfvObc/YOX2YQEo5bz3ueLqRs7yHEoQOhA6EDoQOhA6EDoQOhA6EDoQNHZgd+/9Pfy4/2/4f860f+RX5y/o9UUfVn8quP/8LBoXGQarZiajaU+luFVHPaxap2V6ARfAWs+qu//qX89tbfyO9fmvpfxUj6Kfz+pf+S39zya/nFJZHqKtRbAbGiJ+gNeoRehdcrowMBWD08wCrAVB9YzYZVn3cAaxKsiuc0vroqgVV6H1Z96aWXBP/Ym8qq9FZldTJg1YKqjPHMFTGfvcJbWHUq6qpxwCpBVesJqdIDVkXsQ6sWVkUMMNUaANU4WNVXWAWUmgtaTQJXCarSA1JF7MOqduwDq4RTk3wSrIo8AVV6gqp2bOFUG0/2zN4HV1FvIVUb+5DqZGMCqfl4wqmEWTmO8wRVOZcvqAp41NYSJrXgqo0573s8I/VzcWMfFuUYtYy5lx1PFuM5sq3xx5xDPs4wb/N2bGNbY2P8drTjXLGttTHW2LEb6P8wnzRmPpf398hVG+YOfwdmCliN3ScFqmYUSQGuKvCp8GWRUzGNYNEiKKKmoNIJPtcc1xhF
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

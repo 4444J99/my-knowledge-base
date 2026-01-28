@@ -1,0 +1,30 @@
+---
+id: 5f6bb85a-e507-49e0-9809-20b5da046706
+type: insight
+created: '2019-02-16T23:05:18.000Z'
+document: c6c8d9d6deda1d081d973fac56d652c6
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - xoag
+  - ghob
+  - 8aghv
+  - 9erex
+  - isei
+---
+# 3OP8aGhv/enp7//////////////////////////////////////92dnb/Ghob/0RERf/////////////
+
+## Context
+From document: Compressor Cheat Sheet — chunk 1371 (chunk 1371/1529)
+
+## Content
+3OP8aGhv/enp7//////////////////////////////////////92dnb/Ghob/0RERf////////////////83Nzj/Ghob/3p6e///////////////////////////////////////dnZ2/xoaG/9EREX/////////////////5OTk/xoaG/8aGhv/vLy8/zMzNP8aGhv/KCgp/0FBQf8iIiP/Ghob/xoaG/9bW1v/9vb2/2hoaf8aGhv/HBwd/zo6O/81NTb/Gxsc/xoaG/8aGhv/n5+f///////////////////////Gxsb/ISEi/xoaG/8aGhv/LS0u/09PUP83Nzj/HR0e/xoaG/8lJSb/8vLy////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////ISEi/xoaG/+ampv//////////////////////////////////////6qqqv8aGhv/Ghob/+3t7f/////////////////////////////////p6en/Ghob/xoaG/+3t7f///////////+qqqr/Ghob/xoaG//t7e3/////////////////////////////////6enp/xoaG/8aGhv/t7e3////////////qqqq/xoaG/8aGhv/7e3t/////////////////////////////////+np6f8aGhv/Ghob/7e3t/////////////////9xcXL/Ghob/21tbf+CgoP/Ghob/xwcHf88PD3/MjIz/xoaG/8aGhv/Hx8g/8TExP/IyMj/Jyco/xoaG/8nJyj/QkJC/yQkJf8aGhv/Ghob/zQ0Nf/39/f/////////////////+/v7/15eX/8aGhv/Ghob/x4eH/9EREX/RkZH/ycnKP8aGhv/Ghob/4qKi//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+---
+*Source: Document c6c8d9d6deda1d081d973fac56d652c6*

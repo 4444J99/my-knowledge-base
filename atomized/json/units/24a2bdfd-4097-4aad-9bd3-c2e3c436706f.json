@@ -1,0 +1,26 @@
+{
+  "id": "24a2bdfd-4097-4aad-9bd3-c2e3c436706f",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### IV. | GLYPH USE CASES</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Symbols can be used in:</tt></div>\n<div><tt>- Internal documentation (folder headers, GitHub files)</tt></div>\n<div><tt>- Creative interfaces (apps, ritual generators, UI overlays)</tt></div>\n<div><tt>- Print artifacts (zines, books, guides)</tt></div>\n<div><tt>- Public brand systems (logos, project sigils)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### V. | DEVELOPMENT QUESTIONS</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Do you want each symbol to evolve (versioned per phase)?</tt></div>\n<div><tt>- Should glyphs ever repeat across domains for poetic reasons?</tt></div>\n<div><tt>- Do you want a standalone glyph key as a zine/module?</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### VI. | NEXT STEP OPTIONS</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- [ ] Build starter glyph table (with sample symbols for all current Artist IDs and Projects)</tt></div>\n<div><tt>- [ ] Output Markdown version for GitHub repo</tt></div>\n<div><tt>- [ ] Begin ASCII-based rendering for mobile and command-line use</tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 141 (chunk 141/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "glyph",
+    "symbols",
+    "github",
+    "want",
+    "cases"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

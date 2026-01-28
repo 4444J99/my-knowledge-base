@@ -1,0 +1,26 @@
+{
+  "id": "1da6cae9-7c11-4659-9363-435c1ba45d2a",
+  "type": "insight",
+  "timestamp": "2025-11-05T21:42:26.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><b><h3>Phase 2: State UCC Scrapers (Weeks 3-4)</h3></b><font face=\".AppleSystemUIFont\"><h3><br></h3></font></div>\n<div><tt>// Files to create:</tt></div>\n<div><tt>scripts/scrapers/</tt></div>\n<div><tt>  ├── base-scraper.ts</tt></div>\n<div><tt>  ├── states/</tt></div>\n<div><tt>  │   ├── california.ts</tt></div>\n<div><tt>  │   ├── texas.ts</tt></div>\n<div><tt>  │   ├── florida.ts</tt></div>\n<div><tt>  │   └── ... (50 states)</tt></div>\n<div><tt>  └── scraper-manager.ts      // Orchestrate all scrapers</tt></div>\n<div><tt><br></tt></div>\n<div><tt>// Example California scraper:</tt></div>\n<div><tt>export class CaliforniaUCCScraper extends BaseUCCScraper {</tt></div>\n<div><tt>  async search(companyName: string) {</tt></div>\n<div><tt>    await this.page.goto('https://bizfileonline.sos.ca.gov/search/business');</tt></div>\n<div><tt>    await this.page.fill('#EntityName', companyName);</tt></div>\n<div><tt>    await this.page.click('#SearchButton');</tt></div>\n<div><tt>    return this.extractResults();</tt></div>\n<div><tt>  }</tt></div>\n<div><tt>}</tt></div>\n<div><br></div>\n<div><br></div>\n<div><b><h3>Phase 3: Backend API (Weeks 5-6)</h3></b><font face=\".AppleSystemUIFont\"><h3><br></h3></font></div>",
+  "context": "From document: data enrichment strategy for ucc-mca intelligence platform — chunk 12 (chunk 12/32)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "42efb0f415b2f324521d2959a50f91bf",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "this",
+    "scrapers",
+    "scraper",
+    "await"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

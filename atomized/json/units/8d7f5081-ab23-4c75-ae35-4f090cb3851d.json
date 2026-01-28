@@ -1,0 +1,26 @@
+{
+  "id": "8d7f5081-ab23-4c75-ae35-4f090cb3851d",
+  "type": "insight",
+  "timestamp": "2025-03-19T08:54:53.000Z",
+  "title": "<div><font color=\"#111111\"><span style=\"font-size: 16px\">  •  </span></font><fon",
+  "content": "<div><font color=\"#111111\"><span style=\"font-size: 16px\">  •  </span></font><font face=\".AppleColorEmojiUI\" color=\"#111111\"><span style=\"font-size: 16px\">✅</span></font><font color=\"#111111\"><span style=\"font-size: 16px\"> </span></font><i><font color=\"#111111\"><span style=\"font-size: 16px\">Course Summary &amp Review</span></font></i><font color=\"#111111\"><span style=\"font-size: 16px\"><br></span></font></div>\n<div><font color=\"#111111\"><span style=\"font-size: 16px\">  •  </span></font><font face=\".AppleColorEmojiUI\" color=\"#111111\"><span style=\"font-size: 16px\">✅</span></font><font color=\"#111111\"><span style=\"font-size: 16px\"> </span></font><b><font face=\"HelveticaNeue-Bold\" color=\"#111111\"><span style=\"font-size: 16px\">Assessment</span></font></b><font color=\"#111111\"><span style=\"font-size: 16px\"><br></span></font></div>\n<div><font color=\"#111111\"><span style=\"font-size: 16px\">  •  </span></font><b><font face=\"HelveticaNeue-Bold\" color=\"#111111\"><span style=\"font-size: 16px\">Midterm Exam</span></font></b><font color=\"#111111\"><span style=\"font-size: 16px\"><br></span></font></div>\n<div><font face=\"Helvetica\"><span style=\"font-size: 12px\"><br></span></font></div>\n<div><span style=\"font-size: 12px\">⸻</span><font face=\"Helvetica\"><span style=\"font-size: 12px\"><br></span></font></div>",
+  "context": "From document: Below is a sample “Module Navigation & Weekly Overview” document that… — chunk 38 (chunk 38/46)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "bd2f2280cc167423e582fae6fad9d700",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "span",
+    "style",
+    "size",
+    "color"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

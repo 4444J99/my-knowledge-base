@@ -1,0 +1,32 @@
+---
+id: 5acdd380-7aba-4b0c-a76a-03a97a208aaf
+type: insight
+created: '2022-03-16T12:34:10.000Z'
+document: 7405c2da6b92da26b0b49297d3a4e664
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    hucwy3bnpap1yd2ghsmgsfouaafmuspkqyud6mhkynmom1umefg7irktlt2eflqbg2oegjzgvqgzllkmtkaoorcimvnbhipaoa1hnzhhxp3cqz
+  - >-
+    lpstvz2spddnutad28ddqsytfgwgqdjio3hvvmu7qglqnyfru4ui4lwn7ygkbnbiycppxvnlwk2mcs241a83byecazlpjd3ma7vsqia3vebxtxnfuoogij3gc1bcyddzfmbucwkl
+  - 4dg9qoi5bdizmmbflv1jlntwbgmpzfwis2ola2s2wjpt52cdzx6juiojh1
+  - v5njhpmuktpeum1v3y28h3ryms5zmuq2bwhz3bvutufwpne8qpartx4rr93k
+  - w9b71srxcaycqa8xwcq6uvy
+---
+# hUCWY3bnPAp1yd2GHSmgSFOuaAFmuSPkQYUd6mhkynmOM1UMeFG7irkTLt2EfLQBG2oEgjZgVQgzLLkm
+
+## Context
+From document: The battle of the blinds — chunk 898 (chunk 898/1787)
+
+## Content
+hUCWY3bnPAp1yd2GHSmgSFOuaAFmuSPkQYUd6mhkynmOM1UMeFG7irkTLt2EfLQBG2oEgjZgVQgzLLkmtKaOORcIMVnBHiPAoA1hnZhhXP3CqZ/lPStVZ2SPDDNUTAd28DdQSyTfGwGQDjio3hVvmU7qgLqnyfrU4uI4lwn7ygkbNbiYCPpxVNLWK2mCs241a83byeCazLpJd3mA7vSqiA3VEBxtXnFUooGij3gc1bCyDDzfMBUcwkl+4dg9qoi5BDIZmMbfLV1JLnTWBgmPzfwis2OLa2S2wjpT52cDzX6JUiOjh1/VH+V5njHpmuktPEUm1V3Y28H3rymS5ZmUq2BWhZ3BVuTuFWpNE8qParTX4rr93K+w9B71sRXcAyCQa8XWcq6uvy+9QT6jemYCKUgZ7VXOTy9j3ZpYZRg4xUbR2pTyiwGeBXjX9sX0SgFzUSeILqOXdJIWA7VSqB7NnsD6Mvl/uzvyKppoezDOvSuA/4T+4j+VEyF71rWPxEhYhblQB71akmJxaOklhbzDGvQdqzLoRwDmMEmtaPX9IuR5qyKpPary2qasq+Qu73FVoLU46KXcu0wg4/Wq8lsLsBY7cWjA/fHWu/wD7Aa0Zi65XHX0rIksV37oJfMX2qbIcWcz5WvWuDBdScdhXQ6f4v8c6aA8Us7gds1JJp97IMRk/WmJpuoxId0jEY6UciZSqWO90T44apbYj1JGhI/jJr0yy+PemvEI5roMfc18ttpCTkrNyvqaypfDNnGNyXArKVCJSrNH3z4Y+Jmjaleqz3aiIjHtmvXVu7a9QPZSicH0r8sFtrzTog9teNGoPaut0z4meK9C2pbTyXgHvXLUw/Y6IVj9HZfLdvLIEI7mqUkNuG+SQSn0r4Xh+N3iSJle8iccjqa9h0D4x6bqDRLcFbVtozzXNKg0dCmfR4t1VdsR5PYVlXEDRtiRcVwlr8R9LMy7ZVK/3q7jSfEum6uMKyy+/pWPKxtkgdQm3OPanWs6u5U/Lip57F2PyLtB6VWGnTIC69qaVhXIpWUsysMisuWURqwAz6VrPA7RNxg1jsm35ZOKYkQRSMaecbuTg+lHlFR8vHvVcrjPO4igLk+MNk8AVZ8+CVPKfGOlU+sXJxxUUUeBuPSgLFW7tijfuzle3tSBcx/NJtK9qnmkXgg5C9az2voSx4BxVJENCea6uN7ELUs1
+
+
+
+---
+*Source: Document 7405c2da6b92da26b0b49297d3a4e664*

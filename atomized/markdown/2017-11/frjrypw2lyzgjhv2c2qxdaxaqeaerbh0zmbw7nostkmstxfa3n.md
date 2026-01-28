@@ -1,0 +1,31 @@
+---
+id: 0e506fdd-1bac-4b79-9479-db48e8ce7f17
+type: insight
+created: '2017-11-08T14:03:53.000Z'
+document: f47673d86e05016edf5cfc9824f2b752
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - frjrypw2lyzgjhv2c2qxda
+  - >-
+    xaqeaerbh0zmbw7nostkmstxfa3nhazsxktjqvgywfocwgsryjmnepmlk6kkcz60awtoudpkubcxsuw0mlkrgjwdkqjiajiamgplecy714p4paoxxjqm7qsfnkdfcafgscqomm9k9gttuxu76ztlo38220ucq4hcriykkuepkpxpugvnq6lek0hywdmsctkjjpx1nuglcc37oqglsr4jj5yoop4v
+  - wrh8ryxpwy8ceh53
+  - e21okfa9jkijx6eiv51itg0aojyyghm6zpyh
+  - aotx7bf8eydbaz8e
+---
+# fRJryPw2Lyzgjhv2c2qXDA+XaQEAeRBH0ZmBw7noSTkmsTxFa3NhazSXkTJqVgywFoCWgsrYjmNePmlk
+
+## Context
+From document: use this photo as a reference to create my own cut out piece. also… — chunk 179 (chunk 179/242)
+
+## Content
+fRJryPw2Lyzgjhv2c2qXDA+XaQEAeRBH0ZmBw7noSTkmsTxFa3NhazSXkTJqVgywFoCWgsrYjmNePmlk6kkcZ60AWtOudPkubCXSUW0mlkRGjwdkQJIAJIAMgPLEcY714P4paOXxJqM7qSFnkDFcAFgSCQOmM9K9gttUXU76ztLO38220uCQ4HCRIykkuepkPXPUGvnq6lEk0hyWDMSCTkjJPX1NUgLcc37oqgLSR4JJ5yOoP4V/RR/wRh8RyXPwy8ceH53+e21OKfA9JkIJx6Eiv51ITG0aojYYghm6ZPYH/AOtX7bf8EYdbaz8e+PPDbSbxd2UE23tujODjPpmqA/ooWsjVf+WX/Av6VqRuCPcAZrL1X/ll/wAC/pQZn//W/Lj9qdQf2k/iiPTxNquP+/prwBunHXtXvf7VIP8Aw0l8T+ef+Em1XP8A39NeAZHHtX6Ph17ljw6usrjz5ny9hjpircce8YPBHc06LB+U9x1NNl2xnhsk9hXVJe8c1yMkBWUnJPANWUy21Nu4LzzxUYMm8bVyAMnNXUXOG6Z4NKKuYylZWLtvHHKysx2g9Qf/AK1drYW0MBjaD94z5HTIC9DuJ6ZFcnBHJsCpAWO4YPQfXP1r0+G2+zWix3ZRnvI90adBgcEkjoQeeeuK1R5dWLk9DD1S3tre5khtGNysmMAZIUd8etdPYafZTXFtNbqIYVwpaQYUEDk1NpsGlwJA8TGfy8YJHBGfnAI4ODxWhqF1FdW8sFta/YYossqvyZDnkgelQ2EdExk08M9uPNdTP54jRYycEE/e9sV5t4ggt49QdbZS6ISWc/3vf1rotSvYLQlLYCN4VJKnhyXHGPauNvQbWBLUnz/tPz5LHKue2fY9jTTZcFfU5m8mYyMcfL+n6elSC+jaIqnyx7QCD6+341Jf+db77WfDOgB3DHGeo4rFSMEiRlEmR3oud8YpK7L9tDNNc4CjgAk84x2/GvdPA9jp1vAdaacMY8gRgcg9PzPQV5DpNjNd3UENsxXc3zHoAo6kn0r3Twze2ej282lWVj9publwhduQAOjg+gJoqaRsclSV5JIv6vsnWe5tY5IpVAAaY4Yx9TtHT6V4zr8sX2gXVoXdJwVKkYGR1zjvX1L4x0e5js7SKZUZfIAafcMZIyR+Zr5I1Dz7OWSA/K1vKcDqCDwCM9qmANNTscbclJGKxgg
+
+
+
+---
+*Source: Document f47673d86e05016edf5cfc9824f2b752*

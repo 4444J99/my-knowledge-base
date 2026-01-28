@@ -1,0 +1,32 @@
+---
+id: e661871d-523e-4f10-a5e8-0cff4048bebc
+type: insight
+created: '2017-10-10T23:16:34.000Z'
+document: 64a95cd2950865cc023eedad1ff9b65d
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - bnc3upy
+  - >-
+    hifqi0btbydu3slmr05n2iezk3zkv1jgogdvzuzah18m5tii2dbevesjdflwqkfqs1xv9qpa3gdecufggwtcavblboxnitdxbeigiukzlopq18ioar3qiuhhz0nazw8l7e05aig44qunvapiacfulvrwwoi1zujrjdgxylc1zvpcu
+  - 3eijtkqwlujoaj4ahki0dtpk2zpdspcwqcaufaexaehafhocarifo
+  - >-
+    awwoap0ka8b3vydi5ghufwt2kgoaafa4lfmkpu9zrjhdfslbx56cmh4eky6lvxnhvjyyoconltjruwpmuu9u2vfz9h2bmo2aowbq9vxuhv2i
+  - k8bsy3keuu
+---
+# BNC3UPY/HIFqi0BTBYDu3Slmr05N2iezk3ZKv1jGOgDvzUzah18m5TiI2dBeVesJDFLWqkfQs1XV9qPa
+
+## Context
+From document: sign -- signifies t signified ___________ iz'ag — chunk 50 (chunk 50/273)
+
+## Content
+BNC3UPY/HIFqi0BTBYDu3Slmr05N2iezk3ZKv1jGOgDvzUzah18m5TiI2dBeVesJDFLWqkfQs1XV9qPa3gDecUfgGwTcAVBLboXNItDXbEiGiukzlopQ18IOAr3QIuhHz0nazW8l7E05AIg44QunVaPIacFULVRWwOI1ZujRjdGxylC1ZvpCu+3EIjtKqWlujoAj4Ahki0DTpk2zPdSPcwQcAUfAEXAEHAFHoCARIFo/X+Q/AwwOAP0kA8B3VyDi5ghUfwT2kgOAAFA4lFmKpu9ZRjHdFSLbX56cMH4eKY6lVxnHVjYyOCOnLTJruWPMuu9U2Vfz9h2Bmo2AOwBq9vxuHV2I/K8bsy3KEUU/rb4i6bu1KKwl3UezknaTyP93ZiTtYEX0H9c3Zvt3jQWdtzrKXGBxS+bC8nVJmyv9ui80jumLzZasTUqTbutQ/RdHwBFwBBwBR8ARcAQcAUfAEXAEagUCKQmgfO3stmYAaP+VT8dCrZiMPA4Syd77RyZUo8rsxH5x66C4lVwlmQgCHCvCt23jmHX04ql5nJ3q11RvRc/3U3DlCMkAPTs+aT85KBbUIUobyZs6Bk6md+uYHaHo/6r8HEDG+vPF4nt0/3Zsmq9PudJG7c85AjUfAXcA1Pw5DiMsQvpHum1IAX0uDyqLgG4F5EH9alnSbn0nIv+P6h2znx4ct/7tv/sBX093LPr/9B3nAAteFqk87+YIOAKOgCPgCDgCjoAj4Ag4Ao5AbUKACFl2Tfki6ciwxgggc9uGwMbNyopIs+ecqGKpL0ySRnm3mA3p8t097LZWsvuNOX16fMLuej+heYjZcxM32wWD4nbWnmVPCoQ/QXJzVkTXGTc3KSdCMvTp5uPj1qAKddyzG7kfVVkItFAdxdP7x1UDYIs9JQfAfl2SgU8peb3JqsH4j0+i6P8LBsWsT5uK388lr5HL3xQt/lIKFoP1vmquMbg5Ao5A+RFI8xVW/gb9zMJEgI9tCrdAmH+tSu4HiDyvykruxVHCKcGX0LvSmTtQi6b/PiyuwjTZfdEQBeHkf3E0/XdHwBFwBBwBR8ARcAQcAUfAEagtCLC/Y0+UL6M9LJ9tRi1W3/+Rqf3bhwnbVRHUF+8jIr1YHT32so+PTdpf9frXK+K2R7uYNapXsbGiv/63j5K2VlkAvVuZjZtn9vzEpG0Qw9+uScyGlSJ9+7VI
+
+
+
+---
+*Source: Document 64a95cd2950865cc023eedad1ff9b65d*

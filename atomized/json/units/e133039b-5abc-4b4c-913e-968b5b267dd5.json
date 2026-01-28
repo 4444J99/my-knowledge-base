@@ -1,0 +1,26 @@
+{
+  "id": "e133039b-5abc-4b4c-913e-968b5b267dd5",
+  "type": "insight",
+  "timestamp": "2025-12-11T22:37:24.000Z",
+  "title": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0p",
+  "content": "</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><b><font face=\".AppleSystemUIFontMonospaced-Semibold\"><span style=\"font-size: 12px\">Likelihood</span></font></b></div>\n</td></tr>\n<tr><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><font face=\".AppleSystemUIFontMonospaced-Regular\"><span style=\"font-size: 12px\">Ars Electronica / Mozarteum XR</span></font></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><font face=\".AppleSystemUIFontMonospaced-Regular\"><span style=\"font-size: 12px\">€40,000 (~$43K USD)</span></font></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><font face=\".AppleSystemUIFontMonospaced-Regular\"><span style=\"font-size: 12px\">Awarded Oct 2025; funded Jan 2026</span></font></div>\n</td><td valign=\"top\" style=\"border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ccc; padding: 3.0px 5.0px 3.0px 5.0px; min-width: 70px\"><div><font face=\".AppleSystemUIFontMonospaced-Regular\"><span style=\"font-size: 12px\">Moderate (8/10 fit; 10-15% acceptance rate for category)</span></font></div>",
+  "context": "From document: Chris, — chunk 15 (chunk 15/26)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "4da601776fe2a536037bde47b9f74920",
+  "relatedUnits": [],
+  "keywords": [
+    "style",
+    "border",
+    "font",
+    "width",
+    "span"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6d7322b9-213b-42fc-b7b0-95ec4d01f80e",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt>| (you could really help) (especially with logic and mapping and callin",
+  "content": "<div><tt>| (you could really help) (especially with logic and mapping and calling bullshit) (so i wanna show it to you soon) |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Each **( )** = 1 sentence segment unit  </tt></div>\n<div><tt>Each **(word)** is implicitly separated and breakable  </tt></div>\n<div><tt>We can also do:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>construct[i][n][f][i][n][i][t][u][m]</tt></div>\n<div><tt><br></tt></div>\n<div><tt>And nest these grammars.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## ⚙️ Suggested Term Definitions (for internal build)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Term | Meaning | Role |</tt></div>\n<div><tt>|------|--------|------|</tt></div>\n<div><tt>| LLM | Large Language Model | Base interface logic |</tt></div>\n<div><tt>| GLLM | Germinative Literary Logic Machine | Expanded recursive myth engine |</tt></div>\n<div><tt>| 4LEX | Archive for Language of Everything | Your mythic-text index |</tt></div>\n<div><tt>| OS_M4 | Operating System: MET4morphoses | Root kernel; narrative-based file system |</tt></div>\n<div><tt>| M4RTHEK | Mythic-4 Recursive Text Harmonization Engine Kernel | Final integrated backend brain |</tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 105 (chunk 105/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "logic",
+    "each",
+    "term",
+    "language",
+    "recursive"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

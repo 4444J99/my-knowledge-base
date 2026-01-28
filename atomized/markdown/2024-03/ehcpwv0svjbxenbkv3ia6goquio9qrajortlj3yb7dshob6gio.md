@@ -1,0 +1,32 @@
+---
+id: d5234c48-be69-4479-8131-7a94690e7cdc
+type: insight
+created: '2024-03-07T02:33:33.000Z'
+document: 27162d3685a234131532342f177d17e4
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    ehcpwv0svjbxenbkv3ia6goquio9qrajortlj3yb7dshob6gioroqcfl8z5w46fsmuwkfgfmlut7ksklt56r19qdo8lw5y
+  - toazjcxrqldenmwwdvwmyro28ydccopob02l0u1uslpo52drta61fu5pji0nrh
+  - >-
+    6j2ghvx0rhebbeqhxg9ppv8qvmkrluydntwkqpk9xxzptpbfcweqebj2pifvoizjb5ft68rx29kq7rj1by8mrymirdqyq7toovsajh
+  - ananptydyk38lxdqtjprvlaulkf
+  - e4hoo1q3eukiyji2gfm2myqsg3l
+---
+# ehcpWV0SvJbxENbkv3IA6GoQUiO9QrAjoRTlj3yB7dsHOB6GiORoQCfl8z5W46fSmuWKFGfMLuT7KsKL
+
+## Context
+From document: CC INFO BILLING: — chunk 24 (chunk 24/909)
+
+## Content
+ehcpWV0SvJbxENbkv3IA6GoQUiO9QrAjoRTlj3yB7dsHOB6GiORoQCfl8z5W46fSmuWKFGfMLuT7KsKLt56r19qdO8lw5y/TOaZJcxRQLDENmWwDVWMyrO28YDcCopob02L0U1uSlpO52DrtA61fu5pJI0NrH+6j2gHvx0rHeBbeQhxg9PpV8qvmKRlUYDntwKqPK9xxZpTpBFCWeQebJ2PIFVoIZJB5Ft68rx29Kq7rJ1by8MRyMirDQyQ7TOoVsAjH/ANanPTYdyK38lXDQtjPrVlAUlkf+E4HOO1Q3EUkiYjI2gfM2MYqSG3l+ynzsYkO9cCiM2Z3dhwCCV3mjEbdiOaY8DpFukX5cY49PX61XMWUacA4PpztqSSOaWFHDEr7e1JsfOPZ7SIIzMTGpIIHWpmnlLgjIA+6voPeqxgljiVnjBVskVPHFO8ojhBKgKWJ/uiiFOyuYOT7FkhfKXyBiQ9c0qiCabyZpmVwO/wDF+JwKUySMwVhgfdyPSmTRzOqwlxJ9R0HtVwWpUpDJLdVkeKUjKjkfStCxtl2CS8Zio4VcdB6/Wqz2vnGNPubh9/1rVmluIIxbzEHpsIHWp5LKw9DPuh5sKuOi8Y9qoLafaCy8I5GFArVukKPHJxiTqKiuEtZOOi9F2cYoej5UTUp22KKWsgjKy/KwAz604OpuAknI9cdf/rVaURIsscrFZ+c/h0qjDkqREcnoM4HFX7Ujk6FhkdYmWY4X+Ejr9f5VdtI5FtC28+WRxnGaqfZ76ONo0YbGXAPoKms4yY0SR/lTt2xU20DktuS6fa7X3E72QbhTvJkeRn3hCO9TLcZH7tcBOMAU5ZUeDziBjvx2qYp9TXmTXKQxo8SD7VIW35C7edv0pbaNZAbbBB67qlV7dJA8/QA8Dgg+1U45lg+SJTID97r0qlK2yMeXobFtbNEj+USI8qz8DP4VCQYH/eMzn3OfxqOCbDeVECY2wOfarS29vcyq7v8AlUx7ClrsSGO3aTylLA7eMDFBTUrZCLolVX5UGBgrVMIs7fZ/NdWLYBFWHaO4/wBZcF2VduD049KUlyik0iGPaj7o3yDVkHH7oqVP8Oe+Kgto4wwQDB96nkkWUq0p3yglQOmK2jJbA1ZCZjdthXJHQ9aeZI/Ifk7mGBz0x6VA+9Iww4JOKnjSRonhnQHb936d6V9SYSXUYGkO2WK
+
+
+
+---
+*Source: Document 27162d3685a234131532342f177d17e4*

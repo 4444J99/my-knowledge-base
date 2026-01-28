@@ -1,0 +1,26 @@
+{
+  "id": "b60a7071-c3ca-4562-9e8a-6e18763a59d8",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>1. Should students be able to unlock a secret character class (e.g., if they complete all extra credit or win the Mastery Exam)?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Yes. If they achieve every possible XP goal, they unlock “The Omniscient One” – a character who gains access to ALL special abilities.</div>\n<div><br></div>\n<div>2. Should there be “faction-based” unlocks if enough students follow the same archetype path?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Example: If 5+ students are Archivists, the whole faction unlocks an “Archivist’s Library” that gives research-based perks.</div>\n<div><br></div>\n<div>3. Should students be able to switch archetypes without losing XP if they provide a strong narrative justification?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> If they write a compelling 300-word narrative about why their character evolved, they can switch archetypes without penalty.</div>\n<div><br></div>\n<div>4. Do we want to have a final in-class event that ties into the class-wide XP achievements?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Final Week: The Academic Tournament</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 58 (chunk 58/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "they",
+    "students",
+    "face",
+    "zapfdingbatsitc"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

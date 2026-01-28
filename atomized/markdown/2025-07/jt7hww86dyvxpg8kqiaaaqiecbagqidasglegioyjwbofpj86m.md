@@ -1,0 +1,32 @@
+---
+id: ba733e4c-cb1a-4c22-aa34-3c090b41eefd
+type: insight
+created: '2025-07-03T15:23:16.000Z'
+document: 1a2790086785d8c4a01928d4c75b735e
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    jt7hww86dyvxpg8kqiaaaqiecbagqidasglegioyjwbofpj86mqn7h1o2un57zxzpb4kfpyaaqiecbagqiaaaqilcksmijaly04qmpdsaqfuxtfs
+  - rlf2bjgcuftbagqiecaaaecbagqwegbcfmrqctmvkd
+  - wqn7l027plyd5yzgl8pi0yaaaecbagqiecaaieqahgpilhjmg8remit1u7do56y88vez1
+  - >-
+    3e6p82rqhqiaaaqiecbagqgblbsjyrbwsnh8uepdraqfurxy1wwvucv631e2aaaecbagqiecaaiekahgvimtjm5seqitad
+  - 233bpe7brmfb5dkzukz8ejecbagaabagqieogjrmikqcvy3i9aiqruf
+---
+# jt7hWW86dYvXPG8kQIAAAQIECBAgQIDASglEgIoYJWBOFpj86mqn7h1O2un57zxzpb4kFpYAAQIECBAg
+
+## Context
+From document: Robin Hood UI / UX Study — chunk 7194 (chunk 7194/18928)
+
+## Content
+jt7hWW86dYvXPG8kQIAAAQIECBAgQIDASglEgIoYJWBOFpj86mqn7h1O2un57zxzpb4kFpYAAQIECBAgQIAAAQILCkSMijAlY04QmPDSaqfuXTfs+rLf2bjgCuftBAgQIECAAAECBAgQWEGBCFMRqcTMvkD/+Wqn7l027PLyD5yzgl8Pi0yAAAECBAgQIECAAIEqAhGpIlhJmg8ReMiT1U7dO56y88veZ1/3E6p82RQhQIAAAQIECBAgQGBlBSJYRbwSNh8UePDRaqfuRxy1wwvucV631E2AAAECBAgQIECAAIEKAhGvImTJm5sEQITAD+233bPe7BrmFb5dKzukZ8EJECBAgAABAgQIEOgJRMiKqCVy3i9AIQRuf+Xje6uIpwQIECBAgAABAgQIECCwoEBELZFT8H5EEFz000fEDd8XXJ+8nQABAgQIECBAgAABAgR6AhG1InDJ3qu+x/uY6/d7/59d3Vs5PCVAgAABAgQIECBAgACBKgIRuCJ2rXr2XuXl3+HknV73sfOrrEyKECBAgAABAgQIECBAgMBEgYhdEb5WOXuu9B7vZ/zqKRNXCy8SIECAAAECBAgQIECAQEWBCF+C9/2nOq/avwueefhX/+b2imuSUgQIECBAgAABAgQIECAwUSDCV0SwVUudDy7vg49WKXvvtXH33/rK5RNXCC8SIECAAAECBAgQIECAQHWBiGARxFYzga7ooebPectp1VcjBQkQIECAAAECBAgQIEBgikAEMcF7VY42P/Mph3z1rx1k/oQp3we/IkCAAAECBAgQIECAQHWBCGIRx1Yxe6/aMm9z9A53f+rC6iuQggQIECBAgAABAgQIECAwUyDiWISyVcuhK3eo+Q0vPnbmqmACAgQIECBAgAABAgQIEEgSiFAmeC/zAee7n7nre75xZdLaoywBAgQIECBAgAABAgQIzBSIUBbRbLWy90ot7Z2vOWHmSmACAgQIECBAgAABAgQIEEgViGi2UlF0hQ413/uc3T/0b65JXXsUJ0CAAAECBAgQIECAAIGZAhHNIqCtUPZenUW1u3vm2m8CAgQIECBAgAABAgQIrI/Aau30XpHgvfNpu7zvT69enxXIXAgQIECAAAECBAgQIEBgukAEtIhpKxJIV+VQ8xtefMz0T91vCRAgQIAAAQIECBAgQGA9BSKmCd7Lc3nzhx/8qF//3CXr
+
+
+
+---
+*Source: Document 1a2790086785d8c4a01928d4c75b735e*

@@ -1,0 +1,31 @@
+---
+id: a6169740-205f-46a0-834b-942171d895a1
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - uuybz704a650s1gujat4iw3x3da44df2jnigvdsnnflenliuon0ubemv
+  - ebptwgjqonnllzxfwxw0rjoadi47tk6q3fiynpwcmdib1t8zcvsxtxvoyxda6hge
+  - y3pglhgm1cvcvvdmbknvnqa87xrvkk0hxpjnw64nciwdlxht6j9ztcp1soenus
+  - >-
+    jbc4syrhmshvo5t1ytvxyfudfonxvmhtxecqgt55lyp19kbyokpvzm6uwfswydn6t0438loqxviihaphdxe5lvvct4awfwm5lqnh3aq10sn2xbqzuzexz1djbbvu3egoukkatxckkboyike
+  - rn1yz56s3fzgt6c1275xcr4gcrivj6uxdzwbzlelxv
+---
+# uUYbZ704a650S1gujAt4Iw3X3da44DF2JniGvdSNnFLEnlIuoN0UbEMV+EBPtwgJqonnLlzXFwxW0rjo
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 4833 (chunk 4833/11534)
+
+## Content
+uUYbZ704a650S1gujAt4Iw3X3da44DF2JniGvdSNnFLEnlIuoN0UbEMV+EBPtwgJqonnLlzXFwxW0rjoAdi47tK6q3fiyNpWCMdIb1t8ZCVsxtXVOYxDA6hGe/Y3PgLhgM1CvcVvDMbkNVnqA87xrVKK0HXpJNw64nCIwDlxht6J9zTCp1sOeNuS+Jbc4syrhmshvo5T1YTVxYFuDfONXVmhtxECQgT55LYp19KbyOKPvZm6UwfSWyDn6t0438LOqxviiHAPHdxE5lvVCt4AwFwM5lQnH3aQ10Sn2XBqZuzEXz1DJBbVu3EgOukkAtXcKkBoyIKe+zc3/Rn1yZ56s3FzGt6C1275XcR4gCriVj6uxdzWBzLELXV+xUx833hhtLL+WnWxvLrnx8m0n4nzAxvnUgSTmukWI7qFPQycFjoAeO3c7M7ixkeDheZq68PB3MZS/PfpwZWLHiOoTIxnxeYFy2U8hj0LOxyfX2dwtZDlyHydNemA3eYSDOrSPj3yMbVUebO4tuec0vGCV/pc4Y72l9tfy5bLJ3pPJU+Uv9397uCO9hPDk8Vr24f8Q/5t9RO9J0bF4MnsiUKxfHISdO+MPTd4tnvX6IXBi9V7/ecnL1VvKZ2qvkCPsnx4SA9qbD9QerJ3ZeHB0tNV37+//1Qu1z/k07fWxR4fvtBYTwWDl6rXlJ7wT3W/7h8LTnVvaVfrtcHh1Jnuc4MXuk+WTubeS95UuK39QSPbv7BPPZezrf/UWMhk23/WWNjIxhlGrsm03HL7Z935nZUdXtfW+Uqz/Y8b860sPzqys7bng2R248Cw2b245qeeTR5M5OtHsgdjV42u71+cOtg8mN2/7a1fsLXcPjdxYXlhnG35zXR7uf21YMFfDh5uZ7392/XugfUDW83G6vbqzk+q6d6iz9ONC1n+qc33+CeFObnlzJ8O5tsrCcFy0lumzj+FTCA/qXVVyuTcnxbn62tZvoqVJoO95T79dDprGz+qrngHaierK4WlwnOT20vrseuzl8W8Da++7M/EFzK/l/ityxiM/dbcZ1/77X//n9+ey/zOf/jUb8y2Pl3/zU+du72YSW1fVbhgvNQ53rs9+Gr2rW41drj+IaHUR/p/lqxPjvf+ovFa7nj/L3OvFo81f0E/s6Opv8i9Uny8//PJS90nej+tPlc8Vvhe8fHYff2HEzekri5cERxo
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

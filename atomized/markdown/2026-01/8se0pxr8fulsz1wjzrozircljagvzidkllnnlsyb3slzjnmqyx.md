@@ -1,0 +1,31 @@
+---
+id: c45b9116-46ea-4870-a842-c30d7c95c2a5
+type: insight
+created: '2026-01-17T22:01:57.000Z'
+document: 1e7f774965e1eb562e09169dee48e356
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 8se0pxr8fulsz1w
+  - rozircl
+  - jagvzidkllnnlsyb3slzjnmqyx2d7kuu115afgwbvaupioy69bgqemd
+  - quepd7j0w4cdnk0sjmsslaclfwsz52u9sbj2c7qkew3kgbgkon7rarkcmo4akk1mnvchlwg
+  - >-
+    3yemjbibydqclfew2og6x2dkrbsopwsctavxcpyquuihfz9snwbwwjjxm3cl3clc9kdcbjovgauks06plnejlsb55hqkgyam9wchbyay4iincjnxr9q3cwpld42cdsi3nxymplnauao5svkgwkz9tcyzf528ne9cxodw
+---
+# 8Se0pXR8fUlsz1w+JZ/roZircL+jaGVzidkllnNlsyB3SLZjnmqYx2d7KuU115aFgWBVAUPIOY69BgQE
+
+## Context
+From document: New Note — chunk 334 (chunk 334/552)
+
+## Content
+8Se0pXR8fUlsz1w+JZ/roZircL+jaGVzidkllnNlsyB3SLZjnmqYx2d7KuU115aFgWBVAUPIOY69BgQEmd+qUEPD7J0W4CdNk0SjmSSlacLFwSZ52u9sBJ2C7Qkew3kGBGKON7rarKCmO4akk1mnvcHlWG/3yeMJBiBYdqCLFeW2og6X2DkRbSOPwsCTAvXcPYQUUihfZ9snWBwWJjXm3cl3CLC9KDcbJOVGaUKS06PlneJlSb55HqkGyAm9WChByAY4IinCJNXR9q3CWplD42CDSI3NXYMPLnauao5sVkGwkZ9tCYzf528nE9CXOdW+pTtk/4FWLGBNzDwI55+x6voyel2wzJzXvUtwz3sdmZWHsudRSCz58UmvYzLjnzGcr09hlS0yaokoyPGwpQD1nsKYFxkN23lU/c80bWGyQYOHpT3omZCafUY7CidmrRvsBAdG5H8sQQYesXG0xBXBGJ1hVA4NU+BnqzKzhsrSVdJZSjmimErkm0gEcv8Znyxyz5kwJF4u21iBKOuDyeSE9feiE0s/wZEq4P/5WiX29PkvMH0r+hezp2DpC/xnQzVqogLK/3t9vP8x4kf/KRJ2ohOAQqoe9Uz3WoIBC/I10B74VVm4gFKxkY+S8rgZzunFTWuAfVGTY7R3qdB4pjm9BB74AxqCnWEQ6cr3zJR9MEK2wGkQpTybzf+2WLPubYKrhfP6voRQjujwhHhFvsn28QRQuttf7OVtocZWqhU94nlzWYQ0ZZij9yWNQYsQmRjzhfDI0fT5CQZm82MhHm6AgY4ISWAg14y8v0Skw8fpeOjf4QzzZ+XWtpz6Bt7MVfN/+/jtp4J2L4SEXxw2/c8lglNGdOQVEkw+r6iaScbCJaNZrVS7HUSUwhd1VB+hjSVU+PabnUmf9QNliw7KjRXwOdkHprzl/VTm4pWrsUblYsRzf6j6auGjWALskqhJT2vPWRbD2cWCc/Y0yCcQQm2tnZ+QPMdSmxQd476Iwgrbqi5Vq6G1bIZXKWBk6jtVrFa3B2bdlzHOBHrvo6JPNx/svK/pcnYbuRI7dmUVCFrvqHb49bCsEirhXUfqwQ/LWYcDprZ8UJ8ejkUbJm0FdMdaQjhVll0Fh9vocDq9kJ7J8/0PqleDy9hVVt2RaEPw6Dwkv51YmWQ7+CU32543j7zllXZpCh3OZkdz3FcxJTnTa2byorIc
+
+
+
+---
+*Source: Document 1e7f774965e1eb562e09169dee48e356*

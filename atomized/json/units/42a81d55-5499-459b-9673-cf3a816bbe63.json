@@ -1,0 +1,26 @@
+{
+  "id": "42a81d55-5499-459b-9673-cf3a816bbe63",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>**Lean Settings For Vibrancy**</div>\n<div>```jsonc</div>\n<div>{</div>\n<div>  &quotworkbench.colorTheme&quot: &quotDefault Dark+&quot,</div>\n<div>  &quotworkbench.editor.pinnedTabsOnSeparateRow&quot: true,</div>\n<div>  &quotwindow.autoDetectColorScheme&quot: true,</div>\n<div>  &quotworkbench.colorCustomizations&quot: {</div>\n<div>    &quotactivityBar.activeBorder&quot: &quot#6fb9ff&quot,</div>\n<div>    &quotactivityBarBadge.background&quot: &quot#6fb9ff&quot,</div>\n<div>    &quottab.activeBorderTop&quot: &quot#6fb9ff&quot</div>\n<div>  },</div>\n<div>  &quotvscode_vibrancy.enableAutoTheme&quot: true,</div>\n<div>  &quotvscode_vibrancy.type&quot: &quotunder-window&quot,</div>\n<div>  &quotvscode_vibrancy.forceFramelessWindow&quot: false,          // set false first for stability</div>\n<div>  &quotvscode_vibrancy.opacity&quot: 0.85,                        // -1 = extension default; choose explicit value</div>\n<div>  &quotvscode_vibrancy.refreshInterval&quot: 0,                   // 0 disables periodic refresh loops</div>\n<div>  &quoteditor.cursorSmoothCaretAnimation&quot: &quoton&quot,</div>\n<div>  &quoteditor.inlayHints.padding&quot: true,</div>\n<div>  &quotfiles.autoSave&quot: &quotonFocusChange&quot,</div>",
+  "context": "From document: User: fix — chunk 22 (chunk 22/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "quotvscode_vibrancy",
+    "true",
+    "quotworkbench",
+    "6fb9ff"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

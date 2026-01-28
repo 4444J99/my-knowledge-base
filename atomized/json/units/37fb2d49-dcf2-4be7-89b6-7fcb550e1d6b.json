@@ -1,0 +1,26 @@
+{
+  "id": "37fb2d49-dcf2-4be7-89b6-7fcb550e1d6b",
+  "type": "insight",
+  "timestamp": "2025-12-11T19:52:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>|Opportunity |Amount |Timeline |Likelihood |</div>\n<div>|------------------------------------|----------------------|----------------------------------|-----------------------------------------------------------|</div>\n<div>|**Ars Electronica / Mozarteum XR** |€40,000 (~$43K USD) |Awarded Oct 2025; funded Jan 2026 |Moderate (8/10 fit; 10-15% acceptance rate for category) |</div>\n<div>|**Creative Capital** |$15,000–$30,000 |Awarded May 2026; funded June 2026|High (9/10 fit; 15-20% acceptance rate) |</div>\n<div>|**Thoughtworks Arts** |$10,000 + tech support|Ongoing rolling admissions |Moderate (9/10 fit; limited slots) |</div>\n<div>|**S+T+ARTS Prize** |€20,000 (~$21.5K USD) |Awarded May 2026; funded June 2026|Moderate (10/10 fit; extremely competitive; &lt1% acceptance)|</div>\n<div>|**Smaller grants + residencies** |$5,000–$10,000 total |Throughout 2025–2026 |High (if we apply strategically) |</div>\n<div>|**Fiscal sponsorship (NEA pathway)**|$30,000–$50,000 |2026+ |Medium (requires institutional setup first) |</div>\n<div><br></div>\n<div>**Realistic combined funding for 2025–2026**: $45,000–$85,000 USD / €45,000–€70,000 EUR (accounting for currency fluctuations and probability-weighted acceptance rates).</div>",
+  "context": "From document: Chris, — chunk 19 (chunk 19/25)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "95023b367d0cafd95246c623bb5c2f5c",
+  "relatedUnits": [],
+  "keywords": [
+    "2026",
+    "acceptance",
+    "awarded",
+    "2025",
+    "funded"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

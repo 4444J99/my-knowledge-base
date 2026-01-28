@@ -1,0 +1,26 @@
+{
+  "id": "8ba9df8a-ddab-473f-b64a-20e3a6927195",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt>- Operations: Merge, Rename, Forget </tt></div>",
+  "content": "<div><tt>- Operations: Merge, Rename, Forget </tt></div>\n<div><tt>- **6722× faster** than HRG toolkit Bolinas </tt></div>\n<div><tt>- Fine-grained control over graph construction </tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Synchronous HRGs:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Simultaneously generate string + graph</tt></div>\n<div><tt>- Formal alignment ensures well-formed outputs  </tt></div>\n<div><tt>- Applications: AMR parsing/generation, translation</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### **4. Abstract Meaning Representation**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Structure:** Rooted DAGs, nodes=concepts, edges=semantic roles </tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Extensions for RLOS:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Multimodal AMR: nodes for visual/audio entities, cross-modal edges</tt></div>\n<div><tt>- Rhetorical AMR: discourse relations as edges</tt></div>\n<div><tt>- Temporal/modal: UMR extensions</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Performance Target:** Smatch F1 &gt85% with explainable SHRG backbone</tt></div>\n<div><tt><br></tt></div>\n<div><tt>-----</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## **PART III: THE 84 CORE FUNCTIONS**</tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 5 (chunk 5/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "edges",
+    "graph",
+    "nodes",
+    "extensions",
+    "modal"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

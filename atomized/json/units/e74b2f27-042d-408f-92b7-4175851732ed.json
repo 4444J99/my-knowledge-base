@@ -1,0 +1,26 @@
+{
+  "id": "e74b2f27-042d-408f-92b7-4175851732ed",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> How Purge Failures Work:</div>\n<div>  •  If a purge attempt is denied, the player receives a permanent debuff.</div>\n<div>  •  If the purge attempt was blocked by another player, the initiator must “pay a debt” to that player.</div>\n<div>  •  If no sacrifice was found, the initiator suffers “The Curse of Incompletion” (a lingering penalty).</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Example Purge Failure Penalties:</div>\n<div>  •  The Curse of Incompletion → The player’s next fate roll is automatically weakened.</div>\n<div>  •  Debt Owed → The blocked player can demand one favor later in the semester.</div>\n<div>  •  Failed Transformation → The player suffers a hybrid effect (ex: stuck between archetypes, gaining negatives from both).</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Ensures that purges are serious, irreversible attempts.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Prevents players from casually trying to escape their archetype without risk.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Adds weight to faction-based bargaining—players must truly commit to a purge.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 547 (chunk 547/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "player",
+    "zapfdingbatsitc",
+    "purge"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

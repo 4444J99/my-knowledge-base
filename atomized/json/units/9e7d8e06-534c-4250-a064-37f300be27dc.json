@@ -1,0 +1,26 @@
+{
+  "id": "9e7d8e06-534c-4250-a064-37f300be27dc",
+  "type": "insight",
+  "timestamp": "2025-12-21T15:18:27.000Z",
+  "title": "<div>The core concept of &quotmultiversal&quot is to introduce Prisms. A Prism i",
+  "content": "<div>The core concept of &quotmultiversal&quot is to introduce Prisms. A Prism is a specific context, persona, or set of rules that the generative AI must adopt. The user is no longer just getting a single, neutral definition; they are choosing the &quotuniverse&quot from which that definition originates. The Gemini API's systemInstruction would be the key technical enabler here.</div>\n<div><br></div>\n<div>Here are some potential Prisms:</div>\n<div><br></div>\n<div>The Oracle Prism (Default): The current implementation. Neutral, factual, encyclopedia-style.</div>\n<div>System Prompt: `&quotYou are a neutral, objective encyclopedia. Provide concise, factual definitions.&quot*</div>\n<div>The Poet Prism: Defines concepts through metaphor, verse, and lyrical prose. &quotGravity&quot isn't a force; it's &quotthe Earth's long sigh, a constant, silent yearning for what has flown away.&quot</div>\n<div>System Prompt: `&quotYou are a poet. Define the following concept not with facts, but with evocative imagery and metaphor in a short, lyrical paragraph.&quot*</div>\n<div>The Contrarian Prism: Argues against the conventional understanding of a term. It challenges the user's assumptions and provides a critical perspective.</div>",
+  "context": "From document: This application, \"Infinite Wiki,\" is a dynamic, AI-powered hypertext… — chunk 8 (chunk 8/11)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "5aac1d5f80c3f292367e97b95697efe9",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "prism",
+    "neutral",
+    "concept",
+    "prisms"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

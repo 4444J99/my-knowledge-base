@@ -1,0 +1,26 @@
+{
+  "id": "3c3c992a-a7a3-4c4e-bc40-eb53c78a8f78",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>├── README.md</div>",
+  "content": "<div>├── README.md</div>\n<div>├── requirements.txt</div>\n<div>├── .env.example</div>\n<div>├── .gitignore</div>\n<div>├── src/</div>\n<div>│   ├── __init__.py</div>\n<div>│   ├── github_client.py      # GitHub API wrapper</div>\n<div>│   ├── repo_analyzer.py      # Analysis logic</div>\n<div>│   ├── classifier.py         # Classification rules</div>\n<div>│   └── report_generator.py   # Output reports</div>\n<div>├── config/</div>\n<div>│   └── classification_rules.yaml</div>\n<div>├── outputs/</div>\n<div>│   ├── .gitkeep</div>\n<div>│   └── (generated reports go here)</div>\n<div>└── scripts/</div>\n<div>    ├── run_audit.py          # Main execution script</div>\n<div>    └── quick_stats.py        # Quick overview stats</div>\n<div>```</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **Key Features to Include:**</div>\n<div><br></div>\n<div>1. **GitHub Authentication**</div>\n<div>   - Use personal access token (from env var)</div>\n<div>   - Handle rate limiting gracefully</div>\n<div><br></div>\n<div>2. **Detailed Analysis**</div>\n<div>   - Fork status and relationship to upstream</div>\n<div>   - User's contribution count vs. total commits</div>\n<div>   - Last activity timestamp</div>\n<div>   - Language breakdown</div>",
+  "context": "From document: Contents_Table — chunk 89 (chunk 89/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "github",
+    "analysis",
+    "reports",
+    "readme",
+    "requirements"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

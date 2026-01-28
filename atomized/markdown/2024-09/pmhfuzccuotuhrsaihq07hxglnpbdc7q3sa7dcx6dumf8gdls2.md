@@ -1,0 +1,32 @@
+---
+id: 04ab8acc-73ee-4fc0-8da7-843c37146e86
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - pmhf
+  - uzccuotuhrsaihq07hxglnpbdc7q3s
+  - >-
+    a7dcx6dumf8gdls2h0m616ccrvtnxtrbs3i3w15umrenzqk2gbqgxyepelwc9zvspjlek4kylvq4xk1cwmhkvshihe3hyuixukkxffrblcinhy6melwt3qaug6cqyp8tpiugqdfilrfhjeylqdha
+  - >-
+    cyms69qadqu4mxivftk7jms1gixqkaqadjwiryv2leco2qivtrkgl7rmwihfdxtjdw4cgu74dfawd4kpdk60jlsv228dbrhipg8dv5e4bdw
+  - lgwq1cd7mr
+---
+# pmHF/uZCcUotuhrsAihq07hXglNPBdc7Q3s+a7dCX6dUMf8GDls2h0M616CCRvtnxtRbS3I3W15umren
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 645 (chunk 645/11534)
+
+## Content
+pmHF/uZCcUotuhrsAihq07hXglNPBdc7Q3s+a7dCX6dUMf8GDls2h0M616CCRvtnxtRbS3I3W15umrenzqK2GbqgxYEPeLWC9ZVSpJleK4KylVq4XK1CwmhKvsHiHe3hYUiXUkKxFFrblCiNhy6mElWt3qAug6cqyp8TpiuGQdfilrFhjeylqdHA/CYmS69QAdQu4mXiVFTk7JmS1gIxqkAQAdJWiryV2lECo2QIvtrkGL7RMwiHfdxtjdW4cGU74DfaWD4kPDk60Jlsv228DbrhIPG8dv5e4BdW/lgwq1cD7mR/wOHhWvgLcNtOxq4hNtO8OYmJy4FHJureMe+ws0Vxnfhp/D9DcwpDNOMN7dfIu1ZAlQna9/BC5k8zw2sZuvsDU1f5bjZ6YPZX5lCzXoWKdrbTxy/YsAxnaZ9xx7BsrE/hCONOcDBJbKHfjJXI95VDVCUL2noS6FiD4FonCV/IVIyVnincesjXLE244hfbA957HVeM3tN/Gc1FLJbkNUt3ELKEWqc4SMdkYC4QNylVnhhTJ9hvntWCue4xaU3fKrVDPVDExSw+22f4pSG8dt9/Otjnk+WgsU5Jv79e1JaEApAbVQP12NV5VxQghMtt6KUoGCvQTvr/t5ZkoimFKmnpwEJpB0BCuHjZ1JeIxki7AAuOuvaq1YxSfsKrGJr8ZvI7fGfRetuv4x+T5K/tLecHsUHKGvLjKkwdggMqAYvny0cJjfy8d6/HjSIdys76mUfKCkBHWgtLRJohhs6DpU1eelg8rOlDtO8PtEBIRl7Un4BO03XmtR608do8+syBqAppCp7Q9zNb221+fXBeDnfR1RmYe9fIO6kHtQfxNILmTb+gBDwP0CfCHULNWhso8hj8ni3UuQ3WyLzH9c53KcGUgWUvmYAGd2ZMqxMT9ynMyCpmsHwMC1gzHFU1f57cMyueimB6KaI3iMo/JueMy+d8KB8X6VwrLonKH2Q0MA6XCRPf+IoeIxw9UTdltk2LgOX3hI3m+iwoB7mo96cbrKcAczqg2CQ7hDwgMa8UrBfqaTkCI9lE34u9g12PT1e4vfWPhrrpsbt0051I54nsyAsbbTiJdYJGmBQ0pIu2Iz5+tJL13foVeOSkma/rbn1FlZ/uRic/5/Z27UfwTstJ4BPDZ/2nRgFkwNhAdKBjghNmVLc/PlRms9bX5hOgMOJMHzG+
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

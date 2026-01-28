@@ -1,0 +1,31 @@
+---
+id: d8387438-78e2-4b12-88d3-f75dc02f1665
+type: insight
+created: '2026-01-17T22:01:57.000Z'
+document: 1e7f774965e1eb562e09169dee48e356
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - yerwxu3gy5dfr1zwhnm3y04khwrqn20zxsgj
+  - 4htjms1fcdiwroff2arlae5glbodfojcqluf0jdyebkez1etvb
+  - ktpsnpk
+  - >-
+    kae3fbzqjzhnqsim3a1qhkmbrfc8v48394d5urq8yl6cvt3598tuwjivcoyvtqwfmq99touwcteogkh6kos1estrojmw1vww4dpcz1t7reyoakwll4uycjd51wmeockm5kjyhzfqwfdqwauub2uctdzlx22hvlr4hbwndsxtge2kn9fbsyys1kbric6meqipcnjvtqb2mn8pe3ayj7az0vhr
+  - bw5l5q0g
+---
+# YeRWxU3gy5dFr1ZwHnM3y04KhwRqN20ZXSGj/vs/4HtjMS1fCDiWROff2aRLae5glboDFojcqLuf0jDY
+
+## Context
+From document: New Note — chunk 403 (chunk 403/552)
+
+## Content
+YeRWxU3gy5dFr1ZwHnM3y04KhwRqN20ZXSGj/vs/4HtjMS1fCDiWROff2aRLae5glboDFojcqLuf0jDYebkEz1EtVB+KtpSnPk+Kae3FBZqjZhnQSiM3a1qhKmBrFc8V48394d5urq8yL6CVt3598TuwjIvCOyvtqwfMQ99touwCtEOgKh6kOS1estROjmw1vwW4dPcZ1t7reyoAKWLl4uYcjD51wMEocKm5kJYHzFQwFDQWAUuB2uCTdZlx22HvLR4HbWNdsxtge2kN9fBsYyS1KBric6MeqIPcnjvtQB2MN8pE3aYj7az0Vhr/BW5l5q0g+B/IbRNosviQO+bg9RGZl617MptRnunAEXaAOPMb8pNBDR4PClG+ljeGS2uxFfE5HMUoKIQRfrFj3ZqmIu/2j7Yu3WwedpnLinqt++/3xFI1AgPBHLr5aG8v7gmXqZF5Kol/NYEPyVZRSCQPzvqf/n7Qj7HcowMw7x3mP6S++Kv9vvxVWGMW0rOLfX3MnPKyuSk+u4oIyJz5kiqjakGSiq1J4WXJUWY93oystG3ujq/1tBm/UKLCkkWlY/ACd5pPvFMA6blFQtgfqjE5C4pyiqQFeDsL19wIMPNhAfsyNmg9vihnC2l5Ya5gDJZ5ASnmh1seTpDPqcPrIOHsP0r0XJ5Qs/A2iGZS4EQ9yMdDeXJZy9ml8JvBpLlrC68Lda0QBxO8Q9C7wQlzPjwHjqyEVf7FcDijnrqOqHTuPSCCqRnIMcuuSOG3chQNArpLWrCm2kbwY6ovZvmo/bePBLHiPomajHUIh7JFvJy06ykfqjSPmtKc1uTCx1XRgfHCVp1T0fA3ZgT6ohP5xoWfeD2X9J03nH+N9Gw1EJNOE4Aui9jwOo2y4SpClKsVNWaH6GMzicxLMahDQi1uTagksboWY9j2WLthI4VbQuMDZDFk63/TVb6Id6u1G7WoPB08r4/7DgFOQLnWpLCzAXNXHDDp+slAWcyCzrP7wD5exIzwlTIU51k85LlY4m61/zL7EtpeJTNiNDttl9loA+xd17HjsgtIuQOCJeloxO5ZH/WTqOioQe2O4eCzlW3d5Xm9t48zc346YIfPM1cGraWV2jL6BV/TS39axiwXFpo04QrL2IvBErgxbDolTbhSC87wCuKQOZMbx2C4JN1AJRhRVG8YjMqa97QmRJoficGmol1guWHO
+
+
+
+---
+*Source: Document 1e7f774965e1eb562e09169dee48e356*

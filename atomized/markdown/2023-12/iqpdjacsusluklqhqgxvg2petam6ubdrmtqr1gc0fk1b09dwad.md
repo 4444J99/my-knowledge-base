@@ -1,0 +1,33 @@
+---
+id: b6b8bfdb-2fdb-4299-941a-6fe0ee744a7e
+type: insight
+created: '2023-12-18T14:21:36.000Z'
+document: b4240d3380e02ebadbcca3fa18d480ae
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    iqpdjacsusluklqhqgxvg2petam6ubdrmtqr1gc0fk1b09dwadd0adoazuevra9cf6mr0hxofvrf9g10p3oe
+  - >-
+    r1dxmhjldgugbymdpocwyypwjrh9moamzcwdzgdma9yljakncu6ywow8dg07hjsmxy3tgl7dtudhcco4na4tzwlzh0xhmpjjlgc3e7cqdxz3c3cio4txggvh7fh
+  - et8al8onwz
+  - dp4wfgg
+  - >-
+    rlamgbnccweeligxuelyr2gn3camesaikkrtojsxiphgxessjzyslxefed8pkcgyklgozffgk6xrkfc4rhbfov
+---
+# iQpDJaCSUSLUKlQhqgxVg2pEtaM6UbdRMtQr1Gc0Fk1B09DWaDd0ADoazUEvRa9CF6Mr0HXoFvRF9G10
+
+## Context
+From document: Forward Funders Competition Ad Examples — chunk 2448 (chunk 2448/3262)
+
+## Content
+iQpDJaCSUSLUKlQhqgxVg2pEtaM6UbdRMtQr1Gc0Fk1B09DWaDd0ADoazUEvRa9CF6Mr0HXoFvRF9G10P3oE/R1DxmhjLDGuGBYmDpOCWYYpwJRh9mOaMZcwdzGDmA9YLJaKNcU6YwOw8dg07HJsMXY3tgl7DtuDHcCO4nA4TZwlzh0XhmPjJLgC3E7cQdxZ3C3cIO4TXgGvh7fH++ET8AL8OnwZ/gD+DP4Wfgg/RlAmGBNcCWEELiGXUELYR2gn3CAMEsaIKkRTojsxiphGXEssJzYSLxEfEd8pKCgYKLgozFfgK6xRKFc4rHBFoV/hM0mVZEFikhaSpKRNpFrSOdJ90jsymWxC9iInkCXkTeR68gXyE/InRYqijSJLkau4WrFSsUXxluJrJYKSsRJDabFSnlKZ0jGlG0qvlAnKJspMZbbyKuVK5RPKfcqjKhQVO5UwlUyVYpUDKldVnqviVE1UfVW5qvmqe1UvqA5QUBRDCpPCoayn7KNcogyqYdVM1VhqaWpFaofUutVG1FXV56rHqOeoV6qfVpdRUVQTKouaQS2hHqX2Ur/M0pnFmMWbtXFW46xbsz5qzNbw0uBpFGo0adzV+KJJ0/TVTNfcotmq+VgLrWWhNV9rmdYerUtar2arzXabzZldOPvo7AfasLaFdoT2cu292l3aozq6Ov46Qp2dOhd0XulSdb1003S36Z7RHdaj6Hno8fW26Z3Ve0FTpzFoGbRy2kXaiL62foC+VL9av1t/zMDUINpgnUGTwWNDoiHdMNlwm2GH4YiRnlGI0QqjBqMHxgRjunGq8Q7jTuOPJqYmsSYbTFpNnptqmLJM80wbTB+Zkc08zZaa1ZjdMcea083TzXeb37SALRwtUi0qLW5YwpZOlnzL3ZY9VhgrFyuBVY1VnzXJmmGdbd1g3W9DtQm2WWfTavN6jtGchDlb5nTO+W7raJthu8/2oZ2qXaDdOrt2u7f2FvYc+0r7Ow5kBz+H1Q5tDm/mWs7lzd0z954jxTHEcYNjh+M3J2cnkVOj07CzkXOi8y7nProaPZxeTL/ignHxdlntcsrls6uTq8T1qOufbtZu6W4H3J7PM53Hm7dv3oC7gTvbvdpd5kHzSPT42UPmqe/J9qzxfOpl6MX12u81xDBnpDEOMl5723qLvJu9PzJdmSuZ53xQPv4+hT7dvqq+0b4Vvk/8DPxS
+
+
+
+---
+*Source: Document b4240d3380e02ebadbcca3fa18d480ae*

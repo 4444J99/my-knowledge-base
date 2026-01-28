@@ -1,0 +1,26 @@
+{
+  "id": "23ce48e6-3b3c-4dc3-bab3-c388474794a3",
+  "type": "insight",
+  "timestamp": "2025-05-15T00:56:03.000Z",
+  "title": "<div>INSTALL COMMAND</div>",
+  "content": "<div>INSTALL COMMAND</div>\n<div>::INSTALL.SYLLABUS_TO_VAULT(Creates OS_SYLLABUS/, header + footer, and links all modules to their OS components.)SYLLABUS UID:SY‑OS_02‑00  |  Version: v2  |  May 2025 “Self‑teaching is ritual. The OS is the altar.”Response:</div>\n<div>Analysis errored</div>\n<div>from pathlib import Path</div>\n<div><br></div>\n<div># Define base path to ACTIVE_CORE directory (same used previously)</div>\n<div>active_core_dir = Path(&quot/mnt/data/KN-LR_01-00_learning-recursions/ACTIVE_CORE&quot)</div>\n<div><br></div>\n<div># Create OS_SYLLABUS folder</div>\n<div>syllabus_dir = active_core_dir / &quotOS_SYLLABUS&quot</div>\n<div>syllabus_dir.mkdir(parents=True, exist_ok=True)</div>\n<div><br></div>\n<div># Syllabus content (from previous response)</div>\n<div>syllabus_content = &quot&quot&quot&lt!-- UID: SY-OS_02-00 --&gt</div>\n<div><br></div>\n<div># **RE:GE OS — Master Curriculum v2 (Component‑Linked Edition)**  </div>\n<div>*A cross‑disciplinary blueprint for building the OS **and** educating yourself indefinitely.*</div>\n<div><br></div>\n<div>...(content truncated for brevity in this snippet; full syllabus to be written)...</div>\n<div>&quot&quot&quot</div>\n<div><br></div>\n<div># Write README.md</div>",
+  "context": "From document: Grokking Algorithms for OS — chunk 386 (chunk 386/402)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "084f9bc77d1d8854a07a52206c286278",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "syllabus",
+    "path",
+    "install",
+    "os_syllabus"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "755c41e4-f8d1-49ef-ab90-f0264b9ba7f1",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div>  •  A roll of 1-3 results in a “punishment”—the player is automatically lo",
+  "content": "<div>  •  A roll of 1-3 results in a “punishment”—the player is automatically locked into a worse scenario.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Faction and Archetype Modifiers Apply:</div>\n<div>  •  Certain archetypes are better at escaping.</div>\n<div>  •  Certain factions may penalize or reward those who flee.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Prevents forced participation while ensuring risk.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Adds another layer of tactical decision-making.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Maintains game fairness—fleeing has pros and cons.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 3. Faction &amp Party Bonuses – Strength in Numbers</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Each faction, party, and archetype now has its own passive buffs.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Faction Bonuses:</div>\n<div>  •  The Archivists – Gain +1 to all knowledge-based skill checks.</div>\n<div>  •  The Tricksters – Can reroll deception-related skill checks once per session.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 457 (chunk 457/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "zapfdingbatsitc",
+    "faction",
+    "applecoloremojiui"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

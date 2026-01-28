@@ -1,0 +1,31 @@
+---
+id: f5686c33-b7fd-4149-9c7f-395ba8a2a751
+type: insight
+created: '2017-10-10T23:16:34.000Z'
+document: 64a95cd2950865cc023eedad1ff9b65d
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 2cedy7kcd8b
+  - tvacxi8gl5wadhmaoqmb1uojqncyawfeved1qlmz63w8gsnisi7rrofnp3pulviyxa3v
+  - 6s1ebnkb0r7
+  - tqlcxrpvyrpkuw1masobwjzvp6hzcj
+  - >-
+    fy31797cedaeeo9apn5aez8o24mhyagyaoba8ueaxx5i4i5dujjsf8siey7mrlqgqv0rr7xsbg4cgfnrptbiqwkheki6nddsj9z2cvi9jcuy29spu12vkzx4f198ca6mutfjojoemp8kuyotidwgwai85eyvzrt29vvxxevkm8ang
+---
+# PiX/2ceDY7KcD8B+TVacXi8gl5wadHMaoQmB1uoJQNcyAWFeVed1QLMZ63W8GSnISI7Rrofnp3puLviy
+
+## Context
+From document: sign -- signifies t signified ___________ iz'ag — chunk 76 (chunk 76/273)
+
+## Content
+PiX/2ceDY7KcD8B+TVacXi8gl5wadHMaoQmB1uoJQNcyAWFeVed1QLMZ63W8GSnISI7Rrofnp3puLviyXa3V/6s1ebNKb0R7/TqlCxrpVyRPkUW1MASOBwJzVP6HZCJ/fy31797CEDAEEo9APn5aEz8o24MhYAgYAobA8UEAXX5I4i5dujjSf8SIEY7MRlqGqv0rr7xSBg4cGFNrPtbIqWKHEKI6NDdSJ9Z2CvI9JCuY29SpU12VKZX4F198ca6mutFjoJoeMp8KUyotIdwgwai85EYVZrT29VVXXeVkM8aNG+cSLsgBZRdU0P7jH/8QJIDQ26YaFqkJgmpb9gfJk5tWNEmKIUOGOKmMevXqufXtP0PAEEhPBAozAdCqVStB0o3vOvTm/cC8d+HChY6gp0sgUWHkf87I8rtDAoAEPJJxFumFwO79YaK6oDoAdipZP2u1J5jHTtAbUjmQ9RD+VNQjf3OK6nU3UV+tyicFXPIBiRy6EEhEwJnTCOMb5+5RgnmnJgPY7na9YaSLDv3yLSq/s8Vz0jQTFqs0z3zPJRCQ/Ty1ekDa1RJpVSPg5HnikdthP69OC8k7c0JKJgbkfiX/K2tnweNqAjxKEwKtdVv9tNq/b7Ogk/H5RjsBiEiOnwr/qodkSNZpdTIJAV5LlfhW5VSe+TLkujVu7KxV/0r+Q/R/qEmBzep7xlxb1Qi640mihiQPkk0WhkBhI8DfFn+DfC4HqJdiTe0EsjAEDIHEI2AJgMRjbHswBAwBQyDlEIDMRvqnR48eQrU4Ve2YBP/+978X9Jj/8Ic/ODmGvE6MKvuffvpJ2D5EdiICguOTTz5xxPh55513BBkVuT/IsVGjRjlNaHwJSH4cOHDAGeyy3BVXXBG5eFyPIeZJoMQbaFlfcsklTiLjiy++kEGDBrlEQeT6VG2++uqrTrufhAESPpdffrmT82G51atXO08BSDdfWihy/cjHJAnuv/9+JyGU6IrgyP3aY0PAECh8BJDLQZqM7wiSh4kMCGZ+HyIDwvnrr792Ov7I9NANZXF8ECAxw3c+HQDpJL13fNBMrr3SAQD5T/X9scYPSvY/OSkkU5aFJX+Q5jlHDW8xvYWMr6UkHRI+8ZDiJAPoFKigPgC6Bv9FRMDJBdEZsEE16tdsDycDFml+ClPQzxeF5N25IjW0O6C5Kia202r+tlqpT/KB/UcH
+
+
+
+---
+*Source: Document 64a95cd2950865cc023eedad1ff9b65d*

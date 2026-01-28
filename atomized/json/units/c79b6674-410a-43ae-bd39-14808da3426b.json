@@ -1,0 +1,26 @@
+{
+  "id": "c79b6674-410a-43ae-bd39-14808da3426b",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>────────────────────────</div>\n<div>9. Continuity and Self-Containment</div>\n<div><br></div>\n<div>This specification is designed to be self-sufficient. A new AI, given:</div>\n<div><br></div>\n<div>The current versions of this specification.</div>\n<div>The environment variables $OS_ROOT, $ARCHIVE_ROOT, $PROMPT_ROOT, $REPO_ROOT, $ORG_ID, $AUTOMATION_ENGINE.</div>\n<div>Permission to read from and write to those roots.</div>\n<div><br></div>\n<div>can re-instantiate the creative-operating-system by:</div>\n<div><br></div>\n<div>Creating the specified directory skeletons.</div>\n<div>Initializing manifest files in $ARCHIVE_ROOT/meta.</div>\n<div>Creating foundational prompts in $PROMPT_ROOT aligned with the naming grammar.</div>\n<div>Committing initial specs and documentation into $REPO_ROOT/$ORG_ID/os-foundation and $REPO_ROOT/$ORG_ID/docs.</div>\n<div>Configuring $AUTOMATION_ENGINE with the event-to-workflow mappings outlined above.</div>\n<div><br></div>\n<div>Subsequent runs iterate by consulting $ARCHIVE_ROOT/meta indices, adhering to this naming scheme, and consistently attaching SEAL blocks, thereby turning one-off tasks into chapters of a recursive, evolving MythOS.</div>",
+  "context": "From document: 0.\tPreamble and Scope — chunk 27 (chunk 27/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "b3360b527d494aeb150b316c90472eb0",
+  "relatedUnits": [],
+  "keywords": [
+    "this",
+    "archive_root",
+    "repo_root",
+    "org_id",
+    "self"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

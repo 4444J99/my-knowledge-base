@@ -1,0 +1,26 @@
+{
+  "id": "aca9210f-5724-4520-96f7-003c75ba6e6b",
+  "type": "insight",
+  "timestamp": "2025-08-20T01:08:51.000Z",
+  "title": "<div>Reading List  •  Operating Systems: Three Easy Pieces (review)</div>",
+  "content": "<div>Reading List  •  Operating Systems: Three Easy Pieces (review)</div>\n<div>  •  Linux Kernel Development (Robert Love)</div>\n<div>  •  Designing Data-Intensive Applications (Kleppmann)</div>\n<div>Further Studies  •  seL4 formal verification papers</div>\n<div>  •  Containerization &amp CI for OS</div>\n<div>Examples  •  src/capstone/ monorepo structure</div>\n<div>  •  GitHub Actions CI for kernel, docs, &amp site</div>\n<div>Templates  •  modules/capstone/project-template.md  •  Grant proposal outline</div>\n<div>Tie-ins  •  Arts: mixed-reality installations</div>\n<div>  •  Sciences: systems biology analogies</div>\n<div>  •  Philosophy: self-referential systems</div>\n<div>  •  Math: category theory for composition</div>\n<div>Wings Artifacts  •  Academic: capstone paper draft</div>\n<div>  •  SOP: Release Pipeline</div>\n<div>  •  Business: investor pitch deck</div>\n<div>  •  Social: launch announcement thread</div>\n<div>  •  Community: keynote talk deck</div>\n<div>  •  Wiki: Platform Architecture</div>\n<div>  •  Web/Blog: published site with live demos</div>\n<div>  •  Grants: complete proposals &amp budgets</div>",
+  "context": "From document: Prompt for AI: Multi-Archetype Syllabus Critique — chunk 10 (chunk 10/10)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "735011ec826ae272226ee00d2196dfe0",
+  "relatedUnits": [],
+  "keywords": [
+    "systems",
+    "capstone",
+    "kernel",
+    "site",
+    "deck"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

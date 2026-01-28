@@ -1,0 +1,32 @@
+---
+id: 9c07ae61-3473-4449-935f-6a13b6b297f1
+type: insight
+created: '2020-12-04T00:15:12.000Z'
+document: e44d7acfd42bc15a324166b827d0b603
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 1sbjytgjltrwefjtn3cz7owfakaotef4jwrjjzwyai4xbaw
+  - >-
+    s6jzdxng28kp4mitlj2y9ycd8taxsmuwycj5hwt1qmnlvmy6dawdgmkrwiuqkt6z97tmkpfrmgs8tlwqov95lve
+  - k1g9n46803pxhxpvbk
+  - >-
+    j4nlixgrufpqnwdg1tkedkwjdlcfpakrv31a32ob4gmrppkgxbzmm8ku1kpyngjqqadvybayllho9lkq5tdr1ygqfjpchhbmrmlqx6agwsjoso29qv5efpm4xucfyrtwvc3azltuo23llthwyimxv4loxb952xisv2h5oc9uvvk1clwb7vdrzu71vznnyfrntkwjcwpflw5pzlpynoxuy5kpzzipswqwfe1procbbo9dujk3jgd909vdgku7bsy
+  - thbta1b1wmoeyahz
+---
+# 1SbJyTgjLTRweFjTn3Cz7owFakaOTEF4jwRJjZWyaI4xbaW/s6jZdXNG28Kp4miTlJ2y9YCD8taxSmUw
+
+## Context
+From document: How Geniuses Spent Their Time — chunk 85 (chunk 85/812)
+
+## Content
+1SbJyTgjLTRweFjTn3Cz7owFakaOTEF4jwRJjZWyaI4xbaW/s6jZdXNG28Kp4miTlJ2y9YCD8taxSmUwycJ5hWT1qmnLVMy6dawDgMkRWiuQKt6z97TMkPfRmGs8tLwQOV95lVE/k1G9n46803PxHXpVBK/j4NlIXgrUFpQnWdG1TKeDkwJdlcFpakRV31a32ob4gMRPPkgxbZmM8Ku1KPyngJqQADvYbAylLhO9LKQ5tDr1YgqfJPcHHBMrmlQX6AGWSjoso29Qv5efPM4XUcfyRtWVc3azLtUO23LltHWyImxV4Loxb952xIsv2H5oC9UVvK1CLWB7VdrZU71VZNNyFRNTkwjCWpfLW5PzlpYNOxuY5KPZZIPsWqwFe1PROCBbo9DUjK3JGd909VdgKu7bSy/THBTa1b1WmOeyaHZ+saVUAk8++SSbAAYKOavAaqFNqktnRpKYXmVWuRyqnZJRbQonEayWS6BPRO1L3tEEqJbTm/03MkKTTNdUJJDnzrG03pNsbLmbXcMzxTzMc3bSs/+USElvxiKKS7cOlLylsG63eO4Mb3VjmPSzKGUN79aD/sfahX+67RDx7Zzzfuifn/nDjfyeOovtrK4T/kf47nrCLSMAewnPBhsQxadOnbrLD3Z53/vex+4/YjB3/aHf+973sgFw//0PYK5/95o1N954408OPZSPAJ140knz5s27/PLLFy1axAo/uwF+9eijbP274YYb4PNjHkITZUDAVwNsS/+GG44ZO3bmzJmMGIj0trDvj/axD8Bm/D7XZzzA1P/b232bpQKYDAK+//3v78Bvxx357gCXWgk466wzq00W0YZ/aO5EMPUXk6cWvE1GW1LJq11BN0TQVZskJd0Rbe0kLWSuQKDi7JeKVdHBr3pv3EC8re6iS9cRe6OBbvG/nDaUzIwUdBnonhR0SspvE5Nio15QXWp6HLCZ1ZAsBPiV+YYwE3U5kGH4TF4vXrRYnRrrSCwDiKZjIsl1uwwKh3Bo3VYe1SGqv/Mezfu+7MuGSsLptKyfDbRiFqeVTNrl16MFAr2qn737djHBpnpnujgQOloH2kkz5Xb11dcQ7FXavAMA+p5772NMoIX6rFm1NmtALhklLy1KT0zVQgm0qaJTXQ2xV4MpMIBcdQRhdIPQbf1rmCVg0onZMfsNphNAsoQ9O/LQ8uV8mYYuKAhjSitL
+
+
+
+---
+*Source: Document e44d7acfd42bc15a324166b827d0b603*

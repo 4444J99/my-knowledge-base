@@ -1,0 +1,32 @@
+---
+id: f5bb214f-f89e-46c7-985c-c38b99e45529
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - gomscq0qtq7q2gsqnbxia1gliael9aouajwve7biy29afdoqan6ljccmbntsheuccy1oqor8pms
+  - t63dg8nfe2xhk5xhvltiwilhjydramqwgcj92jpbj9wqwjkepkkx5bohdwx
+  - hhqhm9coi
+  - >-
+    usnjhi05cmcfu45yv8z1soashcwqn4cagnagzl0bndiuu36akrvg9nhfrijdbit67v5zixfdqvg0oi418ancxp9lrgkkvfpt1i5s41frhaag
+  - >-
+    2nmuqv8gfokmigyjhold7kdppc9pmhp8bxihxri0eerks2tqyxavkaqbnhyu3g9ofne9izzoljqayfsiifgixe1iou
+---
+# GOmSCq0qtq7Q2gSQNBxia1glIAEl9AOUAJWVe7BIy29afdOqAN6ljCCMBntshEUcCY1oQOR8pms+T63D
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 7335 (chunk 7335/11629)
+
+## Content
+GOmSCq0qtq7Q2gSQNBxia1glIAEl9AOUAJWVe7BIy29afdOqAN6ljCCMBntshEUcCY1oQOR8pms+T63DG8Nfe2XHK5XHvltiWIlhJYdrAMqWgcj92jPbj9wQWJKepKKX5BoHDWx/HHqHm9COi+USnjHi05CMCfu45yv8z1sOAshcwqn4caGnaGZL0BNDiuu36AkrvG9NhfRIJdbIt67V5ZiXfDQvG0OI418AncXP9LRGKkvfpT1I5s41FRhaAG+2NmuQv8gfOkmIGyJhOld7kdppc9PmHp8bXIhXri0eERkS2TQyxAvKaqBNhyu3g9OfNe9IzZolJqAYFSIifgIxE1IoU+R/PPZ4bHoTs9iEY7EGcjwDAu8Vhn4LAj+BmH7SVlTTvCF5QzJiZQBt8T08foC18N/zTDJWAB7XMJNaEdVUtDJhSARgQcOzUdOkxx5vkt7EW641qHXpeDlk48dsq/Unj3jIYObiL0lYbltO8UXFFhVfOHr7i9v+tR1jMkDEZlDRevECmr+p9rXcZD0CoH+wvDEdljaNHmqoeor/KqusxuF1BHglgbfcqzvhbY4zJ2NPxJ7I0CNIpv6oM9Rgk+NN0vTRFjzIkKVE+JX/bL8yuZkaz6qDl4P6gzmamRqU5RCtPWEIgR/ArwLiQcaT1eNtHd4bWqU3OS5jOSBg7Adtf7L6qyNDtQdi8w7N2yxvU1NrWh/I7df8ygsnozzMYT8PWHjYZ34+hPlFPIvUGDN/HHta2lypC3x+06SPOsVLechfaci+ZEZeCLglwkosKtFidMUX3x79kGSvjxmJdlojooPRDEs4kQAJkAAJkAAJkAAJkAAJkAAJkAAJkAAJkAAJkAAJkMBlTCD0MrY9R5huwiomhKNhQ+eO7+4octcrdlu7U9w2CbJIj2qENRwNbVgaZpMwGoJRCN0gNDKosYiby82VnJhip9h75yD84v5/xiH/tvYtPar1+KDHPzUsl5xhZaD/qAmkaWApeXe6yLRd03Z9vGvdsXVlNpTZWWznXTvvOnhS5NDAQ9cdanxkwJGTR04dHnhk6eE8SX2SaiQ1KL+kfO5yI0RPhCRtiBfU/P80+mPWj90x9t2XKxdqj56f7X2lxbLABjB0rXFe/hvOLsc3zmrvG2+VttpjuQa6vPUOlm9EmO3N4xOsxxDwu1rDtw76Z0oChLg0DI5tUk5A0vOH
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

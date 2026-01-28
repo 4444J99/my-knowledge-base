@@ -1,0 +1,26 @@
+{
+  "id": "c155224b-485f-4ff2-ad8a-e0547015d5a7",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>### **12. Multimodal Semiotic Analysis**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Modal Affordances (Kress &amp van Leeuwen):**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Writing: Precise propositional content  </tt></div>\n<div><tt>- Image: Spatial relationships  </tt></div>\n<div><tt>- Gesture: Deictic reference  </tt></div>\n<div><tt>- Music: Emotional evocation </tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Integration Modes:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Redundancy (reinforcement)</tt></div>\n<div><tt>- Complementarity (unique information)</tt></div>\n<div><tt>- Contradiction (irony/sarcasm signal)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**FRESCO Framework (3 semiotic levels):**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>1. Plastic: Colors, lines, shapes </tt></div>\n<div><tt>1. Figurative: Entities, objects </tt></div>\n<div><tt>1. Enunciation: Point of view, framing  </tt></div>\n<div><tt><br></tt></div>\n<div><tt>-----</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## **PART VII: META-LEARNING &amp EVOLUTION**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### **13. MAML Implementation**</tt></div>\n<div><tt><br></tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 18 (chunk 18/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "semiotic",
+    "multimodal",
+    "analysis",
+    "modal",
+    "affordances"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

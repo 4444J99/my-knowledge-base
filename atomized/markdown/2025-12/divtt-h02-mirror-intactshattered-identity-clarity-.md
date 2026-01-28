@@ -1,0 +1,42 @@
+---
+id: c85398d6-62a3-491c-b443-e32d7d305eed
+type: insight
+created: '2025-12-04T16:48:25.000Z'
+document: 1f0200e52addd3bec3d0beb78cca4a02
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: writing
+keywords:
+  - access
+  - memory
+  - clarity
+  - open
+  - thread
+---
+# <div><tt>| H02 | mirror intact/shattered | identity | clarity of self or illusio
+
+## Context
+From document: # synth-wave-modules — chunk 30 (chunk 30/51)
+
+## Content
+<div><tt>| H02 | mirror intact/shattered | identity | clarity of self or illusion |</tt></div>
+<div><tt>| H03 | halo present/flickering | divinity | aura, mythic resonance |</tt></div>
+<div><tt>| H04 | channel open/noise | communication | AI link strength or thread clarity |</tt></div>
+<div><tt>| H05 | gateway sealed/ajar | access | partial availability or time-windows |</tt></div>
+<div><tt>| H06 | memory clear/distorted | memory | dream vs trauma state access |</tt></div>
+<div><tt>| H07 | current stabilized/surging| system flow | performance/mood control |</tt></div>
+<div><tt>| H08 | signal harmonic/chaotic | tone | ritual tone and theme coherence |</tt></div>
+<div><tt>| H09 | crown worn/broken | authority | ritual leadership / voice gate |</tt></div>
+<div><tt>| H10 | recursion shallow/deep | recursion | narrative layering depth |</tt></div>
+<div><tt>| H11 | loop active/glitching | time | rhythm lock vs entropy burst |</tt></div>
+<div><tt>| H12 | soul connected/dispersed | coherence | emotional logic map |</tt></div>
+<div><tt>| H13 | breath held/released | pacing | tension modulation and ambient rate |</tt></div>
+<div><tt>| H14 | archive open/sealed | access/memory | thread access and dreamstate toggles |</tt></div>
+
+
+
+---
+*Source: Document 1f0200e52addd3bec3d0beb78cca4a02*

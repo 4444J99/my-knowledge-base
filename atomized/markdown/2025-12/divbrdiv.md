@@ -1,0 +1,38 @@
+---
+id: 6e86bc50-e47d-46c9-a9c4-f63d4146165a
+type: insight
+created: '2025-12-03T00:12:27.000Z'
+document: 2fcbaedf93421f05a894e4ba82235190
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - real
+  - estate
+  - https
+  - york
+  - exam
+---
+# <div><br></div>
+
+## Context
+From document: Since she has prior experience and is coming back after a lapse, this… — chunk 5 (chunk 5/7)
+
+## Content
+<div><br></div>
+<div>Sources</div>
+<div>[1] NY Real Estate School Courses &amp Products https://dearborn.com/real-estate-schools/new-york-products</div>
+<div>[2] Modern Real Estate Practice in New York for Salespersons, 14th ... https://www.campusbooks.com/books/9781078838900-modern-real-estate-practice-in-new-york-for-salespersons-14th-edition-including-26-unit-quizzes-highlighted-key-terms-math-references-and-a-detailed-glossary-dearborn-real-estate-education</div>
+<div>[3] Key Point Exam Review for Modern Real Estate Practice v21.0 (MP3) https://urbanrealestateschool.com/product/key-point-exam-review-for-modern-real-estate-practice-v21-0-mp3/</div>
+<div>[4] New York Real Estate License Exam AudioLearn - Audible https://www.audible.com/pd/New-York-Real-Estate-License-Exam-AudioLearn-Audiobook/B07CRL6Q8C</div>
+<div>[5] New York Real Estate License Exam - AudioLearn https://www.audiolearn.com/products/new-york-real-estate-license-exam</div>
+<div>[6] Barron's real estate licensing exams : salesperson, broker, appraiser https://discover.bklynlibrary.org/item?b=12784829</div>
+<div>[7] Real Estate Licensing Exams - Barnes &amp Noble https://www.barnesandnoble.com/w/real-estate-licensing-exams-jack-p-friedman-phd/1144359990</div>
+
+
+
+---
+*Source: Document 2fcbaedf93421f05a894e4ba82235190*

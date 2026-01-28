@@ -1,0 +1,26 @@
+{
+  "id": "a7ed9c49-e2e2-4d4b-81f7-ea86bf97be8a",
+  "type": "insight",
+  "timestamp": "2025-11-25T07:22:05.000Z",
+  "title": "<div> all files associated with a cask. May remove</div>",
+  "content": "<div> all files associated with a cask. May remove</div>\n<div> files which are shared between applications.</div>\n<div> --appdir Target location for Applications (default:</div>\n<div> /Applications).</div>\n<div> --keyboard-layoutdir Target location for Keyboard Layouts</div>\n<div> (default: /Library/Keyboard Layouts).</div>\n<div> --colorpickerdir Target location for Color Pickers (default:</div>\n<div> ~/Library/ColorPickers).</div>\n<div> --prefpanedir Target location for Preference Panes</div>\n<div> (default: ~/Library/PreferencePanes).</div>\n<div> --qlplugindir Target location for Quick Look Plugins</div>\n<div> (default: ~/Library/QuickLook).</div>\n<div> --mdimporterdir Target location for Spotlight Plugins</div>\n<div> (default: ~/Library/Spotlight).</div>\n<div> --dictionarydir Target location for Dictionaries (default:</div>\n<div> ~/Library/Dictionaries).</div>\n<div> --fontdir Target location for Fonts (default:</div>\n<div> ~/Library/Fonts).</div>\n<div> --servicedir Target location for Services (default:</div>\n<div> ~/Library/Services).</div>\n<div> --input-methoddir Target location for Input Methods (default:</div>\n<div> ~/Library/Input Methods).</div>\n<div> --internet-plugindir Target location for Internet Plugins</div>",
+  "context": "From document: -d, --debug If brewing fails, open an interactive — chunk 4 (chunk 4/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "18ce0710d28389561889f6efd8d041c2",
+  "relatedUnits": [],
+  "keywords": [
+    "target",
+    "location",
+    "default",
+    "library",
+    "applications"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: fe710575-86e1-43da-b92e-11d9e6bc05ef
+type: insight
+created: '2021-12-24T02:37:43.000Z'
+document: 8c92f15912082fa7b1c83f8694d6f48f
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - garmfgp8ayll3
+  - wd0ytdnxm
+  - 8atn
+  - >-
+    6mwk9gpdakkkwakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooa
+  - >-
+    ooooakkkkaciiigd6yoohsiugaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkaciiigaooooakkkkacuz8y
+---
+# gArmfGP8AyLl3/wBs/wD0YtdNXM+Mf+Rcu/8Atn/6MWk9gPDaKKKwAKKKKACiiigAooooAKKKKACiiig
+
+## Context
+From document: Daniel’s Christmas Booze Drink — chunk 220 (chunk 220/376)
+
+## Content
+gArmfGP8AyLl3/wBs/wD0YtdNXM+Mf+Rcu/8Atn/6MWk9gPDaKKKwAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//R/n/ooooAKKKKACiiigD6YooHSiugAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACuZ8Y/wDIuXf/AGz/APRi101cz4x/5Fy7/wC2f/oa0nsB4bRRRWABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAH/9L+f+iiigAooooAKKKKAPpgdKKB0oroAKKKKACv0c/Zg/4J3eO/jRYweNPiTdSeCPCNyB9laRB9uvjJxGYYpMBIySCHfluNisDuHxR8IvF+jfD/AOJ3hnxv4h0wazp2hX0N5NZEIRcLC24J84K8kDkg464PSvu/4d/tV/FP9pX9sb4Z3njC8+xaJba3G1jo9sxW0thtYBiOssuOsj88kKFX5QncD5W/ar+C2kfs/fGvWPhdoWoT6pZ6bDaSLcXKqsrG4gSUghABwWwPavnSvvL/AIKVf8nd+Kv+vXTP/SKKvg2hAFFehfCv4YeLvjJ490n4c+CLYXOravLsTeSsUSKC0ksrAHbHGoLMcE4HAJwD+nPiH9mP9gb9nuaDwh8fPiJqmseMDGrXUGnq4jg3gEExW8MrR8HIEkpZhghcGhsD8hKK/Sn45fsU+ApPhXP+0B+yl4qfxn4MsEeTUbW4YNeWiRgNI6kRxNiNTukjkRZEX5ssDx86fssfsv8Ain9qDxvc+HtHvY9H0fR4kuNT1GVS4gidtqKiAjfK+G2glRhWJYYwS4HzDRX60P8ACj/glp4f1A+D9U+JWt6lflzFJfxtI9v
+
+
+
+---
+*Source: Document 8c92f15912082fa7b1c83f8694d6f48f*

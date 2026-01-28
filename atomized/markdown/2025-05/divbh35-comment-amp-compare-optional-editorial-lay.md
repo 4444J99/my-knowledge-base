@@ -1,0 +1,50 @@
+---
+id: 2910370d-d8c9-4f3b-bdf1-1f0084758760
+type: insight
+created: '2025-05-17T06:50:25.000Z'
+document: 785bcc0d4cb2d60a50a4a0777364b9ad
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: programming
+keywords:
+  - notes
+  - side
+  - threads
+  - index
+  - unit
+---
+# <div><b><h3>5. COMMENT &amp COMPARE (Optional Editorial Layer)</h3></b><h3><br><
+
+## Context
+From document: DATA-PRESERVATION_DEDUPLICATE-COMPILE_ — chunk 4 (chunk 4/6)
+
+## Content
+<div><b><h3>5. COMMENT &amp COMPARE (Optional Editorial Layer)</h3></b><h3><br></h3></div>
+<div><h3>  •  Add side-by-side:</h3></div>
+<div><h3>  •  V1 &gt V2 comparisons</h3></div>
+<div><h3>  •  Meta notes on </h3><b><h3>what changed</h3></b><h3> and </h3><b><h3>why</h3></b><h3><br></h3></div>
+<div><h3>  •  Timeline of decisions</h3></div>
+<div><h3>  •  Output: Annotated Version Trail (AVT)</h3></div>
+<div><h3><br></h3></div>
+<div><b><h3>Why it matters</h3></b><h3>: Good for teaching, collaboration, and future reuse/audit of threads.</h3></div>
+<div><h3><br></h3></div>
+<div><h3>⸻</h3></div>
+<div><h3><br></h3></div>
+<div><b><h3>6. EXPORT &amp INDEX</h3></b><h3><br></h3></div>
+<div><h3>  •  Final outputs should include:</h3></div>
+<div><h3>  •  .md with all deduped, fused content</h3></div>
+<div><h3>  •  .txt or .csv of unit IDs + notes</h3></div>
+<div><h3>  •  Companion index: Unit ID → Summary → Use</h3></div>
+<div><h3><br></h3></div>
+<div><h3>⸻</h3></div>
+<div><h3><br></h3></div>
+<div><b><h3>[PRC02] — HOW TO USE THIS SYSTEM</h3></b><h3><br></h3></div>
+<div><h3>  •  </h3><b><h3>For archival</h3></b><h3>: Use this to process entire ChatGPT threads, Apple Notes dumps, Dropbox file logs.</h3></div>
+
+
+
+---
+*Source: Document 785bcc0d4cb2d60a50a4a0777364b9ad*

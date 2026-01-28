@@ -1,0 +1,37 @@
+---
+id: 9da70b40-8a2e-486b-8367-8000dea56bea
+type: insight
+created: '2024-06-04T14:32:48.000Z'
+document: aecf5ea345ca08ade51033542abc0b80
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - marketing
+  - monthly
+  - their
+  - spend
+  - revenue
+---
+# <div><br></div>
+
+## Context
+From document: DWV Media — chunk 20 (chunk 20/20)
+
+## Content
+<div><br></div>
+<div>### Summary:</div>
+<div><br></div>
+<div>- **Target Marketing Spend:** 10% of monthly revenue</div>
+<div>- **Client Monthly Revenue Threshold:** At least $125,980 to justify the $12,598 monthly marketing investment</div>
+<div><br></div>
+<div>By recommending a 10% marketing spend, we ensure that our clients are positioned to see significant returns on their investment in PPC services, aligning their marketing efforts with industry standards and supporting their business growth objectives.</div>
+<div><br></div>
+
+
+
+---
+*Source: Document aecf5ea345ca08ade51033542abc0b80*

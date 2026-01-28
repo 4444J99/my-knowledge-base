@@ -1,0 +1,32 @@
+---
+id: 71c0f9b6-8543-4343-bad3-63001c69c7f5
+type: insight
+created: '2022-03-16T12:34:10.000Z'
+document: 7405c2da6b92da26b0b49297d3a4e664
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 5etjfperfewmmfzq3njhysetwywqbdrzzxntkbb83zmr
+  - vw7cxgfjnfwigbfjo7va19evjagvwj8thofh
+  - rkrjbnx77ekp33hk5ihair8evhyrb8sdwp96fpxpuf7pnp4s00ivdkdbxxp3r
+  - >-
+    pwusismfdx2rnu4dcmiov5phfwkyxpaphnzr3nmssihsdiqp4gmnv4gkudcwarw8bg6vp6xsnasuk5zxnora1lecooanqtyxvfcw
+  - >-
+    isevxdm24pgr0nd5rs3mwaba4wiigvxxka8itckrhswg2ur2pcelnvaqjhorry5onpziup8n6na3olxinrh7vv1qy81vohxaceormy2w9nx5dvcuckdiu1h8lnlefe5kczxxndrc9tmjfo
+---
+# 5eTjFPErfeWmmFzq3njHysetWYWQbdrZzXNtKBB83zMR+VW7CXgFjnFWiGbfjo7vA19EvJaGvwJ8Thof
+
+## Context
+From document: The battle of the blinds — chunk 479 (chunk 479/1787)
+
+## Content
+5eTjFPErfeWmmFzq3njHysetWYWQbdrZzXNtKBB83zMR+VW7CXgFjnFWiGbfjo7vA19EvJaGvwJ8ThofH+rKRjbNX77eKP33hK5IHAir8EvHyrB8SdWP96fpXpUF7pnP4S00ivDkDBxXP3r/u/pWusisMfdx2rNu4DcMIoV5PHFWkYXPaPhnZR3NmssihsDIqp4gmNv4gkUdCwArW8Bg6Vp6xSnaSuK5zxNOra1lecOOanqTYxvFcW+ISEVxdm24pGR0Nd5rs3mwAba4WIiGVXxkA8itCkrHsWg2Ur2pcElNvAqjhorry5ONpziup8N6na3OlxiNRH7VV1qy81vOhXaCeorMY2W9Nx5dvCuckDiu1h8LNLEFe5KcZxXndrC9tMJFO/wBK6r/hILyCIRsCT/e9qhgdrpNlFpj+RE3m/wC1Xknxbz54jJ/u16Ho+pnAklXPvXnXxNmju7sSD7uBSGjhdD+W8gA/vLX2LrDn/hD8Dp5Q/wDQa+QtDQG6hYDgMv8AOvsXVpID4LyuCBEB/wCO0T3Jmfjv8RJkfxTMMY/eN/OvRfDEarobd685+IiINeucdfOb+deheF3xoDZPPFdHQJLQ4qbal8xHy/NX0D4C2fZwe/FeB3aK176DNe5eBpFjttzHgYqWyUj2Hyxwwru4JttiqKcHaK4pIjJab1OPSt+yV1ttzHO0VDLJbe4Cl4nG/eaJ5rKIZwquOgrmLm4l80tF8u2rcFmbtRI780kgLGWmV5CnTpXK3EMc0x3HBz0rtmzDbsiLvIFcFdxzrK0jgx+lWiWZGpFYcIhzt7VnrIDCSo2tipLiNppDg7qo8xsy+lWSXtFLG9TcMcivYhEsiIXO0LXjmmylLpGC5IIr1Yt9ot0O/wAn1Fctc3oll5FEo8r7vtUkzRMQqfMe9U4QB0+YVJJtUbkGDXKdSOy0tmRVQfd9K6wsUh2ouc1xmh/NCrs3PpXY7iEEg6HjFc0tzWJmuNnbmrtuism4jJ9KR2Rl5XmrFoIoBulcf7tSWi1FHsG4Nt9qsxbR9481TBEr7w21au+Tuj3L1qbAx2xs5AzUiv8AwnrSRu6DyyMmgEA5cYpiEMYQ7s5PpTWx9KjAkLZ61IQR1X8KgfQytZTFsSPSvNlfMpXHevStb5TfnaoX7tears884PfpXdQ2OOqjSDZAVetLCNkmW4IqvGJI8sR
+
+
+
+---
+*Source: Document 7405c2da6b92da26b0b49297d3a4e664*

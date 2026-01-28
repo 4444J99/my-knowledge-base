@@ -1,0 +1,31 @@
+---
+id: 7a10476c-b1cf-4c11-b2ff-5e3315383b8b
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - udjpbnc9pjhs4piqst2g5btuzppm8zwoklul2k9cgsc9vm5waz7zvf2krnga5ie
+  - kyngmvukrfsoadzioxcxzmusvloahae9txv5kwau5bqibkw4bkda9cmklqc8mz4l8w
+  - 9srzyyyd
+  - >-
+    fsqm10vn4fg3zjdtwom9twzbp0uklpbuboaqvzlym5th8ow0plvjluxhi966pto1totin8ophrwfg7ozz6zqx5oqyu8cuspnyhzgz9tdvocazbi
+  - lhpt3qi07nixnnzmotyqrkddn9kmnpu0cjtbucpwcaz9rmnu9a5lbncn
+---
+# UDJPBNc9PJHs4PIqst2g5btUzppm8ZWOklul2k9cGsC9vM5waz7zVF2kRnGa5ie+kYnGMVUKRFSoadzI
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 11296 (chunk 11296/11534)
+
+## Content
+UDJPBNc9PJHs4PIqst2g5btUzppm8ZWOklul2k9cGsC9vM5waz7zVF2kRnGa5ie+kYnGMVUKRFSoadzIoXcxzmuSvLoAHae9TXV5KWAU5BqibKW4bkda9Cmklqc8mZ4l8w+9SrZyyyD+FSQM10Vn4fG3zJDtwOM9TWzBp0UKlpBubOaqVZLYm5Th8OW0PlvJLuXHI966PTo1totiN8oPHrWfG7OzZ6Zqx5oQYU8CuSpNyHzGz9tdVOCazbi+LHPT3qi07nIXnNZmoTyQrkDdn9KmNPU0cjTbUCpwCaZ9rMnU9a5lbncN+T6077aoxj+ddUcOiJSXU6LzxnGTUc1y5XahPHQGube/+cAHGasG6Xbgth8VpClYj2iJ5Ji7EsaWGJZHGaz4zn73J9q1LZdxXtitrmd73uaxVY4ScYAHJrIluIGPlqhOeM+9bk7LEiRvyrdavW4swqlI049BRHEQjpJXPPqUas5Xg7Iy4dIkECybeWrZsFNvFslH4Vb89XYbeKo3crmT5eBXFOs5dD0qdK25bmVJSAAM+lRJJKr49OKZaLnLseakkx171gzTmZFdSlzuPas/l+lK8hY4NRruJq0rFJn4ff8FNUKfHXw8D/wBCza/+l17X501+jX/BToEfHfw6D/0LFr/6XXtfnLX53mf+8T9T9Gyv/d4egV+s/wCws7L8GdSwOP7fu/8A0ks6/Jiv11/YNjWT4K6oGGf+Kgu//SSzqsr/AIyIzb+Cz7AWU960rZTL901TltQH/d9zzWhZROj49a+nZ8rYuoHRsAEirGTjBrWsY9xZSB0rOu4RHJgN+VZwjfcVkQkgdajyDShZD9BSrDI4zir0WgyJYVkf5jxVyO0jQbif1pphKc4NI5kCgjJFMAkk5wvyikjZi4AqAsCat20Z3AkcUAb0MW1Qc4NPafA+tIjrjrQ3lYNAiq8z8AGq0rnGc1aOzNRSFcEEZoGU1Z9w5yKs55x3qENzwMYpGDMdw60AXzEypvIIzUBDNwAc1vwPG8SbyDgUshiwSAAaBWOaYleMGoC+OM4rXDRIxVsYPrUMv2XPIBoMpMoKTnIPFX7d+gqoWiGQCMUJIqng5q0SaLnDE1l6vpthrOlXWm6mxFpNFIJQCcFNp3A/h/nGRVky7xnOBSAo+Q4DqQQVPIIPBB9iODWdenzQce6sa0JqM4yfRo+f/iR8cfB
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

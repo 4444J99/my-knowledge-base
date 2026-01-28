@@ -1,0 +1,26 @@
+{
+  "id": "f3dc9685-6e15-4f1f-a2cf-acb88e8becb4",
+  "type": "insight",
+  "timestamp": "2025-04-19T04:01:48.000Z",
+  "title": "<div><tt># |[ W4V3_SYNTH_CHAIN.vX.SYS_CORE ]|</tt></div>",
+  "content": "<div><tt># |[ W4V3_SYNTH_CHAIN.vX.SYS_CORE ]|</tt></div>\n<div><tt><br></tt></div>\n<div><tt>[OSC] → [SUB] → [FM] → [NOISE] → [RING MOD] → [FILTER] → [HP/LP/BP/N]  </tt></div>\n<div><tt> → [DRIVE] → [RES] → [SATURATION] → [FOLD] → [COMPRESSOR]  </tt></div>\n<div><tt> → [KNEE] → [THRESHOLD] → [EXPANDER] → [ENVELOPE FOLLOWER]  </tt></div>\n<div><tt> → [GATE] → [TRIGGER] → [LFO] → [STEP SEQUENCER]  </tt></div>\n<div><tt> → [S&ampH] → [REVERB] → [PRE-DELAY] → [DECAY] → [SIZE] → [SHIMMER]  </tt></div>\n<div><tt> → [DELAY] → [TAPE] → [MULTI-TAP] → [PING-PONG] → [TIME STRETCH]  </tt></div>\n<div><tt> → [GLITCH] → [FREEZE] → [GRANULATOR] → [CONVOLUTION]  </tt></div>\n<div><tt> → [PITCH SHIFT] → [FORMANT] → [VOCODER] → [WAVETABLE MORPH]  </tt></div>\n<div><tt> → [CROSSFADE] → [MIX] → [DUCKER] → [OUTPUT] → [RE-INPUT]</tt></div>",
+  "context": "From document: # |[ W4V3_SYNTH_CHAIN.vX.SYS_CORE ]|",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "2869906dbd45cd73e6d569089115326c",
+  "relatedUnits": [],
+  "keywords": [
+    "delay",
+    "w4v3_synth_chain",
+    "sys_core",
+    "noise",
+    "ring"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

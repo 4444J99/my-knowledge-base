@@ -1,0 +1,26 @@
+{
+  "id": "3362cdb1-1b51-43fa-a5d5-f23f749f40e3",
+  "type": "insight",
+  "timestamp": "2025-12-11T19:52:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>*Format*: Collaborative documentation. We write this together—not me documenting your work, but both of us articulating what we learned. Probably a 15–20 page essayistic document + visual diagrams showing parameter mapping, decision trees, and case studies from what we built.</div>\n<div><br></div>\n<div>*Your contribution*: Dramaturgical articulation. You help future writers understand not just *what* happened, but *why* it worked or didn’t. You write the writer’s perspective in the handbook. You become the voice of practitioner wisdom in the system architecture.</div>\n<div><br></div>\n<div>*Outcome*: A “Narrative Design Handbook for Participatory Performance”—this becomes the onboarding document for every writer/storyteller I work with after you. When I recruit the next dramaturgist, I hand them this document and say: “Here’s how Chris thought about this. Here’s what he discovered. Here’s what you should build on.”</div>\n<div><br></div>\n<div>-----</div>\n<div><br></div>\n<div>**HOW THIS SHAPES DOWNSTREAM RECRUITMENT**</div>\n<div><br></div>\n<div>When I prospect the next writer/dramaturgist—whether it’s a composer, choreographer, visual artist, or playwright—I can say:</div>",
+  "context": "From document: Chris, — chunk 13 (chunk 13/25)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "95023b367d0cafd95246c623bb5c2f5c",
+  "relatedUnits": [],
+  "keywords": [
+    "this",
+    "what",
+    "document",
+    "writer",
+    "here"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

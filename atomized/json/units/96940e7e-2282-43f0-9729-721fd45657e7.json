@@ -1,0 +1,26 @@
+{
+  "id": "96940e7e-2282-43f0-9729-721fd45657e7",
+  "type": "insight",
+  "timestamp": "2016-06-01T19:04:53.000Z",
+  "title": "<div>SHOPPING LIST</div>",
+  "content": "<div>SHOPPING LIST</div>\n<div> </div>\n<div>shredded cheeses </div>\n<div>heavy cream</div>\n<div>ham, bologna, mortadella, salami, pancetta</div>\n<div>salsa, pico de gallo, sour cream </div>\n<div>eggs, sausage, bacon</div>\n<div>baby wipes</div>\n<div>paper towels, toilet paper, clorox wipes</div>\n<div>olive oil</div>\n<div>garlic / garlic powder</div>\n<div>peanut butter</div>\n<div>garbage bags</div>\n<div>coffee</div>\n<div><br></div>\n<div>alcohol</div>\n<div>fabric softener</div>\n<div>tuna</div>\n<div><br></div>\n<div><br></div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: SHOPPING LIST",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "research",
+  "documentId": "ae45bd15e80aacb5156b445308186d35",
+  "relatedUnits": [],
+  "keywords": [
+    "cream",
+    "wipes",
+    "paper",
+    "garlic",
+    "shopping"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

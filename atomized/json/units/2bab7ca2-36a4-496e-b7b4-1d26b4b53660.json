@@ -1,0 +1,26 @@
+{
+  "id": "2bab7ca2-36a4-496e-b7b4-1d26b4b53660",
+  "type": "insight",
+  "timestamp": "2017-05-17T01:35:13.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Excerpt From: Postman, Neil. “Amusing Ourselves to Death.” Penguin USA, Inc., 0101-01-01T00:00:00+00:00. iBooks. </div>\n<div>This material may be protected by copyright.</div>\n<div><br></div>\n<div>add a marketplace, where a list of things being purchased are populated. (blockchain)</div>\n<div><br></div>\n<div>there can only ever be 21 million bitcoins (https://www.forbes.com/sites/laurashin/2016/05/24/bitcoin-production-will-drop-by-half-in-july-how-will-that-affect-the-price/#2661992a2a4c)</div>\n<div><br></div>\n<div>need to create holidays (the bitcoin halving events can be one)</div>\n<div><br></div>\n<div>PLANET:WIFI</div>\n<div>PVUTO:HOM NEPTVN:AWY</div>\n<div><br></div>\n<div><br></div>\n<div>Incorporate a reach/rating of each post (how many users reached)</div>\n<div><br></div>\n<div>Private convo - MSG</div>\n<div>Anon convo - Chat</div>\n<div>Public - Timeline</div>\n<div>Private - Arkiv (no ai)</div>\n<div>Prophecies - Orakl</div>\n<div>Muse - Mvs</div>\n<div><br></div>\n<div>ego = i am</div>\n<div><br></div>\n<div>add machine learning, if i implement 100 lines of jove code an ai should then be able to create its own jove lines</div>\n<div><br></div>\n<div>train a data set on classical texts as well as twitter/tumblr/facebook api</div>",
+  "context": "From document: MET4 — chunk 22 (chunk 22/23)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "6caf556e13f8817e7ca5a880abda2587",
+  "relatedUnits": [],
+  "keywords": [
+    "bitcoin",
+    "will",
+    "create",
+    "private",
+    "convo"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

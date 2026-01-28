@@ -1,0 +1,26 @@
+{
+  "id": "c6eff8fa-dcd2-44a0-866b-db6e7bdd0c1b",
+  "type": "insight",
+  "timestamp": "2025-02-10T16:22:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>🔹 Abstract Prompt:</div>\n<div><br></div>\n<div>How has your approach to writing changed throughout this course?</div>\n<div><br></div>\n<div>🔹 Connecting Prompt:</div>\n<div><br></div>\n<div>Think about a time in the future when you might apply the skills from this course (e.g., writing a job application, crafting an argument, storytelling). How will you use what you’ve learned?</div>\n<div><br></div>\n<div>🔹 Exploratory Prompt:</div>\n<div><br></div>\n<div>If you could write a message to future students taking this class, what advice would you give them?</div>\n<div><br></div>\n<div><br></div>\n<div>Final Notes:</div>\n<div>These prompts ensure that students engage with writing in multiple modes: personal reflection, academic structure, logical reasoning, and creative storytelling.</div>\n<div>The progression follows the weekly learning objectives, helping students connect writing mechanics with personal expression.</div>\n<div>Each week builds upon previous skills, reinforcing revision, organization, argumentation, and comparison techniques.</div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: Daily Journal Prompts | Weeks 1 - 6 | ENG 101 — chunk 19 (chunk 19/19)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "e6eab879b76e49062d95c26643b9406a",
+  "relatedUnits": [],
+  "keywords": [
+    "writing",
+    "prompt",
+    "this",
+    "students",
+    "course"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

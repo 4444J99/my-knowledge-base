@@ -1,0 +1,26 @@
+{
+  "id": "c5b1695b-b140-4fed-8cd8-848cceee9334",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:15:38.000Z",
+  "title": "<div>```javascript</div>",
+  "content": "<div>```javascript</div>\n<div>// Platform-agnostic state definition</div>\n<div>const RelationshipStates = {</div>\n<div>  INITIAL: {</div>\n<div>    avatar: 'amorphous',</div>\n<div>    environment: 'neutral',</div>\n<div>    tools: ['basic_chat']</div>\n<div>  },</div>\n<div>  DEVELOPING: {</div>\n<div>    avatar: 'transitional',</div>\n<div>    environment: 'reactive',</div>\n<div>    tools: ['chat', 'validation', 'boundaries']</div>\n<div>  },</div>\n<div>  ESTABLISHED: {</div>\n<div>    avatar: 'realized',</div>\n<div>    environment: 'personalized',</div>\n<div>    tools: ['full_suite']</div>\n<div>  },</div>\n<div>  CONFLICT: {</div>\n<div>    avatar: 'defensive',</div>\n<div>    environment: 'turbulent',</div>\n<div>    tools: ['de-escalation', 'perspective']</div>\n<div>  }</div>\n<div>};</div>\n<div>```</div>\n<div><br></div>\n<div>### 4. Interaction Flow Diagrams</div>\n<div><br></div>\n<div>**User Journey Architecture**:</div>\n<div><br></div>\n<div>```</div>\n<div>Entry → Archetype Selection → Initial Interaction</div>\n<div>         ↓                      ↓</div>\n<div>    [Shape Assignment]    [RTM Baseline]</div>\n<div>         ↓                      ↓</div>\n<div>    Progressive Loop: Conversation → Feedback → Evolution</div>",
+  "context": "From document: AI Review & Expansion Prompt: — chunk 20 (chunk 20/25)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "f193a3a0a188e43c3f5b1686778be1f5",
+  "relatedUnits": [],
+  "keywords": [
+    "avatar",
+    "environment",
+    "tools",
+    "initial",
+    "interaction"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

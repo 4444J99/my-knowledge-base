@@ -1,0 +1,23 @@
+{
+  "id": "6c7cee01-93e9-49ab-a4ff-6f8ffe95d7d3",
+  "type": "insight",
+  "timestamp": "2015-10-20T15:10:48.000Z",
+  "title": "<div>Workaway.info</div>",
+  "content": "<div>Workaway.info</div>\n<div><br></div>\n<div><br></div>",
+  "context": "From document: Workaway.info",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "d23144c0a70a31cc2b048ecff9c07b93",
+  "relatedUnits": [],
+  "keywords": [
+    "workaway",
+    "info"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

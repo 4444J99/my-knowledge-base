@@ -1,0 +1,32 @@
+---
+id: 84ed70b1-0f5e-4c38-916d-a46808aeff4b
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 8sjjmqkhh4oyq0
+  - x5iw7s7o66omrpwu9545qbylnz53c6j12smk7s6yuzfn6ntwc7tcvpautlq4
+  - >-
+    d2kb98zxrd6q9dn3nqxov3n8ykv3vbnnylfe5ngmlcu7emlmvhji5m1kt160tqb9tubykm1skt8poh5xxmbenskc6g9vr83ljtxzwhb3ehlj4vhi
+  - >-
+    lh9jfmxewxn7wccl6l8lkhw35yvjuwfobdkvxwapivhfnzq0slc5it5gylxicmeubbpymxixfzqahz5cejgjs0tlyhfjv8sod4xgf45ckry47ok8xnsigutpgxfkr6pzmcvfyahf
+  - ymz1tdnhcldfmiveu5iyvxl0vxrcujqnxqflmxtir03arc
+---
+# 8sJjmQkhh4oyQ0+X5iw7s7O66OmRPWu9545qbYLnz53c6j12sMK7s6YUZfn6nTWC7TcVPautLq4/d2Kb
+
+## Context
+From document: New Note — chunk 6005 (chunk 6005/8096)
+
+## Content
+8sJjmQkhh4oyQ0+X5iw7s7O66OmRPWu9545qbYLnz53c6j12sMK7s6YUZfn6nTWC7TcVPautLq4/d2Kb98zxrd6q9dn3NqxOv3n8YKV3VbnnYlFe5NGMlCU7EmLmVHji5m1KT160TQB9TUbykm1Skt8pOH5XXmbEnsKc6G9Vr83LjtxZWhB3eHlJ4vHi/Lh9JfmxewXN7wCcl6L8LkHw35YVJuwFoBdkvxWAPiVhfnZq0sLc5IT5GYlxIcmeuBBPYmxIXFZqaHZ5ceJGjS0tLYhfJV8soD4XgF45Ckry47OK8xNSiguTPGXFKR6pzMcVFyaHF+Ymz1tdnhcldfmIVeU5iyvXl0VXrCuJqNxQFlmxtiR03arC+WvWFM6qqFg+r6pq7dJNm9YsrqhYOXvr1g1hBw7syN+4cdWsLVs2LMjMTO7yj/ft/X/oig1QBVw1oBWI0+r0G7Rs0Kaj2N0AylsZ9e6RLV9zFL0Bk4GQnbo8MTYW4BMQFNCTeegDEjXQFkjWbfQBjxKPGWBrQDP/GMQ/DAESY4DJGG0YQDLm/ONRQ7uB6TbG4GQDngHEgZvJQxtQtNUpG0ROv0HxwM02F57clpcy/QY9MwYQ2hToDZ42WBqonjbmZt22XtuTu257dXvWZ2tkL7Yf9kCZPWDWbmVTmLexxAOGA9AD0tNO3WBxp64XGOxZ8Ix5voDlPCvaaaPMM+TZAT0bAM3dMvDanmvTewdU3fQ+uGPIQX7m5C5htp6mbbYmA+gtHm/QvFPW/bV12x7IRRlvRgzKzZyHvXDAmXCePA87Pzx3gjvAM+b50cZ5E0+ddrs/lO1uMsbuB2XuBmb3h7iRLaQgK4Aejxo9qvHA7f347ArixQDjzdzwPDFmAPRA9wDz5HDnIh9mML15+67gOfIseM6UeWb8aoB9ru2Z4+15Wjx1+3UB9z0xeJw4ytwFzHIxD1A3sDeQN4rrBssDttMGpE6bwerEGPxOv8HiwO+UgcYNoKdMbmB34HMzA+hN4R0A3YHLFQ94Dyzf9nf/t7f1v/9fjgo9dYz8xGLutXGG3E2MMvtlb+zZ9sq5/PjShu8O2v1133fKxLFW9mz758UBA+hZB+tlHeyNOutm37TbmVqdtXI+ztloj0D0wPPfcGbyBtUD1gPQoz7fWfCvqc83AvSCQoHnP3/9n73tpcDe7pVfeFu+/HNvixf/
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

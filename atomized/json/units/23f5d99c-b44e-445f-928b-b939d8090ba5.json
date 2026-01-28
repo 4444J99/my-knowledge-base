@@ -1,0 +1,26 @@
+{
+  "id": "23f5d99c-b44e-445f-928b-b939d8090ba5",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:15:38.000Z",
+  "title": "<div>         ↓                      ↓              ↓</div>",
+  "content": "<div>         ↓                      ↓              ↓</div>\n<div>    [Text Input]         [Visual Update]  [Metric Display]</div>\n<div>         ↓</div>\n<div>    Milestone Events → Transformation Sequences</div>\n<div>         ↓</div>\n<div>    [Consent Gates] → [Elevated Interactions]</div>\n<div>```</div>\n<div><br></div>\n<div>### 5. Platform Adaptation Strategy</div>\n<div><br></div>\n<div>**Deployment Variants**:</div>\n<div><br></div>\n<div>|Platform                |UI Adaptations                                       |Unique Featur# Project Evolve: Detailed UI Specification &amp Presentation Assets</div>\n<div><br></div>\n<div>## Section A: Screen Architecture &amp Flow Specifications</div>\n<div><br></div>\n<div>### A.1 Core Screen Hierarchy</div>\n<div><br></div>\n<div>```</div>\n<div>ROOT CONTAINER</div>\n<div>├── Onboarding Sequence (First Launch)</div>\n<div>│   ├── Welcome Screen</div>\n<div>│   ├── Archetype Selection</div>\n<div>│   ├── Initial Calibration</div>\n<div>│   └── Tutorial Overlay</div>\n<div>├── Main Interaction Space</div>\n<div>│   ├── Environment Layer (Persistent)</div>\n<div>│   ├── Avatar Display Zone</div>\n<div>│   ├── Conversation Interface</div>\n<div>│   └── Metrics HUD (Toggle)</div>",
+  "context": "From document: AI Review & Expansion Prompt: — chunk 21 (chunk 21/25)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "f193a3a0a188e43c3f5b1686778be1f5",
+  "relatedUnits": [],
+  "keywords": [
+    "screen",
+    "display",
+    "platform",
+    "text",
+    "input"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

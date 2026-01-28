@@ -1,0 +1,26 @@
+{
+  "id": "78fa17d4-a5b3-464e-b60d-e5dfcfb29c69",
+  "type": "insight",
+  "timestamp": "2025-11-20T00:27:19.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>**This is Theoria Linguae Machina**—a theory of language embodied in computational substrate, rendering explicit what was implicit, making tractable what was intractable, and opening new possibilities for understanding and generating the infinite creativity of human linguistic expression.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>-----</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## **APPENDIX A: COMPLETE FUNCTION REFERENCE**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>All 84 functions organized by layer with full specifications available in technical documentation at `/docs/functions/`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## **APPENDIX B: KNOWLEDGE GRAPH SCHEMA**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Detailed specification of WKRM structure, entity types, relation types, and query interfaces at `/docs/kg_schema/`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## **APPENDIX C: TRAINING DATA SOURCES**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Complete inventory of training corpora with provenance, licensing, and preprocessing pipelines at `/docs/data_sources/`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## **APPENDIX D: ETHICAL REVIEW PROTOCOLS**</tt></div>",
+  "context": "From document: # **Theoria Linguae Machina: Comprehensive Design Document for the… — chunk 56 (chunk 56/57)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "657aecac6f7fd18489e5adc55f9e6f82",
+  "relatedUnits": [],
+  "keywords": [
+    "appendix",
+    "docs",
+    "what",
+    "complete",
+    "functions"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

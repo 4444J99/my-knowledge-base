@@ -1,0 +1,26 @@
+{
+  "id": "f2c1b3a3-23c4-4b35-a668-2c61e994ab5b",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:18:31.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## NAMING CONVENTION</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Each export uses the following file logic:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>```</tt></div>\n<div><tt>project_code-EXPORT_TYPE-version_flag.md</tt></div>\n<div><tt>```</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**Examples:**</tt></div>\n<div><tt>- `QUEER-PRT_SYLLABUS-v1.md`</tt></div>\n<div><tt>- `GR1ND3R-PRT_ARG_PACKET-alpha.txt`</tt></div>\n<div><tt>- `floating_points-PRT_SLIDEDECK-v2-beta.pdf`</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## EXPORT FLAGS</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Flag | Function |</tt></div>\n<div><tt>|------|----------|</tt></div>\n<div><tt>| `--style:clean` | Business-friendly output |</tt></div>\n<div><tt>| `--style:poetic` | Preserve leet, line breaks, surrealism |</tt></div>\n<div><tt>| `--scope:minimal` | Only essentials |</tt></div>\n<div><tt>| `--scope:ritual` | Include metaphors + command prompts |</tt></div>\n<div><tt>| `--mode:edu` | Format for pedagogy |</tt></div>\n<div><tt>| `--mode:sales` | Format for client delivery |</tt></div>\n<div><tt>| `--thread:embed` | Include original GPT logic |</tt></div>",
+  "context": "From document: SYS_PRODUCT_EXPORT_TYPES.md — chunk 3 (chunk 3/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "931847e446907f17709c959e2c06f20c",
+  "relatedUnits": [],
+  "keywords": [
+    "export",
+    "logic",
+    "style",
+    "scope",
+    "include"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

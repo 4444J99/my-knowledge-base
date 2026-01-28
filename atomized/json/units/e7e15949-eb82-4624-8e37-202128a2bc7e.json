@@ -1,0 +1,26 @@
+{
+  "id": "e7e15949-eb82-4624-8e37-202128a2bc7e",
+  "type": "insight",
+  "timestamp": "2019-03-12T14:43:05.000Z",
+  "title": "<div>Sometimes what we find</div>",
+  "content": "<div>Sometimes what we find</div>\n<div>Are the things we left behind</div>",
+  "context": "From document: Sometimes what we find",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "83cc619104f2923d19201ef655b5bbb3",
+  "relatedUnits": [],
+  "keywords": [
+    "sometimes",
+    "what",
+    "find",
+    "things",
+    "left"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

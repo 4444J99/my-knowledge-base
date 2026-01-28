@@ -1,0 +1,33 @@
+---
+id: 04e228a2-5536-4cd6-bfd3-5241f356a003
+type: insight
+created: '2022-03-16T12:34:10.000Z'
+document: 7405c2da6b92da26b0b49297d3a4e664
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - imfjg
+  - v7ufmsnwekhxipzmlnx4fimmubshyqcbfwmkc7ar228ruzkuwsnqbqfyn8hqmc0m8kbu4pvvin5
+  - >-
+    ckvg2dw6ua9ijnywk9qx5iqzdbssot5lpwpmlgueohymrsdptplguwmk4ijfpwlewlz9kcvqimty9phntbrig7vwujgz9p7vigxabnfbq3ygukr0nmsnwsbukrub5y6lusfu
+  - >-
+    sgcvcim2nrt2apiu9aiwn3j07uks7mye1aksyskix1qpj03ltpyrsuzyacbirgg5qqvtvivcuwkubyl3k
+  - >-
+    e4pqeg5fowmuwsbwx2oamlc5yomkswtmlj61vlkrxqagpxc0flhdsnj7uf1xheoqrhufcniplhyc0aowujr0poqvnflg
+---
+# imFjG+V7UFMsNweKhxipZMlNx4FImMUBshyqcbfWmkc7aR228rUzKuwSnqBQFyN8hQMc0m8KBu4pVViN
+
+## Context
+From document: The battle of the blinds — chunk 1643 (chunk 1643/1787)
+
+## Content
+imFjG+V7UFMsNweKhxipZMlNx4FImMUBshyqcbfWmkc7aR228rUzKuwSnqBQFyN8hQMc0m8KBu4pVViN5/CkVg2dw6UA9iJnywK9qX5iQzdBSsoT5lpwPmLgUEohYmRsDpTplGUWmK4iJFPWLewlz9KCvQimTy9pHNTBRIg7VWuJGZ9p7VIgXaBnFBQ3yGUkr0NMSNwSBUkruB5Y6LUSFu/SgCVCIm2nrT2aPIU9aiwn3j07UkS7mye1AkSyskIx1qpJ03LTpyrSUzYaCbiRgg5qQvTVIVcUwkUBYl3k/e4pqEg5FOwMUwSbWx2oAmlc5yOmKswtmLJ61VLKRxQAGPXC0FlhdsnJ7UF1xheoqrhUfCniplhyc0AOWUjr0poQvnFLG+5/LxTZpWgbEYyKBWHojq43cCllXa6qnemGfzFEadSKhhZklw/agmxaJ2ECkbDkInU1KyBzuoiVVJI7UBYsZWJVRqKjYbue1OT5vwoKshxXoT0pytuDAdBULSlWxUqgbc+tBNxie9OPHHamKMNipCedtMAC4XKUK9KcoABSeX36U7iHHPfgUm5hz1FJuwNtIuV5bp2oiBYEkbexqHfhippi/Oc9KlXn5T1qh2EWPjc9SDZ0FQvuPy9qAhAz3oBoeTt601lAGRQBu57URnnZS3ENBZjmpbgYiyOtROMtuXgUtzxH+VJIq1hUXenFOSRHO304ohJSHcKhiX5iaoRKWLDA7UkSMhy1P24Oe1R+Y1AhZOORTx93ihW38MKj+6231pX7ALyDTs+1GCBSLnNCGhGxkYoYHFI45yO1KCpGfSiwDQH+7QNkR+anpnBY8AdKrncz7z0pghGiy3mLwKZ5blgw+7VgncuBwKjjYgFfyqbBYkcqu3AoJFRYLja3GKB1xVFWHFwtNZQPnPGaGHaiUfugPepiS1YRoywytJswg3dRTlwqYoC/Lg1QgRd3z9ulTMny5qKM4OKkMyINp60WAhXep2rzU5ORio0+Qb34p4y33aLAS4AGTTfLbNOQbuDUm4qeKAHYOMVUh/wBdV5CCKhjHzEGgCdsbCRUURPajoalEigcjFA0iXzNozV+2uvl2sAV7g1nr8vXoacJQpAHSglo8P+L/AMGbPxfYzanpkYS8RSVCjaCffFfAc1vdaBfTaVqCGKWBth47iv12huyrAY3J3Br57+OHwas/Flmdc0G
+
+
+
+---
+*Source: Document 7405c2da6b92da26b0b49297d3a4e664*

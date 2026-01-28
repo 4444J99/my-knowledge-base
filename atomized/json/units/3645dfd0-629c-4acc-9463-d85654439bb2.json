@@ -1,0 +1,26 @@
+{
+  "id": "3645dfd0-629c-4acc-9463-d85654439bb2",
+  "type": "insight",
+  "timestamp": "2024-03-21T11:35:34.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>My supervision team is fundamentally ignroing my health issues and the work that i am assigned can be completed entierly remotely. This is the bottom line.</div>",
+  "context": "From document: Nelson emails ignored my issues — chunk 2 (chunk 2/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "20b6893a3520cb4922546b69602cf3b3",
+  "relatedUnits": [],
+  "keywords": [
+    "supervision",
+    "team",
+    "fundamentally",
+    "ignroing",
+    "health"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

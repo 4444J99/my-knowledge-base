@@ -1,0 +1,26 @@
+{
+  "id": "0163255d-0f0b-447b-a30f-a00cb240db7d",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:56.000Z",
+  "title": "<div>WORKFLOW-PROCGEN-SPEC-RUN-0300-v0_3</div>",
+  "content": "<div>WORKFLOW-PROCGEN-SPEC-RUN-0300-v0_3</div>\n<div><br></div>\n<div>1.7 CONTINUITY Layer</div>\n<div><br></div>\n<div>Function: maintains cross-session memory and long-term coherence.</div>\n<div><br></div>\n<div>Metaformeme: introduces terms like “continuity thread”, “lineage”, and “echo” to describe arcs that span multiple runs. These are formal concepts with index entries in $ARCHIVE_ROOT/meta.</div>\n<div><br></div>\n<div>Myth Fusion: continuity treats every project and world as part of a shared mythic chronicle. It tracks how different worlds cross over or collide.</div>\n<div><br></div>\n<div>Wave Theory: continuity management runs on its own wave, slower and broader than individual project waves. It periodically re-indexes, condenses, and re-narrates the entire corpus.</div>\n<div><br></div>\n<div>Recursive Storytelling: continuity artifacts are meta-stories about how the OS itself has changed. They are meant to be read by future AIs first when orienting to the OS.</div>\n<div><br></div>\n<div>Example name:</div>\n<div>CONTINUITY-ARCHIVE-INDEX-LINEAGE-0001-v0_1</div>\n<div><br></div>\n<div>1.8 SEAL Layer (Handoff Seal)</div>\n<div><br></div>\n<div>Function: defines the minimal, standardized metadata block that must be attached to any artifact leaving an AI run.</div>",
+  "context": "From document: 0.\tPreamble and Scope — chunk 7 (chunk 7/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "b3360b527d494aeb150b316c90472eb0",
+  "relatedUnits": [],
+  "keywords": [
+    "continuity",
+    "layer",
+    "function",
+    "cross",
+    "lineage"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

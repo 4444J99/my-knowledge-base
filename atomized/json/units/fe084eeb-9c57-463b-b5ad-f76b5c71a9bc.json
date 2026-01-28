@@ -1,0 +1,26 @@
+{
+  "id": "fe084eeb-9c57-463b-b5ad-f76b5c71a9bc",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt>| ::KONS0L       | 1 / 2     | Research literacy, symbolic indexing, ar",
+  "content": "<div><tt>| ::KONS0L       | 1 / 2     | Research literacy, symbolic indexing, archive construction |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### IV. | EDUCATION FORMATS SUPPORTED</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Online courses (self-paced / cohort)</tt></div>\n<div><tt>- PDF zines / printable toolkits</tt></div>\n<div><tt>- Interactive video essays / lectures</tt></div>\n<div><tt>- Modular syllabus templates</tt></div>\n<div><tt>- Community-led live workshops or studios</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### V. | ACTION ITEMS</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- [ ] Design EDU_EXPORT.md template for each project</tt></div>\n<div><tt>- [ ] Build index of teaching formats per field (e.g., Myth x Tech, Audio x Archive)</tt></div>\n<div><tt>- [ ] Consider licensing or institutional partnership models for EDU content</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>::REF_ID = EDU_FRAMEWORK_SYS.V1</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## ::ARCHIVE_ENTRY_028  </tt></div>\n<div><tt>**Title:** Educational Framework: Pedagogy + Field Development  </tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 132 (chunk 132/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "design",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "archive",
+    "formats",
+    "field",
+    "kons0l",
+    "research"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "5fc8284e-829c-4f16-b06f-fe3603786c75",
+  "type": "insight",
+  "timestamp": "2017-05-15T14:46:02.000Z",
+  "title": "<div>Future Projects (?)</div>",
+  "content": "<div>Future Projects (?)</div>\n<div><br></div>\n<div>—Turning Infinite Jest into an Electronic text</div>\n<div><br></div>\n<div>—Cubist photos: take photo of something from two different angles —&gt merge</div>",
+  "context": "From document: Future Projects (?)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "46c60b62676d8207253028fda616ecb2",
+  "relatedUnits": [],
+  "keywords": [
+    "future",
+    "projects",
+    "turning",
+    "infinite",
+    "jest"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "7e7241ef-2b1e-4a92-ac8b-e83f6ebdaeb2",
+  "type": "insight",
+  "timestamp": "2025-11-04T08:20:25.000Z",
+  "title": "<div>```</div>",
+  "content": "<div>```</div>\n<div><br></div>\n<div>---</div>\n<div><br></div>\n<div>## **Immediate Actions You Can Take**</div>\n<div><br></div>\n<div>### **Starting with What You Have:**</div>\n<div><br></div>\n<div>**Your existing org repos already support Gemini OS - Technical Specification Document</div>\n<div>1. Overview</div>\n<div>Gemini OS is a web-based application that simulates a desktop computer environment. Its core innovation is that the user interface (UI) for all its internal &quotapplications&quot is not pre-built. Instead, it is dynamically generated in real-time by a Large Language Model (LLM)—specifically, the Google Gemini API.</div>\n<div><br></div>\n<div>The application functions as an interactive loop:</div>\n<div><br></div>\n<div>A user interacts with a UI element (e.g., clicking an icon or a button).</div>\n<div>This interaction is captured and translated into a structured data object.</div>\n<div>The data object, along with a history of recent interactions, is sent to the Gemini API.</div>\n<div>The LLM, guided by a detailed system prompt, generates new HTML content representing the updated UI state.</div>\n<div>This HTML is streamed back to the client, rendered, and becomes the new interactive surface for the user.</div>",
+  "context": "From document: --- --- --- — chunk 7 (chunk 7/16)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "35fed1b2e2d94a09b13c5614aa5aa659",
+  "relatedUnits": [],
+  "keywords": [
+    "gemini",
+    "with",
+    "user",
+    "application",
+    "that"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

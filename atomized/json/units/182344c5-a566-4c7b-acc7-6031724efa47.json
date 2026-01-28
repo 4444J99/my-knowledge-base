@@ -1,0 +1,26 @@
+{
+  "id": "182344c5-a566-4c7b-acc7-6031724efa47",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div>  •  The Lone Wanderer’s Gamble → Can counter fate once per semester, but t",
+  "content": "<div>  •  The Lone Wanderer’s Gamble → Can counter fate once per semester, but the result is entirely random.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Why This Works:</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Gives each group a mechanically unique purpose, preventing generic counters.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Makes fate countering more dynamic—players must think carefully about who intervenes.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Ensures that solo players are not simply excluded from faction-based play.</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 2. Hard Cap on Archetype Purges – Max Five for the Semester</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Each class session may feature a purge opportunity, but the total number is limited to five.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> How Purge Limits Work:</div>\n<div>  •  Only five purges can happen in total, semester-wide.</div>\n<div>  •  If a purge opportunity arises but the limit has been reached, it is lost permanently.</div>\n<div>  •  If multiple people want to purge at the same time, they must compete for the slot.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 543 (chunk 543/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "zapfdingbatsitc",
+    "purge",
+    "semester"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

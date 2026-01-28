@@ -1,0 +1,24 @@
+{
+  "id": "652d1c64-5755-48e5-bf05-b77b0a47e654",
+  "type": "insight",
+  "timestamp": "2022-09-15T17:34:35.000Z",
+  "title": "<div>[REDACTED:PHONE NUMBER]</div>",
+  "content": "<div>[REDACTED:PHONE NUMBER]</div>\n<div><br></div>\n<div>Call for prescriptions </div>",
+  "context": "From document: [REDACTED:PHONE NUMBER]",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "6e6450d3ecd1434d512c7c24593ba494",
+  "relatedUnits": [],
+  "keywords": [
+    "[REDACTED:PHONE NUMBER]",
+    "call",
+    "prescriptions"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

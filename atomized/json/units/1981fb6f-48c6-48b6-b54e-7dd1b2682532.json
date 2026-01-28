@@ -1,0 +1,26 @@
+{
+  "id": "1981fb6f-48c6-48b6-b54e-7dd1b2682532",
+  "type": "insight",
+  "timestamp": "2021-05-06T13:09:43.000Z",
+  "title": "<div>Do bowling alleys and movie theatres shop exclusively at the same carpet st",
+  "content": "<div>Do bowling alleys and movie theatres shop exclusively at the same carpet store?</div>",
+  "context": "From document: Do bowling alleys and movie theatres shop exclusively at the same…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "ae6b80a0b9800200d55b36e3416d8af4",
+  "relatedUnits": [],
+  "keywords": [
+    "bowling",
+    "alleys",
+    "movie",
+    "theatres",
+    "shop"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

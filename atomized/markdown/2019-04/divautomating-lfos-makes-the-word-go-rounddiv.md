@@ -1,0 +1,31 @@
+---
+id: a148ba5c-c3d8-4f9e-af69-e9b8dbb9b123
+type: insight
+created: '2019-04-10T12:21:14.000Z'
+document: 501590fc65fc96c53877bb3a671b854c
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - automating
+  - lfos
+  - makes
+  - word
+  - round
+---
+# <div>Automating LFOs makes the word go round</div>
+
+## Context
+From document: Automating LFOs makes the word go round
+
+## Content
+<div>Automating LFOs makes the word go round</div>
+<div>And adds movement to all the sounds </div>
+
+
+
+---
+*Source: Document 501590fc65fc96c53877bb3a671b854c*

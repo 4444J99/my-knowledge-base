@@ -1,0 +1,32 @@
+---
+id: f0918aef-133c-4306-9b46-62f6c5e4c41f
+type: insight
+created: '2022-09-20T22:57:55.000Z'
+document: ab59c5236e29ddf04340bee2baadbe39
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    5cuxd3bvw9g1agukmhzzbn261azonwqsaazhdwuuccaqvwivkltwwkxg8nnpp9nq1avjdzah6nmuxlmssjeipijdk23btovodawfaqqqqaabbaga8bpaaaeeeeagcgkjr4
+  - 2wymhw4swleyiiy6kwhk5rbp06bwognjoakxppk2bqeeaaqqqillawoulrxfv3vb555
+  - >-
+    barpnnhoo92dbggvggqaox4ytnc5z5sxwqfahv1fvlaofqemaaqqqqacb8agqaajptwqkcccaaaibfdi4can9
+  - phhxpc2w7dur
+  - 7idmh3q9wtatwqmxibq
+---
+# 5cuXD3Bvw9G1AgUKmHZZbN261aZOnWqsaAzHdWUUCCAQvwIVKlTwwKxG8NNPP9nq1avjdzAh6nmuXLms
+
+## Context
+From document: SHE — chunk 44 (chunk 44/150)
+
+## Content
+5cuXD3Bvw9G1AgUKmHZZbN261aZOnWqsaAzHdWUUCCAQvwIVKlTwwKxG8NNPP9nq1avjdzAh6nmuXLmsSJEiPiJdk23btoVodAwFAQQQQAABBAgA8BpAAAEEEEAgCgKjR4+2wYMHW4sWLeyiiy6Kwhk5Rbp06bwOgNJOaKXppk2bQEEAAQQQiLLAwoULrXfv3vb555+bArPnnHOO92DBggVGGqAoX4yTnC5z5sxWqFAhv1fvlaoFQEMAAQQQQACB8AgQAAjPtWQkCCCAAAIBFdi4caN9/PHHXpC2W7duR/7IDmh3Q9WtatWqmXIbq+CkJqFoCCCAAALRFdD732OPPWbPPPOMadK/fv36ljt3bp9knjRpkh06dCi6HeJsvxNQXQYFZ9S0+l8752gIIIAAAgggEB4BAgDhuZaMBAEEEEAgoAJDhw61b7/91tq1a2etWrUKaC/D2a3SpUtb1apVbe3atZ5uIpyjZFQIIIBAcAWU8187shYtWmSqhVOjRg1TjRY1BQDWrFkT3M4nUM9y5MjhtYn27t1rO3bsSKCRM1QEEEAAAQTCL0AAIPzXmBEigAACCMRQYPHixda/f39fWfeHP/zB9Ac2LXoC2bJlMxWd1ApT1QGgsGH07DkTAgggIAEVvlcwVj9/FQBQsVntAlCbO3euzZgxw7/mn9gKZM2a1QM1+/fvN9UtoiGAAAIIIIBAeAQIAITnWjISBBBAAIGACWjSeeDAgTZ+/Hjr0qWLNWrUKGA9TIzu1KpVy/Lly+e5ppcvX54Yg2aUCCCAQEAEypYta1WqVPHezJkzx9atW+fvhyo8u3nzZps4cSJpgAJwrTJmzGhKBXTw4EHbt29fAHpEFxBAAAEEEEAgUgIEACIlyXEQQAABBBD4jcCUKVNswIABXvCwa9eulj59+t88gm+jIaBUE+XLl7dly5bZrFmzonFKzoEAAggg8P8C2bNn97Q/+lY/hxWIVWC2cuXK/gilAVKaNlpsBfQ7Spo0aezw4cN24MCB2HaGsyOAAAIIIIBARAUIAESUk4MhgAACCCDwq8CuXbu88K8mOpT6J2miA5/oCxQqVMhq1qxpO3fu9DRAFJyM/jXgjAggkNgCZcqUscyZM3tx2ZUrV1qxYsVIAxSwl4Qm/5MCALxPBuzi0B0EEEAAAQRSKEAAIIWAPB0BBBBAAIETCXz33Xf2xRdf
+
+
+
+---
+*Source: Document ab59c5236e29ddf04340bee2baadbe39*

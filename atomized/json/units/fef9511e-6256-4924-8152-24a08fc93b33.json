@@ -1,0 +1,26 @@
+{
+  "id": "fef9511e-6256-4924-8152-24a08fc93b33",
+  "type": "insight",
+  "timestamp": "2024-04-14T18:45:04.000Z",
+  "title": "<div>Cold Call &gt During the cold call, ask for a downpayment, leading them to ",
+  "content": "<div>Cold Call &gt During the cold call, ask for a downpayment, leading them to a longer consultation via booking on Calendly where we will provide a three-month marketing plan &gt</div>\n<div>Follow Up Email w. Calendly &amp Stripe links &gt </div>\n<div>During the longer consultation, provide a three-month marketing plan &gt</div>",
+  "context": "From document: Cold Call > During the cold call, ask for a downpayment, leading them…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "bd4616067bd40e631c9926f950ef94be",
+  "relatedUnits": [],
+  "keywords": [
+    "cold",
+    "call",
+    "during",
+    "longer",
+    "consultation"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

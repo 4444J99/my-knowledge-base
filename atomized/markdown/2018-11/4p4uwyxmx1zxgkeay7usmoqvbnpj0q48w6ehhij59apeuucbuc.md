@@ -1,0 +1,33 @@
+---
+id: 4519da14-04ab-4cda-860a-3b38f0bae170
+type: insight
+created: '2018-11-17T18:19:07.000Z'
+document: e329ec4e43d47fccabf1e22882189db8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 4p4uwyxmx1zxg
+  - keay7u
+  - >-
+    smoqvbnpj0q48w6ehhij59apeuucbucewnfmfxjkptkelkqf57etsocbgdgrnnr9u3a44oswuvpxuuuqr6vwctkjbhvvlysn3cvwnrtykhinfmfyim2apa9jip9rqpcczhjzmo1vt
+  - >-
+    tpgd3xvhosut0jhhfioswusq4kivmtjpfaa2dmbickjgirgnwovzluzxgb3bnbktxgebhgkema6vfswk0cjhanjl8
+  - >-
+    7b6d1rorofydna344bqxyqx3koznruyz8zdiuakcvqzkoirgsxayo1z72ojjxgce1awm8zpzr3psr8zcempwtnf9jix2giylggegquynuywma8cvu4ox1i7
+---
+# 4P4UWYXMx1ZXG/kEAY7U+SMOQVbnpj0q48W6EHHIJ59apeUUcbuCeWNFmFxjKPTkelKQF57etSOCBgDG
+
+## Context
+From document: Black Bean Salad — chunk 2293 (chunk 2293/2298)
+
+## Content
+4P4UWYXMx1ZXG/kEAY7U+SMOQVbnpj0q48W6EHHIJ59apeUUcbuCeWNFmFxjKPTkelKQF57etSOCBgDGRnNR9U3A44oswuVpXUuuQR6VWctkjBHvVlySN3cVWnRtykHINFmFyIM2ApA9jip9rqpCcZHJzmo1Vt/TPGD3xVhoSuT0JHHfIoswuSQ4kIVMtjPFaa2DMBIckjgirGnwOVZlUZXGB3bNbKtxgEbhgkema6VFswk0cjHaNJL8+7B6D1rorOFYDnA344BqXyQX3KoznrUyZ8zdIuAKcVqZkoiRgSxAyO1Z72oJJXGCe1awm8zPZR3psR8zcemPWtnF9jIx2gIYLggegquYNuYwMA8cVu4Ox1I7/AHqp7QMHdyGwazszUyLi2aD94xBB7DtWTM21g3XJ69q6C85UhQASTye9c5cs2Vj4+Zc/TFTJAQTzR+WVVct7n+VYAj3nDDbz0FafG4B+GX1NAt4WO7zMOe2etZSVzRO2pXSNlGD0HQ07PrzUyq2JFbqF4qHYVZCehXkVy6mupIMBV2nYM/matRKrhnHOOMVSEe5irHAPINT2peMlT+A9aaWo+pbRcDAPynt71KVBU8Y7ZpsSq+3Mmw5q+iKWC9cn9a0sx3I1BWMFjuxwM0+N1Ycc+wNOQB2AYYAyDx6U0BVjWbGFZjyB6UWZzt6Dg4Bz19qYXwA20kH3qJn3HhgTUJYOQwHAGOtVzBY0EkjdgeAR2x3qG4leFRnJLcUg3bhu5wM4UdqZOC584g5HAokJFQ5cZ6YNOwgQKGw2etKqsF68Me/WpFTL8D8TU2ZIAbjg5BA7VatmdJAACQKiXK7t2F2mn2hLyq2CyHO7FbAXZrchS6nLEZJNZUhcHOM469q6SdwtuW/ug8DiuYyzShOhI6dadgJopkVAozz1qREDO7KCc+tQrEmRt+aryhAOmAfSnZiuRwQIpY/ez61ooBGm1QNvU1TWUIcDIB9fSrIcuDnjHT6VoosY8IUUsnft7UxnJ5HAzyKl2jaCTx6/0qs2OR0BIrYzL8WzcuX7enQVaSOEgPuOe/HWswOq5OMDmtSHG1WJAzjAp2FckZA/3uNtJ5YCnb8wxzUhD+avHB5P0oUKU4OFzRYLlVYsqVHBz3p/lBVHl5Ld/Sp2O1gIzn2pjkEe/cGiwXGqg5JADEAfgKrSSKCO+eTTJQzSAKSD9e1
+
+
+
+---
+*Source: Document e329ec4e43d47fccabf1e22882189db8*

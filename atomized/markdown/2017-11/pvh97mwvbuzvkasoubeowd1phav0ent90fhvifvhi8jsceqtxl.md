@@ -1,0 +1,31 @@
+---
+id: 61b8ab26-a2d5-4d1d-996b-2f24699d3d52
+type: insight
+created: '2017-11-08T14:03:53.000Z'
+document: f47673d86e05016edf5cfc9824f2b752
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - pvh97mwvbuzvkasoubeowd1phav0ent90fhvifvhi8js
+  - ceqtxljaxczxdwznii2ugsibkentk8cvdra6bbilt7otypz4r5ny7ihj5reomcensk888neh
+  - egpxl
+  - >-
+    jvegprlcxrp2zy3khgbwekagyi55rzuznr0a31sfurluv7gzpi8bqhiibaia4i5wetc7epptubxnlwj7rtymlyqkbtlmtxekeulxyu5wmakdrxgaxdhfaz
+  - wkf1bfjndkxrynzgg
+---
+# pvh97mwvbUzvkAsoUBeowD1PHav0eNT90fHVIfvHI8js/CeqTXljaXczXDwzNII2UgSIBkEntk8CvdRa
+
+## Context
+From document: use this photo as a reference to create my own cut out piece. also… — chunk 209 (chunk 209/242)
+
+## Content
+pvh97mwvbUzvkAsoUBeowD1PHav0eNT90fHVIfvHI8js/CeqTXljaXczXDwzNII2UgSIBkEntk8CvdRa6bbiLT7OTypZ4R5ny7ihJ5ReOmcEnsK888NeH/EGpXL+JvEGprLcXRP2ZY3KhGBwEKAgYI55rZuZNR0a31SfUrlUv7GZpI8bQhIIBAIA4I5wetc7eppTUbXNLWJ7rTymlyqkBtlMtxEkeUlxyu5wMAkdRXGaxDHfaZ/wkF1BFJNdKXRYnzGg/hDKOScVH4o8bSXnh25Rwws53QyXUT43P3Tb39OleZ6neeQ7XEBYWNvEBHHGdhLDjJx6itIwZM6mhVtNRUTtHa2RF15gkkkQ/IgHG8D1HvXA6trDTzzTfZ2a3uY5RGzHJZg/JOe5PNbs2sDQ5biyuYwbe7iyTCSZEyM8sT/XFec6vqDS2SQISUi4XdgEgnI5BwP612RjY4otuRydyWG0Skqy8MMjIye1USw3Y5x1zUkwUAcBWU5Ibk/n3/GostOQVYDA6Vb2PUjHQHUxB4V5LEHIq4kjTxorHbswR9feq6+bDh8AFhgE81ZsZP9JV58EBhnA4Pb+VZrcc2+U6KGdPIne44DqPL25PI69PXrXVaZfw6LHbXDIJ4ZEzJGRnJPGOeeOtYN8zSY1KBUiQsI1UdRtGAcDrms6DU3smHHnzqMgNynPf0/CtJ6WOJw5jsEvorTzhHMIyGdtpUgLuAIyD19K7Dwjrkem+TNPK0kDI0jGJMklecEEYwSevavFE1C5ldrs4MjEkhhuQD2Fdx4Mk1JrjbC2+K4V1C5yCSOQCOB9KzmlY5nStK6Pr208S6br+hTx2y3lhfOv2gK2dpRAMHA7Enivi7x3fSX2pSXsyCN1O1nA5J9welfbPg3w/q1h4VW+v4X87U7d7eH5ySNgJxnqBivh3xzaxWOpXEcBZmbmUOc4PfBOelYwiknY9Bptps8zuh+8kwcEY7VteGnvhrET6bAbibkKucDpn+Y61zpPnSna2No4J7ivcP2c/AurfEL4lQaBokW+cWs05J5CLGACf1rmxM7U2j3IRbsUZfDPiDWIRJrDvHKcHCsQATkkZGK7z4EeA9VHxn8E3UMLSpba1ZPPMXCIiLKCSxJGMAZJzX3/bfsh6pcLELzUVtiAGYYGCcc/jTb/9jyKUFRqMsSsQGVHKbsdDkYI/AivhEmk
+
+
+
+---
+*Source: Document f47673d86e05016edf5cfc9824f2b752*

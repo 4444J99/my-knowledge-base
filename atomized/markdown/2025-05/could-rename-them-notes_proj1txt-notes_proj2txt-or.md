@@ -1,0 +1,30 @@
+---
+id: 4d382a14-7e5f-4628-8379-5c5e9821f903
+type: insight
+created: '2025-05-15T00:57:38.000Z'
+document: 97ddee0de00a1fdb1a5da48c7c6bd4f2
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: design
+keywords:
+  - systems
+  - each
+  - then
+  - records
+  - paths
+---
+# could rename them Notes_proj1.txt, Notes_proj2.txt or better, give each a UID an
+
+## Context
+From document: Transforming a Fragmented Digital Life into a Unified Canonical Architecture — chunk 22 (chunk 22/37)
+
+## Content
+could rename them Notes_proj1.txt, Notes_proj2.txt or better, give each a UID and then use metadata to note it was “Notes.txt in Project X originally.” During the transition, maintain a lookup file that records old paths and new paths (or old ID -&gt new ID). This is similar to how URL redirects work on websites after a reorganization, or how library cataloguers keep authority records when merging catalogs. • Taxonomy Merging and Ontology Alignment: If the parallel systems each had their own taxonomy (e.g. tagging or folder categories), you’ll need to merge those taxonomies. Research in information science provides methods for ontology alignment – essentially, algorithms or frameworks to find equivalences between different classification systems . A simplified manual approach is to list out all categories from all systems, then perform a merge-and-purge: identify synonyms, broader/narrower relationships, and decide on a unified set. For instance, one photo collection might tag “car” and another “automobile”; these can be merged under a single term in MythOS (with one as alias). Tools or systematic reviews can guide in complex cases, but often a pragmatic way is to choose one system
+
+
+
+---
+*Source: Document 97ddee0de00a1fdb1a5da48c7c6bd4f2*

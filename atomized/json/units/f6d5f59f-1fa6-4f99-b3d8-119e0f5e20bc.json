@@ -1,0 +1,26 @@
+{
+  "id": "f6d5f59f-1fa6-4f99-b3d8-119e0f5e20bc",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt>   - Translation &amp mutation systems (wordcut, syntax processors, gly",
+  "content": "<div><tt>   - Translation &amp mutation systems (wordcut, syntax processors, glyphs)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### PHASE 3B: DEEPEN FIRST, THEN PUBLISH</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Before we finalize any public-facing documents, we’ll run each part of the system through the following frameworks:</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- **Comparative Systems:**  </tt></div>\n<div><tt>  Jungian archetypes, Deleuze &amp Guattari (desiring machines), Campbell (myth cycle), Foucault (archives), Hofstadter (self-referencing systems)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- **Transmedia Storytelling:**  </tt></div>\n<div><tt>  Pixar Braintrust, Valve’s flat model, Lucasfilm lore expansion, modular media nodes, ARG &amp lore gamification</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- **Language &amp Code:**  </tt></div>\n<div><tt>  Translation trees, syntax mutation engines, multilingual + literal/metaphoric conversion (ENG/ESP/JPN/GAE/etc.)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- **Cultural Archive Design:**  </tt></div>\n<div><tt>  Pop culture + mythology interweave, queer archives, sound poetics, visual semiotics</tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 72 (chunk 72/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "systems",
+    "translation",
+    "mutation",
+    "syntax",
+    "archives"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,32 @@
+---
+id: 327bd627-8c57-49c0-88e8-291e08862623
+type: insight
+created: '2017-09-01T01:01:20.000Z'
+document: c09dc023ec256edd51aef2e3615dd904
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - cgc0ycderl
+  - >-
+    s54g0w6ugqimyznh4tvwnhe8og5ugk5rky4saebacqqa0ccbfgv700kfdw6hro7joapto0cn1rkmyhtqjewjcqagigfqiens
+  - 5pprwrp1645jehoj2lhxo7u4o77hgwmslbdzktgzx9k2lw
+  - >-
+    7sqewdcylvxxrxmz58ffv3rx2fv3f7429dfqkaicaehuk0ihd58optv398nq0rudu7cmxfijohp8ilkgria1frkdd01gcb774dy9y4hbh4txfqfxxo3vo838ekll3plluqcfjapdhyprcdezujacagbivaabnq2bevnjkm2pvjggxl95ogqcfrnmjur3h777eqzgigivyegbiraggqgujxzzjlh06zntkxkuwl3vxr18re3me5aib8
+  - glk1ci2zdiijqjcdontitgngz6s
+---
+# CGc0ycDERl+S54G0W6UgQIMyZNh4TVWNhe8OG5UGk5RKy4SAEBACQqA0CCBFgV700KFDw6hRo7JOAPTo
+
+## Context
+From document: Web Sitcom Ideas — chunk 459 (chunk 459/798)
+
+## Content
+CGc0ycDERl+S54G0W6UgQIMyZNh4TVWNhe8OG5UGk5RKy4SAEBACQqA0CCBFgV700KFDw6hRo7JOAPTo0cN1rKmyhTQjEwJCQAgIgfQIENS/5pprwrp1645JEhOj2Lhxo7U4O77HGWMslbDZktgZx9k2lW+d/sqO/7SqEwDcylVXXRXmz58ffv3rX2fV3f7429dfQkAICAEhUK0IHD58OPTv398nQ0rudu7cmXFiJOhP8IlkgRIA1frkdd01gcB774dY9y4hbH4txFqfXxO3VO838eKLL3plLuQcFjapDHYprCdeZUJACAgBIVAaBNq2bevNJkm2Pvjggxl95OgqCFrNmjUr3H777eqzGIGiVyEgBIRAGgQguJxzzjlh06ZNTkxkUwL3vXr18rE3Me5AIB8/GLk1CI2ZDIIjqjcdOnTItGnGz6s+AcACAz0ktJYou5AJASEgBIRAfSCAnj9N4Hfs2BFuuukmnwdoCpzO3nzzTS/Fo3/M5z73uXSb6jMhIARKiYD5b/HXXg+xiaNDUPPfUiJdtmMjs4YsW0NDg4/NyU7MAgj5HxY9zRlRybbXe0JACAgBIZAfAkhNTJkyxYP5N998c1YHYYw+cuRIuPvuu8Ojjz7qv2e1ozYSAkJACNQ5Avi1VFzNnTvXFQoI/g8fPvyEmMPs2bOdvL5hwwbvG5CJEEPMggRDOqnjbKGv+gQAOkvjx4933VE1dcz2sWs7ISAEhED1I8Aihcw6waRXXnnFJ0X6AqQzMufLli3z4FO2ZXfpjqfPhIAQyAMBaxgbf2VZMJHhYPTCPA6gXSoRgU9/+tNh7dq1rmtKMiCZEfhnATNs2LCQKWGbbH+9JwSEgBAQAtkhALN03rx54corr3SyTDZ7ffzxx+GJJ54Ir776ahg9erQndLPZT9sIASEgBOodAWLTY8aMcQk1fNyDBw+Gl156yXsDoFwQ2cSJE71KANIM/QJatWoVfZT09Xe/+51L3hO7SKwkSLpxhjerPgHA/QH0u+++m3UThQyY6GMhIASEgBCoAgQiLWkCTQT1/+Vf/iXjVTMZw4a66KKLCp5AM55MGwgBIXACAvHtO0N83sIQ/vD7EF+6MoR3Dp6wjd6oTgQ6d+4cBg4cGB5//PHAYqW5UbVLkoCFz1NPPaUxuDlA+lsICAEhUEQEGHO/9rWvBbT8X3755ayOTNXAdddd
+
+
+
+---
+*Source: Document c09dc023ec256edd51aef2e3615dd904*

@@ -1,0 +1,26 @@
+{
+  "id": "76659a40-ba7a-4eca-ad8d-5a2b4932903c",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:56.000Z",
+  "title": "<div>$AUTOMATION_ENGINE – the orchestrator that responds to events and runs auto",
+  "content": "<div>$AUTOMATION_ENGINE – the orchestrator that responds to events and runs automations.</div>\n<div><br></div>\n<div>Each root is governed by specific AI roles.</div>\n<div><br></div>\n<div>An “Architect” role can modify $OS_ROOT specs and conventions.</div>\n<div>An “Archivist” role writes to $ARCHIVE_ROOT and maintains indices.</div>\n<div>A “Prompt-Smith” role curates $PROMPT_ROOT.</div>\n<div>A “Builder” role operates in $REPO_ROOT, emitting code or structured assets.</div>\n<div>A “Conductor” role configures $AUTOMATION_ENGINE to wire events and jobs.</div>\n<div><br></div>\n<div>These roles can be embodied by different AIs, human collaborators, or both; what matters is that their responsibilities are clearly partitioned.</div>\n<div><br></div>\n<div>2.2 $OS_ROOT Structure</div>\n<div><br></div>\n<div>$OS_ROOT should be treated as the conceptual kernel. At minimum it contains:</div>\n<div><br></div>\n<div>$OS_ROOT/config</div>\n<div>$OS_ROOT/specs</div>\n<div>$OS_ROOT/worlds</div>\n<div>$OS_ROOT/agents</div>\n<div>$OS_ROOT/meta</div>\n<div><br></div>\n<div>$OS_ROOT/config: base configuration, including environment variable templates, global constants, and naming-scheme definitions.</div>\n<div><br></div>",
+  "context": "From document: 0.\tPreamble and Scope — chunk 9 (chunk 9/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "b3360b527d494aeb150b316c90472eb0",
+  "relatedUnits": [],
+  "keywords": [
+    "os_root",
+    "role",
+    "automation_engine",
+    "that",
+    "events"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

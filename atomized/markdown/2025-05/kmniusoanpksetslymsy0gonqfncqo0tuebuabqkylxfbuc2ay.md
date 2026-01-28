@@ -1,0 +1,32 @@
+---
+id: 207f5b81-e50a-4e6f-ae53-a43b4d59603e
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    kmniusoanpksetslymsy0gonqfncqo0tuebuabqkylxfbuc2ayatgnv2qlu2u3hnodfh0qiowzdemfilr5r6q9lvewkgi7iufjivbqr3ic6lvihuzj3wpkeaq6gic
+  - xjandaavgacqdqqfwesyrxi1bi5f1iembftewlog4plmvsrlp7yzi4ljg
+  - gzafajl7kr5aljcbduxa7da1qdgxa
+  - >-
+    o345jtvmblgjvbrc2gqqrjybp97btbns8s1ob1brqhhia8lw2qd22mqiyfw2ngwevoocgiju2ch3vnxyavi14rl2rprao2ojndi93i1z0zy
+  - 87jpyefwn7w0yid05nyewksememrmf1oohoiieqdl
+---
+# KMniusOANPksETSlymsY0GonQFnCqo0tUEBuAbQKYLXFBUC2AyAtgNV2qLu2u3HNODfh0QiOwZDEMfIl
+
+## Context
+From document: New Note — chunk 18491 (chunk 18491/21099)
+
+## Content
+KMniusOANPksETSlymsY0GonQFnCqo0tUEBuAbQKYLXFBUC2AyAtgNV2qLu2u3HNODfh0QiOwZDEMfIlr5R6Q9LVEwKgi7IUfJIvBqR3IC6lvihUZj3WPkEAq6GIC/XjAnDaAvgaCqdQQfWesYRXI1Bi5f1IEMbFteWLOG4pLMVSRLp7YzI4lJG+/gzafAjl7kR5ALJCbdUXa7dA1QDgXA+O345jtvmbLGjVBRC2GQqrjYBp97btBNS8S1oB1brQHhia8Lw2Qd22MQiYFW2nGWEvoOcGiJU2ch3vnxYAvi14Rl2RPRao2ojndI93i1z0zy++JF/87JPyEfwn7w0YiD05NYEwKsememRmf1oOHoiiEQdl/5gLVPguGejbYdHho0NNaNguS2H1IB6UQwdC2D4k0/sCs4qrA63SV9wjXemtko6tB7i6HoqrBFU3SS6xVfKQGs4CNE2BZI/58cADVg10bLJAVcKqQQRrHcqqVFcluOrGfwy4Wt8r7W2rLGA1BOI6BtJ6VmH1z4FV84OeH/21Aqt2R8LuaOi6OiNq1WlRazo1dHy4TmsGdYzUqvOkVp0rWhNUtcfVSaNVJ45OXTVg1YRUNa6wKq0CqqatBqma+dVgVeZXAlWZVw1WZf6P0ZHN8KMf/cgx2GFVriusyo5UAgHj4+NzkCpBVQ1UK9BAVRn+N62CEAqn2i07xhVWtSuscqB7JSussiNW/wOfHbNsu+WcPXs661U7awnq2PPLrdNJ5nM5H0ez3LHooPN45fKrpbMMLMtijqHnoMPP9wadcU0rZ/l+o3NfLt9MrwOrdcDSbA/1+MptD/od8s670PUSaA2w05EDtlRK5O8FFw7+E+KxQ5MEnJiuKqEKGzlN86zHVyCuHHzDTjgFhthRbl/4vczvI04NSSCEgByni+X3j+7H3zhzYSe35jE+36VcmavBSRzoKbcQ/mWZOK28uSiwyjxel5abHcXlFt4zfvvptvzGIxjAgU1+jy9kqVZnHEjl+SpdI8+rKo28X7Uu1YDVSucsV6/zrSN2UPMZ0DplG3AKmk9FF3PhM8Q8+k+Vlmr1XGlf5insyfuhC58LKtvyGvi8sBxUE9VFIVuqXNqXcm1dtyv3fHKWBq0Lp3pimgLu3I6+rC56DQu5r3qMcpaDGLxOKn0SEiJkRp/quuuumyvvuQRWF/PcKPCr9exk6Vvr
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

@@ -1,0 +1,26 @@
+{
+  "id": "3b446551-bbe7-4636-949a-9f9ee7e30f47",
+  "type": "insight",
+  "timestamp": "2025-06-19T23:23:52.000Z",
+  "title": "<div>     * Professionalism: Maintain a respectful and professional tone.</div>",
+  "content": "<div>     * Professionalism: Maintain a respectful and professional tone.</div>\n<div>     * No Personal Conversations: Keep the chat work-related.</div>\n<div>     * Emergencies Only (for urgent messages): Clearly define what constitutes an &quoturgent&quot message that warrants an immediate notification.</div>\n<div>     * Availability: Set expectations for when people are expected to check the chat (e.g., &quotfirst thing in the morning,&quot &quotthroughout the day for urgent updates&quot).</div>\n<div> * Create Channels (if applicable):</div>\n<div>   * #General: For company-wide announcements.</div>\n<div>   * #Urgent-Issues: For critical, time-sensitive matters that need immediate attention from all relevant parties.</div>\n<div>   * (Optional) #Job-Updates: For general updates on ongoing jobs, but keep it high-level. Detailed job-specific communication should happen elsewhere (e.g., project management tool).</div>\n<div> * Onboarding:</div>\n<div>   * Training Session: Host a brief meeting to introduce the platform, explain its purpose, and demonstrate how to use it.</div>\n<div>   * Written Guidelines: Provide a simple, clear document outlining the purpose, etiquette, and how-to for using the group chat.</div>",
+  "context": "From document: OK, I have been taken in to my father‘s company, Majestic design. It’s… — chunk 14 (chunk 14/22)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "c0d4fbcbae75c9060ede6ca48028b0a9",
+  "relatedUnits": [],
+  "keywords": [
+    "chat",
+    "urgent",
+    "quot",
+    "updates",
+    "keep"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

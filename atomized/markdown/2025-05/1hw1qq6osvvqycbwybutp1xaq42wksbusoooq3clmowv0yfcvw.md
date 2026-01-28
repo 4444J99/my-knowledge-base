@@ -1,0 +1,32 @@
+---
+id: 8085187a-7dde-46cf-9a3a-0c3286582dd3
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 1hw1qq6osvvqycbwybutp1xaq42wksbusoooq3clmowv0yfcvwf8hvb7opee4aptk
+  - uo7ffydnghvapeae
+  - ad8a74b3wdnghvapeae
+  - >-
+    ad8a74b3wdpzedjiwenlaagyr0mmvzqpqwqpuwqrugfpt5bd69ttvc4fvkefvqzg0ah1waafaeoeddyqt
+  - >-
+    nyvgkpvc6va3akryamqqggoui24sodvqkkevqlpokp1vo2h1xba1u5a1wyoqxzwttkbvasevvfjtiwggiug1kwauep4lxmaek61iu8xog72xyn1ue3lw8gqhfspge6rzwgrgeztxbqu2m7nwqutqnuytov6gqxhpybgcrbhuz7lsvw7ztypmwpirgc
+---
+# 1Hw1qq6osVvqYcbWYbUtp1XAq42wKsbusOoOq3cLmOWv0yFCvwf8HvB7oPEe4APTk/uo7FfyDngHvAPe
+
+## Context
+From document: New Note — chunk 16149 (chunk 16149/21099)
+
+## Content
+1Hw1qq6osVvqYcbWYbUtp1XAq42wKsbusOoOq3cLmOWv0yFCvwf8HvB7oPEe4APTk/uo7FfyDngHvAPeAe+Ad8A74B3wDngHvAPeAe+Ad8A74B3wDpzeDjiwenLAagyr0mmVzqpQwqpUwqrUGFpt5bD69ttvC4FVKEFVqzG0ah1WAafaeOeddyQt+NyVgKpVC6va3AKryAmqQgGoUi24SodVQKkEVqlpoKp1Vo2h1XbA1U5A1WYOqxZWtTkBVasEVVFjTiWgGiug1KwAuEp4lXmaEk61iu8XOG72XYN1UE3LW8GqhFSpgE6RZwGrgEztXBqU2m7NwqutQNUYTOV6gqXHpYBGcRbhUZ7LsVW7ztYPmwPIRGC/ze2Y9Xidrd+OHH9JcS6V1+A4TOg/WOfarHm7njnV7mUtTdtdl7bXa8fTgdsPrBJUJZRqAVTmjSCqBSMP5lwLd9WKwozLAnfV4sIDkoe7qgKr+fmbUl58UHJTF6R7pKKxUHVy5fXusJ4A9AoglL2zOWudKPcTMsVe5h0pwFLsrUGmzc6pgqo1gDUa1yBUnEdY1easdaaAUZPzloNmw6kEVKE2IjCVkGozYLUltGodV7NAVq45CK/CYRXuqXVnVQCqFlwFvKrxb4le3RxUZ9XeAKzuAVpdG5BddTPd09hXMHR3tV+21tQZVWNbY2e9PwFVV7sVLu1WCLVLYdXzsqG6rSDr/vagXFJA9eqloly7VNJ8VPa2hwKouoq1Cq1uKrS6oddcW+pRYPWcVObuU2D1bABTV9RpNYCsCqguKsy6MI84p/MKtiIqCq4uApwdSoDVydlBmVAwdHyqP7icAlYd1/Hk7IBMaABKLU4iAK0mAbfVsWnMDYYoKbxaqjquwml1Wt1VZ5eGZUZjenFIxxqVnDqsDqnDql5LgdRxuKpWQVXkYwrClsvq3IpQoDUAsercOobXoIFrBGh2rFdGxxReLXUFeHVUAVYEXFanZuYPRG60ZOBUC6keE6x6SGj1trurElKltnRbtbBqHV51YNWB1WYfynyuEQ7zfng//B7we+A03QN8cHo8H4P9FO+Ad6DdDuALkd/+7d8O8Xd/93cHtv3Zn/1ZmPvDP/zDA3OdFPAg+/XXX5cvfelL8pnPfEYeeeSR8J/Z4xn4QuUXf/EX5Vd+5VfClx6sU4/rdfA817uvA3/+538un/zkJ8N/
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

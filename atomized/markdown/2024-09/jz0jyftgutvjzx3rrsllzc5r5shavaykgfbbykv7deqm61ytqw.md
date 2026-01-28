@@ -1,0 +1,32 @@
+---
+id: 6f2bd296-894a-49d3-857b-6d2e38613d15
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - jz0jyftgutvjzx3rrsllzc5r
+  - 5shavaykgfbby
+  - >-
+    kv7deqm61ytqw8wupqm62xeigt2xodrrxexkgdn7vfxtn4ldqieu8415ivwgirxtpdo2wn4cm2gmvtzwykc7hxnwzpyw6yyfkn
+  - ug7ibqhdphcoaampgccrilzijogxloniom2
+  - >-
+    ya3grlwcaawnk0yvekyqm5suwqocecoug7wnxkoipgi1y6zydzzkjz5pwz6npby7x5zteicly95hklcumqaxdalrccz2f0svnqr3w2xba6xenozwtsev7cdmidtsw5wbljlp01pqd
+---
+# jz0jYFtguTvJZx3RRSlLZc5R/5sHavAyKGFbby+kv7DeQM61YTqW8wupQm62XEiGT2XOdRRXeXKGdn7V
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 4345 (chunk 4345/11534)
+
+## Content
+jz0jYFtguTvJZx3RRSlLZc5R/5sHavAyKGFbby+kv7DeQM61YTqW8wupQm62XEiGT2XOdRRXeXKGdn7VFXtn4Ldqieu8415IvwgIRxtpDO2wN4cm2gMVtzwYKC7hXNwzpyw6yYfKn+ug7iBQHDPhcOaAMpgCcriLzijOGXLOnIOM2+YA3grLwcaawnK0yVeKYQm5suWQOcecOUG7wnXKoiPGi1y6ZYdzzKJz5pwz6npBy7x5zteICLy95HkLcumQAxdALrCcz2F0SvNqr3W2XBa6xEnOzwTSev7cDMidtsw5wblJLp01pQd+M67DKMtfOA9POXZZq0mnT68XxgABYIxqDGN626GasdAoevk8PBjY9FGFcwLRRUlMA44+40TjUcZ7nksybZy9BAjn3kejNT7q8AnyiD+h2r6mwJU9oO2FKOtzQe+oPHthsBpV8aNMZcWPnD3Gf0RQ8RfiV1bc18Rvnz1+a/bjt74/Jf0bxZMsvTPtEJ008W+hf99uaTk08uNPZ3u3+5rQOzbE0wtjRhnMhFIEUU+7NxVy1K1joU3LkRmWJSsJePp/mQ9n0OVPDTlRXINPfZTktGn+0hv7I4Z9zCYQ+E3i77fB9fj7p8sSlz1+4ChkE+op7cXvselhxBn6Fq0z5L41wWycZb+IZWK84e2NYJtRmf9dcl4DM1q+cZ4c/QO/MeYrPUnpIRvjGad5lFtrem+Tw1sbJU2CN3sgKnO2XN5IR33acKwz5N4oE86WzyP3jpl2/nQPzpOLUpbUuwxmjupAzqOI2RK89V7IAe0uWonLO/p//xFN5MwRyCWoo6WLXgrRBYQ7D/wGUIf8Obcsd3kXiK7LlUuHcpeWieKM5RLdCc4NLPfBKWZFnhzbxHLEbyG/cq9unrOlNa+I4lzcstoqehlw7iUxG3LmgN/6XXTWTODc9r37Dy4+2ip/Trl0vovOWXQf7aKUpXHdHM4dB5YzqGPmnHLmJohOGuO6zKULLMcsuqcB6tbPLpBFV3Cu8uc2rdwlQd3TBuQWgnAHh7cqbkkglzfSOZeu589ZZvt8YLlCdER3b4Tlnr/PLLoLtZlFByCX+XNR6BLI7fsXITuX7rxl1BHUvSaQQ4nLyqKrG+leqtAlM+peqcSl8+dOmrxj/lzdSIeMOt8/N7mF7tigbtxC9+ObKHR5wIw64boXyqU7IpD7e/X+5Ioa
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

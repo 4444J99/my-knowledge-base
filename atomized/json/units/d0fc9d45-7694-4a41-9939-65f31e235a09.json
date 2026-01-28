@@ -1,0 +1,26 @@
+{
+  "id": "d0fc9d45-7694-4a41-9939-65f31e235a09",
+  "type": "insight",
+  "timestamp": "2025-04-12T19:18:31.000Z",
+  "title": "<div><h1>SYS_PRODUCT_EXPORT_TYPES.md</h1></div>",
+  "content": "<div><h1>SYS_PRODUCT_EXPORT_TYPES.md</h1></div>\n<div><tt># SYS_PRODUCT_EXPORT_TYPES.md  </tt></div>\n<div><tt>**REF_ID:** EXPORT_TYPES_0412  </tt></div>\n<div><tt>**DATE:** 2025-04-12  </tt></div>\n<div><tt>**VERSION:** v1.0  </tt></div>\n<div><tt>**ROLE:** Output Index / Product Taxonomy / Export Schema  </tt></div>\n<div><tt>**STATUS:** ACTIVE</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## PURPOSE</tt></div>\n<div><tt><br></tt></div>\n<div><tt>This document catalogs the kinds of products and exports your system can generate.  </tt></div>\n<div><tt>These are not just formats—they are **recursive artifacts** of `[4_bl00m{4_0S}]`  </tt></div>\n<div><tt>Each output is:</tt></div>\n<div><tt>- Stylized  </tt></div>\n<div><tt>- Taggable  </tt></div>\n<div><tt>- Monetizable  </tt></div>\n<div><tt>- Translatable</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## EXPORT TYPE INDEX</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Code | Output Type | Description | Monetization Mode |</tt></div>\n<div><tt>|------|-------------|-------------|--------------------|</tt></div>\n<div><tt>| `PRT_RITUAL` | Ritual Template | Instructional/performative GPT sequence | Coaching, Workshop |</tt></div>",
+  "context": "From document: SYS_PRODUCT_EXPORT_TYPES.md — chunk 1 (chunk 1/4)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "931847e446907f17709c959e2c06f20c",
+  "relatedUnits": [],
+  "keywords": [
+    "output",
+    "sys_product_export_types",
+    "index",
+    "export",
+    "type"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

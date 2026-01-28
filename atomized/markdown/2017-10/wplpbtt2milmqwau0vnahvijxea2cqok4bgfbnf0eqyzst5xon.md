@@ -1,0 +1,32 @@
+---
+id: 1eb85925-358f-4ecf-9d86-a879f5b5d8ae
+type: insight
+created: '2017-10-11T12:09:18.000Z'
+document: d42d1d2b1fe0db2c2e9f666fba5de4bb
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - wplpb
+  - >-
+    tt2milmqwau0vnahvijxea2cqok4bgfbnf0eqyzst5xon3px6z4wqxtqou6f6hwfhvl3kr7munehhlcnb3qpyzdaz6aviaut1appm5yowrx4jvatp1l2it1kdxa4ihld5l9azzltrlvgi5t7xrvugn8lihxnrmue8xowwvpcnfolu0sq5dsxkbht7utyvmqejqocvfkakxmznifrtqvwvjqxrdi0srannstxmhlltaacvkt2qkkhcada6eagwrygo0dt7
+  - ukpmweldlk3hqd
+  - tomn1kuk9dmzi2vckmdsfssce33n
+  - >-
+    svwg6v201vnnix6vj6hgnq8zk8cnu7mm6sc7ioqbiv6crfjhl5oymfh19pbmrf2cxykdew6e1v9saozsvnyfznczhaaaysseg96zqnjdcrlu8x
+---
+# wPLpb/tt2milmQwau0vnAhVIjXeA2CQoK4BGfbNf0EQyzSt5xON3pX6z4wQXtqOu6f6HwfhvL3Kr7MuN
+
+## Context
+From document: Penne Ala Vodka Recipe — chunk 1123 (chunk 1123/2189)
+
+## Content
+wPLpb/tt2milmQwau0vnAhVIjXeA2CQoK4BGfbNf0EQyzSt5xON3pX6z4wQXtqOu6f6HwfhvL3Kr7MuNEHhLcnb3qPYzDAz6AVIAUT1ApPM5yowRX4jVaTP1L2iT1KdxA4iHlD5l9azZLtrlVgI5T7xrVuGn8lihxnrmue8xoWwvPcnFOlU0sQ5dSxkbht7UtyvmQEjqOcVFKAkxmznIFRTqVwvJqXrdI0sranNstxMhllTaAcVkT2qkkhcAda6eaGWRyGO0Dt7+uKpmweLdLK3HQD+tOmn1KUk9DmZI2VcKMdsfSsCe33n/SVwG6V201vnnIx6Vj6hGNq8ZK8Cnu7Mm6sc7IoQbIV6CrFjHL5oyMFh19Pbmrf2cxYkdeW6e1V9SaOzsvNyFznczHAAAySSeg96zqNJDcrLU8X/aY/aC8Efs5/Cu/+Jnjqd0s7ABFSEbpZZX4REXvk8E9F71/IL42+JHxa/4KBftCDxB4lZLKK5cWunWUhaSG0QcIgCgF5X4Bfbk554Awn7dP7Unjz9rb413t7dXkkPh3QLqSz0jT4mJiQgiN2+6pYyuu7DDIyAelf0Nf8EkP2JtL+GPw1svjF8WNKtbnxhdnzLCZtxfT4GGPKZM+WZf4g4DbQ2Acg5bjyq63LjH7XU6v9gz/AIJSfD/9ny2tvif8WreDWPG6j91glrbTs5B8pOjSMDgsdwAyFxk5/YeC3ggRIIkASMfKAAAPoBwKu4WCJhgc8mqpkT7w5+lZRT6kNXJJ4nbBHGKczqAB3FZc98oGM8ioftRMa7vvMcCtE+rMJ6lXxJNEulyK4y21voDjvX4a/sSxRXP7X+o6zfuZruFb1REDgrkiMMvc4zkj/Gv2s8fTz2+iSi2A8wI2NxwM44OfrX5A/sY6dr+m/tJahLZWqzXzG4F7MCFWAhvm2kAg5xwBwcdelfs3h7JRy/GLvE/MuIrPH0fJn7qJE64eTjIFWl2wdRkioZ5ZJShb7zYPHepXjkbCIDkDnNfkdSPRH6dTd4Hz98Yfjwvwl8Kan4jOj3mvz2EDzx2NiB5sqp945PQKOTgM2OgJ4r8N/iD+3t/wUU+OmnSj9nzwFqPg+2jYeZew2r3s/wAwO2MNcRoihgRkiMt0KkGv6Pk0ex6yRguOe2avWdnbI7TAEZ9PWlNpRsbUvdd2fyB/Cr/gir+0v+0x4svfil+
+
+
+
+---
+*Source: Document d42d1d2b1fe0db2c2e9f666fba5de4bb*

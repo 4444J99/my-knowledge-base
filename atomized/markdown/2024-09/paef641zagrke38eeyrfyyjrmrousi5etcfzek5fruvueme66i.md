@@ -1,0 +1,32 @@
+---
+id: 94c33d65-2d67-497a-ae01-eabd61063ea4
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - paef641z
+  - >-
+    agrke38eeyrfyyjrmrousi5etcfzek5fruvueme66iszepx1dtfeix1vncuskq0ux3gwjut5xjyz1xfbemimmvjrmkxqtgrmzf4gsds
+  - hse32zr
+  - xzw9wsxsijd1wzdprblu2aouvmrc1h5e9af4cskdgotpqysecesbfmkvhbuqiy
+  - >-
+    ka5zm0f4iqtshmwvwgw7uwxjgcwtlyfnxydvyreluueypjvhogbx8w5a1jbyip3htful5alzt5lqherwbfifbiiyeftpriq4frokvtk6f66so4xqxfmnvlijwq9eefyxuylipkyq
+---
+# PAEf641Z/agrkE38eEYRFYyjrmROusI5ETcfzEk5FrUVUemE66ISzepX1DTfEIx1VnCuskq0uX3GWJut
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 9898 (chunk 9898/11534)
+
+## Content
+PAEf641Z/agrkE38eEYRFYyjrmROusI5ETcfzEk5FrUVUemE66ISzepX1DTfEIx1VnCuskq0uX3GWJut5xJyz1XFBemiMmVjRMkxqTgRMZF4gsDs/HSE32ZR+XzW9WSxsiJd1WZdPRbLu2AOUVmRC1H5E9af4csKdgOTPqyseCesbFMkvhBUQiY+Ka5ZM0f4iqtsHMwvwgw7UWXjgCwTlYFnXYdvYrELuUEYpjVhOGBX8W5A1JByiP3HtFUl5AlZt5lQHERwbfIfbIIYefTPRiQ4FrOKVTk6f66so4xqxFmNvliJwq9eeFYxUyLIPKyQ+tCB/Lso4vCZI16Wn27JEf5AGK3KWeM+N6mQLIh0NnDxBUc3S1zqD77E5sqZkqplEQ8911cbHUpUfFj+0F/apD0E4S1xZBhiQrIgN5L1EOB7KRd4jxpfEK0wKh+UnqVMwYkwd87SqFQzvmSxk4FErSP4QCZ5HdPMP8KvB+BU43g/Sh3iPVoUSYdV6pBJPypOCzxdr4dJchGtlIG9z6jaZCJxA9PhlnV9hXvO9Ulvai1jvTgZniHrYp8xheQNC1w+ZtCbF5v3G7IoGF8PIjxHE3qBT4qLdX52wnBRnDYMvNiO5KhR4kdayscqigAAQABJREFUEZWF81LZ1ygEY0jIItwGisTzjawNKdcSasIKov7VKvyiVhGRgbNKvw2VLep9RmE7sxxGYYaDyQTjTF/l4cKdxz46JOQownARETeTcyVKhXYl4EbWlyvkXtghGE8qCQ+E8rBEszITBWPppKk8XC81lYebCsb0s/reFuVE2IuTROulMFsKycQXNnUJmXuR/3i6KIjsPG4qAFfcyHqvqjw827iXIPHuZeTuFWXSD2DuNt2LHIHvTioS0xYVhj0SNTrbsqv+Th2CcdmZJCvvFN1hnBXftM2EZMFxMVM5GbZdkE4oEo+9xUXxctSFU5gRF127rCZcDnEJHxfvSbLGhZyX82GNea4BOSej2P7jKohkYXrxJ81wRocVeThcz2IFkWlHxCRAbT0rI5qcPHFaozYBl8lNkolOwgRI/iZOfUyhRBKu15PsRVZcp1ZRp1YRuEzChDPk4ax+0Kzh222oIydzp5uKxBXTJkwiFzuMiyFFp5ISlQml+JSQxY/OTxolIpZT1c7crqgMqzii7SD+62k7daYga5/Iym41mZoHsxU3pt4O
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

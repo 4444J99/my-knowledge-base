@@ -1,0 +1,26 @@
+{
+  "id": "e60d77d2-0863-4c2d-a12e-60df6f425d9f",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📌</font> Version 4.8: Final Questions Before Lock-In</div>\n<div><br></div>\n<div>1. Should students be allowed to “stack” redemption paths (e.g., use multiple performances to fully erase failures)?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> One redemption per failure to prevent exploitation.</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> If a student “stacks” redemptions, they must complete an increasingly difficult challenge.</div>\n<div><br></div>\n<div>2. Should failure on a second consecutive Mastery Exam add a stronger penalty?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> If a student fails twice in a row, they must complete a literary “penance quest” (e.g., defend a literary villain in front of the class).</div>\n<div><br></div>\n<div>3. Should the final class-wide event allow students to “spend” XP for team advantages?</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> XP can be spent to gain advantages in an Olympic-style literature competition (debate, trivia, storytelling).</div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Top XP earners can “buy” small in-game perks (extra time, reroll questions, audience assistance).</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 96 (chunk 96/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "face",
+    "zapfdingbatsitc",
+    "should",
+    "final"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

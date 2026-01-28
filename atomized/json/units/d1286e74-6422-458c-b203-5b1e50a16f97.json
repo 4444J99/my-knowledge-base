@@ -1,0 +1,26 @@
+{
+  "id": "d1286e74-6422-458c-b203-5b1e50a16f97",
+  "type": "insight",
+  "timestamp": "2025-06-19T23:23:52.000Z",
+  "title": "<div>   * Lead by Example: You and your father should actively use the chat appr",
+  "content": "<div>   * Lead by Example: You and your father should actively use the chat appropriately to set the standard.</div>\n<div>System 2: Shared Notes for Equipment Requests</div>\n<div>Goal: Create a centralized, easily accessible, and structured system for employees to request equipment and supplies, reducing back-and-forth trips.</div>\n<div>Recommended Platforms: The key here is a system that allows for structured data entry, easy viewing, and perhaps even basic tracking.</div>\n<div> * Google Sheets / Microsoft Excel (Shared Online):</div>\n<div>   * Pros: Familiar to most, highly customizable, easy to set up.</div>\n<div>   * Cons: Can get messy without clear guidelines, limited automation.</div>\n<div> * Google Forms / Microsoft Forms + Google Sheet / Excel:</div>\n<div>   * Pros: Enforces structured data entry, minimizes errors, automatically populates a spreadsheet.</div>\n<div>   * Cons: Requires an extra step for the user to fill out a form.</div>\n<div> * Simple Project Management Tool (e.g., Trello, Asana - Free/Low Cost Tiers):</div>\n<div>   * Pros: Designed for task tracking, visual, can assign requests, set due dates.</div>\n<div>   * Cons: Might be overkill initially, steeper learning curve for some.</div>",
+  "context": "From document: OK, I have been taken in to my father‘s company, Majestic design. It’s… — chunk 15 (chunk 15/22)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "c0d4fbcbae75c9060ede6ca48028b0a9",
+  "relatedUnits": [],
+  "keywords": [
+    "system",
+    "structured",
+    "google",
+    "pros",
+    "cons"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

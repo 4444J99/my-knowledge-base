@@ -1,0 +1,26 @@
+{
+  "id": "51454672-2b1d-4b6d-9ccf-67b71d5f1639",
+  "type": "insight",
+  "timestamp": "2020-11-21T01:30:31.000Z",
+  "title": "<div>To your line </div>",
+  "content": "<div>To your line </div>\n<div>Kiss your cheek </div>\n<div>Arms entwine</div>\n<div>There’s No fear here</div>\n<div>There’s No fear </div>\n<div>No fear here</div>",
+  "context": "From document: RAUM Lyrics — chunk 2 (chunk 2/2)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "312e7943774c9f488b4e9219acfd43c2",
+  "relatedUnits": [],
+  "keywords": [
+    "fear",
+    "your",
+    "there",
+    "here",
+    "line"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

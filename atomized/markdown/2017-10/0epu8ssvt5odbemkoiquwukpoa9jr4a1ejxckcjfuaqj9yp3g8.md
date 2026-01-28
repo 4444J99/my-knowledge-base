@@ -1,0 +1,31 @@
+---
+id: e1912c57-8536-4391-9ffa-ac5f223762dc
+type: insight
+created: '2017-10-19T23:15:11.000Z'
+document: 18dc3a996dd053a8e2f8b89fa16c3840
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    0epu8ssvt5odbemkoiquwukpoa9jr4a1ejxckcjfuaqj9yp3g8yo7hls4bb5xv0oeqereaereaercezabobg3lsxckqkwoswkgq8k4kgkkyoaipguqguqhbdwn9jkbr27vqb
+  - keeri9eqareqaqyirbv3353duowrnmr4euusefx2ufvuzex7njhxi2mjqunreaekp8athwpp
+  - 64692793fgqj5p0vtqiwshdk
+  - idujxr59dge9fegaa9ou5mgmcqdeyatuq16nhdzd37lxl54kyhw
+  - wycogax7nws6c3xszxjlq4mcbkvn7klooyxt36p49e
+---
+# 0EPu8ssvt5oDbEMKoIqUwUkPoA9jR4A1EjXCKCJfUaQJ9yP3G8Yo7hlS4BB5xv0oEQEREAEREAERCEZA
+
+## Context
+From document: L-day IN A CHAR — chunk 932 (chunk 932/966)
+
+## Content
+0EPu8ssvt5oDbEMKoIqUwUkPoA9jR4A1EjXCKCJfUaQJ9yP3G8Yo7hlS4BB5xv0oEQEREAEREAERCEZABoBg3LSXCKQkwOSWkGq8K4kGKKYoAIpgUQguqhBdwn9JKbR27Vqb/KeEri9EQAREQAQyIrBv3353duOWrnmr4EUUSefx2UfvuZeX7nJHXI2MjquNREAEKp8AThWPP/64692793FGQJ5p0vtQIwSHDk+IDujXr59Dge9FeGaa9ou5MGmCqDeyatUq16NHDzd37lxL54KyHw/wYcOGaX7nwS6C3xSZxjlq4MCBKVN7kloOYxT36p49e+yHexIjUbJ0U0WATacoAiIgAiIgApEQUBHgSDCqERH4BwEWRng9McHFI55IgGwUh/rHEfPjf6SUYEFHWHnNmjUj6RSLUYrRUXDyggsuiKRNNSICIiACxUrg8y+cO/G0xu6sc6uW5vB+2zVpdHaglBukZmjbpY9b8s6J7vUdzg1v7VwVuZQU622l844JAaIzSeFDUV4U8olFRvfu3WvKeRTyOK5481YcMJiDoYjFuWP8+PEZny3Gg+bNm5sjBylf8N6mD927d3fnnHPOcYaGjBvVhrEmwLuD+wvjEA5TyYQ1BM4/zZo1czNmzLBUc0OGDEm2qT4TAREQAREQARHwQUDLNR+wtKkIZEIARTie6yj/WejwdzFEARDKy+KOHLF470QhLALwSiPX7MKFC6NoUm2IgAiIQNES+KB0aF664wv3+qptbsvbu0pTMAQbqxnvD+15x5109JA79Pcv3NGiJaoTF4H4ENi1a5fr27evOWt07drVkf4HIW3ls88+axGc5FhH+Y+yH+UrHts1atSwgr2kYPE7n2UOfPbZZ7tu3bq5Xr16uWuuucbaT4wyiA9B9TQMAe6nxYsXW1TI5s2bHTW+kgn3GAYpfrhHcaryDFLJttdnIiACIiACIiACmRFQBEBmnLSVCPgiQK5UFjd4r2AEyDRc2tdB8mxjlPV4/7OQpGBXVLJjxw7HopW2JSIgAiIgAsEJnFEanNWydCh9t1oVd/jEtg4P3SCCYfbtPZ+57t3OdXXrnOBOlDtJEIzaRwRyRgAHDZSuePSXrauE0n/kyJE21yIFEEIBX7z2f/vb37o77rjDUvVEoYQ988wzc3bOOlB+EcD4tH79ejd06FAzQlVU82H58uVmAGjSpInb
+
+
+
+---
+*Source: Document 18dc3a996dd053a8e2f8b89fa16c3840*

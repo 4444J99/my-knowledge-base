@@ -1,0 +1,32 @@
+---
+id: e8389d13-70a4-47f5-933d-e0a25cbdc24a
+type: insight
+created: '2017-10-25T17:06:54.000Z'
+document: 2a2d2c8448c2f528bd655aa468b812aa
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    hfdqi1ef88y5cxsshexd73wx6wauzatjli4i4phuci7mkgsouwvznrzkch6ouekqdab9r4b7blr31dx2nb5pixpvetxl1cd3r17x9zntilxxdv5
+  - >-
+    lwgkaotbidmgf4pzrreyts4mpwyhyjfi0jfjnihfmedymett7lyugili8kjpcdfjzir9dpxd09cocwzch6dqcg45dnhlhwxmn
+  - ixngp44dbt4epoibzckhtvyjj04
+  - 4jypzc5hre5w6rmxcopktoh
+  - euethqg1yrnchpyyejxgk73wsgozdg0ba8llrfm9jezd7lbjkfmsjypp300wdve9vbbm9
+---
+# hfDqi1ef88y5cXsshexd73wx6wauZATJLi4I4phuci7MkGSOuwVZNrzkCH6ouekqdAB9R4b7bLR31dX2
+
+## Context
+From document: EL — chunk 1426 (chunk 1426/1588)
+
+## Content
+hfDqi1ef88y5cXsshexd73wx6wauZATJLi4I4phuci7MkGSOuwVZNrzkCH6ouekqdAB9R4b7bLR31dX2nb5PIxPVetXl1cd3r17X9ZntiLXXdV5+lwgkAotBIDMGF4PzRreyTs4mpwYhyJFi0JFJniHFMeDYMeTT7LyuGilI8KJPCDFjZIR9dpxD09cocwZch6Dqcg45DnHLhWxMn+0+IxNgP44DbT4EPoIBZCKHTVYJJ04/4jYPZC5HrE5W6rMxCopktOh/3/EuetHqG1yRnchPYyejxgk73wsgOZDG0Ba8LLrfm9JeZD7LBJkFMSjYPP300wdve9vbBm9/+9vLs7CsDe0ggc2vl80KGxTzCgxmNT+BCTmcVyH/bmND8MMPPqta2AybHYI6GSfbWuiiWepURARdLVtnk4lB+luGGjs8TuCOHHNHA5ICCUEO3Z5fzXxHUvBt2A/nmp918tPa1pKxkg9rzg98TEsKagf2VfntsquIID4H/S1zGnldvbat37M8zj9F2NGT+q6//JzQz9O0Rd/Kmt75v1vUyeYsMJ6mT4u4NnDkm7JBMLVefEZAw5Z/ae35bH2x1/zNkBfY8XVlTPchBckyXw8Ja/7mZf/H0S2jsFbXLOvT3qLXz6gx5veJwLYjkBmD2y4BWzx+u3UMfRBnWwzFWENHboxyDtyqbHddsOIWDGQIx4djPUmRmWOXnCPlZc4EBohHt1NxkjkYHKx1L/D1irEI7sL5X/exrXL/kTsc+yBop+2r4AHJaC28//3vL1meglpzK9gSuAssZH/KOon5nrbdeV0vc9ejCGRReMA+mazqAYGO/6cdB1wEZQKwCLrmNaZp6pXpIMsUcY8ocEu/H6zaBAJmGlymvVZmuywaa8MG3iqTw9OOdZLr6Q9+C9uHuEAs0FtBTMiis4bYTGvIptimYIiIly3o8Qw2Cpc1LnNA3y1jrWubnvVu88Rn/aB3q/p4Etna1mtgab34gUU+K/KVfPEFfPaylqy7NvtGZ73rXe8anHjiicXfrWPJXtgEZPtlFvJj3a3kkTb03CZvgtSxyP8TgURgdRF4wFuHZXW7lz1LBOaHAAO/yoHn/EY+Xc19nE9OM3w905ETLyOK8zNJ4YwJgJCKnvEimwhZZlc2nuvDcevTr0naX/Q1xlEdS52AWXR/tqU9QSY5I2+zCDjNG7mUheCWL8/m
+
+
+
+---
+*Source: Document 2a2d2c8448c2f528bd655aa468b812aa*

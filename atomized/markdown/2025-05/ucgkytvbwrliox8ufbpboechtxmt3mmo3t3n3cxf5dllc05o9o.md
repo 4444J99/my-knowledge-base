@@ -1,0 +1,31 @@
+---
+id: 7d5f08a1-b48a-49ae-98db-5d0968bf13fa
+type: insight
+created: '2025-05-15T00:56:03.000Z'
+document: 084f9bc77d1d8854a07a52206c286278
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ucgkytvbwrliox8ufbpboechtxmt3mmo3t3n3cxf5dllc05o9o
+  - 0kcbfoam1nopyo7cjgniwtukddrgv2pjhwtntozimkaap7s1j5qu2bpuxsd3z1
+  - hga0l
+  - >-
+    6tvcmvt6np8ymwm2tavalz5icklcqoxjhzackc4yk4kxmlg0w7mktkeodiduucoqk0anshg9tukgffacdeex8o3s7x2qprd2mdomf2xlm3ms8iacezofrfithuke5q07njnjsajsehpisik6nurhkmdwqadxl
+  - bgktdjn0e4k3z6tcpa57mp70z
+---
+# uCGkYTvbwrLIox8uFbPBOecHtXmT3Mmo3T3N3cXF5dLlC05O9O+0KcbfoAM1nOpyo7cJgniWtUkddrGv
+
+## Context
+From document: Grokking Algorithms for OS — chunk 21 (chunk 21/402)
+
+## Content
+uCGkYTvbwrLIox8uFbPBOecHtXmT3Mmo3T3N3cXF5dLlC05O9O+0KcbfoAM1nOpyo7cJgniWtUkddrGv2PjHWtNtoZimkaaP7S1J5QU2bPuxsD3z1/HGa0L+6tvCmvT6np8ymwm2TavaLz5IckLcqOxJHzAckc4yK4Kxmlg0W7mktkeOdIdUucoQk0aNshg9TukGffacdeex8O3s7X2qprD2MdoMf2xLM3Ms8iACEZOFRFITHUke5q07nJNJSajsehpIsiK6NuRhkMDwQadXL+BGktdJn0e4k3z6TcPa57mP70Z/FSPyIrQ8Ta5/YGiPeBTJMZI4YY9u4yO7BQAARk8k4B7UyTYorKvNbg0vRL3ULqZHSzDGUIRlT2Tv83IH1q5BeJPZx3J3QxyKrDzhsPzdAQehORx/WgCwehAOCehr5buwUupxJwUYhvqDj+lfTdjctdLK5UKiyuiEHO4KcZP4g185XVui+LbiG6XbHHeyGZD12q5Zh+OMfjQBNoumJdXNvZSIfPvbuK1ZyOIoyQX/Fun0BHetXxTDJq3iGe2tNgubzUXjtkyfuqwhU47DKn8I/enadeppmuT32qJGbqwa6vZYl+cNOPuAkcY3Px/1zrL+zajomsREFl1FYyrOWyUlaLe5H+6kmPqfagDSvddSK/vrTSIVZJohY287tlkihOWcY4JdlLkn2rK1LVbq40nSdNiMos7W33xIxG5i+SzHHqTwP7uPWsqN2ijbacb0Kceh4NaulW19qOuxS2FhJqE8OHFv1CgDEe88AKMKckgGgBtrPqDyaZo9sIS0Wo7oTnKNOxUZJ7gYHTtmtK6tbexufE9/JcBocmzt5x8xkeVvncds7Fdv+BDFW4vhp4vtpoLi3toIZAwKlboboierHt+Was3/hbxRa6eI73REuFt/LELWIjbIT+8gwWLERgt1wvTmgCtrswtpLe2jjMbQW7SK5bIjKhVjQnv5UeM+ju2ORWdd6as3l29pbiSe6mS0t4yCHjwF2uT3LlnJz0Cn0Fact9pWo3kUNysrQ2/kw3LSoUfy0Zprl3Xt5khVfc8Dmr3hm5udd1i4urSKQyMHuC69Y57mURbhj+GOJWx9GPegDZ+EdiNMuvEFlNPC15FPGjCJ9wKKD8y+oyxH+Br02vHdAe3Gs3MXhy1lGqwu93AwYGN4gzAwuOylNgz/fIPavVdJ
+
+
+
+---
+*Source: Document 084f9bc77d1d8854a07a52206c286278*

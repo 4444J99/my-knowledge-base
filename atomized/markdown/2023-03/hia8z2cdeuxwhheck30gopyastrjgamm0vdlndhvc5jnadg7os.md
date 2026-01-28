@@ -1,0 +1,32 @@
+---
+id: 5ef80717-f62e-4877-9942-bd6b1bea6954
+type: insight
+created: '2023-03-23T14:28:26.000Z'
+document: 6b368ee74a30071afafea2aba2979864
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - hia8z2cdeuxwhheck30gopyastrjgamm0vdlndhvc5jnadg7os9
+  - >-
+    51jjiyow44xdoczjnqxgzgdsdy0lxrr6pcogranqkzce8pufafqwz0sgnga8rpq00uty3jyv3uyvohmc9qq6z8nxtm8tvgcfrpusmc8tsjiwvaljftyvyhllk1dapa8j01tc95zla0lzbou5jgf5xropa
+  - faqvmw4xt0tiiedwwkz2kj0fsa5nno4bxlgz3hsi0apfsj46trwue5zng
+  - qzbkzf
+  - >-
+    ch4s1dgiplrb6uqp00xwot4l0bo3lswwa6antvxsmizpsmplhpq8ejeegpj0huqtfhipify8r4bnbbfwyr6wgql9u7hsx
+---
+# hiA8z2CdEUXwHhECk30goPyASTrjgamm0vdLndHvC5jnAdG7oS9+51jjiYow44XDOcZjNQXGZgDsDY0l
+
+## Context
+From document: New Note — chunk 1903 (chunk 1903/8096)
+
+## Content
+hiA8z2CdEUXwHhECk30goPyASTrjgamm0vdLndHvC5jnAdG7oS9+51jjiYow44XDOcZjNQXGZgDsDY0lxrr6PCOgRAnQKzCe8PufAfQwz0sgngA8rPQ00UtY3jyv3UyvoHmC9Qq6Z8nxtM8TvGcfrPUSmC8tSJIwvALjFTyvYHllk1dAPa8J01tC95zLa0LzBOu5JgF5XrOPa/FaQvMW4xT0TiiedWWkZ2kJ0Fsa5NnO4BxLGz3HsI0APfsJ46trWue5ZnG+QZbKZF+cH4s1DGiPlRb6uqp00XwoT4L0BO3lSwWA6AnTVxSmiZpSmPlhpq8EJEegPj0hUqTFhIpIfy8R4bNbbFwyR6wGQL9u7hSx/rtJwmHON8IZIP2ueZOFK0D5TZNGiw0TPhWO076UdefpX4ttMNZ//86LYsIzD4rPHxkoRj/UX3z52D3im8eHiG8eGyAmPzlAjL7PTnw6xFYsGPagWPXFS8Z9KyaLWPefjXl6D2NtQYzxZFOu8Vh9thGgtxGgtrGpPutWfXXaLQDgEqKvrUy9VVuZ0g7QE6Kngb4e0DwAcWmhh7n9t5oyUwBEB1xvADAfLyF6gvSwtt+E/R1AvQxY6BNkEKLHGjcw/gYN9FWl8ajH3YDR/Trar+NMEqSH9f4a9pQGesyVAD3N84Cgr2LMVYyVddrnMfcqxlwBgH8FoPwV7HEZZwFIDWM5An2XYL9vB+hpoqeBnvZ5QPEXSgpiLsCULwF6GuhLC2PPY56E5wG3A/iOOVearz8LqB8QeAIi/gxKCdDjRYLTMPUDno89DaD/NOZJAz1geZOFngZ6QPQ410lA/icQrTj7Cex7AqA+662YA/N7TCvWbCVAT2Cegfy1wlIv67TPIx8wxidLCB4geztMT0CeQD0AcljnkyQ0T7iebQqiZ72uMr0FgHkLAXploEd7CyBzGYDEWwG6I5IA8CdKgB7jTQZ6mucLDHgZIPkU9sFLAoZTNM8zCJcreB7Q/BkA1NI+X15gOINznMU8E0BfktQO0GMPCc8DjL/AAAR/AWfFNwKkShs91rmIc9E8fxF1aZxX4DzOJiF6XgPEvwSw/bKC51lHPiREjzNd5hiU0lpPAz3A+Us1RYaLAOmleb6qIO5iXUnCBYDyFwCFI/TnKxgE6AvjzlXxGwcKY8/geZzGyxjymeKze7IMzxCfqdZjh/NbWpoL
+
+
+
+---
+*Source: Document 6b368ee74a30071afafea2aba2979864*

@@ -1,0 +1,32 @@
+---
+id: 4539f400-902e-4a55-a8c8-b6cc2cbf9c99
+type: insight
+created: '2018-11-17T18:19:07.000Z'
+document: e329ec4e43d47fccabf1e22882189db8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    swbovjgbtdhqkymub5yoaezf3e4xqaxt0beejk8ybyfxpo3nn52np6ec4nndzchds4qzyaklxcnwpjfp2ojlso
+  - ek2rljk49hsknaagb
+  - >-
+    m0xkkvlunb68hoktiphyhrqeth8xcxjccwyjgoeay3ylz1j4pptgscsofxwc9fwqmlvbymgnn60gi0tjji75goldmpbxqco5p2cf93ttmfxdejbnhsgqo4bcqyygkcge1vs4qfwaqd3
+  - biyeggkgl2niaocpag2igcecmmsssgpycq7op
+  - fqqmmw9qtlfydxpqadhrtwxkkqn3p2xqiw5luovpo453l
+---
+# SWbOVJGBTdhQkyMUB5yOaezf3e4xQAxt0bEEjk8YByfxpo3NN52Np6Ec4NNdzChds4QZyakLxCNWPJfp
+
+## Context
+From document: Black Bean Salad — chunk 14 (chunk 14/2298)
+
+## Content
+SWbOVJGBTdhQkyMUB5yOaezf3e4xQAxt0bEEjk8YByfxpo3NN52Np6Ec4NNdzChds4QZyakLxCNWPJfp2oJlsO/eK2Rljk49hSknAAGB/M0xkkVlUnB68HoKTIPHYHrQEth8xCxjcCwYjGOeaY3yLz1J4PpTgSCSOFxwc9fwqMlVByMgnn60GI0tjJI75GOlDMpBXqCO5p2Cf93tTMFXDEjbnHSgqO4BCqYYgkcge1Vs4QFWAqd3+bIYegGKgl2NIAOCPag2IgCEcMMsSSGPYCq7op+fqQMMw9qtlFydxPQADHrTWxkKQN3p2xQIw5lUoVPO453L/ACriry1JlZ2QDg7d3vXp7wobZmUBRn6c1yNwkUvmK6NuU4zj0oFY4mS2XCB05UfKR04rOuEO8g4OeeP612ktpuUMxyBwAPUisj7DGcyOCCR1HqKSViTkjE4DKvHHGOnNN2MjhSoZGUBmz3zWtchYxvZWIDYGB/OqjgL8u3LHO36jpVpXApBuTnICj07dqawjdd+7aEPKnv6VJKxSFpXG/b94Ae+KRtoYbHIXgkd6kCsCSMIcfMCT6npUrqYyrq4GD3HTtVUyIHYnnp+FPMiTGOHaR5nr7DNAE7c7A7BiwOD1/wA8VCRnIXBzxQ6wKqKFPB/Kg7cgAdc9O2KAK86sYyMZyMMM4/lUcSeXH3DcYGalSRpGfJxtwBkY680JGzgsCSRyCB785oAiVlCYHynnIx369KcVDRhg4QK3zcZOOlG4xxmTAGwfeHp7VF8qlRhj5y78qOmOxqUgEYKjZVACvJY+pqIQ8MZOQxLbs9Ce4FTxlZ42RlKbM/e4zjvVdZFyqxjPYc8Gto7AWLd1RJBETgDGScbQKrGFRGqrGFAOAQeuepOamk/eKisuAeCV6k9cU2QxyZV+M9PWtAIP9T5iuSCTgHGeOnWrT7ItoThQNqk8ZqNBsThSwGOvqe9RqC0hMpypYjB6Z9hUN2AeyOB5+/O0YGDz/wDXqDBVgWXLc/MBgY7Z9ac5+Z02MgUliW45H0pjPzwCQepPA6eppgNdpWKuDgZHbH1ppCs2SMZJ3HJ5BqVMskhUBSn3SQPmx6UKm8oQ+0yKSQfUduKkhiSSG3kEe5j0wFGcj3qwEVXV+Qp+bnp16VHEiqoTkk87h29iattbMtwLcsCFCsSepz2roEC7nLmMldo6e1aUCvE
+
+
+
+---
+*Source: Document e329ec4e43d47fccabf1e22882189db8*

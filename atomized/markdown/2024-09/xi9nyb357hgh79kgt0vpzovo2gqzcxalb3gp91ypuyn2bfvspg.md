@@ -1,0 +1,32 @@
+---
+id: f885bdaa-feb5-49bd-9081-b46e082036a4
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - nyb357hgh
+  - 79kgt0vpzovo2gqz
+  - cxalb3gp91ypuyn2bfvspg66d5rphiqt0ik9rjro86nmd2dngadwbfdwwczcrrg
+  - >-
+    f31qbsbbataqutfr2tjhoknfwaqqvatxb2kxr7rs5tz3xvyoafirqodl9jmxwwf6jdpoibwtn1nn9dpwa97featnvdz
+  - >-
+    utx2i0jjqneu8njv2etglxffqg94566gjobi30k2awg9ctygs6v7gravpiwbtq75whdro5vrndla4uuipgcs8d2woex1qmqebp1frwxn5dg7rs1zdpn0tf5a1u8oddnu86j7y9b3wqpemwk3rtrr3lpdp3145pwbbfcf7dll17u
+---
+# XI9/nyB357HgH/79kGt0VpzOvO2gQZ+CXalb3Gp91ypuYn2bfVSpG66d5RpHIqt0Ik9RjrO86nMd2dNg
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 6091 (chunk 6091/11534)
+
+## Content
+XI9/nyB357HgH/79kGt0VpzOvO2gQZ+CXalb3Gp91ypuYn2bfVSpG66d5RpHIqt0Ik9RjrO86nMd2dNgadWBfDWWczcrrG+F31qBsbbataqUtFr2tjHoknfwaqqvatxB2KxR7rs5Tz3xvyOAfIrqOdl9JmxWwF6jDpOIBWtN1NN9DPwa97FeATnvdZ/UTX2i0jjQneu8nJV2ETglXFfqG94566gJoBi30k2awG9CTYGs6v7GRaVPIwBTQ75WHdro5vrNDla4uuIpgcS8d2WoEx1QmQEbP1frWxn5dG7rs1zDPN0tf5a1U8oddNu86j7Y9b3wqPEmWK3rtRr3LPdP3145PWBbfCf7dLl17u+zqqjPNakccqmDThGsauJVP+4KIBc3UR93sBL1pX9AMq0mYDZHn4SUiMqs+9uL0+NWRmusl5sK8Kwo7mDgZ9DV6HR/ljbAobGTdtV3qG7rvWkXkU99k/rOdf6C+8eJ/nS+Z7ltur/BVfkG0uk6V76udBPXWK/7UEk17lb3dL33MiYMVucepOlK7nVN+vbqnkZrBoEEbGfxDXuvb+KaWrFut18GcrizO3u15EJ9gF7SA2jVd3AH7+IdJuF+qzvXNaxswrWJu+XOQHrfHQvBdjtobwFjub/6xH3KZwyo1rlDdbr7xGr9icopAfmisuitz6r09pa9ekaDgGTw1RWli+iM2RBRw/omomEbdyWFNd6rmHEd+xvX9eS3a8PD5w71kMwa4BXdQC4hutqHp3rit+zMg7I2NtPgDdHYL/nzhOUagz0iQ+wylkO3QHe98N5ZAUhbc9oZ1xnpebXEtNdYrtbpwNNLdeG0mxKSZaXGcsoDtl0AznkkpnDgR31jue2p3q5jZVLQzSM08wt2UMJ1N5Dfzo66mf1z8t4NwkuHYZjp1To76qqX6uSxy7jOXjp77IDTfrwfiI6gbshdQHRGcRm2Act5FTGPwQRgQ25Q50rn1IXrPPQS+QhYTpXhqFsElkMlFAO5HAHq7LczkIMe6G7IN+qA6PbppRPAE3hLSgfRGc55uCWQG7Cch2Ea1AnI6XW6RQzDNKIjtNMATAA55I523cFFZ8UYj9AuOe0E5OSZE3LzW3SB68YFzoU+FpCLSrrfvnpmhUgvIzroQHFTYTkitxVXI7YaXLnS63QT6W346rhL4C3gXBvQjgCvkdOuF0pGdNAN5Ers
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

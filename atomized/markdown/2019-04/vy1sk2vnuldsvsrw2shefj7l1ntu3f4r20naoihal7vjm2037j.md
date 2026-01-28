@@ -1,0 +1,32 @@
+---
+id: a9719e2f-07f7-48f1-bf41-3278b32c8057
+type: insight
+created: '2019-04-16T14:05:00.000Z'
+document: 0c34a8b78e60a6c1ecbdc7504f7c4c39
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - vy1sk2vnuldsvsrw2shefj7l1ntu3f4r20na
+  - al7vjm2037jwpjgudvin
+  - >-
+    euqxalhgxfalikxun2t1si45uex30nser5s6hjspkvtltqxvwfgwpmejfcgqvvk1com7tvkmqiyye2igvtumbxpc9m21k260rypf8ak5vgrqt7vannspw2bawdo2jezu9a1hn7bmx0fsm2
+  - ukjru1yy
+  - >-
+    fwskyx5cotmy3dshyohfddmv9dnzh2lzcbrsqvxd9pq0bnkhxyzwl3wnlkha8hn461rwwhlsweusxzsmzcpybico3f4qyhsw0e3xyhfi77tt2pl95cie43los3nihzfee5x1ggsepn2ay3lxcnml1fbf3phws9i2ui669n4v3atyx1pf9mzzoblajnwkqf3
+---
+# vY1Sk2VNUlDsVSrw2sHEFJ7l1NTU3F4R20NA/OIH/AL7VJm2037JWpJGUdVIN+G/euqXalhgxfalIkxU
+
+## Context
+From document: Reverb Cheatsheet — chunk 406 (chunk 406/770)
+
+## Content
+vY1Sk2VNUlDsVSrw2sHEFJ7l1NTU3F4R20NA/OIH/AL7VJm2037JWpJGUdVIN+G/euqXalhgxfalIkxUn2t1si45uEX30nseR5S6HJSPKVTLtqXvWfGWpMeJfcgqvvK1cOm7tVKmQIyYE2IgvtuMbXpc9M21K260Rypf8ak5vGRQt7VANnSpW2baWdo2jezU9a1hN7Bmx0FSm2+keb+UkjrU1yy+fWsKyX5Cotmy3DshYOHFddmv9dNZH2LZCbrsQvxd9pq0bNkhxyzWl3wnlkHa8HN461RWWHlsWeuSXZSmzcpYBICO3f4qyHsW0E3XYhfi77TT2pl95ciE43loS3NIHzfEe5x1GgSEPN2Ay3lXCnMl1fBf3PHWS9i2Ui669N4V3atyx1PF9mzZOBlajnwkqF3+WpkBbq27Csw4XENm7LOcfcPc46LHsa20LrgtvMsdurQsy0g6tiIv9GlODMtHX9dNSbXtMrXZTLhaiRL7km75R9eaiYLAs2cjOy/H2tyt6+r5fw6M4Y7/Gob+tEkdLHtZnJK+mP/Se7VoyAbl5PJo+krMOep1iSDndjtS0X8Nwxc931ajWWx8ItKQlkDiv9OGtSUVr3tmW22nrC6rStZUa+0EoTc9jVwgaL7qsq1GYmCcuKhSncatKk58191W9AQ8uPEcwqlKbzKKABtQeMmix7GNJF12NN+MdurasN50vIs5/C0pXzTf6PHU2I66tFg2YrApts3ZZzj7h9TRY9jW2s2ZbeZY7dTdTFoPGTkE5WK+vSpvg8fPWqDsVvyW9bVU2sXoW0hKhxXCrDs9qHhhyELLreUVtsx376MaAxkGSrHhxE5+3rRNTEB5UZLqMrMeRpCOD14RQY9jW3BdcVuZ1nt07ZzCX37AkIyjalZ0sK4L+14xVtdhJ/p1anYA/p62qNKs6TFQD3rdan4TEPBFlFWVRlFbbx1sHYH6Llctk8qvp7rr9PBVuplw8smNLLbXtihhTnzZjVnWHZi8jMtFWDKjS22NJ9eA0GVwUSl3bZ5/OpR4eLtVCisOLNh2orAllZvyLvF3R6irKMBIVNciFlq/QFKKhf2tNNz5Dj0+1EnGZLqz03W9NasezB5TlapYKnVtWcqRlJWTNxcuKsKL+A3nuUpgWc2zmuDjeZY7dWhZklwvLs6QWUqPzeDxGpsuctarEhO5GPGSq5LiuE+u
+
+
+
+---
+*Source: Document 0c34a8b78e60a6c1ecbdc7504f7c4c39*

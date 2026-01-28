@@ -1,0 +1,30 @@
+---
+id: 69d9cda1-e447-4822-80d2-0aad7fae800b
+type: insight
+created: '2021-05-26T23:26:41.000Z'
+document: d338c9f6bd92d1f92f8eaa091bec0082
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 35ai5u1a9zyuiz15ya1bxafzt5h55xwnw19bswd3ejizbtzt0x
+  - npvl4bebnt0dutbvrwgs500rxdzlukrlmbcyy6hg4pq
+  - pxvdp8e
+  - ixd3ys10gajs4lylujhvujwr9m19wfcr4awnw58pnp7utzf3jcs6la
+  - vmawexp8kjp6nj74rt4sx
+---
+# 35ai5U1a9zyuIZ15Ya1BXafzt5H55XWnW19bSWd3EJIZBtZT0x/npVL4beBNT0DUtbvrWGS500RxDzlU
+
+## Context
+From document: Sausage & Peppers — chunk 376 (chunk 376/394)
+
+## Content
+35ai5U1a9zyuIZ15Ya1BXafzt5H55XWnW19bSWd3EJIZBtZT0x/npVL4beBNT0DUtbvrWGS500RxDzlUkRlmbCyY6Hg4PQ/pXvdp8E/iXd3Ys10GaJs4LylUjHvuJwR9M19wfCr4aWnw58PNp7utzf3jCS6lA+VmAwEXP8Kjp6nJ74rt4sx+HeFdOE05Pazv958Fl2VV8XPlnFxS6tf1c/P6ysb7VbuOw0y3kuriUhVjjUsxJ9hX6DfCbwVP4H8JRaffY+3XLm4uApyFdgAFB77VAH1zXosNnaW5LW8CRE9Sqhc/lVivyShhOWfPJ3Z9hk/D8cLJ1HK7+4KKKK7T6IZJIkUbSyMFRASSeAAOpr5617VG1jVZr3kITtjB7IvT8+v411vjPxQt2TpGnPmFTiZx0cj+EH0Hf1+nXzqumlT6sznLoFFFFbmYUUUUAFee/E/wcPG3hC70mID7XH++tie0qA4H/AAIZX8a9CorqwWMqYetCvSdpRaa+RhicPCtTlSmtGrM/JGYy200lvcKY5YmKsrcFWBwQQehBqLz/AHr65+P3wgmuzL458K2++YAtfQIOXA/5aooHJH8Q79euc/Fvniv7H4Wz+hmuFjiKO/2l1T7f5Pqj8BzjJamDrOlPbo+6Nnz/AHr7n/Ym8FabrOv6x44vsSz6KEgtkznZJcBt0hHqFG0fU9wMfn/54ruvAnxS8a/DS+n1DwZqb6fJcqElUBXjkAORuRwVJHY4yOfU0+LckxGNy+rhcLJRnJWu9rX1Wi6rQeR4mlhsVCvWjeMf6X3PU/Rz9s/4gaTpHg+18BiKK51PWHWf5wGa3gibO8dwzsNqn0DV+YXn+9T+KfGPiDxrrdx4i8T3r3+oXON8r46KMAAAAAAdABiuf88Vz8G8KLKsBHCt3lvJ9Lvt5dPxNeIMzeOxMq9rLZehs+f70ef71jeeKPPFfV+wPE9mfXP7LHxbXwB47XQ9WmEei+ISkEpY4WKfOIpM9hk7W7YOT0r74/aS8C6d41+FOsTXOxLvQ4JdQtpm6q0CF3XPo6Ar6Zwewr8ThcYOQcEV67rXx/8Ait4i8JjwVrGvy3GlFFjdCqCSRExhXkC72HAzk8981+X8TeHtbE5pQzPAzUJJrmvfW3VWWrto07Jqx9nk/EcKOCqYLERcotO3z/4Op535/vR5/vWN54o88V+oewPjPZm
+
+
+
+---
+*Source: Document d338c9f6bd92d1f92f8eaa091bec0082*

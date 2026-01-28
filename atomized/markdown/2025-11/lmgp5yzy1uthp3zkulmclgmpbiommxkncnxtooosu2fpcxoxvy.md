@@ -1,0 +1,32 @@
+---
+id: 0e75dffd-ffe1-4dfd-ba35-1d0a4e512e95
+type: insight
+created: '2025-11-02T03:44:44.000Z'
+document: ef854b14a7a4e3284a97193ad50f9c28
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    lmgp5yzy1uthp3zkulmclgmpbiommxkncnxtooosu2fpcxoxvywajpc3wm27a6rud6pxebzqa8dibzn32bbwgdt
+  - tp7ujf9x799hy609g5umxvec1iul3rfeh2mjgsajghwqudj
+  - >-
+    han2ilabxe2ofw1tyeeakdxkky5tuslucqulb6jxdsw9scevyugvhosyey588ccgbslttuvmop5ej27kxlzphbr5j8xhz
+  - 7bv0tvekv
+  - zrrrmvlak6f
+---
+# lMgP5YZy1UtHP3zkUlmclgMPBioMMXKnCnxTOoOsu2FpCxoXvywajPC3Wm27a6ruD6PXeBZQa8dIbzn3
+
+## Context
+From document: An Open Source Machine Learning Framework for Everyone — chunk 6089 (chunk 6089/11629)
+
+## Content
+lMgP5YZy1UtHP3zkUlmclgMPBioMMXKnCnxTOoOsu2FpCxoXvywajPC3Wm27a6ruD6PXeBZQa8dIbzn32bbWgdt++gd/tP7Ujf9X799HY609G5uMXvEC1iul3RfEH2MjGSAJghwQudj+HAN2ilABxe2oFw1TYEEAkdxkKY5tuSlUCQULb6JxDSw9sCEVYuGVhOSyEY588CcgBSLTtuVmOp5eJ27KxLzPHbr5j8Xhz/7Bv0tVekv/ZrRrMvLak6f/j/GuX37p7/8/07okXpqYniBUQWvpk+pv+W1ESAFR8hIToAJk/dro45KKQz3VsCrpilG2Qf8bRo+ZxMneyTavLdHmlTrhe0qZUqbYTfnCs1ttCKjxU/WBMLIFxVfhtTno8YPi6KkajV+bVg8Jcx0klY5JbZzaED1+ULl6qjDxg/LhcEaAEVgNCOhP9GqQh2VgBBgBRoARYAQYAUaAEWAEGAFGgBGoi4AiDtdF1h1ff2Lb/Vu/suNbpUQpVbCL1UJ/vnyxfPGei0dJ1wlDLJhlkf7YtKDPnKa6oT9VGk71/0EiumFcRTp/0qxKg6iry1fmRrTltXX1rWX7raRlTdTyAN7g9uazhJItpTTwxH8QU0FOXfuaea01/V4qaHkGTPJAfYMvMbwkriw30QrfdrzklpKlY0VRTJRsmdlKfFwffU8hX4tfbe3Cx6zNbRWERH0ZgqoRFB4guk4p1Uapf3dW/Npya0NqG2NWFgE/avMJiLhMwY3WYonl9wcahyZQSSSCLgRtbWMCtE17x3M7nth1PnIyejKaxXndQxODY+Xxo6NHRR9OpLZgsYw1OKBhcbq0T0Ba9Jt4bv+3I9eMZdATMPFiQkWuOs6ryLYbEoOMxpbYrgVy2o7QadywhpYEMw3T9OKAuzhhInvjs4de2hj93N/8759uObLjv9zxl17K+zpeFXAqtOhV9URd4bBJhwAaIK1xxyFMKJcI8ALpmgIF65i2SNBTIqcBpEEcW661k+llHviNECo9hZj4NC3ThoTIEy2G/OkkbhOroTxsB4Ic0AJGWlLjkN9MNw3ExCZrg/j0/f/O2HD2M87/9sF45OLX/vkvJqyfPfv/bKzabzyc+QcQ8alyxvUEWhMbndv0euQ6ESxbEE41Zdr04iS3EiGB/n/2vgM+juL6f3evqFmSO5hiE4xNMaYasGVJtyfZGINpISQB
+
+
+
+---
+*Source: Document ef854b14a7a4e3284a97193ad50f9c28*

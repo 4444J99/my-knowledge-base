@@ -1,0 +1,26 @@
+{
+  "id": "19f71968-8a36-4192-a59c-ff45cf914d3a",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### II. | CURRENT FOLDER STRUCTURE (Observed from Screenshot &amp Thread Notes)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>GPT_ARCHIVE_CORE/</tt></div>\n<div><tt>├── MEMORY_RAW_DUMPS/            # Direct text dumps, raw exports, ChatGPT logs</tt></div>\n<div><tt>├── MEMORY_VERIFIED_MB/         # Refined, consolidated blocks for system logic</tt></div>\n<div><tt>├── THREAD_REVIVALS/            # Snapshots from previous GPT threads</tt></div>\n<div><tt>└── TO_PROCESS/                 # Notes awaiting sorting</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### III. | PROPOSED PHASE 3 FOLDER EXPANSION</tt></div>\n<div><tt><br></tt></div>\n<div><tt>GPT_ARCHIVE_CORE/</tt></div>\n<div><tt>├── SYS_MAP_OS_4BLOOM/          # Master cascading architecture (artist IDs, project cascade)</tt></div>\n<div><tt>├── SYS_EXPAND_PHASE_2.5/       # System logic split, business systems, classification schemas</tt></div>\n<div><tt>├── SYS_INPUT_PEERS/            # Peer reactions, critiques, outsider mirrors</tt></div>\n<div><tt>├── SYS_EDU_PEDS/               # Educational modules, syllabi, class structures</tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 113 (chunk 113/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "folder",
+    "from",
+    "notes",
+    "gpt_archive_core",
+    "system"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

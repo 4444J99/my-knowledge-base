@@ -1,0 +1,31 @@
+---
+id: 4d475242-215d-471f-a4af-db6e0df78e9c
+type: insight
+created: '2024-09-08T22:33:42.000Z'
+document: 549d1e6fb5630f6ece8ceea4fe2287e8
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    vixnctfyaptrqqkaqksqfys6ijrafsmbhytmh5zg5jn54shor0l1jk7uryxaxzc9beuolqrhubcdlwadxolcljzikqcyfevgreqxdk7zu7q9ddedtzz9k2bcw3jmut8zwuylzntxebgjdjexixfdd4bsea3ryif
+  - cwtzcyyqzysppibfl0lb1sttalul35rra8xbvc2h
+  - vccetzeitwpyqmscfqy4w490tqihpc0cciuexkkg9u
+  - wehirun1ticnutvdfsgqfpvfkuysxrofpxjqfs5xrytsjsbiqqmk1zm
+  - xuboybaerv2bvmu
+---
+# vixnCtFyapTrQQKaQKsQFys6IjRaFSmBHytMh5zG5jN54shor0L1jk7uRYXaXZC9bEUOlQRHUBCDlWAD
+
+## Context
+From document: Apparently I'm not the first person who thought you were using them… — chunk 388 (chunk 388/11534)
+
+## Content
+vixnCtFyapTrQQKaQKsQFys6IjRaFSmBHytMh5zG5jN54shor0L1jk7uRYXaXZC9bEUOlQRHUBCDlWADxOlCLjZIkQcyFeVgreQXDk7zu7q9ddedtzZ9k2BCw3jMUt8ZWuYlZNTXEBgjDjExixfDd4BSEA3rYIf+cWTZCyyqZySpPibfl0lB1stTALUl35Rra8Xbvc2h/vCCetzEitwpyQmsCFqY4w490tQihPc0CCiuExkkG9U/wehirUN1tICNuTVDFSgQFpvfKuysXROfpXJqFS5XRyTsjSbIQQMk1zM/XUBOYBaerv2Bvmu/DOrlUQkZ2pIMnyTAVJflSjIFBH8gSwcE8AeszW+bUCyX/kS67QV2uYOWcr3EcLyE0ZmTnyK084QsbfdKvKmm7Lx61skwqj+hRAXYVgcbkCL7VcTHQpYes5KhTNH4Kv2vin/hduqunAFHqlhpxUuU6Tr3G0wULvxXPl3akq0RytHhZY4LDIvb8MHktwDAdFtRhq++/ylfuJ05WQ7GsmSnLbI8N/7Gmm+uQQbUA8LTd2SPC+3twtxtohFwnhO2syfK5BOZNXlGCLo2J4ZNdarFZJynQUNdji62Z+Q/G3OGyGj5mKmejTVZYAm4OuM8V0O9oAVt+qcySPSr59gSNkzCdVAYkO6Uk2n1DDE7S8x8oIBt+cYEoJgSNW2F0yFQD7vVJeOuvaLx7naIpVQFmAZdbsC3jsyiLUerULaOrv7nVSUiyLjK7tLHc2w7RzlD833Ztu5+PdNdF3LTBw3rGWONRnFTbFXTFViWWP5YPJnoJ8lKP26ehs7YyC34T9LkKq97v4F9/v5UdH7f0+8iC32fQ1meedxxdr+F3F9zpDE2qyro1ZiirNZKON9YnSXe2u3EhPg33fs02abwSun6czQrqISSmdDoSd3mbpcuOwt59HRmAmd17OZNUC4HE4n+0mslQK1gFURmXhmS6sIJnC2pRORk9W70qK6d0+u81r+TR+KzYaWSnZjLsgK0/L+PsG7nqKVp35LlzI2quWP174E+3bK1NL1fTJgOCcLDeDgmviuB+4t/KCag7k1ecrnQ3ZN3Z3Ag9cN0gw98z2ljljogxgrRvWUI0HdRKLQZi+xDCSQhbfYKfFNktxUFdCK3Wb7HjgFK120A2bJJxtoqUSiPdKj3dVMpzcA2Sle3qX1UuD0x7aK8mh3D
+
+
+
+---
+*Source: Document 549d1e6fb5630f6ece8ceea4fe2287e8*

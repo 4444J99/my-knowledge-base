@@ -1,0 +1,26 @@
+{
+  "id": "6794c086-aba9-4db2-87a8-252b31a84478",
+  "type": "insight",
+  "timestamp": "2025-11-23T04:21:32.000Z",
+  "title": "<ul class=\"Apple-dash-list\">",
+  "content": "<ul class=\"Apple-dash-list\">\n<li><b>List Metaformeme, Mythology, Wave Theory, Storytelling</b></li>\n</ul>\n<li><b>List Technical Components </b><b><i>(Red - Technical)</i></b><b><br></b></li>\n<ul class=\"Apple-dash-list\">\n<li><b>Procedural Generation</b></li>\n<li><b>Self-Evolving OS Components</b></li>\n<li><b>AI Workflow Automation</b></li>\n</ul>\n<li><b>Organize Project Implementation </b><b><i>(Green - Organizational)</i></b><b><br></b></li>\n<ul class=\"Apple-dash-list\">\n<li><b>Digital Memory Archive</b></li>\n<li><b>GitHub Project Structure</b></li>\n<li><b>Naming Conventions</b></li>\n</ul>\n<li><b>Finalize Handoff Context </b><b><i>(Mixed Colors)</i></b><b><br></b></li>\n<ul class=\"Apple-dash-list\">\n<li><b>Purpose of output</b></li>\n<li><b>Constraints and dependencies</b></li>\n<li><b>Continuity for iteration</b></li>\n</ul>\n<li><b>Follow Recommended Prompt Flow</b></li>\n<ul class=\"Apple-dash-list\">\n<li><b>Objective → Concepts → Technicals → Organization → Constraints → Output</b></li>\n</ul>\n</ol>\n<div><b><br></b></div>\n<div><b><h3>Color-Coded Legend</h3></b></div>\n<ul class=\"Apple-dash-list\">\n<li><b>Blue → Conceptual/Thematic Steps (Vision and Ideas)</b></li>\n<li><b>Red → Technical/Procedural Steps (Execution and Systems)</b></li>",
+  "context": "From document: ]||||/\\\\vvvv//\\.../\\/\\---/\\/\\.../\\\\vvvv//||||[ — chunk 12 (chunk 12/96)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "751d0ce44738c7033755a28c7169e646",
+  "relatedUnits": [],
+  "keywords": [
+    "list",
+    "class",
+    "apple",
+    "dash",
+    "technical"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

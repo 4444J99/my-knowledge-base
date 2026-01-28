@@ -1,0 +1,32 @@
+---
+id: e03f404d-eb36-4f15-9701-182cd0d4dd44
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - uvamwiruw79ev1t2rv3cuyp94txp98aw1osyp33lu9ly2qckro5qrdvtsvw2zth
+  - iatefx52fjgcibdaemaqvl7jxhpytqzc9sbvbvgjq8jaybx
+  - >-
+    ogyhvccpykpkarkwkp7fukcqq7skexnggkrwyw3km1dywqrwb6dqb67iezynbfvpct9gi653kya1kaaqlk4j3qhifxmevwkjqnligge
+  - ri1uvlu2uvgv99q47qylreprovuaqujd
+  - >-
+    kvcz6qcrsycrkjoelaa730j4vtuo28tzutiw0jvtamm91eurv68sivu1ppzmrdkct2jmmvhjxrxbaer9f18t4x1xit7yetrshxprpyzbw1qgublw8
+---
+# UvamwirUW79ev1t2rv3CUyP94tXP98aw1OsyP33lU9ly2QcKrO5QRdvtsvW2zTH/IateFx52FjgCIbDa
+
+## Context
+From document: New Note — chunk 2538 (chunk 2538/21099)
+
+## Content
+UvamwirUW79ev1t2rv3CUyP94tXP98aw1OsyP33lU9ly2QcKrO5QRdvtsvW2zTH/IateFx52FjgCIbDaeMAqvl7jxhpYtQZc9SBVBVgJq8JaYBX/oGyhVcCpyKPKarKwKp7FuKCqq7SKexNGgKrwYW3kM1dYwqrWB6DqB67ieZyNBFVpcT9gI653kYa1kaAqLK4J3QhIFXmEVWkJqNLiGgE+rI1UVLU2UVgV99q47qYlrEproVUAqUjD+kVcz6QCrSYCrKJOELAa730J4VTUo28tzutIW0jVTaMM91euRV68SIVU1PPzmRdkcT2JMmvhJxrxbAER9f18t4x1XIt7YeTRshxpRpYzbW1QGUBLW8/1We5a1kM+I/Lo2/qub+sk6uMk5VeX+bSswzQt8hlsHZazLFba9mHrh37THoG6wOpzUnniI9J16DhVV1V4MR6kSoAVkKhX10Kfe8vX9SYAGrWJrAvboS79GNYPNmU7W+bBotqPa1GXeX7tmOdrFXIk6OhZ9OWAj17fbh7SfnX96iWQ54KVXCesi/X3WLcE+m6SbSyU6m4DyiLl8bad4+Zn3e12+3LTbn2fNIBVKKsyUm2Vqqo1qqsKq3pqq6/IG29vlFffeFBVUG9QldQT5dRTp8uqS5fKDdedIletPlbOPH2GLD2yTObOypBJ4/rI+NE9ZdrEw2TGlKEyc+pwmTczRxYfMVJOOmWup7J60y1Xya2/vFauueEiOeeCE7yIvMefuFNeeunXnsLqHbdfI+efe5zMnF6qvGgvT2UVSqtZQztLUU5vhVIHerDqSICrZUNldPkwGVMxzPMrPWB1gBTl9vOg1WblI9vK4GHNvDgi60DJyj5EsrIOlhEjDvBidlZzyVcAFTEvu60X83M0rTE3s41kjWglWUO0jcKquUMPlVLNG6Og6mSFXBGrCrvKbFVknaPKrDPz2ktVDlRWFVzNVHA141CZrenFpV1k+ahesmx0ryiweiSg1VHd6wCrc4vbyixVVvVg1aK2Mr+8sywe1UMWjeyufpc91FUBsPorrBI6heIq/TRsktAqQNUaZVUXWq1ncDUpYNWqrdYqrVJdFTaWuirK8LAtXgxSV0X+cwHqqsgPUldFPtVVYamuChukror8UGF1/wW04t1MhuXhvg/nQDgHvi1zgA9Pm/bt9bdn7QAk4IUkYMVEAgA81Idyhw2x
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

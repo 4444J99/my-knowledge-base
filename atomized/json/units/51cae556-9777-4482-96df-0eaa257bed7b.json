@@ -1,0 +1,26 @@
+{
+  "id": "51cae556-9777-4482-96df-0eaa257bed7b",
+  "type": "insight",
+  "timestamp": "2022-09-26T22:47:55.000Z",
+  "title": "<div>Shopping List</div>",
+  "content": "<div>Shopping List</div>\n<div><br></div>\n<ul>\n<li>Coffee beans</li>\n<li>La Croix</li>\n<li>Frozen fruit</li>\n<li>Frozen vegetables</li>\n<li>Salt</li>\n<li>Butter</li>\n<li>Banana </li>\n<li>Chili</li>\n<li><br></li>\n</ul>",
+  "context": "From document: Shopping List",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "731ea974ffa248d997c5daace9dfb600",
+  "relatedUnits": [],
+  "keywords": [
+    "frozen",
+    "shopping",
+    "list",
+    "coffee",
+    "beans"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

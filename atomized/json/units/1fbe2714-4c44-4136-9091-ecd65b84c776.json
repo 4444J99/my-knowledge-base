@@ -1,0 +1,26 @@
+{
+  "id": "1fbe2714-4c44-4136-9091-ecd65b84c776",
+  "type": "insight",
+  "timestamp": "2025-10-31T05:18:03.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>### Core Mission</div>\n<div>Make advanced static analysis broadly available—whether for individual developers, teams, or large organizations—by lowering barriers to entry and emphasizing shift-left security practices.</div>\n<div><br></div>\n<div>### Guiding Principles</div>\n<div>- **Semantic Awareness**: Goes beyond text matching by understanding code structure and meaning through ASTs</div>\n<div>- **Privacy-First**: Scans code locally by default; sensitive codebases don't leave your environment unless explicitly configured[[3]](https://github.com/semgrep/semgrep/blob/develop/README.md)</div>\n<div>- **Speed &amp Efficiency**: Designed for rapid scanning in local environments, pre-commit hooks, and CI workflows</div>\n<div>- **Community &amp Openness**: Open-source (LGPL), with extensible YAML-based rules that don't require deep expertise</div>\n<div>- **Deterministic Execution**: Produces consistent, reproducible results</div>\n<div><br></div>\n<div>### Best Implementation for Any Repository</div>\n<div>- Integrate Semgrep into CI/CD pipelines to catch issues early in development</div>\n<div>- Create organization-specific rule sets addressing your codebase's unique patterns and risks</div>",
+  "context": "From document: :Based on the pull request at https://github.com/ivi374forivi/petasum… — chunk 10 (chunk 10/19)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "340e0116e55214c41c8027f95c1fba8f",
+  "relatedUnits": [],
+  "keywords": [
+    "semgrep",
+    "code",
+    "your",
+    "core",
+    "mission"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

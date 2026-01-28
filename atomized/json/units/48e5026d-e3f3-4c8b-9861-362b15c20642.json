@@ -1,0 +1,26 @@
+{
+  "id": "48e5026d-e3f3-4c8b-9861-362b15c20642",
+  "type": "insight",
+  "timestamp": "2021-09-07T16:43:59.000Z",
+  "title": "<div>Garret</div>",
+  "content": "<div>Garret</div>\n<div>[REDACTED:PHONE NUMBER]</div>\n<div><br></div>\n<div>Stacey </div>\n<div>[REDACTED:PHONE NUMBER]</div>\n<div><br></div>\n<div>Heather</div>\n<div>[REDACTED:PHONE NUMBER]</div>",
+  "context": "From document: Garret",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1dedb2da6fd646d3b71f2f09a7fbccb6",
+  "relatedUnits": [],
+  "keywords": [
+    "garret",
+    "8499",
+    "stacey",
+    "2329",
+    "heather"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

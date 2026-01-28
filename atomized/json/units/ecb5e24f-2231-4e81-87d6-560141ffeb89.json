@@ -1,0 +1,26 @@
+{
+  "id": "ecb5e24f-2231-4e81-87d6-560141ffeb89",
+  "type": "insight",
+  "timestamp": "2019-02-13T13:03:08.000Z",
+  "title": "<div>Play the scene; replay it with the characters switching different roles. Re",
+  "content": "<div>Play the scene; replay it with the characters switching different roles. Recontextualize. </div>",
+  "context": "From document: Play the scene; replay it with the characters switching different…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "86447f3bc0d51ab99ed1834181d6a94b",
+  "relatedUnits": [],
+  "keywords": [
+    "play",
+    "scene",
+    "replay",
+    "with",
+    "characters"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

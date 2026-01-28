@@ -1,0 +1,26 @@
+{
+  "id": "58c9f4a1-e677-47f6-8ae0-cea17082a0fb",
+  "type": "insight",
+  "timestamp": "2025-11-24T08:31:56.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>Recursive Storytelling: every world artifact is tagged so it can be read as a chapter in that world’s ongoing chronicle, not just a one-off output. Sessions that touch a world must update its wave and arc status.</div>\n<div><br></div>\n<div>Example name:</div>\n<div>WORLD-MYTH-SPEC-CORE-0100-v0_2</div>\n<div><br></div>\n<div>1.5 STORY Layer</div>\n<div><br></div>\n<div>Function: encapsulates narrative episodes, character arcs, and interactive sequences.</div>\n<div><br></div>\n<div>Metaformeme: STORY artifacts fix and evolve narrative patterns (for example, descent-as-refactor, return-as-integration). These patterns become templates for AIs when designing new episodes.</div>\n<div><br></div>\n<div>Myth Fusion: characters are represented as “mythic agents” with attributes, conflicts, and transformations that mirror real workflows or technical challenges.</div>\n<div><br></div>\n<div>Wave Theory: episodes are grouped into waves or “seasons” that crest and resolve around specific themes or deliverables. The same wave structure guiding technical work also guides story arcs.</div>\n<div><br></div>\n<div>Recursive Storytelling: STORY artifacts are explicitly linked back to WORLD and VISION, so that your fiction, documentation, and operations are facets of the same meta-narrative.</div>",
+  "context": "From document: 0.\tPreamble and Scope — chunk 5 (chunk 5/31)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "b3360b527d494aeb150b316c90472eb0",
+  "relatedUnits": [],
+  "keywords": [
+    "world",
+    "that",
+    "story",
+    "wave",
+    "narrative"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

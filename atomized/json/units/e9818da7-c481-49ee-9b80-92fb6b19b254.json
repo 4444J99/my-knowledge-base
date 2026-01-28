@@ -1,0 +1,26 @@
+{
+  "id": "e9818da7-c481-49ee-9b80-92fb6b19b254",
+  "type": "insight",
+  "timestamp": "2025-12-04T16:48:25.000Z",
+  "title": "<div><tt> → [S&ampH] → [REVERB] → [PRE-DELAY] → [DECAY] → [SIZE] → [SHIMMER] </t",
+  "content": "<div><tt> → [S&ampH] → [REVERB] → [PRE-DELAY] → [DECAY] → [SIZE] → [SHIMMER] </tt></div>\n<div><tt> → [DELAY] → [TAPE] → [MULTI-TAP] → [PING-PONG] → [TIME STRETCH] </tt></div>\n<div><tt> → [GLITCH] → [FREEZE] → [GRANULATOR] → [CONVOLUTION] </tt></div>\n<div><tt> → [PITCH SHIFT] → [FORMANT] → [VOCODER] → [WAVETABLE MORPH] </tt></div>\n<div><tt> → [CROSSFADE] → [MIX] → [DUCKER] → [OUTPUT] → [RE-INPUT]</tt></div>\n<div><tt>____</tt></div>\n<div><tt># xxii</tt></div>\n<div><tt>----</tt></div>\n<div><tt>----</tt></div>\n<div><tt># |[ FX_UNIT_G0D_MODEL ]|</tt></div>\n<div><tt><br></tt></div>\n<div><tt>Each FX = symbolic god with narrative behavior</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| FX | GOD-NAME | SYSTEM ROLE |</tt></div>\n<div><tt>|-----------|------------------|--------------------------------------|</tt></div>\n<div><tt>| FILTER | The Divider | Cuts thought noise |</tt></div>\n<div><tt>| COMPRESS | The Enforcer | Smooths chaos |</tt></div>\n<div><tt>| KNEE | The Softbreaker | Breaks gently |</tt></div>\n<div><tt>| GATE | The Gatekeeper | On/off permission logic |</tt></div>\n<div><tt>| REVERB | The Veil | Adds distance &amp etherealism |</tt></div>\n<div><tt>| GLITCH | The Screamer | Distorts truth, triggers breaks |</tt></div>",
+  "context": "From document: # synth-wave-modules — chunk 49 (chunk 49/51)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "1f0200e52addd3bec3d0beb78cca4a02",
+  "relatedUnits": [],
+  "keywords": [
+    "reverb",
+    "delay",
+    "glitch",
+    "breaks",
+    "amph"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "38d2dbc3-e212-4907-991c-0f3215e3cf90",
+  "type": "insight",
+  "timestamp": "2025-11-16T23:05:31.000Z",
+  "title": "<div>}</div>",
+  "content": "<div>}</div>\n<div>```</div>\n<div>Apply via Command Palette: “Preferences: Open Settings (JSON)” then paste override (or switch to `Core Dev` profile).</div>\n<div><br></div>\n<div>**Validation Steps**</div>\n<div>1. Launch Transparent profile: `code-insiders --profile Transparent`</div>\n<div>2. Open Developer Tools → console: ensure no rapid repeating CSS injection warnings.</div>\n<div>3. Resize window; transparency should persist without flicker.</div>\n<div>4. Scroll a large file; ensure frame rate stays smooth (no jank from animation extension removed).</div>\n<div><br></div>\n<div>**Optional Fine-Tuning**</div>\n<div>- If text contrast suffers: lighten editor background slightly:</div>\n<div>  `&quotworkbench.colorCustomizations&quot: { &quoteditor.background&quot: &quot#141414EE&quot }`</div>\n<div>- If sidebar too translucent: override sideBar background:</div>\n<div>  `&quotsideBar.background&quot: &quot#1d1d1dfa&quot`</div>\n<div><br></div>\n<div>**Next Support**</div>\n<div>I can:</div>\n<div>- Generate full Transparent profile JSON.</div>\n<div>- Produce an uninstall script including detection of installed IDs.</div>\n<div>- Monitor performance by grabbing extension host log lines for activation times (needs another log run).</div>",
+  "context": "From document: User: fix — chunk 25 (chunk 25/43)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "509e7ad39ab9185c4fcf1a9c01887c98",
+  "relatedUnits": [],
+  "keywords": [
+    "quot",
+    "profile",
+    "background",
+    "transparent",
+    "open"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

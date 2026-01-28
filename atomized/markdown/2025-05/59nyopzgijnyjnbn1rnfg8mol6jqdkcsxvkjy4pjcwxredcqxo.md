@@ -1,0 +1,32 @@
+---
+id: 43557246-fe54-4277-b672-ccb2ef53f75d
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    59nyopzgijnyjnbn1rnfg8mol6jqdkcsxvkjy4pjcwxredcqxomblisxoofyfvivfqkyubdeucsflxlodcqevirooq8iqk4vk49nxyy7dc1yu9crfvom6t8n8wq2xtql24qxyp
+  - mihzathyhnhdj94av2lv2beukcxzpzhzbtqmf86zjdp1wz4wchond
+  - mpm8afyoh4yimanx7acgthqmifjaxfhzu1lcgbbmry7lxhtqpzzob
+  - vbpildzbnw8fb8
+  - >-
+    h13qw4fliqzqmrcykuqheofoicadulh5fjeun3hfov0en1wkkhrpcsp7pqmgtwtubvwqp3swiqlvwgqf5ad9qfbc4lapot9cvjfpytwor
+---
+# 59NYOpzGIJnyJNBN1RNFg8MoL6jqDkcsXVKjY4PJcwXReDCQxoMBliSXOoFYFViVfqKYuBDEucSFlXlo
+
+## Context
+From document: New Note — chunk 15702 (chunk 15702/21099)
+
+## Content
+59NYOpzGIJnyJNBN1RNFg8MoL6jqDkcsXVKjY4PJcwXReDCQxoMBliSXOoFYFViVfqKYuBDEucSFlXloDcQEvIroOq8iqk4VK49nXYY7DC1yU9CrfVOM6t8N8wQ2XTQL24qXYP/mIhzathYHNhdj94aV2LV2BeuKcXzPZhzbtQmF86ZjDp1WZ4wchOnD+mPm8AFYOH4YimaNx7aCGThQmIfjaxfhzU1LcGbbMry7lXHTQpzZOB/vbpiLDzbNw8fb8/H13qW4fLiQzqmrcYkuqheOFOICAdULh5fjEuN3hFOv0En1Wkkhrpcsp7PqMgtWtUBVwqp3SwiqlvwGqf5Ad9QfBC4laPoT9cvJfPyTwOr/ElT9598lFljlf55ahH8SVP2VsiIh1B8EUj0yz9L3R+aWRpaPzsOPbBP9JCqZj7sHZuLi5rH4pGgwPiSE+vnqIbi0dSxu7JqCG7un4PK28bi4aQy+3TgKXxNa/XLtUHxFUPXS5jG4vnsy7h+czfHmcTyOfZjQKoHVe3vG0hl1FG7voOvp9uF0PhUH1KF0SR1muapK+frWoXRHHUgNwtVNg3BNtPk1isAqYVXpL7rF7W9tH0mNsoDV63RZFVfVi2sH4suivqVgKuHUwt74qrAPIdVe+JyQ6idLu+PDxV1wPr8Tzi7sgA8WtLd0dkEHq3w+vyM+FDdV6hwdVaX+AzqoCqT67uzWBFNb4R06qJ6eIWqOt+mk+jadVN+ii+obhFT/TrfUU4RRTxBEPT6urqW/M749Phenx+Xibeot6o2xuXidOjVGVBcnx9TD8TH1UUIdHV0fh0bWw77hudg1JBvbBmZgY79UrOudjNU9PCjqloCi7olY3TMZayiJxT2SWO/Byi7xWN7JhaUdYrG4XTQW0wH1nxdLoGCqQqvqruqNX7P9NyUkEiRNopJLo+cV/s8SIk2thsycOqjfKARN6XTavGUkWraOQotWUWjaMhRNW4SgUTMCqk0ItTYJQMPmQWjUIgi5jesgo15NpFmiS2sDUW2k5L5KOPVFQrF/s2DVOMYYUarEFwikcp8EUjPq1kFO41DUbxaJes3CkVY/gNuRQ82oakUPjykpN8BSSt0g/CXaVRtB4a8gqBRYjU2oAzchVTfhU1diIOI8dRDrrkkH1CoIDX+JwOqLfKLhYAawKrBqAuFRFyHSOFcdPuHURnhkdYKo
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

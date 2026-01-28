@@ -1,0 +1,26 @@
+{
+  "id": "b8e172c8-ccb7-4a37-a3ee-917584fbab61",
+  "type": "insight",
+  "timestamp": "2025-04-12T21:23:06.000Z",
+  "title": "<div><tt>  •  Add tag metadata to all .md exports</tt></div>",
+  "content": "<div><tt>  •  Add tag metadata to all .md exports</tt></div>\n<div><tt>  •  Display tags in headers for search/sorting</tt></div>\n<div><tt>  •  Sync to Notion &amp GitHub metadata layers</tt></div>\n<div><tt>  •  Use tags as filters in visual maps and app interfaces</tt></div>\n<div><tt><br></tt></div>\n<div><tt>⸻</tt></div>\n<div><tt><br></tt></div>\n<div><b><tt>V. | NEXT STEPS</tt></b><tt><br></tt></div>\n<div><tt>  •  Confirm tag lists (editable schema for evolution)</tt></div>\n<div><tt>  •  Apply tags to all existing modules retroactively</tt></div>\n<div><tt>  •  Use in generation of interface dashboards, zines, and search tools</tt></div>\n<div><tt><br></tt></div>\n<div><tt>⸻</tt></div>\n<div><tt><br></tt></div>\n<div><tt>::REF_ID = FILTER_TAGS.V1_SETUP</tt></div>\n<div><tt><br></tt></div>\n<div><tt>—-</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## ::ARCHIVE</tt><i><tt>_ENTRY_</tt></i><tt>026  </tt></div>\n<div><b><tt>**Title:**</tt></b><tt> Hierarchy Clarification — ET4L vs ETCETER4 vs 4</tt><i><tt>_bl00m  </tt></i></div>\n<div><b><tt>**Ref ID:**</tt></b><i><tt> HIERARCHY_</tt></i><tt>STRUCT.V1  </tt></div>\n<div><b><tt>**Folder:**</tt></b><tt> /GPT</tt><i><tt>_ARCHIVE_</tt></i><tt>CORE/SYS</tt><i><tt>_CASCADE_</tt></i><tt>TAGS/  </tt></div>",
+  "context": "From document: ::ARCHIVE_ENTRY_001 — chunk 122 (chunk 122/171)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "a7b09d3ba5b3b15755de78dc66d7da4b",
+  "relatedUnits": [],
+  "keywords": [
+    "tags",
+    "metadata",
+    "search",
+    "exports",
+    "display"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

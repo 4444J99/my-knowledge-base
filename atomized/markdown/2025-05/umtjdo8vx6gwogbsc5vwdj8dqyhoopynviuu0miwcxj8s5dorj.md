@@ -1,0 +1,32 @@
+---
+id: 93d42b71-5470-4210-8597-4ea7cdfd3afa
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - umtjdo8vx
+  - 6gwogbsc5vwdj8dqyhoopynviuu0miwcx
+  - >-
+    j8s5dorjkm0w38dzkm8wbyg40sd9ezib25auhkgwaabaaeleqvr93ik1zbukmno6jno4ozwdltmgwuqxqcagnhuudpm1flldqjavuupzy7s6xy2hzspkeizcwo6x4v6xtps7guqtco4oxcdojsjz9sk5snbq5sf6zlkvvq4odmj6wok89nxz8u7bbym1
+  - >-
+    ohh8vfhh8snh39imhh7e26r8djhh288p9tn08dvcejddz6u9959t1579tw5cp5xwvpcwzbl3nnh5pvx6f7guxdv3jcljfaozbbsdpld1aufuhn3s1vjad17hdjo4nekq9fee5kepjgefa1mj7tk1fcljhtxsvdzpzfmeeuymunvvie33rsur715vc4
+  - cvrgj
+---
+# UMTjdO8Vx/6GwOgbSC5vWDj8DQYHoOPYnVIUu0MiWCx+j8S5DorjKM0W38dzKM8WbyG40sD9EZIB25Au
+
+## Context
+From document: New Note — chunk 10137 (chunk 10137/21099)
+
+## Content
+UMTjdO8Vx/6GwOgbSC5vWDj8DQYHoOPYnVIUu0MiWCx+j8S5DorjKM0W38dzKM8WbyG40sD9EZIB25AuHKgwAABAAElEQVR93ik1ZbukmnO6jnO4ozWdLtMgwUQXQcagnHuUDpm1FlldqJaVuUpZY7s6Xy2HZspkeizCwO6X4V6XTPS7GUQTco4OxCdOjsjZ9Sk5snBQ5sf6ZLKvVQ4OdMj6woK89Nxz8u7bbyM1/r58/OHH8vFHH8snH39imHH7E26r8djHH288p9tN08dVCejDDz6U9959T1579TW5cP5xWVpcwZbl3NnH5PVX6f7guXdv3JCLJFAOzbBsDPLd1aUFUhn3S1VJAd17hdJO4NeKQ9FeE5KepjgEfa1Mj7TK1FCLjHTXSVdzpZFMeeUyMunvviE33rsur715Vc4/cVrGJ/qkjvdVkcRoIGhqohu2jq7cjopKGWvrlDOrR+T1l67Q1XLD+B3vvfMuvxd5+3ffkXfe+x97+523uY+9+7bc4Pa77/L6d97BeO3m9sY7OHHI49MR8fabb8srL77M8TkiRw/PyrnTh+mCOcmxOiJry8My1F8mLQ0eOhmsyJjjaNEVUV26X6rie/nvSVKtVrKXx/Yie76f57WDKAfnK0+aq+girrbRZUNnL5NIa71POptD0t9JNyfW01YkrTxeXeLnfUUy0tMqq3MH5SgS3Ovz2Bzy9MscAyTfz+Bgnlhbl8MLS7J4cBpJ9hGW6uhmkqKbor6R35KQsI8ODKeHDhY/QXMJ39MhZ46dkBeeehan4iRdGNM4VcvyHMfw+htvYhyDt6/Iq1efZ0mXVc6/duloCjFROZkAcQqr6CROZBOc7mPpFyZUIPtoaBvdlTjbQa7/QpZI8LMEAqrWPvfd4vfcwzI8dBL7H0QeH6BdrWBjq/dD3Nb36mfoZ5VEd9MFksQ1ROKDwDzBeGoY98vpNqlkf1YwlieKd7FUCu8J67IpLBMT3SKVzEO1ldulIsH1yHXaWLed4xWRl17okTfemJTXX5+QS5f6SOiVSV+PievzPjpZGIvjLDlTwnXLsjNq5Yn7GAOA/OMP4JzupAM7BUvm9Xxn0QP8fmD8gjux2/lPKF3z3W3MfaMjNpmZ9sr0jIdkh016+Y7mpiSWN9rKZ94r8RhNBowp1VUPkQDZLS00eTTU7+J3b5N46H4SGnfTPctvitB1
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

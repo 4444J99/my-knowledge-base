@@ -1,0 +1,31 @@
+---
+id: f1e80caa-f1b7-4d4c-a45c-d6dc3453955d
+type: insight
+created: '2025-05-15T04:28:16.000Z'
+document: 53234c75c147c8435f67ac62d7cb08ba
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - 3du58w6qtfwvvsqtgqjfrrxyu9ui3tl29bg99rfvea1dcshh7fjvxjaorf5y4sfsul8
+  - >-
+    yvzz1gbp2d0thdu2kkx2lngz8ookkkxcnhaqqqoa1qvt0tyvbyrwcahwnfonwse8armybdwkhdvyhoqvufldhmqswu1m8logvqmyogqjpdoeyjxgqqdvwxmbla6nswgvyzyfr24lq86am9
+  - lxbfffdzpbv33nutkd1zzz1wy
+  - 26rzxfddzfvsjvvvnnkd9xxh8lwrfhhtez222
+  - 37373u9vy9g6s8gvuppub7dkvm82
+---
+# 3DU58W6QtFWVVSqtgqjFRRXyu9ui3tl29BG99rfvea1dcsHH7fJvXJAorF5y4SfsuL8+yvZZ1gbp2d0T
+
+## Context
+From document: New Note — chunk 15323 (chunk 15323/21099)
+
+## Content
+3DU58W6QtFWVVSqtgqjFRRXyu9ui3tl29BG99rfvea1dcsHH7fJvXJAorF5y4SfsuL8+yvZZ1gbp2d0ThdU2KKx2LNgZ8OokKKxCnhaqqQOA1QVT0TYVbYRWcaHwnfOnWse8armYBdwKhdVyHoqvUFldhmQSWu1m8loGVqmyOgQjpDoEYJXgqqDVWXMBlA6nSWGVYzYFr24Lq86aM9/uv//+LXbfffdZPbv33nutkd1zzz1Wy+6++26rZXfddZfVsjvvvNNkd9xxh8lWrFhhtez222+37373u9vY9g6s8gvUppUb7dkVm82+xEXDaDEHcQ7EORDnwKjMAbzn8r2X78HNLHoNRx8tmI78V+R4hEYZIEj2tre9rWXjIueLefvhD39ob3/727fk7UMf+pDxQYbfmunj+4+X+Pvf/35yXZwbcYsZGEoG+LBH7y98MBO3oWfgn/7pn5KcfuMb3xj6YGM8wkc/+tHkWn784x8POJPzzjtv2OfN9vC+NlE/Uwbc3FhoKgMj8Rpo6sDjrFO9OU9wQ58vl1122YAz3x5e7wMuKBZiBl7kGXj8J4/Z6jNX2lPnPQmV1Q32bAKtAorxKqv9wCphUgGrhFbTgNU/b7PeDLCiSbVVQrAcnyqrGy54xp489wlbe+Yae+r7T06Yu/TEA49DUfVhW4fzpj1y+p9s/Y8fbRkImTAXPAFPNAKrowuseoVVQqseVvWgKtd7vLpqGqwaqqx6WFVxqK4agqseVg1BVaqrUlHVG+HU0LTmKu9hVcKpHlitpbBKcFWgqrxAVYKpPvbQajOgKqFVwaneE1ANTZCq9wJU5QmmMvbAai1YlWsUHlitBaoSUvWgqo+lrFoLVk1TVvWgqo9rwapSW02DVrkuz/p66/MCU0NPMDWtrh6wShCV7c1CqwJXQxC1mbJAVPZV3MgTGlUfxfTDYQRB/Tgs+zpfVjwUT9jS7y+IU3X1ymobac+PVX8MX1ZM7zf1Zx1jecVJhfunVr3rEsNxnIEIE04smDDer3i/RnoOFACAElQlsJrpmIR4aqKqSmiVcCqBVaqqygiu9vTMs0WL22zJko5EaXXZ8oz19i0AZAqgFCqsCbAKhpSgarEM6LUECJXKqYBRC1BRzRFaLUyF7VYFVrunQY0VKqtsK+wBGBV8ZyfA1C4wnlnsA5azanuiHXX53RJwlf13KAJIreR2
+
+
+
+---
+*Source: Document 53234c75c147c8435f67ac62d7cb08ba*

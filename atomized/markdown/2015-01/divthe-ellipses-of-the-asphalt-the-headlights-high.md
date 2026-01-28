@@ -1,0 +1,30 @@
+---
+id: a63c49fc-ee73-4a77-ace9-241a31c4f3f6
+type: insight
+created: '2015-01-03T19:27:30.000Z'
+document: 4e76842d6acd7003b37f3f1a7c0f701a
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - ever
+  - rider
+  - appointed
+  - master
+  - point
+---
+# <div>The ellipses' of the asphalt the headlights highlighted continued continual
+
+## Context
+From document: The ellipses' of the asphalt the headlights highlighted continued…
+
+## Content
+<div>The ellipses' of the asphalt the headlights highlighted continued continually, beckoning an answer back to the the question offered by the dull hum of rubber revolving and vibrating against the ever steadfast ever pavement.  The rider had no voice for answers to his appointed master, no ears for questions from his appointed master--not at this center shatter point of chaos.  To combat the roar of the external cruelty he reached for the radio but the radio brought none of the anticipated solace: he turned it louder so he wouldn't have to think he thought. Nervously, the clock didn't point to single digits, nor ignite a time to remind the rider of his place, the only hand pointed to how long it would take for him to get where he was going if there was a specific set of coordinates he was actually heading to.  </div>
+
+
+
+---
+*Source: Document 4e76842d6acd7003b37f3f1a7c0f701a*

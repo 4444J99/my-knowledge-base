@@ -1,0 +1,26 @@
+{
+  "id": "94500e84-8391-4216-847e-548842b1c2ed",
+  "type": "insight",
+  "timestamp": "2018-04-03T13:55:16.000Z",
+  "title": "<div>Mamet:</div>",
+  "content": "<div>Mamet:</div>\n<div>Myths are poetic tellings of human truths</div>\n<div>Education teaches subservience, how to please the teacher. The stage is immediate, an audience’s reaction is immediate</div>\n<div>The Old Testament </div>\n<div><br></div>\n<div>Paddy Chayefsky</div>\n<div>Stanislavski</div>\n<div><br></div>",
+  "context": "From document: Mamet:",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "97e6f95f595f6d44d71636901481b101",
+  "relatedUnits": [],
+  "keywords": [
+    "immediate",
+    "mamet",
+    "myths",
+    "poetic",
+    "tellings"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

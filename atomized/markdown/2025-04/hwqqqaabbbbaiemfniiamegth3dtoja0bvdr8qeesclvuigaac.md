@@ -1,0 +1,32 @@
+---
+id: ce834bdf-43d8-4cf8-a78f-3ecdd27f25dd
+type: insight
+created: '2025-04-05T17:52:11.000Z'
+document: 01be182f29c65fb8629d71dfdc1a81dc
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - hwqqqaabbbbaiemfni
+  - iamegth3dtoja0b
+  - >-
+    vdr8qeesclvuigaaccccaaaiiaagqandaoigccccaaaiiiibaywjbr0j5dpy8avmhvdkqsjtkwnk69ywbaqqqqaabbbcwjqabantmbr1baaeeeeaaaqqyv2dnexgjcp0
+  - >-
+    cyeqnidfwaikhdislkqpfaeeeeaaaqqqqaabuwieaewxuqgbbbbaaaeeeeaglgb3osfs4vg2c2xdwtjy2tz
+  - jb0bbbbaaaeeeei3aagadm8a7soaaaiiiiaaahkusgtlrgrlwes8w6er7idjym
+---
+# HwQQQAABBBBAIEMFNi/iameGTh3dToJA0B+VDR8QEEsCLVUigAACCCCAAAIIaAgQANDAoigCCCCAAAII
+
+## Context
+From document: New Note — chunk 29 (chunk 29/192)
+
+## Content
+HwQQQAABBBBAIEMFNi/iameGTh3dToJA0B+VDR8QEEsCLVUigAACCCCAAAIIaAgQANDAoigCCCCAAAIIIIBAywJBr0j5dpY8aVmHvdkqsJtkwNk69YwbAQQQQAABBBCwjQABANtMBR1BAAEEEEAAAQQyV2DNexGJcP0/cyeQnidFwAiKHdiSlKqpFAEEEEAAAQQQQAABUwIEAEwxUQgBBBBAAAEEEEAglgB3OsfS4Vg2C2xdwtJY2Tz/jB0BBBBAAAEEEEi3AAGAdM8A7SOAAAIIIIAAAhkusGtlRGrLWes8w6eR7idJYM+6qER5OiZJulSLAAIIIIAAAggg0JYAAYC2hDiOAAIIIIAAAgggEFNgyxKubsYE4mBWCwQ8Udm0kABZVn8IGDwCCCCAAAIIIJBGAQIAacSnaQQQQAABBBBAINMFgn5Ra5xzcTPT55H+J1dg92r+jSRXmNoRQAABBBBAAAEEWhMgANCaDPsRQAABBBBAAAEE2hRYNycq4VCbxSiAQFYL7N8clkM7CAJk9YeAwSOAAAIIIIAAAmkSaJ+mdjOy2WjYK9FQrUTDHpGwWyTiE4kG1Wt161tU/eWrvqJRI8mX8ct9WL2Oiqvh3X9+2Vfv2RBIRCBcu1wi9dWJVHHEuaGDb0kwUnLEPt4ggAACyRIIV2xQP8M2WFZ9uCIswf37LKuPiuITcNW5ZMio+M7lLASySaBmo0hJh8z7eyBS/6ml0xTc/4ql9VEZAgg4UyB06DP1e6N1P39C1ZXq90buWHDmp4VRZaWAy7jiKg3XXY3/RuXwPe4ul/pufEk7kRx12TsnV73NE5crT70uEFf7InWoo/peqsqpMlmyEQBobaLVxfyIZ6tEvbvVdf49EgkePHzRv7Xy7EcgBQIR7y6J+lTwyaIt7F4rkQ6FFtVGNQgggEBsgcM/w6y7YB/x5qo/DL2xG+VoUgX89S7pVGh8JbUZKkfAEQI5UZf6mWXcLJRZW9Rn3c9tY+SR+lWZBUBvEUAgLQIRd4X629e6nz9Rb0D9/FEXANkQQACBRoH2ncWV10PFA/pJTocB4upwjDpyOLDQWMQp3wkANJvJqG+3hGuWSbh+vbqRP9DsKG8RQAABBBBAAAEEGgXc1cbdNZl3R3Nj//mOQCoFIqGoeNS/mY6lJM1OpTttIYAAAggggAACLQqEqtRiLlUS8qjHNI2t
+
+
+
+---
+*Source: Document 01be182f29c65fb8629d71dfdc1a81dc*

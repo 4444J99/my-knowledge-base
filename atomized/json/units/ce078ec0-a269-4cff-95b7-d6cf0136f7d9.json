@@ -1,0 +1,26 @@
+{
+  "id": "ce078ec0-a269-4cff-95b7-d6cf0136f7d9",
+  "type": "insight",
+  "timestamp": "2021-06-11T01:15:14.000Z",
+  "title": "<div>I grow in a time where I fall out of favor without ever having been in favo",
+  "content": "<div>I grow in a time where I fall out of favor without ever having been in favor. </div>\n<div><br></div>\n<div>When identity plays the role it does in the social fabric’s judgment of one’s character, an escape of identity becomes necessary. </div>",
+  "context": "From document: I grow in a time where I fall out of favor without ever having been…",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "9e6853696c9b78e4ed51eebb44700b8e",
+  "relatedUnits": [],
+  "keywords": [
+    "favor",
+    "identity",
+    "grow",
+    "time",
+    "where"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

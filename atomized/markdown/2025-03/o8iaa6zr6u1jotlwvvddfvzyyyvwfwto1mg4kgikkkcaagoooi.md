@@ -1,0 +1,32 @@
+---
+id: 5293f60e-e4a7-4352-8227-aefe801beba1
+type: insight
+created: '2025-03-13T23:47:48.000Z'
+document: 3b2e4f3759d2535cf9a91dec728a8fbc
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: general
+keywords:
+  - >-
+    o8iaa6zr6u1jotlwvvddfvzyyyvwfwto1mg4kgikkkcaagoooiacclqlyebafvp3vyijowleihy3rb2yoqkmhdgwbltppc8ffvhhdf7zy9lr2267lb2mzxnmmeemctncasxll700vs16lg2i04fcy3w77byr6pqbpqvm
+  - euvvw6
+  - dhw6uphut8
+  - ewxmwj
+  - >-
+    7lppitzpra1bgwyfuvssye477brf67z00kths802k7pfalef3yiggaikkkcaagoooec3cbiqdgtr5xtdd911w
+---
+# O8Iaa6zR6u1jOtLWVVddFVZYYYVWfwTo1MG4kgIKKKCAAgoooIACClQlYEBaFVP3VyIjOWLEiHY3RB2y
+
+## Context
+From document: Squarespace, ChatGPT, GoDaddy Expenses — chunk 422 (chunk 422/2268)
+
+## Content
+O8Iaa6zR6u1jOtLWVVddFVZYYYVWfwTo1MG4kgIKKKCAAgoooIACClQlYEBaFVP3VyIjOWLEiHY3RB2yoqkMHDgwBlTpPc8ffvhhDF7zy9Lr2267Lb2MzxNMMEEMctNCAsxLL700vS16Lg2i04fcY3W77bYr6pqbPqvm+euvvw6///3vw/Dhw6upHut8+eWXMWj+7LPPitZpra1BgwYFuvsSyE477bRF67z00kths802K7pfalEF3yiggAIKKKCAAgoooEC3CBiQdgtr5xtdd911w+WXXx7Hkf7jH/8IU089dVljLM8XgqnScvPNN5cuCu+88054+eWXi5aTCU3dbd99991w1FFHFX3OG7oAP/TQQ4HuyARvZ511VphwwgmL6pHZPe6444qWVfuG7relwfh0000XLrnkkri9J554IhxyyCGBbs758sEHH4QLL7wwvyh25c231a9fv3D22WeHZ555Jlx22WXRlrGpRxxxROjTp09h3ddeey2QLbUooIACCiiggAIKKKBA/QQcQ1pj62rHkJaOrWQ3GD960UUXFQVKBHpMHpSfGIi6BJeTTDIJL8OPP/4YZplllvDNN9/E9/wzxxxzBLqu5guB2f77759fFG699dbYPgvpulsayB588MFh7733LlqHN6+88kpYbrnl4rbTh2ONNVYgeCQbmUrpcTJBU34MKRMmDR48uOjWMKxz1113hckmmyw1E5+ZoIjxrkxMlAoBO22Qva3U1vHHHx922mmnVL3oed999w3nnXdeYdmMM84Y97+1THChoi8UUEABBRRQQAEFFFCgJgJmSGvCWJtGuGdnPmtHqwSayyyzTNkG6CabyjjjjBO7r6b3PBMwlo5HJfjMFwJHxn+mcv/996eX8Zks5e677160LL0h4KWbbr4QKDI7cEfKvffeWxSMsu6f//znsmCU5czse8IJJwQmgDrmmGPCFVdcEa699tqCWWlbZH633nprVq1YyPzmC6b5YDn/ma8VUEABBRRQQAEFFFCg9gJ9a9+kLXZWgNuRVCoEYowxzZfSW71suummZRMC/ec//wl77rlnXI2xlXS7zZfNN9+8EMwxmy518oUZaMl6tlboKkz33XyhS29HSmkXYiZoqnQLmtQmQXtrpXTbBKR/+tOfWqsel/MDQH4CqDfffLPiDwBtNuKHCiiggAIKKKCAAgoo0CkBA9JO
+
+
+
+---
+*Source: Document 3b2e4f3759d2535cf9a91dec728a8fbc*

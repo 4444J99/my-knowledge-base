@@ -1,0 +1,26 @@
+{
+  "id": "51098cf3-9ab0-4883-a21c-55673f96bf0a",
+  "type": "insight",
+  "timestamp": "2025-11-03T01:41:42.000Z",
+  "title": "<div>```</div>",
+  "content": "<div>```</div>\n<div>Unified AI conversation knowledge base. Aggregates exports from ChatGPT, Claude, Gemini, Grok across all time periods. Extracts code snippets, decisions, concepts explored. Tags conversations by topic, links to repos that implemented ideas, identifies unimplemented concepts. Builds searchable vector database for semantic retrieval. Closes feedback loop from code→AI insights.</div>\n<div>```</div>\n<div>**(384 characters - needs trimming)**</div>\n<div><br></div>\n<div>**Trimmed:**</div>\n<div>```</div>\n<div>Unified AI conversation knowledge base aggregating ChatGPT, Claude, Gemini, Grok exports. Extracts code, decisions, concepts. Tags by topic, links to implementing repos, identifies unimplemented ideas. Builds searchable vector database for semantic retrieval. Closes code→AI feedback loop.</div>\n<div>```</div>\n<div>**(284 characters)**</div>\n<div><br></div>\n<div>**Copilot Prompt:**</div>\n<div>```</div>\n<div>Build AI conversation compiler: (1) Import chatgpt-exporter outputs and other LLM conversation exports, (2) Parse and extract code snippets, key decisions, concepts, (3) Topic modeling and tagging with LLM embeddings, (4) Build ChromaDB/Pinecone vector database for semantic search, (5) Link conversations to repos (which code came from which chat), (6) Generate &quotunimplemented ideas&quot queue, (7) REST API for querying conversation history.</div>",
+  "context": "From document: Contents_Table — chunk 108 (chunk 108/129)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "1c4bd3700bcbc88051a77eec5ea8a017",
+  "relatedUnits": [],
+  "keywords": [
+    "code",
+    "conversation",
+    "concepts",
+    "exports",
+    "from"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

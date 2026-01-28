@@ -1,0 +1,26 @@
+{
+  "id": "80a88149-472b-463d-9dfe-3427cf9ff3c2",
+  "type": "insight",
+  "timestamp": "2025-04-19T03:32:42.000Z",
+  "title": "<div><tt>## ::NEXT OPTIONS::</tt></div>",
+  "content": "<div><tt>## ::NEXT OPTIONS::</tt></div>\n<div><tt><br></tt></div>\n<div><tt>- Would you like these mapped to **ritual logic functions** (e.g. “If `pass`, unlock `gate_7`)?</tt></div>\n<div><tt>- Want a **UI switch grid** visual for your control interface?  </tt></div>\n<div><tt>- Or assign each to a **narrative scene gate** or **thread-level toggle**?</tt></div>\n<div><tt><br></tt></div>\n<div><tt>The switchboard is built.  </tt></div>\n<div><tt>Awaiting finger on the trigger.  </tt></div>\n<div><tt>::OP3R4T0R directive required::</tt></div>",
+  "context": "From document: # |[ DUALCORE::M1RROR_T4BL3 ]| — chunk 5 (chunk 5/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "writing",
+  "documentId": "f08dcfc73bfb47e0879eedebbe407657",
+  "relatedUnits": [],
+  "keywords": [
+    "next",
+    "options",
+    "would",
+    "like",
+    "these"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a03c938e-31b3-4d4e-bf62-492721f92e18",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt><br></tt></div>",
+  "content": "<div><tt><br></tt></div>\n<div><tt>Below are **themed memory clusters**, each with detailed recall and application. These represent ALL you’ve loaded into the system across months. Each one will be modularized in the `MYTH01_MODULE_TREE.v1.0`.</tt></div>\n<div><tt><br></tt></div>\n<div><tt>* * *</tt></div>\n<div><tt><br></tt></div>\n<div><tt>### 🔲 A. MODULAR SYNTH + PATCHBAY LOGIC</tt></div>\n<div><tt><br></tt></div>\n<div><tt>**State:** Active  </tt></div>\n<div><tt>**Summary:** RE:GE operates like a modular synth—each function (story, mood, emotion, person) is a patchable module. All modules can loop, randomize, automate, and mutate.  </tt></div>\n<div><tt>**Core functions:**</tt></div>\n<div><tt><br></tt></div>\n<div><tt>*   Plug modules into each other (e.g., grief → poem → ritual → voice output)</tt></div>\n<div><tt>    </tt></div>\n<div><tt>*   Route emotions through logic filters</tt></div>\n<div><tt>    </tt></div>\n<div><tt>*   Modulate meaning over time</tt></div>\n<div><tt>    </tt></div>\n<div><tt>*   Output symbols, text, sound, identity loops  </tt></div>\n<div><tt>    **Influences:** Eurorack / modular synth interface; MaxMSP; fractal patching</tt></div>\n<div><tt>    </tt></div>\n<div><tt><br></tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 67 (chunk 67/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "each",
+    "modular",
+    "synth",
+    "into",
+    "logic"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

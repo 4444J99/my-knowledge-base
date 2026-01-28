@@ -1,0 +1,26 @@
+{
+  "id": "c2b0ae52-e7af-4be1-ad8b-b56412e054b1",
+  "type": "insight",
+  "timestamp": "2025-12-03T13:49:02.000Z",
+  "title": "</ul>",
+  "content": "</ul>\n<li><b>Evolve (Iterative Refinement)</b></li>\n<ul class=\"Apple-dash-list\">\n<li><b>Prompt: </b><i>&quotIncorporate all feedback and refinements to create a polished, stronger, and more resilient final version of the content.&quot</i></li>\n<li><b>Example Output:</b><br></li>\n<ul class=\"Apple-dash-list\">\n<li>Polished Draft: Includes improved structure, logical coherence, emotional engagement, and reinforced credibility</li>\n</ul>\n</ul>\n</ul>\n</ul>\n<div><br></div>\n<div>---</div>\n<div>---</div>\n<div><br></div>\n<div>Flow: From Evaluation to Growth</div>\n<div><br></div>\n<div>[Evaluation]</div>\n<div>   ├─ Critique → Clear view of strengths and weaknesses</div>\n<div>   ├─ Logos Review → Stronger logical and factual appeal</div>\n<div>   ├─ Ethos Review → Greater reliability and trust</div>\n<div>   └─ Pathos Review → Strong emotional connection</div>\n<div>        ↓</div>\n<div>[Reinforcement]</div>\n<div>   └─ Logic Check → Contradictions removed and coherence reinforced</div>\n<div>        ↓</div>\n<div>[Risk Analysis]</div>\n<div>   ├─ Identify Blind Spots → Lower risk of missed or unchallenged issues</div>\n<div>   └─ Recognize Shatter Points → Better prevention of critical failures</div>",
+  "context": "From document: From Evaluation to Growth — chunk 11 (chunk 11/12)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "6ce49238bcaa9925c055c40f902078cb",
+  "relatedUnits": [],
+  "keywords": [
+    "review",
+    "class",
+    "apple",
+    "dash",
+    "list"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

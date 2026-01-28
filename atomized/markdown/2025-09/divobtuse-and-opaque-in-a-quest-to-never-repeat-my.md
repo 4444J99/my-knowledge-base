@@ -1,0 +1,41 @@
+---
+id: ae7dd9d4-54bf-4dfa-85ac-051ec7b086e1
+type: insight
+created: '2025-09-24T14:49:13.000Z'
+document: f245d182b518200b4e90f5d97afe901b
+tags:
+  - paragraph
+  - html
+  - chunked
+  - chunk-strategy-markdown-semantic
+category: research
+keywords:
+  - family
+  - obtuse
+  - opaque
+  - quest
+  - never
+---
+# <div>Obtuse and opaque in a quest to never repeat myself, </div>
+
+## Context
+From document: Obtuse and opaque in a quest to never repeat myself,
+
+## Content
+<div>Obtuse and opaque in a quest to never repeat myself, </div>
+<div><br></div>
+<div>but not for the audience mind you but for my own struggle with finding anything more than the deflowering lap round mountain stimulating</div>
+<div><br></div>
+<div>unless talking to family, cuz I'm acting, </div>
+<div><br></div>
+<div>&quottoday anthony will be reading for the role of:</div>
+<div><br></div>
+<div>White, late30s, first born son x immediate Italian family and also entire friend social group, spo</div>
+<div>inconvenient, third way through the story, submissive, generically sexual (neither a b or G) roleor well you know who's you are </div>
+<div><br></div>
+<div>Mission accomplished, however, no one thinks, &quotoh he's learnéd Aristotle (minus quid pro quo relations be two to  twink apprentice and master bearded-older-and both put Hemlock poison on everything</div>
+
+
+
+---
+*Source: Document f245d182b518200b4e90f5d97afe901b*

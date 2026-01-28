@@ -1,0 +1,26 @@
+{
+  "id": "20265b8b-1dac-41f7-943a-e9a7d034c7c1",
+  "type": "insight",
+  "timestamp": "2015-05-09T21:37:46.000Z",
+  "title": "<div>Girls gone wild</div>",
+  "content": "<div>Girls gone wild</div>\n<div>Assassi-nation</div>\n<div>Assisted nation</div>\n<div>Assist in aiding</div>\n<div><br></div>",
+  "context": "From document: Girls gone wild",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "86c28affdb3fa8c58db966d7434799de",
+  "relatedUnits": [],
+  "keywords": [
+    "nation",
+    "girls",
+    "gone",
+    "wild",
+    "assassi"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

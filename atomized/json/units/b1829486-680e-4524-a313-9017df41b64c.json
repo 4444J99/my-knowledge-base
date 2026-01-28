@@ -1,0 +1,26 @@
+{
+  "id": "b1829486-680e-4524-a313-9017df41b64c",
+  "type": "insight",
+  "timestamp": "2025-05-17T02:49:18.000Z",
+  "title": "<div><tt>Each ritual can include:</tt></div>",
+  "content": "<div><tt>Each ritual can include:</tt></div>\n<div><tt>- Interface mode (Terminal, GUI, Audio, Dream)</tt></div>\n<div><tt>- Time logic (date, season, loop)</tt></div>\n<div><tt>- External anchor (location, canon event)</tt></div>\n<div><tt><br></tt></div>\n<div><tt>---</tt></div>\n<div><tt><br></tt></div>\n<div><tt>## 📦 ARCHIVE + EXPORT SYSTEM</tt></div>\n<div><tt><br></tt></div>\n<div><tt>| Archive System Name    | Purpose                                                      |</tt></div>\n<div><tt>|-------------------------|--------------------------------------------------------------|</tt></div>\n<div><tt>| `ARCHIVE_OS`            | Houses versioned project artifacts + narrative mutations     |</tt></div>\n<div><tt>| `MYTHOS_DATABASE`       | Long-form symbolic registry of characters, rituals, glyphs   |</tt></div>\n<div><tt>| `FRIEND_CHARACTER_ARCHIVE` | Stores friend nodes and their transformation over time   |</tt></div>\n<div><tt>| `VERSION_SNAPSHOT_LOG`  | Output map of all system states (can be frozen or looped)    |</tt></div>\n<div><tt>| `THREADHEAL_RECORDS`    | Recovered lost fragments and naming sequences                |</tt></div>\n<div><tt><br></tt></div>\n<div><tt>✅ All `.md`, `.txt`, `.tree`, `.schema`, `.ritual`, `.node` formats can be exported to future Git-based or OS-backed modular UI.</tt></div>",
+  "context": "From document: # Character Engine POV Critique — chunk 184 (chunk 184/206)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "97f62abc7c2459304ad6df9f4596a27a",
+  "relatedUnits": [],
+  "keywords": [
+    "system",
+    "ritual",
+    "time",
+    "archive",
+    "each"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

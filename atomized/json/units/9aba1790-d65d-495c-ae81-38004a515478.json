@@ -1,0 +1,26 @@
+{
+  "id": "9aba1790-d65d-495c-ae81-38004a515478",
+  "type": "insight",
+  "timestamp": "2025-12-16T05:30:49.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>Prompt 4 – Pretext: Deconstructing “Non-Renewal” Versus Constructive Termination</b><br></div>\n<div>Research federal cases addressing when a nominal “non-renewal” constitutes an adverse employment action or constructive termination under anti-discrimination statutes. Apply that doctrine to a scenario where teaching assignments and employment duties were removed before the stated term end, contemporaneous with protected activity. Analyze why the absence of contemporaneous performance discipline and the presence of ongoing work expectations undermine the employer’s proffered justification  .</div>\n<div><br></div>\n<div>⸻</div>\n<div><br></div>\n<div><b>Prompt 5 – Essential Functions Analysis: Digital and Academic Roles</b><br></div>\n<div>Produce a function-by-function analysis distinguishing essential versus marginal job duties for a Digital Marketing Manager and Adjunct Professor. Use job descriptions, weekly agendas, and email evidence to demonstrate that physical presence is not essential. Address employer arguments related to “events” and explain why occasional in-person tasks do not defeat a remote accommodation when alternative coverage or reassignment is feasible under ADA law.</div>",
+  "context": "From document: Below are deep-research prompts designed to generate a litigation… — chunk 3 (chunk 3/5)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "programming",
+  "documentId": "7a833000eeae446ac24afb198f501b69",
+  "relatedUnits": [],
+  "keywords": [
+    "essential",
+    "prompt",
+    "renewal",
+    "versus",
+    "constructive"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}

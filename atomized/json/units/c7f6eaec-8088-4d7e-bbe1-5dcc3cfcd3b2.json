@@ -1,0 +1,26 @@
+{
+  "id": "c7f6eaec-8088-4d7e-bbe1-5dcc3cfcd3b2",
+  "type": "insight",
+  "timestamp": "2025-02-06T01:47:14.000Z",
+  "title": "<div><br></div>",
+  "content": "<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> 3. Player-Activated vs. Random Chaos Events</div>\n<div><br></div>\n<div><font face=\".AppleColorEmojiUI\">📜</font> Chaos events can now be triggered by players OR randomly occur.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> How This Works:</div>\n<div>  •  Certain chaos events are always random.</div>\n<div>  •  Others can be activated by players if they sacrifice XP, an item, or make a risky move.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Example of Random Chaos Events (No Player Influence):</div>\n<div>  •  The Monkey’s Paw – A seemingly positive event happens but has a hidden cost.</div>\n<div>  •  The Shattered Mirror – A major rule or game mechanic shifts.</div>\n<div>  •  The Forgotten Return – An erased event or character is restored.</div>\n<div><br></div>\n<div><font face=\"ZapfDingbatsITC\">✔</font> Example of Player-Activated Chaos Events (Requires Sacrifice):</div>\n<div>  •  The Great Betrayal → A player sacrifices XP to trigger a faction-wide deception event.</div>\n<div>  •  Rags to Riches → A player spends an item to swap their standing with another.</div>\n<div>  •  The Unwritten Page → A player offers a personal sacrifice to rewrite one rule.</div>",
+  "context": "From document: RPG Character System (Fully Integrated into Weekly Modules) — chunk 499 (chunk 499/555)",
+  "tags": [
+    "paragraph",
+    "html",
+    "chunked",
+    "chunk-strategy-markdown-semantic"
+  ],
+  "category": "general",
+  "documentId": "1536a93a8157b0425ef5d110f12dc007",
+  "relatedUnits": [],
+  "keywords": [
+    "font",
+    "player",
+    "face",
+    "chaos",
+    "events"
+  ],
+  "sectionType": "paragraph",
+  "hierarchyLevel": 0
+}
