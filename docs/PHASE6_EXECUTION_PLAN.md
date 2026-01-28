@@ -1,0 +1,217 @@
+# Phase 6 Execution Plan (Parallel Workstreams)
+
+This plan turns Phase 6 into an execution checklist and splits the work into two largely independent workstreams so you can assign them to two AI agents in parallel.
+
+Status markers:
+- [ ] Not started
+- [~] In progress
+- [x] Complete
+
+Already complete (as of 2026-01-27):
+- [x] ChunkingStrategy interface and default strategies
+- [x] Markdown semantic chunking
+- [x] PDF sliding-window chunking
+- [x] KnowledgeAtomizer chunk-aware enrichment
+- [x] Image detection in Markdown/HTML
+- [x] Taxonomy normalization utilities
+- [x] Bulk backfill CLI (`npm run smart-tag:backfill`)
+- [x] Chunking metrics CLI (`npm run chunking:metrics`)
+
+---
+
+## Workstream A — Chunking, Ingestion, and Metrics
+
+Goal: Improve chunk quality and ingestion robustness, and make chunking outcomes measurable.
+
+This stream should avoid taxonomy/backfill changes where possible.
+
+### A0. Baseline and Safety
+- [ ] Run baseline metrics: `npm run chunking:metrics`
+- [ ] Record key numbers in PR/notes:
+- [ ] documentsWithUnits
+- [ ] documentsChunkedPct
+- [ ] avgUnitsPerDocument
+- [ ] chunk strategies present
+
+### A1. HTML and Preprocessing Improvements
+- [ ] Extend HTML heading preprocessing to include `<h3>`
+- [ ] Convert HTML lists into markdown-like bullets before semantic chunking
+- [ ] Consider stripping noisy HTML (scripts/styles) before chunking
+- [ ] Add tests for HTML heading and list preprocessing edge cases
+
+Suggested files:
+- `src/chunking-strategies.ts`
+- `src/chunking-strategies.test.ts`
+
+### A2. Chunking Controls and Guardrails
+- [ ] Add env-configurable chunking parameters:
+- [ ] `CHUNK_PDF_WINDOW_TOKENS`
+- [ ] `CHUNK_PDF_OVERLAP_TOKENS`
+- [ ] `CHUNK_PDF_MIN_TOKENS`
+- [ ] Add per-format defaults in a single config object
+- [ ] Add a max-chunks-per-document guardrail
+- [ ] Add a min-meaningful-content filter for tiny chunks
+- [ ] Add a document tag like `large-document` when chunkCount exceeds threshold
+
+Suggested files:
+- `src/chunking-strategies.ts`
+- `src/atomizer.ts`
+- `src/types.ts` (only if new metadata needs typing)
+
+### A3. Metrics Expansion
+- [ ] Extend chunking metrics to show top chunked documents:
+- [ ] document title
+- [ ] format
+- [ ] unit count
+- [ ] sourceId (if available)
+- [ ] Add breakdown by `sourceId`
+- [ ] Add:
+- [ ] percent of units with `chunk-strategy-*`
+- [ ] percent of units with `has-image`
+- [ ] Add optional snapshot output:
+- [ ] `npm run chunking:metrics -- --snapshot`
+- [ ] Save to `atomized/metrics/chunking-YYYY-MM-DD.json`
+
+Suggested files:
+- `src/database.ts`
+- `src/chunking-metrics-cli.ts`
+- `src/chunking-metrics.test.ts`
+
+### A4. Watcher Hardening (Phase 5.1 Robustness)
+- [ ] Add debounce around rapid change events
+- [ ] Add retry/backoff around parsing and ingestion failures
+- [ ] Ensure single-file failures do not crash the watch loop
+- [ ] Add a small watcher smoke test script
+
+Suggested files:
+- `src/watch.ts`
+- `scripts/` (new smoke test)
+
+---
+
+## Workstream B — Taxonomy, Backfill, and Search Quality
+
+Goal: Tighten taxonomy consistency, make backfills safer and more controllable, and improve retrieval quality.
+
+This stream should avoid deep chunking changes where possible.
+
+### B0. Baseline and Safe Trials
+- [ ] Run dry-run backfill on a small slice:
+- [ ] `npm run smart-tag:backfill -- --limit 100`
+- [ ] Run a scoped save:
+- [ ] `npm run smart-tag:backfill -- --limit 100 --save`
+- [ ] Spot-check 10–20 updated units
+- [ ] Re-run metrics: `npm run chunking:metrics`
+
+### B1. Taxonomy Auditing and Repair
+- [ ] Add a taxonomy audit CLI:
+- [ ] unknown categories
+- [ ] malformed tags
+- [ ] top offenders and counts
+- [ ] Add a taxonomy repair CLI:
+- [ ] normalize categories/tags/keywords in place
+- [ ] add `--dry-run` and `--save`
+- [ ] Add tests for audit and repair helpers
+
+Suggested files:
+- `src/taxonomy.ts`
+- `src/database.ts`
+- `src/*taxonomy*-cli.ts` (new)
+- `src/*taxonomy*.test.ts` (new)
+
+### B2. Backfill Robustness and Control
+- [ ] Add batching controls:
+- [ ] `--batch-size`
+- [ ] `--max-batches`
+- [ ] Add checkpointing/resume:
+- [ ] `--resume-from-offset`
+- [ ] Add scoping filters:
+- [ ] `--source`
+- [ ] `--format`
+- [ ] `--max-tags`
+- [ ] `--min-content-length`
+- [ ] Add safety rails:
+- [ ] show a summary before expensive calls
+- [ ] add `--yes` to bypass confirmation
+- [ ] Add tests for CLI arg parsing and scoping behavior
+
+Suggested files:
+- `src/bulk-tag-backfill-cli.ts`
+- `src/database.ts`
+- `src/database-backfill.test.ts`
+
+### B3. Retrieval and Ranking Follow-Through
+- [ ] Add chunk-aware scoring hints:
+- [ ] small boost for `chunk-strategy-*`
+- [ ] (optional) boost for `has-image` only when query suggests visuals
+- [ ] Ensure chunk/page hints appear in snippets when present
+- [ ] Add search CLI filters:
+- [ ] `--source`
+- [ ] `--format`
+
+Suggested files:
+- `src/search.ts`
+- `src/advanced-search.ts`
+- `src/search-hybrid-cli.ts`
+- `tests/search-endpoints.test.ts`
+
+---
+
+## Cross-Stream Guardrails
+
+To reduce merge conflicts:
+- Workstream A should avoid editing:
+- `src/taxonomy.ts`
+- `src/smart-tagger.ts`
+- Workstream B should avoid editing:
+- `src/chunking-strategies.ts`
+- `src/atomizer.ts`
+
+Both streams may need `src/database.ts`. If so:
+- Keep changes isolated to separate methods
+- Prefer additive changes over refactors
+
+---
+
+## Recommended Parallel Assignment
+
+Assign to Agent A (Chunking & Metrics):
+1. A1 HTML preprocessing improvements
+2. A2 Chunking controls and guardrails
+3. A3 Metrics expansion
+4. A4 Watcher hardening
+
+Assign to Agent B (Taxonomy & Backfill & Search):
+1. B1 Taxonomy audit + repair CLI
+2. B2 Backfill robustness + safeguards
+3. B3 Retrieval and ranking follow-through
+
+---
+
+## Execution Checklist (Fast Path)
+
+Do these in order within each stream:
+
+Workstream A fast path:
+1. A1 HTML improvements + tests
+2. A3 metrics expansion + tests
+3. A2 chunking controls + tests
+4. A4 watcher hardening + smoke test
+5. Run: `npm run test`
+
+Workstream B fast path:
+1. B2 backfill controls + tests
+2. B1 taxonomy audit/repair + tests
+3. B3 search follow-through + tests
+4. Run: `npm run test`
+
+---
+
+## Definition of Done (Phase 6 Quality Bar)
+
+- [ ] `npm run test` passes
+- [ ] `npm run chunking:metrics` shows sensible distributions
+- [ ] Backfill can run safely in small, scoped batches
+- [ ] At least 20 spot-checked units look better than before
+- [ ] Documentation references updated CLIs and workflows
+
