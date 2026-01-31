@@ -27,8 +27,8 @@ describe('EmbeddingsService', () => {
     expect(embedding).toEqual([0.1, 0.2]);
     expect(createMock).toHaveBeenCalledWith({
       model: 'text-embedding-3-small',
-      input: 'hello',
-      encoding_format: 'float',
+      input: ['hello'],
+      dimensions: undefined,
     });
   });
 

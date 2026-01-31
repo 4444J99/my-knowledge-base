@@ -45,3 +45,6 @@ src/debug-*.ts
 
 # Test artifacts
 .test-tmp/
+
+# Large index files
+atomized/json/index.jsonl

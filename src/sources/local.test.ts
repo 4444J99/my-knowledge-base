@@ -418,9 +418,10 @@ settings: {}
 
     it('sets format to html for .html files', async () => {
       const contentDir = join(TEST_TMP_DIR, 'content');
-      writeFileSync(join(contentDir, 'page.html'), '<html></html>');
+      writeFileSync(join(contentDir, 'page2.html'), '<html></html>');
 
       const result = await source.exportAll();
+      expect(result.length).toBeGreaterThan(0);
       expect((result[0] as KnowledgeDocument).format).toBe('html');
     });
   });
