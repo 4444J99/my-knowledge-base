@@ -134,6 +134,13 @@ export class RateLimiter {
     };
   }
 
+  dispose(): void {
+    if (this.refillInterval) {
+      clearInterval(this.refillInterval);
+      this.refillInterval = null;
+    }
+  }
+
   reset(): void {
     this.executed = 0;
     logger.debug(`Rate limiter reset: ${this.name}`, undefined, 'RateLimiter');

@@ -47,6 +47,8 @@
     "test:unit": "vitest run src",
     "test:integration": "vitest run tests",
     "test:ci": "npm run test:unit && npm run test:integration",
+    "test:stability": "bash ./scripts/test-stability.sh",
+    "test:stability:ci": "STABILITY_RUNS=3 bash ./scripts/test-stability.sh",
     "test:ui": "vitest --ui",
     "test:coverage": "vitest --coverage",
     "benchmark": "RUN_BENCHMARKS=true vitest run benchmarks/",

@@ -102,6 +102,37 @@ jobs:
           retention-days: 7
 
   # ============================================
+  # Flaky Test Watch (Non-Blocking)
+  # ============================================
+  stability-watch:
+    name: Flaky Watch (non-blocking)
+    if: github.event_name == 'pull_request'
+    continue-on-error: true
+    runs-on: ubuntu-latest
+    env:
+      NODE_ENV: test
+      KB_EMBEDDINGS_PROVIDER: mock
+      STABILITY_RUNS: "3"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Prepare database
+        run: npm run prepare-db
+
+      - name: Repeat flaky-prone suites
+        run: npm run test:stability
+
+  # ============================================
   # Secret Scanning
   # ============================================
   secrets:

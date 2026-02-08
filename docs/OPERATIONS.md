@@ -23,6 +23,14 @@
 - Capture stdout/stderr for incident review.
 - Audit logs (when enabled) write to `AUDIT_LOG_PATH` or `./logs/audit.log`.
 
+## CI Reliability Checks
+- Run CI-equivalent suites locally: `npm run test:ci`.
+- Run repeat stability checks before merging risky test/runtime changes: `npm run test:stability`.
+- Tune repetition count when triaging flakes: `STABILITY_RUNS=10 npm run test:stability`.
+- Deterministic test provider policy:
+- `KB_EMBEDDINGS_PROVIDER` must be `mock` (or unset so setup defaults to `mock`).
+- PR workflows run a non-blocking flaky-watch job that repeats known flaky-prone suites.
+
 ## Maintenance
 - Rebuild embeddings: `npm run generate-embeddings`.
 - Incremental export: `npm run export-incremental`.

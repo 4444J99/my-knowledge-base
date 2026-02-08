@@ -128,7 +128,17 @@ npm test                           # All tests
 npm test -- src/api.test.ts        # Single file
 npm test -- --coverage             # With coverage report
 npm run test:ui                    # Visual UI
+npm run test:ci                    # CI parity (blocking suites)
+npm run test:stability             # Repeat flaky-prone suites (default: 5 runs)
+STABILITY_RUNS=10 npm run test:stability  # Increase repetitions
 ```
+
+### Deterministic Test Requirements
+
+- Keep `NODE_ENV=test`.
+- Use `KB_EMBEDDINGS_PROVIDER=mock` (or leave it unset and let `vitest.setup.ts` default to `mock`).
+- Avoid shared filesystem/database paths in tests; use unique `.test-tmp/<suite>/<uuid>` paths.
+- Prefer bounded assertions for timing-sensitive logic (for example, token refill checks).
 
 ### Test Example
 

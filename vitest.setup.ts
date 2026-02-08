@@ -5,7 +5,13 @@ import { join } from 'path';
 // Setup test directories
 const TEST_DIR = join(process.cwd(), '.test-tmp');
 process.env.NODE_ENV = 'test';
-process.env.KB_EMBEDDINGS_PROVIDER = process.env.KB_EMBEDDINGS_PROVIDER || 'mock';
+const configuredProvider = process.env.KB_EMBEDDINGS_PROVIDER;
+if (configuredProvider && configuredProvider !== 'mock') {
+  throw new Error(
+    `KB_EMBEDDINGS_PROVIDER must be "mock" (or unset) for deterministic tests; received "${configuredProvider}".`
+  );
+}
+process.env.KB_EMBEDDINGS_PROVIDER = configuredProvider || 'mock';
 
 beforeAll(() => {
   if (!existsSync(TEST_DIR)) {

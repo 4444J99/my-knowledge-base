@@ -1,10 +1,10 @@
 import { describe, it, expect, beforeEach, afterEach } from 'vitest';
-import { existsSync, mkdirSync, rmSync } from 'fs';
+import { existsSync } from 'fs';
 import { join } from 'path';
 import { KnowledgeDatabase } from './database.js';
 import { execSync } from 'child_process';
-import { randomUUID } from 'crypto';
 import { AtomicUnit } from './types.js';
+import { createTestTempDir, cleanupTestTempDir } from './test-utils/temp-paths.js';
 
 function createUnit(db: KnowledgeDatabase, id: string, category: string, tags: string[]) {
   const now = new Date();
@@ -32,19 +32,15 @@ describe('Taxonomy CLI', () => {
   let db: KnowledgeDatabase;
 
   beforeEach(() => {
-    testDir = join(process.cwd(), '.test-tmp', 'taxonomy-cli', randomUUID());
+    testDir = createTestTempDir('taxonomy-cli');
     testDb = join(testDir, 'test.db');
-
-    if (!existsSync(testDir)) {
-      mkdirSync(testDir, { recursive: true });
-    }
     db = new KnowledgeDatabase(testDb);
   });
 
   afterEach(() => {
     db.close();
     if (existsSync(testDir)) {
-      rmSync(testDir, { recursive: true, force: true });
+      cleanupTestTempDir(testDir);
     }
   });
 

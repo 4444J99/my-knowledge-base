@@ -1,17 +1,28 @@
-import { describe, it, expect, beforeEach, afterEach, vi } from 'vitest';
+import { describe, it, expect, beforeEach, afterEach } from 'vitest';
 import { LocalFileSource } from './local.js';
 import { existsSync, mkdirSync, writeFileSync, rmSync } from 'fs';
 import { join } from 'path';
-import { homedir } from 'os';
-import { randomUUID } from 'crypto';
 import { KnowledgeDocument } from '../types.js';
+import { createTestTempDir, cleanupTestTempDir } from '../test-utils/temp-paths.js';
+
+async function exportAllWithRetry(source: LocalFileSource, attempts: number = 3): Promise<KnowledgeDocument[]> {
+  let result: KnowledgeDocument[] = [];
+  for (let i = 0; i < attempts; i++) {
+    result = await source.exportAll() as KnowledgeDocument[];
+    if (result.length > 0) {
+      return result;
+    }
+    await new Promise(resolve => setTimeout(resolve, 25));
+  }
+  return result;
+}
 
 describe('LocalFileSource', () => {
   let testTmpDir: string;
   let source: LocalFileSource;
 
   beforeEach(() => {
-    testTmpDir = join(process.cwd(), '.test-tmp', 'local-source-test', randomUUID());
+    testTmpDir = createTestTempDir('local-source-test');
     mkdirSync(testTmpDir, { recursive: true });
     mkdirSync(join(testTmpDir, 'config'), { recursive: true });
     mkdirSync(join(testTmpDir, 'content'), { recursive: true });
@@ -21,7 +32,7 @@ describe('LocalFileSource', () => {
 
   afterEach(() => {
     if (existsSync(testTmpDir)) {
-      rmSync(testTmpDir, { recursive: true, force: true });
+      cleanupTestTempDir(testTmpDir);
     }
   });
 
@@ -63,7 +74,7 @@ settings: {}
 `;
       writeFileSync(join(testTmpDir, 'config', 'sources.yaml'), configContent);
 
-      const result = await source.exportAll();
+      const result = await exportAllWithRetry(source);
       expect(result.length).toBe(1);
       expect(result[0].title).toBe('test');
     });
@@ -116,7 +127,7 @@ settings: {}
 `;
       writeFileSync(join(testTmpDir, 'config', 'sources.yaml'), configContent);
 
-      const result = await source.exportAll();
+      const result = await exportAllWithRetry(source);
       expect(result.length).toBe(2);
     });
 

@@ -5,12 +5,11 @@
 import { describe, it, expect, beforeEach, afterEach, vi } from 'vitest';
 import express from 'express';
 import request from 'supertest';
-import { mkdirSync, rmSync } from 'fs';
 import { join } from 'path';
-import { randomUUID } from 'crypto';
 import { createApiRouter } from '../src/api.js';
 import { KnowledgeDatabase } from '../src/database.js';
 import { AtomicUnit } from '../src/types.js';
+import { createTestTempDir, cleanupTestTempDir } from '../src/test-utils/temp-paths.js';
 
 vi.mock('../src/embeddings-service.js', () => ({
   EmbeddingsService: class {
@@ -28,9 +27,8 @@ describe('Phase 2 Search API Endpoints', () => {
   let app: express.Application;
 
   beforeEach(async () => {
-    tempDir = join(process.cwd(), '.test-tmp', 'search-api', randomUUID());
+    tempDir = createTestTempDir('search-api');
     dbPath = join(tempDir, 'test.db');
-    mkdirSync(tempDir, { recursive: true });
 
     // Initialize database
     db = new KnowledgeDatabase(dbPath);
@@ -139,7 +137,7 @@ describe('Phase 2 Search API Endpoints', () => {
       // Already closed
     }
     try {
-      rmSync(tempDir, { recursive: true, force: true });
+      cleanupTestTempDir(tempDir);
     } catch (e) {
       // Dir doesn't exist
     }
