@@ -11,6 +11,9 @@ import { useDataStore } from '../../stores/dataStore';
 import { useUIStore } from '../../stores/uiStore';
 import type { GraphNode, GraphEdge } from '../../types';
 
+type GraphSimulationNode = GraphNode & d3.SimulationNodeDatum;
+type GraphSimulationLink = GraphEdge & d3.SimulationLinkDatum<GraphSimulationNode>;
+
 export function GraphTab() {
   const svgRef = useRef<SVGSVGElement>(null);
   const { graphFilters, setGraphFilters } = useDataStore();
@@ -80,13 +83,19 @@ export function GraphTab() {
     svg.call(zoom);
 
     const container = svg.append('g');
+    const simulationNodes: GraphSimulationNode[] = graphData.nodes.map((node) => ({ ...node }));
+    const simulationLinks: GraphSimulationLink[] = graphData.edges.map((edge) => ({ ...edge }));
 
     // Create simulation
-    const simulation = d3.forceSimulation(graphData.nodes as d3.SimulationNodeDatum[])
-      .force('link', d3.forceLink(graphData.edges)
-        .id((d: any) => d.id)
+    const simulation = d3
+      .forceSimulation<GraphSimulationNode>(simulationNodes)
+      .force(
+        'link',
+        d3
+          .forceLink<GraphSimulationNode, GraphSimulationLink>(simulationLinks)
+          .id((d) => d.id)
         .distance(100)
-        .strength((d: any) => d.strength || 0.5)
+          .strength((d) => d.strength || 0.5)
       )
       .force('charge', d3.forceManyBody().strength(-300))
       .force('center', d3.forceCenter(width / 2, height / 2))
@@ -96,7 +105,7 @@ export function GraphTab() {
     const link = container.append('g')
       .attr('class', 'links')
       .selectAll('line')
-      .data(graphData.edges)
+      .data(simulationLinks)
       .enter()
       .append('line')
       .attr('stroke', 'var(--border)')
@@ -107,7 +116,7 @@ export function GraphTab() {
     const linkLabel = container.append('g')
       .attr('class', 'link-labels')
       .selectAll('text')
-      .data(graphData.edges)
+      .data(simulationLinks)
       .enter()
       .append('text')
       .attr('font-size', 10)
@@ -119,21 +128,21 @@ export function GraphTab() {
     const node = container.append('g')
       .attr('class', 'nodes')
       .selectAll('g')
-      .data(graphData.nodes)
+      .data(simulationNodes)
       .enter()
       .append('g')
       .attr('cursor', 'pointer')
       .call(d3.drag<SVGGElement, GraphNode>()
-        .on('start', (event, d: any) => {
+        .on('start', (event, d: GraphSimulationNode) => {
           if (!event.active) simulation.alphaTarget(0.3).restart();
           d.fx = d.x;
           d.fy = d.y;
         })
-        .on('drag', (event, d: any) => {
+        .on('drag', (event, d: GraphSimulationNode) => {
           d.fx = event.x;
           d.fy = event.y;
         })
-        .on('end', (event, d: any) => {
+        .on('end', (event, d: GraphSimulationNode) => {
           if (!event.active) simulation.alphaTarget(0);
           d.fx = null;
           d.fy = null;
@@ -163,18 +172,29 @@ export function GraphTab() {
       .text((d) => `${d.label}\nType: ${d.type}\nCategory: ${d.category}`);
 
     // Update positions on tick
+    const resolveCoord = (
+      endpoint: GraphSimulationNode | string | number,
+      axis: 'x' | 'y'
+    ) => {
+      if (typeof endpoint === 'object' && endpoint !== null) {
+        const value = axis === 'x' ? endpoint.x : endpoint.y;
+        return typeof value === 'number' ? value : 0;
+      }
+      return 0;
+    };
+
     simulation.on('tick', () => {
       link
-        .attr('x1', (d: any) => d.source.x)
-        .attr('y1', (d: any) => d.source.y)
-        .attr('x2', (d: any) => d.target.x)
-        .attr('y2', (d: any) => d.target.y);
+        .attr('x1', (d) => resolveCoord(d.source, 'x'))
+        .attr('y1', (d) => resolveCoord(d.source, 'y'))
+        .attr('x2', (d) => resolveCoord(d.target, 'x'))
+        .attr('y2', (d) => resolveCoord(d.target, 'y'));
 
       linkLabel
-        .attr('x', (d: any) => (d.source.x + d.target.x) / 2)
-        .attr('y', (d: any) => (d.source.y + d.target.y) / 2);
+        .attr('x', (d) => (resolveCoord(d.source, 'x') + resolveCoord(d.target, 'x')) / 2)
+        .attr('y', (d) => (resolveCoord(d.source, 'y') + resolveCoord(d.target, 'y')) / 2);
 
-      node.attr('transform', (d: any) => `translate(${d.x},${d.y})`);
+      node.attr('transform', (d) => `translate(${d.x ?? 0},${d.y ?? 0})`);
     });
 
     return () => {

@@ -32,6 +32,8 @@ export interface LlmConfig {
   apiKey?: string;
   baseUrl?: string;
   model?: string;
+  temperature?: number;
+  maxTokens?: number;
 }
 
 export interface ClaudeConfig {
@@ -72,28 +74,18 @@ export interface RedactionConfig {
   auditLog?: boolean;
 }
 
-export interface LlmConfig {
-  provider: 'anthropic' | 'openai' | 'ollama' | 'custom';
-  model: string;
-  baseUrl?: string; // For Ollama/LocalAI
-  apiKey?: string;
-  temperature?: number;
-  maxTokens?: number;
-}
-
 export interface AppConfig {
   llm?: LlmConfig;
   export?: ExportConfig;
   embedding?: EmbeddingConfig;
   embeddings?: EmbeddingConfig;
   claude?: ClaudeConfig;
-  llm?: LlmConfig; // New unified LLM config
   database?: DatabaseConfig;
   api?: ApiConfig;
   redaction?: RedactionConfig;
   logLevel?: 'debug' | 'info' | 'warn' | 'error';
   costTrackingEnabled?: boolean;
-  [key: string]: any;
+  [key: string]: unknown;
 }
 
 export const DEFAULT_CONFIG: AppConfig = {
@@ -188,7 +180,7 @@ export class ConfigManager {
 
     try {
       const content = readFileSync(this.configPath, 'utf-8');
-      let config: any;
+      let config: unknown;
 
       if (this.configPath.endsWith('.json')) {
         config = JSON.parse(content);
@@ -213,8 +205,11 @@ export class ConfigManager {
         'ConfigManager'
       );
 
+      const userConfig: Partial<AppConfig> =
+        config && typeof config === 'object' ? (config as Partial<AppConfig>) : {};
+
       // Merge with defaults
-      return this.mergeConfigs(cloneConfig(DEFAULT_CONFIG), config);
+      return this.mergeConfigs(cloneConfig(DEFAULT_CONFIG), userConfig);
     } catch (error) {
       logger.warn(
         `Failed to load config: ${error instanceof Error ? error.message : String(error)}`,
@@ -264,16 +259,18 @@ export class ConfigManager {
   /**
    * Get nested configuration value
    */
-  get<T = any>(path: string, defaultValue?: T): T {
+  get<T = unknown>(path: string, defaultValue?: T): T {
     const parts = path.split('.');
-    let value: any = this.config;
+    let value: unknown = this.config;
 
     for (const part of parts) {
-      if (value === null || value === undefined) return defaultValue as T;
-      value = value[part];
+      if (value === null || value === undefined || typeof value !== 'object') {
+        return defaultValue as T;
+      }
+      value = (value as Record<string, unknown>)[part];
     }
 
-    return value ?? (defaultValue as T);
+    return (value ?? defaultValue) as T;
   }
 
   /**
@@ -285,15 +282,16 @@ export class ConfigManager {
 
     if (!lastKey) return;
 
-    let obj = this.config;
+    let obj = this.config as Record<string, unknown>;
     for (const part of parts) {
-      if (!(part in obj)) {
+      const current = obj[part];
+      if (!current || typeof current !== 'object' || Array.isArray(current)) {
         obj[part] = {};
       }
-      obj = obj[part];
+      obj = obj[part] as Record<string, unknown>;
     }
 
-    obj[lastKey] = value;
+    obj[lastKey] = value as unknown;
     this.isDirty = true;
 
     logger.debug(`Config updated: ${path}`, { value }, 'ConfigManager');

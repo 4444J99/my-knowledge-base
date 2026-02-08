@@ -11,6 +11,39 @@ import { shortcuts } from '../../hooks/useKeyboardShortcuts';
 import { statsApi, exportApi, configApi } from '../../api/client';
 import type { SearchMode } from '../../types';
 
+type LlmProvider = 'anthropic' | 'openai' | 'ollama' | 'custom' | 'local';
+
+interface LlmForm {
+  provider?: LlmProvider;
+  model?: string;
+  apiKey?: string;
+  baseUrl?: string;
+  temperature?: number;
+  maxTokens?: number;
+}
+
+function toLlmForm(value: unknown): LlmForm {
+  if (!value || typeof value !== 'object') {
+    return {};
+  }
+
+  const record = value as Record<string, unknown>;
+  const provider =
+    typeof record.provider === 'string' &&
+    ['anthropic', 'openai', 'ollama', 'custom', 'local'].includes(record.provider)
+      ? (record.provider as LlmProvider)
+      : undefined;
+
+  return {
+    provider,
+    model: typeof record.model === 'string' ? record.model : undefined,
+    apiKey: typeof record.apiKey === 'string' ? record.apiKey : undefined, // allow-secret
+    baseUrl: typeof record.baseUrl === 'string' ? record.baseUrl : undefined,
+    temperature: typeof record.temperature === 'number' ? record.temperature : undefined,
+    maxTokens: typeof record.maxTokens === 'number' ? record.maxTokens : undefined,
+  };
+}
+
 export function SettingsTab() {
   const { theme, setTheme } = useUIStore();
   const queryClient = useQueryClient();
@@ -66,27 +99,29 @@ export function SettingsTab() {
 
   // Config mutations
   const updateConfig = useMutation({
-    mutationFn: (updates: any) => configApi.update(updates),
+    mutationFn: (updates: { llm: LlmForm }) => configApi.update(updates),
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ['system-config'] });
       alert('Configuration saved successfully');
     },
-    onError: (err: any) => {
-      alert(`Failed to save configuration: ${err.message}`);
+    onError: (err: unknown) => {
+      const message = err instanceof Error ? err.message : 'Unknown error';
+      alert(`Failed to save configuration: ${message}`);
     }
   });
 
   // Local state for config form
-  const [llmForm, setLlmForm] = useState<any>({});
+  const [llmForm, setLlmForm] = useState<LlmForm>({});
   const [hasChanges, setHasChanges] = useState(false);
 
-  // Sync form with data when loaded
-  if (configResponse?.data?.config && !hasChanges && Object.keys(llmForm).length === 0) {
-    setLlmForm(configResponse.data.config.llm || {});
-  }
+  const serverLlmForm = toLlmForm(configResponse?.data?.config?.llm);
+  const activeLlmForm = hasChanges ? llmForm : serverLlmForm;
 
-  const handleLlmChange = (field: string, value: any) => {
-    setLlmForm((prev: any) => ({ ...prev, [field]: value }));
+  const handleLlmChange = <K extends keyof LlmForm>(field: K, value: LlmForm[K]) => {
+    setLlmForm((prev) => {
+      const base = hasChanges ? prev : serverLlmForm;
+      return { ...base, [field]: value };
+    });
     setHasChanges(true);
   };
 
@@ -97,7 +132,6 @@ export function SettingsTab() {
 
   const formats = formatsResponse?.data || [];
   const stats = statsResponse?.data;
-  const config = configResponse?.data?.config;
 
   return (
     <div className="space-y-6">
@@ -113,7 +147,7 @@ export function SettingsTab() {
               <label className="flex flex-col gap-2">
                 <span className="text-sm text-[var(--ink-muted)]">Provider</span>
                 <select
-                  value={llmForm.provider || 'anthropic'}
+                  value={activeLlmForm.provider || 'anthropic'}
                   onChange={(e) => handleLlmChange('provider', e.target.value)}
                   className="input"
                 >
@@ -128,7 +162,7 @@ export function SettingsTab() {
                 <span className="text-sm text-[var(--ink-muted)]">Model Name</span>
                 <input
                   type="text"
-                  value={llmForm.model || ''}
+                  value={activeLlmForm.model || ''}
                   onChange={(e) => handleLlmChange('model', e.target.value)}
                   placeholder="e.g. claude-3-5-sonnet-20241022"
                   className="input"
@@ -136,12 +170,12 @@ export function SettingsTab() {
               </label>
             </div>
 
-            {llmForm.provider !== 'ollama' && (
+            {activeLlmForm.provider !== 'ollama' && (
               <label className="flex flex-col gap-2">
                 <span className="text-sm text-[var(--ink-muted)]">API Key</span>
                 <input
                   type="password"
-                  value={llmForm.apiKey || ''}
+                  value={activeLlmForm.apiKey || ''}
                   onChange={(e) => handleLlmChange('apiKey', e.target.value)}
                   placeholder="sk-..."
                   className="input font-mono"
@@ -152,12 +186,12 @@ export function SettingsTab() {
               </label>
             )}
 
-            {(llmForm.provider === 'ollama' || llmForm.provider === 'custom') && (
+            {(activeLlmForm.provider === 'ollama' || activeLlmForm.provider === 'custom') && (
               <label className="flex flex-col gap-2">
                 <span className="text-sm text-[var(--ink-muted)]">Base URL</span>
                 <input
                   type="text"
-                  value={llmForm.baseUrl || ''}
+                  value={activeLlmForm.baseUrl || ''}
                   onChange={(e) => handleLlmChange('baseUrl', e.target.value)}
                   placeholder="http://localhost:11434/v1"
                   className="input font-mono"
