@@ -6,7 +6,7 @@
 import { useState, useRef, useEffect } from 'react';
 import { useSearchStore } from '../stores/searchStore';
 import { useSearch } from '../hooks/useSearch';
-import type { SearchMode } from '../types';
+import type { SearchMode, SearchFilters, UnitType, Category } from '../types';
 
 export function SearchBar() {
   const {
@@ -181,7 +181,10 @@ export function SearchBar() {
             <span className="text-sm text-[var(--ink-muted)]">Type</span>
             <select
               value={filters.type || 'all'}
-              onChange={(e) => setFilters({ type: e.target.value as any })}
+              onChange={(e) => {
+                const value = e.target.value;
+                setFilters({ type: value === 'all' ? 'all' : (value as UnitType) });
+              }}
               className="input"
             >
               <option value="all">All types</option>
@@ -197,7 +200,10 @@ export function SearchBar() {
             <span className="text-sm text-[var(--ink-muted)]">Category</span>
             <select
               value={filters.category || 'all'}
-              onChange={(e) => setFilters({ category: e.target.value as any })}
+              onChange={(e) => {
+                const value = e.target.value;
+                setFilters({ category: value === 'all' ? 'all' : (value as Category) });
+              }}
               className="input"
             >
               <option value="all">All categories</option>
@@ -269,7 +275,10 @@ export function SearchBar() {
             <span className="text-sm text-[var(--ink-muted)]">Sort</span>
             <select
               value={filters.sort || 'relevance'}
-              onChange={(e) => setFilters({ sort: e.target.value as any })}
+              onChange={(e) => {
+                const value = e.target.value as SearchFilters['sort'];
+                setFilters({ sort: value });
+              }}
               className="input"
             >
               <option value="relevance">Relevance</option>

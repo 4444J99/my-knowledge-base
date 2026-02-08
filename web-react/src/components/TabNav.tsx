@@ -11,6 +11,9 @@ const tabs: { id: Tab; label: string }[] = [
   { id: 'graph', label: 'Knowledge Graph' },
   { id: 'tags', label: 'Browse by Tags' },
   { id: 'conversations', label: 'Conversations' },
+  { id: 'exports', label: 'Exports' },
+  { id: 'notifications', label: 'Notifications' },
+  { id: 'profile', label: 'Profile' },
   { id: 'admin', label: 'Admin Dashboard' },
   { id: 'settings', label: 'Settings' },
 ];
@@ -19,12 +22,12 @@ export function TabNav() {
   const { activeTab, setActiveTab } = useUIStore();
 
   return (
-    <nav className="flex border-b border-[var(--border)] mb-6">
+    <nav className="flex border-b border-[var(--border)] mb-6 overflow-x-auto">
       {tabs.map((tab) => (
         <button
           key={tab.id}
           onClick={() => setActiveTab(tab.id)}
-          className={`tab-btn ${activeTab === tab.id ? 'active' : ''}`}
+          className={`tab-btn whitespace-nowrap ${activeTab === tab.id ? 'active' : ''}`}
         >
           {tab.label}
         </button>

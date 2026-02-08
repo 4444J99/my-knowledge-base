@@ -195,7 +195,7 @@ export function AdminTab() {
         </div>
 
         <div className="flex flex-wrap gap-2 p-4 bg-[var(--bg)] rounded-lg min-h-[200px]">
-          {wordCloudData.map((word, index) => (
+          {wordCloudData.map((word) => (
             <span
               key={word.text}
               className="tag cursor-default"

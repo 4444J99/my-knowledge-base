@@ -9,7 +9,8 @@ import { useUIStore } from '../stores/uiStore';
 import { statsApi } from '../api/client';
 
 export function Header() {
-  const { theme, setTheme, toggleShortcuts } = useUIStore();
+  const { theme, setTheme, toggleShortcuts, notifications, setActiveTab } = useUIStore();
+  const unreadCount = notifications.filter((item) => !item.read).length;
 
   // Fetch stats
   const { data: statsResponse } = useQuery({
@@ -38,6 +39,13 @@ export function Header() {
       {/* Theme and shortcuts buttons */}
       <div className="fixed top-4 right-4 flex gap-2 z-40">
         <button
+          onClick={() => setActiveTab('notifications')}
+          title="Open notifications"
+          className="btn-ghost min-w-10 h-10 flex items-center justify-center text-sm"
+        >
+          {unreadCount > 0 ? `• ${unreadCount}` : '•'}
+        </button>
+        <button
           onClick={toggleTheme}
           title="Toggle dark mode (T)"
           className="btn-ghost w-10 h-10 flex items-center justify-center text-lg"
@@ -59,7 +67,7 @@ export function Header() {
           Knowledge Base
         </span>
         <h1 className="text-3xl font-bold text-[var(--accent-3)] mt-1">
-          🧠 Knowledge Base Explorer
+          Knowledge Base Explorer
         </h1>
         <p className="text-[var(--ink-muted)] mt-2">
           Search, map, and browse your knowledge artifacts from one workspace.

@@ -6,7 +6,16 @@
 export type UnitType = 'insight' | 'code' | 'question' | 'reference' | 'decision';
 export type Category = 'programming' | 'writing' | 'research' | 'design' | 'general';
 export type SearchMode = 'fts' | 'semantic' | 'hybrid';
-export type Tab = 'search' | 'graph' | 'tags' | 'conversations' | 'admin' | 'settings';
+export type Tab =
+  | 'search'
+  | 'graph'
+  | 'tags'
+  | 'conversations'
+  | 'exports'
+  | 'notifications'
+  | 'profile'
+  | 'admin'
+  | 'settings';
 
 export interface AtomicUnit {
   id: string;
@@ -105,6 +114,16 @@ export interface Toast {
   message: string;
   type: 'success' | 'error' | 'info';
   duration?: number;
+}
+
+export interface NotificationItem {
+  id: string;
+  title: string;
+  message: string;
+  level: 'info' | 'success' | 'warning' | 'error';
+  timestamp: string;
+  read: boolean;
+  sourceEventType?: string;
 }
 
 // WebSocket types

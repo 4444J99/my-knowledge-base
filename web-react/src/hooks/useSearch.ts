@@ -3,11 +3,10 @@
  * Combines React Query with Zustand store for search functionality
  */
 
-import { useQuery, useMutation } from '@tanstack/react-query';
+import { useQuery } from '@tanstack/react-query';
 import { searchApi } from '../api/client';
 import { useSearchStore } from '../stores/searchStore';
 import { useUIStore } from '../stores/uiStore';
-import type { SearchResult } from '../types';
 
 export function useSearch() {
   const {

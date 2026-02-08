@@ -5,7 +5,7 @@
 
 import { create } from 'zustand';
 import { persist } from 'zustand/middleware';
-import type { Tab, Toast } from '../types';
+import type { Tab, Toast, NotificationItem } from '../types';
 
 interface UIState {
   // Tab navigation
@@ -30,6 +30,13 @@ interface UIState {
   toasts: Toast[];
   addToast: (message: string, type: Toast['type'], duration?: number) => void;
   removeToast: (id: string) => void;
+
+  // Notification center
+  notifications: NotificationItem[];
+  addNotification: (notification: Omit<NotificationItem, 'id' | 'read'>) => void;
+  markNotificationRead: (id: string) => void;
+  markAllNotificationsRead: () => void;
+  clearNotifications: () => void;
 
   // Sidebar state
   sidebarCollapsed: boolean;
@@ -84,6 +91,25 @@ export const useUIStore = create<UIState>()(
           toasts: state.toasts.filter((t) => t.id !== id),
         })),
 
+      notifications: [],
+      addNotification: (notification) => {
+        const id = crypto.randomUUID();
+        set((state) => ({
+          notifications: [{ ...notification, id, read: false }, ...state.notifications].slice(0, 200),
+        }));
+      },
+      markNotificationRead: (id) =>
+        set((state) => ({
+          notifications: state.notifications.map((item) =>
+            item.id === id ? { ...item, read: true } : item
+          ),
+        })),
+      markAllNotificationsRead: () =>
+        set((state) => ({
+          notifications: state.notifications.map((item) => ({ ...item, read: true })),
+        })),
+      clearNotifications: () => set({ notifications: [] }),
+
       // Sidebar state
       sidebarCollapsed: false,
       toggleSidebar: () =>
@@ -94,6 +120,7 @@ export const useUIStore = create<UIState>()(
       partialize: (state) => ({
         theme: state.theme,
         sidebarCollapsed: state.sidebarCollapsed,
+        notifications: state.notifications,
       }),
     }
   )

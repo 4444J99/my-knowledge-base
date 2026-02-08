@@ -529,14 +529,14 @@
 | API Endpoints | 58 | 58 | 0 |
 | Auth & Security | 10 | 10 | 0 |
 | Testing | 28 | 28 | 0 |
-| Web UI | 20 | 12 | 8 |
+| Web UI | 20 | 20 | 0 |
 | Documentation | 12 | 12 | 0 |
 | Deployment | 15 | 12 | 3 |
 | Performance | 10 | 3 | 7 |
 | Security | 12 | 7 | 5 |
 | Advanced | 13 | 5 | 8 |
 | Bugs/Improvements | 8 | 0 | 8 |
-| **TOTAL** | **257** | **218** | **39** |
+| **TOTAL** | **257** | **226** | **31** |
 
 ---
 
@@ -550,7 +550,7 @@
 - API endpoints: 38/38 ✅
 - Auth + RBAC: 8/8 ✅
 
-**Production Ready:** 218/257 (85%)
+**Production Ready:** 226/257 (88%)
 - API Endpoints: 58/58 ✅ (includes Collections, Favorites, Saved Searches, HTML Export)
 - Testing: 28/28 ✅ (1222 tests passing)
 - Deployment: 12/15 ✅ (K8s, CI/CD, Docker)
@@ -562,18 +562,18 @@
 ## Next Steps
 
 ### Immediate (Next Session)
-1. Expand Web UI (React migration, settings/profile, notifications, export UI)
-2. Performance optimizations (Redis cache, database indexing)
-3. Security hardening (encryption at rest, GDPR compliance)
+1. Performance optimizations (Redis cache, database indexing)
+2. Security hardening (encryption at rest, GDPR compliance)
+3. Monitoring/observability instrumentation
 
 ### Short-term (1-2 Sessions)
-1. Monitoring/observability (Sentry error tracking, Prometheus metrics)
-2. Collaboration features (unit sharing, comments)
-3. Integrations (Obsidian sync, Slack webhooks)
+1. Collaboration features (unit sharing, comments)
+2. Integrations (Obsidian sync, Slack webhooks)
+3. Deployment hardening and rollback automation
 
 ### Medium-term (2-4 Sessions)
-1. Complete remaining Web UI tasks
-2. PostgreSQL support option
+1. PostgreSQL support option
+2. Search quality tuning with usage analytics
 3. Vector store backup/recovery
 4. Production hardening and load testing
 

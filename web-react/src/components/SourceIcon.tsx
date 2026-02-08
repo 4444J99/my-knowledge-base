@@ -2,7 +2,6 @@
 import { 
   FileText, 
   MessageSquare, 
-  Monitor, 
   BookOpen, 
   Notebook, 
   Globe, 

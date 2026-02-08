@@ -20,6 +20,7 @@ import { createSavedSearchesRouter } from './saved-searches-api.js';
 import { WebSocketManager } from './websocket-manager.js';
 import { createWebSocketRoutes, createWebSocketHandler } from './websocket-api.js';
 import { createConfigRoutes } from './config-api.js';
+import { createExportRoutes } from './export-api.js';
 import { config } from 'dotenv';
 
 config();
@@ -53,6 +54,7 @@ app.use('/legacy', express.static(join(__dirname, '../web')));
 
 // Configuration API
 app.use('/api/config', createConfigRoutes());
+app.use('/api/export', createExportRoutes());
 
 const enforceHttps = process.env.ENFORCE_HTTPS === 'true';
 if (enforceHttps) {
@@ -117,11 +119,18 @@ initServices().catch(console.error);
 
 // Health check
 app.get('/api/health', (req, res) => {
-  res.json({
+  const payload = {
     status: 'ok',
     servicesReady,
     hasOpenAI: !!process.env.OPENAI_API_KEY,
     hasAnthropic: !!process.env.ANTHROPIC_API_KEY,
+    version: process.env.npm_package_version || '1.0.0',
+    timestamp: new Date().toISOString(),
+  };
+  res.json({
+    success: true,
+    data: payload,
+    ...payload,
   });
 });
 
@@ -139,71 +148,99 @@ app.get('/api/stats', (req, res) => {
       GROUP BY source
     `).all();
 
-    res.json({ ...stats, sourceStats });
+    const payload = { ...stats, sourceStats };
+    res.json({
+      success: true,
+      data: payload,
+      ...payload,
+      timestamp: new Date().toISOString(),
+    });
   } catch (error) {
     res.status(500).json({ error: 'Failed to get stats' });
   }
 });
 
-// Word cloud endpoint - returns tag/keyword frequencies for visualization
+function buildWordCloudData(limit: number, source: string) {
+  const words: Array<{ text: string; value: number; type: string }> = [];
+
+  if (source === 'tags' || source === 'both') {
+    const tagStats = rawDb.prepare(`
+      SELECT t.name as text, COUNT(ut.unit_id) as value
+      FROM tags t
+      JOIN unit_tags ut ON t.id = ut.tag_id
+      GROUP BY t.id
+      ORDER BY value DESC
+      LIMIT ?
+    `).all(limit) as Array<{ text: string; value: number }>;
+
+    tagStats.forEach(t => words.push({ ...t, type: 'tag' }));
+  }
+
+  if (source === 'keywords' || source === 'both') {
+    const keywordStats = rawDb.prepare(`
+      WITH keyword_list AS (
+        SELECT json_each.value as keyword
+        FROM atomic_units, json_each(keywords)
+        WHERE keywords IS NOT NULL AND keywords != '[]'
+      )
+      SELECT keyword as text, COUNT(*) as value
+      FROM keyword_list
+      GROUP BY keyword
+      ORDER BY value DESC
+      LIMIT ?
+    `).all(limit) as Array<{ text: string; value: number }>;
+
+    keywordStats.forEach(k => words.push({ ...k, type: 'keyword' }));
+  }
+
+  const maxValue = Math.max(...words.map(w => w.value), 1);
+  const normalizedWords = words
+    .map(w => ({
+      ...w,
+      normalizedValue: Math.round((w.value / maxValue) * 100),
+    }))
+    .sort((a, b) => b.value - a.value)
+    .slice(0, limit);
+
+  return {
+    words: normalizedWords,
+    maxValue,
+  };
+}
+
+// Legacy endpoint
 app.get('/api/wordcloud', (req, res) => {
   try {
     const limit = Math.min(parseInt(req.query.limit as string) || 100, 500);
-    const source = (req.query.source as string) || 'both'; // 'tags', 'keywords', or 'both'
-
-    const words: Array<{ text: string; value: number; type: string }> = [];
-
-    if (source === 'tags' || source === 'both') {
-      // Get tag frequencies
-      const tagStats = rawDb.prepare(`
-        SELECT t.name as text, COUNT(ut.unit_id) as value
-        FROM tags t
-        JOIN unit_tags ut ON t.id = ut.tag_id
-        GROUP BY t.id
-        ORDER BY value DESC
-        LIMIT ?
-      `).all(limit) as Array<{ text: string; value: number }>;
-
-      tagStats.forEach(t => words.push({ ...t, type: 'tag' }));
-    }
-
-    if (source === 'keywords' || source === 'both') {
-      // Get keyword frequencies from JSON arrays in atomic_units
-      const keywordStats = rawDb.prepare(`
-        WITH keyword_list AS (
-          SELECT json_each.value as keyword
-          FROM atomic_units, json_each(keywords)
-          WHERE keywords IS NOT NULL AND keywords != '[]'
-        )
-        SELECT keyword as text, COUNT(*) as value
-        FROM keyword_list
-        GROUP BY keyword
-        ORDER BY value DESC
-        LIMIT ?
-      `).all(limit) as Array<{ text: string; value: number }>;
-
-      keywordStats.forEach(k => words.push({ ...k, type: 'keyword' }));
-    }
-
-    // Normalize values to 1-100 scale for visualization
-    const maxValue = Math.max(...words.map(w => w.value), 1);
-    const normalizedWords = words.map(w => ({
-      ...w,
-      normalizedValue: Math.round((w.value / maxValue) * 100)
-    }));
-
-    // Sort by value and limit
-    normalizedWords.sort((a, b) => b.value - a.value);
+    const source = (req.query.source as string) || 'both';
+    const { words, maxValue } = buildWordCloudData(limit, source);
 
     res.json({
       success: true,
-      data: normalizedWords.slice(0, limit),
+      data: words,
       meta: {
-        totalWords: normalizedWords.length,
+        totalWords: words.length,
         maxFrequency: maxValue,
-        source
+        source,
       },
-      timestamp: new Date().toISOString()
+      timestamp: new Date().toISOString(),
+    });
+  } catch (error) {
+    console.error('Word cloud error:', error);
+    res.status(500).json({ error: 'Failed to generate word cloud data' });
+  }
+});
+
+// React stats endpoint compatibility
+app.get('/api/stats/wordcloud', (req, res) => {
+  try {
+    const limit = Math.min(parseInt(req.query.limit as string) || 100, 500);
+    const source = (req.query.source as string) || 'both';
+    const { words } = buildWordCloudData(limit, source);
+    res.json({
+      success: true,
+      data: words.map((word) => ({ text: word.text, size: word.normalizedValue })),
+      timestamp: new Date().toISOString(),
     });
   } catch (error) {
     console.error('Word cloud error:', error);
@@ -335,7 +372,13 @@ app.get('/api/search/fts', (req, res) => {
     }
 
     const results = db.searchText(query, limit);
-    res.json({ results, count: results.length });
+    res.json({
+      success: true,
+      data: results,
+      results,
+      count: results.length,
+      timestamp: new Date().toISOString(),
+    });
   } catch (error) {
     res.status(500).json({ error: 'Search failed' });
   }
@@ -360,7 +403,13 @@ app.get('/api/search/semantic', async (req, res) => {
     // Search
     const results = await vectorDb.searchByEmbedding(queryEmbedding, limit);
 
-    res.json({ results, count: results.length });
+    res.json({
+      success: true,
+      data: results,
+      results,
+      count: results.length,
+      timestamp: new Date().toISOString(),
+    });
   } catch (error) {
     res.status(500).json({ error: 'Semantic search failed' });
   }
@@ -386,13 +435,47 @@ app.get('/api/search/hybrid', async (req, res) => {
       semantic: semanticWeight,
     });
 
-    res.json({ results, count: results.length });
+    res.json({
+      success: true,
+      data: results,
+      results,
+      count: results.length,
+      timestamp: new Date().toISOString(),
+    });
   } catch (error) {
     res.status(500).json({ error: 'Hybrid search failed' });
   }
 });
 
 // Get unit by ID
+app.get('/api/units', (req, res) => {
+  try {
+    const limit = Math.min(Math.max(parseInt(req.query.limit as string) || 20, 1), 1000);
+    const type = (req.query.type as string | undefined)?.trim();
+    const category = (req.query.category as string | undefined)?.trim();
+
+    const units = db.getUnitsForGraph({
+      limit,
+      type: type || undefined,
+      category: category || undefined,
+    });
+
+    res.json({
+      success: true,
+      data: units,
+      pagination: {
+        page: 1,
+        pageSize: units.length,
+        total: units.length,
+        totalPages: 1,
+      },
+      timestamp: new Date().toISOString(),
+    });
+  } catch (error) {
+    res.status(500).json({ error: 'Failed to list units' });
+  }
+});
+
 app.get('/api/units/:id', (req, res) => {
   try {
     const { id } = req.params;
@@ -403,7 +486,12 @@ app.get('/api/units/:id', (req, res) => {
       return res.status(404).json({ error: 'Unit not found' });
     }
 
-    res.json(unit);
+    res.json({
+      success: true,
+      data: unit,
+      ...unit,
+      timestamp: new Date().toISOString(),
+    });
   } catch (error) {
     res.status(500).json({ error: 'Failed to get unit' });
   }
@@ -420,7 +508,13 @@ app.get('/api/search/suggestions', (req, res) => {
     }
 
     const suggestions = db.getSearchSuggestions(prefix, limit);
-    res.json({ suggestions, count: suggestions.length });
+    res.json({
+      success: true,
+      data: suggestions,
+      suggestions,
+      count: suggestions.length,
+      timestamp: new Date().toISOString(),
+    });
   } catch (error) {
     res.status(500).json({ error: 'Failed to get suggestions' });
   }
@@ -435,7 +529,13 @@ app.get('/api/categories', (req, res) => {
       GROUP BY category
       ORDER BY count DESC
     `).all();
-    res.json({ categories, count: categories.length });
+    res.json({
+      success: true,
+      data: categories,
+      categories,
+      count: categories.length,
+      timestamp: new Date().toISOString(),
+    });
   } catch (error) {
     res.status(500).json({ error: 'Failed to get categories' });
   }
@@ -446,7 +546,13 @@ app.get('/api/tags/:tag/units', (req, res) => {
   try {
     const { tag } = req.params;
     const units = db.getUnitsByTag(tag);
-    res.json({ units, count: units.length });
+    res.json({
+      success: true,
+      data: units,
+      units,
+      count: units.length,
+      timestamp: new Date().toISOString(),
+    });
   } catch (error) {
     res.status(500).json({ error: 'Failed to get units by tag' });
   }
@@ -460,7 +566,13 @@ app.get('/api/tags/summary', (req, res) => {
       name: tag.value,
       count: tag.count
     }));
-    res.json({ tags, count: tags.length });
+    res.json({
+      success: true,
+      data: tags,
+      tags,
+      count: tags.length,
+      timestamp: new Date().toISOString(),
+    });
   } catch (error) {
     res.status(500).json({ error: 'Failed to get tag summary' });
   }
@@ -469,11 +581,22 @@ app.get('/api/tags/summary', (req, res) => {
 // Get all tags
 app.get('/api/tags', (req, res) => {
   try {
-    // Get all tags from database
-    const tagsQuery = rawDb.prepare('SELECT name FROM tags ORDER BY name').all();
-    const tags = tagsQuery.map((t: any) => t.name);
+    const tagsWithCount = rawDb.prepare(`
+      SELECT t.name as name, COUNT(ut.unit_id) as count
+      FROM tags t
+      LEFT JOIN unit_tags ut ON t.id = ut.tag_id
+      GROUP BY t.id
+      ORDER BY t.name ASC
+    `).all() as Array<{ name: string; count: number }>;
+    const tags = tagsWithCount.map((item) => item.name);
 
-    res.json({ tags, count: tags.length });
+    res.json({
+      success: true,
+      data: tagsWithCount,
+      tags,
+      count: tags.length,
+      timestamp: new Date().toISOString(),
+    });
   } catch (error) {
     res.status(500).json({ error: 'Failed to get tags' });
   }
@@ -515,7 +638,13 @@ app.post('/api/units/:id/tags', (req, res) => {
       WHERE ut.unit_id = ?
     `).all(id) as { name: string }[];
 
-    res.json({ unitId: id, tags: updatedTags.map(tag => tag.name) });
+    res.json({
+      success: true,
+      data: { unitId: id, tags: updatedTags.map(tag => tag.name) },
+      unitId: id,
+      tags: updatedTags.map(tag => tag.name),
+      timestamp: new Date().toISOString(),
+    });
   } catch (error) {
     res.status(500).json({ error: 'Failed to add tags' });
   }
@@ -544,7 +673,13 @@ app.delete('/api/units/:id/tags/:tag', (req, res) => {
       WHERE ut.unit_id = ?
     `).all(id) as { name: string }[];
 
-    res.json({ unitId: id, tags: updatedTags.map(tag => tag.name) });
+    res.json({
+      success: true,
+      data: { unitId: id, tags: updatedTags.map(tag => tag.name) },
+      unitId: id,
+      tags: updatedTags.map(tag => tag.name),
+      timestamp: new Date().toISOString(),
+    });
   } catch (error) {
     res.status(500).json({ error: 'Failed to remove tag' });
   }
@@ -610,7 +745,13 @@ app.get('/api/graph', (req, res) => {
       tags: u.tags,
     }));
 
-    res.json({ nodes, edges: relationships });
+    const payload = { nodes, edges: relationships };
+    res.json({
+      success: true,
+      data: payload,
+      ...payload,
+      timestamp: new Date().toISOString(),
+    });
   } catch (error) {
     res.status(500).json({ error: 'Failed to get graph data' });
   }
@@ -619,8 +760,19 @@ app.get('/api/graph', (req, res) => {
 // Get conversations
 app.get('/api/conversations', (req, res) => {
   try {
-    const conversations = db.getAllConversations();
-    res.json({ conversations, count: conversations.length });
+    const conversations = db.getAllConversations().map((conversation) => ({
+      ...conversation,
+      source: 'claude',
+      unitCount: 0,
+      timestamp: conversation.created.toISOString(),
+    }));
+    res.json({
+      success: true,
+      data: conversations,
+      conversations,
+      count: conversations.length,
+      timestamp: new Date().toISOString(),
+    });
   } catch (error) {
     res.status(500).json({ error: 'Failed to get conversations' });
   }

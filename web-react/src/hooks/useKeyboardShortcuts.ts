@@ -73,6 +73,9 @@ export function useKeyboardShortcuts() {
           g: 'graph',
           t: 'tags',
           c: 'conversations',
+          e: 'exports',
+          n: 'notifications',
+          p: 'profile',
           a: 'admin',
           s: 'settings',
         };
@@ -105,6 +108,9 @@ export const shortcuts = [
   { keys: ['G', 'G'], action: 'Go to Graph tab' },
   { keys: ['G', 'T'], action: 'Go to Tags tab' },
   { keys: ['G', 'C'], action: 'Go to Conversations tab' },
+  { keys: ['G', 'E'], action: 'Go to Exports tab' },
+  { keys: ['G', 'N'], action: 'Go to Notifications tab' },
+  { keys: ['G', 'P'], action: 'Go to Profile tab' },
   { keys: ['G', 'A'], action: 'Go to Admin tab' },
   { keys: ['G', 'S'], action: 'Go to Settings tab' },
 ];

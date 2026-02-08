@@ -65,6 +65,8 @@ const DEFAULT_CONFIG: Required<WebSocketConfig> = {
  */
 export function useWebSocket(config: WebSocketConfig = {}) {
   const wsRef = useRef<WebSocket | null>(null);
+  const reconnectTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const connectRef = useRef<() => void>(() => {});
   const reconnectCountRef = useRef(0);
   const handlersRef = useRef<Map<string, Set<EventHandler>>>(new Map());
   const configRef = useRef({ ...DEFAULT_CONFIG, ...config });
@@ -100,20 +102,35 @@ export function useWebSocket(config: WebSocketConfig = {}) {
 
       wsRef.current.onmessage = (event) => {
         try {
-          const data = JSON.parse(event.data) as WebSocketEvent;
-          setLastEvent(data);
+          const payload = JSON.parse(event.data) as Partial<WebSocketEvent> & {
+            clientId?: string;
+          };
+          const eventType = typeof payload.type === 'string' ? payload.type : 'connection';
+          const normalizedEvent: WebSocketEvent = {
+            type: eventType as WebSocketEvent['type'],
+            timestamp:
+              typeof payload.timestamp === 'string'
+                ? payload.timestamp
+                : new Date().toISOString(),
+            data: payload.data ?? {},
+            metadata:
+              typeof payload.metadata === 'object' && payload.metadata !== null
+                ? payload.metadata
+                : undefined,
+          };
+          setLastEvent(normalizedEvent);
 
           // Handle connection confirmation
-          if (data.type === 'connection' && (data as any).clientId) {
-            setClientId((data as any).clientId);
+          if (normalizedEvent.type === 'connection' && typeof payload.clientId === 'string') {
+            setClientId(payload.clientId);
           }
 
           // Call registered handlers
-          const handlers = handlersRef.current.get(data.type) ?? new Set();
+          const handlers = handlersRef.current.get(normalizedEvent.type) ?? new Set();
           const wildcardHandlers = handlersRef.current.get('*') ?? new Set();
 
-          handlers.forEach((handler) => handler(data));
-          wildcardHandlers.forEach((handler) => handler(data));
+          handlers.forEach((handler) => handler(normalizedEvent));
+          wildcardHandlers.forEach((handler) => handler(normalizedEvent));
         } catch (e) {
           console.error('[WebSocket] Failed to parse message:', e);
         }
@@ -133,7 +150,9 @@ export function useWebSocket(config: WebSocketConfig = {}) {
           console.log(
             `[WebSocket] Reconnecting (${reconnectCountRef.current}/${configRef.current.maxReconnectAttempts})...`
           );
-          setTimeout(connect, configRef.current.reconnectInterval);
+          reconnectTimerRef.current = setTimeout(() => {
+            connectRef.current();
+          }, configRef.current.reconnectInterval);
         }
       };
 
@@ -149,6 +168,10 @@ export function useWebSocket(config: WebSocketConfig = {}) {
 
   // Disconnect from WebSocket server
   const disconnect = useCallback(() => {
+    if (reconnectTimerRef.current) {
+      clearTimeout(reconnectTimerRef.current);
+      reconnectTimerRef.current = null;
+    }
     reconnectCountRef.current = configRef.current.maxReconnectAttempts; // Prevent auto-reconnect
     wsRef.current?.close();
     wsRef.current = null;
@@ -198,6 +221,11 @@ export function useWebSocket(config: WebSocketConfig = {}) {
   const ping = useCallback(() => {
     send({ action: 'ping' });
   }, [send]);
+
+  // Connect on mount
+  useEffect(() => {
+    connectRef.current = connect;
+  }, [connect]);
 
   // Connect on mount
   useEffect(() => {
