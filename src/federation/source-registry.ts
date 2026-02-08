@@ -3,6 +3,9 @@ import Database from 'better-sqlite3';
 import { AppError } from '../logger.js';
 import {
   CreateFederatedSourceInput,
+  FederatedScanJobRecord,
+  FederatedScanJobStatus,
+  FederatedScanMode,
   FederatedScanRunRecord,
   FederatedScanStatus,
   FederatedSourceRecord,
@@ -28,6 +31,7 @@ type SourceRow = {
 type ScanRunRow = {
   id: string;
   source_id: string;
+  job_id: string | null;
   status: FederatedScanStatus;
   scanned_count: number;
   indexed_count: number;
@@ -37,6 +41,20 @@ type ScanRunRow = {
   completed_at: string | null;
   error_message: string | null;
   summary: string | null;
+};
+
+type ScanJobRow = {
+  id: string;
+  source_id: string;
+  mode: FederatedScanMode;
+  status: FederatedScanJobStatus;
+  created_at: string;
+  started_at: string | null;
+  completed_at: string | null;
+  run_id: string | null;
+  requested_by: string | null;
+  error_message: string | null;
+  meta: string | null;
 };
 
 function parseJsonObject(value: string | null, fallback: Record<string, unknown> = {}): Record<string, unknown> {
@@ -217,7 +235,7 @@ export class FederatedSourceRegistry {
     return this.getSourceById(id) as FederatedSourceRecord;
   }
 
-  createScanRun(sourceId: string): FederatedScanRunRecord {
+  createScanRun(sourceId: string, options: { jobId?: string } = {}): FederatedScanRunRecord {
     const id = randomUUID();
     const startedAt = new Date().toISOString();
     this.db
@@ -226,6 +244,7 @@ export class FederatedSourceRegistry {
         INSERT INTO federated_scan_runs (
           id,
           source_id,
+          job_id,
           status,
           scanned_count,
           indexed_count,
@@ -234,10 +253,10 @@ export class FederatedSourceRegistry {
           started_at,
           summary
         )
-        VALUES (?, ?, 'running', 0, 0, 0, 0, ?, '{}')
+        VALUES (?, ?, ?, 'running', 0, 0, 0, 0, ?, '{}')
         `
       )
-      .run(id, sourceId, startedAt);
+      .run(id, sourceId, options.jobId ?? null, startedAt);
 
     return this.getScanRunById(id) as FederatedScanRunRecord;
   }
@@ -336,6 +355,205 @@ export class FederatedSourceRegistry {
     return this.getSourceById(sourceId) as FederatedSourceRecord;
   }
 
+  createScanJob(
+    sourceId: string,
+    options: { mode?: FederatedScanMode; requestedBy?: string | null; meta?: Record<string, unknown> } = {}
+  ): FederatedScanJobRecord {
+    const id = randomUUID();
+    const createdAt = new Date().toISOString();
+    this.db
+      .prepare(
+        `
+        INSERT INTO federated_scan_jobs (
+          id,
+          source_id,
+          mode,
+          status,
+          created_at,
+          requested_by,
+          meta
+        )
+        VALUES (?, ?, ?, 'queued', ?, ?, ?)
+        `
+      )
+      .run(
+        id,
+        sourceId,
+        options.mode ?? 'incremental',
+        createdAt,
+        options.requestedBy ?? null,
+        JSON.stringify(options.meta ?? {})
+      );
+
+    return this.getScanJobById(id) as FederatedScanJobRecord;
+  }
+
+  getScanJobById(jobId: string): FederatedScanJobRecord | undefined {
+    const row = this.db
+      .prepare(
+        `
+        SELECT *
+        FROM federated_scan_jobs
+        WHERE id = ?
+        LIMIT 1
+        `
+      )
+      .get(jobId) as ScanJobRow | undefined;
+
+    return row ? this.toScanJobRecord(row) : undefined;
+  }
+
+  listScanJobs(options: {
+    sourceId?: string;
+    status?: FederatedScanJobStatus;
+    limit?: number;
+    offset?: number;
+  } = {}): FederatedScanJobRecord[] {
+    const whereParts: string[] = [];
+    const params: unknown[] = [];
+
+    if (options.sourceId) {
+      whereParts.push('source_id = ?');
+      params.push(options.sourceId);
+    }
+
+    if (options.status) {
+      whereParts.push('status = ?');
+      params.push(options.status);
+    }
+
+    const whereClause = whereParts.length > 0 ? `WHERE ${whereParts.join(' AND ')}` : '';
+    const limit = Math.max(1, Math.min(200, options.limit ?? 50));
+    const offset = Math.max(0, options.offset ?? 0);
+
+    const rows = this.db
+      .prepare(
+        `
+        SELECT *
+        FROM federated_scan_jobs
+        ${whereClause}
+        ORDER BY created_at DESC
+        LIMIT ? OFFSET ?
+        `
+      )
+      .all(...params, limit, offset) as ScanJobRow[];
+
+    return rows.map((row) => this.toScanJobRecord(row));
+  }
+
+  findActiveScanJobForSource(sourceId: string): FederatedScanJobRecord | undefined {
+    const row = this.db
+      .prepare(
+        `
+        SELECT *
+        FROM federated_scan_jobs
+        WHERE source_id = ?
+          AND status IN ('queued', 'running')
+        ORDER BY created_at DESC
+        LIMIT 1
+        `
+      )
+      .get(sourceId) as ScanJobRow | undefined;
+
+    return row ? this.toScanJobRecord(row) : undefined;
+  }
+
+  startScanJob(jobId: string): FederatedScanJobRecord {
+    const now = new Date().toISOString();
+    this.db
+      .prepare(
+        `
+        UPDATE federated_scan_jobs
+        SET
+          status = 'running',
+          started_at = COALESCE(started_at, ?),
+          error_message = NULL
+        WHERE id = ?
+          AND status = 'queued'
+        `
+      )
+      .run(now, jobId);
+
+    const job = this.getScanJobById(jobId);
+    if (!job) {
+      throw new AppError(`Scan job not found: ${jobId}`, 'SCAN_JOB_NOT_FOUND', 404);
+    }
+    return job;
+  }
+
+  completeScanJob(
+    jobId: string,
+    update: {
+      status: Exclude<FederatedScanJobStatus, 'queued' | 'running'>;
+      runId?: string | null;
+      errorMessage?: string | null;
+      meta?: Record<string, unknown>;
+    }
+  ): FederatedScanJobRecord {
+    const now = new Date().toISOString();
+    const current = this.getScanJobById(jobId);
+    if (!current) {
+      throw new AppError(`Scan job not found: ${jobId}`, 'SCAN_JOB_NOT_FOUND', 404);
+    }
+
+    const mergedMeta = {
+      ...current.meta,
+      ...(update.meta ?? {}),
+    };
+
+    this.db
+      .prepare(
+        `
+        UPDATE federated_scan_jobs
+        SET
+          status = ?,
+          completed_at = ?,
+          run_id = COALESCE(?, run_id),
+          error_message = ?,
+          meta = ?
+        WHERE id = ?
+        `
+      )
+      .run(update.status, now, update.runId ?? null, update.errorMessage ?? null, JSON.stringify(mergedMeta), jobId);
+
+    return this.getScanJobById(jobId) as FederatedScanJobRecord;
+  }
+
+  cancelScanJob(jobId: string, reason: string = 'Cancelled by user'): FederatedScanJobRecord {
+    const existing = this.getScanJobById(jobId);
+    if (!existing) {
+      throw new AppError(`Scan job not found: ${jobId}`, 'SCAN_JOB_NOT_FOUND', 404);
+    }
+    if (existing.status === 'completed' || existing.status === 'failed' || existing.status === 'cancelled') {
+      return existing;
+    }
+
+    const now = new Date().toISOString();
+    this.db
+      .prepare(
+        `
+        UPDATE federated_scan_jobs
+        SET
+          status = 'cancelled',
+          completed_at = ?,
+          error_message = ?,
+          meta = ?
+        WHERE id = ?
+        `
+      )
+      .run(
+        now,
+        reason,
+        JSON.stringify({
+          ...existing.meta,
+          cancelledAt: now,
+        }),
+        jobId
+      );
+
+    return this.getScanJobById(jobId) as FederatedScanJobRecord;
+  }
+
   private toSourceRecord(row: SourceRow): FederatedSourceRecord {
     return {
       id: row.id,
@@ -349,7 +567,7 @@ export class FederatedSourceRegistry {
       createdAt: row.created_at,
       updatedAt: row.updated_at,
       lastScanAt: row.last_scan_at ?? undefined,
-      lastScanStatus: row.last_scan_status as FederatedSourceRecord['lastScanStatus'],
+      lastScanStatus: (row.last_scan_status as FederatedSourceRecord['lastScanStatus']) ?? undefined,
       lastScanSummary: parseJsonObject(row.last_scan_summary, {}),
     };
   }
@@ -358,6 +576,7 @@ export class FederatedSourceRegistry {
     return {
       id: row.id,
       sourceId: row.source_id,
+      jobId: row.job_id,
       status: row.status,
       scannedCount: row.scanned_count,
       indexedCount: row.indexed_count,
@@ -367,6 +586,22 @@ export class FederatedSourceRegistry {
       completedAt: row.completed_at,
       errorMessage: row.error_message,
       summary: parseJsonObject(row.summary),
+    };
+  }
+
+  private toScanJobRecord(row: ScanJobRow): FederatedScanJobRecord {
+    return {
+      id: row.id,
+      sourceId: row.source_id,
+      mode: row.mode,
+      status: row.status,
+      createdAt: row.created_at,
+      startedAt: row.started_at,
+      completedAt: row.completed_at,
+      runId: row.run_id,
+      requestedBy: row.requested_by,
+      errorMessage: row.error_message,
+      meta: parseJsonObject(row.meta, {}),
     };
   }
 }

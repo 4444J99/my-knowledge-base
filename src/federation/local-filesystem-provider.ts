@@ -4,7 +4,7 @@ import { basename, extname, resolve } from 'path';
 import fg from 'fast-glob';
 import pLimit from 'p-limit';
 import { AppError } from '../logger.js';
-import { FederatedSourceRecord, LocalFilesystemDocument } from './types.js';
+import { FederatedScanMode, FederatedSourceRecord, LocalFilesystemDocument } from './types.js';
 
 const TEXT_MIME_BY_EXTENSION: Record<string, string> = {
   '.md': 'text/markdown',
@@ -42,16 +42,55 @@ function hasBinaryMarker(value: string): boolean {
   return value.includes('\u0000');
 }
 
+function parseExtensions(value: unknown): string[] {
+  if (!Array.isArray(value)) {
+    return [];
+  }
+  return value
+    .filter((entry): entry is string => typeof entry === 'string')
+    .map((entry) => entry.trim().toLowerCase())
+    .filter((entry) => entry.length > 0)
+    .map((entry) => (entry.startsWith('.') ? entry : `.${entry}`));
+}
+
+function parseAllowedExtensionsFromEnv(): string[] {
+  const value = process.env.FEDERATION_ALLOWED_EXTENSIONS;
+  if (!value) return [];
+  return value
+    .split(',')
+    .map((entry) => entry.trim().toLowerCase())
+    .filter((entry) => entry.length > 0)
+    .map((entry) => (entry.startsWith('.') ? entry : `.${entry}`));
+}
+
+function throwIfCancelled(isCancelled?: () => boolean): void {
+  if (isCancelled?.()) {
+    throw new AppError('Scan cancelled', 'SCAN_CANCELLED', 409);
+  }
+}
+
+export interface LocalFilesystemScanOptions {
+  mode?: FederatedScanMode;
+  isCancelled?: () => boolean;
+}
+
 export class LocalFilesystemProvider {
-  async scan(source: FederatedSourceRecord): Promise<LocalFilesystemDocument[]> {
+  private readonly defaultAllowedExtensions = parseAllowedExtensionsFromEnv();
+
+  async scan(source: FederatedSourceRecord, options: LocalFilesystemScanOptions = {}): Promise<LocalFilesystemDocument[]> {
     const rootPath = resolve(source.rootPath);
     const includePatterns = source.includePatterns.length > 0 ? source.includePatterns : ['**/*'];
     const excludePatterns = source.excludePatterns;
+    const mode = options.mode ?? 'incremental';
 
     const sourceMaxSizeBytes = Number(source.metadata.maxFileSizeBytes ?? 1_000_000);
     const sourceMaxFiles = Number(source.metadata.maxFiles ?? 2_500);
     const maxFileSizeBytes = Number.isFinite(sourceMaxSizeBytes) && sourceMaxSizeBytes > 0 ? sourceMaxSizeBytes : 1_000_000;
     const maxFiles = Number.isFinite(sourceMaxFiles) && sourceMaxFiles > 0 ? sourceMaxFiles : 2_500;
+
+    const metadataAllowed = parseExtensions(source.metadata.allowedExtensions);
+    const allowedExtensions = metadataAllowed.length > 0 ? metadataAllowed : this.defaultAllowedExtensions;
+    const allowedExtensionSet = new Set(allowedExtensions);
 
     try {
       const rootStat = await stat(rootPath);
@@ -65,6 +104,7 @@ export class LocalFilesystemProvider {
       throw new AppError(`Source path not accessible: ${rootPath}`, 'INVALID_SOURCE_PATH', 400);
     }
 
+    throwIfCancelled(options.isCancelled);
     const relativePaths = await fg(includePatterns, {
       cwd: rootPath,
       onlyFiles: true,
@@ -76,9 +116,13 @@ export class LocalFilesystemProvider {
     });
 
     const limitedPaths = relativePaths.slice(0, maxFiles);
-    const readLimit = pLimit(12);
+    const readLimit = pLimit(mode === 'full' ? 8 : 12);
     const scanned = await Promise.all(
-      limitedPaths.map((relativePath) => readLimit(() => this.readFileDocument(rootPath, relativePath, maxFileSizeBytes)))
+      limitedPaths.map((relativePath) =>
+        readLimit(() =>
+          this.readFileDocument(rootPath, relativePath, maxFileSizeBytes, allowedExtensionSet, options.isCancelled)
+        )
+      )
     );
 
     return scanned.filter((entry): entry is LocalFilesystemDocument => entry !== null);
@@ -87,10 +131,16 @@ export class LocalFilesystemProvider {
   private async readFileDocument(
     rootPath: string,
     relativePath: string,
-    maxFileSizeBytes: number
+    maxFileSizeBytes: number,
+    allowedExtensions: Set<string>,
+    isCancelled?: () => boolean
   ): Promise<LocalFilesystemDocument | null> {
+    throwIfCancelled(isCancelled);
     const extension = extname(relativePath).toLowerCase();
     if (!isTextMime(extension)) {
+      return null;
+    }
+    if (allowedExtensions.size > 0 && !allowedExtensions.has(extension)) {
       return null;
     }
 

@@ -80,6 +80,9 @@ export interface FederationConfig {
   maxFilesPerScan?: number;
   defaultIncludePatterns?: string[];
   defaultExcludePatterns?: string[];
+  allowedRoots?: string[];
+  allowedExtensions?: string[];
+  scanConcurrency?: number;
 }
 
 export interface AppConfig {
@@ -155,7 +158,10 @@ export const DEFAULT_CONFIG: AppConfig = {
     maxFileSizeBytes: 1_000_000,
     maxFilesPerScan: 2_500,
     defaultIncludePatterns: ['**/*'],
-    defaultExcludePatterns: []
+    defaultExcludePatterns: [],
+    allowedRoots: [],
+    allowedExtensions: [],
+    scanConcurrency: 1,
   },
   logLevel: 'info',
   costTrackingEnabled: true

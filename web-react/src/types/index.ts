@@ -139,14 +139,15 @@ export interface FederatedSource {
   createdAt: string;
   updatedAt: string;
   lastScanAt?: string;
-  lastScanStatus?: 'running' | 'completed' | 'failed';
+  lastScanStatus?: 'running' | 'completed' | 'failed' | 'cancelled';
   lastScanSummary?: Record<string, unknown>;
 }
 
 export interface FederatedScanRun {
   id: string;
   sourceId: string;
-  status: 'running' | 'completed' | 'failed';
+  jobId: string | null;
+  status: 'running' | 'completed' | 'failed' | 'cancelled';
   scannedCount: number;
   indexedCount: number;
   skippedCount: number;
@@ -157,6 +158,20 @@ export interface FederatedScanRun {
   summary: Record<string, unknown>;
 }
 
+export interface FederatedScanJob {
+  id: string;
+  sourceId: string;
+  mode: 'incremental' | 'full';
+  status: 'queued' | 'running' | 'completed' | 'failed' | 'cancelled';
+  createdAt: string;
+  startedAt: string | null;
+  completedAt: string | null;
+  runId: string | null;
+  requestedBy: string | null;
+  errorMessage: string | null;
+  meta: Record<string, unknown>;
+}
+
 export interface FederatedSearchHit {
   id: string;
   sourceId: string;
@@ -164,6 +179,7 @@ export interface FederatedSearchHit {
   path: string;
   title: string;
   snippet: string;
+  score: number;
   mimeType: string | null;
   modifiedAt: string | null;
   indexedAt: string;

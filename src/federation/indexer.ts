@@ -3,12 +3,24 @@ import Database from 'better-sqlite3';
 import { AppError } from '../logger.js';
 import { LocalFilesystemProvider } from './local-filesystem-provider.js';
 import { FederatedSourceRegistry } from './source-registry.js';
-import { FederatedScanRunRecord, LocalFilesystemDocument } from './types.js';
+import { FederatedScanMode, FederatedScanRunRecord, LocalFilesystemDocument } from './types.js';
 
 type ExistingDocumentRow = {
   external_id: string;
   hash: string;
 };
+
+export interface ScanSourceOptions {
+  mode?: FederatedScanMode;
+  jobId?: string;
+  isCancelled?: () => boolean;
+}
+
+function throwIfCancelled(isCancelled?: () => boolean): void {
+  if (isCancelled?.()) {
+    throw new AppError('Scan cancelled', 'SCAN_CANCELLED', 409);
+  }
+}
 
 export class FederatedIndexer {
   private readonly sourceRegistry: FederatedSourceRegistry;
@@ -23,7 +35,7 @@ export class FederatedIndexer {
     this.localFilesystemProvider = localFilesystemProvider ?? new LocalFilesystemProvider();
   }
 
-  async scanSource(sourceId: string): Promise<FederatedScanRunRecord> {
+  async scanSource(sourceId: string, options: ScanSourceOptions = {}): Promise<FederatedScanRunRecord> {
     const source = this.sourceRegistry.getSourceById(sourceId);
     if (!source) {
       throw new AppError(`Source not found: ${sourceId}`, 'SOURCE_NOT_FOUND', 404);
@@ -35,46 +47,66 @@ export class FederatedIndexer {
       throw new AppError(`Unsupported source kind: ${source.kind}`, 'UNSUPPORTED_SOURCE_KIND', 400);
     }
 
-    const run = this.sourceRegistry.createScanRun(source.id);
+    throwIfCancelled(options.isCancelled);
+    const run = this.sourceRegistry.createScanRun(source.id, { jobId: options.jobId });
+    const mode = options.mode ?? 'incremental';
 
     try {
-      const scannedDocuments = await this.localFilesystemProvider.scan(source);
-      const summary = this.indexDocuments(source.id, scannedDocuments);
+      const scannedDocuments = await this.localFilesystemProvider.scan(source, {
+        mode,
+        isCancelled: options.isCancelled,
+      });
+      throwIfCancelled(options.isCancelled);
+
+      const summary = this.indexDocuments(source.id, scannedDocuments, {
+        mode,
+        isCancelled: options.isCancelled,
+      });
+      const runStatus = options.isCancelled?.() ? 'cancelled' : 'completed';
 
       this.sourceRegistry.completeScanRun(run.id, {
-        status: 'completed',
+        status: runStatus,
         scannedCount: scannedDocuments.length,
         indexedCount: summary.indexedCount,
         skippedCount: summary.skippedCount,
         errorCount: 0,
         summary: {
           ...summary,
+          mode,
           scannedCount: scannedDocuments.length,
         },
       });
 
       this.sourceRegistry.touchSourceScan(source.id, {
-        status: 'completed',
+        status: runStatus,
         summary: {
           ...summary,
+          mode,
           scannedCount: scannedDocuments.length,
         },
       });
     } catch (error) {
+      const appError = error instanceof AppError ? error : null;
+      const cancelled = appError?.code === 'SCAN_CANCELLED';
       const message = error instanceof Error ? error.message : String(error);
+
       this.sourceRegistry.completeScanRun(run.id, {
-        status: 'failed',
+        status: cancelled ? 'cancelled' : 'failed',
         scannedCount: 0,
         indexedCount: 0,
         skippedCount: 0,
-        errorCount: 1,
-        errorMessage: message,
-        summary: { error: message },
+        errorCount: cancelled ? 0 : 1,
+        errorMessage: cancelled ? undefined : message,
+        summary: cancelled ? { cancelled: true, mode } : { error: message, mode },
       });
       this.sourceRegistry.touchSourceScan(source.id, {
-        status: 'failed',
-        summary: { error: message },
+        status: cancelled ? 'cancelled' : 'failed',
+        summary: cancelled ? { cancelled: true, mode } : { error: message, mode },
       });
+
+      if (error instanceof Error) {
+        (error as { runId?: string }).runId = run.id;
+      }
       throw error;
     }
 
@@ -83,7 +115,8 @@ export class FederatedIndexer {
 
   private indexDocuments(
     sourceId: string,
-    scannedDocuments: LocalFilesystemDocument[]
+    scannedDocuments: LocalFilesystemDocument[],
+    options: { mode: FederatedScanMode; isCancelled?: () => boolean }
   ): { indexedCount: number; skippedCount: number; deletedCount: number } {
     const existingRows = this.db
       .prepare(
@@ -139,6 +172,8 @@ export class FederatedIndexer {
 
     const transaction = this.db.transaction(() => {
       for (const doc of scannedDocuments) {
+        throwIfCancelled(options.isCancelled);
+
         const previousHash = existingHashByExternalId.get(doc.externalId);
         remainingExternalIds.delete(doc.externalId);
 
@@ -164,9 +199,12 @@ export class FederatedIndexer {
         );
       }
 
-      for (const externalId of remainingExternalIds) {
-        const result = deleteByExternalId.run(sourceId, externalId);
-        deletedCount += result.changes;
+      if (options.mode === 'full') {
+        for (const externalId of remainingExternalIds) {
+          throwIfCancelled(options.isCancelled);
+          const result = deleteByExternalId.run(sourceId, externalId);
+          deletedCount += result.changes;
+        }
       }
     });
 

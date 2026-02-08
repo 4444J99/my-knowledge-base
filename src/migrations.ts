@@ -579,5 +579,52 @@ export const coreMigrations: Migration[] = [
         DROP TABLE IF EXISTS federated_sources;
       `);
     }
+  },
+  {
+    version: 8,
+    name: 'add_federated_scan_jobs',
+    up: (db) => {
+      const scanRunColumns = db
+        .prepare('PRAGMA table_info(federated_scan_runs)')
+        .all() as Array<{ name: string }>;
+
+      if (!scanRunColumns.some((column) => column.name === 'job_id')) {
+        db.exec('ALTER TABLE federated_scan_runs ADD COLUMN job_id TEXT');
+      }
+
+      db.exec(`
+        CREATE TABLE IF NOT EXISTS federated_scan_jobs (
+          id TEXT PRIMARY KEY,
+          source_id TEXT NOT NULL,
+          mode TEXT NOT NULL DEFAULT 'incremental',
+          status TEXT NOT NULL,
+          created_at TEXT NOT NULL,
+          started_at TEXT,
+          completed_at TEXT,
+          run_id TEXT,
+          requested_by TEXT,
+          error_message TEXT,
+          meta TEXT NOT NULL DEFAULT '{}',
+          FOREIGN KEY (source_id) REFERENCES federated_sources(id) ON DELETE CASCADE,
+          FOREIGN KEY (run_id) REFERENCES federated_scan_runs(id) ON DELETE SET NULL
+        );
+
+        CREATE INDEX IF NOT EXISTS idx_federated_scan_runs_job
+          ON federated_scan_runs(job_id);
+        CREATE INDEX IF NOT EXISTS idx_federated_scan_jobs_source_created
+          ON federated_scan_jobs(source_id, created_at DESC);
+        CREATE INDEX IF NOT EXISTS idx_federated_scan_jobs_status_created
+          ON federated_scan_jobs(status, created_at DESC);
+      `);
+    },
+    down: (db) => {
+      db.exec(`
+        DROP INDEX IF EXISTS idx_federated_scan_jobs_status_created;
+        DROP INDEX IF EXISTS idx_federated_scan_jobs_source_created;
+        DROP INDEX IF EXISTS idx_federated_scan_runs_job;
+        DROP TABLE IF EXISTS federated_scan_jobs;
+      `);
+      logger.warn('Rollback from migration 8 leaves federated_scan_runs.job_id in place (SQLite limitation)');
+    }
   }
 ];

@@ -5,6 +5,7 @@
 
 import express, { Router, Request, Response, NextFunction } from 'express';
 import { randomUUID } from 'crypto';
+import { resolve } from 'path';
 import { KnowledgeDatabase } from './database.js';
 import { logger, AppError } from './logger.js';
 import { AtomicUnit, EntityRelationship } from './types.js';
@@ -18,9 +19,10 @@ import { HybridSearch, HybridSearchResult } from './hybrid-search.js';
 import { createIntelligenceRouter } from './api-intelligence.js';
 import { AuditLogger } from './audit-log.js';
 import { FederatedIndexer } from './federation/indexer.js';
+import { FederatedScanQueue } from './federation/scan-queue.js';
 import { FederatedSourceRegistry } from './federation/source-registry.js';
 import { FederatedSearchService } from './federation/search.js';
-import { UpdateFederatedSourceInput } from './federation/types.js';
+import { FederatedScanJobStatus, UpdateFederatedSourceInput } from './federation/types.js';
 
 /**
  * API Error response format
@@ -120,6 +122,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
         ip: req.ip,
         userAgent: req.headers['user-agent'] as string,
         durationMs: Date.now() - startTime,
+        meta: (req as any).auditMeta,
       });
     });
     next();
@@ -138,7 +141,20 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
   const presetManager = new FilterPresetManager('./db/filter-presets.json');
   const federatedSourceRegistry = new FederatedSourceRegistry(dbHandle);
   const federatedIndexer = new FederatedIndexer(dbHandle, federatedSourceRegistry);
+  const federatedScanQueue = new FederatedScanQueue(federatedIndexer, federatedSourceRegistry, {
+    concurrency: Math.max(1, Number.parseInt(process.env.FEDERATION_SCAN_CONCURRENCY ?? '1', 10) || 1),
+  });
   const federatedSearch = new FederatedSearchService(dbHandle);
+  const federationAllowedRoots = (process.env.FEDERATION_ALLOWED_ROOTS ?? '')
+    .split(',')
+    .map((entry) => entry.trim())
+    .filter((entry) => entry.length > 0)
+    .map((entry) => resolve(entry));
+  const federationAllowedExtensions = (process.env.FEDERATION_ALLOWED_EXTENSIONS ?? '')
+    .split(',')
+    .map((entry) => entry.trim().toLowerCase())
+    .filter((entry) => entry.length > 0)
+    .map((entry) => (entry.startsWith('.') ? entry : `.${entry}`));
   let hybridSearch: HybridSearch | null = null;
   
   try {
@@ -177,6 +193,49 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
       throw new AppError(`Invalid ${name}`, 'INVALID_PARAMETER', 400);
     }
     return parsed;
+  };
+
+  const parseIsoDateParam = (value: string | undefined, name: string): string | undefined => {
+    if (value === undefined) return undefined;
+    const parsed = new Date(value);
+    if (Number.isNaN(parsed.getTime())) {
+      throw new AppError(`Invalid ${name}`, 'INVALID_PARAMETER', 400);
+    }
+    return parsed.toISOString();
+  };
+
+  const assertFederationAccess = (
+    req: Request,
+    allowedRoles: Array<'viewer' | 'editor' | 'admin' | 'api_client'> = ['viewer', 'editor', 'admin']
+  ): void => {
+    if (!authEnabled) {
+      return;
+    }
+
+    const authContext = (req as any).authContext;
+    if (!authContext?.isAuthenticated) {
+      throw new AppError('Authentication required', 'AUTH_REQUIRED', 401);
+    }
+
+    const roles = authContext?.user?.roles as string[] | undefined;
+    if (!roles || !roles.some((role) => allowedRoles.includes(role as (typeof allowedRoles)[number]))) {
+      throw new AppError('Forbidden', 'ROLE_REQUIRED', 403, { required: allowedRoles });
+    }
+  };
+
+  const assertRootPathAllowed = (rootPath: string): void => {
+    if (federationAllowedRoots.length === 0) {
+      return;
+    }
+    const normalized = resolve(rootPath);
+    const isAllowed = federationAllowedRoots.some(
+      (allowedRoot) => normalized === allowedRoot || normalized.startsWith(`${allowedRoot}/`)
+    );
+    if (!isAllowed) {
+      throw new AppError('rootPath is outside allowed federation roots', 'FEDERATION_ROOT_NOT_ALLOWED', 403, {
+        rootPath: normalized,
+      });
+    }
   };
 
   /**
@@ -1580,6 +1639,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
   router.post(
     '/federation/sources',
     asyncHandler(async (req: Request, res: Response) => {
+      assertFederationAccess(req, ['editor', 'admin', 'api_client']);
       const { name, rootPath, kind, includePatterns, excludePatterns, metadata } = req.body ?? {};
 
       if (typeof name !== 'string' || name.trim().length === 0) {
@@ -1588,6 +1648,8 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
       if (typeof rootPath !== 'string' || rootPath.trim().length === 0) {
         throw new AppError('Source rootPath is required', 'INVALID_ROOT_PATH', 400);
       }
+      const normalizedRootPath = rootPath.trim();
+      assertRootPathAllowed(normalizedRootPath);
       if (kind !== undefined && kind !== 'local-filesystem') {
         throw new AppError('Invalid source kind', 'INVALID_SOURCE_KIND', 400);
       }
@@ -1607,14 +1669,26 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
         throw new AppError('Source metadata must be an object', 'INVALID_METADATA', 400);
       }
 
+      const metadataWithDefaults: Record<string, unknown> = {
+        ...((metadata as Record<string, unknown> | undefined) ?? {}),
+      };
+      if (federationAllowedExtensions.length > 0 && metadataWithDefaults.allowedExtensions === undefined) {
+        metadataWithDefaults.allowedExtensions = federationAllowedExtensions;
+      }
+
       const source = federatedSourceRegistry.createSource({
         name: name.trim(),
-        rootPath: rootPath.trim(),
+        rootPath: normalizedRootPath,
         kind,
         includePatterns: normalizePatterns(includePatterns),
         excludePatterns: normalizePatterns(excludePatterns),
-        metadata: metadata as Record<string, unknown> | undefined,
+        metadata: metadataWithDefaults,
       });
+      (req as any).auditMeta = {
+        sourceId: source.id,
+        action: 'federation_source_created',
+        sourceKind: source.kind,
+      };
 
       res.status(201).json({
         success: true,
@@ -1630,7 +1704,8 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
    */
   router.get(
     '/federation/sources',
-    asyncHandler(async (_req: Request, res: Response) => {
+    asyncHandler(async (req: Request, res: Response) => {
+      assertFederationAccess(req, ['viewer', 'editor', 'admin', 'api_client']);
       const sources = federatedSourceRegistry.listSources();
       res.json({
         success: true,
@@ -1647,6 +1722,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
   router.patch(
     '/federation/sources/:id',
     asyncHandler(async (req: Request, res: Response) => {
+      assertFederationAccess(req, ['editor', 'admin', 'api_client']);
       const { id } = req.params;
       const { name, status, rootPath, includePatterns, excludePatterns, metadata } = req.body ?? {};
       const update: UpdateFederatedSourceInput = {};
@@ -1669,7 +1745,9 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
         if (typeof rootPath !== 'string' || rootPath.trim().length === 0) {
           throw new AppError('rootPath must be a non-empty string', 'INVALID_ROOT_PATH', 400);
         }
-        update.rootPath = rootPath.trim();
+        const normalizedRootPath = rootPath.trim();
+        assertRootPathAllowed(normalizedRootPath);
+        update.rootPath = normalizedRootPath;
       }
 
       const normalizePatterns = (value: unknown): string[] => {
@@ -1694,9 +1772,24 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
           throw new AppError('Source metadata must be an object', 'INVALID_METADATA', 400);
         }
         update.metadata = metadata;
+      } else if (federationAllowedExtensions.length > 0) {
+        const source = federatedSourceRegistry.getSourceById(id);
+        if (source) {
+          update.metadata = {
+            ...source.metadata,
+            allowedExtensions:
+              source.metadata.allowedExtensions !== undefined
+                ? source.metadata.allowedExtensions
+                : federationAllowedExtensions,
+          };
+        }
       }
 
       const source = federatedSourceRegistry.updateSource(id, update);
+      (req as any).auditMeta = {
+        sourceId: source.id,
+        action: 'federation_source_updated',
+      };
       res.json({
         success: true,
         data: source,
@@ -1712,11 +1805,32 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
   router.post(
     '/federation/sources/:id/scan',
     asyncHandler(async (req: Request, res: Response) => {
+      assertFederationAccess(req, ['editor', 'admin', 'api_client']);
       const { id } = req.params;
-      const run = await federatedIndexer.scanSource(id);
+      const modeValue = req.body?.mode;
+      const mode = modeValue === undefined ? 'incremental' : String(modeValue);
+      if (mode !== 'incremental' && mode !== 'full') {
+        throw new AppError('Scan mode must be incremental or full', 'INVALID_SCAN_MODE', 400);
+      }
+
+      const job = federatedScanQueue.enqueueScan(id, {
+        mode,
+        requestedBy: (req as any).authContext?.user?.id ?? null,
+        meta: {
+          requestedAt: new Date().toISOString(),
+          requestedIp: req.ip,
+        },
+      });
+      (req as any).auditMeta = {
+        sourceId: id,
+        jobId: job.id,
+        mode,
+        action: 'federation_scan_enqueued',
+      };
+
       res.status(202).json({
         success: true,
-        data: run,
+        data: job,
         timestamp: new Date().toISOString(),
       } as ApiSuccessResponse<any>);
     })
@@ -1729,6 +1843,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
   router.get(
     '/federation/sources/:id/scans',
     asyncHandler(async (req: Request, res: Response) => {
+      assertFederationAccess(req, ['viewer', 'editor', 'admin', 'api_client']);
       const { id } = req.params;
       const limit = parseIntParam(req.query.limit as string | undefined, 'limit', 20, 1, 100);
       const source = federatedSourceRegistry.getSourceById(id);
@@ -1746,22 +1861,125 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
   );
 
   /**
+   * GET /api/federation/jobs
+   * List scan jobs, optionally filtered by source or status
+   */
+  router.get(
+    '/federation/jobs',
+    asyncHandler(async (req: Request, res: Response) => {
+      assertFederationAccess(req, ['viewer', 'editor', 'admin', 'api_client']);
+
+      const sourceId = req.query.sourceId ? String(req.query.sourceId) : undefined;
+      const status = req.query.status ? String(req.query.status) : undefined;
+      const limit = parseIntParam(req.query.limit as string | undefined, 'limit', 50, 1, 200);
+      const offset = parseIntParam(req.query.offset as string | undefined, 'offset', 0, 0, 100_000);
+
+      const statusFilter = (() => {
+        if (!status) return undefined;
+        const allowed: FederatedScanJobStatus[] = ['queued', 'running', 'completed', 'failed', 'cancelled'];
+        if (!allowed.includes(status as FederatedScanJobStatus)) {
+          throw new AppError('Invalid job status filter', 'INVALID_JOB_STATUS', 400);
+        }
+        return status as FederatedScanJobStatus;
+      })();
+
+      const jobs = federatedScanQueue.listJobs({
+        sourceId,
+        status: statusFilter,
+        limit,
+        offset,
+      });
+
+      res.json({
+        success: true,
+        data: jobs,
+        pagination: {
+          limit,
+          offset,
+          total: jobs.length,
+          totalPages: jobs.length === 0 ? 0 : Math.ceil(jobs.length / limit),
+        },
+        timestamp: new Date().toISOString(),
+      });
+    })
+  );
+
+  /**
+   * GET /api/federation/jobs/:id
+   * Get one scan job by ID
+   */
+  router.get(
+    '/federation/jobs/:id',
+    asyncHandler(async (req: Request, res: Response) => {
+      assertFederationAccess(req, ['viewer', 'editor', 'admin', 'api_client']);
+      const { id } = req.params;
+      const job = federatedScanQueue.getJob(id);
+      if (!job) {
+        throw new AppError(`Scan job not found: ${id}`, 'SCAN_JOB_NOT_FOUND', 404);
+      }
+
+      res.json({
+        success: true,
+        data: job,
+        timestamp: new Date().toISOString(),
+      } as ApiSuccessResponse<any>);
+    })
+  );
+
+  /**
+   * POST /api/federation/jobs/:id/cancel
+   * Cancel a queued/running scan job
+   */
+  router.post(
+    '/federation/jobs/:id/cancel',
+    asyncHandler(async (req: Request, res: Response) => {
+      assertFederationAccess(req, ['editor', 'admin', 'api_client']);
+      const { id } = req.params;
+      const cancelled = federatedScanQueue.cancelJob(id);
+      (req as any).auditMeta = {
+        jobId: id,
+        sourceId: cancelled.sourceId,
+        action: 'federation_scan_cancelled',
+      };
+
+      res.json({
+        success: true,
+        data: cancelled,
+        timestamp: new Date().toISOString(),
+      } as ApiSuccessResponse<any>);
+    })
+  );
+
+  /**
    * GET /api/federation/search
    * Search across indexed federated documents
    */
   router.get(
     '/federation/search',
     asyncHandler(async (req: Request, res: Response) => {
+      assertFederationAccess(req, ['viewer', 'editor', 'admin', 'api_client']);
       const q = req.query.q;
       if (q === undefined || String(q).trim().length === 0) {
         throw new AppError('Search query is required', 'MISSING_QUERY', 400);
       }
 
       const sourceId = req.query.sourceId ? String(req.query.sourceId) : undefined;
+      const mimeType = req.query.mimeType ? String(req.query.mimeType) : undefined;
+      const pathPrefix = req.query.pathPrefix ? String(req.query.pathPrefix) : undefined;
+      const modifiedAfter = parseIsoDateParam(req.query.modifiedAfter as string | undefined, 'modifiedAfter');
+      const modifiedBefore = parseIsoDateParam(req.query.modifiedBefore as string | undefined, 'modifiedBefore');
       const limit = parseIntParam(req.query.limit as string | undefined, 'limit', 20, 1, 100);
       const offset = parseIntParam(req.query.offset as string | undefined, 'offset', 0, 0, 100000);
       const query = String(q);
-      const result = federatedSearch.search(query, { sourceId, limit, offset });
+      const result = federatedSearch.search(query, {
+        sourceId,
+        mimeType,
+        pathPrefix,
+        modifiedAfter,
+        modifiedBefore,
+        limit,
+        offset,
+      });
 
       res.json({
         success: true,
@@ -1775,6 +1993,13 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
         query: {
           original: query,
           normalized: query.toLowerCase(),
+          filters: {
+            sourceId,
+            mimeType,
+            pathPrefix,
+            modifiedAfter,
+            modifiedBefore,
+          },
         },
         timestamp: new Date().toISOString(),
       });

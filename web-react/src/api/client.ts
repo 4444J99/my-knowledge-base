@@ -9,6 +9,7 @@ import type {
   Conversation,
   DashboardStats,
   ExportFormat,
+  FederatedScanJob,
   FederatedScanRun,
   FederatedSearchHit,
   FederatedSource,
@@ -447,12 +448,13 @@ export const federationApi = {
     return asApiResponse((wrapped ?? payload) as FederatedSource);
   },
 
-  scanSource: async (id: string) => {
+  scanSource: async (id: string, mode: 'incremental' | 'full' = 'incremental') => {
     const payload = await requestJson(`/federation/sources/${id}/scan`, {
       method: 'POST',
+      body: JSON.stringify({ mode }),
     });
-    const wrapped = unwrapData<FederatedScanRun>(payload);
-    return asApiResponse((wrapped ?? payload) as FederatedScanRun);
+    const wrapped = unwrapData<FederatedScanJob>(payload);
+    return asApiResponse((wrapped ?? payload) as FederatedScanJob);
   },
 
   listScans: async (id: string, limit: number = 20) => {
@@ -461,7 +463,37 @@ export const federationApi = {
     return asApiResponse(wrapped ?? []);
   },
 
-  search: async (query: string, params?: { sourceId?: string; limit?: number; offset?: number }) => {
+  listJobs: async (params?: {
+    sourceId?: string;
+    status?: FederatedScanJob['status'];
+    limit?: number;
+    offset?: number;
+  }) => {
+    const payload = await requestJson(`/federation/jobs${buildParams(params)}`);
+    const wrapped = unwrapData<FederatedScanJob[]>(payload);
+    return asApiResponse(wrapped ?? []);
+  },
+
+  cancelJob: async (id: string) => {
+    const payload = await requestJson(`/federation/jobs/${id}/cancel`, {
+      method: 'POST',
+    });
+    const wrapped = unwrapData<FederatedScanJob>(payload);
+    return asApiResponse((wrapped ?? payload) as FederatedScanJob);
+  },
+
+  search: async (
+    query: string,
+    params?: {
+      sourceId?: string;
+      mimeType?: string;
+      pathPrefix?: string;
+      modifiedAfter?: string;
+      modifiedBefore?: string;
+      limit?: number;
+      offset?: number;
+    }
+  ) => {
     const payload = await requestJson(`/federation/search${buildParams({ q: query, ...params })}`);
     const wrapped = unwrapData<FederatedSearchHit[]>(payload);
     return asApiResponse(wrapped ?? []);

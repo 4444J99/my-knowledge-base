@@ -27,6 +27,12 @@ export class KnowledgeDatabase {
     return columns.some(col => col.name === columnName);
   }
 
+  private hasTableColumn(tableName: string, columnName: string): boolean {
+    const stmt = this.db.prepare(`PRAGMA table_info(${tableName})`);
+    const columns = stmt.all() as Array<{ name: string }>;
+    return columns.some((col) => col.name === columnName);
+  }
+
   private initSchema() {
     // Main atomic units table
     this.db.exec(`
@@ -158,6 +164,7 @@ export class KnowledgeDatabase {
       CREATE TABLE IF NOT EXISTS federated_scan_runs (
         id TEXT PRIMARY KEY,
         source_id TEXT NOT NULL,
+        job_id TEXT,
         status TEXT NOT NULL,
         scanned_count INTEGER NOT NULL DEFAULT 0,
         indexed_count INTEGER NOT NULL DEFAULT 0,
@@ -168,6 +175,22 @@ export class KnowledgeDatabase {
         error_message TEXT,
         summary TEXT NOT NULL DEFAULT '{}',
         FOREIGN KEY (source_id) REFERENCES federated_sources(id) ON DELETE CASCADE
+      );
+
+      CREATE TABLE IF NOT EXISTS federated_scan_jobs (
+        id TEXT PRIMARY KEY,
+        source_id TEXT NOT NULL,
+        mode TEXT NOT NULL DEFAULT 'incremental',
+        status TEXT NOT NULL,
+        created_at TEXT NOT NULL,
+        started_at TEXT,
+        completed_at TEXT,
+        run_id TEXT,
+        requested_by TEXT,
+        error_message TEXT,
+        meta TEXT NOT NULL DEFAULT '{}',
+        FOREIGN KEY (source_id) REFERENCES federated_sources(id) ON DELETE CASCADE,
+        FOREIGN KEY (run_id) REFERENCES federated_scan_runs(id) ON DELETE SET NULL
       );
     `);
 
@@ -197,6 +220,10 @@ export class KnowledgeDatabase {
     ensureRelColumn('explanation', 'TEXT');
     ensureRelColumn('created_at', 'TEXT');
 
+    if (!this.hasTableColumn('federated_scan_runs', 'job_id')) {
+      this.db.exec('ALTER TABLE federated_scan_runs ADD COLUMN job_id TEXT');
+    }
+
     this.db.exec(`
       CREATE INDEX IF NOT EXISTS idx_units_created ON atomic_units(created);
       CREATE INDEX IF NOT EXISTS idx_units_category ON atomic_units(category);
@@ -208,6 +235,9 @@ export class KnowledgeDatabase {
       CREATE INDEX IF NOT EXISTS idx_federated_documents_path ON federated_documents(path);
       CREATE INDEX IF NOT EXISTS idx_federated_documents_indexed ON federated_documents(indexed_at DESC);
       CREATE INDEX IF NOT EXISTS idx_federated_scan_runs_source_started ON federated_scan_runs(source_id, started_at DESC);
+      CREATE INDEX IF NOT EXISTS idx_federated_scan_runs_job ON federated_scan_runs(job_id);
+      CREATE INDEX IF NOT EXISTS idx_federated_scan_jobs_source_created ON federated_scan_jobs(source_id, created_at DESC);
+      CREATE INDEX IF NOT EXISTS idx_federated_scan_jobs_status_created ON federated_scan_jobs(status, created_at DESC);
     `);
 
     if (this.hasAtomicUnitColumn('parent_section_id')) {

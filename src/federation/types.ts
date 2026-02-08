@@ -1,6 +1,8 @@
 export type FederatedSourceKind = 'local-filesystem';
 export type FederatedSourceStatus = 'active' | 'disabled';
-export type FederatedScanStatus = 'running' | 'completed' | 'failed';
+export type FederatedScanStatus = 'running' | 'completed' | 'failed' | 'cancelled';
+export type FederatedScanMode = 'incremental' | 'full';
+export type FederatedScanJobStatus = 'queued' | 'running' | 'completed' | 'failed' | 'cancelled';
 
 export interface FederatedSourceRecord {
   id: string;
@@ -36,6 +38,7 @@ export interface FederatedDocumentRecord {
 export interface FederatedScanRunRecord {
   id: string;
   sourceId: string;
+  jobId: string | null;
   status: FederatedScanStatus;
   scannedCount: number;
   indexedCount: number;
@@ -45,6 +48,20 @@ export interface FederatedScanRunRecord {
   completedAt: string | null;
   errorMessage: string | null;
   summary: Record<string, unknown>;
+}
+
+export interface FederatedScanJobRecord {
+  id: string;
+  sourceId: string;
+  mode: FederatedScanMode;
+  status: FederatedScanJobStatus;
+  createdAt: string;
+  startedAt: string | null;
+  completedAt: string | null;
+  runId: string | null;
+  requestedBy: string | null;
+  errorMessage: string | null;
+  meta: Record<string, unknown>;
 }
 
 export interface CreateFederatedSourceInput {
@@ -84,6 +101,7 @@ export interface FederatedSearchItem {
   path: string;
   title: string;
   snippet: string;
+  score: number;
   mimeType: string | null;
   modifiedAt: string | null;
   indexedAt: string;
