@@ -17,11 +17,17 @@ export class EmbeddingsService {
   constructor() {
     const appConfig = getConfig().getAll();
     const embeddingConfig = appConfig.embedding || appConfig.embeddings || {};
-    
-    this.provider = AIFactory.createProvider(embeddingConfig.provider || 'openai', {
-      provider: embeddingConfig.provider || 'openai',
+
+    const providerType = embeddingConfig.provider || 'openai';
+    const baseUrl = providerType === 'local'
+      ? appConfig.llm?.baseUrl || 'http://localhost:11434/v1'
+      : undefined;
+    const apiKey = providerType === 'openai' ? process.env.OPENAI_API_KEY : undefined; // allow-secret: env var reference only
+
+    this.provider = AIFactory.createProvider(providerType, {
+      apiKey,
       model: embeddingConfig.model || 'text-embedding-3-small',
-      baseUrl: embeddingConfig.baseUrl
+      baseUrl
     });
     
     this.model = embeddingConfig.model || 'text-embedding-3-small';

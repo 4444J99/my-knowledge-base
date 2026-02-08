@@ -27,6 +27,13 @@ export interface EmbeddingConfig {
   useCache?: boolean;
 }
 
+export interface LlmConfig {
+  provider?: 'anthropic' | 'openai' | 'ollama' | 'local' | 'custom';
+  apiKey?: string;
+  baseUrl?: string;
+  model?: string;
+}
+
 export interface ClaudeConfig {
   model?: string;
   temperature?: number;
@@ -66,6 +73,7 @@ export interface RedactionConfig {
 }
 
 export interface AppConfig {
+  llm?: LlmConfig;
   export?: ExportConfig;
   embedding?: EmbeddingConfig;
   embeddings?: EmbeddingConfig;
