@@ -68,7 +68,44 @@
 - Apply new defaults to existing Apple Notes HTML:
 - `npm run reprocess:documents -- --source apple-notes --format html --limit 200 --save --yes`
 
+## Release Hardening Checklist
+- Confirm branch and commit target: `git rev-parse --abbrev-ref HEAD` and `git log --oneline -n 1`.
+- Run compile gate: `npm run build`.
+- Run test gates: `npm run test:ci` and `npm run test:coverage`.
+- Run production-like startup checks:
+- `ENABLE_AUTH=true NODE_ENV=production node dist/web-server.js` should fail fast without `JWT_SECRET`.
+- `ENABLE_AUTH=true JWT_SECRET=<secret> NODE_ENV=production node dist/web-server.js` should start cleanly.
+- Run API smoke checks against compiled runtime (`npm run start` or `node dist/web-server.js`):
+- `GET /api/health`
+- `GET /api/search?q=&page=1&pageSize=1` and `GET /api/search?q=&page=2&pageSize=1`
+- `GET /api/search/semantic?q=...`
+- `GET /api/search/hybrid?q=...`
+- `GET /api/search/fts?q=...`
+- Publish release notes in `docs/RELEASE_NOTES_<YYYY-MM-DD>.md` with test evidence and residual risks.
+
+## Rollback Triggers
+- Trigger rollback when any condition below is true:
+- `5xx` rate for search endpoints exceeds `2%` for `10` consecutive minutes.
+- `query.degradedMode=true` appears in more than `30%` of semantic or hybrid requests for `15` consecutive minutes.
+- Auth startup failures tied to `JWT_SECRET` configuration block service recovery beyond `10` minutes.
+- P95 latency for `/api/search`, `/api/search/semantic`, or `/api/search/hybrid` exceeds `3000ms` for `15` consecutive minutes.
+
+## Rollback Procedure
+- Identify the current release commit and previous stable commit:
+- `git log --oneline -n 5`
+- Roll back with a revert commit:
+- `git revert --no-edit <release-commit-sha>`
+- Rebuild and run minimum validation:
+- `npm run build`
+- `npm run test:ci`
+- Start runtime and verify:
+- `GET /api/health`
+- `GET /api/search?q=test&page=1&pageSize=5`
+- `GET /api/search/semantic?q=test&page=1&pageSize=5`
+- `GET /api/search/hybrid?q=test&page=1&pageSize=5`
+
 ## References
 - `docs/MONITORING.md`
 - `docs/TROUBLESHOOTING.md`
+- `docs/RELEASE_NOTES_2026-02-09.md`
 - `src/web-server.ts`
