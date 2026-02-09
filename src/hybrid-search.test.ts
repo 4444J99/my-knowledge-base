@@ -100,6 +100,7 @@ describe('HybridSearch Filters', () => {
     db.close();
 
     hybridSearch = new HybridSearch(TEST_DB, TEST_VECTOR_DB);
+    vi.spyOn(hybridSearch['vectorDb'], 'init').mockResolvedValue();
     
     // Mock Vector DB search to return both units
     vi.spyOn(hybridSearch['vectorDb'], 'searchByEmbedding').mockResolvedValue([

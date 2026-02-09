@@ -51,6 +51,8 @@ export class EmbeddingsService {
   private provider: AIProvider;
   private model: string;
   private batchSize: number;
+  private dimensions: number;
+  private maxTokens: number;
 
   constructor() {
     const appConfig = getConfig().getAll();
@@ -60,6 +62,8 @@ export class EmbeddingsService {
     if (process.env.KB_EMBEDDINGS_PROVIDER === 'mock') {
       this.provider = new DeterministicMockEmbeddingProvider();
       this.model = 'mock-embeddings';
+      this.dimensions = 1536;
+      this.maxTokens = 8191;
       return;
     }
 
@@ -74,8 +78,41 @@ export class EmbeddingsService {
       model: embeddingConfig.model || 'text-embedding-3-small',
       baseUrl
     });
-    
+
     this.model = embeddingConfig.model || 'text-embedding-3-small';
+    const profile = this.resolveModelProfile(this.model, embeddingConfig.maxTokens);
+    this.dimensions = profile.dimensions;
+    this.maxTokens = profile.maxTokens;
+  }
+
+  private resolveModelProfile(model: string, configuredMaxTokens?: number): { dimensions: number; maxTokens: number } {
+    const normalized = model.toLowerCase();
+
+    if (normalized.includes('nomic-embed-text')) {
+      return {
+        dimensions: 768,
+        maxTokens: configuredMaxTokens ?? 1024,
+      };
+    }
+
+    if (normalized.includes('text-embedding-3-large')) {
+      return {
+        dimensions: 3072,
+        maxTokens: configuredMaxTokens ?? 8191,
+      };
+    }
+
+    if (normalized.includes('text-embedding-3-small') || normalized.includes('mock-embeddings')) {
+      return {
+        dimensions: 1536,
+        maxTokens: configuredMaxTokens ?? 8191,
+      };
+    }
+
+    return {
+      dimensions: 1536,
+      maxTokens: configuredMaxTokens ?? 2000,
+    };
   }
 
   /**
@@ -83,7 +120,7 @@ export class EmbeddingsService {
    */
   async generateEmbedding(text: string): Promise<number[]> {
     try {
-      const embeddings = await this.provider.embed([text]);
+      const embeddings = await this.provider.embed([text], { model: this.model });
       return embeddings[0];
     } catch (error) {
       console.error('Error generating embedding:', error);
@@ -104,7 +141,7 @@ export class EmbeddingsService {
       console.log(`Generating embeddings for batch ${Math.floor(i / this.batchSize) + 1}/${Math.ceil(texts.length / this.batchSize)}`);
 
       try {
-        const batchEmbeddings = await this.provider.embed(batch);
+        const batchEmbeddings = await this.provider.embed(batch, { model: this.model });
         embeddings.push(...batchEmbeddings);
 
         // Small delay to avoid rate limits
@@ -123,9 +160,10 @@ export class EmbeddingsService {
   /**
    * Prepare text for embedding (truncate if too long)
    */
-  prepareText(text: string, maxTokens: number = 8191): string {
+  prepareText(text: string, maxTokens?: number): string {
+    const tokenBudget = maxTokens ?? this.maxTokens;
     // Rough estimation: 1 token ≈ 4 characters
-    const maxChars = maxTokens * 4;
+    const maxChars = tokenBudget * 4;
 
     if (text.length > maxChars) {
       return text.slice(0, maxChars);
@@ -140,8 +178,8 @@ export class EmbeddingsService {
   getModelInfo() {
     return {
       model: this.model,
-      dimensions: this.model.includes('small') ? 1536 : 3072, // Rough default
-      maxTokens: 8191,
+      dimensions: this.dimensions,
+      maxTokens: this.maxTokens,
       cost: 'Local/Configured Provider',
     };
   }

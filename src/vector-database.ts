@@ -4,7 +4,6 @@
 
 import { ChromaClient, Collection } from 'chromadb';
 import { AtomicUnit } from './types.js';
-import { join, isAbsolute } from 'path';
 
 export interface VectorSearchResult {
   unit: AtomicUnit;
@@ -16,10 +15,11 @@ export class VectorDatabase {
   private client: ChromaClient;
   private collection?: Collection;
   private collectionName: string = 'knowledge_units';
+  private endpoint: string;
 
-  constructor(path: string = './atomized/embeddings/chroma') {
-    const absolutePath = isAbsolute(path) ? path : join(process.cwd(), path);
-    this.client = new ChromaClient({ path: absolutePath });
+  constructor(endpointOrLegacyPath: string = './atomized/embeddings/chroma') {
+    this.endpoint = this.resolveEndpoint(endpointOrLegacyPath);
+    this.client = new ChromaClient({ path: this.endpoint });
   }
 
   /**
@@ -36,11 +36,50 @@ export class VectorDatabase {
         },
       });
 
-      console.log('✅ Vector database initialized');
+      console.log(`✅ Vector database initialized (${this.endpoint})`);
     } catch (error) {
-      console.error('Error initializing vector database:', error);
+      console.error(`Error initializing vector database (${this.endpoint}):`, error);
       throw error;
     }
+  }
+
+  /**
+   * Resolve Chroma endpoint from explicit args or environment.
+   * Chroma JS client expects an HTTP endpoint (not a filesystem path).
+   */
+  private resolveEndpoint(endpointOrLegacyPath: string): string {
+    const explicitEndpoint = endpointOrLegacyPath.trim();
+    const chromaUrl = process.env.CHROMA_URL?.trim();
+    const chromaHost = process.env.CHROMA_HOST?.trim();
+    const chromaPort = process.env.CHROMA_PORT?.trim();
+
+    const normalize = (value: string): string => value.replace(/\/+$/, '');
+    const isHttpUrl = (value: string): boolean => /^https?:\/\//i.test(value);
+
+    if (isHttpUrl(explicitEndpoint)) {
+      return normalize(explicitEndpoint);
+    }
+
+    if (chromaUrl && isHttpUrl(chromaUrl)) {
+      return normalize(chromaUrl);
+    }
+
+    if (chromaHost) {
+      const host = isHttpUrl(chromaHost) ? chromaHost : `http://${chromaHost}`;
+      const hasPort = /:\d+$/.test(host);
+      return normalize(hasPort || !chromaPort ? host : `${host}:${chromaPort}`);
+    }
+
+    if (chromaPort) {
+      return `http://127.0.0.1:${chromaPort}`;
+    }
+
+    // Legacy local filesystem paths are treated as "use default endpoint".
+    return 'http://127.0.0.1:8000';
+  }
+
+  getEndpoint(): string {
+    return this.endpoint;
   }
 
   /**

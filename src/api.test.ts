@@ -563,6 +563,20 @@ describe('REST API', () => {
       expect(Array.isArray(response.body.results)).toBe(true);
       expect(response.body.count).toBeLessThanOrEqual(1);
     });
+
+    it('should align retrieval order with /api/search for equivalent query params', async () => {
+      const canonical = await request(app)
+        .get('/api/search?q=Legacy&page=1&pageSize=2')
+        .expect(200);
+
+      const legacy = await request(app)
+        .get('/api/search/fts?q=Legacy&page=1&limit=2')
+        .expect(200);
+
+      expect(legacy.body.results.map((unit: any) => unit.id))
+        .toEqual(canonical.body.results.map((unit: any) => unit.id));
+      expect(legacy.body.pagination.total).toBe(canonical.body.pagination.total);
+    });
   });
 
   describe('GET /api/stats', () => {

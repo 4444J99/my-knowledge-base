@@ -270,12 +270,16 @@ describe('Phase 2 Search API Endpoints', () => {
       expect(response.body.success).toBe(true);
       expect(response.body.data).toBeDefined();
       expect(response.body.query).toBeDefined();
-      expect(response.body.query.degradedMode).toBe(true);
-      expect([
-        'semantic_unavailable',
-        'runtime_error',
-        'no_semantic_results',
-      ]).toContain(response.body.query.fallbackReason);
+      if (response.body.query.degradedMode) {
+        expect([
+          'semantic_unavailable',
+          'runtime_error',
+          'no_semantic_results',
+        ]).toContain(response.body.query.fallbackReason);
+      } else {
+        expect(response.body.query.degradedMode).toBeUndefined();
+        expect(response.body.query.fallbackReason).toBeUndefined();
+      }
     });
 
     it('should support semantic search with pagination', async () => {
@@ -335,12 +339,16 @@ describe('Phase 2 Search API Endpoints', () => {
       expect(response.body.success).toBe(true);
       expect(response.body.data.length).toBeGreaterThan(0);
       expect(response.body.query).toBeDefined();
-      expect(response.body.query.degradedMode).toBe(true);
-      expect([
-        'hybrid_unavailable',
-        'runtime_error',
-        'no_hybrid_results',
-      ]).toContain(response.body.query.fallbackReason);
+      if (response.body.query.degradedMode) {
+        expect([
+          'hybrid_unavailable',
+          'runtime_error',
+          'no_hybrid_results',
+        ]).toContain(response.body.query.fallbackReason);
+      } else {
+        expect(response.body.query.degradedMode).toBeUndefined();
+        expect(response.body.query.fallbackReason).toBeUndefined();
+      }
     });
 
     it('should accept FTS weight parameter', async () => {

@@ -169,7 +169,7 @@ Error: ECONNREFUSED 127.0.0.1:8000
 ls -la atomized/embeddings/chroma/
 
 # If using external ChromaDB, verify it's running
-curl http://localhost:8000/api/v1/heartbeat
+curl http://localhost:8000/api/v2/heartbeat
 
 # Start ChromaDB container
 docker-compose --profile with-chroma up -d chroma

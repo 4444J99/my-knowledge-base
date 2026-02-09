@@ -27,7 +27,7 @@ async function main() {
                    (args.indexOf('--limit') !== -1 ? args[args.indexOf('--limit') + 1] : '100000');
   const limit = parseInt(limitArg, 10);
   
-  const allUnits = db.searchText('*', limit); // Get units with limit
+  const allUnits = db.getUnitsForGraph({ limit }); // Get units with limit
 
   if (allUnits.length === 0) {
     console.log('⚠️  No units found in database. Export some conversations first.');

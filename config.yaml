@@ -9,3 +9,4 @@ embedding:
   model: "nomic-embed-text"
   batchSize: 50
   useCache: true
+  maxTokens: 1024

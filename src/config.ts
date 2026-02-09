@@ -25,6 +25,7 @@ export interface EmbeddingConfig {
   batchSize?: number;
   cachePath?: string;
   useCache?: boolean;
+  maxTokens?: number;
 }
 
 export interface LlmConfig {
@@ -117,7 +118,8 @@ export const DEFAULT_CONFIG: AppConfig = {
     provider: 'openai',
     batchSize: 100,
     cachePath: './cache/embeddings',
-    useCache: true
+    useCache: true,
+    maxTokens: 8191
   },
   claude: {
     model: 'claude-3-5-sonnet-20241022',
@@ -386,6 +388,10 @@ export class ConfigManager {
       errors.push('Embedding batch size must be at least 1');
     }
 
+    if (this.config.embedding?.maxTokens && this.config.embedding.maxTokens < 1) {
+      errors.push('Embedding maxTokens must be at least 1');
+    }
+
     // Validate model
     if (this.config.claude?.model && typeof this.config.claude.model !== 'string') {
       errors.push('Claude model must be a string');
@@ -463,7 +469,8 @@ export function createExampleConfig(outputPath: string = './config.example.yaml'
       provider: 'openai',
       batchSize: 100,
       cachePath: './cache/embeddings',
-      useCache: true
+      useCache: true,
+      maxTokens: 8191
     },
     claude: {
       model: 'claude-3-5-sonnet-20241022',

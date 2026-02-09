@@ -65,7 +65,9 @@ describe('EmbeddingsService', () => {
     const embedding = await service.generateEmbedding('hello');
 
     expect(embedding).toEqual([0.1, 0.2]);
-    expect(embedMock).toHaveBeenCalledWith(['hello']);
+    expect(embedMock).toHaveBeenCalledWith(['hello'], {
+      model: 'text-embedding-3-small',
+    });
     expect(createProviderMock).toHaveBeenCalledWith(
       'openai',
       expect.objectContaining({
@@ -86,8 +88,12 @@ describe('EmbeddingsService', () => {
 
     expect(embeddings).toEqual([[0.1], [0.2], [0.3]]);
     expect(embedMock).toHaveBeenCalledTimes(2);
-    expect(embedMock).toHaveBeenNthCalledWith(1, ['a', 'b']);
-    expect(embedMock).toHaveBeenNthCalledWith(2, ['c']);
+    expect(embedMock).toHaveBeenNthCalledWith(1, ['a', 'b'], {
+      model: 'text-embedding-3-small',
+    });
+    expect(embedMock).toHaveBeenNthCalledWith(2, ['c'], {
+      model: 'text-embedding-3-small',
+    });
   });
 
   it('truncates long text based on token budget', () => {

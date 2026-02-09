@@ -1,4 +1,4 @@
-import { beforeEach, describe, expect, it, vi } from 'vitest';
+import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
 import { VectorDatabase } from './vector-database.js';
 import { AtomicUnit } from './types.js';
 
@@ -21,13 +21,53 @@ vi.mock('chromadb', () => {
 });
 
 describe('VectorDatabase', () => {
+  const originalChromaUrl = process.env.CHROMA_URL;
+  const originalChromaHost = process.env.CHROMA_HOST;
+  const originalChromaPort = process.env.CHROMA_PORT;
+
   beforeEach(() => {
+    delete process.env.CHROMA_URL;
+    delete process.env.CHROMA_HOST;
+    delete process.env.CHROMA_PORT;
+
     getOrCreateCollectionMock.mockReset();
     collectionMock.add.mockReset();
     collectionMock.update.mockReset();
     collectionMock.query.mockReset();
     collectionMock.count.mockReset();
     getOrCreateCollectionMock.mockResolvedValue(collectionMock);
+  });
+
+  afterEach(() => {
+    if (originalChromaUrl === undefined) {
+      delete process.env.CHROMA_URL;
+    } else {
+      process.env.CHROMA_URL = originalChromaUrl;
+    }
+
+    if (originalChromaHost === undefined) {
+      delete process.env.CHROMA_HOST;
+    } else {
+      process.env.CHROMA_HOST = originalChromaHost;
+    }
+
+    if (originalChromaPort === undefined) {
+      delete process.env.CHROMA_PORT;
+    } else {
+      process.env.CHROMA_PORT = originalChromaPort;
+    }
+  });
+
+  it('uses explicit HTTP endpoint when provided', () => {
+    const db = new VectorDatabase('http://localhost:9000');
+    expect(db.getEndpoint()).toBe('http://localhost:9000');
+  });
+
+  it('uses CHROMA_URL when legacy path is provided', () => {
+    process.env.CHROMA_URL = 'http://localhost:8100';
+
+    const db = new VectorDatabase('./atomized/embeddings/chroma');
+    expect(db.getEndpoint()).toBe('http://localhost:8100');
   });
 
   it('initializes the collection', async () => {

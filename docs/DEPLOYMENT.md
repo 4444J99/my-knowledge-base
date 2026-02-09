@@ -35,6 +35,7 @@ LOG_LEVEL=info                  # Log verbosity: debug, info, warn, error
 BACKUP_ENCRYPTION_KEY=<32-byte-base64-or-hex>  # Encrypted backup key
 
 # ChromaDB (optional, for external vector DB)
+CHROMA_URL=http://localhost:8000
 CHROMA_HOST=localhost
 CHROMA_PORT=8000
 ```
@@ -58,6 +59,9 @@ NODE_ENV=production npm run start
 
 # Verify
 curl http://localhost:3000/api/health
+
+# Verify semantic/hybrid runtime readiness
+npm run readiness:semantic
 ```
 
 ---

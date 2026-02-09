@@ -156,6 +156,70 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
     }
   };
 
+  const runFtsSearch = (
+    query: string,
+    page: number,
+    pageSize: number
+  ): { results: AtomicUnit[]; total: number; offset: number } => {
+    const offset = (page - 1) * pageSize;
+
+    if (query.length === 0) {
+      const total = (dbHandle.prepare('SELECT COUNT(*) as count FROM atomic_units').get() as { count: number }).count;
+      const results = dbHandle.prepare(`
+        SELECT * FROM atomic_units
+        ORDER BY created DESC
+        LIMIT ? OFFSET ?
+      `).all(pageSize, offset) as AtomicUnit[];
+      return { results, total, offset };
+    }
+
+    try {
+      const searchResult = db.searchTextPaginated(query, offset, pageSize);
+      return {
+        results: searchResult.results,
+        total: searchResult.total,
+        offset,
+      };
+    } catch {
+      const searchTerm = `%${query}%`;
+      const total = (dbHandle.prepare(`
+        SELECT COUNT(*) as count FROM atomic_units
+        WHERE title LIKE ? OR content LIKE ?
+      `).get(searchTerm, searchTerm) as { count: number }).count;
+      const results = dbHandle.prepare(`
+        SELECT * FROM atomic_units
+        WHERE title LIKE ? OR content LIKE ?
+        ORDER BY created DESC
+        LIMIT ? OFFSET ?
+      `).all(searchTerm, searchTerm, pageSize, offset) as AtomicUnit[];
+
+      return { results, total, offset };
+    }
+  };
+
+  const classifySearchFallbackReason = (
+    error: unknown,
+    unavailableReason: Extract<SearchFallbackReason, 'semantic_unavailable' | 'hybrid_unavailable'>
+  ): SearchFallbackReason => {
+    const message = error instanceof Error ? error.message.toLowerCase() : String(error).toLowerCase();
+    const unavailableSignals = [
+      'collection not initialized',
+      'could not connect to tenant',
+      'failed to parse url',
+      'api key',
+      'unauthorized',
+      'ecconnrefused',
+      'fetch failed',
+      'network',
+    ];
+
+    if (unavailableSignals.some(signal => message.includes(signal))) {
+      return unavailableReason;
+    }
+
+    return 'runtime_error';
+  };
+
   /**
    * GET /api/search
    * Enhanced full-text search with caching, analytics, and facets
@@ -209,37 +273,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
         return;
       }
 
-      // Full-text search
-      const offset = (page - 1) * pageSize;
-      let results: AtomicUnit[] = [];
-      let total = 0;
-
-      if (query.length === 0) {
-        total = (dbHandle.prepare('SELECT COUNT(*) as count FROM atomic_units').get() as { count: number }).count;
-        results = dbHandle.prepare(`
-          SELECT * FROM atomic_units
-          ORDER BY created DESC
-          LIMIT ? OFFSET ?
-        `).all(pageSize, offset) as AtomicUnit[];
-      } else {
-        try {
-          const searchResult = db.searchTextPaginated(query, offset, pageSize);
-          results = searchResult.results;
-          total = searchResult.total;
-        } catch (error) {
-          const searchTerm = `%${query}%`;
-          total = (dbHandle.prepare(`
-            SELECT COUNT(*) as count FROM atomic_units
-            WHERE title LIKE ? OR content LIKE ?
-          `).get(searchTerm, searchTerm) as { count: number }).count;
-          results = dbHandle.prepare(`
-            SELECT * FROM atomic_units
-            WHERE title LIKE ? OR content LIKE ?
-            ORDER BY created DESC
-            LIMIT ? OFFSET ?
-          `).all(searchTerm, searchTerm, pageSize, offset) as AtomicUnit[];
-        }
-      }
+      const { results, total, offset } = runFtsSearch(query, page, pageSize);
 
       // Get facets if requested
       let facets: any[] = [];
@@ -337,7 +371,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
           results = hybridResults.map(r => r.unit);
         } catch (error) {
           degradedMode = true;
-          fallbackReason = 'runtime_error';
+          fallbackReason = classifySearchFallbackReason(error, 'semantic_unavailable');
           logger.warn('Semantic search failed, falling back to FTS');
         }
       } else {
@@ -489,7 +523,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
           results = hybridResults.map(r => r.unit);
         } catch (error) {
           degradedMode = true;
-          fallbackReason = 'runtime_error';
+          fallbackReason = classifySearchFallbackReason(error, 'hybrid_unavailable');
           logger.warn('Hybrid search failed, falling back to FTS');
         }
       } else {
@@ -1046,20 +1080,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
         throw new AppError('Search query is required', 'MISSING_QUERY', 400);
       }
 
-      const offset = (page - 1) * pageSize;
-      const searchTerm = `%${query}%`;
-
-      const total = (db['db'].prepare(`
-        SELECT COUNT(*) as count FROM atomic_units
-        WHERE title LIKE ? OR content LIKE ?
-      `).get(searchTerm, searchTerm) as { count: number }).count;
-
-      const results = db['db'].prepare(`
-        SELECT * FROM atomic_units
-        WHERE title LIKE ? OR content LIKE ?
-        ORDER BY timestamp DESC
-        LIMIT ? OFFSET ?
-      `).all(searchTerm, searchTerm, pageSize, offset) as AtomicUnit[];
+      const { results, total, offset } = runFtsSearch(query, page, pageSize);
 
       res.json({
         success: true,

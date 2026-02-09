@@ -20,6 +20,7 @@ export class HybridSearch {
   private embeddingsService: EmbeddingsService;
   private vectorDb: VectorDatabase;
   private ownsDbConnection: boolean;
+  private initPromise: Promise<void> | null = null;
 
   constructor(
     dbPathOrInstance: string | KnowledgeDatabase = './db/knowledge.db',
@@ -37,7 +38,14 @@ export class HybridSearch {
   }
 
   async init() {
-    await this.vectorDb.init();
+    if (!this.initPromise) {
+      this.initPromise = this.vectorDb.init().catch(error => {
+        this.initPromise = null;
+        throw error;
+      });
+    }
+
+    await this.initPromise;
   }
 
   /**
@@ -54,6 +62,8 @@ export class HybridSearch {
       format?: string;
     } = {}
   ): Promise<HybridSearchResult[]> {
+    await this.init();
+
     // Increase fetch limit to account for filtering
     const fetchLimit = limit * 5;
 
@@ -218,6 +228,10 @@ export class HybridSearch {
    */
   getStats() {
     return this.db.getStats();
+  }
+
+  getVectorEndpoint(): string {
+    return this.vectorDb.getEndpoint();
   }
 
   close() {
