@@ -15,6 +15,10 @@ function isFinalStatus(status: FederatedScanJobStatus): boolean {
   return status === 'completed' || status === 'failed' || status === 'cancelled';
 }
 
+function isDatabaseClosedError(error: unknown): boolean {
+  return error instanceof Error && /database connection is not open/i.test(error.message);
+}
+
 export class FederatedScanQueue {
   private readonly concurrency: number;
   private readonly queuedJobIds = new Set<string>();
@@ -100,31 +104,38 @@ export class FederatedScanQueue {
   }
 
   private async pump(): Promise<void> {
-    while (this.activeCount < this.concurrency) {
-      const nextJobId = this.takeNextQueuedJobId();
-      if (!nextJobId) {
+    try {
+      while (this.activeCount < this.concurrency) {
+        const nextJobId = this.takeNextQueuedJobId();
+        if (!nextJobId) {
+          return;
+        }
+
+        const job = this.sourceRegistry.getScanJobById(nextJobId);
+        if (!job || isFinalStatus(job.status)) {
+          continue;
+        }
+
+        const started = this.sourceRegistry.startScanJob(job.id);
+        if (started.status !== 'running') {
+          continue;
+        }
+
+        const state: ActiveScanState = { cancelled: false };
+        this.activeByJobId.set(job.id, state);
+        this.activeCount += 1;
+
+        void this.execute(job.id, started.sourceId, started.mode, state).finally(() => {
+          this.activeByJobId.delete(job.id);
+          this.activeCount = Math.max(0, this.activeCount - 1);
+          this.schedulePump();
+        });
+      }
+    } catch (error) {
+      if (isDatabaseClosedError(error)) {
         return;
       }
-
-      const job = this.sourceRegistry.getScanJobById(nextJobId);
-      if (!job || isFinalStatus(job.status)) {
-        continue;
-      }
-
-      const started = this.sourceRegistry.startScanJob(job.id);
-      if (started.status !== 'running') {
-        continue;
-      }
-
-      const state: ActiveScanState = { cancelled: false };
-      this.activeByJobId.set(job.id, state);
-      this.activeCount += 1;
-
-      void this.execute(job.id, started.sourceId, started.mode, state).finally(() => {
-        this.activeByJobId.delete(job.id);
-        this.activeCount = Math.max(0, this.activeCount - 1);
-        this.schedulePump();
-      });
+      throw error;
     }
   }
 
@@ -143,6 +154,25 @@ export class FederatedScanQueue {
     state: ActiveScanState
   ): Promise<void> {
     let runId: string | null = null;
+    const finalizeJob = (status: 'completed' | 'failed' | 'cancelled', params: {
+      runId: string | null;
+      errorMessage?: string;
+      meta?: Record<string, unknown>;
+    }): void => {
+      try {
+        this.sourceRegistry.completeScanJob(jobId, {
+          status,
+          runId: params.runId,
+          errorMessage: params.errorMessage,
+          meta: params.meta,
+        });
+      } catch (error) {
+        if (isDatabaseClosedError(error)) {
+          return;
+        }
+        throw error;
+      }
+    };
 
     try {
       const run = await this.indexer.scanSource(sourceId, {
@@ -153,16 +183,14 @@ export class FederatedScanQueue {
       runId = run.id;
 
       if (state.cancelled) {
-        this.sourceRegistry.completeScanJob(jobId, {
-          status: 'cancelled',
+        finalizeJob('cancelled', {
           runId,
           errorMessage: 'Cancelled by user',
         });
         return;
       }
 
-      this.sourceRegistry.completeScanJob(jobId, {
-        status: 'completed',
+      finalizeJob('completed', {
         runId,
         meta: {
           runStatus: run.status,
@@ -177,8 +205,7 @@ export class FederatedScanQueue {
       runId = errorRunId ?? runId;
 
       if (state.cancelled || appError?.code === 'SCAN_CANCELLED') {
-        this.sourceRegistry.completeScanJob(jobId, {
-          status: 'cancelled',
+        finalizeJob('cancelled', {
           runId,
           errorMessage: appError?.message ?? 'Cancelled by user',
         });
@@ -186,8 +213,7 @@ export class FederatedScanQueue {
       }
 
       const message = error instanceof Error ? error.message : String(error);
-      this.sourceRegistry.completeScanJob(jobId, {
-        status: 'failed',
+      finalizeJob('failed', {
         runId,
         errorMessage: message,
       });

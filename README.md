@@ -45,7 +45,7 @@ A sophisticated TypeScript knowledge base that exports Claude.app conversations,
 - **APIs**: Anthropic SDK (Claude) + OpenAI SDK (embeddings)
 - **Web Framework**: Express.js
 - **Real-time**: WebSocket protocol
-- **Testing**: Vitest (200+ test cases, 85%+ coverage)
+- **Testing**: Vitest (200+ test cases, coverage thresholds enforced in `vitest.config.ts`)
 
 ---
 
@@ -112,10 +112,12 @@ npm run build
 
 ### Development
 ```bash
-npm run dev                              # Run with tsx
+npm run dev                              # Run API/web server with hot reload
+npm run dev:cli                          # Run Phase 1 CLI demo entrypoint
 npm run build && npm run start           # Run compiled version
 npm run test                             # Run tests
 npm run test:watch                       # Watch mode
+npm run lint                             # Type-check lint gate
 ```
 
 ### Search Commands
@@ -154,32 +156,15 @@ npm run search:hybrid "query"            # Combined search
 
 ```
 src/
-├── core/                    # Core data services
-│   ├── database.ts         # SQLite operations
-│   ├── atomizer.ts         # Content atomization
-│   └── types.ts            # TypeScript interfaces
-├── phase2/                  # Semantic search
-│   ├── embeddings-service.ts
-│   ├── vector-database.ts
-│   └── hybrid-search.ts
-├── phase3/                  # Claude intelligence
-│   ├── insight-extractor.ts
-│   ├── smart-tagger.ts
-│   ├── relationship-detector.ts
-│   └── conversation-summarizer.ts
-├── features/                # Advanced features
-│   ├── knowledge-graph.ts
-│   ├── deduplication.ts
-│   ├── user-rate-limiter.ts
-│   └── websocket-manager.ts
-├── api/                     # REST endpoints
-│   ├── graph-api.ts
-│   ├── export-api.ts
-│   ├── deduplication-api.ts
-│   └── ...
-└── middleware/              # Express middleware
-    ├── auth.ts
-    └── rate-limit-middleware.ts
+├── api.ts                   # Primary REST API router
+├── web-server.ts            # Express + UI/websocket runtime
+├── database.ts              # SQLite operations + schema/migrations
+├── atomizer.ts              # Content atomization
+├── analytics/               # Search analytics and suggestions
+├── federation/              # Federated indexing/search services
+├── sources/                 # Source adapters (Claude, Gemini, local, etc.)
+├── *-cli.ts                 # CLI entry points
+└── *.test.ts                # Unit tests colocated with sources
 ```
 
 ---
@@ -207,7 +192,7 @@ src/
 - ESM modules
 - Comprehensive error handling
 - Consistent logging via Logger service
-- 85%+ test coverage
+- Coverage thresholds enforced via `vitest.config.ts`
 
 ### Testing
 - Unit tests: Vitest

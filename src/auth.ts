@@ -45,8 +45,23 @@ export class JWTManager {
   private secret: string;
   private expiresIn: number;
 
-  constructor(secret?: string, expiresIn: number = 3600) {
-    this.secret = secret || process.env.JWT_SECRET || 'dev-secret-key';
+  constructor(
+    secret?: string,
+    expiresIn: number = 3600,
+    options?: { requireSecret?: boolean; allowInsecureDefault?: boolean }
+  ) {
+    const resolvedSecret = secret || process.env.JWT_SECRET;
+    const allowInsecureDefault = options?.allowInsecureDefault ?? process.env.NODE_ENV === 'test';
+
+    if (!resolvedSecret && (options?.requireSecret || !allowInsecureDefault)) {
+      throw new Error('JWT_SECRET is required');
+    }
+
+    if (!resolvedSecret && allowInsecureDefault) {
+      logger.warn('JWT secret is missing; using insecure fallback secret');
+    }
+
+    this.secret = resolvedSecret || 'dev-secret-key'; // allow-secret intentional non-production fallback
     this.expiresIn = expiresIn;
   }
 
@@ -199,8 +214,11 @@ export class AuthService {
   private users: Map<string, AuthUser> = new Map();
   private apiKeyHashes: Map<string, string> = new Map();
 
-  constructor(jwtSecret?: string) {
-    this.jwtManager = new JWTManager(jwtSecret);
+  constructor(jwtSecret?: string, options?: { requireSecret?: boolean; allowInsecureDefault?: boolean }) {
+    this.jwtManager = new JWTManager(jwtSecret, 3600, {
+      requireSecret: options?.requireSecret ?? false,
+      allowInsecureDefault: options?.allowInsecureDefault,
+    });
     this.apiKeyManager = new APIKeyManager();
     this.createUser('admin@example.com', [UserRole.ADMIN]);
   }

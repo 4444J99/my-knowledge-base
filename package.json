@@ -6,13 +6,14 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
-    "start": "node dist/index.js",
+    "start": "node dist/web-server.js",
     "prepare-db": "npm run migrate && npm run seed",
     "prestart": "npm run prepare-db",
     "preweb": "npm run prepare-db",
     "pretest": "npm run prepare-db",
     "export": "node dist/export.js",
-    "dev": "tsx src/index.ts",
+    "dev": "tsx watch src/web-server.ts",
+    "dev:cli": "tsx src/index.ts",
     "export:dev": "tsx src/export.ts",
     "sync": "./scripts/sync-cloud.sh",
     "ingest:all": "tsx src/export.ts",
@@ -44,6 +45,7 @@
     "redact:apply": "tsx src/redaction-cli.ts apply",
     "redact:validate": "tsx src/redaction-cli.ts validate",
     "test": "vitest",
+    "test:watch": "vitest --watch",
     "test:unit": "vitest run src",
     "test:integration": "vitest run tests",
     "test:ci": "npm run test:unit && npm run test:integration",
@@ -52,7 +54,8 @@
     "test:ui": "vitest --ui",
     "test:coverage": "vitest --coverage",
     "benchmark": "RUN_BENCHMARKS=true vitest run benchmarks/",
-    "build:react": "cd web-react && npm run build"
+    "build:react": "cd web-react && npm run build",
+    "lint": "tsc --noEmit"
   },
   "keywords": [
     "knowledge-base",

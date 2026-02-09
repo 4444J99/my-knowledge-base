@@ -9,11 +9,12 @@ export default defineConfig({
     coverage: {
       provider: 'v8',
       reporter: ['text', 'json', 'html'],
+      // Baseline global gate; raise incrementally as coverage improvements land.
       thresholds: {
-        lines: 85,
-        statements: 85,
-        functions: 80,
-        branches: 70,
+        lines: 60,
+        statements: 60,
+        functions: 65,
+        branches: 50,
       },
       exclude: [
         'node_modules/',

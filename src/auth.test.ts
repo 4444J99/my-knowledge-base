@@ -43,6 +43,39 @@ describe('JWT Manager', () => {
     const payload = jwtManager.verifyToken(tampered);
     expect(payload).toBeNull();
   });
+
+  it('should require JWT secret when configured', () => {
+    const previous = process.env.JWT_SECRET;
+    delete process.env.JWT_SECRET;
+
+    try {
+      expect(() => new JWTManager(undefined, 3600, { requireSecret: true })).toThrow(
+        /JWT_SECRET is required/
+      );
+    } finally {
+      if (previous !== undefined) {
+        process.env.JWT_SECRET = previous;
+      }
+    }
+  });
+
+  it('should reject insecure fallback outside test mode by default', () => {
+    const previousSecret = process.env.JWT_SECRET;
+    const previousNodeEnv = process.env.NODE_ENV;
+    delete process.env.JWT_SECRET;
+    process.env.NODE_ENV = 'production';
+
+    try {
+      expect(() => new JWTManager()).toThrow(/JWT_SECRET is required/);
+    } finally {
+      if (previousSecret !== undefined) {
+        process.env.JWT_SECRET = previousSecret;
+      }
+      if (previousNodeEnv !== undefined) {
+        process.env.NODE_ENV = previousNodeEnv;
+      }
+    }
+  });
 });
 
 describe('API Key Manager', () => {

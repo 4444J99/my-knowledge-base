@@ -4,7 +4,7 @@
  */
 
 import { Logger } from './logger.js';
-import { UserRateLimiter, RateLimitTier } from './user-rate-limiter.js';
+import { UserRateLimiter, RateLimitTier, RATE_LIMIT_CONFIGS } from './user-rate-limiter.js';
 
 const logger = new Logger({ context: 'rate-limit-middleware' });
 
@@ -155,7 +155,7 @@ export class RateLimitMonitor {
         day: { used: quota.requestsInDay, total: 0 },
       };
       
-      const tierConfig = (require('./user-rate-limiter.js') as any).RATE_LIMIT_CONFIGS[quota.tier];
+      const tierConfig = RATE_LIMIT_CONFIGS[quota.tier];
       configs.minute.total = tierConfig.requestsPerMinute;
       configs.hour.total = tierConfig.requestsPerHour;
       configs.day.total = tierConfig.requestsPerDay;
@@ -191,7 +191,7 @@ export class RateLimitMonitor {
       
       byTier[quota.tier].count++;
       
-      const tierConfig = (require('./user-rate-limiter.js') as any).RATE_LIMIT_CONFIGS[quota.tier];
+      const tierConfig = RATE_LIMIT_CONFIGS[quota.tier];
       const usage = quota.requestsInMinute / tierConfig.requestsPerMinute;
       byTier[quota.tier].avgUsage += usage;
     });

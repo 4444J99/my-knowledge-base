@@ -11,9 +11,6 @@ import { existsSync } from 'fs';
 import { createServer } from 'http';
 import { WebSocketServer, WebSocket } from 'ws';
 import { KnowledgeDatabase } from './database.js';
-import { HybridSearch } from './hybrid-search.js';
-import { VectorDatabase } from './vector-database.js';
-import { EmbeddingsService } from './embeddings-service.js';
 import { CollectionsManager } from './collections.js';
 import { createCollectionsRoutes, createFavoritesRoutes, createCollectionsStatsRoute } from './collections-api.js';
 import { createSavedSearchesRouter } from './saved-searches-api.js';
@@ -21,6 +18,7 @@ import { WebSocketManager } from './websocket-manager.js';
 import { createWebSocketRoutes, createWebSocketHandler } from './websocket-api.js';
 import { createConfigRoutes } from './config-api.js';
 import { createExportRoutes } from './export-api.js';
+import { setupApi } from './api.js';
 import { config } from 'dotenv';
 
 config();
@@ -73,92 +71,8 @@ if (enforceHttps) {
 const db = new KnowledgeDatabase('./db/knowledge.db');
 const rawDb = db.getRawHandle();
 
-function updateUnitFtsTags(unitId: string) {
-  const tags = rawDb.prepare(`
-    SELECT t.name FROM tags t
-    JOIN unit_tags ut ON t.id = ut.tag_id
-    WHERE ut.unit_id = ?
-  `).all(unitId) as { name: string }[];
-
-  rawDb.prepare(`
-    INSERT INTO units_fts (rowid, title, content, context, tags)
-    SELECT rowid, title, content, context, ?
-    FROM atomic_units WHERE id = ?
-  `).run(tags.map(t => t.name).join(' '), unitId);
-}
-
-// Optional services (require OpenAI API key)
-let hybridSearch: HybridSearch | null = null;
-let vectorDb: VectorDatabase | null = null;
-let embeddingsService: EmbeddingsService | null = null;
-let servicesReady = false;
-
-// Initialize async services only if API keys are available
-async function initServices() {
-  if (process.env.OPENAI_API_KEY) {
-    try {
-      embeddingsService = new EmbeddingsService();
-      vectorDb = new VectorDatabase();
-      hybridSearch = new HybridSearch();
-
-      await hybridSearch.init();
-      await vectorDb.init();
-      servicesReady = true;
-      console.log('✅ Semantic search services initialized');
-    } catch (error) {
-      console.warn('⚠️  Failed to initialize semantic search services:', error);
-      console.warn('   FTS search will still work');
-    }
-  } else {
-    console.log('ℹ️  OPENAI_API_KEY not found - semantic search disabled');
-    console.log('   FTS search and other features will still work');
-  }
-}
-
-initServices().catch(console.error);
-
-// Health check
-app.get('/api/health', (req, res) => {
-  const payload = {
-    status: 'ok',
-    servicesReady,
-    hasOpenAI: !!process.env.OPENAI_API_KEY,
-    hasAnthropic: !!process.env.ANTHROPIC_API_KEY,
-    version: process.env.npm_package_version || '1.0.0',
-    timestamp: new Date().toISOString(),
-  };
-  res.json({
-    success: true,
-    data: payload,
-    ...payload,
-  });
-});
-
-// Stats endpoint
-app.get('/api/stats', (req, res) => {
-  try {
-    const stats = db.getStats();
-
-    // Add source breakdown
-    const sourceStats = rawDb.prepare(`
-      SELECT
-        json_extract(metadata, '$.sourceName') as source,
-        COUNT(*) as count
-      FROM documents
-      GROUP BY source
-    `).all();
-
-    const payload = { ...stats, sourceStats };
-    res.json({
-      success: true,
-      data: payload,
-      ...payload,
-      timestamp: new Date().toISOString(),
-    });
-  } catch (error) {
-    res.status(500).json({ error: 'Failed to get stats' });
-  }
-});
+// Mount canonical REST API router to keep endpoint behavior centralized.
+setupApi(app, db);
 
 function buildWordCloudData(limit: number, source: string) {
   const words: Array<{ text: string; value: number; type: string }> = [];
@@ -361,186 +275,6 @@ app.get('/dashboard', (req, res) => {
   `);
 });
 
-// Search endpoints
-app.get('/api/search/fts', (req, res) => {
-  try {
-    const query = req.query.q as string;
-    const limit = parseInt(req.query.limit as string) || 10;
-
-    if (!query) {
-      return res.status(400).json({ error: 'Query parameter required' });
-    }
-
-    const results = db.searchText(query, limit);
-    res.json({
-      success: true,
-      data: results,
-      results,
-      count: results.length,
-      timestamp: new Date().toISOString(),
-    });
-  } catch (error) {
-    res.status(500).json({ error: 'Search failed' });
-  }
-});
-
-app.get('/api/search/semantic', async (req, res) => {
-  try {
-    if (!servicesReady || !embeddingsService || !vectorDb) {
-      return res.status(503).json({ error: 'Semantic search not available (OPENAI_API_KEY required)' });
-    }
-
-    const query = req.query.q as string;
-    const limit = parseInt(req.query.limit as string) || 10;
-
-    if (!query) {
-      return res.status(400).json({ error: 'Query parameter required' });
-    }
-
-    // Generate query embedding
-    const queryEmbedding = await embeddingsService.generateEmbedding(query);
-
-    // Search
-    const results = await vectorDb.searchByEmbedding(queryEmbedding, limit);
-
-    res.json({
-      success: true,
-      data: results,
-      results,
-      count: results.length,
-      timestamp: new Date().toISOString(),
-    });
-  } catch (error) {
-    res.status(500).json({ error: 'Semantic search failed' });
-  }
-});
-
-app.get('/api/search/hybrid', async (req, res) => {
-  try {
-    if (!servicesReady || !hybridSearch) {
-      return res.status(503).json({ error: 'Hybrid search not available (OPENAI_API_KEY required)' });
-    }
-
-    const query = req.query.q as string;
-    const limit = parseInt(req.query.limit as string) || 10;
-    const ftsWeight = parseFloat(req.query.ftsWeight as string) || 0.4;
-    const semanticWeight = parseFloat(req.query.semanticWeight as string) || 0.6;
-
-    if (!query) {
-      return res.status(400).json({ error: 'Query parameter required' });
-    }
-
-    const results = await hybridSearch.search(query, limit, {
-      fts: ftsWeight,
-      semantic: semanticWeight,
-    });
-
-    res.json({
-      success: true,
-      data: results,
-      results,
-      count: results.length,
-      timestamp: new Date().toISOString(),
-    });
-  } catch (error) {
-    res.status(500).json({ error: 'Hybrid search failed' });
-  }
-});
-
-// Get unit by ID
-app.get('/api/units', (req, res) => {
-  try {
-    const limit = Math.min(Math.max(parseInt(req.query.limit as string) || 20, 1), 1000);
-    const type = (req.query.type as string | undefined)?.trim();
-    const category = (req.query.category as string | undefined)?.trim();
-
-    const units = db.getUnitsForGraph({
-      limit,
-      type: type || undefined,
-      category: category || undefined,
-    });
-
-    res.json({
-      success: true,
-      data: units,
-      pagination: {
-        page: 1,
-        pageSize: units.length,
-        total: units.length,
-        totalPages: 1,
-      },
-      timestamp: new Date().toISOString(),
-    });
-  } catch (error) {
-    res.status(500).json({ error: 'Failed to list units' });
-  }
-});
-
-app.get('/api/units/:id', (req, res) => {
-  try {
-    const { id } = req.params;
-
-    const unit = db.getUnitById(id);
-
-    if (!unit) {
-      return res.status(404).json({ error: 'Unit not found' });
-    }
-
-    res.json({
-      success: true,
-      data: unit,
-      ...unit,
-      timestamp: new Date().toISOString(),
-    });
-  } catch (error) {
-    res.status(500).json({ error: 'Failed to get unit' });
-  }
-});
-
-// Search suggestions (autocomplete)
-app.get('/api/search/suggestions', (req, res) => {
-  try {
-    const prefix = (req.query.q as string | undefined)?.trim() ?? '';
-    const limit = parseInt(req.query.limit as string) || 8;
-
-    if (prefix.length === 0) {
-      return res.json({ suggestions: [], count: 0 });
-    }
-
-    const suggestions = db.getSearchSuggestions(prefix, limit);
-    res.json({
-      success: true,
-      data: suggestions,
-      suggestions,
-      count: suggestions.length,
-      timestamp: new Date().toISOString(),
-    });
-  } catch (error) {
-    res.status(500).json({ error: 'Failed to get suggestions' });
-  }
-});
-
-// List categories with counts
-app.get('/api/categories', (req, res) => {
-  try {
-    const categories = rawDb.prepare(`
-      SELECT category, COUNT(*) as count FROM atomic_units
-      WHERE category IS NOT NULL
-      GROUP BY category
-      ORDER BY count DESC
-    `).all();
-    res.json({
-      success: true,
-      data: categories,
-      categories,
-      count: categories.length,
-      timestamp: new Date().toISOString(),
-    });
-  } catch (error) {
-    res.status(500).json({ error: 'Failed to get categories' });
-  }
-});
-
 // Get units by tag
 app.get('/api/tags/:tag/units', (req, res) => {
   try {
@@ -599,89 +333,6 @@ app.get('/api/tags', (req, res) => {
     });
   } catch (error) {
     res.status(500).json({ error: 'Failed to get tags' });
-  }
-});
-
-// Add tags to a unit
-app.post('/api/units/:id/tags', (req, res) => {
-  try {
-    const { id } = req.params;
-    const tagNames = Array.isArray(req.body?.tags) ? req.body.tags : [];
-    if (tagNames.length === 0) {
-      return res.status(400).json({ error: 'tags array required' });
-    }
-
-    const unit = rawDb.prepare('SELECT id FROM atomic_units WHERE id = ?').get(id);
-    if (!unit) {
-      return res.status(404).json({ error: 'Unit not found' });
-    }
-
-    const insertTag = rawDb.prepare('INSERT OR IGNORE INTO tags (name) VALUES (?)');
-    const getTagId = rawDb.prepare('SELECT id FROM tags WHERE name = ?');
-    const linkTag = rawDb.prepare('INSERT OR IGNORE INTO unit_tags (unit_id, tag_id) VALUES (?, ?)');
-
-    for (const rawTag of tagNames) {
-      const tag = typeof rawTag === 'string' ? rawTag.trim() : '';
-      if (!tag) continue;
-      insertTag.run(tag);
-      const tagRow = getTagId.get(tag) as { id: number };
-      if (tagRow?.id) {
-        linkTag.run(id, tagRow.id);
-      }
-    }
-
-    updateUnitFtsTags(id);
-
-    const updatedTags = rawDb.prepare(`
-      SELECT t.name FROM tags t
-      JOIN unit_tags ut ON t.id = ut.tag_id
-      WHERE ut.unit_id = ?
-    `).all(id) as { name: string }[];
-
-    res.json({
-      success: true,
-      data: { unitId: id, tags: updatedTags.map(tag => tag.name) },
-      unitId: id,
-      tags: updatedTags.map(tag => tag.name),
-      timestamp: new Date().toISOString(),
-    });
-  } catch (error) {
-    res.status(500).json({ error: 'Failed to add tags' });
-  }
-});
-
-// Remove a tag from a unit
-app.delete('/api/units/:id/tags/:tag', (req, res) => {
-  try {
-    const { id, tag } = req.params;
-    const unit = rawDb.prepare('SELECT id FROM atomic_units WHERE id = ?').get(id);
-    if (!unit) {
-      return res.status(404).json({ error: 'Unit not found' });
-    }
-
-    const tagRecord = rawDb.prepare('SELECT id FROM tags WHERE name = ?').get(tag) as { id: number } | undefined;
-    if (!tagRecord) {
-      return res.status(404).json({ error: 'Tag not found' });
-    }
-
-    rawDb.prepare('DELETE FROM unit_tags WHERE unit_id = ? AND tag_id = ?').run(id, tagRecord.id);
-    updateUnitFtsTags(id);
-
-    const updatedTags = rawDb.prepare(`
-      SELECT t.name FROM tags t
-      JOIN unit_tags ut ON t.id = ut.tag_id
-      WHERE ut.unit_id = ?
-    `).all(id) as { name: string }[];
-
-    res.json({
-      success: true,
-      data: { unitId: id, tags: updatedTags.map(tag => tag.name) },
-      unitId: id,
-      tags: updatedTags.map(tag => tag.name),
-      timestamp: new Date().toISOString(),
-    });
-  } catch (error) {
-    res.status(500).json({ error: 'Failed to remove tag' });
   }
 });
 
@@ -874,9 +525,6 @@ process.on('SIGINT', () => {
   wss.close();
   wsManager.close();
   db.close();
-  if (hybridSearch) {
-    hybridSearch.close();
-  }
   collectionsManager.close();
   server.close();
   process.exit(0);

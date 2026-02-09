@@ -117,6 +117,22 @@ describe('REST API', () => {
 
       expect(response.body.data).toHaveLength(5);
     });
+
+    it('should reject invalid sortBy values', async () => {
+      const response = await request(app)
+        .get('/api/units?sortBy=timestamp;DROP TABLE atomic_units;--')
+        .expect(400);
+
+      expect(response.body.code).toBe('INVALID_PARAMETER');
+    });
+
+    it('should reject invalid sortOrder values', async () => {
+      const response = await request(app)
+        .get('/api/units?sortOrder=ascending')
+        .expect(400);
+
+      expect(response.body.code).toBe('INVALID_PARAMETER');
+    });
   });
 
   describe('GET /api/units/:id', () => {
@@ -145,6 +161,7 @@ describe('REST API', () => {
 
       expect(response.body.success).toBe(true);
       expect(response.body.data.id).toBe('test-unit-1');
+      expect(response.body.id).toBe('test-unit-1');
       expect(response.body.data.title).toBe('Test Title');
     });
 
@@ -421,6 +438,7 @@ describe('REST API', () => {
         .expect(200);
 
       expect(response.body.data.addedTags).toHaveLength(2);
+      expect(response.body.tags).toEqual(expect.arrayContaining(['typescript', 'testing']));
     });
 
     it('should create new tags if they do not exist', async () => {
@@ -515,6 +533,38 @@ describe('REST API', () => {
     });
   });
 
+  describe('GET /api/search/fts', () => {
+    beforeEach(() => {
+      for (let i = 0; i < 2; i++) {
+        db['db'].prepare(`
+          INSERT INTO atomic_units (
+            id, type, title, content, context, category, tags, keywords, timestamp
+          ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+        `).run(
+          `fts-unit-${i}`,
+          'insight',
+          `Legacy Search ${i}`,
+          `Legacy content ${i}`,
+          'context',
+          'general',
+          '[]',
+          '[]',
+          new Date().toISOString()
+        );
+      }
+    });
+
+    it('should provide legacy FTS response shape', async () => {
+      const response = await request(app)
+        .get('/api/search/fts?q=Legacy&limit=1')
+        .expect(200);
+
+      expect(response.body.success).toBe(true);
+      expect(Array.isArray(response.body.results)).toBe(true);
+      expect(response.body.count).toBeLessThanOrEqual(1);
+    });
+  });
+
   describe('GET /api/stats', () => {
     beforeEach(() => {
       for (let i = 0; i < 3; i++) {
@@ -544,6 +594,8 @@ describe('REST API', () => {
       expect(response.body.data.units).toBe(3);
       expect(response.body.data.typeDistribution).toBeDefined();
       expect(response.body.data.categoryDistribution).toBeDefined();
+      expect(response.body.totalUnits.count).toBe(3);
+      expect(Array.isArray(response.body.unitsByType)).toBe(true);
     });
 
     it('should include type distribution', async () => {
@@ -564,6 +616,8 @@ describe('REST API', () => {
 
       expect(response.body.data.status).toBe('healthy');
       expect(response.body.data.uptime).toBeGreaterThan(0);
+      expect(response.body.status).toBe('healthy');
+      expect(response.body.data.version).toBeDefined();
     });
   });
 

@@ -33,6 +33,6 @@ Global policy: /Users/4jp/AGENTS.md applies and cannot be overridden.
 - Keep generated files out of VCS unless part of a documented workflow (`db/` dumps require justification).
 
 ## Deployment & Operation Notes
-- Documented workflows reside in `docs/CONTRIBUTING.md` and `docs/OPERATIONS.md`; link to them when adding new automation.
+- Documented workflows reside in `CONTRIBUTING.md` and `docs/OPERATIONS.md`; link to them when adding new automation.
 - CI should run `npm run migrate && npm run seed` before tests to keep analytic suites stable.
 - Backup automation runs via `npm run backup`; a passing review mentions whether encryption (`BACKUP_ENCRYPT=true`) was exercised.

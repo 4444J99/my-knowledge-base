@@ -64,8 +64,10 @@ docs/                        # Architecture, API, operations
 # Build & Run
 npm run build                # Compile TypeScript
 npm run dev                  # Run with tsx (hot reload)
+npm run dev:cli              # Run CLI demo entrypoint
 npm run web                  # Serve web UI at http://localhost:3000
 npm run start                # Run compiled output
+npm run lint                 # Type-check lint gate
 
 # Database
 npm run prepare-db           # migrate + seed (runs automatically before start/web/test)
@@ -113,7 +115,7 @@ npm run find-relationships --save
 
 ## Testing Requirements
 
-We use [Vitest](https://vitest.dev/) for testing. **Target 80%+ code coverage for new code.**
+We use [Vitest](https://vitest.dev/) for testing. Coverage thresholds are enforced in `vitest.config.ts` and should be increased over time.
 
 ### Test Structure
 
@@ -189,7 +191,7 @@ When making UI changes:
 
 2. **Make your changes** following the code style guidelines
 
-3. **Write/update tests** for your changes (80%+ coverage goal)
+3. **Write/update tests** for your changes (meet the current `vitest.config.ts` coverage gate and raise coverage when touching low-covered areas)
 
 4. **Run the full test suite**:
    ```bash

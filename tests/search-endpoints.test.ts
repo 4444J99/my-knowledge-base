@@ -170,6 +170,19 @@ describe('Phase 2 Search API Endpoints', () => {
       expect(response.body.pagination.totalPages).toBeGreaterThan(0);
     });
 
+    it('should not reuse cached page-1 results for later pages', async () => {
+      const page1 = await request(app)
+        .get('/api/search?q=&page=1&pageSize=1')
+        .expect(200);
+      const page2 = await request(app)
+        .get('/api/search?q=&page=2&pageSize=1')
+        .expect(200);
+
+      expect(page1.body.data).toHaveLength(1);
+      expect(page2.body.data).toHaveLength(1);
+      expect(page1.body.data[0].id).not.toBe(page2.body.data[0].id);
+    });
+
     it('should include query metadata', async () => {
       const response = await request(app)
         .get('/api/search?q=TypeScript')
@@ -256,6 +269,13 @@ describe('Phase 2 Search API Endpoints', () => {
 
       expect(response.body.success).toBe(true);
       expect(response.body.data).toBeDefined();
+      expect(response.body.query).toBeDefined();
+      expect(response.body.query.degradedMode).toBe(true);
+      expect([
+        'semantic_unavailable',
+        'runtime_error',
+        'no_semantic_results',
+      ]).toContain(response.body.query.fallbackReason);
     });
 
     it('should support semantic search with pagination', async () => {
@@ -314,6 +334,13 @@ describe('Phase 2 Search API Endpoints', () => {
 
       expect(response.body.success).toBe(true);
       expect(response.body.data.length).toBeGreaterThan(0);
+      expect(response.body.query).toBeDefined();
+      expect(response.body.query.degradedMode).toBe(true);
+      expect([
+        'hybrid_unavailable',
+        'runtime_error',
+        'no_hybrid_results',
+      ]).toContain(response.body.query.fallbackReason);
     });
 
     it('should accept FTS weight parameter', async () => {

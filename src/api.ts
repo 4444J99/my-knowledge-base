@@ -10,7 +10,7 @@ import { KnowledgeDatabase } from './database.js';
 import { logger, AppError } from './logger.js';
 import { AtomicUnit, EntityRelationship } from './types.js';
 import { AuthService, createAuthMiddleware } from './auth.js';
-import { FilterBuilder, SearchFilter } from './filter-builder.js';
+import { FilterBuilder } from './filter-builder.js';
 import { SearchCache } from './search-cache.js';
 import { SearchAnalyticsTracker } from './analytics/search-analytics.js';
 import { QuerySuggestionEngine } from './analytics/query-suggestions.js';
@@ -23,69 +23,21 @@ import { FederatedScanQueue } from './federation/scan-queue.js';
 import { FederatedSourceRegistry } from './federation/source-registry.js';
 import { FederatedSearchService } from './federation/search.js';
 import { FederatedScanJobStatus, UpdateFederatedSourceInput } from './federation/types.js';
-
-/**
- * API Error response format
- */
-interface ApiErrorResponse {
-  error: string;
-  code: string;
-  statusCode: number;
-  details?: Record<string, any>;
-}
-
-/**
- * API Success response format
- */
-interface ApiSuccessResponse<T> {
-  success: true;
-  data: T;
-  timestamp: string;
-}
-
-/**
- * Paginated response format
- */
-interface PaginatedResponse<T> {
-  success: true;
-  data: T[];
-  pagination: {
-    page: number;
-    pageSize: number;
-    total: number;
-    totalPages: number;
-  };
-  timestamp: string;
-}
-
-/**
- * Search response format (Phase 2)
- */
-interface SearchResponse<T> {
-  success: true;
-  data: T[];
-  pagination: {
-    page: number;
-    pageSize: number;
-    total: number;
-    totalPages: number;
-    offset: number;
-  };
-  query: {
-    original: string;
-    normalized: string;
-  };
-  filters?: {
-    applied: SearchFilter[];
-    available: Array<{ field: string; buckets: Array<{ value: string; count: number }> }>;
-  };
-  facets?: Array<{ field: string; buckets: Array<{ value: string; count: number }> }>;
-  searchTime: number;
-  stats?: {
-    cacheHit: boolean;
-  };
-  timestamp: string;
-}
+import {
+  formatUnit,
+  parseIntParam,
+  parseIsoDateParam,
+  parseSortOrder,
+  parseUnitSortField,
+  parseWeightParam,
+} from './api-utils.js';
+import {
+  ApiErrorResponse,
+  ApiSuccessResponse,
+  PaginatedResponse,
+  SearchFallbackReason,
+  SearchResponse,
+} from './api-types.js';
 
 /**
  * Create REST API router
@@ -94,7 +46,9 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
   const router = Router();
 
   const authEnabled = process.env.ENABLE_AUTH === 'true';
-  const authService = authEnabled ? new AuthService(process.env.JWT_SECRET) : null;
+  const authService = authEnabled
+    ? new AuthService(process.env.JWT_SECRET, { requireSecret: true })
+    : null;
   if (authService) {
     router.use(createAuthMiddleware(authService));
   }
@@ -168,42 +122,6 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
     Promise.resolve(fn(req, res, next)).catch(next);
   };
 
-  const parseIntParam = (
-    value: string | undefined,
-    name: string,
-    defaultValue: number,
-    min: number,
-    max: number
-  ): number => {
-    if (value === undefined) return defaultValue;
-    const parsed = Number.parseInt(value, 10);
-    if (!Number.isFinite(parsed) || Number.isNaN(parsed)) {
-      throw new AppError(`Invalid ${name}`, 'INVALID_PARAMETER', 400);
-    }
-    if (parsed < min || parsed > max) {
-      throw new AppError(`Invalid ${name}`, 'INVALID_PARAMETER', 400);
-    }
-    return parsed;
-  };
-
-  const parseWeightParam = (value: string | undefined, name: string, defaultValue: number): number => {
-    if (value === undefined) return defaultValue;
-    const parsed = Number.parseFloat(value);
-    if (!Number.isFinite(parsed) || parsed < 0 || parsed > 1) {
-      throw new AppError(`Invalid ${name}`, 'INVALID_PARAMETER', 400);
-    }
-    return parsed;
-  };
-
-  const parseIsoDateParam = (value: string | undefined, name: string): string | undefined => {
-    if (value === undefined) return undefined;
-    const parsed = new Date(value);
-    if (Number.isNaN(parsed.getTime())) {
-      throw new AppError(`Invalid ${name}`, 'INVALID_PARAMETER', 400);
-    }
-    return parsed.toISOString();
-  };
-
   const assertFederationAccess = (
     req: Request,
     allowedRoles: Array<'viewer' | 'editor' | 'admin' | 'api_client'> = ['viewer', 'editor', 'admin']
@@ -257,7 +175,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
       const startTime = Date.now();
 
       // Check cache
-      const cacheKey = searchCache.generateKey({ query, limit: pageSize });
+      const cacheKey = searchCache.generateKey({ query, searchType: 'fts', limit: pageSize, page });
       let cacheHit = false;
       let cached = searchCache.get(cacheKey);
 
@@ -266,6 +184,8 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
         res.json({
           success: true,
           data: cached.results,
+          results: cached.results,
+          count: cached.results?.length || 0,
           pagination: {
             page,
             pageSize,
@@ -345,6 +265,8 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
       res.json({
         success: true,
         data: results.map(unit => formatForRequest(req, unit)),
+        results: results.map(unit => formatForRequest(req, unit)),
+        count: results.length,
         pagination: {
           page,
           pageSize,
@@ -383,6 +305,8 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
       const pageSize = parseIntParam(req.query.pageSize as string | undefined, 'pageSize', 20, 1, 100);
       const type = req.query.type as string | undefined;
       const category = req.query.category as string | undefined;
+      const offset = (page - 1) * pageSize;
+      const fetchLimit = page * pageSize;
 
       if (!query || query.length === 0) {
         throw new AppError('Search query is required', 'MISSING_QUERY', 400);
@@ -405,17 +329,28 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
       }
 
       let results: AtomicUnit[] = [];
+      let fallbackReason: SearchFallbackReason | undefined;
+      let degradedMode = false;
       if (hybridSearch) {
         try {
-          const hybridResults = await hybridSearch.search(query, pageSize, { fts: 0.2, semantic: 0.8 });
+          const hybridResults = await hybridSearch.search(query, fetchLimit, { fts: 0.2, semantic: 0.8 });
           results = hybridResults.map(r => r.unit);
         } catch (error) {
+          degradedMode = true;
+          fallbackReason = 'runtime_error';
           logger.warn('Semantic search failed, falling back to FTS');
         }
+      } else {
+        degradedMode = true;
+        fallbackReason = 'semantic_unavailable';
       }
 
       if (results.length === 0) {
-        results = db.searchTextPaginated(query, 0, pageSize * 2).results;
+        if (!fallbackReason) {
+          degradedMode = true;
+          fallbackReason = 'no_semantic_results';
+        }
+        results = db.searchTextPaginated(query, 0, fetchLimit).results;
       }
 
       if (type) {
@@ -426,6 +361,9 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
       }
 
       const total = results.length;
+      const pagedResults = results
+        .slice(offset, offset + pageSize)
+        .map(unit => formatForRequest(req, unit));
 
       // Get facets
       const categoryFacets = db.getCategoryFacets(whereClause, params);
@@ -433,7 +371,9 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
 
       res.json({
         success: true,
-        data: results.slice((page - 1) * pageSize, page * pageSize),
+        data: pagedResults,
+        results: pagedResults,
+        count: pagedResults.length,
         pagination: {
           page,
           pageSize,
@@ -441,7 +381,12 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
           totalPages: Math.ceil(total / pageSize),
           offset: (page - 1) * pageSize,
         },
-        query: { original: query, normalized: query.toLowerCase() },
+        query: {
+          original: query,
+          normalized: query.toLowerCase(),
+          degradedMode: degradedMode ? true : undefined,
+          fallbackReason,
+        },
         facets: [
           { field: 'category', buckets: categoryFacets },
           { field: 'type', buckets: typeFacets },
@@ -487,7 +432,10 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
       // Check cache
       const cacheKey = searchCache.generateKey({
         query,
+        searchType: 'hybrid',
         weights: { fts: ftsWeight, semantic: semanticWeight },
+        page,
+        limit: pageSize,
         // Note: We should include filters in cache key, but for now we'll skip caching if filters are present
         // or just append them to the key in a simple way if we wanted to be robust.
       });
@@ -498,6 +446,8 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
         res.json({
           success: true,
           data: cached.results,
+          results: cached.results,
+          count: cached.results?.length || 0,
           pagination: {
             page,
             pageSize,
@@ -523,17 +473,35 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
 
       // Hybrid search
       let results: AtomicUnit[] = [];
+      let fallbackReason: SearchFallbackReason | undefined;
+      let degradedMode = false;
+      const offset = (page - 1) * pageSize;
+      const fetchLimit = page * pageSize;
 
       if (hybridSearch) {
         try {
-          const hybridResults = await hybridSearch.search(query, pageSize, { fts: ftsWeight, semantic: semanticWeight }, { source, format });
+          const hybridResults = await hybridSearch.search(
+            query,
+            fetchLimit,
+            { fts: ftsWeight, semantic: semanticWeight },
+            { source, format }
+          );
           results = hybridResults.map(r => r.unit);
         } catch (error) {
+          degradedMode = true;
+          fallbackReason = 'runtime_error';
           logger.warn('Hybrid search failed, falling back to FTS');
         }
+      } else {
+        degradedMode = true;
+        fallbackReason = 'hybrid_unavailable';
       }
 
       if (results.length === 0) {
+        if (!fallbackReason) {
+          degradedMode = true;
+          fallbackReason = 'no_hybrid_results';
+        }
         // Fallback to FTS only
         const searchTerm = `%${query}%`;
         results = dbHandle.prepare(`
@@ -541,10 +509,13 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
           WHERE title LIKE ? OR content LIKE ?
           ORDER BY created DESC
           LIMIT ?
-        `).all(searchTerm, searchTerm, pageSize) as AtomicUnit[];
+        `).all(searchTerm, searchTerm, fetchLimit) as AtomicUnit[];
       }
 
       const total = results.length;
+      const pagedResults = results
+        .slice(offset, offset + pageSize)
+        .map(unit => formatForRequest(req, unit));
 
       // Get facets if requested
       let facets: any[] = [];
@@ -567,9 +538,9 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
 
       res.json({
         success: true,
-        data: results
-          .slice((page - 1) * pageSize, page * pageSize)
-          .map(unit => formatForRequest(req, unit)),
+        data: pagedResults,
+        results: pagedResults,
+        count: pagedResults.length,
         pagination: {
           page,
           pageSize,
@@ -577,7 +548,12 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
           totalPages: Math.ceil(total / pageSize),
           offset: (page - 1) * pageSize,
         },
-        query: { original: query, normalized: query.toLowerCase() },
+        query: {
+          original: query,
+          normalized: query.toLowerCase(),
+          degradedMode: degradedMode ? true : undefined,
+          fallbackReason,
+        },
         facets: includeFacets ? facets : undefined,
         stats: { cacheHit: false },
         searchTime: Math.max(1, Date.now() - startTime),
@@ -614,6 +590,8 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
       res.json({
         success: true,
         data: suggestions,
+        suggestions: suggestions.map((item) => item.text),
+        count: suggestions.length,
         timestamp: new Date().toISOString(),
       } as ApiSuccessResponse<any>);
 
@@ -702,8 +680,8 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
       const type = req.query.type as string | undefined;
       const category = req.query.category as string | undefined;
       const searchQuery = req.query.q as string | undefined;
-      const sortBy = (req.query.sortBy as string) || 'timestamp';
-      const sortOrder = (req.query.sortOrder as string) || 'DESC';
+      const sortBy = parseUnitSortField(req.query.sortBy as string | undefined);
+      const sortOrder = parseSortOrder(req.query.sortOrder as string | undefined);
 
       const offset = (page - 1) * pageSize;
 
@@ -742,10 +720,12 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
       params.push(pageSize, offset);
 
       const units = db['db'].prepare(query).all(...params) as AtomicUnit[];
+      const formattedUnits = units.map(unit => formatForRequest(req, unit));
 
       res.json({
         success: true,
-        data: units.map(unit => formatForRequest(req, unit)),
+        data: formattedUnits,
+        units: formattedUnits,
         pagination: {
           page,
           pageSize,
@@ -777,6 +757,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
       res.json({
         success: true,
         data: formatForRequest(req, unit),
+        ...formatForRequest(req, unit),
         timestamp: new Date().toISOString(),
       } as ApiSuccessResponse<any>);
 
@@ -977,6 +958,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
       res.json({
         success: true,
         data: tags,
+        tags: tags.map((tag) => tag.name),
         timestamp: new Date().toISOString(),
       } as ApiSuccessResponse<any>);
 
@@ -1025,9 +1007,16 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
         }
       }
 
+      const currentTags = (db['db'].prepare(`
+        SELECT t.name FROM tags t
+        JOIN unit_tags ut ON t.id = ut.tag_id
+        WHERE ut.unit_id = ?
+      `).all(id) as Array<{ name: string }>).map((row) => row.name);
+
       res.json({
         success: true,
-        data: { unitId: id, addedTags },
+        data: { unitId: id, addedTags, tags: currentTags },
+        tags: currentTags,
         timestamp: new Date().toISOString(),
       } as ApiSuccessResponse<any>);
 
@@ -1036,15 +1025,22 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
   );
 
   /**
-   * GET /api/units/search
-   * Full-text search across units
+   * GET /api/search/fts
+   * Legacy FTS endpoint maintained for UI compatibility
    */
   router.get(
-    '/search',
+    '/search/fts',
     asyncHandler(async (req: Request, res: Response) => {
       const query = req.query.q as string;
       const page = Math.max(1, parseInt(req.query.page as string) || 1);
-      const pageSize = Math.min(100, Math.max(1, parseInt(req.query.pageSize as string) || 20));
+      const pageSizeCandidate = Number.parseInt(
+        (req.query.limit as string | undefined) ?? (req.query.pageSize as string | undefined) ?? '20',
+        10
+      );
+      const pageSize = Math.min(
+        100,
+        Math.max(1, Number.isFinite(pageSizeCandidate) ? pageSizeCandidate : 20)
+      );
 
       if (!query || query.length === 0) {
         throw new AppError('Search query is required', 'MISSING_QUERY', 400);
@@ -1068,6 +1064,8 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
       res.json({
         success: true,
         data: results.map(unit => formatForRequest(req, unit)),
+        results: results.map(unit => formatForRequest(req, unit)),
+        count: results.length,
         pagination: {
           page,
           pageSize,
@@ -1088,27 +1086,35 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
   router.get(
     '/stats',
     asyncHandler(async (req: Request, res: Response) => {
-      const unitCount = (db['db'].prepare('SELECT COUNT(*) as count FROM atomic_units').get() as { count: number }).count;
-      const tagCount = (db['db'].prepare('SELECT COUNT(*) as count FROM tags').get() as { count: number }).count;
-      const conversationCount = (db['db'].prepare('SELECT COUNT(*) as count FROM conversations').get() as { count: number }).count;
-
-      const typeDistribution = db['db'].prepare(`
-        SELECT type, COUNT(*) as count FROM atomic_units GROUP BY type
-      `).all() as Array<{ type: string; count: number }>;
-
-      const categoryDistribution = db['db'].prepare(`
+      const stats = db.getStats();
+      const categoryDistribution = dbHandle.prepare(`
         SELECT category, COUNT(*) as count FROM atomic_units GROUP BY category
       `).all() as Array<{ category: string; count: number }>;
+      const sourceStats = dbHandle.prepare(`
+        SELECT json_extract(metadata, '$.sourceName') as source, COUNT(*) as count
+        FROM documents
+        GROUP BY source
+      `).all() as Array<{ source: string | null; count: number }>;
+
+      const payload = {
+        units: stats.totalUnits.count,
+        tags: stats.totalTags.count,
+        conversations: stats.totalConversations.count,
+        documents: stats.totalDocuments.count,
+        typeDistribution: Object.fromEntries(stats.unitsByType.map((row) => [row.type, row.count])),
+        categoryDistribution: Object.fromEntries(categoryDistribution.map((row) => [row.category, row.count])),
+        totalUnits: stats.totalUnits,
+        totalConversations: stats.totalConversations,
+        totalDocuments: stats.totalDocuments,
+        totalTags: stats.totalTags,
+        unitsByType: stats.unitsByType,
+        sourceStats,
+      };
 
       res.json({
         success: true,
-        data: {
-          units: unitCount,
-          tags: tagCount,
-          conversations: conversationCount,
-          typeDistribution: Object.fromEntries(typeDistribution.map(t => [t.type, t.count])),
-          categoryDistribution: Object.fromEntries(categoryDistribution.map(c => [c.category, c.count])),
-        },
+        data: payload,
+        ...payload,
         timestamp: new Date().toISOString(),
       } as ApiSuccessResponse<any>);
 
@@ -1123,13 +1129,19 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
   router.get(
     '/health',
     asyncHandler(async (req: Request, res: Response) => {
+      const payload = {
+        status: 'healthy',
+        timestamp: new Date().toISOString(),
+        uptime: process.uptime(),
+        servicesReady: !!process.env.OPENAI_API_KEY,
+        hasOpenAI: !!process.env.OPENAI_API_KEY,
+        hasAnthropic: !!process.env.ANTHROPIC_API_KEY,
+        version: process.env.npm_package_version || '1.0.0',
+      };
       res.json({
         success: true,
-        data: {
-          status: 'healthy',
-          timestamp: new Date().toISOString(),
-          uptime: process.uptime(),
-        },
+        data: payload,
+        ...payload,
         timestamp: new Date().toISOString(),
       } as ApiSuccessResponse<any>);
     })
@@ -1527,7 +1539,20 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
 
       res.json({
         success: true,
-        data: { unitId: id, removedTag: tag },
+        data: {
+          unitId: id,
+          removedTag: tag,
+          tags: (db['db'].prepare(`
+          SELECT t.name FROM tags t
+          JOIN unit_tags ut ON t.id = ut.tag_id
+          WHERE ut.unit_id = ?
+        `).all(id) as Array<{ name: string }>).map((row) => row.name),
+        },
+        tags: (db['db'].prepare(`
+          SELECT t.name FROM tags t
+          JOIN unit_tags ut ON t.id = ut.tag_id
+          WHERE ut.unit_id = ?
+        `).all(id) as Array<{ name: string }>).map((row) => row.name),
         timestamp: new Date().toISOString(),
       } as ApiSuccessResponse<any>);
 
@@ -1552,6 +1577,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
       res.json({
         success: true,
         data: categories,
+        categories,
         timestamp: new Date().toISOString(),
       } as ApiSuccessResponse<any>);
 
@@ -2032,32 +2058,6 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
   router.use('/intelligence', intelligenceRouter);
 
   return router;
-}
-
-/**
- * Format atomic unit for API response
- */
-function formatUnit(unit: AtomicUnit, options?: { includeSensitive?: boolean }): Record<string, any> {
-  const record: Record<string, any> = {
-    id: unit.id,
-    type: unit.type,
-    title: unit.title,
-    content: unit.content,
-    context: unit.context,
-    category: unit.category,
-    tags: typeof unit.tags === 'string' ? JSON.parse(unit.tags) : unit.tags,
-    keywords: typeof unit.keywords === 'string' ? JSON.parse(unit.keywords) : unit.keywords,
-    conversationId: unit.conversationId,
-    timestamp: unit.timestamp,
-  };
-
-  if (options?.includeSensitive === false) {
-    delete record.context;
-    delete record.keywords;
-    delete record.conversationId;
-  }
-
-  return record;
 }
 
 /**

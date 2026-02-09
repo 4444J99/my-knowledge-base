@@ -393,7 +393,7 @@ describe('SearchCache', () => {
   });
 
   describe('Pagination Parameters', () => {
-    it('should ignore page number in cache key (only use limit)', () => {
+    it('should include page number in cache key', () => {
       const options1 = {
         query: 'test',
         page: 1,
@@ -406,10 +406,10 @@ describe('SearchCache', () => {
         limit: 20,
       };
 
-      // Note: current implementation doesn't include page in key
-      // Different pages should have different keys in production
-      // This test documents current behavior
-      expect(true).toBe(true);
+      const key1 = cache.generateKey(options1 as any);
+      const key2 = cache.generateKey(options2 as any);
+
+      expect(key1).not.toBe(key2);
     });
   });
 

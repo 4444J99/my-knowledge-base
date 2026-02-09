@@ -1,7 +1,7 @@
 # Operations
 
 ## Runbooks
-- Start services: `npm run web` for the web UI or `npm run start` for the compiled API server; both now run `npm run prepare-db` first to align the schema.
+- Start services: `npm run web` for the tsx web/runtime server or `npm run start` for the compiled web/runtime server; both run `npm run prepare-db` first to align the schema.
 - Validate schema migrations before running analytics/CLI commands: `npm run migrate`.
 - Seed the database for local demos: `npm run seed` (or `sqlite3 ./db/knowledge.db < db/seeds/initial.sql`).
 - Verify health: `GET /api/health`.

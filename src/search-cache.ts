@@ -40,6 +40,7 @@ export class SearchCache {
     filters?: any[];
     searchType?: string;
     limit?: number;
+    page?: number;
     weights?: { fts: number; semantic: number };
   }): string {
     const searchType = options.searchType || 'hybrid';
@@ -48,6 +49,7 @@ export class SearchCache {
       filters: this.sortFilters(options.filters || []),
       searchType,
       limit: options.limit || 20,
+      page: options.page || 1,
       weights: options.weights || { fts: 0.4, semantic: 0.6 }
     });
 
