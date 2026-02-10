@@ -148,5 +148,20 @@ describe('KnowledgeDatabase.getUnitsForBackfill', () => {
     expect(ids.has('unit-short')).toBe(false);
     expect(ids.has('unit-a')).toBe(true);
   });
-});
 
+  it('respects batchSize and maxBatches limits when scanning', () => {
+    const oneBatch = db.getUnitsForBackfill({
+      limit: 10,
+      batchSize: 1,
+      maxBatches: 1,
+    });
+    expect(oneBatch.length).toBe(1);
+
+    const threeBatches = db.getUnitsForBackfill({
+      limit: 10,
+      batchSize: 1,
+      maxBatches: 3,
+    });
+    expect(threeBatches.length).toBe(3);
+  });
+});

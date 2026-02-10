@@ -844,6 +844,7 @@ export class KnowledgeDatabase {
     sourceIds?: string[];
     formats?: Array<'markdown' | 'txt' | 'pdf' | 'html'>;
     maxExistingTags?: number;
+    batchSize?: number;
     requireDocument?: boolean;
     minContentLength?: number;
     offset?: number;
@@ -851,7 +852,10 @@ export class KnowledgeDatabase {
   } = {}): AtomicUnit[] {
     const targetLimit = options.limit ?? 200;
     const requireDocument = options.requireDocument ?? true;
-    const batchSize = Math.max(targetLimit * 3, 300);
+    const batchSize =
+      typeof options.batchSize === 'number' && options.batchSize > 0
+        ? options.batchSize
+        : Math.max(targetLimit * 3, 300);
     const maxBatches = options.maxBatches ?? 20;
     const minContentLength = options.minContentLength ?? 0;
 

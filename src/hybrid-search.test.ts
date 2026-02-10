@@ -161,4 +161,16 @@ describe('HybridSearch Filters', () => {
     expect(results[0].unit.id).toBe('u1');
     expect(results[0].combinedScore).toBeGreaterThan(0.0163 + 0.05 - 0.0001); // Approx check
   });
+
+  it('applies image boost only for visual-intent queries', async () => {
+    const nonVisual = await hybridSearch.search('query', 10);
+    const visual = await hybridSearch.search('diagram query', 10);
+
+    const nonVisualU2 = nonVisual.find((r) => r.unit.id === 'u2');
+    const visualU2 = visual.find((r) => r.unit.id === 'u2');
+
+    expect(nonVisualU2).toBeDefined();
+    expect(visualU2).toBeDefined();
+    expect((visualU2?.combinedScore || 0) - (nonVisualU2?.combinedScore || 0)).toBeGreaterThan(0.019);
+  });
 });

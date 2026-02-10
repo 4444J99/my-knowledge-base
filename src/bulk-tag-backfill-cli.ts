@@ -17,6 +17,7 @@ interface CliOptions {
   sourceIds?: string[];
   formats?: Array<'markdown' | 'txt' | 'pdf' | 'html'>;
   maxExistingTags?: number;
+  batchSize?: number;
   offset?: number;
   minContentLength?: number;
   maxBatches?: number;
@@ -46,6 +47,7 @@ function parseArgs(argv: string[]): CliOptions {
 
   const includeAll = argv.includes('--include-all');
   const maxExistingTags = includeAll ? undefined : parseInt(getValue('--max-tags') || '2', 10);
+  const batchSize = parseInt(getValue('--batch-size') || '0', 10);
   
   const offset = parseInt(getValue('--resume-from-offset') || '0', 10);
   const minContentLength = parseInt(getValue('--min-content-length') || '0', 10);
@@ -58,6 +60,7 @@ function parseArgs(argv: string[]): CliOptions {
     sourceIds,
     formats,
     maxExistingTags: Number.isFinite(maxExistingTags as number) ? maxExistingTags : undefined,
+    batchSize: Number.isFinite(batchSize) && batchSize > 0 ? batchSize : undefined,
     offset: Number.isFinite(offset) ? offset : 0,
     minContentLength: Number.isFinite(minContentLength) ? minContentLength : 0,
     maxBatches: Number.isFinite(maxBatches) && maxBatches > 0 ? maxBatches : 20,
@@ -95,6 +98,7 @@ async function main() {
       typeof options.maxExistingTags === 'number' ? options.maxExistingTags : '(no limit)'
     }`
   );
+  console.log(`   batchSize=${options.batchSize || '(auto)'}`);
   console.log(`   offset=${options.offset}`);
   console.log(`   minContentLength=${options.minContentLength}`);
   console.log(`   maxBatches=${options.maxBatches}\n`);
@@ -104,6 +108,7 @@ async function main() {
     sourceIds: options.sourceIds,
     formats: options.formats,
     maxExistingTags: options.maxExistingTags,
+    batchSize: options.batchSize,
     requireDocument: true,
     offset: options.offset,
     minContentLength: options.minContentLength,
@@ -188,4 +193,3 @@ main().catch((err) => {
   console.error('❌ Bulk tag backfill failed:', err);
   process.exit(1);
 });
-

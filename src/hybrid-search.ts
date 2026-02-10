@@ -84,6 +84,7 @@ export class HybridSearch {
     const rrf = await this.reciprocalRankFusion(
       ftsResults,
       semanticResults.map(r => r.unit),
+      query,
       weights,
       60,
       options
@@ -104,6 +105,7 @@ export class HybridSearch {
   private async reciprocalRankFusion(
     ftsResults: AtomicUnit[],
     semanticResults: AtomicUnit[],
+    query: string,
     weights: { fts: number; semantic: number },
     k: number = 60,
     filters: {
@@ -114,6 +116,8 @@ export class HybridSearch {
     } = {}
   ): Promise<{ unit: AtomicUnit; score: number }[]> {
     const scores = new Map<string, { unit: AtomicUnit; score: number }>();
+
+    const shouldBoostImages = this.querySuggestsVisualIntent(query);
 
     // Add FTS results
     ftsResults.forEach((unit, rank) => {
@@ -195,8 +199,8 @@ export class HybridSearch {
         boost += 0.05;
       }
       
-      // Conditional boost for images (simple for now)
-      if (item.unit.tags.includes('has-image')) {
+      // Apply image boost only when the query implies visual intent.
+      if (shouldBoostImages && item.unit.tags.includes('has-image')) {
         boost += 0.02;
       }
       
@@ -216,6 +220,31 @@ export class HybridSearch {
 
     // Sort by combined score
     return results.sort((a, b) => b.score - a.score);
+  }
+
+  private querySuggestsVisualIntent(query: string): boolean {
+    const q = query.toLowerCase();
+    const terms = [
+      'image',
+      'images',
+      'photo',
+      'photos',
+      'picture',
+      'pictures',
+      'diagram',
+      'diagrams',
+      'screenshot',
+      'screenshots',
+      'visual',
+      'ui',
+      'ux',
+      'mockup',
+      'wireframe',
+      'chart',
+      'graph',
+      'figure',
+    ];
+    return terms.some((term) => q.includes(term));
   }
 
   /**
