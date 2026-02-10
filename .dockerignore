@@ -29,6 +29,5 @@ web/
 .prettierignore
 vitest.config.ts
 vitest.setup.ts
-tsconfig.json
 *.test.ts
 *.integration.test.ts
