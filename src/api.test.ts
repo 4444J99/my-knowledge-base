@@ -667,6 +667,9 @@ describe('REST API', () => {
       expect(response.body.data.uptime).toBeGreaterThan(0);
       expect(response.body.status).toBe('healthy');
       expect(response.body.data.version).toBeDefined();
+      expect(response.body.data.readiness.searchPolicies.semantic).toBeDefined();
+      expect(response.body.data.readiness.searchPolicies.hybrid).toBeDefined();
+      expect(response.body.data.readiness.search.strictReady).toBeDefined();
     });
   });
 

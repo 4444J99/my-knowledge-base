@@ -418,7 +418,7 @@ All successful responses follow this format:
 
 #### **GET /api/health** - Health check
 - **Status:** ✅ Implemented
-- **Response:** Status, uptime, timestamp
+- **Response:** Status, uptime, timestamp, provider availability, and search readiness metadata (`readiness.searchPolicies`, `readiness.search.strictReady`, `readiness.search.vectorProfileId`)
 
 ---
 

@@ -34,21 +34,27 @@ Use this table as the source of truth for alert lifecycle state.
 
 | Alert Rule | Severity | Documented | Implemented | Verified | Owner | Verification Method | Last Verified |
 |---|---|---|---|---|---|---|---|
-| API error spike (`5xx` > 2% for 10m) | critical | yes | pending (external monitoring) | no | Platform/SRE | synthetic fault + dashboard threshold validation | pending |
-| Database lock error spike (`SQLITE_BUSY`) | warning | yes | pending (external monitoring) | no | Platform/SRE | repeated write-lock simulation + alert trigger check | pending |
-| Degraded mode rate > 15% for 10m | warning | yes | pending (external monitoring) | no | Search Platform | query telemetry aggregation on `query.degradedMode` | pending |
-| Degraded mode rate > 30% for 15m | critical | yes | pending (external monitoring) | no | Search Platform | same as warning, critical threshold profile | pending |
-| Search latency P95 > 1500ms for 10m | warning | yes | pending (external monitoring) | no | Platform/SRE | latency histogram monitor with windowed threshold | pending |
-| Search latency P95 > 3000ms for 15m | critical | yes | pending (external monitoring) | no | Platform/SRE | latency histogram monitor with critical threshold | pending |
-| Auth initialization failure in prod | critical | yes | pending (external monitoring) | no | Identity/Platform | startup-failure log event monitor for missing `JWT_SECRET` | pending |
-| Strict semantic/hybrid `503` spike (`strict` policy) | critical | yes | pending (external monitoring) | no | Search Platform | aggregate `SEMANTIC_SEARCH_UNAVAILABLE` / `HYBRID_SEARCH_UNAVAILABLE` response codes | pending |
-| Vector profile mismatch (`query.vectorProfileId` drift) | warning | yes | pending (external monitoring) | no | Search Platform | compare runtime profile telemetry against readiness profile output | pending |
-| `semanticPolicyApplied` policy drift from expected strict mode | warning | yes | pending (external monitoring) | no | Search Platform | monitor `query.searchPolicyApplied` and detect unexpected degrade in prod | pending |
+| API error spike (`5xx` > 2% for 10m) | critical | yes | yes (`ops/alerts/search-runtime-alerts.yaml`) | no | Platform/SRE | synthetic fault + dashboard threshold validation | 2026-02-10 (definition committed) |
+| Database lock error spike (`SQLITE_BUSY`) | warning | yes | yes (`ops/alerts/search-runtime-alerts.yaml`) | no | Platform/SRE | repeated write-lock simulation + alert trigger check | 2026-02-10 (definition committed) |
+| Degraded mode rate > 15% for 10m | warning | yes | yes (`ops/alerts/search-runtime-alerts.yaml`) | no | Search Platform | query telemetry aggregation on `query.degradedMode` | 2026-02-10 (definition committed) |
+| Degraded mode rate > 30% for 15m | critical | yes | yes (`ops/alerts/search-runtime-alerts.yaml`) | no | Search Platform | same as warning, critical threshold profile | 2026-02-10 (definition committed) |
+| Search latency P95 > 1500ms for 10m | warning | yes | yes (`ops/alerts/search-runtime-alerts.yaml`) | no | Platform/SRE | latency histogram monitor with windowed threshold | 2026-02-10 (definition committed) |
+| Search latency P95 > 3000ms for 15m | critical | yes | yes (`ops/alerts/search-runtime-alerts.yaml`) | no | Platform/SRE | latency histogram monitor with critical threshold | 2026-02-10 (definition committed) |
+| Auth initialization failure in prod | critical | yes | yes (`ops/alerts/search-runtime-alerts.yaml`) | no | Identity/Platform | startup-failure log event monitor for missing `JWT_SECRET` | 2026-02-10 (definition committed) |
+| Strict semantic/hybrid `503` spike (`strict` policy) | critical | yes | yes (`ops/alerts/search-runtime-alerts.yaml`) | no | Search Platform | aggregate `SEMANTIC_SEARCH_UNAVAILABLE` / `HYBRID_SEARCH_UNAVAILABLE` response codes | 2026-02-10 (definition committed) |
+| Vector profile mismatch (`query.vectorProfileId` drift) | warning | yes | yes (`ops/alerts/search-runtime-alerts.yaml`) | no | Search Platform | compare runtime profile telemetry against readiness profile output | 2026-02-10 (definition committed) |
+| `semanticPolicyApplied` policy drift from expected strict mode | warning | yes | yes (`ops/alerts/search-runtime-alerts.yaml`) | no | Search Platform | monitor `query.searchPolicyApplied` and detect unexpected degrade in prod | 2026-02-10 (definition committed) |
 
 Status values:
 - `Documented`: rule exists in this document.
 - `Implemented`: alert rule exists in monitoring system config.
 - `Verified`: alert has been test-fired and validated end to end.
+
+## Alert Config as Code
+- Canonical alert definitions live in `ops/alerts/search-runtime-alerts.yaml`.
+- Validate definitions: `npm run alerts:verify`.
+- Require evidence-backed verification: `npm run alerts:verify:strict`.
+- Keep evidence under `docs/evidence/alert-verification/` (set `latest.json` for strict validation).
 
 ## Post-Release Watch Window
 - Minimum active watch window: `60` minutes after deploy.
@@ -63,3 +69,5 @@ Status values:
 - `docs/OPERATIONS.md`
 - `docs/RELEASE_INDEX.md`
 - `src/web-server.ts`
+- `ops/alerts/search-runtime-alerts.yaml`
+- `scripts/verify-alerts.ts`

@@ -38,6 +38,7 @@ Baseline snapshot (2026-02-10):
 - `documentsChunkedPct`: `66.9%`
 - `avgUnitsPerDocument`: `44.43`
 - `chunk strategies`: `chunk-strategy-markdown-semantic`, `chunk-strategy-pdf-sliding-window`
+- `metrics snapshot`: `atomized/metrics/chunking-2026-02-10.json`
 
 ### A1. HTML and Preprocessing Improvements
 - [x] Extend HTML heading preprocessing to include `<h3>`
@@ -102,22 +103,23 @@ Goal: Tighten taxonomy consistency, make backfills safer and more controllable, 
 This stream should avoid deep chunking changes where possible.
 
 ### B0. Baseline and Safe Trials
-- [ ] Run dry-run backfill on a small slice:
-- [ ] `npm run smart-tag:backfill -- --limit 100`
-- [ ] Run a scoped save:
-- [ ] `npm run smart-tag:backfill -- --limit 100 --save`
-- [ ] Spot-check 10–20 updated units
-- [ ] Re-run metrics: `npm run chunking:metrics`
+- [~] Run dry-run backfill on a small slice:
+- [~] `npm run smart-tag:backfill -- --limit 100`
+- [~] Run a scoped save:
+- [~] `npm run smart-tag:backfill -- --limit 100 --save`
+- [~] Spot-check 10–20 updated units
+- [x] Re-run metrics: `npm run chunking:metrics`
+- Note: Backfill trial execution is environment-dependent (LLM credentials + target dataset policy). Repo controls are complete; runtime trial remains an external execution gate.
 
 ### B1. Taxonomy Auditing and Repair
-- [ ] Add a taxonomy audit CLI:
-- [ ] unknown categories
-- [ ] malformed tags
-- [ ] top offenders and counts
-- [ ] Add a taxonomy repair CLI:
-- [ ] normalize categories/tags/keywords in place
-- [ ] add `--dry-run` and `--save`
-- [ ] Add tests for audit and repair helpers
+- [x] Add a taxonomy audit CLI:
+- [x] unknown categories
+- [x] malformed tags
+- [x] top offenders and counts
+- [x] Add a taxonomy repair CLI:
+- [x] normalize categories/tags/keywords in place
+- [x] add `--dry-run` and `--save`
+- [x] Add tests for audit and repair helpers
 
 Suggested files:
 - `src/taxonomy.ts`
@@ -126,20 +128,20 @@ Suggested files:
 - `src/*taxonomy*.test.ts` (new)
 
 ### B2. Backfill Robustness and Control
-- [ ] Add batching controls:
-- [ ] `--batch-size`
-- [ ] `--max-batches`
-- [ ] Add checkpointing/resume:
-- [ ] `--resume-from-offset`
-- [ ] Add scoping filters:
-- [ ] `--source`
-- [ ] `--format`
-- [ ] `--max-tags`
-- [ ] `--min-content-length`
-- [ ] Add safety rails:
-- [ ] show a summary before expensive calls
-- [ ] add `--yes` to bypass confirmation
-- [ ] Add tests for CLI arg parsing and scoping behavior
+- [x] Add batching controls:
+- [x] `--batch-size`
+- [x] `--max-batches`
+- [x] Add checkpointing/resume:
+- [x] `--resume-from-offset`
+- [x] Add scoping filters:
+- [x] `--source`
+- [x] `--format`
+- [x] `--max-tags`
+- [x] `--min-content-length`
+- [x] Add safety rails:
+- [x] show a summary before expensive calls
+- [x] add `--yes` to bypass confirmation
+- [x] Add tests for CLI arg parsing and scoping behavior
 
 Suggested files:
 - `src/bulk-tag-backfill-cli.ts`
@@ -147,13 +149,13 @@ Suggested files:
 - `src/database-backfill.test.ts`
 
 ### B3. Retrieval and Ranking Follow-Through
-- [ ] Add chunk-aware scoring hints:
-- [ ] small boost for `chunk-strategy-*`
-- [ ] (optional) boost for `has-image` only when query suggests visuals
-- [ ] Ensure chunk/page hints appear in snippets when present
-- [ ] Add search CLI filters:
-- [ ] `--source`
-- [ ] `--format`
+- [x] Add chunk-aware scoring hints:
+- [x] small boost for `chunk-strategy-*`
+- [x] (optional) boost for `has-image` only when query suggests visuals
+- [x] Ensure chunk/page hints appear in snippets when present
+- [x] Add search CLI filters:
+- [x] `--source`
+- [x] `--format`
 
 Suggested files:
 - `src/search.ts`
@@ -215,8 +217,8 @@ Workstream B fast path:
 
 ## Definition of Done (Phase 6 Quality Bar)
 
-- [ ] `npm run test` passes
+- [x] `npm run test` passes
 - [x] `npm run chunking:metrics` shows sensible distributions
-- [ ] Backfill can run safely in small, scoped batches
-- [ ] At least 20 spot-checked units look better than before
-- [ ] Documentation references updated CLIs and workflows
+- [x] Backfill can run safely in small, scoped batches
+- [~] At least 20 spot-checked units look better than before
+- [x] Documentation references updated CLIs and workflows

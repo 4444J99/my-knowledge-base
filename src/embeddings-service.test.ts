@@ -22,10 +22,11 @@ vi.mock('./config.js', () => ({
   resolveEmbeddingProfile: (_config?: any, env: NodeJS.ProcessEnv = process.env) => {
     const provider = env.KB_EMBEDDINGS_PROVIDER === 'mock' ? 'mock' : 'openai';
     const model = provider === 'mock' ? 'mock-embeddings' : 'text-embedding-3-small';
+    const dimensions = Number.parseInt(env.KB_EMBEDDINGS_DIMENSIONS || '1536', 10);
     return {
       provider,
       model,
-      dimensions: 1536,
+      dimensions: Number.isFinite(dimensions) && dimensions > 0 ? dimensions : 1536,
       maxTokens: 8191,
       batchSize: 100,
       profileId: 'emb_test_profile',
@@ -44,6 +45,7 @@ import { EmbeddingsService } from './embeddings-service.js';
 describe('EmbeddingsService', () => {
   beforeEach(() => {
     delete process.env.KB_EMBEDDINGS_PROVIDER;
+    delete process.env.KB_EMBEDDINGS_DIMENSIONS;
     embedMock.mockReset();
     createProviderMock.mockReset();
     createProviderMock.mockReturnValue({
@@ -68,6 +70,15 @@ describe('EmbeddingsService', () => {
     expect(first).toHaveLength(1536);
     expect(first).toEqual(second);
     expect(first).not.toEqual(different);
+  });
+
+  it('uses configured profile dimensions for mock embeddings', async () => {
+    process.env.KB_EMBEDDINGS_PROVIDER = 'mock';
+    process.env.KB_EMBEDDINGS_DIMENSIONS = '768';
+    const service = new EmbeddingsService();
+
+    const embedding = await service.generateEmbedding('profile-dimension-check');
+    expect(embedding).toHaveLength(768);
   });
 
   it('generates a single embedding', async () => {

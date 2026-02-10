@@ -45,6 +45,12 @@ KB_SEARCH_HYBRID_POLICY=strict    # strict | degrade
 
 # Embeddings runtime selection
 KB_EMBEDDINGS_PROVIDER=openai     # openai | local | mock
+
+# Release probe targets (required for remote gate automation)
+STAGING_BASE_URL=https://staging.example.com
+PROD_BASE_URL=https://app.example.com
+STAGING_AUTH_HEADER=Authorization: Bearer <token>  # optional
+PROD_AUTH_HEADER=Authorization: Bearer <token>     # optional
 ```
 
 ---
@@ -82,6 +88,19 @@ npm run readiness:semantic:strict
   - Reindex step completed for probe dataset.
   - `npm run readiness:semantic:strict` exits `0`.
 - If this gate fails, do not promote; remediate vector/profile/runtime dependency issues first.
+
+### Runtime Probe Promotion Gate
+
+- Promotion must include parity + strict runtime probes against staging and prod.
+- Run:
+  - `npm run probe:staging -- --out docs/evidence/runtime-probes/staging-<timestamp>.json`
+  - `npm run probe:prod -- --out docs/evidence/runtime-probes/prod-<timestamp>.json`
+- Promotion is blocked if either report has `pass=false`.
+- Specifically block on:
+  - any strict semantic/hybrid `503` spike
+  - `/api/search` vs `/api/search/fts` parity mismatch
+  - strict policy drift (`searchPolicyApplied`)
+  - missing `vectorProfileId` telemetry on strict responses
 
 ### Embedding Profile Promotion Workflow
 

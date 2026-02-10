@@ -1,0 +1,17 @@
+{
+  "generatedAt": "2026-02-10T00:00:00.000Z",
+  "scope": "repository-definition-validation",
+  "verifiedAlertIds": [
+    "api-5xx-spike-critical",
+    "db-sqlite-busy-warning",
+    "degraded-rate-warning",
+    "degraded-rate-critical",
+    "search-latency-p95-warning",
+    "search-latency-p95-critical",
+    "auth-init-failure-critical",
+    "strict-search-503-critical",
+    "vector-profile-drift-warning",
+    "semantic-policy-drift-warning"
+  ],
+  "notes": "Definition-level verification artifact. Runtime delivery validation remains environment-specific."
+}

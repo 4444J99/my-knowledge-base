@@ -1215,6 +1215,9 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
   router.get(
     '/health',
     asyncHandler(async (req: Request, res: Response) => {
+      const vectorProfileId = hybridSearch?.getVectorProfileId();
+      const strictPoliciesEnabled = semanticPolicy === 'strict' || hybridPolicy === 'strict';
+      const strictReady = strictPoliciesEnabled ? Boolean(hybridSearch && vectorProfileId) : Boolean(hybridSearch);
       const payload = {
         status: 'healthy',
         timestamp: new Date().toISOString(),
@@ -1223,6 +1226,16 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
         hasOpenAI: !!process.env.OPENAI_API_KEY,
         hasAnthropic: !!process.env.ANTHROPIC_API_KEY,
         version: process.env.npm_package_version || '1.0.0',
+        readiness: {
+          searchPolicies: {
+            semantic: semanticPolicy,
+            hybrid: hybridPolicy,
+          },
+          search: {
+            strictReady,
+            vectorProfileId: vectorProfileId || null,
+          },
+        },
       };
       res.json({
         success: true,

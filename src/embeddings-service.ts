@@ -12,6 +12,11 @@ config();
 class DeterministicMockEmbeddingProvider implements AIProvider {
   id = 'mock';
   name = 'Deterministic Mock Embeddings';
+  private dimensions: number;
+
+  constructor(dimensions: number) {
+    this.dimensions = dimensions;
+  }
 
   async chat(): Promise<string> {
     return '';
@@ -19,7 +24,7 @@ class DeterministicMockEmbeddingProvider implements AIProvider {
 
   async embed(text: string | string[]): Promise<number[][]> {
     const inputs = Array.isArray(text) ? text : [text];
-    return inputs.map(input => this.generateDeterministicVector(input));
+    return inputs.map((input) => this.generateDeterministicVector(input));
   }
 
   async getModels(): Promise<string[]> {
@@ -30,15 +35,15 @@ class DeterministicMockEmbeddingProvider implements AIProvider {
     return true;
   }
 
-  private generateDeterministicVector(input: string, dimensions: number = 1536): number[] {
+  private generateDeterministicVector(input: string): number[] {
     let seed = 2166136261;
     for (let i = 0; i < input.length; i++) {
       seed ^= input.charCodeAt(i);
       seed = Math.imul(seed, 16777619) >>> 0;
     }
 
-    const vector = new Array<number>(dimensions);
-    for (let i = 0; i < dimensions; i++) {
+    const vector = new Array<number>(this.dimensions);
+    for (let i = 0; i < this.dimensions; i++) {
       seed = (Math.imul(seed, 1664525) + 1013904223) >>> 0;
       vector[i] = (seed / 0xffffffff) * 2 - 1;
     }
@@ -64,7 +69,7 @@ export class EmbeddingsService {
     this.maxTokens = this.profile.maxTokens;
 
     if (this.profile.provider === 'mock') {
-      this.provider = new DeterministicMockEmbeddingProvider();
+      this.provider = new DeterministicMockEmbeddingProvider(this.dimensions);
       return;
     }
 

@@ -1,0 +1,112 @@
+groups:
+  - name: knowledge-base-search-runtime
+    rules:
+      - alert: KBApi5xxSpike
+        expr: rate(http_requests_total{route=~"/api/search.*",status=~"5.."}[10m]) > 0.02
+        for: 10m
+        labels:
+          severity: critical
+          owner: platform-sre
+          alert_id: api-5xx-spike-critical
+        annotations:
+          summary: "Knowledge base API 5xx spike"
+          runbook: "docs/OPERATIONS.md#rollback-triggers"
+
+      - alert: KBSqliteBusySpike
+        expr: count_over_time(log_events_total{code="SQLITE_BUSY"}[10m]) > 20
+        for: 10m
+        labels:
+          severity: warning
+          owner: platform-sre
+          alert_id: db-sqlite-busy-warning
+        annotations:
+          summary: "Knowledge base SQLITE_BUSY spike"
+          runbook: "docs/TROUBLESHOOTING.md"
+
+      - alert: KBDegradedModeWarning
+        expr: sum(rate(search_requests_total{degradedMode="true"}[10m])) / sum(rate(search_requests_total[10m])) > 0.15
+        for: 10m
+        labels:
+          severity: warning
+          owner: search-platform
+          alert_id: degraded-rate-warning
+        annotations:
+          summary: "Knowledge base degraded mode warning threshold crossed"
+          runbook: "docs/OPERATIONS.md#rollback-triggers"
+
+      - alert: KBDegradedModeCritical
+        expr: sum(rate(search_requests_total{degradedMode="true"}[15m])) / sum(rate(search_requests_total[15m])) > 0.30
+        for: 15m
+        labels:
+          severity: critical
+          owner: search-platform
+          alert_id: degraded-rate-critical
+        annotations:
+          summary: "Knowledge base degraded mode critical threshold crossed"
+          runbook: "docs/OPERATIONS.md#rollback-triggers"
+
+      - alert: KBSearchLatencyP95Warning
+        expr: histogram_quantile(0.95, sum(rate(search_request_duration_ms_bucket[10m])) by (le)) > 1500
+        for: 10m
+        labels:
+          severity: warning
+          owner: platform-sre
+          alert_id: search-latency-p95-warning
+        annotations:
+          summary: "Knowledge base search latency p95 warning threshold crossed"
+          runbook: "docs/OPERATIONS.md#rollback-triggers"
+
+      - alert: KBSearchLatencyP95Critical
+        expr: histogram_quantile(0.95, sum(rate(search_request_duration_ms_bucket[15m])) by (le)) > 3000
+        for: 15m
+        labels:
+          severity: critical
+          owner: platform-sre
+          alert_id: search-latency-p95-critical
+        annotations:
+          summary: "Knowledge base search latency p95 critical threshold crossed"
+          runbook: "docs/OPERATIONS.md#rollback-triggers"
+
+      - alert: KBAuthInitFailureProd
+        expr: count_over_time(log_events_total{code="AUTH_INIT_FAILURE",env="production"}[10m]) > 0
+        for: 10m
+        labels:
+          severity: critical
+          owner: identity-platform
+          alert_id: auth-init-failure-critical
+        annotations:
+          summary: "Knowledge base auth initialization failure in production"
+          runbook: "docs/TROUBLESHOOTING.md"
+
+      - alert: KBStrictSearch503Spike
+        expr: sum(rate(search_requests_total{policy="strict",status="503",endpoint=~"/api/search/(semantic|hybrid)"}[5m])) > 0
+        for: 5m
+        labels:
+          severity: critical
+          owner: search-platform
+          alert_id: strict-search-503-critical
+        annotations:
+          summary: "Knowledge base strict policy semantic/hybrid 503 spike"
+          runbook: "docs/OPERATIONS.md#rollback-triggers"
+
+      - alert: KBVectorProfileDrift
+        expr: count_over_time(search_profile_drift_total[10m]) > 0
+        for: 10m
+        labels:
+          severity: warning
+          owner: search-platform
+          alert_id: vector-profile-drift-warning
+        annotations:
+          summary: "Knowledge base vector profile drift detected"
+          runbook: "docs/TROUBLESHOOTING.md"
+
+      - alert: KBSemanticPolicyDrift
+        expr: sum(rate(search_requests_total{policyApplied!="strict",endpoint=~"/api/search/(semantic|hybrid)"}[10m])) > 0
+        for: 10m
+        labels:
+          severity: warning
+          owner: search-platform
+          alert_id: semantic-policy-drift-warning
+        annotations:
+          summary: "Knowledge base semantic policy drift detected"
+          runbook: "docs/TROUBLESHOOTING.md"

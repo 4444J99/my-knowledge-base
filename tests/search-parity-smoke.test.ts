@@ -111,7 +111,15 @@ describe('Search Endpoint Parity Smoke', () => {
       const ftsIds = ftsResponse.body.data.map((u: { id: string }) => u.id);
 
       expect(ftsIds).toEqual(searchIds);
+      expect(ftsResponse.body.success).toBe(searchResponse.body.success);
       expect(ftsResponse.body.pagination).toEqual(searchResponse.body.pagination);
+      expect(ftsResponse.body.pagination.page).toBe(searchResponse.body.pagination.page);
+      expect(ftsResponse.body.pagination.pageSize).toBe(searchResponse.body.pagination.pageSize);
+      expect(ftsResponse.body.pagination.total).toBe(searchResponse.body.pagination.total);
+      expect(ftsResponse.body.pagination.totalPages).toBe(searchResponse.body.pagination.totalPages);
+      expect(ftsResponse.body.pagination.hasNext).toBe(searchResponse.body.pagination.hasNext);
+      expect(ftsResponse.body.pagination.hasPrev).toBe(searchResponse.body.pagination.hasPrev);
+      expect(ftsResponse.body.query.original).toBe(searchResponse.body.query.original);
       expect(ftsResponse.body.query.normalized).toBe(searchResponse.body.query.normalized);
     }
   });

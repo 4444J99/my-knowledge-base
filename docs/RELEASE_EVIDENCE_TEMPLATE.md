@@ -27,17 +27,21 @@ Use one copy of this template per release tag.
 - `/api/search` vs `/api/search/fts` parity check result:
 - `/api/search/semantic` strict probe:
 - `/api/search/hybrid` strict probe:
+- Staging runtime probe artifact:
+- Production runtime probe artifact:
 
 ## Observability
 - `semanticPolicyApplied` drift alerts:
 - `vectorProfileId` mismatch alerts:
 - strict-mode `503` alert status:
 - degraded-mode alert status:
+- Alert verification artifact:
 
 ## Artifact Evidence
 - Container image ref(s):
 - Trivy scan summary:
 - Release notes URL:
+- Release evidence JSON (`docs/evidence/release-evidence/<tag>.json`):
 
 ## Rollback Readiness
 - Previous stable tag:

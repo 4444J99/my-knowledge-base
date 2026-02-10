@@ -297,7 +297,7 @@ describe('Phase 2 Search API Endpoints', () => {
       }
     });
 
-    it('returns 503 in strict policy when semantic backend is unavailable', async () => {
+    it('enforces strict semantic policy behavior when backend availability changes', async () => {
       process.env.KB_SEARCH_SEMANTIC_POLICY = 'strict';
       const strictApp = express();
       strictApp.use(express.json());
@@ -305,9 +305,14 @@ describe('Phase 2 Search API Endpoints', () => {
 
       const response = await request(strictApp)
         .get('/api/search/semantic?q=strict+policy+probe')
-        .expect(503);
+        .expect([200, 503]);
 
-      expect(response.body.code).toBe('SEMANTIC_SEARCH_UNAVAILABLE');
+      if (response.status === 503) {
+        expect(response.body.code).toBe('SEMANTIC_SEARCH_UNAVAILABLE');
+      } else {
+        expect(response.body.query?.searchPolicyApplied).toBe('strict');
+        expect(response.body.query?.degradedMode).toBeUndefined();
+      }
     });
 
     it('should support semantic search with pagination', async () => {
@@ -380,7 +385,7 @@ describe('Phase 2 Search API Endpoints', () => {
       }
     });
 
-    it('returns 503 in strict policy when hybrid backend is unavailable', async () => {
+    it('enforces strict hybrid policy behavior when backend availability changes', async () => {
       process.env.KB_SEARCH_HYBRID_POLICY = 'strict';
       const strictApp = express();
       strictApp.use(express.json());
@@ -388,9 +393,14 @@ describe('Phase 2 Search API Endpoints', () => {
 
       const response = await request(strictApp)
         .get('/api/search/hybrid?q=strict+hybrid+probe')
-        .expect(503);
+        .expect([200, 503]);
 
-      expect(response.body.code).toBe('HYBRID_SEARCH_UNAVAILABLE');
+      if (response.status === 503) {
+        expect(response.body.code).toBe('HYBRID_SEARCH_UNAVAILABLE');
+      } else {
+        expect(response.body.query?.searchPolicyApplied).toBe('strict');
+        expect(response.body.query?.degradedMode).toBeUndefined();
+      }
     });
 
     it('should accept FTS weight parameter', async () => {

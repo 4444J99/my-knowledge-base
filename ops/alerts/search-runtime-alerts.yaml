@@ -1,0 +1,116 @@
+version: 1
+generatedAt: "2026-02-10T00:00:00Z"
+ownerDefaults:
+  team: Platform/SRE
+  runbook: docs/OPERATIONS.md
+alerts:
+  - id: api-5xx-spike-critical
+    name: API 5xx Spike
+    severity: critical
+    owner: Platform/SRE
+    implemented: true
+    verified: false
+    source: metrics
+    condition: "search endpoint 5xx > 2% for 10m"
+    expression: "rate(http_requests_total{route=~'/api/search.*',status=~'5..'}[10m]) > 0.02"
+    window: 10m
+    runbook: docs/OPERATIONS.md#rollback-triggers
+  - id: db-sqlite-busy-warning
+    name: SQLite Busy Lock Spike
+    severity: warning
+    owner: Platform/SRE
+    implemented: true
+    verified: false
+    source: logs
+    condition: "SQLITE_BUSY spike across write paths"
+    expression: "count_over_time(log_events_total{code='SQLITE_BUSY'}[10m]) > 20"
+    window: 10m
+    runbook: docs/TROUBLESHOOTING.md
+  - id: degraded-rate-warning
+    name: Degraded Mode Rate Warning
+    severity: warning
+    owner: Search Platform
+    implemented: true
+    verified: false
+    source: telemetry
+    condition: "degraded mode > 15% for 10m"
+    expression: "sum(rate(search_requests_total{degradedMode='true'}[10m])) / sum(rate(search_requests_total[10m])) > 0.15"
+    window: 10m
+    runbook: docs/OPERATIONS.md#rollback-triggers
+  - id: degraded-rate-critical
+    name: Degraded Mode Rate Critical
+    severity: critical
+    owner: Search Platform
+    implemented: true
+    verified: false
+    source: telemetry
+    condition: "degraded mode > 30% for 15m"
+    expression: "sum(rate(search_requests_total{degradedMode='true'}[15m])) / sum(rate(search_requests_total[15m])) > 0.30"
+    window: 15m
+    runbook: docs/OPERATIONS.md#rollback-triggers
+  - id: search-latency-p95-warning
+    name: Search P95 Latency Warning
+    severity: warning
+    owner: Platform/SRE
+    implemented: true
+    verified: false
+    source: metrics
+    condition: "search p95 latency > 1500ms for 10m"
+    expression: "histogram_quantile(0.95, sum(rate(search_request_duration_ms_bucket[10m])) by (le)) > 1500"
+    window: 10m
+    runbook: docs/OPERATIONS.md#rollback-triggers
+  - id: search-latency-p95-critical
+    name: Search P95 Latency Critical
+    severity: critical
+    owner: Platform/SRE
+    implemented: true
+    verified: false
+    source: metrics
+    condition: "search p95 latency > 3000ms for 15m"
+    expression: "histogram_quantile(0.95, sum(rate(search_request_duration_ms_bucket[15m])) by (le)) > 3000"
+    window: 15m
+    runbook: docs/OPERATIONS.md#rollback-triggers
+  - id: auth-init-failure-critical
+    name: Auth Init Failure in Prod
+    severity: critical
+    owner: Identity/Platform
+    implemented: true
+    verified: false
+    source: logs
+    condition: "startup auth secret failure in production"
+    expression: "count_over_time(log_events_total{code='AUTH_INIT_FAILURE',env='production'}[10m]) > 0"
+    window: 10m
+    runbook: docs/TROUBLESHOOTING.md
+  - id: strict-search-503-critical
+    name: Strict Semantic/Hybrid 503 Spike
+    severity: critical
+    owner: Search Platform
+    implemented: true
+    verified: false
+    source: telemetry
+    condition: "strict policy semantic/hybrid 503 responses sustained"
+    expression: "sum(rate(search_requests_total{policy='strict',status='503',endpoint=~'/api/search/(semantic|hybrid)'}[5m])) > 0"
+    window: 5m
+    runbook: docs/OPERATIONS.md#rollback-triggers
+  - id: vector-profile-drift-warning
+    name: Vector Profile Drift
+    severity: warning
+    owner: Search Platform
+    implemented: true
+    verified: false
+    source: telemetry
+    condition: "query.vectorProfileId mismatch against expected active profile"
+    expression: "count_over_time(search_profile_drift_total[10m]) > 0"
+    window: 10m
+    runbook: docs/TROUBLESHOOTING.md
+  - id: semantic-policy-drift-warning
+    name: Semantic Policy Drift
+    severity: warning
+    owner: Search Platform
+    implemented: true
+    verified: false
+    source: telemetry
+    condition: "searchPolicyApplied drifts from strict expectation"
+    expression: "sum(rate(search_requests_total{policyApplied!='strict',endpoint=~'/api/search/(semantic|hybrid)'}[10m])) > 0"
+    window: 10m
+    runbook: docs/TROUBLESHOOTING.md

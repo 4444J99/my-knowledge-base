@@ -1,0 +1,18 @@
+# Core ownership
+* @4444J99
+
+# Workflow and release governance
+.github/workflows/* @4444J99
+.github/pull_request_template.md @4444J99
+
+# API/search contract surface
+src/api.ts @4444J99
+src/api.test.ts @4444J99
+tests/search-parity-smoke.test.ts @4444J99
+
+# Operational and release docs
+docs/OPERATIONS.md @4444J99
+docs/DEPLOYMENT.md @4444J99
+docs/MONITORING.md @4444J99
+docs/RELEASE_INDEX.md @4444J99
+docs/RELEASE_EVIDENCE_TEMPLATE.md @4444J99

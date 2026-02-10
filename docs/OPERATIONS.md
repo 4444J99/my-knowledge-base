@@ -48,6 +48,30 @@ Expected signals:
 - Strict semantic/hybrid probes do not persistently return `503`.
 - `readiness:semantic:strict` exits `0`.
 
+## Remote Runtime Probe Gates
+Use these commands to verify staging/prod parity and strict runtime behavior before promotion.
+
+Required environment variables:
+- `STAGING_BASE_URL`
+- `PROD_BASE_URL`
+- `STAGING_AUTH_HEADER` (optional)
+- `PROD_AUTH_HEADER` (optional)
+
+```bash
+# Staging: parity + strict probes, emit evidence artifact
+npm run probe:staging -- --out "docs/evidence/runtime-probes/staging-$(date +%Y%m%d-%H%M%S).json"
+
+# Production: parity + strict probes, emit evidence artifact
+npm run probe:prod -- --out "docs/evidence/runtime-probes/prod-$(date +%Y%m%d-%H%M%S).json"
+```
+
+Block promotion when any probe report has:
+- `pass=false`
+- non-zero strict `503` counts (`semantic503` or `hybrid503`)
+- parity failures (`/api/search` vs `/api/search/fts`)
+- strict policy drift (`policyDrift > 0`)
+- missing vector profile metadata (`vectorProfileMissing > 0`)
+
 ## CI Reliability Checks
 - Run CI-equivalent suites locally: `npm run test:ci`.
 - Run repeat stability checks before merging risky test/runtime changes: `npm run test:stability`.
@@ -109,6 +133,12 @@ Expected signals:
 - `GET /api/search/fts?q=...`
 - Publish release notes in `docs/RELEASE_NOTES_<YYYY-MM-DD>.md` with test evidence and residual risks.
 - Record release evidence in `docs/RELEASE_INDEX.md` using `docs/RELEASE_EVIDENCE_TEMPLATE.md`.
+- Backfill release chronology from GitHub metadata:
+- `npm run release-index:backfill`
+- Verify alert definitions before promotion:
+- `npm run alerts:verify`
+- For strict sign-off with evidence artifacts:
+- `npm run alerts:verify:strict`
 
 ## Rollback Triggers
 - Trigger rollback when any condition below is true:
@@ -138,3 +168,6 @@ Expected signals:
 - `docs/TROUBLESHOOTING.md`
 - `docs/RELEASE_NOTES_2026-02-09.md`
 - `src/web-server.ts`
+- `scripts/probe-search-runtime.ts`
+- `scripts/backfill-release-index.ts`
+- `scripts/verify-alerts.ts`
