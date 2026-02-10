@@ -626,5 +626,37 @@ export const coreMigrations: Migration[] = [
       `);
       logger.warn('Rollback from migration 8 leaves federated_scan_runs.job_id in place (SQLite limitation)');
     }
+  },
+  {
+    version: 9,
+    name: 'add_search_queries_table',
+    up: (db) => {
+      db.exec(`
+        CREATE TABLE IF NOT EXISTS search_queries (
+          id TEXT PRIMARY KEY,
+          query TEXT NOT NULL,
+          normalized_query TEXT NOT NULL,
+          search_type TEXT NOT NULL,
+          timestamp TEXT NOT NULL,
+          latency_ms INTEGER,
+          result_count INTEGER,
+          user_session TEXT,
+          filters TEXT,
+          clicked_result TEXT
+        );
+
+        CREATE INDEX IF NOT EXISTS idx_search_queries_timestamp
+          ON search_queries(timestamp DESC);
+        CREATE INDEX IF NOT EXISTS idx_search_queries_normalized
+          ON search_queries(normalized_query);
+      `);
+    },
+    down: (db) => {
+      db.exec(`
+        DROP INDEX IF EXISTS idx_search_queries_normalized;
+        DROP INDEX IF EXISTS idx_search_queries_timestamp;
+        DROP TABLE IF EXISTS search_queries;
+      `);
+    }
   }
 ];

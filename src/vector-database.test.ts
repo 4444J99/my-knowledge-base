@@ -189,6 +189,41 @@ describe('VectorDatabase', () => {
     expect(collectionMock.add).toHaveBeenCalledOnce();
   });
 
+  it('adds units in batches based on embedding profile batch size', async () => {
+    const db = createDb({ batchSize: 2 });
+    await db.init();
+
+    const units: AtomicUnit[] = Array.from({ length: 5 }, (_, index) => ({
+      id: `unit-${index + 1}`,
+      type: 'insight',
+      title: `Title ${index + 1}`,
+      content: `Content ${index + 1}`,
+      context: 'Context',
+      tags: ['tag'],
+      category: 'programming',
+      timestamp: new Date(),
+      keywords: ['keyword'],
+      relatedUnits: [],
+    }));
+    const embeddings = Array.from({ length: 5 }, () => [0.1, 0.2]);
+
+    await db.addUnits(units, embeddings);
+
+    expect(collectionMock.add).toHaveBeenCalledTimes(3);
+    expect(collectionMock.add).toHaveBeenNthCalledWith(
+      1,
+      expect.objectContaining({ ids: ['unit-1', 'unit-2'] })
+    );
+    expect(collectionMock.add).toHaveBeenNthCalledWith(
+      2,
+      expect.objectContaining({ ids: ['unit-3', 'unit-4'] })
+    );
+    expect(collectionMock.add).toHaveBeenNthCalledWith(
+      3,
+      expect.objectContaining({ ids: ['unit-5'] })
+    );
+  });
+
   it('rejects search when active pointer profile mismatches embedding profile', async () => {
     writeFileSync(pointerPath, JSON.stringify({
       profileId: 'emb_profile_b',

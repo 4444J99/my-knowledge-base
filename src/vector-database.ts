@@ -195,28 +195,41 @@ export class VectorDatabase {
       throw new Error('Number of units and embeddings must match');
     }
 
-    const ids = units.map(u => u.id);
-    const documents = units.map(u => this.prepareDocument(u));
-    const metadatas = units.map(u => {
-      const meta: Record<string, string> = {
-        type: u.type,
-        category: u.category,
-        tags: u.tags.join(','),
-        timestamp: u.timestamp.toISOString(),
-        title: u.title,
-      };
-      if (u.conversationId) meta.conversationId = u.conversationId;
-      if (u.documentId) meta.documentId = u.documentId;
-      return meta;
-    });
+    const batchSize = Math.max(1, this.embeddingProfile.batchSize || 100);
+    const totalBatches = Math.ceil(units.length / batchSize);
 
     try {
-      await this.collection.add({
-        ids,
-        embeddings,
-        documents,
-        metadatas,
-      });
+      for (let i = 0; i < units.length; i += batchSize) {
+        const batchUnits = units.slice(i, i + batchSize);
+        const batchEmbeddings = embeddings.slice(i, i + batchSize);
+
+        const ids = batchUnits.map(u => u.id);
+        const documents = batchUnits.map(u => this.prepareDocument(u));
+        const metadatas = batchUnits.map(u => {
+          const meta: Record<string, string> = {
+            type: u.type,
+            category: u.category,
+            tags: u.tags.join(','),
+            timestamp: u.timestamp.toISOString(),
+            title: u.title,
+          };
+          if (u.conversationId) meta.conversationId = u.conversationId;
+          if (u.documentId) meta.documentId = u.documentId;
+          return meta;
+        });
+
+        await this.collection.add({
+          ids,
+          embeddings: batchEmbeddings,
+          documents,
+          metadatas,
+        });
+
+        const batchIndex = Math.floor(i / batchSize) + 1;
+        if (batchIndex === 1 || batchIndex === totalBatches || batchIndex % 20 === 0) {
+          console.log(`🗄️ Vector write progress: batch ${batchIndex}/${totalBatches}`);
+        }
+      }
 
       console.log(`✅ Added ${units.length} units to vector database`);
     } catch (error) {
