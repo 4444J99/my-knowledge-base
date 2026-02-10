@@ -9,8 +9,8 @@ RUN apk add --no-cache python3 make g++ cairo-dev jpeg-dev pango-dev giflib-dev
 # Copy package files
 COPY package*.json ./
 
-# Install dependencies
-RUN npm ci --only=production && \
+# Install dependencies needed for build (includes devDependencies like TypeScript)
+RUN npm ci && \
     npm cache clean --force
 
 # Copy source code
@@ -18,6 +18,9 @@ COPY . .
 
 # Build TypeScript
 RUN npm run build
+
+# Trim to production-only dependencies for runtime image
+RUN npm prune --omit=dev
 
 # Production stage
 FROM node:20-alpine
