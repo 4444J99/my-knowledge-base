@@ -1,86 +1,29 @@
-export type FederatedSourceKind = 'local-filesystem';
-export type FederatedSourceStatus = 'active' | 'disabled';
-export type FederatedScanStatus = 'running' | 'completed' | 'failed' | 'cancelled';
-export type FederatedScanMode = 'incremental' | 'full';
-export type FederatedScanJobStatus = 'queued' | 'running' | 'completed' | 'failed' | 'cancelled';
+import type {
+  CreateFederatedSourceInput as ContractsCreateFederatedSourceInput,
+  FederatedDocument as ContractsFederatedDocument,
+  FederatedScanJob as ContractsFederatedScanJob,
+  FederatedScanJobStatus as ContractsFederatedScanJobStatus,
+  FederatedScanMode as ContractsFederatedScanMode,
+  FederatedScanRun as ContractsFederatedScanRun,
+  FederatedScanStatus as ContractsFederatedScanStatus,
+  FederatedSearchHit as ContractsFederatedSearchHit,
+  FederatedSource as ContractsFederatedSource,
+  FederatedSourceKind as ContractsFederatedSourceKind,
+  FederatedSourceStatus as ContractsFederatedSourceStatus,
+  UpdateFederatedSourceInput as ContractsUpdateFederatedSourceInput,
+} from '@knowledge-base/contracts';
 
-export interface FederatedSourceRecord {
-  id: string;
-  name: string;
-  kind: FederatedSourceKind;
-  status: FederatedSourceStatus;
-  rootPath: string;
-  includePatterns: string[];
-  excludePatterns: string[];
-  metadata: Record<string, unknown>;
-  createdAt: string;
-  updatedAt: string;
-  lastScanAt?: string;
-  lastScanStatus?: FederatedScanStatus;
-  lastScanSummary?: Record<string, unknown>;
-}
-
-export interface FederatedDocumentRecord {
-  id: string;
-  sourceId: string;
-  externalId: string;
-  path: string;
-  title: string;
-  content: string;
-  hash: string;
-  sizeBytes: number | null;
-  mimeType: string | null;
-  modifiedAt: string | null;
-  indexedAt: string;
-  metadata: Record<string, unknown>;
-}
-
-export interface FederatedScanRunRecord {
-  id: string;
-  sourceId: string;
-  jobId: string | null;
-  status: FederatedScanStatus;
-  scannedCount: number;
-  indexedCount: number;
-  skippedCount: number;
-  errorCount: number;
-  startedAt: string;
-  completedAt: string | null;
-  errorMessage: string | null;
-  summary: Record<string, unknown>;
-}
-
-export interface FederatedScanJobRecord {
-  id: string;
-  sourceId: string;
-  mode: FederatedScanMode;
-  status: FederatedScanJobStatus;
-  createdAt: string;
-  startedAt: string | null;
-  completedAt: string | null;
-  runId: string | null;
-  requestedBy: string | null;
-  errorMessage: string | null;
-  meta: Record<string, unknown>;
-}
-
-export interface CreateFederatedSourceInput {
-  name: string;
-  rootPath: string;
-  kind?: FederatedSourceKind;
-  includePatterns?: string[];
-  excludePatterns?: string[];
-  metadata?: Record<string, unknown>;
-}
-
-export interface UpdateFederatedSourceInput {
-  name?: string;
-  status?: FederatedSourceStatus;
-  rootPath?: string;
-  includePatterns?: string[];
-  excludePatterns?: string[];
-  metadata?: Record<string, unknown>;
-}
+export type FederatedSourceKind = ContractsFederatedSourceKind;
+export type FederatedSourceStatus = ContractsFederatedSourceStatus;
+export type FederatedScanStatus = ContractsFederatedScanStatus;
+export type FederatedScanMode = ContractsFederatedScanMode;
+export type FederatedScanJobStatus = ContractsFederatedScanJobStatus;
+export type FederatedSourceRecord = ContractsFederatedSource;
+export type FederatedDocumentRecord = ContractsFederatedDocument;
+export type FederatedScanRunRecord = ContractsFederatedScanRun;
+export type FederatedScanJobRecord = ContractsFederatedScanJob;
+export type CreateFederatedSourceInput = ContractsCreateFederatedSourceInput;
+export type UpdateFederatedSourceInput = ContractsUpdateFederatedSourceInput;
 
 export interface LocalFilesystemDocument {
   externalId: string;
@@ -94,15 +37,4 @@ export interface LocalFilesystemDocument {
   metadata: Record<string, unknown>;
 }
 
-export interface FederatedSearchItem {
-  id: string;
-  sourceId: string;
-  sourceName: string;
-  path: string;
-  title: string;
-  snippet: string;
-  score: number;
-  mimeType: string | null;
-  modifiedAt: string | null;
-  indexedAt: string;
-}
+export type FederatedSearchItem = ContractsFederatedSearchHit;

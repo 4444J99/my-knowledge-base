@@ -411,9 +411,29 @@ app.get('/api/graph', (req, res) => {
 // Get conversations
 app.get('/api/conversations', (req, res) => {
   try {
+    const providerByConversationId = new Map<string, string>();
+    try {
+      const rows = db
+        .getRawHandle()
+        .prepare(`
+          SELECT
+            c.id as id,
+            COALESCE(p.provider_id, c.source_type, 'unknown') as provider
+          FROM conversations c
+          LEFT JOIN providers p ON p.id = c.provider_id
+        `)
+        .all() as Array<{ id: string; provider: string }>;
+
+      rows.forEach((row) => providerByConversationId.set(row.id, row.provider || 'unknown'));
+    } catch {
+      // Universe schema may not exist in older installs; fall back to heuristics below.
+    }
+
     const conversations = db.getAllConversations().map((conversation) => ({
       ...conversation,
-      source: 'claude',
+      source:
+        providerByConversationId.get(conversation.id) ||
+        (conversation.url?.includes('chatgpt') ? 'chatgpt' : conversation.url?.includes('gemini') ? 'gemini' : 'unknown'),
       unitCount: 0,
       timestamp: conversation.created.toISOString(),
     }));

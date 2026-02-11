@@ -1,49 +1,59 @@
 # Project Closure Report
 
-Updated: 2026-02-10 (exhaustive pass)
+Updated: 2026-02-11 (exhaustive universe + contract convergence pass III)
 
 ## Definitive Done vs Not Done Matrix
 
-| Area | Status | Evidence | Remaining Work |
+Status values:
+- `done`: implemented and validated in-repo
+- `partial`: meaningful implementation exists, but scope is not fully complete
+- `blocked-external`: cannot complete inside this repository without target environment inputs
+
+| Workstream | Status | Evidence | Remaining Work |
 |---|---|---|---|
-| Release pipeline hardening (Trivy pin + strict readiness gate) | done | `.github/workflows/ci.yml`, `.github/workflows/release.yml` | none |
-| Search parity enforcement in CI/release | done | `tests/search-parity-smoke.test.ts`, `.github/workflows/ci.yml`, `.github/workflows/release.yml` | none |
-| Monitoring governance structure (alert catalog, ownership, verification paths) | done | `docs/MONITORING.md`, `ops/alerts/search-runtime-alerts.yaml`, `ops/monitoring/prometheus-rules.yml` | none |
-| PR governance/doc drift controls | done | `.github/pull_request_template.md`, `.github/CODEOWNERS` | none |
-| Release chronology index + backfill automation | done | `docs/RELEASE_INDEX.md`, `scripts/backfill-release-index.ts` | none |
-| Phase 6 workstream A/B repo implementation | done | `docs/PHASE6_EXECUTION_PLAN.md`, `src/chunking-strategies.ts`, `src/bulk-tag-backfill-cli.ts`, `src/taxonomy-cli.ts`, `src/hybrid-search.ts` | none |
-| Phase 6 B0 live backfill trial + 10–20 unit spot-check | done (local) | `docs/evidence/backfill-trials/latest.json`, `docs/evidence/backfill-trials/spot-check-limit100-20260210.json` | none (repo-side) |
-| Alert strict verification artifact contract | done | `scripts/verify-alerts.ts`, `docs/evidence/alert-verification/latest.json` | refresh evidence per release |
-| Runtime probe automation for staging/prod | done (repo), pending external config/execution | `scripts/probe-search-runtime.ts`, `.github/workflows/release.yml`, `npm run probe:staging`, `npm run probe:prod`, `docs/evidence/runtime-probes/staging-prod-probe-blocker-20260210.json` | configure GitHub + 1Password refs and archive staging/prod probe reports |
-| Full unbounded reindex completion evidence | pending external execution | runbook + evidence path ready | execute unbounded reindex in target env and store completion artifact |
-| Staging/prod strict runtime sign-off and release tag sign-off packet | pending external execution | `docs/RELEASE_EVIDENCE_TEMPLATE.md`, `docs/RELEASE_INDEX.md` | perform target-env probe + strict checks and record signed evidence row |
+| 1. Release pipeline hardening (Trivy pin + strict readiness + promotion blocking) | done | `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/.github/workflows/ci.yml`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/.github/workflows/release.yml` | none (repo-side) |
+| 2. Search parity enforcement in CI/release | done | `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/tests/search-parity-smoke.test.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/.github/workflows/ci.yml`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/.github/workflows/release.yml` | none (repo-side) |
+| 3. Monitoring governance + verification table/runbooks | done | `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/docs/MONITORING.md`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/docs/OPERATIONS.md` | refresh verification dates per release |
+| 4. Canonical universe schema (provider/account/thread/turn/term/network/ingest run) | done | `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/src/universe/schema.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/src/migrations.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/src/database.ts` | none (repo-side) |
+| 5. Provider importers (ChatGPT, Claude, Gemini, Grok, Copilot) | done | `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/src/sources/providers/*.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/src/sources/providers/importers.test.ts` | keep fixture bank updated for provider format drift |
+| 6. Safety-first ingest policy (exclude + redact + quarantine report) | done | `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/src/universe/intake-policy.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/src/universe/ingest.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/src/universe/ingest.test.ts` | none (repo-side) |
+| 7. Universe API surface (`/api/universe/*`) | done | `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/src/universe/api.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/src/universe/api.test.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/docs/UNIVERSE_API.md` | none (repo-side) |
+| 8. Web macro→micro navigation (universe/provider/chat/turn/term/network) | done | `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/web-react/src/components/tabs/UniverseTab.tsx`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/web-react/src/api/client.ts` | expand E2E coverage for large corpora |
+| 9. Shared contracts package and workspace topology | done | `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/packages/contracts/src/index.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/src/types.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/src/universe/store.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/src/api-types.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/src/federation/types.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/web-react/src/types/index.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/web-react/src/api/client.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/apps/desktop/src/universe-client.ts` | none (repo-side) |
+| 10. Full native mobile app parity | partial (advanced) | `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/apps/mobile/App.tsx`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/apps/mobile/src/universe-client.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/apps/mobile/src/offline-cache.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/apps/mobile/src/sync.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/apps/mobile/src/shell.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/apps/mobile/tsconfig.json`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/tests/native-parity.test.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/tests/native-runtime-smoke.test.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/tests/native-mobile-shell.test.ts` | production Expo runtime integration + real device smoke runs (external env) |
+| 11. Full native desktop app parity | partial (advanced) | `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/apps/desktop/src/universe-client.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/apps/desktop/src/workflows.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/apps/desktop/src/shell.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/apps/desktop/src/main.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/apps/desktop/tsconfig.json`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/tests/native-parity.test.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/tests/native-runtime-smoke.test.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/tests/native-desktop-shell.test.ts` | runtime Tauri packaging + signed target-platform smoke (external env) |
+| 12. 3D mode parity with 2D semantics | done | `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/packages/contracts/src/universe-visual.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/web-react/src/components/tabs/UniverseTab.tsx`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/src/universe/visual-parity.test.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/tests/universe-visual-ui-parity.test.ts` | none (repo-side) |
+| 13. Runtime strict readiness + probe sign-off in staging/prod | blocked-external | `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/.github/workflows/release.yml`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/scripts/generate-release-evidence.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/src/release-evidence.ts`, `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/docs/RELEASE_INDEX.md` | run in target env and commit evidence artifacts |
+| 14. Full unbounded reindex completion evidence | blocked-external | runbooks and evidence paths prepared | execute unbounded production-scale reindex and store signed evidence |
 
-## Required External Completion Inputs
+## Current Validation Evidence (This Pass)
 
-1. `docs/evidence/runtime-probes/staging-<timestamp>.json` from real staging.
-2. `docs/evidence/runtime-probes/prod-<timestamp>.json` from real production.
-3. `docs/evidence/release-evidence/<tag>.json` containing unbounded reindex completion proof and runtime sign-off.
-4. GitHub + 1Password runtime probe configuration:
-   - GitHub secret: `OP_SERVICE_ACCOUNT_TOKEN` (allow-secret: secret name only)
-   - GitHub variables:
-     - `OP_STAGING_BASE_URL_REF`
-     - `OP_PROD_BASE_URL_REF`
-     - `OP_STAGING_AUTH_HEADER_REF` (optional)
-     - `OP_PROD_AUTH_HEADER_REF` (optional)
-   - 1Password item fields referenced by those variables (for example `op://kb-release-runtime/kb-staging-runtime-probe/base_url`)
+- `npm run lint` passed.
+- `npm run build` passed.
+- `npm run build:all` passed.
+- `npm run test:ci` passed.
+- `npm run test:integration` passed.
+- `npm run test:parity` passed.
+- `npm run test:universe` passed (includes provider importers, universe API, ingest policy, ingest integration).
+- `npm run test:native` passed.
+- `npm run test:native` now includes mobile and desktop shell orchestration tests.
+- `npm run release:evidence:generate -- --allow-incomplete --tag v-next --commit local` succeeded for local structure validation.
+- `npm run -w web-react build` passed.
+- `npm run test:integration` passed with UI parity suite (`/tests/universe-visual-ui-parity.test.ts`) included.
+- `npm run test:integration` now also includes desktop shell orchestration coverage (`/tests/native-desktop-shell.test.ts`).
+- `npm run closure:evidence:check` added to verify runtime-probe/release-evidence linkage before promotion.
+- Tagged release workflow now generates `docs/evidence/release-evidence/<tag>.json` and uploads `release-evidence-<tag>` artifact prior to GitHub Release publish.
+- `npm run build:all` now includes native-core module compilation for `/apps/mobile` and `/apps/desktop`.
+- Universe response/selection contracts now flow through shared package for backend + web + desktop client paths.
+- Shared non-universe DTOs (search/saved-search/stats/federation/admin dashboard payloads) now flow through `/packages/contracts` aliases across backend and web.
 
-## Local Validation Evidence (Repo-Side)
+## External Inputs Still Required For Alpha→Omega Closure
 
-- Strict readiness pass (strict policy): `docs/evidence/runtime-probes/local-strict-readiness-20260210-164823.json`
-- Parity + strict probe pass: `docs/evidence/runtime-probes/local-all-20260210-164837.json`
-- Backfill trial + spot-check: `docs/evidence/backfill-trials/latest.json`
-
-## Command Set For External Closure
-
-```bash
-npm run probe:staging -- --out "docs/evidence/runtime-probes/staging-$(date +%Y%m%d-%H%M%S).json"
-npm run probe:prod -- --out "docs/evidence/runtime-probes/prod-$(date +%Y%m%d-%H%M%S).json"
-npm run alerts:verify
-npm run alerts:verify:strict
-npm run release-index:backfill
-```
+1. Staging runtime probe artifact:
+   - `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/docs/evidence/runtime-probes/staging-<timestamp>.json`
+2. Production runtime probe artifact:
+   - `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/docs/evidence/runtime-probes/prod-<timestamp>.json`
+3. Release evidence packet with strict readiness + parity + rollback notes:
+   - `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/docs/evidence/release-evidence/<tag>.json`
+4. Completed unbounded reindex proof linked in:
+   - `/Users/4jp/world/realm/operate/org/liminal/repo/my-knowledge-base/docs/RELEASE_INDEX.md`

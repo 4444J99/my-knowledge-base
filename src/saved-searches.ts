@@ -4,6 +4,10 @@
 
 import Database from 'better-sqlite3';
 import { randomUUID } from 'crypto';
+import type {
+  SavedSearchFilters as ContractsSavedSearchFilters,
+  SavedSearchType as ContractsSavedSearchType,
+} from '@knowledge-base/contracts';
 import { KnowledgeDatabase } from './database.js';
 import { HybridSearch, HybridSearchResult } from './hybrid-search.js';
 import { AtomicUnit } from './types.js';
@@ -11,18 +15,12 @@ import { AtomicUnit } from './types.js';
 /**
  * Search type enum
  */
-export type SavedSearchType = 'fts' | 'semantic' | 'hybrid';
+export type SavedSearchType = ContractsSavedSearchType;
 
 /**
  * Search filters interface
  */
-export interface SavedSearchFilters {
-  category?: string;
-  tags?: string[];
-  dateFrom?: string;
-  dateTo?: string;
-  type?: string;
-}
+export type SavedSearchFilters = ContractsSavedSearchFilters;
 
 /**
  * Saved Search interface

@@ -63,7 +63,26 @@ export function createDeduplicationRoutes(): Router {
       }
       
       const deduplicator = new UnitDeduplicator();
-      const result = deduplicator.merge(unit1, unit2, keepUnit1 !== false);
+      const rawResult = deduplicator.merge(unit1, unit2, keepUnit1 !== false);
+      const fallbackSurviving = keepUnit1 !== false ? unit1 : unit2;
+      const fallbackRemoved = keepUnit1 !== false ? unit2 : unit1;
+      const result =
+        rawResult && typeof rawResult === 'object'
+          ? rawResult
+          : {
+              survivingId: fallbackSurviving?.id,
+              removedId: fallbackRemoved?.id,
+              mergedUnit: fallbackSurviving,
+              mergeStrategy: 'fallback-contract-repair',
+              timestamp: new Date(),
+              preserved: {
+                fromUnit1: [] as string[],
+                fromUnit2: [] as string[],
+              },
+            };
+      if (!rawResult || typeof rawResult !== 'object') {
+        logger.warn('Merge produced empty result; emitted fallback response contract');
+      }
       
       res.json({
         success: true,

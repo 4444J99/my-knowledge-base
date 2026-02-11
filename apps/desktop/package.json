@@ -1,0 +1,14 @@
+{
+  "name": "@knowledge-base/desktop",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "echo \"Install tauri-cli and run: cargo tauri dev\"",
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "@knowledge-base/contracts": "file:../../packages/contracts"
+  }
+}

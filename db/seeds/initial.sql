@@ -82,3 +82,11 @@ VALUES (
   'session-123',
   '{"category":"design","tag":"filters"}'
 );
+
+INSERT OR IGNORE INTO providers (id, provider_id, display_name, metadata, created_at, updated_at)
+VALUES
+  ('provider-claude', 'claude', 'Claude', '{}', datetime('now'), datetime('now')),
+  ('provider-chatgpt', 'chatgpt', 'ChatGPT', '{}', datetime('now'), datetime('now')),
+  ('provider-gemini', 'gemini', 'Gemini', '{}', datetime('now'), datetime('now')),
+  ('provider-grok', 'grok', 'Grok', '{}', datetime('now'), datetime('now')),
+  ('provider-copilot', 'copilot', 'Copilot', '{}', datetime('now'), datetime('now'));

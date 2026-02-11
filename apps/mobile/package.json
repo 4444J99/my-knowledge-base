@@ -1,0 +1,14 @@
+{
+  "name": "@knowledge-base/mobile",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "echo \"Install expo in this workspace and run: npx expo start\"",
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "@knowledge-base/contracts": "file:../../packages/contracts"
+  }
+}

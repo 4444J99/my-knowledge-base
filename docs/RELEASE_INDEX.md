@@ -27,6 +27,12 @@ Use `docs/RELEASE_EVIDENCE_TEMPLATE.md` for new entries.
 |---|---|---|
 | `master` | `ab76ba1` | Local gates passed (`lint`, `build`, `test:ci`, `test:coverage`) and local strict/parity probes passed for this update window. |
 
+## Runtime Evidence Ledger
+
+| Tag | Release Evidence JSON | Staging Probe Artifact | Production Probe Artifact | Reindex Evidence | Alert Verification | Rollback Note |
+|---|---|---|---|---|---|---|
+| `pending-next-tag` | `docs/evidence/release-evidence/<tag>.json` | `staging-<timestamp>.json` | `prod-<timestamp>.json` | pending unbounded reindex evidence artifact | `docs/evidence/alert-verification/latest.json` | pending |
+
 ## Backfill Procedure
 
 1. Find release workflow runs for each tag in GitHub Actions.

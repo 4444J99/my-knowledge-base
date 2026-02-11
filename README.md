@@ -383,6 +383,23 @@ The system is validated through multiple layers:
 
 ---
 
+## Universe Chat Cosmos (New)
+
+- Canonical provider-aware schema now includes provider/account/thread/turn/token layers (`providers`, `provider_accounts`, `chat_threads`, `chat_turns`, `term_lexicon`, `term_occurrences`, `thematic_edges`, `ingest_runs`).
+- New API namespace: `/api/universe/*` for macro→micro traversal and term occurrence search.
+- New ingestion path with safety enforcement:
+- Dry run: `npm run ingest:universe -- --root=intake`
+- Persist + report: `npm run ingest:universe:save -- --root=intake --report-dir=intake/reports`
+- Provider importer coverage includes JSON + fallback transcript formats (HTML/markdown role-tagged logs) for ChatGPT, Claude, Gemini, Grok, and Copilot.
+- Universe contract test gate: `npm run test:universe`.
+- Web UI includes a `Universe` tab for provider→chat→turn drill-down and click-to-global-term exploration.
+- Workspace scaffolds added for native clients:
+- Mobile: `/apps/mobile` (Expo/React Native scaffold)
+- Desktop: `/apps/desktop` (Tauri scaffold)
+- Shared contracts package: `/packages/contracts`.
+- Native core parity modules now include shared universe API clients, offline exploration cache, resumable sync planner, and desktop attach/reindex workflow primitives (`apps/mobile/src/*`, `apps/desktop/src/*`), validated by `tests/native-parity.test.ts`.
+- `npm run build:all` compiles server + web + native-core modules in one gate.
+
 ## Roadmap
 
 - [ ] **Additional exporters** — Perplexity, generic markdown import, and browser extension for one-click capture

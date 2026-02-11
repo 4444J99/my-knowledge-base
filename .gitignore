@@ -50,6 +50,7 @@ intake/incoming/
 
 # Intake organizer reports (run artifacts)
 intake/reports/organize-*/
+intake/reports/universe-ingest-*.json
 
 # Local git clones captured in exports; keep untracked
 intake/Takeout\ 4/Drive/My\ Mac/Development/stage/Wires/GitHub/desktop-tutorial/

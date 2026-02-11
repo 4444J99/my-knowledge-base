@@ -130,9 +130,25 @@ Block promotion when any probe report has:
 - Apply new defaults to existing Apple Notes HTML:
 - `npm run reprocess:documents -- --source apple-notes --format html --limit 200 --save --yes`
 
+## Universe Ingest & Reindex
+- Dry-run universal archive ingestion with safety policy: `npm run ingest:universe -- --root=intake --limit=100`.
+- Persist universal ingestion results + audit report: `npm run ingest:universe:save -- --root=intake --report-dir=intake/reports`.
+- Run universe/provider contract suites: `npm run test:universe`.
+- Run native parity regression suites (logic + runtime smoke): `npm run test:native`.
+- Reindex macro→micro term graph via API:
+- `POST /api/universe/reindex` (returns `runId`)
+- `GET /api/universe/reindex/:runId` (poll until `status=completed`)
+- Verify endpoints after ingest/reindex:
+- `GET /api/universe/summary`
+- `GET /api/universe/providers`
+- `GET /api/universe/providers/:providerId/chats`
+- `GET /api/universe/chats/:chatId/turns`
+- `GET /api/universe/terms/:term/occurrences`
+
 ## Release Hardening Checklist
 - Confirm branch and commit target: `git rev-parse --abbrev-ref HEAD` and `git log --oneline -n 1`.
 - Run compile gate: `npm run build`.
+- Run full multi-workspace build gate (server + web + native-core): `npm run build:all`.
 - Run test gates: `npm run test:ci` and `npm run test:coverage`.
 - Run dedicated parity gate: `npm run test:parity`.
 - Run production-like startup checks:
@@ -146,12 +162,18 @@ Block promotion when any probe report has:
 - `GET /api/search/fts?q=...`
 - Publish release notes in `docs/RELEASE_NOTES_<YYYY-MM-DD>.md` with test evidence and residual risks.
 - Record release evidence in `docs/RELEASE_INDEX.md` using `docs/RELEASE_EVIDENCE_TEMPLATE.md`.
+- Generate canonical release evidence packet + runtime ledger row:
+- `npm run release:evidence:generate -- --tag <tag> --commit <sha> --image-ref <ghcr-ref> --reindex-evidence "<artifact-or-note>"`
 - Backfill release chronology from GitHub metadata:
 - `npm run release-index:backfill`
 - Verify alert definitions before promotion:
 - `npm run alerts:verify`
 - For strict sign-off with evidence artifacts:
 - `npm run alerts:verify:strict`
+- Verify runtime probe + release evidence closure linkage:
+- `npm run closure:evidence:check`
+- For blocking sign-off:
+- `npm run closure:evidence:strict`
 
 ## Rollback Triggers
 - Trigger rollback when any condition below is true:
@@ -178,9 +200,11 @@ Block promotion when any probe report has:
 - `docs/MONITORING.md`
 - `docs/RELEASE_INDEX.md`
 - `docs/RELEASE_EVIDENCE_TEMPLATE.md`
+- `docs/UNIVERSE_API.md`
 - `docs/TROUBLESHOOTING.md`
 - `docs/RELEASE_NOTES_2026-02-09.md`
 - `src/web-server.ts`
 - `scripts/probe-search-runtime.ts`
 - `scripts/backfill-release-index.ts`
 - `scripts/verify-alerts.ts`
+- `scripts/verify-closure-evidence.ts`

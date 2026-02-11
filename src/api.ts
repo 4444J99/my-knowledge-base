@@ -24,6 +24,8 @@ import { FederatedScanQueue } from './federation/scan-queue.js';
 import { FederatedSourceRegistry } from './federation/source-registry.js';
 import { FederatedSearchService } from './federation/search.js';
 import { FederatedScanJobStatus, UpdateFederatedSourceInput } from './federation/types.js';
+import { UniverseStore } from './universe/store.js';
+import { createUniverseRouter } from './universe/api.js';
 import {
   formatUnit,
   parseIntParam,
@@ -35,6 +37,12 @@ import {
 import {
   ApiErrorResponse,
   ApiSuccessResponse,
+  DatabaseStatsPayload,
+  FederatedScanJob as FederatedScanJobDto,
+  FederatedScanRun as FederatedScanRunDto,
+  FederatedSearchHit as FederatedSearchHitDto,
+  FederatedSource as FederatedSourceDto,
+  OffsetListResponse,
   PaginatedResponse,
   SearchFallbackReason,
   SearchResponse,
@@ -100,6 +108,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
     concurrency: Math.max(1, Number.parseInt(process.env.FEDERATION_SCAN_CONCURRENCY ?? '1', 10) || 1),
   });
   const federatedSearch = new FederatedSearchService(dbHandle);
+  const universeStore = new UniverseStore(dbHandle);
   const federationAllowedRoots = (process.env.FEDERATION_ALLOWED_ROOTS ?? '')
     .split(',')
     .map((entry) => entry.trim())
@@ -1182,7 +1191,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
         GROUP BY source
       `).all() as Array<{ source: string | null; count: number }>;
 
-      const payload = {
+      const payload: DatabaseStatsPayload = {
         units: stats.totalUnits.count,
         tags: stats.totalTags.count,
         conversations: stats.totalConversations.count,
@@ -1202,7 +1211,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
         data: payload,
         ...payload,
         timestamp: new Date().toISOString(),
-      } as ApiSuccessResponse<any>);
+      } as ApiSuccessResponse<DatabaseStatsPayload>);
 
       logger.debug('Requested database statistics');
     })
@@ -1819,7 +1828,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
         success: true,
         data: source,
         timestamp: new Date().toISOString(),
-      } as ApiSuccessResponse<any>);
+      } as ApiSuccessResponse<FederatedSourceDto>);
     })
   );
 
@@ -1836,7 +1845,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
         success: true,
         data: sources,
         timestamp: new Date().toISOString(),
-      } as ApiSuccessResponse<any>);
+      } as ApiSuccessResponse<FederatedSourceDto[]>);
     })
   );
 
@@ -1919,7 +1928,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
         success: true,
         data: source,
         timestamp: new Date().toISOString(),
-      } as ApiSuccessResponse<any>);
+      } as ApiSuccessResponse<FederatedSourceDto>);
     })
   );
 
@@ -1957,7 +1966,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
         success: true,
         data: job,
         timestamp: new Date().toISOString(),
-      } as ApiSuccessResponse<any>);
+      } as ApiSuccessResponse<FederatedScanJobDto>);
     })
   );
 
@@ -1981,7 +1990,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
         success: true,
         data: scans,
         timestamp: new Date().toISOString(),
-      } as ApiSuccessResponse<any>);
+      } as ApiSuccessResponse<FederatedScanRunDto[]>);
     })
   );
 
@@ -2025,7 +2034,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
           totalPages: jobs.length === 0 ? 0 : Math.ceil(jobs.length / limit),
         },
         timestamp: new Date().toISOString(),
-      });
+      } as OffsetListResponse<FederatedScanJobDto>);
     })
   );
 
@@ -2047,7 +2056,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
         success: true,
         data: job,
         timestamp: new Date().toISOString(),
-      } as ApiSuccessResponse<any>);
+      } as ApiSuccessResponse<FederatedScanJobDto>);
     })
   );
 
@@ -2071,7 +2080,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
         success: true,
         data: cancelled,
         timestamp: new Date().toISOString(),
-      } as ApiSuccessResponse<any>);
+      } as ApiSuccessResponse<FederatedScanJobDto>);
     })
   );
 
@@ -2127,7 +2136,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
           },
         },
         timestamp: new Date().toISOString(),
-      });
+      } as OffsetListResponse<FederatedSearchHitDto>);
     })
   );
 
@@ -2155,6 +2164,9 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
   // Mount Phase 3 Intelligence API router
   const intelligenceRouter = createIntelligenceRouter(db);
   router.use('/intelligence', intelligenceRouter);
+
+  const universeRouter = createUniverseRouter(universeStore);
+  router.use('/universe', universeRouter);
 
   return router;
 }

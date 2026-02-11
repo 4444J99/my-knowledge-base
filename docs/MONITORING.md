@@ -14,6 +14,10 @@
 - Active vector profile telemetry (`query.vectorProfileId`) across semantic and hybrid calls.
 - Auth startup/configuration failures (especially missing `JWT_SECRET` when auth is enabled).
 - Cache effectiveness for `/api/search` and `/api/search/hybrid` (hit/miss ratio).
+- Universe ingest quarantine rate (`files_quarantined / files_scanned` from `ingest_runs`).
+- Universe redaction rate (redacted files per ingest run metadata).
+- `/api/universe/terms/:term/occurrences` latency and error rate.
+- Universe network edge count drift (`thematic_edges`) after reindex.
 
 ## Logging
 - Structured logs from `src/logger.ts`.
@@ -44,6 +48,8 @@ Use this table as the source of truth for alert lifecycle state.
 | Strict semantic/hybrid `503` spike (`strict` policy) | critical | yes | yes (`ops/alerts/search-runtime-alerts.yaml`) | no | Search Platform | aggregate `SEMANTIC_SEARCH_UNAVAILABLE` / `HYBRID_SEARCH_UNAVAILABLE` response codes | 2026-02-10 (definition committed) |
 | Vector profile mismatch (`query.vectorProfileId` drift) | warning | yes | yes (`ops/alerts/search-runtime-alerts.yaml`) | no | Search Platform | compare runtime profile telemetry against readiness profile output | 2026-02-10 (definition committed) |
 | `semanticPolicyApplied` policy drift from expected strict mode | warning | yes | yes (`ops/alerts/search-runtime-alerts.yaml`) | no | Search Platform | monitor `query.searchPolicyApplied` and detect unexpected degrade in prod | 2026-02-10 (definition committed) |
+| Universe ingest quarantine spike (>20%) | warning | yes | yes (`ops/alerts/search-runtime-alerts.yaml`) | no | Search Platform | monitor `ingest_runs.files_quarantined / ingest_runs.files_scanned` by run | 2026-02-11 (definition committed) |
+| Universe term-occurrence endpoint 5xx spike | critical | yes | yes (`ops/alerts/search-runtime-alerts.yaml`) | no | Search Platform | endpoint-level 5xx monitor for `/api/universe/terms/*/occurrences` | 2026-02-11 (definition committed) |
 
 Status values:
 - `Documented`: rule exists in this document.

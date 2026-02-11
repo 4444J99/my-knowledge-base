@@ -16,4 +16,9 @@ This directory is the canonical location for release/runtime evidence used by cl
 ## Notes
 
 - Runtime probe and release evidence files are environment-specific and must be generated per release cycle.
+- Generate per-tag release evidence + runtime ledger update:
+  - `npm run release:evidence:generate -- --tag <tag> --commit <sha> --image-ref <image-ref> --reindex-evidence "<artifact-or-note>"`
 - Repo-local placeholders can exist, but promotion decisions must use target-environment artifacts.
+- Validate closure readiness from evidence artifacts:
+  - `npm run closure:evidence:check`
+  - `npm run closure:evidence:strict` (blocking)

@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "AI Cosmos Mobile",
+    "slug": "ai-cosmos-mobile",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android"],
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    }
+  }
+}

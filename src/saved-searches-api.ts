@@ -3,6 +3,14 @@
  */
 
 import { Router, Request, Response, NextFunction } from 'express';
+import type {
+  ApiErrorResponse,
+  ApiPageListSuccess,
+  ApiSuccess,
+  PopularSavedSearchRecord,
+  SavedSearchExecutionResult,
+  SavedSearchRecord,
+} from '@knowledge-base/contracts';
 import {
   SavedSearchesManager,
   SavedSearch,
@@ -14,30 +22,9 @@ import {
 import { logger, AppError } from './logger.js';
 
 /**
- * API response interfaces
- */
-interface ApiSuccessResponse<T> {
-  success: true;
-  data: T;
-  timestamp: string;
-}
-
-interface PaginatedResponse<T> {
-  success: true;
-  data: T[];
-  pagination: {
-    page: number;
-    pageSize: number;
-    total: number;
-    totalPages: number;
-  };
-  timestamp: string;
-}
-
-/**
  * Format saved search for API response
  */
-function formatSavedSearch(search: SavedSearch): Record<string, any> {
+function formatSavedSearch(search: SavedSearch): SavedSearchRecord {
   return {
     id: search.id,
     name: search.name,
@@ -175,7 +162,7 @@ export function createSavedSearchesRouter(
         success: true,
         data: formatSavedSearch(savedSearch),
         timestamp: new Date().toISOString(),
-      } as ApiSuccessResponse<any>);
+      } as ApiSuccess<SavedSearchRecord>);
 
       logger.info(`Created saved search: ${savedSearch.id}`, { name: savedSearch.name });
     })
@@ -213,7 +200,7 @@ export function createSavedSearchesRouter(
           totalPages: Math.ceil(total / pageSize),
         },
         timestamp: new Date().toISOString(),
-      } as PaginatedResponse<any>);
+      } as ApiPageListSuccess<SavedSearchRecord>);
 
       logger.debug(`Listed saved searches: page=${page}, total=${total}`);
     })
@@ -237,7 +224,7 @@ export function createSavedSearchesRouter(
         success: true,
         data: formatSavedSearch(savedSearch),
         timestamp: new Date().toISOString(),
-      } as ApiSuccessResponse<any>);
+      } as ApiSuccess<SavedSearchRecord>);
 
       logger.debug(`Retrieved saved search: ${id}`);
     })
@@ -303,7 +290,7 @@ export function createSavedSearchesRouter(
         success: true,
         data: formatSavedSearch(updatedSearch!),
         timestamp: new Date().toISOString(),
-      } as ApiSuccessResponse<any>);
+      } as ApiSuccess<SavedSearchRecord>);
 
       logger.info(`Updated saved search: ${id}`);
     })
@@ -329,7 +316,7 @@ export function createSavedSearchesRouter(
         success: true,
         data: { id, deleted: true },
         timestamp: new Date().toISOString(),
-      } as ApiSuccessResponse<any>);
+      } as ApiSuccess<{ id: string; deleted: true }>);
 
       logger.info(`Deleted saved search: ${id}`);
     })
@@ -375,7 +362,7 @@ export function createSavedSearchesRouter(
           },
         },
         timestamp: new Date().toISOString(),
-      } as ApiSuccessResponse<any>);
+      } as ApiSuccess<SavedSearchExecutionResult<Record<string, unknown>>>);
 
       logger.debug(`Executed saved search: ${id}, results=${result.results.length}, time=${result.executionTime}ms`);
     })
@@ -403,7 +390,7 @@ export function createSavedSearchesRouter(
           lastExecutedAt: search.lastExecutedAt?.toISOString() || null,
         })),
         timestamp: new Date().toISOString(),
-      } as ApiSuccessResponse<any>);
+      } as ApiSuccess<PopularSavedSearchRecord[]>);
 
       logger.debug(`Retrieved popular searches: limit=${limit}`);
     })
@@ -424,7 +411,7 @@ export function createSavedSearchesRouter(
         success: true,
         data: recentSearches.map(formatSavedSearch),
         timestamp: new Date().toISOString(),
-      } as ApiSuccessResponse<any>);
+      } as ApiSuccess<SavedSearchRecord[]>);
 
       logger.debug(`Retrieved recent searches: limit=${limit}`);
     })
@@ -450,7 +437,7 @@ export function createSavedSearchesRouter(
         success: true,
         data: results.map(formatSavedSearch),
         timestamp: new Date().toISOString(),
-      } as ApiSuccessResponse<any>);
+      } as ApiSuccess<SavedSearchRecord[]>);
 
       logger.debug(`Searched saved searches: q="${q}", results=${results.length}`);
     })
@@ -465,13 +452,13 @@ export function createSavedSearchesRouter(
         error: err.message,
         code: err.code,
         statusCode: err.statusCode,
-      });
+      } as ApiErrorResponse);
     } else {
       res.status(500).json({
         error: 'Internal server error',
         code: 'INTERNAL_ERROR',
         statusCode: 500,
-      });
+      } as ApiErrorResponse);
     }
   });
 

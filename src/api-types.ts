@@ -1,75 +1,50 @@
 import { SearchFilter } from './filter-builder.js';
+import type {
+  ApiErrorResponse as ContractsApiErrorResponse,
+  DatabaseStatsPayload as ContractsDatabaseStatsPayload,
+  FederatedScanJob as ContractsFederatedScanJob,
+  FederatedScanRun as ContractsFederatedScanRun,
+  FederatedSearchHit as ContractsFederatedSearchHit,
+  FederatedSource as ContractsFederatedSource,
+  ApiListSuccess,
+  ApiPageListSuccess,
+  ApiSuccess,
+  SearchFallbackReason as ContractsSearchFallbackReason,
+  SearchResponse as ContractsSearchResponse,
+} from '@knowledge-base/contracts';
 
 /**
  * API error response format
  */
-export interface ApiErrorResponse {
-  error: string;
-  code: string;
-  statusCode: number;
-  details?: Record<string, unknown>;
-}
+export type ApiErrorResponse = ContractsApiErrorResponse;
 
 /**
  * API success response format
  */
-export interface ApiSuccessResponse<T> {
-  success: true;
-  data: T;
-  timestamp: string;
-}
+export type ApiSuccessResponse<T> = ApiSuccess<T>;
 
 /**
  * Paginated response format
  */
-export interface PaginatedResponse<T> {
-  success: true;
-  data: T[];
-  pagination: {
-    page: number;
-    pageSize: number;
-    total: number;
-    totalPages: number;
-  };
-  timestamp: string;
-}
+export type PaginatedResponse<T> = ApiPageListSuccess<T>;
 
-export type SearchFallbackReason =
-  | 'semantic_unavailable'
-  | 'hybrid_unavailable'
-  | 'runtime_error'
-  | 'no_semantic_results'
-  | 'no_hybrid_results';
+export type SearchFallbackReason = ContractsSearchFallbackReason;
 
 /**
  * Search response format (Phase 2)
  */
-export interface SearchResponse<T> {
-  success: true;
-  data: T[];
-  pagination: {
-    page: number;
-    pageSize: number;
-    total: number;
-    totalPages: number;
-    offset: number;
-  };
-  query: {
-    original: string;
-    normalized: string;
-    degradedMode?: boolean;
-    fallbackReason?: SearchFallbackReason;
-    searchPolicyApplied?: 'degrade' | 'strict';
-    vectorProfileId?: string;
-  };
+export type SearchResponse<T> = Omit<ContractsSearchResponse<T>, 'filters'> & {
   filters?: {
     applied: SearchFilter[];
     available: Array<{ field: string; buckets: Array<{ value: string; count: number }> }>;
   };
-  facets?: Array<{ field: string; buckets: Array<{ value: string; count: number }> }>;
-  searchTime: number;
-  stats?: {
-    cacheHit: boolean;
-  };
-  timestamp: string;
-}
+};
+
+export type UniverseListResponse<T> = ApiListSuccess<T>;
+export type OffsetListResponse<T> = ApiListSuccess<T>;
+
+export type DatabaseStatsPayload = ContractsDatabaseStatsPayload;
+export type FederatedSource = ContractsFederatedSource;
+export type FederatedScanRun = ContractsFederatedScanRun;
+export type FederatedScanJob = ContractsFederatedScanJob;
+export type FederatedSearchHit = ContractsFederatedSearchHit;

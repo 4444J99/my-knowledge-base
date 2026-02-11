@@ -26,6 +26,8 @@ describe('Deduplication API integration', () => {
       .send({ unit1: units[0], unit2: units[1] });
 
     expect(merge.status).toBe(200);
+    expect(merge.body.success).toBe(true);
+    expect(merge.body.data).toBeDefined();
     expect(merge.body.data.survivingId).toBe('u1');
   });
 });

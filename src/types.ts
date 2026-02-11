@@ -1,6 +1,16 @@
 /**
  * Core types for the knowledge base system
  */
+import type {
+  ChatThread as ContractsChatThread,
+  ChatTurn as ContractsChatTurn,
+  ParallelNetworkEdge as ContractsParallelNetworkEdge,
+  ProviderAccount as ContractsProviderAccount,
+  ProviderId as ContractsProviderId,
+  ProviderRecord as ContractsProviderRecord,
+  TermOccurrence as ContractsTermOccurrence,
+  UniverseSummary as ContractsUniverseSummary,
+} from '@knowledge-base/contracts';
 
 export interface Message {
   role: 'user' | 'assistant' | 'system';
@@ -138,3 +148,15 @@ export interface RedactionMetadata {
   /** Hash of original content for verification */
   originalHash?: string;
 }
+
+/**
+ * Universe model types (provider/thread/turn/token graph)
+ */
+export type ProviderId = ContractsProviderId;
+export type ProviderRecord = ContractsProviderRecord;
+export type ProviderAccountRecord = ContractsProviderAccount;
+export type ChatThreadRecord = ContractsChatThread;
+export type ChatTurnRecord = ContractsChatTurn;
+export type TermOccurrence = ContractsTermOccurrence;
+export type ParallelNetworkEdge = ContractsParallelNetworkEdge;
+export type UniverseSummary = ContractsUniverseSummary;

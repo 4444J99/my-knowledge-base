@@ -20,6 +20,7 @@ import { ToastContainer } from './components/ToastContainer';
 
 // Tab content
 import { SearchTab } from './components/tabs/SearchTab';
+import { UniverseTab } from './components/tabs/UniverseTab';
 import { FederationTab } from './components/tabs/FederationTab';
 import { GraphTab } from './components/tabs/GraphTab';
 import { TagsTab } from './components/tabs/TagsTab';
@@ -67,6 +68,8 @@ function AppContent() {
   // Render active tab content
   const renderTabContent = () => {
     switch (activeTab) {
+      case 'universe':
+        return <UniverseTab />;
       case 'search':
         return <SearchTab />;
       case 'federation':

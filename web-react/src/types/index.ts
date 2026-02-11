@@ -1,3 +1,22 @@
+import type {
+  DashboardStats as ContractsDashboardStats,
+  FederatedScanJob as ContractsFederatedScanJob,
+  FederatedScanRun as ContractsFederatedScanRun,
+  FederatedSearchHit as ContractsFederatedSearchHit,
+  FederatedSource as ContractsFederatedSource,
+  SearchFacetField as ContractsSearchFacetField,
+  SearchResponse as ContractsSearchResponse,
+  SearchSuggestion as ContractsSearchSuggestion,
+  UniverseIngestRun as ContractsUniverseIngestRun,
+  ParallelNetworkEdge as ContractsParallelNetworkEdge,
+  UniverseReindexStart as ContractsUniverseReindexStart,
+  TermOccurrence as ContractsTermOccurrence,
+  UniverseChat as ContractsUniverseChat,
+  UniverseProvider as ContractsUniverseProvider,
+  UniverseSummary as ContractsUniverseSummary,
+  UniverseTurn as ContractsUniverseTurn,
+} from '@knowledge-base/contracts';
+
 /**
  * Type definitions for knowledge-base React app
  * Matches backend types from src/types.ts
@@ -7,6 +26,7 @@ export type UnitType = 'insight' | 'code' | 'question' | 'reference' | 'decision
 export type Category = 'programming' | 'writing' | 'research' | 'design' | 'general';
 export type SearchMode = 'fts' | 'semantic' | 'hybrid';
 export type Tab =
+  | 'universe'
   | 'search'
   | 'federation'
   | 'graph'
@@ -53,14 +73,9 @@ export interface SearchResult {
   highlights?: string[];
 }
 
-export interface SearchResponse {
-  success: boolean;
-  data: SearchResult[];
-  total: number;
-  query: string;
-  mode: SearchMode;
-  timestamp: string;
-}
+export type SearchResponse = ContractsSearchResponse<SearchResult>;
+export type SearchSuggestion = ContractsSearchSuggestion;
+export type SearchFacetField = ContractsSearchFacetField;
 
 export interface GraphNode {
   id: string;
@@ -94,14 +109,16 @@ export interface Conversation {
   timestamp: string;
 }
 
-export interface DashboardStats {
-  totalUnits: number;
-  totalConversations: number;
-  totalTags: number;
-  unitsByType: Record<UnitType, number>;
-  unitsByCategory: Record<Category, number>;
-  recentUnits: AtomicUnit[];
-}
+export type UniverseSummary = ContractsUniverseSummary;
+export type UniverseProvider = ContractsUniverseProvider;
+export type UniverseChat = ContractsUniverseChat;
+export type UniverseTurn = ContractsUniverseTurn;
+export type UniverseTermOccurrence = ContractsTermOccurrence;
+export type UniverseNetworkEdge = ContractsParallelNetworkEdge;
+export type UniverseReindexStart = ContractsUniverseReindexStart;
+export type UniverseIngestRun = ContractsUniverseIngestRun;
+
+export type DashboardStats = ContractsDashboardStats<AtomicUnit>;
 
 export interface ExportFormat {
   name: string;
@@ -127,63 +144,10 @@ export interface NotificationItem {
   sourceEventType?: string;
 }
 
-export interface FederatedSource {
-  id: string;
-  name: string;
-  kind: 'local-filesystem';
-  status: 'active' | 'disabled';
-  rootPath: string;
-  includePatterns: string[];
-  excludePatterns: string[];
-  metadata: Record<string, unknown>;
-  createdAt: string;
-  updatedAt: string;
-  lastScanAt?: string;
-  lastScanStatus?: 'running' | 'completed' | 'failed' | 'cancelled';
-  lastScanSummary?: Record<string, unknown>;
-}
-
-export interface FederatedScanRun {
-  id: string;
-  sourceId: string;
-  jobId: string | null;
-  status: 'running' | 'completed' | 'failed' | 'cancelled';
-  scannedCount: number;
-  indexedCount: number;
-  skippedCount: number;
-  errorCount: number;
-  startedAt: string;
-  completedAt: string | null;
-  errorMessage: string | null;
-  summary: Record<string, unknown>;
-}
-
-export interface FederatedScanJob {
-  id: string;
-  sourceId: string;
-  mode: 'incremental' | 'full';
-  status: 'queued' | 'running' | 'completed' | 'failed' | 'cancelled';
-  createdAt: string;
-  startedAt: string | null;
-  completedAt: string | null;
-  runId: string | null;
-  requestedBy: string | null;
-  errorMessage: string | null;
-  meta: Record<string, unknown>;
-}
-
-export interface FederatedSearchHit {
-  id: string;
-  sourceId: string;
-  sourceName: string;
-  path: string;
-  title: string;
-  snippet: string;
-  score: number;
-  mimeType: string | null;
-  modifiedAt: string | null;
-  indexedAt: string;
-}
+export type FederatedSource = ContractsFederatedSource;
+export type FederatedScanRun = ContractsFederatedScanRun;
+export type FederatedScanJob = ContractsFederatedScanJob;
+export type FederatedSearchHit = ContractsFederatedSearchHit;
 
 // WebSocket types
 export type WebSocketEventType =

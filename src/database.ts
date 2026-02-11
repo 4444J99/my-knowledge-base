@@ -5,6 +5,7 @@
 import Database from 'better-sqlite3';
 import { AtomicUnit, Conversation, KnowledgeDocument, EntityRelationship, RelationshipType, RelationshipSource } from './types.js';
 import { normalizeCategory, normalizeKeywords, normalizeTags } from './taxonomy.js';
+import { ensureUniverseSchema } from './universe/schema.js';
 
 export class KnowledgeDatabase {
   private db: Database.Database;
@@ -246,6 +247,8 @@ export class KnowledgeDatabase {
     if (this.hasAtomicUnitColumn('section_type')) {
       this.db.exec('CREATE INDEX IF NOT EXISTS idx_section_type ON atomic_units(section_type)');
     }
+
+    ensureUniverseSchema(this.db);
 
     console.log('✅ Database schema initialized');
   }
