@@ -59,6 +59,7 @@ function main(): void {
   console.log(`stagingProbe=${result.selected.stagingProbe ?? 'missing'}`);
   console.log(`prodProbe=${result.selected.prodProbe ?? 'missing'}`);
   console.log(`releaseEvidence=${result.selected.releaseEvidence ?? 'missing'}`);
+  console.log(`reindexEvidence=${result.selected.reindexEvidence ?? 'missing'}`);
 
   if (result.warnings.length > 0) {
     console.log('\nWarnings:');

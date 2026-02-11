@@ -74,6 +74,7 @@ Release workflow (recommended) fetches these values from 1Password:
   - `OP_PROD_BASE_URL_REF`
   - `OP_STAGING_AUTH_HEADER_REF` (optional)
   - `OP_PROD_AUTH_HEADER_REF` (optional)
+  - `REINDEX_EVIDENCE_REF` (required for release workflow evidence gate)
 - 1Password reference syntax:
   - `op://<vault>/<item>/<field>`
   - Example: `op://kb-release-runtime/kb-prod-runtime-probe/base_url`
@@ -84,6 +85,7 @@ Block promotion when any probe report has:
 - parity failures (`/api/search` vs `/api/search/fts`)
 - strict policy drift (`policyDrift > 0`)
 - missing vector profile metadata (`vectorProfileMissing > 0`)
+- missing/pending reindex evidence reference (`REINDEX_EVIDENCE_REF`)
 
 ## CI Reliability Checks
 - Run CI-equivalent suites locally: `npm run test:ci`.
@@ -144,6 +146,10 @@ Block promotion when any probe report has:
 - `GET /api/universe/providers/:providerId/chats`
 - `GET /api/universe/chats/:chatId/turns`
 - `GET /api/universe/terms/:term/occurrences`
+- Capture unbounded reindex evidence artifact:
+- `npm run reindex:evidence -- --env local --out "docs/evidence/reindex-runs/local-$(date +%Y%m%d-%H%M%S).json"`
+- `npm run reindex:evidence:staging -- --out "docs/evidence/reindex-runs/staging-$(date +%Y%m%d-%H%M%S).json"`
+- `npm run reindex:evidence:prod -- --out "docs/evidence/reindex-runs/prod-$(date +%Y%m%d-%H%M%S).json"`
 
 ## Release Hardening Checklist
 - Confirm branch and commit target: `git rev-parse --abbrev-ref HEAD` and `git log --oneline -n 1`.
@@ -163,7 +169,7 @@ Block promotion when any probe report has:
 - Publish release notes in `docs/RELEASE_NOTES_<YYYY-MM-DD>.md` with test evidence and residual risks.
 - Record release evidence in `docs/RELEASE_INDEX.md` using `docs/RELEASE_EVIDENCE_TEMPLATE.md`.
 - Generate canonical release evidence packet + runtime ledger row:
-- `npm run release:evidence:generate -- --tag <tag> --commit <sha> --image-ref <ghcr-ref> --reindex-evidence "<artifact-or-note>"`
+- `npm run release:evidence:generate -- --tag <tag> --commit <sha> --image-ref <ghcr-ref> --reindex-evidence "docs/evidence/reindex-runs/<artifact>.json"`
 - Backfill release chronology from GitHub metadata:
 - `npm run release-index:backfill`
 - Verify alert definitions before promotion:
@@ -174,6 +180,8 @@ Block promotion when any probe report has:
 - `npm run closure:evidence:check`
 - For blocking sign-off:
 - `npm run closure:evidence:strict`
+- Release workflow variable requirements:
+- `REINDEX_EVIDENCE_REF` (GitHub variable), pointing to a concrete unbounded reindex evidence path or immutable URL
 
 ## Rollback Triggers
 - Trigger rollback when any condition below is true:

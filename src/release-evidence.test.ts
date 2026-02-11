@@ -23,6 +23,7 @@ describe('generateReleaseEvidence', () => {
     roots.push(root);
     const probesDir = join(root, 'runtime-probes');
     const evidenceDir = join(root, 'release-evidence');
+    const reindexDir = join(root, 'reindex-runs');
     const indexPath = join(root, 'RELEASE_INDEX.md');
     writeFileSync(indexPath, '# Release Index\n\n## Active Release Line\n\nplaceholder\n', 'utf8');
 
@@ -55,6 +56,17 @@ describe('generateReleaseEvidence', () => {
       startedAt: timestamp,
       completedAt: timestamp,
     });
+    const reindexEvidencePath = join(reindexDir, 'v2.0.0-unbounded.json');
+    writeJson(reindexEvidencePath, {
+      env: 'prod',
+      pass: true,
+      runId: 'run-100',
+      run: {
+        status: 'completed',
+        chatsIngested: 10,
+        turnsIngested: 120,
+      },
+    });
 
     const result = generateReleaseEvidence({
       tag: 'v2.0.0',
@@ -65,7 +77,7 @@ describe('generateReleaseEvidence', () => {
       runtimeProbesDir: probesDir,
       releaseEvidenceDir: evidenceDir,
       releaseIndexPath: indexPath,
-      reindexEvidence: 'docs/evidence/reindex-runs/v2.0.0-unbounded.json',
+      reindexEvidence: reindexEvidencePath,
       alertVerificationArtifact: 'docs/evidence/alert-verification/latest.json',
       rollbackNote: 'Rollback to v1.9.9 if strict mode degrades',
     });
@@ -90,7 +102,7 @@ describe('generateReleaseEvidence', () => {
     expect(index).toContain('| `v2.0.0` |');
     expect(index).toContain('staging-20260211-100000.json');
     expect(index).toContain('prod-20260211-100000.json');
-    expect(index).toContain('docs/evidence/reindex-runs/v2.0.0-unbounded.json');
+    expect(index).toContain('v2.0.0-unbounded.json');
   });
 
   it('fails when a required probe artifact is missing', () => {

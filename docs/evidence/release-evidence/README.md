@@ -13,6 +13,7 @@ Each file should include:
 - alert verification reference
 - unbounded reindex completion reference
 - rollback contact/notes
+- concrete (non-pending) `reindex.evidence` reference
 
 Suggested generator:
-- `npm run release:evidence:generate -- --tag <tag> --commit <sha> --image-ref <image-ref> --reindex-evidence "<artifact-or-note>"`
+- `npm run release:evidence:generate -- --tag <tag> --commit <sha> --image-ref <image-ref> --reindex-evidence "docs/evidence/reindex-runs/<artifact>.json"`

@@ -16,6 +16,7 @@ export interface ClosureEvidenceCheckResult {
     stagingProbe?: string;
     prodProbe?: string;
     releaseEvidence?: string;
+    reindexEvidence?: string;
   };
 }
 
@@ -31,6 +32,17 @@ interface RuntimeProbeReport {
     hybrid503?: number;
     policyDrift?: number;
     vectorProfileMissing?: number;
+  };
+}
+
+interface ReleaseEvidenceRecord {
+  gates?: Record<string, unknown>;
+  runtimeVerification?: {
+    stagingProbeArtifact?: string;
+    productionProbeArtifact?: string;
+  };
+  reindex?: {
+    evidence?: string;
   };
 }
 
@@ -110,41 +122,83 @@ function pickReleaseEvidenceFile(releaseEvidenceDir: string, releaseTag?: string
   return candidates[0];
 }
 
+function isHttpUrl(value: string): boolean {
+  return /^https?:\/\//i.test(value);
+}
+
 function validateReleaseEvidence(
   releaseEvidencePath: string,
   stagingProbePath: string,
   prodProbePath: string,
-): string[] {
+): { errors: string[]; warnings: string[]; reindexEvidence?: string } {
   const errors: string[] = [];
-  const parsed = parseJson(releaseEvidencePath) as Record<string, unknown>;
+  const warnings: string[] = [];
+  const parsed = parseJson(releaseEvidencePath) as ReleaseEvidenceRecord;
   const serialized = JSON.stringify(parsed).toLowerCase();
 
-  if (!serialized.includes('strict')) {
+  const strictGate = parsed.gates?.strictReadiness;
+  if (strictGate !== 'pass') {
     errors.push('Release evidence missing strict readiness context');
   }
-  if (!serialized.includes('parity')) {
+  const parityGate = parsed.gates?.paritySmoke ?? parsed.gates?.parity;
+  if (parityGate !== 'pass') {
     errors.push('Release evidence missing parity context');
-  }
-  if (!serialized.includes('reindex')) {
-    errors.push('Release evidence missing reindex reference');
   }
 
   const stagingName = basename(stagingProbePath).toLowerCase();
   const prodName = basename(prodProbePath).toLowerCase();
-  if (!serialized.includes(stagingName)) {
+  if (
+    parsed.runtimeVerification?.stagingProbeArtifact?.toLowerCase() !== stagingName &&
+    !serialized.includes(stagingName)
+  ) {
     errors.push(`Release evidence does not reference staging probe artifact: ${stagingName}`);
   }
-  if (!serialized.includes(prodName)) {
+  if (
+    parsed.runtimeVerification?.productionProbeArtifact?.toLowerCase() !== prodName &&
+    !serialized.includes(prodName)
+  ) {
     errors.push(`Release evidence does not reference prod probe artifact: ${prodName}`);
   }
 
-  return errors;
+  const reindexEvidence = parsed.reindex?.evidence?.trim();
+  if (!reindexEvidence) {
+    errors.push('Release evidence missing reindex.evidence reference');
+  } else if (/pending/i.test(reindexEvidence)) {
+    errors.push(`Release evidence reindex reference is pending: ${reindexEvidence}`);
+  } else if (!isHttpUrl(reindexEvidence)) {
+    const resolved = resolve(reindexEvidence);
+    if (!existsSync(resolved)) {
+      errors.push(`Release evidence reindex artifact path not found: ${resolved}`);
+    } else if (resolved.toLowerCase().endsWith('.json')) {
+      try {
+        const report = parseJson(resolved) as { pass?: boolean };
+        if (report.pass !== true) {
+          errors.push(`Reindex artifact indicates failure: ${resolved}`);
+        }
+      } catch (error) {
+        errors.push(
+          `Failed to parse reindex artifact JSON ${resolved}: ${
+            error instanceof Error ? error.message : String(error)
+          }`,
+        );
+      }
+    } else {
+      warnings.push(`Reindex evidence path is not JSON; content integrity not parsed: ${resolved}`);
+    }
+  }
+
+  return {
+    errors,
+    warnings,
+    reindexEvidence,
+  };
 }
 
 function validateReleaseIndex(
   releaseIndexPath: string,
   stagingProbePath: string,
   prodProbePath: string,
+  reindexEvidence?: string,
 ): string[] {
   const errors: string[] = [];
   if (!existsSync(releaseIndexPath)) {
@@ -161,8 +215,13 @@ function validateReleaseIndex(
   if (!content.includes(prodName)) {
     errors.push(`Release index missing prod probe artifact reference: ${prodName}`);
   }
-  if (!content.includes('reindex')) {
-    errors.push('Release index missing reindex evidence note');
+  if (reindexEvidence) {
+    const reindexKey = basename(reindexEvidence).toLowerCase();
+    if (!content.includes(reindexKey)) {
+      errors.push(`Release index missing reindex evidence reference: ${reindexKey}`);
+    }
+  } else if (!content.includes('reindex')) {
+    errors.push('Release index missing reindex evidence reference');
   }
 
   return errors;
@@ -175,6 +234,7 @@ export function verifyClosureEvidence(options: ClosureEvidenceOptions = {}): Clo
 
   const errors: string[] = [];
   const warnings: string[] = [];
+  let reindexEvidence: string | undefined;
 
   const stagingProbe = pickLatestProbeFile(runtimeProbesDir, 'staging');
   const prodProbe = pickLatestProbeFile(runtimeProbesDir, 'prod');
@@ -223,7 +283,10 @@ export function verifyClosureEvidence(options: ClosureEvidenceOptions = {}): Clo
 
   if (releaseEvidence && stagingProbe && prodProbe) {
     try {
-      errors.push(...validateReleaseEvidence(releaseEvidence, stagingProbe, prodProbe));
+      const validation = validateReleaseEvidence(releaseEvidence, stagingProbe, prodProbe);
+      errors.push(...validation.errors);
+      warnings.push(...validation.warnings);
+      reindexEvidence = validation.reindexEvidence;
     } catch (error) {
       errors.push(
         `Failed to parse release evidence ${releaseEvidence}: ${
@@ -236,7 +299,7 @@ export function verifyClosureEvidence(options: ClosureEvidenceOptions = {}): Clo
   }
 
   if (stagingProbe && prodProbe) {
-    errors.push(...validateReleaseIndex(releaseIndexPath, stagingProbe, prodProbe));
+    errors.push(...validateReleaseIndex(releaseIndexPath, stagingProbe, prodProbe, reindexEvidence));
   }
 
   return {
@@ -247,6 +310,7 @@ export function verifyClosureEvidence(options: ClosureEvidenceOptions = {}): Clo
       stagingProbe,
       prodProbe,
       releaseEvidence,
+      reindexEvidence,
     },
   };
 }

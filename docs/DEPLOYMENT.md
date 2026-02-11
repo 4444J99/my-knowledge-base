@@ -58,6 +58,7 @@ PROD_AUTH_HEADER=Authorization: Bearer <token>     # optional
 # OP_PROD_BASE_URL_REF=op://kb-release-runtime/kb-prod-runtime-probe/base_url
 # OP_STAGING_AUTH_HEADER_REF=op://kb-release-runtime/kb-staging-runtime-probe/auth_header
 # OP_PROD_AUTH_HEADER_REF=op://kb-release-runtime/kb-prod-runtime-probe/auth_header
+# REINDEX_EVIDENCE_REF=docs/evidence/reindex-runs/prod-<timestamp>.json
 #
 # Store this as a GitHub repository secret:
 # OP_SERVICE_ACCOUNT_TOKEN=<1password-service-account-token>
@@ -110,12 +111,14 @@ npm run readiness:semantic:strict
     - `OP_PROD_BASE_URL_REF`
     - `OP_STAGING_AUTH_HEADER_REF` (optional)
     - `OP_PROD_AUTH_HEADER_REF` (optional)
+    - `REINDEX_EVIDENCE_REF` (required, must reference concrete unbounded reindex evidence)
 - 1Password item reference format:
   - `op://<vault>/<item>/<field>`
   - Example: `op://kb-release-runtime/kb-staging-runtime-probe/base_url`
 - Run:
   - `npm run probe:staging -- --out docs/evidence/runtime-probes/staging-<timestamp>.json`
   - `npm run probe:prod -- --out docs/evidence/runtime-probes/prod-<timestamp>.json`
+  - `npm run reindex:evidence:prod -- --out docs/evidence/reindex-runs/prod-<timestamp>.json`
 - Promotion is blocked if either report has `pass=false`.
 - Specifically block on:
   - any strict semantic/hybrid `503` spike

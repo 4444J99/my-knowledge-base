@@ -2,7 +2,7 @@
 
 Use one copy of this template per release tag.
 You can generate the JSON baseline via:
-- `npm run release:evidence:generate -- --tag <tag> --commit <sha> --image-ref <image-ref> --reindex-evidence "<artifact-or-note>"`
+- `npm run release:evidence:generate -- --tag <tag> --commit <sha> --image-ref <image-ref> --reindex-evidence "docs/evidence/reindex-runs/<artifact>.json"`
 
 ## Metadata
 - Tag:

@@ -165,6 +165,79 @@ function hasParityPass(report: RuntimeProbeReport): boolean {
   return report.parity?.pass === true && (report.parity?.failures ?? 0) === 0;
 }
 
+function isHttpUrl(value: string): boolean {
+  return /^https?:\/\//i.test(value);
+}
+
+function validateReindexEvidenceReference(
+  reference: string | undefined,
+  allowIncomplete: boolean | undefined,
+  errors: string[],
+  warnings: string[],
+): string | undefined {
+  const value = reference?.trim();
+  if (!value) {
+    if (allowIncomplete) {
+      warnings.push('Reindex evidence not provided.');
+    } else {
+      errors.push('Reindex evidence is required.');
+    }
+    return undefined;
+  }
+
+  if (/pending/i.test(value)) {
+    if (allowIncomplete) {
+      warnings.push(`Reindex evidence is pending: ${value}`);
+    } else {
+      errors.push(`Reindex evidence must not be pending: ${value}`);
+    }
+    return value;
+  }
+
+  if (isHttpUrl(value)) {
+    return value;
+  }
+
+  const resolved = resolve(value);
+  if (!existsSync(resolved)) {
+    if (allowIncomplete) {
+      warnings.push(`Reindex evidence path not found: ${resolved}`);
+    } else {
+      errors.push(`Reindex evidence path not found: ${resolved}`);
+    }
+    return value;
+  }
+
+  if (resolved.toLowerCase().endsWith('.json')) {
+    try {
+      const parsed = parseJson(resolved) as { pass?: boolean };
+      if (parsed.pass !== true) {
+        if (allowIncomplete) {
+          warnings.push(`Reindex evidence JSON indicates non-pass state: ${resolved}`);
+        } else {
+          errors.push(`Reindex evidence JSON indicates non-pass state: ${resolved}`);
+        }
+      }
+    } catch (error) {
+      if (allowIncomplete) {
+        warnings.push(
+          `Failed to parse reindex evidence JSON ${resolved}: ${
+            error instanceof Error ? error.message : String(error)
+          }`,
+        );
+      } else {
+        errors.push(
+          `Failed to parse reindex evidence JSON ${resolved}: ${
+            error instanceof Error ? error.message : String(error)
+          }`,
+        );
+      }
+    }
+  }
+
+  return value;
+}
+
 function upsertReleaseIndexRuntimeLedger(
   releaseIndexPath: string,
   row: string,
@@ -295,10 +368,12 @@ export function generateReleaseEvidence(options: ReleaseEvidenceOptions = {}): R
   if (!alertArtifact) {
     warnings.push('Alert verification artifact not provided.');
   }
-  const reindexEvidence = options.reindexEvidence?.trim();
-  if (!reindexEvidence) {
-    warnings.push('Reindex evidence not provided.');
-  }
+  const reindexEvidence = validateReindexEvidenceReference(
+    options.reindexEvidence,
+    options.allowIncomplete,
+    errors,
+    warnings,
+  );
 
   if (errors.length > 0 && !options.allowIncomplete) {
     return {
