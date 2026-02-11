@@ -5,6 +5,7 @@
 - Validate schema migrations before running analytics/CLI commands: `npm run migrate`.
 - Seed the database for local demos: `npm run seed` (or `sqlite3 ./db/knowledge.db < db/seeds/initial.sql`).
 - Verify health: `GET /api/health`.
+- For GitHub Pages frontend wiring (static UI + external API), follow `docs/GITHUB_PAGES_SETUP.md`.
 
 ## Schema & Seed Data
 - `src/migrations.ts` tracks schema evolution; add new `Migration` entries there and re-run `npm run migrate` so `db/knowledge.db` includes `tags`, `parent_section_id`, and other recently added columns.

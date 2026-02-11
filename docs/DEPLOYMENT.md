@@ -209,6 +209,18 @@ docker-compose down -v
 
 ---
 
+## GitHub Pages Frontend (Static) + API Backend (Docker/Server)
+
+Use GitHub Pages for the React UI only. Keep this API running on a separate backend host.
+
+- Setup guide: `docs/GITHUB_PAGES_SETUP.md`
+- Workflow: `.github/workflows/pages.yml`
+
+Required repository variables for Pages deployment:
+- `PAGES_API_BASE_URL` (for example `https://api.example.com/api`)
+- `PAGES_BASE_PATH` (optional, defaults to `/<repo-name>/`)
+- `PAGES_CUSTOM_DOMAIN` (optional)
+
 ## Kubernetes Deployment
 
 ### Prerequisites
