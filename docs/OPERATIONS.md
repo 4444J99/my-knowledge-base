@@ -182,6 +182,8 @@ Block promotion when any probe report has:
 - `npm run closure:evidence:check`
 - For blocking sign-off:
 - `npm run closure:evidence:strict`
+- Verify alert evidence contract in strict mode:
+- `npm run alerts:verify:strict`
 - Release workflow variable requirements:
 - `REINDEX_EVIDENCE_REF` (GitHub variable), pointing to a concrete unbounded reindex evidence path or immutable URL
 - Release workflow normalizes and verifies `REINDEX_EVIDENCE_REF` into `docs/evidence/reindex-runs/release-<tag>.json` before generating release evidence.

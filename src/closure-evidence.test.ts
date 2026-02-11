@@ -23,9 +23,11 @@ describe('verifyClosureEvidence', () => {
     const probesDir = join(root, 'runtime-probes');
     const releasesDir = join(root, 'release-evidence');
     const reindexDir = join(root, 'reindex-runs');
+    const alertsDir = join(root, 'alert-verification');
     mkdirSync(probesDir, { recursive: true });
     mkdirSync(releasesDir, { recursive: true });
     mkdirSync(reindexDir, { recursive: true });
+    mkdirSync(alertsDir, { recursive: true });
 
     const stagingName = 'staging-20260211-010101.json';
     const prodName = 'prod-20260211-010101.json';
@@ -54,6 +56,14 @@ describe('verifyClosureEvidence', () => {
         turnsIngested: 50,
       },
     });
+    const alertEvidencePath = join(alertsDir, 'latest.json');
+    writeJson(alertEvidencePath, {
+      generatedAt: '2026-02-11T10:00:00.000Z',
+      verifiedAlertIds: [
+        'api-5xx-spike-critical',
+        'db-sqlite-busy-warning',
+      ],
+    });
     writeJson(releasePath, {
       tag: 'v9.9.9',
       commit: 'abc123',
@@ -61,6 +71,9 @@ describe('verifyClosureEvidence', () => {
       runtimeVerification: {
         stagingProbeArtifact: stagingName,
         productionProbeArtifact: prodName,
+      },
+      observability: {
+        alertVerificationArtifact: alertEvidencePath,
       },
       reindex: {
         status: 'completed',
@@ -94,6 +107,7 @@ describe('verifyClosureEvidence', () => {
     expect(result.selected.prodProbe?.endsWith(prodName)).toBe(true);
     expect(result.selected.releaseEvidence?.endsWith('v9.9.9.json')).toBe(true);
     expect(result.selected.reindexEvidence?.endsWith('prod-unbounded-20260211.json')).toBe(true);
+    expect(result.selected.alertEvidence?.endsWith('latest.json')).toBe(true);
   });
 
   it('fails when required staging/prod probe artifacts are missing', () => {
@@ -150,6 +164,9 @@ describe('verifyClosureEvidence', () => {
         stagingProbeArtifact: stagingName,
         productionProbeArtifact: prodName,
       },
+      observability: {
+        alertVerificationArtifact: 'missing',
+      },
       reindex: {
         evidence: 'pending: reindex evidence upload',
       },
@@ -176,5 +193,8 @@ describe('verifyClosureEvidence', () => {
 
     expect(result.pass).toBe(false);
     expect(result.errors.some((error) => error.includes('reindex reference is pending'))).toBe(true);
+    expect(
+      result.errors.some((error) => error.includes('missing observability.alertVerificationArtifact')),
+    ).toBe(true);
   });
 });

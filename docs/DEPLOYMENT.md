@@ -120,6 +120,7 @@ npm run readiness:semantic:strict
   - `npm run probe:prod -- --out docs/evidence/runtime-probes/prod-<timestamp>.json`
   - `npm run reindex:evidence:prod -- --out docs/evidence/reindex-runs/prod-<timestamp>.json`
   - `npm run reindex:evidence:verify -- --ref docs/evidence/reindex-runs/prod-<timestamp>.json --require-unbounded true`
+  - `npm run alerts:verify:strict`
 - Promotion is blocked if either report has `pass=false`.
 - Specifically block on:
   - any strict semantic/hybrid `503` spike

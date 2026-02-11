@@ -238,6 +238,75 @@ function validateReindexEvidenceReference(
   return value;
 }
 
+function validateAlertArtifactReference(
+  reference: string | undefined,
+  allowIncomplete: boolean | undefined,
+  errors: string[],
+  warnings: string[],
+): string | undefined {
+  const value = reference?.trim();
+  if (!value) {
+    if (allowIncomplete) {
+      warnings.push('Alert verification artifact not provided.');
+    } else {
+      errors.push('Alert verification artifact is required.');
+    }
+    return undefined;
+  }
+
+  if (/pending/i.test(value) || value.toLowerCase() === 'missing') {
+    if (allowIncomplete) {
+      warnings.push(`Alert verification artifact is not finalized: ${value}`);
+    } else {
+      errors.push(`Alert verification artifact must be finalized: ${value}`);
+    }
+    return value;
+  }
+
+  if (isHttpUrl(value)) {
+    return value;
+  }
+
+  const resolved = resolve(value);
+  if (!existsSync(resolved)) {
+    if (allowIncomplete) {
+      warnings.push(`Alert verification artifact path not found: ${resolved}`);
+    } else {
+      errors.push(`Alert verification artifact path not found: ${resolved}`);
+    }
+    return value;
+  }
+
+  if (resolved.toLowerCase().endsWith('.json')) {
+    try {
+      const parsed = parseJson(resolved) as { verifiedAlertIds?: unknown[] };
+      if (!Array.isArray(parsed.verifiedAlertIds) || parsed.verifiedAlertIds.length === 0) {
+        if (allowIncomplete) {
+          warnings.push(`Alert verification artifact missing verifiedAlertIds content: ${resolved}`);
+        } else {
+          errors.push(`Alert verification artifact missing verifiedAlertIds content: ${resolved}`);
+        }
+      }
+    } catch (error) {
+      if (allowIncomplete) {
+        warnings.push(
+          `Failed to parse alert verification artifact JSON ${resolved}: ${
+            error instanceof Error ? error.message : String(error)
+          }`,
+        );
+      } else {
+        errors.push(
+          `Failed to parse alert verification artifact JSON ${resolved}: ${
+            error instanceof Error ? error.message : String(error)
+          }`,
+        );
+      }
+    }
+  }
+
+  return value;
+}
+
 function upsertReleaseIndexRuntimeLedger(
   releaseIndexPath: string,
   row: string,
@@ -364,10 +433,12 @@ export function generateReleaseEvidence(options: ReleaseEvidenceOptions = {}): R
     errors.push('Strict readiness probe gate did not pass for both staging and prod.');
   }
 
-  const alertArtifact = options.alertVerificationArtifact?.trim();
-  if (!alertArtifact) {
-    warnings.push('Alert verification artifact not provided.');
-  }
+  const alertArtifact = validateAlertArtifactReference(
+    options.alertVerificationArtifact,
+    options.allowIncomplete,
+    errors,
+    warnings,
+  );
   const reindexEvidence = validateReindexEvidenceReference(
     options.reindexEvidence,
     options.allowIncomplete,

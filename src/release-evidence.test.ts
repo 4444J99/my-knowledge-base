@@ -24,6 +24,7 @@ describe('generateReleaseEvidence', () => {
     const probesDir = join(root, 'runtime-probes');
     const evidenceDir = join(root, 'release-evidence');
     const reindexDir = join(root, 'reindex-runs');
+    const alertsDir = join(root, 'alert-verification');
     const indexPath = join(root, 'RELEASE_INDEX.md');
     writeFileSync(indexPath, '# Release Index\n\n## Active Release Line\n\nplaceholder\n', 'utf8');
 
@@ -67,6 +68,11 @@ describe('generateReleaseEvidence', () => {
         turnsIngested: 120,
       },
     });
+    const alertEvidencePath = join(alertsDir, 'latest.json');
+    writeJson(alertEvidencePath, {
+      generatedAt: '2026-02-11T10:00:00.000Z',
+      verifiedAlertIds: ['api-5xx-spike-critical'],
+    });
 
     const result = generateReleaseEvidence({
       tag: 'v2.0.0',
@@ -78,7 +84,7 @@ describe('generateReleaseEvidence', () => {
       releaseEvidenceDir: evidenceDir,
       releaseIndexPath: indexPath,
       reindexEvidence: reindexEvidencePath,
-      alertVerificationArtifact: 'docs/evidence/alert-verification/latest.json',
+      alertVerificationArtifact: alertEvidencePath,
       rollbackNote: 'Rollback to v1.9.9 if strict mode degrades',
     });
 

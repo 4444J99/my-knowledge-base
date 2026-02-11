@@ -60,6 +60,7 @@ function main(): void {
   console.log(`prodProbe=${result.selected.prodProbe ?? 'missing'}`);
   console.log(`releaseEvidence=${result.selected.releaseEvidence ?? 'missing'}`);
   console.log(`reindexEvidence=${result.selected.reindexEvidence ?? 'missing'}`);
+  console.log(`alertEvidence=${result.selected.alertEvidence ?? 'missing'}`);
 
   if (result.warnings.length > 0) {
     console.log('\nWarnings:');

@@ -47,6 +47,7 @@ Status values:
 - `npm run closure:evidence:strict` now fails when release evidence contains pending/missing reindex references.
 - Tagged release workflow now generates `docs/evidence/release-evidence/<tag>.json` and uploads `release-evidence-<tag>` artifact prior to GitHub Release publish.
 - Release workflow now assembles immutable `release-evidence-bundle` payload (release JSON + runtime probes + release index + reindex reference) within `release-evidence-<tag>` artifact.
+- Release workflow now runs `alerts:verify:strict` and includes `alert-verification.json` in the immutable evidence bundle.
 - `npm run build:all` now includes native-core module compilation for `/apps/mobile` and `/apps/desktop`.
 - Universe response/selection contracts now flow through shared package for backend + web + desktop client paths.
 - Shared non-universe DTOs (search/saved-search/stats/federation/admin dashboard payloads) now flow through `/packages/contracts` aliases across backend and web.

@@ -17,6 +17,7 @@ export interface ClosureEvidenceCheckResult {
     prodProbe?: string;
     releaseEvidence?: string;
     reindexEvidence?: string;
+    alertEvidence?: string;
   };
 }
 
@@ -40,6 +41,9 @@ interface ReleaseEvidenceRecord {
   runtimeVerification?: {
     stagingProbeArtifact?: string;
     productionProbeArtifact?: string;
+  };
+  observability?: {
+    alertVerificationArtifact?: string;
   };
   reindex?: {
     evidence?: string;
@@ -130,7 +134,7 @@ function validateReleaseEvidence(
   releaseEvidencePath: string,
   stagingProbePath: string,
   prodProbePath: string,
-): { errors: string[]; warnings: string[]; reindexEvidence?: string } {
+): { errors: string[]; warnings: string[]; reindexEvidence?: string; alertEvidence?: string } {
   const errors: string[] = [];
   const warnings: string[] = [];
   const parsed = parseJson(releaseEvidencePath) as ReleaseEvidenceRecord;
@@ -187,10 +191,38 @@ function validateReleaseEvidence(
     }
   }
 
+  const alertEvidence = parsed.observability?.alertVerificationArtifact?.trim();
+  if (!alertEvidence || alertEvidence.toLowerCase() === 'missing') {
+    errors.push('Release evidence missing observability.alertVerificationArtifact reference');
+  } else if (/pending/i.test(alertEvidence)) {
+    errors.push(`Release evidence alert verification reference is pending: ${alertEvidence}`);
+  } else if (!isHttpUrl(alertEvidence)) {
+    const resolved = resolve(alertEvidence);
+    if (!existsSync(resolved)) {
+      errors.push(`Release evidence alert verification artifact path not found: ${resolved}`);
+    } else if (resolved.toLowerCase().endsWith('.json')) {
+      try {
+        const alertDoc = parseJson(resolved) as { verifiedAlertIds?: unknown[] };
+        if (!Array.isArray(alertDoc.verifiedAlertIds) || alertDoc.verifiedAlertIds.length === 0) {
+          errors.push(`Alert verification artifact missing verifiedAlertIds content: ${resolved}`);
+        }
+      } catch (error) {
+        errors.push(
+          `Failed to parse alert verification artifact JSON ${resolved}: ${
+            error instanceof Error ? error.message : String(error)
+          }`,
+        );
+      }
+    } else {
+      warnings.push(`Alert verification artifact is not JSON; content integrity not parsed: ${resolved}`);
+    }
+  }
+
   return {
     errors,
     warnings,
     reindexEvidence,
+    alertEvidence,
   };
 }
 
@@ -235,6 +267,7 @@ export function verifyClosureEvidence(options: ClosureEvidenceOptions = {}): Clo
   const errors: string[] = [];
   const warnings: string[] = [];
   let reindexEvidence: string | undefined;
+  let alertEvidence: string | undefined;
 
   const stagingProbe = pickLatestProbeFile(runtimeProbesDir, 'staging');
   const prodProbe = pickLatestProbeFile(runtimeProbesDir, 'prod');
@@ -287,6 +320,7 @@ export function verifyClosureEvidence(options: ClosureEvidenceOptions = {}): Clo
       errors.push(...validation.errors);
       warnings.push(...validation.warnings);
       reindexEvidence = validation.reindexEvidence;
+      alertEvidence = validation.alertEvidence;
     } catch (error) {
       errors.push(
         `Failed to parse release evidence ${releaseEvidence}: ${
@@ -311,6 +345,7 @@ export function verifyClosureEvidence(options: ClosureEvidenceOptions = {}): Clo
       prodProbe,
       releaseEvidence,
       reindexEvidence,
+      alertEvidence,
     },
   };
 }

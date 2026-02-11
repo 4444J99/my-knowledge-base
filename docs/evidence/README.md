@@ -14,7 +14,7 @@ This directory is the canonical location for release/runtime evidence used by cl
   - Per-tag signed release evidence JSON (for example `v1.0.1.json`).
 - `release-bundles/` (CI artifact only)
   - Uploaded as `release-evidence-<tag>` artifact from release workflow.
-  - Contains release evidence JSON, release index snapshot, runtime probe artifacts, and reindex reference.
+  - Contains release evidence JSON, release index snapshot, alert verification evidence, runtime probe artifacts, and normalized reindex evidence.
 - `reindex-runs/`
   - Unbounded reindex run artifacts captured by `npm run reindex:evidence:*`.
 

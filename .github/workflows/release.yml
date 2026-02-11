@@ -365,6 +365,12 @@ jobs:
             --require-unbounded true
           echo "REINDEX_EVIDENCE_REF=$NORMALIZED" >> "$GITHUB_ENV"
 
+      - name: Verify alert coverage evidence (strict)
+        shell: bash
+        run: |
+          set -euo pipefail
+          npm run alerts:verify:strict
+
       - name: Generate release evidence JSON and update release index
         shell: bash
         run: |
@@ -393,6 +399,7 @@ jobs:
 
           cp "docs/evidence/release-evidence/${{ github.ref_name }}.json" "$BUNDLE_DIR/release-evidence.json"
           cp "docs/RELEASE_INDEX.md" "$BUNDLE_DIR/RELEASE_INDEX.md"
+          cp "docs/evidence/alert-verification/latest.json" "$BUNDLE_DIR/alert-verification.json"
           cp docs/evidence/runtime-probes/*.json "$BUNDLE_DIR/"
 
           cp "$REINDEX_EVIDENCE_REF" "$BUNDLE_DIR/reindex-evidence.json"
