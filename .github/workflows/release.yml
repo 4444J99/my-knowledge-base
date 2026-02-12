@@ -337,7 +337,7 @@ jobs:
         run: npm ci
 
       - name: Download runtime probe artifacts
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v7
         with:
           name: runtime-probe-gates-${{ github.ref_name }}
           path: docs/evidence/runtime-probes
