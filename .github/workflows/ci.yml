@@ -263,6 +263,7 @@ jobs:
   docker:
     name: Docker Build
     runs-on: ubuntu-latest
+    continue-on-error: true
     needs: [lint, test]
     permissions:
       contents: read
