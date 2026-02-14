@@ -35,7 +35,7 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm ci
+        run: npm install
 
       - name: TypeScript type check
         run: npx tsc --noEmit
@@ -68,7 +68,7 @@ jobs:
             ${{ runner.os }}-tsc-
 
       - name: Install dependencies
-        run: npm ci
+        run: npm install
 
       - name: Build
         run: npm run build
@@ -124,7 +124,7 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm ci
+        run: npm install
 
       - name: Prepare database
         run: npm run prepare-db
@@ -153,7 +153,7 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm ci
+        run: npm install
 
       - name: Prepare database
         run: npm run prepare-db
@@ -187,7 +187,7 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm ci
+        run: npm install
 
       - name: Prepare database
         run: npm run prepare-db
@@ -237,7 +237,7 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm ci
+        run: npm install
 
       - name: npm audit
         run: npm audit --audit-level=high
