@@ -60,7 +60,7 @@ jobs:
 
       - name: Install web dependencies
         working-directory: web-react
-        run: npm ci
+        run: npm install
 
       - name: Build web app
         working-directory: web-react
