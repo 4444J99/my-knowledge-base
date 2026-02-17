@@ -37,6 +37,9 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Validate GitHub Pages data contract
+        run: npm run validate:github-pages -- --max-age-hours 336 --max-errored 25 --max-unreachable 25
+
       - name: TypeScript type check
         run: npx tsc --noEmit
 
@@ -163,6 +166,69 @@ jobs:
 
       - name: Run native parity suite
         run: npm run test:native
+
+  # ============================================
+  # Local Runtime Probe Parity Gate
+  # ============================================
+  runtime-probe-parity-local:
+    name: Runtime Probe Parity (local)
+    runs-on: ubuntu-latest
+    needs: [lint, test]
+    env:
+      NODE_ENV: test
+      KB_EMBEDDINGS_PROVIDER: mock
+    steps:
+      - name: Checkout
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@6044e13b5dc448c55e2357c09f80417699197238 # v6.2.0
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: npm
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Prepare database
+        run: npm run prepare-db
+
+      - name: Run local parity runtime probe
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p docs/evidence/runtime-probes
+
+          npx tsx src/web-server.ts > local-runtime-probe-server.log 2>&1 &
+          SERVER_PID=$!
+
+          cleanup() {
+            kill "$SERVER_PID" > /dev/null 2>&1 || true
+            wait "$SERVER_PID" > /dev/null 2>&1 || true
+          }
+          trap cleanup EXIT
+
+          for _ in {1..45}; do
+            if curl -fsS "http://127.0.0.1:3000/api/health" > /dev/null; then
+              echo "Local API is ready."
+              break
+            fi
+            sleep 2
+          done
+
+          curl -fsS "http://127.0.0.1:3000/api/health" > /dev/null
+          npm run probe:runtime -- --env local --mode parity --base-url "http://127.0.0.1:3000" --out "docs/evidence/runtime-probes/local-ci-parity-${GITHUB_RUN_ID}.json"
+
+      - name: Upload local runtime probe artifacts
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: local-runtime-probe-parity-${{ github.run_id }}
+          path: |
+            docs/evidence/runtime-probes/local-ci-parity-*.json
+            local-runtime-probe-server.log
+          if-no-files-found: ignore
+          retention-days: 7
 
   # ============================================
   # Flaky Test Watch (Non-Blocking)

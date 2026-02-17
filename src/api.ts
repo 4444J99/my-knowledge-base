@@ -46,6 +46,7 @@ import {
   PaginatedResponse,
   SearchFallbackReason,
   SearchResponse,
+  UnitBranchResponse,
 } from './api-types.js';
 
 /**
@@ -1329,6 +1330,319 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
       } as ApiSuccessResponse<any>);
 
       logger.info(`Batch created units: success=${created.length}, errors=${errors.length}`);
+    })
+  );
+
+  /**
+   * GET /api/units/:id/branches
+   * Traverse typed relationships in branching columns using BFS.
+   */
+  router.get(
+    '/units/:id/branches',
+    asyncHandler(async (req: Request, res: Response) => {
+      type BranchDirection = 'out' | 'in' | 'both';
+      type BranchEdgeDirection = 'out' | 'in';
+      type RelationshipRow = {
+        fromUnitId: string;
+        toUnitId: string;
+        relationshipType: string;
+        source: string | null;
+        confidence: number | null;
+        explanation: string | null;
+        createdAt: string | null;
+        direction: BranchEdgeDirection;
+      };
+      type BranchUnitSummary = {
+        id: string;
+        title: string;
+        type: string;
+        category: string;
+      };
+
+      const { id } = req.params;
+      const depth = parseIntParam(req.query.depth as string | undefined, 'depth', 3, 1, 4);
+      const limitPerNode = parseIntParam(
+        req.query.limitPerNode as string | undefined,
+        'limitPerNode',
+        12,
+        1,
+        25
+      );
+      const directionRaw = String(req.query.direction || 'out').toLowerCase();
+      if (!['out', 'in', 'both'].includes(directionRaw)) {
+        throw new AppError('Invalid direction', 'INVALID_PARAMETER', 400, {
+          allowedDirection: ['out', 'in', 'both'],
+        });
+      }
+      const direction = directionRaw as BranchDirection;
+      const relationshipTypeParam = Array.isArray(req.query.relationshipType)
+        ? req.query.relationshipType.join(',')
+        : (req.query.relationshipType as string | undefined);
+      const relationshipTypes = (relationshipTypeParam || '')
+        .split(',')
+        .map((value) => value.trim())
+        .filter((value) => value.length > 0);
+      const relationshipTypeFilter = relationshipTypes.length > 0 ? new Set(relationshipTypes) : null;
+
+      const rootRow = dbHandle
+        .prepare('SELECT id, title, type, category FROM atomic_units WHERE id = ?')
+        .get(id) as BranchUnitSummary | undefined;
+      if (!rootRow) {
+        throw new AppError(`Unit not found: ${id}`, 'NOT_FOUND', 404);
+      }
+
+      const fetchDirectionalRelationships = (
+        frontier: string[],
+        edgeDirection: BranchEdgeDirection
+      ): RelationshipRow[] => {
+        if (frontier.length === 0) {
+          return [];
+        }
+
+        const frontierPlaceholders = frontier.map(() => '?').join(', ');
+        const column = edgeDirection === 'out' ? 'from_unit' : 'to_unit';
+        const typeClause =
+          relationshipTypes.length > 0
+            ? ` AND relationship_type IN (${relationshipTypes.map(() => '?').join(', ')})`
+            : '';
+        const query = `
+          SELECT
+            from_unit as fromUnitId,
+            to_unit as toUnitId,
+            relationship_type as relationshipType,
+            source,
+            confidence,
+            explanation,
+            created_at as createdAt
+          FROM unit_relationships
+          WHERE ${column} IN (${frontierPlaceholders})
+          ${typeClause}
+        `;
+
+        const rows = dbHandle
+          .prepare(query)
+          .all(
+            ...frontier,
+            ...(relationshipTypes.length > 0 ? relationshipTypes : [])
+          ) as Array<{
+          fromUnitId: string;
+          toUnitId: string;
+          relationshipType: string;
+          source: string | null;
+          confidence: number | null;
+          explanation: string | null;
+          createdAt: string | null;
+        }>;
+
+        return rows.map((row) => ({
+          ...row,
+          direction: edgeDirection,
+        }));
+      };
+
+      const sortRelationships = (a: RelationshipRow, b: RelationshipRow): number => {
+        const aConfidence = a.confidence ?? -1;
+        const bConfidence = b.confidence ?? -1;
+        if (bConfidence !== aConfidence) {
+          return bConfidence - aConfidence;
+        }
+
+        const aCreatedAt = a.createdAt ? Date.parse(a.createdAt) : 0;
+        const bCreatedAt = b.createdAt ? Date.parse(b.createdAt) : 0;
+        if (bCreatedAt !== aCreatedAt) {
+          return bCreatedAt - aCreatedAt;
+        }
+
+        if (a.relationshipType !== b.relationshipType) {
+          return a.relationshipType.localeCompare(b.relationshipType);
+        }
+
+        const aNeighborId = a.direction === 'out' ? a.toUnitId : a.fromUnitId;
+        const bNeighborId = b.direction === 'out' ? b.toUnitId : b.fromUnitId;
+        if (aNeighborId !== bNeighborId) {
+          return aNeighborId.localeCompare(bNeighborId);
+        }
+
+        return a.direction.localeCompare(b.direction);
+      };
+
+      const loadUnitSummaries = (ids: string[]): BranchUnitSummary[] => {
+        if (ids.length === 0) {
+          return [];
+        }
+
+        const placeholders = ids.map(() => '?').join(', ');
+        const rows = dbHandle
+          .prepare(
+            `SELECT id, title, type, category FROM atomic_units WHERE id IN (${placeholders})`
+          )
+          .all(...ids) as BranchUnitSummary[];
+        const byId = new Map(rows.map((row) => [row.id, row]));
+
+        return ids
+          .map((unitId) => byId.get(unitId))
+          .filter((unit): unit is BranchUnitSummary => Boolean(unit));
+      };
+
+      const columns: UnitBranchResponse['columns'] = [
+        {
+          depth: 0,
+          units: [rootRow],
+        },
+      ];
+      const edges: UnitBranchResponse['edges'] = [];
+      const edgeKeys = new Set<string>();
+      const knownUnitIds = new Set<string>([rootRow.id]);
+      const visited = new Set<string>([rootRow.id]);
+      let frontier: string[] = [rootRow.id];
+      let truncated = false;
+
+      for (let layer = 1; layer <= depth; layer++) {
+        if (frontier.length === 0) {
+          break;
+        }
+
+        const groupedByParent = new Map<string, RelationshipRow[]>();
+        const candidates: RelationshipRow[] = [];
+
+        if (direction === 'out' || direction === 'both') {
+          candidates.push(...fetchDirectionalRelationships(frontier, 'out'));
+        }
+        if (direction === 'in' || direction === 'both') {
+          candidates.push(...fetchDirectionalRelationships(frontier, 'in'));
+        }
+
+        for (const relationship of candidates) {
+          if (
+            relationshipTypeFilter &&
+            !relationshipTypeFilter.has(relationship.relationshipType)
+          ) {
+            continue;
+          }
+
+          const parentId =
+            relationship.direction === 'out'
+              ? relationship.fromUnitId
+              : relationship.toUnitId;
+          if (!groupedByParent.has(parentId)) {
+            groupedByParent.set(parentId, []);
+          }
+          groupedByParent.get(parentId)!.push(relationship);
+        }
+
+        const nextFrontierCandidateIds: string[] = [];
+        const nextFrontierCandidateSet = new Set<string>();
+        const layerEdges: Array<UnitBranchResponse['edges'][number] & { childId: string }> = [];
+
+        for (const parentId of frontier) {
+          const parentCandidates = groupedByParent.get(parentId) || [];
+          parentCandidates.sort(sortRelationships);
+          if (parentCandidates.length > limitPerNode) {
+            truncated = true;
+          }
+          const selected = parentCandidates.slice(0, limitPerNode);
+
+          for (const relationship of selected) {
+            const childId =
+              relationship.direction === 'out'
+                ? relationship.toUnitId
+                : relationship.fromUnitId;
+
+            layerEdges.push({
+              fromUnitId: relationship.fromUnitId,
+              toUnitId: relationship.toUnitId,
+              relationshipType: relationship.relationshipType,
+              source: relationship.source || 'auto_detected',
+              confidence: relationship.confidence,
+              explanation: relationship.explanation,
+              createdAt: relationship.createdAt,
+              direction: relationship.direction,
+              depth: layer,
+              childId,
+            });
+
+            if (!visited.has(childId) && !nextFrontierCandidateSet.has(childId)) {
+              nextFrontierCandidateSet.add(childId);
+              nextFrontierCandidateIds.push(childId);
+            }
+          }
+        }
+
+        const nextUnits = loadUnitSummaries(nextFrontierCandidateIds);
+        const nextUnitIds = nextUnits.map((unit) => unit.id);
+        const nextUnitIdSet = new Set(nextUnitIds);
+
+        for (const edge of layerEdges) {
+          if (!knownUnitIds.has(edge.childId) && !nextUnitIdSet.has(edge.childId)) {
+            continue;
+          }
+
+          const edgeKey = [
+            edge.fromUnitId,
+            edge.toUnitId,
+            edge.relationshipType,
+            edge.direction,
+            edge.depth,
+          ].join('|');
+
+          if (edgeKeys.has(edgeKey)) {
+            continue;
+          }
+          edgeKeys.add(edgeKey);
+          edges.push({
+            fromUnitId: edge.fromUnitId,
+            toUnitId: edge.toUnitId,
+            relationshipType: edge.relationshipType,
+            source: edge.source,
+            confidence: edge.confidence,
+            explanation: edge.explanation,
+            createdAt: edge.createdAt,
+            direction: edge.direction,
+            depth: edge.depth,
+          });
+        }
+
+        if (nextUnits.length === 0) {
+          break;
+        }
+
+        columns.push({
+          depth: layer,
+          units: nextUnits,
+        });
+
+        for (const unit of nextUnits) {
+          visited.add(unit.id);
+          knownUnitIds.add(unit.id);
+        }
+
+        frontier = nextUnitIds;
+      }
+
+      const payload: UnitBranchResponse = {
+        root: rootRow,
+        columns,
+        edges,
+        meta: {
+          depth,
+          direction,
+          limitPerNode,
+          relationshipTypes,
+          truncated,
+          visitedCount: visited.size,
+          edgeCount: edges.length,
+        },
+      };
+
+      res.json({
+        success: true,
+        data: payload,
+        timestamp: new Date().toISOString(),
+      } as ApiSuccessResponse<UnitBranchResponse>);
+
+      logger.debug(
+        `Branch traversal for ${id}: depth=${depth}, columns=${columns.length}, edges=${edges.length}`
+      );
     })
   );
 

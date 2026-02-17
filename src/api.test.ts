@@ -487,6 +487,115 @@ describe('REST API', () => {
     });
   });
 
+  describe('GET /api/units/:id/branches', () => {
+    beforeEach(() => {
+      const now = new Date().toISOString();
+      const insertUnit = db['db'].prepare(`
+        INSERT INTO atomic_units (
+          id, type, title, content, context, category, tags, keywords, timestamp
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+      `);
+      const insertRelationship = db['db'].prepare(`
+        INSERT INTO unit_relationships (
+          from_unit, to_unit, relationship_type, source, confidence, explanation, created_at
+        ) VALUES (?, ?, ?, ?, ?, ?, ?)
+      `);
+
+      insertUnit.run('branch-root', 'insight', 'Root', 'Root content', '', 'programming', '[]', '[]', now);
+      insertUnit.run('branch-a', 'code', 'Node A', 'A content', '', 'programming', '[]', '[]', now);
+      insertUnit.run('branch-b', 'question', 'Node B', 'B content', '', 'research', '[]', '[]', now);
+      insertUnit.run('branch-c', 'reference', 'Node C', 'C content', '', 'design', '[]', '[]', now);
+      insertUnit.run('branch-in', 'decision', 'Node In', 'In content', '', 'general', '[]', '[]', now);
+
+      insertRelationship.run('branch-root', 'branch-a', 'builds_on', 'manual', 0.95, 'root to a', now);
+      insertRelationship.run('branch-root', 'branch-b', 'references', 'manual', 0.85, 'root to b', now);
+      insertRelationship.run('branch-a', 'branch-c', 'related', 'auto_detected', 0.75, 'a to c', now);
+      insertRelationship.run('branch-in', 'branch-root', 'contradicts', 'manual', 0.65, 'inbound', now);
+      // cycle
+      insertRelationship.run('branch-a', 'branch-root', 'related', 'auto_detected', 0.55, 'cycle', now);
+    });
+
+    it('returns branching columns and edges for a valid root', async () => {
+      const response = await request(app)
+        .get('/api/units/branch-root/branches?depth=3&direction=out&limitPerNode=12')
+        .expect(200);
+
+      expect(response.body.success).toBe(true);
+      expect(response.body.data.root.id).toBe('branch-root');
+      expect(Array.isArray(response.body.data.columns)).toBe(true);
+      expect(Array.isArray(response.body.data.edges)).toBe(true);
+      expect(response.body.data.columns[0].units[0].id).toBe('branch-root');
+      expect(response.body.data.columns[1].units.map((u: any) => u.id)).toEqual(
+        expect.arrayContaining(['branch-a', 'branch-b'])
+      );
+      expect(response.body.data.edges.some((e: any) => e.fromUnitId === 'branch-root' && e.toUnitId === 'branch-a')).toBe(true);
+    });
+
+    it('validates depth bounds', async () => {
+      const low = await request(app)
+        .get('/api/units/branch-root/branches?depth=0')
+        .expect(400);
+      expect(low.body.code).toBe('INVALID_PARAMETER');
+
+      const high = await request(app)
+        .get('/api/units/branch-root/branches?depth=5')
+        .expect(400);
+      expect(high.body.code).toBe('INVALID_PARAMETER');
+    });
+
+    it('supports out, in, and both traversal directions', async () => {
+      const out = await request(app)
+        .get('/api/units/branch-root/branches?direction=out&depth=2')
+        .expect(200);
+      const inDir = await request(app)
+        .get('/api/units/branch-root/branches?direction=in&depth=2')
+        .expect(200);
+      const both = await request(app)
+        .get('/api/units/branch-root/branches?direction=both&depth=2')
+        .expect(200);
+
+      const outEdges = out.body.data.edges as any[];
+      const inEdges = inDir.body.data.edges as any[];
+      const bothEdges = both.body.data.edges as any[];
+
+      expect(outEdges.some((edge) => edge.toUnitId === 'branch-in')).toBe(false);
+      expect(inEdges.some((edge) => edge.fromUnitId === 'branch-in' && edge.toUnitId === 'branch-root')).toBe(true);
+      expect(bothEdges.some((edge) => edge.fromUnitId === 'branch-root' && edge.toUnitId === 'branch-a')).toBe(true);
+      expect(bothEdges.some((edge) => edge.fromUnitId === 'branch-in' && edge.toUnitId === 'branch-root')).toBe(true);
+    });
+
+    it('filters by relationshipType', async () => {
+      const response = await request(app)
+        .get('/api/units/branch-root/branches?direction=both&relationshipType=builds_on')
+        .expect(200);
+
+      const edges = response.body.data.edges as any[];
+      expect(edges.length).toBeGreaterThan(0);
+      expect(edges.every((edge) => edge.relationshipType === 'builds_on')).toBe(true);
+    });
+
+    it('handles relationship cycles without duplicating nodes across columns', async () => {
+      const response = await request(app)
+        .get('/api/units/branch-root/branches?direction=both&depth=4')
+        .expect(200);
+
+      const idsByColumn = (response.body.data.columns as Array<{ units: Array<{ id: string }> }>)
+        .flatMap((column) => column.units.map((unit) => unit.id));
+      const uniqueIds = new Set(idsByColumn);
+
+      expect(uniqueIds.size).toBe(idsByColumn.length);
+      expect(response.body.data.meta.visitedCount).toBe(uniqueIds.size);
+    });
+
+    it('returns 404 for unknown root unit', async () => {
+      const response = await request(app)
+        .get('/api/units/does-not-exist/branches')
+        .expect(404);
+
+      expect(response.body.error).toContain('not found');
+    });
+  });
+
   describe('GET /api/search', () => {
     beforeEach(() => {
       for (let i = 0; i < 3; i++) {

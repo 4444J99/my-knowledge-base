@@ -1,0 +1,24 @@
+{
+  "overrides": {
+    "4444J99/portfolio": {
+      "featured": true,
+      "priority": 100,
+      "label": "Portfolio"
+    },
+    "organvm-i-theoria/my-knowledge-base": {
+      "featured": true,
+      "priority": 95,
+      "label": "Knowledge Base"
+    },
+    "organvm-v-logos/public-process": {
+      "featured": true,
+      "priority": 90,
+      "label": "Public Process Essays"
+    },
+    "organvm-iv-taxis/agentic-titan": {
+      "featured": true,
+      "priority": 85,
+      "label": "Agentic Titan"
+    }
+  }
+}

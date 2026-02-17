@@ -1,0 +1,117 @@
+name: Runtime Probe Dispatch
+
+on:
+  workflow_dispatch:
+    inputs:
+      target:
+        description: "Target environment(s) for runtime probes"
+        required: true
+        default: "both"
+        type: choice
+        options:
+          - staging
+          - prod
+          - both
+
+env:
+  NODE_VERSION: "20"
+
+jobs:
+  runtime-probe-dispatch:
+    name: Runtime Probe Dispatch
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: npm
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install 1Password CLI
+        uses: 1password/install-cli-action@v1
+
+      - name: Preflight runtime probe configuration
+        env:
+          OP_SERVICE_ACCOUNT_TOKEN: ${{ secrets.OP_SERVICE_ACCOUNT_TOKEN }}
+          OP_STAGING_BASE_URL_REF: ${{ vars.OP_STAGING_BASE_URL_REF }}
+          OP_PROD_BASE_URL_REF: ${{ vars.OP_PROD_BASE_URL_REF }}
+          REINDEX_EVIDENCE_REF: ${{ vars.REINDEX_EVIDENCE_REF }}
+        run: npm run probe:preflight:strict
+
+      - name: Resolve runtime probe configuration from 1Password
+        shell: bash
+        env:
+          TARGET: ${{ github.event.inputs.target }}
+          OP_SERVICE_ACCOUNT_TOKEN: ${{ secrets.OP_SERVICE_ACCOUNT_TOKEN }}
+          OP_STAGING_BASE_URL_REF: ${{ vars.OP_STAGING_BASE_URL_REF }}
+          OP_PROD_BASE_URL_REF: ${{ vars.OP_PROD_BASE_URL_REF }}
+          OP_STAGING_AUTH_HEADER_REF: ${{ vars.OP_STAGING_AUTH_HEADER_REF }}
+          OP_PROD_AUTH_HEADER_REF: ${{ vars.OP_PROD_AUTH_HEADER_REF }}
+        run: |
+          set -euo pipefail
+          : "${OP_SERVICE_ACCOUNT_TOKEN:?Missing OP_SERVICE_ACCOUNT_TOKEN GitHub secret}"
+
+          if [[ "$TARGET" == "staging" || "$TARGET" == "both" ]]; then
+            : "${OP_STAGING_BASE_URL_REF:?Missing OP_STAGING_BASE_URL_REF GitHub variable}"
+            STAGING_BASE_URL="$(op read "$OP_STAGING_BASE_URL_REF")"
+            echo "STAGING_BASE_URL=$STAGING_BASE_URL" >> "$GITHUB_ENV"
+            if [[ -n "${OP_STAGING_AUTH_HEADER_REF:-}" ]]; then
+              echo "STAGING_AUTH_HEADER=$(op read "$OP_STAGING_AUTH_HEADER_REF")" >> "$GITHUB_ENV"
+            fi
+          fi
+
+          if [[ "$TARGET" == "prod" || "$TARGET" == "both" ]]; then
+            : "${OP_PROD_BASE_URL_REF:?Missing OP_PROD_BASE_URL_REF GitHub variable}"
+            PROD_BASE_URL="$(op read "$OP_PROD_BASE_URL_REF")"
+            echo "PROD_BASE_URL=$PROD_BASE_URL" >> "$GITHUB_ENV"
+            if [[ -n "${OP_PROD_AUTH_HEADER_REF:-}" ]]; then
+              echo "PROD_AUTH_HEADER=$(op read "$OP_PROD_AUTH_HEADER_REF")" >> "$GITHUB_ENV"
+            fi
+          fi
+
+      - name: Run runtime probes and reindex evidence capture
+        shell: bash
+        env:
+          TARGET: ${{ github.event.inputs.target }}
+        run: |
+          set -euo pipefail
+          mkdir -p docs/evidence/runtime-probes docs/evidence/reindex-runs
+          TS="$(date +%Y%m%d-%H%M%S)"
+          echo "ARTIFACT_TS=$TS" >> "$GITHUB_ENV"
+
+          if [[ "$TARGET" == "staging" || "$TARGET" == "both" ]]; then
+            STAGING_PROBE_OUT="docs/evidence/runtime-probes/staging-${TS}.json"
+            STAGING_REINDEX_OUT="docs/evidence/reindex-runs/staging-${TS}.json"
+
+            npm run probe:staging -- --out "$STAGING_PROBE_OUT"
+            npm run reindex:evidence:staging -- --out "$STAGING_REINDEX_OUT" --require-unbounded false
+            npm run reindex:evidence:verify -- --ref "$STAGING_REINDEX_OUT" --require-unbounded false
+          fi
+
+          if [[ "$TARGET" == "prod" || "$TARGET" == "both" ]]; then
+            PROD_PROBE_OUT="docs/evidence/runtime-probes/prod-${TS}.json"
+            PROD_REINDEX_OUT="docs/evidence/reindex-runs/prod-${TS}.json"
+
+            npm run probe:prod -- --out "$PROD_PROBE_OUT"
+            npm run reindex:evidence:prod -- --out "$PROD_REINDEX_OUT" --require-unbounded true
+            npm run reindex:evidence:verify -- --ref "$PROD_REINDEX_OUT" --require-unbounded true
+          fi
+
+      - name: Upload runtime probe dispatch artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: runtime-probe-dispatch-${{ github.event.inputs.target }}-${{ github.run_id }}
+          path: |
+            docs/evidence/runtime-probes/*.json
+            docs/evidence/reindex-runs/*.json
+          if-no-files-found: error
+          retention-days: 30

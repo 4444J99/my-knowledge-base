@@ -12,6 +12,7 @@ import type {
 } from '@knowledge-base/contracts';
 import type {
   AtomicUnit,
+  BranchDirection,
   Category,
   Conversation,
   DashboardStats,
@@ -29,6 +30,7 @@ import type {
   UniverseSummary,
   UniverseTermOccurrence,
   UniverseTurn,
+  UnitBranchResponse,
 } from '../types';
 
 const configuredApiBase = (import.meta.env.VITE_API_BASE_URL as string | undefined)?.trim();
@@ -435,6 +437,20 @@ export const unitsApi = {
     } catch {
       return asApiResponse([]);
     }
+  },
+
+  getBranches: async (
+    id: string,
+    params?: {
+      depth?: number;
+      direction?: BranchDirection;
+      limitPerNode?: number;
+      relationshipType?: string;
+    }
+  ) => {
+    const payload = await requestJson(`/units/${id}/branches${buildParams(params)}`);
+    const wrapped = unwrapData<UnitBranchResponse>(payload);
+    return asApiResponse((wrapped ?? payload) as UnitBranchResponse);
   },
 };
 

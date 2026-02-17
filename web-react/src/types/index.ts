@@ -1,5 +1,9 @@
 import type {
   DashboardStats as ContractsDashboardStats,
+  BranchColumn as ContractsBranchColumn,
+  BranchDirection as ContractsBranchDirection,
+  BranchEdge as ContractsBranchEdge,
+  BranchUnitSummary as ContractsBranchUnitSummary,
   FederatedScanJob as ContractsFederatedScanJob,
   FederatedScanRun as ContractsFederatedScanRun,
   FederatedSearchHit as ContractsFederatedSearchHit,
@@ -7,6 +11,7 @@ import type {
   SearchFacetField as ContractsSearchFacetField,
   SearchResponse as ContractsSearchResponse,
   SearchSuggestion as ContractsSearchSuggestion,
+  UnitBranchResponse as ContractsUnitBranchResponse,
   UniverseIngestRun as ContractsUniverseIngestRun,
   ParallelNetworkEdge as ContractsParallelNetworkEdge,
   UniverseReindexStart as ContractsUniverseReindexStart,
@@ -28,6 +33,7 @@ export type SearchMode = 'fts' | 'semantic' | 'hybrid';
 export type Tab =
   | 'universe'
   | 'search'
+  | 'branches'
   | 'federation'
   | 'graph'
   | 'tags'
@@ -77,6 +83,11 @@ export interface SearchResult {
 export type SearchResponse = ContractsSearchResponse<SearchResult>;
 export type SearchSuggestion = ContractsSearchSuggestion;
 export type SearchFacetField = ContractsSearchFacetField;
+export type BranchDirection = ContractsBranchDirection;
+export type BranchUnitSummary = ContractsBranchUnitSummary;
+export type BranchEdge = ContractsBranchEdge;
+export type BranchColumn = ContractsBranchColumn;
+export type UnitBranchResponse = ContractsUnitBranchResponse;
 
 export interface GraphNode {
   id: string;

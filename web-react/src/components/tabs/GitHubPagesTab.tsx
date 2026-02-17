@@ -13,6 +13,14 @@ interface GitHubPagesRepo {
   sourceBranch: string | null;
   sourcePath: string | null;
   updatedAt: string | null;
+  featured: boolean;
+  priority: number;
+  hidden: boolean;
+  label: string | null;
+  httpStatus: number | null;
+  reachable: boolean;
+  redirectTarget: string | null;
+  lastCheckedAt: string;
 }
 
 interface GitHubPagesDirectory {
@@ -22,7 +30,18 @@ interface GitHubPagesDirectory {
   repos: GitHubPagesRepo[];
 }
 
+interface ClickRecord {
+  owner: string;
+  repo: string;
+  fullName: string;
+  target: 'page' | 'repo';
+  count: number;
+  lastClickedAt: string;
+}
+
+const CLICK_STORAGE_KEY = 'kb_github_pages_clicks';
 const pagesDirectory = pagesDirectoryData as GitHubPagesDirectory;
+type ClickRecordMap = Record<string, ClickRecord>;
 
 function formatDate(value: string | null) {
   if (!value) return 'n/a';
@@ -31,17 +50,112 @@ function formatDate(value: string | null) {
   return new Date(timestamp).toLocaleString();
 }
 
+function isClickRecord(value: unknown): value is ClickRecord {
+  if (!value || typeof value !== 'object' || Array.isArray(value)) return false;
+  const candidate = value as Record<string, unknown>;
+
+  return (
+    typeof candidate.owner === 'string' &&
+    typeof candidate.repo === 'string' &&
+    typeof candidate.fullName === 'string' &&
+    (candidate.target === 'page' || candidate.target === 'repo') &&
+    typeof candidate.count === 'number' &&
+    Number.isFinite(candidate.count) &&
+    typeof candidate.lastClickedAt === 'string'
+  );
+}
+
+function parseClickRecordMap(raw: string | null): ClickRecordMap {
+  if (!raw) return {};
+
+  try {
+    const parsed: unknown = JSON.parse(raw);
+    if (!parsed || typeof parsed !== 'object' || Array.isArray(parsed)) return {};
+
+    const sanitized: ClickRecordMap = {};
+    for (const [key, value] of Object.entries(parsed as Record<string, unknown>)) {
+      if (isClickRecord(value)) {
+        sanitized[key] = value;
+      }
+    }
+
+    return sanitized;
+  } catch {
+    return {};
+  }
+}
+
+function readClickRecords(): ClickRecord[] {
+  if (typeof window === 'undefined') return [];
+
+  return Object.values(parseClickRecordMap(window.localStorage.getItem(CLICK_STORAGE_KEY)));
+}
+
+function trackOutboundClick(repo: GitHubPagesRepo, target: 'page' | 'repo') {
+  if (typeof window === 'undefined') return;
+
+  try {
+    const parsed = parseClickRecordMap(window.localStorage.getItem(CLICK_STORAGE_KEY));
+
+    const key = `${repo.fullName}:${target}`;
+    const previous = parsed[key] ?? {
+      owner: repo.owner,
+      repo: repo.repo,
+      fullName: repo.fullName,
+      target,
+      count: 0,
+      lastClickedAt: null,
+    };
+
+    parsed[key] = {
+      owner: repo.owner,
+      repo: repo.repo,
+      fullName: repo.fullName,
+      target,
+      count: Number(previous.count || 0) + 1,
+      lastClickedAt: new Date().toISOString(),
+    };
+
+    window.localStorage.setItem(CLICK_STORAGE_KEY, JSON.stringify(parsed));
+    window.dispatchEvent(
+      new CustomEvent('kb:outbound-link-click', {
+        detail: { owner: repo.owner, repo: repo.repo, target, source: 'github-pages-tab' },
+      })
+    );
+  } catch {
+    // no-op
+  }
+}
+
 export function GitHubPagesTab() {
   const [query, setQuery] = useState('');
   const [ownerFilter, setOwnerFilter] = useState<'all' | string>('all');
+  const [showHidden, setShowHidden] = useState(false);
+  const [clickVersion, setClickVersion] = useState(0);
+
+  const generatedAtMs = Number.isFinite(Date.parse(pagesDirectory.generatedAt))
+    ? Date.parse(pagesDirectory.generatedAt)
+    : null;
+  const ageHours = generatedAtMs === null ? null : (Date.now() - generatedAtMs) / (1000 * 60 * 60);
+  const stale = ageHours !== null && ageHours > 48;
 
   const ownerOrder = useMemo(
-    () =>
-      new Map(
-        pagesDirectory.owners.map((owner, index) => [owner.toLowerCase(), index])
-      ),
+    () => new Map(pagesDirectory.owners.map((owner, index) => [owner.toLowerCase(), index])),
     []
   );
+
+  const visibleRepos = useMemo(
+    () => pagesDirectory.repos.filter((repo) => showHidden || !repo.hidden),
+    [showHidden]
+  );
+
+  const builtCount = visibleRepos.filter((repo) => repo.status === 'built').length;
+  const erroredCount = visibleRepos.filter((repo) => repo.status === 'errored').length;
+  const unreachableCount = visibleRepos.filter((repo) => repo.reachable === false).length;
+  const recentlyChangedCount = visibleRepos.filter((repo) => {
+    if (!repo.updatedAt || !Number.isFinite(Date.parse(repo.updatedAt))) return false;
+    return Date.now() - Date.parse(repo.updatedAt) <= 7 * 24 * 60 * 60 * 1000;
+  }).length;
 
   const ownerOptions = useMemo(() => {
     const owners = new Set<string>(pagesDirectory.owners);
@@ -59,18 +173,37 @@ export function GitHubPagesTab() {
   const filteredRepos = useMemo(() => {
     const normalizedQuery = query.trim().toLowerCase();
 
-    return pagesDirectory.repos.filter((repo) => {
-      if (ownerFilter !== 'all' && repo.owner !== ownerFilter) return false;
+    return visibleRepos
+      .filter((repo) => {
+        if (ownerFilter !== 'all' && repo.owner !== ownerFilter) return false;
+        if (!normalizedQuery) return true;
 
-      if (!normalizedQuery) return true;
+        const haystack = [
+          repo.fullName,
+          repo.owner,
+          repo.repo,
+          repo.repoUrl,
+          repo.pageUrl,
+          repo.label ?? '',
+        ]
+          .join(' ')
+          .toLowerCase();
 
-      const haystack = [repo.fullName, repo.owner, repo.repo, repo.repoUrl, repo.pageUrl]
-        .join(' ')
-        .toLowerCase();
+        return haystack.includes(normalizedQuery);
+      })
+      .sort(
+        (a, b) =>
+          Number(b.featured) - Number(a.featured) ||
+          b.priority - a.priority ||
+          a.owner.localeCompare(b.owner, undefined, { sensitivity: 'base' }) ||
+          a.repo.localeCompare(b.repo, undefined, { sensitivity: 'base' })
+      );
+  }, [ownerFilter, query, visibleRepos]);
 
-      return haystack.includes(normalizedQuery);
-    });
-  }, [ownerFilter, query]);
+  const featuredRepos = useMemo(
+    () => filteredRepos.filter((repo) => repo.featured).slice(0, 8),
+    [filteredRepos]
+  );
 
   const groupedRepos = useMemo(() => {
     const grouped = new Map<string, GitHubPagesRepo[]>();
@@ -90,30 +223,53 @@ export function GitHubPagesTab() {
     });
   }, [filteredRepos, ownerOrder]);
 
+  const clickLeaders = useMemo(() => {
+    const records = readClickRecords();
+    return records
+      .sort((a, b) => b.count - a.count || b.lastClickedAt.localeCompare(a.lastClickedAt))
+      .slice(0, 5);
+  }, [clickVersion]);
+
+  const handleOutboundClick = (repo: GitHubPagesRepo, target: 'page' | 'repo') => {
+    trackOutboundClick(repo, target);
+    setClickVersion((value) => value + 1);
+  };
+
   return (
     <div className="space-y-6">
       <section className="card p-6">
         <h3 className="text-lg font-semibold">GitHub Pages Directory</h3>
         <p className="text-sm text-[var(--ink-muted)] mt-2">
-          Static index of Pages-enabled repositories across personal + organ organizations.
+          System Pages Health: all Pages repos with curation, telemetry, and outbound-click analytics.
         </p>
 
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-3 mt-4">
+        <div className="grid grid-cols-1 md:grid-cols-6 gap-3 mt-4">
           <div className="rounded-xl bg-[var(--bg)] p-3">
-            <p className="text-xs uppercase tracking-wide text-[var(--ink-muted)]">Total Repos</p>
-            <p className="text-xl font-semibold">{pagesDirectory.totalRepos}</p>
+            <p className="text-xs uppercase tracking-wide text-[var(--ink-muted)]">Visible</p>
+            <p className="text-xl font-semibold">{visibleRepos.length}</p>
           </div>
           <div className="rounded-xl bg-[var(--bg)] p-3">
-            <p className="text-xs uppercase tracking-wide text-[var(--ink-muted)]">Owners</p>
-            <p className="text-xl font-semibold">{ownerOptions.length}</p>
+            <p className="text-xs uppercase tracking-wide text-[var(--ink-muted)]">Built</p>
+            <p className="text-xl font-semibold">{builtCount}</p>
           </div>
           <div className="rounded-xl bg-[var(--bg)] p-3">
-            <p className="text-xs uppercase tracking-wide text-[var(--ink-muted)]">Filtered</p>
-            <p className="text-xl font-semibold">{filteredRepos.length}</p>
+            <p className="text-xs uppercase tracking-wide text-[var(--ink-muted)]">Errored</p>
+            <p className="text-xl font-semibold">{erroredCount}</p>
           </div>
           <div className="rounded-xl bg-[var(--bg)] p-3">
-            <p className="text-xs uppercase tracking-wide text-[var(--ink-muted)]">Last Sync</p>
-            <p className="text-sm font-semibold">{formatDate(pagesDirectory.generatedAt)}</p>
+            <p className="text-xs uppercase tracking-wide text-[var(--ink-muted)]">Unreachable</p>
+            <p className="text-xl font-semibold">{unreachableCount}</p>
+          </div>
+          <div className="rounded-xl bg-[var(--bg)] p-3">
+            <p className="text-xs uppercase tracking-wide text-[var(--ink-muted)]">Updated 7d</p>
+            <p className="text-xl font-semibold">{recentlyChangedCount}</p>
+          </div>
+          <div className="rounded-xl bg-[var(--bg)] p-3">
+            <p className="text-xs uppercase tracking-wide text-[var(--ink-muted)]">Sync Age</p>
+            <p className="text-sm font-semibold">
+              {ageHours === null ? 'n/a' : `${ageHours.toFixed(2)}h`}
+              {stale ? ' (stale)' : ''}
+            </p>
           </div>
         </div>
       </section>
@@ -127,7 +283,7 @@ export function GitHubPagesTab() {
               value={query}
               onChange={(event) => setQuery(event.target.value)}
               className="input w-full"
-              placeholder="Filter by owner, repo, or URL"
+              placeholder="Filter by owner, repo, URL, or curated label"
             />
           </label>
           <label className="w-full md:w-64">
@@ -145,14 +301,77 @@ export function GitHubPagesTab() {
               ))}
             </select>
           </label>
+          <label className="w-full md:w-40">
+            <span className="text-sm text-[var(--ink-muted)] block mb-1">Visibility</span>
+            <button
+              type="button"
+              onClick={() => setShowHidden((value) => !value)}
+              className="btn-ghost w-full h-[42px]"
+            >
+              {showHidden ? 'Hide hidden' : 'Show hidden'}
+            </button>
+          </label>
         </div>
       </section>
 
+      {clickLeaders.length > 0 && (
+        <section className="card p-6">
+          <h4 className="text-base font-semibold mb-3">Top Clicked (This Browser)</h4>
+          <ul className="space-y-2 text-sm">
+            {clickLeaders.map((entry) => (
+              <li key={`${entry.fullName}:${entry.target}`} className="flex justify-between gap-3">
+                <span className="text-[var(--ink-muted)]">
+                  {entry.fullName} · {entry.target}
+                </span>
+                <span className="font-medium">{entry.count}</span>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
+      {featuredRepos.length > 0 && (
+        <section className="card p-6">
+          <div className="flex items-baseline justify-between gap-3 mb-4">
+            <h4 className="text-base font-semibold">Featured</h4>
+            <span className="text-sm text-[var(--ink-muted)]">{featuredRepos.length} highlighted</span>
+          </div>
+          <div className="space-y-3">
+            {featuredRepos.map((repo) => (
+              <article
+                key={`featured-${repo.fullName}`}
+                className="rounded-lg border border-[var(--border)] bg-[var(--bg)] p-4"
+              >
+                <div className="flex flex-wrap items-center gap-3">
+                  <a
+                    href={repo.pageUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="font-medium text-[var(--accent-3)] hover:underline"
+                    onClick={() => handleOutboundClick(repo, 'page')}
+                  >
+                    {repo.label ?? repo.fullName}
+                  </a>
+                  <a
+                    href={repo.repoUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-sm text-[var(--ink-muted)] hover:text-[var(--ink)]"
+                    onClick={() => handleOutboundClick(repo, 'repo')}
+                  >
+                    Repository
+                  </a>
+                  <span className="text-xs text-[var(--ink-muted)]">priority {repo.priority}</span>
+                </div>
+              </article>
+            ))}
+          </div>
+        </section>
+      )}
+
       {groupedRepos.length === 0 ? (
         <section className="card p-6">
-          <p className="text-sm text-[var(--ink-muted)]">
-            No repositories match this filter.
-          </p>
+          <p className="text-sm text-[var(--ink-muted)]">No repositories match this filter.</p>
         </section>
       ) : (
         groupedRepos.map(([owner, repos]) => (
@@ -176,27 +395,34 @@ export function GitHubPagesTab() {
                       target="_blank"
                       rel="noopener noreferrer"
                       className="font-medium text-[var(--accent-3)] hover:underline"
+                      onClick={() => handleOutboundClick(repo, 'page')}
                     >
-                      {repo.fullName}
+                      {repo.label ?? repo.fullName}
                     </a>
                     <a
                       href={repo.repoUrl}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-sm text-[var(--ink-muted)] hover:text-[var(--ink)]"
+                      onClick={() => handleOutboundClick(repo, 'repo')}
                     >
                       Repository
                     </a>
                     {repo.updatedAt && (
-                      <span className="text-xs text-[var(--ink-muted)]">
-                        updated {formatDate(repo.updatedAt)}
-                      </span>
+                      <span className="text-xs text-[var(--ink-muted)]">updated {formatDate(repo.updatedAt)}</span>
                     )}
                   </div>
 
                   <div className="flex flex-wrap gap-2 mt-3 text-xs">
+                    {repo.featured && (
+                      <span className="px-2 py-1 rounded-full border border-[var(--border)]">featured</span>
+                    )}
                     {repo.status && (
-                      <span className="px-2 py-1 rounded-full border border-[var(--border)]">
+                      <span
+                        className={`px-2 py-1 rounded-full border ${
+                          repo.status === 'errored' ? 'border-red-600 text-red-600' : 'border-[var(--border)]'
+                        }`}
+                      >
                         status: {repo.status}
                       </span>
                     )}
@@ -214,6 +440,20 @@ export function GitHubPagesTab() {
                       <span className="px-2 py-1 rounded-full border border-[var(--border)]">
                         source: {repo.sourceBranch}
                         {repo.sourcePath && repo.sourcePath !== '/' ? `:${repo.sourcePath}` : ''}
+                      </span>
+                    )}
+                    {repo.httpStatus !== null && (
+                      <span
+                        className={`px-2 py-1 rounded-full border ${
+                          repo.reachable ? 'border-[var(--border)]' : 'border-red-600 text-red-600'
+                        }`}
+                      >
+                        http: {repo.httpStatus}
+                      </span>
+                    )}
+                    {repo.redirectTarget && (
+                      <span className="px-2 py-1 rounded-full border border-[var(--border)]">
+                        redirected
                       </span>
                     )}
                   </div>

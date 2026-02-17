@@ -52,6 +52,16 @@ Expected signals:
 ## Remote Runtime Probe Gates
 Use these commands to verify staging/prod parity and strict runtime behavior before promotion.
 
+Preflight required configuration before running probes:
+
+```bash
+# non-strict (errors fail, warnings reported)
+npm run probe:preflight
+
+# strict (errors or warnings fail)
+npm run probe:preflight:strict
+```
+
 Manual mode required environment variables:
 - `STAGING_BASE_URL`
 - `PROD_BASE_URL`
@@ -86,6 +96,11 @@ Block promotion when any probe report has:
 - strict policy drift (`policyDrift > 0`)
 - missing vector profile metadata (`vectorProfileMissing > 0`)
 - missing/pending reindex evidence reference (`REINDEX_EVIDENCE_REF`)
+
+Manual dispatch workflow (GitHub Actions) is available:
+- Workflow: `Runtime Probe Dispatch`
+- Input: `target` = `staging`, `prod`, or `both`
+- Artifact naming: `runtime-probe-dispatch-<target>-<run_id>`
 
 ## CI Reliability Checks
 - Run CI-equivalent suites locally: `npm run test:ci`.

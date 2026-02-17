@@ -383,6 +383,48 @@ export interface UniverseIngestRun {
   metadata: Record<string, unknown>;
 }
 
+export type BranchDirection = 'out' | 'in' | 'both';
+export type BranchEdgeDirection = 'out' | 'in';
+
+export interface BranchUnitSummary {
+  id: string;
+  title: string;
+  type: string;
+  category: string;
+}
+
+export interface BranchEdge {
+  fromUnitId: string;
+  toUnitId: string;
+  relationshipType: string;
+  source: string;
+  confidence: number | null;
+  explanation: string | null;
+  createdAt: string | null;
+  direction: BranchEdgeDirection;
+  depth: number;
+}
+
+export interface BranchColumn {
+  depth: number;
+  units: BranchUnitSummary[];
+}
+
+export interface UnitBranchResponse {
+  root: BranchUnitSummary;
+  columns: BranchColumn[];
+  edges: BranchEdge[];
+  meta: {
+    depth: number;
+    direction: BranchDirection;
+    limitPerNode: number;
+    relationshipTypes: string[];
+    truncated: boolean;
+    visitedCount: number;
+    edgeCount: number;
+  };
+}
+
 export * from './universe-visual.js';
 
 export interface PagedRequest {

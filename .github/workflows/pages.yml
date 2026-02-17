@@ -2,12 +2,17 @@ name: Deploy Web React to GitHub Pages
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "25 9 * * *"
   push:
     branches:
       - master
     paths:
       - web-react/**
       - scripts/sync-github-pages.mjs
+      - scripts/validate-github-pages.mjs
+      - scripts/github-pages-sync-core.mjs
+      - scripts/github-pages-validate-core.mjs
       - .github/workflows/pages.yml
 
 permissions:
@@ -66,7 +71,10 @@ jobs:
       - name: Sync GitHub Pages index
         env:
           GITHUB_TOKEN: ${{ github.token }}
-        run: node scripts/sync-github-pages.mjs --output web-react/src/data/github-pages.json
+        run: npm run sync:github-pages -- --strict
+
+      - name: Validate GitHub Pages index
+        run: npm run validate:github-pages -- --max-age-hours 48 --max-errored 25 --max-unreachable 25
 
       - name: Build web app
         working-directory: web-react

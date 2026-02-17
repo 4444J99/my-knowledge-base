@@ -9,6 +9,7 @@ import type {
   ApiListSuccess,
   ApiPageListSuccess,
   ApiSuccess,
+  UnitBranchResponse as ContractsUnitBranchResponse,
   SearchFallbackReason as ContractsSearchFallbackReason,
   SearchResponse as ContractsSearchResponse,
 } from '@knowledge-base/contracts';
@@ -48,3 +49,4 @@ export type FederatedSource = ContractsFederatedSource;
 export type FederatedScanRun = ContractsFederatedScanRun;
 export type FederatedScanJob = ContractsFederatedScanJob;
 export type FederatedSearchHit = ContractsFederatedSearchHit;
+export type UnitBranchResponse = ContractsUnitBranchResponse;

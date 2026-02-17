@@ -1,5 +1,7 @@
 {
-  "generatedAt": "2026-02-17T22:03:12.290Z",
+  "schemaVersion": "github-pages-index.v2",
+  "syncCoreVersion": "2.0.0",
+  "generatedAt": "2026-02-17T22:28:22.950Z",
   "owners": [
     "4444J99",
     "organvm-i-theoria",
@@ -24,7 +26,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-16T07:17:04Z"
+      "updatedAt": "2026-02-16T07:17:04Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:08.726Z"
     },
     {
       "owner": "4444J99",
@@ -37,7 +47,15 @@
       "cname": null,
       "sourceBranch": "master",
       "sourcePath": "/",
-      "updatedAt": "2026-02-14T19:34:24Z"
+      "updatedAt": "2026-02-14T19:34:24Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:08.902Z"
     },
     {
       "owner": "4444J99",
@@ -50,7 +68,15 @@
       "cname": null,
       "sourceBranch": "master",
       "sourcePath": "/",
-      "updatedAt": "2026-02-14T00:14:15Z"
+      "updatedAt": "2026-02-14T00:14:15Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:09.036Z"
     },
     {
       "owner": "4444J99",
@@ -63,7 +89,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T21:57:42Z"
+      "updatedAt": "2026-02-17T22:08:53Z",
+      "featured": true,
+      "priority": 100,
+      "hidden": false,
+      "label": "Portfolio",
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:09.161Z"
     },
     {
       "owner": "meta-organvm",
@@ -76,7 +110,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-16T14:09:34Z"
+      "updatedAt": "2026-02-16T14:09:34Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:09.410Z"
     },
     {
       "owner": "meta-organvm",
@@ -89,7 +131,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T14:21:16Z"
+      "updatedAt": "2026-02-17T14:21:16Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:09.567Z"
     },
     {
       "owner": "meta-organvm",
@@ -102,7 +152,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T21:01:06Z"
+      "updatedAt": "2026-02-17T21:01:06Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 404,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:09.817Z"
     },
     {
       "owner": "organvm-i-theoria",
@@ -115,7 +173,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-16T14:09:01Z"
+      "updatedAt": "2026-02-16T14:09:01Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:09.984Z"
     },
     {
       "owner": "organvm-i-theoria",
@@ -128,7 +194,15 @@
       "cname": null,
       "sourceBranch": "feat-initial-swarm-scaffold",
       "sourcePath": "/",
-      "updatedAt": "2026-02-16T14:05:07Z"
+      "updatedAt": "2026-02-16T14:05:07Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:10.211Z"
     },
     {
       "owner": "organvm-i-theoria",
@@ -141,7 +215,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-13T01:13:42Z"
+      "updatedAt": "2026-02-13T01:13:42Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:10.425Z"
     },
     {
       "owner": "organvm-i-theoria",
@@ -154,7 +236,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-13T03:33:55Z"
+      "updatedAt": "2026-02-13T03:33:55Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:10.752Z"
     },
     {
       "owner": "organvm-i-theoria",
@@ -167,7 +257,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T12:01:20Z"
+      "updatedAt": "2026-02-17T12:01:20Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:10.876Z"
     },
     {
       "owner": "organvm-i-theoria",
@@ -180,7 +278,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-16T14:05:15Z"
+      "updatedAt": "2026-02-16T14:05:15Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:11.105Z"
     },
     {
       "owner": "organvm-i-theoria",
@@ -193,7 +299,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T12:01:24Z"
+      "updatedAt": "2026-02-17T12:01:24Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:11.277Z"
     },
     {
       "owner": "organvm-i-theoria",
@@ -206,7 +320,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-16T14:05:08Z"
+      "updatedAt": "2026-02-16T14:05:08Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:11.443Z"
     },
     {
       "owner": "organvm-i-theoria",
@@ -219,7 +341,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T12:01:27Z"
+      "updatedAt": "2026-02-17T12:01:27Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 404,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:11.587Z"
     },
     {
       "owner": "organvm-i-theoria",
@@ -232,7 +362,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T11:57:49Z"
+      "updatedAt": "2026-02-17T11:57:49Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 404,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:11.735Z"
     },
     {
       "owner": "organvm-i-theoria",
@@ -245,7 +383,15 @@
       "cname": null,
       "sourceBranch": "master",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T12:01:28Z"
+      "updatedAt": "2026-02-17T22:09:05Z",
+      "featured": true,
+      "priority": 95,
+      "hidden": false,
+      "label": "Knowledge Base",
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:11.900Z"
     },
     {
       "owner": "organvm-i-theoria",
@@ -258,7 +404,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-16T09:30:00Z"
+      "updatedAt": "2026-02-16T09:30:00Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 404,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:12.114Z"
     },
     {
       "owner": "organvm-i-theoria",
@@ -271,7 +425,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-16T14:05:08Z"
+      "updatedAt": "2026-02-16T14:05:08Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:12.295Z"
     },
     {
       "owner": "organvm-i-theoria",
@@ -284,7 +446,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T12:01:19Z"
+      "updatedAt": "2026-02-17T12:01:19Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:12.421Z"
     },
     {
       "owner": "organvm-i-theoria",
@@ -297,7 +467,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-13T01:32:12Z"
+      "updatedAt": "2026-02-13T01:32:12Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 404,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:12.550Z"
     },
     {
       "owner": "organvm-i-theoria",
@@ -310,7 +488,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T12:02:19Z"
+      "updatedAt": "2026-02-17T12:02:19Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:12.659Z"
     },
     {
       "owner": "organvm-i-theoria",
@@ -323,7 +509,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T12:01:26Z"
+      "updatedAt": "2026-02-17T12:01:26Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:12.807Z"
     },
     {
       "owner": "organvm-i-theoria",
@@ -336,7 +530,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-13T19:03:26Z"
+      "updatedAt": "2026-02-13T19:03:26Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:12.992Z"
     },
     {
       "owner": "organvm-i-theoria",
@@ -349,7 +551,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T12:01:21Z"
+      "updatedAt": "2026-02-17T12:01:21Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:13.142Z"
     },
     {
       "owner": "organvm-i-theoria",
@@ -362,7 +572,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T12:01:23Z"
+      "updatedAt": "2026-02-17T12:01:23Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:13.296Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -375,7 +593,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-16T14:09:12Z"
+      "updatedAt": "2026-02-16T14:09:12Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:13.441Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -388,7 +614,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-15T20:43:20Z"
+      "updatedAt": "2026-02-15T20:43:20Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:13.644Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -401,7 +635,15 @@
       "cname": null,
       "sourceBranch": "master",
       "sourcePath": "/",
-      "updatedAt": "2026-02-15T20:00:06Z"
+      "updatedAt": "2026-02-15T20:00:06Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:13.932Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -414,7 +656,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-16T14:05:09Z"
+      "updatedAt": "2026-02-16T14:05:09Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:14.044Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -427,7 +677,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-13T01:32:18Z"
+      "updatedAt": "2026-02-13T01:32:18Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:14.192Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -440,7 +698,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-13T01:14:20Z"
+      "updatedAt": "2026-02-13T01:14:20Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:14.332Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -453,7 +719,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-13T01:14:22Z"
+      "updatedAt": "2026-02-13T01:14:22Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:14.444Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -466,7 +740,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-16T14:05:10Z"
+      "updatedAt": "2026-02-16T14:05:10Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:14.553Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -479,7 +761,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-13T01:14:26Z"
+      "updatedAt": "2026-02-13T01:14:26Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:14.657Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -492,7 +782,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-13T01:32:21Z"
+      "updatedAt": "2026-02-13T01:32:21Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:15.009Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -505,7 +803,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T21:35:37Z"
+      "updatedAt": "2026-02-17T21:35:37Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:15.118Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -518,7 +824,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-13T01:14:29Z"
+      "updatedAt": "2026-02-13T01:14:29Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:15.228Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -531,7 +845,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-13T01:32:23Z"
+      "updatedAt": "2026-02-13T01:32:23Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:15.366Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -544,7 +866,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T21:03:07Z"
+      "updatedAt": "2026-02-17T21:03:07Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:15.483Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -557,7 +887,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T22:00:35Z"
+      "updatedAt": "2026-02-17T22:00:35Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:15.612Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -570,7 +908,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-13T01:14:38Z"
+      "updatedAt": "2026-02-13T01:14:38Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:15.726Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -583,7 +929,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-13T01:14:40Z"
+      "updatedAt": "2026-02-13T01:14:40Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:15.932Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -596,7 +950,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T11:57:59Z"
+      "updatedAt": "2026-02-17T11:57:59Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:16.067Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -609,7 +971,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T21:35:12Z"
+      "updatedAt": "2026-02-17T21:35:12Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:16.185Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -622,7 +992,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-13T01:32:25Z"
+      "updatedAt": "2026-02-13T01:32:25Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:16.325Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -635,7 +1013,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-13T19:03:12Z"
+      "updatedAt": "2026-02-13T19:03:12Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:16.455Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -648,7 +1034,15 @@
       "cname": null,
       "sourceBranch": "master",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T12:01:30Z"
+      "updatedAt": "2026-02-17T12:01:30Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:16.604Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -661,7 +1055,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T20:45:36Z"
+      "updatedAt": "2026-02-17T20:45:36Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:16.742Z"
     },
     {
       "owner": "organvm-ii-poiesis",
@@ -674,7 +1076,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T20:45:35Z"
+      "updatedAt": "2026-02-17T20:45:35Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:16.910Z"
     },
     {
       "owner": "organvm-iii-ergon",
@@ -687,7 +1097,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-16T14:09:16Z"
+      "updatedAt": "2026-02-16T14:09:16Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:17.031Z"
     },
     {
       "owner": "organvm-iii-ergon",
@@ -700,7 +1118,15 @@
       "cname": null,
       "sourceBranch": "master",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T20:45:40Z"
+      "updatedAt": "2026-02-17T20:45:40Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:17.186Z"
     },
     {
       "owner": "organvm-iii-ergon",
@@ -713,7 +1139,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-13T19:04:09Z"
+      "updatedAt": "2026-02-13T19:04:09Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:17.336Z"
     },
     {
       "owner": "organvm-iii-ergon",
@@ -726,7 +1160,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T12:01:32Z"
+      "updatedAt": "2026-02-17T12:01:32Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:17.489Z"
     },
     {
       "owner": "organvm-iii-ergon",
@@ -739,7 +1181,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T21:29:01Z"
+      "updatedAt": "2026-02-17T21:29:01Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:17.622Z"
     },
     {
       "owner": "organvm-iii-ergon",
@@ -752,7 +1202,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T12:01:33Z"
+      "updatedAt": "2026-02-17T12:01:33Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:17.755Z"
     },
     {
       "owner": "organvm-iii-ergon",
@@ -765,7 +1223,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T20:45:38Z"
+      "updatedAt": "2026-02-17T20:45:38Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:17.928Z"
     },
     {
       "owner": "organvm-iii-ergon",
@@ -778,7 +1244,15 @@
       "cname": null,
       "sourceBranch": "master",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T21:32:18Z"
+      "updatedAt": "2026-02-17T21:32:18Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:18.062Z"
     },
     {
       "owner": "organvm-iii-ergon",
@@ -791,7 +1265,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T12:01:38Z"
+      "updatedAt": "2026-02-17T12:01:38Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:18.222Z"
     },
     {
       "owner": "organvm-iii-ergon",
@@ -804,7 +1286,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-14T18:54:07Z"
+      "updatedAt": "2026-02-14T18:54:07Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:18.347Z"
     },
     {
       "owner": "organvm-iii-ergon",
@@ -817,7 +1307,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T12:01:46Z"
+      "updatedAt": "2026-02-17T12:01:46Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:18.507Z"
     },
     {
       "owner": "organvm-iii-ergon",
@@ -830,7 +1328,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-16T14:37:50Z"
+      "updatedAt": "2026-02-16T14:37:50Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:18.631Z"
     },
     {
       "owner": "organvm-iii-ergon",
@@ -843,7 +1349,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T12:01:37Z"
+      "updatedAt": "2026-02-17T12:01:37Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 404,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:18.783Z"
     },
     {
       "owner": "organvm-iii-ergon",
@@ -856,7 +1370,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T12:01:35Z"
+      "updatedAt": "2026-02-17T12:01:35Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:18.932Z"
     },
     {
       "owner": "organvm-iii-ergon",
@@ -869,7 +1391,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-14T18:53:52Z"
+      "updatedAt": "2026-02-14T18:53:52Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:19.110Z"
     },
     {
       "owner": "organvm-iii-ergon",
@@ -882,7 +1412,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T12:01:44Z"
+      "updatedAt": "2026-02-17T12:01:44Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:19.307Z"
     },
     {
       "owner": "organvm-iii-ergon",
@@ -895,7 +1433,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-15T20:41:11Z"
+      "updatedAt": "2026-02-15T20:41:11Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:19.496Z"
     },
     {
       "owner": "organvm-iii-ergon",
@@ -908,7 +1454,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-13T01:32:52Z"
+      "updatedAt": "2026-02-13T01:32:52Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:19.700Z"
     },
     {
       "owner": "organvm-iii-ergon",
@@ -921,7 +1475,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T12:01:44Z"
+      "updatedAt": "2026-02-17T12:01:44Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:19.820Z"
     },
     {
       "owner": "organvm-iv-taxis",
@@ -934,7 +1496,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-16T14:09:19Z"
+      "updatedAt": "2026-02-16T14:09:19Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:20.026Z"
     },
     {
       "owner": "organvm-iv-taxis",
@@ -947,7 +1517,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T13:38:19Z"
+      "updatedAt": "2026-02-17T13:38:19Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:20.244Z"
     },
     {
       "owner": "organvm-iv-taxis",
@@ -960,7 +1538,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T12:01:49Z"
+      "updatedAt": "2026-02-17T12:01:49Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:20.502Z"
     },
     {
       "owner": "organvm-iv-taxis",
@@ -973,7 +1559,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-16T14:34:53Z"
+      "updatedAt": "2026-02-16T14:34:53Z",
+      "featured": true,
+      "priority": 85,
+      "hidden": false,
+      "label": "Agentic Titan",
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:20.658Z"
     },
     {
       "owner": "organvm-iv-taxis",
@@ -986,7 +1580,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T21:44:39Z"
+      "updatedAt": "2026-02-17T21:44:39Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:20.849Z"
     },
     {
       "owner": "organvm-iv-taxis",
@@ -999,7 +1601,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T12:01:47Z"
+      "updatedAt": "2026-02-17T12:01:47Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:21.018Z"
     },
     {
       "owner": "organvm-iv-taxis",
@@ -1012,7 +1622,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T12:01:48Z"
+      "updatedAt": "2026-02-17T12:01:48Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:21.163Z"
     },
     {
       "owner": "organvm-v-logos",
@@ -1025,7 +1643,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T21:45:12Z"
+      "updatedAt": "2026-02-17T21:45:12Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:21.389Z"
     },
     {
       "owner": "organvm-v-logos",
@@ -1038,7 +1664,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T21:43:30Z"
+      "updatedAt": "2026-02-17T21:43:30Z",
+      "featured": true,
+      "priority": 90,
+      "hidden": false,
+      "label": "Public Process Essays",
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:21.828Z"
     },
     {
       "owner": "organvm-vi-koinonia",
@@ -1051,7 +1685,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-16T14:09:27Z"
+      "updatedAt": "2026-02-16T14:09:27Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:22.038Z"
     },
     {
       "owner": "organvm-vi-koinonia",
@@ -1064,7 +1706,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-13T19:02:58Z"
+      "updatedAt": "2026-02-13T19:02:58Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:22.269Z"
     },
     {
       "owner": "organvm-vi-koinonia",
@@ -1077,7 +1727,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T21:03:16Z"
+      "updatedAt": "2026-02-17T21:03:16Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:22.418Z"
     },
     {
       "owner": "organvm-vi-koinonia",
@@ -1090,7 +1748,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T11:35:25Z"
+      "updatedAt": "2026-02-17T11:35:25Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:22.555Z"
     },
     {
       "owner": "organvm-vii-kerygma",
@@ -1103,7 +1769,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-16T14:09:30Z"
+      "updatedAt": "2026-02-16T14:09:30Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:22.702Z"
     },
     {
       "owner": "organvm-vii-kerygma",
@@ -1116,7 +1790,15 @@
       "cname": null,
       "sourceBranch": "main",
       "sourcePath": "/",
-      "updatedAt": "2026-02-17T11:35:23Z"
+      "updatedAt": "2026-02-17T11:35:23Z",
+      "featured": false,
+      "priority": 0,
+      "hidden": false,
+      "label": null,
+      "httpStatus": 200,
+      "reachable": true,
+      "redirectTarget": null,
+      "lastCheckedAt": "2026-02-17T22:28:22.922Z"
     }
   ]
 }
