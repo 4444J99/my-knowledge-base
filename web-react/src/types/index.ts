@@ -33,6 +33,7 @@ export type Tab =
   | 'tags'
   | 'conversations'
   | 'exports'
+  | 'pages'
   | 'notifications'
   | 'profile'
   | 'admin'

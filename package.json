@@ -17,6 +17,7 @@
     "build:web": "npm run -w web-react build",
     "build:mobile": "npm run -w apps/mobile build",
     "build:desktop": "npm run -w apps/desktop build",
+    "sync:github-pages": "node scripts/sync-github-pages.mjs --output web-react/src/data/github-pages.json",
     "start": "node dist/web-server.js",
     "prepare-db": "npm run migrate && npm run seed",
     "prestart": "npm run prepare-db",

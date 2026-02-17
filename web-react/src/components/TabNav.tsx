@@ -14,6 +14,7 @@ const tabs: { id: Tab; label: string }[] = [
   { id: 'tags', label: 'Browse by Tags' },
   { id: 'conversations', label: 'Conversations' },
   { id: 'exports', label: 'Exports' },
+  { id: 'pages', label: 'GitHub Pages' },
   { id: 'notifications', label: 'Notifications' },
   { id: 'profile', label: 'Profile' },
   { id: 'admin', label: 'Admin Dashboard' },

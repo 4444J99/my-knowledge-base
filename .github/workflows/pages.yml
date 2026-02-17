@@ -7,6 +7,7 @@ on:
       - master
     paths:
       - web-react/**
+      - scripts/sync-github-pages.mjs
       - .github/workflows/pages.yml
 
 permissions:
@@ -61,6 +62,11 @@ jobs:
       - name: Install web dependencies
         working-directory: web-react
         run: npm install
+
+      - name: Sync GitHub Pages index
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/sync-github-pages.mjs --output web-react/src/data/github-pages.json
 
       - name: Build web app
         working-directory: web-react
