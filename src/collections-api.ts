@@ -78,6 +78,31 @@ export function createCollectionsRoutes(collectionsManager?: CollectionsManager)
   });
 
   /**
+   * GET /api/collections/stats - Collection/favorite aggregate stats
+   * Must be registered before /:id to avoid treating "stats" as a collection ID.
+   */
+  router.get('/stats', (req: Request, res: Response) => {
+    try {
+      const stats = manager.getStats();
+
+      res.json({
+        success: true,
+        data: stats,
+        timestamp: new Date().toISOString(),
+      });
+
+      logger.debug('Retrieved collections stats');
+    } catch (error) {
+      logger.error('Error getting collections stats: ' + error);
+      res.status(500).json({
+        success: false,
+        error: 'Failed to get collections stats',
+        code: 'STATS_FAILED',
+      });
+    }
+  });
+
+  /**
    * GET /api/collections/:id - Get a collection with its units
    */
   router.get('/:id', (req: Request, res: Response) => {

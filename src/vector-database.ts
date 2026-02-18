@@ -62,7 +62,7 @@ export class VectorDatabase {
     this.collectionName = this.collectionNameForProfile(this.activeProfileId);
 
     this.endpoint = this.resolveEndpoint(endpointOrLegacyPath);
-    this.client = new ChromaClient({ path: this.endpoint });
+    this.client = new ChromaClient(this.resolveClientConfig(this.endpoint));
   }
 
   /**
@@ -150,6 +150,36 @@ export class VectorDatabase {
 
     // Legacy local filesystem paths are treated as "use default endpoint".
     return 'http://127.0.0.1:8000';
+  }
+
+  private resolveClientConfig(endpoint: string): { host: string; port: number; ssl: boolean } {
+    try {
+      const parsed = new URL(endpoint);
+      const ssl = parsed.protocol === 'https:';
+      const port = parsed.port
+        ? Number.parseInt(parsed.port, 10)
+        : ssl
+          ? 443
+          : 80;
+
+      if (!Number.isFinite(port) || port <= 0) {
+        throw new Error(`Invalid Chroma port in endpoint: ${endpoint}`);
+      }
+
+      return {
+        host: parsed.hostname,
+        port,
+        ssl,
+      };
+    } catch {
+      // Should never happen because resolveEndpoint emits valid HTTP URLs,
+      // but keep a safe fallback in case of malformed runtime overrides.
+      return {
+        host: '127.0.0.1',
+        port: 8000,
+        ssl: false,
+      };
+    }
   }
 
   getEndpoint(): string {

@@ -2457,6 +2457,22 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
     })
   );
 
+  // Mount Phase 3 Intelligence API router
+  const intelligenceRouter = createIntelligenceRouter(db);
+  router.use('/intelligence', intelligenceRouter);
+
+  const universeRouter = createUniverseRouter(universeStore);
+  router.use('/universe', universeRouter);
+
+  // API router 404 guard: keep unknown /api/* responses JSON-shaped.
+  router.use((req: Request, res: Response) => {
+    res.status(404).json({
+      error: `API route not found: ${req.method} ${req.originalUrl}`,
+      code: 'ROUTE_NOT_FOUND',
+      statusCode: 404,
+    } as ApiErrorResponse);
+  });
+
   /**
    * Error handling middleware
    */
@@ -2468,22 +2484,15 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
         statusCode: err.statusCode,
         details: err.context,
       } as ApiErrorResponse);
-    } else {
-      const errorMsg = err instanceof Error ? err.message : String(err);
-      res.status(500).json({
-        error: 'Internal server error',
-        code: 'INTERNAL_ERROR',
-        statusCode: 500,
-      } as ApiErrorResponse);
+      return;
     }
+
+    res.status(500).json({
+      error: 'Internal server error',
+      code: 'INTERNAL_ERROR',
+      statusCode: 500,
+    } as ApiErrorResponse);
   });
-
-  // Mount Phase 3 Intelligence API router
-  const intelligenceRouter = createIntelligenceRouter(db);
-  router.use('/intelligence', intelligenceRouter);
-
-  const universeRouter = createUniverseRouter(universeStore);
-  router.use('/universe', universeRouter);
 
   return router;
 }

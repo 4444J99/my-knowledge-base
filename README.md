@@ -1,13 +1,13 @@
 [![ORGAN-I: Theory](https://img.shields.io/badge/ORGAN--I-Theory-1a237e?style=flat-square)](https://github.com/organvm-i-theoria)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
-[![Tests: 200+](https://img.shields.io/badge/tests-200%2B-brightgreen?style=flat-square)]()
+[![Tests](https://img.shields.io/badge/tests-1463%20passing-brightgreen?style=flat-square)](https://github.com/organvm-i-theoria/my-knowledge-base/actions/workflows/ci.yml)
 [![Status: Active](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)]()
 
 # My Knowledge Base
 
 [![CI](https://github.com/organvm-i-theoria/my-knowledge-base/actions/workflows/ci.yml/badge.svg)](https://github.com/organvm-i-theoria/my-knowledge-base/actions/workflows/ci.yml)
-[![Coverage](https://img.shields.io/badge/coverage-pending-lightgrey)](https://github.com/organvm-i-theoria/my-knowledge-base)
+[![Coverage](https://img.shields.io/badge/coverage-62.7%25-yellowgreen)](https://github.com/organvm-i-theoria/my-knowledge-base)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/organvm-i-theoria/my-knowledge-base/blob/main/LICENSE)
 [![Organ I](https://img.shields.io/badge/Organ-I%20Theoria-8B5CF6)](https://github.com/organvm-i-theoria)
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/organvm-i-theoria/my-knowledge-base)

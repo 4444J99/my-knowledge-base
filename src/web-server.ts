@@ -12,7 +12,7 @@ import { createServer } from 'http';
 import { WebSocketServer, WebSocket } from 'ws';
 import { KnowledgeDatabase } from './database.js';
 import { CollectionsManager } from './collections.js';
-import { createCollectionsRoutes, createFavoritesRoutes, createCollectionsStatsRoute } from './collections-api.js';
+import { createCollectionsRoutes, createFavoritesRoutes } from './collections-api.js';
 import { createSavedSearchesRouter } from './saved-searches-api.js';
 import { WebSocketManager } from './websocket-manager.js';
 import { createWebSocketRoutes, createWebSocketHandler } from './websocket-api.js';
@@ -70,9 +70,6 @@ if (enforceHttps) {
 // Initialize services
 const db = new KnowledgeDatabase('./db/knowledge.db');
 const rawDb = db.getRawHandle();
-
-// Mount canonical REST API router to keep endpoint behavior centralized.
-setupApi(app, db);
 
 function buildWordCloudData(limit: number, source: string) {
   const words: Array<{ text: string; value: number; type: string }> = [];
@@ -453,7 +450,6 @@ app.get('/api/conversations', (req, res) => {
 const collectionsManager = new CollectionsManager('./db/knowledge.db');
 app.use('/api/collections', createCollectionsRoutes(collectionsManager));
 app.use('/api/favorites', createFavoritesRoutes(collectionsManager));
-app.use('/api/collections', createCollectionsStatsRoute(collectionsManager));
 
 // Saved Searches API
 const savedSearchesRouter = createSavedSearchesRouter('./db/knowledge.db');
@@ -462,6 +458,10 @@ app.use('/api/searches', savedSearchesRouter);
 // WebSocket Manager and API routes
 const wsManager = new WebSocketManager();
 app.use('/api/ws', createWebSocketRoutes(wsManager));
+
+// Mount canonical REST API router after legacy extension routes so /api fallback behavior
+// remains JSON-shaped without shadowing extension endpoints (collections/searches/ws, etc.).
+setupApi(app, db);
 
 // SPA fallback - serve React index.html for all non-API routes
 // This must come AFTER all API routes

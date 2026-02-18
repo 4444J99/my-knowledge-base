@@ -814,4 +814,40 @@ describe('REST API', () => {
       expect(response.body.statusCode).toBe(400);
     });
   });
+
+  describe('Mounted Router Error Contract', () => {
+    it('returns JSON AppError envelope for intelligence routes', async () => {
+      const response = await request(app)
+        .post('/api/intelligence/insights/extract')
+        .send({})
+        .expect(400);
+
+      expect(response.headers['content-type']).toContain('application/json');
+      expect(response.body.code).toBe('MISSING_SOURCE');
+      expect(response.body.statusCode).toBe(400);
+      expect(typeof response.body.error).toBe('string');
+    });
+
+    it('returns JSON AppError envelope for universe routes', async () => {
+      const response = await request(app)
+        .get('/api/universe/chats/does-not-exist')
+        .expect(404);
+
+      expect(response.headers['content-type']).toContain('application/json');
+      expect(response.body.code).toBe('NOT_FOUND');
+      expect(response.body.statusCode).toBe(404);
+      expect(typeof response.body.error).toBe('string');
+    });
+
+    it('returns JSON 404 for unknown API routes', async () => {
+      const response = await request(app)
+        .get('/api/non-existent')
+        .expect(404);
+
+      expect(response.headers['content-type']).toContain('application/json');
+      expect(response.body.code).toBe('ROUTE_NOT_FOUND');
+      expect(response.body.statusCode).toBe(404);
+      expect(typeof response.body.error).toBe('string');
+    });
+  });
 });

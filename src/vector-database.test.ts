@@ -4,7 +4,7 @@ import { join } from 'path';
 import { VectorDatabase } from './vector-database.js';
 import { AtomicUnit } from './types.js';
 
-const { collectionMock, getOrCreateCollectionMock, deleteCollectionMock } = vi.hoisted(() => ({
+const { collectionMock, getOrCreateCollectionMock, deleteCollectionMock, chromaClientArgsMock } = vi.hoisted(() => ({
   collectionMock: {
     add: vi.fn(),
     update: vi.fn(),
@@ -18,11 +18,15 @@ const { collectionMock, getOrCreateCollectionMock, deleteCollectionMock } = vi.h
   },
   getOrCreateCollectionMock: vi.fn(),
   deleteCollectionMock: vi.fn(),
+  chromaClientArgsMock: vi.fn(),
 }));
 
 vi.mock('chromadb', () => {
   return {
     ChromaClient: class {
+      constructor(args: unknown) {
+        chromaClientArgsMock(args);
+      }
       getOrCreateCollection = getOrCreateCollectionMock;
       deleteCollection = deleteCollectionMock;
     },
@@ -55,6 +59,7 @@ describe('VectorDatabase', () => {
 
     getOrCreateCollectionMock.mockReset();
     deleteCollectionMock.mockReset();
+    chromaClientArgsMock.mockReset();
     collectionMock.add.mockReset();
     collectionMock.update.mockReset();
     collectionMock.query.mockReset();
@@ -104,6 +109,11 @@ describe('VectorDatabase', () => {
       allowLegacyFallback: false,
     });
     expect(db.getEndpoint()).toBe('http://localhost:9000');
+    expect(chromaClientArgsMock).toHaveBeenLastCalledWith({
+      host: 'localhost',
+      port: 9000,
+      ssl: false,
+    });
   });
 
   it('uses CHROMA_URL when legacy path is provided', () => {
@@ -111,6 +121,18 @@ describe('VectorDatabase', () => {
 
     const db = createDb();
     expect(db.getEndpoint()).toBe('http://localhost:8100');
+    expect(chromaClientArgsMock).toHaveBeenLastCalledWith({
+      host: 'localhost',
+      port: 8100,
+      ssl: false,
+    });
+  });
+
+  it('does not pass deprecated path option to Chroma client', () => {
+    createDb();
+    const args = chromaClientArgsMock.mock.calls[0]?.[0] as Record<string, unknown>;
+    expect(args).toBeDefined();
+    expect(args).not.toHaveProperty('path');
   });
 
   it('initializes profile-scoped collection', async () => {
