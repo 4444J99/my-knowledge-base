@@ -21,6 +21,19 @@ import {
 } from './saved-searches.js';
 import { logger, AppError } from './logger.js';
 
+type SavedSearchListSortBy = 'name' | 'createdAt' | 'updatedAt' | 'executionCount' | 'lastExecutedAt';
+
+interface SavedSearchPayload {
+  name?: unknown;
+  query?: unknown;
+  searchType?: unknown;
+  filters?: unknown;
+}
+
+function isObjectRecord(value: unknown): value is Record<string, unknown> {
+  return typeof value === 'object' && value !== null;
+}
+
 /**
  * Format saved search for API response
  */
@@ -48,24 +61,24 @@ function isValidSearchType(type: string): type is SavedSearchType {
 /**
  * Parse and validate filters
  */
-function parseFilters(filters: any): SavedSearchFilters {
-  if (!filters || typeof filters !== 'object') {
+function parseFilters(filters: unknown): SavedSearchFilters {
+  if (!isObjectRecord(filters)) {
     return {};
   }
 
   const parsed: SavedSearchFilters = {};
 
   if (filters.category && typeof filters.category === 'string') {
-    parsed.category = filters.category;
+      parsed.category = filters.category;
   }
 
   if (filters.type && typeof filters.type === 'string') {
-    parsed.type = filters.type;
+      parsed.type = filters.type;
   }
 
   if (filters.tags) {
     if (Array.isArray(filters.tags)) {
-      parsed.tags = filters.tags.filter((t: any) => typeof t === 'string');
+      parsed.tags = filters.tags.filter((t): t is string => typeof t === 'string');
     } else if (typeof filters.tags === 'string') {
       parsed.tags = [filters.tags];
     }
@@ -100,8 +113,24 @@ export function createSavedSearchesRouter(
   const manager = new SavedSearchesManager(dbPath, vectorDbPath);
 
   // Error handling middleware
-  const asyncHandler = (fn: Function) => (req: Request, res: Response, next: NextFunction) => {
+  const asyncHandler = (
+    fn: (req: Request, res: Response, next: NextFunction) => Promise<void>
+  ) => (req: Request, res: Response, next: NextFunction) => {
     Promise.resolve(fn(req, res, next)).catch(next);
+  };
+
+  const parseSortBy = (value: unknown): SavedSearchListSortBy => {
+    if (typeof value !== 'string') return 'createdAt';
+    if (
+      value === 'name' ||
+      value === 'createdAt' ||
+      value === 'updatedAt' ||
+      value === 'executionCount' ||
+      value === 'lastExecutedAt'
+    ) {
+      return value;
+    }
+    return 'createdAt';
   };
 
   const parseIntParam = (
@@ -125,7 +154,7 @@ export function createSavedSearchesRouter(
   router.post(
     '/saved',
     asyncHandler(async (req: Request, res: Response) => {
-      const { name, query, searchType, filters } = req.body;
+      const { name, query, searchType, filters } = (req.body ?? {}) as SavedSearchPayload;
 
       // Validation
       if (!name || typeof name !== 'string' || name.trim().length === 0) {
@@ -136,7 +165,7 @@ export function createSavedSearchesRouter(
         throw new AppError('Query is required', 'MISSING_QUERY', 400);
       }
 
-      if (!searchType || !isValidSearchType(searchType)) {
+      if (typeof searchType !== 'string' || !isValidSearchType(searchType)) {
         throw new AppError(
           'Invalid search type. Must be one of: fts, semantic, hybrid',
           'INVALID_SEARCH_TYPE',
@@ -177,16 +206,13 @@ export function createSavedSearchesRouter(
     asyncHandler(async (req: Request, res: Response) => {
       const page = parseIntParam(req.query.page as string, 1, 1, 10000);
       const pageSize = parseIntParam(req.query.pageSize as string, 20, 1, 100);
-      const sortBy = req.query.sortBy as string || 'createdAt';
+      const sortBy = parseSortBy(req.query.sortBy);
       const sortOrder = (req.query.sortOrder as string)?.toUpperCase() === 'ASC' ? 'ASC' : 'DESC';
-
-      const validSortFields = ['name', 'createdAt', 'updatedAt', 'executionCount', 'lastExecutedAt'];
-      const actualSortBy = validSortFields.includes(sortBy) ? sortBy : 'createdAt';
 
       const { searches, total } = manager.listSavedSearches({
         limit: pageSize,
         offset: (page - 1) * pageSize,
-        sortBy: actualSortBy as any,
+        sortBy,
         sortOrder: sortOrder as 'ASC' | 'DESC',
       });
 
@@ -238,7 +264,7 @@ export function createSavedSearchesRouter(
     '/saved/:id',
     asyncHandler(async (req: Request, res: Response) => {
       const { id } = req.params;
-      const { name, query, searchType, filters } = req.body;
+      const { name, query, searchType, filters } = (req.body ?? {}) as SavedSearchPayload;
 
       const existing = manager.getSavedSearch(id);
       if (!existing) {
@@ -266,7 +292,7 @@ export function createSavedSearchesRouter(
       }
 
       if (searchType !== undefined) {
-        if (!isValidSearchType(searchType)) {
+        if (typeof searchType !== 'string' || !isValidSearchType(searchType)) {
           throw new AppError(
             'Invalid search type. Must be one of: fts, semantic, hybrid',
             'INVALID_SEARCH_TYPE',
@@ -446,7 +472,9 @@ export function createSavedSearchesRouter(
   /**
    * Error handling middleware
    */
-  router.use((err: any, req: Request, res: Response, next: NextFunction) => {
+  router.use((err: unknown, req: Request, res: Response, next: NextFunction) => {
+    void req;
+    void next;
     if (err instanceof AppError) {
       res.status(err.statusCode).json({
         error: err.message,
@@ -454,6 +482,9 @@ export function createSavedSearchesRouter(
         statusCode: err.statusCode,
       } as ApiErrorResponse);
     } else {
+      logger.error('Unhandled saved searches API error', {
+        error: err instanceof Error ? err.message : String(err),
+      });
       res.status(500).json({
         error: 'Internal server error',
         code: 'INTERNAL_ERROR',

@@ -25,6 +25,7 @@ export interface VectorDatabaseOptions {
   collectionPrefix?: string;
   activeProfilePointerPath?: string;
   allowLegacyFallback?: boolean;
+  scopeId?: string;
 }
 
 export interface VectorCollectionVerification {
@@ -44,6 +45,7 @@ export class VectorDatabase {
   private readonly legacyCollectionName: string;
   private readonly activeProfilePointerPath: string;
   private readonly allowLegacyFallback: boolean;
+  private readonly scopeId: string;
   private activeProfileId: string;
   private usingLegacyCollection = false;
 
@@ -58,6 +60,7 @@ export class VectorDatabase {
       ? resolve(options.activeProfilePointerPath)
       : resolve('./atomized/embeddings/active-profile.json');
     this.allowLegacyFallback = options.allowLegacyFallback ?? true;
+    this.scopeId = options.scopeId?.trim() || 'default';
     this.activeProfileId = this.resolveActiveProfileId();
     this.collectionName = this.collectionNameForProfile(this.activeProfileId);
 
@@ -200,6 +203,10 @@ export class VectorDatabase {
 
   getCurrentProfileId(): string {
     return this.embeddingProfile.profileId;
+  }
+
+  getScopeId(): string {
+    return this.scopeId;
   }
 
   getPointerPath(): string {
@@ -539,6 +546,7 @@ export class VectorDatabase {
       max_tokens: this.embeddingProfile.maxTokens,
       profile_id: profileId,
       current_profile_id: this.embeddingProfile.profileId,
+      scope_id: this.scopeId,
     };
   }
 

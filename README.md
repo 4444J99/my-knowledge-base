@@ -288,6 +288,8 @@ embedding:
 search:
   semanticPolicy: degrade
   hybridPolicy: degrade
+  maxSearchWindow: 2000
+  enforceVectorSqlParity: true
 ```
 
 With `semanticPolicy: degrade`, the system gracefully falls back to FTS-only search when ChromaDB is unavailable.

@@ -3,6 +3,8 @@
  * Uses Reciprocal Rank Fusion (RRF) to merge results
  */
 
+import { createHash } from 'crypto';
+import { resolve } from 'path';
 import { KnowledgeDatabase } from './database.js';
 import { EmbeddingsService } from './embeddings-service.js';
 import { VectorDatabase } from './vector-database.js';
@@ -15,17 +17,26 @@ export interface HybridSearchResult {
   combinedScore: number;
 }
 
+export interface HybridSearchOptions {
+  enforceVectorSqlParity?: boolean;
+}
+
 export class HybridSearch {
   private db: KnowledgeDatabase;
   private embeddingsService: EmbeddingsService;
   private vectorDb: VectorDatabase;
   private ownsDbConnection: boolean;
   private initPromise: Promise<void> | null = null;
+  private readonly enforceVectorSqlParity: boolean;
+  private readonly vectorScopeId: string;
 
   constructor(
     dbPathOrInstance: string | KnowledgeDatabase = './db/knowledge.db',
-    vectorDbPath: string = './atomized/embeddings/chroma'
+    vectorDbPath: string = './atomized/embeddings/chroma',
+    options: HybridSearchOptions = {}
   ) {
+    const dbPathForScope = this.resolveDbPath(dbPathOrInstance);
+    this.vectorScopeId = this.buildVectorScopeId(dbPathForScope);
     if (typeof dbPathOrInstance === 'string') {
       this.db = new KnowledgeDatabase(dbPathOrInstance);
       this.ownsDbConnection = true;
@@ -34,8 +45,12 @@ export class HybridSearch {
       this.ownsDbConnection = false;
     }
     this.embeddingsService = new EmbeddingsService();
+    this.enforceVectorSqlParity = options.enforceVectorSqlParity ?? true;
     this.vectorDb = new VectorDatabase(vectorDbPath, {
       embeddingProfile: this.embeddingsService.getProfile(),
+      collectionPrefix: `knowledge_units_${this.vectorScopeId}`,
+      activeProfilePointerPath: `./atomized/embeddings/active-profile-${this.vectorScopeId}.json`,
+      scopeId: this.vectorScopeId,
     });
   }
 
@@ -66,8 +81,8 @@ export class HybridSearch {
   ): Promise<HybridSearchResult[]> {
     await this.init();
 
-    // Increase fetch limit to account for filtering
-    const fetchLimit = limit * 5;
+    // API layer already bounds search windows; avoid additional amplification.
+    const fetchLimit = limit;
 
     // Parallel execution of both searches
     const [ftsResults, queryEmbedding] = await Promise.all([
@@ -79,11 +94,12 @@ export class HybridSearch {
 
     // Semantic search
     const semanticResults = await this.vectorDb.searchByEmbedding(queryEmbedding, fetchLimit);
+    const semanticUnits = this.enforceActiveStoreParity(semanticResults.map((result) => result.unit));
 
     // Combine results using Reciprocal Rank Fusion (RRF)
     const rrf = await this.reciprocalRankFusion(
       ftsResults,
-      semanticResults.map(r => r.unit),
+      semanticUnits,
       query,
       weights,
       60,
@@ -269,6 +285,10 @@ export class HybridSearch {
     return this.vectorDb.getActiveProfileId();
   }
 
+  getVectorScopeId(): string {
+    return this.vectorScopeId;
+  }
+
   getEmbeddingProfileId(): string {
     return this.embeddingsService.getProfile().profileId;
   }
@@ -277,5 +297,30 @@ export class HybridSearch {
     if (this.ownsDbConnection) {
       this.db.close();
     }
+  }
+
+  private enforceActiveStoreParity(units: AtomicUnit[]): AtomicUnit[] {
+    if (!this.enforceVectorSqlParity || units.length === 0) {
+      return units;
+    }
+
+    const uniqueIds = Array.from(new Set(units.map((unit) => unit.id)));
+    const resolvedUnits = this.db.getUnitsByIds(uniqueIds, { limit: uniqueIds.length });
+    const byId = new Map(resolvedUnits.map((unit) => [unit.id, unit]));
+
+    return units
+      .map((unit) => byId.get(unit.id))
+      .filter((unit): unit is AtomicUnit => Boolean(unit));
+  }
+
+  private resolveDbPath(input: string | KnowledgeDatabase): string {
+    if (typeof input === 'string') {
+      return resolve(input);
+    }
+    return input.getPath();
+  }
+
+  private buildVectorScopeId(dbPath: string): string {
+    return createHash('sha256').update(resolve(dbPath)).digest('hex').slice(0, 12);
   }
 }

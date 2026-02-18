@@ -4,7 +4,8 @@
  */
 
 import { useQuery } from '@tanstack/react-query';
-import { searchApi } from '../api/client';
+import { searchApi } from '../api/search';
+import { unitsApi } from '../api/units';
 import { useSearchStore } from '../stores/searchStore';
 import { useUIStore } from '../stores/uiStore';
 
@@ -140,7 +141,6 @@ export function useUnit(id: string | null) {
     queryKey: ['unit', id],
     queryFn: async () => {
       if (!id) return null;
-      const { unitsApi } = await import('../api/client');
       const response = await unitsApi.get(id);
       return response.data;
     },
@@ -154,7 +154,6 @@ export function useRelatedUnits(id: string | null) {
     queryKey: ['relatedUnits', id],
     queryFn: async () => {
       if (!id) return [];
-      const { unitsApi } = await import('../api/client');
       const response = await unitsApi.getRelated(id);
       return response.data || [];
     },

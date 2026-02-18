@@ -248,16 +248,17 @@ export function createCollectionsRoutes(collectionsManager?: CollectionsManager)
       if (added) {
         logger.info(`Added unit ${unitId} to collection ${id}`);
       }
-    } catch (error: any) {
-      if (error.message?.includes('not found')) {
+    } catch (error: unknown) {
+      const message = error instanceof Error ? error.message : String(error);
+      if (message.includes('not found')) {
         return res.status(404).json({
           success: false,
-          error: error.message,
+          error: message,
           code: 'NOT_FOUND',
         });
       }
 
-      logger.error('Error adding unit to collection: ' + error);
+      logger.error('Error adding unit to collection: ' + message);
       res.status(500).json({
         success: false,
         error: 'Failed to add unit to collection',
@@ -395,16 +396,17 @@ export function createFavoritesRoutes(collectionsManager?: CollectionsManager): 
       if (added) {
         logger.info(`Added unit ${unitId} to favorites`);
       }
-    } catch (error: any) {
-      if (error.message?.includes('not found')) {
+    } catch (error: unknown) {
+      const message = error instanceof Error ? error.message : String(error);
+      if (message.includes('not found')) {
         return res.status(404).json({
           success: false,
-          error: error.message,
+          error: message,
           code: 'NOT_FOUND',
         });
       }
 
-      logger.error('Error adding favorite: ' + error);
+      logger.error('Error adding favorite: ' + message);
       res.status(500).json({
         success: false,
         error: 'Failed to add favorite',

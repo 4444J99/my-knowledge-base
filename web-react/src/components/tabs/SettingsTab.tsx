@@ -8,7 +8,8 @@ import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
 import { useUIStore } from '../../stores/uiStore';
 import { usePreferencesStore } from '../../stores/preferencesStore';
 import { shortcuts } from '../../hooks/useKeyboardShortcuts';
-import { statsApi, exportApi, configApi } from '../../api/client';
+import { statsApi } from '../../api/stats';
+import { exportApi, configApi } from '../../api/client';
 import type { SearchMode } from '../../types';
 
 type LlmProvider = 'anthropic' | 'openai' | 'ollama' | 'custom' | 'local';

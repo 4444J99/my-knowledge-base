@@ -34,6 +34,8 @@ export type SearchPolicy = 'degrade' | 'strict';
 export interface SearchConfig {
   semanticPolicy?: SearchPolicy;
   hybridPolicy?: SearchPolicy;
+  maxSearchWindow?: number;
+  enforceVectorSqlParity?: boolean;
 }
 
 export type EmbeddingProvider = 'openai' | 'local' | 'mock';
@@ -170,6 +172,8 @@ export const DEFAULT_CONFIG: AppConfig = {
   search: {
     semanticPolicy: 'degrade',
     hybridPolicy: 'degrade',
+    maxSearchWindow: 2000,
+    enforceVectorSqlParity: true,
   },
   redaction: {
     enabled: true,
@@ -444,6 +448,20 @@ export class ConfigManager {
       errors.push('search.hybridPolicy must be one of: degrade, strict');
     }
 
+    if (
+      this.config.search?.maxSearchWindow !== undefined &&
+      (!Number.isInteger(this.config.search.maxSearchWindow) || this.config.search.maxSearchWindow < 1)
+    ) {
+      errors.push('search.maxSearchWindow must be a positive integer');
+    }
+
+    if (
+      this.config.search?.enforceVectorSqlParity !== undefined &&
+      typeof this.config.search.enforceVectorSqlParity !== 'boolean'
+    ) {
+      errors.push('search.enforceVectorSqlParity must be a boolean');
+    }
+
     return {
       valid: errors.length === 0,
       errors
@@ -534,6 +552,8 @@ export function createExampleConfig(outputPath: string = './config.example.yaml'
     search: {
       semanticPolicy: 'degrade',
       hybridPolicy: 'degrade',
+      maxSearchWindow: 2000,
+      enforceVectorSqlParity: true,
     },
     redaction: {
       enabled: true,

@@ -6,7 +6,7 @@
 import { useEffect } from 'react';
 import { useQuery } from '@tanstack/react-query';
 import { useUIStore } from '../stores/uiStore';
-import { statsApi } from '../api/client';
+import { statsApi } from '../api/stats';
 
 export function Header() {
   const { theme, setTheme, toggleShortcuts, notifications, setActiveTab } = useUIStore();

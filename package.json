@@ -111,6 +111,9 @@
   ],
   "author": "",
   "license": "MIT",
+  "overrides": {
+    "qs": "6.14.2"
+  },
   "dependencies": {
     "@meta-organvm/github-pages-index-core": "file:packages/github-pages-index-core",
     "@anthropic-ai/sdk": "^0.32.1",

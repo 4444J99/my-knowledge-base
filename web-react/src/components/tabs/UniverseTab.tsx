@@ -7,7 +7,7 @@ import {
   projectNetworkNode,
   selectionFromOccurrence,
 } from '@knowledge-base/contracts';
-import { universeApi } from '../../api/client';
+import { universeApi } from '../../api/universe';
 
 function candidateTerms(content: string): string[] {
   const matches = content.match(/[A-Za-z0-9_'-]{3,}/g) ?? [];

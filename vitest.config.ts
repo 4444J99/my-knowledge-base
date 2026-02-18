@@ -14,17 +14,22 @@ export default defineConfig({
     coverage: {
       provider: 'v8',
       reporter: ['text', 'json', 'html'],
-      // Baseline global gate; raise incrementally as coverage improvements land.
+      // Evaluation-to-Growth baseline gate.
       thresholds: {
-        lines: 60,
-        statements: 60,
-        functions: 65,
-        branches: 50,
+        lines: 65,
+        statements: 65,
+        functions: 68,
+        branches: 55,
       },
       exclude: [
         'node_modules/',
+        'apps/**',
+        'scripts/**',
+        'packages/**',
         'src/**/*.test.ts',
         'tests/**/*.test.ts',
+        'web-react/src/**/*.test.ts',
+        'web-react/src/**/*.test.tsx',
       ]
     },
     setupFiles: ['./vitest.setup.ts'],

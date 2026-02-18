@@ -5,7 +5,8 @@
 
 import { useState } from 'react';
 import { useMutation, useQuery } from '@tanstack/react-query';
-import { exportApi, unitsApi } from '../../api/client';
+import { exportApi } from '../../api/client';
+import { unitsApi } from '../../api/units';
 import { useSearchStore } from '../../stores/searchStore';
 import { usePreferencesStore } from '../../stores/preferencesStore';
 import { useUIStore } from '../../stores/uiStore';

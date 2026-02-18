@@ -9,6 +9,7 @@ import { join } from 'path';
 import { createApiRouter } from '../src/api.js';
 import { KnowledgeDatabase } from '../src/database.js';
 import { AtomicUnit } from '../src/types.js';
+import { HybridSearch, HybridSearchResult } from '../src/hybrid-search.js';
 import { createTestTempDir, cleanupTestTempDir } from '../src/test-utils/temp-paths.js';
 
 describe('Phase 2 Search API Endpoints', () => {
@@ -18,10 +19,14 @@ describe('Phase 2 Search API Endpoints', () => {
   let app: express.Application;
   const originalSemanticPolicy = process.env.KB_SEARCH_SEMANTIC_POLICY;
   const originalHybridPolicy = process.env.KB_SEARCH_HYBRID_POLICY;
+  const originalSearchWindow = process.env.KB_SEARCH_MAX_WINDOW;
+  const originalParityPolicy = process.env.KB_SEARCH_ENFORCE_VECTOR_SQL_PARITY;
 
   beforeEach(async () => {
     delete process.env.KB_SEARCH_SEMANTIC_POLICY;
     delete process.env.KB_SEARCH_HYBRID_POLICY;
+    delete process.env.KB_SEARCH_MAX_WINDOW;
+    delete process.env.KB_SEARCH_ENFORCE_VECTOR_SQL_PARITY;
     tempDir = createTestTempDir('search-api');
     dbPath = join(tempDir, 'test.db');
 
@@ -135,6 +140,16 @@ describe('Phase 2 Search API Endpoints', () => {
       delete process.env.KB_SEARCH_HYBRID_POLICY;
     } else {
       process.env.KB_SEARCH_HYBRID_POLICY = originalHybridPolicy;
+    }
+    if (originalSearchWindow === undefined) {
+      delete process.env.KB_SEARCH_MAX_WINDOW;
+    } else {
+      process.env.KB_SEARCH_MAX_WINDOW = originalSearchWindow;
+    }
+    if (originalParityPolicy === undefined) {
+      delete process.env.KB_SEARCH_ENFORCE_VECTOR_SQL_PARITY;
+    } else {
+      process.env.KB_SEARCH_ENFORCE_VECTOR_SQL_PARITY = originalParityPolicy;
     }
     try {
       db.close();
@@ -427,6 +442,22 @@ describe('Phase 2 Search API Endpoints', () => {
       expect(response.body.pagination.page).toBe(2);
     });
 
+    it('keeps page payload stable on cache hits for identical page/pageSize', async () => {
+      const first = await request(app)
+        .get('/api/search/hybrid?q=context&page=2&pageSize=2')
+        .expect(200);
+      const second = await request(app)
+        .get('/api/search/hybrid?q=context&page=2&pageSize=2')
+        .expect(200);
+
+      expect(first.body.data).toHaveLength(2);
+      expect(second.body.data).toHaveLength(2);
+      expect(second.body.stats?.cacheHit).toBe(true);
+      expect(second.body.data.map((unit: { id: string }) => unit.id)).toEqual(
+        first.body.data.map((unit: { id: string }) => unit.id)
+      );
+    });
+
     it('should include results from both FTS and semantic', async () => {
       const response = await request(app)
         .get('/api/search/hybrid?q=testing')
@@ -463,6 +494,82 @@ describe('Phase 2 Search API Endpoints', () => {
         .expect(400);
 
       expect(response.body.error).toBeTruthy();
+    });
+  });
+
+  describe('Search Integrity and Bounds', () => {
+    it('rejects oversized semantic/hybrid windows with INVALID_SEARCH_WINDOW', async () => {
+      process.env.KB_SEARCH_MAX_WINDOW = '5';
+      const boundedApp = express();
+      boundedApp.use(express.json());
+      boundedApp.use('/api', createApiRouter(db));
+
+      const semanticResponse = await request(boundedApp)
+        .get('/api/search/semantic?q=test&page=2&pageSize=3')
+        .expect(400);
+      const hybridResponse = await request(boundedApp)
+        .get('/api/search/hybrid?q=test&page=2&pageSize=3')
+        .expect(400);
+
+      expect(semanticResponse.body.code).toBe('INVALID_SEARCH_WINDOW');
+      expect(hybridResponse.body.code).toBe('INVALID_SEARCH_WINDOW');
+    });
+
+    it('enforces active SQLite parity for semantic and hybrid results', async () => {
+      const localUnit = db.getUnitById('unit-1');
+      expect(localUnit).toBeTruthy();
+      const foreignUnit: AtomicUnit = {
+        id: 'foreign-unit-999',
+        type: 'insight',
+        title: 'Foreign Unit',
+        content: 'This unit should never leak across stores',
+        context: 'external',
+        category: 'programming',
+        tags: ['foreign'],
+        keywords: ['foreign'],
+        relatedUnits: [],
+        timestamp: new Date(),
+      };
+      const mockedHybridResults: HybridSearchResult[] = [
+        {
+          unit: localUnit!,
+          ftsScore: 0.9,
+          semanticScore: 0.8,
+          combinedScore: 1.7,
+        },
+        {
+          unit: foreignUnit,
+          ftsScore: 0,
+          semanticScore: 0.95,
+          combinedScore: 0.95,
+        },
+      ];
+
+      const searchSpy = vi.spyOn(HybridSearch.prototype, 'search').mockResolvedValue(mockedHybridResults);
+      const profileSpy = vi.spyOn(HybridSearch.prototype, 'getVectorProfileId').mockReturnValue('emb_test_profile');
+      try {
+        const scopedApp = express();
+        scopedApp.use(express.json());
+        scopedApp.use('/api', createApiRouter(db));
+
+        const semantic = await request(scopedApp)
+          .get('/api/search/semantic?q=scope+parity&page=1&pageSize=20')
+          .expect(200);
+        const hybrid = await request(scopedApp)
+          .get('/api/search/hybrid?q=scope+parity&page=1&pageSize=20')
+          .expect(200);
+
+        const semanticIds = semantic.body.data.map((unit: { id: string }) => unit.id);
+        const hybridIds = hybrid.body.data.map((unit: { id: string }) => unit.id);
+
+        expect(semanticIds).toContain('unit-1');
+        expect(hybridIds).toContain('unit-1');
+        expect(semanticIds).not.toContain('foreign-unit-999');
+        expect(hybridIds).not.toContain('foreign-unit-999');
+      } finally {
+        searchSpy.mockRestore();
+        profileSpy.mockRestore();
+      }
     });
   });
 

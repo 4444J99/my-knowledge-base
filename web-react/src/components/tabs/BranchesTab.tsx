@@ -1,6 +1,6 @@
 import { useMemo } from 'react';
 import { useQuery } from '@tanstack/react-query';
-import { unitsApi } from '../../api/client';
+import { unitsApi } from '../../api/units';
 import { useBranchStore } from '../../stores/branchStore';
 import type {
   BranchDirection,

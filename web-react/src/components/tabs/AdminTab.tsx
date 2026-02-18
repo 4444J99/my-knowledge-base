@@ -7,7 +7,9 @@ import { useState } from 'react';
 import { useQuery, useMutation } from '@tanstack/react-query';
 import { Chart as ChartJS, ArcElement, Tooltip, Legend, CategoryScale, LinearScale, BarElement } from 'chart.js';
 import { Pie, Bar } from 'react-chartjs-2';
-import { statsApi, exportApi, unitsApi } from '../../api/client';
+import { exportApi } from '../../api/client';
+import { statsApi } from '../../api/stats';
+import { unitsApi } from '../../api/units';
 import { useSearchStore } from '../../stores/searchStore';
 import { useUIStore } from '../../stores/uiStore';
 

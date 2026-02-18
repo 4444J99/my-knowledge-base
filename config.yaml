@@ -13,3 +13,5 @@ embedding:
 search:
   semanticPolicy: degrade
   hybridPolicy: degrade
+  maxSearchWindow: 2000
+  enforceVectorSqlParity: true

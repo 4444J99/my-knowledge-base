@@ -616,9 +616,13 @@ describe('RelationshipDetector', () => {
     });
 
     it('should handle empty unit list', async () => {
+      const logSpy = vi.spyOn(console, 'log').mockImplementation(() => {});
       const graph = await detector.buildRelationshipGraph([]);
 
       expect(graph.size).toBe(0);
+      const avgLine = logSpy.mock.calls.find((args) => String(args[0]).includes('Avg per unit'));
+      expect(String(avgLine?.[0] ?? '')).toContain('0.0');
+      logSpy.mockRestore();
     });
 
     it('should handle single unit graph', async () => {

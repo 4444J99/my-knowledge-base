@@ -26,6 +26,13 @@
 - Capture stdout/stderr for incident review.
 - Audit logs (when enabled) write to `AUDIT_LOG_PATH` or `./logs/audit.log`.
 
+## Search Policy Matrix
+- Local/dev default: `KB_SEARCH_SEMANTIC_POLICY=degrade` and `KB_SEARCH_HYBRID_POLICY=degrade`.
+- CI/staging/prod default: `KB_SEARCH_SEMANTIC_POLICY=strict` and `KB_SEARCH_HYBRID_POLICY=strict`.
+- Search window guardrail: `search.maxSearchWindow` (or `KB_SEARCH_MAX_WINDOW`) defaults to `2000`; requests where `page * pageSize` exceeds this return `400 INVALID_SEARCH_WINDOW`.
+- Cross-store guardrail: `search.enforceVectorSqlParity` (or `KB_SEARCH_ENFORCE_VECTOR_SQL_PARITY`) defaults to `true`, forcing semantic/hybrid IDs to resolve against the active SQLite store.
+- Health verification: `GET /api/health` should expose `readiness.search.semanticBackendReady`, `readiness.search.hybridBackendReady`, `readiness.search.maxSearchWindow`, and policy values under `readiness.searchPolicies`.
+
 ## Incident Quick Triage (10 Minutes)
 Use this sequence during active incidents before deeper forensics.
 

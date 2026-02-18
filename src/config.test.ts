@@ -168,6 +168,17 @@ embedding:
         expect((config.api as any).openai.model).toBeTypeOf('string');
       }
     });
+
+    it('validates search max window and parity toggles', () => {
+      const manager = new ConfigManager(configPath);
+      manager.set('search.maxSearchWindow', 0);
+      manager.set('search.enforceVectorSqlParity', 'yes' as unknown as boolean);
+
+      const result = manager.validate();
+      expect(result.valid).toBe(false);
+      expect(result.errors).toContain('search.maxSearchWindow must be a positive integer');
+      expect(result.errors).toContain('search.enforceVectorSqlParity must be a boolean');
+    });
   });
 
   describe('Configuration Updates', () => {
@@ -226,6 +237,8 @@ embedding:
     it('should include search policies with degrade defaults', () => {
       expect(DEFAULT_CONFIG.search?.semanticPolicy).toBe('degrade');
       expect(DEFAULT_CONFIG.search?.hybridPolicy).toBe('degrade');
+      expect(DEFAULT_CONFIG.search?.maxSearchWindow).toBe(2000);
+      expect(DEFAULT_CONFIG.search?.enforceVectorSqlParity).toBe(true);
     });
   });
 

@@ -247,11 +247,12 @@ Are they related? If so, what type of relationship and how strong?`;
       (sum, rels) => sum + rels.length,
       0
     );
+    const avgRelationshipsPerUnit = units.length > 0 ? totalRelationships / units.length : 0;
 
     console.log(`\n✅ Relationship graph complete:`);
     console.log(`  - Units: ${units.length}`);
     console.log(`  - Relationships: ${totalRelationships}`);
-    console.log(`  - Avg per unit: ${(totalRelationships / units.length).toFixed(1)}`);
+    console.log(`  - Avg per unit: ${avgRelationshipsPerUnit.toFixed(1)}`);
 
     this.claude.printStats();
 
@@ -282,6 +283,7 @@ Are they related? If so, what type of relationship and how strong?`;
       (sum, rels) => sum + rels.length,
       0
     );
+    const avgRelationshipsPerUnit = units.length > 0 ? totalRelationships / units.length : 0;
 
     // Calculate type distribution
     const typeDistribution = new Map<string, number>();
@@ -295,7 +297,7 @@ Are they related? If so, what type of relationship and how strong?`;
     console.log(`\n✅ Typed relationship graph complete:`);
     console.log(`  - Units: ${units.length}`);
     console.log(`  - Relationships: ${totalRelationships}`);
-    console.log(`  - Avg per unit: ${(totalRelationships / units.length).toFixed(1)}`);
+    console.log(`  - Avg per unit: ${avgRelationshipsPerUnit.toFixed(1)}`);
     console.log(`  - Type distribution:`);
     for (const [type, count] of typeDistribution.entries()) {
       console.log(`    - ${type}: ${count}`);

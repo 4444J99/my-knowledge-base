@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import type { FormEvent } from 'react';
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query';
-import { federationApi } from '../../api/client';
+import { federationApi } from '../../api/federation';
 import { useUIStore } from '../../stores/uiStore';
 import type { FederatedScanJob, FederatedSearchHit, FederatedSource } from '../../types';
 

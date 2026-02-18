@@ -792,6 +792,10 @@ describe('REST API', () => {
       expect(response.body.data.readiness.searchPolicies.semantic).toBeDefined();
       expect(response.body.data.readiness.searchPolicies.hybrid).toBeDefined();
       expect(response.body.data.readiness.search.strictReady).toBeDefined();
+      expect(response.body.data.readiness.search.semanticBackendReady).toBeDefined();
+      expect(response.body.data.readiness.search.hybridBackendReady).toBeDefined();
+      expect(response.body.data.readiness.search.maxSearchWindow).toBeTypeOf('number');
+      expect(response.body.data.readiness.search.enforceVectorSqlParity).toBeTypeOf('boolean');
     });
   });
 

@@ -3,7 +3,7 @@
  * Exposes insight extraction, smart tagging, relationship detection, and summarization
  */
 
-import express, { Router, Request, Response, NextFunction } from 'express';
+import { Router, Request, Response, NextFunction } from 'express';
 import { KnowledgeDatabase } from './database.js';
 import { logger, AppError } from './logger.js';
 import { InsightExtractor } from './insight-extractor.js';
@@ -11,6 +11,7 @@ import { SmartTagger } from './smart-tagger.js';
 import { RelationshipDetector } from './relationship-detector.js';
 import { ConversationSummarizer } from './conversation-summarizer.js';
 import { ClaudeService } from './claude-service.js';
+import { AtomicUnit } from './types.js';
 
 /**
  * Intelligence API response format
@@ -32,11 +33,52 @@ interface IntelligenceResponse<T> {
   timestamp: string;
 }
 
+type SqlParam = string | number;
+
+interface IntelligenceExtractBody {
+  conversationId?: string;
+  unitIds?: string[];
+  save?: boolean;
+}
+
+interface RelationshipsDetectBody {
+  unitIds?: string[];
+  threshold?: number;
+  save?: boolean;
+}
+
+interface ConversationLookupRow {
+  id: string;
+  title?: string | null;
+  summary?: string | null;
+}
+
+interface AtomicUnitLookupRow {
+  id: string;
+  title?: string | null;
+  content?: string | null;
+}
+
+interface CountRow {
+  count: number;
+}
+
+function asString(value: unknown, fallback: string = ''): string {
+  return typeof value === 'string' ? value : fallback;
+}
+
+function firstQueryString(value: unknown): string | undefined {
+  if (typeof value === 'string') return value;
+  if (Array.isArray(value) && typeof value[0] === 'string') return value[0];
+  return undefined;
+}
+
 /**
  * Create intelligence API router for Phase 3
  */
 export function createIntelligenceRouter(db: KnowledgeDatabase): Router {
   const router = Router();
+  const sql = db.getRawHandle();
 
   // Initialize Phase 3 services
   const claudeService = new ClaudeService();
@@ -44,6 +86,7 @@ export function createIntelligenceRouter(db: KnowledgeDatabase): Router {
   const smartTagger = new SmartTagger(claudeService);
   let relationshipDetector: RelationshipDetector | null = null;
   const conversationSummarizer = new ConversationSummarizer(claudeService);
+  void conversationSummarizer;
 
   try {
     relationshipDetector = new RelationshipDetector('./atomized/embeddings/chroma', claudeService);
@@ -52,7 +95,9 @@ export function createIntelligenceRouter(db: KnowledgeDatabase): Router {
   }
 
   // Error handling middleware
-  const asyncHandler = (fn: Function) => (req: Request, res: Response, next: NextFunction) => {
+  const asyncHandler = (
+    fn: (req: Request, res: Response, next: NextFunction) => Promise<void>
+  ) => (req: Request, res: Response, next: NextFunction) => {
     Promise.resolve(fn(req, res, next)).catch(next);
   };
 
@@ -74,7 +119,7 @@ export function createIntelligenceRouter(db: KnowledgeDatabase): Router {
         SELECT * FROM atomic_units
         WHERE type IN ('insight', 'decision')
       `;
-      const params: any[] = [];
+      const params: SqlParam[] = [];
 
       if (type && ['insight', 'decision'].includes(type)) {
         query += ` AND type = ?`;
@@ -89,18 +134,18 @@ export function createIntelligenceRouter(db: KnowledgeDatabase): Router {
       query += ` ORDER BY created DESC LIMIT ? OFFSET ?`;
       params.push(pageSize, (page - 1) * pageSize);
 
-      const insights = db['db'].prepare(query).all(...params) as any[];
+      const insights = sql.prepare(query).all(...params) as Record<string, unknown>[];
 
       // Get total count
       let countQuery = `SELECT COUNT(*) as count FROM atomic_units WHERE type IN ('insight', 'decision')`;
       if (type) countQuery += ` AND type = ?`;
       if (category) countQuery += ` AND category = ?`;
 
-      const countParams: any[] = [];
+      const countParams: SqlParam[] = [];
       if (type) countParams.push(type);
       if (category) countParams.push(category);
 
-      const { count } = db['db'].prepare(countQuery).get(...countParams) as any;
+      const { count } = sql.prepare(countQuery).get(...countParams) as CountRow;
       const total = count || 0;
 
       const processingTime = Date.now() - startTime;
@@ -129,10 +174,14 @@ export function createIntelligenceRouter(db: KnowledgeDatabase): Router {
   router.post(
     '/insights/extract',
     asyncHandler(async (req: Request, res: Response) => {
-      const { conversationId, unitIds, save } = req.body;
+      const { conversationId, unitIds, save } = (req.body ?? {}) as IntelligenceExtractBody;
       const startTime = Date.now();
 
-      if (!conversationId && (!unitIds || unitIds.length === 0)) {
+      const validUnitIds = Array.isArray(unitIds)
+        ? unitIds.filter((id): id is string => typeof id === 'string' && id.length > 0)
+        : [];
+
+      if (!conversationId && validUnitIds.length === 0) {
         throw new AppError('Either conversationId or unitIds must be provided', 'MISSING_SOURCE', 400);
       }
 
@@ -141,26 +190,30 @@ export function createIntelligenceRouter(db: KnowledgeDatabase): Router {
       }
 
       try {
-        let insights: any[] = [];
+        let insights: AtomicUnit[] = [];
 
         if (conversationId) {
           // Load conversation from database
-          const conversation = db['db']
+          const conversation = sql
             .prepare('SELECT * FROM conversations WHERE id = ?')
-            .get(conversationId) as any;
+            .get(conversationId) as ConversationLookupRow | undefined;
 
           if (!conversation) {
             throw new AppError('Conversation not found', 'NOT_FOUND', 404);
           }
 
           // Extract insights (simplified - would load actual conversation messages)
-          insights = await insightExtractor.extract(conversation.title + '\n' + conversation.summary);
-        } else if (unitIds && unitIds.length > 0) {
+          insights = await insightExtractor.extract(
+            `${asString(conversation.title, 'Untitled')}\n${asString(conversation.summary)}`
+          );
+        } else if (validUnitIds.length > 0) {
           // Extract from provided units
-          for (const unitId of unitIds) {
-            const unit = db['db'].prepare('SELECT * FROM atomic_units WHERE id = ?').get(unitId) as any;
+          for (const unitId of validUnitIds) {
+            const unit = sql
+              .prepare('SELECT * FROM atomic_units WHERE id = ?')
+              .get(unitId) as AtomicUnitLookupRow | undefined;
             if (unit) {
-              const extracted = await insightExtractor.extract(unit.content);
+              const extracted = await insightExtractor.extract(asString(unit.content));
               insights.push(...extracted);
             }
           }
@@ -169,7 +222,7 @@ export function createIntelligenceRouter(db: KnowledgeDatabase): Router {
         // Optionally save to database
         if (save) {
           for (const insight of insights) {
-            db['db']
+            sql
               .prepare(`
                 INSERT INTO atomic_units (id, type, title, content, context, category, tags, keywords, timestamp)
                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
@@ -203,10 +256,14 @@ export function createIntelligenceRouter(db: KnowledgeDatabase): Router {
             processingTime,
           },
           timestamp: new Date().toISOString(),
-        } as IntelligenceResponse<any[]>);
+        } as IntelligenceResponse<AtomicUnit[]>);
       } catch (error) {
         if (error instanceof AppError) throw error;
-        throw new AppError(`Insight extraction failed: ${error}`, 'EXTRACTION_ERROR', 500);
+        throw new AppError(
+          `Insight extraction failed: ${error instanceof Error ? error.message : String(error)}`,
+          'EXTRACTION_ERROR',
+          500
+        );
       }
     })
   );
@@ -218,24 +275,32 @@ export function createIntelligenceRouter(db: KnowledgeDatabase): Router {
   router.get(
     '/tags/suggestions',
     asyncHandler(async (req: Request, res: Response) => {
-      const { unitId, content, title } = req.query;
+      const unitId = req.query.unitId;
+      const content = req.query.content;
+      const title = req.query.title;
       const startTime = Date.now();
 
       if (!process.env.ANTHROPIC_API_KEY) {
         throw new AppError('ANTHROPIC_API_KEY not configured', 'API_KEY_MISSING', 503);
       }
 
-      let unitContent = content as string;
-      let unitTitle = title as string;
+      let unitContent = firstQueryString(content) ?? '';
+      let unitTitle = firstQueryString(title) ?? '';
 
       // Load from database if unitId provided
       if (unitId) {
-        const unit = db['db'].prepare('SELECT * FROM atomic_units WHERE id = ?').get(unitId) as any;
+        const parsedUnitId = firstQueryString(unitId);
+        if (!parsedUnitId) {
+          throw new AppError('Invalid unitId value', 'INVALID_UNIT_ID', 400);
+        }
+        const unit = sql
+          .prepare('SELECT * FROM atomic_units WHERE id = ?')
+          .get(parsedUnitId) as AtomicUnitLookupRow | undefined;
         if (!unit) {
           throw new AppError('Unit not found', 'NOT_FOUND', 404);
         }
-        unitContent = unit.content;
-        unitTitle = unit.title;
+        unitContent = asString(unit.content);
+        unitTitle = asString(unit.title);
       }
 
       if (!unitContent) {
@@ -269,10 +334,14 @@ export function createIntelligenceRouter(db: KnowledgeDatabase): Router {
             processingTime,
           },
           timestamp: new Date().toISOString(),
-        } as IntelligenceResponse<any>);
+        } as IntelligenceResponse<Record<string, unknown>>);
       } catch (error) {
         if (error instanceof AppError) throw error;
-        throw new AppError(`Tag suggestion failed: ${error}`, 'TAGGING_ERROR', 500);
+        throw new AppError(
+          `Tag suggestion failed: ${error instanceof Error ? error.message : String(error)}`,
+          'TAGGING_ERROR',
+          500
+        );
       }
     })
   );
@@ -284,15 +353,24 @@ export function createIntelligenceRouter(db: KnowledgeDatabase): Router {
   router.get(
     '/relationships',
     asyncHandler(async (req: Request, res: Response) => {
-      const { unitId, type, minStrength } = req.query;
+      const unitId = req.query.unitId;
+      const type = req.query.type;
+      const minStrength = req.query.minStrength;
       const startTime = Date.now();
+      void minStrength;
 
       if (!unitId) {
         throw new AppError('unitId is required', 'MISSING_UNIT_ID', 400);
       }
+      const parsedUnitId = firstQueryString(unitId);
+      if (!parsedUnitId) {
+        throw new AppError('Invalid unitId value', 'INVALID_UNIT_ID', 400);
+      }
 
       // Check if unit exists
-      const unit = db['db'].prepare('SELECT * FROM atomic_units WHERE id = ?').get(unitId) as any;
+      const unit = sql.prepare('SELECT * FROM atomic_units WHERE id = ?').get(parsedUnitId) as
+        | AtomicUnitLookupRow
+        | undefined;
       if (!unit) {
         throw new AppError('Unit not found', 'NOT_FOUND', 404);
       }
@@ -304,14 +382,18 @@ export function createIntelligenceRouter(db: KnowledgeDatabase): Router {
         JOIN atomic_units u ON r.to_unit = u.id
         WHERE r.from_unit = ?
       `;
-      const params: any[] = [unitId];
+      const params: SqlParam[] = [parsedUnitId];
 
       if (type) {
+        const parsedType = firstQueryString(type);
+        if (!parsedType) {
+          throw new AppError('Invalid relationship type filter', 'INVALID_RELATIONSHIP_TYPE', 400);
+        }
         query += ` AND r.relationship_type = ?`;
-        params.push(type);
+        params.push(parsedType);
       }
 
-      const relationships = db['db'].prepare(query).all(...params) as any[];
+      const relationships = sql.prepare(query).all(...params) as Record<string, unknown>[];
 
       const processingTime = Date.now() - startTime;
 
@@ -322,7 +404,7 @@ export function createIntelligenceRouter(db: KnowledgeDatabase): Router {
           processingTime,
         },
         timestamp: new Date().toISOString(),
-      } as IntelligenceResponse<any[]>);
+      } as IntelligenceResponse<Array<Record<string, unknown>>>);
     })
   );
 
@@ -333,10 +415,15 @@ export function createIntelligenceRouter(db: KnowledgeDatabase): Router {
   router.post(
     '/relationships/detect',
     asyncHandler(async (req: Request, res: Response) => {
-      const { unitIds, threshold, save } = req.body;
+      const { unitIds, threshold, save } = (req.body ?? {}) as RelationshipsDetectBody;
       const startTime = Date.now();
+      void threshold;
 
-      if (!unitIds || unitIds.length === 0) {
+      const validUnitIds = Array.isArray(unitIds)
+        ? unitIds.filter((id): id is string => typeof id === 'string' && id.length > 0)
+        : [];
+
+      if (validUnitIds.length === 0) {
         throw new AppError('unitIds array is required', 'MISSING_UNITS', 400);
       }
 
@@ -350,9 +437,7 @@ export function createIntelligenceRouter(db: KnowledgeDatabase): Router {
 
       try {
         // Load units from database
-        const units = unitIds
-          .map((id: string) => db['db'].prepare('SELECT * FROM atomic_units WHERE id = ?').get(id))
-          .filter((u: any) => u);
+        const units = db.getUnitsByIds(validUnitIds);
 
         if (units.length === 0) {
           throw new AppError('No valid units found', 'NOT_FOUND', 404);
@@ -363,7 +448,7 @@ export function createIntelligenceRouter(db: KnowledgeDatabase): Router {
 
         // Optionally save to database
         if (save) {
-          const insertStmt = db['db'].prepare(`
+          const insertStmt = sql.prepare(`
             INSERT OR REPLACE INTO unit_relationships (from_unit, to_unit, relationship_type)
             VALUES (?, ?, ?)
           `);
@@ -396,10 +481,14 @@ export function createIntelligenceRouter(db: KnowledgeDatabase): Router {
             processingTime,
           },
           timestamp: new Date().toISOString(),
-        } as IntelligenceResponse<any[]>);
+        } as IntelligenceResponse<Array<{ fromUnit: string; relationships: unknown[] }>>);
       } catch (error) {
         if (error instanceof AppError) throw error;
-        throw new AppError(`Relationship detection failed: ${error}`, 'DETECTION_ERROR', 500);
+        throw new AppError(
+          `Relationship detection failed: ${error instanceof Error ? error.message : String(error)}`,
+          'DETECTION_ERROR',
+          500
+        );
       }
     })
   );
@@ -418,11 +507,11 @@ export function createIntelligenceRouter(db: KnowledgeDatabase): Router {
       const page = Math.max(1, parseInt(req.query.page as string) || 1);
       const pageSize = Math.min(100, Math.max(1, parseInt(req.query.pageSize as string) || 20));
 
-      const summaries = db['db']
+      const summaries = sql
         .prepare('SELECT id, title, summary FROM conversations ORDER BY created DESC LIMIT ? OFFSET ?')
-        .all(pageSize, (page - 1) * pageSize) as any[];
+        .all(pageSize, (page - 1) * pageSize) as Array<Record<string, unknown>>;
 
-      const { count } = db['db'].prepare('SELECT COUNT(*) as count FROM conversations').get() as any;
+      const { count } = sql.prepare('SELECT COUNT(*) as count FROM conversations').get() as CountRow;
       const total = count || 0;
 
       const processingTime = Date.now() - startTime;

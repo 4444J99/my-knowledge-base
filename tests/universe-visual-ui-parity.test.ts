@@ -163,7 +163,7 @@ const mocks = vi.hoisted(() => {
   };
 });
 
-vi.mock('../web-react/src/api/client', () => ({
+vi.mock('../web-react/src/api/universe', () => ({
   universeApi: {
     summary: mocks.summary,
     providers: mocks.providers,

@@ -5,7 +5,7 @@
 
 import { useMemo, useState } from 'react';
 import { useQuery } from '@tanstack/react-query';
-import { statsApi } from '../../api/client';
+import { statsApi } from '../../api/stats';
 import { usePreferencesStore } from '../../stores/preferencesStore';
 import { useUIStore } from '../../stores/uiStore';
 

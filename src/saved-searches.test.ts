@@ -13,7 +13,7 @@ import {
   CreateSavedSearchInput,
 } from './saved-searches.js';
 
-const TEST_DB_DIR = './.test-tmp';
+const TEST_DB_DIR = join('.test-tmp', 'saved-searches');
 const TEST_DB_PATH = join(TEST_DB_DIR, 'saved-searches-test.db');
 
 describe('SavedSearchesManager', () => {

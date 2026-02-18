@@ -129,12 +129,43 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
     process.env.KB_SEARCH_HYBRID_POLICY ?? appConfig.search?.hybridPolicy,
     'degrade'
   );
+  const parseBooleanFlag = (value: string | undefined, fallback: boolean): boolean => {
+    if (value === undefined) return fallback;
+    const normalized = value.trim().toLowerCase();
+    if (['0', 'false', 'no', 'off'].includes(normalized)) return false;
+    if (['1', 'true', 'yes', 'on'].includes(normalized)) return true;
+    return fallback;
+  };
+  const configuredSearchWindow = appConfig.search?.maxSearchWindow;
+  const envSearchWindow = process.env.KB_SEARCH_MAX_WINDOW;
+  const parsedEnvSearchWindow =
+    envSearchWindow !== undefined ? Number.parseInt(envSearchWindow, 10) : Number.NaN;
+  const maxSearchWindow = Number.isInteger(parsedEnvSearchWindow) && parsedEnvSearchWindow > 0
+    ? parsedEnvSearchWindow
+    : Number.isInteger(configuredSearchWindow) && (configuredSearchWindow ?? 0) > 0
+      ? (configuredSearchWindow as number)
+      : 2000;
+  const enforceVectorSqlParity = parseBooleanFlag(
+    process.env.KB_SEARCH_ENFORCE_VECTOR_SQL_PARITY,
+    appConfig.search?.enforceVectorSqlParity ?? true
+  );
+  const vectorDbPath = process.env.KB_VECTOR_DB_PATH ?? './atomized/embeddings/chroma';
   let hybridSearch: HybridSearch | null = null;
-  
+
   try {
-    hybridSearch = new HybridSearch(db, './atomized/embeddings/chroma');
-  } catch (e) {
-    // Semantic search not available (embeddings/ChromaDB not initialized)
+    hybridSearch = new HybridSearch(db, vectorDbPath, {
+      enforceVectorSqlParity,
+    });
+  } catch (error) {
+    logger.warn('Hybrid search initialization failed; semantic/hybrid requests may degrade or fail under strict policy', {
+      reason: error instanceof Error ? error.message : String(error),
+      semanticPolicy,
+      hybridPolicy,
+      vectorDbPath,
+      dbPath: db.getPath(),
+      enforceVectorSqlParity,
+      maxSearchWindow,
+    });
   }
 
   // Error handling middleware
@@ -215,6 +246,37 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
 
       return { results, total, offset };
     }
+  };
+
+  const assertSearchWindow = (searchType: 'semantic' | 'hybrid', page: number, pageSize: number): number => {
+    const requestedWindow = page * pageSize;
+    if (requestedWindow > maxSearchWindow) {
+      throw new AppError(
+        `Requested search window (${requestedWindow}) exceeds configured limit (${maxSearchWindow})`,
+        'INVALID_SEARCH_WINDOW',
+        400,
+        {
+          searchType,
+          page,
+          pageSize,
+          requestedWindow,
+          maxSearchWindow,
+        }
+      );
+    }
+    return requestedWindow;
+  };
+
+  const enforceActiveStoreParity = (units: AtomicUnit[]): AtomicUnit[] => {
+    if (!enforceVectorSqlParity || units.length === 0) {
+      return units;
+    }
+    const uniqueIds = Array.from(new Set(units.map((unit) => unit.id)));
+    const activeUnits = db.getUnitsByIds(uniqueIds, { limit: uniqueIds.length });
+    const byId = new Map(activeUnits.map((unit) => [unit.id, unit]));
+    return units
+      .map((unit) => byId.get(unit.id))
+      .filter((unit): unit is AtomicUnit => Boolean(unit));
   };
 
   const classifySearchFallbackReason = (
@@ -363,11 +425,11 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
       const type = req.query.type as string | undefined;
       const category = req.query.category as string | undefined;
       const offset = (page - 1) * pageSize;
-      const fetchLimit = page * pageSize;
 
       if (!query || query.length === 0) {
         throw new AppError('Search query is required', 'MISSING_QUERY', 400);
       }
+      const fetchLimit = assertSearchWindow('semantic', page, pageSize);
 
       const startTime = Date.now();
 
@@ -393,7 +455,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
       if (hybridSearch) {
         try {
           const hybridResults = await hybridSearch.search(query, fetchLimit, { fts: 0.2, semantic: 0.8 });
-          results = hybridResults.map(r => r.unit);
+          results = enforceActiveStoreParity(hybridResults.map((result) => result.unit));
         } catch (error) {
           semanticFailure = true;
           degradedMode = true;
@@ -422,11 +484,11 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
       if (results.length === 0 && !semanticFailure && semanticPolicy === 'degrade') {
         degradedMode = true;
         fallbackReason = 'no_semantic_results';
-        results = db.searchTextPaginated(query, 0, fetchLimit).results;
+        results = enforceActiveStoreParity(db.searchTextPaginated(query, 0, fetchLimit).results);
       }
 
       if (results.length === 0 && semanticFailure && semanticPolicy === 'degrade') {
-        results = db.searchTextPaginated(query, 0, fetchLimit).results;
+        results = enforceActiveStoreParity(db.searchTextPaginated(query, 0, fetchLimit).results);
       }
 
       if (type) {
@@ -508,6 +570,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
       const startTime = Date.now();
 
       // Check cache
+      const cacheEligible = !source && !format && !includeFacets;
       const cacheKey = searchCache.generateKey({
         query,
         searchType: 'hybrid',
@@ -518,8 +581,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
         // or just append them to the key in a simple way if we wanted to be robust.
       });
       const vectorProfileId = hybridSearch?.getVectorProfileId();
-      // Skip cache if filtering (simplification)
-      const cached = (!source && !format) ? searchCache.get(cacheKey) : null;
+      const cached = cacheEligible ? searchCache.get(cacheKey) : null;
 
       if (cached && !includeFacets) {
         res.json({
@@ -541,7 +603,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
             vectorProfileId,
           },
           stats: { cacheHit: true },
-          searchTime: Date.now() - startTime,
+          searchTime: Math.max(1, Date.now() - startTime),
           timestamp: new Date().toISOString(),
         } as SearchResponse<any>);
 
@@ -561,7 +623,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
       let degradedMode = false;
       let hybridFailure = false;
       const offset = (page - 1) * pageSize;
-      const fetchLimit = page * pageSize;
+      const fetchLimit = assertSearchWindow('hybrid', page, pageSize);
 
       if (hybridSearch) {
         try {
@@ -571,7 +633,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
             { fts: ftsWeight, semantic: semanticWeight },
             { source, format }
           );
-          results = hybridResults.map(r => r.unit);
+          results = enforceActiveStoreParity(hybridResults.map((result) => result.unit));
         } catch (error) {
           hybridFailure = true;
           degradedMode = true;
@@ -608,6 +670,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
           ORDER BY created DESC
           LIMIT ?
         `).all(searchTerm, searchTerm, fetchLimit) as AtomicUnit[];
+        results = enforceActiveStoreParity(results);
       }
 
       if (results.length === 0 && hybridFailure && hybridPolicy === 'degrade') {
@@ -619,6 +682,7 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
           ORDER BY created DESC
           LIMIT ?
         `).all(searchTerm, searchTerm, fetchLimit) as AtomicUnit[];
+        results = enforceActiveStoreParity(results);
       }
 
       const total = results.length;
@@ -637,13 +701,15 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
         ];
       }
 
-      // Cache results
-      searchCache.set(cacheKey, {
-        results: results.map(unit => formatForRequest(req, unit)),
-        total,
-        queryTime: Date.now() - startTime,
-        ttl: 5 * 60 * 1000,
-      });
+      // Cache results (page-scoped payload; cache key already includes page/pageSize).
+      if (cacheEligible) {
+        searchCache.set(cacheKey, {
+          results: pagedResults,
+          total,
+          queryTime: Date.now() - startTime,
+          ttl: 5 * 60 * 1000,
+        });
+      }
 
       res.json({
         success: true,
@@ -1226,8 +1292,14 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
     '/health',
     asyncHandler(async (req: Request, res: Response) => {
       const vectorProfileId = hybridSearch?.getVectorProfileId();
+      const vectorScopeId = hybridSearch?.getVectorScopeId();
+      const vectorEndpoint = hybridSearch?.getVectorEndpoint();
       const strictPoliciesEnabled = semanticPolicy === 'strict' || hybridPolicy === 'strict';
-      const strictReady = strictPoliciesEnabled ? Boolean(hybridSearch && vectorProfileId) : Boolean(hybridSearch);
+      const semanticBackendReady = Boolean(hybridSearch && vectorProfileId);
+      const hybridBackendReady = Boolean(hybridSearch && vectorProfileId);
+      const strictReady = strictPoliciesEnabled
+        ? semanticBackendReady && hybridBackendReady
+        : Boolean(hybridSearch);
       const payload = {
         status: 'healthy',
         timestamp: new Date().toISOString(),
@@ -1243,7 +1315,13 @@ export function createApiRouter(db: KnowledgeDatabase): Router {
           },
           search: {
             strictReady,
+            semanticBackendReady,
+            hybridBackendReady,
             vectorProfileId: vectorProfileId || null,
+            vectorScopeId: vectorScopeId || null,
+            vectorEndpoint: vectorEndpoint || null,
+            enforceVectorSqlParity,
+            maxSearchWindow,
           },
         },
       };
