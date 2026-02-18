@@ -9,16 +9,18 @@ on:
       - master
     paths:
       - web-react/**
+      - packages/github-pages-index-core/**
       - scripts/sync-github-pages.mjs
       - scripts/validate-github-pages.mjs
-      - scripts/github-pages-sync-core.mjs
-      - scripts/github-pages-validate-core.mjs
       - scripts/check-github-pages-core-drift.mjs
+      - scripts/export-github-pages-telemetry.mjs
+      - scripts/github-pages-alerts.mjs
       - .github/workflows/pages.yml
 
 permissions:
   contents: read
   pages: write
+  issues: write
   id-token: write # allow-secret: github oidc permission key
 
 concurrency:
@@ -38,7 +40,7 @@ jobs:
         with:
           node-version: "20"
           cache: npm
-          cache-dependency-path: web-react/package-lock.json
+          cache-dependency-path: package-lock.json
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5
@@ -65,12 +67,14 @@ jobs:
           echo "VITE_BASE_PATH=$BASE_PATH" >> "$GITHUB_ENV"
           echo "Resolved VITE_BASE_PATH=$BASE_PATH"
 
-      - name: Install web dependencies
-        working-directory: web-react
+      - name: Install dependencies
         run: npm install
 
       - name: Guard GitHub Pages core drift
         run: npm run check:github-pages-core
+
+      - name: Dry-run GitHub Pages fallback/stale fixture tests
+        run: npm run test:github-pages-core
 
       - name: Sync GitHub Pages index
         env:
@@ -78,7 +82,25 @@ jobs:
         run: npm run sync:github-pages
 
       - name: Validate GitHub Pages index
-        run: npm run validate:github-pages -- --max-age-hours 72 --max-errored 10 --max-unreachable 5
+        run: npm run validate:github-pages -- --max-age-hours 72 --max-errored 8 --max-unreachable 5
+
+      - name: Emit GitHub Pages telemetry
+        run: npm run telemetry:github-pages
+
+      - name: Evaluate GitHub Pages alert rules
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: npm run alerts:github-pages
+
+      - name: Upload GitHub Pages telemetry artifacts
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: github-pages-telemetry-${{ github.run_id }}
+          path: |
+            .test-tmp/github-pages-telemetry.json
+            .test-tmp/github-pages-alerts.json
+          if-no-files-found: ignore
+          retention-days: 14
 
       - name: Build web app
         working-directory: web-react

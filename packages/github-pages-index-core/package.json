@@ -1,0 +1,13 @@
+{
+  "name": "@meta-organvm/github-pages-index-core",
+  "version": "2.1.1",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts",
+      "import": "./src/index.mjs"
+    }
+  },
+  "types": "./src/index.d.ts"
+}

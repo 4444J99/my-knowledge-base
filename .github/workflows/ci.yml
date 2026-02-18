@@ -8,6 +8,10 @@ on:
     branches: [master, main]
     types: [opened, synchronize, reopened, ready_for_review]
 
+permissions:
+  contents: read
+  issues: write
+
 concurrency:
   group: ci-${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
   cancel-in-progress: true
@@ -43,13 +47,36 @@ jobs:
       - name: Guard GitHub Pages core drift
         run: npm run check:github-pages-core
 
+      - name: Dry-run GitHub Pages fallback/stale fixture tests
+        run: npm run test:github-pages-core
+
       - name: Sync GitHub Pages index
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: npm run sync:github-pages
 
       - name: Validate GitHub Pages data contract
-        run: npm run validate:github-pages -- --max-age-hours 72 --max-errored 10 --max-unreachable 5
+        run: npm run validate:github-pages -- --max-age-hours 72 --max-errored 8 --max-unreachable 5
+
+      - name: Emit GitHub Pages telemetry
+        run: npm run telemetry:github-pages
+
+      - name: Evaluate GitHub Pages alert rules
+        if: github.event_name != 'pull_request'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: npm run alerts:github-pages
+
+      - name: Upload GitHub Pages telemetry artifacts
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: github-pages-telemetry-${{ github.run_id }}
+          path: |
+            .test-tmp/github-pages-telemetry.json
+            .test-tmp/github-pages-alerts.json
+          if-no-files-found: ignore
+          retention-days: 7
 
       - name: TypeScript type check
         run: npx tsc --noEmit

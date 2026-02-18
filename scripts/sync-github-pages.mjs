@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 import { resolve } from 'node:path';
-import { DEFAULT_OWNERS, syncGitHubPagesDirectory } from './github-pages-sync-core.mjs';
+import { DEFAULT_OWNERS, syncGitHubPagesDirectory } from '@meta-organvm/github-pages-index-core';
 
 const DEFAULT_OUTPUT = 'web-react/src/data/github-pages.json';
 const DEFAULT_CURATION = 'web-react/src/data/github-pages-curation.json';

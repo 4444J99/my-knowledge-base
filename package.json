@@ -19,7 +19,10 @@
     "build:desktop": "npm run -w apps/desktop build",
     "sync:github-pages": "node scripts/sync-github-pages.mjs --output web-react/src/data/github-pages.json --curation web-react/src/data/github-pages-curation.json",
     "validate:github-pages": "node scripts/validate-github-pages.mjs --input web-react/src/data/github-pages.json",
+    "telemetry:github-pages": "node scripts/export-github-pages-telemetry.mjs --input web-react/src/data/github-pages.json --output .test-tmp/github-pages-telemetry.json --max-age-hours 72 --max-errored 8 --max-unreachable 5",
+    "alerts:github-pages": "node scripts/github-pages-alerts.mjs --input web-react/src/data/github-pages.json --max-errored 8 --max-unreachable 5 --window-hours 24 --output .test-tmp/github-pages-alerts.json",
     "check:github-pages-core": "node scripts/check-github-pages-core-drift.mjs",
+    "test:github-pages-core": "node --test packages/github-pages-index-core/test/core-fixtures.test.mjs",
     "start": "node dist/web-server.js",
     "prepare-db": "npm run migrate && npm run seed",
     "prestart": "npm run prepare-db",
@@ -109,6 +112,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@meta-organvm/github-pages-index-core": "file:packages/github-pages-index-core",
     "@anthropic-ai/sdk": "^0.32.1",
     "@mozilla/readability": "^0.6.0",
     "@types/js-yaml": "^4.0.9",

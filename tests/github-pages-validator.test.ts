@@ -3,7 +3,7 @@ import { mkdtempSync, rmSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { tmpdir } from 'node:os';
 
-const { validateGitHubPagesIndex } = await import('../scripts/github-pages-validate-core.mjs');
+const { validateGitHubPagesIndex } = await import('@meta-organvm/github-pages-index-core');
 
 function writeFixture(payload: unknown) {
   const dir = mkdtempSync(join(tmpdir(), 'github-pages-validator-'));

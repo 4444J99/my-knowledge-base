@@ -236,14 +236,18 @@ Required repository variables for Pages deployment:
 
 GitHub Pages index hardening policy:
 - Schema compatibility: `github-pages-index.v2` and `github-pages-index.v2.1` are both accepted while clients migrate.
+- Migration notes: `docs/GITHUB_PAGES_SCHEMA_MIGRATION.md`.
 - Deploy continuity posture:
   - `pages.yml` sync step runs in non-strict mode and falls back to the last known-good JSON file on API outages.
-  - Validation gate enforces `max-age-hours=72`, `max-errored=10`, `max-unreachable=5`.
+  - Validation gate enforces `max-age-hours=72`, `max-errored=8`, `max-unreachable=5`.
+- Alerting rules:
+  - Open alert when fallback sync occurs more than once in 24h.
+  - Open alert when errored repos exceed budget (`>8`).
 - Baseline snapshot (2026-02-17): `total=85`, `built=76`, `errored=6`, `unreachable=0`.
-- Ratchet target (next checkpoint): keep errored repos `<=8` and unreachable repos `<=3`.
+- Active budget (2026-02-18 onward): keep errored repos `<=8` and unreachable repos `<=5`.
 - Local verification commands:
   - `npm run sync:github-pages -- --strict`
-  - `npm run validate:github-pages -- --max-age-hours 72 --max-errored 10 --max-unreachable 5`
+  - `npm run validate:github-pages -- --max-age-hours 72 --max-errored 8 --max-unreachable 5`
 
 ## Kubernetes Deployment
 

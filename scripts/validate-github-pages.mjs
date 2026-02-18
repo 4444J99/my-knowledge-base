@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 import { resolve } from 'node:path';
-import { validateGitHubPagesIndex } from './github-pages-validate-core.mjs';
+import { validateGitHubPagesIndex } from '@meta-organvm/github-pages-index-core';
 
 const args = process.argv.slice(2);
 
